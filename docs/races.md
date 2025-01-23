@@ -54,7 +54,7 @@ Différentes races sont disponibles dans le monde :
 
 # [[Kobold]]
 
-# [[Homme-lézard]]
+# [[Homme-Lézard]]
 
 # [[Minotaure]]
 
@@ -86,7 +86,7 @@ Différentes races sont disponibles dans le monde :
 
 # [[Mandragore]]
 
-# [[Homme-souris]]
+# [[Homme-Souris]]
 
 # [[Autognome]]
 

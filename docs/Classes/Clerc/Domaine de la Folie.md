@@ -12,7 +12,7 @@ Vos pouvoirs divins viennent d'un dieu fou, un être de paranoïa, de chaos et d
 
 ## Apprenti Dérangé
 
-Lorsque vous choisissez ce domaine au niveau 1, vous apprenez un cantrip aléatoire de la liste de sorts du [[magicien]], choisi par le MJ, qui compte comme un cantrip de clerc pour vous. Lorsque vous terminez un repos, le MJ change ce cantrip.
+Lorsque vous choisissez ce domaine au niveau 1, vous apprenez un cantrip aléatoire de la liste de sorts du [[Magicien]], choisi par le MJ, qui compte comme un cantrip de clerc pour vous. Lorsque vous terminez un repos, le MJ change ce cantrip.
 
 ## Instinct du Lunatique
 

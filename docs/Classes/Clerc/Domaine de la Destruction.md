@@ -11,7 +11,7 @@ Certains dieux ne se délectent que de l'effondrement des murs et l'incendie des
 | 9              | [[Brume mortelle]], [[cône de froid]]               |
 ## Apprenti Dévastateur
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[Magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
 
 ## Canal Divin : Calamité
 

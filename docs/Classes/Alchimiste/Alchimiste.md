@@ -69,7 +69,7 @@ En tant qu'Alchimiste, vous disposez des compétences de classes suivantes.
 
 **Armure :** [[Armures Légères]]
 
-**Armes :** [[Armes Simples]], [[bombes]]
+**Armes :** [[Armes Simples]], [[Bombes]]
 
 **Outils :** [[Matériel d'alchimiste]], [[kit d'herboriste]]
 
@@ -92,7 +92,7 @@ Vous avez appris beaucoup sur l'alchimie pendant vos études. À partir du nivea
 
 ## Bombes
 
-Au niveau 1, vous pouvez créer des [[bombes]] alchimiques volatiles en utilisant votre matériel d'alchimiste. Lorsque vous terminez un repos court ou long, vous pouvez créer un nombre de bombes égal à 10 + le double de votre niveau d'alchimiste. Pour vous, le coût des matériels nécessaire pour créer ces bombes est négligeable. Après 24 heures, une bombe inutilisée devient inerte.
+Au niveau 1, vous pouvez créer des [[Bombes]] alchimiques volatiles en utilisant votre matériel d'alchimiste. Lorsque vous terminez un repos court ou long, vous pouvez créer un nombre de bombes égal à 10 + le double de votre niveau d'alchimiste. Pour vous, le coût des matériels nécessaire pour créer ces bombes est négligeable. Après 24 heures, une bombe inutilisée devient inerte.
 
 **Amorcer une Bombe.** Une fois par tour, vous pouvez prendre l'action Utiliser un Objet pour amorcer une bombe avec des réactifs explosifs et effectuer une attaque avec, augmentant ainsi le potentiel explosif de la bombe. Lorsque vous faites ceci, vous pouvez ajouter votre modificateur d'Intelligence plutôt que de Dextérité à votre jet de dégâts.
 De plus, lorsque vous lancez une bombe de cette façon, les dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5 (2d10), le niveau 11 (3d10), et le niveau 17 (4d10).
@@ -161,7 +161,7 @@ Lorsque vous finissez un repos court, vous pouvez choisir de récupérer la tota
 
 ## Découvertes
 
-Au cours de vos recherches, vous avez fait un certain nombre de [[découvertes]] regardant la nature même de l'alchimie. Au niveau 4, vous gagnez deux découvertes de votre choix. Lorsque vous gagnez certains niveaux dans cette classe, vous gagnez des découvertes additionnelles de votre choix, comme montrée dans la colonne Découvertes Connues de la table de l'Alchimiste.
+Au cours de vos recherches, vous avez fait un certain nombre de [[Découvertes]] regardant la nature même de l'alchimie. Au niveau 4, vous gagnez deux découvertes de votre choix. Lorsque vous gagnez certains niveaux dans cette classe, vous gagnez des découvertes additionnelles de votre choix, comme montrée dans la colonne Découvertes Connues de la table de l'Alchimiste.
 
 De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer une des découvertes que vous connaissez avec une autre de votre choix.
 
@@ -189,4 +189,4 @@ Au niveau 20, vous réalisez l’accomplissement ultime pour un alchimiste : une
  - Chaque fois que vous finissez un repos court, regagnez tous vos dés de réactifs.
  - Vous pouvez concocter des potions pour une action, plutôt que d'attendre 10 minutes.
  - Vous vieillissez 10 fois plus lentement que la normale, et vous ne pouvez pas être vieilli magiquement.
-De plus, vous apprenez la formule de la [[bombe nucléaire]].
+De plus, vous apprenez la formule de la [[Bombe Nucléaire]].

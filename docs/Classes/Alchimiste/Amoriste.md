@@ -4,7 +4,7 @@ L'étude de l'alchimie affectant l'esprit est délicate, pratiquée seulement pa
 Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise des compétences Persuasion et Tromperie.
 
 ## Formule : Bombe de Phéromones
-À partir du niveau 2, vous connaissez la formule pour créer une [[bombe de phéromones]].
+À partir du niveau 2, vous connaissez la formule pour créer une [[Bombe de Phéromones]].
 
 ## Personnalité Magnétique
 À partir du niveau 6, vous pouvez ajouter votre modificateur d'Intelligence aux jets de Charisme que vous faites.

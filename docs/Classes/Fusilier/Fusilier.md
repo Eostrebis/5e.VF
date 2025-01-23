@@ -128,7 +128,7 @@ Vous avez quatre dés de risque, qui sont des d8s. Vous gagnez des dés de risqu
 
 ### Utiliser les Dés de Risque
 
-Une fois par tour, vous pouvez dépenser un dé de risque pour réaliser un [[faits|fait]].
+Une fois par tour, vous pouvez dépenser un dé de risque pour réaliser un [[Faits|fait]].
 
 ### Jets de Sauvegarde
 

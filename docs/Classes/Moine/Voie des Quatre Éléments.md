@@ -4,7 +4,7 @@ Beaucoup de moines de cette tradition tatouent leur corps avec une représentati
 
 ## Disciple des Éléments
 
-Lorsque vous choisissez cette tradition au niveau 3, vous apprenez les [[disciplines magiques]] qui manipulent les quatre éléments. Une discipline requiert des points de ki à chaque fois que vous l'utilisez.
+Lorsque vous choisissez cette tradition au niveau 3, vous apprenez les [[Disciplines Magiques]] qui manipulent les quatre éléments. Une discipline requiert des points de ki à chaque fois que vous l'utilisez.
 
 Vous connaissez la discipline [[Affinité Élémentaire]] et une autre de votre choix. Vous apprenez une autre discipline lorsque vous atteignez les niveaux 6, 11 et 17.
 

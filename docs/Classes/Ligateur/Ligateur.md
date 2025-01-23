@@ -69,7 +69,7 @@ Pendant vos études, vous avez découvert le moyen de percer la frontière entre
 
 ### Rituel d'Attachement
 
-Vous pouvez dépenser 10 minutes à réaliser un rituel spécial d'attachement, qui consiste à dessiner les symboles de vestiges à la craie, les appeler par leurs noms et réaliser une performance ésotérique. Pendant ce rituel, des [[vestiges]] se manifestent par des signes tangibles alors qu'ils se pressent contre les frontières du réel et trouvent refuge dans votre âme.
+Vous pouvez dépenser 10 minutes à réaliser un rituel spécial d'attachement, qui consiste à dessiner les symboles de vestiges à la craie, les appeler par leurs noms et réaliser une performance ésotérique. Pendant ce rituel, des [[Vestiges]] se manifestent par des signes tangibles alors qu'ils se pressent contre les frontières du réel et trouvent refuge dans votre âme.
 
 Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges lorsque vous montez de niveau, comme affiché dans la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure à votre niveau de ligateur.
 
@@ -84,7 +84,7 @@ Le Charisme est votre caractéristique d'incantation pour tous les sorts et pouv
 
 ## Esprits Mineurs
 
-À partir du niveau 2, vous pouvez utiliser l'énergie résiduelle d'un de vos rituels pour recruter deux [[esprits mineurs]]. Ces esprits apparaissent faiblement autour de vous, et vous pouvez les rendre invisible ou visible une fois à chacun de vos tours (sans action). 
+À partir du niveau 2, vous pouvez utiliser l'énergie résiduelle d'un de vos rituels pour recruter deux [[Esprits Mineurs]]. Ces esprits apparaissent faiblement autour de vous, et vous pouvez les rendre invisible ou visible une fois à chacun de vos tours (sans action). 
 
 Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des niveaux dans cette classe, comme renseigné dans la table du Ligateur. Lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer l'un des esprits mineurs auxquels vous pouvez vous lier avec un autre.
 

@@ -4,7 +4,7 @@ Pour chaque alchimiste qui a dévoué sa vie à aider les malades et les infirme
 À partir du moment où vous choisissez ce champ d'études au niveau 2, vous gagnez la découverte [[Empoisonneur]]. Jusqu'à ce que vous atteigniez le niveau 3, vous possédez 2 dés de réactifs qui ne peuvent être utilisés que pour fabriquer des poisons à l'aide de cette découverte. Cette découverte ne compte pas dans le total des découvertes que vous connaissez, et vous ne pouvez pas la remplacer plus tard. De plus, lorsque vous infligez des dégâts de poison à une créature, vous ignorez la résistance aux poisons, et vous traitez l'immunité comme une résistance.
 
 ## Formule : Bombe Venimeuse
-À partir du niveau 2, vous connaissez la formule pour créer une [[bombe venimeuse]].
+À partir du niveau 2, vous connaissez la formule pour créer une [[Bombe Venimeuse]].
 
 ## Assassin Alchimique
 À partir du niveau 6, vous savez appliquer du poison sans être vu. Vous avez l'avantage aux jets de Dextérité (Escamotage) pour ajouter du poison à de la nourriture ou de l'eau, pour appliquer du poison sur une arme sans être vu, ou pour placer une fiole de poison sur une autre créature sans qu'elle remarque.

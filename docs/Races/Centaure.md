@@ -3,7 +3,7 @@ subrace: false
 ---
 ### Description
 
-Les centaures galopent à travers le multivers et l'on peut retracer leurs origines à de nombreux mondes. Les centaures sont généralement originaires de la Féerie et résonnent magiquement avec le monde naturel. Au-dessus des hanches, ils ressemblent à des [[elfe|elfes]], affichant toutes les variétés de peaux elfes. En dessous, ils ont le corps de chevaux.
+Les centaures galopent à travers le multivers et l'on peut retracer leurs origines à de nombreux mondes. Les centaures sont généralement originaires de la Féerie et résonnent magiquement avec le monde naturel. Au-dessus des hanches, ils ressemblent à des [[Elfe|elfes]], affichant toutes les variétés de peaux elfes. En dessous, ils ont le corps de chevaux.
 
 
 ![[Centaure.png]]
@@ -19,7 +19,7 @@ Les centaures galopent à travers le multivers et l'on peut retracer leurs origi
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Sylvain|Sylvain]]. 
 
-**Âge.** Les centaures grandissent à peu près au même rythme que les [[humain|humains]].
+**Âge.** Les centaures grandissent à peu près au même rythme que les [[Humain|humains]].
 
 **Taille.** Les centaures font entre 1m80 et 2m10, avec leur partie équine faisant 1m20 au garrot. Votre taille est Moyenne.
 

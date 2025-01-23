@@ -4,7 +4,7 @@ Beaucoup d'alchimistes à l'esprit pratique prennent le rôle d'apothicaire : le
 Lorsque vous choisissez ce champ d'études au niveau, vous gagnez la maîtrise de la compétence Médecine.
 
 ## Formule : Bombe Antidouleur
-À partir du niveau 2, vous connaissez la formule pour créer une [[bombe antidouleur]].
+À partir du niveau 2, vous connaissez la formule pour créer une [[Bombe Antidouleur]].
 
 ## Lancer de Potion
 À partir du niveau 6, vous avez développé un mécanisme chimique qui vous permet de délivrer des potions plus efficacement à des alliés distants. Vous pouvez utiliser votre action pour lancer une potion à une créature volontaire ou inconsciente à moins de 20 ft. de vous. La cible gagne les effets de la potion comme si elle l'avait consommé normalement.

@@ -28,7 +28,7 @@ Travaillez avec votre MJ pour déterminer comment les sorcières sont perçues d
 
 ### Création Rapide
 
-Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Constitution. Puis, choisissez les cantrips [[aspersion d'acide]], [[chair de poule]], [[abracadabra]] et [[illusion mineure]], ainsi que les sorts [[fou rire]] et [[vague tonnante]]. Choisissez la malédiction [[Hideuse]], ainsi que les maléfices [[mauvais œil]] et [[mauvaise fortune]]. Enfin, choisissez l'historique de votre choix qui illustre votre vie avant d'avoir été maudite.
+Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Constitution. Puis, choisissez les cantrips [[aspersion d'acide]], [[chair de poule]], [[abracadabra]] et [[illusion mineure]], ainsi que les sorts [[fou rire]] et [[vague tonnante]]. Choisissez la malédiction [[Hideuse]], ainsi que les maléfices [[Mauvais Œil]] et [[Mauvaise Fortune]]. Enfin, choisissez l'historique de votre choix qui illustre votre vie avant d'avoir été maudite.
 
 | **La Sorcière |                   |                                                                                                                                         |                  |                 |              |     |      |      |      |      |      |      |      |      |
 | ------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ------------ | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -126,13 +126,13 @@ Vous pouvez utiliser un [[focalisateur arcanique]] comme focalisateur d'incantat
 
 ## Malédiction de Sorcière
 
-Vous êtes atteint par une terrible [[malédiction de sorcière|malédiction]], qui affecte aussi bien votre corps que votre âme. Au niveau 1, choisissez la forme que prend cette malédiction.
+Vous êtes atteint par une terrible [[Malédiction de Sorcière|malédiction]], qui affecte aussi bien votre corps que votre âme. Au niveau 1, choisissez la forme que prend cette malédiction.
 
 ## Maléfices
 
-Vous apprenez de puissantes incantations, appelées [[maléfices]], qui ont la même origine que la sinistre magie qui vous a maudit.
+Vous apprenez de puissantes incantations, appelées [[Maléfices]], qui ont la même origine que la sinistre magie qui vous a maudit.
 
-Au niveau 1, vous gagnez deux [[maléfices]] de votre choix. Lorsque vous atteignez certains niveaux dans cette classe, vous gagnez de nouveaux maléfices, comme détaillé dans la table de la Sorcière. De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer un maléfice que vous connaissez par un autre.
+Au niveau 1, vous gagnez deux [[Maléfices]] de votre choix. Lorsque vous atteignez certains niveaux dans cette classe, vous gagnez de nouveaux maléfices, comme détaillé dans la table de la Sorcière. De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer un maléfice que vous connaissez par un autre.
 
 Sauf mention du contraire, si un maléfice requiert un jet d'attaque ou de sauvegarde, il utilise votre modificateur aux attaques avec un sort et votre DD de sauvegarde des sorts. Chaque maléfice nécessite une composante verbale ou somatique (votre choix).
 
@@ -151,7 +151,7 @@ Au niveau 2, vous apprenez le sort [[appel de familier]] et pouvez le lancer com
  - Votre familier agit juste avant ou après vous dans l'initiative (votre choix).
  - Une fois par tour pour une action ou une action bonus, vous pouvez commander mentalement votre familier afin qu'il utilise sa réaction pour réaliser une attaque.
  - Vous pouvez utiliser le sort [[appel de familier]] pour faire passer à travers votre familier des sorts qui n'ont pas une portée de toucher.
- - Lorsque vous lancez le sort, vous choisir une des formes habituelles ou une des formes spéciales suivantes : [[escargot de la mort]], [[livre volant]], [[homoncule]], [[Smacre]], [[Méduse Lune]], [[Ami Caillou]], [[pseudodragon]], [[Poupée]], [[lutin]], [[soldat d'étain]], [[louveteau d'hiver]] ou [[golem de laine]].
+ - Lorsque vous lancez le sort, vous choisir une des formes habituelles ou une des formes spéciales suivantes : [[Escargot de la Mort]], [[Livre Volant]], [[homoncule]], [[Smacre]], [[Méduse Lune]], [[Ami Caillou]], [[pseudodragon]], [[Poupée]], [[lutin]], [[soldat d'étain]], [[louveteau d'hiver]] ou [[golem de laine]].
 
 
 		En tant que sorcière, les familiers que vous invoquez sont infusés d'une magie sinistre, et ils bénéficient des effets suivants :
@@ -193,7 +193,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Familier Amélioré
 
-Au niveau 7, les attaques de votre familier sont considérées comme magiques vis-à-vis des résistances et immunités. De plus, vous choisir les formes suivantes pour votre familier : [[wyrmling de dragon de bronze]], [[fantiot]], [[Grep]], [[diablotin]] ou [[quasit]].
+Au niveau 7, les attaques de votre familier sont considérées comme magiques vis-à-vis des résistances et immunités. De plus, vous choisir les formes suivantes pour votre familier : [[wyrmling de dragon de bronze]], [[Fantiot]], [[Grep]], [[diablotin]] ou [[quasit]].
 
 ## Agonie Maudite
 
@@ -203,7 +203,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire
 
 ## Grand Maléfice
 
-Au niveau 11, vous avez perfectionné les magies maléfiques en vous. Vous apprenez un [[grand maléfice]], et vous en apprenez également un aux niveaux 13, 15 et 18.
+Au niveau 11, vous avez perfectionné les magies maléfiques en vous. Vous apprenez un [[Grand Maléfice]], et vous en apprenez également un aux niveaux 13, 15 et 18.
 
 ## Maître des Maléfices
 

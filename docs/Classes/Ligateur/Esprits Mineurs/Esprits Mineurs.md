@@ -11,4 +11,4 @@
 |                       [[Pierre]]                       | 1d8 contondats  |  Attaque de Mêlée  |
 |                      [[Pleurote]]                      |  1d8 de poison  |  JdS Constitution  |
 |                      [[Torchage]]                      |   1d6 de feu    | Attaque à Distance |
-| [[docs/Classes/Ligateur/Esprits Mineurs/Totem\|Totem]] |  1d8 perçants   |  Attaque de Mêlée  |
+| [[Totem\|Totem]] |  1d8 perçants   |  Attaque de Mêlée  |

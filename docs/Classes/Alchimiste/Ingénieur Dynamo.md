@@ -38,7 +38,7 @@ Comme une des premières thèses alchimiques le dit : si l'énergie fondamentale
 | 20                                | 13           | 7                | 4                    |
 
 ## Formule : Bombe Arcanique
-À partir du niveau 6, vous connaissez la formule pour créer une [[bombe arcanique]].
+À partir du niveau 6, vous connaissez la formule pour créer une [[Bombe Arcanique]].
 
 ## Contre-Décharge
 À partir du niveau 10, quand une créature que vous voyez lance un sort qui vous affecte, vous pouvez utiliser votre réaction pour dépenser une dynamo de sorts afin de libérer une vague d'énergie magique disruptive. Si le sort vous demande un jet de sauvegarde pour résister à ses effets, vous avez l'avantage à ce jet de sauvegarde. Si le sort inflige des dégâts, vous avez la résistance contre. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser avant d'avoir fini un repos long.

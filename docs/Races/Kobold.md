@@ -38,7 +38,7 @@ Il existe deux types de kobolds différents : les [[#kobolds draconiques]] et le
 
  - *Débrouillardise.* Vous maîtrisez l'une des compétences suivantes : Arcane, Investigation, Médecine, Escamotage ou Survie.
  - *Défiance.* Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
- - *Sorcellerie Draconique.* Vous connaissez un cantrip de votre choix de la liste de sort de l'[[ensorceleur]]. L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ce cantrip (à choisir lorsque vous sélectionnez cette race).
+ - *Sorcellerie Draconique.* Vous connaissez un cantrip de votre choix de la liste de sort de l'[[Ensorceleur]]. L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ce cantrip (à choisir lorsque vous sélectionnez cette race).
 
 ## Kobolds Souterrains
 

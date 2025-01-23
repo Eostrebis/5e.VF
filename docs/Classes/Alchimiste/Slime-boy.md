@@ -4,7 +4,7 @@ Non surprenamment, les vases, les gelées et les slimes sont un sujet d'études 
 Dès que vous choisissez ce champ d'études au niveau 2, vous développez un mélange de phéromones qui attendrit les slimes envers vous. À chaque fois qu'une Vase essaye de vous attaquer, elle doit réussir un jet de sauvegarde de Sagesse contre votre jet de sauvegarde de bombe. Sur un échec, l'attaque rate. Sur un succès, la Vase est immunisée à cette compétence pour les prochaines 24 heures.
 
 ## Formule : Bombe de Slime
-À partir du niveau 2, vous connaissez la formule pour créer une [[bombe de slime]].
+À partir du niveau 2, vous connaissez la formule pour créer une [[Bombe de Slime]].
 
 ## Vases en Bouteilles
 À partir du niveau 6, vous avez appris une astuce alchimique pour condenser les vases dans un état encore plus compact, et les placer dans un état de stase pour les utiliser plus tard. Lorsque vous concoctez une potion, vous pouvez dépenser deux dés de réactifs pour créer une [[Bouteille de Vase]]. Vos Vases utilisent votre modificateur d'Intelligence + votre bonus de maîtrise pour leurs jets d'attaques, et utilisent DD de sauvegarde de bombes à la place de leur DD de sauvegarde.

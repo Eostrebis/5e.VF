@@ -11,7 +11,7 @@ La magie est une énergie qui infuse le multivers et qui alimente à la fois la 
 | 9               | [[Contrat]], [[cercle de téléportation]]            |
 ## Apprenti Arcanique
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de la compétence Arcane et vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de la compétence Arcane et vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[Magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
 
 ## Canal Divin : Abjuration Arcanique
 

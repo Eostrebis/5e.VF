@@ -95,7 +95,7 @@ title: Dons
 | Telephatic                   | [[Télépathe]]                      |
 | Tough                        | [[Robuste]]                        |
 | Vigor of the Hill Giant      | [[Vigueur du Géant des Collines]]  |
-| War Caster                   | [[mage de guerre]]             |
+| War Caster                   | [[Mage de Guerre]]             |
 | Weapon Master                | [[Maître d'Armes]]                 |
 | Wood Elf Magic               | [[Magie des Elfes des Bois]]       |
 | Battle Adept                 | [[Habitué aux Batailles]]          |

@@ -16,7 +16,7 @@ Les tortues exhibent une forte variété de couleurs et de patterns sur leurs ca
 
 **Langage.** Vous parlez le Commun et le Reptilien ou l'Aquatique.
 
-**Âge.** Les tortues grandissent à une vitesse proche des [[humain|humains]], mais peuvent vivre jusqu'à 250 ans.
+**Âge.** Les tortues grandissent à une vitesse proche des [[Humain|humains]], mais peuvent vivre jusqu'à 250 ans.
 
 **Taille.** Votre taille est Moyenne ou Petite. Les tortues de taille Moyenne ont une carrure proche des humains, tandis que les tortues de taille Petite se rapprochent des halfelins.
 

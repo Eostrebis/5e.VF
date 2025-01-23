@@ -54,7 +54,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts de magici
 
 ## Pan, T'es Mort !
 
-Au niveau 3, vous pouvez utiliser les [[faits]] avec les attaques du sort [[doigts flingueurs]]. De plus, lorsque vous touchez une créature avec les attaques de [[doigts flingueurs]], vous pouvez dépenser un dé de risque et une action bonus pour infliger 1d8 dégâts de force supplémentaires à la cible.
+Au niveau 3, vous pouvez utiliser les [[Faits]] avec les attaques du sort [[doigts flingueurs]]. De plus, lorsque vous touchez une créature avec les attaques de [[doigts flingueurs]], vous pouvez dépenser un dé de risque et une action bonus pour infliger 1d8 dégâts de force supplémentaires à la cible.
 
 ## Tir Ensorcelé
 

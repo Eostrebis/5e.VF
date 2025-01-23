@@ -96,7 +96,7 @@ Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vou
 Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 ft., vous pouvez utiliser votre réaction pour imposer le désavantage au jet d'attaque. Vous devez manier une arme ou un bouclier.
 
 ### Guerrier Béni
-Vous apprenez deux cantrips de votre choix parmi la liste de sorts du [[clerc]]. Ils comptent comme des sorts de paladin pour vous, et le Charisme est votre caractéristique d'incantation pour ces sorts. Lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer l'un de ces cantrips par un autre de la liste de sorts du clerc.
+Vous apprenez deux cantrips de votre choix parmi la liste de sorts du [[Clerc]]. Ils comptent comme des sorts de paladin pour vous, et le Charisme est votre caractéristique d'incantation pour ces sorts. Lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer l'un de ces cantrips par un autre de la liste de sorts du clerc.
 
 ### Combat à l'Aveugle
 Vous disposez de la vision aveugle sur 10 ft. À l'intérieur de ce rayon, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes [[aveuglé]] ou dans les ténèbres. De plus, vous pouvez voir une créature [[invisible]] dans cette portée, sauf si elle se cache de vous.
