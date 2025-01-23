@@ -79,9 +79,15 @@
             if (window[id]){
                 button.classList.remove("off");
                 button.classList.add("on");
+                document.querySelectorAll("."+id).forEach(sub_block => {
+                    sub_block.style.display = "block";
+                })
             } else {
                 button.classList.remove("on");
                 button.classList.add("off");
+                document.querySelectorAll("."+id).forEach(sub_block => {
+                    sub_block.style.display = "display";
+                })
             }
         });
     }
