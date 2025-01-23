@@ -139,6 +139,14 @@
 			"subrace":true,
 			"vanilla":true,
 			"description":"Pour les gnomes, être en vie est la meilleure chose qui soit, et ils tirent tout le plaisir possible de leurs trois à cinq siècles de vie."
+		},
+		{
+			"name":"Gobelin",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifey de la Féerie."
 		}
 	]
 }
