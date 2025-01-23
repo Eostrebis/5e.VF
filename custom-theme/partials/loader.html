@@ -85,10 +85,12 @@
                 // What happens if window[id] != true ? 
                 // We should check for value here !
                 console.log(id);
-                document.querySelectorAll(":not(."+id+")").forEach(sub_block => {
-                    console.log(sub_block);
-                    sub_block.style.display = "none";
-                })
+                if (window[id] === true){
+                    document.querySelectorAll(":not(."+id+")").forEach(sub_block => {
+                        console.log(sub_block);
+                        sub_block.style.display = "none";
+                    })
+                }
             } else {
                 button.classList.remove("on");
                 button.classList.add("off");
