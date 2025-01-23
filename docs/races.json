@@ -21,7 +21,7 @@
 		{
 			"name":"vanilla",
 			"type":"bool",
-			"button":false,
+			"button":true,
 			"text": "Classique"
 		}
 	],
