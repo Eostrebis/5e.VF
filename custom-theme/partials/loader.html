@@ -96,7 +96,11 @@
                                         window[sort.name] = sort.possibles[0];
                                     } else {
                                         index = sort.possibles.indexOf(window[sort.name]);
-                                        window[sort.name] = sort.possibles[(index+1)%(sort.possibles.length)];
+                                        if (index === sort.possibles.length-1){
+                                            window[sort.name]  = ""
+                                        } else {
+                                            window[sort.name] = sort.possibles[(index + 1) % (sort.possibles.length)];
+                                        }
                                         document.getElementById(sort.name+"b").textContent = sort.text.replace("%C",window[sort.name]);
                                     }
                             }
