@@ -86,7 +86,8 @@
                 json.sort.forEach(sort => {
                     if (sort.button){
                         button = document.createElement("button");
-                        button.classList.add("button")
+                        button.classList.add("button");
+                        button.classList.add("off");
                         button.id = sort.name+"b";
                         switch (sort.type){
                             case "bool":
