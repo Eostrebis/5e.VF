@@ -188,10 +188,13 @@
                             } else {
                                 option[id].forEach(opt =>{
                                     block.classList.add(id+'-'+opt)
-                                    var sub_icon = document.createElement("img");
-                                    sub_icon.classList.add("icon")
-                                    sub_icon.src = "../Illustrations/"+window[id+"_"+opt+"_img"];
-                                    name.appendChild(sub_icon);
+                                    if (window[id+"_"+opt+"_img"]){
+                                        var sub_icon = document.createElement("img");
+                                        sub_icon.classList.add("icon")
+                                        sub_icon.src = "../Illustrations/"+window[id+"_"+opt+"_img"];
+                                        name.appendChild(sub_icon);
+                                    }
+                                    
                                 });
                             }
                         }                        
