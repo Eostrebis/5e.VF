@@ -163,10 +163,12 @@
                         if (option[id]){
                             if (option[id] === true){
                                 block.classList.add(id)
-                                var sub_icon = document.createElement("img");
-                                sub_icon.classList.add("icon")
-                                sub_icon.src = "../Illustrations/"+window[id+"_img"];
-                                name.appendChild(sub_icon);
+                                if (window[id+"_img"]){
+                                    var sub_icon = document.createElement("img");
+                                    sub_icon.classList.add("icon")
+                                    sub_icon.src = "../Illustrations/"+window[id+"_img"];
+                                    name.appendChild(sub_icon);
+                                }
                             } else {
                                 option[id].forEach(opt =>{
                                     block.classList.add(id+'-'+opt)
