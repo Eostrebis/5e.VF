@@ -1,0 +1,1 @@
+ + Une créature empoisonnée a le désavantage aux jets d'attaque et de compétences.

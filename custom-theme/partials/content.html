@@ -1,0 +1,104 @@
+<!--
+  Copyright (c) 2016-2023 Martin Donath <martin.donath@squidfunk.com>
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to
+  deal in the Software without restriction, including without limitation the
+  rights to use, copy, modify, merge, publish, distribute, sublicense, and/or
+  sell copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+  IN THE SOFTWARE.
+-->
+
+<!-- Tags -->
+{% if "material/tags" in config.plugins and tags %}
+  {% include "partials/tags.html" %}
+{% endif %}
+
+<!-- Actions -->
+{% include "partials/actions.html" %}
+
+<!--
+  Hack: check whether the content contains a h1 headline. If it doesn't, the
+  page title (or respectively site name) is used as the main headline.
+-->
+{% if "\x3ch1" not in page.content %}
+  <h1>{{ page.title | d(config.site_name, true)}} {%if page.meta.Concentration%} <img src="https://www.dndbeyond.com/content/1-0-2784-0/skins/waterdeep/images/icons/core_mechanics/concentration.svg" style="width: 27px; position: relative; top: -8px;"> {%endif%}{%if page.meta.Rituel%} <img src="https://www.dndbeyond.com/content/1-0-2784-0/skins/waterdeep/images/icons/core_mechanics/ritual.svg" style="width: 18px; position: relative; top: -8px;"> {%endif%}</h1>
+{% endif %}
+
+{%if page.meta.school%}
+  <h2>({{page.meta.englishname}})</h2>
+  <article>
+      <em>
+          {{page.meta.school}} {{page.meta.level}}
+          {%if page.meta.Verbal or page.meta.Somatique or page.meta.Matériel%}
+              (
+              {%if page.meta.Verbal%} V {%endif%}
+              {%if page.meta.Somatique%}
+                  {%if page.meta.Verbal%},{%endif%}
+                  S
+              {%endif%}
+              {%if page.meta.Matériel%}
+                   {%if page.meta.Verbal or page.meta.Somatique%},{%endif%}
+                   M*
+              {%endif%}
+              )
+          {%endif%} 
+        <ul>
+          {%if page.meta.Incantation%}
+            <li style="display:inline;">Incantation : {{page.meta.Incantation}}</li>
+          {%endif%}
+          {%if page.meta.Portée%}
+            <li style="display:inline;">Portée : {{page.meta.Portée}}</li>
+          {%endif%}
+          {%if page.meta.Durée%}
+            <li style="display:inline;">Durée : {{page.meta.Durée}}</li>
+          {%endif%}
+        </ul>
+      </em>
+  </article>
+{%endif%}
+
+{%if page.meta.requis%}
+  <em> Prérequis : {{page.meta.requis}} </em>
+{%endif%}
+
+<!-- Page content -->
+{%if page.meta.load %}
+  {% include "partials/loader.html" %}
+{%else%}
+  {{ page.content }}
+{%endif%}
+
+{%if page.meta.school%}
+<article>
+    <em>
+        Disponible pour : <ul>{%for c in page.meta.available | sort%} <li style="display:inline;">{{c}}; </li> {%endfor%}</ul><br/>
+        {%if page.meta.detailmat%}*{{page.meta.detailmat}}{%endif%}
+    </em>
+</article>
+{%endif%}
+
+<!-- Source file information -->
+{% if page.meta and (
+  page.meta.git_revision_date_localized or
+  page.meta.revision_date
+) %}
+  {% include "partials/source-file.html" %}
+{% endif %}
+
+<!-- Was this page helpful? -->
+{% include "partials/feedback.html" %}
+
+<!-- Comment system -->
+{% include "partials/comments.html" %}

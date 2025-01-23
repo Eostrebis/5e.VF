@@ -1,0 +1,19 @@
+ - Agilité des courts-sur-pattes
+ - Alerte
+ - Bagarreur de Tavernes
+ - Bête de Scène
+ - Chance Abondante
+ - Chance Changeante
+ - Chasseur de Primes
+ - Chef
+ - Combattant Monté
+ - Commandant sur le Terrain
+ - Comédien
+ - Deuxième Chance
+ - Dilettante
+ - Discret
+ - Effacement
+ - Endurant
+ - Esprit Affûté
+ - Explorateur Accompli
+ - 

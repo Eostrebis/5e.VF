@@ -1,0 +1,1 @@
+ + Une créature incapacitée ne peut pas prendre d'actions ou de réactions.

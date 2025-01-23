@@ -1,0 +1,93 @@
+<script>
+	var level = 1;
+	var speed = {};
+	var type = 0;
+	var languages = [];
+	var size = "";
+	var chosen_race = "";
+	var chosen_class = "";
+	var suggested_improvements = "";
+	var resistances = [];
+	var FOR = 10;
+	var DEX = 10;
+	var CON = 10;
+	var INT = 10;
+	var WIS = 10;
+	var CHA = 10;
+	var feats = {};
+	var spells = {"0":[], "1":[], "2":[], "3":[],"4":[],"5":[], "6":[],"7":[],"8":[],"9":[]};
+	var features = [];
+
+    function changeRaceHref(){
+    	var races = document.querySelectorAll(".race");
+    	races.forEach(race => {
+    		race.href = "creator?race="+race.href.substring(race.href.lastIndexOf("/"));
+    	});
+    }
+
+    function addSpells(new_spells, level){
+    	for (var i in new_spells){
+    		for (var j in new_spells[i]){
+    			spells[i].push([new_spells[i][j], level]);
+    		}
+    	}
+    }
+
+    function addSpeed(new_speed, level){
+    	for (var speed_mode in new_speed){
+    		if (!speed.speed_mode){
+    			speed.speed_mode = 0;
+    		}
+    		speed.speed_mode = max(speed.speed_mode, new_spells.speed_mode);
+    	}
+    }
+
+    function addResistances(new_resistances, level){
+    	for (var i in new_resistances){
+    		resistances.push([new_resistances[i], level]);
+    	}
+    }
+
+    function loadJson(name){
+    	chosen_race = name;
+		fetch('../Races/'+name+'.json')
+    	.then((response) => response.json())
+    	.then((json) => {
+    		speed = json.speed;
+    		suggested_improvements = json.ability_improvements;
+    		type = json.type;
+    		size = json.size;
+    		languages = json.languages;
+    		json.features.forEach(feature => {
+    			if (feature.spells){
+    				addSpells(feature.spells, feature.level);
+    			}
+    			if (feature.resistances){
+    				addResistances(feature.resistances, feature.level)
+    			}
+    			if (feature.speed){
+
+    			}
+    			if (feature.choices){
+    				features_to_choose.push(feature);
+    			} else {
+    				features.push(feature);
+    			}
+    		});
+    	});
+    }
+
+</script>
+
+<span id="races">
+	{% include "partials/races.html" %}
+</span>
+
+<script type="text/javascript">
+	<!-- Change races href and behavior to account for character creation -->
+	races = document.querySelectorAll(".race");
+	races.forEach(race => {
+		race.href = "javascript:;";
+		race.onclick = function() {loadJson(race.querySelector(".race-name").textContent);};
+	});
+</script>

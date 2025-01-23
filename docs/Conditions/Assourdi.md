@@ -1,0 +1,1 @@
+ + Une créature assourdie ne peut pas entendre et rate automatiquement tous ses jets de compétences nécessitant l'ouïe.

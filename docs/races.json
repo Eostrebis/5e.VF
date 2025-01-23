@@ -1,0 +1,142 @@
+{
+	"sort": [
+		{
+			"name":"size",
+			"type":"choice",
+			"possibles":["M","S"],
+			"button":true,
+			"text": "Taille %C"
+		},
+		{
+			"name":"img-type",
+			"type":"string",
+			"button":false
+		},
+		{
+			"name":"subrace",
+			"type":"bool",
+			"button":true,
+			"text": "Sous-race"
+		},
+		{
+			"name":"vanilla",
+			"type":"bool",
+			"button":false,
+			"text": "Classique"
+		}
+	],
+	"option": [
+		{
+			"name":"Aarakocra",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent."
+		},
+		{
+			"name":"Aasimar",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Héritiers de pouvoirs célestes, les aasimars portent en eux une étincelle des Plans Supérieurs."
+		},
+		{
+			"name":"Autognome",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les autognomes sont des êtres mécaniques construits par des gnomes des roches et devenus conscients."
+		},
+		{
+			"name":"Centaure",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les centaures sont généralement originaires de la Féerie et résonnent magiquement avec le monde naturel."
+		},
+		{
+			"name":"Changelin",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Avec leurs apparences changeantes, les changelins sont insérés dans de nombreuses sociétés."
+		},
+		{
+			"name":"Drakéïde",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Nés des dragons, les drakéïdes marchent fièrement à travers un monde qui les accueille avec une incompréhension effrayante."
+		},
+		{
+			"name":"Elfe",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie."
+		},
+		{
+			"name":"Fadette",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les fadettes, originaire de la Féerie, sont un peuple petit mais pas autant que leurs cousins lutins ou pixies."
+		},
+		{
+			"name":"Filelièvre",
+			"size":["S","M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les filelièvres, êtres lagomorphes, sont originaires de la Féerie et incarnent la volonté de liberté et de voyager."
+		},
+		{
+			"name":"Firbolg",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Cousins lointains des géants, les premiers firbolgs parcouraient les forêts primitives du multivers."
+		},
+		{
+			"name":"Genasi",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Les genasis sont la progéniture entre les génies et les mortels et héritent de pouvoirs élémentaires."
+		},
+		{
+			"name":"Gepettain",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Véritables joies pour les enfants, les gepettains ressemblent à des jouets vivants faits en bois, en tissus, ou en porcelaine."
+		},
+		{
+			"name":"Gith",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Les giths sont une race humanoïde qui a autrefois été mise en esclavage par les illithides. Nul ne sait vraiment s'ils descendent des humains."
+		},
+		{
+			"name":"Gnome",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Pour les gnomes, être en vie est la meilleure chose qui soit, et ils tirent tout le plaisir possible de leurs trois à cinq siècles de vie."
+		}
+	]
+}

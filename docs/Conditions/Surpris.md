@@ -1,0 +1,2 @@
+ - Une créature surprise ne peut bouger ni prendre d'action pendant son premier tour de combat, et ne peut pas prendre de réaction tant que ce tour n'est pas terminé.
+ - Un membre d'un groupe peut être surpris même si les autres ne le sont pas.

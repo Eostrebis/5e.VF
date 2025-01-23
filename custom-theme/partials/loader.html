@@ -1,0 +1,114 @@
+<button class="button">This is a test !</button>
+
+<style>
+  .grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(300px, 100px);
+}
+.base-block {
+  color: inherit;
+  text-decoration: none;
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  background: #2C1A21;
+  gap: -30px;
+  transform: skew(-10deg, 0);
+  border-radius: 25px;
+  overflow: hidden;
+}
+.base-img {
+  height: 300px;
+}
+.base-desc{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.base-desc span{
+  position: absolute;
+  bottom: 20px;
+  font-style: italic;
+}
+
+.base:hover{
+  scale: 1.2;
+  opacity: 1;
+  border: 10px solid rgba(150,0,0,.4);
+  cursor:pointer;
+  z-index: 1;
+}
+
+.base-name{
+  font-weight: 1000;
+}
+
+.button {
+  border: none;
+  color: white;
+    background: gray;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+</style>
+
+<script type="text/javascript">
+
+    function updateSort(){
+
+    }
+
+    function loadJson(page_json){
+        fetch('../'+page_json+'.json')
+            .then((response) => response.json())
+            .then((json) => {
+                json.sort.forEach(sort => {
+                    if (sort.button){
+                        button = document.createElement("button");
+                        button.classList.add("button")
+                        button.id = sort.name+"b";
+                        switch (sort.type){
+                            case "bool":
+                                window[sort.name] = false;
+                                button.textContent = sort.text;
+                                break;
+                            case "choice":
+                                window[sort.name] = "";
+                                button.textContent = sort.text.replace("%C","");
+                                break;
+                            default:
+                                window[sort.name] = 0;
+                        }
+                        button.onclick = function () {
+                            console.log(sort.name, window[sort.name])
+                            switch (sort.type){
+                                case "bool":
+                                    window[sort.name] = !window[sort.name];
+                                    break;
+                                case "choice":
+                                    console.log(sort.possibles);
+                                    if (window[sort.name] === ""){
+                                        window[sort.name] = sort.possibles[0];
+                                    } else {
+                                        index = sort.possibles.indexOf(window[sort.name]);
+                                        window[sort.name] = sort.possibles[(index+1)%(sort.possibles.length)];
+                                        document.getElementById(sort.name+"b").textContent = sort.text.replace("%C",window[sort.name]);
+                                    }
+                            }
+                            updateSort();
+                        };
+
+                        document.getElementsByClassName("md-content__inner")[0].appendChild(button);
+                    }
+                })
+            });
+    }
+
+    loadJson("{{page.meta.load}}");
+
+</script>

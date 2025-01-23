@@ -1,0 +1,6 @@
+---
+type: 
+rareté: 
+attunement: 
+attdet:
+---

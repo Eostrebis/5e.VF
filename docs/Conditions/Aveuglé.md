@@ -1,0 +1,2 @@
+ + Une créature aveuglée ne peut pas voir et rate automatiquement ces jets de compétences nécessitant la vue.
+ + Les jets d'attaque contre la créature ont l'avantage, et ceux de la créature ont le désavantage.

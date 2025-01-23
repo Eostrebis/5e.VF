@@ -1,11 +1,48 @@
-# Obsidian Notes
+---
+search:
+  exclude: true
+---
+# Eostrebis
 
-Publish your public notes with MkDocs
+## Avancée de la Traduction
 
-## Hello World!
+**Classes.** 7.5/26 ![](https://geps.dev/progress/28)
 
-The `index.md` in the `/docs` folder is the homepage you see here.
+**Races.** 33/42 ![](https://geps.dev/progress/78)
 
-The folders in `/docs` appear as the main sections on the navigation bar.
+**Sorts.** 140/786 ![](https://geps.dev/progress/18)
 
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+**Conditions.** 16/16 ![](https://geps.dev/progress/100)
+
+**Dons.** 130/130 ![](https://geps.dev/progress/100)
+
+**Objets.** 94/512 ![](https://geps.dev/progress/18)
+
+**Historiques.** 0/62 ![](https://geps.dev/progress/0)
+
+## Avancée de l'Implémentation
+
+**Classes.** 4/26 ![](https://geps.dev/progress/15)
+
+**Races.** 6/44 ![](https://geps.dev/progress/13)
+
+**Sorts.** 138/786 ![](https://geps.dev/progress/17)
+
+**Conditions.** 16/16 ![](https://geps.dev/progress/100)
+
+**Dons.** 52/130 ![](https://geps.dev/progress/40)
+
+**Objets.** 94/512 ![](https://geps.dev/progress/18)
+
+**Historiques.** 0/62 ![](https://geps.dev/progress/0)
+
+# Problèmes Connus
+ - ~~Les liens internes à une page ne fonctionnent pas si l'ancre a des accents.~~ (Réparé le 02/07/24)
+ - Les noms des actions ne sont pas uniformisés
+ - Griffe Draconique n'existe pas !
+
+
+En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
+
+Mis à jour pour la dernière fois le 28/10/2024@20:09
+

@@ -1,7 +1,29 @@
-site_name: obsidian-mkdocs template
+site_name: Eostrebis
+site_url: http://eostrebis.fr
+nav:
+ - Home: index.md
+ - Création de Personnage: Misc/Création de Personnages.md
+ - Eostrebis: Eostrebis/Eostrebis.md
+ - Sorts: sorts.md
+ - Équipements: equipments.md
+ - Classes: classes.md
+ - Races: races.md
+ - Créateur de Personnage: creator.md
+ - Historiques: backgrounds.md
+ - Dons: feats.md
+ - Dons de Départ: start_feats.md
+ - Dons de Prestige: prestige_feats.md
+ - Objets Magiques: magic_items.md
+ - Règles Maison: Misc/House_Rules.md
+ - Propriétés d'Arme: Misc/Propriétés_d'arme.md
 
 theme:
     name: 'material'
+    custom_dir: 'custom-theme/'
+    features:
+        - search.suggest
+        - navigation.top
+        - navigation.path
     palette:
 
     # Light mode
@@ -25,43 +47,40 @@ theme:
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - tables
+  - attr_list
   - pymdownx.arithmatex:
-      generic: true
+  #     generic: true
   # - pymdownx.superfences
   # - pymdownx.details
   # - pymdownx.magiclink
-  - pymdownx.tasklist:
-      custom_checkbox: true
+  # - pymdownx.tasklist:
+  #     custom_checkbox: true
   - def_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
+  # - pymdownx.critic
+  # - pymdownx.caret
+  # - pymdownx.keys
+  # - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.superfences:
-      custom_fences:
-        - name: mermaid
-          class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+  # - pymdownx.superfences:
+  #     custom_fences:
+  #       - name: mermaid
+  #         class: mermaid
+  #         format: !!python/name:pymdownx.superfences.fence_code_format
 
   - toc:
       permalink: true
 
 plugins:
   - search
-  - roamlinks
-  - blog
-  - rss:
-      match_path: blog/posts/.* 
-      date_from_meta:
-        as_creation: date
-      categories:
-        - categories
-        - tags
+  - roamlinks-eostrebis 
+
 
 extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+

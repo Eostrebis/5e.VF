@@ -1,0 +1,97 @@
+<button class="button" id="magicb" onclick="showMagic()">Lanceur de sorts</button>
+
+<div class="classe-grid">
+  <a href="../Classes/Alchimiste/Alchimiste" class="classe"><img class="classe-img" src="../Illustrations/Classes/Alchimiste.png"><div class="classe-desc"><div class="classe-name">Alchimiste</div><br><div class="classe-content">Peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent.</div></div></a>
+  <a href="../Classes/Alchimiste/Alchimiste" class="classe"><img class="classe-img" src="../Illustrations/Classes/Alchimiste.png"><div class="classe-desc"><div class="classe-name">Alchimiste</div><br><div class="classe-content">Peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent.</div></div></a>
+  <a href="../Classes/Alchimiste/Alchimiste" class="classe"><img class="classe-img" src="../Illustrations/Classes/Alchimiste.png"><div class="classe-desc"><div class="classe-name">Alchimiste</div><br><div class="classe-content">Peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent.</div></div></a>
+</div>
+
+<style>
+  .classe-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 10px;
+  grid-auto-rows: minmax(300px, 100px);
+}
+.classe {
+  color: inherit;
+  text-decoration: none;
+  display:grid;
+  grid-template-columns: repeat(2, 1fr);
+  background: #2C1A21;
+  gap: -30px;
+  transform: skew(-10deg, 0);
+  border-radius: 25px;
+  overflow: hidden;
+}
+.classe-img {
+  height: 300px;
+}
+.classe-desc{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.classe:hover{
+  scale: 1.2;
+  opacity: 1;
+  border: 10px solid rgba(150,0,0,.4);
+  cursor:pointer; 
+  text-size-adjust: 83%; 
+  z-index: 1;
+}
+
+.classe-name{
+  font-weight: 1000;
+}
+
+.subrace{
+  width:;
+}
+
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+}
+</style>
+
+<script type="text/javascript">
+
+  function updateSort(){
+    var classes = document.querySelectorAll(".classe");
+    classes.forEach(classe => {
+      var is_small_and_selected = sizes.includes('S') && race.classList.contains('size-S');
+      var is_medium_and_selected = sizes.includes('M') && race.classList.contains('size-M');
+      var is_subrace_and_selected = subrace_only <= 1 && race.classList.contains('subrace');
+      var is_not_subrace_and_selected = subrace_only != 1 && !race.classList.contains('subrace');
+      var is_classic_and_selected = classic_only <= 1 && race.classList.contains('classic');
+      var is_not_classic_and_selected = classic_only != 1 && !race.classList.contains('classic');
+      if ((is_small_and_selected || is_medium_and_selected) 
+        && (is_subrace_and_selected || is_not_subrace_and_selected)
+        && (is_classic_and_selected || is_not_subrace_and_selected)){
+        race.style.display = "grid";
+      } else {
+        race.style.display = "none";
+      }
+    })
+
+    var medium_button = document.getElementById("mediumb");
+    var small_button = document.getElementById("smallb");
+    var subrace_button = document.getElementById("subraceb");
+    var classic_button = document.getElementById("classicb");
+    medium_button.style.background = sizes.includes('M') ? "#04AA6D" : "gray";
+    small_button.style.background = sizes.includes('S') ? "#04AA6D" : "gray";
+    subrace_button.style.background = subrace_only == 0 ? "gray" : (subrace_only == 1 ? "#04AA6D" : "red");
+    classic_button.style.background = classic_only == 0 ? "gray" : (classic_only == 1 ? "#04AA6D" : "red");
+  }
+
+  var magic = 0;
+  updateSort();
+
+</script>
