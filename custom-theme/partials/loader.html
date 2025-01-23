@@ -74,9 +74,9 @@
 <script type="text/javascript">
 
     function updateSort(){
-        document.querySelectorAll(".base-block".forEach(block => {
+        document.querySelectorAll(".base-block").forEach(block => {
             block.style.display = "grid";
-        }));
+        });
         document.querySelectorAll(".button").forEach(button => {
             id = button.id.slice(0,-1);
             if (window[id]){
