@@ -1,0 +1,31 @@
+{
+	"sort": [
+		{
+			"name":"caster",
+			"type":"choice",
+			"possibles":["non", "semi", "full"],
+			"button":true,
+			"text": "%C Caster"
+		},
+		{
+			"name":"img-type",
+			"type":"string",
+			"button":false
+		},
+		{
+			"name":"vanilla",
+			"type":"bool",
+			"button":true,
+			"text": "Classique"
+		}
+	],
+	"options": [
+		{
+			"name":"Alchimiste",
+			"caster":["non"],
+			"img-type":"png",
+			"vanilla":false,
+			"description":"Mêlant science et magie, les alchimistes utilisent explosions et potion pour arriver à leurs fins."
+		}
+	]
+}
