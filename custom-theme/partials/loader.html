@@ -47,7 +47,6 @@
 .button {
   border: none;
   color: white;
-    background: gray;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
@@ -60,7 +59,16 @@
 <script type="text/javascript">
 
     function updateSort(){
-
+        document.querySelectorAll(".button").forEach(button => {
+            id = button.id.slice(0,-1);
+            if (window[id]){
+                button.classList.remove("off");
+                button.classList.add("on");
+            } else {
+                button.classList.remove("on");
+                button.classList.add("off");
+            }
+        });
     }
 
     function loadJson(page_json){
