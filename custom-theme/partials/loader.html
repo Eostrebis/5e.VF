@@ -131,6 +131,7 @@
                 base_grid.classList.add("grid");
                 json.options.forEach(option => {
                     block = document.createElement("a");
+                    bloc.href = "../{{page.meta.load}}/"+option.name;
                     block.classList.add("base-block");
                     document.querySelectorAll(".button").forEach(button => {
                         id = button.id.slice(0,-1);
