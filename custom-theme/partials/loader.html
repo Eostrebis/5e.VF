@@ -86,7 +86,7 @@
                 // We should check for value here !
                 console.log(id);
                 if (window[id] === true){
-                    document.querySelectorAll(":not(."+id+")").forEach(sub_block => {
+                    document.querySelectorAll(".base-block:not(."+id+")").forEach(sub_block => {
                         console.log(sub_block);
                         sub_block.style.display = "none";
                     })
