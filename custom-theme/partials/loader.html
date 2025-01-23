@@ -90,6 +90,11 @@
                         console.log(sub_block);
                         sub_block.style.display = "none";
                     })
+                } else {
+                    document.querySelectorAll(".base-block:not(."+id+"-"+window[id]+")").forEach(sub_block => {
+                        console.log(sub_block);
+                        sub_block.style.display = "none";
+                    })
                 }
             } else {
                 button.classList.remove("on");
