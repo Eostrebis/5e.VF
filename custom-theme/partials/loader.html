@@ -132,7 +132,6 @@
                 base_grid = document.createElement("div");
                 base_grid.classList.add("base-grid");
                 json.options.forEach(option => {
-                    name = option.name;
                     block = document.createElement("a");
                     block.classList.add("base");
                     document.querySelectorAll(".button").forEach(button => {
@@ -141,10 +140,19 @@
                             if (option[id] === true){
                                 block.classList.add(id)
                             } else {
-                                block.classList.add(id+'-'+option[id])
+                                option[id].forEach(opt =>{
+                                    block.classList.add(id+'-'+opt)
+                                });
                             }
-                        }
+                        }                        
                     });
+                    desc = document.createElement("div");
+                    desc.classList.add("base-desc");
+                    name = document.createElement("div");
+                    name.classList.add("base-name");
+                    name.textContent = option.name;
+                    desc.appendChild(name);
+                    block.appendChild(desc);
                     base_grid.appendChild(block);
                 });
                 document.getElementsByClassName("md-content__inner")[0].appendChild(base_grid);
