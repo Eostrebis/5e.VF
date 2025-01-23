@@ -18,7 +18,7 @@
 			"type":"bool",
 			"button":true,
 			"text": "Sous-race",
-			"icon": "subrace_icon.png"
+			"icon": "Misc/subrace_icon.png"
 		},
 		{
 			"name":"vanilla",
