@@ -144,12 +144,20 @@
                             }
                         }                        
                     });
+                    let img = document.createElement("img");
+                    img.classList.add("base-img");
+                    img.src = "../Illustrations/{{page.meta.load}}/"+option.name+"."+option['img-type'];
+                    block.appendChild(img);
                     let desc = document.createElement("div");
                     desc.classList.add("base-desc");
                     let name = document.createElement("div");
                     name.classList.add("base-name");
                     name.textContent = option.name;
+                    let content = document.createElement("div");
+                    content.classList.add("base-content");
+                    content.textContent = option.description;
                     desc.appendChild(name);
+                    desc.appendChild(content);
                     block.appendChild(desc);
                     base_grid.appendChild(block);
                 });
