@@ -1,0 +1,73 @@
+{
+	"settings" : {
+		"grid": false,
+	},
+	"sort": [
+		{
+			"name":"school",
+			"type":"dropdown",
+			"possibles":["Abjuration", "Conjuration", "Divination", "Enchantement", "Évocation", "Illusion", "Nécromancie", "Transmutation"],
+			"button":true,
+			"text": "École de Magie : %C"
+		},
+		{
+			"name":"level",
+			"type":"dropdown",
+			"possibles":["Cantrip","1","2","3","4","5","6","7","8","9"],
+			"button":true,
+			"text": "Niveau"
+		},
+		{
+			"name":"ritual",
+			"type":"bool",
+			"button":true,
+			"text":"Rituel"
+		},
+		{
+			"name":"concentration",
+			"type":"bool",
+			"button":true,
+			"text":"Concentration"
+		},
+		{
+			"name":"comp-S",
+			"type":"bool",
+			"button":true,
+			"text":"Somatique"
+		},
+		{
+			"name":"comp-M",
+			"type":"bool",
+			"button":true,
+			"text":"Matérielle"
+		},
+		{
+			"name":"comp-V",
+			"type":"bool",
+			"button":true,
+			"text":"Vocale"
+		},
+		{
+			"name":"list",
+			"type":"dropdown",
+			"possibles":["Barde", "Clerc", "Druide", "Ensorceleur", "Investigateur", "Mage-de-guerre",
+			"Magicien", "Martyr", "Nécromancien", "Occultiste", "Paladin", "Ranger", "Sorcière"],
+			"button":true,
+			"text": "Disponible à %C"
+		},
+	],
+	"options": [
+		{
+			"name":"Aberration Corporelle",
+			"level":["2"],
+			"list":["Sorcière", "Druide", "Ensorceleur", "Occultiste", "Magicien"],
+			"img-type":"png",
+			"school":"Transmutation",
+			"comp-V":true,
+			"comp-S":true,
+			"comp-M":false,
+			"concentration":false,
+			"ritual":false
+		}
+	]
+}

@@ -17,12 +17,21 @@
 			"type":"bool",
 			"button":true,
 			"text": "Classique"
+		},
+		{
+			"name":"HD",
+			"type":"choice",
+			"button":true,
+			"possibles":["6","8","10","12"],
+			"text": "d%C",
+			"icons":["Misc/d6.png","Misc/d8.png","Misc/d10.png","Misc/d12.png"]
 		}
 	],
 	"options": [
 		{
 			"name":"Alchimiste",
 			"caster":["non"],
+			"HD":"6",
 			"img-type":"png",
 			"vanilla":false,
 			"description":"Mêlant science et magie, les alchimistes utilisent explosions et potion pour arriver à leurs fins."
