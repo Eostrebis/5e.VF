@@ -112,14 +112,19 @@
                             case "bool":
                                 window[sort.name] = false;
                                 button.textContent = sort.text;
-                                window[sort.name+"_img"] = sort.icon
+                                if (sort.icon){
+                                    window[sort.name+"_img"] = sort.icon
+                                }
                                 break;
                             case "choice":
                                 window[sort.name] = "";
                                 button.textContent = sort.text.replace("%C","");
-                                for (const [index, element] of sort.possibles.entries()) {
-                                    window[sort.name+"_"+element+"_img"] = sort.icons[index];
+                                if (sort.icons){
+                                    for (const [index, element] of sort.possibles.entries()) {
+                                        window[sort.name+"_"+element+"_img"] = sort.icons[index];
+                                    }
                                 }
+                                
                                 break;
                             default:
                                 window[sort.name] = 0;
