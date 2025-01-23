@@ -1,0 +1,1 @@
+Pour une action, choisissez une créature que vous voyez à 5 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.

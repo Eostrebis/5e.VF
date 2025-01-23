@@ -1,0 +1,13 @@
+{
+	"ability_improvements":"FOR +2, SAG +1",
+	"type":"Fey",
+	"languages":["Commun","Sylvain"],
+	"size":"M",
+	"speed":{"walk":40},
+	"features":[
+		{"name": "Affinité Naturelle", "level": 1, "description":"Votre connexion féerique à la nature vous confère un rapport intuitif au monde naturel et aux animaux qui y habitent. Ainsi, vous maitrisez une compétence parmi les suivantes : Dressage, Médecine, Nature ou Survie.", "proficiency":{"type":"choice", "count":1, "choices":["Dressage", "Médecine", "Nature", "Survie"]}},
+		{"name": "Carrure Équine", "level":1, "description":"Vous êtes considéré comme étant d'une taille supérieure à votre taille réelle lorsque vous déterminez le poids que vous pouvez porter/tirer/déplacer.\n\n De plus, escalader en utilisant vos mains et pieds est particulièrement difficile pour vous à cause de vos jambes de cheval. Ainsi, lorsque vous réalisez une telle action, chaque case de mouvement vous coûte 4 cases supplémentaires au lieu de l'unique case supplémentaire habituelle."},
+		{"name": "Charge", "level":1, "description":"Si vous vous déplacez d'au moins 30 ft. en ligne droite vers une cible et la touchez avec une attaque armée de mêlée pendant le même tour, vous pouvez suivre cette attaque par une action bonus pour réaliser une seule attaque supplémentaire contre cette cible en utilisant vos sabots."},
+		{"name": "Sabots", "level":1, "description":"Vous avez des sabots que vous pouvez utiliser pour réaliser des attaques non-armées. Lorsque vous touchez avec, l'attaque inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts habituels d'une attaque non-armée."}
+	]
+}
