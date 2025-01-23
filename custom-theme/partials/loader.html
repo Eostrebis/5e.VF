@@ -91,7 +91,6 @@
                                     window[sort.name] = !window[sort.name];
                                     break;
                                 case "choice":
-                                    console.log(sort.possibles);
                                     if (window[sort.name] === ""){
                                         window[sort.name] = sort.possibles[0];
                                     } else {
@@ -101,8 +100,8 @@
                                         } else {
                                             window[sort.name] = sort.possibles[(index + 1) % (sort.possibles.length)];
                                         }
-                                        document.getElementById(sort.name+"b").textContent = sort.text.replace("%C",window[sort.name]);
                                     }
+                                    document.getElementById(sort.name+"b").textContent = sort.text.replace("%C",window[sort.name]);
                             }
                             updateSort();
                         };
