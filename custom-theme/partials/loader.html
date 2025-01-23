@@ -94,10 +94,14 @@
                             case "bool":
                                 window[sort.name] = false;
                                 button.textContent = sort.text;
+                                window[sort.name+"_img"] = sort.icon
                                 break;
                             case "choice":
                                 window[sort.name] = "";
                                 button.textContent = sort.text.replace("%C","");
+                                for (const [index, element] of sort.possibles.entries()) {
+                                    window[sort.name+"_"+element+"_img"] = sort.icons[index];
+                                }
                                 break;
                             default:
                                 window[sort.name] = 0;
@@ -133,18 +137,6 @@
                     block = document.createElement("a");
                     block.href = "../{{page.meta.load}}/"+option.name;
                     block.classList.add("base-block");
-                    document.querySelectorAll(".button").forEach(button => {
-                        id = button.id.slice(0,-1);
-                        if (option[id]){
-                            if (option[id] === true){
-                                block.classList.add(id)
-                            } else {
-                                option[id].forEach(opt =>{
-                                    block.classList.add(id+'-'+opt)
-                                });
-                            }
-                        }                        
-                    });
                     let img = document.createElement("img");
                     img.classList.add("base-img");
                     img.src = "../Illustrations/{{page.meta.load}}/"+option.name+"."+option['img-type'];
@@ -160,6 +152,26 @@
                     desc.appendChild(name);
                     desc.appendChild(content);
                     block.appendChild(desc);
+                    document.querySelectorAll(".button").forEach(button => {
+                        id = button.id.slice(0,-1);
+                        if (option[id]){
+                            if (option[id] === true){
+                                block.classList.add(id)
+                                var sub_icon = document.createElement("img");
+                                sub_icon.classList.add("icon")
+                                sub_icon.src = window[id+"_img"];
+                                name.appendChild(sub_icon);
+                            } else {
+                                option[id].forEach(opt =>{
+                                    block.classList.add(id+'-'+opt)
+                                    var sub_icon = document.createElement("img");
+                                    sub_icon.classList.add("icon")
+                                    sub_icon.src = window[id+"_"+opt+"_img"];
+                                    name.appendChild(sub_icon);
+                                });
+                            }
+                        }                        
+                    });
                     base_grid.appendChild(block);
                 });
                 document.getElementsByClassName("md-content__inner")[0].appendChild(base_grid);

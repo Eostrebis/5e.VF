@@ -5,7 +5,8 @@
 			"type":"choice",
 			"possibles":["M","S"],
 			"button":true,
-			"text": "Taille %C"
+			"text": "Taille %C",
+			"icons":["Misc/size_M_icon.png", "Misc/size_S_icon.png"]
 		},
 		{
 			"name":"img-type",
@@ -16,13 +17,14 @@
 			"name":"subrace",
 			"type":"bool",
 			"button":true,
-			"text": "Sous-race"
+			"text": "Sous-race",
+			"icon": "Misc/subrace_icon.png"
 		},
 		{
 			"name":"vanilla",
 			"type":"bool",
 			"button":true,
-			"text": "Classique"
+			"text": "Classique",
 		}
 	],
 	"options": [
