@@ -74,6 +74,9 @@
 <script type="text/javascript">
 
     function updateSort(){
+        document.querySelectorAll(".base-block".forEach(block => {
+            block.style.display = "grid";
+        }));
         document.querySelectorAll(".button").forEach(button => {
             id = button.id.slice(0,-1);
             if (window[id]){
@@ -82,17 +85,13 @@
                 // What happens if window[id] != true ? 
                 // We should check for value here !
                 console.log(id);
-                document.querySelectorAll("."+id).forEach(sub_block => {
+                document.querySelectorAll(":not(."+id+")").forEach(sub_block => {
                     console.log(sub_block);
-                    sub_block.style.display = "grid";
+                    sub_block.style.display = "none";
                 })
             } else {
                 button.classList.remove("on");
                 button.classList.add("off");
-                document.querySelectorAll("."+id).forEach(sub_block => {
-                    console.log(sub_block);
-                    sub_block.style.display = "none";
-                })
             }
         });
     }
