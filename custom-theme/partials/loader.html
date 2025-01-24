@@ -118,13 +118,12 @@
                                 break;
                             case "choice":
                                 window[sort.name] = "";
-                                button.textContent = sort.text.replace("%C","");
+                                button.textContent = sort.texts[0]
                                 if (sort.icons){
                                     for (const [index, element] of sort.possibles.entries()) {
                                         window[sort.name+"_"+element+"_img"] = sort.icons[index];
                                     }
                                 }
-                                
                                 break;
                             default:
                                 window[sort.name] = 0;
@@ -145,7 +144,13 @@
                                             window[sort.name] = sort.possibles[(index + 1) % (sort.possibles.length)];
                                         }
                                     }
-                                    document.getElementById(sort.name+"b").textContent = sort.text.replace("%C",window[sort.name]);
+                                    if (sort.texts){
+                                        for (const [index, element] of [""]+sort.possibles.entries()) {
+                                            if (element === window[sort.name]){
+                                                document.getElementById(sort.name+"b").textContent = sort.texts[index];
+                                            }
+                                        }
+                                    }
                             }
                             updateSort();
                         };
