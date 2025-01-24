@@ -1,4 +1,8 @@
 {
+	"settings" : {
+		"display": "grid",
+		"grid-width": 3
+	},
 	"sort": [
 		{
 			"name":"size",
