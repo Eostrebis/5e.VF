@@ -98,7 +98,7 @@
         });
     }
 
-    function loadJson(page_json){
+    function loadJson(page_json, redirection=true){
         fetch('../'+page_json+'.json')
             .then((response) => response.json())
             .then((json) => {
@@ -157,7 +157,11 @@
                 base_grid.classList.add("grid");
                 json.options.forEach(option => {
                     block = document.createElement("a");
-                    block.href = "../{{page.meta.load}}/"+option.name;
+                    if (redirection){
+                        block.href = "../{{page.meta.load}}/"+option.name;
+                    } else {
+                        block.href = "javascript:;";
+                    }
                     block.classList.add("base-block");
                     let img = document.createElement("img");
                     img.classList.add("base-img");
@@ -205,8 +209,9 @@
                 
             });
     }
-
-    loadJson("{{page.meta.load}}");
-    updateSort();
+    {%if page.meta.load%}
+        loadJson("{{page.meta.load}}", false);
+        updateSort();
+    {%endif%}
 
 </script>
