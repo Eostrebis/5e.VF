@@ -55,6 +55,13 @@
 			"button":true,
 			"text": "Disponible à %C"
 		},
+		{
+			"name":"source",
+			"type":"dropdown",
+			"possibles":["5e", "Valda"],
+			"button":"true",
+			"text":"Source"
+		}
 	],
 	"options": [
 		{
