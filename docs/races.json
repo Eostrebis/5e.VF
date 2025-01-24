@@ -5,7 +5,7 @@
 			"type":"choice",
 			"possibles":["M","S"],
 			"button":true,
-			"text": "Taille %C",
+			"texts": ["Toutest Tailles", "Taille M", "Taille S"],
 			"icons":["Misc/size_M_icon.png", "Misc/size_S_icon.png"]
 		},
 		{
