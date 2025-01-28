@@ -215,7 +215,7 @@
             });
     }
     {%if page.meta.load%}
-        loadJson("{{page.meta.load}}", false);
+        loadJson("{{page.meta.load}}", {{page.meta.redirection}});
         updateSort();
     {%endif%}
 

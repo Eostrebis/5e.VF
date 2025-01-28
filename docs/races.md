@@ -6,6 +6,7 @@ load: races
 hide:
   - navigation
   - toc
+redirection: true
 ---
 
 Différentes races sont disponibles dans le monde :
