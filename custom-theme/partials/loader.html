@@ -145,10 +145,13 @@
                                         }
                                     }
                                     if (sort.texts){
-                                        for (const [index, element] of [""]+sort.possibles.entries()) {
+                                        if (element === ""){
+                                            document.getElementById(sort.name+"b").textContent = sort.texts[0];
+                                        }
+                                        for (const [index, element] of sort.possibles.entries()) {
                                             console.log(index, element, window[sort.name]);
                                             if (element === window[sort.name]){
-                                                document.getElementById(sort.name+"b").textContent = sort.texts[index];
+                                                document.getElementById(sort.name+"b").textContent = sort.texts[index+1];
                                             }
                                         }
                                     }
