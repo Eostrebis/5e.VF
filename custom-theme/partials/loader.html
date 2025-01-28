@@ -82,9 +82,9 @@
 <script type="text/javascript">
 
     function updateSort(){
-        document.querySelectorAll(".base-block").forEach(block => {
-            block.style.display = "grid";
-        });
+        // document.querySelectorAll(".base-block").forEach(block => {
+        //     block.style.display = "grid";
+        // });
         document.querySelectorAll(".button").forEach(button => {
             id = button.id.slice(0,-1);
             if (window[id]){
@@ -111,7 +111,7 @@
         if (title_text.includes("(")){
             title_text = title_text.substring(0,title_text.indexOf("("));
         }
-        title_text = title_text + "(" + document.querySelectorAll(".on").length +")";
+        title_text = title_text + "(" + document.querySelectorAll(".sel").length +")";
         title.textContent = title_text;
     }
 
