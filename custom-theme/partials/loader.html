@@ -82,9 +82,9 @@
 <script type="text/javascript">
 
     function updateSort(){
-        // document.querySelectorAll(".base-block").forEach(block => {
-        //     block.style.display = "grid";
-        // });
+        document.querySelectorAll(".base-block").forEach(block => {
+            sub_block.classList.add("sel");
+        });
         document.querySelectorAll(".button").forEach(button => {
             id = button.id.slice(0,-1);
             if (window[id]){
