@@ -96,6 +96,11 @@
                 button.classList.add("off");
             }
         });
+        let title = document.querySelector("h1");
+        let title_text = title.textContent;
+        title_text = title_text.substring(0,title_text.indexOf("("));
+        title_text = title_text + "(" + length(document.querySelectorAll(".on")) +")";
+        title.textContent = title_text;
     }
 
     function loadJson(page_json, redirection=true){
