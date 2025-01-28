@@ -215,7 +215,11 @@
             });
     }
     {%if page.meta.load%}
-        loadJson("{{page.meta.load}}", {{page.meta.redirection}});
+        {%if page.meta.redirection%}
+            loadJson("{{page.meta.load}}", true);
+        {%else%}
+            loadJson("{{page.meta.load}}", false);
+        {%endif%}
         updateSort();
     {%endif%}
 
