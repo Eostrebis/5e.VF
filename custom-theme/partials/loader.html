@@ -64,6 +64,14 @@
     background: grey;
 }
 
+.sel {
+    display: grid;
+}
+
+.unsel {
+    display: none;
+}
+
 .icon {
   width: 5%;
   margin-left: 2px;
@@ -84,11 +92,13 @@
                 button.classList.add("on");
                 if (window[id] === true){
                     document.querySelectorAll(".base-block:not(."+id+")").forEach(sub_block => {
-                        sub_block.style.display = "none";
+                        sub_block.classList.remove("unsel");
+                        sub_block.classList.add("sel");
                     })
                 } else {
                     document.querySelectorAll(".base-block:not(."+id+"-"+window[id]+")").forEach(sub_block => {
-                        sub_block.style.display = "none";
+                        sub_block.classList.add("unsel");
+                        sub_block.classList.remove("sel");
                     })
                 }
             } else {
