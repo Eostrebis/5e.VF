@@ -151,6 +151,223 @@
 			"subrace":false,
 			"vanilla":false,
 			"description":"Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifey de la Féerie."
+		},
+		{
+			"name":"Gobelours",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Absolument pas des ours, les gobelours sont les cousins bourrins des gobelins et des hobgobelins."
+		},
+		{
+			"name":"Goliath",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Cousins lointains des géants et infusés de l'essence surnaturelle de leurs ancêtres, les goliaths atteignent les 2 mètres."
+		},
+		{
+			"name":"Giff",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les giffs sont un peuple de grand et larges individus avec des caractéristiques d'hippopotame."
+		},
+		{
+			"name":"Halfelin",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Les halfelins sont un peuple aimable et amical. Ils chérissent les liens familiaux et l'amitié."
+		},
+		{
+			"name":"Hobgobelin",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"On peut remonter les origines des hobgobelins jusqu'aux anciennes cours de la Féerie, où ils sont d'abord apparus avec les gobelins et gobelours."
+		},
+		{
+			"name":"Homme-Lézard",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Certains sages pensent que les sauriens hommes-lézard sont des cousins lointains des drakéïdes et des kobolds."
+		},
+		{
+			"name":"Homme-Souris",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"À ne jamais mépriser, les petits et peu menaçants hommes-souris sont bien trop bienveillants et sont plus braves que bien des géants."
+		},
+		{
+			"name":"Hoom",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Cousin éloigné des chouettes géantes de la Féerie, les hooms existent de différentes tailles et formes."
+		},
+		{
+			"name":"Hôtesprit",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les hôtesprits sont d'étranges résidents spectraux de la Frontière Éthérée. Souvent confondu avec des fantômes, les hôtesprits sont bel et bien vivants"
+		},
+		{
+			"name":"Humain",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Les humains sont parmi les peuples les plus versatiles et les plus ambitieux qui arpentent le monde."
+		},
+		{
+			"name":"Kender",
+			"size":["S"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Originaire du monde de Krynn, les Kenders sont des petits humanoïdes qui ressemblent à des humains avec des oreilles pointues."
+		},
+		{
+			"name":"Kenku",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Peuple emplumé qui ressemble à des corbeaux, les kenkus sont dotés d'un sens de l'observation hors du commun et du mémoire incroyablement précise."
+		},
+		{
+			"name":"Kobold",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":""
+		},
+		{
+			"name":"Mandragore",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Si laissées pousser pendant une année et une journée, les mandragores deviennent de puissants arbres."
+		},
+		{
+			"name":"Minotaure",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les minotaures sont des humanoïdes à la poitrine large avec des têtes ressemblant à celles des taureaux."
+		},
+		{
+			"name":"Nain",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Audacieux et robustes, les nains sont connus pour leurs talents de guerriers et d'artisans."
+		},
+		{
+			"name":"Orque",
+			"size":["M"],
+			"img-type":"png",
+			"over-img":"Orque_Ana.png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les orques, bénis par Bélhorixa, font des alliés et des protecteurs de taille."
+		},
+		{
+			"name":"Plasmoïde",
+			"size":["S","M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les plasmoïdes sont des êtres amorphes sans forme d'origine qui se nourrissent de la même façon que les amibes."
+		},
+		{
+			"name":"Satyre",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Originaires de la Féerie, les satyres se régalent de l'énergie de la joie et de la gaieté."
+		},
+		{
+			"name":"Shifter",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Humanoïdes à l'aspect bestial, les shifters ne peuvent totalement changer de forme mais adoptent des traits animaux."
+		},
+		{
+			"name":"Tabaxi",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Créés par un être divin d'un Plan Supérieur, les tabaxis combinent les qualités des humanoïdes et des chats."
+		},
+		{
+			"name":"Thri-keen",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les Thri-kreens ont des traits insectiformes et deux paires de bras. Leur corps est enveloppé d'une chitine protectrice."
+		},
+		{
+			"name":"Tieflin",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Souvent discriminés de par leurs origines, les tieflins sont originaires ou descendants des Plans Inférieurs."
+		},
+		{
+			"name":"Tortue",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les tortues ont un proverbe bien connu : \"Nous portons nos maisons sur nos dos.\""
+		},
+		{
+			"name":"Triton",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Originaires du Plan Élémentaire de l'Eau, les tritons sont entrés sur le Plan Matériel par crainte des élémentaires."
+		},
+		{
+			"name":"Volanzée",
+			"size":["S","M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Chassés par d'immenses prédateurs, les Volanzées se sont adaptés par l'apparition d'une membrane leur permettant de planer."
+		},
+		{
+			"name":"Yuan-ti",
+			"size":[],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les Yuan-tis étaient auparavant des humains ayant pris des traits serpentins à la suite d'antiques rituels."
 		}
 	]
 }
