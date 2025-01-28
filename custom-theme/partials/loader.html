@@ -83,6 +83,7 @@
 
     function updateSort(){
         document.querySelectorAll(".base-block").forEach(block => {
+            block.classList.remove("unsel");
             block.classList.add("sel");
         });
         document.querySelectorAll(".button").forEach(button => {
@@ -92,8 +93,8 @@
                 button.classList.add("on");
                 if (window[id] === true){
                     document.querySelectorAll(".base-block:not(."+id+")").forEach(sub_block => {
-                        sub_block.classList.remove("unsel");
-                        sub_block.classList.add("sel");
+                        sub_block.classList.remove("sel");
+                        sub_block.classList.add("unsel");
                     })
                 } else {
                     document.querySelectorAll(".base-block:not(."+id+"-"+window[id]+")").forEach(sub_block => {
