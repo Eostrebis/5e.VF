@@ -98,7 +98,9 @@
         });
         let title = document.querySelector("h1");
         let title_text = title.textContent;
-        title_text = title_text.substring(0,title_text.indexOf("("));
+        if (title_text.includes("(")){
+            title_text = title_text.substring(0,title_text.indexOf("("));
+        }
         title_text = title_text + "(" + length(document.querySelectorAll(".on")) +")";
         title.textContent = title_text;
     }
