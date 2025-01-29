@@ -105,14 +105,14 @@ function loadJson(page_json, redirection=true, div_id=null) {
             json.options.forEach(option => {
                 block = document.createElement("a");
                 if (redirection) {
-                    block.href = "../{{page.meta.load}}/" + option.name;
+                    block.href = page_json + option.name;
                 } else {
                     block.href = "javascript:;";
                 }
                 block.classList.add("base-block");
                 let img = document.createElement("img");
                 img.classList.add("base-img");
-                img.src = "../Illustrations/{{page.meta.load}}/" + option.name + "." + option['img-type'];
+                img.src = "../Illustrations/" + page_json + "/" + option.name + "." + option['img-type'];
                 block.appendChild(img);
                 let desc = document.createElement("div");
                 desc.classList.add("base-desc");
