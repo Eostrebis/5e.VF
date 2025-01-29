@@ -79,19 +79,19 @@
 }
 </style>
 
-<script type="text/javascript" defer>
-    {%if page.meta.load%}
-        {%if page.meta.redirection%}
-            loadJson("{{page.meta.load}}", true);
-        {%else%}
-            loadJson("{{page.meta.load}}", false);
-        {%endif%}
-        updateSort();
-    {%endif%}
-</script>
+{%if page.meta.load%}
+    <script type="text/javascript" defer>
+        function sleep(ms) {
+            return new Promise(resolve => setTimeout(resolve, ms));
+        }
 
-{% if page.meta.load_js %}
-    <script>
-        loadJson("{{page.meta.load_js}}", false);
+        sleep(100).then(() => {
+            {%if page.meta.redirection%}
+            loadJson("{{page.meta.load}}", true);
+            {%else%}
+            loadJson("{{page.meta.load}}", false);
+            {%endif%}
+        });
+        updateSort();
     </script>
-{% endif %}
+{%endif%}
