@@ -85,7 +85,7 @@
             return new Promise(resolve => setTimeout(resolve, ms));
         }
 
-        sleep(200).then(() => {
+        sleep(400).then(() => {
             {%if page.meta.redirection%}
             loadJson("{{page.meta.load}}", true);
             {%else%}
