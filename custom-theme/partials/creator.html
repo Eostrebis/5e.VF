@@ -283,10 +283,20 @@
 
 							feat_div = document.createElement("div");
 							feat_div.classList.add("race-feature");
-							feat_div.textContent = feature.description;
+
+							feat_title = document.createElement("h3");
+							feat_title.classList.add("race-feature-title");
+							feat_title.textContent = feature.name + (feature.level !== 1 ? "("+feature.level+")" : "");
+
+							feat_content = document.createElement("div");
+							feat_content.classList.add("race-feature-content");
+							feat_content.textContent = feature.description;
+
+							feat_div.appendChild(feat_title);
+							feat_div.appendChild(feat_content);
 
 							if (feature.choices){
-								
+
 							}
 
 							document.getElementById("race-features").appendChild(feat_div);
