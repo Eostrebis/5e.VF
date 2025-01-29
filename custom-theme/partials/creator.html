@@ -87,25 +87,6 @@
 </script>
 
 <script>
-	function sleep(ms) {
-		return new Promise(resolve => setTimeout(resolve, ms));
-	}
-
-	sleep(400).then(() => {
-		document.querySelectorAll(".load").forEach(load => {
-			loadJson(load.id, false, load.id, (block) => {
-				return () => {
-					document.querySelectorAll(".base-block").forEach(b => {
-						b.classList.remove("selected");
-					});
-					block.classList.add("selected");
-				}
-			});
-		});
-	});
-</script>
-
-<script>
 	var level = 1;
 	var speed = {};
 	var type = 0;
@@ -124,13 +105,6 @@
 	var feats = {};
 	var spells = {"0":[], "1":[], "2":[], "3":[],"4":[],"5":[], "6":[],"7":[],"8":[],"9":[]};
 	var features = [];
-
-    function changeRaceHref(){
-    	var races = document.querySelectorAll("#races > .base-block");
-    	races.forEach(race => {
-    		race.href = "creator?race="+race.href.substring(race.href.lastIndexOf("/"));
-    	});
-    }
 
     function addSpells(new_spells, level){
     	for (var i in new_spells){
@@ -155,4 +129,54 @@
     	}
     }
 
+	function updateRace(race){
+		if (race !== chosen_race){
+			chosen_race = race;
+			console.log(chosen_race);
+		}
+	}
+
+	function updateClass(clas){
+		if (clas !== chosen_class){
+			chosen_class = clas;
+			console.log(chosen_class);
+		}
+	}
+
+</script>
+
+
+<script>
+	function sleep(ms) {
+		return new Promise(resolve => setTimeout(resolve, ms));
+	}
+
+	// Loadd all blocks;
+	sleep(400).then(() => {
+		document.querySelectorAll(".load").forEach(load => {
+			switch (load.id){
+				case 'races':
+				case 'classes':
+					loadJson(load.id, false, load.id, (block) => {
+						return () => {
+							document.querySelectorAll(".base-block").forEach(b => {
+								b.classList.remove("selected");
+							});
+							block.classList.add("selected");
+							switch (load.id){
+								case "races":
+									updateRace(block.id);
+									break;
+								case "classes":
+									chosen_class = block.id;
+									updateClass(block.id);
+									break;
+							}
+						}});
+					break;
+				default:
+					console.log(load.id + " not handled");
+			}
+		});
+	});
 </script>
