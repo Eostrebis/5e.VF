@@ -158,7 +158,7 @@
 			switch (load.id){
 				case 'races':
 				case 'classes':
-					loadJson(load.id, false, load.id, (block) => {
+					loadJson(load.id, false, load.id, (block, name) => {
 						return () => {
 							console.log(load.id);
 							console.log(block.id);
@@ -168,11 +168,10 @@
 							block.classList.add("selected");
 							switch (load.id){
 								case "races":
-									updateRace(block.id);
+									updateRace(name);
 									break;
 								case "classes":
-									chosen_class = block.id;
-									updateClass(block.id);
+									updateClass(name);
 									break;
 							}
 						}});
