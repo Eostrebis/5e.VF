@@ -258,7 +258,7 @@
 
 	}
 
-	function handleFeature(feature, subfeature=false){
+	function handleFeature(feature, parent, level){
 		if (feature.speed){
 			addSpeed(feature.speed, feature.level, "race");
 		}
@@ -271,10 +271,11 @@
 			addSpells(feature.spells, feature.level, "race");
 		}
 
+
 		feat_div = document.createElement("div");
 		feat_div.classList.add("race-feature");
 
-		feat_title = document.createElement("h3");
+		feat_title = document.createElement("h"+level);
 		feat_title.classList.add("race-feature-title");
 		feat_title.textContent = feature.name + (feature.level !== 1 ? " ("+feature.level+")" : "");
 
@@ -307,7 +308,7 @@
 						// Change desc
 						feat_desc.textContent = choice.desc;
 						//Handle feature
-						handleFeature(choice, true);
+						handleFeature(choice, feat_choice, level+1);
 					}
 				})
 			};
@@ -319,7 +320,7 @@
 
 		}
 
-		document.getElementById("race-features").appendChild(feat_div);
+		parent.appendChild(feat_div);
 
 		// TODO Build feature
 	}
@@ -351,7 +352,7 @@
 						}
 
 						json.features.forEach(feature => {
-							handleFeature(feature);
+							handleFeature(feature, document.getElementById("race-features"), 3);
 						})
 
 
