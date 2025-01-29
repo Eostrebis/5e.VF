@@ -71,8 +71,14 @@
 </div>
 
 <script>
-	document.querySelectorAll(".load").forEach(load => {
-		loadJson(load.id, false, load.id);
+	function sleep(ms) {
+		return new Promise(resolve => setTimeout(resolve, ms));
+	}
+
+	sleep(400).then(() => {
+		document.querySelectorAll(".load").forEach(load => {
+			loadJson(load.id, false, load.id);
+		});
 	});
 </script>
 
