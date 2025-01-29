@@ -94,8 +94,8 @@
 				var reader = new FileReader();
 				reader.onload = function (e) {
 					var obj = loadJSON(e.target.result);
-					//console.log(obj);
-					out.innerText = 'state: ' + obj.x + ',' + obj.y + ' : ' + obj.message
+					console.log(obj);
+					out.innerText = obj;
 				};
 				reader.readAsText(files[0]);
 			});
