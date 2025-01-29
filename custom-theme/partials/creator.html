@@ -196,7 +196,7 @@
     	}
     }
 
-	function resetRace(feature=""){
+	function resetRace(feature="", parent){
 		let keyword = "race"+"-"+feature
 
 
@@ -205,11 +205,7 @@
 		// Feature
 
 		features = [];
-		if (feature){
-
-		} else {
-			document.getElementById("race-features").replaceChildren();
-		}
+		parent.replaceChildren();
 
 
 		// Language
@@ -300,7 +296,7 @@
 			feat_choice.onchange = () => {
 				// Clear feature
 
-				resetRace(feature.name);
+				resetRace(feature.name, feat_div);
 
 
 				feature.choices.forEach(choice => {
@@ -313,9 +309,10 @@
 				})
 			};
 
+			feat_div.appendChild(feat_choice);
+
 			feat_choice.onchange(undefined);
 
-			feat_div.appendChild(feat_choice);
 
 
 		}
@@ -329,7 +326,7 @@
 		if (race !== chosen_race){
 			chosen_race = race;
 
-			resetRace();
+			resetRace("", document.getElementById("race-features"));
 
 			fetch('../Races/' + race + '.json')
 					.then((response) => response.json())
