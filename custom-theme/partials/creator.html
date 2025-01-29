@@ -193,7 +193,7 @@
 			speed[speed_mode] = new_spd_mode;
 		}
 
-		//Visions
+		// Visions
 		new_dv = []
 		for (dv in darkvision){
 			if (dv.origin !== 'race'){
@@ -201,6 +201,18 @@
 			}
 		}
 		darkvision = new_dv;
+		for (var spell_level in spells){
+			new_level = [];
+			spells[spell_level].forEach(spd =>
+			{
+				if (spd.origin !== "race"){
+					new_level.push(spd);
+				}
+			});
+			spells[spell_level] = new_level;
+		}
+
+		// Spells
 	}
 
 	function updateRace(race){
