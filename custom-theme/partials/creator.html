@@ -197,7 +197,7 @@
     }
 
 	function resetRace(feature=""){
-		keyword = "race"+"-"+feature
+		let keyword = "race"+"-"+feature
 
 
 		type = "";
@@ -213,7 +213,7 @@
 
 
 		// Language
-		new_languages = [];
+		let new_languages = [];
 		languages.forEach(language => {
 			if (!language.origin.startsWith(keyword)){
 				new_languages.push(language);
@@ -234,7 +234,7 @@
 		}
 
 		// Visions
-		new_dv = []
+		let new_dv = []
 		darkvision.forEach(dv => {
 			console.log(dv);
 			if (dv && !dv.origin.startsWith(keyword)){
@@ -245,7 +245,7 @@
 
 		// Spells
 		for (var spell_level in spells){
-			new_level = [];
+			let new_level = [];
 			spells[spell_level].forEach(spd =>
 			{
 				if (!spd.origin.startsWith(keyword)){
@@ -272,14 +272,14 @@
 		}
 
 
-		feat_div = document.createElement("div");
+		let feat_div = document.createElement("div");
 		feat_div.classList.add("race-feature");
 
-		feat_title = document.createElement("h"+level);
+		let feat_title = document.createElement("h"+level);
 		feat_title.classList.add("race-feature-title");
 		feat_title.textContent = feature.name + (feature.level !== 1 ? " ("+feature.level+")" : "");
 
-		feat_content = document.createElement("div");
+		let feat_content = document.createElement("div");
 		feat_content.classList.add("race-feature-content");
 		feat_content.textContent = feature.description;
 
@@ -287,7 +287,7 @@
 		feat_div.appendChild(feat_content);
 
 		if (feature.choices){
-			feat_choice = document.createElement("select");
+			let feat_choice = document.createElement("select");
 			feature.choices.forEach(choice => {
 				choice_option = document.createElement("option");
 				choice_option.value = choice.name;
@@ -295,7 +295,7 @@
 				feat_choice.appendChild(choice_option);
 			});
 
-			feat_desc = document.createElement("div");
+			let feat_desc = document.createElement("div");
 
 			feat_choice.onchange = () => {
 				// Clear feature
