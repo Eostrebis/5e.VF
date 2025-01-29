@@ -281,6 +281,16 @@
 								addSpells(feature.spells, feature.level, "race");
 							}
 
+							feat_div = document.createElement("div");
+							feat_div.classList.add("race-feature");
+							feat_div.textContent = feature.description;
+
+							if (feature.choices){
+								
+							}
+
+							document.getElementById("race-features").appendChild(feat_div);
+
 							// TODO Build feature
 						})
 
