@@ -228,7 +228,8 @@
 		// Visions
 		new_dv = []
 		for (dv in darkvision){
-			if (!dv.origin.startsWith('race')){
+			console.log(dv);
+			if (dv && !dv.origin.startsWith('race')){
 				new_dv.push(dv);
 			}
 		}
