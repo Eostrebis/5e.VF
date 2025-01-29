@@ -199,6 +199,11 @@
 	function resetRace(){
 		type = "";
 
+		// Feature
+
+		features = [];
+		document.getElementById("race-features").replaceChildren();
+
 		// Language
 		new_languages = [];
 		languages.forEach(language => {
@@ -286,7 +291,7 @@
 
 							feat_title = document.createElement("h3");
 							feat_title.classList.add("race-feature-title");
-							feat_title.textContent = feature.name + (feature.level !== 1 ? "("+feature.level+")" : "");
+							feat_title.textContent = feature.name + (feature.level !== 1 ? " ("+feature.level+")" : "");
 
 							feat_content = document.createElement("div");
 							feat_content.classList.add("race-feature-content");
@@ -296,7 +301,18 @@
 							feat_div.appendChild(feat_content);
 
 							if (feature.choices){
+								feat_choice = document.createElement("select");
+								feature.choices.forEach(choice => {
+									choice_option = document.createElement("option");
+									choice_option.value = choice.name;
+									choice_option.textContent = choice.name;
+								});
 
+								feat_choice.onchange = () => {
+									console.log(this.value);
+								};
+
+								feat_div.appendChild(feat_choice);
 							}
 
 							document.getElementById("race-features").appendChild(feat_div);
