@@ -227,13 +227,15 @@
 
 		// Visions
 		new_dv = []
-		for (dv in darkvision){
+		darkvision.forEach(dv => {
 			console.log(dv);
 			if (dv && !dv.origin.startsWith('race')){
 				new_dv.push(dv);
 			}
-		}
+		});
 		darkvision = new_dv;
+
+		// Spells
 		for (var spell_level in spells){
 			new_level = [];
 			spells[spell_level].forEach(spd =>
@@ -245,7 +247,7 @@
 			spells[spell_level] = new_level;
 		}
 
-		// Spells
+
 	}
 
 	function updateRace(race){
@@ -311,7 +313,7 @@
 								});
 
 								feat_choice.onchange = () => {
-									console.log(this.value);
+									console.log(feat_choice.value);
 								};
 
 								feat_div.appendChild(feat_choice);
