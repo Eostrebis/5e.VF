@@ -196,22 +196,25 @@
     	}
     }
 
-	function resetRace(feature="", parent){
-		let keyword = "race"+"-"+feature
+	function resetRace(feature=""){
+		let keyword = "race"+(feature?"-"+feature:"");
 
 
 		type = "";
 
 		// Feature
 
-		features = [];
-		parent.replaceChildren();
+		if (feature){
+
+		} else {
+			document.getElementById("race-features").replaceChildren();
+		}
 
 
 		// Language
 		let new_languages = [];
 		languages.forEach(language => {
-			if (!language.origin.startsWith(keyword)){
+			if (language.origin !== keyword){
 				new_languages.push(language);
 			}
 		})
@@ -222,7 +225,7 @@
 			new_spd_mode = [];
 			speed[speed_mode].forEach(spd =>
 			{
-				if (!spd.origin.startsWith(keyword)){
+				if (spd.origin !== keyword){
 					new_spd_mode.push(spd);
 				}
 			});
@@ -233,7 +236,7 @@
 		let new_dv = []
 		darkvision.forEach(dv => {
 			console.log(dv);
-			if (dv && !dv.origin.startsWith(keyword)){
+			if (dv && dv.origin !== keyword){
 				new_dv.push(dv);
 			}
 		});
@@ -244,7 +247,7 @@
 			let new_level = [];
 			spells[spell_level].forEach(spd =>
 			{
-				if (!spd.origin.startsWith(keyword)){
+				if (spd.origin !== keyword){
 					new_level.push(spd);
 				}
 			});
@@ -296,7 +299,7 @@
 			feat_choice.onchange = () => {
 				// Clear feature
 
-				resetRace(feature.name, feat_div);
+				resetRace(feature.name);
 
 
 				feature.choices.forEach(choice => {
@@ -308,6 +311,7 @@
 					}
 				})
 			};
+
 
 			feat_div.appendChild(feat_choice);
 
@@ -326,7 +330,7 @@
 		if (race !== chosen_race){
 			chosen_race = race;
 
-			resetRace("", document.getElementById("race-features"));
+			resetRace();
 
 			fetch('../Races/' + race + '.json')
 					.then((response) => response.json())
