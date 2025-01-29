@@ -41,7 +41,10 @@
 </div>
 
 <div id="Personnage" class="tabcontent">
-	This is a simple test :)
+	<div class="info">
+		<label for="char_name"> Nom : </label>
+		<input type="text" id="char_name" name="name">
+	</div>
 </div>
 
 <div id="races" class="load tabcontent">
@@ -175,7 +178,7 @@
 		// Language
 		new_languages = [];
 		languages.forEach(language => {
-			if (language.origin !== "race"){
+			if (!language.origin.startsWith("race")){
 				new_languages.push(language);
 			}
 		})
@@ -186,7 +189,7 @@
 			new_spd_mode = [];
 			speed[speed_mode].forEach(spd =>
 			{
-				if (spd.origin !== "race"){
+				if (!spd.origin.startsWith("race")){
 					new_spd_mode.push(spd);
 				}
 			});
@@ -196,7 +199,7 @@
 		// Visions
 		new_dv = []
 		for (dv in darkvision){
-			if (dv.origin !== 'race'){
+			if (!dv.origin.startsWith('race')){
 				new_dv.push(dv);
 			}
 		}
@@ -205,7 +208,7 @@
 			new_level = [];
 			spells[spell_level].forEach(spd =>
 			{
-				if (spd.origin !== "race"){
+				if (!spd.origin.startsWith("race")){
 					new_level.push(spd);
 				}
 			});
@@ -253,6 +256,8 @@
 							if (feature.spells){
 								addSpells(feature.spells, feature.level, "race");
 							}
+
+							// TODO Build feature
 						})
 
 
