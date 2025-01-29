@@ -71,34 +71,32 @@
 <input type = "file" id = "input_files">
 <div id = "out"></div>
 <script>
-
-	var loadJSON = function (text) {
-		try {
-			var obj = JSON.parse(text);
-			obj.message = 'loaded file';
-			return obj;
-		} catch (e) {
-			return {
-				x: 0,
-				y: 0,
-				message: e.message
-			};
-		}
-	};
-
-	var el_files = document.getElementById('input_files');
-	el_out = document.getElementById('out'),
-			el_files.addEventListener('change', function (e) {
-				var files = this.files;
-				console.log(files);
-				var reader = new FileReader();
-				reader.onload = function (e) {
-					var obj = loadJSON(e.target.result);
-					console.log(obj);
-					out.innerText = JSON.stringify(obj);
-				};
-				reader.readAsText(files[0]);
-			});
+	// var loadJSON = function (text) {
+	// 	try {
+	// 		var obj = JSON.parse(text);
+	// 		return obj;
+	// 	} catch (e) {
+	// 		return {
+	// 			x: 0,
+	// 			y: 0,
+	// 			message: e.message
+	// 		};
+	// 	}
+	// };
+	//
+	// var el_files = document.getElementById('input_files');
+	// el_out = document.getElementById('out'),
+	// 		el_files.addEventListener('change', function (e) {
+	// 			var files = this.files;
+	// 			console.log(files);
+	// 			var reader = new FileReader();
+	// 			reader.onload = function (e) {
+	// 				var obj = loadJSON(e.target.result);
+	// 				console.log(obj);
+	// 				out.innerText = JSON.stringify(obj);
+	// 			};
+	// 			reader.readAsText(files[0]);
+	// 		});
 </script>
 
 <script>
@@ -129,6 +127,7 @@
 	var chosen_class = "";
 	var suggested_improvements = "";
 	var resistances = [];
+	var darkvision = [];
 	var FOR = 10;
 	var DEX = 10;
 	var CON = 10;
@@ -143,10 +142,10 @@
 
 	}
 
-    function addSpells(new_spells, level){
+    function addSpells(new_spells, level, origin){
     	for (var i in new_spells){
     		for (var j in new_spells[i]){
-    			spells[i].push([new_spells[i][j], level]);
+    			spells[i].push({"value":new_spells[i][j], "level":level, "origin":origin});
     		}
     	}
     }
@@ -159,6 +158,10 @@
     		speed[speed_mode].push({"value":new_speed[speed_mode], "level":level, "origin":origin});
     	}
     }
+
+	function addDarkvision(new_dv, level, origin){
+		darkvision.push({"value":new_dv, "level":level, "origin":origin});
+	}
 
     function addResistances(new_resistances, level){
     	for (var i in new_resistances){
@@ -189,6 +192,15 @@
 			});
 			speed[speed_mode] = new_spd_mode;
 		}
+
+		//Visions
+		new_dv = []
+		for (dv in darkvision){
+			if (dv.origin !== 'race'){
+				new_dv.push(dv);
+			}
+		}
+		darkvision = new_dv;
 	}
 
 	function updateRace(race){
@@ -220,6 +232,14 @@
 						json.features.forEach(feature => {
 							if (feature.speed){
 								addSpeed(feature.speed, feature.level, "race");
+							}
+
+							if (feature.darkvision){
+								addDarkvision(feature.darkvision, feature.level, "race");
+							}
+
+							if (feature.spells){
+								addSpells(feature.spells, feature.level, "race");
 							}
 						})
 
