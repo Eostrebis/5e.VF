@@ -97,10 +97,10 @@
 		document.querySelectorAll(".load").forEach(load => {
 			loadJson(load.id, false, load.id, (block) => {
 				return () => {
-					block.classList.add("selected");
 					document.querySelectorAll(".base-block").forEach(b => {
 						b.classList.remove("selected");
-					})
+					});
+					block.classList.add("selected");
 				}
 			});
 		});

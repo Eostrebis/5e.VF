@@ -39,6 +39,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
     fetch('../' + page_json + '.json')
         .then((response) => response.json())
         .then((json) => {
+            console.log(page_json);
             json.sort.forEach(sort => {
                 if (sort.button) {
                     button = document.createElement("button");
