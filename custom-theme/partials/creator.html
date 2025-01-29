@@ -160,6 +160,8 @@
 				case 'classes':
 					loadJson(load.id, false, load.id, (block) => {
 						return () => {
+							console.log(load.id);
+							console.log(block.id);
 							document.querySelectorAll(".base-block").forEach(b => {
 								b.classList.remove("selected");
 							});
