@@ -196,7 +196,7 @@
     	}
     }
 
-	function resetRace(feature=""){
+	function resetRace(feature="", parent=document.getElementById("race-features")){
 		let keyword = "race"+(feature?"-"+feature:"");
 
 
@@ -204,11 +204,7 @@
 
 		// Feature
 
-		if (feature){
-
-		} else {
-			document.getElementById("race-features").replaceChildren();
-		}
+		parent.replaceChildren();
 
 
 		// Language
@@ -299,21 +295,20 @@
 			feat_choice.onchange = () => {
 				// Clear feature
 
-				resetRace(feature.name);
+				resetRace(feature.name, feat_desc);
 
 
 				feature.choices.forEach(choice => {
 					if (choice.name === feat_choice.value){
-						// Change desc
-						feat_desc.textContent = choice.desc;
 						//Handle feature
-						handleFeature(choice, feat_div, level+1);
+						handleFeature(choice, feat_desc, level+1, );
 					}
 				})
 			};
 
 
 			feat_div.appendChild(feat_choice);
+			feat_div.appendChild(feat_desc);
 
 			feat_choice.onchange(undefined);
 
