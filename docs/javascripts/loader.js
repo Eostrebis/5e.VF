@@ -111,7 +111,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                     block.onclick = null;
                 } else {
                     block.href = "javascript:;";
-                    block.onclick = onclik;
+                    block.onclick = onclik(block);
                 }
                 block.classList.add("base-block");
                 let img = document.createElement("img");

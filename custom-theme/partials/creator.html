@@ -96,10 +96,12 @@
 	sleep(400).then(() => {
 		document.querySelectorAll(".load").forEach(load => {
 			loadJson(load.id, false, load.id, (block) => {
-				block.classList.add("selected");
-				document.querySelectorAll(".base-block").forEach(b => {
-					b.classList.remove("selected");
-				})
+				return () => {
+					block.classList.add("selected");
+					document.querySelectorAll(".base-block").forEach(b => {
+						b.classList.remove("selected");
+					})
+				}
 			});
 		});
 	});
