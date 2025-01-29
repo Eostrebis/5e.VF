@@ -196,7 +196,10 @@
     	}
     }
 
-	function resetRace(){
+	function resetRace(feature=""){
+		keyword = "race"+"-"+feature
+
+
 		type = "";
 
 		// Feature
@@ -207,7 +210,7 @@
 		// Language
 		new_languages = [];
 		languages.forEach(language => {
-			if (!language.origin.startsWith("race")){
+			if (!language.origin.startsWith(keyword)){
 				new_languages.push(language);
 			}
 		})
@@ -218,7 +221,7 @@
 			new_spd_mode = [];
 			speed[speed_mode].forEach(spd =>
 			{
-				if (!spd.origin.startsWith("race")){
+				if (!spd.origin.startsWith(keyword)){
 					new_spd_mode.push(spd);
 				}
 			});
@@ -229,7 +232,7 @@
 		new_dv = []
 		darkvision.forEach(dv => {
 			console.log(dv);
-			if (dv && !dv.origin.startsWith('race')){
+			if (dv && !dv.origin.startsWith(keyword)){
 				new_dv.push(dv);
 			}
 		});
@@ -240,7 +243,7 @@
 			new_level = [];
 			spells[spell_level].forEach(spd =>
 			{
-				if (!spd.origin.startsWith("race")){
+				if (!spd.origin.startsWith(keyword)){
 					new_level.push(spd);
 				}
 			});
@@ -248,6 +251,70 @@
 		}
 
 
+	}
+
+	function handleFeature(feature){
+		if (feature.speed){
+			addSpeed(feature.speed, feature.level, "race");
+		}
+
+		if (feature.darkvision){
+			addDarkvision(feature.darkvision, feature.level, "race");
+		}
+
+		if (feature.spells){
+			addSpells(feature.spells, feature.level, "race");
+		}
+
+		feat_div = document.createElement("div");
+		feat_div.classList.add("race-feature");
+
+		feat_title = document.createElement("h3");
+		feat_title.classList.add("race-feature-title");
+		feat_title.textContent = feature.name + (feature.level !== 1 ? " ("+feature.level+")" : "");
+
+		feat_content = document.createElement("div");
+		feat_content.classList.add("race-feature-content");
+		feat_content.textContent = feature.description;
+
+		feat_div.appendChild(feat_title);
+		feat_div.appendChild(feat_content);
+
+		if (feature.choices){
+			feat_choice = document.createElement("select");
+			feature.choices.forEach(choice => {
+				choice_option = document.createElement("option");
+				choice_option.value = choice.name;
+				choice_option.textContent = choice.name;
+				feat_choice.appendChild(choice_option);
+			});
+
+			feat_desc = document.createElement("div");
+
+			feat_choice.onchange = () => {
+				// Clear feature
+
+				resetRace(feature.name);
+
+
+				feature.choices.forEach(choice => {
+					if (choice.name === feat_choice.value){
+						// Change desc
+						feat_desc.textContent = choice.desc;
+						//Handle feature
+						handleFeature(choice);
+					}
+				})
+			};
+
+			feat_div.appendChild(feat_choice);
+
+
+		}
+
+		document.getElementById("race-features").appendChild(feat_div);
+
+		// TODO Build feature
 	}
 
 	function updateRace(race){
@@ -277,51 +344,7 @@
 						}
 
 						json.features.forEach(feature => {
-							if (feature.speed){
-								addSpeed(feature.speed, feature.level, "race");
-							}
-
-							if (feature.darkvision){
-								addDarkvision(feature.darkvision, feature.level, "race");
-							}
-
-							if (feature.spells){
-								addSpells(feature.spells, feature.level, "race");
-							}
-
-							feat_div = document.createElement("div");
-							feat_div.classList.add("race-feature");
-
-							feat_title = document.createElement("h3");
-							feat_title.classList.add("race-feature-title");
-							feat_title.textContent = feature.name + (feature.level !== 1 ? " ("+feature.level+")" : "");
-
-							feat_content = document.createElement("div");
-							feat_content.classList.add("race-feature-content");
-							feat_content.textContent = feature.description;
-
-							feat_div.appendChild(feat_title);
-							feat_div.appendChild(feat_content);
-
-							if (feature.choices){
-								feat_choice = document.createElement("select");
-								feature.choices.forEach(choice => {
-									choice_option = document.createElement("option");
-									choice_option.value = choice.name;
-									choice_option.textContent = choice.name;
-									feat_choice.appendChild(choice_option);
-								});
-
-								feat_choice.onchange = () => {
-									console.log(feat_choice.value);
-								};
-
-								feat_div.appendChild(feat_choice);
-							}
-
-							document.getElementById("race-features").appendChild(feat_div);
-
-							// TODO Build feature
+							handleFeature(feature);
 						})
 
 
