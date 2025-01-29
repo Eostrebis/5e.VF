@@ -267,10 +267,10 @@
 		}
 
 
-		let feat_div = document.createElement("summary");
+		let feat_div = document.createElement("details");
 		feat_div.classList.add("race-feature");
 
-		let feat_title = document.createElement("h"+level);
+		let feat_title = document.createElement("summary");
 		feat_title.classList.add("race-feature-title");
 		feat_title.textContent = feature.name + ((feature.level && feature.level !== 1) ? " ("+feature.level+")" : "");
 
