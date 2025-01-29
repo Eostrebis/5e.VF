@@ -89,7 +89,7 @@
 <script>
 	var level = 1;
 	var speed = {};
-	var type = 0;
+	var type = "";
 	var languages = [];
 	var size = "";
 	var chosen_race = "";
@@ -129,9 +129,47 @@
     	}
     }
 
+	function resetRace(){
+		type = "";
+
+		// Language
+		new_languages = [];
+		languages.forEach(language => {
+			if (language[1] !== "race"){
+				new_languages.push(language);
+			}
+		})
+		languages = new_languages;
+
+		// Speed
+		for (var speed_mode in speed){
+			new_spd_mode = [];
+			speed[speed_mode].forEach(spd =>
+			{
+				if (spd.origin !== "race"){
+					new_spd_mode.push(spd);
+				}
+			});
+			speed[speed_mode] = new_spd_mode;
+		}
+	}
+
 	function updateRace(race){
 		if (race !== chosen_race){
 			chosen_race = race;
+
+			resetRace();
+
+			fetch('../Races/' + race + '.json')
+					.then((response) => response.json())
+					.then((json) => {
+						suggested_improvements = json.ability_improvements;
+						type = json.type;
+						json.languages.forEach(language => {
+							l = {"value":language, "origin":"race"};
+							languages.push(l);
+						});
+					});
 		}
 	}
 
