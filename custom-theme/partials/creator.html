@@ -114,12 +114,12 @@
     	}
     }
 
-    function addSpeed(new_speed, level){
+    function addSpeed(new_speed, level, origin){
     	for (var speed_mode in new_speed){
     		if (!speed.speed_mode){
-    			speed.speed_mode = 0;
+    			speed.speed_mode = [];
     		}
-    		speed.speed_mode = max(speed.speed_mode, new_spells.speed_mode);
+    		speed.speed_mode.push({"value":new_speed, "level":level, "origin":origin});
     	}
     }
 
