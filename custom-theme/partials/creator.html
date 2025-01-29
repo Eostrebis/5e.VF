@@ -258,7 +258,7 @@
 
 	}
 
-	function handleFeature(feature){
+	function handleFeature(feature, subfeature=false){
 		if (feature.speed){
 			addSpeed(feature.speed, feature.level, "race");
 		}
@@ -307,7 +307,7 @@
 						// Change desc
 						feat_desc.textContent = choice.desc;
 						//Handle feature
-						handleFeature(choice);
+						handleFeature(choice, true);
 					}
 				})
 			};
