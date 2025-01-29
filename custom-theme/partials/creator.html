@@ -116,10 +116,10 @@
 
     function addSpeed(new_speed, level, origin){
     	for (var speed_mode in new_speed){
-    		if (!speed.speed_mode){
-    			speed.speed_mode = [];
+    		if (!speed[speed_mode]){
+    			speed[speed_mode] = [];
     		}
-    		speed.speed_mode.push({"value":new_speed, "level":level, "origin":origin});
+    		speed[speed_mode].push({"value":new_speed[speed_mode], "level":level, "origin":origin});
     	}
     }
 

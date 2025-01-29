@@ -3,10 +3,7 @@
 	"type":"Humanoïde",
 	"languages":["Commun","Céleste"],
 	"size":"M",
-	"speed":{"walk":[{
-		"value": 30,
-		"origin": "class"
-	}]},
+	"speed":{"walk":30},
 	"features":[
 		{"name": "Résistance Céleste", "level": 1, "description":"Vous avez la résistance aux dégâts nécrotiques et radieux.", "resistances":["nécrotique","radiant"]},
 		{"name": "Vision dans le noir", "level":1, "description":"Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18 m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.", "darkvision":60},
