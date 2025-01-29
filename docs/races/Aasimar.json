@@ -2,7 +2,7 @@
 	"ability_improvements":"CHA +2, SAG +1",
 	"type":"Humanoïde",
 	"languages":["Commun","Céleste"],
-	"size":"M",
+	"size":["M"],
 	"speed":{"walk":30},
 	"features":[
 		{"name": "Résistance Céleste", "level": 1, "description":"Vous avez la résistance aux dégâts nécrotiques et radieux.", "resistances":["nécrotique","radiant"]},

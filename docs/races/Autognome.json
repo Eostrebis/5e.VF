@@ -2,7 +2,7 @@
 	"ability_improvements":"CON +2, INT +1",
 	"type":"Construction",
 	"languages":["Commun","Gnomique"],
-	"size":"P",
+	"size":["S"],
 	"speed":{"walk":30},
 	"features":[
 		{"name": "Blindage", "level": 1, "description":"Vous êtes enrobé d'un fin métal, ou de tout autre matériau durable. Tant que vous ne portez pas d'armure, votre CA de base est de 13 + votre modificateur de Dextérité."},

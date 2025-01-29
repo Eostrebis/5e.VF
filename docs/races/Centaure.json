@@ -2,7 +2,7 @@
 	"ability_improvements":"FOR +2, SAG +1",
 	"type":"Fey",
 	"languages":["Commun","Sylvain"],
-	"size":"M",
+	"size":["M"],
 	"speed":{"walk":40},
 	"features":[
 		{"name": "Affinité Naturelle", "level": 1, "description":"Votre connexion féerique à la nature vous confère un rapport intuitif au monde naturel et aux animaux qui y habitent. Ainsi, vous maitrisez une compétence parmi les suivantes : Dressage, Médecine, Nature ou Survie.", "proficiency":{"type":"choice", "count":1, "choices":["Dressage", "Médecine", "Nature", "Survie"]}},

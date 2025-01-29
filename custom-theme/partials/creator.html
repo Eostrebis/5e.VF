@@ -68,6 +68,39 @@
 
 </div>
 
+<input type = "file" id = "input_files">
+<div id = "out"></div>
+<script>
+
+	var loadJSON = function (text) {
+		try {
+			var obj = JSON.parse(text);
+			obj.message = 'loaded file';
+			return obj;
+		} catch (e) {
+			return {
+				x: 0,
+				y: 0,
+				message: e.message
+			};
+		}
+	};
+
+	var el_files = document.getElementById('input_files');
+	el_out = document.getElementById('out'),
+			el_files.addEventListener('change', function (e) {
+				var files = this.files;
+				console.log(files);
+				var reader = new FileReader();
+				reader.onload = function (e) {
+					var obj = loadJSON(e.target.result);
+					//console.log(obj);
+					out.innerText = 'state: ' + obj.x + ',' + obj.y + ' : ' + obj.message
+				};
+				reader.readAsText(files[0]);
+			});
+</script>
+
 <script>
 	function openTab(evt, tab_name){
 		var i, tabcontent, tablinks;
@@ -105,6 +138,10 @@
 	var feats = {};
 	var spells = {"0":[], "1":[], "2":[], "3":[],"4":[],"5":[], "6":[],"7":[],"8":[],"9":[]};
 	var features = [];
+
+	function addSizeSelector(sizes){
+
+	}
 
     function addSpells(new_spells, level){
     	for (var i in new_spells){
@@ -164,12 +201,29 @@
 					.then((response) => response.json())
 					.then((json) => {
 						suggested_improvements = json.ability_improvements;
+
 						type = json.type;
+
 						json.languages.forEach(language => {
 							l = {"value":language, "origin":"race"};
 							languages.push(l);
 						});
+
 						addSpeed(json.speed, 0, "race");
+
+						if (json.size.length === 1){
+							size = json.size;
+						} else {
+							addSizeSelector(json.size);
+						}
+
+						json.features.forEach(feature => {
+							if (feature.speed){
+								addSpeed(feature.speed, feature.level, "race");
+							}
+						})
+
+
 					});
 		}
 	}

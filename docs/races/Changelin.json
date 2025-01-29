@@ -2,7 +2,7 @@
 	"ability_improvements":"FOR +2, CHA +1",
 	"type":"Fey",
 	"languages":["Commun",{"type":"choice", "count":1, "custom":true, "choices":{}}],
-	"size":"SM",
+	"size":["S", "M"],
 	"speed":{"walk":30},
 	"features":[
 		{"name": "Instincts Changelins", "level": 1, "description":"Grâce à votre connexion à la Féerie, vous maîtrisez deux des compétences suivantes : Intimidation, Intuition, Persuasion, Représentation ou Tromperie.", "proficiency":{"type":"choice", "count":1, "choices":["Intimidation", "Perspicacité", "Persuasion", "Représentation", "Tromperie"]}},
