@@ -95,7 +95,7 @@
 				reader.onload = function (e) {
 					var obj = loadJSON(e.target.result);
 					console.log(obj);
-					out.innerText = obj;
+					out.innerText = JSON.stringify(obj);
 				};
 				reader.readAsText(files[0]);
 			});
