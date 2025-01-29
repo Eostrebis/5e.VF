@@ -1,3 +1,83 @@
+<style>
+	.tab {
+		overflow: hidden;
+		border: 1px solid #ccc;
+		background-color: #f1f1f1;
+	}
+
+	.tab button {
+		background-color: inherit;
+		float: left;
+		border: none;
+		outline: none;
+		cursor: pointer;
+		padding: 14px 16px;
+		transition: 0.3s;
+		font-size: 17px;
+	}
+
+	.tab button:hover{
+		background-color: #ddd;
+	}
+
+	.tab button.active{
+		background-color: #ccc;
+	}
+
+	.tabcontent{
+		display: none;
+		padding: 6px 12px;
+		border: 1px solid #ccc;
+		border-top: none;
+	}
+</style>
+
+<div class="tab">
+	<button class="tablinks" onclick="openTab(event, 'Personnage')" id="defaultOpen">Personnage</button>
+	<button class="tablinks" onclick="openTab(event, 'races')">Race</button>
+	<button class="tablinks" onclick="openTab(event, 'classes')" >Classe</button>
+	<button class="tablinks" onclick="openTab(event, 'backgrounds')">Historique</button>
+	<button class="tablinks" onclick="openTab(event, 'feats')">Dons</button>
+	<button class="tablinks" onclick="openTab(event, 'spells')">Sorts</button>
+	<button class="tablinks" onclick="openTab(event, 'equipments')">Équipements</button>
+</div>
+
+<div id="Personnage" class="tabcontent">
+	This is a simple test :)
+</div>
+
+<div id="races" class="load tabcontent">
+
+</div>
+
+<div id="classes" class="load tabcontent">
+
+</div>
+
+<div id="feats" class="load tabcontent">
+
+</div>
+
+<div id="backgrounds" class="load tabcontent">
+
+</div>
+
+<div id="spells" class="load tabcontent">
+
+</div>
+
+<div id="equipments" class="load tabcontent">
+
+</div>
+
+<script type="text/javascript" src="loader.js"></script>
+
+<script>
+	document.querySelectorAll(".load").forEach(load => {
+		loadJson(load.id, false, load.id);
+	});
+</script>
+
 <script>
 	var level = 1;
 	var speed = {};
@@ -19,7 +99,7 @@
 	var features = [];
 
     function changeRaceHref(){
-    	var races = document.querySelectorAll(".race");
+    	var races = document.querySelectorAll("#races > .base-block");
     	races.forEach(race => {
     		race.href = "creator?race="+race.href.substring(race.href.lastIndexOf("/"));
     	});
@@ -48,46 +128,4 @@
     	}
     }
 
-    function loadJson(name){
-    	chosen_race = name;
-		fetch('../Races/'+name+'.json')
-    	.then((response) => response.json())
-    	.then((json) => {
-    		speed = json.speed;
-    		suggested_improvements = json.ability_improvements;
-    		type = json.type;
-    		size = json.size;
-    		languages = json.languages;
-    		json.features.forEach(feature => {
-    			if (feature.spells){
-    				addSpells(feature.spells, feature.level);
-    			}
-    			if (feature.resistances){
-    				addResistances(feature.resistances, feature.level)
-    			}
-    			if (feature.speed){
-
-    			}
-    			if (feature.choices){
-    				features_to_choose.push(feature);
-    			} else {
-    				features.push(feature);
-    			}
-    		});
-    	});
-    }
-
-</script>
-
-<span id="races">
-	{% include "partials/races.html" %}
-</span>
-
-<script type="text/javascript">
-	<!-- Change races href and behavior to account for character creation -->
-	races = document.querySelectorAll(".race");
-	races.forEach(race => {
-		race.href = "javascript:;";
-		race.onclick = function() {loadJson(race.querySelector(".race-name").textContent);};
-	});
 </script>

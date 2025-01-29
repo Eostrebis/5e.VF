@@ -74,8 +74,8 @@
 {%endif%}
 
 <!-- Page content -->
-{%if page.meta.load %}
-  {% include "partials/loader.html" %}
+{%if page.meta.load or page.meta.load_js%}
+    {% include "partials/loader.html" %}
 {%else%}
   {{ page.content }}
 {%endif%}
