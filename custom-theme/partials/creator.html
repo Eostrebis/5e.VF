@@ -132,14 +132,12 @@
 	function updateRace(race){
 		if (race !== chosen_race){
 			chosen_race = race;
-			console.log(chosen_race);
 		}
 	}
 
 	function updateClass(clas){
 		if (clas !== chosen_class){
 			chosen_class = clas;
-			console.log(chosen_class);
 		}
 	}
 
@@ -154,14 +152,11 @@
 	// Loadd all blocks;
 	sleep(400).then(() => {
 		document.querySelectorAll(".load").forEach(load => {
-			console.log(load.id);
 			switch (load.id){
 				case 'races':
 				case 'classes':
 					loadJson(load.id, false, load.id, (block, name) => {
 						return () => {
-							console.log(load.id);
-							console.log(block.id);
 							document.querySelectorAll(".base-block").forEach(b => {
 								b.classList.remove("selected");
 							});
