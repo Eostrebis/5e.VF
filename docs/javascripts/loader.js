@@ -1,4 +1,4 @@
-function updateSort(){
+function updateSort(edit_title=true){
     document.querySelectorAll(".base-block").forEach(block => {
         block.classList.remove("unsel");
         block.classList.add("sel");
@@ -24,13 +24,15 @@ function updateSort(){
             button.classList.add("off");
         }
     });
-    let title = document.querySelector("h1");
-    let title_text = title.textContent;
-    if (title_text.includes("(")){
-        title_text = title_text.substring(0,title_text.indexOf("("));
+    if (edit_title){
+        let title = document.querySelector("h1");
+        let title_text = title.textContent;
+        if (title_text.includes("(")){
+            title_text = title_text.substring(0,title_text.indexOf("("));
+        }
+        title_text = title_text + "(" + (document.querySelectorAll(".base-block").length - document.querySelectorAll(".unsel").length) +")";
+        title.textContent = title_text;
     }
-    title_text = title_text + "(" + (document.querySelectorAll(".base-block").length - document.querySelectorAll(".unsel").length) +")";
-    title.textContent = title_text;
 }
 
 function loadJson(page_json, redirection=true, div_id=null) {
@@ -91,7 +93,7 @@ function loadJson(page_json, redirection=true, div_id=null) {
                                     }
                                 }
                         }
-                        updateSort();
+                        updateSort(div_id==null);
                     };
                     if (div_id){
                         document.getElementById(div_id).appendChild(button);
@@ -152,7 +154,11 @@ function loadJson(page_json, redirection=true, div_id=null) {
                 });
                 base_grid.appendChild(block);
             });
-            document.getElementsByClassName("md-content__inner")[0].appendChild(base_grid);
+            if (div_id){
+                document.getElementById(div_id).appendChild(base_grid);
+            } else {
+                document.getElementsByClassName("md-content__inner")[0].appendChild(base_grid);
+            }
 
         });
 }
