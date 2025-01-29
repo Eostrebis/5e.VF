@@ -154,6 +154,7 @@
 	// Loadd all blocks;
 	sleep(400).then(() => {
 		document.querySelectorAll(".load").forEach(load => {
+			console.log(load.id);
 			switch (load.id){
 				case 'races':
 				case 'classes':
