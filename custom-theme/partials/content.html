@@ -74,10 +74,14 @@
 {%endif%}
 
 <!-- Page content -->
-{%if page.meta.load or page.meta.load_js%}
+{%if page.meta.load%}
     {% include "partials/loader.html" %}
 {%else%}
-  {{ page.content }}
+    {%if page.meta.creator%}
+        {% include "partials/creator.html" %}
+    {%else%}
+        {{ page.content }}
+    {%endif%}}
 {%endif%}
 
 {%if page.meta.school%}
