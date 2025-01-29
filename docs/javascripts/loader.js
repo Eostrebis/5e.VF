@@ -36,7 +36,9 @@ function updateSort(edit_title=true){
 }
 
 function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
-    document.getElementById("md-grid").style['max-width'] = '90%';
+    document.querySelectorAll(".md-grid").forEach(grid => {
+        grid.style['max-width'] = '90%';
+    });
     fetch('../' + page_json + '.json')
         .then((response) => response.json())
         .then((json) => {
