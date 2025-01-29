@@ -35,7 +35,7 @@ function updateSort(edit_title=true){
     }
 }
 
-function loadJson(page_json, redirection=true, div_id=null) {
+function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
     fetch('../' + page_json + '.json')
         .then((response) => response.json())
         .then((json) => {
@@ -108,8 +108,10 @@ function loadJson(page_json, redirection=true, div_id=null) {
                 block = document.createElement("a");
                 if (redirection) {
                     block.href = page_json + option.name;
+                    block.onclick = null;
                 } else {
                     block.href = "javascript:;";
+                    block.onclick = onclik;
                 }
                 block.classList.add("base-block");
                 let img = document.createElement("img");
