@@ -460,6 +460,10 @@
 							addSizeSelector(json.size);
 						}
 
+						if (json.subraces){
+							//TODO Subraces ?
+						}
+
 						if (json.features){
 							json.features.forEach(feature => {
 								handleFeature(feature, document.getElementById("race-features"), 3);
