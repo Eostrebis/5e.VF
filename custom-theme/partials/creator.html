@@ -440,7 +440,7 @@
 
 			resetRace();
 
-			fetch('../Races/' + race + '.json')
+			fetch('../races/' + race + '.json')
 					.then((response) => response.json())
 					.then((json) => {
 						suggested_improvements = json.ability_improvements;
