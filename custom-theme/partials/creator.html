@@ -91,6 +91,7 @@
 
 <input type = "file" id = "input_files">
 <div id = "out"></div>
+
 <script>
 	// var loadJSON = function (text) {
 	// 	try {
@@ -188,9 +189,9 @@
 		darkvision.push({"value":new_dv, "level":level, "origin":origin});
 	}
 
-    function addResistances(new_resistances, level){
+    function addResistances(new_resistances, level, origin){
     	for (var i in new_resistances){
-    		resistances.push([new_resistances[i], level]);
+    		resistances.push({"type":new_resistances[i], "level":level, "origin":origin});
     	}
     }
 
@@ -264,7 +265,6 @@
 		// AC
 		let new_acs = []
 		ACS.forEach(ac => {
-			console.log(ac);
 			if (!ac.origin.startsWith(keyword)){
 				new_acs.push(ac);
 			}
@@ -311,6 +311,10 @@
 
 		if (feature.tracker){
 			addTracker(feature.tracker, feature.level, "race");
+		}
+
+		if (feature.resistances){
+			addResistances(feature.resistance, feature.level, "race");
 		}
 
 		//TODO Resistance
@@ -412,7 +416,10 @@
 
 						//TODO Add/Remove Prof.
 						resetRace(feature.name, undefined, false);
-						addProficiency(choice.value, feature.level, "race-"+feature.name);
+						prof_choices.forEach(other_choice => {
+							addProficiency(other_choice.value, feature.level, "race-"+feature.name);
+						});
+
 
 					};
 				});
