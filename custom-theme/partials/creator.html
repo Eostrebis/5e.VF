@@ -207,14 +207,14 @@
 
 	}
 
-	function resetRace(feature="", parent=document.getElementById("race-features")){
+	function resetRace(feature="", parent=document.getElementById("race-features"), to_delete=true){
 		let keyword = "race"+(feature?"-"+feature:"");
 
 
 		type = "";
 
 		// Feature
-		if (parent){
+		if (to_delete){
 			parent.replaceChildren();
 		}
 
@@ -410,7 +410,7 @@
 						}
 
 						//TODO Add/Remove Prof.
-						resetRace(feature.name, parent=undefined);
+						resetRace(feature.name, undefined, true);
 						addProficiency(choice.value, feature.level, "race-"+feature.name);
 
 					};
