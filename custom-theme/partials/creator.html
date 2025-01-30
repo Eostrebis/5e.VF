@@ -1,68 +1,67 @@
 <style>
-	.tab {
-		overflow: hidden;
-		border: 1px solid #ccc;
-	}
+    .tab {
+        overflow: hidden;
+        border: 1px solid #ccc;
+    }
 
-	.tab button {
-		background-color: inherit;
-		float: left;
-		border: none;
-		outline: none;
-		cursor: pointer;
-		padding: 14px 16px;
-		transition: 0.3s;
-		font-size: 17px;
-	}
+    .tab button {
+        background-color: inherit;
+        float: left;
+        border: none;
+        outline: none;
+        cursor: pointer;
+        padding: 14px 16px;
+        transition: 0.3s;
+        font-size: 17px;
+    }
 
-	.tab button:hover{
-		background-color: #ddd;
-	}
+    .tab button:hover {
+        background-color: #ddd;
+    }
 
-	.tab button.active{
-		background-color: #ccc;
-	}
+    .tab button.active {
+        background-color: #ccc;
+    }
 
-	.tabcontent{
-		display: none;
-		padding: 6px 12px;
-		border-top: none;
-	}
+    .tabcontent {
+        display: none;
+        padding: 6px 12px;
+        border-top: none;
+    }
 </style>
 
 <div class="tab">
-	<button class="tablinks" onclick="openTab(event, 'Personnage')" id="defaultOpen">Personnage</button>
-	<button class="tablinks" onclick="openTab(event, 'races')">Race</button>
-	<button class="tablinks" onclick="openTab(event, 'classes')" >Classe</button>
-	<button class="tablinks" onclick="openTab(event, 'backgrounds')">Historique</button>
-	<button class="tablinks" onclick="openTab(event, 'feats')">Dons</button>
-	<button class="tablinks" onclick="openTab(event, 'spells')">Sorts</button>
-	<button class="tablinks" onclick="openTab(event, 'equipments')">Équipements</button>
+    <button class="tablinks" onclick="openTab(event, 'Personnage')" id="defaultOpen">Personnage</button>
+    <button class="tablinks" onclick="openTab(event, 'races')">Race</button>
+    <button class="tablinks" onclick="openTab(event, 'classes')">Classe</button>
+    <button class="tablinks" onclick="openTab(event, 'backgrounds')">Historique</button>
+    <button class="tablinks" onclick="openTab(event, 'feats')">Dons</button>
+    <button class="tablinks" onclick="openTab(event, 'spells')">Sorts</button>
+    <button class="tablinks" onclick="openTab(event, 'equipments')">Équipements</button>
 </div>
 
 <div id="Personnage" class="tabcontent">
-	<div class="info">
-		<label for="char_name"> Nom : </label>
-		<input type="text" id="char_name" name="name">
-	</div>
+    <div class="info">
+        <label for="char_name"> Nom : </label>
+        <input type="text" id="char_name" name="name">
+    </div>
 
-	<section id="st-stats">
+    <section id="st-stats">
 
-	</section>
+    </section>
 
-	<section id="st-race">
-		<h2 id="chosen_race"></h2>
+    <section id="st-race">
+        <h2 id="chosen_race"></h2>
 
-		<div id="race-features">
+        <div id="race-features">
 
-		</div>
-	</section>
+        </div>
+    </section>
 
-	<section id="st-classe">
+    <section id="st-classe">
 
 
-
-	</section>
+    </section>
 </div>
 
 <div id="races" class="load tabcontent">
@@ -89,455 +88,456 @@
 
 </div>
 
-<input type = "file" id = "input_files">
-<div id = "out"></div>
+<input type="file" id="input_files">
+<div id="out"></div>
 
 <script>
-	// var loadJSON = function (text) {
-	// 	try {
-	// 		var obj = JSON.parse(text);
-	// 		return obj;
-	// 	} catch (e) {
-	// 		return {
-	// 			x: 0,
-	// 			y: 0,
-	// 			message: e.message
-	// 		};
-	// 	}
-	// };
-	//
-	// var el_files = document.getElementById('input_files');
-	// el_out = document.getElementById('out'),
-	// 		el_files.addEventListener('change', function (e) {
-	// 			var files = this.files;
-	// 			console.log(files);
-	// 			var reader = new FileReader();
-	// 			reader.onload = function (e) {
-	// 				var obj = loadJSON(e.target.result);
-	// 				console.log(obj);
-	// 				out.innerText = JSON.stringify(obj);
-	// 			};
-	// 			reader.readAsText(files[0]);
-	// 		});
+    // var loadJSON = function (text) {
+    // 	try {
+    // 		var obj = JSON.parse(text);
+    // 		return obj;
+    // 	} catch (e) {
+    // 		return {
+    // 			x: 0,
+    // 			y: 0,
+    // 			message: e.message
+    // 		};
+    // 	}
+    // };
+    //
+    // var el_files = document.getElementById('input_files');
+    // el_out = document.getElementById('out'),
+    // 		el_files.addEventListener('change', function (e) {
+    // 			var files = this.files;
+    // 			console.log(files);
+    // 			var reader = new FileReader();
+    // 			reader.onload = function (e) {
+    // 				var obj = loadJSON(e.target.result);
+    // 				console.log(obj);
+    // 				out.innerText = JSON.stringify(obj);
+    // 			};
+    // 			reader.readAsText(files[0]);
+    // 		});
 </script>
 
 <script>
-	function openTab(evt, tab_name){
-		var i, tabcontent, tablinks;
-		tabcontent = document.getElementsByClassName("tabcontent");
-		for (i = 0; i < tabcontent.length; i++) {
-			tabcontent[i].style.display = "none";
-		}
-		tablinks = document.getElementsByClassName("tablinks");
-		for (i = 0; i < tablinks.length; i++) {
-			tablinks[i].className = tablinks[i].className.replace(" active", "");
-		}
-		document.getElementById(tab_name).style.display = "block";
-		evt.currentTarget.className += " active";
-	}
+    function openTab(evt, tab_name) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tablinks = document.getElementsByClassName("tablinks");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(tab_name).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
 
-	document.getElementById("defaultOpen").click();
+    document.getElementById("defaultOpen").click();
 </script>
 
 <script>
-	var level = 1;
-	var speed = {};
-	var type = "";
-	var languages = [];
-	var size = "";
-	var chosen_race = "";
-	var chosen_class = "";
-	var suggested_improvements = "";
-	var resistances = [];
-	var darkvision = [];
-	var proficiencies = [];
-	var trackers = [];
-	var expertises = [];
-	var FOR = 10;
-	var DEX = 10;
-	var CON = 10;
-	var INT = 10;
-	var WIS = 10;
-	var CHA = 10;
-	var feats = {};
-	var spells = {"0":[], "1":[], "2":[], "3":[],"4":[],"5":[], "6":[],"7":[],"8":[],"9":[]};
-	var features = [];
-	var ACS = [];
+    var level = 1;
+    var speed = {};
+    var type = "";
+    var languages = [];
+    var size = "";
+    var chosen_race = "";
+    var chosen_class = "";
+    var suggested_improvements = "";
+    var resistances = [];
+    var darkvision = [];
+    var proficiencies = [];
+    var trackers = [];
+    var expertises = [];
+    var FOR = 10;
+    var DEX = 10;
+    var CON = 10;
+    var INT = 10;
+    var WIS = 10;
+    var CHA = 10;
+    var feats = {};
+    var spells = {"0": [], "1": [], "2": [], "3": [], "4": [], "5": [], "6": [], "7": [], "8": [], "9": []};
+    var features = [];
+    var ACS = [];
 
-	function addSizeSelector(sizes){
-		//TODO Sizes
-	}
-
-    function addSpells(new_spells, level, origin){
-    	for (var i in new_spells){
-    		for (var j in new_spells[i]){
-    			spells[i].push({"value":new_spells[i][j], "level":level, "origin":origin});
-    		}
-    	}
+    function addSizeSelector(sizes) {
+        //TODO Sizes
     }
 
-    function addSpeed(new_speed, level, origin){
-    	for (var speed_mode in new_speed){
-    		if (!speed[speed_mode]){
-    			speed[speed_mode] = [];
-    		}
-    		speed[speed_mode].push({"value":new_speed[speed_mode], "level":level, "origin":origin});
-    	}
+    function addSpells(new_spells, level, origin) {
+        for (var i in new_spells) {
+            for (var j in new_spells[i]) {
+                spells[i].push({"value": new_spells[i][j], "level": level, "origin": origin});
+            }
+        }
     }
 
-	function addDarkvision(new_dv, level, origin){
-		darkvision.push({"value":new_dv, "level":level, "origin":origin});
-	}
-
-    function addResistances(new_resistances, level, origin){
-    	for (var i in new_resistances){
-    		resistances.push({"type":new_resistances[i], "level":level, "origin":origin});
-    	}
+    function addSpeed(new_speed, level, origin) {
+        for (var speed_mode in new_speed) {
+            if (!speed[speed_mode]) {
+                speed[speed_mode] = [];
+            }
+            speed[speed_mode].push({"value": new_speed[speed_mode], "level": level, "origin": origin});
+        }
     }
 
-	function addAC(new_ac, level, origin){
-		ACS.push({"value":new_ac.value, "bonus":new_ac.bonus, "level":level, "origin":origin});
-	}
-
-	function addTracker(new_track, level, origin){
-		trackers.push({"value":new_track, "level":level, "origin":origin});
-	}
-
-	function addProficiency(new_prof, level, origin){
-		proficiencies.push({"value":new_prof, "level":level, "origin":origin});
-
-	}
-
-	function resetRace(feature="", parent=document.getElementById("race-features"), to_delete=true){
-		let keyword = "race"+(feature?"-"+feature:"");
-
-
-		type = "";
-
-		// Feature
-		if (to_delete){
-			parent.replaceChildren();
-		}
-
-
-		// Language
-		let new_languages = [];
-		languages.forEach(language => {
-			if (!language.origin.startsWith(keyword)){
-				new_languages.push(language);
-			}
-		})
-		languages = new_languages;
-
-		// Speed
-		for (var speed_mode in speed){
-			new_spd_mode = [];
-			speed[speed_mode].forEach(spd =>
-			{
-				if (!spd.origin.startsWith(keyword)){
-					new_spd_mode.push(spd);
-				}
-			});
-			speed[speed_mode] = new_spd_mode;
-		}
-
-		// Visions
-		let new_dv = []
-		darkvision.forEach(dv => {
-			if (dv && !dv.origin.startsWith(keyword)){
-				new_dv.push(dv);
-			}
-		});
-		darkvision = new_dv;
-
-		// Spells
-		for (var spell_level in spells){
-			let new_level = [];
-			spells[spell_level].forEach(spd =>
-			{
-				if (!spd.origin.startsWith(keyword)){
-					new_level.push(spd);
-				}
-			});
-			spells[spell_level] = new_level;
-		}
-
-		// AC
-		let new_acs = []
-		ACS.forEach(ac => {
-			if (!ac.origin.startsWith(keyword)){
-				new_acs.push(ac);
-			}
-		});
-		ACS = new_acs;
-
-		// Trackers
-		let new_trackers = []
-		trackers.forEach(tracker => {
-			if (!tracker.origin.startsWith(keyword)){
-				new_trackers.push(tracker);
-			}
-		});
-		trackers = new_trackers;
-
-		// Proficiencies
-		let new_profs = []
-		proficiencies.forEach(prof => {
-			if (!prof.origin.startsWith(keyword)){
-				new_profs.push(prof);
-			}
-		});
-		proficiencies = new_profs;
-
-
-	}
-
-	function handleFeature(feature, parent, level){
-		if (feature.speed){
-			addSpeed(feature.speed, feature.level, "race");
-		}
-
-		if (feature.darkvision){
-			addDarkvision(feature.darkvision, feature.level, "race");
-		}
-
-		if (feature.spells){
-			addSpells(feature.spells, feature.level, "race");
-		}
-
-		if (feature.AC){
-			addAC(feature.AC, feature.level, "race");
-		}
-
-		if (feature.tracker){
-			addTracker(feature.tracker, feature.level, "race");
-		}
-
-		if (feature.resistances){
-			addResistances(feature.resistance, feature.level, "race");
-		}
-
-		//TODO Resistance
-
-
-		let feat_div = document.createElement("details");
-		feat_div.classList.add("race-feature");
-
-		let feat_title = document.createElement("summary");
-		feat_title.classList.add("race-feature-title");
-		feat_title.textContent = feature.name + ((feature.level && feature.level !== 1) ? " ("+feature.level+")" : "");
-
-		let feat_content = document.createElement("div");
-		feat_content.classList.add("race-feature-content");
-		feat_content.textContent = feature.description;
-
-		feat_div.appendChild(feat_title);
-		feat_div.appendChild(feat_content);
-
-		if (feature.choices){
-			let feat_choice = document.createElement("select");
-			console.log(feature.choices);
-			feature.choices.forEach(choice => {
-				let choice_option = document.createElement("option");
-				choice_option.value = choice.name;
-				choice_option.textContent = choice.name;
-				feat_choice.appendChild(choice_option);
-			});
-
-			let feat_desc = document.createElement("div");
-
-			feat_choice.onchange = () => {
-				// Clear feature
-
-				resetRace(feature.name, feat_desc);
-
-
-				feature.choices.forEach(choice => {
-					if (choice.name === feat_choice.value){
-						//Handle feature
-						handleFeature(choice, feat_desc, level+1, );
-					}
-				})
-			};
-
-
-			feat_div.appendChild(feat_choice);
-			feat_div.appendChild(feat_desc);
-
-			feat_choice.onchange(undefined);
-
-
-
-		}
-
-		if (feature.proficiency){
-			if (feature.proficiency.type === "choices"){
-				let prof_choices = [];
-				for (let i = 0; i < feature.proficiency.count; i++){
-					let prof_choice = document.createElement("select");
-					let choice_option = document.createElement("option");
-					choice_option.value = "";
-					choice_option.textContent = "";
-					prof_choice.appendChild(choice_option);
-					feature.proficiency.choices.forEach(choice => {
-						let choice_option = document.createElement("option");
-						choice_option.value = choice;
-						choice_option.textContent = choice;
-						prof_choice.appendChild(choice_option);
-					});
-					if (feature.proficiency.custom){
-						let choice_option = document.createElement("option");
-						choice_option.value = "Autre";
-						choice_option.textContent = "Autre";
-						prof_choice.appendChild(choice_option);
-					}
-					prof_choices.push(prof_choice)
-					feat_div.appendChild(prof_choice);
-				}
-				prof_choices.forEach(choice => {
-					choice.onchange = () => {
-						//TODO Remove option for all other choice
-						prof_choices.forEach(other_choice => {
-							if (other_choice !== choice){
-								Array.from(other_choice.children).forEach(child => {
-									if (child.value === choice.value){
-										child.style.display = "none";
-									} else {
-										child.style.display = "block";
-									}
-								})
-							}
-
-						});
-
-						//TODO if Custom
-						if (choice.value === "Autre"){
-							//TODO
-						}
-
-						//TODO Add/Remove Prof.
-						resetRace(feature.name, undefined, false);
-						prof_choices.forEach(other_choice => {
-							addProficiency(other_choice.value, feature.level, "race-"+feature.name);
-						});
-
-
-					};
-				});
-			console.log(prof_choices);
-			} else {
-				addProficiency(feature.proficiency, feature.level, "race");
-			}
-		}
-
-		parent.appendChild(feat_div);
-
-		// TODO Build feature
-	}
-
-	function updateRace(race){
-		if (race !== chosen_race){
-			chosen_race = race;
-
-			resetRace();
-
-			fetch('../races/' + race + '.json')
-					.then((response) => response.json())
-					.then((json) => {
-						suggested_improvements = json.ability_improvements;
-
-						type = json.type;
-
-						json.languages.forEach(language => {
-							l = {"value":language, "origin":"race"};
-							languages.push(l);
-						});
-
-						addSpeed(json.speed, 0, "race");
-
-						if (json.size.length === 1){
-							size = json.size;
-						} else {
-							addSizeSelector(json.size);
-						}
-
-						if (json.subraces){
-							let sub_div = document.createElement("div");
-							sub_div.id = "race-subrace";
-							let sub_choice = document.createElement("select");
-							json.subraces.forEach(subrace => {
-								let choice_option = document.createElement("option");
-								choice_option.value = subrace.name;
-								choice_option.textContent = subrace.name;
-								sub_choice.appendChild(choice_option);
-							})
-
-
-							sub_choice.onchange = () => {
-								//TODO Add/Remove Features
-								resetRace("race-subrace", undefined, false);
-								json.subraces.forEach(subrace => {
-									if (subrace.name === sub_choice.value){
-										subrace.features.forEach(feat => handleFeature(feat, document.getElementById("race-subrace"), 4));
-									}
-								});
-							};
-							sub_div.appendChild(sub_choice);
-							document.getElementById("race-features").appendChild(sub_div);
-
-						}
-
-						if (json.features){
-							json.features.forEach(feature => {
-								handleFeature(feature, document.getElementById("race-features"), 3);
-							})
-						}
-
-					});
-
-			document.getElementById("chosen_race").textContent = chosen_race;
-		}
-	}
-
-	function updateClass(clas){
-		if (clas !== chosen_class){
-			chosen_class = clas;
-		}
-	}
+    function addDarkvision(new_dv, level, origin) {
+        darkvision.push({"value": new_dv, "level": level, "origin": origin});
+    }
+
+    function addResistances(new_resistances, level, origin) {
+        for (var i in new_resistances) {
+            resistances.push({"type": new_resistances[i], "level": level, "origin": origin});
+        }
+    }
+
+    function addAC(new_ac, level, origin) {
+        ACS.push({"value": new_ac.value, "bonus": new_ac.bonus, "level": level, "origin": origin});
+    }
+
+    function addTracker(new_track, level, origin) {
+        trackers.push({"value": new_track, "level": level, "origin": origin});
+    }
+
+    function addProficiency(new_prof, level, origin) {
+        proficiencies.push({"value": new_prof, "level": level, "origin": origin});
+
+    }
+
+    function resetRace(feature = "", parent = document.getElementById("race-features"), to_delete = true) {
+        let keyword = "race" + (feature ? "-" + feature : "");
+
+
+        type = "";
+
+        // Feature
+        if (to_delete) {
+            parent.replaceChildren();
+        }
+
+
+        // Language
+        let new_languages = [];
+        languages.forEach(language => {
+            if (!language.origin.startsWith(keyword)) {
+                new_languages.push(language);
+            }
+        })
+        languages = new_languages;
+
+        // Speed
+        for (var speed_mode in speed) {
+            new_spd_mode = [];
+            speed[speed_mode].forEach(spd => {
+                if (!spd.origin.startsWith(keyword)) {
+                    new_spd_mode.push(spd);
+                }
+            });
+            speed[speed_mode] = new_spd_mode;
+        }
+
+        // Visions
+        let new_dv = []
+        darkvision.forEach(dv => {
+            if (dv && !dv.origin.startsWith(keyword)) {
+                new_dv.push(dv);
+            }
+        });
+        darkvision = new_dv;
+
+        // Spells
+        for (var spell_level in spells) {
+            let new_level = [];
+            spells[spell_level].forEach(spd => {
+                if (!spd.origin.startsWith(keyword)) {
+                    new_level.push(spd);
+                }
+            });
+            spells[spell_level] = new_level;
+        }
+
+        // AC
+        let new_acs = []
+        ACS.forEach(ac => {
+            if (!ac.origin.startsWith(keyword)) {
+                new_acs.push(ac);
+            }
+        });
+        ACS = new_acs;
+
+        // Trackers
+        let new_trackers = []
+        trackers.forEach(tracker => {
+            if (!tracker.origin.startsWith(keyword)) {
+                new_trackers.push(tracker);
+            }
+        });
+        trackers = new_trackers;
+
+        // Proficiencies
+        let new_profs = []
+        proficiencies.forEach(prof => {
+            if (!prof.origin.startsWith(keyword)) {
+                new_profs.push(prof);
+            }
+        });
+        proficiencies = new_profs;
+
+
+    }
+
+    function handleFeature(feature, parent, level) {
+        if (feature.speed) {
+            addSpeed(feature.speed, feature.level, "race");
+        }
+
+        if (feature.darkvision) {
+            addDarkvision(feature.darkvision, feature.level, "race");
+        }
+
+        if (feature.spells) {
+            addSpells(feature.spells, feature.level, "race");
+        }
+
+        if (feature.AC) {
+            addAC(feature.AC, feature.level, "race");
+        }
+
+        if (feature.tracker) {
+            addTracker(feature.tracker, feature.level, "race");
+        }
+
+        if (feature.resistances) {
+            addResistances(feature.resistance, feature.level, "race");
+        }
+
+        //TODO Resistance
+
+
+        let feat_div = document.createElement("details");
+        feat_div.classList.add("race-feature");
+
+        let feat_title = document.createElement("summary");
+        feat_title.classList.add("race-feature-title");
+        feat_title.textContent = feature.name + ((feature.level && feature.level !== 1) ? " (" + feature.level + ")" : "");
+
+        let feat_content = document.createElement("div");
+        feat_content.classList.add("race-feature-content");
+        feat_content.textContent = feature.description;
+
+        feat_div.appendChild(feat_title);
+        feat_div.appendChild(feat_content);
+
+        if (feature.choices) {
+            let feat_choice = document.createElement("select");
+
+            if (feature.choices.header) {
+                // Handle multi-column choice ?
+            } else {
+                console.log(feature.choices);
+                feature.choices.forEach(choice => {
+                    let choice_option = document.createElement("option");
+                    choice_option.value = choice.name;
+                    choice_option.textContent = choice.name;
+                    feat_choice.appendChild(choice_option);
+                });
+
+                let feat_desc = document.createElement("div");
+
+                feat_choice.onchange = () => {
+                    // Clear feature
+
+                    resetRace(feature.name, feat_desc);
+
+
+                    feature.choices.forEach(choice => {
+                        if (choice.name === feat_choice.value) {
+                            //Handle feature
+                            handleFeature(choice, feat_desc, level + 1,);
+                        }
+                    })
+                };
+
+
+                feat_div.appendChild(feat_choice);
+                feat_div.appendChild(feat_desc);
+
+                feat_choice.onchange(undefined);
+            }
+        }
+
+        if (feature.proficiency) {
+            if (feature.proficiency.type === "choices") {
+                let prof_choices = [];
+                for (let i = 0; i < feature.proficiency.count; i++) {
+                    let prof_choice = document.createElement("select");
+                    let choice_option = document.createElement("option");
+                    choice_option.value = "";
+                    choice_option.textContent = "";
+                    prof_choice.appendChild(choice_option);
+                    feature.proficiency.choices.forEach(choice => {
+                        let choice_option = document.createElement("option");
+                        choice_option.value = choice;
+                        choice_option.textContent = choice;
+                        prof_choice.appendChild(choice_option);
+                    });
+                    if (feature.proficiency.custom) {
+                        let choice_option = document.createElement("option");
+                        choice_option.value = "Autre";
+                        choice_option.textContent = "Autre";
+                        prof_choice.appendChild(choice_option);
+                    }
+                    prof_choices.push(prof_choice)
+                    feat_div.appendChild(prof_choice);
+                }
+                prof_choices.forEach(choice => {
+                    choice.onchange = () => {
+                        //TODO Remove option for all other choice
+                        prof_choices.forEach(other_choice => {
+                            if (other_choice !== choice) {
+                                Array.from(other_choice.children).forEach(child => {
+                                    if (child.value === choice.value) {
+                                        child.style.display = "none";
+                                    } else {
+                                        child.style.display = "block";
+                                    }
+                                })
+                            }
+
+                        });
+
+                        //TODO if Custom
+                        if (choice.value === "Autre") {
+                            //TODO
+                        }
+
+                        //TODO Add/Remove Prof.
+                        resetRace(feature.name, undefined, false);
+                        prof_choices.forEach(other_choice => {
+                            addProficiency(other_choice.value, feature.level, "race-" + feature.name);
+                        });
+
+
+                    };
+                });
+                console.log(prof_choices);
+            } else {
+                addProficiency(feature.proficiency, feature.level, "race");
+            }
+        }
+
+        parent.appendChild(feat_div);
+
+        // TODO Build feature
+    }
+
+    function updateRace(race) {
+        if (race !== chosen_race) {
+            chosen_race = race;
+
+            resetRace();
+
+            fetch('../races/' + race + '.json')
+                .then((response) => response.json())
+                .then((json) => {
+                    suggested_improvements = json.ability_improvements;
+
+                    type = json.type;
+
+                    json.languages.forEach(language => {
+                        l = {"value": language, "origin": "race"};
+                        languages.push(l);
+                    });
+
+                    addSpeed(json.speed, 0, "race");
+
+                    if (json.size.length === 1) {
+                        size = json.size;
+                    } else {
+                        addSizeSelector(json.size);
+                    }
+
+                    if (json.subraces) {
+                        let sub_div = document.createElement("div");
+                        sub_div.id = "race-subrace";
+                        let sub_choice = document.createElement("select");
+                        json.subraces.forEach(subrace => {
+                            let choice_option = document.createElement("option");
+                            choice_option.value = subrace.name;
+                            choice_option.textContent = subrace.name;
+                            sub_choice.appendChild(choice_option);
+                        })
+
+
+                        sub_choice.onchange = () => {
+                            //TODO Add/Remove Features
+                            resetRace("race-subrace", undefined, false);
+                            json.subraces.forEach(subrace => {
+                                if (subrace.name === sub_choice.value) {
+                                    subrace.features.forEach(feat => handleFeature(feat, document.getElementById("race-subrace"), 4));
+                                }
+                            });
+                        };
+                        sub_div.appendChild(sub_choice);
+                        document.getElementById("race-features").appendChild(sub_div);
+
+                    }
+
+                    if (json.features) {
+                        json.features.forEach(feature => {
+                            handleFeature(feature, document.getElementById("race-features"), 3);
+                        })
+                    }
+
+                });
+
+            document.getElementById("chosen_race").textContent = chosen_race;
+        }
+    }
+
+    function updateClass(clas) {
+        if (clas !== chosen_class) {
+            chosen_class = clas;
+        }
+    }
 
 </script>
 
 
 <script>
-	function sleep(ms) {
-		return new Promise(resolve => setTimeout(resolve, ms));
-	}
+    function sleep(ms) {
+        return new Promise(resolve => setTimeout(resolve, ms));
+    }
 
-	// Loadd all blocks;
-	sleep(400).then(() => {
-		document.querySelectorAll(".load").forEach(load => {
-			switch (load.id){
-				case 'races':
-				case 'classes':
-					loadJson(load.id, false, load.id, (block, name) => {
-						return () => {
-							document.querySelectorAll(".base-block").forEach(b => {
-								b.classList.remove("selected");
-							});
-							block.classList.add("selected");
-							switch (load.id){
-								case "races":
-									updateRace(name);
-									break;
-								case "classes":
-									updateClass(name);
-									break;
-							}
-						}});
-					break;
-				default:
-					console.log(load.id + " not handled");
-			}
-		});
-	});
+    // Loadd all blocks;
+    sleep(400).then(() => {
+        document.querySelectorAll(".load").forEach(load => {
+            switch (load.id) {
+                case 'races':
+                case 'classes':
+                    loadJson(load.id, false, load.id, (block, name) => {
+                        return () => {
+                            document.querySelectorAll(".base-block").forEach(b => {
+                                b.classList.remove("selected");
+                            });
+                            block.classList.add("selected");
+                            switch (load.id) {
+                                case "races":
+                                    updateRace(name);
+                                    break;
+                                case "classes":
+                                    updateClass(name);
+                                    break;
+                            }
+                        }
+                    });
+                    break;
+                default:
+                    console.log(load.id + " not handled");
+            }
+        });
+    });
 </script>
