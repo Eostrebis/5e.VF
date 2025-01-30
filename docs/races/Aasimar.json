@@ -1,20 +1,67 @@
 {
-	"ability_improvements":"CHA +2, SAG +1",
-	"type":"Humanoïde",
-	"languages":["Commun","Céleste"],
-	"size":["M"],
-	"speed":{"walk":30},
-	"features":[
-		{"name": "Résistance Céleste", "level": 1, "description":"Vous avez la résistance aux dégâts nécrotiques et radieux.", "resistances":["nécrotique","radiant"]},
-		{"name": "Vision dans le noir", "level":1, "description":"Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18 m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.", "darkvision":60},
-		{"name": "Mains Soignantes", "level":1, "description":"Pour une action, vous pouvez toucher une créature et lancez un nombre de d4s égal à votre modificateur de maîtrise. La créature regagne un nombre de points de vie égal au total obtenu. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir fini un repos long."},
-		{"name": "Porteur de Lumière", "level":1, "description":"Vous connaissez le cantrip Lumières. Vous utilisez le charisme comme caractéristique d'incantation pour ce sort.", "spells":{"0":["Lumières"]}},
-		{"name": "Révélation Céleste", "level":3, "description":"Lorsque vous atteignez le niveau 3, choisissez l'une des révélations ci-dessous. Après cela, vous pourrez utiliser une action bonus pour libérer l'énergie céleste en vous, gagnant les bonus de cette révélation. Cette transformation dure 1 minute ou jusqu'à ce que vous la terminiez pour une action bonus. Une fois que vous vous êtes transformé en utilisant une révélation, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long.",
-			"choices":[
-				{"name":"Nuage Nécrotique", "description":"Vos yeux deviennent brièvement des puits sombres, et de petites ailes fantomatiques apparaissent temporairement dans votre dos. Les créatures autres que vos alliés à moins de 10 ft. de vous doivent réussir un jet de sauvegarde de Charisme (DD 8 + bonus de maîtrise + modificateur de Charisme) ou être apeurées jusqu'à la fin de votre prochain tour. Jusqu'à ce que la transformation ne se termine, une fois à chacun de vos tours, vous pouvez infliger des dégâts supplémentaires nécrotiques à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."},
-				{"name":"Consommation Radieuse", "description":"Une lumière éblouissante s'échappe de vos yeux ainsi que de votre bouche. Pour la durée, vous produisez une lumière forte dans un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires et, à la fin de chacun de vos tours, vous pouvez infliger des dégâts supplémentaires radieux à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."},
-				{"name":"Âme Radieuse", "description":"Deux ailes lumineuses et spectrales bourgeonnent temporairement de votre dos. Jusqu'à ce que la transformation ne se termine, vous possédez une vitesse de vol égale à votre vitesse de marche, et une fois par tour, vous pouvez infliger des dégâts supplémentaires radieux à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."}
-			]
-		}
-	]
+  "ability_improvements": "CHA +2, SAG +1",
+  "type": "Humanoïde",
+  "languages": [
+    "Commun",
+    "Céleste"
+  ],
+  "size": [
+    "M"
+  ],
+  "speed": {
+    "walk": 30
+  },
+  "features": [
+    {
+      "name": "Résistance Céleste",
+      "level": 1,
+      "description": "Vous avez la résistance aux dégâts nécrotiques et radieux.",
+      "resistances": [
+        "nécrotique",
+        "radiant"
+      ]
+    },
+    {
+      "name": "Vision dans le noir",
+      "level": 1,
+      "description": "Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18 m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+      "darkvision": 60
+    },
+    {
+      "name": "Mains Soignantes",
+      "level": 1,
+      "description": "Pour une action, vous pouvez toucher une créature et lancez un nombre de d4s égal à votre modificateur de maîtrise. La créature regagne un nombre de points de vie égal au total obtenu. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir fini un repos long.",
+      "tracker": {"name": "Mains Soignantes", "count": 1, "reset": "LR"};
+    },
+    {
+      "name": "Porteur de Lumière",
+      "level": 1,
+      "description": "Vous connaissez le cantrip Lumières. Vous utilisez le charisme comme caractéristique d'incantation pour ce sort.",
+      "spells": {
+        "0": [
+          "Lumières"
+        ]
+      }
+    },
+    {
+      "name": "Révélation Céleste",
+      "level": 3,
+      "description": "Lorsque vous atteignez le niveau 3, choisissez l'une des révélations ci-dessous. Après cela, vous pourrez utiliser une action bonus pour libérer l'énergie céleste en vous, gagnant les bonus de cette révélation. Cette transformation dure 1 minute ou jusqu'à ce que vous la terminiez pour une action bonus. Une fois que vous vous êtes transformé en utilisant une révélation, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long.",
+      "tracker": {"name": "Révélation Céleste", "count": 1, "reset":"LR"},
+      "choices": [
+        {
+          "name": "Nuage Nécrotique",
+          "description": "Vos yeux deviennent brièvement des puits sombres, et de petites ailes fantomatiques apparaissent temporairement dans votre dos. Les créatures autres que vos alliés à moins de 10 ft. de vous doivent réussir un jet de sauvegarde de Charisme (DD 8 + bonus de maîtrise + modificateur de Charisme) ou être apeurées jusqu'à la fin de votre prochain tour. Jusqu'à ce que la transformation ne se termine, une fois à chacun de vos tours, vous pouvez infliger des dégâts supplémentaires nécrotiques à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
+        },
+        {
+          "name": "Consommation Radieuse",
+          "description": "Une lumière éblouissante s'échappe de vos yeux ainsi que de votre bouche. Pour la durée, vous produisez une lumière forte dans un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires et, à la fin de chacun de vos tours, vous pouvez infliger des dégâts supplémentaires radieux à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
+        },
+        {
+          "name": "Âme Radieuse",
+          "description": "Deux ailes lumineuses et spectrales bourgeonnent temporairement de votre dos. Jusqu'à ce que la transformation ne se termine, vous possédez une vitesse de vol égale à votre vitesse de marche, et une fois par tour, vous pouvez infliger des dégâts supplémentaires radieux à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
+        }
+      ]
+    }
+  ]
 }
