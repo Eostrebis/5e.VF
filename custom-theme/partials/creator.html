@@ -214,8 +214,9 @@
 		type = "";
 
 		// Feature
-
-		parent.replaceChildren();
+		if (parent){
+			parent.replaceChildren();
+		}
 
 
 		// Language
@@ -409,7 +410,7 @@
 						}
 
 						//TODO Add/Remove Prof.
-						resetRace(feature.name, parent=choice);
+						resetRace(feature.name, parent=undefined);
 						addProficiency(choice.value, feature.level, "race-"+feature.name);
 
 					};
