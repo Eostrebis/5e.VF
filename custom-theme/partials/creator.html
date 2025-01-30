@@ -203,6 +203,7 @@
 	}
 
 	function addProficiency(new_prof, level, origin){
+		proficiencies.push({"value":new_prof, "level":level, "origin":origin});
 
 	}
 
@@ -220,7 +221,7 @@
 		// Language
 		let new_languages = [];
 		languages.forEach(language => {
-			if (language.origin !== keyword){
+			if (!language.origin.startsWith(keyword)){
 				new_languages.push(language);
 			}
 		})
@@ -231,7 +232,7 @@
 			new_spd_mode = [];
 			speed[speed_mode].forEach(spd =>
 			{
-				if (spd.origin !== keyword){
+				if (!spd.origin.startsWith(keyword)){
 					new_spd_mode.push(spd);
 				}
 			});
@@ -241,7 +242,7 @@
 		// Visions
 		let new_dv = []
 		darkvision.forEach(dv => {
-			if (dv && dv.origin !== keyword){
+			if (dv && !dv.origin.startsWith(keyword)){
 				new_dv.push(dv);
 			}
 		});
@@ -252,7 +253,7 @@
 			let new_level = [];
 			spells[spell_level].forEach(spd =>
 			{
-				if (spd.origin !== keyword){
+				if (!spd.origin.startsWith(keyword)){
 					new_level.push(spd);
 				}
 			});
@@ -262,7 +263,7 @@
 		// AC
 		let new_acs = []
 		ACS.forEach(ac => {
-			if (ac.origin !== keyword){
+			if (!ac.origin.startsWith(keyword)){
 				new_acs.push(ACS);
 			}
 		});
@@ -271,11 +272,20 @@
 		// Trackers
 		let new_trackers = []
 		trackers.forEach(tracker => {
-			if (tracker.origin !== keyword){
+			if (!tracker.origin.startsWith(keyword)){
 				new_trackers.push(tracker);
 			}
 		});
 		trackers = new_trackers;
+
+		// Proficiencies
+		let new_profs = []
+		proficiencies.forEach(prof => {
+			if (!prof.origin.startsWith(keyword)){
+				new_profs.push(prof);
+			}
+		});
+		proficiencies = new_profs;
 
 
 	}
@@ -358,6 +368,10 @@
 				let prof_choices = [];
 				for (let i = 0; i < feature.proficiency.count; i++){
 					let prof_choice = document.createElement("select");
+					let choice_option = document.createElement("option");
+					choice_option.value = "";
+					choice_option.textContent = "";
+					prof_choice.appendChild(choice_option);
 					feature.proficiency.choices.forEach(choice => {
 						let choice_option = document.createElement("option");
 						choice_option.value = choice;
@@ -376,10 +390,28 @@
 				prof_choices.forEach(choice => {
 					choice.onchange = () => {
 						//TODO Remove option for all other choice
+						prof_choices.forEach(other_choice => {
+							if (other_choice !== choice){
+								other_choice.children().forEach(child => {
+									if (child.value === choice.value){
+										child.style.display = "none";
+									} else {
+										child.style.display = "block";
+									}
+								})
+							}
+
+						});
 
 						//TODO if Custom
+						if (choice.value === "Autre"){
+							//TODO
+						}
 
 						//TODO Add/Remove Prof.
+						resetRace(feature.name, parent=choice);
+						addProficiency(choice.value, feature.level, "race-"+feature.name);
+
 					};
 				});
 			console.log(prof_choices);
