@@ -392,7 +392,7 @@
 						//TODO Remove option for all other choice
 						prof_choices.forEach(other_choice => {
 							if (other_choice !== choice){
-								other_choice.children.forEach(child => {
+								Array.from(other_choice.children).forEach(child => {
 									if (child.value === choice.value){
 										child.style.display = "none";
 									} else {
