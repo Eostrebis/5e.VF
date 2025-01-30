@@ -461,7 +461,29 @@
 						}
 
 						if (json.subraces){
-							//TODO Subraces ?
+							let sub_div = document.createElement("div");
+							sub_div.id = "race-subrace";
+							let sub_choice = document.createElement("select");
+							json.subraces.forEach(subrace => {
+								let choice_option = document.createElement("option");
+								choice_option.value = subrace.name;
+								choice_option.textContent = subrace.name;
+								sub_choice.appendChild(choice_option);
+							})
+
+
+							sub_choice.onchange = () => {
+								//TODO Add/Remove Features
+								resetRace("race-subrace", undefined, false);
+								json.subraces.forEach(subrace => {
+									if (subrace.name === sub_choice.value){
+										subrace.features.forEach(feat => handleFeature(feat, document.getElementById("race-subrace"), 4));
+									}
+								});
+							};
+							sub_div.appendChild(sub_choice);
+							document.getElementById("race-features").appendChild(sub_div);
+
 						}
 
 						if (json.features){
