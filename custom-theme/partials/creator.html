@@ -392,7 +392,7 @@
 						//TODO Remove option for all other choice
 						prof_choices.forEach(other_choice => {
 							if (other_choice !== choice){
-								other_choice.children().forEach(child => {
+								other_choice.children.forEach(child => {
 									if (child.value === choice.value){
 										child.style.display = "none";
 									} else {
@@ -415,8 +415,9 @@
 					};
 				});
 			console.log(prof_choices);
+			} else {
+				addProficiency(feature.proficiency, feature.level, "race");
 			}
-			addProficiency(feature.proficiency, feature.level, "race");
 		}
 
 		parent.appendChild(feat_div);
