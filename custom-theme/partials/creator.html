@@ -149,6 +149,9 @@
 	var suggested_improvements = "";
 	var resistances = [];
 	var darkvision = [];
+	var proficiencies = [];
+	var trackers = [];
+	var expertises = [];
 	var FOR = 10;
 	var DEX = 10;
 	var CON = 10;
@@ -158,15 +161,10 @@
 	var feats = {};
 	var spells = {"0":[], "1":[], "2":[], "3":[],"4":[],"5":[], "6":[],"7":[],"8":[],"9":[]};
 	var features = [];
-
-	function updateChar(){
-		updateRace();
-	}
-
-
+	var ACS = [];
 
 	function addSizeSelector(sizes){
-
+		//TODO Sizes
 	}
 
     function addSpells(new_spells, level, origin){
@@ -195,6 +193,18 @@
     		resistances.push([new_resistances[i], level]);
     	}
     }
+
+	function addAC(new_ac, level, origin){
+		ACS.push({"value":new_ac.value, "bonus":new_ac.bonus, "level":level, "origin":origin});
+	}
+
+	function addTracker(new_track, level, origin){
+		trackers.push({"value":new_track, "level":level, "origin":origin});
+	}
+
+	function addProficiency(new_prof, level, origin){
+
+	}
 
 	function resetRace(feature="", parent=document.getElementById("race-features")){
 		let keyword = "race"+(feature?"-"+feature:"");
@@ -231,7 +241,6 @@
 		// Visions
 		let new_dv = []
 		darkvision.forEach(dv => {
-			console.log(dv);
 			if (dv && dv.origin !== keyword){
 				new_dv.push(dv);
 			}
@@ -250,6 +259,24 @@
 			spells[spell_level] = new_level;
 		}
 
+		// AC
+		let new_acs = []
+		ACS.forEach(ac => {
+			if (ac.origin !== keyword){
+				new_acs.push(ACS);
+			}
+		});
+		ACS = new_acs;
+
+		// Trackers
+		let new_trackers = []
+		trackers.forEach(tracker => {
+			if (tracker.origin !== keyword){
+				new_trackers.push(tracker);
+			}
+		});
+		trackers = new_trackers;
+
 
 	}
 
@@ -264,6 +291,14 @@
 
 		if (feature.spells){
 			addSpells(feature.spells, feature.level, "race");
+		}
+
+		if (feature.AC){
+			addAC(feature.AC, feature.level, "race");
+		}
+
+		if (feature.tracker){
+			addTracker(feature.tracker, feature.level, "race");
 		}
 
 
@@ -284,7 +319,7 @@
 		if (feature.choices){
 			let feat_choice = document.createElement("select");
 			feature.choices.forEach(choice => {
-				choice_option = document.createElement("option");
+				let choice_option = document.createElement("option");
 				choice_option.value = choice.name;
 				choice_option.textContent = choice.name;
 				feat_choice.appendChild(choice_option);
@@ -314,6 +349,40 @@
 
 
 
+		}
+
+		if (feature.proficiency){
+			if (feature.proficiency.type === "choices"){
+				let prof_choices = [];
+				for (let i = 0; i < feature.count; i++){
+					let prof_choice = document.createElement("select");
+					feature.proficiency.choices.forEach(choice => {
+						let choice_option = document.createElement("option");
+						choice_option.value = choice.name;
+						choice_option.textContent = choice.name;
+						prof_choice.appendChild(choice_option);
+					});
+					if (feature.proficiency.custom){
+						let choice_option = document.createElement("option");
+						choice_option.value = "Autre";
+						choice_option.textContent = "Autre";
+						prof_choice.appendChild(choice_option);
+					}
+					prof_choices.append(prof_choice)
+					feat_div.appendChild(prof_choice);
+				}
+				prof_choices.forEach(choice => {
+					choice.onchange = () => {
+						//TODO Remove option for all other choice
+
+						//TODO if Custom
+
+						//TODO Add/Remove Prof.
+					};
+				});
+			console.log(prof_choices);
+			}
+			addProficiency(feature.proficiency, feature.level, "race");
 		}
 
 		parent.appendChild(feat_div);
