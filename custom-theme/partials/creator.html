@@ -460,10 +460,11 @@
 							addSizeSelector(json.size);
 						}
 
-						json.features.forEach(feature => {
-							handleFeature(feature, document.getElementById("race-features"), 3);
-						})
-
+						if (json.features){
+							json.features.forEach(feature => {
+								handleFeature(feature, document.getElementById("race-features"), 3);
+							})
+						}
 
 					});
 
