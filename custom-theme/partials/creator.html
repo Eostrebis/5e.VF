@@ -360,8 +360,8 @@
 					let prof_choice = document.createElement("select");
 					feature.proficiency.choices.forEach(choice => {
 						let choice_option = document.createElement("option");
-						choice_option.value = choice.name;
-						choice_option.textContent = choice.name;
+						choice_option.value = choice;
+						choice_option.textContent = choice;
 						prof_choice.appendChild(choice_option);
 					});
 					if (feature.proficiency.custom){
