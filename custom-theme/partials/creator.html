@@ -301,6 +301,8 @@
 			addTracker(feature.tracker, feature.level, "race");
 		}
 
+		//TODO Resistance
+
 
 		let feat_div = document.createElement("details");
 		feat_div.classList.add("race-feature");
@@ -354,7 +356,7 @@
 		if (feature.proficiency){
 			if (feature.proficiency.type === "choices"){
 				let prof_choices = [];
-				for (let i = 0; i < feature.count; i++){
+				for (let i = 0; i < feature.proficiency.count; i++){
 					let prof_choice = document.createElement("select");
 					feature.proficiency.choices.forEach(choice => {
 						let choice_option = document.createElement("option");
