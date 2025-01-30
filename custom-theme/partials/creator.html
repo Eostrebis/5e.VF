@@ -336,6 +336,7 @@
 
 		if (feature.choices){
 			let feat_choice = document.createElement("select");
+			console.log(feature.choices);
 			feature.choices.forEach(choice => {
 				let choice_option = document.createElement("option");
 				choice_option.value = choice.name;
