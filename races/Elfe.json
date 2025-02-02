@@ -1,0 +1,169 @@
+{
+  "type": "Humanoïde",
+  "languages": [
+    "Elfique"
+  ],
+  "size": [
+    "M"
+  ],
+  "features": [
+    {
+      "name": "Ascendance Féerique",
+      "level": 1,
+      "description": "Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir."
+    },
+    {
+      "name": "Transe",
+      "level": 1,
+      "description": "Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil."
+    },
+    {
+      "name": "Sens Aiguisés",
+      "description": "Vous maîtrisez la compétence Perception.",
+      "level": 1,
+      "proficiency": {
+        "type": "fix",
+        "values": ["Perception"]
+      }
+    }
+  ],
+  "subraces": [
+    {
+      "name": "Haut Elfe",
+      "language": [
+        "Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Entraînement aux Armes Elfes",
+          "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
+          "level": 1,
+          "weapon_proficieny":  {
+            "type": "fix",
+            "values": ["Épée Longue", "Épée Courte", "Arc Court", "Arc Long"]
+          }
+        },
+        {
+          "name": "Cantrip",
+          "level": 1,
+          "add_spell": [{"0": {"level": 1, "class": "wizard", "spellcasting": "Intelligence"}}],
+          "description": "Vous connaissez un cantrip de votre choix de la liste du magicien. L'intelligence est votre caractéristique de lancement pour ce sort."
+        },
+        {
+          "name": "Langue Supplémentaire",
+          "level": 1,
+          "add_language": {"type": "choice", "count": 1},
+          "description": "Vous connaissez une langue supplémentaire de votre choix."
+        }
+      ]
+    },
+    {
+      "name": "Elfe des Bois",
+      "language": [
+        "Commun"
+      ],
+      "speed": {
+        "walk": 35
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Entraînement aux Armes Elfes",
+          "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
+          "level": 1,
+          "weapon_proficieny":  {
+            "type": "fix",
+            "values": ["Épée Longue", "Épée Courte", "Arc Court", "Arc Long"]
+          }
+        },
+        {
+          "name": "Cachette Naturelle",
+          "level": 1,
+          "description": "Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel."
+        }
+      ]
+    },
+    {
+      "name": "Drow",
+      "language": [
+        "Outre-Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 120
+        },
+        {
+          "name": "Sensibilité au Soleil",
+          "description": "Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière naturelle.",
+          "level": 1
+        },
+        {
+          "name": "Magie Drow",
+          "level": 1,
+          "description": "Vous connaissez le cantrip lumières dansantes. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort lueurs féériques une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort ténèbres une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.",
+          "spells": {
+            "0": [
+              {
+                "name": "Lumières dansantes",
+                "spellcasting": {"type": "fix", "value": "Charisme"},
+                "atlevel": 1
+              }
+            ],
+            "1": [
+              {
+                "name": "Lueurs féériques",
+                "spellcasting": {"type": "fix", "value": "Charisme"},
+                "atlevel": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Ténèbres",
+                "spellcasting": {"type": "fix", "value": "Charisme"},
+                "atlevel": 5
+              }
+            ]
+          },
+          "trackers": [
+            {
+              "name": "Magie Drow -- Lueurs Féériques",
+              "count": 1,
+              "reset": "LR"
+            },
+            {
+              "name": "Magie Drow -- Ténèbres",
+              "count": 1,
+              "reset": "LR"
+            }
+          ]
+        },
+        {
+          "name": "Entraînement aux Armes Drow",
+          "description": "Vous obtenez la maîtrise des rapières, des épées courtes, et des arbalètes de poing.",
+          "level": 1,
+          "weapon_proficieny":  {
+            "type": "fix",
+            "values": ["Rapière", "Épée Courte", "Arbalète de Poing"]
+          }
+        }
+      ]
+    }
+  ]
+}
