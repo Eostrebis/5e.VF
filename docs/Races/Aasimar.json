@@ -31,7 +31,7 @@
       "name": "Mains Soignantes",
       "level": 1,
       "description": "Pour une action, vous pouvez toucher une créature et lancez un nombre de d4s égal à votre modificateur de maîtrise. La créature regagne un nombre de points de vie égal au total obtenu. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir fini un repos long.",
-      "tracker": {"name": "Mains Soignantes", "count": 1, "reset": "LR"};
+      "tracker": {"name": "Mains Soignantes", "count": 1, "reset": "LR"}
     },
     {
       "name": "Porteur de Lumière",
