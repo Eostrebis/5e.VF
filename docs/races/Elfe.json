@@ -6,303 +6,162 @@
   "size": [
     "M"
   ],
-  "speed": {
-    "walk": 30
-  },
+  "features": [
+    {
+      "name": "Ascendance Féerique",
+      "level": 1,
+      "description": "Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir."
+    },
+    {
+      "name": "Transe",
+      "level": 1,
+      "description": "Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil."
+    },
+    {
+      "name": "Sens Aiguisés",
+      "description": "Vous maîtrisez la compétence Perception.",
+      "level": 1,
+      "proficiency": {
+        "type": "fix",
+        "values": ["Perception"]
+      }
+    }
+  ],
   "subraces": [
     {
-      "name": "Drakéïde Chromatique",
+      "name": "Haut Elfe",
+      "language": [
+        "Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
       "features": [
         {
-          "name": "Ascendance Chromatique",
-          "description": "Vous avez un ancêtre qui est un dragon chromatique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.",
-          "choices": {
-            "header": [
-              "Dragon",
-              "Type de dégâts"
-            ],
-            "options": [
-              {
-                "tab": [
-                  "Blanc",
-                  "Froid"
-                ],
-                "resistances": [
-                  {
-                    "type": "froid"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Bleu",
-                  "Foudre"
-                ],
-                "resistances": [
-                  {
-                    "type": "foudre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Noir",
-                  "Acide"
-                ],
-                "resistances": [
-                  {
-                    "type": "Acide"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Rouge",
-                  "Feu"
-                ],
-                "resistances": [
-                  {
-                    "type": "feu"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Vert",
-                  "Poison"
-                ],
-                "resistances": [
-                  {
-                    "type": "poison"
-                  }
-                ]
-              }
-            ]
-          }
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
         },
         {
-          "name": "Souffle",
-          "description": "Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. (9m par 1.5m/6 cases par 1 case). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).\nVous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.",
+          "name": "Entraînement aux Armes Elfes",
+          "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
           "level": 1,
-          "tracker": {
-            "name": "Souffle",
-            "count": "PB",
-            "reset": "LR"
+          "weapon_proficieny":  {
+            "type": "fix",
+            "values": ["Épée Longue", "Épée Courte", "Arc Court", "Arc Long"]
           }
         },
         {
-          "name": "Resistance Draconique",
-          "description": "Vous avez la résistance aux dégâts du type associé à votre ascendance.",
-          "level": 1
+          "name": "Cantrip",
+          "level": 1,
+          "add_spell": [{"0": {"level": 1, "class": "wizard", "spellcasting": "Intelligence"}}],
+          "description": "Vous connaissez un cantrip de votre choix de la liste du magicien. L'intelligence est votre caractéristique de lancement pour ce sort."
         },
         {
-          "name": "Protection Chromatique",
-          "level": 5,
-          "tracker": {
-            "name": "Protection Chromatique",
-            "count": 1,
-            "reset": "LR"
-          },
-          "description": "À partir du niveau 5, vous pouvez dépenser une action pour canaliser votre énergie draconique afin de vous protéger. Pendant 1 minute, vous devenez immunisé aux dégâts du type associé à votre ascendance chromatique. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le refaire tant que vous n'avez pas fini un repos long."
+          "name": "Langue Supplémentaire",
+          "level": 1,
+          "add_language": {"type": "choice", "count": 1},
+          "description": "Vous connaissez une langue supplémentaire de votre choix."
         }
       ]
     },
     {
-      "name": "Drakéïde Diamantin",
+      "name": "Elfe des Bois",
+      "language": [
+        "Commun"
+      ],
+      "speed": {
+        "walk": 35
+      },
       "features": [
         {
-          "name": "Ascendance Diamantine",
-          "description": "Vous avez un ancêtre qui est un dragon diamantin, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.",
-          "choices": {
-            "header": [
-              "Dragon",
-              "Type de dégâts"
-            ],
-            "options": [
-              {
-                "tab": [
-                  "Améthyste",
-                  "Force"
-                ],
-                "resistances": [
-                  {
-                    "type": "force"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Cristal",
-                  "Radiant"
-                ],
-                "resistances": [
-                  {
-                    "type": "radiant"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Saphir",
-                  "Tonnerre"
-                ],
-                "resistances": [
-                  {
-                    "type": "tonnerre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Topaze",
-                  "Nécrotique"
-                ],
-                "resistances": [
-                  {
-                    "type": "nécrotique"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "émeraude",
-                  "Psychique"
-                ],
-                "resistances": [
-                  {
-                    "type": "psychique"
-                  }
-                ]
-              }
-            ]
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Entraînement aux Armes Elfes",
+          "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
+          "level": 1,
+          "weapon_proficieny":  {
+            "type": "fix",
+            "values": ["Épée Longue", "Épée Courte", "Arc Court", "Arc Long"]
           }
         },
         {
-          "name": "Souffle",
-          "description": "Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).\nVous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.",
+          "name": "Cachette Naturelle",
           "level": 1,
-          "tracker": {
-            "name": "Souffle",
-            "count": "PB",
-            "reset": "LR"
-          }
-        },
-        {
-          "name": "Resistance Draconique",
-          "description": "Vous avez la résistance aux dégâts du type associé à votre ascendance.",
-          "level": 1
-        },
-        {
-          "name": "Esprit Psionique",
-          "level": 1,
-          "description": "Vous pouvez envoyer des messages télépathiques à n'importe quelle créature que vous pouvez voir à moins de 30 ft. (9m/6 cases). Vous n'avez pas besoin d'avoir un langage en commun avec la créature pour qu'elle puisse comprendre les messages, mais elle doit pouvoir comprendre au moins un langage."
-        },
-        {
-          "name": "Vol Diamantin",
-          "level": 5,
-          "tracker": {
-            "name": "Vol Diamantin",
-            "count": 1,
-            "reset": "LR"
-          },
-          "description": "À partir du niveau 5, vous pouvez utiliser une action bonus pour faire apparaître des ailes spectrales sur votre corps. Ces ailes persistent pendant 1 minute. Pendant cette durée, vous gagnez une vitesse de vol égale à votre vitesse de marche et pouvez planer. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le refaire avant d'avoir fini un repos long."
+          "description": "Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel."
         }
       ]
     },
     {
-      "name": "Drakéïde Métallique",
+      "name": "Drow",
+      "language": [
+        "Outre-Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
       "features": [
         {
-          "name": "Ascendance Métallique",
-          "description": "Vous avez un ancêtre qui est un dragon métallique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.",
-          "choices": {
-            "header": [
-              "Dragon",
-              "Type de dégâts"
-            ],
-            "options": [
-              {
-                "tab": [
-                  "Argent",
-                  "Froid"
-                ],
-                "resistances": [
-                  {
-                    "type": "froid"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Bronze",
-                  "Foudre"
-                ],
-                "resistances": [
-                  {
-                    "type": "Foudre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Saphir",
-                  "Tonnerre"
-                ],
-                "resistances": [
-                  {
-                    "type": "tonnerre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Topaze",
-                  "Nécrotique"
-                ],
-                "resistances": [
-                  {
-                    "type": "nécrotique"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "émeraude",
-                  "Psychique"
-                ],
-                "resistances": [
-                  {
-                    "type": "psychique"
-                  }
-                ]
-              }
-            ]
-          }
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 120
         },
         {
-          "name": "Souffle",
-          "description": "Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).\nVous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.",
-          "level": 1,
-          "tracker": {
-            "name": "Souffle",
-            "count": "PB",
-            "reset": "LR"
-          }
-        },
-        {
-          "name": "Resistance Draconique",
-          "description": "Vous avez la résistance aux dégâts du type associé à votre ascendance.",
+          "name": "Sensibilité au Soleil",
+          "description": "Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière naturelle.",
           "level": 1
         },
         {
-          "name": "Souffle Métallique",
-          "level": 5,
-          "tracker": {
-            "name": "Souffle Mécanique",
-            "count": 1,
-            "reset": "LR"
+          "name": "Magie Drow",
+          "level": 1,
+          "description": "Vous connaissez le cantrip lumières dansantes. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort lueurs féériques une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort ténèbres une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.",
+          "spells": {
+            "0": [
+              {
+                "name": "Lumières dansantes",
+                "spellcasting": {"type": "fix", "value": "Charisme"},
+                "atlevel": 1
+              }
+            ],
+            "1": [
+              {
+                "name": "Lueurs féériques",
+                "spellcasting": {"type": "fix", "value": "Charisme"},
+                "atlevel": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Ténèbres",
+                "spellcasting": {"type": "fix", "value": "Charisme"},
+                "atlevel": 5
+              }
+            ]
           },
-          "description": "À partir du niveau 5, vous gagnez un second souffle. Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde (DC = 8 + CON mod. + Prof.). À chaque utilisation du trait, choisissez un parmi :\n \n <ul><li> <em>Souffle débilitant.</em> Chaque créature dans le cône doit réussir un jet de sauvegarde de Constitution ou devenir incapacitée jusqu'au début de votre prochain tour.</li>\n <li><em>Souffle répulsif.<em/> Chaque créature dans le cône doit réussir un jet de sauvegarde de Force ou être repoussée de 20 ft (6m/4 cases) et tomber à terre.</li></ul>\nAprès avoir utilisé votre Souffle Mécanique, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau."
+          "trackers": [
+            {
+              "name": "Magie Drow -- Lueurs Féériques",
+              "count": 1,
+              "reset": "LR"
+            },
+            {
+              "name": "Magie Drow -- Ténèbres",
+              "count": 1,
+              "reset": "LR"
+            }
+          ]
+        },
+        {
+          "name": "Entraînement aux Armes Drow",
+          "description": "Vous obtenez la maîtrise des rapières, des épées courtes, et des arbalètes de poing.",
+          "level": 1,
+          "weapon_proficieny":  {
+            "type": "fix",
+            "values": ["Rapière", "Épée Courte", "Arbalète de Poing"]
+          }
         }
       ]
     }
