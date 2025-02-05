@@ -460,6 +460,12 @@
                         addSizeSelector(json.size);
                     }
 
+                    if (json.features) {
+                        json.features.forEach(feature => {
+                            handleFeature(feature, document.getElementById("race-features"), 3);
+                        })
+                    }
+
                     if (json.subraces) {
                         let sub_div = document.createElement("div");
                         sub_div.id = "race-subrace";
@@ -484,12 +490,6 @@
                         sub_div.appendChild(sub_choice);
                         document.getElementById("race-features").appendChild(sub_div);
 
-                    }
-
-                    if (json.features) {
-                        json.features.forEach(feature => {
-                            handleFeature(feature, document.getElementById("race-features"), 3);
-                        })
                     }
 
                 });
