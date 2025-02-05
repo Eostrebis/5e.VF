@@ -167,7 +167,7 @@ En tant que Drow, vous êtes infusé de la magie de l'Outre-Terre, un royaume so
 
 **Magie Drow.** Vous connaissez le cantrip [[lumières dansantes]]. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort [[lueurs féériques]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort  [[ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
-**Entraînement aux Armes Drow.** Vous obtenez la maîtrise des rapières, des épées courtes, et des arbalètes de poing.
+**Entraînement aux Armes Drow.** Vous obtenez la maîtrise des [[rapière|rapières]], des [[épée courte|épées courtes]], et des [[arbalète de poing|arbalètes de poing]].
 
 ## Eladrin
 

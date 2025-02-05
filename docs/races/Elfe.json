@@ -164,6 +164,37 @@
           }
         }
       ]
+    },
+    {
+      "name": "Eladrin",
+      "language": [
+        "Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Transe Saisonnière",
+          "description": " Lorsque vous sortez d'une transe, vous pouvez changer votre saison, et vous gagnez deux maîtrises d'arme ou d'outil que vous n'avez pas. Vous obtenez ces maîtrises mystiquement en tirant dans la mémoire elfe partagée, et vous les conservez jusqu'à votre prochain repos long.",
+          "level": 1
+        },
+        {
+          "name": "Pas de Fée",
+          "level": 1,
+          "description": "Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long."
+        },
+        {
+          "name": "Pas de Fée Amélioré",
+          "description": "À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + Prof. + (Int. ou Wis. ou Cha.) mod :  <ul><li><em>Automne.</em></li></ul>",
+          "level": 3
+        }
+      ]
     }
   ]
 }

@@ -36,10 +36,10 @@
     {
       "name": "Porteur de Lumière",
       "level": 1,
-      "description": "Vous connaissez le cantrip Lumières. Vous utilisez le charisme comme caractéristique d'incantation pour ce sort.",
+      "description": "Vous connaissez le cantrip Lumières. Vous utilisez le Charisme comme caractéristique d'incantation pour ce sort.",
       "spells": {
         "0": [
-          "Lumières"
+          {"name": "Lumières", "spellcasting": {"type": "fix", "value": "Charisme"}}
         ]
       }
     },
