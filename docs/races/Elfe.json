@@ -191,7 +191,7 @@
         },
         {
           "name": "Pas de Fée Amélioré",
-          "description": "À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + Prof. + (Int. ou Wis. ou Cha.) mod :  <ul><li><em>Automne.</em></li></ul>",
+          "description": "À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + Prof. + (Int. ou Wis. ou Cha.) mod :  <ul><li><em>Automne.</em> Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.</li><li><em>Hiver.</em> Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elle doit réussir un jet de sauvegarde de Sagesse ou être effrayée par vous jusqu'au début de votre prochain tour.</li><li><em>Printemps.</em> Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature volontaire et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft. (9m/6 cases).</li><li><em>Été.</em> Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. (1.5m/1 case) de vous prend des dégâts de feu égaux à votre bonus de maîtrise. </li></ul>",
           "level": 3
         }
       ]
