@@ -195,6 +195,104 @@
           "level": 3
         }
       ]
+    },
+    {
+      "name": "Elfe des mers",
+      "language": [
+        "Aquatique"
+      ],
+      "speed": {
+        "walk": 30,
+        "swim": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Enfant de la Mer",
+          "description": "Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.",
+          "level": 1
+        },
+        {
+          "name": "Ami de la Mer",
+          "level": 1,
+          "description": "Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour."
+        }
+      ]
+    },
+    {
+      "name": "Shadar-kai",
+      "language": [
+        "Ombre-Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Résistance Nécrotique",
+          "description": "Vous avez la résistance aux dégâts nécrotiques.",
+          "resistance": [{"type": "fix", "value": "Nécrotique"}],
+          "level": 1
+        },
+        {
+          "name": "Bénédiction de la Reine Corbeau",
+          "level": 1,
+          "description": "En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long."
+        },
+        {
+          "name": "Bénédiction Supérieure de la Reine Corbeau",
+          "level": 3,
+          "description": "Lorsque vous utilisez votre bénédiction de la Reine Corbeau, vous gagnez également la résistance à tous les dégâts. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique."
+
+        }
+      ]
+    },
+    {
+      "name": "Elfe Astral",
+      "language": [
+        "Commun"
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Résistance Nécrotique",
+          "description": "Vous avez la résistance aux dégâts nécrotiques.",
+          "resistance": [{"type": "fix", "value": "Nécrotique"}],
+          "level": 1
+        },
+        {
+          "name": "Transe Astrale",
+          "level": 1,
+          "description": "À chaque fois que vous finissez une transe, vous maîtrisez un compétence de votre choix, ainsi qu'une arme ou un outil de votre choix. Vous possédez ces maîtrises magiquement en puisant dans la mémoire partagée elfe du Plan Astral, et vous les gardez jusqu'à ce que vous finissiez votre prochain repos long."
+
+        },
+        {
+          "name": "Feu Astral",
+          "level": 1,
+          "description": "Vous connaissez l'un des cantrips suivants de votre choix : [[lumières dansantes]], [[lumières]], ou [[flamme sacrée]]. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme. //TODO Add cantrips and spellcasting choice"
+        },
+        {
+          "name": "Pas d'Étoile",
+          "level": 1,
+          "description": "En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long."
+        }
+      ]
     }
   ]
 }
