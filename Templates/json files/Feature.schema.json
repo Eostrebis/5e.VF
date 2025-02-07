@@ -46,6 +46,18 @@
     },
     "AC": {
       "$ref": "AC.schema.json"
+    },
+    "add_spells": {
+      "type": "array",
+      "item": {
+        "$ref": "AddSpell.schema.json"
+      }
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "$ref": "Language.schema.json"
+      }
     }
   },
   "required": ["name", "description"],

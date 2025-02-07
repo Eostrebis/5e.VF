@@ -70,25 +70,29 @@
         {
           "name": "Cantrip",
           "level": 1,
-          "add_spell": [
+          "add_spells": [
             {
               "0": {
                 "level": 1,
-                "class": "wizard",
+                "class": [
+                  "wizard"
+                ],
                 "spellcasting": "Intelligence"
               }
             }
           ],
-          "description": "Vous connaissez un cantrip de votre choix de la liste du magicien. L'intelligence est votre caractéristique de lancement pour ce sort.",
-
+          "description": "Vous connaissez un cantrip de votre choix de la liste du magicien. L'intelligence est votre caractéristique de lancement pour ce sort."
         },
         {
           "name": "Langue Supplémentaire",
           "level": 1,
-          "add_language": {
-            "type": "choice",
-            "count": 1
-          },
+          "languages": [
+            {
+              "type": "choice",
+              "count": 1,
+              "choices": []
+            }
+          ],
           "description": "Vous connaissez une langue supplémentaire de votre choix."
         }
       ]
@@ -114,8 +118,9 @@
           "name": "Entraînement aux Armes Elfes",
           "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
           "level": 1,
-          "weapon_proficieny": {
+          "proficiency": {
             "type": "fix",
+            "category": "weapon",
             "values": [
               "Épée Longue",
               "Épée Courte",
@@ -127,8 +132,7 @@
         {
           "name": "Cachette Naturelle",
           "level": 1,
-          "description": "Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.",
-
+          "description": "Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel."
         }
       ]
     },
@@ -192,11 +196,13 @@
           },
           "trackers": [
             {
+              "type": "fix",
               "name": "Magie Drow -- Lueurs Féériques",
               "count": 1,
               "reset": "LR"
             },
             {
+              "type": "fix",
               "name": "Magie Drow -- Ténèbres",
               "count": 1,
               "reset": "LR"
@@ -207,8 +213,9 @@
           "name": "Entraînement aux Armes Drow",
           "description": "Vous obtenez la maîtrise des rapières, des épées courtes, et des arbalètes de poing.",
           "level": 1,
-          "weapon_proficieny": {
+          "proficiency": {
             "type": "fix",
+            "category": "weapon",
             "values": [
               "Rapière",
               "Épée Courte",
@@ -243,8 +250,7 @@
         {
           "name": "Pas de Fée",
           "level": 1,
-          "description": "Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long.",
-
+          "description": "Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long."
         },
         {
           "name": "Pas de Fée Amélioré",
@@ -279,8 +285,7 @@
         {
           "name": "Ami de la Mer",
           "level": 1,
-          "description": "Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.",
-
+          "description": "Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour."
         }
       ]
     },
@@ -304,7 +309,7 @@
         {
           "name": "Résistance Nécrotique",
           "description": "Vous avez la résistance aux dégâts nécrotiques.",
-          "resistance": [
+          "resistances": [
             {
               "type": "fix",
               "value": "Nécrotique"
@@ -315,14 +320,12 @@
         {
           "name": "Bénédiction de la Reine Corbeau",
           "level": 1,
-          "description": "En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.",
-
+          "description": "En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long."
         },
         {
           "name": "Bénédiction Supérieure de la Reine Corbeau",
           "level": 3,
-          "description": "Lorsque vous utilisez votre bénédiction de la Reine Corbeau, vous gagnez également la résistance à tous les dégâts. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique.",
-
+          "description": "Lorsque vous utilisez votre bénédiction de la Reine Corbeau, vous gagnez également la résistance à tous les dégâts. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique."
         }
       ]
     },
@@ -346,7 +349,7 @@
         {
           "name": "Résistance Nécrotique",
           "description": "Vous avez la résistance aux dégâts nécrotiques.",
-          "resistance": [
+          "resistances": [
             {
               "type": "fix",
               "value": "Nécrotique"
@@ -357,8 +360,7 @@
         {
           "name": "Transe Astrale",
           "level": 1,
-          "description": "À chaque fois que vous finissez une transe, vous maîtrisez un compétence de votre choix, ainsi qu'une arme ou un outil de votre choix. Vous possédez ces maîtrises magiquement en puisant dans la mémoire partagée elfe du Plan Astral, et vous les gardez jusqu'à ce que vous finissiez votre prochain repos long.",
-
+          "description": "À chaque fois que vous finissez une transe, vous maîtrisez un compétence de votre choix, ainsi qu'une arme ou un outil de votre choix. Vous possédez ces maîtrises magiquement en puisant dans la mémoire partagée elfe du Plan Astral, et vous les gardez jusqu'à ce que vous finissiez votre prochain repos long."
         },
         {
           "name": "Feu Astral",
