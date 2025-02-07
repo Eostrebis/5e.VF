@@ -13,14 +13,12 @@
     {
       "name": "Ascendance Féerique",
       "level": 1,
-      "description": "Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.",
-
+      "description": "Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir."
     },
     {
       "name": "Transe",
       "level": 1,
-      "description": "Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.",
-
+      "description": "Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil."
     },
     {
       "name": "Sens Aiguisés",
@@ -28,6 +26,7 @@
       "level": 1,
       "proficiency": {
         "type": "fix",
+        "category": "skill",
         "count": 1,
         "values": [
           "Perception"
@@ -57,8 +56,9 @@
           "name": "Entraînement aux Armes Elfes",
           "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
           "level": 1,
-          "weapon_proficieny": {
+          "proficiency": {
             "type": "fix",
+            "category": "weapon",
             "values": [
               "Épée Longue",
               "Épée Courte",

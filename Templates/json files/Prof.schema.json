@@ -7,6 +7,9 @@
     "type": {
       "enum": ["fix", "choice"]
     },
+    "category": {
+      "enum": ["weapon", "skill", "tool"]
+    },
     "count": {
       "type": "integer"
     },
@@ -27,5 +30,5 @@
     }
   },
   "additionalProperties": false,
-  "required": ["type", "count"]
+  "required": ["type", "category"]
 }
