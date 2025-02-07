@@ -25,6 +25,7 @@
       "proficiency": {
         "type": "choice",
         "count": 1,
+        "category": "skill",
         "choices": [
           "Dressage",
           "Médecine",

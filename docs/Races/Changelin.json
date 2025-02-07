@@ -26,6 +26,7 @@
       "level": 1,
       "description": "Grâce à votre connexion à la Féerie, vous maîtrisez deux des compétences suivantes : Intimidation, Intuition, Persuasion, Représentation ou Tromperie.",
       "proficiency": {
+        "category": "skill",
         "type": "choice",
         "count": 1,
         "choices": [

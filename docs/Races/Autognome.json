@@ -51,6 +51,7 @@
         "type": "choice",
         "count": 2,
         "custom": true,
+        "category": "tool",
         "choices": [
           "Matériel d'Alchimiste",
           "Matériel de Brasseur",
