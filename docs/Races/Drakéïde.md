@@ -21,7 +21,7 @@ Chez certains clans, le sang d'un type particulier de dragon coule toujours fort
 
 
 
-![[Drakéide.png]]
+![[Drakéïde.png]]
 
 ### Culture
 

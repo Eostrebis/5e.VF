@@ -24,69 +24,52 @@
         {
           "name": "Ascendance Chromatique",
           "description": "Vous avez un ancêtre qui est un dragon chromatique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.",
-          "choices": {
-            "header": [
-              "Dragon",
-              "Type de dégâts"
-            ],
-            "options": [
-              {
-                "tab": [
-                  "Blanc",
-                  "Froid"
-                ],
-                "resistances": [
-                  {
-                    "type": "froid"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Bleu",
-                  "Foudre"
-                ],
-                "resistances": [
-                  {
-                    "type": "foudre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Noir",
-                  "Acide"
-                ],
-                "resistances": [
-                  {
-                    "type": "Acide"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Rouge",
-                  "Feu"
-                ],
-                "resistances": [
-                  {
-                    "type": "feu"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Vert",
-                  "Poison"
-                ],
-                "resistances": [
-                  {
-                    "type": "poison"
-                  }
-                ]
+          "choices": [
+            {
+              "name": "Blanc",
+              "description": "Dégâts associés : froid",
+              "resistances": [{
+                "type": "fix",
+                "value": "froid"
               }
-            ]
-          }
+              ]
+            },
+            {
+              "name": "Bleu",
+              "description": "Dégâts associés : foudre",
+              "resistances": [{
+                "type": "fix",
+                "value": "foudre"
+              }
+              ]
+            },
+            {
+              "name": "Noir",
+              "description": "Dégâts associés : acide",
+              "resistances": [{
+                "type": "fix",
+                "value": "acide"
+              }
+              ]
+            },
+            {
+              "name": "Rouge",
+              "description": "Dégâts associés : feu",
+              "resistances": [{
+                "type": "fix",
+                "value": "feu"
+              }
+              ]
+            },{
+              "name": "Vert",
+              "description": "Dégâts associés : poison",
+              "resistances": [{
+                "type": "fix",
+                "value": "poison"
+              }
+              ]
+            }
+          ]
         },
         {
           "name": "Souffle",
@@ -127,69 +110,52 @@
         {
           "name": "Ascendance Diamantine",
           "description": "Vous avez un ancêtre qui est un dragon diamantin, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.",
-          "choices": {
-            "header": [
-              "Dragon",
-              "Type de dégâts"
-            ],
-            "options": [
-              {
-                "tab": [
-                  "Améthyste",
-                  "Force"
-                ],
-                "resistances": [
-                  {
-                    "type": "force"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Cristal",
-                  "Radiant"
-                ],
-                "resistances": [
-                  {
-                    "type": "radiant"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Saphir",
-                  "Tonnerre"
-                ],
-                "resistances": [
-                  {
-                    "type": "tonnerre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Topaze",
-                  "Nécrotique"
-                ],
-                "resistances": [
-                  {
-                    "type": "nécrotique"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "émeraude",
-                  "Psychique"
-                ],
-                "resistances": [
-                  {
-                    "type": "psychique"
-                  }
-                ]
+          "choices": [
+            {
+              "name": "Améthyste",
+              "description": "Dégâts associés : force",
+              "resistances": [{
+                "type": "fix",
+                "value": "force"
               }
-            ]
-          }
+              ]
+            },
+            {
+              "name": "Cristal",
+              "description": "Dégâts associés : radiant",
+              "resistances": [{
+                "type": "fix",
+                "value": "radiant"
+              }
+              ]
+            },
+            {
+              "name": "Saphir",
+              "description": "Dégâts associés : tonnerre",
+              "resistances": [{
+                "type": "fix",
+                "value": "tonnerre"
+              }
+              ]
+            },
+            {
+              "name": "Topaze",
+              "description": "Dégâts associés : nécrotique",
+              "resistances": [{
+                "type": "fix",
+                "value": "nécrotique"
+              }
+              ]
+            },{
+              "name": "Émeraude",
+              "description": "Dégâts associés : psychique",
+              "resistances": [{
+                "type": "fix",
+                "value": "psychique"
+              }
+              ]
+            }
+          ]
         },
         {
           "name": "Souffle",
@@ -235,69 +201,52 @@
         {
           "name": "Ascendance Métallique",
           "description": "Vous avez un ancêtre qui est un dragon métallique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.",
-          "choices": {
-            "header": [
-              "Dragon",
-              "Type de dégâts"
-            ],
-            "options": [
-              {
-                "tab": [
-                  "Argent",
-                  "Froid"
-                ],
-                "resistances": [
-                  {
-                    "type": "froid"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Bronze",
-                  "Foudre"
-                ],
-                "resistances": [
-                  {
-                    "type": "Foudre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Saphir",
-                  "Tonnerre"
-                ],
-                "resistances": [
-                  {
-                    "type": "tonnerre"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "Topaze",
-                  "Nécrotique"
-                ],
-                "resistances": [
-                  {
-                    "type": "nécrotique"
-                  }
-                ]
-              },
-              {
-                "tab": [
-                  "émeraude",
-                  "Psychique"
-                ],
-                "resistances": [
-                  {
-                    "type": "psychique"
-                  }
-                ]
+          "choices": [
+            {
+              "name": "Argent",
+              "description": "Dégâts associés : froid",
+              "resistances": [{
+                "type": "fix",
+                "value": "froid"
               }
-            ]
-          }
+              ]
+            },
+            {
+              "name": "Bronze",
+              "description": "Dégâts associés : foudre",
+              "resistances": [{
+                "type": "fix",
+                "value": "foudre"
+              }
+              ]
+            },
+            {
+              "name": "Cuivre",
+              "description": "Dégâts associés : acide",
+              "resistances": [{
+                "type": "fix",
+                "value": "acide"
+              }
+              ]
+            },
+            {
+              "name": "Laiton",
+              "description": "Dégâts associés : feu",
+              "resistances": [{
+                "type": "fix",
+                "value": "feu"
+              }
+              ]
+            },{
+              "name": "Or",
+              "description": "Dégâts associés : feu",
+              "resistances": [{
+                "type": "fix",
+                "value": "feu"
+              }
+              ]
+            }
+          ]
         },
         {
           "name": "Souffle",
