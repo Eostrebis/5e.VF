@@ -4,6 +4,6 @@
   "title": "Speed",
   "type": "object",
   "additionalProperties": {
-    "type": "integer"
+    "type": ["integer", "string"]
   }
 }

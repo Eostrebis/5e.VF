@@ -7,6 +7,6 @@
     "type": "array",
     "item": {
       "$ref": "Spell.schema.json"
-    },
+    }
   }
 }
