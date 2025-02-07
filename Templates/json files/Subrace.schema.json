@@ -1,0 +1,42 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Subrace.schema.json",
+  "title": "Subrace",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "$ref": "Language.schema.json"
+      }
+    },
+    "size": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "speed": {
+      "$ref": "Speed.schema.json"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "$ref": "Feature.schema.json"
+      }
+    },
+    "subraces": {
+      "type": "array",
+      "items": {
+        "$ref": "Subrace.schema.json"
+      }
+    }
+  },
+  "additionalProperties": false
+}

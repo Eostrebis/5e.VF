@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Prof.schema.json",
+  "title": "Proficiency",
+  "type": "object",
+  "properties": {
+    "type": {
+      "enum": ["fix", "choice"]
+    },
+    "count": {
+      "type": "integer"
+    },
+    "custom": {
+      "type": "bool"
+    },
+    "values": {
+      "type": "array",
+      "item": {
+        "type": "string"
+      }
+    },
+    "choices": {
+      "type": "array",
+      "item": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false,
+  "required": ["type", "count"]
+}

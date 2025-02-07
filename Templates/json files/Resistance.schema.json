@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Resistance.schema.json",
+  "title": "Resistance",
+  "type": "object",
+  "properties": {
+    "type": {
+      "enum": ["fix", "choice"]
+    },
+    "values": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "value": {
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "required": ["type"]
+}

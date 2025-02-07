@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "eostrebis.github.io/5e.VF/Race.schema.json",
+  "title": "Race",
+  "description": "A choice of race in the character creator",
+  "type": "object",
+  "properties": {
+    "ability_improvements": {
+      "type": "string"
+    },
+    "type": {
+      "type": "string"
+    },
+    "languages": {
+      "type": "array",
+      "items": {
+        "$ref": "Language.schema.json"
+      }
+    },
+    "size": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "speed": {
+      "$ref": "Speed.schema.json"
+    },
+    "features": {
+      "type": "array",
+      "items": {
+        "$ref": "Feature.schema.json"
+      }
+    },
+    "subraces": {
+      "type": "array",
+      "items": {
+        "$ref": "Subrace.schema.json"
+      }
+    }
+  },
+  "additionalProperties": false
+}

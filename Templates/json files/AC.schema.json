@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Speed.schema.json",
+  "title": "Speed",
+  "type": "object",
+  "properties": {
+    "value": {
+      "type": "integer"
+    },
+    "bonus": {
+      "type": "array",
+      "item": {
+        "type": "string"
+      }
+    },
+    "armorless": {
+      "type": "bool"
+    }
+  },
+  "additionalProperties": false
+}

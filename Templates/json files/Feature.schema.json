@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Feature.schema.json",
+  "title": "Feature",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "level": {
+      "type": "integer",
+      "exlusiveMinimum": 0
+    },
+    "description": {
+      "type": "string"
+    },
+    "speed": {
+      "$ref": "Speed.schema.json"
+    },
+    "spells": {
+      "$ref": "Spells.schema.json"
+    },
+    "trackers": {
+      "type": "array",
+      "items": {
+        "$ref": "Tracker.schema.json"
+      }
+    },
+    "resistances": {
+      "type": "array",
+      "items": {
+        "$ref": "Resistance.schema.json"
+      }
+    },
+    "darkvision": {
+      "type": "integer"
+    },
+    "choices": {
+      "type": "array",
+      "items": {
+        "$ref": "Feature.schema.json"
+      }
+    },
+    "proficiency": {
+      "$ref": "Prof.schema.json"
+    },
+    "AC": {
+      "$ref": "AC.schema.json"
+    }
+  },
+  "required": ["name", "description"],
+  "additionalProperties": false
+}

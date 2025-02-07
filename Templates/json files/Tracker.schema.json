@@ -1,0 +1,25 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Tracker.schema.json",
+  "title": "tracker",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "type": {
+      "enum": ["fix", "stat", "stat.mod"]
+    },
+    "count": {
+      "type": ["string", "integer"]
+    },
+    "bonus": {
+      "type": ["string", "integer"]
+    },
+    "reset": {
+      "type": "string"
+    }
+  },
+  "required": ["name", "type", "count", "reset"],
+  "additionalProperties": false
+}

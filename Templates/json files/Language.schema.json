@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Language.schema.json",
+  "title": "Language",
+  "type": "object",
+  "properties": {
+    "count": {
+      "type": "integer"
+    },
+    "custom": {
+      "type": "bool"
+    },
+    "type": {
+      "enum": [
+        "fix",
+        "choice"
+      ]
+    },
+    "value": {
+      "type": "string"
+    },
+    "choices": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "required": ["type"],
+  "additionalProperties": false
+}

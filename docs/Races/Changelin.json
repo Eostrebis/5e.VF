@@ -1,11 +1,46 @@
 {
-	"ability_improvements":"FOR +2, CHA +1",
-	"type":"Fey",
-	"languages":["Commun",{"type":"choice", "count":1, "custom":true, "choices":{}}],
-	"size":["S", "M"],
-	"speed":{"walk":30},
-	"features":[
-		{"name": "Instincts Changelins", "level": 1, "description":"Grâce à votre connexion à la Féerie, vous maîtrisez deux des compétences suivantes : Intimidation, Intuition, Persuasion, Représentation ou Tromperie.", "proficiency":{"type":"choice", "count":1, "choices":["Intimidation", "Perspicacité", "Persuasion", "Représentation", "Tromperie"]}},
-		{"name": "Changeforme", "level":1, "description":"Pour une action, vous pouvez changer votre apparence et votre voix. Vous déterminez les spécifiques de ce changement, comme la couleur et la longueur des cheveux, et le genre. Vous pouvez également adapter votre taille et votre poids, et votre taille peut changer entre les catégories Petite et Moyenne. Vous pouvez vous faire apparaître comme un membre d'une autre race, même si aucune caractéristique de jeu ne changera. Vous ne pouvez pas dupliquer l'apparence d'un individu que vous n'avez jamais vu, et vous devez absolument choisir une nouvelle forme qui a la même structure squelettique que la vôtre. Vos vêtements et équipements ne sont pas modifiés par ce trait.\n\n Vous restez dans cette nouvelle forme jusqu'à ce que vous utilisiez une action pour revenir à votre vraie forme, ou que vous mourriez."}
-	]
+  "ability_improvements": "FOR +2, CHA +1",
+  "type": "Fey",
+  "languages": [
+    {
+      "type": "fix",
+      "value": "Commun"
+    },
+    {
+      "type": "choice",
+      "count": 1,
+      "custom": true,
+      "choices": []
+    }
+  ],
+  "size": [
+    "S",
+    "M"
+  ],
+  "speed": {
+    "walk": 30
+  },
+  "features": [
+    {
+      "name": "Instincts Changelins",
+      "level": 1,
+      "description": "Grâce à votre connexion à la Féerie, vous maîtrisez deux des compétences suivantes : Intimidation, Intuition, Persuasion, Représentation ou Tromperie.",
+      "proficiency": {
+        "type": "choice",
+        "count": 1,
+        "choices": [
+          "Intimidation",
+          "Perspicacité",
+          "Persuasion",
+          "Représentation",
+          "Tromperie"
+        ]
+      }
+    },
+    {
+      "name": "Changeforme",
+      "level": 1,
+      "description": "Pour une action, vous pouvez changer votre apparence et votre voix. Vous déterminez les spécifiques de ce changement, comme la couleur et la longueur des cheveux, et le genre. Vous pouvez également adapter votre taille et votre poids, et votre taille peut changer entre les catégories Petite et Moyenne. Vous pouvez vous faire apparaître comme un membre d'une autre race, même si aucune caractéristique de jeu ne changera. Vous ne pouvez pas dupliquer l'apparence d'un individu que vous n'avez jamais vu, et vous devez absolument choisir une nouvelle forme qui a la même structure squelettique que la vôtre. Vos vêtements et équipements ne sont pas modifiés par ce trait.\n\n Vous restez dans cette nouvelle forme jusqu'à ce que vous utilisiez une action pour revenir à votre vraie forme, ou que vous mourriez."
+    }
+  ]
 }

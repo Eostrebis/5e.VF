@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "Spells.schema.json",
+  "title": "Spells",
+  "type": "object",
+  "additionalProperties": {
+    "type": "array",
+    "item": {
+      "$ref": "Spell.schema.json"
+    },
+  }
+}
