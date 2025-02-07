@@ -28,45 +28,51 @@
             {
               "name": "Blanc",
               "description": "Dégâts associés : froid",
-              "resistances": [{
-                "type": "fix",
-                "value": "froid"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "froid"
+                }
               ]
             },
             {
               "name": "Bleu",
               "description": "Dégâts associés : foudre",
-              "resistances": [{
-                "type": "fix",
-                "value": "foudre"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "foudre"
+                }
               ]
             },
             {
               "name": "Noir",
               "description": "Dégâts associés : acide",
-              "resistances": [{
-                "type": "fix",
-                "value": "acide"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "acide"
+                }
               ]
             },
             {
               "name": "Rouge",
               "description": "Dégâts associés : feu",
-              "resistances": [{
-                "type": "fix",
-                "value": "feu"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "feu"
+                }
               ]
-            },{
+            },
+            {
               "name": "Vert",
               "description": "Dégâts associés : poison",
-              "resistances": [{
-                "type": "fix",
-                "value": "poison"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "poison"
+                }
               ]
             }
           ]
@@ -114,45 +120,51 @@
             {
               "name": "Améthyste",
               "description": "Dégâts associés : force",
-              "resistances": [{
-                "type": "fix",
-                "value": "force"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "force"
+                }
               ]
             },
             {
               "name": "Cristal",
               "description": "Dégâts associés : radiant",
-              "resistances": [{
-                "type": "fix",
-                "value": "radiant"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "radiant"
+                }
               ]
             },
             {
               "name": "Saphir",
               "description": "Dégâts associés : tonnerre",
-              "resistances": [{
-                "type": "fix",
-                "value": "tonnerre"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "tonnerre"
+                }
               ]
             },
             {
               "name": "Topaze",
               "description": "Dégâts associés : nécrotique",
-              "resistances": [{
-                "type": "fix",
-                "value": "nécrotique"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "nécrotique"
+                }
               ]
-            },{
+            },
+            {
               "name": "Émeraude",
               "description": "Dégâts associés : psychique",
-              "resistances": [{
-                "type": "fix",
-                "value": "psychique"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "psychique"
+                }
               ]
             }
           ]
@@ -205,45 +217,51 @@
             {
               "name": "Argent",
               "description": "Dégâts associés : froid",
-              "resistances": [{
-                "type": "fix",
-                "value": "froid"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "froid"
+                }
               ]
             },
             {
               "name": "Bronze",
               "description": "Dégâts associés : foudre",
-              "resistances": [{
-                "type": "fix",
-                "value": "foudre"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "foudre"
+                }
               ]
             },
             {
               "name": "Cuivre",
               "description": "Dégâts associés : acide",
-              "resistances": [{
-                "type": "fix",
-                "value": "acide"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "acide"
+                }
               ]
             },
             {
               "name": "Laiton",
               "description": "Dégâts associés : feu",
-              "resistances": [{
-                "type": "fix",
-                "value": "feu"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "feu"
+                }
               ]
-            },{
+            },
+            {
               "name": "Or",
               "description": "Dégâts associés : feu",
-              "resistances": [{
-                "type": "fix",
-                "value": "feu"
-              }
+              "resistances": [
+                {
+                  "type": "fix",
+                  "value": "feu"
+                }
               ]
             }
           ]
