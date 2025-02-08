@@ -37,7 +37,7 @@ Infusées avec la magie de la Féerie, les fadettes ressemblent à de petits elf
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Magie Féérique.** Vous connaissez le cantrip [[druidisme]]. À partir du niveau 3, vous pouvez lancer le sort [[lueurs féériques]] avec ce trait. À partir du niveau 5, vous pouvez également lancer le sort [[agrandissement ou rapetissement]] de cette manière. Une fois que vous avez lancé [[feuille morte]] ou [[lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
+**Magie Féérique.** Vous connaissez le cantrip [[druidisme]]. À partir du niveau 3, vous pouvez lancer le sort [[lueurs féériques]] avec ce trait. À partir du niveau 5, vous pouvez également lancer le sort [[agrandissement ou rapetissement]] de cette manière. Une fois que vous avez lancé [[Lueurs Féériques]] ou [[agrandissement ou rapetissement]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (choisi à la sélection de cette race).
 

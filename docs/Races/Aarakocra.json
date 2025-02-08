@@ -23,7 +23,7 @@
       "level": 1,
       "description": "Grâce à vos ailes, vous avez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde.",
       "speed": {
-        "fly": 30
+        "fly": "walk"
       }
     },
     {

@@ -19,7 +19,7 @@
     "size": {
       "type": "array",
       "items": {
-        "type": "string"
+        "enum": ["S", "M", "L"]
       }
     },
     "speed": {

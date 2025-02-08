@@ -49,7 +49,21 @@
             "atlevel": 5
           }
         ]
-      }
+      },
+      "trackers": [
+        {
+          "type": "fix",
+          "name": "Magie Féérique -- Lueurs Féériques",
+          "count": 1,
+          "reset": "LR"
+        },
+        {
+          "type": "fix",
+          "name": "Magie Féérique -- Agrandissement ou Rapetissement",
+          "count": 1,
+          "reset": "LR"
+        }
+      ]
     },
     {
       "name": "Vol",
