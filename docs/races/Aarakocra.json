@@ -37,17 +37,17 @@
       "level": 3,
       "description": "À partir du niveau 3, vous pouvez lancer le sort Saute de Vent de par ce trait, sans avoir besoin de composante matérielle. Une fois que vous avez lancé le sort avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous ayez fini un repos long. Vous pouvez également lancer ce sort en utilisant un emplacement de sort de niveau 2 ou plus que vous possédez. La caractéristique d'incantation pour lancer Saute de Vent avec ce trait est, au choix, l'Intelligence, la Sagesse ou le Charisme (que vous choisissez lorsque vous sélectionnez cette race).",
       "spells": {
+        "spellcasting": {
+          "type": "choice",
+          "values": [
+            "Intelligence",
+            "Sagesse",
+            "Charisme"
+          ]
+        },
         "2": [
           {
-            "name": "Saute de Vent",
-            "spellcasting": {
-              "type": "choice",
-              "values": [
-                "Intelligence",
-                "Sagesse",
-                "Charisme"
-              ]
-            }
+            "name": "Saute de Vent"
           }
         ]
       },

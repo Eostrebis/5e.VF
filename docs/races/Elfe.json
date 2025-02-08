@@ -71,15 +71,17 @@
           "name": "Cantrip",
           "level": 1,
           "add_spells": [
-            {
-              "0": {
+              {
                 "level": 1,
                 "class": [
                   "wizard"
                 ],
-                "spellcasting": "Intelligence"
+                "spellcasting": {
+                  "type": "fix",
+                  "value": "Intelligence"
+                }
               }
-            }
+
           ],
           "description": "Vous connaissez un cantrip de votre choix de la liste du magicien. L'intelligence est votre caractéristique de lancement pour ce sort."
         },
@@ -163,33 +165,25 @@
           "level": 1,
           "description": "Vous connaissez le cantrip lumières dansantes. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort lueurs féériques une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort ténèbres une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.",
           "spells": {
+            "spellcasting": {
+              "type": "fix",
+              "value": "Charisme"
+            },
             "0": [
               {
                 "name": "Lumières dansantes",
-                "spellcasting": {
-                  "type": "fix",
-                  "value": "Charisme"
-                },
                 "atlevel": 1
               }
             ],
             "1": [
               {
                 "name": "Lueurs féériques",
-                "spellcasting": {
-                  "type": "fix",
-                  "value": "Charisme"
-                },
                 "atlevel": 3
               }
             ],
             "2": [
               {
                 "name": "Ténèbres",
-                "spellcasting": {
-                  "type": "fix",
-                  "value": "Charisme"
-                },
                 "atlevel": 5
               }
             ]

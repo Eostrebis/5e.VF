@@ -49,7 +49,7 @@
     },
     "add_spells": {
       "type": "array",
-      "item": {
+      "items": {
         "$ref": "AddSpell.schema.json"
       }
     },

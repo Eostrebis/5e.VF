@@ -3,9 +3,29 @@
   "$id": "Spells.schema.json",
   "title": "Spells",
   "type": "object",
+  "properties": {
+    "spellcasting": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "enum": ["fix", "choice"]
+        },
+        "values": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "value": {
+          "type": "string"
+        }
+      },
+      "additionalProperties": false
+    }
+  },
   "additionalProperties": {
     "type": "array",
-    "item": {
+    "items": {
       "$ref": "Spell.schema.json"
     }
   }

@@ -18,13 +18,13 @@
     },
     "values": {
       "type": "array",
-      "item": {
+      "items": {
         "type": "string"
       }
     },
     "choices": {
       "type": "array",
-      "item": {
+      "items": {
         "type": "string"
       }
     }

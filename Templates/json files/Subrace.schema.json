@@ -4,6 +4,9 @@
   "title": "Subrace",
   "type": "object",
   "properties": {
+    "ability_improvements": {
+      "type": "string"
+    },
     "name": {
       "type": "string"
     },
@@ -38,5 +41,6 @@
       }
     }
   },
+  "required": ["name"],
   "additionalProperties": false
 }

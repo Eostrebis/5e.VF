@@ -20,32 +20,24 @@
       "name": "Magie Féérique",
       "description": "Vous connaissez le cantrip druidisme. À partir du niveau 3, vous pouvez lancer le sort lueurs féériques avec ce trait. À partir du niveau 5, vous pouvez également lancer le sort agrandissement ou rapetissement de cette manière. Une fois que vous avez lancé lueurs féériques ou agrandissement ou rapetissement avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.",
       "spells": {
+        "spellcasting": {
+          "type": "choice",
+          "values": ["Intelligence", "Sagesse", "Charisme"]
+        },
         "0": [
           {
-            "name": "druidisme",
-            "spellcasting": {
-              "type": "choice",
-              "values": ["Intelligence", "Sagesse", "Charisme"]
-            }
+            "name": "druidisme"
           }
         ],
         "1": [
           {
             "name": "lueurs féériques",
-            "spellcasting": {
-              "type": "choice",
-              "values": ["Intelligence", "Sagesse", "Charisme"]
-            },
             "atlevel": 3
           }
         ],
         "2": [
           {
             "name": "agrandissement ou rapetissement",
-            "spellcasting": {
-              "type": "choice",
-              "values": ["Intelligence", "Sagesse", "Charisme"]
-            },
             "atlevel": 5
           }
         ]

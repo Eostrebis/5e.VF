@@ -1,18 +1,21 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "Spell.schema.json",
-  "title": "Spell",
+  "$id": "AddSpell.schema.json",
+  "title": "AddSpell",
   "type": "object",
   "properties": {
     "class": {
       "type": "array",
-      "item": {
+      "items": {
         "enum": ["artificer", "bard", "cleric", "sorcerer", "druid", "investigator", "warmage", "wizard", "martyr", "necromancer", "warlock", "paladin", "ranger", "witch"]
       }
     },
+    "level": {
+      "type": "integer"
+    },
     "choices": {
       "type": "array",
-      "item": {
+      "items": {
         "type": "string"
       }
     },
@@ -24,20 +27,18 @@
         },
         "values": {
           "type": "array",
-          "item": {
+          "items": {
             "type": "string"
           }
         },
         "value": {
           "type": "string"
-        },
-        "atlevel": {
-          "type": "integer"
         }
       },
       "additionalProperties": false
 
     }
   },
-  "required": ["spellcasting"]
+  "required": ["spellcasting"],
+  "additionalProperties": false
 }

@@ -57,13 +57,13 @@
       "level": 1,
       "description": "Vous connaissez le cantrip Lumières. Vous utilisez le Charisme comme caractéristique d'incantation pour ce sort.",
       "spells": {
+        "spellcasting": {
+          "type": "fix",
+          "value": "Charisme"
+        },
         "0": [
           {
-            "name": "Lumières",
-            "spellcasting": {
-              "type": "fix",
-              "value": "Charisme"
-            }
+            "name": "Lumières"
           }
         ]
       }

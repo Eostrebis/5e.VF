@@ -4,7 +4,7 @@ Les filelièvres sont originaires de la Féerie, où ils parlent le Sylvain et i
 
 Les filelièvres sont bipèdes, avec de longues pattes caractéristiques des lapins auxquels ils ressemblent, et de fourrures aux multiples couleurs. Ils partagent les sens aiguisés et les jambes puissantes de leurs semblables, et sont très énergiques, comme un ressort replié. Les filelièvres sont bénis avec une chance féerique, et ils se retrouvent souvent à s'en sortir de justesse pendant leurs aventures.
 
-![[Fielièvre.webp]]
+![[Filelièvre.webp]]
 
 ### Culture
 
