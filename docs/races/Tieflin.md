@@ -13,13 +13,7 @@ En fonction du pacte établi par leurs ancêtres, les tieflins se distinguent en
 
 | Sous-race                             | Description                                                |
 | ------------------------------------- | ---------------------------------------------------------- |
-| [[Elfe#Haut-elfe\|Haut-Elfe]]         | _Noblesse_ elfe, habiles en magie                          |
-| [[Elfe#Elfe des bois\|Elfe des bois]] | _Plèbe_ elfe, voyageurs et en communion avec la nature     |
-| [[Elfe#Drow\|Drow]]                   | Elfes noirs, habitants de l'Outreterre                     |
-| [[Elfe#Eladrin\|Eladrin]]             | Elfes _féériques_, originairse de la Féerie                |
-| [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt                         |
-| [[Elfe#Shadar-kai\|Shadar-kai]]       | Elfes des ombres                                           |
-| [[Elfe#Elfe Astral\|Elfe Astral]]     | Elfes ayant quitté les plans matériels pour le Plan Astral |
+
 
 
 ### Culture
