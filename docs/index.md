@@ -8,7 +8,7 @@ search:
 
 **Classes.** 7.5/26 ![](https://geps.dev/progress/28)
 
-**Races.** 38/42 ![](https://geps.dev/progress/90)
+**Races.** 42/42 ![](https://geps.dev/progress/100) ✨
 
 **Sorts.** 140/786 ![](https://geps.dev/progress/18)
 
