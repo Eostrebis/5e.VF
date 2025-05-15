@@ -11,7 +11,7 @@
 
 En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition et une résistance incroyable.
 
-### Mécaniques[
+### Mécaniques
 
 **Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, WIS +1_)
 
