@@ -12,7 +12,7 @@ Quelle que soit leur origine, les kenkus se trouvent principalement dans la Gris
 
 **Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, SAG +1*)
 
-**Type de Créature.** Vous êtes un
+**Type de Créature.** Vous êtes un Humanoïde.
 
 **Langage.** Vous pouvez écrire, lire et comprendre le [[Langues#Commun|Commun]] et l'[[Langues#Aviaire|Aviaire]]. La majorité des kenkus ne peuvent parler qu'en utilisant leur trait Mimique.
 
