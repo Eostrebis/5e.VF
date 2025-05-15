@@ -3,7 +3,7 @@
 
 Originaires du Plan Élémentaire de l'Eau, les tritons sont entrés sur le Plan Matériel il y a des siècles en réponse à la menace croissante que représentaient les élémentaires. Ces tritons se sont ensuite répandus dans les différents océans du monde, protégeant la surface des dangers des profondeurs. Avec le temps, ils ont étendu leur influence sur l'ensemble des étendues d'eau, du lit des océans à la surface des lacs. 
 
-Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et une coloration bleue-verte.
+Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et une coloration bleu-vert.
 
 ### Culture
 
@@ -25,7 +25,7 @@ Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et u
 
 **Amphibien.** Vous pouvez respirer dans l'air et sous l'eau.
 
-**Contrôle de l'Air et de l'Eau.** Vous pouvez lancer le sort [[brouillard]] avec ce trait. À partir du niveau 3, vous pouvez lancer [[bourrasque]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[marché sur l'eau]]. Une fois que vous avez lancé ces sorts avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi les lancer en utilisant des emplacements de sort de niveau adapté.
+**Contrôle de l'Air et de l'Eau.** Vous pouvez lancer le sort [[brouillard]] avec ce trait. À partir du niveau 3, vous pouvez lancer [[bourrasque]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[marche sur l'eau]]. Une fois que vous avez lancé ces sorts avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi les lancer en utilisant des emplacements de sort de niveau adapté.
 
 L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour lancer ces sort avec ce trait (à choisir lorsque vous sélectionnez la race).
 

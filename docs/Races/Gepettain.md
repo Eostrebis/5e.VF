@@ -22,7 +22,7 @@ Bien qu'ils soient faits de matériaux fragiles, leur sentience leur confère un
 
 ## Biscuit
 
-Les gepettains biscuits sont une sorte de poupée de porcelaine, fabriqués à partir d'une spécification exacte et en utilisant de luxueux tissus. Bien qu'ils soit pensés pour être le plus réaliste possible, ils sont sans aucun doute les plus terrifiants des gepettains à cause de leur visage sans vie. Même si ces visages sont généralement fragiles, ils sont beaucoup plus solides que les autres de leurs congénères.
+Les gepettains biscuits sont une sorte de poupée de procelaine, fabriqués à partir d'une spécification exacte et en utilisant de luxueux tissus. Bien qu'ils soit pensés pour être le plus réaliste possible, ils sont sans aucun doute les plus terrifiants des gepettains à cause de leur visage sans vie. Même si ces visages sont généralement fragiles, ils sont beaucoup plus solides que les autres de leurs congénères.
 
 ### Mécaniques
 
