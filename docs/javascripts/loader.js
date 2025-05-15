@@ -109,7 +109,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
             json.options.forEach(option => {
                 block = document.createElement("a");
                 if (redirection) {
-                    block.href = page_json +"/"+ option.name;
+                    block.href = option.name;
                     block.onclick = null;
                 } else {
                     block.href = "javascript:;";
