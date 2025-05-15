@@ -19,7 +19,7 @@ Béni avec la résistance aux effets magiques et de poison grâce à leur rituel
 
 **Âge.** Les yuan-tis de sang pur grandissent au même rythme que les humains et ont la même espérance de vie.
 
-**Taille.** Les yuan-tis de sang pur sont d'une carrure similare aux humains. Les yuan-tis _batard_ peuvent être plus petits. Votre taille est Moyenne (M) ou Petite (P).
+**Taille.** Les yuan-tis de sang pur sont d'une carrure similaire aux humains. Les yuan-tis _bâtard_ peuvent être plus petits. Votre taille est Moyenne (M) ou Petite (P).
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -27,7 +27,7 @@ Béni avec la résistance aux effets magiques et de poison grâce à leur rituel
 
 **Résistance Magique.** Vous avez l'avantage aux jets de sauvegarde contre les sorts.
 
-**Résilience contre le Poison.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer la condition [[empoisonné]] sur vous-même. Vous êtes également résistant aux dégaâts de poison.
+**Résilience contre le Poison.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer la condition [[empoisonné]] sur vous-même. Vous êtes également résistant aux dégâts de poison.
 
 **Incantation Serpentine.** Vous connaissez le cantrip [[bouffée de poison]]. Vous pouvez lancer [[amitié animale]] un nombre de fois illimitée avec ce trait, mais vous ne pouvez cibler que des serpents. À partir du niveau 3, vous pouvez également lancer [[suggestion]] avec ce trait. Une fois que vous l'avez fait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez également le lancer en utilisant des emplacement de sorts de niveau 2 ou plus.
 
