@@ -20,11 +20,11 @@ Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et s
 
 **Âge.** Les plasmoïdes n'ont pas de maturation à proprement parler. Ils deviennent adultes à partir de 2 ans et peuvent vivre jusqu'à 150 ans.
 
-**Taille.** Les plasmoïdes peuvent mesurer de 60 cm à 1m80. Ils sont plutôt légers pour leur taille. Vous êtes de taille _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les plasmoïdes peuvent mesurer de 60 cm à 1,80 m. Ils sont plutôt légers pour leur taille. Vous êtes de taille _Petite (P)_ ou _Moyenne (M)_.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Amorphe.__ Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
+__Amorphe.__ Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
 
 __Vision dans le Noir.__ Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 

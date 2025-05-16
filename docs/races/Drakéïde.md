@@ -58,7 +58,7 @@ Les drakéïdes avec un héritage chromatique revendique le pouvoir élémentair
 
 **Âge.** Les jeunes drakéïdes grandissent vite. Ils marchent quelques heures après avoir éclos, atteignent la taille et le développement d'un enfant humain de 10 ans à l'âge de 3 ans, et deviennent adultes à 15 ans. Ils vivent jusqu'à environ 80 ans.
 
-**Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour environ 115 kg. Votre taille est *Moyenne (M)*.
+**Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour approximativement 115 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
 
@@ -132,7 +132,7 @@ Les drakéïdes avec un héritage métallique profitent de la ténacité des dra
 
 **Âge.** Les jeunes drakéïdes grandissent vite. Ils marchent quelques heures après avoir éclos, atteignent la taille et le développement d'un enfant humain de 10 ans à l'âge de 3 ans, et deviennent adultes à 15 ans. Ils vivent jusqu'à environ 80 ans.
 
-**Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour environ 115 kg. Votre taille est *Moyenne (M)*.
+**Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour approximativement 115 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
 

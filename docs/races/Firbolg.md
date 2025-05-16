@@ -20,7 +20,7 @@ La magie d'un firbolg est obscurante, ce qui a permis à ses ancêtres de traver
 
 **Âge.** Les firbolgs peuvent vivre jusqu'à 500 ans.
 
-**Taille.** Votre taille est Moyenne. Les firbolgs sont plutôt grands, pouvant faire jusqu'à 2m10.
+**Taille.** Votre taille est Moyenne. Les firbolgs sont plutôt grands, pouvant faire jusqu'à 2,10 m.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

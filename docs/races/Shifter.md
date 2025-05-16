@@ -1,9 +1,9 @@
 
 ### Description
 
-Les shifters sont parfois appelés warous, puisqu'ils sont les descendants de peuple ayant contracté une thérianthropie totale ou partielle. Humanoïdes avec un aspect bestial, les shifters ne peuvent pas complétement changer de forme mais peuvent temporairement faire ressortir leurs caractéristiques animales en entrant dans un état qu'ils appellent `phasé`.
+Les shifters sont parfois appelés warous, puisqu'ils sont les descendants de peuple ayant contracté une thérianthropie totale ou partielle. Humanoïdes avec un aspect bestial, les shifters ne peuvent pas complétement changer de forme, mais peuvent temporairement faire ressortir leurs caractéristiques animales en entrant dans un état qu'ils appellent `phasé`.
 
-Les shifters sont similaires aux humains aussi bien en terme de taille et de carrure mais sont généralement plus flexibles. Leurs traits faciaux ont un aspect bestial, souvent avec de grands yeux et des oreilles pointues ; la plupart des shifters ont des canines proéminentes. Ils possèdent des poils tels une fourrure sur la grande majorité de leur corps. Même si l'apparence d'un shifter rappelle aux observateurs un animal, ils restent facilement distinguable en tant qu'humanoïde, même dans leur état le plus féral.
+Les shifters sont similaires aux humains aussi bien en termes de taille et de carrure, mais sont généralement plus flexibles. Leurs traits faciaux ont un aspect bestial, souvent avec de grands yeux et des oreilles pointues ; la plupart des shifters ont des canines proéminentes. Ils possèdent des poils tels une fourrure sur la grande majorité de leur corps. Même si l'apparence d'un shifter rappelle aux observateurs un animal, ils restent facilement distinguables en tant qu'humanoïde, même dans leur état le plus féral.
 
 La plupart des shifters ressemblent à un certain type de thérianthrope. Vous pouvez choisir ce type ou le déterminer aléatoirement en tirant dans la table ci-dessous. La table suggère également quelle option de phasage serait adaptée de par votre héritage.
 
@@ -27,13 +27,13 @@ La plupart des shifters ressemblent à un certain type de thérianthrope. Vous p
 
 **Langage.** Vous parlez le [[langues#Commun|Commun]] ainsi qu'un autre langage approprié de votre choix.
 
-**Âge.** Les shifters maturent plus rapidement que les humains aussi bien physiquement qu'émotionellement ; ils deviennent adultes à l'âge de 10 ans. Ils ne vivent que rarement au-delà de 70 ans.
+**Âge.** Les shifters maturent plus rapidement que les humains aussi bien physiquement qu'émotionnellement ; ils deviennent adultes à l'âge de 10 ans. Ils ne vivent que rarement au-delà de 70 ans.
 
-**Taille.** En fonction de leur héritage, les shifters font entre 1m45 et 2m10. Votre taille est _Moyenne (M)_.
+**Taille.** En fonction de leur héritage, les shifters font entre 1,45 m et 2,10 m. Votre taille est _Moyenne (M)_.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Instincts Bestiaux.__ Canalisant la bête en vous, vous maîtrisez une des compétence suivantes : Acrobatie, Athlétisme, Intimidation ou Survie.
+__Instincts Bestiaux.__ Canalisant la bête en vous, vous maîtrisez une des compétences suivantes : Acrobatie, Athlétisme, Intimidation ou Survie.
 
 __Vision dans le Noir.__ Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 

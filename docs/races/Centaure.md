@@ -21,7 +21,7 @@ Les centaures galopent à travers le multivers et l'on peut retracer leurs origi
 
 **Âge.** Les centaures grandissent à peu près au même rythme que les [[Humain|humains]].
 
-**Taille.** Les centaures font entre 1m80 et 2m10, avec leur partie équine faisant 1m20 au garrot. Votre taille est Moyenne.
+**Taille.** Les centaures font entre 1,80 m et 2,10 m, avec leur partie équine faisant 1,20 m au garrot. Votre taille est Moyenne.
 
 **Vitesse.** Votre vitesse de base est de 40 ft.
 

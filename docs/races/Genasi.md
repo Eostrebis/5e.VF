@@ -2,9 +2,9 @@
 
 Rares sont ceux qui considèrent les autres plans que le plan matériel, et ceux qui le font les considère comme de lointains royaumes distants, mais l'influence planaire peut être ressentie à travers le monde. Cela se manifeste parfois sous la forme d'individu qui, par le biais d'accidents ou de naissance, possède un peu de pouvoir planaire dans le sang. Les genasis font partie de ces individus, étant la progéniture entre les génies et les mortels.
 
-Les Plans Élémentaires sont souvent inhabitables pour les natifs du Plan Matériel : une terre sans cesse en mouvement, des flammes ardentes, des ciels sans limites et des océans sans fond rendent même le tourisme de ces endroits extrêmement dangereux. Les puissants génies, en revanche, n'ont pas tant de problèmes pour s'aventurer dans le monde mortel. Ils s'adaptent parfaitement aux éléments mélangés du Plan Matériel, et ils le visitent parfois -- de par leur volonté, ou en y étant magiquement forcés. Quelques génies adoptent une apparence humaine et voyagent incognito.
+Les Plans Élémentaires sont souvent inhabitables pour les natifs du Plan Matériel : une terre sans cesse en mouvement, des flammes ardentes, des ciels sans limites et des océans sans fond rendent même le tourisme de ces endroits extrêmement dangereux. Les puissants génies, en revanche, n'ont pas tant de problèmes pour s'aventurer dans le monde mortel. Ils s'adaptent parfaitement aux éléments mélangés du Plan Matériel, et ils le visitent parfois — de par leur volonté, ou en y étant magiquement forcés. Quelques génies adoptent une apparence humaine et voyagent incognito.
 
-Pendant ces visites, un mortel pourrait attirer l'œil d'un de ces génies. Une amitié se forme, une romance éclot, et parfois, un enfant en résulte. Ces enfants sont des genasis : des individus liés aux deux mondes, mais n'appartenant à aucun. Certains genasis sont nés d'une union mortel-génie, tandis que d'autres ont deux genasis comme parents, et de rares exceptions sont de lointains descendants d'un génie, leur pouvoir se réveillant après être resté caché pendant des générations.
+Pendant ces visites, un mortel pourrait attirer l'œil d'un de ces génies. Une amitié se forme, une romance éclot, et occasionnellement, un enfant en résulte. Ces enfants sont des genasis : des individus liés aux deux mondes, mais n'appartenant à aucun. Certains genasis sont nés d'une union mortel-génie, tandis que d'autres ont deux genasis comme parents, et de rares exceptions sont de lointains descendants d'un génie, leur pouvoir se réveillant après être resté caché pendant des générations.
 
 Rarement, un genasi est le résultat d'une exposition trop intense à un pic de pouvoir élémentaire, à travers de phénomènes tels qu'une éruption d'un Plan Intérieur ou une convergence planaire. L'énergie élémentaire sature alors les créatures environnantes, et peut les altérer suffisamment pour que leurs progénitures avec d'autres mortels soient des genasis.
 
@@ -36,19 +36,6 @@ Chaque genasi appartient à l'un des types de genasis :
 | [[Genasi#Genasi d'Eau\|Genasi d'Eau]]       |
 
 ### Culture
-
-Air genasi are proud of their heritage, sometimes to the point of haughtiness. They can be flamboyant, and are keen to have an audience. They rarely stay in one place for long, always looking for a new sky to see and breathe. Air genasi who don’t live in cities favor open lands such as plains, deserts, and high mountains. Fitting backgrounds include charlatan, entertainer, and noble.
-
-Earth genasi are more withdrawn, and their connection to the earth keeps them from being comfortable in most cities. Their uncommon size and strength makes them natural soldiers, though, and with their stoic demeanor, they can encourage others and become great leaders. Many earth genasi live underground, where they can be in their favored element. When they emerge from their caves, they might roam the hills and mountains or lay claim to old ruins.
-
-Appropriate backgrounds for earth genasi include hermit, outlander, and soldier.
-
-Fire genasi often get themselves into difficulty with their fiery tempers. Like their air genasi cousins, they sometimes flaunt their perceived superiority over common folk. But they also want others to share their high opinion of themselves, so they constantly seek to enhance their reputations.
-
-Likely backgrounds for a fire genasi include criminal, folk hero, and noble.
-
-Water genasi almost all have some experience aboard or around sea vessels. They make excellent mariners and fishers. Like earth genasi, though, water genasi prefer quiet and solitude; the wide shores are their natural homes. They go where they want, do what they want, and rarely feel bound to anything. Good backgrounds for water genasi include hermit and sailor.
-#TODO !
 
 ### Langue
 
@@ -120,9 +107,9 @@ L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantati
 
 ### Description
 
-Descendants directs des effrits, les génies du Plan Élémentaire du Feu, les genasis de feu canalisent le pouvoir destructeur et flamboyant des flammes.
+Descendants directs des éfrits, les génies du Plan Élémentaire du Feu, les genasis de feu canalisent le pouvoir destructeur et flamboyant des flammes.
 
-Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon à des tons rouge orangé. Certaines peaux ressemblent à des peaux humaines, mais avec des marques ardentes, comme un des lumières tournoyantes sous la peau qui ressemblent à des étincelles ou des lignes rouges scintillantes qui parcourent leur corps comme des craquellements. Leurs cheveux sont généralement des fils de feu, ou un nuage de fumée.
+Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon à des tons rouges orangé. Certaines peaux ressemblent à des peaux humaines, mais avec des marques ardentes, comme un des lumières tournoyantes sous la peau qui ressemblent à des étincelles ou des lignes rouges scintillantes qui parcourent leur corps comme des craquellements. Leurs cheveux sont généralement des fils de feu, ou un nuage de fumée.
 
 ### Mécaniques
 

@@ -27,7 +27,7 @@ Une identité peut être partagée par plusieurs personnes. Par exemple, une com
 
 **Âge.** Les changelins vivent à peu près aussi longtemps que les humains. Néanmoins, ils grandissent légèrement plus rapidement.
 
-**Taille.** Un changelin non transformé mesure entre 1m40 et 1m60. Votre taille est Moyenne ou Petite.
+**Taille.** Un changelin non transformé mesure entre 1,40 m et 1,60 m. Votre taille est Moyenne ou Petite.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

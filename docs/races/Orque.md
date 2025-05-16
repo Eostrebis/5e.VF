@@ -15,7 +15,7 @@
 
 **Âge.** Les orques atteignent l'âge adulte à 12 ans et vivent jusqu'à 60 ans.
 
-**Taille.** Les orques mesurent plus d'1m80 et pèsent entre 110 et 140 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les orques mesurent plus d'1,80 m et pèsent entre 110 et 140 kg. Votre taille est _Moyenne (M)_.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

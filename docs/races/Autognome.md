@@ -6,7 +6,7 @@ subrace: false
 
 Les autognomes sont des êtres mécaniques construits par des [[Gnome|gnomes]] des roches. Parfois, que ce soit par un dysfonctionnement ou une circonstance exceptionnelle, un autognome peut devenir indépendant de son créateur et survivre par lui-même. 
 
-Un autognome ressemble généralement à son créateur, et la majorité des autognomes sont programmés pour parler et comprendre le [[Langues#Gnomique|Gnomique]]. Les composants internes utilisés dans la création d'un autognome peuvent varier ; un autognome peut posséder un véritable cœur dans sa cage thoracique tandis qu'un autre pourrait être alimenté par la poussière d'étoile ou un savant travail d'horlogerie.
+Un autognome ressemble généralement à son créateur, et la majorité des autognomes sont programmés pour parler et comprendre le [[Langues#Gnomique|Gnomique]]. Les composants internes utilisés dans la création d'un autognome peuvent varier ; un autognome peut posséder un véritable cœur dans sa cage thoracique, tandis qu'un autre pourrait être alimenté par la poussière d'étoile ou un savant travail d'horlogerie.
 
 Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aimez pour identifier l'évènement qui vous a dirigé vers l'aventure. Si rien ne vous attire dans la table, travaillez avec votre MJ pour créer une origine à votre personnage.
 
@@ -33,7 +33,7 @@ Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aime
 
 **Type de Créature.** Vous êtes une Construction
 
-**Langage.** Vous parlez le [[#Langues#Commun|Commun]] et le [[Langues#Gnomique|Gnomique]]
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Gnomique|Gnomique]]
 
 **Âge.** Tout comme les gnomes, les autognomes peuvent vivre des siècles, typiquement jusqu'à 500 ans.
 

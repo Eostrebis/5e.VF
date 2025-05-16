@@ -36,7 +36,7 @@ Les gnomes qui s'installent sur des territoires humains sont généralement des 
 
 #### Explorer le Monde
 
-Curieux et impulsifs, les gnomes peuvent choisir l'aventure comme moyen de voir le monde ou pour leur amour de la nouveauté. Amoureux des gemmes et autres objets précieux, certains gnomes choisissent l'aventure comme un chemin rapide, mais risqué, vers la richesse. Quelle que soit la raison qui les guide vers l'aventure, les gnomes qui adoptent ce mode de vie en tirent autant de plaisir qu'ils le feraient de toute autre activité, parfois au plus grand désarroi de leurs compagnons.
+Curieux et impulsifs, les gnomes peuvent choisir l'aventure comme moyen de voir le monde ou pour leur amour de la nouveauté. Amoureux des gemmes et autres objets précieux, certains gnomes choisissent l'aventure comme un chemin rapide, mais risqué, vers la richesse. Quelle que soit la raison qui les guide vers l'aventure, les gnomes qui adoptent ce mode de vie en tirent autant de plaisir qu'ils le feraient de tout autre activité, parfois au plus grand désarroi de leurs compagnons.
 
 
 ### Langue

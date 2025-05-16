@@ -42,9 +42,9 @@ La caractéristique d'incantation pour ces sorts est, à votre choix, l'Intellig
 ## Githzerai
 
 ### Description
-À la suite de la guerre civile les ayant opposés aux githyanki, les githzerai ont migré vers Chaos Instable du Limbo. Le Limbo est une véritable tempête de matière et d'énergie, s'effondrant et se reformant sans but ou direction, jusqu'à ce qu'une créature exprime une volonté de la stabiliser. À de leurs pouvoirs psioniques importants, les githzerai se sont *taillés* un abri, une maison au sein de ce chaos. Avec les années passant, les explorateurs githzerai ont quitté le Limbo pour atteindre d'autres plans et mondes du multivers.
+À la suite de la guerre civile les ayant opposés aux githyanki, les githzerai ont migré vers le Chaos Instable du Limbo. Le Limbo est une véritable tempête de matière et d'énergie, s'effondrant et se reformant sans but ou direction, jusqu'à ce qu'une créature exprime une volonté de la stabiliser. À de leurs pouvoirs psioniques importants, les githzerai se sont *taillés* un abri, une maison au sein de ce chaos. Avec les années passant, les explorateurs githzerai ont quitté le Limbo pour atteindre d'autres plans et mondes du multivers.
 
-Les githyanki sont élancés avec une peau mouchetée aux teintes jaunes et marrons. Les siècles qu'ils ont passé cultiver leurs pouvoirs mentaux au sein du chaos sans fin du Limbo ont conféré aux githzerai la capacité de manipuler l'énergie psionique pour se protéger et explorer les esprits.
+Les githyanki sont élancés avec une peau mouchetée aux teintes jaunes et marrons. Les siècles qu'ils ont passés à cultiver leurs pouvoirs mentaux au sein du chaos sans fin du Limbo ont conféré aux githzerai la capacité de manipuler l'énergie psionique pour se protéger et explorer les esprits.
 
 ### Mécaniques
 
