@@ -22,7 +22,7 @@ En fonction du pacte établi par leurs ancêtres, les tieflins se distinguent en
 
 Les tieflins subsistent en minorité dans les territoires humains, souvent dans les pires quartiers de ces endroits, où ils grandissent pour devenir brigand, voleur ou maître du crime. Parfois, ils vivent au milieu d'une autre minorité auquel cas ils sont généralement traités avec plus de respect.
 
-Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et être forts pour survivre. Ils ont du mal à faire confiance à quiconque se présente comme un ami, mais lorsqu'un companion de tieflin démontre sa confiance envers le tieflin, cette confiance lui est rendue. Et une fois qu'un tieflin a donné sa loyaute, il est un ami sincère ou un allié à vie.
+Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et être forts pour survivre. Ils ont du mal à faire confiance à quiconque se présente comme un ami, mais lorsqu'un compagnon de tieflin démontre sa confiance envers le tieflin, cette confiance lui est rendue. Et une fois qu'un tieflin a donné sa loyauté, il est un ami sincère ou un allié à vie.
 
 ### Langue
 
