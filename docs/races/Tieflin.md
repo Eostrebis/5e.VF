@@ -11,10 +11,8 @@ Les tieflins sont dérivés d'un héritage humain et dans le sens large, ils res
 
 En fonction du pacte établi par leurs ancêtres, les tieflins se distinguent en sous-race :
 
-| Sous-race                             | Description                                                |
-| ------------------------------------- | ---------------------------------------------------------- |
-
-
+| Sous-race | Description |
+| --------- | ----------- |
 
 ### Culture
 

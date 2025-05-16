@@ -1,9 +1,45 @@
-
 ### Description
 
+Des royaumes riches en chefs-d'œuvre anciens, des antichambres gravées dans la montagne, l'écho des pioches et des marteaux venant des profondes mines et des flamboyantes forges, une dévotion au clan et à la tradition et une haine profonde des orques et des gobelins — voilà les points communs entre tous les nains.
+
+#### Petits et Costauds
+
+Braves et solides, les nains sont connus pour être de compétents guerriers, mineurs et travailleurs de la pierre et du métal. Même s'ils font moins d'1,50 m, les nains sont si larges et compacts qu'ils pèsent autant que les humains en mesurant 50 cm de moins. Leur courage et leur endurance sont au moins égaux à ceux d'une race plus grande.
+
+La peau des nains peut aller du marron profond à des teintes plus pâles tintées de rouge, mais les tons les plus courants sont le brun ou un bronzage foncé, comme une couleur de terre. Leurs cheveux, gardés longs mais agencés simplement, sont souvent noirs, gris ou marrons, même si les nains les plus pâles peuvent avoir les cheveux rouges. Les nains, homme comme femme, valorisent énormément leur barbe et en prennent grand soin.
 ### Culture
 
+#### Longue mémoire, longues rancœurs
+
+Les nains peuvent vivre plus de 400 ans, donc les nains les plus vieux se souviennent d'un monde bien différent du monde actuel. Cette longévité leur offre une perspective que les races à l'espérance de vie plus courte comme les humains ou les halfelins. 
+
+Les nains sont solides et endurants comme les montagnes qu'ils adorent, surmontant le passage du temps avec stoïcisme et bien peu de changements. Ils respectent les traditions de leur clan, remontant leurs ancêtres jusqu'à la fondation des premières forteresses du monde, et n'abandonnent pas ces traditions à la légère. Une partie de ces traditions est la dévotion aux dieux nains, qui représentent les idéals nains du travail, de la compétence martiale et du dévouement à la forge.
+
+Individuellement, les nains sont déterminés et loyaux, honnêtes et décisifs, parfois au point d'être têtu. Beaucoup de nains ont un fort sens de la justice, et ont tendance à se souvenir longuement des torts qu'ils ont subis. Un affront à un nain est équivalent à un affront à l'ensemble de son clan, donc ce qui commence comme la vengeance solitaire d'un nain peut rapidement devenir une rivalité si ce n'est une guerre entre deux clans.
+
+#### Clans et Royaumes
+
+Les royaumes nains s'étendent au fin fond des montagnes où les nains minent des gemmes et les métaux précieux avant de forger de merveilleux objets. Ils adorent la beauté et l'art que l'on peut trouver dans la bijouterie fine et le traitement des métaux, ce qui se transforme chez certains en de l'avarice. Les quelques richesses qui ne peuvent être obtenues dans la montagne sont récupérées par le commerce. Ils n'apprécient pas les bateaux, donc d'entreprenants humains et halfelins parcourent fréquemment des routes commerciales maritimes le long des côtes naines. Les membres de confiance d'autres races sont les bienvenus dans les colonies naines, même si certaines zones se verront restreintes.
+
+La clé de voûte de la société naine est le clan, et les nains valorisent le prestige social. Même les nains qui vivent loin de leurs royaumes restent patriotiques envers leur clan et leurs affiliations, reconnaissent les autres nains et utilisent le nom de leurs ancêtres dans leurs jurons. Se retrouver sans clan est le pire destin que peut connaître un nain.
+
+Les nains d'autres territoires sont généralement des artisans, notamment des forgerons ou des bijoutiers. Certains deviennent des mercenaires ou des gardes du corps, appréciés pour leur courage et leur loyauté.
+
+#### Dieux, Or et Clan
+
+Les nains qui choisissent l'aventure peuvent être motivés par un trésor, que ce soit pour son propre gain, pour un but bien précis ou pour le désir altruistique d'aider les autres. D'autres nains sont motivés par l'inspiration d'une déité, un sentiment de destinée ou l'envie d'apporter la gloire aux divinités naines. Les clans et leurs héritages sont également des facteurs importants. Un nain pourrait essayer de restaurer l'honneur d'un clan déchu, prendre revanche d'un ancien affront ou regagner sa place au sein d'un clan après l'exil. Enfin, un nain pourrait être à la recherche d'une hache perdue par un ancêtre sur le champ de bataille, il y a de cela plusieurs siècles.
+
 ### Langue
+
+#### Noms Nains
+
+Le nom d'un nain lui est conféré par le doyen du clan, en suivant les traditions. Tous les vrais noms nains ont été utilisés et réutilisé au fil des générations. Le nom d'un nain appartient au clan, pas à l'individu. Un nain qui apporte honte ou déshonneur à son clan se voit retirer son nom et est interdit légalement d'utiliser un autre nom nain.
+
+__Noms Masculins.__ Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+
+__Noms Féminins.__ Ambre, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+
+__Noms de Clan.__ Balderk, Marteau-guerre, Enclume-poing, Dankil, Forgefeu, Barbe-gelée, Gorunn, Holderhek, Poing-de-fer, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
 
 ## Nain des Collines
 
