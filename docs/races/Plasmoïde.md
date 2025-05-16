@@ -5,7 +5,7 @@ Les plasmoïdes sont des êtres amorphes sans forme particulière. En la présen
 Les plasmoïdes n'ont aucun organe vital de quelque sorte que ce soit. Leurs corps sont composés de cellules, de fibres, d'une vase ressemblant à du plasma et de regroupements de nerfs. Ces nerfs permettent aux plasmoïdes de détecter lumière, chaleur, texture, son, douleur et vibrations. Les plasmoïdes peuvent épaissir la couche externe de leur corps pour maintenir une forme humanoïde afin de porter vêtements et accessoires. Ils parlent en expulsant l'air de cavité qu'ils contractent afin d'émettre un son.
 
 Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et sont parfois confondus avec des particularités de l'environnement.
-
+![[Plasmoïde.webp]]
 ### Culture
 
 ### Langue

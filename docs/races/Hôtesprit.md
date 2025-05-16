@@ -11,7 +11,7 @@ Les hôtesprits sont d'étranges résidents spectraux de la Frontière Éthéré
 Le Plan Éthéré est, à raison, perçu comme le lieu de recueil des âmes errantes et ne pouvant se reposer. Cependant, la Frontière Éthérée, qui se tient au plus près du Plan Matériel, possède ses propres habitants, comme les chiens clignotants ou les araignées déphasées. Les hôtesprits sont les seuls humanoïdes qui se soient installés sur ce plan et peuvent être considérés comme ses descendants légitimes.
 
 Même si leur corps ressemble à celui d'un fantôme — un peu translucide et scintillant d'une lumière blanche et pâle — les hôtesprits ne sont pas des morts-vivants. Loin de là : ils naissent, vieillissent, meurent et peuvent même élever des enfants. Néanmoins, le stigma des morts-vivants pèse sur eux. Beaucoup de clercs bien intentionnés, mais ignorants, ont essayé de renvoyer ou bannir un hôtesprit, sans succès. Pour éviter de tel conflit, les hôtesprits évitent généralement les grandes villes, ou cachent leur éthéréalité.
-
+![[Hôtesprit.png]]
 
 ### Culture
 

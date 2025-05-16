@@ -7,6 +7,7 @@ Des royaumes riches en chefs-d'œuvre anciens, des antichambres gravées dans la
 Braves et solides, les nains sont connus pour être de compétents guerriers, mineurs et travailleurs de la pierre et du métal. Même s'ils font moins d'1,50 m, les nains sont si larges et compacts qu'ils pèsent autant que les humains en mesurant 50 cm de moins. Leur courage et leur endurance sont au moins égaux à ceux d'une race plus grande.
 
 La peau des nains peut aller du marron profond à des teintes plus pâles tintées de rouge, mais les tons les plus courants sont le brun ou un bronzage foncé, comme une couleur de terre. Leurs cheveux, gardés longs mais agencés simplement, sont souvent noirs, gris ou marrons, même si les nains les plus pâles peuvent avoir les cheveux rouges. Les nains, homme comme femme, valorisent énormément leur barbe et en prennent grand soin.
+![[5e/docs/Illustrations/Races/Nain.png]]
 ### Culture
 
 #### Longue mémoire, longues rancœurs

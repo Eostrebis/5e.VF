@@ -9,7 +9,7 @@ Parmi les plus petites créatures draconiques du multivers, les kobolds affichen
 Quelle que soit leur relation avec les dragons, les écailles de kobolds tendent vers la couleur rouille, même si certains peuvent arborer un motif digne d'un dragon chromatique. Le cri d'un kobold peut exprimer tout un tas de sentiment : la colère, la détermination, l'allégresse, la peur et plus. Peu importe l'émotion exprimée, leur cri résonnent avec un pouvoir draconique.
 
 Il existe deux types de kobolds différents : les [[#kobolds draconiques]] et les [[#kobolds souterrains]].
-
+![[Kobold.png]]
 ### Culture
 
 ### Langue

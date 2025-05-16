@@ -15,6 +15,7 @@ La plupart des shifters ressemblent à un certain type de thérianthrope. Vous p
 | 4   | Tigre-garou        | Pattes Légères             |
 | 5   | Loup-garou (loup)  | Dents Longues              |
 | 6   | Loup-garou (chien) | Chasseur Né                |
+![[Shifter.webp]]
 ### Culture
 
 ### Langue

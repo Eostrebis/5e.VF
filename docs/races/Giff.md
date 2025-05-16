@@ -7,7 +7,7 @@ La plupart des giffs pensent être originaires d'un autre monde, même si ce mon
 Même s'ils ne le réalisent pas, les giffs sont attirés par le Plan Astral puisque, au fond de leur psyché, ils restent connectés avec leurs dieux créateurs, à qui il reste juste assez de pouvoir divin pour en imprégner les giffs qui ont à leur tour appris à en imprégner leurs armes. La plupart des giffs n'ont pas la moindre idée de l'origine de cette soi-disant étincelle astrale, mais ils ressentent plus fortement sa présence lorsqu'ils sont dans l'Espace Sauvage ou la Mer Astrale.
 
 Les giffs ont un débat de société important sur la façon dont leur nom doit être prononcé. La moitié d'entre eux sont partisans d'un g _dur_, comme dans garçon, tandis que l'autre moitié préfèrent un g _doux_, comme dans gel. Les désaccords sur cette prononciation peuvent s'envenimer promptement, jusqu'à la dispute ou le concours de coup de boule, mais cela ne va que rarement plus loin.
-
+![[Giff.webp]]
 ### Culture
 
 ### Langue

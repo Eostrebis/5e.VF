@@ -1,7 +1,7 @@
 ### Description
 
 Un bourdonnement constant d'activités imprègne les garennes et villages où les gnomes forment de solides communautés. Des sons plus forts viennent parfois ponctuer le bourdonnement : un craquement de rouage par-ci, une petite explosion par là, un cri de triomphe ou de déception, et souvent un éclat de rire. Les gnomes apprécient la vie, profitant de chaque instant d'invention, d'exploration, d'investigation, de création et de jeu.
-
+![[Gnome.png]]
 #### Expressivité Lumineuse
 
 L'énergie d'un gnome et son attrait pour la vie peuvent se voir à travers tous les centimètres de son petit corps. Les gnomes mesurent en moyenne un peu au-dessus des 90 cm et pèsent entre 20 et 23 kg. Leur teint bronzé est généralement parcouru d'un immense sourire (sous leurs nez proéminents), et leurs yeux brillent régulièrement d'excitation. Leurs cheveux clairs ont tendance à s'éparpiller dans toutes les directions, comme pour représenter leur intérêt insatiable dans tout ce qui les entoure.

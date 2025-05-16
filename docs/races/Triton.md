@@ -4,7 +4,7 @@
 Originaires du Plan Élémentaire de l'Eau, les tritons sont entrés sur le Plan Matériel il y a des siècles en réponse à la menace croissante que représentaient les élémentaires. Ces tritons se sont ensuite répandus dans les différents océans du monde, protégeant la surface des dangers des profondeurs. Avec le temps, ils ont étendu leur influence sur l'ensemble des étendues d'eau, du lit des océans à la surface des lacs. 
 
 Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et une coloration bleu-vert.
-
+![[Triton.png]]
 ### Culture
 
 ### Langue

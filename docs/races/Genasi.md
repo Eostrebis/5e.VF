@@ -7,7 +7,7 @@ Les Plans Élémentaires sont souvent inhabitables pour les natifs du Plan Maté
 Pendant ces visites, un mortel pourrait attirer l'œil d'un de ces génies. Une amitié se forme, une romance éclot, et occasionnellement, un enfant en résulte. Ces enfants sont des genasis : des individus liés aux deux mondes, mais n'appartenant à aucun. Certains genasis sont nés d'une union mortel-génie, tandis que d'autres ont deux genasis comme parents, et de rares exceptions sont de lointains descendants d'un génie, leur pouvoir se réveillant après être resté caché pendant des générations.
 
 Rarement, un genasi est le résultat d'une exposition trop intense à un pic de pouvoir élémentaire, à travers de phénomènes tels qu'une éruption d'un Plan Intérieur ou une convergence planaire. L'énergie élémentaire sature alors les créatures environnantes, et peut les altérer suffisamment pour que leurs progénitures avec d'autres mortels soient des genasis.
-
+![[Genasi.png]]
 #### Héritiers de Pouvoirs Élémentaires
 
 Les genasis héritent un peu des deux côtés de leur nature. Ils ressemblent à des humains, mais ont une peau d'une couleur inhabituelle (rouge, verte, bleue, ou grise), et il y a quelque chose qui *cloche* avec eux. Le sang élémentaire qui coule dans leurs veines se manifeste différement chez chaque genasi, souvent sous la forme de pouvoir magique.

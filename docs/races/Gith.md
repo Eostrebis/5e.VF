@@ -1,7 +1,7 @@
 ### Description
 
 Les giths sont une race humanoïde qui a autrefois été mise en esclavage par les illithides. Certains chercheurs affirment qu'ils descendent des humains, tandis que d'autres garantissent que leur race d'origine est aujourd'hui encore inconnue. Après s'être libéré de cet esclavagisme, des différences philosophiques ont conduit à d'importants conflits internes, conduisant jusqu'à provoquer un schisme en deux races distinctes : les githzerai et les githyanki.
-
+![[Gith.webp]]
 ### Culture
 
 ### Langue

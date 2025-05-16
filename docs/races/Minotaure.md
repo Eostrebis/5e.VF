@@ -8,7 +8,7 @@ Les minotaures sont des humanoïdes à la poitrine large avec des têtes ressemb
 Les plus petites cornes de minotaure mesurent environ 30 cm tandis que les plus grandes peuvent aller jusqu'au mètre ! Les minotaures taillent régulièrement leurs cornes afin de les aiguiser, d'y graver un symbole de pouvoir ou de les recouvrir de bronze pour les protéger d'une casse éventuelle.
 
 Leurs épais cheveux prennent attache jusqu'au bas de leur dos et certains ont des touffes de poil sur leurs mentons et joues. Leurs jambes se terminent par d'épais et solides sabot, et ils possèdent généralement une longue queue touffue.
-
+![[Minotaure.png]]
 ### Culture
 
 ### Langue

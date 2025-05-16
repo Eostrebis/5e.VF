@@ -5,7 +5,7 @@ Les thri-keen possèdent des caractéristiques insectoïdes ainsi que deux paire
 Bien que les thri-keen ne dorment pas, ils ont besoin de périodes d'inactivité afin de se revitaliser. Pendant ces périodes, ils sont entièrement conscients de ce qu'il se passe autour d'eux.
 
 Les thri-keen parlent en faisant claquer leurs mandibules et en ondulant leur antenne, indiquant ainsi aux autres thri-keen ce qu'ils pensent et ressentent. Les autres créatures trouvent cette méthode de communication difficile à interpréter et impossible à répliquer. Ainsi, pour interagir avec les autres peuples, les thri-keen se repose sur une forme de télépathie.
-
+![[Thri-keen.png]]
 ### Culture
 
 ### Langue

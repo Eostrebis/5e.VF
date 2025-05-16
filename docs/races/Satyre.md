@@ -2,7 +2,7 @@
 ### Description
 
 Originaires de la Féerie — une terre d'émotion pure —, les satyres prospèrent grâce à l'énergie du plaisir. Ils ressemblent aux [[elfe|elfes]] mais possèdent des jambes de chèvre, des sabots fendus et des cornes de bélier ou de chèvre. La magie du domaine féerique leur confère une capacité innée à se représenter, à profiter et à résister à l'intrusion magique. Bien qu'ils soient habituellement trouvés dans la Féerie, les satyres apprécient se balader sur d'autres plans, bien souvent le Plan Matériel. Ils cherchent généralement à apporter aux autres mondes un peu de la splendeur de leur plan d'origine.
-
+![[Satyre.png]]
 ### Culture
 
 ### Langue

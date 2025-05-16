@@ -2,6 +2,8 @@
 ### Description
 
 Crées par la déesse Bélhorixa, puissante guerrière et cheftaine, les orques reflètent ses qualités en étant aussi solides et tenaces qu'il est possible d'être.
+![[Orque_Not_Good.png]]
+![[Orque.png]]
 ### Culture
 
 ### Langue

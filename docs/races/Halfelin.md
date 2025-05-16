@@ -1,7 +1,7 @@
 ### Description
 
 Une maison confortable, voilà le but de la plupart des halfelin : un endroit où se poser en paix et profiter du silence loin des monstres errants et des armées en guerre ; une cheminée crépitante et un repas généreux ; une bonne boisson accompagnée d'une bonne conversation. Même si la plupart des halfelins passent leur vie dans des communautés agricoles quelque peu recluses, certains forment des groupes errants qui voyagent en permanence, attirée par la route et l'inconnu afin de découvrir les merveilles de nouveaux territoires ou de nouvelles cultures. Mais même ces voyageurs adorent la paix, la bonne nourriture, l'amour et leur chez-soi, même si ce foyer peut très bien être une petite roulotte qui suit péniblement un chemin de terre.
-
+![[Halfelin.png]]
 #### Petits et Pratiques
 
 Les petits halfelins survivent dans un monde peuplé par des créatures plus grandes en évitant d'attirant l'attention ou, si ce n'est possible, en essayant de ne pas offenser. Mesurant environ 90 cm, ils semblent relativement inoffensifs et ont ainsi pu survivre pendant des siècles dans l'ombre des plus grands empires et en restant à l'abri des guerres et autres conflits politiques. Ils sont plutôt costauds, pesant entre 20 et 25 kg.

@@ -11,6 +11,9 @@ Le pécore moyen penserait que les mandragores sont des bébés pleureurs nés d
 Avec une épaisse peau d'écorce et des feuilles qui poussent à leurs extrémités, il serait bien simple de penser que les mandragores ne sont que des étranges plantes, des tréants ou des arbres animés. Cela n'est toutefois même pas partiellement vrai : il semblerait que même si les mandragores ont pour origine un ancêtre plante, ils sont désormais à mi-chemin entre l'animal et la plante grâce à une étrange magie, ou une évolution plus étrange encore.
 
 L'anatomie des mandragores est emplie de paradoxes. Ils saignent un pus de couleur rubis, rappellent à la fois le sang et la sève. Leurs cœurs, qui ressemblent à un nœud de racines, pompent ce liquide à travers leurs corps, l'enrichissant d'oxygène absorbé par les feuilles ou des pores spéciaux à leurs extrémités. Selon leur préférence, les mandragores peuvent lézarder au soleil ou consommer des êtres vivants pour se sustenter, et peuvent même absorber des nutriments par leurs pieds, même s'ils ne survivent que rarement d'eau et de soleil seuls.
+![[Mandragore.webp]]
+
+### Culture
 
 #### Émissaires de la Forêt
 
@@ -18,7 +21,6 @@ Les alchimistes et arcanistes sont perplexes et perdus quand il s'agit de mandra
 
 Aujourd'hui, les mandragores sont rares et fondent leur foyer dans les forêts avoisinantes des grandes villes et villages. Les humains racontent des légendes sur les mandragores massacrant ceux qui daignent pénétrer son domaine, mais les druides et ceux qui respectent les anciennes traditions savent bien qu'un tel châtiment n'est que rarement démérité.
 
-### Culture
 
 ### Langue
 

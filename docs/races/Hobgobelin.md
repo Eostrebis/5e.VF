@@ -9,7 +9,7 @@ On peut remonter les origines des hobgobelins jusqu'aux anciennes cours de la F�
 Sur certains mondes, ce lien pousse les hobgobelins à former de puissantes communautés. Parfois, d'immenses légions hobgobelines apparaissent, composées de soldats dévoués et reconnues pour leur unité.
 
 Les hobgobelins sont pour la plupart plus grands que leurs cousins gobelins, mais pas autant que les gobelours. Ils ont des oreilles pointues et courbées et leur nez passe du bleu au rouge pour suivre leurs émotions.
-
+![[Hobgobelin.png]]
 ### Culture
 
 ### Langue

@@ -3,6 +3,7 @@
 Absolument pas des ours, les gobelours sont les cousins bourrins des gobelins et des hobgobelins. Avec des racines dans la Féerie, les premiers gobelours résidaient en des endroits cachés, dans des espaces difficiles d'accès et dans les ténèbres. Il y a longtemps et de façon discrète, ils arrivèrent sur le Plan Matériel, ordonné de conquérir le Multivers par une puissance divine. Des siècles plus tard, ils possèdent toujours un don féérique pour se faufiler hors de vue, et beaucoup se sont échappés de l'influence de ce dieu.
 
 Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec des oreilles pointues et des dents menaçantes. Malgré leur carrure imposante, les gobelours sont des rôdeurs silencieux, grâce à la magie féerique qui leur permet de se cacher même dans des endroits trop petits pour eux.
+![[Gobelours.png]]
 ### Culture
 
 ### Langue

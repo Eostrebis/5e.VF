@@ -16,12 +16,14 @@ Même si les homme-souris, petits et avec de grandes oreilles rondes, sont souve
 De façon générale, les homme-souris sont bons envers leurs voisins et ne cherchent que rarement la bagarre ; après tout, la plupart des gens peuvent être raisonnés. Ceux pour lesquels ce n'est pas possible, cependant, devraient avoir peur d'une frappe d'homme-souris dans les genoux. Les homme-souris ne se laissent pas faire par les malfrats.
 
 Malgré leur héritage complexe, aucune histoire n'a été écrite sur la culture murine. C'est parce que la lange murine, le Rodentien, n'a pas de forme écrite et que les homme-souris préserve leur histoire par le biais de légendes et de chansons qui sont transmises des anciens aux enfants à travers les générations.
+![[Homme-Souris.png]]
+
+
+### Culture
 
 ## Encapuchonné ou en Disgrâce
 
 Même si les ratelins ont depuis longtemps abandonné les traditions, un sourilin n'est jamais vu sans sa capuche. Suivant d'antiques traditions, les sourilins portent une capuche qu'ils ont eux même cousu en tout temps, sauf situation extrême. Une capuche est symbole de richesse et de condition sociale, et est parfois portée avec un chapeau ou d'autres couvre-chefs lorsque cela est approprié. Si un sourilin est vu sans sa capuche, c'est un signe de disgrâce et d'exil, la plus personnelle des punitions qu'un village sourilin peut infliger.
-
-### Culture
 
 ### Langue
 

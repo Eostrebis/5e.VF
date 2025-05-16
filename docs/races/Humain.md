@@ -6,7 +6,7 @@ Dans la plupart des mondes, les humains sont les plus jeunes des races communes,
 #### Un large spectre
 
 De par leur penchant prononcé pour la migration et les conquêtes, les humains sont plus physiquement variés que les autres races. Il n'existe pas d'humain typique. Un individu peut faire de 1,40 m à plus de 2 m et peser de 60 à 125 kg. Les peaux humaines vont du quasi-noir au très pâle et leurs cheveux varient du noir au blond ; les hommes peuvent également posséder une pilosité faciale plus ou moins fournie. Beaucoup d'humains ont du sang non-humain dans leurs veines, affichant des traits elfes, nains, orques, voire gobelins. Les humains atteignent l'âge adulte aux alentours de 20 ans et ne vivent que rarement ne serait-ce qu'un siècle.
-
+![[Humain.png]]
 ### Culture
 
 

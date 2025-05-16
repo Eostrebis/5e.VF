@@ -1,6 +1,7 @@
 ### Description
 
 Les premiers goliaths vivaient sur les plus hautes montagnes — bien au-delà des arbres, là où l'air se fait rare et où les vents froids soufflent. Cousins lointains des géants et infusés de l'essence surnaturelle de leurs ancêtres, les goliaths se tiennent fièrement du haut de leurs 2 mètres et disposent d'une grande variété de teint de peaux ressemblant à différentes pierres.
+![[Goliath.png]]
 ### Culture
 
 ### Langue

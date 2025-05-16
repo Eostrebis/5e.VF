@@ -5,7 +5,7 @@ Les progéniteurs des Volanzées étaient des mammifères pas plus gros qu'un ch
 Aujourd'hui, les volanzées sont des êtres bipèdes et sages, enclins à laisser derrières les terribles prédateurs de leur plan d'origine pour explorer les autres mondes.
 
 En plus de leur talent de grimpeurs nés, les volanzées ont des pieds aussi dextres que leurs mains, jusqu'à avoir des pouces opposables. La membrane de leur peau pendouille de leurs bras et jambes. Lorsqu'elle est tendue, cette membrane permet aux volanzées de planer. Les volanzées s'emmitoufle dans cette membrane pour se garder chaud en cas de baisse de température. 
-
+![[Volanzée.webp]]
 ### Culture
 
 ### Langue

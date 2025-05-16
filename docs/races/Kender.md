@@ -9,7 +9,7 @@ subrace: false
 Originaire du monde de Krynn, les Kenders sont des petits humanoïdes qui ressemblent à des humains avec des oreilles pointues. Ils possèdent une curiosité ahurissante qui les pousse à l'aventure. Grâce à cet intérêt pour tout et n'importe quoi, beaucoup de kenders se retrouvent à passer dans des portails vers d'autres mondes et plans.
 
 Les kenders accumulent parfois une collection impressionnante de bric-à-brac. Certains collectionnent des objets mondains tandis que d'autres préfèrent les reliques magiques ou n'hésitent pas devenir voleur professionnel.
-
+![[Kender.webp]]
 ### Culture
 
 ### Langue

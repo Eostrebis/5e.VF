@@ -2,7 +2,7 @@
 ### Description
 
 Être accueilli par des regards froids et des murmures, subir violence et insultes dans la rue, percevoir méfiance et peur dans chaque paire d'yeux : voilà la vie des tieflins. Et pour remuer le couteau, les tieflins savent pertinemment que tout cela émane d'un pacte établi il y a de cela des générations qui infusent leur sang de pouvoir infernal. Leurs apparences et leurs natures ne sont pas de leur fait mais la résultante d'un ancien péché pour lequel eux, leurs enfants et les enfants de leurs enfants seront toujours responsables.
-
+![[Tieflin.png]]
 #### Héritage Infernal
 
 Les tieflins sont dérivés d'un héritage humain et dans le sens large, ils ressemblent à des humains. Cependant, leur héritage infernal a laissé une empreinte claire sur leur apparence. Les tieflins possèdent de larges cornes qui prennent toutes sortes de formes : certains ont des cornes recourbées comme celles des béliers tandis que d'autres sont hautes et droites comme celles des gazelles et d'autres encore spiralant vers le haut comme les antilopes. Ils ont une épaisse queue longue d'environ 1 mètre qui s'enroule autour de leurs jambes lorsqu'ils s'énervent ou deviennent nerveux. Leurs canines sont particulièrement aiguisées et leurs yeux sont de couleurs solides — noir, rouge, blanc, argent ou or — sans pupille visible. Leur couleur de peau recouvre la variation que l'on retrouve chez les humains mais inclus aussi différents tons de rouge. Leurs cheveux, tombant en cascade derrière leurs cornes, sont généralement foncés, du noir ou marron au rouge, bleu ou violet foncé.
