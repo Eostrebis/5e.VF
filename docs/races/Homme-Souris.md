@@ -7,15 +7,15 @@ choices:
 
 ### Description
 
-À ne jamais mépriser, les petits et peu menaçants hommes-souris sont bien trop bienveillants et sont plus braves que bien des géants.
+À ne jamais mépriser, les petits et peu menaçants homme-souris sont bien trop bienveillants et sont plus braves que bien des géants.
 
 #### Petit, mais Courageux !
 
-Même si les hommes-souris, petits et avec de grandes oreilles rondes, sont souvent ignorés par les créatures plus grandes, l'histoire est remplie d'histoires de galants chevaliers souris tenant tête à des dragons, croisant le fer avec des chefs de guerre et chargeant dans les plus grandes batailles. Il se trouve que peu d'hommes-souris n'aspirent à l'héroïsme, mais qu'un sentiment de devoir moral les poussent souvent à poursuivre de grandes causes.
+Même si les homme-souris, petits et avec de grandes oreilles rondes, sont souvent ignorés par les créatures plus grandes, l'histoire est remplie d'histoires de galants chevaliers souris tenants tête à des dragons, croisant le fer avec des chefs de guerre et chargeant dans les plus grandes batailles. Il se trouve que peu d'homme-souris n'aspirent à l'héroïsme, mais qu'un sentiment de devoir moral les poussent souvent à poursuivre de grandes causes.
 
-De façon générale, les hommes-souris sont bons envers leurs voisins et ne cherchent que rarement la bagarre ; après tout, la plupart des gens peuvent être raisonnés. Ceux pour lesquels ce n'est pas possible, cependant, devraient avoir peur d'une frappe d'homme-souris dans les genoux. Les hommes-souris ne se laissent pas faire par les malfrats.
+De façon générale, les homme-souris sont bons envers leurs voisins et ne cherchent que rarement la bagarre ; après tout, la plupart des gens peuvent être raisonnés. Ceux pour lesquels ce n'est pas possible, cependant, devraient avoir peur d'une frappe d'homme-souris dans les genoux. Les homme-souris ne se laissent pas faire par les malfrats.
 
-Malgré leur héritage complexe, aucune histoire n'a été écrite sur la culture murine. C'est parce que la lange murine, le Rodentien, n'a pas de forme écrite et que les hommes-souris préserve leur histoire par le biais de légendes et de chansons qui sont transmises des anciens aux enfants à travers les générations.
+Malgré leur héritage complexe, aucune histoire n'a été écrite sur la culture murine. C'est parce que la lange murine, le Rodentien, n'a pas de forme écrite et que les homme-souris préserve leur histoire par le biais de légendes et de chansons qui sont transmises des anciens aux enfants à travers les générations.
 
 ## Encapuchonné ou en Disgrâce
 
@@ -33,9 +33,9 @@ Même si les ratelins ont depuis longtemps abandonné les traditions, un sourili
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Rodentien|Rodentien]].
 
-**Âge.** Les hommes-souris deviennent matures avant 20 ans et vivent environ 80 ans.
+**Âge.** Les homme-souris deviennent matures avant 20 ans et vivent environ 80 ans.
 
-**Taille.** Les hommes-souris mesurent entre 70 et 90 cm. Votre taille est Petite (P).
+**Taille.** Les homme-souris mesurent entre 70 et 90 cm. Votre taille est Petite (P).
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -47,7 +47,7 @@ Même si les ratelins ont depuis longtemps abandonné les traditions, un sourili
 
 **Compression.** Vous ne souffrez d'aucune pénalité pour vous faufiler dans un espace qui n'est suffisamment grand que pour une créature d'une (1) taille inférieure à la vôtre.
 
-**Héritage d'Homme-Souris.** Les hommes-souris appartiennent à un héritage de sourilin ou de ratelin. Choisissez l'une des options d'héritage suivantes :
+**Héritage d'Homme-Souris.** Les homme-souris appartiennent à un héritage de sourilin ou de ratelin. Choisissez l'une des options d'héritage suivantes :
 
  - *Pas de Côté du Sourilin.* Lorsqu'une créature que vous pouvez voir réalise une attaque d'opportunité contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage à son jet d'attaque. Vous ne pouvez pas utiliser ce trait si vous portez une armure moyenne ou lourde.
  - *Grignotement de Ratelin.* Vous pouvez utiliser votre action pour mordiller et casser un petit objet non magique qui n'est pas porté ou manié, comme une corde, une baguette de bois ou une poignée, voire un bout de tissu. Si vous mordillez un mur de bois pendant 1 minute, vous pouvez percer un trou suffisamment grand pour faire passer une créature de taille P. Vous ne pouvez pas mordiller dans un matériau plus solide que vos dents, comme du métal, de la pierre ou du cristal.

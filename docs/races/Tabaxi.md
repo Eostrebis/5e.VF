@@ -1,8 +1,8 @@
 ### Description
 
-Créés par le Seigneur des Chats -- un être divin des Plans Supérieurs -- afin de mêler les qualités des humanoïdes et des chats, les tabaxis forment un peuple hétérogène à la fois par leur apparence et leur comportement. Dans certains territoires, les tabaxis vivent comme les chats auxquels ils ressemblent, curieux par nature et à l'aise dans des environnements de jeu. Dans d'autres, les tabaxis vivent comme les autres races, n'exhibant pas de traits félins comme le Seigneur des Chats l'aurait voulu.
+Créés par le Seigneur des Chats — un être divin des Plans Supérieurs — afin de mêler les qualités des humanoïdes et des chats, les tabaxis forment un peuple hétérogène à la fois par leur apparence et leur comportement. Dans certains territoires, les tabaxis vivent comme les chats auxquels ils ressemblent, curieux par nature et à l'aise dans des environnements de jeu. Dans d'autres, les tabaxis vivent comme les autres races, n'exhibant pas de traits félins comme le Seigneur des Chats l'aurait voulu.
 
-L'apparence des tabaxis est aussi variée que leur caractère. Certains tabaxis ont des caractéristiques ou des paternes dans leur fourrure comme les tigres ou les jaguars tandis que d'autres ressemblent plus aux chats de maison. D'autres encore ont des caractéristiques uniques ou coiffent leur fourrure selon leur préférence, quitte à parfois être sans poil !
+L'apparence des tabaxis est aussi variée que leur caractère. Certains tabaxis ont des caractéristiques ou des paternes dans leur fourrure comme les tigres ou les jaguars tandis que d'autres ressemblent plus aux chats de maison. D'autres encore ont des caractéristiques uniques ou coiffent leur fourrure selon leur préférence, quitte à parfois être sans poils !
 
 ### Culture
 

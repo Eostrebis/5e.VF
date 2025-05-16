@@ -18,7 +18,7 @@ Les différentes sous-races de halfelins sont plus comme des familles distantes 
 | ------------------------- | ---------------------------------------------------------- |
 | [[#Halfelin pied-léger]]  | Halfelins habiles et charismatiques, les plus répandus     |
 | [[#Halfelin robuste]]     | Halfelins à la constitution solide, un peu moins répandus  |
-| [[#Halfelin sagespectre]] | Halfelins appartenant à des familles isolées, plutôt rares | 
+| [[#Halfelin sagespectre]] | Halfelins appartenant à des familles isolées, plutôt rares |
 
 ### Culture
 
@@ -71,9 +71,9 @@ Un halfelin a un prénom, un nom de famille et parfois un surnom. Les noms de fa
 
 ### Description
 
-En tant que halfelin pieds-légers, vous pouvez facilement vous cacher sans vous faire remarquer, par exemple en utilisant les autres comme couverture. Vous avez tendance à être aimable et vous entendez bien avec les autres. Ces halfelins sont les plus communs et se sont diffusés dans tout le continent.
+En tant que halfelin pieds-léger, vous pouvez facilement vous cacher sans vous faire remarquer, par exemple en utilisant les autres comme couverture. Vous avez tendance à être aimable et vous entendez bien avec les autres. Ces halfelins sont les plus communs et se sont diffusés dans tout le continent.
 
-Les pieds-légers sont plus enclins à la soif de découverte que les autres halfelins et se mêlent généralement aux autres races ou choisissent un mode de vie nomade. Ils sont occasionnellement appelés les pieds-poilus ou grands-gaillards.
+Les pieds-léger sont plus enclins à la soif de découverte que les autres halfelins et se mêlent généralement aux autres races ou choisissent un mode de vie nomade. Ils sont occasionnellement appelés les pieds-poilu ou grands-gaillard.
 
 ### Mécaniques
 
@@ -101,7 +101,7 @@ Les pieds-légers sont plus enclins à la soif de découverte que les autres hal
 
 ### Description
 
-En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes résistance aux différents poisons. Certains disent que les robustes ont du sang nain. Ils sont aussi parfois appelés coeur-vaillant.
+En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes résistance aux différents poisons. Certains disent que les robustes ont du sang nain. Ils sont aussi parfois appelés cœur-vaillant.
 
 ### Mécaniques
 
