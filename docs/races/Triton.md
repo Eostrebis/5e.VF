@@ -27,7 +27,7 @@ Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et u
 
 **Contrôle de l'Air et de l'Eau.** Vous pouvez lancer le sort [[brouillard]] avec ce trait. À partir du niveau 3, vous pouvez lancer [[bourrasque]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[marche sur l'eau]]. Une fois que vous avez lancé ces sorts avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi les lancer en utilisant des emplacements de sort de niveau adapté.
 
-L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour lancer ces sort avec ce trait (à choisir lorsque vous sélectionnez la race).
+L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour lancer ces sorts avec ce trait (à choisir lorsque vous sélectionnez la race).
 
 **Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
