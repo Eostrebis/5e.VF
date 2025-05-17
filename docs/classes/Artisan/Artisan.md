@@ -87,3 +87,58 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 ``` Outils d'Artisan
   En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous réaliseriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
 ```
+
+## Maîtrises Exotiques
+
+À partir du niveau 1, vous maîtrisez les armes et armures exotiques, qui sont des objets peu conventionnels, mais diablement efficaces, qu'aucune classe ne maîtrise.
+
+## Artisanat Actif
+
+Également au niveau 1, vous pouvez fabriquer un objet non magique par jour lorsque vous prenez un repos long, sans perdre les effets du repos. Vous payez la moitié du coût en PO de l'objet, jusqu'à 25 PO. Si l'objet coûte plus de 25 PO, vous pouvez le terminer en travaillant plusieurs jours d'affilée, en dépensant 25 PO par jour jusqu'à ce que l'objet soit complété.
+
+En montant de niveau dans cette classe, votre vitesse de fabrication augmente, vous permettant de dépenser plus en matériaux par jour, comme indiqué dans la colonne Artisanat Actif de la table de l'Artisan.
+
+Les objets que vous fabriquez en utilisant cette capacité valent la moitié de leur prix à la revente. Vous ne pouvez donc pas faire de profit à la revente.
+
+## Chefs-d'œuvre
+
+Au niveau 2, vous commencez à connaître les détails de l'artisanat d'armes et d'armures?
+
+### Equipement de Maître
+
+En tant qu'artisan, vous êtes capable de créer des armes et des armures de la plus haute qualité ; ces créations sont connus comme des chefs-d'oeuvre, ou des objets de maître. Pour créer un chef-d'oeuvre d'un objet, ajouter 50 PO au coût de l'objet lorsque vous le fabriquez. Les armes chef-d'oeuvre ont un bonus de +1 aux jets d'attaque. Une arme magique qui ajoute déjà un bonus aux jets d'attaque et aux dégâts n'ajoute pas ce bonus. 
+
+### Propriétés de Chef-d'Oeuvre
+
+Les armes et armures chefs-d'oeuvre peuvent être modifiées avec des [[propriétés de chef-d'œuvre]], des modifications avancées qui les transforment en des armes et armures réellement uniques. Les propriétés de chef-d'oeuvre sont séparés en 4 niveaux : Apprenti, Compagnon, Maître et Légendaire. Vous pouvez appliquer n'importe quel nombre de propriétés Apprenti à une arme ou jusqu'à 3 propriétés Apprenti à une armure. De plus, vous pouvez appliquez une propriété Compagnon, une Maître et une Légendaire à chaque chef-d'oeuvre.
+
+Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'oeuvre, seul vous pouvez l'utiliser.
+
+### Modifier l'Equipement
+
+En utilisant votre compétence d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de  :
+
+__Améliorer l'Equipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'oeuvre pour 50 PO de matériau. 
+
+__Ajouter des Propriétés de Chef-d'Oeuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'oeuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'oeuvre sans coût.
+
+| Propriété  | Niveau d'Artisan | Coût |
+| ---------- | ---------------- | ---- |
+| Apprenti   | 2                | --   |
+| Compagnon  | 5                | 100  |
+| Maître     | 11               | 250  |
+| Légendaire | 17               | 400  |
+
+Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'oeuvres à votre arme.
+
+Lorsque vous modifiez les propriétés d'une arme chef-d'oeuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
+
+__Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
+
+### Caractéristique d'Artisanat
+
+L'Intelligence est votre caractéristique primaire lorsqu'il s'agit de fabriquer des objets. Vous utilisez votre modificateur d'Intelligence pour définir votre DD de jet de sauvegarde pour les objets que vous créez. 
+
+
+
+<p style="text-align:center"><b>DD de Chef-d'œuvre</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>

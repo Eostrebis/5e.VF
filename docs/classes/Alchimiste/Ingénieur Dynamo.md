@@ -1,9 +1,11 @@
 Comme une des premières thèses alchimiques le dit : si l'énergie fondamentale de la magie pouvait être capturée dans une réalité physique, il n'y aurait plus besoin d'utilisateurs de la magie. Certains alchimistes ont fondé leur carrière sur cette notion, inventant et itérant des petits appareils connus comme des dynamos de sorts, qui peuvent emmagasiner et relâcher l'énergie arcanique. Ces dynamos peuvent être configurées pour garder leur énergie à une fréquence spécifique si bien que, quand elles la relâchent, cette énergie réplique parfaitement l'effet d'un sort. Ainsi, ces quelques alchimistes ont commencé à braver la frontière de l'incantation, sans une once de talent arcanique ; simplement un truc pour le bricolage et la bidouille.
 
 ## Analyseur de Spectres
+
 À partir du niveau 2, vous avez inventé un petit appareil en forme de monocle capable de lire les auras magiques à l’œil nu. Vous pouvez lancer le sort [[Détection de la Magie]] une fois sans consommer d'emplacement de sorts ou de composantes matérielles. Une fois que vous avez lancé ce sort de cette façon, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos court ou long.
 
 ## Incantation
+
 Également au niveau 2, vous pouvez lancer des sorts en enregistrant et relâchant de l'énergie dans les dynamos de sorts.
 
 **Dynamos de Sorts.** Vous alimentez vos sorts à l'aide de bidules arcanique portables appelés dynamos de sorts, qui prennent chacun un emplacement de sorts. La table d'Incantation de l'Ingénieur Dynamo indique le nombre de dynamos de sorts que vous possédez. La table montre aussi le niveau des emplacements stockés dans chaque dynamo ; tous ces emplacements sont du même niveau. Pour lancer un sort de magicien de niveau 1 ou supérieur, vous devez dépenser une dynamo de sort. Vous regagnez toutes les dynamos utilisées en finissant un repos long.
@@ -38,10 +40,13 @@ Comme une des premières thèses alchimiques le dit : si l'énergie fondamentale
 | 20                                | 13           | 7                | 4                    |
 
 ## Formule : Bombe Arcanique
+
 À partir du niveau 6, vous connaissez la formule pour créer une [[Bombe Arcanique]].
 
 ## Contre-Décharge
+
 À partir du niveau 10, quand une créature que vous voyez lance un sort qui vous affecte, vous pouvez utiliser votre réaction pour dépenser une dynamo de sorts afin de libérer une vague d'énergie magique disruptive. Si le sort vous demande un jet de sauvegarde pour résister à ses effets, vous avez l'avantage à ce jet de sauvegarde. Si le sort inflige des dégâts, vous avez la résistance contre. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser avant d'avoir fini un repos long.
 
 ## Recycleur Arcanique
+
 Au niveau 18, vous pouvez convertir de l'énergie magique qui serait gâchée en autre chose, plus utilisable. Lorsque vous ratez avec une bombe arcanique, vous pouvez recycler l'emplacement de sort stocké dans la dynamo et le transférer vers une dynamo vide que vous avez sur vous.

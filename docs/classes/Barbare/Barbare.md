@@ -99,7 +99,7 @@ Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne po
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
 
-Votre rage dure 1 minute. Elle termine prématurémment si vous êtes [[inconscient]] ou si votre tour se termine sans que vous n'ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
+Votre rage dure 1 minute. Elle termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
 
 Une fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau.
 
@@ -109,11 +109,11 @@ Tant que vous ne portez aucune armure, votre CA est égale à 10 + votre modific
 
 ## Attaque Téméraire
 
-À partir du niveau 2, vous pouvez vous débarasser de toute préoccupation vis-à-vis de la défense et attaquer de tout votre coeur. Lorsque vous réalisez la première attaque de votre tour, vous pouvez décider d'attaquer avec témérité. Le faire vous confère l'avantage aux attaques armées de mêlée qui utilisent la Force pendant ce tour, mais les jets d'attaque contre vous ont l'avantage jusqu'à votre prochain tour.
+À partir du niveau 2, vous pouvez vous débarrasser de toute préoccupation vis-à-vis de la défense et attaquer de tout votre cœur. Lorsque vous réalisez la première attaque de votre tour, vous pouvez décider d'attaquer avec témérité. Le faire vous confère l'avantage aux attaques armées de mêlée qui utilisent la Force pendant ce tour, mais les jets d'attaque contre vous ont l'avantage jusqu'à votre prochain tour.
 
 ## Sixième Sens
 
-Au niveau 2, votre obtenez un instinct sur le danger qui vous entoure, vous donnant un avantage pour l'éviter ou vous y préparer.
+Au niveau 2, vous obtenez un instinct sur le danger qui vous entoure, vous donnant un avantage pour l'éviter ou vous y préparer.
 
 Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Vous ne bénéficiez pas de cet effet si vous êtes [[aveuglé]], [[assourdi]] ou [[incapacité]].
 
@@ -131,7 +131,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Attaque Supplémentaire
 
-À partir du niveau 5, vous pouvez attaquez deux fois lorsque vous utiliser votre action pour Attaquer pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois lorsque vous utiliser votre action pour Attaquer pendant votre tour.
 
 ## Déplacement Rapide
 
@@ -141,7 +141,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 Au niveau 7, vos instincts sont si aiguisés que vous avez l'avantage aux jets d'initiative.
 
-De plus, si vous êtes surpris au début d'un combat sans ête [[incapacité]], vous pouvez agir normalement pendant votre tour, mais seulement si vous commencez votre tour par entrer en rage.
+De plus, si vous êtes surpris au début d'un combat sans être [[incapacité]], vous pouvez agir normalement pendant votre tour, mais seulement si vous commencez votre tour par entrer en rage.
 
 ## Bond Instinctif (Opt.)
 
@@ -151,13 +151,13 @@ Au niveau 7, pendant l'action bonus que vous utilisez pour enrager, vous pouvez 
 
 À partir du niveau 9, vous pouvez lancer un dé de dégâts supplémentaire lorsque vous déterminez les dégâts supplémentaires d'un coup critique d'une attaque armée de mêlée.
 
-Ce dé suppplémentaire passe à 2 puis 3 dés aux niveaux 13 et 17.
+Ce dé supplémentaire passe à 2 puis 3 dés aux niveaux 13 et 17.
 
 ## Rage Implacable
 
-À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas de suite, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussiez, vous tombez à 1 point de vie plutôt.
+À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas de suite, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
 
-Chaque fois que vous utilisez cette compétence après la premère fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
+Chaque fois que vous utilisez cette compétence après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
 
 ## Rage Persistante
 

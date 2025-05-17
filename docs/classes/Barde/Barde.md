@@ -118,6 +118,7 @@ Votre caractéristique d'incantation est le Charisme. Votre magie vient de votre
 Vous pouvez lancer n'importe quel sort de barde comme rituel à condition qu'il ait le tag `rituel`.
 
 ### Focalisateur d'Incantation
+
 Vous pouvez utiliser un instrument de musique comme focalisateur d'incantation pour vos sorts de barde.
 
 ## Inspiration Bardique
