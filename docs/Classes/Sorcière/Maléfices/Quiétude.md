@@ -1,1 +1,0 @@
-Pour une action, vous pouvez _accrocher_ des armes à leurs détenteurs. Les armes et munitions de toutes les créatures à 30 ft. deviennent bloquées dans leur fourreau, carquois ou autre jusqu'à la fin de votre prochain tour. Pendant que ce maléfice est actif, une créature peut utiliser son action pour réaliser un jet de Force contre votre DD de sort pour libérer son arme.

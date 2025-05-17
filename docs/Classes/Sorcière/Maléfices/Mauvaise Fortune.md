@@ -1,1 +1,0 @@
-Pour une action, choisissez une créature que vous pouvez voir à 60 ft. de vous. Jusqu'à la fin de son prochain tour, chaque fois que cette créature obtient un 20 sur un jet de d20, le jet devient un 1.

@@ -1,3 +1,0 @@
-Une hantise est un esprit de regret ou de doute qui persiste longuement après la mort. Pour une action bonus, vous pouvez forcer une créature à 30 ft. à réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts nécrotiques.
-
-De plus, pour une action, vous pouvez utiliser la hantise pour créer de léger bruits éthérés ou créer jusqu'à quatre lumières fantomatiques qui se déplacent sous votre direction. Ces effets doivent rester à 30 ft. de vous et persistent jusqu'au début de votre prochain tour.

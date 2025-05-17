@@ -1,3 +1,0 @@
-*Requis : Niveau 13, Mutagéniste*
-
-Vous avez développé une puissante mais passagère technique pour mélanger vos mutagènes. Lorsque vous vous injectez avec un mutagène, vous pouvez choisir de vous injecter un tri-mutagène, vous conférant les effets de tous vos mutagènes à la fois. Ceux-ci durent une minute, ou jusqu'à ce que vous vous injectiez un autre mutagène. Une fois que vous avez utilisé cette compétence, vous ne plus l'utiliser tant que vous n'avez pas fini un repos long.
