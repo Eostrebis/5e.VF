@@ -1,8 +1,8 @@
 Les bombes sont des armes à distance exotiques avec les statistiques suivantes : 
 
- | Nom   | Coût | Dégâts      | Poids | Propriétés                            |
- | ----- | ---- | ----------- | ----- | ------------------------------------- |
- | Bombe | 2 pa | 1d10 de Feu | 0.5kg | Finesse, Spécial, Jeté (Portée 30/90) |
+| Nom   | Coût | Dégâts      | Poids | Propriétés                            |
+| ----- | ---- | ----------- | ----- | ------------------------------------- |
+| Bombe | 2 pa | 1d10 de Feu | 0.5kg | Finesse, Spécial, Jeté (Portée 30/90) |
 
 ## Propriété Spéciale
 
