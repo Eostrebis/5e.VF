@@ -26,29 +26,29 @@ Enfin, considérez comment vous percevez vos travaux. Est-ce que vous êtes prag
 
 Vous pouvez créer un artisan rapidement en suivant ces suggestions. Commencez par faire de la Force ou la Dextérité votre caractéristique principale, suivie de l'Intelligence. Choisissez l'historique de votre choix qui colle avec votre passif dans l'artisanat.
 
-| **L'Artisan* |                   |             |
-| -------------- | ----------------- | ----------- |
-| Niveau         | Bonus de Maîtrise | Compétences |
-| 1              | +2                |             |
-| 2              | +2                |             |
-| 3              | +2                |             |
-| 4              | +2                |             |
-| 5              | +3                |             |
-| 6              | +3                |             |
-| 7              | +3                |             |
-| 8              | +3                |             |
-| 9              | +4                |             |
-| 10             | +4                |             |
-| 11             | +4                |             |
-| 12             | +4                |             |
-| 13             | +5                |             |
-| 14             | +5                |             |
-| 15             | +5                |             |
-| 16             | +5                |             |
-| 17             | +6                |             |
-| 18             | +6                |             |
-| 19             | +6                |             |
-| 20             | +6                |             |
+| **L'Artisan* |                   |                                                                        |                      |
+| ------------ | ----------------- | ---------------------------------------------------------------------- | -------------------- |
+| Niveau       | Bonus de Maîtrise | Compétences                                                            | Artisanat Actif (PO) |
+| 1            | +2                | [[#Maîtrises Exotiques]], [[#Artisanat Actif]]                         | 25                   |
+| 2            | +2                | [[#Chefs-d'œuvre]] (propriétés Apprenti), [[#Ceinture à Outils]]       | 25                   |
+| 3            | +2                | [[#Guilde d'Artisan]]                                                  | 50                   |
+| 4            | +2                | [[#Augmentation de Caractéristiques]]                                  | 75                   |
+| 5            | +3                | [[#Attaque Supplémentaire]], [[#Chefs-d'œuvre]] (propriétés Compagnon) | 100                  |
+| 6            | +3                | [[#Acier de Damas]]                                                    | 125                  |
+| 7            | +3                | Compétence de [[#Guilde d'Artisan]]                                    | 150                  |
+| 8            | +3                | [[#Augmentation de Caractéristiques]]                                  | 175                  |
+| 9            | +4                | [[#Œil pour la Qualité]]                                               | 200                  |
+| 10           | +4                | Compétence de [[#Guilde d'Artisan]]                                    | 225                  |
+| 11           | +4                | [[#Chefs-d'œuvre]] (propriétés Maître)                                 | 250                  |
+| 12           | +4                | [[#Augmentation de Caractéristiques]]                                  | 275                  |
+| 13           | +5                | [[#Construction Sans-Faille]]                                          | 300                  |
+| 14           | +5                | Compétence de [[#Guilde d'Artisan]]                                    | 325                  |
+| 15           | +5                | [[#Drôle de Ceinture à Outils]]                                        | 350                  |
+| 16           | +5                | [[#Augmentation de Caractéristiques]]                                  | 375                  |
+| 17           | +6                | [[#Chefs-d'œuvre]] (propriétés Légendaire)                             | 400                  |
+| 18           | +6                | Compétence de [[#Guilde d'Artisan]]                                    | 425                  |
+| 19           | +6                | [[#Augmentation de Caractéristiques]]                                  | 450                  |
+| 20           | +6                | [[#Magnum Opus]]                                                       | 500                  |
 
 # Compétences de Classes
 
@@ -140,6 +140,7 @@ __Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés
 L'Intelligence est votre caractéristique primaire lorsqu'il s'agit de fabriquer des objets. Vous utilisez votre modificateur d'Intelligence pour définir votre DD de jet de sauvegarde pour les objets que vous créez. 
 
 <p style="text-align:center"><b>DD de Chef-d'œuvre</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
+
 ## Ceinture à Outils
 
 Au niveau 2, vous avez toujours le bon outil sous la main. Vous pouvez utiliser votre action pour récupérer un objet non magique de votre ceinture, sac ou n'importe où vous gardez vos outils, même si vous ne l'aviez pas dans votre inventaire avant. Le coût de l'objet ne peut excéder 50 PO. Vous ne pouvez pas utiliser cette compétence pour produire une arme, une armure, un bouclier ou une potion. Un objet obtenu d'une telle façon se perd dans votre inventaire et disparaît lorsque vous terminez un repos long.
