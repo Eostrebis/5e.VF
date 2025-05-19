@@ -102,25 +102,25 @@ Les objets que vous fabriquez en utilisant cette capacité valent la moitié de 
 
 ## Chefs-d'œuvre
 
-Au niveau 2, vous commencez à connaître les détails de l'artisanat d'armes et d'armures?
+Au niveau 2, vous commencez à connaître les détails de l'artisanat d'armes et d'armures.
 
-### Equipement de Maître
+### Équipement de Maître
 
-En tant qu'artisan, vous êtes capable de créer des armes et des armures de la plus haute qualité ; ces créations sont connus comme des chefs-d'oeuvre, ou des objets de maître. Pour créer un chef-d'oeuvre d'un objet, ajouter 50 PO au coût de l'objet lorsque vous le fabriquez. Les armes chef-d'oeuvre ont un bonus de +1 aux jets d'attaque. Une arme magique qui ajoute déjà un bonus aux jets d'attaque et aux dégâts n'ajoute pas ce bonus. 
+En tant qu'artisan, vous êtes capable de créer des armes et des armures de la plus haute qualité ; ces créations sont connues comme des chefs-d'œuvre, ou des objets de maître. Pour créer un chef-d'œuvre d'un objet, ajouter 50 PO au coût de l'objet lorsque vous le fabriquez. Les armes chefs-d'œuvre ont un bonus de +1 aux jets d'attaque. Une arme magique qui ajoute déjà un bonus aux jets d'attaque et aux dégâts n'ajoute pas ce bonus. 
 
-### Propriétés de Chef-d'Oeuvre
+### Propriétés de Chef-d'Œuvre
 
-Les armes et armures chefs-d'oeuvre peuvent être modifiées avec des [[propriétés de chef-d'œuvre]], des modifications avancées qui les transforment en des armes et armures réellement uniques. Les propriétés de chef-d'oeuvre sont séparés en 4 niveaux : Apprenti, Compagnon, Maître et Légendaire. Vous pouvez appliquer n'importe quel nombre de propriétés Apprenti à une arme ou jusqu'à 3 propriétés Apprenti à une armure. De plus, vous pouvez appliquez une propriété Compagnon, une Maître et une Légendaire à chaque chef-d'oeuvre.
+Les armes et armures chefs-d'œuvre peuvent être modifiées avec des [[propriétés de chef-d'œuvre]], des modifications avancées qui les transforment en des armes et armures réellement uniques. Les propriétés de chef-d'œuvre sont séparées en 4 niveaux : Apprenti, Compagnon, Maître et Légendaire. Vous pouvez appliquer n'importe quel nombre de propriétés Apprenti à une arme ou jusqu'à 3 propriétés Apprenti à une armure. De plus, vous pouvez appliquer une propriété Compagnon, une Maître et une Légendaire à chaque chef-d'œuvre.
 
-Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'oeuvre, seul vous pouvez l'utiliser.
+Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'œuvre, seul vous pouvez l'utiliser.
 
-### Modifier l'Equipement
+### Modifier l'Équipement
 
-En utilisant votre compétence d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de  :
+En utilisant votre compétence d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de :
 
-__Améliorer l'Equipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'oeuvre pour 50 PO de matériau. 
+__Améliorer l'Équipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
 
-__Ajouter des Propriétés de Chef-d'Oeuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'oeuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'oeuvre sans coût.
+__Ajouter des Propriétés de Chef-d'Œuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
 
 | Propriété  | Niveau d'Artisan | Coût |
 | ---------- | ---------------- | ---- |
@@ -129,9 +129,9 @@ __Ajouter des Propriétés de Chef-d'Oeuvre.__ Ajouter des propriétés niveau C
 | Maître     | 11               | 250  |
 | Légendaire | 17               | 400  |
 
-Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'oeuvres à votre arme.
+Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'œuvre à votre arme.
 
-Lorsque vous modifiez les propriétés d'une arme chef-d'oeuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
+Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
 
 __Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
 
@@ -139,6 +139,54 @@ __Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés
 
 L'Intelligence est votre caractéristique primaire lorsqu'il s'agit de fabriquer des objets. Vous utilisez votre modificateur d'Intelligence pour définir votre DD de jet de sauvegarde pour les objets que vous créez. 
 
-
-
 <p style="text-align:center"><b>DD de Chef-d'œuvre</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
+## Ceinture à Outils
+
+Au niveau 2, vous avez toujours le bon outil sous la main. Vous pouvez utiliser votre action pour récupérer un objet non magique de votre ceinture, sac ou n'importe où vous gardez vos outils, même si vous ne l'aviez pas dans votre inventaire avant. Le coût de l'objet ne peut excéder 50 PO. Vous ne pouvez pas utiliser cette compétence pour produire une arme, une armure, un bouclier ou une potion. Un objet obtenu d'une telle façon se perd dans votre inventaire et disparaît lorsque vous terminez un repos long.
+
+Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur d'Intelligence (minimum d'une fois) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+## Guilde d'Artisan
+
+Au niveau 3, vous rejoignez une guilde d'artisan. Sélectionnez une guilde parmi celles listées ci-dessous ; vous obtenez la compétence de niveau 3 de cette guilde. Vous obtenez des compétences de Guilde supplémentaires aux niveaux 7, 10, 114 et 18.
+
+| Nom de Guilde                          | Description                                                                                            |
+| -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [[Guilde des Maestros Arcaniques]]     | Des artisans magiques qui transforment l'acier commun en objets magiques.                              |
+| [[Guilde des Armigères]]               | Des forgerons d'armures de renom qui portent de l'acier renforcé.                                      |
+| [[Guilde des Travailleurs de la Lame]] | Des forgerons d'armes qui construisent des innovations de guerre et s'entraînent à leurs utilisations. |
+| [[Guilde des Calibarons]]              | Des fusiliers qui développent de puissantes armes à feu et des attachements.                           |
+| [[Guilde des Chevaliers Forgés]]       | Manient une forge portable pour chauffer leurs armes et armures jusqu'à l'explosion.                   |
+| [[Guilde des Mécanautes]]              | Pilotent une [[machine du crabe]], une construction marchante à l'immense pouvoir.                     |
+| [[Guilde des Seigneurs du Tonnerre]]   | Innovateurs électriques qui utilisent des équipements chargés.                                         |
+| [[Guilde des Piègeurs]]                | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat.                           |
+
+## Augmentation de Caractéristiques
+
+Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière.
+
+## Attaque Supplémentaire
+
+À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous prenez l'action d'attaquer pendant votre tour.
+
+## Acier de Damas
+
+À partir du niveau 6, vous avez découvert un nouveau processus afin de rendre vos chefs-d'œuvre encore plus solides. Les armes chefs-d'œuvre que vous avez créées ou modifiées sont considérées comme magique vis-à-vis des résistances et immunités aux dégâts non magiques.
+
+## Œil pour la Qualité
+
+À partir du niveau 9, vous pouvez lancer le sort [[identification]] à volonté sans utiliser d'emplacements de sort ou de composantes. De plus, lorsque vous lancez le sort, vous pouvez estimer le prix de l'objet en pièces d'or.
+
+## Construction Sans-Faille
+
+À partir du niveau 13, les chefs-d'œuvre que vous créez ne rouille pas et ne subisse pas l'usure du temps. De plus, ils sont résistants à tous les dégâts. Les objets que vous créez ne peuvent être détruits que par des effets qui détruisent les objets magiques.
+
+## Drôle de Ceinture à Outils
+
+Au niveau 15, vous avez le truc pour trouver même l'objet le mieux caché au fond de votre sac. Vous pouvez produire un seul objet magique de rareté commune ou peu commune de votre ceinture à outils. Cet objet se perd dans votre inventaire et disparaît lorsque vous terminez un repos long.
+
+Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos long.
+
+## Magnum Opus
+
+Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un _Magnum Opus_.
