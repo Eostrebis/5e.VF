@@ -17,7 +17,7 @@ Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 
 
 ## Renforcement d'Armure
 
-À partir du niveau 10 vous pouvez passer 10 minutes pour renforcer une armure, ou vous pouvez renforcer jusqu'à 6 armures pendant un repos. L'armure conserve son renforcement jusqu'à ce que la créature qui la porte se fasse toucher, après quoi elle n'est plus fortifiée. Les armures renforcées gagnent l'une des propriétés suivantes, au choix :
+À partir du niveau 10, vous pouvez passer 10 minutes pour renforcer une armure, ou vous pouvez renforcer jusqu'à 6 armures pendant un repos. L'armure conserve son renforcement jusqu'à ce que la créature qui la porte se fasse toucher, après quoi elle n'est plus fortifiée. Les armures renforcées gagnent l'une des propriétés suivantes, au choix :
 
 __Adamante.__ Lorsqu'une créature portant cette armure subit des dégâts, ce montant est réduit de 1d8.
 
