@@ -4,6 +4,7 @@
 			"name":"caster",
 			"type":"choice",
 			"texts":["non", "semi", "full"],
+			"possibles":["N", "S", "F"],
 			"button":true,
 			"text": "%C Caster"
 		},
@@ -23,6 +24,7 @@
 			"type":"choice",
 			"button":true,
 			"texts":["6","8","10","12"],
+			"possibles":["6","8","10","12"],
 			"text": "d%C",
 			"icons":["Misc/d6.png","Misc/d8.png","Misc/d10.png","Misc/d12.png"]
 		}
