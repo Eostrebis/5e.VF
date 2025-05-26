@@ -3,7 +3,7 @@
 		{
 			"name":"caster",
 			"type":"choice",
-			"possibles":["non", "semi", "full"],
+			"texts":["non", "semi", "full"],
 			"button":true,
 			"text": "%C Caster"
 		},
@@ -22,7 +22,7 @@
 			"name":"HD",
 			"type":"choice",
 			"button":true,
-			"possibles":["6","8","10","12"],
+			"texts":["6","8","10","12"],
 			"text": "d%C",
 			"icons":["Misc/d6.png","Misc/d8.png","Misc/d10.png","Misc/d12.png"]
 		}
