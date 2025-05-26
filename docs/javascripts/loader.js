@@ -60,7 +60,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                             window[sort.name] = "";
                             button.textContent = sort.texts[0]
                             if (sort.icons) {
-                                for (const [index, element] of sort.possibles.entries()) {
+                                for (const [index, element] of sort.texts.entries()) {
                                     window[sort.name + "_" + element + "_img"] = sort.icons[index];
                                 }
                             }
