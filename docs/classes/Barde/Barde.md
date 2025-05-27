@@ -151,22 +151,22 @@ Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde
 
 | Collège de Barde | Description |
 | ---------------- | ----------- |
-| Collège de l'Éloquence | |
-| Collège de la Création | |
-| Collège de la Romance | |
-| Collège de la Vaillance | |
-| Collège des Annonciateurs | |
-| Collège des Barmans | |
-| Collège des Bouffons | |
-| Collège des Cantateurs | |
-| Collège des Grafitis | |
-| Collège des Masques | |
-| Collège des Rumeurs | |
-| Collège des Épées | |
-| Collège du Charme | |
-| Collège du Dieu Fou | |
-| Collège du Portrait | |
-| Collège du Savoir | |
+| [[Collège de l'Éloquence]] | |
+| [[Collège de la Création]] | |
+| [[Collège de la Romance]] | |
+| [[Collège de la Vaillance]] | |
+| [[Collège des Annonciateurs]] | |
+| [[Collège des Barmans]] | |
+| [[Collège des Bouffons]] | |
+| [[Collège des Cantateurs]] | |
+| [[Collège des Grafitis]] | |
+| [[Collège des Masques]] | |
+| [[Collège des Rumeurs]] | |
+| [[Collège des Épées]] | |
+| [[Collège du Charme]] | |
+| [[Collège du Dieu Fou]] | |
+| [[Collège du Portrait]] | |
+| [[Collège du Savoir]] | |
 
 ## Expertise
 
