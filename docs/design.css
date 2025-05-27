@@ -28,6 +28,10 @@
     color: var(--dark-primary);
     font-weight: bold;
   }
+  
+  .base-block:hover .base-content {
+    color: var(--light-accent)
+  }
 }
 
 [data-md-color-scheme="default"] {
@@ -60,6 +64,10 @@
   
   .base-name{
     color: var(--light-bg);
+  }
+  
+  .base-block:hover .base-content {
+    color: var(--dark-accent)
   }
 
 }
