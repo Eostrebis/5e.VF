@@ -9,4 +9,8 @@
  --md-accent-fg-color--light :   #14213D;
  --md-accent-fg-color--dark :    #FCA311;
 
+//Typeset
+ --md-typeset-a-transition : 2s;
+ --md-typeset-a-color : red;
+ --md-typeset-a::hover-color : green;
 }
