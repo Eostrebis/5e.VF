@@ -1,9 +1,9 @@
 :root {
-  --light-primary: #6c584c;  
-  --light-accent: #a98467;
-  --light-bg: #f0ead2;
-  --dark-primary: #adc178;
-  --dark-accent: #dde5b6;
+  --light-primary: #494748;  
+  --light-accent: #a46e4b;
+  --light-bg: #ffffff;
+  --dark-primary: #90a589;
+  --dark-accent: #e8dfd3;
 }
 
 [data-md-color-scheme="slate"] {
