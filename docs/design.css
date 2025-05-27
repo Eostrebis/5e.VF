@@ -1,110 +1,78 @@
-:root {
-  --light-bg: #F3E8D9;
-  --light-banner: #9B1C31;
-  --light-table: #A67C52;
-  --light-primary: #1B1A1D;  
-  --light-accent: #A67C52;
-  --light-base-block: #C4C4C4;
-  --light-title: #9B1C31;
-  
-  --dark-bg: #1B1A1D;
-  --dark-banner: #B89F6A;
-  --dark-table: #A67C52;
-  --dark-primary: #9B1C31 ;  
-  --dark-accent: #A67C52;
-  --dark-base-block: #2A2A2E;
-  --dark-title: #B89F6A;
-}
-
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: var(--dark-primary);
-  --md-accent-fg-color: var(--dark-accent);
-  --md-default-bg-color: var(--dark-bg);
-  --md-primary-bg-color: var(--dark-banner);
-  --md-typeset-table-color: var(--dark-table);
-  .base-block {
-    background: var(--dark-base-block);
-  } 
+  --bg: #1B1A1D;
+  --banner: #B89F6A;
+  --table: #A67C52;
+  --primary: #9B1C31 ;  
+  --accent: #A67C52;
+  --base-block: #2A2A2E;
+  --titl: #B89F6A;
   
-  .md-typeset a {
-    color: var(--dark-banner);
-  }
-
-  .md-typeset a:hover {
-    color: var(--dark-accent);
-  }
-
-  .base-block:hover{
-    border: 10px solid var(--dark-primary);
-  }
-  
-  .base-name{
-    color: var(--dark-accent);
-  }
-  
-  h1 {
-    color: var(--dark-title);
-    font-weight: bold;
-  }
-  
-  h2 {
-    color: var(--dark-accent)
-  }
-  
-  h3 {
-    color: var(--dark-primary)
-  }
-  
-  .base-block:hover .base-content {
-    color: var(--dark-accent)
-  }
+  --md-primary-fg-color: var(--primary);
+  --md-accent-fg-color: var(--accent);
+  --md-default-bg-color: var(--bg);
+  --md-primary-bg-color: var(--banner);
+  --md-typeset-table-color: var(--table);
 }
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: var(--light-primary);
-  --md-accent-fg-color:  var(--light-accent);
-  --md-default-bg-color: var(--light-bg);
-  --md-primary-bg-color: var(--light-banner);
-  --md-typeset-table-color: var(--light-table);;
+  --bg: #F3E8D9;
+  --banner: #9B1C31;
+  --table: #A67C52;
+  --primary: #1B1A1D;  
+  --accent: #A67C52;
+  --base-block: #C4C4C4;
+  --titl: #9B1C31;
   
-  .md-typeset a {
-    color: var(--light-banner);
-  }
-  
-  .md-typeset a:hover {
-    color: var(--light-accent);
-  }
-  
-  .base-block {
-    background: var(--light-base-block);
-  } 
-  
-  .base-block:hover{
-    border: 10px solid var(--light-primary);
-  }
-  
-  h1 {
-    color: var(--light-title);
-    font-weight: bold;
-  }
-  
-  h2 {
-    color: var(--light-accent)
-  }
-  
-  h3 {
-    color: var(--light-primary)
-      font-weight: bold;
-  }
-  
-  .base-name{
-    color: var(--light-accent);
-  }
-  
-  .base-block:hover .base-content {
-    color: var(--light-accent)
-  }
+  --md-primary-fg-color: var(--primary);
+  --md-accent-fg-color: var(--accent);
+  --md-default-bg-color: var(--bg);
+  --md-primary-bg-color: var(--banner);
+  --md-typeset-table-color: var(--table);
+}
 
+:root {
+  --md-primary-fg-color: var(--primary);
+  --md-accent-fg-color: var(--accent);
+  --md-default-bg-color: var(--bg);
+  --md-primary-bg-color: var(--banner);
+  --md-typeset-table-color: var(--table);
+}
+
+.base-block {
+  background: var(--base-block);
+} 
+
+.md-typeset a {
+  color: var(--banner);
+}
+
+.md-typeset a:hover {
+  color: var(--accent);
+}
+
+.base-block:hover{
+  border: 10px solid var(--primary);
+}
+
+.base-name{
+  color: var(--accent);
+}
+
+.md-typeset h1 {
+  color: var(--titl);
+  font-weight: bold;
+}
+
+.md-typeset h2 {
+  color: var(--accent)
+}
+
+.md-typeset h3 {
+  color: var(--primary)
+}
+
+.base-block:hover .base-content {
+  color: var(--accent)
 }
 
   
