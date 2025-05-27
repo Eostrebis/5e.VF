@@ -18,6 +18,14 @@
   --md-accent-fg-color:  var(--light-accent);
   --md-primary-bg-color: var(--dark-primary);
   --md-default-bg-color: var(--light-bg);
+  
+  .md-typeset a {
+    color: var(--dark-primary);
+  }
+  
+  .md-typeset a:hover {
+    color: var(--light-accent);
+  }
 
 }
 
