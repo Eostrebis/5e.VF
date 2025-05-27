@@ -25,8 +25,16 @@
   }
   
   h1 {
-    color: var(--dark-primary);
+    color: var(--light-accent);
     font-weight: bold;
+  }
+  
+  h2 {
+    color: var(--dark-accent)
+  }
+  
+  h3 {
+    color: var(--dark-primary)
   }
   
   .base-block:hover .base-content {
@@ -60,6 +68,15 @@
   h1 {
     color: var(--dark-primary);
     font-weight: bold;
+  }
+  
+  h2 {
+    color: var(--light-accent)
+  }
+  
+  h3 {
+    color: var(--light-primary)
+      font-weight: bold;
   }
   
   .base-name{
