@@ -21,14 +21,6 @@ Un certain nombre de classes sont disponibles pour les habitants d'Eostrebis :
 | [[Slime-boy]]         | Élèvent et commandent toutes sortes de slimes et de vases                         |
 | [[Xénoalchimiste]]    | Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse |
 
-# [[Artificier]]
-
-| Spécialités            |
-| ---------------------- |
-| [[Armurier]]           |
-| [[Artilleriste]]       |
-| [[Forgeron de Guerre]] |
-
 # [[Artisan]]
 
 | Guildes d'Artisan                      |
