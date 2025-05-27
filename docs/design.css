@@ -12,5 +12,5 @@
 //Typeset
  --md-typeset-a-transition : 2s;
  --md-typeset-a-color : red;
- --md-typeset-a::hover-color : green;
+ --md-typeset-a:hover-color : green;
 }
