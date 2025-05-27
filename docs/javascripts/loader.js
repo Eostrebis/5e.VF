@@ -123,7 +123,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                 desc.classList.add("base-desc");
                 let name = document.createElement("div");
                 name.classList.add("base-name");
-                name.textContent = option.name;
+                name.textContent = option.name.toUpperCase();
                 let content = document.createElement("div");
                 content.classList.add("base-content");
                 content.textContent = option.description;
