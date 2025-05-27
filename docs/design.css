@@ -13,11 +13,15 @@
   --md-default-bg-color: var(--light-primary);
   --md-typeset-table-color: var(--dark-accent);
   .base-block {
-    background: var(--light-accent);
+    background: var(--dark-accent);
   } 
   
   .base-block:hover{
     border: 10px solid var(--dark-primary);
+  }
+  
+  .base-name{
+    color: var(--light-primary);
   }
   
   h1 {
@@ -42,7 +46,7 @@
   }
   
   .base-block {
-    background: var(--dark-accent);
+    background: var(--light-accent);
   } 
   
   .base-block:hover{
@@ -52,6 +56,10 @@
   h1 {
     color: var(--dark-primary);
     font-weight: bold;
+  }
+  
+  .base-name{
+    color: var(--light-bg);
   }
 
 }
