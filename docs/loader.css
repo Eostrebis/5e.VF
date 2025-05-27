@@ -17,6 +17,7 @@
 }
 
 .base-img {
+    scale: 10%
 }
 
 .base-block:hover .base-img{
@@ -32,7 +33,7 @@
   margin-top: 0px;
 }
 
-.base-desc{
+.base-content{
     text-align: center;
     vertical-align: middle;
 }
@@ -52,7 +53,8 @@
 .base-name{
     writing-mode: vertical-rl;
     text-orientation: upright;
-    text-align: justify;
+    vertical-align: middle;
+    text-align: center;
 }
 
 .base-block:hover .base-name{
