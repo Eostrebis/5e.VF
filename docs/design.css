@@ -1,19 +1,33 @@
 :root {
+  --light-bg: yellow;
+  --light-banner: red;
+  --light-table: red;
+  --light-link-start: red;
+  --light-link-end: blue;
   --light-primary: #1B1A1D;  
   --light-accent: #5B849D;
-  --light-bg: #F3E8D9;
-  --dark-primary: #5B849D;
-  --dark-accent: #D8E8F2;
+  --light-base-block: purple;
+  --light-title: black;
+  
+  --dark-bg: #1B1A1D;
+  --dark-banner: #1B1A1D;
+  --dark-table: red;
+  --dark-link-start: red;
+  --dark-link-end: blue;
+  --dark-primary: #5F8FB0 ;  
+  --dark-accent: #5B849D;
+  --dark-base-block: pink;
+  --dark-title: white;
 }
 
 [data-md-color-scheme="slate"] {
   --md-primary-fg-color: var(--dark-primary);
   --md-accent-fg-color: var(--dark-accent);
-  --md-primary-bg-color: var(--light-primary);
-  --md-default-bg-color: var(--light-primary);
-  --md-typeset-table-color: var(--dark-accent);
+  --md-default-bg-color: var(--dark-bg);
+  --md-primary-bg-color: var(--dark-banner);
+  --md-typeset-table-color: var(--dark-table);
   .base-block {
-    background: var(--dark-accent);
+    background: var(--dark-base-block);
   } 
   
   .base-block:hover{
@@ -21,11 +35,11 @@
   }
   
   .base-name{
-    color: var(--light-primary);
+    color: var(--dark-accent);
   }
   
   h1 {
-    color: var(--light-accent);
+    color: var(--dark-title);
     font-weight: bold;
   }
   
@@ -38,19 +52,18 @@
   }
   
   .base-block:hover .base-content {
-    color: var(--light-accent)
+    color: var(--dark-accent)
   }
 }
 
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: var(--light-primary);
   --md-accent-fg-color:  var(--light-accent);
-  --md-primary-bg-color: var(--dark-primary);
   --md-default-bg-color: var(--light-bg);
-  --md-typeset-table-color: var(--light-accent);;
+  --md-typeset-table-color: var(--light-table);;
   
   .md-typeset a {
-    color: var(--dark-primary);
+    color: var(--light-primary);
   }
   
   .md-typeset a:hover {
@@ -58,7 +71,7 @@
   }
   
   .base-block {
-    background: var(--light-accent);
+    background: var(--light-base-block);
   } 
   
   .base-block:hover{
@@ -66,7 +79,7 @@
   }
   
   h1 {
-    color: var(--dark-primary);
+    color: var(--light-title);
     font-weight: bold;
   }
   
@@ -80,11 +93,11 @@
   }
   
   .base-name{
-    color: var(--light-bg);
+    color: var(--light-accent);
   }
   
   .base-block:hover .base-content {
-    color: var(--dark-accent)
+    color: var(--light-accent)
   }
 
 }
