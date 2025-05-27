@@ -1,23 +1,23 @@
 :root {
-  --palette1: #780000;
-  --palette2: #c1121f;
-  --palette3: #fdf0d5;
-  --palette4: #003049;
-  --palette5: #669bbc;
+  --light-accent: #98c1d9;
+  --dark-primary: #ee6c4d;
+  --light-bg: #e0fbfc;
+  --light-primary: #293241;
+  --dark-accent: #3d5a80;
 }
 
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: var(--palette2);
-  --md-accent-fg-color: var(--palette5);
-  --md-primary-bg-color: var(--palette4);
-  --md-default-bg-color: var(--palette4);
+  --md-primary-fg-color: var(--dark-primary);
+  --md-accent-fg-color: var(--dark-accent);
+  --md-primary-bg-color: var(--light-primary);
+  --md-default-bg-color: var(--light-primary);
 }
 
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: var(--palette4);
-  --md-accent-fg-color:  var(--palette1);
-  --md-primary-bg-color: var(--palette2);
-  --md-default-bg-color: var(--palette3);
+  --md-primary-fg-color: var(--light-primary);
+  --md-accent-fg-color:  var(--light-accent);
+  --md-primary-bg-color: var(--dark-primary);
+  --md-default-bg-color: var(--light-bg);
 
 }
 
