@@ -7,17 +7,27 @@
 .base-block {
     color: inherit;
     text-decoration: none;
-    display:grid;
-    grid-template-columns: repeat(2, 1fr);
-    background: #2C1A21;
+    background: var(--light-accent);
     gap: -30px;
     transform: skew(-10deg, 0);
-    border-radius: 25px;
+    border-radius: 35px;
     overflow: hidden;
 }
 .base-img {
-    height: 300px;
+    scale: 50%;
 }
+
+.base-block:hover .base-img{
+    transition: all 1s ease;
+    opacity: 0;
+}
+
+.base-block:hover .base-content{
+    opacity: 1;
+    display: block;
+    
+}
+
 .base-desc{
     text-align: center;
     vertical-align: middle;
@@ -29,10 +39,15 @@
     font-style: italic;
 }
 
+.base-content{
+    opacity: 0;
+    display: none;
+}
+
 .base-block:hover{
     scale: 1.2;
     opacity: 1;
-    border: 10px solid rgba(150,0,0,.4);
+    border: 10px solid var(--dark-primary);
     cursor:pointer;
     z-index: 2;
 }
