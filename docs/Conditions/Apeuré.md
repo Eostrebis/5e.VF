@@ -5,8 +5,3 @@ Une créature <b>apeurée</b> a le désavantage aux jets de compétences et aux 
 La créature ne peut pas se rapprocher volontairement de la source de sa peur.<br>
 </p>
 </div>
-
-
-<aside>[[Frightened.png]]</aside>
-Une créature <b>apeurée</b> a le désavantage aux jets de compétences et aux jets d'attaque tant qu'elle peut apercevoir la source de sa peur.<br>
-La créature ne peut pas se rapprocher volontairement de la source de sa peur.<br>
