@@ -159,7 +159,7 @@ Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde
 | [[Collège des Barmans]] | |
 | [[Collège des Bouffons]] | |
 | [[Collège des Cantateurs]] | |
-| [[Collège des Grafitis]] | |
+| [[Collège des Graffitis]] | |
 | [[Collège des Masques]] | |
 | [[Collège des Rumeurs]] | |
 | [[Collège des Épées]] | |
