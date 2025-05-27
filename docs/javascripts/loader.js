@@ -127,11 +127,12 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                 let content = document.createElement("div");
                 content.classList.add("base-content");
                 content.textContent = option.description;
-                desc.appendChild(name);
+                block.appendChild(name);
                 desc.appendChild(content);
+                
+                desc.appendChild(img);
                 block.appendChild(desc);
                 
-                block.appendChild(img);
                 document.querySelectorAll(".button").forEach(button => {
                     id = button.id.slice(0, -1);
                     if (option[id]) {
