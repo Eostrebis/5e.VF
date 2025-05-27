@@ -119,7 +119,6 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                 let img = document.createElement("img");
                 img.classList.add("base-img");
                 img.src = "../Illustrations/" + page_json + "/" + option.name + "." + option['img-type'];
-                block.appendChild(img);
                 let desc = document.createElement("div");
                 desc.classList.add("base-desc");
                 let name = document.createElement("div");
@@ -131,6 +130,8 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                 desc.appendChild(name);
                 desc.appendChild(content);
                 block.appendChild(desc);
+                
+                block.appendChild(img);
                 document.querySelectorAll(".button").forEach(button => {
                     id = button.id.slice(0, -1);
                     if (option[id]) {
