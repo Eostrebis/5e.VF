@@ -25,12 +25,12 @@ theme:
         - navigation.top
         - navigation.path
     palette:
-      - primary: custom
-      - accent: custom
 
     # Light mode
       - media: "(prefers-color-scheme: light)"
         scheme: default
+        primary: custom
+        accent: custom
         toggle:
           icon: material/toggle-switch-off-outline
           name: Switch to dark mode
@@ -38,6 +38,8 @@ theme:
     # Dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
+        primary: custom
+        accent: custom
         toggle:
           icon: material/toggle-switch
           name: Switch to light mode
