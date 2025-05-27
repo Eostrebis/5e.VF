@@ -1,19 +1,19 @@
 :root {
   --light-bg: #F3E8D9;
-  --light-banner: red;
-  --light-table: blue;
-  --light-primary: yellow;  
-  --light-accent: green;
-  --light-base-block: purple;
-  --light-title: pink;
+  --light-banner: #9B1C31;
+  --light-table: #A67C52;
+  --light-primary: #1B1A1D;  
+  --light-accent: #A67C52;
+  --light-base-block: #C4C4C4;
+  --light-title: #9B1C31;
   
   --dark-bg: #1B1A1D;
-  --dark-banner: red;
-  --dark-table: blue;
-  --dark-primary: yellow ;  
-  --dark-accent: green;
-  --dark-base-block: purple;
-  --dark-title: pink;
+  --dark-banner: #B89F6A;
+  --dark-table: #A67C52;
+  --dark-primary: #9B1C31 ;  
+  --dark-accent: #A67C52;
+  --dark-base-block: #2A2A2E;
+  --dark-title: #B89F6A;
 }
 
 [data-md-color-scheme="slate"] {
@@ -26,6 +26,14 @@
     background: var(--dark-base-block);
   } 
   
+  .md-typeset a {
+    color: var(--dark-banner);
+  }
+
+  .md-typeset a:hover {
+    color: var(--dark-accent);
+  }
+
   .base-block:hover{
     border: 10px solid var(--dark-primary);
   }
@@ -56,10 +64,11 @@
   --md-primary-fg-color: var(--light-primary);
   --md-accent-fg-color:  var(--light-accent);
   --md-default-bg-color: var(--light-bg);
+  --md-primary-bg-color: var(--light-banner);
   --md-typeset-table-color: var(--light-table);;
   
   .md-typeset a {
-    color: var(--light-primary);
+    color: var(--light-banner);
   }
   
   .md-typeset a:hover {
