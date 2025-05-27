@@ -142,7 +142,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                                 var sub_icon = document.createElement("img");
                                 sub_icon.classList.add("icon")
                                 sub_icon.src = "../Illustrations/" + window[id + "_img"];
-                                name.appendChild(sub_icon);
+                                //name.appendChild(sub_icon);
                             }
                         } else {
                             option[id].forEach(opt => {
@@ -151,7 +151,7 @@ function loadJson(page_json, redirection=true, div_id=null, onclik=null) {
                                     var sub_icon = document.createElement("img");
                                     sub_icon.classList.add("icon")
                                     sub_icon.src = "../Illustrations/" + window[id + "_" + opt + "_img"];
-                                    name.appendChild(sub_icon);
+                                    //name.appendChild(sub_icon);
                                 }
 
                             });
