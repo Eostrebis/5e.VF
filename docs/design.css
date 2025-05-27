@@ -1,13 +1,5 @@
-:root > * {
-
-// Primary color shades
- --md-primary-fg-color :         #FCA311;
- --md-primary-fg-color--light :  #14213D;
- --md-primary-fg-color--dark :   #FCA311;
-
-// Accent color shades
- --md-accent-fg-color--light :   #14213D;
- --md-accent-fg-color--dark :    #FCA311;
+.md-primary {
+ fg-color: #FCA311;
 }
 
 .md-typeset a {
