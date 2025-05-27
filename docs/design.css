@@ -1,23 +1,19 @@
 :root {
-  --light-bg: yellow;
+  --light-bg: #F3E8D9;
   --light-banner: red;
-  --light-table: red;
-  --light-link-start: red;
-  --light-link-end: blue;
-  --light-primary: #1B1A1D;  
-  --light-accent: #5B849D;
+  --light-table: blue;
+  --light-primary: yellow;  
+  --light-accent: green;
   --light-base-block: purple;
-  --light-title: black;
+  --light-title: pink;
   
   --dark-bg: #1B1A1D;
-  --dark-banner: #1B1A1D;
-  --dark-table: red;
-  --dark-link-start: red;
-  --dark-link-end: blue;
-  --dark-primary: #5F8FB0 ;  
-  --dark-accent: #5B849D;
-  --dark-base-block: pink;
-  --dark-title: white;
+  --dark-banner: red;
+  --dark-table: blue;
+  --dark-primary: yellow ;  
+  --dark-accent: green;
+  --dark-base-block: purple;
+  --dark-title: pink;
 }
 
 [data-md-color-scheme="slate"] {
