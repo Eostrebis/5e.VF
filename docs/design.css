@@ -11,7 +11,10 @@
   --md-accent-fg-color: var(--dark-accent);
   --md-primary-bg-color: var(--light-primary);
   --md-default-bg-color: var(--light-primary);
-  --md-typeset-table-color: var(--dark-accent);;
+  --md-typeset-table-color: var(--dark-accent);
+  .base-block {
+    background: var(--light-accent);
+  } 
   
   h1 {
     color: var(--dark-primary);
@@ -33,6 +36,10 @@
   .md-typeset a:hover {
     color: var(--light-accent);
   }
+  
+  .base-block {
+    background: var(--dark-accent);
+  } 
   
   h1 {
     color: var(--dark-primary);
