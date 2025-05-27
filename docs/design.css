@@ -16,6 +16,10 @@
     background: var(--light-accent);
   } 
   
+  .base-block:hover{
+    border: 10px solid var(--dark-primary);
+  }
+  
   h1 {
     color: var(--dark-primary);
     font-weight: bold;
@@ -40,6 +44,10 @@
   .base-block {
     background: var(--dark-accent);
   } 
+  
+  .base-block:hover{
+    border: 10px solid var(--light-primary);
+  }
   
   h1 {
     color: var(--dark-primary);
