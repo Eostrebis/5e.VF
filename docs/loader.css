@@ -8,24 +8,28 @@
     color: inherit;
     text-decoration: none;
     background: var(--light-accent);
+    display: grid;
+    grid-template-columns: 30px auto;
     gap: -30px;
     transform: skew(-10deg, 0);
     border-radius: 35px;
     overflow: hidden;
 }
+
 .base-img {
-    scale: 50%;
 }
 
 .base-block:hover .base-img{
-    transition: all 1s ease;
+    visibility: hidden;
     opacity: 0;
+    transition: visibility 0s 1s, opacity 1s linear;
 }
 
 .base-block:hover .base-content{
-    opacity: 1;
-    display: block;
-    
+  visibility: visible;
+  opacity: 1;
+  transition: opacity 1s linear;
+  margin-top: 0px;
 }
 
 .base-desc{
@@ -41,8 +45,20 @@
 
 .base-content{
     opacity: 0;
-    display: none;
+    visibility: hidden;
+    margin-top: -10000px;
 }
+
+.base-name{
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    text-align: justify;
+}
+
+.base-block:hover .base-name{
+    margin-bottom: 0px;
+}
+
 
 .base-block:hover{
     scale: 1.2;
