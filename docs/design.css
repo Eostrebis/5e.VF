@@ -11,6 +11,12 @@
   --md-accent-fg-color: var(--dark-accent);
   --md-primary-bg-color: var(--light-primary);
   --md-default-bg-color: var(--light-primary);
+  --md-typeset-table-color: var(--dark-accent);;
+  
+  h1 {
+    color: var(--dark-primary);
+    font-weight: bold;
+  }
 }
 
 [data-md-color-scheme="default"] {
@@ -18,6 +24,7 @@
   --md-accent-fg-color:  var(--light-accent);
   --md-primary-bg-color: var(--dark-primary);
   --md-default-bg-color: var(--light-bg);
+  --md-typeset-table-color: var(--light-accent);;
   
   .md-typeset a {
     color: var(--dark-primary);
@@ -25,6 +32,11 @@
   
   .md-typeset a:hover {
     color: var(--light-accent);
+  }
+  
+  h1 {
+    color: var(--dark-primary);
+    font-weight: bold;
   }
 
 }
