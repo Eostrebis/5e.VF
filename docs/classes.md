@@ -1,6 +1,5 @@
 ---
 classe: true
-load: classes
 hide:
   - navigation
   - toc
