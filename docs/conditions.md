@@ -3,20 +3,20 @@ search:
   exclude: true
 title: Conditions
 ---
-| Condition (EN)  | Condition (FR)  | Logo                         |
-| --------------- | --------------- |------------------------------|
-| Blinded         | [[Aveuglé]]     |![[FinalBlinded.png]]         |
-| Charmed         | [[Charmé]]      |![[Charmed.png]]              |
-| Deafened        | [[Assourdi]]    |![[FinalDeafened.png]]        |
-| Exhaustion      | [[Épuisement]]  |![[FinalExhaustion.png]]      |
-| Frightened      | [[Apeuré]]      |![[Frightened.png]]           |
-| Grappled        | [[Saisi]]       |![[FinalGrappled.png]]        |
-| Incapacitated   | [[Incapacité]]  |![[FinalIncapacitated.png]]   |
-| Invisible       | [[Invisible]]   |![[FinalInvisible.png]]       |
-| Paralyzed       | [[Paralysé]]    |![[FinalParalyzed.png]]       |
-| Petrified       | [[Pétrifié]]    |![[FinalPetrified.png]]       |
-| Poisoned        | [[Empoisonné]]  |![[FinalPoisoned.png]]        |
-| Prone           | [[Au Sol]]      |![[FinalProne.png]]           |
-| Restrained      | [[Retenu]]      |![[FinalRestrained.png]]      |
-| Stunned         | [[Sonné]]       |![[FinalStunned.png]]         |
-| Unconscious     | [[Inconscient]] |![[Unconscious.png]]          |
+| Condition (EN)  | Condition (FR)  | Logo                                     |
+| --------------- | --------------- |------------------------------------------|
+| Blinded         | [[Aveuglé]]     |![[FinalBlinded.png]]{width=50px}         |
+| Charmed         | [[Charmé]]      |![[Charmed.png]]{width=50px}              |
+| Deafened        | [[Assourdi]]    |![[FinalDeafened.png]]{width=50px}        |
+| Exhaustion      | [[Épuisement]]  |![[FinalExhausted.png]]{width=50px}       |
+| Frightened      | [[Apeuré]]      |![[Frightened.png]]{width=50px}           |
+| Grappled        | [[Saisi]]       |![[FinalGrappled.png]]{width=50px}        |
+| Incapacitated   | [[Incapacité]]  |![[FinalIncapacitated.png]]{width=50px}   |
+| Invisible       | [[Invisible]]   |![[FinalInvisible.png]]{width=50px}       |
+| Paralyzed       | [[Paralysé]]    |![[FinalParalyzed.png]]{width=50px}       |
+| Petrified       | [[Pétrifié]]    |![[FinalPetrified.png]]{width=50px}       |
+| Poisoned        | [[Empoisonné]]  |![[FinalPoisoned.png]]{width=50px}        |
+| Prone           | [[Au Sol]]      |![[FinalProne.png]]{width=50px}           |
+| Restrained      | [[Retenu]]      |![[FinalRestrained.png]]{width=50px}      |
+| Stunned         | [[Sonné]]       |![[FinalStunned.png]]{width=50px}         |
+| Unconscious     | [[Inconscient]] |![[Unconcious.png]]{width=50px}           |
