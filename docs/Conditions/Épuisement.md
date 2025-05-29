@@ -5,14 +5,40 @@
 Certaines compétences spéciales ou dangers environnementaux, comme la faim ou les effets à long terme du gel ou de la brûlure, amènent à une condition spéciale appelée <b>épuisement</b>.<br>
 L'épuisement est mesuré en 6 niveaux. Un effet peut donner à une créature un ou plusieurs niveaux d'épuisements, comme décrit dans la description de l'effet.<br><br>
 
-| Niveau | Effet                                           |
-| ------ | ----------------------------------------------- |
-| 1      | Désavantage à tous les jets de compétences      |
-| 2      | Vitesse réduite de moitié                       |
-| 3      | Désavantage aux jets d'attaque et de sauvegarde |
-| 4      | Points de vie maximums réduits de moitié        |
-| 5      | Vitesse réduite à 0                             |
-| 6      | Mort                                            |
+<table>
+  <thead>
+    <tr>
+      <th scope="col">Niveau</th>
+      <th scope="col">Effet</th>
+    </tr>
+  </thead>
+ <tbody>
+    <tr>
+      <th scope="row">1</th>
+      <td>Désavantage à tous les jets de compétences</td>
+    </tr>
+    <tr>
+      <th scope="row">2</th>
+      <td>Vitesse réduite de moitié</td>
+    </tr>
+    <tr>
+      <th scope="row">3</th>
+      <td>Désavantage aux jets d'attaque et de sauvegarde</td>
+    </tr>
+    <tr>
+      <th scope="row">4</th>
+      <td>Points de vie maximums réduits de moitié</td>
+    </tr>
+    <tr>
+      <th scope="row">5</th>
+      <td>Vitesse réduite à 0</td>
+    </tr>
+    <tr>
+      <th scope="row">6</th>
+      <td>Mort</td>
+    </tr>
+  </tbody>
+</table>
 
 Si une créature déjà épuisée souffre d'un effet causant de l'épuisement, son niveau actuel d'épuisement augmente du nombre spécifié dans la description de l'effet.<br><br>
 Une créature souffre aussi des effets de son niveau actuel d'épuisement, mais aussi de tous les niveaux inférieurs. Par exemple, une créature souffrant de 2 niveaux d'épuisements voit sa vitesse réduite de moitié et a le désavantage à tous ses jets de compétences.<br><br>
