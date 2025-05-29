@@ -1,19 +1,3 @@
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
-
-th, td {
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dee2e6;
-}
-</style>
-
 <div class="warning" style='background-color:var(--bg); border-left: solid var(--title) 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="../../Illustrations/Conditions/FinalExhausted.png" style="width:20%;  float:right; padding:0.7em">
