@@ -19,4 +19,5 @@ title: Conditions
 | Prone           | [[Au Sol]]      |![[FinalProne.png]]{width=50px}           |
 | Restrained      | [[Retenu]]      |![[FinalRestrained.png]]{width=50px}      |
 | Stunned         | [[Sonné]]       |![[FinalStunned.png]]{width=50px}         |
+| Surprised       | [[Surpris]]     |![[Confused.png]]{width=50px}             |
 | Unconscious     | [[Inconscient]] |![[Unconcious.png]]{width=50px}           |
