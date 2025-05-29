@@ -24,7 +24,7 @@ theme:
         - search.suggest
         - navigation.top
         - navigation.path
-        - navigation.tabs
+        
     palette:
 
     # Light mode
