@@ -7,7 +7,7 @@ L'épuisement est mesuré en 6 niveaux. Un effet peut donner à une créature un
 
 </p>
 
-<table>
+<table style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
   <thead>
     <tr>
       <th scope="col">Niveau</th>
