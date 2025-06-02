@@ -3,7 +3,7 @@
 <img src="../../Illustrations/Conditions/FinalPetrified.png" style="width:20%;  float:right; padding:0.7em">
 
 Une créature <b>pétrifiée</b> est transformée, ainsi que tout objet non magique qu'elle porterait, en une substance solide inanimée (souvent de la pierre). Son poids augmente d'un facteur de 10, et elle cesse de vieillir.<br><br>
-La créature est <a href="../Incapacité.md">incapacitée</a>, ne peut pas parler ou bouger, et n'a pas conscience de son environnement.<br><br>
+La créature est <a href="../Incapacité">incapacitée</a>, ne peut pas parler ou bouger, et n'a pas conscience de son environnement.<br><br>
 Les jets d'attaque contre la créature ont l'avantage.<br><br>
 La créature rate automatiquement ses jets de sauvegarde de Force et de Dextérité.<br><br>
 La créature a une résistance à tous les dégâts.<br><br>
