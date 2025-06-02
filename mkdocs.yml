@@ -24,7 +24,8 @@ theme:
         - search.suggest
         - navigation.top
         - navigation.path
-    logo: Illustrations/dice-d20-svgrepo-com.svg
+    icon:
+        logo: Illustrations/dice-d20-svgrepo-com.svg
     favicon: Illustrations/j20.png  
 
     palette:
