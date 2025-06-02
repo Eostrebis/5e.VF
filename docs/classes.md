@@ -1,8 +1,5 @@
 ---
-search:
-  exclude: true
 classe: true
-load: classes
 hide:
   - navigation
   - toc
