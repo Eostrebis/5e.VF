@@ -24,7 +24,8 @@ theme:
         - search.suggest
         - navigation.top
         - navigation.path
-        
+    theme:
+        logo: Illustrations/j20.png  
     palette:
 
     # Light mode
