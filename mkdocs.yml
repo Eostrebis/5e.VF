@@ -25,8 +25,8 @@ theme:
         - navigation.top
         - navigation.path
     theme:
-        logo: Illustrations/j20.png  
-        favicon: Illustrations/j20.png  
+        - logo: Illustrations/j20.png  
+        - favicon: Illustrations/j20.png  
 
     palette:
 
