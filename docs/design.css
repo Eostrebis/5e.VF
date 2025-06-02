@@ -44,6 +44,10 @@
   background: var(--base-block);
 } 
 
+.md-content {
+  text-align:justify;
+}
+
 .md-typeset a {
   color: var(--banner);
 }
