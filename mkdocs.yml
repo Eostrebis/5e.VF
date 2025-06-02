@@ -26,6 +26,8 @@ theme:
         - navigation.path
     theme:
         logo: Illustrations/j20.png  
+        favicon: Illustrations/j20.png  
+
     palette:
 
     # Light mode
