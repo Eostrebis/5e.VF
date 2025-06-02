@@ -7,7 +7,7 @@ L'épuisement est mesuré en 6 niveaux. Un effet peut donner à une créature un
 
 </p>
 
-<table style='padding:0.7em; margin-left:1.4em; display: inline-block;'>
+<table style='padding:0.7em; margin-left:1.4em; display: inline-block; font-size:.8rem;'>
   <thead>
     <tr>
       <th scope="col">Niveau</th>
@@ -16,27 +16,27 @@ L'épuisement est mesuré en 6 niveaux. Un effet peut donner à une créature un
   </thead>
  <tbody>
     <tr>
-      <th scope="row">1</th>
+      <th scope="row" align="center">1</th>
       <td>Désavantage à tous les jets de compétences</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
+      <th scope="row" align="center">2</th>
       <td>Vitesse réduite de moitié</td>
     </tr>
     <tr>
-      <th scope="row">3</th>
+      <th scope="row" align="center">3</th>
       <td>Désavantage aux jets d'attaque et de sauvegarde</td>
     </tr>
     <tr>
-      <th scope="row">4</th>
+      <th scope="row" align="center">4</th>
       <td>Points de vie maximums réduits de moitié</td>
     </tr>
     <tr>
-      <th scope="row">5</th>
+      <th scope="row" align="center">5</th>
       <td>Vitesse réduite à 0</td>
     </tr>
     <tr>
-      <th scope="row">6</th>
+      <th scope="row" align="center">6</th>
       <td>Mort</td>
     </tr>
   </tbody>
