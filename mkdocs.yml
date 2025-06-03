@@ -24,7 +24,8 @@ theme:
         - search.suggest
         - navigation.top
         - navigation.path
-    logo: Illustrations/repo-24.svg
+    icon:
+        logo: dice-d20-svgrepo-com
     favicon: Illustrations/j20.png  
 
     palette:
