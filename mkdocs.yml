@@ -25,7 +25,7 @@ theme:
         - navigation.top
         - navigation.path
     icon:
-        logo: dice-d20-svgrepo-com
+        logo: adventure-svgrepo-com
     favicon: Illustrations/j20.png  
 
     palette:
