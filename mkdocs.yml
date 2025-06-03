@@ -24,7 +24,8 @@ theme:
         - search.suggest
         - navigation.top
         - navigation.path
-    logo: Illustrations/dice-d20-svgrepo-com.svg
+    icon:
+        logo: material/repo-24
     favicon: Illustrations/j20.png  
 
     palette:
@@ -35,7 +36,7 @@ theme:
         primary: custom
         accent: custom
         toggle:
-          icon: material/toggle-switch-off-outline
+          icon: material/weather-night
           name: Switch to dark mode
 
     # Dark mode
@@ -44,7 +45,7 @@ theme:
         primary: custom
         accent: custom
         toggle:
-          icon: material/toggle-switch
+          icon: material/weather-sunny
           name: Switch to light mode
 
 extra_css: [loader.css, design.css]
