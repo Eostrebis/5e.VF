@@ -24,8 +24,7 @@ theme:
         - search.suggest
         - navigation.top
         - navigation.path
-    icon:
-        logo: ../Illustrations/repo-24
+    logo: Illustrations/repo-24.svg
     favicon: Illustrations/j20.png  
 
     palette:
