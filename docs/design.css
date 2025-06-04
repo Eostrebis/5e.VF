@@ -1,3 +1,4 @@
+/* Palette de couleurs pour le mode dark */
 [data-md-color-scheme="slate"] {
   --bg: #1B1A1D;
   --banner: #B89F6A;
@@ -15,6 +16,7 @@
   --md-typeset-table-color: var(--table);
 }
 
+/* Palette de couleurs pour le mode normal */
 [data-md-color-scheme="default"] {
   --bg: #F3E8D9;
   --banner: #A67C52;
@@ -85,7 +87,6 @@
   color: var(--accent)
 }
 
-  
 .md-typeset a {
    transition: color .8s;
 }
@@ -94,22 +95,25 @@
   font-weight: bold;
 }
 
+/* Style pour la gestion des cartes de classe */
 .projcard-container,
 .projcard-container * {
   box-sizing: border-box;
 }
+
 .projcard-container {
   margin-left: auto;
   margin-right: auto;
   width: 1000px;
 }
+
 .projcard {
   position: relative;
   width: 100%;
   height: 300px;
   margin-bottom: 40px;
   border-radius: 10px;
-  background-color: #fff;
+  background-color: var(--base-block);
   border: 2px solid #ddd;
   font-size: 18px;
   overflow: hidden;
@@ -176,8 +180,7 @@
   content: "";
   position: absolute;
   display: block;
-  background: #ff0000bb;
-  background: #fff;
+  background: var(--base-block);
   top: -20%;
   left: -55px;
   height: 140%;
@@ -201,10 +204,12 @@
 .projcard-title {
   font-family: 'Voces', 'Open Sans', arial, sans-serif;
   font-size: 24px;
+  font-weight: bold;
+  color: var(--title);
 }
 .projcard-subtitle {
   font-family: 'Voces', 'Open Sans', arial, sans-serif;
-  color: #888;
+  color: var(--accent);
 }
 .projcard-bar {
   left: -2px;
@@ -242,7 +247,6 @@
 .projcard-description {
   z-index: 10;
   font-size: 15px;
-  color: #424242;
   height: 125px;
   overflow: hidden;
   text-overflow: ellipsis;
