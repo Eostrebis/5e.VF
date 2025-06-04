@@ -37,13 +37,13 @@ redirection: true
               <span class="projcard-tag">Test</span>
             </div>
           <span class="projcard-link">
-            <a href=./Alchimiste/Bombeur\ Fou/>Bombeur Fou</a>
+            <a href=./Alchimiste/Bombeur%20Fou/>Bombeur Fou</a>
             > Pyromanes qui apprécient particulièrement les bombes dévastatrices.</span>
           <span class="projcard-link">
-            <a href=./Alchimiste/Forgeron\ de\ Venin/>Forgeron de Venin</a>
+            <a href=./Alchimiste/Forgeron%20de%20Venin/>Forgeron de Venin</a>
             > Experts en poison et assassins.</span>
           <span class="projcard-link">
-            <a href=./Alchimiste/Ingénieur\ Dynamo/>Ingénieur Dynamo</a>
+            <a href=./Alchimiste/Ingénieur%20Dynamo/>Ingénieur Dynamo</a>
             > Lanceurs de sorts en les préparant dans des outils appelées dynamos.</span>
           <span class="projcard-link">
             <a href=./Alchimiste/Mutagéniste/>Mutagéniste</a>
