@@ -15,14 +15,25 @@ redirection: true
         <div class="projcard-title">Alchimiste</div>
         <div class="projcard-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
         <div class="projcard-bar"></div>
+        <div class="projcard-tagbox">
+          <span class="projcard-tag">Utilitaire</span>
+          <span class="projcard-tag">Intelligence</span>
+        </div>
         <div class="projcard-description">
             Un gnome grimaçant caquette avec allégresse alors qu'il envoie une bombe au beau milieu d'un groupe de gobelins le chargeant, les explosant en morceaux brûlés. Il en crée une autre, la jette à ses pieds, et disparaît, toujours riant, dans un nuage de fumée.
             Un svelte elfe mélange rapidement des fluides et des herbes dans un petit mortier. Elle applique le résultat sur la plaie de flèche d'un pauvre nain blessé, qui s'arrête immédiatement de saigner.
             Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
-</div>
-        <div class="projcard-tagbox">
-          <span class="projcard-tag">Utilitaire</span>
-          <span class="projcard-tag">Intelligence</span>
+        </div>
+        <div class="projcard-subtitle">Champs d'Études</div>
+        <div class="projcard-link">
+          <span class="projcard-link">Amoriste<a href=./Alchimiste/Amoriste/></a></span>
+          <span class="projcard-link">Apothicaire<a href=./Alchimiste/Apothicaire/></a></span>
+          <span class="projcard-link">Bombeur Fou<a href=./Alchimiste/Bombeur Fou/></a></span>
+          <span class="projcard-link">Forgeron de Venin<a href=./Alchimiste/Forgeron de Venin/></a></span>
+          <span class="projcard-link">Ingénieur Dynamo<a href=./Alchimiste/Ingénieur Dynamo/></a></span>
+          <span class="projcard-link">Mutagéniste<a href=./Alchimiste/Mutagéniste/></a></span>
+          <span class="projcard-link">Slime-boy<a href=./Alchimiste/Slime-boy/></a></span>
+          <span class="projcard-link">Xénoalchimiste<a href=./Alchimiste/Xénoalchimiste/></a></span>
         </div>
       </div>
     </div>
