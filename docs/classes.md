@@ -15,10 +15,6 @@ redirection: true
         <div class="projcard-title">Alchimiste</div>
         <div class="projcard-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
         <div class="projcard-bar"></div>
-        <div class="projcard-tagbox">
-          <span class="projcard-tag">Utilitaire</span>
-          <span class="projcard-tag">Intelligence</span>
-        </div>
         <div class="projcard-description">
             Un gnome grimaçant caquette avec allégresse alors qu'il envoie une bombe au beau milieu d'un groupe de gobelins le chargeant, les explosant en morceaux brûlés. Il en crée une autre, la jette à ses pieds, et disparaît, toujours riant, dans un nuage de fumée.
             Un svelte elfe mélange rapidement des fluides et des herbes dans un petit mortier. Elle applique le résultat sur la plaie de flèche d'un pauvre nain blessé, qui s'arrête immédiatement de saigner.
@@ -26,14 +22,38 @@ redirection: true
         </div>
         <div class="projcard-subtitle">Champs d'Études</div>
         <div class="projcard-linkbox">
-          <span class="projcard-link"><a href=./Alchimiste/Amoriste/>Amoriste</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Apothicaire/>Apothicaire</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Bombeur\ Fou/>Bombeur Fou</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Forgeron\ de\ Venin/>Forgeron de Venin</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Ingénieur\ Dynamo/>Ingénieur Dynamo</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Mutagéniste/>Mutagéniste</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Slime-boy/>Slime-boy</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a></span>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Amoriste/>Amoriste</a>
+            > Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit.</span>
+            <div class="projcard-tagbox">
+              <span class="projcard-tag">Utilitaire</span>
+              <span class="projcard-tag">Intelligence</span>
+            </div>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Apothicaire/>Apothicaire</a>
+            > Soigneurs alchimistes et herboriste.</span>
+            <div class="projcard-tagbox">
+              <span class="projcard-tag">Test</span>
+              <span class="projcard-tag">Test</span>
+            </div>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Bombeur\ Fou/>Bombeur Fou</a>
+            > Pyromanes qui apprécient particulièrement les bombes dévastatrices.</span>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Forgeron\ de\ Venin/>Forgeron de Venin</a>
+            > Experts en poison et assassins.</span>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Ingénieur\ Dynamo/>Ingénieur Dynamo</a>
+            > Lanceurs de sorts en les préparant dans des outils appelées dynamos.</span>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Mutagéniste/>Mutagéniste</a>
+            > Transforment leurs corps à l'aide de mutagènes injectés.</span>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Slime-boy/>Slime-boy</a>
+            > Élèvent et commandent toutes sortes de slimes et de vases.</span>
+          <span class="projcard-link">
+            <a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a>
+            > Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse.</span>
         </div>
       </div>
     </div>
