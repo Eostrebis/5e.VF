@@ -294,12 +294,10 @@
 }
 
 .projcard-linkbox {
-  position: absolute;
-  bottom: 3%;
+  position: relative;
   font-size: 14px;
   cursor: default;
   user-select: none;
-  pointer-events: none;
 }
 .projcard-link {
   display: inline-block;
