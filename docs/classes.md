@@ -28,9 +28,9 @@ redirection: true
         <div class="projcard-linkbox">
           <span class="projcard-link"><a href=./Alchimiste/Amoriste/>Amoriste</a></span>
           <span class="projcard-link"><a href=./Alchimiste/Apothicaire/>Apothicaire</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Bombeur_Fou/>Bombeur Fou</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Forgeron_de_Venin/>Forgeron de Venin</a></span>
-          <span class="projcard-link"><a href=./Alchimiste/Ingénieur_Dynamo/>Ingénieur Dynamo</a></span>
+          <span class="projcard-link"><a href=./Alchimiste/Bombeur\ Fou/>Bombeur Fou</a></span>
+          <span class="projcard-link"><a href=./Alchimiste/Forgeron\ de\ Venin/>Forgeron de Venin</a></span>
+          <span class="projcard-link"><a href=./Alchimiste/Ingénieur\ Dynamo/>Ingénieur Dynamo</a></span>
           <span class="projcard-link"><a href=./Alchimiste/Mutagéniste/>Mutagéniste</a></span>
           <span class="projcard-link"><a href=./Alchimiste/Slime-boy/>Slime-boy</a></span>
           <span class="projcard-link"><a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a></span>
