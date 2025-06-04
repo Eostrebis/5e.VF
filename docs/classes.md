@@ -26,10 +26,8 @@ redirection: true
           <span class="projcard-link">
             <a href=./Alchimiste/Amoriste/>Amoriste</a>
             > Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit.</span>
-            <div class="projcard-tagbox">
-              <span class="projcard-tag">Utilitaire</span>
-              <span class="projcard-tag">Intelligence</span>
-            </div>
+            <span class="projcard-tag">Utilitaire</span>
+            <span class="projcard-tag">Intelligence</span>
           <span class="projcard-link">
             <a href=./Alchimiste/Apothicaire/>Apothicaire</a>
             > Soigneurs alchimistes et herboriste.</span>
