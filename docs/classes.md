@@ -10,7 +10,7 @@ redirection: true
     
   <div class="projcard projcard-blue">
     <div class="projcard-innerbox">
-      <img class="projcard-img" src=./docs/Illustrations/Classes/Alchimiste.png />
+      <img class="projcard-img" src=./Illustrations/Classes/Alchimiste.png />
       <div class="projcard-textbox">
         <div class="projcard-title">Alchimiste</div>
         <div class="projcard-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
