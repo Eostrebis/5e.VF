@@ -21,6 +21,7 @@ redirection: true
             Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
         </div>
         <div class="projcard-subtitle">Champs d'Études</div>
+        <div class="projcard-bar"></div>
         <div class="projcard-linkbox">
           <span class="projcard-link">
             <a href=./Alchimiste/Amoriste/>Amoriste</a>
