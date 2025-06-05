@@ -54,8 +54,8 @@ redirection: true
 
 
 <!-- Carte Alchimiste2 de test -->
-  <div class="card-front">
-    <div class="card card-red">
+  <div class="card">
+    <div class="card-front">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="card-textbox">
         <div class="card-title">Alchimiste</div>
@@ -69,7 +69,6 @@ redirection: true
       </div>
     </div>
   <div class="card-back">
-    <div class="card card-green">
       <div class="card-subtitle">Champs d'Études</div>
       <div class="card-bar"></div>
       <div class="card-linkbox">
@@ -98,8 +97,6 @@ redirection: true
         </div>
       </div>
     </div>
-  </div>
-
 </div>
 
 
