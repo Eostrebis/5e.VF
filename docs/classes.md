@@ -62,54 +62,6 @@ redirection: true
 
 
 
- 
-
-
-<div class="flip-card-container" style="--hue: 220">
-  <div class="flip-card">
-
-    <div class="card-front">
-      <figure>
-        <div class="img-bg"></div>
-        <img src=../Illustrations/Classes/Alchimiste.png>
-        <figcaption>Artificier</figcaption>
-      </figure>
-
-
-    </div>
-
-    <div class="card-back">
-      <figure>
-        <div class="img-bg"></div>
-        <img src=../Illustrations/Classes/Alchimiste.png>
-      </figure>
-
-      <button>Artificier</button>
-      
-      <ul>
-        <li>Amoriste</li>
-        <li>Apothicaire</li>
-        <li>Bombeur Fou</li>
-        <li>Forgeron de Venin</li>
-        <li>Ingénieur Dynamo</li>
-        <li>Mutagéniste</li>
-        <li>Slime-boy</li>
-        <li>Xénoalchimiste</li>
-      </ul>
-    </div>
-
-  </div>
-</div>
-
-
-
-
-
-
-
-
-
-
 Un certain nombre de classes sont disponibles pour les habitants d'Eostrebis :
 
 
