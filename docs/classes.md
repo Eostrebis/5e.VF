@@ -7,9 +7,8 @@ redirection: true
 ---
 
 <div class="card-container">
-    
-  <div class="card card-blue">
-    <div class="card-front">
+  <div class="card-front">
+    <div class="card card-blue">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="card-textbox">
         <div class="card-title">Alchimiste</div>
@@ -21,44 +20,39 @@ redirection: true
             Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
         </div>
       </div>
-      <div class="card-back">
-        <div class="card-subtitle">Champs d'Études</div>
-        <div class="card-bar"></div>
-        <div class="card-linkbox">
-          <span class="card-link">
-            <a href=./Alchimiste/Amoriste/>Amoriste</a>
-            > Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit.</span>
-            <span class="card-tag">Utilitaire</span>
-            <span class="card-tag">Intelligence</span>
-          <span class="card-link">
-            <a href=./Alchimiste/Apothicaire/>Apothicaire</a>
-            > Soigneurs alchimistes et herboriste.</span>
-            <div class="card-tagbox">
-              <span class="card-tag">Test</span>
-              <span class="card-tag">Test</span>
-            </div>
-          <span class="card-link">
-            <a href=./Alchimiste/Bombeur%20Fou/>Bombeur Fou</a>
-            > Pyromanes qui apprécient particulièrement les bombes dévastatrices.</span>
-          <span class="card-link">
-            <a href=./Alchimiste/Forgeron%20de%20Venin/>Forgeron de Venin</a>
-            > Experts en poison et assassins.</span>
-          <span class="card-link">
-            <a href=./Alchimiste/Ingénieur%20Dynamo/>Ingénieur Dynamo</a>
-            > Lanceurs de sorts en les préparant dans des outils appelées dynamos.</span>
-          <span class="card-link">
-            <a href=./Alchimiste/Mutagéniste/>Mutagéniste</a>
-            > Transforment leurs corps à l'aide de mutagènes injectés.</span>
-          <span class="card-link">
-            <a href=./Alchimiste/Slime-boy/>Slime-boy</a>
-            > Élèvent et commandent toutes sortes de slimes et de vases.</span>
-          <span class="card-link">
-            <a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a>
-            > Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse.</span>
+    </div>
+  <div class="card-back">
+    <div class="card card-blue">
+      <div class="card-subtitle">Champs d'Études</div>
+      <div class="card-bar"></div>
+      <div class="card-linkbox">
+        <span class="card-link">
+          <a href=./Alchimiste/Amoriste/>Amoriste</a></span>
+          <span class="card-tag">Utilitaire</span>
+          <span class="card-tag">Intelligence</span>
+        <span class="card-link">
+          <a href=./Alchimiste/Apothicaire/>Apothicaire</a></span>
+          <div class="card-tagbox">
+            <span class="card-tag">Test</span>
+            <span class="card-tag">Test</span>
+          </div>
+        <span class="card-link">
+          <a href=./Alchimiste/Bombeur%20Fou/>Bombeur Fou</a></span>
+        <span class="card-link">
+          <a href=./Alchimiste/Forgeron%20de%20Venin/>Forgeron de Venin</a></span>
+        <span class="card-link">
+          <a href=./Alchimiste/Ingénieur%20Dynamo/>Ingénieur Dynamo</a></span>
+        <span class="card-link">
+          <a href=./Alchimiste/Mutagéniste/>Mutagéniste</a></span>
+        <span class="card-link">
+          <a href=./Alchimiste/Slime-boy/>Slime-boy</a></span>
+        <span class="card-link">
+          <a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a></span>
         </div>
       </div>
     </div>
   </div>
+</div>
   
 
 
