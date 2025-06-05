@@ -90,7 +90,7 @@ redirection: true
         <img src=../Illustrations/Classes/Alchimiste.png/>
       </figure>
 
-      <button>Book</button>
+      <div class="card.button">Artificier</div>
 
     </div>
 
