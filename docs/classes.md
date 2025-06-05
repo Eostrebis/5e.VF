@@ -84,7 +84,7 @@ redirection: true
         <img src=../Illustrations/Classes/Alchimiste.png>
       </figure>
 
-      <div class="card.button">Artificier</div>
+      <button>Artificier</button>
       
       <ul>
         <li>Amoriste</li>
