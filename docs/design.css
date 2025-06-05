@@ -96,17 +96,14 @@
 }
 
 /* Style pour la gestion des cartes de classe */
-.card-container,
-.card-container * {
-  box-sizing: border-box;
-  justify-content: center;
-  align-items: center;
-}
 
 .card-container {
+  box-sizing: border-box;
   margin-left: auto;
   margin-right: auto;
-  width: 1000px;
+  width: 1000px;  
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
