@@ -6,6 +6,7 @@ hide:
 redirection: true
 ---
 
+<!-- Carte Alchimiste -->
 <div class="card-container">
   <div class="card-front">
     <div class="card card-blue">
@@ -53,7 +54,8 @@ redirection: true
     </div>
   </div>
 </div>
-  
+
+<!-- Carte Alchimiste2 de test -->
 <div class="card-container">
   <div class="card-front">
     <div class="card card-red">
