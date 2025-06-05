@@ -99,6 +99,8 @@
 .card-container,
 .card-container * {
   box-sizing: border-box;
+  justify-content: center;
+  align-items: center;
 }
 
 .card-container {
