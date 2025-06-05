@@ -529,7 +529,7 @@
 }
 
 /* button */
-.card-button {
+button {
   font-family: inherit;
   font-weight: bold;
   color: var(--white-1);
@@ -545,14 +545,14 @@
   cursor: pointer;
 }
 
-.card-button:hover,
-.card-button:focus {
+button:hover,
+button:focus {
   color: var(--primary);
   background: hsla(var(--hue), 25%, 10%, .2);
   border-color: currentColor;
 }
 
-.card-button:active {
+button:active {
   transform: translate(2px);
 }
 
@@ -573,9 +573,9 @@
 }
 
 /* states */
-.card-button:hover+.design-container,
-.card-button:active+.design-container,
-.card-button:focus+.design-container {
+button:hover+.design-container,
+button:active+.design-container,
+button:focus+.design-container {
   --tr: 20;
   --op: .7;
 }
