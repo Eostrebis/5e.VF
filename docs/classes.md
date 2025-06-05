@@ -6,51 +6,51 @@ hide:
 redirection: true
 ---
 
-<div class="projcard-container">
+<div class="card-container">
     
-  <div class="projcard projcard-blue">
-    <div class="projcard-innerbox">
-      <img class="projcard-img" src=../Illustrations/Classes/Alchimiste.png>
-      <div class="projcard-textbox">
-        <div class="projcard-title">Alchimiste</div>
-        <div class="projcard-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
-        <div class="projcard-bar"></div>
-        <div class="projcard-description">
+  <div class="card card-blue">
+    <div class="card-innerbox">
+      <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
+      <div class="card-textbox">
+        <div class="card-title">Alchimiste</div>
+        <div class="card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
+        <div class="card-bar"></div>
+        <div class="card-description">
             Un gnome grimaçant caquette avec allégresse alors qu'il envoie une bombe au beau milieu d'un groupe de gobelins le chargeant, les explosant en morceaux brûlés. Il en crée une autre, la jette à ses pieds, et disparaît, toujours riant, dans un nuage de fumée.
             Un svelte elfe mélange rapidement des fluides et des herbes dans un petit mortier. Elle applique le résultat sur la plaie de flèche d'un pauvre nain blessé, qui s'arrête immédiatement de saigner.
             Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
         </div>
-        <div class="projcard-subtitle">Champs d'Études</div>
-        <div class="projcard-bar"></div>
-        <div class="projcard-linkbox">
-          <span class="projcard-link">
+        <div class="card-subtitle">Champs d'Études</div>
+        <div class="card-bar"></div>
+        <div class="card-linkbox">
+          <span class="card-link">
             <a href=./Alchimiste/Amoriste/>Amoriste</a>
             > Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit.</span>
-            <span class="projcard-tag">Utilitaire</span>
-            <span class="projcard-tag">Intelligence</span>
-          <span class="projcard-link">
+            <span class="card-tag">Utilitaire</span>
+            <span class="card-tag">Intelligence</span>
+          <span class="card-link">
             <a href=./Alchimiste/Apothicaire/>Apothicaire</a>
             > Soigneurs alchimistes et herboriste.</span>
-            <div class="projcard-tagbox">
-              <span class="projcard-tag">Test</span>
-              <span class="projcard-tag">Test</span>
+            <div class="card-tagbox">
+              <span class="card-tag">Test</span>
+              <span class="card-tag">Test</span>
             </div>
-          <span class="projcard-link">
+          <span class="card-link">
             <a href=./Alchimiste/Bombeur%20Fou/>Bombeur Fou</a>
             > Pyromanes qui apprécient particulièrement les bombes dévastatrices.</span>
-          <span class="projcard-link">
+          <span class="card-link">
             <a href=./Alchimiste/Forgeron%20de%20Venin/>Forgeron de Venin</a>
             > Experts en poison et assassins.</span>
-          <span class="projcard-link">
+          <span class="card-link">
             <a href=./Alchimiste/Ingénieur%20Dynamo/>Ingénieur Dynamo</a>
             > Lanceurs de sorts en les préparant dans des outils appelées dynamos.</span>
-          <span class="projcard-link">
+          <span class="card-link">
             <a href=./Alchimiste/Mutagéniste/>Mutagéniste</a>
             > Transforment leurs corps à l'aide de mutagènes injectés.</span>
-          <span class="projcard-link">
+          <span class="card-link">
             <a href=./Alchimiste/Slime-boy/>Slime-boy</a>
             > Élèvent et commandent toutes sortes de slimes et de vases.</span>
-          <span class="projcard-link">
+          <span class="card-link">
             <a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a>
             > Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse.</span>
         </div>
