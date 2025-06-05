@@ -402,12 +402,12 @@
 }
 
 /* figure */
-figure {
+.figure {
   z-index: -1;
 }
 
 /* figure, .img-bg */
-figure,
+.figure,
 .img-bg {
   position: absolute;
   top: 0;
@@ -418,13 +418,13 @@ figure,
 }
 
 /* img */
-img {
+.img {
   height: 100%;
   border-radius: 24px;
 }
 
 /* figcaption */
-figcaption {
+.figcaption {
   display: block;
 
   width: auto;
@@ -483,7 +483,7 @@ figcaption {
 }
 
 /* ul */
-ul {
+.ul {
   padding-top: 50%;
   margin: 0 auto;
   width: 70%;
@@ -499,7 +499,7 @@ ul {
 }
 
 /* li */
-li {
+.li {
   width: 100%;
   margin-top: 12px;
   padding-bottom: 12px;
@@ -510,11 +510,11 @@ li {
   position: relative;
 }
 
-li:nth-child(2n) {
+.li:nth-child(2n) {
   color: var(--white-2);
 }
 
-li:not(:last-child)::after {
+.li:not(:last-child)::after {
   content: "";
 
   position: absolute;
@@ -529,7 +529,7 @@ li:not(:last-child)::after {
 }
 
 /* button */
-button {
+.card-button {
   font-family: inherit;
   font-weight: bold;
   color: var(--white-1);
@@ -545,14 +545,14 @@ button {
   cursor: pointer;
 }
 
-button:hover,
-button:focus {
+.card-button:hover,
+.card-button:focus {
   color: var(--primary);
   background: hsla(var(--hue), 25%, 10%, .2);
   border-color: currentColor;
 }
 
-button:active {
+.card-button:active {
   transform: translate(2px);
 }
 
@@ -573,9 +573,9 @@ button:active {
 }
 
 /* states */
-button:hover+.design-container,
-button:active+.design-container,
-button:focus+.design-container {
+.card-button:hover+.design-container,
+.card-button:active+.design-container,
+.card-button:focus+.design-container {
   --tr: 20;
   --op: .7;
 }
@@ -586,5 +586,4 @@ button:focus+.design-container {
   left: 20px;
   color: hsla(0, 0%, 100%, .6);
   font-size: 16px;
-  font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif;
 }
