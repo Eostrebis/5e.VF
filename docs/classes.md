@@ -21,7 +21,7 @@ redirection: true
             Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
         </div>
       </div>
-      <div class="card-front">
+      <div class="card-back">
         <div class="card-subtitle">Champs d'Études</div>
         <div class="card-bar"></div>
         <div class="card-linkbox">
