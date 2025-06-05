@@ -5,9 +5,9 @@ hide:
   - toc
 redirection: true
 ---
-
-<!-- Carte Alchimiste -->
 <div class="card-container">
+
+  <!-- Carte Alchimiste -->
   <div class="card-front">
     <div class="card card-blue">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
@@ -53,7 +53,6 @@ redirection: true
       </div>
     </div>
   </div>
-</div>
 
 <!-- Carte Alchimiste2 de test -->
 <div class="card-container">
@@ -102,6 +101,7 @@ redirection: true
       </div>
     </div>
   </div>
+
 </div>
 
 
