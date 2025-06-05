@@ -9,7 +9,7 @@ redirection: true
 <div class="card-container">
     
   <div class="card card-blue">
-    <div class="card-innerbox">
+    <div class="card-front">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="card-textbox">
         <div class="card-title">Alchimiste</div>
@@ -20,6 +20,8 @@ redirection: true
             Un svelte elfe mélange rapidement des fluides et des herbes dans un petit mortier. Elle applique le résultat sur la plaie de flèche d'un pauvre nain blessé, qui s'arrête immédiatement de saigner.
             Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
         </div>
+      </div>
+      <div class="card-front">
         <div class="card-subtitle">Champs d'Études</div>
         <div class="card-bar"></div>
         <div class="card-linkbox">
