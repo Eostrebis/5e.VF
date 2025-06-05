@@ -10,7 +10,7 @@ redirection: true
     
   <div class="projcard projcard-blue">
     <div class="projcard-innerbox">
-      <img class="projcard-img" src=../Illustrations/Classes/Alchimiste.png/>
+      <img class="projcard-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="projcard-textbox">
         <div class="projcard-title">Alchimiste</div>
         <div class="projcard-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
@@ -71,7 +71,7 @@ redirection: true
     <div class="card-front">
       <figure>
         <div class="img-bg"></div>
-        <img src=../Illustrations/Classes/Alchimiste.png/>
+        <img src=../Illustrations/Classes/Alchimiste.png>
         <figcaption>Brohm Lake</figcaption>
       </figure>
 
@@ -87,7 +87,7 @@ redirection: true
     <div class="card-back">
       <figure>
         <div class="img-bg"></div>
-        <img src=../Illustrations/Classes/Alchimiste.png/>
+        <img src=../Illustrations/Classes/Alchimiste.png>
       </figure>
 
       <div class="card.button">Artificier</div>
