@@ -72,16 +72,10 @@ redirection: true
       <figure>
         <div class="img-bg"></div>
         <img src=../Illustrations/Classes/Alchimiste.png>
-        <figcaption>Brohm Lake</figcaption>
+        <figcaption>Artificier</figcaption>
       </figure>
 
-      <ul>
-        <li>Detail 1</li>
-        <li>Detail 2</li>
-        <li>Detail 3</li>
-        <li>Detail 4</li>
-        <li>Detail 5</li>
-      </ul>
+
     </div>
 
     <div class="card-back">
@@ -91,7 +85,17 @@ redirection: true
       </figure>
 
       <div class="card.button">Artificier</div>
-
+      
+      <ul>
+        <li>Amoriste</li>
+        <li>Apothicaire</li>
+        <li>Bombeur Fou</li>
+        <li>Forgeron de Venin</li>
+        <li>Ingénieur Dynamo</li>
+        <li>Mutagéniste</li>
+        <li>Slime-boy</li>
+        <li>Xénoalchimiste</li>
+      </ul>
     </div>
 
   </div>
