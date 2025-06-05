@@ -8,7 +8,7 @@ redirection: true
 <div class="card-container">
 
   <!-- Carte Alchimiste -->
-  <div class="card card-customcolor" style="--projcard-color: #F5AF41;">
+  <div class="card card-customcolor" style="--card-color: #F5AF41;">
     <div class="card-front">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="card-textbox">
@@ -54,7 +54,7 @@ redirection: true
 
 
 <!-- Carte Alchimiste2 de test -->
-  <div class="card card-customcolor" style="--projcard-color: #1B1A1D;">
+  <div class="card card-customcolor" style="--card-color: #1B1A1D;">
     <div class="card-front">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="card-textbox">
