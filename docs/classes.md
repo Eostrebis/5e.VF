@@ -54,7 +54,6 @@ redirection: true
 
 
 <!-- Carte Alchimiste2 de test -->
-<div class="card-container">
   <div class="card-front">
     <div class="card card-red">
       <img class="card-img" src=../Illustrations/Classes/Alchimiste.png>
