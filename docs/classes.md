@@ -27,10 +27,10 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
       <div class="flip-card-linkbox">
         <ul>
           <li><a href=./Alchimiste/Amoriste/>Amoriste</a>
-            <div class="projcard-tagbox">
-					    <span class="projcard-tag">Support</span>
-					    <span class="projcard-tag">Ranged</span>
-				    </div>
+            <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag">Ranged</span>
+	    </div>
           </li>
           <li><a href=./Alchimiste/Apothicaire/>Apothicaire</a></li>
         </ul>
