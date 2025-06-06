@@ -160,6 +160,7 @@
 /* Regroupe le titre, le sous-titre, la barre et la description */
 .flip-card-textbox {
   position: absolute;
+  padding-top: 30px;
   left: 380px;
   width: 65%;
 }
