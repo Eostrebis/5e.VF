@@ -5,6 +5,7 @@ hide:
   - toc
 redirection: true
 ---
+<!--
 <div class="card-container">
 
   <!-- Carte Alchimiste -->
@@ -99,7 +100,47 @@ redirection: true
     </div>
 </div>
 
+-->
 
+<div class="flip-card">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img src="votre-image.jpg" alt="Image" class="card-image">
+      <div class="card-text">
+        <h2>Titre de la carte</h2>
+        <p>Description brève ici. Vous pouvez ajouter du contenu textuel.</p>
+      </div>
+    </div>
+    <div class="flip-card-back">
+      <div class="link-columns">
+        <ul>
+          <li><a href="#">Lien 1</a></li>
+          <li><a href="#">Lien 2</a></li>
+          <li><a href="#">Lien 3</a></li>
+          <li><a href="#">Lien 4</a></li>
+        </ul>
+        <ul>
+          <li><a href="#">Lien 5</a></li>
+          <li><a href="#">Lien 6</a></li>
+          <li><a href="#">Lien 7</a></li>
+          <li><a href="#">Lien 8</a></li>
+        </ul>
+        <ul>
+          <li><a href="#">Lien 9</a></li>
+          <li><a href="#">Lien 10</a></li>
+          <li><a href="#">Lien 11</a></li>
+          <li><a href="#">Lien 12</a></li>
+        </ul>
+        <ul>
+          <li><a href="#">Lien 13</a></li>
+          <li><a href="#">Lien 14</a></li>
+          <li><a href="#">Lien 15</a></li>
+          <li><a href="#">Lien 16</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 Un certain nombre de classes sont disponibles pour les habitants d'Eostrebis :
 
