@@ -22,7 +22,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
       </div>
     </div>
     <div class="flip-card-back">
-      <div class="flip-card-subtitle">Champs d'Études</div>
+      <div class="flip-card-title">Champs d'Études</div>
       <div class="flip-card-bar"></div>
       <div class="flip-card-linkbox">
         <ul>
@@ -67,7 +67,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer des équipe
       </div>
     </div>
   <div class="flip-card-back">
-      <div class="flip-card-subtitle">Guildes d'Artisan</div>
+      <div class="flip-card-title">Guildes d'Artisan</div>
       <div class="flip-card-bar"></div>
       <div class="flip-card-linkbox">
         <ul>
