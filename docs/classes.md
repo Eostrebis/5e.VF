@@ -27,7 +27,12 @@ redirection: true
       <div class="flip-card-bar"></div>
       <div class="flip-card-linkbox">
         <ul>
-          <li><a href=./Alchimiste/Amoriste/>Amoriste</a></li>
+          <li><a href=./Alchimiste/Amoriste/>Amoriste</a>
+            <div class="projcard-tagbox">
+					    <span class="projcard-tag">Support</span>
+					    <span class="projcard-tag">Ranged</span>
+				    </div>
+          </li>
           <li><a href=./Alchimiste/Apothicaire/>Apothicaire</a></li>
         </ul>
         <ul>
