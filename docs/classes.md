@@ -16,9 +16,8 @@ redirection: true
         <div class="flip-card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-            Un gnome grimaçant caquette avec allégresse alors qu'il envoie une bombe au beau milieu d'un groupe de gobelins le chargeant, les explosant en morceaux brûlés. Il en crée une autre, la jette à ses pieds, et disparaît, toujours riant, dans un nuage de fumée.
-            Un svelte elfe mélange rapidement des fluides et des herbes dans un petit mortier. Elle applique le résultat sur la plaie de flèche d'un pauvre nain blessé, qui s'arrête immédiatement de saigner.
-            Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
+Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<\br>
+Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté.
         </div>
       </div>
     </div>
@@ -62,10 +61,8 @@ redirection: true
         <div class="flip-card-subtitle">Capable de renverser des pays entiers à coup de marteau !</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Une naine baraquée abat son marteau sur un morceau d'acier rougeoyant, faisant s'envoler une pluie d'étincelles dans les airs. La pièce résonne avec le bruit du métal entrechoquant du métal, tandis que le bout d'acier, chaud et brillant, commence à prendre forme entre ses pinces.
-Un elfe prépare son aiguille avec un fil métallique extraordinairement fin, afin de réaliser les mailles de ce qui semble être une armure de cuir, mais réalisée à partir d'une peau de dragon. Une fois qu'il est satisfait des mesures, il continue dans un déchaînement de coutures incroyablement habiles.
-Une gnomide avec des lunettes aux airs étranges examine le stock pour sa dernière invention : une baliste portable. Elle regarde les engrenages et le levier de chargement, s'assure de la tension des cordes et observe le rail pour des imperfections. Elle sourit, sachant bien que son travail est sans faille.
-Les artisans sont des virtuoses de leur artisanat et des inventeurs de génie. Non content de créer des armes et armures de maîtres, ils inventent et imaginent de nouveaux appareils ingénieux et/ou des armes particulièrement dangereuses.
+Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<\br>
+Tous sont des génies créatifs, capables non seulement de fabriquer des équipements de maître, mais aussi d’imaginer des inventions originales et redoutables.
         </div>
       </div>
     </div>
