@@ -44,7 +44,8 @@ redirection: true
         </ul>
       </div>
     </div>
- </div>
+  </div>
+</div>
 
 <!-- Carte Alchimiste2 de test -->
 <div class="flip-card">
@@ -84,6 +85,7 @@ redirection: true
         </ul>
       </div>
     </div>
+  </div>
 </div>
 
 
