@@ -16,7 +16,7 @@ redirection: true
         <div class="flip-card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<\br>
+Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<br/>
 Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté.
         </div>
       </div>
@@ -61,7 +61,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
         <div class="flip-card-subtitle">Capable de renverser des pays entiers à coup de marteau !</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<\br>
+Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<br/>
 Tous sont des génies créatifs, capables non seulement de fabriquer des équipements de maître, mais aussi d’imaginer des inventions originales et redoutables.
         </div>
       </div>
