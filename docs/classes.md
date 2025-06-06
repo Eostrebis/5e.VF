@@ -71,20 +71,20 @@ Tous sont des génies créatifs, capables non seulement de fabriquer des équipe
       <div class="flip-card-bar"></div>
       <div class="flip-card-linkbox">
         <ul>
-          <li><a href=./Alchimiste/Amoriste/>Guilde des Armigères</a></li>
-          <li><a href=./Alchimiste/Apothicaire/>Guilde des Calibarons</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Armigères/>Guilde des Armigères</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Calibarons/>Guilde des Calibarons</a></li>
         </ul>
         <ul>
-          <li><a href=./Alchimiste/Bombeur%20Fou/>Guilde des Chevaliers Forgés</a></li>
-          <li><a href=./Alchimiste/Forgeron%20de%20Venin/>Guilde des Maestros Arcaniques</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Chevaliers%20Forgés/>Guilde des Chevaliers Forgés</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Maestros%20Arcaniques/>Guilde des Maestros Arcaniques</a></li>
         </ul>
         <ul>
-          <li><a href=./Alchimiste/Ingénieur%20Dynamo/>Guilde des Mécanautes</a></li>
-          <li><a href=./Alchimiste/Mutagéniste/>Guilde des Piègeurs</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Mécanautes/>Guilde des Mécanautes</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Piègeurs/>Guilde des Piègeurs</a></li>
         </ul>
         <ul>
-          <li><a href=./Alchimiste/Slime-boy/>Guilde des Seigneurs du Tonnerre</a></li>
-          <li><a href=./Alchimiste/Xénoalchimiste/>Guilde des Travailleurs de la Lame</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Seigneurs%20du%20Tonnerre/>Guilde des Seigneurs du Tonnerre</a></li>
+          <li><a href=./Artisan/Guilde%20des%20Travailleurs%20de%20la%20Lame/>Guilde des Travailleurs de la Lame</a></li>
         </ul>
       </div>
     </div>
