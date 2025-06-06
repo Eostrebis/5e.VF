@@ -101,6 +101,7 @@
 .flip-card {
   box-sizing: border-box;
   height: 300px;
+  margin-bottom: 40px;
 }
 
 /* Structure interne de la carte */
