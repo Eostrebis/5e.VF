@@ -47,41 +47,42 @@ redirection: true
   </div>
 </div>
 
-<!-- Carte Alchimiste2 de test -->
+<!-- Carte Artisan -->
 <div class="flip-card">
   <div class="flip-card-inner flip-card-customcolor" style="--card-color: #1B1A1D;">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Artisan.png>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">Alchimiste</div>
-        <div class="flip-card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
+        <div class="flip-card-title">Artisan</div>
+        <div class="flip-card-subtitle">Capable de renverser des pays entiers à coup de marteau !</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-            Un gnome grimaçant caquette avec allégresse alors qu'il envoie une bombe au beau milieu d'un groupe de gobelins le chargeant, les explosant en morceaux brûlés. Il en crée une autre, la jette à ses pieds, et disparaît, toujours riant, dans un nuage de fumée.
-            Un svelte elfe mélange rapidement des fluides et des herbes dans un petit mortier. Elle applique le résultat sur la plaie de flèche d'un pauvre nain blessé, qui s'arrête immédiatement de saigner.
-            Que leurs méthodes soient explosives, transformatrices ou réparatrice, les alchimistes vivent pour transmuter le monde qui les entoure à leur guise.
+Une naine baraquée abat son marteau sur un morceau d'acier rougeoyant, faisant s'envoler une pluie d'étincelles dans les airs. La pièce résonne avec le bruit du métal entrechoquant du métal, tandis que le bout d'acier, chaud et brillant, commence à prendre forme entre ses pinces.
+Un elfe prépare son aiguille avec un fil métallique extraordinairement fin, afin de réaliser les mailles de ce qui semble être une armure de cuir, mais réalisée à partir d'une peau de dragon. Une fois qu'il est satisfait des mesures, il continue dans un déchaînement de coutures incroyablement habiles.
+Une gnomide avec des lunettes aux airs étranges examine le stock pour sa dernière invention : une baliste portable. Elle regarde les engrenages et le levier de chargement, s'assure de la tension des cordes et observe le rail pour des imperfections. Elle sourit, sachant bien que son travail est sans faille.
+Les artisans sont des virtuoses de leur artisanat et des inventeurs de génie. Non content de créer des armes et armures de maîtres, ils inventent et imaginent de nouveaux appareils ingénieux et/ou des armes particulièrement dangereuses.
         </div>
       </div>
     </div>
   <div class="flip-card-back">
-      <div class="flip-card-subtitle">Champs d'Études</div>
+      <div class="flip-card-subtitle">Guildes d'Artisan</div>
       <div class="flip-card-bar"></div>
       <div class="flip-card-linkbox">
         <ul>
-          <li><a href=./Alchimiste/Amoriste/>Amoriste</a></li>
-          <li><a href=./Alchimiste/Apothicaire/>Apothicaire</a></li>
+          <li><a href=./Alchimiste/Amoriste/>Guilde des Armigères</a></li>
+          <li><a href=./Alchimiste/Apothicaire/>Guilde des Calibarons</a></li>
         </ul>
         <ul>
-          <li><a href=./Alchimiste/Bombeur%20Fou/>Bombeur Fou</a></li>
-          <li><a href=./Alchimiste/Forgeron%20de%20Venin/>Forgeron de Venin</a></li>
+          <li><a href=./Alchimiste/Bombeur%20Fou/>Guilde des Chevaliers Forgés</a></li>
+          <li><a href=./Alchimiste/Forgeron%20de%20Venin/>Guilde des Maestros Arcaniques</a></li>
         </ul>
         <ul>
-          <li><a href=./Alchimiste/Ingénieur%20Dynamo/>Ingénieur Dynamo</a></li>
-          <li><a href=./Alchimiste/Mutagéniste/>Mutagéniste</a></li>
+          <li><a href=./Alchimiste/Ingénieur%20Dynamo/>Guilde des Mécanautes</a></li>
+          <li><a href=./Alchimiste/Mutagéniste/>Guilde des Piègeurs</a></li>
         </ul>
         <ul>
-          <li><a href=./Alchimiste/Slime-boy/>Slime-boy</a></li>
-          <li><a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a></li>
+          <li><a href=./Alchimiste/Slime-boy/>Guilde des Seigneurs du Tonnerre</a></li>
+          <li><a href=./Alchimiste/Xénoalchimiste/>Guilde des Travailleurs de la Lame</a></li>
         </ul>
       </div>
     </div>
