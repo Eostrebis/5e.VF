@@ -200,6 +200,21 @@
   height: 200px;
 }
 
+.flip-card-linkbox {
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  justify-content: space-between;
+}
+
+.flip-card-linkbox ul {
+  list-style: none;
+  padding: 0;
+}
+
+.flip-card-linkbox li {
+  margin-bottom: 10px;
+}
 
 
 .flip-card-tagbox {
@@ -242,34 +257,4 @@
   border-top: 13px solid transparent;
   right: -10px;
   top: 0;
-}
-
-.flip-card-linkbox {
-  display: flex;
-  gap: 20px;
-  width: 100%;
-  justify-content: space-between;
-}
-
-.flip-card-linkbox ul {
-  list-style: none;
-  padding: 0;
-}
-
-.flip-card-linkbox li {
-  margin-bottom: 10px;
-}
-
-.flip-card-link {
-  display: inline-block;
-  background: #E0E0E0;
-  color: #777;
-  border-radius: 3px 0 0 3px;
-  line-height: 26px;
-  padding: 0 10px 0 23px;
-  position: relative;
-  margin-right: 20px;
-  cursor: default;
-  user-select: none;
-  transition: color 0.2s;
 }
