@@ -176,14 +176,14 @@
 /* Regroupe le titre, le sous-titre, la barre et la description */
 .flip-card-textbox {
   position: absolute;
-  padding-top: 30px;
-  left: 380px;
+  padding-top: 1%;
+  left: 32%;
   width: 65%;
 }
 
 .flip-card:nth-child(2n) .flip-card-textbox {
   left: initial;
-  right: 380px;
+  right: 32%;
 }
 
 .flip-card-title {
@@ -219,19 +219,19 @@
 
 .flip-card-linkbox {
   display: flex;
-  gap: 20px;
+  font-size: 15px;
   width: 100%;
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 
 .flip-card-linkbox ul {
   list-style: none;
-  padding: 0;
 }
 
 .flip-card-linkbox li {
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
+
 
 
 .flip-card-tagbox {
