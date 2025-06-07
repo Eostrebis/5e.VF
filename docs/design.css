@@ -278,9 +278,9 @@
 }
 
 .flip-card-link {
-  display: inline-block;
-  margin-top: 20px;
-  bottom: 10px;
+  position: absolute;
+  bottom: 3%;
+  right: 3%;
   color: var(--accent);
   text-decoration: underline;
   font-weight: bold;
