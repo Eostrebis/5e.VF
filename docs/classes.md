@@ -240,7 +240,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 </div>
 
 <!-- Carte Clerc -->
-<div class="flip-card" style="--card-color: #ccd1d1;">
+<div class="flip-card" style="--card-color: #8c8c8c;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Clerc.png>
@@ -296,7 +296,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 </div>
 
 <!-- Carte Druide -->
-<div class="flip-card" style="--card-color: #DAF7A6;">
+<div class="flip-card" style="--card-color: #a0d87c;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Druide.png>
@@ -618,129 +618,305 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 </div>
 
 
+<!-- Carte Mage de Guerre -->
+<div class="flip-card" style="--card-color: #53e5dc;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Mage%20de%20Guerre.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Mage de Guerre</div>
+        <div class="flip-card-subtitle">Les mages de guerre mêlent puissance magique et maîtrise martiale, lançant des sorts destructeurs tout en maniant armes et tactiques de combat.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les mages de guerre sont des combattants redoutables qui allient l’art de la magie à la discipline du champ de bataille, capables de lancer des sorts dévastateurs tout en maniant habilement armes et armures.<br/>
+Leur entraînement rigoureux leur permet d’adapter leur puissance magique aux nécessités du combat rapproché, protégeant leurs alliés et brisant les lignes ennemies avec une précision tactique rare.<br/>
+Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent la fusion parfaite entre puissance mystique et discipline martiale.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Maisons</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Cartes/>Maison des Cartes</a></li>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Cavaliers/>Maison des Cavaliers</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Dés/>Maison des Dés</a></li>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Fous/>Maison des Fous</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Lanciers/>Maison des Lanciers</a></li>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Pions/>Maison des Pions</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Rois/>Maison des Rois</a></li>
+          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Tours/>Maison des Tours</a></li>
+        </ul>
+      </div>
+	  <a href=./Mage%20de%20Guerre/Mage%20de%20Guerre/ class="flip-card-link">Pour en savoir plus sur le Mage de Guerre ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Mage de Guerre]]
 
-| Maisons                  |
-| ------------------------ |
-| [[Maison des Cartes]]    |
-| [[Maison des Cavaliers]] |
-| [[Maison des Dés]]       |
-| [[Maison des Fous]]      |
-| [[Maison des Lanciers]]  |
-| [[Maison des Pions]]     |
-| [[Maison des Rois]]      |
-| [[Maison des Tours]]     |
+<!-- Carte Magicien -->
+<div class="flip-card" style="--card-color: #1956ba;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Magicien.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Magicien</div>
+        <div class="flip-card-subtitle">Les mages maîtrisent l’art des arcanes, lançant des sorts puissants et variés grâce à leur savoir et leur concentration.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les magiciens, vêtus de robes élégantes et concentrés dans leurs rituels, canalisent l'énergie cosmique pour lancer des sorts dévastateurs, qu’il s’agisse de sphères de feu explosives, de cercles magiques invoquant des puissances d’autres plans ou de divinations mystiques.<br/>
+Leur maîtrise de la magie leur permet d’invoquer des créatures d’outre-monde, de manipuler les esprits ou de transformer la matière, révélant ainsi l’immense variété de leurs pouvoirs.<br/>
+Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité, allant jusqu’à faire pleuvoir des météores ou ouvrir des portails vers des mondes inconnus, incarnant l’essence même de la puissance magique.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Traditions Arcaniques</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Magicien/Cartographie%20des%20Rêves/>Cartographie des Rêves</a></li>
+          <li><a href=./Magicien/Chantelame/>Chantelame</a></li>
+	  <li><a href=./Magicien/Mage%20de%20Projectiles%20Magiques/>Mage de Projectiles Magiques</a></li>
+          <li><a href=./Magicien/Magie%20de%20Guerre/>Magie de Guerre</a></li>
+          <li><a href=./Magicien/École%20de%20Somnomancie/>École de Somnomancie</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Magicien/Maître%20des%20Familiers/>Maître des Familiers</a></li>
+          <li><a href=./Magicien/Ordre%20des%20Scribes/>Ordre des Scribes</a></li>
+	  <li><a href=./Magicien/Plasmologie%20Ésotérique/>Plasmologie Ésotérique</a></li>
+          <li><a href=./Magicien/Savant%20Mystique/>Savant Mystique</a></li>
+          <li><a href=./Magicien/École%20de%20Transmutation/>École de Transmutation</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Magicien/École%20d'Abjuration/>École d'Abjuration</a></li>
+          <li><a href=./Magicien/École%20d'Enchantement/>École d'Enchantement</a></li>
+          <li><a href=./Magicien/École%20d'Illusion/>École d'Illusion</a></li>
+          <li><a href=./Magicien/École%20d'Évocation/>École d'Évocation</a></li>
+          <li><a href=./Magicien/École%20de%20Nécromancie/>École de Nécromancie</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Magicien/École%20de%20Chronomancie/>École de Chronomancie</a></li>
+          <li><a href=./Magicien/École%20de%20Conjuration/>École de Conjuration</a></li>
+	  <li><a href=./Magicien/École%20de%20Divination/>École de Divination</a></li>
+          <li><a href=./Magicien/École%20de%20Gastronomie/>École de Gastronomie</a></li>
+        </ul>
+      </div>
+	  <a href=./Magicien/Magicien/ class="flip-card-link">Pour en savoir plus sur le Magicien ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Magicien]]
+<!-- Carte Martyr -->
+<div class="flip-card" style="--card-color: #929292;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Martyr.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Martyr</div>
+        <div class="flip-card-subtitle">Les martyrs sacrifient leur corps et leur vie pour protéger leurs alliés, transformant leur souffrance en force et inspiration sur le champ de bataille.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les Martyrs portent la douleur et la guérison, touchant les vies avec une grâce salvatrice, tout en étant liés à un destin tragique et immuable.<br/>
+Leur parole peut faire trembler la terre et changer le cours des événements, tandis que leur foi les pousse à accomplir des actes lourds de sens, même au prix de leur vie.<br/>
+Véritables instruments des dieux, ils acceptent leur sacrifice comme une mission divine, sachant que leur fin est écrite dans les étoiles.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Fardeaux Mortels</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Martyr/Fardeau%20d'Expiation/>Fardeau d'Expiation</a></li>
+          <li><a href=./Martyr/Fardeau%20de%20Discorde/>Fardeau de Discorde</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Martyr/Fardeau%20de%20Pitié/>Fardeau de Pitié</a></li>
+          <li><a href=./Martyr/Fardeau%20de%20 Renaissance/>Fardeau de Renaissance</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Martyr/Fardeau%20de%20Révolution/>Fardeau de Révolution</a></li>
+          <li><a href=./Martyr/Fardeau%20de%20Tyrannie/>Fardeau de Tyrannie</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Martyr/Fardeau%20de%20Vérité/>Fardeau de Vérité</a></li>
+          <li><a href=./Martyr/Fardeau%20de%20la%20Fin/>Fardeau de la Fin</a></li>
+        </ul>
+      </div>
+	  <a href=./Martyr/Martyr/ class="flip-card-link">Pour en savoir plus sur le Martyr ...</a>
+    </div>
+  </div>
+</div>
 
-| Traditions Arcaniques            |
-| -------------------------------- |
-| [[Cartographie des Rêves]]       |
-| [[Chantelame]]                   |
-| [[Mage de Projectiles Magiques]] |
-| [[Magie de Guerre]]              |
-| [[Maître des Familiers]]         |
-| [[Ordre des Scribes]]            |
-| [[Plasmologie Ésotérique]]       |
-| [[Savant Mystique]]              |
-| [[École d'Abjuration]]           |
-| [[École d'Enchantement]]         |
-| [[École d'Illusion]]             |
-| [[École d'Évocation]]            |
-| [[École de Chronomancie]]        |
-| [[École de Conjuration]]         |
-| [[École de Divination]]          |
-| [[École de Gastronomie]]         |
-| [[École de Nécromancie]]         |
-| [[École de Somnomancie]]         |
-| [[École de Transmutation]]       |
+<!-- Carte Moine -->
+<div class="flip-card" style="--card-color: #28c3f5;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Moine.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Moine</div>
+        <div class="flip-card-subtitle">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les moines utilisent leur énergie intérieure pour accomplir des exploits extraordinaires, comme dévier des flèches, affronter seuls des ennemis nombreux, ou se déplacer silencieusement dans l’ombre pour frapper avec précision.<br/>
+Leur maîtrise du corps et de l’esprit leur permet de combiner agilité, puissance martiale et furtivité, transcendant les limites physiques ordinaires.<br/>
+Quelle que soit leur spécialité, ils canalisent cette force magique pour augmenter leur vitesse, leur défense et leur efficacité au combat.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Traditions Monastiques</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Moine/Voie%20de%20l'Arc/>Voie de l'Arc</a></li>
+          <li><a href=./Moine/Voie%20de l'Ombre/>Voie de l'Ombre</a></li>
+	  <li><a href=./Moine/Voie%20de l'Âme du Soleil/>Voie de l'Âme du Soleil</a></li>
+          <li><a href=./Moine/Voie%20 de l'Étoile Noire/>Voie de l'Étoile Noire</a></li>
+          <li><a href=./Moine/Voie%20de la Mort Longue/>Voie de la Mort Longue</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Moine/Voie%20de%20la%20Paume/>Voie de la Paume</a></li>
+          <li><a href=./Moine/Voie%20de%20la%20Miséricorde/>Voie de la Miséricorde</a></li>
+	  <li><a href=./Moine/Voie%20de%20la%20Rose/>Voie de la Rose</a></li>
+          <li><a href=./Moine/Voie%20des%20Quatre%20Poings/>Voie des Quatre Poings</a></li>
+          <li><a href=./Moine/Voie%20des%20Quatre%20Éléments/>Voie des Quatre Éléments</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Moine/Voie%20du%20Combat%20de%20Rue/>Voie du Combat de Rue</a></li>
+          <li><a href=./Moine/Voie%20du%20Dragon%20Ascendant/>Voie du Dragon Ascendant</a></li>
+          <li><a href=./Moine/Voie%20du%20Flagellant/>Voie du Flagellant</a></li>
+          <li><a href=./Moine/Voie%20du%20Kensei/>Voie du Kensei</a></li>
+          <li><a href=./Moine/Voie%20du%20Masque/>Voie du Masque</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Moine/Voie%20du%20Maître%20Ivre/>Voie du Maître Ivre</a></li>
+          <li><a href=./Moine/Voie%20du%20Poing%20Ivre/>Voie du Poing Ivre</a></li>
+	  <li><a href=./Moine/Voie%20du%20Serpent%20Noble/>Voie du Serpent Noble</a></li>
+          <li><a href=./Moine/Voie%20du%20Soi%20Astral/>Voie du Soi Astral</a></li>
+        </ul>
+      </div>
+	  <a href=./Moine/Moine/ class="flip-card-link">Pour en savoir plus sur le Moine ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Martyr]]
+<!-- Carte Nécromancien -->
+<div class="flip-card" style="--card-color: #929292;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Nécromancien.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Nécromancien</div>
+        <div class="flip-card-subtitle">Les nécromanciens manipulent la magie de la mort pour contrôler les morts-vivants et exploiter les forces obscures.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les nécromanciens puisent dans les arcanes interdites de la mort, canalisant des énergies sombres pour manipuler la vie et la non-vie selon leur volonté.<br/>
+Ils commandent des légions de morts-vivants, utilisant ces créatures comme des extensions de leur propre puissance sur le champ de bataille.<br/>
+Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la désolation pour affaiblir leurs ennemis et imposer leur domination.
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Ambitions Mortelles</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Nécromancien/Chevalier%20de%20la%20Mort/>Chevalier de la Mort</a></li>
+          <li><a href=./Nécromancien/Descendant%20du%20Sang/>Descendant du Sang</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Nécromancien/Faucheur/>Faucheur</a></li>
+          <li><a href=./Nécromancien/Maître%20Pâle/>Maître Pâle</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Nécromancien/Pharaon/>Pharaon</a></li>
+          <li><a href=./Nécromancien/Réanimateur/>Réanimateur</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Nécromancien/Seigneur%20Suprême/>Seigneur Suprême</a></li>
+          <li><a href=./Nécromancien/Seigneur%20de%20la%20Peste/>Seigneur de la Peste</a></li>
+        </ul>
+      </div>
+	  <a href=./Nécromancien/Nécromancien/ class="flip-card-link">Pour en savoir plus sur le Nécromancien ...</a>
+    </div>
+  </div>
+</div>
 
-| Fardeaux Mortels           |
-| -------------------------- |
-| [[Fardeau d'Expiation]]    |
-| [[Fardeau de Discorde]]    |
-| [[Fardeau de Pitié]]       |
-| [[Fardeau de Renaissance]] |
-| [[Fardeau de Révolution]]  |
-| [[Fardeau de Tyrannie]]    |
-| [[Fardeau de Vérité]]      |
-| [[Fardeau de la Fin]]      |
-# [[Moine]]
+<!-- Carte Occultiste -->
+<div class="flip-card" style="--card-color: #7628f5;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Occultiste.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Occultiste</div>
+        <div class="flip-card-subtitle">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les occultistes sont des chercheurs avides de connaissances cachées dans les méandres du multivers, utilisant des pactes mystérieux avec des entités surnaturelles pour canaliser des pouvoirs magiques uniques et impressionnants.<br/>
+Ils manipulent la magie à travers des influences aussi diverses que les nobles fées, les démons, les diables et d’autres êtres extraplanaires, fusionnant savoir ancien et énergie occulte.<br/>
+Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance pour contrôler leur environnement et influencer le destin avec subtilité et force.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Patrons d'Outremonde</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Occultiste/Celui%20qui%20rôde%20dans%20les%20Profondeurs/>Celui qui rôde dans les Profondeurs</a></li>
+          <li><a href=./Occultiste/L'Accord%20Parfait/>L'Accord Parfait</a></li>
+	  <li><a href=./Occultiste/L'Archifée/>L'Archifée</a></li>
+          <li><a href=./Occultiste/L'Archive%20Maudite/>L'Archive Maudite</a></li>
+          <li><a href=./Occultiste/L'Exil%20Déchu/>L'Exil Déchu</a></li>
+          <li><a href=./Occultiste/Le%20Céleste/>Le Céleste</a></li>
+          <li><a href=./Occultiste/Le%20Fiélon/>Le Fiélon</a></li>
+          <li><a href=./Occultiste/Le%20Gardien%20des%20Profondeurs/>Le Gardien des Profondeurs</a></li>
+          <li><a href=./Occultiste/Le%20Vous%20du%20Futur/>Le Vous du Futur</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Occultiste/L'Héritage/>L'Héritage</a></li>
+          <li><a href=./Occultiste/L'Immortel/>L'Immortel</a></li>
+	  <li><a href=./Occultiste/L'Impératrice%20Serpent/>L'Impératrice Serpent</a></li>
+          <li><a href=./Occultiste/L'Intelligence%20Supérieure/>L'Intelligence Supérieure</a></li>
+          <li><a href=./Occultiste/La%20Brume%20des%20Morts/>La Brume des Morts</a></li>
+          <li><a href=./Occultiste/Le%20Grand%20Ancien/>Le Grand Ancien</a></li>
+          <li><a href=./Occultiste/Le%20Guerrier%20Saint/>Le Guerrier Saint</a></li>
+          <li><a href=./Occultiste/Le%20Génie/>Le Génie</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Occultiste/La%20Cabale%20des%20Monnaies/>La Cabale des Monnaies</a></li>
+          <li><a href=./Occultiste/La%20Citadelle%20Éternelle/>La Citadelle Éternelle</a></li>
+          <li><a href=./Occultiste/La%20Convocation%20Gélatineuse/>La Convocation Gélatineuse</a></li>
+          <li><a href=./Occultiste/La%20Lame%20Maudite/>La Lame Maudite</a></li>
+          <li><a href=./Occultiste/La%20Tisseuse%20de%20Mensonge/>La Tisseuse de Mensonge</a></li>
+          <li><a href=./Occultiste/Le%20Loup%20Cendré/>Le Loup Cendré</a></li>
+          <li><a href=./Occultiste/Le%20MJ/>Le MJ</a></li>
+          <li><a href=./Occultiste/Le%20Magicien/>Le Magicien</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Occultiste/Le%20Bosquet%20d'Épines Noires/>Le Bosquet d'Épines Noires</a></li>
+          <li><a href=./Occultiste/Le%20Chasseur%20Sauvage/>Le Chasseur Sauvage</a></li>
+	  <li><a href=./Occultiste/Le%20Chat%20d'Ombre/>Le Chat d'Ombre</a></li>
+          <li><a href=./Occultiste/Le%20Cimetière%20Interdit/>Le Cimetière Interdit</a></li>
+          <li><a href=./Occultiste/Le%20Portrait%20de%20Gray/>Le Portrait de Gray</a></li>
+          <li><a href=./Occultiste/Le%20Seigneur%20des%20Tempêtes/>Le Seigneur des Tempêtes</a></li>
+          <li><a href=./Occultiste/Le%20Symbiote/>Le Symbiote</a></li>
+        </ul>
+      </div>
+	  <a href=./Occultiste/Occultiste/ class="flip-card-link">Pour en savoir plus sur l'Occultiste ...</a>
+    </div>
+  </div>
+</div>
 
-| Traditions Monastiques       |
-| ---------------------------- |
-| [[Voie de l'Arc]]            |
-| [[Voie de l'Ombre]]          |
-| [[Voie de l'Âme du Soleil]]  |
-| [[Voie de l'Étoile Noire]]   |
-| [[Voie de la Mort Longue]]   |
-| [[Voie de la Paume]]         |
-| [[Voie de la Miséricorde]]   |
-| [[Voie de la Rose]]          |
-| [[Voie des Quatre Poings]]   |
-| [[Voie des Quatre Éléments]] |
-| [[Voie du Combat de Rue]]    |
-| [[Voie du Dragon Ascendant]] |
-| [[Voie du Flagellant]]       |
-| [[Voie du Kensei]]           |
-| [[Voie du Masque]]           |
-| [[Voie du Maître Ivre]]      |
-| [[Voie du Poing Ivre]]       |
-| [[Voie du Serpent Noble]]    |
-| [[Voie du Soi Astral]]       |
 
-# [[Nécromancien]]
-
-| Ambitions Mortelles      |
-| ------------------------ |
-| [[Chevalier de la Mort]] |
-| [[Descendant du Sang]]   |
-| [[Faucheur]]             |
-| [[Maître Pâle]]          |
-| [[Pharaon]]              |
-| [[Réanimateur]]          |
-| [[Seigneur Suprême]]     |
-| [[Seigneur de la Peste]] |
-
-# [[Occultiste]]
-
-| Patrons d'Outremonde                    |
-| --------------------------------------- |
-| [[Celui qui rôde dans les Profondeurs]] |
-| [[L'Accord Parfait]]                    |
-| [[L'Archifée]]                          |
-| [[L'Archive Maudite]]                   |
-| [[L'Exil Déchu]]                        |
-| [[L'Héritage]]                          |
-| [[L'Immortel]]                          |
-| [[L'Impératrice Serpent]]               |
-| [[L'Intelligence Supérieure]]           |
-| [[La Brume des Morts]]                  |
-| [[La Cabale des Monnaies]]              |
-| [[La Citadelle Éternelle]]              |
-| [[La Convocation Gélatineuse]]          |
-| [[La Lame Maudite]]                     |
-| [[La Tisseuse de Mensonge]]             |
-| [[Le Bosquet d'Épines Noires]]          |
-| [[Le Chasseur Sauvage]]                 |
-| [[Le Chat d'Ombre]]                     |
-| [[Le Cimetière Interdit]]               |
-| [[Le Céleste]]                          |
-| [[Le Fiélon]]                           |
-| [[Le Gardien des Profondeurs]]          |
-| [[Le Grand Ancien]]                     |
-| [[Le Guerrier Saint]]                   |
-| [[Le Génie]]                            |
-| [[Le Loup Cendré]]                      |
-| [[Le MJ]]                               |
-| [[Le Magicien]]                         |
-| [[Le Portrait de Gray]]                 |
-| [[Le Seigneur des Tempêtes]]            |
-| [[Le Symbiote]]                         |
-| [[Le Vous du Futur]]                    |
 
 # [[Paladin]]
 
