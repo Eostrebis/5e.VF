@@ -8,7 +8,7 @@ redirection: true
 <h1>Classes</h1>
 
 Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
-Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.
+Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #F5AF41;">
@@ -146,27 +146,56 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
   </div>
 </div>
 
+<!-- Carte Barde -->
+<div class="flip-card" style="--card-color: #6f4774;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Barde.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Barde</div>
+        <div class="flip-card-subtitle">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la musique et les mots, mêlant savoir, inspiration et tromperie pour renforcer leurs alliés, troubler leurs ennemis et tisser la réalité à leur image.<br/>
+Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Collèges Bardiques</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Barde/Collège%20de%20l%E2%80%99Éloquence/>Collège de l'Éloquence</a></li>
+          <li><a href=./Barde/Collège%20de%20la%20Création/>Collège de la Création</a></li>
+	  <li><a href=./Barde/Collège%20de%20la%20Romance/>Collège de la Romance</a></li>
+          <li><a href=./Barde/Collège%20de%20la%20Vaillance/>Collège de la Vaillance</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Barde/Collège%20des%20Annonciateurs/>Collège des Annonciateurs</a></li>
+          <li><a href=./Barde/Collège%20des%20Barmans/>Collège des Barmans</a></li>
+	  <li><a href=./Barde/Collège%20des%20Bouffons/>Collège des Bouffons</a></li>
+          <li><a href=./Barde/Collège%20des%20Cantateurs/>Collège des Cantateurs</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Barde/Collège%20des%20Graffitis/>Collège des Graffitis</a></li>
+          <li><a href=./Barde/Collège%20des%20Masques/>Collège des Masques</a></li>
+          <li><a href=./Barde/Collège%20des%20Rumeurs/>Collège des Rumeurs</a></li>
+	  <li><a href=./Barde/Collège%20des%20Épées/>Collège des Épées</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Barde/Collège%20du%20Dieu%20Fou/>Collège du Dieu Fou</a></li>
+          <li><a href=./Barde/Collège%20du%20Charme/>Collège du Charme</a></li>
+	  <li><a href=./Barde/Collège%20du%20Portrait/>Collège du Portrait</a></li>
+          <li><a href=./Barde/Collège%20du%20Savoir/>Collège du Savoir</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-# [[Barde]]
 
-| Collèges Bardiques            |
-| ----------------------------- |
-| [[Collège de l'Éloquence]]    |
-| [[Collège de la Création]]    |
-| [[Collège de la Romance]]     |
-| [[Collège de la Vaillance]]   |
-| [[Collège des Annonciateurs]] |
-| [[Collège des Barmans]]       |
-| [[Collège des Bouffons]]      |
-| [[Collège des Cantateurs]]    |
-| [[Collège des Graffitis]]      |
-| [[Collège des Masques]]       |
-| [[Collège des Rumeurs]]       |
-| [[Collège des Épées]]         |
-| [[Collège du Charme]]         |
-| [[Collège du Dieu Fou]]       |
-| [[Collège du Portrait]]       |
-| [[Collège du Savoir]]         |
+
 
 # [[Capitaine]]
 
