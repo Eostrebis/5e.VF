@@ -742,7 +742,7 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
         </ul>
         <ul>
           <li><a href=./Martyr/Fardeau%20de%20Pitié/>Fardeau de Pitié</a></li>
-          <li><a href=./Martyr/Fardeau%20de%20 Renaissance/>Fardeau de Renaissance</a></li>
+          <li><a href=./Martyr/Fardeau%20de%20Renaissance/>Fardeau de Renaissance</a></li>
         </ul>
         <ul>
           <li><a href=./Martyr/Fardeau%20de%20Révolution/>Fardeau de Révolution</a></li>
@@ -780,10 +780,10 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
       <div class="flip-card-linkbox">
         <ul>
           <li><a href=./Moine/Voie%20de%20l'Arc/>Voie de l'Arc</a></li>
-          <li><a href=./Moine/Voie%20de l'Ombre/>Voie de l'Ombre</a></li>
-	  <li><a href=./Moine/Voie%20de l'Âme du Soleil/>Voie de l'Âme du Soleil</a></li>
-          <li><a href=./Moine/Voie%20 de l'Étoile Noire/>Voie de l'Étoile Noire</a></li>
-          <li><a href=./Moine/Voie%20de la Mort Longue/>Voie de la Mort Longue</a></li>
+          <li><a href=./Moine/Voie%20de%20l'Ombre/>Voie de l'Ombre</a></li>
+	  <li><a href=./Moine/Voie%20de%20l'Âme%20du%20Soleil/>Voie de l'Âme du Soleil</a></li>
+          <li><a href=./Moine/Voie%20%20de%20l'Étoile%20Noire/>Voie de l'Étoile Noire</a></li>
+          <li><a href=./Moine/Voie%20de%20la%20Mort%20Longue/>Voie de la Mort Longue</a></li>
         </ul>
         <ul>
           <li><a href=./Moine/Voie%20de%20la%20Paume/>Voie de la Paume</a></li>
@@ -905,7 +905,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
           <li><a href=./Occultiste/Le%20Magicien/>Le Magicien</a></li>
         </ul>
         <ul>
-          <li><a href=./Occultiste/Le%20Bosquet%20d'Épines Noires/>Le Bosquet d'Épines Noires</a></li>
+          <li><a href=./Occultiste/Le%20Bosquet%20d'Épines%20Noires/>Le Bosquet d'Épines Noires</a></li>
           <li><a href=./Occultiste/Le%20Chasseur%20Sauvage/>Le Chasseur Sauvage</a></li>
 	  <li><a href=./Occultiste/Le%20Chat%20d'Ombre/>Le Chat d'Ombre</a></li>
           <li><a href=./Occultiste/Le%20Cimetière%20Interdit/>Le Cimetière Interdit</a></li>
@@ -1142,7 +1142,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
           <li><a href=./Tisserand/Couture%20Mortelle/>Couture Mortelle</a></li>
         </ul>
         <ul>
-          <li><a href=./Tisserand/Couture%20d'Ombres et de Lumières/>Couture d'Ombres et de Lumières</a></li>
+          <li><a href=./Tisserand/Couture%20d'Ombres%20et%20de%20Lumières/>Couture d'Ombres et de Lumières</a></li>
           <li><a href=./Tisserand/Couture%20de%20Spirale%20Étoilée/>Couture de Spirale Étoilée</a></li>
         </ul>
       </div>
