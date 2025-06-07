@@ -117,7 +117,7 @@
 }
 
 /* Affiche le dégradé de couleur sur la droite de la carte */
-.flip-card .flip-card-inner::before {
+.flip-card .flip-card-front::before, .flip-card .flip-card-back::before {
 	content: "";
 	position: absolute;
 	top: 0;
@@ -128,7 +128,7 @@
 	opacity: 0.2;
 }
 
-.flip-card:nth-child(2n) .flip-card-inner::before {
+.flip-card:nth-child(2n) .flip-card-front::before, .flip-card:nth-child(2n) .flip-card-back::before {
 	background-image: linear-gradient(-250deg, var(--card-color), transparent 50%);
 }
 
