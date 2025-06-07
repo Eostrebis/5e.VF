@@ -822,6 +822,7 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 Les nécromanciens puisent dans les arcanes interdites de la mort, canalisant des énergies sombres pour manipuler la vie et la non-vie selon leur volonté.<br/>
 Ils commandent des légions de morts-vivants, utilisant ces créatures comme des extensions de leur propre puissance sur le champ de bataille.<br/>
 Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la désolation pour affaiblir leurs ennemis et imposer leur domination.
+	</div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -982,7 +983,8 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 Un humain au regard sauvage traque silencieusement les orcs dans l’ombre des arbres, détruisant ses ennemis avec une rapidité mortelle grâce à ses deux épées courtes, tandis qu’une elfe agile esquive un souffle glacé de dragon avant de décocher une salve de flèches pour trouver une faille dans ses écailles épaisses.<br/>
 Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis et des mots elfiques, utilisant l’oiseau pour distraire un ours-hibou tandis qu’il prépare son tir décisif à l’arc.<br/>
 Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les protecteurs silencieux des frontières sauvages, veillant sans relâche loin des villages, dans des forêts denses ou des plaines désolées, prêts à défendre les terres contre toutes les menaces.
-      </div>
+      	</div>
+	</div>
     </div>
   <div class="flip-card-back">
       <div class="flip-card-title">Archétypes</div>
@@ -1032,7 +1034,8 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 Les roublards avancent toujours avec prudence et ruse, utilisant leur habileté à crocheter serrures et à se fondre dans l’ombre pour ouvrir des voies invisibles à leurs compagnons.<br/>
 Ils sont des maîtres de l’embuscade et de l’assassinat silencieux, frappant avec précision et rapidité pour neutraliser leurs ennemis avant même qu’ils ne réalisent le danger.<br/>
 Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque faiblesse, libérant alliés ou déjouant pièges, ce qui fait d’eux des atouts essentiels dans toute aventure.
-      </div>
+      	</div>
+	</div>
     </div>
   <div class="flip-card-back">
       <div class="flip-card-title">Archétypes</div>
@@ -1082,7 +1085,8 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
 Trois vieilles sorcières préparent un chaudron fumant où des visions étranges se dessinent, annonçant des présages inquiétants qui les font ricaner de malice.<br/>
 Une jeune fille isolée invoque un chat noir avec un simple claquement de doigts, utilisant son lien mystique pour manipuler un enfant dans son entourage, dévoilant ainsi son pouvoir secret.<br/>
 Un elfe murmure des incantations obscures, libérant une magie maléfique qui s’enroule autour d’un orque pour le plonger dans une agonie lente, illustrant la nature sombre et tordue des sorcières qui façonnent les ténèbres par leur volonté.
-      </div>
+      	</div>
+	</div>
     </div>
   <div class="flip-card-back">
       <div class="flip-card-title">Arts de Sorcière</div>
@@ -1124,7 +1128,8 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 Les tisserands sont des maîtres de la magie qui manipulent les fils invisibles de la réalité, tissant des sorts complexes et subtils pour influencer le monde qui les entoure.<br/>
 Grâce à leur habileté à entrelacer la magie avec la matière, ils peuvent altérer le destin, contrôler les événements et créer des effets aussi puissants qu’imprévisibles.<br/>
 Leur compréhension profonde des forces cosmiques leur permet de façonner la trame même du temps et de l’espace, faisant d’eux des alliés précieux et des adversaires redoutables.
-      </div>
+      	</div>
+	</div>
     </div>
   <div class="flip-card-back">
       <div class="flip-card-title">Tapisseries</div>
