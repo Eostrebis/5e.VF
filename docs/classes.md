@@ -96,32 +96,56 @@ Tous sont des génies créatifs, capables non seulement de fabriquer des équipe
 </div>
 
 
-Un certain nombre de classes sont disponibles pour les habitants d'Eostrebis :
+<!-- Carte Barbare -->
+<div class="flip-card" style="--card-color: #810000;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Barbare.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Barbare</div>
+        <div class="flip-card-subtitle">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.<br/>
+Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Voies Primitives</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Barbare/Voie%20de%20Mashle/>Voie de Mashle</a></li>
+          <li><a href=./Barbare/Voie%20de%20l'Aileron/>Voie de l'Aileron</a></li>
+	  <li><a href=./Barbare/Voie%20du%20Fléau/>Voie du Fléau</a></li>
+          <li><a href=./Barbare/Voie%20du%20Fou%20de%20Guerre/>Voie du Fou de Guerre</a></li>
+	  <li><a href=./Barbare/Voie%20du%20Maudit/>Voie du Maudit</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Barbare/Voie%20de%20la%20Bête/>Voie de la Bête</a></li>
+          <li><a href=./Barbare/Voie%20de%20la%20Magie%20Sauvage/>Voie de la Magie Sauvage</a></li>
+	  <li><a href=./Barbare/Voie%20du%20Gardien%20Ancestral/>Voie du Gardien Ancestral</a></li>
+          <li><a href=./Barbare/Voie%20du%20Guerrier%20Totémique/>Voie du Guerrier Totémique</a></li>
+	  <li><a href=./Barbare/Voie%20du%20Tonneau/>Voie du Tonneau</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Barbare/Voie%20de%20la%20Sérénité/>Voie de la Sérénité</a></li>
+          <li><a href=./Barbare/Voie%20du%20Berserker/>Voie du Berserker</a></li>
+	  <li><a href=./Barbare/Voie%20du%20Heavy%20Metal/>Voie du Heavy Metal</a></li>
+          <li><a href=./Barbare/Voie%20du%20Héraut%20des%20Tempêtes/>Voie du Héraut des Tempêtes</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Barbare/Voie%20du%20Colosse/>Voie du Colosse</a></li>
+          <li><a href=./Barbare/Voie%20du%20Fanatique/>Voie du Fanatique</a></li>
+	  <li><a href=./Barbare/Voie%20du%20Lunatique/>Voie du Lunatique</a></li>
+          <li><a href=./Barbare/Voie%20du%20Mage%20Rageur/>Voie du Mage Rageur</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
-
-
-# [[Barbare]]
-
-| Voies Primitives                |
-| ------------------------------- |
-| [[Voie de Mashle]]              |
-| [[Voie de l'Aileron]]           |
-| [[Voie de la Bête]]             |
-| [[Voie de la Magie Sauvage]]    |
-| [[Voie de la Sérénité]]         |
-| [[Voie du Berserker]]           |
-| [[Voie du Colosse]]             |
-| [[Voie du Fanatique]]           |
-| [[Voie du Fléau]]               |
-| [[Voie du Fou de Guerre]]       |
-| [[Voie du Gardien Ancestral]]   |
-| [[Voie du Guerrier Totémique]]  |
-| [[Voie du Heavy Metal]]         |
-| [[Voie du Héraut des Tempêtes]] |
-| [[Voie du Lunatique]]           |
-| [[Voie du Mage Rageur]]         |
-| [[Voie du Maudit]]              |
-| [[Voie du Tonneau]]             |
 
 # [[Barde]]
 
