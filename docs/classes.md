@@ -50,6 +50,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
           <li><a href=./Alchimiste/Slime-boy/>Slime-boy</a></li>
           <li><a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a></li>
         </ul>
+	<a href=./Alchimiste/Alchimiste/ class="flip-card-link">Pour en savoir plus sur l'Alchimiste ...</a>
       </div>
     </div>
   </div>
