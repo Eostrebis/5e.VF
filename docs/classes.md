@@ -166,7 +166,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
       <div class="flip-card-bar"></div>
       <div class="flip-card-linkbox">
         <ul>
-          <li><a href=./Barde/Collège%20de%20l%E2%80%99Éloquence/>Collège de l'Éloquence</a></li>
+          <li><a href=./Barde/Collège%20de%20l'Éloquence/>Collège de l'Éloquence</a></li>
           <li><a href=./Barde/Collège%20de%20la%20Création/>Collège de la Création</a></li>
 	  <li><a href=./Barde/Collège%20de%20la%20Romance/>Collège de la Romance</a></li>
           <li><a href=./Barde/Collège%20de%20la%20Vaillance/>Collège de la Vaillance</a></li>
