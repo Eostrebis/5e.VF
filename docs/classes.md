@@ -917,93 +917,229 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 </div>
 
 
+<!-- Carte Paladin -->
+<div class="flip-card" style="--card-color: #daca06;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Paladin.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Paladin</div>
+        <div class="flip-card-subtitle">Les paladins sont des guerriers sacrés, incarnant la justice divine et protégeant les innocents avec foi et puissance.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les paladins, vêtus d’armures brillantes malgré les épreuves du voyage, incarnent la guérison divine en restaurant la vie aux blessés par la puissance sacrée de leurs mains.<br/>
+Cachés dans l’ombre, ils agissent avec précision et discrétion pour éliminer les ennemis du mal, usant de leur force et de leur détermination pour protéger les innocents.<br/>
+Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans la solitude face à la mort, forge en eux un pouvoir extraordinaire qui élève ces guerriers en champions bénis, unis par leur lutte contre les ténèbres.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Serments Sacrés</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Paladin/Briseur%20de%20Serment/>Briseur de Serment</a></li>
+          <li><a href=./Paladin/Serment%20d'Avarice/>Serment d'Avarice</a></li>
+	  <li><a href=./Paladin/Serment%20d'Hérésie/>Serment d'Hérésie</a></li>
+          <li><a href=./Paladin/Serment%20de%20Conquête/>Serment de Conquête</a></li>
+          <li><a href=./Paladin/Serment%20de%20Dévotion/>Serment de Dévotion</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Paladin/Serment%20de%20Gloire/>Serment de Gloire</a></li>
+          <li><a href=./Paladin/Serment%20de%20Jugement/>Serment de Jugement</a></li>
+	  <li><a href=./Paladin/Serment%20de%20Rédemption/>Serment de Rédemption</a></li>
+          <li><a href=./Paladin/Serment%20de%20Réjouissance/>Serment de Réjouissance</a></li>
+          <li><a href=./Paladin/Serment%20de%20Vengance/>Serment de Vengance</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Paladin/Serment%20de%20l'Hiver/>Serment de l'Hiver</a></li>
+          <li><a href=./Paladin/Serment%20de%20la%20Couronne/>Serment de la Couronne</a></li>
+          <li><a href=./Paladin/Serment%20de%20la%20Haute-Mer/>Serment de la Haute-Mer</a></li>
+          <li><a href=./Paladin/Serment%20de%20la%20Nuit%20Éternelle/>Serment de la Nuit Éternelle</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Paladin/Serment%20des%20Sentinelles/>Serment des Sentinelles</a></li>
+          <li><a href=./Paladin/Serment%20des%20Tempêtes/>Serment des Tempêtes</a></li>
+	  <li><a href=./Paladin/Serment%20du%20Soleil/>Serment du Soleil</a></li>
+          <li><a href=./Paladin/Serment%20des%20Anciens/>Serment des Anciens</a></li>
+        </ul>
+      </div>
+	  <a href=./Paladin/Paladin/ class="flip-card-link">Pour en savoir plus sur le Paladin ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Paladin]]
+<!-- Carte Ranger -->
+<div class="flip-card" style="--card-color: #006839;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Ranger.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Ranger</div>
+        <div class="flip-card-subtitle">Les rangers sont des éclaireurs et chasseurs experts, maîtrisant la traque, la survie en milieu sauvage, et le combat à distance.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Un humain au regard sauvage traque silencieusement les orcs dans l’ombre des arbres, détruisant ses ennemis avec une rapidité mortelle grâce à ses deux épées courtes, tandis qu’une elfe agile esquive un souffle glacé de dragon avant de décocher une salve de flèches pour trouver une faille dans ses écailles épaisses.<br/>
+Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis et des mots elfiques, utilisant l’oiseau pour distraire un ours-hibou tandis qu’il prépare son tir décisif à l’arc.<br/>
+Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les protecteurs silencieux des frontières sauvages, veillant sans relâche loin des villages, dans des forêts denses ou des plaines désolées, prêts à défendre les terres contre toutes les menaces.
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Archétypes</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Ranger/Arpenteur%20de%20l'Horizon/>Arpenteur de l'Horizon</a></li>
+          <li><a href=./Ranger/Bandit%20de%20Grands%20Chemins/>Bandit de Grands Chemins</a></li>
+          <li><a href=./Ranger/Gardien%20des%20Nuées/>Gardien des Nuées</a></li>
+          <li><a href=./Ranger/Lame%20d'Argent/>Lame d'Argent</a></li>
+          <li><a href=./Ranger/Vigilante/>Vigilante</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ranger/Casseur%20de%20Sorts/>Casseur de Sorts</a></li>
+          <li><a href=./Ranger/Chasseur%20de%20Trophées/>Chasseur de Trophées</a></li>
+          <li><a href=./Ranger/Maître%20des%20Bêtes/>Maître des Bêtes</a></li>
+          <li><a href=./Ranger/Molosse%20du%20Chasseur/>Molosse du Chasseur</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ranger/Chasseur/>Chasseur</a></li>
+          <li><a href=./Ranger/Coureur/>Coureur</a></li>
+          <li><a href=./Ranger/Né%20des%20Bêtes/>Né des Bêtes</a></li>
+          <li><a href=./Ranger/Pilleur%20de%20Tombes/>Pilleur de Tombes</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ranger/Embuscade%20Obscur/>Embuscade Obscur</a></li>
+          <li><a href=./Ranger/Gardien%20de%20Drake/>Gardien de Drake</a></li>
+          <li><a href=./Ranger/Tueur%20de%20Monstres/>Tueur de Monstres</a></li>
+          <li><a href=./Ranger/Vagabond%20Féérique/>Vagabond Féérique</a></li>
+        </ul>
+      </div>
+	  <a href=./Ranger/Ranger/ class="flip-card-link">Pour en savoir plus sur le Ranger ...</a>
+    </div>
+  </div>
+</div>
 
-| Serments Sacrés                  |
-| -------------------------------- |
-| [[Briseur de Serment]]           |
-| [[Serment d'Avarice]]            |
-| [[Serment d'Hérésie]]            |
-| [[Serment de Conquête]]          |
-| [[Serment de Dévotion]]          |
-| [[Serment de Gloire]]            |
-| [[Serment de Jugement]]          |
-| [[Serment de Rédemption]]        |
-| [[Serment de Réjouissance]]      |
-| [[Serment de Vengance]]          |
-| [[Serment de l'Hiver]]           |
-| [[Serment de la Couronne]]       |
-| [[Serment de la Haute-Mer]]      |
-| [[Serment de la Nuit Éternelle]] |
-| [[Serment des Anciens]]          |
-| [[Serment des Sentinelles]]      |
-| [[Serment des Tempêtes]]         |
-| [[Serment du Soleil]]            |
+<!-- Carte Roublard -->
+<div class="flip-card" style="--card-color: #363636;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Roublard.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Roublard</div>
+        <div class="flip-card-subtitle">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les roublards avancent toujours avec prudence et ruse, utilisant leur habileté à crocheter serrures et à se fondre dans l’ombre pour ouvrir des voies invisibles à leurs compagnons.<br/>
+Ils sont des maîtres de l’embuscade et de l’assassinat silencieux, frappant avec précision et rapidité pour neutraliser leurs ennemis avant même qu’ils ne réalisent le danger.<br/>
+Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque faiblesse, libérant alliés ou déjouant pièges, ce qui fait d’eux des atouts essentiels dans toute aventure.
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Archétypes</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Roublard/Arnaqueur/>Arnaqueur</a></li>
+          <li><a href=./Roublard/Assassin/>Assassin</a></li>
+          <li><a href=./Roublard/Conspirateur/>Conspirateur</a></li>
+          <li><a href=./Roublard/Couteau%20d'Âme/>Couteau d'Âme</a></li>
+          <li><a href=./Roublard/Enquêteur/>Enquêteur</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Roublard/Escroc%20Arcanique/>Escroc Arcanique</a></li>
+          <li><a href=./Roublard/Escroc%20Temporel/>Escroc Temporel</a></li>
+          <li><a href=./Roublard/Exécuteur/>Exécuteur</a></li>
+          <li><a href=./Roublard/Fantôme/>Fantôme</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Roublard/Fier-à-bras/>Fier-à-bras</a></li>
+          <li><a href=./Roublard/Joli%20Minois/>Joli Minois</a></li>
+          <li><a href=./Roublard/Maître%20des%20Ombres/>Maître des Ombres</a></li>
+          <li><a href=./Roublard/Touché%20par%20l'Araignée/>Touché par l'Araignée</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Roublard/Traqueur%20Arachnide/>Traqueur Arachnide</a></li>
+          <li><a href=./Roublard/Tueur%20de%20Titans/>Tueur de Titans</a></li>
+          <li><a href=./Roublard/Voleur/>Voleur</a></li>
+          <li><a href=./Roublard/Éclaireur/>Éclaireur</a></li>
+        </ul>
+      </div>
+	  <a href=./Roublard/Roublard/ class="flip-card-link">Pour en savoir plus sur le Roublard ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Ranger]]
+<!-- Carte Sorcière -->
+<div class="flip-card" style="--card-color: #ca0175;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Sorcière.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Sorcière</div>
+        <div class="flip-card-subtitle">Les sorcières manipulent une magie ancienne et mystérieuse, tissant des sorts à travers rituels secrets et pactes occultes.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Trois vieilles sorcières préparent un chaudron fumant où des visions étranges se dessinent, annonçant des présages inquiétants qui les font ricaner de malice.<br/>
+Une jeune fille isolée invoque un chat noir avec un simple claquement de doigts, utilisant son lien mystique pour manipuler un enfant dans son entourage, dévoilant ainsi son pouvoir secret.<br/>
+Un elfe murmure des incantations obscures, libérant une magie maléfique qui s’enroule autour d’un orque pour le plonger dans une agonie lente, illustrant la nature sombre et tordue des sorcières qui façonnent les ténèbres par leur volonté.
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Arts de Sorcière</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Sorcière/Magie%20Blanche/>Magie Blanche</a></li>
+          <li><a href=./Sorcière/Magie%20d'Acier/>Magie d'Acier</a></li>
+          <li><a href=./Sorcière/Magie%20Violette/>Magie Violette</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Sorcière/Magie%20de%20Sang/>Magie de Sang</a></li>
+          <li><a href=./Sorcière/Magie%20du%20Thé/>Magie du Thé</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Sorcière/Magie%20Noire/>Magie Noire</a></li>
+          <li><a href=./Sorcière/Magie%20Rouge/>Magie Rouge</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Sorcière/Magie%20Technicolore/>Magie Technicolore</a></li>
+          <li><a href=./Sorcière/Magie%20Verte/>Magie Verte</a></li>
+        </ul>
+      </div>
+	  <a href=./Sorcière/Sorcière/ class="flip-card-link">Pour en savoir plus sur la Sorcière ...</a>
+    </div>
+  </div>
+</div>
 
-| Archétypes                   |
-| ---------------------------- |
-| [[Arpenteur de l'Horizon]]   |
-| [[Bandit de Grands Chemins]] |
-| [[Casseur de Sorts]]         |
-| [[Chasseur de Trophées]]     |
-| [[Chasseur]]                 |
-| [[Coureur]]                 |
-| [[Embuscade Obscur]]         |
-| [[Gardien de Drake]]         |
-| [[Gardien des Nuées]]        |
-| [[Lame d'Argent]]            |
-| [[Maître des Bêtes]]         |
-| [[Molosse du Chasseur]]      |
-| [[Né des Bêtes]]             |
-| [[Pilleur de Tombes]]        |
-| [[Tueur de Monstres]]        |
-| [[Vagabond Féérique]]        |
-| [[Vigilante]]                |
-
-# [[Roublard]]
-
-| Archétypes                |
-| ------------------------- |
-| [[Arnaqueur]]             |
-| [[Assassin]]              |
-| [[Conspirateur]]          |
-| [[Couteau d'Âme]]         |
-| [[Enquêteur]]             |
-| [[Escroc Arcanique]]      |
-| [[Escroc Temporel]]       |
-| [[Exécuteur]]             |
-| [[Fantôme]]               |
-| [[Fier-à-bras]]           |
-| [[Joli Minois]]           |
-| [[Maître des Ombres]]     |
-| [[Touché par l'Araignée]] |
-| [[Traqueur Arachnide]]    |
-| [[Tueur de Titans]]       |
-| [[Voleur]]                |
-| [[Éclaireur]]             |
-
-# [[Sorcière]]
-
-| Arts de Sorcière       |
-| ---------------------- |
-| [[Magie Blanche]]      |
-| [[Magie d'Acier]]      |
-| [[Magie de Sang]]      |
-| [[Magie du Thé]]       |
-| [[Magie Noire]]        |
-| [[Magie Rouge]]        |
-| [[Magie Technicolore]] |
-| [[Magie Verte]]        |
-| [[Magie Violette]]     |
-
-# [[Tisserand]]
-
-| Tapisseries                         |
-| ----------------------------------- |
-| [[Couture Cramoisie]]               |
-| [[Couture Mortelle]]                |
-| [[Couture d'Ombres et de Lumières]] |
-| [[Couture de Spirale Étoilée]]      |
+<!-- Carte Tisserand -->
+<div class="flip-card" style="--card-color: #0172ca;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Tisserand.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Tisserand</div>
+        <div class="flip-card-subtitle">Les tisserands manipulent les fils de la réalité pour créer des sorts complexes et contrôler le destin autour d’eux.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les tisserands sont des maîtres de la magie qui manipulent les fils invisibles de la réalité, tissant des sorts complexes et subtils pour influencer le monde qui les entoure.<br/>
+Grâce à leur habileté à entrelacer la magie avec la matière, ils peuvent altérer le destin, contrôler les événements et créer des effets aussi puissants qu’imprévisibles.<br/>
+Leur compréhension profonde des forces cosmiques leur permet de façonner la trame même du temps et de l’espace, faisant d’eux des alliés précieux et des adversaires redoutables.
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Tapisseries</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Tisserand/Couture%20Cramoisie/>Couture Cramoisie</a></li>
+          <li><a href=./Tisserand/Couture%20Mortelle/>Couture Mortelle</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Tisserand/Couture%20d'Ombres et de Lumières/>Couture d'Ombres et de Lumières</a></li>
+          <li><a href=./Tisserand/Couture%20de%20Spirale%20Étoilée/>Couture de Spirale Étoilée</a></li>
+        </ul>
+      </div>
+	  <a href=./Tisserand/Tisserand/ class="flip-card-link">Pour en savoir plus sur le Tisserand ...</a>
+    </div>
+  </div>
+</div>
