@@ -7,8 +7,8 @@ redirection: true
 ---
 
 <!-- Carte Alchimiste -->
-<div class="flip-card">
-  <div class="flip-card-inner flip-card-customcolor" style="--card-color: #F5AF41;">
+<div class="flip-card" style="--card-color: #F5AF41;">
+  <div class="flip-card-inner">
     <div class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="flip-card-textbox">
@@ -52,8 +52,8 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
 </div>
 
 <!-- Carte Artisan -->
-<div class="flip-card">
-  <div class="flip-card-inner flip-card-customcolor" style="--card-color: #1B1A1D;">
+<div class="flip-card" style="--card-color: #1B1A1D;">
+  <div class="flip-card-inner">
     <div class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Artisan.png>
       <div class="flip-card-textbox">
