@@ -4,7 +4,11 @@ hide:
   - navigation
   - toc
 redirection: true
+title: Classes
 ---
+
+Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
+Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.
 
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #F5AF41;">
@@ -95,31 +99,6 @@ Tous sont des génies créatifs, capables non seulement de fabriquer des équipe
 Un certain nombre de classes sont disponibles pour les habitants d'Eostrebis :
 
 
-# [[Alchimiste]]
-
-| Champs d'Études       | Description                                                                       |
-| --------------------- | --------------------------------------------------------------------------------- |
-| [[Amoriste]]          | Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit           |
-| [[Apothicaire]]       | Soigneurs alchimistes et herboristes                                              |
-| [[Bombeur Fou]]       | Pyromanes qui apprécient particulièrement les bombes dévastatrices                |
-| [[Forgeron de Venin]] | Experts en poison et assassins                                                    |
-| [[Ingénieur Dynamo]]  | Lanceurs de sorts en les préparant dans des outils appelées dynamos               |
-| [[Mutagéniste]]       | Transforment leurs corps à l'aide de mutagènes injectés                           |
-| [[Slime-boy]]         | Élèvent et commandent toutes sortes de slimes et de vases                         |
-| [[Xénoalchimiste]]    | Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse |
-
-# [[Artisan]]
-
-| Guildes d'Artisan                      |
-| -------------------------------------- |
-| [[Guilde des Armigères]]               |
-| [[Guilde des Calibarons]]              |
-| [[Guilde des Chevaliers Forgés]]       |
-| [[Guilde des Maestros Arcaniques]]     |
-| [[Guilde des Mécanautes]]              |
-| [[Guilde des Piègeurs]]                |
-| [[Guilde des Seigneurs du Tonnerre]]   |
-| [[Guilde des Travailleurs de la Lame]] |
 
 # [[Barbare]]
 
