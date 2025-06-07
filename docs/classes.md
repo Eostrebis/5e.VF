@@ -534,30 +534,90 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 </div>
 
 
-# [[Investigateur]]
+<!-- Carte Investigateur -->
+<div class="flip-card" style="--card-color: #325a87;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Investigateur.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Investigateur</div>
+        <div class="flip-card-subtitle">Esprit acéré et œil perçant, il traque la vérité, déjoue les complots et révèle les secrets cachés sous la surface.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les investigateurs sont des esprits méthodiques et vigilants, traquant les anomalies surnaturelles à l’aide d’indices, de savoir ésotérique et de préparation minutieuse.<br/>
+Leur quotidien oscille entre la recherche patiente de vérités enfouies et l’action brutale contre des horreurs venues d’ailleurs, qu’ils piègent avec rituels, armes bénites ou stratégies élaborées.<br/>
+Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veillant à ce que nul cauchemar n’échappe à leur vigilance.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Spécialisations Occultes</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Investigateur/Antiquaire/>Antiquaire</a></li>
+          <li><a href=./Investigateur/Archiviste/>Archiviste</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Investigateur/Détective/>Détective</a></li>
+          <li><a href=./Investigateur/Espion/>Espion</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Investigateur/Exterminateur/>Exterminateur</a></li>
+          <li><a href=./Investigateur/Inquisiteur/>Inquisiteur</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Investigateur/Medium/>Medium</a></li>
+          <li><a href=./Investigateur/Ésotériste/>Ésotériste</a></li>
+        </ul>
+      </div>
+	  <a href=./Investigateur/Investigateur/ class="flip-card-link">Pour en savoir plus sur l'Investigateur ...</a>
+    </div>
+  </div>
+</div>
 
-| Spécialisations Occultes |
-| ------------------------ |
-| [[Antiquaire]]           |
-| [[Archiviste]]           |
-| [[Détective]]            |
-| [[Espion]]               |
-| [[Exterminateur]]        |
-| [[Inquisiteur]]          |
-| [[Medium]]               |
-| [[Ésotériste]]           |
+<!-- Carte Ligateur -->
+<div class="flip-card" style="--card-color: #ff1193;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Ligateur.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Ligateur</div>
+        <div class="flip-card-subtitle">Maîtres des pactes interdits, les ligateurs manipulent des forces occultes enchaînées à leur volonté, tirant pouvoir et savoir d'entités que nul autre n’ose invoquer.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les ligateurs sont des arcanistes atypiques, qui forgent des pactes avec des entités oubliées, des esprits anciens ou des puissances bannies, en gravant leur corps et leur esprit de sceaux mystiques.<br/>
+En échange de leur propre force vitale, de fragments de mémoire ou d'obscurs serments, ils obtiennent des dons surnaturels, des révélations interdites et des pouvoirs que même les mages redoutent.<br/>
+Ces pactes, souvent instables et parfois envahissants, façonnent autant le destin du ligateur que son apparence, faisant de lui un vecteur d’énigmes, d’horreur et de prodiges.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Cultes Ésotériques</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Ligateur/L'Église%20de%20Gyx/>L'Église de Gyx</a></li>
+          <li><a href=./Ligateur/La%20Confrérie%20des%20Ascètes/>La Confrérie des Ascètes</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ligateur/La%20Loge%20de%20la%20Légion/>La Loge de la Légion</a></li>
+          <li><a href=./Ligateur/Les%20Avataristes/>Les Avataristes</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ligateur/Les%20Fidèles%20d'Ishtar/>Les Fidèles d'Ishtar</a></li>
+          <li><a href=./Ligateur/Ordre%20de%20la%20Ligature%20Cramoisie/>Ordre de la Ligature Cramoisie</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ligateur/Société%20du%20Sceau%20Stygien/>Société du Sceau Stygien</a></li>
+        </ul>
+      </div>
+	  <a href=./Ligateur/Ligateur/ class="flip-card-link">Pour en savoir plus sur le Ligateur ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Ligateur]]
 
-| Cultes Ésotériques                 |
-| ---------------------------------- |
-| [[L'Église de Gyx]]                |
-| [[La Confrérie des Ascètes]]       |
-| [[La Loge de la Légion]]           |
-| [[Les Avataristes]]                |
-| [[Les Fidèles d'Ishtar]]           |
-| [[Ordre de la Ligature Cramoisie]] |
-| [[Société du Sceau Stygien]]       |
 
 # [[Mage de Guerre]]
 
