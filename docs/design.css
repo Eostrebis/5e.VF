@@ -100,7 +100,7 @@
 /* Structure globale de la carte */
 .flip-card {
   box-sizing: border-box;
-  height: 300px;
+  height: 350px;
   margin-bottom: 40px;
 }
 
@@ -275,4 +275,13 @@
   border-top: 13px solid transparent;
   right: -10px;
   top: 0;
+}
+
+.flip-card-link {
+  display: inline-block;
+  margin-top: 20px;
+  bottom: 10px;
+  color: var(--accent);
+  text-decoration: underline;
+  font-weight: bold;
 }
