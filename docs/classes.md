@@ -350,12 +350,12 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
       <img class="flip-card-img" src=../Illustrations/Classes/Ensorceleur.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Ensorceleur</div>
-        <div class="flip-card-subtitle">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</div>
+        <div class="flip-card-subtitle">Porteur d’une magie innée et sauvage, il canalise un pouvoir brut venu de ses origines mystérieuses pour façonner le combat et la réalité.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Les druides sont les émissaires de la nature elle-même, appelant les tempêtes, la foudre ou le feu pour défendre les terres sauvages contre toute corruption ou intrusion.<br/>
-Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.<br/>
-Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants.
+Les ensorceleurs puisent leur magie d’une source innée, souvent liée à un héritage mystérieux ou une influence cosmique, qui se manifeste à travers des pouvoirs explosifs et imprévisibles.<br/>
+Leur magie sauvage éclate avec force, transformant leur être et le monde autour d’eux, parfois de manière aussi spectaculaire qu’involontaire.<br/>
+Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce dernier qui les choisit, façonnant leur destinée hors du commun.
         </div>
       </div>
     </div>
