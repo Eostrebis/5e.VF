@@ -92,6 +92,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer des équipe
           <li><a href=./Artisan/Guilde%20des%20Travailleurs%20de%20la%20Lame/>Guilde des Travailleurs de la Lame</a></li>
         </ul>
       </div>
+	  <a href=./Artisan/Artisan/ class="flip-card-link">Pour en savoir plus sur l'Artisan ...</a>
     </div>
   </div>
 </div>
@@ -143,6 +144,7 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
           <li><a href=./Barbare/Voie%20du%20Mage%20Rageur/>Voie du Mage Rageur</a></li>
         </ul>
       </div>
+	  <a href=./Barbare/Barbare/ class="flip-card-link">Pour en savoir plus sur le Barbare ...</a>
     </div>
   </div>
 </div>
@@ -191,6 +193,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
           <li><a href=./Barde/Collège%20du%20Savoir/>Collège du Savoir</a></li>
         </ul>
       </div>
+	  <a href=./Barde/Barde/ class="flip-card-link">Pour en savoir plus sur le Barde ...</a>
     </div>
   </div>
 </div>
@@ -231,6 +234,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
           <li><a href=./Capitaine/Étendard%20du%20Jolly%20Roger/>Étendard du Jolly Roger</a></li>
         </ul>
       </div>
+	  <a href=./Capitaine/Capitaine/ class="flip-card-link">Pour en savoir plus sur le Capitaine ...</a>
     </div>
   </div>
 </div>
@@ -286,6 +290,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
           <li><a href=./Clerc/Domaine%20du%20Café/>Domaine du Café</a></li>
         </ul>
       </div>
+	  <a href=./Clerc/Clerc/ class="flip-card-link">Pour en savoir plus sur le Clerc ...</a>
     </div>
   </div>
 </div>
@@ -333,35 +338,64 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 	  <li><a href=./Druide/Cercle%20des%20Spores/>Cercle des Spores</a></li>
         </ul>
       </div>
+	  <a href=./Druide/Druide/ class="flip-card-link">Pour en savoir plus sur le Druide ...</a>
+    </div>
+  </div>
+</div>
+
+<!-- Carte Ensorceleur -->
+<div class="flip-card" style="--card-color: #e5421f;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Ensorceleur.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Ensorceleur</div>
+        <div class="flip-card-subtitle">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les druides sont les émissaires de la nature elle-même, appelant les tempêtes, la foudre ou le feu pour défendre les terres sauvages contre toute corruption ou intrusion.<br/>
+Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.<br/>
+Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Origines Magiques</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Ensorceleur/Esprit%20Aberrant/>Esprit Aberrant</a></li>
+          <li><a href=./Ensorceleur/Habitant%20du%20Miroir/>Habitant du Miroir</a></li>
+	  <li><a href=./Ensorceleur/Héro%20Réincarné/>Héro Réincarné</a></li>
+          <li><a href=./Ensorceleur/Lignée%20Cendrée/>Lignée Cendrée</a></li>
+          <li><a href=./Ensorceleur/Élu%20Divin/>Élu Divin</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ensorceleur/Lignée%20Draconique/>Lignée Draconique</a></li>
+          <li><a href=./Ensorceleur/Lignée%20Épineuse/>Lignée Épineuse</a></li>
+	  <li><a href=./Ensorceleur/Lié%20par%20l'Esprit/>Lié par l'Esprit</a></li>
+          <li><a href=./Ensorceleur/Magie%20Cartoonesque/>Magie Cartoonesque</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ensorceleur/Magie%20Sauvage/>Magie Sauvage</a></li>
+          <li><a href=./Ensorceleur/Magie%20de%20l'Ombre/>Magie de l'Ombre</a></li>
+          <li><a href=./Ensorceleur/Maître%20des%20Slimes/>Maître des Slimes</a></li>
+          <li><a href=./Ensorceleur/Saucier/>Saucier</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Ensorceleur/Seigneur%20des%20Émotions/>Seigneur des Émotions</a></li>
+          <li><a href=./Ensorceleur/Sorcellerie%20de%20la%20Lune/>Sorcellerie de la Lune</a></li>
+	  <li><a href=./Ensorceleur/Sorcellerie%20des%20Tempêtes/>Sorcellerie des Tempêtes</a></li>
+          <li><a href=./Ensorceleur/Âme%20Mécanique/>Âme Mécanique</a></li>
+        </ul>
+      </div>
+	  <a href=./Ensorceleur/Ensorceleur/ class="flip-card-link">Pour en savoir plus sur l'Ensorceleur ...</a>
     </div>
   </div>
 </div>
 
 
 
-
-# [[Ensorceleur]]
-
-| Origines Magiques            |
-| ---------------------------- |
-| [[Esprit Aberrant]]          |
-| [[Habitant du Miroir]]      |
-| [[Héro Réincarné]]           |
-| [[Lignée Cendrée]]           |
-| [[Lignée Draconique]]        |
-| [[Lignée Épineuse]]          |
-| [[Lié par l'Esprit]]         |
-| [[Magie Cartoonesque]]       |
-| [[Magie Sauvage]]            |
-| [[Magie de l'Ombre]]         |
-| [[Maître des Slimes]]        |
-| [[Né d'une Mimique]]         |
-| [[Saucier]]                  |
-| [[Seigneur des Émotions]]    |
-| [[Sorcellerie de la Lune]]   |
-| [[Sorcellerie des Tempêtes]] |
-| [[Âme Mécanique]]            |
-| [[Élu Divin]]                |
 
 # [[Fusilier]]
 
