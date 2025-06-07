@@ -194,66 +194,150 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
   </div>
 </div>
 
+<!-- Carte Capitaine -->
+<div class="flip-card" style="--card-color: #34495e;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Capitaine.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Capitaine</div>
+        <div class="flip-card-subtitle">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Au cœur d’une scène épique se mêlent figures de commandement et intrigues, où une demi-elfe haute décorée et un orque robuste, aux côtés d’un maître de guilde astucieux, annoncent leur passage par trompettes et percussions.<br/>
+Dans le tumulte, les actions se succèdent : les kobolds se faufilent, un archer humain décochait ses flèches contre un dragon enragé et une mage gnomide libère une puissante énergie arcanique pendant qu’un plan se précise sous le regard féroce d’une chef de compagnie.<br/>
+Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement la cohésion de leurs troupes et se tiennent toujours aux côtés de leurs lieutenants, garantissant la victoire sans infliger le coup de grâce.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Étendards</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Capitaine/Étendard%20d'Aigle/>Étendard d'Aigle</a></li>
+          <li><a href=./Capitaine/Étendard%20de%20Bélier/>Étendard de Bélier</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Capitaine/Étendard%20de%20Corbeau/>Étendard de Corbeau</a></li>
+          <li><a href=./Capitaine/Étendard%20de%20Dragon/>Étendard de Dragon</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Capitaine/Étendard%20de%20Lion/>Étendard de Lion</a></li>
+          <li><a href=./Capitaine/Étendard%20de%20Tortue/>Étendard de Tortue</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Capitaine/Étendard%20du%20Jolly%20Roger/>Étendard du Jolly Roger</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Carte Clerc -->
+<div class="flip-card" style="--card-color: #ccd1d1;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Clerc.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Clerc</div>
+        <div class="flip-card-subtitle">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Portés par la foi, les clercs canalisent la puissance de leur divinité pour soigner les blessés, repousser les ténèbres et frapper ceux qui s’opposent à leur dogme, qu’ils le fassent par la prière, le chant ou la guerre.<br/>
+Qu’ils invoquent des malédictions contre les morts-vivants, illuminent le champ de bataille d’une lumière sacrée ou glorifient les dieux à chaque coup porté, ils agissent comme les instruments vivants de volontés divines.<br/>
+Guidés par des croyances aussi diverses que les divinités qu’ils servent, les clercs transcendent le rôle de simples prêtres, incarnant une magie sacrée aussi implacable que bienveillante.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Domaines</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Clerc/Domaine%20Arcanique/>Domaine Arcanique</a></li>
+          <li><a href=./Clerc/Domaine%20de%20l'Ordre/>Domaine de l'Ordre</a></li>
+	  <li><a href=./Clerc/Domaine%20de%20la%20Connaissance/>Domaine de la Connaissance</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Destruction/>Domaine de la Destruction</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Vie/>Domaine de la Vie</a></li>
+          <li><a href=./Clerc/Domaine%20du%20Voyage/>Domaine du Voyage</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Clerc/Domaine%20de%20la%20Folie/>Domaine de la Folie</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Forge/>Domaine de la Forge</a></li>
+	  <li><a href=./Clerc/Domaine%20de%20la%20Guerre/>Domaine de la Guerre</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Lumière/>Domaine de la Lumière</a></li>
+          <li><a href=./Clerc/Domaine%20du%20Crépuscule/>Domaine du Crépuscule</a></li>
+          <li><a href=./Clerc/Domaine%20du%20Rhum/>Domaine du Rhum</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Clerc/Domaine%20de%20la%20Mort/>Domaine de la Mort</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Nature/>Domaine de la Nature</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Paix/>Domaine de la Paix</a></li>
+	  <li><a href=./Clerc/Domaine%20de%20la%20Peste/>Domaine de la Peste</a></li>
+          <li><a href=./Clerc/Domaine%20du%20Changement/>Domaine du Changement</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Clerc/Domaine%20de%20la%20Richesse/>Domaine de la Richesse</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Tempête/>Domaine de la Tempête</a></li>
+	  <li><a href=./Clerc/Domaine%20de%20la%20Tombe/>Domaine de la Tombe</a></li>
+          <li><a href=./Clerc/Domaine%20de%20la%20Tromperie/>Domaine de la Tromperie</a></li>
+          <li><a href=./Clerc/Domaine%20du%20Café/>Domaine du Café</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Carte Druide -->
+<div class="flip-card" style="--card-color: #DAF7A6;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Druide.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Druide</div>
+        <div class="flip-card-subtitle">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les druides sont les émissaires de la nature elle-même, appelant les tempêtes, la foudre ou le feu pour défendre les terres sauvages contre toute corruption ou intrusion.<br/>
+Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.<br/>
+Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Cercles</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Druide/Cercle%20de%20Moonshine/>Cercle de Moonshine</a></li>
+          <li><a href=./Druide/Cercle%20de%20l'Incendie/>Cercle de l'Incendie</a></li>
+	  <li><a href=./Druide/Cercle%20de%20la%20Lune/>Cercle de la Lune</a></li>
+          <li><a href=./Druide/Cercle%20de%20la%20Terre/>Cercle de la Terre</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Druide/Cercle%20de%20la%20Vermine/>Cercle de la Vermine</a></li>
+          <li><a href=./Druide/Cercle%20de%20la%20Ville/>Cercle de la Ville</a></li>
+	  <li><a href=./Druide/Cercle%20de%20la%20Wyrm/>Cercle de la Wyrm</a></li>
+          <li><a href=./Druide/Cercle%20des%20Bergers/>Cercle des Bergers</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Druide/Cercle%20des%20Cailloux/>Cercle des Cailloux</a></li>
+          <li><a href=./Druide/Cercle%20des%20Profondeurs/>Cercle des Profondeurs</a></li>
+          <li><a href=./Druide/Cercle%20des%20Rêves/>Cercle des Rêves</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Druide/Cercle%20des%20Étoiles/>Cercle des Étoiles</a></li>
+          <li><a href=./Druide/Cercle%20du%20Poing/>Cercle du Poing</a></li>
+	  <li><a href=./Druide/Cercle%20des%20Spores/>Cercle des Spores</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
 
 
 
-# [[Capitaine]]
-
-| Étendards                   |
-| --------------------------- |
-| [[Étendard d'Aigle]]        |
-| [[Étendard de Bélier]]      |
-| [[Étendard de Corbeau]]     |
-| [[Étendard de Dragon]]      |
-| [[Étendard de Lion]]        |
-| [[Étendard de Tortue]]      |
-| [[Étendard du Jolly Roger]] |
-# [[Clerc]]
-
-
-| Domaines                       |
-| ------------------------------ |
-| [[Domaine Arcanique]]          |
-| [[Domaine de l'Ordre]]         |
-| [[Domaine de la Connaissance]] |
-| [[Domaine de la Destruction]]  |
-| [[Domaine de la Folie]]        |
-| [[Domaine de la Forge]]        |
-| [[Domaine de la Guerre]]       |
-| [[Domaine de la Lumière]]      |
-| [[Domaine de la Mort]]         |
-| [[Domaine de la Nature]]       |
-| [[Domaine de la Paix]]         |
-| [[Domaine de la Peste]]        |
-| [[Domaine de la Richesse]]     |
-| [[Domaine de la Tempête]]      |
-| [[Domaine de la Tombe]]        |
-| [[Domaine de la Tromperie]]    |
-| [[Domaine de la Vie]]          |
-| [[Domaine du Café]]            |
-| [[Domaine du Changement]]      |
-| [[Domaine du Crépuscule]]      |
-| [[Domaine du Rhum]]            |
-| [[Domaine du Voyage]]          |
-
-# [[Druide]]
-
-| Cercles                    |
-| -------------------------- |
-| [[Cercle de Moonshine]]    |
-| [[Cercle de l'Incendie]]   |
-| [[Cercle de la Lune]]      |
-| [[Cercle de la Terre]]     |
-| [[Cercle de la Vermine]]   |
-| [[Cercle de la Ville]]     |
-| [[Cercle de la Wyrm]]      |
-| [[Cercle des Bergers]]     |
-| [[Cercle des Cailloux]]    |
-| [[Cercle des Profondeurs]] |
-| [[Cercle des Rêves]]       |
-| [[Cercle des Spores]]      |
-| [[Cercle des Étoiles]]     |
-| [[Cercle du Poing]]        |
 
 # [[Ensorceleur]]
 
