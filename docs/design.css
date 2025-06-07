@@ -111,10 +111,25 @@
   height: 100%;
   margin-bottom: 50px;
   border-radius: 10px;
-  background-color: var(--base-block);
   box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
   transition: .6s .1s;
   transform-style: preserve-3d;
+}
+
+/* Affiche le dégradé de couleur sur la droite de la carte */
+.flip-card .flip-card-inner::before {
+	content: "";
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-image: linear-gradient(-70deg, var(--card-color), transparent 50%);
+	opacity: 0.2;
+}
+
+.flip-card:nth-child(2n) .flip-card-inner::before {
+	background-image: linear-gradient(-250deg, var(--card-color), transparent 50%);
 }
 
 /* Permet la rotation de la carte lors du survol de la souris */
@@ -133,6 +148,7 @@
   align-items: center;
   border: 1px solid #ccc;
   border-radius: 8px;
+  background-color: var(--bg);
 }
 
 .flip-card-front {
@@ -143,7 +159,6 @@
   transform: rotateX(180deg);
   padding: 20px;
   flex-direction: column;
-  background-color: var(--base-block);
 }
 
 .flip-card-img {
@@ -172,7 +187,7 @@
 
 .flip-card-title {
   font-family: 'Voces', 'Open Sans', arial, sans-serif;
-  font-size: 24px;
+  font-size: 28px;
   font-weight: bold;
   color: var(--title);
 }
@@ -188,13 +203,13 @@
   height: 5px;
   margin: 10px 0;
   border-radius: 5px;
-  background-color: #424242;
+  background-color: var(--card-color);
   transition: width 0.2s ease;
 }
 
-.flip-card-customcolor .flip-card-bar { background-color: var(--card-color); }
-.flip-card-customcolor::before { background-image: linear-gradient(-70deg, var(--card-color), transparent 50%); }
-.flip-card-customcolor:nth-child(2n)::before { background-image: linear-gradient(-250deg, var(--card-color), transparent 50%); }
+.flip-card-back .flip-card-bar {
+  width: 100px;
+}
 
 .flip-card-description {
   font-size: 15px;
