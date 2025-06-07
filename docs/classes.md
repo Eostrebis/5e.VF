@@ -394,59 +394,145 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
   </div>
 </div>
 
+<!-- Carte Fusilier -->
+<div class="flip-card" style="--card-color: #f88f10;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Fusilier.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Fusilier</div>
+        <div class="flip-card-subtitle">Tireur d’élite maniant armes à feu ou arcanotech, il frappe de loin avec précision, calme et puissance.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les fusiliers sont des combattants téméraires qui tracent leur propre voie, dédaignant les traditions au profit de la poudre, du métal et de l’instinct.<br/>
+Qu’ils dégainent leur revolver au fond d’une taverne silencieuse ou qu’ils patientent en embuscade le doigt sur la détente, ils savent que chaque tir peut changer le cours d’un combat.<br/>
+Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute épreuve et une bonne dose de chance pour traverser les pires situations.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Crédos</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Fusilier/Char%20Armé/>Char Armé</a></li>
+          <li><a href=./Fusilier/Mousquetaire/>Mousquetaire</a></li>
+	  <li><a href=./Fusilier/Toureur/>Toureur</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Fusilier/Flambeur/>Flambeur</a></li>
+          <li><a href=./Fusilier/Pistolero/>Pistolero</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Fusilier/Le%20Bon/>Le Bon</a></li>
+          <li><a href=./Fusilier/Tireur%20d'Élite/>Tireur d'Élite</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Fusilier/Maître%20du%20Kung-Pan/>Maître du Kung-Pan</a></li>
+          <li><a href=./Fusilier/Tireur%20de%20Sorts/>Tireur de Sorts</a></li>
+        </ul>
+      </div>
+	  <a href=./Fusilier/Fusilier/ class="flip-card-link">Pour en savoir plus sur le Fusilier ...</a>
+    </div>
+  </div>
+</div>
+
+<!-- Carte Gardien -->
+<div class="flip-card" style="--card-color: #000000;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Gardien.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Gardien</div>
+        <div class="flip-card-subtitle">Rempart vivant entre ses alliés et le danger, il encaisse les coups, contrôle le champ de bataille et protège ceux qui l’entourent.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les gardiens sont des défenseurs inflexibles, prêts à affronter seuls des armées entières pour protéger ce qui leur est cher, que ce soit un territoire, une cause ou une personne.<br/>
+Qu'ils soient chevaliers, bêtes furieuses ou sentinelles sylvestres, ils incarnent la force tranquille qui se dresse entre le danger et les leurs.<br/>
+Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils deviennent des remparts vivants, ancrés dans leur devoir.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Appels du Champion</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Gardien/Chasseur%20Nocturne/>Chasseur Nocturne</a></li>
+          <li><a href=./Gardien/Défenseur%20au%20Cœur%20de%20Pierre/>Défenseur au Cœur de Pierre</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Gardien/Gardien%20Enragé/>Gardien Enragé</a></li>
+          <li><a href=./Gardien/Shaman%20de%20l'Âme-Sang/>Shaman de l'Âme-Sang</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Gardien/Sentinelle%20des%20Tempêtes/>Sentinelle des Tempêtes</a></li>
+          <li><a href=./Gardien/Sentinelle%20Grise/>Sentinelle Grise</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Gardien/Protecteur%20Verdoyant/>Protecteur Verdoyant</a></li>
+        </ul>
+      </div>
+	  <a href=./Gardien/Gardien/ class="flip-card-link">Pour en savoir plus sur le Gardien ...</a>
+    </div>
+  </div>
+</div>
 
 
+<!-- Carte Guerrier -->
+<div class="flip-card" style="--card-color: #78250a;">
+  <div class="flip-card-inner">
+    <div class="flip-card-front">
+      <img class="flip-card-img" src=../Illustrations/Classes/Guerrier.png>
+      <div class="flip-card-textbox">
+        <div class="flip-card-title">Guerrier</div>
+        <div class="flip-card-subtitle">Maître d’armes polyvalent, il domine le champ de bataille par sa technique, sa discipline et sa détermination inébranlable.</div>
+        <div class="flip-card-bar"></div>
+        <div class="flip-card-description">
+Les guerriers sont des combattants d’exception, forgés par l’entraînement, la discipline et les épreuves du champ de bataille, capables de charger en première ligne comme de manœuvrer avec finesse.<br/>
+Leur diversité est leur plus grande force : qu’ils soient archers elfes, chevaliers humains, gladiateurs habiles ou mercenaires demi-orcs, tous maîtrisent les armes et les armures avec une aisance redoutable.<br/>
+Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeux ouverts — et la renvoient souvent à leurs ennemis.
+        </div>
+      </div>
+    </div>
+  <div class="flip-card-back">
+      <div class="flip-card-title">Archétypes Martiaux</div>
+      <div class="flip-card-bar"></div>
+      <div class="flip-card-linkbox">
+        <ul>
+          <li><a href=./Guerrier/Archer%20Arcanique/>Archer Arcanique</a></li>
+          <li><a href=./Guerrier/Bagarreur/>Bagarreur</a></li>
+	  <li><a href=./Guerrier/Cavalier/>Cavalier</a></li>
+          <li><a href=./Guerrier/Champion/>Champion</a></li>
+          <li><a href=./Guerrier/Monument%20Intemporel/>Monument Intemporel</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Guerrier/Chevalier%20Eldricht/>Chevalier Eldricht</a></li>
+          <li><a href=./Guerrier/Chevalier%20Runique/>Chevalier Runique</a></li>
+	  <li><a href=./Guerrier/Chevalier%20d'Os/>Chevalier d'Os</a></li>
+          <li><a href=./Guerrier/Chevalier%20du%20Dragon%20Violet/>Chevalier du Dragon Violet</a></li>
+          <li><a href=./Guerrier/Samuraï/>Samuraï</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Guerrier/Corsaire/>Corsaire</a></li>
+          <li><a href=./Guerrier/Dissonant/>Dissonant</a></li>
+          <li><a href=./Guerrier/Expert%20en%20Main%20de%20Mage/>Expert en Main de Mage</a></li>
+          <li><a href=./Guerrier/Explorateur%20de%20Donjons/>Explorateur de Donjons</a></li>
+          <li><a href=./Guerrier/Sentinelle%20Grise/>Sentinelle Grise</a></li>
+        </ul>
+        <ul>
+          <li><a href=./Guerrier/Flingueur/>Flingueur</a></li>
+          <li><a href=./Guerrier/Guerrier%20Psi/>Guerrier Psi</a></li>
+	  <li><a href=./Guerrier/Lancier%20Céleste/>Lancier Céleste</a></li>
+          <li><a href=./Guerrier/Maître%20de%20Guerre/>Maître de Guerre</a></li>
+          <li><a href=./Guerrier/Sentinelle%20des%20Tempêtes/>Sentinelle des Tempêtes</a></li>
+        </ul>
+      </div>
+	  <a href=./Guerrier/Guerrier/ class="flip-card-link">Pour en savoir plus sur le Guerrier ...</a>
+    </div>
+  </div>
+</div>
 
-# [[Fusilier]]
-
-| Crédos                 | Description                                                                    |
-| ---------------------- | ------------------------------------------------------------------------------ |
-| [[Char Armé]]          | Utilise de lourdes armes à feu montées                                         |
-| [[Flambeur]]           | Joue avec leurs vies et leur fortune ; aucune risque n'est trop grand          |
-| [[Le Bon]]             | Un protecteur respectueux de la loi qui ne faiblit jamais face au danger       |
-| [[Maître du Kung-Pan]] | Un artiste martial qui utilise les pistolets comme des armes                   |
-| [[Mousquetaire]]       | Un soldat maniant le mousquet et la rapière, guidé par l'honneur et le courage |
-| [[Pistolero]]          | Tire des six-coups au jugé à une vitesse incroyable                            |
-| [[Tireur d'Élite]]     | Un bon tireur précis et méticuleux avec une vision d'aigle                     |
-| [[Tireur de Sorts]]    | Tire des sorts aussi bien que des balles dans des bombardements destructeurs   |
-| [[Toureur]]            | Fait ricocher ses balles pour toucher la cible de n'importe quel angle         |
-
-# [[Gardien]]
-
-| Appels du Champion              | Description |
-| ------------------------------- | ----------- |
-| [[Chasseur Nocturne]]           | Allié des mort-vivants, infusé d'énergies nécromantiques |  
-| [[Défenseur au Cœur de Pierre]] | Protecteur impassable des forteresses montagnardes |
-| [[Gardien Enragé]]              | Entre en transe pour canaliser la férocité primale des bêtes | 
-| [[Shaman de l'Âme-Sang]]        | Manipule l'âme pour conjuer la magie des légendes |
-| [[Sentinelle des Tempêtes]]     | Canalise la furie des ouragans pour protéger les faibles |
-| [[Sentinelle Grise]]            | Un garde entraîné aux manœuvres qui repousse les envahisseurs des villes | 
-| [[Protecteur Verdoyant]]        | Infusé avec le pouvoir des fôrets qu'il a juré de protéger |
-
-# [[Guerrier]]
-
-| Archétypes Martiaux            |
-| ------------------------------ |
-| [[Archer Arcanique]]           |
-| [[Bagarreur]]                  |
-| [[Cavalier]]                   |
-| [[Champion]]                   |
-| [[Chevalier Eldricht]]         |
-| [[Chevalier Runique]]          |
-| [[Chevalier d'Os]]             |
-| [[Chevalier du Dragon Violet]] |
-| [[Corsaire]]                   |
-| [[Dissonant]]                  |
-| [[Expert en Main de Mage]]     |
-| [[Explorateur de Donjons]]     |
-| [[Flingueur]]                  |
-| [[Guerrier Psi]]               |
-| [[Lancier Céleste]]            |
-| [[Maître de Guerre]]           |
-| [[Monument Intemporel]]        |
-| [[Samuraï]]                    |
-| [[Sentinelle Grise]]           |
-| [[Sentinelle des Tempêtes]]    |
 
 # [[Investigateur]]
 
