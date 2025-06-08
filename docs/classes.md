@@ -23,6 +23,9 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<br/>
 Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Support</span>
+	    </div>
       </div>
     </div>
     <div class="flip-card-back">
@@ -31,12 +34,6 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
       <div class="flip-card-linkbox">
         <ul>
           <li><a href=./Alchimiste/Amoriste/>Amoriste</a>
-            <!--
-	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Support</span>
-		<span class="flip-card-tag">Ranged</span>
-	    </div>
-		-->
           </li>
           <li><a href=./Alchimiste/Apothicaire/>Apothicaire</a></li>
         </ul>
