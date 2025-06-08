@@ -282,6 +282,7 @@
   bottom: 3%;
   right: 3%;
   color: var(--accent);
+  font-size: 14px;
   text-decoration: underline;
   font-weight: bold;
 }
