@@ -879,7 +879,6 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
           <li><a href=./Occultiste/Le%20Céleste/>Le Céleste</a></li>
           <li><a href=./Occultiste/Le%20Fiélon/>Le Fiélon</a></li>
           <li><a href=./Occultiste/Le%20Gardien%20des%20Profondeurs/>Le Gardien des Profondeurs</a></li>
-          <li><a href=./Occultiste/Le%20Vous%20du%20Futur/>Le Vous du Futur</a></li>
         </ul>
         <ul>
           <li><a href=./Occultiste/L'Héritage/>L'Héritage</a></li>
@@ -909,6 +908,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
           <li><a href=./Occultiste/Le%20Portrait%20de%20Gray/>Le Portrait de Gray</a></li>
           <li><a href=./Occultiste/Le%20Seigneur%20des%20Tempêtes/>Le Seigneur des Tempêtes</a></li>
           <li><a href=./Occultiste/Le%20Symbiote/>Le Symbiote</a></li>
+          <li><a href=./Occultiste/Le%20Vous%20du%20Futur/>Le Vous du Futur</a></li>
         </ul>
       </div>
 	  <a href=./Occultiste/Occultiste/ class="flip-card-link">Pour en savoir plus sur l'Occultiste ...</a>
