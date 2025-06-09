@@ -68,6 +68,9 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
 Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<br/>
 Tous sont des génies créatifs, capables non seulement de fabriquer des équipements de maître, mais aussi d’imaginer des inventions originales et redoutables.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Utilitaire</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -110,6 +113,10 @@ Tous sont des génies créatifs, capables non seulement de fabriquer des équipe
 Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.<br/>
 Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Tank</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -161,6 +168,12 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la musique et les mots, mêlant savoir, inspiration et tromperie pour renforcer leurs alliés, troubler leurs ennemis et tisser la réalité à leur image.<br/>
 Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Utilitaire</span>
+		<span class="flip-card-tag">Social</span>
+		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag">Contrôle</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -211,6 +224,10 @@ Au cœur d’une scène épique se mêlent figures de commandement et intrigues,
 Dans le tumulte, les actions se succèdent : les kobolds se faufilent, un archer humain décochait ses flèches contre un dragon enragé et une mage gnomide libère une puissante énergie arcanique pendant qu’un plan se précise sous le regard féroce d’une chef de compagnie.<br/>
 Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement la cohésion de leurs troupes et se tiennent toujours aux côtés de leurs lieutenants, garantissant la victoire sans infliger le coup de grâce.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Social</span>
+		<span class="flip-card-tag">Support</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -252,6 +269,10 @@ Portés par la foi, les clercs canalisent la puissance de leur divinité pour so
 Qu’ils invoquent des malédictions contre les morts-vivants, illuminent le champ de bataille d’une lumière sacrée ou glorifient les dieux à chaque coup porté, ils agissent comme les instruments vivants de volontés divines.<br/>
 Guidés par des croyances aussi diverses que les divinités qu’ils servent, les clercs transcendent le rôle de simples prêtres, incarnant une magie sacrée aussi implacable que bienveillante.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Tank</span>
+		<span class="flip-card-tag">Support</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -308,6 +329,10 @@ Les druides sont les émissaires de la nature elle-même, appelant les tempêtes
 Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.<br/>
 Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Tank</span>
+		<span class="flip-card-tag">Contrôle</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -356,6 +381,10 @@ Les ensorceleurs puisent leur magie d’une source innée, souvent liée à un h
 Leur magie sauvage éclate avec force, transformant leur être et le monde autour d’eux, parfois de manière aussi spectaculaire qu’involontaire.<br/>
 Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce dernier qui les choisit, façonnant leur destinée hors du commun.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Social</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -407,6 +436,9 @@ Les fusiliers sont des combattants téméraires qui tracent leur propre voie, d�
 Qu’ils dégainent leur revolver au fond d’une taverne silencieuse ou qu’ils patientent en embuscade le doigt sur la détente, ils savent que chaque tir peut changer le cours d’un combat.<br/>
 Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute épreuve et une bonne dose de chance pour traverser les pires situations.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -450,6 +482,10 @@ Les gardiens sont des défenseurs inflexibles, prêts à affronter seuls des arm
 Qu'ils soient chevaliers, bêtes furieuses ou sentinelles sylvestres, ils incarnent la force tranquille qui se dresse entre le danger et les leurs.<br/>
 Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils deviennent des remparts vivants, ancrés dans leur devoir.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Tank</span>
+		<span class="flip-card-tag">Contrôle</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -492,6 +528,10 @@ Les guerriers sont des combattants d’exception, forgés par l’entraînement,
 Leur diversité est leur plus grande force : qu’ils soient archers elfes, chevaliers humains, gladiateurs habiles ou mercenaires demi-orcs, tous maîtrisent les armes et les armures avec une aisance redoutable.<br/>
 Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeux ouverts — et la renvoient souvent à leurs ennemis.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Tank</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -547,6 +587,11 @@ Les investigateurs sont des esprits méthodiques et vigilants, traquant les anom
 Leur quotidien oscille entre la recherche patiente de vérités enfouies et l’action brutale contre des horreurs venues d’ailleurs, qu’ils piègent avec rituels, armes bénites ou stratégies élaborées.<br/>
 Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veillant à ce que nul cauchemar n’échappe à leur vigilance.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag">Utilitaire</span>
+		<span class="flip-card-tag">Social</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -589,6 +634,9 @@ Les ligateurs sont des arcanistes atypiques, qui forgent des pactes avec des ent
 En échange de leur propre force vitale, de fragments de mémoire ou d'obscurs serments, ils obtiennent des dons surnaturels, des révélations interdites et des pouvoirs que même les mages redoutent.<br/>
 Ces pactes, souvent instables et parfois envahissants, façonnent autant le destin du ligateur que son apparence, faisant de lui un vecteur d’énigmes, d’horreur et de prodiges.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Paul</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -631,6 +679,10 @@ Les mages de guerre sont des combattants redoutables qui allient l’art de la m
 Leur entraînement rigoureux leur permet d’adapter leur puissance magique aux nécessités du combat rapproché, protégeant leurs alliés et brisant les lignes ennemies avec une précision tactique rare.<br/>
 Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent la fusion parfaite entre puissance mystique et discipline martiale.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Tank</span>
+		<span class="flip-card-tag">Dégâts</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -674,6 +726,11 @@ Les magiciens, vêtus de robes élégantes et concentrés dans leurs rituels, ca
 Leur maîtrise de la magie leur permet d’invoquer des créatures d’outre-monde, de manipuler les esprits ou de transformer la matière, révélant ainsi l’immense variété de leurs pouvoirs.<br/>
 Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité, allant jusqu’à faire pleuvoir des météores ou ouvrir des portails vers des mondes inconnus, incarnant l’essence même de la puissance magique.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Utilitaire</span>
+		<span class="flip-card-tag">Contrôle</span>
+		<span class="flip-card-tag">Support</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -727,6 +784,9 @@ Les Martyrs portent la douleur et la guérison, touchant les vies avec une grâc
 Leur parole peut faire trembler la terre et changer le cours des événements, tandis que leur foi les pousse à accomplir des actes lourds de sens, même au prix de leur vie.<br/>
 Véritables instruments des dieux, ils acceptent leur sacrifice comme une mission divine, sachant que leur fin est écrite dans les étoiles.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Gaël</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -769,6 +829,10 @@ Les moines utilisent leur énergie intérieure pour accomplir des exploits extra
 Leur maîtrise du corps et de l’esprit leur permet de combiner agilité, puissance martiale et furtivité, transcendant les limites physiques ordinaires.<br/>
 Quelle que soit leur spécialité, ils canalisent cette force magique pour augmenter leur vitesse, leur défense et leur efficacité au combat.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Utilitaire</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -822,6 +886,10 @@ Les nécromanciens puisent dans les arcanes interdites de la mort, canalisant de
 Ils commandent des légions de morts-vivants, utilisant ces créatures comme des extensions de leur propre puissance sur le champ de bataille.<br/>
 Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la désolation pour affaiblir leurs ennemis et imposer leur domination.
 	</div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Contrôle</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -864,6 +932,10 @@ Les occultistes sont des chercheurs avides de connaissances cachées dans les m�
 Ils manipulent la magie à travers des influences aussi diverses que les nobles fées, les démons, les diables et d’autres êtres extraplanaires, fusionnant savoir ancien et énergie occulte.<br/>
 Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance pour contrôler leur environnement et influencer le destin avec subtilité et force.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Contrôle</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -931,6 +1003,10 @@ Les paladins, vêtus d’armures brillantes malgré les épreuves du voyage, inc
 Cachés dans l’ombre, ils agissent avec précision et discrétion pour éliminer les ennemis du mal, usant de leur force et de leur détermination pour protéger les innocents.<br/>
 Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans la solitude face à la mort, forge en eux un pouvoir extraordinaire qui élève ces guerriers en champions bénis, unis par leur lutte contre les ténèbres.
         </div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Tank</span>
+		<span class="flip-card-tag">Dégâts</span>
+	    </div>
       </div>
     </div>
   <div class="flip-card-back">
@@ -983,6 +1059,10 @@ Un humain au regard sauvage traque silencieusement les orcs dans l’ombre des a
 Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis et des mots elfiques, utilisant l’oiseau pour distraire un ours-hibou tandis qu’il prépare son tir décisif à l’arc.<br/>
 Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les protecteurs silencieux des frontières sauvages, veillant sans relâche loin des villages, dans des forêts denses ou des plaines désolées, prêts à défendre les terres contre toutes les menaces.
       	</div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Social</span>
+	    </div>
 	</div>
     </div>
   <div class="flip-card-back">
@@ -1034,6 +1114,10 @@ Les roublards avancent toujours avec prudence et ruse, utilisant leur habileté 
 Ils sont des maîtres de l’embuscade et de l’assassinat silencieux, frappant avec précision et rapidité pour neutraliser leurs ennemis avant même qu’ils ne réalisent le danger.<br/>
 Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque faiblesse, libérant alliés ou déjouant pièges, ce qui fait d’eux des atouts essentiels dans toute aventure.
       	</div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Utilitaire</span>
+		<span class="flip-card-tag">Social</span>
+	    </div>
 	</div>
     </div>
   <div class="flip-card-back">
@@ -1085,6 +1169,9 @@ Trois vieilles sorcières préparent un chaudron fumant où des visions étrange
 Une jeune fille isolée invoque un chat noir avec un simple claquement de doigts, utilisant son lien mystique pour manipuler un enfant dans son entourage, dévoilant ainsi son pouvoir secret.<br/>
 Un elfe murmure des incantations obscures, libérant une magie maléfique qui s’enroule autour d’un orque pour le plonger dans une agonie lente, illustrant la nature sombre et tordue des sorcières qui façonnent les ténèbres par leur volonté.
       	</div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Contrôle</span>
+	    </div>
 	</div>
     </div>
   <div class="flip-card-back">
@@ -1128,6 +1215,9 @@ Les tisserands sont des maîtres de la magie qui manipulent les fils invisibles 
 Grâce à leur habileté à entrelacer la magie avec la matière, ils peuvent altérer le destin, contrôler les événements et créer des effets aussi puissants qu’imprévisibles.<br/>
 Leur compréhension profonde des forces cosmiques leur permet de façonner la trame même du temps et de l’espace, faisant d’eux des alliés précieux et des adversaires redoutables.
       	</div>
+	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag">Cendrillon ?</span>
+	    </div>
 	</div>
     </div>
   <div class="flip-card-back">
