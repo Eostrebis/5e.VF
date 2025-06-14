@@ -347,7 +347,7 @@ title: Sorts
 | Nystul's Magic Aura                  | [[Aura Magique de Nystul]]                |
 | Otiluke's Resilient Sphere           | [[Sphère Résiliente d'Otiluke]]           |
 | Otiluke's Freezing Sphere            | [[Sphère Glaciale d'Otiluke]]             |
-| Otto's Irresistible Dance            | [[Danse irrésistible]]             |
+| Otto's Irresistible Dance            | [[Danse irrésistible]]                    |
 | Pass Without Trace                   | [[Passage Sans Trace]]                    |
 | Passwall                             | [[Passe-muraille]]                        |
 | Phantasmal Force                     | [[Force Fantasmagorique]]                 |
