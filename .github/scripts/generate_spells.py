@@ -33,4 +33,7 @@ if __name__ == '__main__':
             spells_json[s[:-3]] = json_spell
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
         f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
+    print(sum(levels.values()))
+    levels.pop('')
+    print(sum(levels.values()))
     print(levels)
