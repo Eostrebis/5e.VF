@@ -556,7 +556,7 @@ title: Sorts
 | Curse of Blades                      | [[Malédiction de l'Épée]]                 |
 | Curse of Chains                      | [[Malédiction des Chaînes]]               |
 | Curse Ward                           | [[Protection contre les Malédictions]]    |
-| Dead Fog                             | [[Brouillard Mort]]                       |
+| Dead Fog                             | [[Brouillard de Mort]]                       |
 | Dead Mist Lash                       | [[Cils de la Brume Morte]]                |
 | Defenestration                       | [[Défenestration]]                        |
 | Delay                                | [[Délai]]                                 |
