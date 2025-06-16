@@ -4500,19 +4500,22 @@
         "available": []
     },
     "Bouc Émissaire de Gahoul": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "4",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "De la craie, de la peinture ou de l'huile noir",
+        "Durée": "8 Heures",
+        "Incantation": "1 Minute",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Gahoul's Scapegoat",
+        "available": [
+            "Sorcière",
+            "Nécromancien"
+        ]
     },
     "Convocation de Mort-vivant": {
         "level": "",
@@ -6388,20 +6391,19 @@
         "available": []
     },
     "Lame Frigorifique": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
         "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Matériel": "true",
+        "detailmat": "Une arme de mêlée d'une valeur d'au moins 1pa",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 5 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Frigid Blade",
         "available": [
-            "Artificier",
             "MagedeGuerre"
         ]
     },
@@ -9846,34 +9848,41 @@
         "available": []
     },
     "Frénésie": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "6",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte de sang frais",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Frenzy",
+        "available": [
+            "Nécromancien",
+            "Sorcière",
+            "Barde",
+            "Magicien"
+        ]
     },
     "Faux Spectrale de Gahoul": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (ligne de 60 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Gahoul's Spectral Scythe",
-        "available": []
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Mixture Caustique de Tasha": {
         "level": "",
@@ -11183,6 +11192,23 @@
         "englishname": "Sanctuary",
         "available": []
     },
+    "Crâne Hurlant de Gaoul": {
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un crâne",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Gahoul's Shrieking Skull",
+        "available": [
+            "Nécromancien"
+        ]
+    },
     "Peau de Pierre": {
         "level": "",
         "school": "",
@@ -12371,19 +12397,25 @@
         "available": []
     },
     "Fontaine Dansante": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "5",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une baguette de chef d'orchestre",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Frolicking Fountain",
-        "available": []
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Druide",
+            "Barde",
+            "Sorcière"
+        ]
     },
     "Invocation d'Animaux": {
         "level": "",
@@ -12658,19 +12690,21 @@
         "available": []
     },
     "Gothique Glorieux de Gahoul": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "8",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un miniature de manoir gothique valant au moins 1000 PO",
+        "Durée": "7 jours",
+        "Incantation": "1 Heure",
+        "Portée": "2 kilomètres",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Gahoul's Glorious Gothic",
-        "available": []
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Serviteur Invisible": {
         "level": "1",
