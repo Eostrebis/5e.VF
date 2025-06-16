@@ -2446,21 +2446,20 @@
         ]
     },
     "Éventreur de Chair": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
+        "level": "0",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
         "Matériel": "",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Flesh Ripper",
         "available": [
-            "Nécromancien",
-            "Artificier"
+            "Nécromancien"
         ]
     },
     "Antidétection": {
@@ -3102,21 +3101,20 @@
         "available": []
     },
     "Fléchette de Force": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un gant spécialement préparé valant 5 PO",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Force Dart",
         "available": [
-            "MagedeGuerre",
-            "Artificier"
+            "MagedeGuerre"
         ]
     },
     "Invocation d'Êtres Sylvains": {
@@ -3167,17 +3165,17 @@
         "available": []
     },
     "Arme de Force": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un gant spécialement préparé valant 5 PO",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "5 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Force Weapon",
         "available": [
             "MagedeGuerre"
@@ -4915,21 +4913,20 @@
         ]
     },
     "Bocle de Force": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "0",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un gant spécialement préparé valant 5 PO",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Force Buckler",
         "available": [
-            "MagedeGuerre",
-            "Artificier"
+            "MagedeGuerre"
         ]
     },
     "Convocation d'Élémentaire": {
@@ -8084,19 +8081,24 @@
         "available": []
     },
     "Fausse Vision": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "4",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une pincée de poudre d'une pierre précieuse",
+        "Durée": "8 Heures",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "False Vision",
-        "available": []
+        "available": [
+            "Magicien",
+            "Barde",
+            "Sorcière",
+            "Investigateur"
+        ]
     },
     "Sanctification": {
         "level": "",
@@ -9919,19 +9921,24 @@
         "available": []
     },
     "Reconstruction Hasardeuse": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une épingle et un fil",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Flawed Reconstruction",
-        "available": []
+        "available": [
+            "Nécromancien",
+            "Sorcière",
+            "Occultiste",
+            "Magicien"
+        ]
     },
     "Tir Dissimulé": {
         "level": "0",
@@ -12517,19 +12524,23 @@
         "available": []
     },
     "Lancer Franc": {
-        "level": "",
-        "school": "",
+        "level": "1",
+        "school": "Transmutation",
         "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un bout de peau de cochon",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Free Throw",
-        "available": []
+        "available": [
+            "Magicien",
+            "Ensorceleur",
+            "Barde"
+        ]
     },
     "Message": {
         "level": "0",
