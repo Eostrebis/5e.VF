@@ -11400,19 +11400,21 @@
         ]
     },
     "Emprise des Tombes": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "4",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une main rapetissée",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Grasp of the Grave",
-        "available": []
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Mot de Soin": {
         "level": "1",
