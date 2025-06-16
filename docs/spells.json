@@ -680,19 +680,22 @@
         "available": []
     },
     "Armure Consacrée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte d'huile bénie",
+        "Durée": "8 Heures",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Consecrated Armor",
+        "available": [
+            "Clerc",
+            "Investigateur"
+        ]
     },
     "Armure d'Agathys": {
         "level": "1",
@@ -1239,19 +1242,22 @@
         "available": []
     },
     "Balle Chromatique": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une arme à feu",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Chromatic Bullet",
-        "available": []
+        "available": [
+            "Paladin",
+            "Ranger"
+        ]
     },
     "Bannissement": {
         "level": "4",
@@ -1453,19 +1459,24 @@
         "available": []
     },
     "Boomérisation": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Boomering",
+        "available": [
+            "Ensorceleur",
+            "Paladin",
+            "Clerc",
+            "Martyr"
+        ]
     },
     "Bosquet des Druides": {
         "level": "",
@@ -4567,19 +4578,31 @@
         ]
     },
     "Empreinte Sanguine": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
         "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "detailmat": "Quelques centilitres de sang",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "Blood Print",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Martyr",
+            "Nécromancien",
+            "Sorcière",
+            "Barde",
+            "Clerc",
+            "Druide",
+            "Paladin",
+            "Ranger",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Emprise des Tombes": {
         "level": "",
@@ -6561,19 +6584,27 @@
         "available": []
     },
     "Indice": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une loupe et une pipe",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "Clue",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Clerc",
+            "Druide",
+            "Ranger",
+            "Magicien"
+        ]
     },
     "Infestation": {
         "level": "0",
@@ -6784,34 +6815,43 @@
         "available": []
     },
     "Invocation de Boulet de Canon": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une petite réplique de canon",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "600 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Conjure Cannonball",
-        "available": []
+        "available": [
+            "Magicien",
+            "Ensorceleur"
+        ]
     },
     "Invocation de Couverture": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une figurine de canard",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action Bonus",
+        "Portée": "10 ft.",
+        "Concentration": "true",
+        "Rituel": "true",
         "englishname": "Conjure Cover",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Druide",
+            "Ranger",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Invocation de Céleste": {
         "level": "",
@@ -7701,19 +7741,21 @@
         "available": []
     },
     "Malédiction de Corruption": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "Corruption",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Corruption Curse",
+        "available": [
+            "Sorcière"
+        ]
     },
     "Malédiction de l'Épée": {
         "level": "",
@@ -7791,19 +7833,21 @@
         "available": []
     },
     "Malédiction Liante": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "7",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une partie du corps de la cible",
+        "Durée": "Jusqu'à dissipation",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "",
-        "available": []
+        "available": [
+            "Sorcière"
+        ]
     },
     "Malédiction Persistante": {
         "level": "3",
@@ -8748,19 +8792,21 @@
         "available": []
     },
     "Offrande Brûlée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un bûcher et un animal mort",
+        "Durée": "24 Heures",
+        "Incantation": "10 minutes",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Burnt Offering",
+        "available": [
+            "Martyr"
+        ]
     },
     "Ombre d'Égarement": {
         "level": "",
