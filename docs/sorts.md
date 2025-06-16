@@ -796,4 +796,5 @@ title: Sorts
 | Temporal Potion Heaven               | [[Refuge Temporel]]                       |
 | Dragon Claw                          | [[Griffe Draconique]]                     |
 | Sleet Storm                          | [[Tempête de neige]]                      |
+| Gahoul's Shrieking Skull             | [[Crâne Hurlant de Gaoul]]                |
 
