@@ -347,19 +347,24 @@
         "available": []
     },
     "Malédiction de l'Épée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "3",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Curse of Blades",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Occultiste",
+            "Magicien"
+        ]
     },
     "Encourager l'Avarice": {
         "level": "",
@@ -849,19 +854,21 @@
         ]
     },
     "Malédiction des Chaînes": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "1",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Curse of Chains",
+        "available": [
+            "Sorcière"
+        ]
     },
     "Mot de Pouvoir Écrasant": {
         "level": "",
@@ -4065,19 +4072,28 @@
         "available": []
     },
     "Protection contre les Malédictions": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "2",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Curse Ward",
+        "available": [
+            "Investigateur",
+            "Martyr",
+            "Nécromancien",
+            "Sorcière",
+            "Clerc",
+            "Paladin",
+            "Occultiste",
+            "Magicien"
+        ]
     },
     "Beauté Fantasmagorique": {
         "level": "",
@@ -6936,21 +6952,6 @@
         "englishname": "Dark Secret",
         "available": []
     },
-    "Brouillard Mort": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "Fog Cloud",
-        "available": []
-    },
     "Projectile Guidé": {
         "level": "",
         "school": "",
@@ -7232,19 +7233,21 @@
         ]
     },
     "Cils de la Brume Morte": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Dead Mist Lash",
-        "available": []
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Anomalie Arcanique": {
         "level": "1",
@@ -8645,6 +8648,23 @@
         "Rituel": "",
         "englishname": "Fly",
         "available": []
+    },
+    "Brouillard de Mort": {
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Fog Cloud",
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Danse irrésistible": {
         "level": "",
