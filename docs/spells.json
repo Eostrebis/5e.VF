@@ -1970,19 +1970,23 @@
         "available": []
     },
     "Partie Destinée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "6",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un set de jeu",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Game of Fate",
+        "available": [
+            "Investigateur",
+            "Barde",
+            "Magicien"
+        ]
     },
     "Assistance": {
         "level": "0",
@@ -3992,19 +3996,24 @@
         "available": []
     },
     "Poussière Scintillante": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une poignée de mica en poudre",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (cône de 15 ft.)",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Glitterdust",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Suggestion de Groupe": {
         "level": "",
@@ -10441,19 +10450,24 @@
         "available": []
     },
     "Discernement Géomantique": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "3",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 100 ft.)",
+        "Concentration": "true",
+        "Rituel": "true",
+        "englishname": "Geomatique Discernment",
+        "available": [
+            "Magicien",
+            "Ranger",
+            "Druide",
+            "Investigateur"
+        ]
     },
     "Création de Magen": {
         "level": "",
