@@ -624,18 +624,18 @@
         "available": []
     },
     "Œil d'Anubis": {
-        "level": "",
-        "school": "",
+        "level": "0",
+        "school": "Nécromancie",
         "Verbal": "false",
         "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
+        "Matériel": "true",
+        "detailmat": "Un symbole sacré",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Eye of Anubis",
         "available": [
             "Clerc",
             "Nécromancien",
@@ -2166,19 +2166,23 @@
         "available": []
     },
     "Exhumation": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte de sang",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "Exhume",
-        "available": []
+        "available": [
+            "Magicien",
+            "Clerc",
+            "Nécromancien"
+        ]
     },
     "Convocation d'Aberration": {
         "level": "",
@@ -5955,19 +5959,22 @@
         ]
     },
     "Évasivité": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
+        "level": "5",
+        "school": "Transmutation",
+        "Verbal": "true",
         "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Matériel": "true",
+        "detailmat": "Un morceau de soie",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Evasiveness",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Peau d'Écorce": {
         "level": "2",
@@ -6884,18 +6891,18 @@
         "available": []
     },
     "Œil de Ra": {
-        "level": "",
-        "school": "",
+        "level": "0",
+        "school": "Évocation",
         "Verbal": "false",
         "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
+        "Matériel": "true",
+        "detailmat": "Un symbole sacré",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Eye of Ra",
         "available": [
             "Clerc"
         ]
