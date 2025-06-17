@@ -115,7 +115,7 @@ title: Dons
 | Gun-Mage Adept               | [[Adepte des Pistolets Magiques]]  |
 | Hexer                        | [[Maudisseur]]                     |
 | Homebrewer                   | [[Micro-Brasseur]]                 |
-| Iron Hero                    | [[Héro de Fer]]                    |
+| Iron Hero                    | [[Héros de Fer]]                    |
 | Marksman's Luck              | [[Chance du Tireur]]               |
 | Master Thrower               | [[Expert en Lancer]]               |
 | Precognitive                 | [[Instinctif]]                     |
