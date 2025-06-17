@@ -1,18 +1,24 @@
 {
     "Malédiction du Vide": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Hollowing Curse",
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Ensorceleur",
+            "Sorcière",
+            "Nécromancien"
+        ]
     },
     "Fusion dans la Pierre": {
         "level": "",
@@ -2397,19 +2403,23 @@
         "available": []
     },
     "Aura de Feu": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "2",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 10 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Halo of Flame",
-        "available": []
+        "available": [
+            "Martyr",
+            "Clerc",
+            "Paladin"
+        ]
     },
     "Ennemis à Foison": {
         "level": "",
@@ -2655,19 +2665,21 @@
         "available": []
     },
     "Gueule de Bois": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "2",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une petite fiole d'eau de vie",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Hangover",
-        "available": []
+        "available": [
+            "Barde"
+        ]
     },
     "Mur de Pierre": {
         "level": "",
@@ -3603,7 +3615,7 @@
         "available": []
     },
     "Mains Brûlantes": {
-        "level": "11",
+        "level": "1",
         "school": "Évocation",
         "Verbal": "true",
         "Somatique": "true",
@@ -3981,19 +3993,21 @@
         "available": []
     },
     "Cœur de Ténèbres": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "9",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un cœur d'Humanoïde préparé avec de l'onyx et des diamants d'une valeur d'au moins 10000 PO",
+        "Durée": "Jusqu'à dissipation",
+        "Incantation": "1 Heure",
+        "Portée": "Personnelle (rayon de 2 km)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Heart of Darkness",
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Poussière Scintillante": {
         "level": "3",
@@ -6991,19 +7005,22 @@
         "available": []
     },
     "Projectile Guidé": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
         "Somatique": "false",
-        "Matériel": "",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Guided Missile",
+        "available": [
+            "Clerc",
+            "Druide"
+        ]
     },
     "Décharge Occulte": {
         "level": "0",
@@ -11511,7 +11528,7 @@
         "available": []
     },
     "Duel Forcé": {
-        "level": "11",
+        "level": "1",
         "school": "Enchantement",
         "Verbal": "true",
         "Somatique": "false",
