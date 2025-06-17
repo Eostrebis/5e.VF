@@ -10,7 +10,7 @@ search:
 
 **Races.** 42/42 ![](https://geps.dev/progress/100) ✨
 
-**Sorts.** 241/786 ![](https://geps.dev/progress/31)
+**Sorts.** 245/786 ![](https://geps.dev/progress/31)
 
 **Conditions.** 16/16 ![](https://geps.dev/progress/100)
 
@@ -44,5 +44,5 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 28/10/2024@20:09
+Mis à jour pour la dernière fois le 17/06/2025@11:20
 
