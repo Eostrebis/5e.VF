@@ -2,7 +2,7 @@
 available:
   - Ensorceleur
   - Magicien
-level: 11
+level: 1
 school: Évocation
 Verbal: true
 Somatique: true

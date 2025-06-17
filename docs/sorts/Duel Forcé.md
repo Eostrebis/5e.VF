@@ -2,7 +2,7 @@
 available:
   - Paladin
   - Martyr
-level: 11
+level: 1
 school: Enchantement
 Verbal: true
 Somatique: false
