@@ -30,8 +30,6 @@ if __name__ == '__main__':
                 levels[json_spell["level"]] += 1
             else:
                 levels[json_spell["level"]] = 1
-            if int(json_spell["level"]) > 10:
-                print(spell_str)
             spells_json[s[:-3]] = json_spell
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
         f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
