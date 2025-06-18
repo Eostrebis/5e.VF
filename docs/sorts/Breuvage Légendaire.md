@@ -3,7 +3,7 @@ available:
   - Clerc
   - Barde
   - Druide
-level: 1
+level: 0
 school: Conjuration
 Verbal: true
 Somatique: true
