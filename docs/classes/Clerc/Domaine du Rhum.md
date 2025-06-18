@@ -20,7 +20,7 @@ De plus, vous maîtrisez les [[Armes Martiales]].
 
 Au niveau 1, vous pouvez utiliser votre action pour remplir votre mug de rhum ou de bière, cadeau des dieux. Vous seul pouvez boire cet alcool, mais vous ne souffrez d'aucun effets négatifs de l'alcool; même si vous rougissez et que votre élocution en pâtit, vous restez vif de corps et d'esprit.
 
-De plus, vous apprenez le cantrip [[boisson légendaire]], qui est considéré comme un cantrip de clerc pour vous, mais ne compte pas dans le nombre de cantrips que vous connaissez.
+De plus, vous apprenez le cantrip [[Breuvage Légendaire]], qui est considéré comme un cantrip de clerc pour vous, mais ne compte pas dans le nombre de cantrips que vous connaissez.
 
 ## Canal Divin : Ivresse
 
