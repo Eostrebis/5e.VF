@@ -972,25 +972,6 @@
         "englishname": "",
         "available": []
     },
-    "Boisson Légendaire": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": [
-            "Clerc",
-            "Barde",
-            "Druide"
-        ]
-    },
     "Lumières Dansantes": {
         "level": "0",
         "school": "Évocation",
@@ -3367,6 +3348,25 @@
             "Sorcière",
             "Barde",
             "Clerc"
+        ]
+    },
+    "Breuvage Légendaire": {
+        "level": "0",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un contenant, comme un mug, une chope ou une fiole, qui est rempli de liquide purifié par le sort",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Legendary Libation",
+        "available": [
+            "Clerc",
+            "Barde",
+            "Druide"
         ]
     },
     "Assaut du Lotus Noir": {
@@ -5962,17 +5962,17 @@
         "available": []
     },
     "Dagues Magiques": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "0",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Magic Daggers",
         "available": [
             "MagedeGuerre",
@@ -5980,19 +5980,21 @@
         ]
     },
     "Fouet de Vrilles": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Le bout d'un tentacule de pieuvre",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Lashing Tendrils",
-        "available": []
+        "available": [
+            "Occultiste"
+        ]
     },
     "Moquerie Cruelle": {
         "level": "0",
@@ -9016,18 +9018,18 @@
         "available": []
     },
     "Explosion d'Éclairs": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Deux morceaux de fil de cuivre",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 5 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Lightning Surge",
         "available": [
             "MagedeGuerre",
             "Nécromancien",
