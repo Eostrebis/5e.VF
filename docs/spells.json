@@ -409,19 +409,24 @@
         ]
     },
     "Intensification de la Gravité": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une pierre d'aimant et de la limaille de fer",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Intensify Gravity",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Célérité": {
         "level": "",
@@ -747,19 +752,24 @@
         "available": []
     },
     "Rechargement Instantané de Jethro": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une douille utilisée",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Jethro's Instant Reload",
+        "available": [
+            "Investigateur",
+            "Barde",
+            "Ranger",
+            "Magicien"
+        ]
     },
     "Emprisonnement": {
         "level": "",
@@ -1454,19 +1464,24 @@
         "available": []
     },
     "Pensées Intrusives": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "2",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Intrusive Thoughts",
+        "available": [
+            "Magicien",
+            "Ensorceleur",
+            "Barde",
+            "Sorcière"
+        ]
     },
     "Éclat d'Éclair": {
         "level": "",
@@ -2096,19 +2111,23 @@
         "available": []
     },
     "Prison des Griffes Glaciales": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "3",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une griffe en crystal",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Ice Claw Prison",
-        "available": []
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Ensorceleur"
+        ]
     },
     "Esprit Faible": {
         "level": "",
@@ -2894,19 +2913,23 @@
         "available": []
     },
     "Enrayement": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "2",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une pincée de poudre noire mouillée",
+        "Durée": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Jam Weapon",
-        "available": []
+        "available": [
+            "Magicien",
+            "Barde",
+            "Sorcière"
+        ]
     },
     "Châtiment du Ban": {
         "level": "5",
@@ -3683,19 +3706,23 @@
         "available": []
     },
     "Lancer de Stalactite": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un petit stalactite",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Icicle Javelin",
-        "available": []
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Invocation de fée": {
         "level": "",
@@ -4408,19 +4435,22 @@
         "available": []
     },
     "Inévitable Rocher": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "7",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une pierre presque sphérique",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Inevitable Boulder",
+        "available": [
+            "Druide",
+            "Magicien"
+        ]
     },
     "Localisation de Créature": {
         "level": "",
@@ -6248,19 +6278,22 @@
         "available": []
     },
     "Terre Affamée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Hunger of the Earth",
+        "available": [
+            "Druide",
+            "Magicien"
+        ]
     },
     "Flétrissement": {
         "level": "4",
@@ -6331,19 +6364,22 @@
         "available": []
     },
     "Impressions du Passé": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "7",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un sablier et un œil de verre valant au moins 100 PO",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Impressions of the Past",
+        "available": [
+            "Barde",
+            "Magicien"
+        ]
     },
     "Défense Magique": {
         "level": "3",
@@ -6781,19 +6817,25 @@
         "available": []
     },
     "Élimination d'Invisibilité": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "4",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une poudre d'argent valant au moins 100 PO",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 120 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Invisibility Purge",
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Concentration Surhumaine": {
         "level": "",
@@ -7546,19 +7588,21 @@
         ]
     },
     "Malédiction d'Identité": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "9",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "Jusqu'à dissipation",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Identity Curse",
+        "available": [
+            "Sorcière"
+        ]
     },
     "Chasse Diabolique": {
         "level": "",
@@ -10995,19 +11039,21 @@
         "available": []
     },
     "Sarcophage Maudit": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une sculpture miniature d'un sarcophage valant au moins 1000 PO",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Inexorable Sarcophagus",
-        "available": []
+        "available": [
+            "Nécromancien"
+        ]
     },
     "Sanctuaire Privé": {
         "level": "",
@@ -11306,19 +11352,22 @@
         ]
     },
     "Indemnisation": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte de sang",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action Bonus",
+        "Portée": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Indemnify",
-        "available": []
+        "available": [
+            "Martyr",
+            "Nécromancien"
+        ]
     },
     "Quête": {
         "level": "",
@@ -12082,19 +12131,24 @@
         "available": []
     },
     "Reprise Instantanée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Instant Replay",
+        "available": [
+            "Ranger",
+            "Paladin",
+            "Barde",
+            "Martyr"
+        ]
     },
     "Sphère de Vitriol": {
         "level": "",
