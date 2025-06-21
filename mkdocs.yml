@@ -16,6 +16,7 @@ nav:
  - Objets Magiques: magic_items.md
  - Règles Maison: Misc/House_Rules.md
  - Propriétés d'Arme: Misc/Propriétés_d'arme.md
+ - Personnage: chars.md
 
 theme:
     name: 'material'
