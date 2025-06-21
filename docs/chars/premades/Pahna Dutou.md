@@ -39,11 +39,11 @@ __Langues__ : Commun, Infernal
 
 ### Description
 
-__Âge :__ XX ans
+__Âge :__ 23 ans
 
-__Taille :__ X,XX m
+__Taille :__ 1,65 m
 
-__Poids :__ XX kg
+__Poids :__ 52 kg
 
 L'apparence de Pahna est profondément dérangeante, non pas à cause d'une monstruosité évidente, mais à cause d'un vide subtil et effrayant qui semble l'imprégner. Elle se meut avec une économie de mouvement troublante, comme une marionnette dont les fils seraient tenus par une main paresseuse, chaque geste étant délibéré mais dépourvu de l'élan naturel de la vie.
 
