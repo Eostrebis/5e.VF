@@ -17,7 +17,7 @@ __Points de vie :__ 14
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) :  +1  | ◎ Investigation (_Int_) : +2  |
 | ◎ Arcanes (_Int_) : +2      | ◎ Médecine (_Sag_) : -1       |
-| ◎ Athlétisme (_For_) : +3   | ◉ Nature (_Int_) : +4<br>     |
+| ◉ Athlétisme (_For_) : +5   | ◉ Nature (_Int_) : +4<br>     |
 | ◎ Discrétion (_Dex_) : +1   | ◉ Perception (_Sag_) : +1     |
 | ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : ±0     |
 | ◎ Escamotage (_Dex_) : +1   | ◎ Religion (_Int_) : +2       |
