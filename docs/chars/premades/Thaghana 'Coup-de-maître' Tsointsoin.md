@@ -67,6 +67,40 @@ __Né des Montagnes.__ Vous êtes résistants aux dégâts de froid. Vous vous a
 __Endurance de Pierre.__ Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+### Compétences de Classe
+
+#### Rage
+
+Vous savez vous battre en faisant appel à votre férocité primaire. Pendant votre tour, vous pouvez vous enrager pour une action bonus.
+
+Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne portez pas d'armure lourde :
+
+- Vous avez l'avantage aux jets et jets de sauvegarde de Force.
+- Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus aux dégâts en fonction de votre niveau de barbare, tel que renseigné dans la table.
+- Vous êtes résistant aux dégâts contondants, perçants et tranchants.
+
+Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
+
+Votre rage dure 1 minute. Elle termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
+
+Une fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau.
+
+#### Défense Sans Armure
+
+Tant que vous ne portez aucune armure, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et profiter de cet effet.
+
+### Equipement
+
+ - Une [[hache à deux mains]]
+ - Deux [[hachette]]
+ - Quatre [[javeline|javelines]]
+ - Un [[sac d'explorateur]]
+ - Un livre ancien sur les stratégies de guerre et de duel
+ - Une couette de fourrure
+ - Un [[kit d'herboriste]]
+ - 5 Pièces d'Or
+
 ## Historique
 
 Au sein du clan du Pic Inflexible, Thaghana était un jeune goliath comme les autres : fort, compétitif et respectueux des traditions. Il excellait dans les épreuves de force, de lancer de rocher et de chasse. On attendait de lui qu'il devienne un pilier du clan, un chasseur ou un gardien exemplaire.
@@ -83,7 +117,18 @@ Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'
 
 Aujourd'hui, Thaghana ne s'identifie plus comme Skannak, il a appris à s'accepter, à utiliser ses connaissances pour être meilleur. Chassé de son village, il a dû faire tant bien que mal pour survivre, et suit désormais une voie qui lui permettra d'assouvir ses envies de curiosité : la voie d'aventurier.
 
+### Compétence d'Historique
+
+Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider de réaliser un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette compétence un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
+
 ### Traits de Personnalité
 
+__Traits :__ Je travaille sur une grande théorie philosophique et j'adore partager mes idées. Je n'ai aucune idée de l'étiquette et des normes sociales.
+
+__Idéal :__ Les émotions ne doivent pas venir nuire à notre sens de la morale et de la vérité, ou à notre sens logique.
+
+__Lien :__ Je suis rentré en exil par la faute de mon clan, et j'espère secrètement leur montrer que ma façon de faire est la bonne.
+
+__Défaut :__ Je risquerais tout pour satisfaire ma curiosité et obtenir ne serait-ce que la plus petite connaissance.
 
 __Alignement :__ Loyal Neutre
