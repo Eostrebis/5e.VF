@@ -131,12 +131,12 @@ Sorcière sanguine, Pahna peut faciliter sa récupération magique par le sacrif
 
 ### Traits de Personnalité
 
-__Traits :__ 
+__Traits :__ Je dis de façon brute ce que les autres insinuent ou cachent. J'aime me glisser dans des endroits où personne ne peut m'atteindre.
 
-__Idéal :__ 
+__Idéal :__ J'aide ceux qui m'aident, c'est la base pour survivre
 
-__Lien :__ 
+__Lien :__ Personne ne devrait à avoir vivre les horreurs que j'ai vécues.
 
-__Défaut :__ 
+__Défaut :__ C'est pas du vol si j'en ai besoin plus que l'autre.
 
 __Alignement :__ Neutre Mauvais
