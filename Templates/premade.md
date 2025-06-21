@@ -1,19 +1,19 @@
 ## Personnage
 
-__Race :__ Volanzée
+__Race :__ 
 
-__Classe :__ Fusilier
+__Classe :__ 
 
 __Niveau :__ 1 (BM +2)
 
-__Points de vie :__ 6
+__Points de vie :__ 
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |  CON   |   INT   |   SAG   |   CHA   |
-| :-----: | :-----: | :----: | :-----: | :-----: | :-----: |
-| 16 (+3) | 16 (+3) | 7 (-2) | 11 (±0) | 11 (±0) | 12 (+1) |
-|  ◎ +3   |  ◉ +5   |  ◎ -2  |  ◎ ±0   |  ◎ ±0   |  ◉ +3   |
+|   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
+| :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
+| 17 (+3) | 12 (+1) | 15 (+2) | 15 (+2) | 8 (-1) | 10 (±0) |
+|  ◉ +5   |  ◎ ±0   |  ◎ +4   |  ◎ ±0   |  ◎ ±0  |  ◎ ±0   |
 
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
@@ -44,8 +44,6 @@ __Âge :__ XX ans
 __Taille :__ X,XX m
 
 __Poids :__ XX kg
-
-![[Awahp.png]]
 ## Compétences
 
 ### Compétences de Race

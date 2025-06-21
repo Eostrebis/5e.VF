@@ -18,11 +18,11 @@ __Vitesse :__ 30 ft.
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) :  +1  | ◎ Investigation (_Int_) : +2  |
-| ◎ Arcanes (_Int_) : +2      | ◎ Médecine (_Sag_) : -1       |
+| ◎ Arcanes (_Int_) : +2      | ◉ Médecine (_Sag_) : +1       |
 | ◉ Athlétisme (_For_) : +5   | ◉ Nature (_Int_) : +4<br>     |
 | ◎ Discrétion (_Dex_) : +1   | ◉ Perception (_Sag_) : +1     |
 | ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : +1   | ◎ Religion (_Int_) : +2       |
+| ◎ Escamotage (_Dex_) : +1   | ◉ Religion (_Int_) : +4       |
 | ◎ Histoire (_Int_) : +2     | ◎ Représentation (_Cha_) : ±0 |
 | ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : -1         |
 | ◎ Intuition (_Sag_) : -1    | ◎ Tromperie (_Cha_) : ±0<br>  |
@@ -33,9 +33,9 @@ __Vitesse :__ 30 ft.
 
 **Armes :** Armes Simples, Armes Martiales
 
-**Outils :** Aucun
+**Outils :** Kit d'Herboriste
 
-__Langues__ : Commun, Géant
+__Langues__ : Commun, Géant, Elfique
 
 ### Description
 
