@@ -1,0 +1,1 @@
+![[Zamenis.jpg]]
