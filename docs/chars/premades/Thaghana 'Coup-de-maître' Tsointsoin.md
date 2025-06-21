@@ -10,9 +10,9 @@ __Points de vie :__ 14
 | 17 (+3) | 12 (+1) | 15 (+2) | 15 (+2) | 8 (-1) | 10 (±0) |
 |  ◉ +5   |  ◎ +1   |  ◉ +4   |  ◎ +2   |  ◎ -1  |  ◎ ±0   |
 
-- ◎ Acrobaties (_Dex_) :  +1
-- ◎ Arcanes (_Int_) : +2
-- ◎ Athlétisme (_For_) : +3
+◎ Acrobaties (_Dex_) :  +1
+◎ Arcanes (_Int_) : +2
+◎ Athlétisme (_For_) : +3
 - ◎ Discrétion (_Dex_) : +1
 - ◎ Dressage (_Sag_) : -1
 - ◎ Escamotage (_Dex_) : +1
