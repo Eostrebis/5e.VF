@@ -1,8 +1,11 @@
 ## Personnage
 
 __Race :__ Goliath
+
 __Classe :__ Barbare
+
 __Niveau :__ 1 (+2)
+
 __Points de vie :__ 14
 
 |   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
@@ -13,8 +16,10 @@ __Points de vie :__ 14
 ◎ Acrobaties (_Dex_) :  +1
 ◎ Arcanes (_Int_) : +2
 ◎ Athlétisme (_For_) : +3
-- ◎ Discrétion (_Dex_) : +1
-- ◎ Dressage (_Sag_) : -1
+
+◎ Discrétion (_Dex_) : +1
+
+◎ Dressage (_Sag_) : -1
 - ◎ Escamotage (_Dex_) : +1
 - ◎ Histoire (_Int_) : +2
 - ◎ Intimidation (_Cha_) : ±0
