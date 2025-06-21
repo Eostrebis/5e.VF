@@ -4,9 +4,11 @@ __Race :__ Goliath
 
 __Classe :__ Barbare
 
-__Niveau :__ 1 (+2)
+__Niveau :__ 1 (BM +2)
 
 __Points de vie :__ 14
+
+__Vitesse :__ 30 ft.
 
 |   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
@@ -33,8 +35,23 @@ __Points de vie :__ 14
 
 **Outils :** Aucun
 
+__Langues__ : Commun, Géant
+
 ### Description
 
+__Âge :__ 26 ans
+
+__Taille :__ 2,34 m
+
+__Poids :__ 163 kg
+
+La stature de Thaghana n'est pas simplement imposante, elle est une déclaration. Autrefois peut-être une simple réalité de sa lignée, sa musculature massive et presque disproportionnée est aujourd'hui une réalité qu'il porte avec une fierté nouvelle, se tenant parfaitement droit telle une montagne de chair et de volonté.
+
+Son visage est une forteresse, aussi fermé et impénétrable que les pics de ses montagnes natales. Son regard ne trahit aucune émotion superflue ; ses yeux d'un bleu glacial ne crient pas la rage, ils analysent, jugent et dissèquent le monde avec une sévérité froide.
+
+Sa peau grise est une toile racontant une histoire d'incomplétude. Sur son torse et ses bras, les "veines" noires de son tatouage clanique s'arrêtent brusquement, des lignes brisées qui ne se rejoignent jamais, rappel permanent et visible de son bannissement. Son crâne, entièrement chauve, arbore un autre tatouage, une marque complexe et personnelle, celle de l'identité qu'il se forge loin des siens.
+
+Dénué d'armure, son torse nu ne craint ni le froid ni les coups, protégé par une peau tannée et une constitution de roc. Une simple fourrure épaisse lui sert de ceinture, retenant un pantalon brut. À cette ceinture primitive sont accrochés les deux pôles de son existence : d'un côté, le pommeau d'une hache à deux mains si démesurée qu'elle semble taillée pour un géant ; de l'autre, bien à l'abri dans une sacoche de cuir usé, le livre qui a causé sa chute et orchestré sa renaissance.
 
 
 ![[Thaghana.jpg]]
@@ -43,7 +60,13 @@ __Points de vie :__ 14
 
 ### Compétences de Race
 
+__Petit Géant.__ Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
+__Né des Montagnes.__ Vous êtes résistants aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
+
+__Endurance de Pierre.__ Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
+
+Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 ## Historique
 
 Au sein du clan du Pic Inflexible, Thaghana était un jeune goliath comme les autres : fort, compétitif et respectueux des traditions. Il excellait dans les épreuves de force, de lancer de rocher et de chasse. On attendait de lui qu'il devienne un pilier du clan, un chasseur ou un gardien exemplaire.
@@ -59,3 +82,8 @@ Le chaman du clan, le seul à connaître les pratiques extérieures, le confront
 Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'il ne peut pas désapprendre ce qu'il a appris. Il ne peut pas redevenir celui qu'il était. Serrant son livre contre lui, il est déclaré _Skannak_ - "le Banni" - et chassé des montagnes, son nom effacé des sagas du clan.
 
 Aujourd'hui, Thaghana ne s'identifie plus comme Skannak, il a appris à s'accepter, à utiliser ses connaissances pour être meilleur. Chassé de son village, il a dû faire tant bien que mal pour survivre, et suit désormais une voie qui lui permettra d'assouvir ses envies de curiosité : la voie d'aventurier.
+
+### Traits de Personnalité
+
+
+__Alignement :__ Loyal Neutre
