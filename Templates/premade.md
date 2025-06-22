@@ -68,3 +68,5 @@ __Lien :__
 __Défaut :__ 
 
 __Alignement :__ 
+
+## Conseils de jeu
