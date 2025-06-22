@@ -12,20 +12,20 @@ __Vitesse :__ 30 ft.
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 15 (+2) | 14 (+2) | 15 (+2) | 15 (+2) | 12 (+1) | 16 (+3) |
-|  ◎ +2   |  ◎ +2   |  ◎ +2   |  ◎ +2   |  ◉ +3   |  ◉ +5   |
+| 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) | 12 (+1) | 18 (+4) |
+|  ◎ +2   |  ◎ +2   |  ◎ +2   |  ◎ +3   |  ◉ +3   |  ◉ +6   |
 
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : +2  |
-| ◉ Arcanes (_Int_) : +4      | ◎ Médecine (_Sag_) : +1       |
-| ◎ Athlétisme (_For_) : +2   | ◎ Nature (_Int_) : +2<br>     |
+| ◎ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : +3  |
+| ◉ Arcanes (_Int_) : +5      | ◎ Médecine (_Sag_) : +1       |
+| ◎ Athlétisme (_For_) : +2   | ◎ Nature (_Int_) : +3<br>     |
 | ◉ Discrétion (_Dex_) : +4   | ◎ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : +1     | ◎ Persuasion (_Cha_) : +3     |
-| ◉ Escamotage (_Dex_) : +4   | ◉ Religion (_Int_) : +4       |
-| ◉ Histoire (_Int_) : +4     | ◎ Représentation (_Cha_) : +3 |
-| ◉ Intimidation (_Cha_) : +5 | ◎ Survie (_Sag_) : +1         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◎ Dressage (_Sag_) : +1     | ◎ Persuasion (_Cha_) : +4     |
+| ◉ Escamotage (_Dex_) : +4   | ◉ Religion (_Int_) : +5       |
+| ◉ Histoire (_Int_) : +5     | ◎ Représentation (_Cha_) : +4 |
+| ◉ Intimidation (_Cha_) : +6 | ◎ Survie (_Sag_) : +1         |
+| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +4<br>  |
 
 #### Maîtrises
 

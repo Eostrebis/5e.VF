@@ -6,26 +6,26 @@ __Classe :__ Guerrier
 
 __Niveau :__ 1 (BM +2)
 
-__Points de vie :__ 12
+__Points de vie :__ 13
 
 __Vitesse :__ 30 ft.
 
 |   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
-| 17 (+3) | 13 (+1) | 15 (+2) | 10 (±0) | 9 (-1) | 15 (+2) |
-|  ◉ +5   |  ◎ +1   |  ◉ +6   |  ◎ ±0   |  ◎ -1  |  ◎ +2   |
+| 18 (+4) | 13 (+1) | 16 (+3) | 10 (±0) | 9 (-1) | 16 (+3) |
+|  ◉ +6   |  ◎ +1   |  ◉ +7   |  ◎ ±0   |  ◎ -1  |  ◎ +3   |
 
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) : +1   | ◉ Investigation (_Int_) : +2  |
 | ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : -1       |
-| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : ±0<br>     |
+| ◎ Athlétisme (_For_) : +4   | ◎ Nature (_Int_) : ±0<br>     |
 | ◎ Discrétion (_Dex_) : +1   | ◎ Perception (_Sag_) : -1     |
-| ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : +2     |
+| ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : +3     |
 | ◎ Escamotage (_Dex_) : +1   | ◎ Religion (_Int_) : ±0       |
-| ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : +2 |
-| ◉ Intimidation (_Cha_) : +4 | ◉ Survie (_Sag_) : +1         |
-| ◉ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +2<br>  |
+| ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : +3 |
+| ◉ Intimidation (_Cha_) : +5 | ◉ Survie (_Sag_) : +1         |
+| ◉ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
 
 #### Maîtrises
 

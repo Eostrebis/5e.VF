@@ -6,20 +6,20 @@ __Classe :__ Gardien
 
 __Niveau :__ 1 (BM +2)
 
-__Points de vie :__ 12
+__Points de vie :__ 13
 
 __Vitesse :__ 30 ft.
 
 |   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
-| 14 (+2) | 16 (+3) | 15 (+2) | 11 (+1) | 18 (+4) | 14 (+2) |
-|  ◉ +4   |  ◎ +3   |  ◉ +4   |  ◎ +1   |  ◎ +4   |  ◉ +4   |
+| 16 (+3) | 16 (+3) | 16 (+3) | 11 (+1) | 18 (+4) | 14 (+2) |
+|  ◉ +5   |  ◎ +3   |  ◉ +5   |  ◎ +1   |  ◎ +4   |  ◉ +4   |
 
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) : +3   | ◎ Investigation (_Int_) : +1  |
 | ◎ Arcanes (_Int_) : +1      | ◉ Médecine (_Sag_) : +6       |
-| ◎ Athlétisme (_For_) : +2   | ◎ Nature (_Int_) : +1<br>     |
+| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : +1<br>     |
 | ◎ Discrétion (_Dex_) : +3   | ◉ Perception (_Sag_) : +6     |
 | ◎ Dressage (_Sag_) : +4     | ◎ Persuasion (_Cha_) : +2     |
 | ◎ Escamotage (_Dex_) : +3   | ◎ Religion (_Int_) : +1       |

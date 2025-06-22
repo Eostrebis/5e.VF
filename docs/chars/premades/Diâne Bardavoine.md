@@ -6,14 +6,14 @@ __Classe :__ Barde
 
 __Niveau :__ 1 (BM +2)
 
-__Points de vie :__ 9
+__Points de vie :__ 10
 
 __Vitesse :__ 40 ft.
 
 |  FOR   |   DEX   |   CON   |  INT   |   SAG   |   CHA   |
 | :----: | :-----: | :-----: | :----: | :-----: | :-----: |
-| 7 (-2) | 11 (±0) | 13 (+1) | 7 (-2) | 12 (+1) | 14 (+2) |
-|  ◎ -2  |  ◉ +2   |  ◎ +1   |  ◎ -2  |  ◎ +1   |  ◉ +4   |
+| 7 (-2) | 11 (±0) | 14 (+2) | 7 (-2) | 12 (+1) | 16 (+3) |
+|  ◎ -2  |  ◉ +2   |  ◎ +2   |  ◎ -2  |  ◎ +1   |  ◉ +5   |
 
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
@@ -21,11 +21,11 @@ __Vitesse :__ 40 ft.
 | ◎ Arcanes (_Int_) : -2      | ◉ Médecine (_Sag_) : +3       |
 | ◎ Athlétisme (_For_) : -2   | ◉ Nature (_Int_) : ±0<br>     |
 | ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : +1     |
-| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +2     |
+| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +3     |
 | ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : -2       |
-| ◎ Histoire (_Int_) : -2     | ◉ Représentation (_Cha_) : +4 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +1         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +2<br>  |
+| ◎ Histoire (_Int_) : -2     | ◉ Représentation (_Cha_) : +5 |
+| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +1         |
+| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
 
 #### Maîtrises
 
