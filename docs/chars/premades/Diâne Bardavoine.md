@@ -6,9 +6,9 @@ __Classe :__ Barde
 
 __Niveau :__ 1 (BM +2)
 
-__Points de vie :__ 
+__Points de vie :__ 9
 
-__Vitesse :__ 30 ft.
+__Vitesse :__ 40 ft.
 
 |  FOR   |   DEX   |   CON   |  INT   |   SAG   |   CHA   |
 | :----: | :-----: | :-----: | :----: | :-----: | :-----: |
@@ -17,25 +17,25 @@ __Vitesse :__ 30 ft.
 
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) :      | ◎ Investigation (_Int_) : ±0  |
-| ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : ±0   | ◉ Nature (_Int_) : ±0<br>     |
-| ◎ Discrétion (_Dex_) : ±0   | ◉ Perception (_Sag_) : ±0     |
-| ◎ Dressage (_Sag_) : ±0     | ◎ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : ±0       |
-| ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : ±0         |
-| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◉ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : -2  |
+| ◎ Arcanes (_Int_) : -2      | ◉ Médecine (_Sag_) : +3       |
+| ◎ Athlétisme (_For_) : -2   | ◉ Nature (_Int_) : ±0<br>     |
+| ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : +1     |
+| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +2     |
+| ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : -2       |
+| ◎ Histoire (_Int_) : -2     | ◉ Représentation (_Cha_) : +4 |
+| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +1         |
+| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +2<br>  |
 
 #### Maîtrises
 
-**Armure :** 
+**Armure :** [[Armures Légères]]
 
-**Armes :** 
+**Armes :** [[Armes simples]], [[arbalète de poing]], [[épée longue]], [[rapière]], [[arc court]]
 
-**Outils :** 
+**Outils :** [[Luth]], [[Viol]], [[Flûte]], [[Clarinette]], [[Kit de Déguisement]]
 
-__Langues__ : Commun, 
+__Langues__ : Commun, Sylvain
 
 ### Description
 
@@ -54,7 +54,13 @@ __Poids :__ XX kg
 
 ### Equipement
 
- - 
+ - Une [[rapière]]
+ - Un [[sac d'artiste]]
+ - Un [[luth]], une [[clarinette]]
+ - Une armure de [[cuir]] et une [[dague]]
+ - Une lettre de fan
+ - Un costume de scène
+ - 15 Pièces d'Or
 ## Historique
 
 La vie de Cléophée a commencé non pas par un cri, mais par une note. Une note de musique si pure et si claire qu'elle semblait faire taire le vent pour l'écouter. Elle est née et a grandi au cœur de la Prairie Chantante, une vallée isolée où les collines verdoyantes formaient un amphithéâtre naturel et où son clan de centaures vivait une existence paisible, rythmée par le soleil et les saisons.
