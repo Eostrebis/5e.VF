@@ -6,7 +6,7 @@
 | [[Atropos 'Dédé' Sibild]]                | [[Gnome#Gnome des profondeurs (Svirfneblin)\|Gnome des Profondeurs]] | [[Mage de Guerre]] |
 | [[Aude La'wen]]                          | [[Fadette]]                                                          | [[Nécromancien]]   |
 | [[Awahp Green]]                          | [[Volanzée]]                                                         | [[Fusilier]]       |
-| [[Aymer Diteranay]]                      | [[Elfe#Elfe des mers]]                                               | [[Ranger]]         |
+| [[Aymer Diteranay]]                      | [[Elfe#Elfe des mers\|Elfe des mers]]                                | [[Ranger]]         |
 | [[Cofeh Inh]]                            | [[Humain]]                                                           | [[Paladin]]        |
 | [[DAAK 'Gueule-de-Wyrm']]                | [[Kobold]]                                                           | [[Guerrier]]       |
 | [[Diâne Bardavoine]]                     | [[Centaure]]                                                         | [[Barde]]          |
@@ -21,4 +21,4 @@
 | [[Pagé 'Grand Saoul' Rissette]]          | [[Homme-Souris]]                                                     | [[Roublard]]       |
 | [[Thaghana 'Coup-de-maître' Tsointsoin]] | [[Goliath]]                                                          | [[Barbare]]        |
 | [[Torté Hou]]                            | [[Tortue]]                                                           | [[Gardien]]        |
-| [[Zamenis Saulyd]]                       | [[Elfe#Drow]]                                                        | [[Investigateur]]  |
+| [[Zamenis Saulyd]]                       | [[Elfe#Drow\|Drow]]                                                  | [[Investigateur]]  |
