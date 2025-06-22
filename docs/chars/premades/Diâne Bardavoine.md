@@ -141,3 +141,5 @@ __Lien :__ J'idolâtre un héros de vieilles légendes et je veux me comparer à
 __Défaut :__ J'ai du mal à garder mes sentiments cachés, ma langue me trahit.
 
 __Alignement :__ Chaotique Bon
+
+## Quirks de Jeu
