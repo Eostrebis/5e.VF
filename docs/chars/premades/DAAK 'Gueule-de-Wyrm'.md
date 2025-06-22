@@ -131,3 +131,9 @@ __Lien :__ Je conserve mes pensées et mes découvertes dans un journal. Ce jour
 __Défaut :__ Je parle à des esprits que je suis le seul à voir.
 
 __Alignement :__ Neutre Bon
+
+## Conseil de Jeu
+
+Sa voix est un aboiement puissant, un rugissement en miniature qui surprend toujours. Il ne suggère pas, il ordonne. Il utilise des phrases courtes et des verbes d'action. "Toi ! Bouclier ! Là !", "On avance, maintenant !", "Flanc gauche, attention !". Il peut lancer des mots en draconique au milieu de ses phrases, surtout pour des ordres ou des insultes.
+
+Quand quelque chose le dépasse (surtout une subtilité sociale), il penche la tête sur le côté avec un air perplexe, comme un chien qui entend un son étrange. Il a tendance à ramasser et à empocher discrètement de petits objets brillants qu'il trouve : un bouton, un éclat de verre, une pièce de cuivre. Pour attirer l'attention de ses compagnons (qui sont tous des géants pour lui), il ne les appelle pas toujours, il leur donne de petits coups de coude dans la jambe ou le dos.

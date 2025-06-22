@@ -140,3 +140,9 @@ __Lien :__ Personne ne devrait à avoir vivre les horreurs que j'ai vécues.
 __Défaut :__ C'est pas du vol si j'en ai besoin plus que l'autre.
 
 __Alignement :__ Neutre Mauvais
+
+## Conseils de Jeu
+
+La plupart du temps, sa voix est un monotone plat, sans inflexion ni émotion. Elle délivre les informations les plus horribles avec le calme d'un apothicaire listant ses ingrédients. Elle parle de son propre corps comme d'un objet extérieur : "Le corps requiert du repos", "La marionnette est endommagée".
+
+Ses yeux ne se fixent jamais vraiment sur son interlocuteur. Ils semblent regarder juste par-dessus leur épaule, comme si elle observait son propre double astral qui flotte à côté d'elle. Elle a l'habitude de suivre le tracé de ses anciennes cicatrices sur ses avant-bras avec l'ongle de son pouce. C'est un geste lent, répétitif, presque méditatif.

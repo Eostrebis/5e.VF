@@ -132,3 +132,13 @@ __Lien :__ Je suis rentré en exil par la faute de mon clan, et j'espère secrè
 __Défaut :__ Je risquerais tout pour satisfaire ma curiosité et obtenir ne serait-ce que la plus petite connaissance.
 
 __Alignement :__ Loyal Neutre
+
+## Conseils de jeu
+
+Sa voix est toujours un grondement de goliath, mais elle monte en tonalité et s'accélère quand il explique un concept qui le passionne. Il utilise des mots complexes tirés de son livre, puis, se rendant compte que personne ne comprend, il termine sa phrase par un grognement frustré et un geste simple. "La supériorité topographique nous offre un avantage tactique de… Argh ! On se met en haut, ils sont en bas, on tape plus fort !". Il n'attend pas son tour pour parler de ce qu'il sait. 
+
+Si un allié suggère un plan, il peut l'interrompre bruyamment, non par impolitesse, mais par pur enthousiasme : "OH ! NON, ATTENDS ! C'est exactement comme dans la 'Manœuvre de la Tenaille Brisée' ! Si tu vas là, et que moi je…". En rage, il hurle sa frustration. Ses cris de guerre sont des corrections tactiques beuglées à pleins poumons : "PAS LA TÊTE, IDIOT, LE GENOU ! IL EST DÉSÉQUILIBRÉ !", "MAIS REGARDEZ-MOI CETTE FORMATION PATHÉTIQUE !"
+
+Le livre est son bien le plus précieux. Quand il essaie de convaincre quelqu'un, il ne se contente pas de l'invoquer, il l'ouvre et le brandit, tapotant frénétiquement une page du doigt comme pour dire "Mais regarde, c'est ÉCRIT LÀ !". (Même si son interlocuteur ne sait pas lire). Quand ses compagnons ne comprennent pas un plan qu'il juge "simple", il a des tics très visibles : il se pince l'arête du nez entre deux doigts énormes, il passe sa main sur son crâne chauve, ou il peut même taper du pied comme un enfant géant.
+
+Quand il comprend soudainement quelque chose ou qu'une idée de génie lui vient, il ne le garde pas pour lui. Il peut se frapper le front avec la paume de sa main, écarquiller les yeux, et laisser échapper un "Haaa ! Mais oui !".

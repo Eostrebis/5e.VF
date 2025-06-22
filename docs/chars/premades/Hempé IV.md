@@ -125,3 +125,11 @@ __Lien :__ J'aime mon territoire et je le protégerai.
 __Défaut :__ Je suis convaincu de la grandeur de ma destinée, et aveuglé à mes manquements.
 
 __Alignement :__ Neutre Bon
+
+## Conseil de Jeu
+
+Sa voix est un baryton posé et contrôlé. Il utilise un langage soutenu et formel en permanence, même avec ses amis proches. Le vouvoiement est sa norme. Ses phrases sont bien construites, précises et vont droit au but. Il n'y a pas de fioritures.
+
+Il est passé maître dans l'art de la suggestion et de la communication indirecte. Il peut exprimer un désaccord profond avec une phrase aussi simple que "Je prends note de votre perspective avec le plus grand intérêt".
+
+Il a l'habitude de faire tourner ou de toucher sa bague sigillaire avec son pouce lorsqu'il est tendu, qu'il ment, ou qu'il doit se concentrer pour cacher un signe de ses vestiges. Il a un réflexe inconscient de redresser son dos et d'ajuster son uniforme, s'assurant que sa façade de prince discipliné est toujours parfaite.

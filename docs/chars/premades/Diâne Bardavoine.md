@@ -142,4 +142,10 @@ __Défaut :__ J'ai du mal à garder mes sentiments cachés, ma langue me trahit.
 
 __Alignement :__ Chaotique Bon
 
-## Quirks de Jeu
+## Conseil de Jeu
+
+Sa voix est toujours musicale. Elle ne parle pas, elle déclame. Une simple phrase comme "Passez moi le sel, s'il vous plaît" peut sonner comme le début d'une grande aria. Elle utilise des mots grandiloquents pour décrire des choses simples. Un repas raté est une "tragédie culinaire", un joli coucher de soleil est une "extase céleste".
+
+Quand elle est excitée ou impatiente, elle tape le sol d'un de ses sabots avant, produisant un bruit sourd et régulier. Si la conversation s'éternise ou si elle est pensive, elle peut baisser la tête et commencer à brouter distraitement une touffe d'herbe ou les feuilles d'un buisson. 
+
+Elle a tendance à éclater en chanson à des moments socialement inopportuns, souvent avec un air qui ne correspond pas du tout à la situation.

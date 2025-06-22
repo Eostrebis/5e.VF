@@ -119,3 +119,11 @@ __Lien :__ Je n'oublierai jamais le massacre de mes camarades ni les ennemis qui
 __Défaut :__ Le feu qui a dévoré mes camarades me laisse encore aujourd'hui tremblant de peur.
 
 __Alignement :__ Chaotique Neutre
+
+## Conseils de Jeu
+
+Sa voix est neutre, presque un murmure. Il parle peu et utilise un jargon de mercenaire. Il ne dit pas "là-bas", mais "à 11 heures, 40 mètres". Une mission n'est pas "dangereuse", elle est à "haut risque". Il utilise des termes comme "cible", "extraction", "périmètre", "négatif" au lieu de "non".
+
+Il a un tic où il vérifie constamment les lanières et les joints de sa prothèse. Quand il est tendu, on peut entendre un léger cliquetis ou un faible grincement métallique provenant du bras. Son regard balaie constamment les hauteurs. Dans une taverne, il cherche les poutres. Dans une forêt, la cime des arbres. Il n'est jamais à l'aise sur un sol plat et découvert. 
+
+Juste avant de prendre une décision importante, il peut avoir un imperceptible mouvement de tête, comme s'il calculait mentalement une trajectoire de vol ou une ligne de tir depuis un point en hauteur.

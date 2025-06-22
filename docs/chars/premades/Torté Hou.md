@@ -122,3 +122,9 @@ __Lien :__ La personne qui m'a sauvé de mon addiction est la raison pour laquel
 __Défaut :__ Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
 
 __Alignement :__ Loyal Bon
+
+## Conseils de Jeu
+
+Sa voix est lente, profonde et rocailleuse, comme le bruit de pierres qui roulent. Chaque mot est pesé avant d'être prononcé. Elle explique le monde à travers le prisme du jeu de cartes. "Il bluffe.", "C'est une mauvaise pioche.", "Quelle est la cote pour ce plan ?", "Ne montre pas ta main tout de suite.". Elle termine d'ailleurs souvent ses analyses par des déclarations courtes et définitives, comme un joueur qui annonce sa décision : "Je suis.", "Je passe.", "Je mise.".
+
+Ses paupières se ferment et s'ouvrent très lentement, comme une vraie tortue, ce qui lui donne un air d'immense patience et de grande sagesse (ou de fatigue). Quand quelqu'un lui parle, ses yeux ne regardent pas seulement son visage, mais aussi ses mains, sa posture, son rythme de respiration, comme si elle cherchait le "tic" qui trahirait ses intentions.

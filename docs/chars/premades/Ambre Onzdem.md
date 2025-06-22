@@ -129,3 +129,9 @@ __Lien :__ Je ferai n'importe quoi pour accomplir la mission donnée par mon die
 __Défaut :__ Je suis inflexible dans ma façon de penser.
 
 __Alignement :__ Loyal Bon
+
+## Conseils de Jeu
+
+Sa voix est douce, presque un murmure, avec de longues pauses entre les mots, comme si le simple fait de parler était un effort. Il utilise un vocabulaire philosophique et abstrait, mais peut poser des questions d'une simplicité enfantine sur le monde physique. "Cette sensation… le vent…  quelle est sa cause ?". Il parle dans un langage très propre, sans utiliser de contractions ou d'argot. Il dit "Je ne sais pas" plutôt que "J'sais pas".
+
+Il s'appuie souvent contre les murs, les arbres, ou même ses compagnons. Quand il s'assied, c'est avec un soupir de soulagement palpable. Il peut s'arrêter net au milieu d'une phrase pour toucher une fleur, regarder la pluie tomber, ou fixer la flamme d'une bougie avec une admiration intense. Ce sont des choses nouvelles pour lui.
