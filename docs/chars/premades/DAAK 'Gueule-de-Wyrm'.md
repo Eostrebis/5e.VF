@@ -29,32 +29,65 @@ __Vitesse :__ 30 ft.
 
 #### Maîtrises
 
-**Armure :** 
+**Armure :** [[Armures Légères]], [[Armures Moyennes]], [[Armures Lourdes]], [[Bouclier, Équipement|Bouclier]]
 
-**Armes :** 
+**Armes :** [[Armes Simples]], [[Armes Martiales]]
 
-**Outils :** 
+**Outils :** Aucun
 
-__Langues__ : Commun, 
+__Langues__ : Commun, Draconique, Gnome, Infernal
 
 ### Description
 
-__Âge :__ XX ans
+__Âge :__ 13 ans
 
-__Taille :__ X,XX m
+__Taille :__ 85 cm (taille P)
 
-__Poids :__ XX kg
+__Poids :__ 15 kg
+
+Malgré sa petite taille de kobold, Daak projette une silhouette étonnamment féroce, une mosaïque de dévotion draconique et de ressources tirées d'un monde hostile. Son corps est couvert d'écailles robustes d'un brun-rouille, et ses muscles sont noueux, définis par une agilité et une endurance constantes. Ses yeux, deux billes d'un jaune brillant, brûlent d'une intensité qui dément la couardise habituelle de son espèce.
+
+Son équipement, un bric-à-brac de trophées et de nécessité, raconte sa propre histoire :
+
+- **Le Heaume-Wyrm :** Sa tête n'est pas coiffée d'un simple casque, mais de la partie supérieure du crâne d'un jeune wyrm. Le museau osseux et denté descend sur son visage comme une visière menaçante, et ses propres yeux perçants brillent depuis l'ombre des grandes orbites vides. Les petites cornes naissantes du jeune dragon s'élancent vers l'arrière, lui donnant un profil à la fois noble et sauvage. Le crâne, maintenu par un système de lanières de cuir, n'est pas seulement une protection ; c'est un masque de guerre, un symbole de sa foi et l'incarnation de son nom, "Gueule-de-Wyrm". Chaque cri de guerre qu'il pousse semble résonner à travers la gueule du dragon qu'il porte.
+- **Le Bouclier-Carapace :** À son bras gauche est sanglée une grande carapace de tortue, polie par l'usage mais marquée de cicatrices de batailles. Ses motifs hexagonaux naturels forment une mosaïque de protection que ni la rouille ni le temps ne peuvent altérer. C'est un bouclier à la fois léger et incroyablement résistant, un fragment du monde naturel transformé en rempart.
+- **La Lance :** Dans sa main droite, il ne tient pas une épée ou une hache, mais une lance. L'arme semble aussi primitive que redoutable. Le manche est un bois durci au feu, droit et solide. La pointe n'est pas en métal, mais en un grand éclat d'obsidienne, taillé avec une précision mortelle, dont les arêtes noires et vitreuses brillent d'une lueur malveillante. Des lanières de cuir et peut-être une dent de dragon solitaire sont nouées juste en dessous de la pointe.
+
+Le reste de son armure est composé de pièces de cuir durci et de peaux cousues ensemble, protégeant ses points vitaux sans entraver sa vitesse. Chaque élément de son apparence, du visage de dragon qu'il porte à la pointe de sa lance, crie la même chose : Daak n'est pas un serviteur rampant. Il est le héraut d'un esprit draconique, un survivant qui a appris à porter la majesté et la fureur de ses idoles comme une seconde peau.
 
 ![[DAAK.jpg]]
 ## Compétences
 
 ### Compétences de Race
 
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Hurlement Draconique.** Pour une action bonus, vous laissez s'échapper un grondement à vos ennemis à 10 ft. Jusqu'au début de votre prochain tour, vous et vos alliés avez l'avantage à vos jets d'attaque contre les ennemis qui ont pu vous entendre. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges utilisées lorsque vous utilisez un repos long.
+
+__Défiance.__ Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
+
 ### Compétences de Classe
+
+#### Interception
+
+Lorsqu'une créature que vous pouvez voir touche une cible, autre que vous, à 5 ft. de vous avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts que prend la cible de 1d10 + votre bonus de maîtrise dégâts. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
+
+#### Second Souffle
+
+Vous possédez une endurance plus élevée que la moyenne, ce qui vous permet de vous protéger de la douleur. Pendant votre tour, vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à 1d10 + votre niveau de guerrier.
+
+Une fois que vous avez utilisé cette compétence, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
 
 ### Equipement
 
- - 
+ - Une armure de [[cuir]] et un [[arc long]] avec 20 [[Flèches (20)|flèches]]
+ - Une [[épée longue]] et un [[Bouclier, Équipement|bouclier]]
+ - Une [[lance]]
+ - Une [[arbalète légère]] et 20 [[Carreaux d'Arbalète (20)|carreaux]]
+ - Un [[sac d'explorateur]]
+ - Un [[sac de chasseur de monstres]]
+ - Une clé de la crypte familiale
+ - 1 Pièce d'Or
 ## Historique
 
 La vie de Daak a commencé par un "Yip !". C'était le son de son terrier, le langage universel de sa race. Un "Yip !" de soumission quand le jeune dragon vert, Veridiax, exigeait son tribut de babioles. Un "Yip !" d'alerte quand une ombre inconnue passait devant l'entrée de la grotte. Un "Yip !" de douleur quand un tunnel s'effondrait. Daak était un kobold exemplaire : il était petit, il était discret, et il avait peur.
@@ -77,18 +110,24 @@ Ce jour-là, Daak a compris. La peur était une maladie, et le "Yip !" en était
 
 Il a commencé à s'entraîner. Chaque jour, dans les tunnels vides, il s'exerçait à transformer le glapissement de ses poumons en quelque chose de nouveau. Sa gorge était à vif, sa voix se brisait, mais il persévéra. Le "Yip !" devint un aboiement. L'aboiement devint un grondement. Et un jour, un véritable rugissement, bref mais puissant, jaillit de sa petite poitrine, faisant vibrer les stalactites. Ce jour-là, il se baptisa "Gueule-de-Wyrm".
 
-Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit, mais celle du courage qu'on inspire.
+Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit, mais celle du courage qu'on inspire. En attendant, il a rejoint la confrérie des Chevaliers de Solamnia.
 
 ### Compétence d'Historique
 
+L'entraînement de Daak en tant que Chevalier de Solamnia lui confère les effets suivants :
+
+**Montée Rapide.** Monter ou descendre d'une monture ne vous coûte que 5 ft. de mouvement.
+
+**Frappe Précise.** Une fois par tour, lorsque vous réalisez une attaque armée de mêlée contre une créature, vous pouvez la réaliser avec avantage. Si cette attaque touche, vous ajoutez un d8 au jet de dégâts. Vous pouvez utiliser cet effet un nombre de fois égal à votre bonus de maîtrise, mais la charge n'est dépensée que si l'attaque touche. Vous regagnez toutes les charges utilisées lorsque vous terminez un repos long.
+
 ### Traits de Personnalité
 
-__Traits :__ 
+__Traits :__ Je n'ai aucune confiance dans les entités divines. J'aime lire et apprendre de la poésie. Cela m'aide à rester calme et me procure quelques rares instants de bonheur.
 
-__Idéal :__ 
+__Idéal :__ J'aide ceux qui en ont besoin, quoi qu'il m'en coûte.
 
-__Lien :__ 
+__Lien :__ Je conserve mes pensées et mes découvertes dans un journal. Ce journal est mon héritage
 
-__Défaut :__ 
+__Défaut :__ Je parle à des esprits que je suis le seul à voir.
 
-__Alignement :__ 
+__Alignement :__ Neutre Bon
