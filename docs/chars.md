@@ -18,7 +18,9 @@
 | [[Margaux Tji'la]]                       | [[Homme-Lézard]]                                                     | [[Tisserand]]      |
 | [[Mousso Kola]]                          | [[Changelin]]                                                        | [[Magicien]]       |
 | [[Norberg le Creux]]                     | [[Hobgobelin]]                                                       | [[Druide]]         |
-| [[Pagé 'Grand Saoul' Rissette]]          | [[Homme-Souris]]                                                     | [[Roublard]]       |
+| [[Pagé 'Grand Saoul' Rissette]]          | [[Homme-Souris]]                                                     | [[Roublard]]<br>   |
+| [[Pahna Dutou]]                          | [[Tieflin]]                                                          | [[Sorcière]]       |
+| [[Porkoa Meuvah]]                        | [[Nain]]                                                             |  [[Artisan]]       |
 | [[Thaghana 'Coup-de-maître' Tsointsoin]] | [[Goliath]]                                                          | [[Barbare]]        |
 | [[Torté Hou]]                            | [[Tortue]]                                                           | [[Gardien]]        |
 | [[Zamenis Saulyd]]                       | [[Elfe#Drow\|Drow]]                                                  | [[Investigateur]]  |
