@@ -83,7 +83,7 @@ Vous connaissez quatre sorts de niveau 1 :
 
  - [[Compréhension des Langues]]
  - [[Mot de Soin]]
- - [[Murmures Dissonants]]
+ - [[Détection de la Magie]]
  - [[Vague Tonnante]]
 
 Votre caractéristique d'incantation est le Charisme.
