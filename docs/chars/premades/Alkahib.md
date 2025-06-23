@@ -18,9 +18,9 @@ __Vitesse :__ 30 ft.
 | Compétences                 |                               |
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) :      | ◎ Investigation (_Int_) : ±0  |
-| ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
+| ◎ Arcanes (_Int_) : ±0      | ◉ Médecine (_Sag_) : ±0       |
 | ◎ Athlétisme (_For_) : ±0   | ◎ Nature (_Int_) : ±0<br>     |
-| ◎ Discrétion (_Dex_) : ±0   | ◉ Perception (_Sag_) : ±0     |
+| ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : ±0     |
 | ◎ Dressage (_Sag_) : ±0     | ◎ Persuasion (_Cha_) : ±0     |
 | ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : ±0       |
 | ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : ±0 |
@@ -73,13 +73,15 @@ Ce qui jaillit de lui ne fut pas une brise, mais un rugissement.
 
 Une chaleur intense emplit sa poitrine, et une sphère de feu et de lumière explosa devant lui dans un fracas assourdissant. La détonation, sacrilège dans ce monde de silence, le projeta en arrière. Son premier vol ne fut pas une danse gracieuse, mais une chute chaotique, une dégringolade de plumes ébouriffées et de cris de surprise, heureusement amortie par une épaisse congère de neige plusieurs dizaines de mètres plus bas.
 
-Ce jour-là, l'âme du Phénix en lui s'était éveillée. Son don n'était pas la magie subtile et silencieuse de ses ancêtres, mais une force primale, explosive et incontrôlable. Sa vie devint un paradoxe. Son esprit était un havre de paix et de sagesse, mais son corps était une bombe à retardement. Chaque tentative de magie délicate était un risque : allumer une bougie pouvait faire exploser le chandelier, déplacer un livre pouvait le réduire en cendres. Son vol, autrefois prometteur, devint une affaire de "crashs contrôlés", son corps de Hoom luttant constamment contre les sursauts d'énergie qui le déséquilibraient.
+Ce jour-là, la magie primitive en lui s'était éveillée. Son don n'était pas la magie subtile et silencieuse de ses ancêtres, mais une force primale, explosive et incontrôlable. Sa vie devint un paradoxe. Son esprit était un havre de paix et de sagesse, mais son corps était une bombe à retardement. Chaque tentative de magie délicate était un risque : allumer une bougie pouvait faire exploser le chandelier, déplacer un livre pouvait le réduire en cendres. Son vol, autrefois prometteur, devint une affaire de "crashs contrôlés", son corps de Hoom luttant constamment contre ses émotions instables.
 
 Il était devenu une anomalie, une tempête dans une bibliothèque. Avec une profonde tristesse, mais aussi une grande sagesse, il comprit qu'il ne pouvait plus rester. Il était un danger pour le mode de vie paisible de son peuple. Les anciens du conclave, le cœur lourd, furent d'accord. Sa quête de maîtrise ne pouvait se faire dans le silence de leur montagne.
 
-Hoom prit son envol une dernière fois, non pas comme un exilé, mais comme un pèlerin. Il partit à la recherche de réponses, cherchant à comprendre cette âme de feu qui partageait son corps. Il est un philosophe à la recherche de la plus grande des vérités : la connaissance de soi. Il parcourt le monde, offrant sa sagesse profonde à ceux qu'il rencontre, tout en s'excusant poliment pour les explosions occasionnelles. Il est Maître Hoom, une énigme volante, une tempête silencieuse cherchant à transformer le rugissement de son pouvoir en une chanson harmonieuse.
+Hoom prit son envol une dernière fois, non pas comme un exilé, mais comme un pèlerin. Il partit à la recherche de réponses, cherchant à comprendre l'impact de ses émotions sur sa magie. Il est un philosophe à la recherche de la plus grande des vérités : la connaissance de soi. Il parcourt le monde, offrant sa sagesse profonde à ceux qu'il rencontre, tout en s'excusant poliment pour les explosions occasionnelles. Il est Maître Alkahib, une énigme volante, une tempête silencieuse cherchant à transformer le rugissement de son pouvoir en une chanson harmonieuse.
 
 ### Compétence d'Historique
+
+Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Quand vous échouez à un jet de sauvegarde de Dextérité vous pouvez utiliser votre réaction pour libérer une vague d'énergie émotionnelle brute. Chaque créature dans un rayon de 10 pieds autour de vous (y compris vous-même et vos alliés) doit faire un jet de sauvegarde de Force contre le DD de sauvegarde de vos sorts. En cas d'échec, une créature subit des dégâts de force (force damage) égaux à votre niveau d'ensorceleur et est repoussée de 10 pieds loin de vous. En cas de succès, elle ne subit que la moitié des dégâts et n'est pas repoussée. Si vous échouez ce jet de sauvegarde, vous êtes mis [[au sol]] par la déflagration. Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations après un repos long.
 
 ### Traits de Personnalité
 
@@ -91,6 +93,6 @@ __Lien :__
 
 __Défaut :__ 
 
-__Alignement :__ 
+__Alignement :__ Neutre Bon
 
 ## Conseils de jeu
