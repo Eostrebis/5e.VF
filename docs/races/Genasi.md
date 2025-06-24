@@ -1,6 +1,6 @@
 ### Description
 
-Rares sont ceux qui considèrent les autres plans que le plan matériel, et ceux qui le font les considère comme de lointains royaumes distants, mais l'influence planaire peut être ressentie à travers le monde. Cela se manifeste parfois sous la forme d'individu qui, par le biais d'accidents ou de naissance, possède un peu de pouvoir planaire dans le sang. Les genasis font partie de ces individus, étant la progéniture entre les génies et les mortels.
+Rares sont ceux qui considèrent les autres plans que le plan matériel, et ceux qui le font les considèrent comme de lointains royaumes distants, mais l'influence planaire peut être ressentie à travers le monde. Cela se manifeste parfois sous la forme d'individu qui, par le biais d'accidents ou de naissance, possède un peu de pouvoir planaire dans le sang. Les genasis font partie de ces individus, étant la progéniture entre les génies et les mortels.
 
 Les Plans Élémentaires sont souvent inhabitables pour les natifs du Plan Matériel : une terre sans cesse en mouvement, des flammes ardentes, des ciels sans limites et des océans sans fond rendent même le tourisme de ces endroits extrêmement dangereux. Les puissants génies, en revanche, n'ont pas tant de problèmes pour s'aventurer dans le monde mortel. Ils s'adaptent parfaitement aux éléments mélangés du Plan Matériel, et ils le visitent parfois — de par leur volonté, ou en y étant magiquement forcés. Quelques génies adoptent une apparence humaine et voyagent incognito.
 
