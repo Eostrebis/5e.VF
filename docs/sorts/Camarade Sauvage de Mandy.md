@@ -21,3 +21,5 @@ En combat, le roturier tire sa propre initiative et agit pendant son propre tour
 La durée du sort dépend de quand et où il a été lancé. S'il a été lancé à un endroit où le temps se déroule normalement, le sort dure jusqu'à la douzième sonnerie de minuit, aussi longtemps que cela soit. Sinon, le sort dure 24 heures. 
 
 La transformation dure pendant la durée du sort, ou jusqu'à ce que la cible tombe à 0 points de vie et meurt. Lorsqu'elle revient à sa vraie forme, la créature revient au nombre de points de vie qu'elle avait avant de se transformer. Si elle revient à sa forme à cause de dégâts qui la font tomber à 0 point de vie, tout dégât en excès est porté sur sa forme originale. Tant que les dégâts en excès ne font pas tomber la forme normale à 0 point de vie, la créature ne tombe pas [[inconscient|inconsciente]].
+
+__Aux Niveau Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez transformer un animal supplémentaire par niveau d'emplacement au-delà du niveau 4.
