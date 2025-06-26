@@ -2025,19 +2025,21 @@
         "available": []
     },
     "Châtiment Perforant": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
+        "level": "2",
+        "school": "Évocation",
+        "Verbal": "true",
         "Somatique": "false",
-        "Matériel": "",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Perforating Smite",
+        "available": [
+            "Paladin"
+        ]
     },
     "Repli Expéditif": {
         "level": "1",
@@ -7624,17 +7626,17 @@
         "available": []
     },
     "Pause !": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
+        "level": "0",
+        "school": "Transmutation",
+        "Verbal": "true",
         "Somatique": "false",
-        "Matériel": "",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Moment to Think",
         "available": [
             "MagedeGuerre",
@@ -9245,19 +9247,23 @@
         "available": []
     },
     "Paradoxe": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "9",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Paradox",
-        "available": []
+        "available": [
+            "Magicien",
+            "Ensorceleur",
+            "Occultiste"
+        ]
     },
     "Protection Calculée": {
         "level": "3",
@@ -10140,19 +10146,26 @@
         "available": []
     },
     "Lambda": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "2",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "Nondescript",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Nécromancien",
+            "Sorcière",
+            "Barde",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Façonnage de l'Eau": {
         "level": "0",
