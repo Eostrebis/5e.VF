@@ -2148,19 +2148,22 @@
         ]
     },
     "Tempête de Fleurs": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une poignée de pétales de fleur",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Petal Storm",
+        "available": [
+            "Druide",
+            "Sorcière"
+        ]
     },
     "Marche sur le Vent": {
         "level": "",
@@ -4173,19 +4176,23 @@
         ]
     },
     "Beauté Fantasmagorique": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "3",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Phantasmal Beauty",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Magicien"
+        ]
     },
     "Manoir Somptueux": {
         "level": "",
@@ -6194,19 +6201,21 @@
         "available": []
     },
     "Cheveux Préhensiles": {
-        "level": "",
-        "school": "",
+        "level": "1",
+        "school": "Transmutation",
         "Verbal": "false",
         "Somatique": "false",
         "Matériel": "",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Prehensile Hair",
+        "available": [
+            "Sorcière"
+        ]
     },
     "Tourbillon de Poussière": {
         "level": "",
@@ -6879,19 +6888,25 @@
         ]
     },
     "Polychirie": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une paire de brassards",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Polybrachia",
-        "available": []
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Ranger",
+            "Paladin",
+            "Martyr"
+        ]
     },
     "Image Silencieuse": {
         "level": "",
@@ -9217,19 +9232,21 @@
         "available": []
     },
     "Frappe Divine": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte d'huile de lanterne et une pincée de souffre",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Pillar of Salt",
-        "available": []
+        "available": [
+            "Martyr"
+        ]
     },
     "Feu de Forêt": {
         "level": "",
@@ -10568,19 +10585,28 @@
         "available": []
     },
     "Protection contre la Balistique": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "2",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "true",
         "Rituel": "",
         "englishname": "Protection from Ballistics",
-        "available": []
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Ranger",
+            "Paladin",
+            "Druide",
+            "Clerc",
+            "Nécromancien",
+            "Martyr"
+        ]
     },
     "Domination de Bête": {
         "level": "",
@@ -11571,19 +11597,22 @@
         "available": []
     },
     "Malédiction du Pharaon": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "5",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "Jusqu'à dissipation",
+        "Incantation": "1 Action",
+        "Portée": "10 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Pharaoh's Curse",
+        "available": [
+            "Nécromancien",
+            "Sorcière"
+        ]
     },
     "Lames Éblouissantes": {
         "level": "",
@@ -11759,18 +11788,18 @@
         "available": []
     },
     "Grappin Fantôme": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "1",
+        "school": "Evocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Phantom Grapnel",
         "available": [
             "MagedeGuerre",
             "Artificier"
