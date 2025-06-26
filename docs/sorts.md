@@ -609,7 +609,7 @@ title: Sorts
 | Jam Weapon                           | [[Enrayement]]                            |
 | Jethro's Instant Reload              | [[Rechargement Instantané de Jethro]]     |
 | Lashing Tendrils                     | [[Fouet de Vrilles]]                      |
-| Legendary Libation                   | [[Breuvage Légendaire]]                    |
+| Legendary Libation                   | [[Breuvage Légendaire]]                   |
 | Lightning Surge                      | [[Explosion d'Éclairs]]                   |
 | Magic Daggers                        | [[Dagues Magiques]]                       |
 | Mandy's Enchanted Carriage           | [[Carrosse Enchanté de Mandy]]            |
