@@ -3041,18 +3041,18 @@
         "available": []
     },
     "Vol de Vie Mineur": {
-        "level": "",
-        "school": "",
+        "level": "0",
+        "school": "Nécromancie",
         "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "Fly",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Minor Life Steal",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -5418,19 +5418,21 @@
         "available": []
     },
     "Camarade Sauvage de Mandy": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une petite cloche à serviteur",
+        "Durée": "Spéciale",
+        "Incantation": "1 Minute",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Mandy's Feral Follower",
-        "available": []
+        "available": [
+            "Sorcière"
+        ]
     },
     "Immolation": {
         "level": "",
@@ -8007,19 +8009,22 @@
         ]
     },
     "Attrait des Profondeurs": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un petit bout de ruban noir",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "15 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Might of the Abyss",
-        "available": []
+        "available": [
+            "Clerc",
+            "Nécromancien"
+        ]
     },
     "Arrêt du Temps": {
         "level": "",
@@ -8428,19 +8433,21 @@
         "available": []
     },
     "Robe Fabuleuse de Mandy": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une pantoufle de verre valant au moins 100 PO",
+        "Durée": "Spéciale",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Mandy's Marvelous Dress",
-        "available": []
+        "available": [
+            "Sorcière"
+        ]
     },
     "Piqûre Mentale": {
         "level": "0",
@@ -11319,19 +11326,21 @@
         "available": []
     },
     "Carrosse Enchanté de Mandy": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un légume",
+        "Durée": "Spéciale",
+        "Incantation": "1 Minute",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Mandy's Enchanted Carriage",
+        "available": [
+            "Sorcière"
+        ]
     },
     "Agrandissement ou Rapetissement": {
         "level": "2",
@@ -11672,19 +11681,22 @@
         "available": []
     },
     "Escarmouche de Groupe": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "7",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une branche",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 30 ft.)",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Mass Skirmish",
-        "available": []
+        "available": [
+            "Magicien",
+            "Clerc"
+        ]
     },
     "Façonnage de la Pierre": {
         "level": "",
@@ -12600,19 +12612,25 @@
         "available": []
     },
     "Mémorisation": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "1",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une page écrite et un bout de ficelle d'argent valant 10 PO, que le sort consomme",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Memorize",
+        "available": [
+            "Investigateur",
+            "Nécromancien",
+            "Barde",
+            "Clerc",
+            "Magicien"
+        ]
     },
     "Convocation d'Esprit Draconique": {
         "level": "",
