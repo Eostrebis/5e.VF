@@ -10,7 +10,7 @@ search:
 
 **Races.** 42/42 ![](https://geps.dev/progress/100) ✨
 
-**Sorts.** 259/786 ![](https://geps.dev/progress/33)
+**Sorts.** 266/786 ![](https://geps.dev/progress/34)
 
 **Conditions.** 16/16 ![](https://geps.dev/progress/100)
 
