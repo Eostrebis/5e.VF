@@ -639,7 +639,7 @@ title: Sorts
 | Ruby-Eye Curse                       | [[Malédiction de l’Œil Rouge]]            |
 | Rumbling Charge                      | [[Charge Roulée]]                         |
 | Rumor                                | [[Rumeur]]                                |
-| Rusting Grapsh                       | [[Poigne Rouillante]]                     |
+| Rusting Grasp                        | [[Poigne Rouillante]]                     |
 | Scrutinize Foe                       | [[Examen d'un Adversaire]]                |
 | Séance                               | [[Séance]]                                |
 | Skirmish                             | [[Escarmouche]]                           |
