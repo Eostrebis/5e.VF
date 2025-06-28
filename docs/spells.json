@@ -55,19 +55,24 @@
         ]
     },
     "Rumeur": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
+        "level": "1",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
         "Matériel": "",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 100 ft.)",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "Rumor",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Magicien"
+        ]
     },
     "Rune Fortifiante": {
         "level": "1",
@@ -3276,19 +3281,24 @@
         ]
     },
     "Poigne Rouillante": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Rusting Grasp",
-        "available": []
+        "available": [
+            "Magicien",
+            "Druide",
+            "Sorcière",
+            "Nécromancien"
+        ]
     },
     "Aspersion d'Acide": {
         "level": "0",
@@ -6733,19 +6743,23 @@
         "available": []
     },
     "Séance": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une boule de cristal, un jeu de tarot ou une planche de ouija",
         "Durée": "",
         "Incantation": "",
         "Portée": "",
         "Concentration": "",
         "Rituel": "",
         "englishname": "",
-        "available": []
+        "available": [
+            "Sorcière",
+            "Nécromancien",
+            "Investigateur"
+        ]
     },
     "Feuille Morte": {
         "level": "1",
@@ -11498,19 +11512,24 @@
         ]
     },
     "Examen d'un Adversaire": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "5",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Scrutinize Foe",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Nécromancien",
+            "Clerc",
+            "Magicien"
+        ]
     },
     "Invocation de Couverture": {
         "level": "1",
