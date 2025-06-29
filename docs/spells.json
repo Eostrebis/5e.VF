@@ -604,19 +604,22 @@
         "available": []
     },
     "Appel de la Foudre": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Call Lightning",
-        "available": []
+        "available": [
+            "Nécromancien",
+            "Druide"
+        ]
     },
     "Animation de Crâne": {
         "level": "",
@@ -998,19 +1001,21 @@
         "available": []
     },
     "Châtiment Révélateur": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
+        "level": "2",
+        "school": "Évocation",
+        "Verbal": "true",
         "Somatique": "false",
-        "Matériel": "",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Branding Smite",
+        "available": [
+            "Paladin"
+        ]
     },
     "Druidisme": {
         "level": "0",
@@ -3791,19 +3796,26 @@
         ]
     },
     "Connaissance Empruntée": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "2",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un livre valant au moins 25 PO",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Borrowed Knowledge",
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Clerc",
+            "Occultiste",
+            "Magicien"
+        ]
     },
     "Convocation d'Esprit Draconique": {
         "level": "",
@@ -4121,19 +4133,21 @@
         "available": []
     },
     "Ossements de la Terre": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "6",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
         "Concentration": "",
         "Rituel": "",
         "englishname": "Bones of the Earth",
-        "available": []
+        "available": [
+            "Druide"
+        ]
     },
     "Courant Ascendant": {
         "level": "",
