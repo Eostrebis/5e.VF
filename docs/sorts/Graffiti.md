@@ -4,16 +4,16 @@ available:
   - Magicien
   - Ensorceleur
 level: 0
-school: 
+school: Illusion
 Verbal: false
-Somatique: false
-Matériel: 
-detailmat: 
-Durée: 
-Incantation: 
-Portée: 
-Concentration: 
+Somatique: true
+Matériel: true
+detailmat: Une goutte de peinture
+Durée: Instantanée
+Incantation: 1 Action
+Portée: Touché
+Concentration: false
 Rituel: 
 englishname: Tag
 ---
-
+Vous pressez votre main contre une surface plane d'un objet et y imprimez une image élaborée et vibrante dans un carré de côté de 10 ft. L'image peut contenir un message de jusqu'à trois mots, et peut inclure de l'art, des caricature ou des logos dans n'importe quelle combinaison de couleur, choisis lorsque vous lancez le sort. Des ustensiles de nettoyage non magiques ne peuvent retirer l'image, qui se dissipe après sept jours.
