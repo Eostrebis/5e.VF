@@ -651,7 +651,7 @@ title: Sorts
 | Swift Flight                         | [[Vol Court]]                             |
 | Tag                                  | [[Graffiti]]                              |
 | Thunderous Distortion                | [[Distorsion Bruyante]]                   |
-| Time Hop                             | [[Saut dans le Futur]]                    |
+| Time Hop                             | [[Bond Temporel]]                    |
 | Time's Arrow                         | [[Flèche du Temps]]                       |
 | Transient Bulwark                    | [[Rempart Éphémère]]                      |
 | Tyra Coerced Karaoke                 | [[Karaoké Forcé de Tyra]]                 |
