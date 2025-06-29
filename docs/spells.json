@@ -511,21 +511,6 @@
             "Magicien"
         ]
     },
-    "Saut dans le Futur": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "Time Hop",
-        "available": []
-    },
     "Arme Élémentaire": {
         "level": "",
         "school": "",
@@ -769,7 +754,7 @@
     },
     "Grappin Fantôme": {
         "level": "1",
-        "school": "Evocation",
+        "school": "Évocation",
         "Verbal": "true",
         "Somatique": "true",
         "Matériel": "false",
@@ -841,19 +826,23 @@
         "available": []
     },
     "Rempart Éphémère": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une perle valant 10 PO, que le sort consomme",
+        "Durée": "8 Heures",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Transient Bulwark",
+        "available": [
+            "Investigateur",
+            "Martyr",
+            "Magicien"
+        ]
     },
     "Passage Sans Trace": {
         "level": "",
@@ -1309,17 +1298,17 @@
         ]
     },
     "Distorsion Bruyante": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (cône de 10 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Thunderous Distortion",
         "available": [
             "MagedeGuerre",
@@ -1581,19 +1570,23 @@
         ]
     },
     "Feu de Forêt": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "8",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un bout de silex",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Wildfire",
+        "available": [
+            "Magicien",
+            "Ensorceleur",
+            "Druide"
+        ]
     },
     "Arme de Force": {
         "level": "0",
@@ -2706,19 +2699,22 @@
         "available": []
     },
     "Flèche du Temps": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un projectile physique pesant moins de 500 g",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Time's Arrow",
+        "available": [
+            "Magicien",
+            "Ranger"
+        ]
     },
     "Contagion": {
         "level": "",
@@ -4711,19 +4707,24 @@
         ]
     },
     "Plume de Zéphyr": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "level": "1",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "La plume d'une colombe",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Zephyr's Feather",
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Ensorceleur",
+            "Ranger"
+        ]
     },
     "Évasivité": {
         "level": "5",
@@ -5389,15 +5390,15 @@
     },
     "Graffiti": {
         "level": "0",
-        "school": "",
+        "school": "Illusion",
         "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte de peinture",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
         "Rituel": "",
         "englishname": "Tag",
         "available": [
@@ -6257,19 +6258,22 @@
         "available": []
     },
     "Karaoké Forcé de Tyra": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
+        "level": "2",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
         "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
-        "englishname": "",
-        "available": []
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 30 ft.)",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Tyra's Coerced Karaoke",
+        "available": [
+            "Magicien",
+            "Barde"
+        ]
     },
     "Interdiction": {
         "level": "",
@@ -7734,34 +7738,42 @@
         "available": []
     },
     "Fleur d'Hiver": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "6",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une fleur en cristal",
+        "Durée": "24 Heures",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Winter Flower",
-        "available": []
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ]
     },
     "Tentacules Aquatiques": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un tentacule de pieuvre",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Watery Tentacles",
-        "available": []
+        "available": [
+            "Magicien",
+            "Occultiste",
+            "Druide"
+        ]
     },
     "Funérailles d'Assassin": {
         "level": "",
@@ -10315,6 +10327,24 @@
             "Sorcière"
         ]
     },
+    "Bond Temporel": {
+        "level": "1",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "La trotteuse d'une horloge",
+        "Durée": "Spéciale",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Time Hop",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ]
+    },
     "Cauchemar Contagieux": {
         "level": "",
         "school": "",
@@ -12237,19 +12267,26 @@
         ]
     },
     "Vent Murmurant": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une plume",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "2 kilomètres",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Whisperind Wind",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Clerc",
+            "Druide",
+            "Magicien"
+        ]
     },
     "Représailles Angéliques": {
         "level": "",
@@ -12928,19 +12965,24 @@
         ]
     },
     "Comptable Invisible": {
-        "level": "",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un abaque",
+        "Durée": "8 Heures",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "true",
         "englishname": "Unseen Accountable",
-        "available": []
+        "available": [
+            "Investigateur",
+            "Nécromancien",
+            "Barde",
+            "Magicien"
+        ]
     },
     "Armure Consacrée": {
         "level": "1",
