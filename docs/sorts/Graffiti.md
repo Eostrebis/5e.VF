@@ -3,7 +3,7 @@ available:
   - Barde
   - Magicien
   - Ensorceleur
-level: 
+level: 0
 school: 
 Verbal: false
 Somatique: false
