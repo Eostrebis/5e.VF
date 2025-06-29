@@ -3,7 +3,7 @@ available:
   - Mage de Guerre
   - Artificier
 level: 1
-school: Evocation
+school: Évocation
 Verbal: true
 Somatique: true
 Matériel: false
