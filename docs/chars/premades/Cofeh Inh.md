@@ -26,7 +26,17 @@ __Vitesse :__ 30 ft.
 | ◎ Histoire (_Int_) : -2     | ◎ Représentation (_Cha_) : +2 |
 | ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +3         |
 | ◉ Intuition (_Sag_) : +3    | ◎ Tromperie (_Cha_) : +2<br>  |
-
+> [!info]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+Vous êtes Cofeh, une paladine à la foi simple et inébranlable, dont la force et l'optimisme sont aussi éclatants que son armure, et dont la solution à la plupart des problèmes est de foncer tête baissée pour protéger les innocents.
+> 
+__Objectif pour la session__ :
+Votre mentor, le Père Elric, vous a envoyé dans le monde pour "être le bouclier des faibles". Votre objectif est donc très simple : trouver des gens qui ont des ennuis, identifier le "méchant" de l'histoire, et le punir très fort pour que les gens n'aient plus d'ennuis.
+>
+__Parlez Simplement, Agissez Directement :__ Utilisez des phrases courtes et des mots simples. Votre personnage ne comprend pas la subtilité. Face à un problème, votre premier réflexe n'est pas de réfléchir, mais d'agir. Foncez, posez les questions (souvent très naïves) après. "Pourquoi est-il méchant ? On devrait lui demander. Après l'avoir arrêté."
+>
+__Le Bulldozer du Bien :__ Vous êtes un torrent d'énergie positive et de protection. Adoptez une posture héroïque, donnez des grandes tapes dans le dos de vos amis, et soyez toujours la première volontaire pour une tâche difficile ou dangereuse. Votre enthousiasme est votre plus grande force.
+>
+__L'Armure est l'Âme :__ Votre armure est le symbole de votre pureté. Passez du temps à la polir. Votre bouclier est une extension de vos émotions : brandissez-le fièrement, cachez-vous un peu derrière quand vous êtes perplexe. Rappelez-vous votre défaut : vous préférez "manger votre armure" plutôt que d'admettre que vous avez eu tort.
 #### Maîtrises
 
 **Armure :** [[Armures Légères]], [[Armures Moyennes]], [[Armures Lourdes]], [[Bouclier, Équipement|Boucliers]]
