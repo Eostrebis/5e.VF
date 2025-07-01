@@ -26,9 +26,8 @@ __Vitesse :__ 30 ft.
 | ◎ Histoire (_Int_) : -2     | ◎ Représentation (_Cha_) : +2 |
 | ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +3         |
 | ◉ Intuition (_Sag_) : +3    | ◎ Tromperie (_Cha_) : +2<br>  |
-<details> <summary>Spoiler text you'll see</summary> All the text that will be hidden is here. </details>
 
-> [!INFO]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Cofeh, une paladine à la foi simple et inébranlable, dont la force et l'optimisme sont aussi éclatants que son armure, et dont la solution à la plupart des problèmes est de foncer tête baissée pour protéger les innocents.
 > 
 >__Objectif pour la session__ :
