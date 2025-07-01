@@ -19,13 +19,25 @@ __Vitesse :__ 30 ft. (escalade 30 ft.)
 | --------------------------- | ----------------------------- |
 | ◉ Acrobaties (_Dex_) : +5   | ◎ Investigation (_Int_) : ±0  |
 | ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : ±0<br>     |
+| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : ±0         |
 | ◉ Discrétion (_Dex_) : +5   | ◉ Perception (_Sag_) : +2     |
 | ◎ Dressage (_Sag_) : ±0     | ◉ Persuasion (_Cha_) : +3     |
 | ◎ Escamotage (_Dex_) : +3   | ◎ Religion (_Int_) : ±0       |
 | ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : +1 |
 | ◎ Intimidation (_Cha_) : +1 | ◎ Survie (_Sag_) : ±0         |
-| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : +1<br>  |
+| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : +1      |
+
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+>Vous êtes Awahp, le dernier survivant d'une compagnie de mercenaires d'élite, un tireur d'exception qui a tout perdu lors d'une trahison et qui ne vit plus que pour entretenir son bras mécanique et traquer ceux qui ont massacré ses frères d'armes.  
+>
+>**Objectif pour la session :** 
+>Vous avez besoin d'argent pour deux choses : améliorer votre prothèse et financer votre réseau d'informateurs pour retrouver la trace du Baron Grisefer. Ce contrat n'est qu'un moyen d'arriver à vos fins, mais peut-être qu'une information cruciale se cache au bout.
+>
+>**Parlez comme un Pro, pas comme un Ami :** Votre voix est un murmure neutre. Utilisez un jargon militaire ("cible", "périmètre", "négatif"). Vous ne bavardez pas, vous communiquez des informations. Vous êtes distant car vous refusez de vous attacher à nouveau.   
+>
+>**Obsédé par la Verticalité et la Prothèse :** Votre regard cherche toujours un point en hauteur, un vestige de votre vie passée. De plus, vous avez un tic constant où vous ajustez, tapotez ou vérifiez votre bras mécanique. C'est votre fardeau et votre outil, et il est toujours présent dans votre esprit.
+>
+>**Jouez le Traumatisme :** Votre personnage n'est pas juste un "dur à cuire". Il est brisé. Face à un grand feu (le défaut), montrez une peur panique. Face à des ordres que vous jugez stupides (l'idéal), montrez une défiance froide. Votre passé est toujours là, juste sous la surface.
 
 #### Maîtrises
 
