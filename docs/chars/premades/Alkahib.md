@@ -51,7 +51,7 @@ Son visage est encadré par un disque facial de plumes plus claires, qui accentu
 
 C'est dans son mouvement que sa nature paradoxale se révèle. Lorsqu'il est immobile, il a la prestance d'un sage ou d'un roi. Mais chaque geste est marqué par un manque de grâce flagrant. Son vol est puissant, mais ses atterrissages sont des affaires maladroites, une série de pas chancelants et un bruissement de plumes ébouriffées. Il se cogne souvent l'extrémité d'une aile contre un cadre de porte et ses plumes sont rarement parfaitement lissées, trahissant une vie de petites collisions et de départs précipités.
 
-Il est drapé dans des robes d'érudit simples, de couleur claire, qui portent ça et là de discrètes traces de roussi sur les bords, souvenirs de sorts qui ont démarré un peu trop près de lui. Ses serres, bien que puissantes, sont celles d'un penseur, souvent posées sur un vieux livre ou tapotant son bec dans un geste de profonde réflexion. En somme, il a toute l'aura d'un grand sage, mais avec la coordination physique d'un poulain qui vient de naître.
+Il est drapé dans des robes d'érudit simples, de couleur claire, qui portent çà et là de discrètes traces de roussi sur les bords, souvenirs de sorts qui ont démarré un peu trop près de lui. Ses serres, bien que puissantes, sont celles d'un penseur, souvent posées sur un vieux livre ou tapotant son bec dans un geste de profonde réflexion. En somme, il a toute l'aura d'un grand sage, mais avec la coordination physique d'un poulain qui vient de naître.
 
 ![[Alkahib.jpg]]
 ## Compétences
@@ -60,7 +60,7 @@ Il est drapé dans des robes d'érudit simples, de couleur claire, qui portent �
 
 ### Compétences de Classe
 
-### Equipement
+### Équipement
 
  - 
 ## Historique
@@ -81,7 +81,7 @@ Hoom prit son envol une dernière fois, non pas comme un exilé, mais comme un p
 
 ### Compétence d'Historique
 
-Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Quand vous échouez à un jet de sauvegarde de Dextérité vous pouvez utiliser votre réaction pour libérer une vague d'énergie émotionnelle brute. Chaque créature dans un rayon de 10 pieds autour de vous (y compris vous-même et vos alliés) doit faire un jet de sauvegarde de Force contre le DD de sauvegarde de vos sorts. En cas d'échec, une créature subit des dégâts de force (force damage) égaux à votre niveau d'ensorceleur et est repoussée de 10 pieds loin de vous. En cas de succès, elle ne subit que la moitié des dégâts et n'est pas repoussée. Si vous échouez ce jet de sauvegarde, vous êtes mis [[au sol]] par la déflagration. Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations après un repos long.
+Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Quand vous échouez à un jet de sauvegarde de Dextérité, vous pouvez utiliser votre réaction pour libérer une vague d'énergie émotionnelle brute. Chaque créature dans un rayon de 10 pieds autour de vous (y compris vous-même et vos alliés) doit faire un jet de sauvegarde de Force contre le DD de sauvegarde de vos sorts. En cas d'échec, une créature subit des dégâts de force (force damage) égaux à votre niveau d'ensorceleur et est repoussée de 10 pieds loin de vous. En cas de succès, elle ne subit que la moitié des dégâts et n'est pas repoussée. Si vous échouez ce jet de sauvegarde, vous êtes mis [[au sol]] par la déflagration. Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations après un repos long.
 
 ### Traits de Personnalité
 
