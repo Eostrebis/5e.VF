@@ -56,6 +56,10 @@ markdown_extensions:
   - footnotes
   - tables
   - attr_list
+  - nl2br
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.arithmatex:
   #     generic: true
   # - pymdownx.superfences
@@ -81,6 +85,7 @@ markdown_extensions:
 plugins:
   - search
   - roamlinks-eostrebis 
+  - callouts
 
 
 extra_javascript:
