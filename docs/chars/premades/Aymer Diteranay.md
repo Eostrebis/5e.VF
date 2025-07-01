@@ -19,7 +19,7 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) : +5   | ◎ Investigation (_Int_) : +1  |
 | ◎ Arcanes (_Int_) : +1      | ◎ Médecine (_Sag_) : +1       |
-| ◎ Athlétisme (_For_) : -1   | ◉ Nature (_Int_) : +3<br>     |
+| ◎ Athlétisme (_For_) : -1   | ⬤ Nature (_Int_) : +5<br>     |
 | ◉ Discrétion (_Dex_) : +7   | ◉ Perception (_Sag_) : +3     |
 | ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +3     |
 | ◎ Escamotage (_Dex_) : +5   | ◎ Religion (_Int_) : +1       |
@@ -73,6 +73,19 @@ Chaque détail de son apparence, de la couleur de sa peau à la forme de ses lam
 **Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
 ### Compétences de Classe
 
+#TODO 
+
+#### Favored Foe (Optional)
+
+This 1st-level feature replaces the Favored Enemy feature and works with the Foe Slayer feature. You gain no benefit from the replaced feature and don't qualify for anything in the game that requires it.
+
+When you hit a creature with an attack roll, you can call on your mystical bond with nature to mark the target as your favored enemy for 1 minute or until you lose your concentration (as if you were concentrating on a spell).
+
+The first time on each of your turns that you hit the favored enemy and deal damage to it, including when you mark it, you increase that damage by 1d4.
+
+You can use this feature to mark a favored enemy a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+
+This feature's extra damage increases when you reach certain levels in this class: to 1d6 at 6th level and to 1d8 at 14th level.
 ### Equipement
 
  - Une armure de [[cuir]]
@@ -112,3 +125,13 @@ __Défaut :__ Je deviens anxieux et déprimé si je suis loin de la mer trop lon
 __Alignement :__ Neutre Bon
 
 ## Conseils de jeu
+
+Sa voix est calme et posée, avec une musicalité naturelle, comme le bruit des vagues qui viennent mourir sur la plage. Son ton est naturellement persuasif et agréable, ce qui explique en partie son charisme.
+
+Il pense et parle en termes marins. C'est sa vision du monde.
+- Un plan compliqué est _"plus emmêlé qu'un champ d'algues"_.
+- Une personne de confiance est _"aussi fiable que la marée"_.
+- Pour dire "allons-y", il dira _"Suivons le courant"_.
+- Une mauvaise situation est une _"marée contraire"_.
+
+Il n'est jamais parfaitement immobile. Même debout, il a un très léger balancement, un mouvement fluide et presque imperceptible, comme s'il était encore bercé par les courants de l'océan. Il se sent physiquement et mentalement mal à l'aise s'il reste "au sec" trop longtemps. Il a des tics liés à l'eau : il cherchera instinctivement la moindre fontaine pour y tremper ses mains, passera souvent une main humide dans ses cheveux, ou prendra un malin plaisir à marcher sous la pluie.
