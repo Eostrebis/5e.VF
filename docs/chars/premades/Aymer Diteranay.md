@@ -27,6 +27,20 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 | ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +3         |
 | ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
 
+
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+>Vous êtes Aymer, un champion elfe des mers charismatique et un guerrier gracieux, envoyé en mission sur la terre ferme pour traquer et éliminer la source d'une pollution magique qui empoisonne votre foyer, l'océan.
+>
+>**Objectif pour la session** :
+>Votre mission principale est de trouver des indices sur l'origine de la "souillure" qui affecte votre monde. Vous cherchez des informations sur des cultes étranges, des guildes d'alchimistes peu scrupuleuses ou toute autre activité suspecte près des côtes ou des rivières qui pourrait être la source du poison.
+>
+>**Parlez le Langage de l'Océan :** Utilisez constamment des métaphores marines. Votre vision du monde est entièrement filtrée par votre vie sous-marine. Décrivez les choses et les gens avec des analogies liées à la mer, aux courants, aux créatures marines.
+>
+>**Jouez le "Poisson Hors de l'Eau" avec Curiosité :** Vous êtes fasciné par le monde de la surface. Montrez votre étonnement face à des choses simples (le feu, les animaux terrestres, la nourriture cuite). Votre lien est avec l'océan, mais votre défaut est que vous devenez anxieux loin de l'eau ; cherchez activement des moyens de rester hydraté et proche de l'eau.
+>
+>**Bougez comme l'Eau :** Incarnez sa grâce fluide. Même en étant immobile, ayez un léger balancement. En combat, ne soyez pas statique ; décrivez vos attaques comme une danse, un flux ininterrompu de deux lames, comme des vagues qui s'écrasent sur un rocher.
+
+
 #### Maîtrises
 
 **Armure :** [[Armures Légères]], [[Armures Moyennes]], [[Bouclier, Équipement|Boucliers]]
