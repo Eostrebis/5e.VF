@@ -19,13 +19,15 @@ __Vitesse :__ 30 ft.
 | --------------------------- | ----------------------------- |
 | ◉ Acrobaties (_Dex_) :      | ◎ Investigation (_Int_) : ±0  |
 | ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : ±0   | ◉ Nature (_Int_) : ±0<br>     |
+| ◎ Athlétisme (_For_) : ±0   | ◉ Nature (_Int_) : ±0         |
 | ◎ Discrétion (_Dex_) : ±0   | ◉ Perception (_Sag_) : ±0     |
 | ◎ Dressage (_Sag_) : ±0     | ◎ Persuasion (_Cha_) : ±0     |
 | ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : ±0       |
 | ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : ±0 |
 | ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : ±0         |
-| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0      | 
+
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 
 #### Maîtrises
 
