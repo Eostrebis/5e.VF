@@ -19,13 +19,25 @@ __Vitesse :__ 30 ft.
 | --------------------------- | ----------------------------- |
 | ◎ Acrobaties (_Dex_) : +1   | ◉ Investigation (_Int_) : +2  |
 | ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : -1       |
-| ◎ Athlétisme (_For_) : +4   | ◎ Nature (_Int_) : ±0<br>     |
+| ◎ Athlétisme (_For_) : +4   | ◎ Nature (_Int_) : ±0     |
 | ◎ Discrétion (_Dex_) : +1   | ◎ Perception (_Sag_) : -1     |
 | ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : +3     |
 | ◎ Escamotage (_Dex_) : +1   | ◎ Religion (_Int_) : ±0       |
 | ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : +3 |
 | ◉ Intimidation (_Cha_) : +5 | ◉ Survie (_Sag_) : +1         |
-| ◉ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◉ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3  |
+
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+>Vous êtes Daak, un surprenant kobold Chevalier de Solamnia, qui a transformé la peur de son peuple en une discipline de fer et dont les rugissements tactiques transforment le chaos du combat en une symphonie de victoire pour sa "meute".
+>
+>**Objectif pour la session :**
+>En tant que Chevalier, votre devoir est d'aider ceux qui en ont besoin et de combattre le mal. Votre mission personnelle est de prouver que la discipline et le courage d'une meute bien soudée, peu importe sa taille ou sa composition, sont la plus grande force qui soit.
+>
+>**Parlez comme un Sergent Draconique :** Votre voix est un aboiement puissant et vos phrases sont des ordres courts et directs. Utilisez votre compétence "Hurlement Draconique" aussi souvent que possible, non seulement pour son effet mécanique, mais pour le roleplay. Vous êtes le leader tactique, même si vous êtes le plus petit.
+>
+>**La Meute avant Tout :** Votre style de combat "Interception" définit votre rôle. Vous êtes là pour protéger vos compagnons plus grands mais (à vos yeux) plus fragiles. Mettez-vous physiquement devant eux, prenez les coups, et utilisez vos compétences pour assurer la survie du groupe. Chaque compagnon est un "écaille-frère".
+>
+>**Le Kobold sous l'Armure :** N'oubliez pas vos quirks. Penchez la tête quand vous êtes perplexe face aux coutumes des "grandes personnes". Donnez des petits coups de coude pour attirer l'attention. Et surtout, ramassez discrètement les petits objets brillants. Votre discipline de chevalier n'a pas effacé votre nature de kobold.
 
 #### Maîtrises
 

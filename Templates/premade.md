@@ -4,7 +4,7 @@ __Race :__
 
 __Classe :__ 
 
-__Niveau :__ 1 (BM +2)
+__Niveau :__ 1 (B M +2)
 
 __Points de vie :__ 
 
