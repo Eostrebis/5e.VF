@@ -27,6 +27,18 @@ __Vitesse :__ 30 ft.
 | ◎ Intimidation (_Cha_) : +2 | ◎ Survie (_Sag_) : -1         |
 | ◎ Intuition (_Sag_) : -1    | ◎ Tromperie (_Cha_) : +2<br>  |
 
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+>Vous êtes Gob, un gobelin pirate, alchimiste de génie et expert en explosifs, dont la maladresse chronique et l'amour du "BOUM !" sont si légendaires que votre équipage vous utilise désormais comme un boulet de canon vivant.
+>
+> **Objectif pour la session :**
+>En permission à Misancte, votre but est double : dépenser votre paie dans les tavernes et les jeux de hasard, et surtout, trouver des ingrédients rares et instables pour concocter une nouvelle "œuvre d'art" pyrotechnique qui impressionnera votre capitaine.
+>
+>**Le Savant Fou des Mers :** Parlez avec un mélange de jargon technique d'alchimiste et d'argot de pirate ("Mille sabords, la viscosité de ce réactif est parfaite !"). Montrez un enthousiasme débordant et parlez très vite chaque fois qu'une idée d'expérience (surtout une qui explose) vous vient à l'esprit.
+>
+>**Incarnez la Maladresse :** Vous êtes incroyablement gauche. Faites tomber vos outils, trébuchez sur rien, renversez votre chope. Chaque fois que vous devez faire quelque chose de délicat, décrivez-le comme une aventure où vous manquez de tout faire sauter. Votre corps n'arrive pas à suivre la vitesse de votre cerveau.
+>
+>**La Curiosité avant la Prudence :** Vous avez un besoin irrépressible de toucher, goûter et mélanger tout ce qui est nouveau. Ne pensez jamais aux conséquences avant d'agir. Votre défaut est clé : si on doute de votre courage, vous foncez tête baissée dans le danger le plus absurde pour prouver que vous n'avez peur de rien.
+
 #### Maîtrises
 
 **Armure :** [[Armures Légères]]
