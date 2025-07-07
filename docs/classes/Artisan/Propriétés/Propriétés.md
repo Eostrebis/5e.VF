@@ -8,7 +8,7 @@
 | [[Équilibré]]         | Arme Lourde                                  |
 | [[Dissimulable]]      | Arme Légère                                  |
 | [[Élégant]]           | Arme Légère ou de Jet                        |
-| [[Exotique]]           | Arme martiale                                |
+| [[Exotique]]          | Arme martiale                                |
 | [[Chargeur Aggrandi]] | Arme avec Rechargement                       |
 | [[Finesse]]           | Arme à une main                              |
 | [[Arme à Feu]]        | Arme avec Rechargement ou Chargement         |
