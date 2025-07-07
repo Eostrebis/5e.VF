@@ -12,4 +12,20 @@ Lorsque vous utilisez votre action pour attaquer, vous pouvez abandonner une ou 
 
 ## Traquenard
 
-A partir du niveau 7, vous pouvez passer 1 minute à dissimuler un de vos pièges. Une créature peut détecter un piège dissimulé en réussisant un jet d'Intelligence (Investigation) ou de Sagesse (Perception) contre votre DD de sauvegarde de chef-d'oeuvre ou en ayant une PP supérieure à votre DD. La prochaine fois que le piège s'active avant d'être désarmé, il inflige le double de dés de dégât. 
+A partir du niveau 7, vous pouvez passer 1 minute à dissimuler un de vos pièges. Une créature peut détecter un piège dissimulé en réussissant un jet d'Intelligence (Investigation) ou de Sagesse (Perception) contre votre DD de sauvegarde de chef-d'œuvre ou en ayant une PP supérieure à votre DD. La prochaine fois que le piège s'active avant d'être désarmé, il inflige le double de dés de dégât. 
+
+## Modification d'Embuscade
+
+A partir du niveau 10, vous pouvez passer 10 minutes à modifier une arme à distance, ou passer un repos à en modifier jusqu'à 6. Chaque arme modifiée gagne la propriété suivante : 
+
+__État d'Alerte.__ Cette arme a l'avantage à la première attaque qu'elle réalise en utilisant une action préparée.
+
+## Mise en Place Rapide
+
+Au niveau 14, pour une action, vous pouvez déployer jusqu'à 4 pièges.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas le refaire avant d'avoir terminé un repos.
+
+## Propriété Légendaire
+
+Au niveau 18, vous atteignez le sommet de votre art. Vous apprenez la propriété [[Filet Déployable]], que vous pouvez immédiatement appliquer à une arme chef-d'œuvre.
