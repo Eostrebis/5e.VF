@@ -160,7 +160,7 @@ Au niveau 3, vous rejoignez une guilde d'artisan. Sélectionnez une guilde parmi
 | [[Guilde des Chevaliers Forgés]]       | Manient une forge portable pour chauffer leurs armes et armures jusqu'à l'explosion.                   |
 | [[Guilde des Mécanautes]]              | Pilotent une [[machine du crabe]], une construction marchante à l'immense pouvoir.                     |
 | [[Guilde des Seigneurs du Tonnerre]]   | Innovateurs électriques qui utilisent des équipements chargés.                                         |
-| [[Guilde des Piègeurs]]                | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat.                           |
+| [[Guilde des Piégeurs]]                | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat.                           |
 
 ## Augmentation de Caractéristiques
 
