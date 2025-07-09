@@ -73,7 +73,7 @@ Cette arme a le désavantage aux jets d'attaques réalisés contre les cibles à
 #### Spécial
 Une arme avec la propriété Spécial a des règles inhabituelles qui guident son utilisation.
 
-#### Superlourde
+#### Superlourd
 Cette arme est particulièrement large. Vous devez avoir un score de Force d'au moins 16 pour manier une arme superlourde
 
 #### Switch
