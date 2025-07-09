@@ -24,7 +24,7 @@
 | [[Revenant]]          | Arme Légère de Jet                           |
 | [[A Dispersion]]      | Arme avec Munition à deux mains              |
 | [[A Lunette]]         | Arme avec Munition                           |
-| [[Superlourde]]       | Arme Lourde                                  |
+| [[Superlourd]]        | Arme Lourde                                  |
 | [[Switch]]            | Deux armes                                   |
 | [[Jet]]               | Arme à une main                              |
 | [[Jambette]]          | Arme martiale ou exotique                    |
