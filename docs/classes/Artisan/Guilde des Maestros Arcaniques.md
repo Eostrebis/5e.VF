@@ -84,5 +84,5 @@ Au niveau 14, vous pouvez casser la connexion qui vous lie à vos objets magique
 
 ## Propriété Légendaire
 
-Au niveau 18, vous atteignez le sommet de votre art. Vous apprenez la propriété [[Résonante]], que vous pouvez immédiatement appliquer à une armure chef-d'œuvre.
+Au niveau 18, vous atteignez le sommet de votre art. Vous apprenez la propriété [[Résonant]], que vous pouvez immédiatement appliquer à une armure chef-d'œuvre.
 

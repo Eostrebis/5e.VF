@@ -38,4 +38,4 @@ Au niveau 14, vous pouvez manier toute sorte d'armes en rapide succession. Une f
 
 ## Propriété Légendaire
 
-Au niveau 18, vous atteignez le sommet de votre art. Vous apprenez la propriété [[Dévastante]], que vous pouvez immédiatement appliquer à une arme chef-d'œuvre.
+Au niveau 18, vous atteignez le sommet de votre art. Vous apprenez la propriété [[Dévastant]], que vous pouvez immédiatement appliquer à une arme chef-d'œuvre.
