@@ -1,5 +1,5 @@
 ## Propriétés "Apprenti"
-### Propriétés "Apprenti" d'Armes
+### Propriétés "Apprenti" d'Arme
 
 | Propriété             | Catégorie                                    |
 | --------------------- | -------------------------------------------- |
@@ -30,9 +30,25 @@
 | [[Jambette]]          | Arme martiale ou exotique                    |
 | [[A Deux Mains]]      | Arme sans Finesse, Léger, Jet, Poignée Avant |
 | [[Polyvalent]]        | Arme sans Léger ou A Deux Mains              |
+### Propriétés "Apprenti" d'Armure
+
+| Propriété            | Catégorie                         |
+| -------------------- | --------------------------------- |
+| [[Alourdi]]          | Armure moyenne ou lourde          |
+| [[d'Escalade]]       | Armure légère                     |
+| [[Confortable]]      | Armure                            |
+| [[Environnemental]]  | Armure                            |
+| [[Exotique, Armure]] | Armure non exotique               |
+| [[Intégrée]]         | Armure exotique                   |
+| [[Velcro]]           | Armure                            |
+| [[Rétractable]]      | Armure exotique moyenne ou lourde |
+| [[Écaillé]]          | Armure exotique légère            |
+| [[Clouté]]           | Armure lourde                     |
+
+
 ## Propriétés "Compagnon"
 
-### Propriétés "Compagnon" d'Armes
+### Propriétés "Compagnon" d'Arme
 
 | Propriété       | Catégorie                 |
 | --------------- | ------------------------- |
@@ -48,10 +64,20 @@
 | [[Sniper]]      | Arme sans Dispersion      |
 | [[Tension]]     | Arme à distance non à feu |
 | [[Tir Jumeaux]] | Arme à distance           |
+### Propriétés "Compagnon" d'Armure
 
+| Propriété              | Catégorie                         |
+| ---------------------- | --------------------------------- |
+| [[Adamantine, Armure]] | Armure exotique lourde            |
+| [[Arcanique]]          | Armure exotique                   |
+| [[Attrape-Flèche]]     | Armure exotique moyenne ou lourde |
+| [[Plongeant]]          | Armure exotique                   |
+| [[Juggernaut]]         | Armure exotique lourde            |
+| [[Manœuvrable]]        | Armure exotique légère ou moyenne |
+| [[Résistant]]          | Armure                            |
 ## Propriétés "Maître"
 
-## Propriétés "Maître" d'Armes
+## Propriétés "Maître" d'Arme
 
 | Propriété           | Catégorie                        |
 | ------------------- | -------------------------------- |
@@ -66,9 +92,20 @@
 | [[De Chasse]]       | Arme exotique                    |
 | [[Vampirique]]      | Arme exotique                    |
 | [[Venimeuse]]       | Arme exotique                    |
+
+### Propriétés "Maître" d'Armure
+
+| Propriété         | Catégorie               |
+| ----------------- | ----------------------- |
+| [[Animé]]         | Armure exotique lourde  |
+| [[Dissimulant]]   | Armure exotique légère  |
+| [[Mécanique]]     | Armure exotique lourde  |
+| [[Glamour]]       | Armure exotique         |
+| [[Peau de Troll]] | Armure exotique moyenne |
+| [[Volant]]        | Armure exotique légère  |
 ## Propriétés "Légendaire"
 
-## Propriétés "Légendaire" d'Armes
+## Propriétés "Légendaire" d'Arme
 
 | Propriété               | Catégorie                           |
 | ----------------------- | ----------------------------------- |
@@ -80,3 +117,14 @@
 | [[Menaçant]]            | Arme de mêlée                       |
 | [[Vorpal]]              | Arme tranchante                     |
 | [[Tourbillonnant]]      | Arme double avec finesse ou légère  |
+### Propriétés "Légendaire" d'Armure
+
+| Propriété       | Catégorie                         |
+| --------------- | --------------------------------- |
+| [[Colossal]]    | Armure exotique lourde            |
+| [[Éthéré]]      | Armure exotique                   |
+| [[Véloce]]      | Armure exotique légère            |
+| [[Immortel]]    | Armure exotique moyenne ou lourde |
+| [[Miroir]]      | Armure exotique légère            |
+| [[Contresorté]] | Armure exotique                   |
+| [[Protecteur]]  | Armure exotique moyenne           |
