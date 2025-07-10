@@ -96,3 +96,6 @@ Vous pouvez essayer de pousser une créature dans la portée de cette arme. De p
 
 #### Précision
 Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible prend 1d6 dégâts supplémentaires.
+
+#### Tirs Jumeaux
+Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à portée de cette arme.
