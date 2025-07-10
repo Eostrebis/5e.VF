@@ -39,7 +39,7 @@
 | [[Confortable]]      | Armure                            |
 | [[Environnemental]]  | Armure                            |
 | [[Exotique, Armure]] | Armure non exotique               |
-| [[Intégrée]]         | Armure exotique                   |
+| [[Intégré]]          | Armure exotique                   |
 | [[Velcro]]           | Armure                            |
 | [[Rétractable]]      | Armure exotique moyenne ou lourde |
 | [[Écaillé]]          | Armure exotique légère            |
