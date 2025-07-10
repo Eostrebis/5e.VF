@@ -50,20 +50,20 @@
 
 ### Propriétés "Compagnon" d'Arme
 
-| Propriété       | Catégorie                 |
-| --------------- | ------------------------- |
-| [[Contrepesé]]  | Arme à deux mains         |
-| [[Double]]      | Arme non lourde           |
-| [[Explosive]]   | Arme à distance<br>       |
-| [[Chaleur]]     | Arme à feu                |
-| [[Magique]]     | Arme exotique             |
-| [[Massive]]     | Arme superlourde          |
-| [[Monté]]       | Arme lourde à distance    |
-| [[Précision]]   | Arme avec Finesse         |
-| [[Fusée]]       | Arme exotique             |
-| [[Sniper]]      | Arme sans Dispersion      |
-| [[Tension]]     | Arme à distance non à feu |
-| [[Tir Jumeaux]] | Arme à distance           |
+| Propriété        | Catégorie                 |
+| ---------------- | ------------------------- |
+| [[Contrepesé]]   | Arme à deux mains         |
+| [[Double]]       | Arme non lourde           |
+| [[Explosif]]     | Arme à distance<br>       |
+| [[Chaleur]]      | Arme à feu                |
+| [[Magique]]      | Arme exotique             |
+| [[Massif]]       | Arme superlourde          |
+| [[Monté]]        | Arme lourde à distance    |
+| [[Précision]]    | Arme avec Finesse         |
+| [[Fusée]]        | Arme exotique             |
+| [[Sniper]]       | Arme sans Dispersion      |
+| [[Tension]]      | Arme à distance non à feu |
+| [[Tirs Jumeaux]] | Arme à distance           |
 ### Propriétés "Compagnon" d'Armure
 
 | Propriété              | Catégorie                         |
