@@ -66,15 +66,16 @@
 | [[Tirs Jumeaux]] | Arme à distance           |
 ### Propriétés "Compagnon" d'Armure
 
-| Propriété              | Catégorie                         |
-| ---------------------- | --------------------------------- |
-| [[Adamantine, Armure]] | Armure exotique lourde            |
-| [[Arcanique]]          | Armure exotique                   |
-| [[Attrape-Flèche]]     | Armure exotique moyenne ou lourde |
-| [[Plongeant]]          | Armure exotique                   |
-| [[Juggernaut]]         | Armure exotique lourde            |
-| [[Manœuvrable]]        | Armure exotique légère ou moyenne |
-| [[Résistant]]          | Armure                            |
+| Propriété              | Catégorie                             |
+| ---------------------- | ------------------------------------- |
+| [[Adamantine, Armure]] | Armure exotique lourde                |
+| [[Arcanique]]          | Armure exotique                       |
+| [[Attrape-Flèche]]     | Armure exotique moyenne ou lourde     |
+| [[Plongeant]]          | Armure exotique                       |
+| [[Juggernaut]]         | Armure exotique lourde                |
+| [[Manœuvrable]]        | Armure exotique légère ou moyenne<br> |
+| [[Mithril, Armure]]    | Armure moyenne ou lourde              |
+| [[Résistant]]          | Armure                                |
 ## Propriétés "Maître"
 
 ## Propriétés "Maître" d'Arme
