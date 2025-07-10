@@ -93,3 +93,6 @@ Une arme polyvalente peut être utilisée avec une ou deux mains. Les dégâts e
 
 #### Jambette
 Vous pouvez essayer de pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous réalisez pour pousser une créature avec cette arme.
+
+#### Précision
+Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible prend 1d6 dégâts supplémentaires.
