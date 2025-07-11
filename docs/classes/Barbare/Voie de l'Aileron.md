@@ -1,1 +1,17 @@
 Des communautés tribales existent dans tous les royaumes, dans tous les types de climats. Bien que leurs coutumes changes, une certitude inébranlable, observée à maintes reprises, est le respect pour des animaux bien particulier. Ceux-ci sont variés : les tribus du Nord vénèrent le Loup ou l'Ours, celles du désert suivent le Faucon ou le Chacal et celles de la jungle peuvent aspirer à devenir un Singe ou un Tigre. C'est dans cette tradition que la Voie de l'Aileron apparut, des guerriers insulaires qui capturent l'essence assoiffée de sang du Grand Requin.
+
+## Aquatique
+
+A partir du moment où vous choisissez cette voie au niveau 3, vous êtes adapté à la vie sous-marine. Vous pouvez respirer sous l'eau et à l'air et avez une vitesse de nage égale à votre vitesse de marche. De plus, lorsque vous nagez, votre rage ne peut se terminer prématurément. 
+
+## Frénésie Alimentaire
+
+A la différence de leurs frères coincés sur terre, les barbares de l'aileron se transforment drastiquement lorsqu'ils entrent en rage. Au niveau 3, lorsque vous ragez, vous vous voyez pousser une rangée de dents incroyablement aiguisée et vous gagnez une attaque de morsure. Votre morsure est une attaque naturelle, que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d8 + votre modificateur de Force dégâts perçants.
+
+A partir du niveau 6, votre morsure est considérée magique vis-à-vis des résistances et immunités aux dégâts non magiques. 
+
+Lorsque vous touchez une créature à 5 ft. avec une attaque de mêlée, vous pouvez utiliser votre action bonus pour réaliser une attaque de morsure contre cette créature. Cette attaque a l'avantage si la cible a moins de la moitié de ses points de vie. Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Constitution (au minimum 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+
+## Sens Sanguin
+
+Un requin adulte peut sentir une simple goutte de sang dans l'eau à presque 2 km. Au niveau 6, vous obtenez un impressionnant odorat. Vous avez l'avantage aux jets d'Intelligence (Investigation) et Sagesse (Perception) qui se base sur l'odorat et vous pouvez automatiquement suivre une créature vivante avec laquelle vous êtes familiers tant que la piste a moins d'une semaine. En passant une minute à vous concentrer, vous pouvez détecter l'odeur de toutes les créatures vivantes dans un rayon de 100 ft. ou de 2 km dans l'eau.
