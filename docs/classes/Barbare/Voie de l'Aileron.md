@@ -15,3 +15,13 @@ Lorsque vous touchez une créature à 5 ft. avec une attaque de mêlée, vous po
 ## Sens Sanguin
 
 Un requin adulte peut sentir une simple goutte de sang dans l'eau à presque 2 km. Au niveau 6, vous obtenez un impressionnant odorat. Vous avez l'avantage aux jets d'Intelligence (Investigation) et Sagesse (Perception) qui se base sur l'odorat et vous pouvez automatiquement suivre une créature vivante avec laquelle vous êtes familiers tant que la piste a moins d'une semaine. En passant une minute à vous concentrer, vous pouvez détecter l'odeur de toutes les créatures vivantes dans un rayon de 100 ft. ou de 2 km dans l'eau.
+
+## Mako
+
+A partir du niveau 10, votre dégâts de morsure passent à 1d10. De plus, une fois par tour lorsque vous touchez une créature avec votre attaque de morsure, elle doit réaliser un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Force) ou êtes mise [[au sol]] ou être [[saisi|saisie]] par vous. La cible a le désavantage à ce jet si vous êtes en train de nager.
+
+## Tsunami
+
+Au niveau 14, lorsque vous entrez en rage, vous pouvez conjurer une vague d'eau salée qui apparaît à vos pieds et glisse avec vous. La vague peut faire jusqu'à 15 ft. de large et 15 ft. de haut et se déplace avec vous lorsque vous nagez. Si une créature est prise par la vague, elle est forcée à nager et à retenir sa respiration jusqu'à ce qu'elle quitte la zone de la vague ou que la vague se déplace loin d'elle. La vague éteint les flammes non protégées dans sa zone. La vague persiste 1 minute après quoi elle se propage dans toutes les directions avant de rapidement s'évaporer.
+
+Une fois que vous avez utilisé cette capacité, vous ne pouvez pas le refaire avant de terminer un repos.
