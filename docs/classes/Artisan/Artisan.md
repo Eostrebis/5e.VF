@@ -110,7 +110,7 @@ En tant qu'artisan, vous êtes capable de créer des armes et des armures de la 
 
 ### Propriétés de Chef-d'Œuvre
 
-Les armes et armures chefs-d'œuvre peuvent être modifiées avec des [[propriétés de chef-d'œuvre]], des modifications avancées qui les transforment en des armes et armures réellement uniques. Les propriétés de chef-d'œuvre sont séparées en 4 niveaux : Apprenti, Compagnon, Maître et Légendaire. Vous pouvez appliquer n'importe quel nombre de propriétés Apprenti à une arme ou jusqu'à 3 propriétés Apprenti à une armure. De plus, vous pouvez appliquer une propriété Compagnon, une Maître et une Légendaire à chaque chef-d'œuvre.
+Les armes et armures chefs-d'œuvre peuvent être modifiées avec des [[propriétés|propriétés de chef-d'œuvre]], des modifications avancées qui les transforment en des armes et armures réellement uniques. Les propriétés de chef-d'œuvre sont séparées en 4 niveaux : Apprenti, Compagnon, Maître et Légendaire. Vous pouvez appliquer n'importe quel nombre de propriétés Apprenti à une arme ou jusqu'à 3 propriétés Apprenti à une armure. De plus, vous pouvez appliquer une propriété Compagnon, une Maître et une Légendaire à chaque chef-d'œuvre.
 
 Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'œuvre, seul vous pouvez l'utiliser.
 
