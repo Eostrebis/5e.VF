@@ -1,5 +1,7 @@
 {
-  "ability_improvements": "DEX +2, SAG +1",
+  "ability_pool": 3,
+  "ability_strong": ["DEX"],
+  "ability_weak": ["WIS"],
   "type": "Humanoïde",
   "languages": [
     {
@@ -15,7 +17,7 @@
     "M"
   ],
   "speed": {
-    "walk": 30
+    "W": 30
   },
   "features": [
     {

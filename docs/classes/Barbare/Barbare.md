@@ -1,6 +1,6 @@
 Un grand humain avance face au blizzard, emmitouflé dans de la fourrure, et traînant sa hache. Il rigole et fonce sur le géant des glaces qui a osé s'aventurer sur le territoire de son clan.
 
-Une demie-orque gronde à l'attention du dernier challenger à défier son pouvoir sur la tribu, prête à briser son coup de ses deux mains comme elle a fait pour les six derniers.
+Une demi-orque gronde à l'attention du dernier challenger à défier son pouvoir sur la tribu, prête à briser son coup de ses deux mains comme elle a fait pour les six derniers.
 
 L'écume à la bouche, un nain balance son casque dans la face d'un drow, puis se retourne et enfonce son coude dans l'estomac d'un autre.
 
