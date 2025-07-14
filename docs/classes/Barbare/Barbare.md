@@ -31,29 +31,29 @@ Qu'est-ce qui vous a amené à l'aventure ? Avez-vous été tenté par les terre
 
 Vous pouvez créer un barbare rapidement en suivant ces suggestions. Commencez par faire de la Force votre caractéristique principale, suivie de la Constitution. Choisissez l'historique [[vagabond]].
 
-| **Le Barbare** |                   |             |
-| -------------- | ----------------- | ----------- |
-| Niveau         | Bonus de Maîtrise | Compétences |
-| 1              | +2                |             |
-| 2              | +2                |             |
-| 3              | +2                |             |
-| 4              | +2                |             |
-| 5              | +3                |             |
-| 6              | +3                |             |
-| 7              | +3                |             |
-| 8              | +3                |             |
-| 9              | +4                |             |
-| 10             | +4                |             |
-| 11             | +4                |             |
-| 12             | +4                |             |
-| 13             | +5                |             |
-| 14             | +5                |             |
-| 15             | +5                |             |
-| 16             | +5                |             |
-| 17             | +6                |             |
-| 18             | +6                |             |
-| 19             | +6                |             |
-| 20             | +6                |             |
+| **Le Barbare** |                   |                                                                |            |                |
+| -------------- | ----------------- | -------------------------------------------------------------- | ---------- | -------------- |
+| Niveau         | Bonus de Maîtrise | Compétences                                                    | Rages      | Dégâts de Rage |
+| 1              | +2                | [[#Rage]], [[#Défense Sans Armure]]                            | 2          | +2             |
+| 2              | +2                | [[#Attaque Téméraire]], [[#Sixième Sens]]                      | 2          | +2             |
+| 3              | +2                | [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]]               | 3          | +2             |
+| 4              | +2                | [[#Augmentation de Caractéristiques]]                          | 3          | +2             |
+| 5              | +3                | [[#Attaque Supplémentaire]], [[#Déplacement Rapide]]           | 3<br>      | +2             |
+| 6              | +3                | Compétence de [[#Voie Primitive]]                              | 4          | +2             |
+| 7              | +3                | [[#Instinct Féral]], [[#Bond Instinctif (Opt.)]]               | 4          | +2             |
+| 8              | +3                | [[#Augmentation de Caractéristiques]]                          | 4          | +2             |
+| 9              | +4                | [[#Critique Brutal]] (1 dé)                                    | 4          | +3             |
+| 10             | +4                | Compétence de [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]] | 4          | +3             |
+| 11             | +4                | [[#Rage Implacable]]                                           | 4          | +3             |
+| 12             | +4                | [[#Augmentation de Caractéristiques]]                          | 5          | +3             |
+| 13             | +5                | [[#Critique Brutal]] (2 dés)                                   | 5          | +3             |
+| 14             | +5                | Compétence de [[#Voie Primitive]]                              | 5          | +3             |
+| 15             | +5                | [[#Rage Persistante]]                                          | 5          | +3             |
+| 16             | +5                | [[#Augmentation de Caractéristiques]]                          | 5          | +4             |
+| 17             | +6                | [[#Critique Brutal]] (3 dés)                                   | 6          | +4             |
+| 18             | +6                | [[#Puissance Indomptable]]                                     | 6          | +4             |
+| 19             | +6                | [[#Augmentation de Caractéristiques]]                          | 6          | +4             |
+| 20             | +6                | [[#Champion Primal]]                                           | Illimitées | +4             |
 
 # Compétences de Classes
 
@@ -69,9 +69,9 @@ En tant que barbare, vous disposez des compétences de classes suivantes. Les co
 
 ### Maîtrises
 
-**Armure :** Armures Simples, Armures Moyennes, Boucliers
+**Armure :** [[Armures Légères]], [[Armures Moyennes]], [[Bouclier, Équipement|Boucliers]]
 
-**Armes :** Armes Simples, Armes Martiales
+**Armes :** [[Armes Simples]], [[Armes Martiales]]
 
 **Outils :** Aucun
 
@@ -120,6 +120,27 @@ Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que
 ## Voie Primitive
 
 Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des compétences aux niveaux 3, 6, 10 et 14.
+
+| Voie                            | Description                                                                             |
+| ------------------------------- | --------------------------------------------------------------------------------------- |
+| [[Voie de l'Aileron]]           | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées          |
+| [[Voie de la Bête]]             |                                                                                         |
+| [[Voie de la Magie Sauvage]]    |                                                                                         |
+| [[Voie de la Sérénité]]         | Un guerrier zen qui rentre en état de transe pendant les combats                        |
+| [[Voie de Mashle]]              | Clairement un "magicien". Un "magicien" costaud et énervé                               |
+| [[Voie du Berserker]]           |                                                                                         |
+| [[Voie du Colosse]]             | Double sa taille pour écraser ses ennemis                                               |
+| [[Voie du Fanatique]]           |                                                                                         |
+| [[Voie du Fléau]]               |                                                                                         |
+| [[Voie du Fou de Guerre]]       |                                                                                         |
+| [[Voie du Gardien Ancestral]]   |                                                                                         |
+| [[Voie du Guerrier Totémique]]  |                                                                                         |
+| [[Voie du Heavy Metal]]         | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes |
+| [[Voie du Héraut des Tempêtes]] |                                                                                         |
+| [[Voie du Lunatique]]           |                                                                                         |
+| [[Voie du Mage Rageur]]         | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité |
+| [[Voie du Maudit]]              |                                                                                         |
+| [[Voie du Tonneau]]             |                                                                                         |
 
 ## Savoir Primitif (Opt.)
 
