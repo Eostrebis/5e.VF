@@ -26,7 +26,7 @@ La plupart des shifters ressemblent à un certain type de thérianthrope. Vous p
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] ainsi qu'un autre langage approprié de votre choix.
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] ainsi qu'un autre langage approprié de votre choix.
 
 **Âge.** Les shifters maturent plus rapidement que les humains aussi bien physiquement qu'émotionnellement ; ils deviennent adultes à l'âge de 10 ans. Ils ne vivent que rarement au-delà de 70 ans.
 

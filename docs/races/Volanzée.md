@@ -16,7 +16,7 @@ En plus de leur talent de grimpeurs nés, les volanzées ont des pieds aussi dex
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et un autre langage approprié de votre choix.
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et un autre langage approprié de votre choix.
 
 **Âge.** Les volanzées grandissent plus vite que les humains, devenant adultes à 15 ans, mais ne vivent que rarement plus de 80 ans.
 

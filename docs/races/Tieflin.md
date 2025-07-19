@@ -26,7 +26,7 @@ Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et êtr
 
 #### Noms
 
-Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certain, le nom choisi est une noble quête. Pour d'autre, une sombre destinée.  
+Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certain, le nom choisi est une noble quête. Pour d'autre, une sombre destinée.  
 
 __Nom Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
 
@@ -45,7 +45,7 @@ Les tieflins liés à Nessus commandent le feu et les ténèbres, guidés par un
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -70,7 +70,7 @@ Le royaume en ruine de Maladomini est dirigé par Belzébuth, qui excelle dans l
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -95,7 +95,7 @@ La grande cité de Dis occupe la majorité du deuxième niveau des Enfers. C'est
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -120,7 +120,7 @@ Maître manipulatrice, Fierna confère à ses tieflins de puissantes personnalit
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -145,7 +145,7 @@ Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utilise 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -170,7 +170,7 @@ La Stygie gelée est dirigée par Levistus, archidiable connu pour offrir des ma
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -195,7 +195,7 @@ Le grand avare Mammon adore l'or par-dessus tout. Les tieflins qui lui sont lié
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -220,7 +220,7 @@ Dans le royaume gelé de Cania, Méphistophélès offre un pouvoir arcanique à 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -245,7 +245,7 @@ Les tieflins liés à Zariel sont plus forts que le tieflin typique et reçoiven
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -270,7 +270,7 @@ Ancien dirigeant d'Averne, Bel confère à ses tieflins la capacité de voler.
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
@@ -295,7 +295,7 @@ Habile manipulateur des mots et serviteur de Belzébuth, Neabaz confère à ses 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Infernal|Infernal]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 

@@ -13,7 +13,7 @@ Originaires de la Féerie — une terre d'émotion pure —, les satyres prospè
 
 **Type de Créature.** Vous êtes un Fey.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et le [[langues#Sylvain|Sylvain]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Sylvain|Sylvain]].
 
 **Âge.** Les satyres grandissent et vieillissent au même rythme que les humains.
 

@@ -14,7 +14,7 @@ L'apparence des tabaxis est aussi variée que leur caractère. Certains tabaxis 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et une autre langue adaptée de votre choix.
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et une autre langue adaptée de votre choix.
 
 **Âge.** Les tabaxis grandissent comme les humains.
 

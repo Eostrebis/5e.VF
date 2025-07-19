@@ -16,7 +16,7 @@ Les thri-keen parlent en faisant claquer leurs mandibules et en ondulant leur an
 
 **Type de Créature.** Vous êtes une Monstruosité.
 
-**Langage.** Vous parlez le Commun et l'[[langues#Astral|Astral]].
+**Langage.** Vous parlez le Commun et l'[[Langues#Astral|Astral]].
 
 **Âge.** Les thri-keen maturent exceptionnellement rapidement, devenant adultes à l'âge de 5 ans. Un thri-keen peut vivre pendant plusieurs siècles.
 

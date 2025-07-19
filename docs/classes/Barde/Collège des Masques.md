@@ -70,7 +70,7 @@ Au lieu d'un visage, ce masque en bronze arbore un symbole sacré, avec de fins 
 | Niveau de Barde | Sorts                                            |
 | --------------- | ------------------------------------------------ |
 | 3               | [[aide]], [[restauration partielle]]             |
-| 5               | [[mot de soin de groupe]], [[langues]]           |
+| 5               | [[mot de soin de groupe]], [[Langues]]           |
 | 7               | [[bannissement]], [[protection contre la mort]]  |
 | 9               | [[restauration supérieure]], [[soins de groupe]] |
 

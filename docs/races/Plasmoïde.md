@@ -16,7 +16,7 @@ Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et s
 
 **Type de Créature.** Vous êtes une Vase.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Astral|Astral]]
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Astral|Astral]]
 
 **Âge.** Les plasmoïdes n'ont pas de maturation à proprement parler. Ils deviennent adultes à partir de 2 ans et peuvent vivre jusqu'à 150 ans.
 

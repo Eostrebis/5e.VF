@@ -6,7 +6,7 @@
 | -------------- | ------------------------------------------------- |
 | 1              | [[Identification]], [[serviteur invisible]] |
 | 3              | [[Verrou magique]], [[localisation d'objet]]      |
-| 5              | [[Glyphe de protection]], [[langues]]   |
+| 5              | [[Glyphe de protection]], [[Langues]]   |
 | 7              | [[Fabrication]], [[coffre secret]]               |
 | 9              | [[Création]], [[quête]]          |
 

@@ -14,7 +14,7 @@ Crées par la déesse Bélhorixa, puissante guerrière et cheftaine, les orques 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[langues#Commun|Commun]] et l'[[langues#Orque|Orque]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Orque|Orque]].
 
 **Âge.** Les orques atteignent l'âge adulte à 12 ans et vivent jusqu'à 60 ans.
 
