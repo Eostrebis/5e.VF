@@ -29,7 +29,7 @@ Langue des peuples aériens, elle est composée de clics et de soufflements. Leu
 "Décoller" -> t'catsu
 
 
-###### Idiomes
+##### Idiomes
 
 "Avoir le vent brisé" -> Être en détresse et/ou piégé
 
@@ -40,3 +40,10 @@ Langue des peuples aériens, elle est composée de clics et de soufflements. Leu
 "C'est un _tsuca_ qui se prend pour un nuage" -> Un imbécile prétentieux
 
 "La _chetsetsou_ d'un colibri" -> Une tâche particulièrement inefficace, si ce n'est néfaste
+
+#### Céleste
+
+Langue majestueuse des Plans Supérieurs, elle est plus chantée que parlée. Elle est composées de consonnes courtes et de voyelles allongées.
+
+##### Vocabulaire Simple
+
