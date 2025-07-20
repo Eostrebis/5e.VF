@@ -54,3 +54,14 @@ Le Charisme est votre caractéristique d'incantation pour vos sorts d'ensorceleu
 | 18                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
 | 19                | 3               | 12           | 4  ---- 3  ---- 3  ---- 1  |
 | 20                | 3               | 13           | 4  ---- 3  ---- 3  ---- 1  |
+## Furie Arcanique
+
+A partir du niveau 6, lorsque vous utilisez votre action pour attaquer lorsque vous ragez et attaquez témérairement, vous pouvez utiliser votre action bonus pour lancer un sort à la place de l'une de vos attaques. Le sort doit avoir une incantation d'une action ou une action bonus.
+
+## Exploits Surnaturels
+
+Au niveau 10, vous pouvez canaliser votre magie latente pour réaliser de spectaculaires exploits. Même lorsque vous n'êtes pas en rage, vous pouvez lancer les sorts suivants à volonté, ne vous ciblant que vous-même, sans avoir à dépenser d'emplacement de sort ou de composantes matérielles : [[vision dans le noir]], [[feuille morte]], [[bond]] ou [[vision de l'invisible]].
+
+## Explosions Occultes
+
+A partir du niveau 14, vous manifestez des décharges arcaniques à chacun de vos coups. Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez dépenser un emplacement de sort pour créer une explosion d'énergie à un point que vous choisissez à 10 ft. Chaque créature autre que vous dans un rayon de 10 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sorts, prenant 2d6 dégâts de force par niveau d'emplacement de sort dépensé en cas d'échec, la moitié en cas de réussite.
