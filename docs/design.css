@@ -64,6 +64,13 @@
 .figure-left > .admonition-title {
 	padding: 0;
 	margin: 0;
+	background-color: var(--md-default-bg-color);
+}
+
+.figure > .admonition-title::before,
+.figure-right > .admonition-title::before,
+.figure-left > .admonition-title::before {
+	visibility: hidden;
 }
 
 .admonition.figure-right {
