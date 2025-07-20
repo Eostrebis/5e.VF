@@ -40,40 +40,56 @@
   --md-default-bg-color: var(--bg);
   --md-primary-bg-color: var(--banner);
   --md-typeset-table-color: var(--table);
+  --md-admonition-icon--figure:;
+  --md-admonition-icon--figure-right:;
+  --md-admonition-icon--figure-left:;
+
 }
 
-.callout[data-callout^="figure"] {
+
+
+.admonition.figure {
 	padding: .5em;
 	margin: .5em;
 	background-color: var(--bg);
-	& .callout-icon {
-		display: none;
-	}
-
-	& .callout-title {
-		padding: 0;
-		margin: 0;
-	}
-
-	& .callout-content {
-		padding: 0;
-		margin: 0;
-		border: none;
-		box-shadow: none;
-	}
+	border: none;
+	box-shadow: none;
 	max-width: 40%;
   	margin-left: auto !important;
   	margin-right: auto !important;
 }
 
-.callout[data-callout^="figure-right"] {
-	float: right;
-	width: 50%;
+.figure > .admonition-title,
+.figure-right > .admonition-title,
+.figure-left > .admonition-title {
+	padding: 0;
+	margin: 0;
 }
 
-.callout[data-callout^="figure-left"] {
+.admonition.figure-right {
+	padding: .5em;
+	margin: .5em;
+	float: right;
+	width: 50%;
+	background-color: var(--bg);
+	border: none;
+	box-shadow: none;
+	max-width: 40%;
+  	margin-left: auto !important;
+  	margin-right: auto !important;
+}
+
+.admonition.figure-left {
+	padding: .5em;
+	margin: .5em;
 	float: left;
 	width: 50%;
+	background-color: var(--bg);
+	border: none;
+	box-shadow: none;
+	max-width: 40%;
+  	margin-left: auto !important;
+  	margin-right: auto !important;
 }
 
 .base-block {
