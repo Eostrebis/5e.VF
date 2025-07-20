@@ -4,6 +4,9 @@ subrace: false
 
 ### Description
 
+> [!figure-left] ![[Autognomes.webp]] 
+><center>Trois Autognomes</center>
+
 Les autognomes sont des êtres mécaniques construits par des [[Gnome|gnomes]] des roches. Parfois, que ce soit par un dysfonctionnement ou une circonstance exceptionnelle, un autognome peut devenir indépendant de son créateur et survivre par lui-même. 
 
 Un autognome ressemble généralement à son créateur, et la majorité des autognomes sont programmés pour parler et comprendre le [[Langues#Gnomique|Gnomique]]. Les composants internes utilisés dans la création d'un autognome peuvent varier ; un autognome peut posséder un véritable cœur dans sa cage thoracique, tandis qu'un autre pourrait être alimenté par la poussière d'étoile ou un savant travail d'horlogerie.

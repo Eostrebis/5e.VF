@@ -3,6 +3,9 @@ subrace: false
 ---
 ### Description
 
+> [!figure-left] ![[Aasimar.png]] 
+><center>Un Aasimar</center>
+
 Qu'ils descendent d'un être céleste ou qu'ils soient insufflés d'un pouvoir céleste, les aasimars sont des mortels qui portent en eux une étincelle des Plans Supérieurs. Ils peuvent utiliser cette étincelle pour apporter la lumière, apaiser des blessures, ou déchaîner la furie des cieux. Les aasimars peuvent apparaître dans n'importe quelle population de mortels.
 
 Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possède des caractéristiques physiques indiquant son héritage céleste. Ces caractéristiques sont généralement initialement subtiles, et deviennent de plus en plus évidentes au fur et à mesure que l'aasimar gagne la capacité de révéler sa nature céleste. La table de Caractéristiques Aasimar contient des exemples que vous pouvez choisir ou utiliser pour vous inspirer.
@@ -16,7 +19,6 @@ Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possèd
 | 5   | Un halo fantomatique au dessus de votre tête                      |
 | 6   | Des arc-en-ciels reluisant sur votre peaux                        |
 
-![[Aasimar.png]]
 ### Culture
 
 ### Langue
