@@ -71,7 +71,7 @@
 	margin: .5em;
 	float: right;
 	width: 50%;
-	background-color: var(--bg);
+	background-color: var(--md-default-bg-color);
 	border: none;
 	box-shadow: none;
 	max-width: 40%;
