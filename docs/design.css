@@ -42,6 +42,40 @@
   --md-typeset-table-color: var(--table);
 }
 
+.callout[data-callout^="figure"] {
+	padding: .5em;
+	margin: .5em;
+	background-color: var(--bg);
+	& .callout-icon {
+		display: none;
+	}
+
+	& .callout-title {
+		padding: 0;
+		margin: 0;
+	}
+
+	& .callout-content {
+		padding: 0;
+		margin: 0;
+		border: none;
+		box-shadow: none;
+	}
+	max-width: 40%;
+  	margin-left: auto !important;
+  	margin-right: auto !important;
+}
+
+.callout[data-callout^="figure-right"] {
+	float: right;
+	width: 50%;
+}
+
+.callout[data-callout^="figure-left"] {
+	float: left;
+	width: 50%;
+}
+
 .base-block {
   background: var(--base-block);
 } 
