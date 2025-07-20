@@ -13,24 +13,44 @@ Vous connaissez deux cantrips de votre choix de la liste de sorts de l'ensorcele
 
 ### Préparation et Incantation de Sorts
 
-La table du Clerc indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts de clerc. Pour lancer un sort de clerc de niveau 1 ou supérieur, vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements utilisés lorsque vous terminez un repos long.
+La table du Mage Rageur indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts. Pour lancer un sort vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements utilisés lorsque vous terminez un repos long.
 
-Vous préparez la liste des sorts de clerc qui vous sont disponibles à l'incantation en choisissant parmi la liste de sorts du clerc. Lorsque vous le faites, choisissez un nombre de sorts de clerc égal à votre modificateur de Sagesse + votre niveau de clerc (minimum de 1 sort). Chacun de ces sorts doit être d'un niveau pour lequel vous avez des emplacements. Par exemple, lorsque vous atteignez le niveau 3, vous pouvez apprendre un nouveau sort de niveau 1 ou 2.
+### Sorts Connus au Niveau 3 et Après
 
-Vous pouvez changer votre liste de sorts préparés lorsque vous terminez un repos long. Préparer une nouvelle liste de sorts requiert du temps passé en prières et méditation : au moins 1 minute par niveau de sort pour chaque sort dans votre liste.
+Vous connaissez trois sorts de niveau 1 de l'ensorceleur de votre choix, deux d'entre eux devant être de l'école de l'évocation ou de la transmutation. 
+
+La colonne "Sorts Connus" de la table du Mage Rageur vous indique lorsque vous apprenez de nouveaux sorts. Chacun de ces sorts doit être de l'école de la transmutation ou de l'évocation et être d'un niveau pour lequel vous possédez des emplacements de sort. 
+
+Les sorts que vous apprenez aux niveaux 8, 14 et 20 peuvent être de n'importe quelle école de magie. 
+
+Lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer l'un des sorts d'ensorceleur que vous connaissez avec un autre de la liste de sorts de l'ensorceleur. Le nouveau sort doit être de l'école de l'évocation ou de la transmutation, sauf si vous remplacez un sort que vous avez obtenu aux niveaux 3, 8, 14 ou 20.
 
 ### Caractéristique d'Incantation
 
-La Sagesse est votre caractéristique d'incantation pour vos sorts de clerc. Le pouvoir de vos sorts vient de votre dévotion à votre déité. En outre, vous utilisez votre modificateur de Sagesse pour définir le DD du jet de sauvegarde d'un sort de clerc que vous lancez ainsi que pour le jet d'attaque de celui-ci.
+Le Charisme est votre caractéristique d'incantation pour vos sorts d'ensorceleur. Vous utilisez votre modificateur de Charisme pour définir le DD du jet de sauvegarde d'un sort d'ensorceleur que vous lancez ainsi que pour le jet d'attaque de celui-ci.
 
-<p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur de Sagesse</p>
+<p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur de Charisme</p>
 
-<p style="text-align:center"><b>Modificateur aux attaques avec un sort</b> = bonus de maîtrise + modificateur de Sagesse</p>
+<p style="text-align:center"><b>Modificateur aux attaques avec un sort</b> = bonus de maîtrise + modificateur de Charisme</p>
 
-### Incantation Rituelle
-
-Vous pouvez lancer un sort de clerc comme un rituel s'il possède l'identifiant `rituel` et si vous avez le sort préparé.
-
-### Focalisateur d'incantation
-
-Vous pouvez utiliser un [[symbole sacré]] comme focalisateur d'incantation pour vos sorts de clerc.
+| Niveau de Barbare | Cantrips Connus | Sorts Connus | Emplacements de sorts      |
+| ----------------- | --------------- | ------------ | -------------------------- |
+|                   |                 |              | 1  ---- 2  ---- 3  ---- 4  |
+| 3                 | 2               | 3            | 2  ---- -- ---- -- ---- -- |
+| 4                 | 2               | 4            | 3  ---- -- ---- -- ---- -- |
+| 5                 | 2               | 4            | 3  ---- -- ---- -- ---- -- |
+| 6                 | 2               | 4            | 3  ---- -- ---- -- ---- -- |
+| 7                 | 2               | 5            | 4  ---- 2  ---- -- ---- -- |
+| 8                 | 2               | 6            | 4  ---- 2  ---- -- ---- -- |
+| 9                 | 2               | 6            | 4  ---- 2  ---- -- ---- -- |
+| 10                | 3               | 7            | 4  ---- 3  ---- -- ---- -- |
+| 11                | 3               | 8            | 4  ---- 3  ---- -- ---- -- |
+| 12                | 3               | 8            | 4  ---- 3  ---- -- ---- -- |
+| 13                | 3               | 9            | 4  ---- 3  ---- 2  ---- -- |
+| 14                | 3               | 10           | 4  ---- 3  ---- 2  ---- -- |
+| 15                | 3               | 10           | 4  ---- 3  ---- 2  ---- -- |
+| 16                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
+| 17                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
+| 18                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
+| 19                | 3               | 12           | 4  ---- 3  ---- 3  ---- 1  |
+| 20                | 3               | 13           | 4  ---- 3  ---- 3  ---- 1  |
