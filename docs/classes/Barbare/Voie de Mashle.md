@@ -30,7 +30,6 @@ Vous pouvez lancer chacun de ces sorts une fois et récupérez la possibilité d
 
 **Bouclier.** En tant que réaction lorsque vous êtes ciblé par une attaque, vous pouvez rapidement sortir un bouclier pour vous protéger. Vous gagnez le bonus de CA du bouclier contre cette attaque, même si vous ne le portiez pas avant. Si vous êtes touché, vous pouvez réduire les dégâts d'un nombre égal à 1d12 + votre modificateur de Constitution.
 
-
 ## Résistance Magique
 
 Au niveau 10, vous êtes devenu un magicien si extraordinaire que même les autres magiciens ne peuvent pas vous toucher. Tant que vous êtes enragé, vous avez la résistance aux dégâts de sorts.
