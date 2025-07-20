@@ -3,7 +3,7 @@ subrace: false
 ---
 ### Description
 
-> [!figure-left] ![[Aasimar.png]] 
+> [!figure-right] ![[Aasimar.png]] 
 ><center>Un Aasimar</center>
 
 Qu'ils descendent d'un être céleste ou qu'ils soient insufflés d'un pouvoir céleste, les aasimars sont des mortels qui portent en eux une étincelle des Plans Supérieurs. Ils peuvent utiliser cette étincelle pour apporter la lumière, apaiser des blessures, ou déchaîner la furie des cieux. Les aasimars peuvent apparaître dans n'importe quelle population de mortels.

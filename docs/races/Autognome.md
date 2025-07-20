@@ -4,7 +4,7 @@ subrace: false
 
 ### Description
 
-> [!figure-left] ![[Autognomes.webp]] 
+> [!figure-right] ![[Autognomes.webp]] 
 ><center>Trois Autognomes</center>
 
 Les autognomes sont des êtres mécaniques construits par des [[Gnome|gnomes]] des roches. Parfois, que ce soit par un dysfonctionnement ou une circonstance exceptionnelle, un autognome peut devenir indépendant de son créateur et survivre par lui-même. 
