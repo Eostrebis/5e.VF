@@ -5,7 +5,7 @@ Les dieux de la Tombe observent la frontière entre la vie et la mort. Pour ces 
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |
 | 1              | [[Fléau]], [[simulacre de vie]] |
-| 3              | [[Préservation des morts]], [[rayon affaiblissant]]     |
+| 3              | [[docs/sorts/Repos Éternel]], [[rayon affaiblissant]]     |
 | 5              | [[Retour à la vie]], [[touche vampirique]]   |
 | 7              | [[Flétrissement]], [[protection contre la mort]]         |
 | 9              | [[Coquille antivie]], [[rappel à la vie]]         |

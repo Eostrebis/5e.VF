@@ -217,7 +217,7 @@ title: Sorts
 | Gaseous Form                         | [[Forme Gazeuse]]                         |
 | Gate                                 | [[Portail]]                               |
 | Geas                                 | [[Quête]]                                 |
-| Gentle Repose                        | [[Préservation des Morts]]                |
+| Gentle Repose                        | [[docs/sorts/Repos Éternel]]                |
 | Giant Insect                         | [[Insecte Géant]]                         |
 | Gift of Gab                          | [[Don du Bagou]]                          |
 | Glibness                             | [[Bagou]]                                 |

@@ -5,7 +5,7 @@ La magie noir est souvent associée avec les maléfices qui causent douleur et s
 | Niveau de Sort | Sorts                                            |
 | -------------- | ------------------------------------------------ |
 | 1              | [[Exhumation]], [[Blessure]]                     |
-| 2              | [[Préservation des Morts]], [[Arme Magique]]     |
+| 2              | [[docs/sorts/Repos Éternel]], [[Arme Magique]]     |
 | 3              | [[Animation des Morts]], [[Touche Vampirique]]   |
 | 4              | [[Flétrissement]], [[Protection contre la Mort]] |
 | 5              | [[Brume Mortelle]], [[Contagion]]                |
