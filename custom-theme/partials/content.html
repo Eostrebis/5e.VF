@@ -73,6 +73,12 @@
   <em> Prérequis : {{page.meta.requis}} </em>
 {%endif%}
 
+{%if page.meta.donneur%}
+  <em> Donneur : {{page.meta.donneur}} </em>
+  <em> Emplacement : {{page.meta.emplacement}} </em>
+{%endif%}
+
+
 <!-- Page content -->
 {%if page.meta.load%}
     {% include "partials/loader.html" %}
