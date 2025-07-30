@@ -1,6 +1,6 @@
 Les capitaines qui arborent l'étendard du Bélier ne cherchent pas à contourner les obstacles, ils passent à travers par force brute. Lorsque c'est possible, ces capitaines obligent leurs ennemis à rester sur la défensive, les balançant au sol ou les repoussant vers des positions moins avantageuses, là où leurs cohortes peuvent terminer le travail. L'Étendard du Bélier voit ces tactiques non seulement comme équitables, mais surtout comme optimales, puisque la validité des techniques de combat ne devrait être estimée que par l'efficacité.
 
-## Manœuvre :  Ruée
+## Manœuvre : Ruée
 
 À partir du moment où vous choisissez cet étendard au niveau 3, vous apprenez la manœuvre suivante :
 
@@ -16,4 +16,4 @@ Au niveau 13, vous pouvez propulser vos ennemis vers le danger. Lorsque vous rep
 
 ## Reste Couché !
 
-À partir du niveau 17, lorsqu'une créature se relève après que vous l'ayez mis [[au sol]] et se trouve dans votre portée, vous pouvez réaliser une attaque d'opportunité contre elle.
+À partir du niveau 17, lorsqu'une créature se relève après que vous l'avez mis [[au sol]] et se trouve dans votre portée, vous pouvez réaliser une attaque d'opportunité contre elle.
