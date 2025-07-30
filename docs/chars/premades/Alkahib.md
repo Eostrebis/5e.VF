@@ -65,7 +65,7 @@ Il est drapé dans des robes d'érudit simples, de couleur claire, qui portent �
  - 
 ## Historique
 
-La vie d'Alkahib aurait dû être un murmure. Il est né et a grandi dans la Grande Aerie du Pic Silencieux, une communauté de Hooms nichée si haut dans les montagnes que le monde d'en bas n'était qu'un tapis de nuages. Le silence était leur langage, la contemplation leur mode de vie. Un hululement doux, un bruissement d'ailes, un regard… tout était communication. Alkahib était un enfant prometteur, doté d'une sagesse et d'une perception qui dépassaient son jeune âge. Les anciens voyaient en lui un futur gardien du savoir, un philosophe, un guide pour le conclave.
+La vie d'Alkahib aurait dû être un murmure. Il est né et a grandi dans la Grande Aérie du Pic Silencieux, une communauté de Hooms nichée si haut dans les montagnes que le monde d'en bas n'était qu'un tapis de nuages. Le silence était leur langage, la contemplation leur mode de vie. Un hululement doux, un bruissement d'ailes, un regard… tout était communication. Alkahib était un enfant prometteur, doté d'une sagesse et d'une perception qui dépassaient son jeune âge. Les anciens voyaient en lui un futur gardien du savoir, un philosophe, un guide pour le conclave.
 
 Il excellait dans les études, absorbant les traditions et les philosophies avec une facilité déconcertante. Puis vint le temps du premier envol, le rite de passage de tout Alkahib. Il se tenait au bord de la falaise, le cœur empli non pas de peur, mais d'une joie pure et expansive. Il sentait le vent dans ses plumes, l'appel du ciel. Il voulut s'élancer, et dans un élan de pur bonheur, il fit appel à la magie innée qui sommeillait en lui pour l'aider à s'élever, à danser avec les courants d'air.
 
@@ -87,7 +87,7 @@ Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Q
 
 __Traits :__ 
 
-__Idéal :__ 
+__Idéal :__   
 
 __Lien :__ 
 
