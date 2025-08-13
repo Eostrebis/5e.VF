@@ -155,12 +155,12 @@ L'alignement de votre cohorte se trouve à un pas du vôtre et possède des trai
 | Étendard                    | Description                                                                                                  |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [[Étendard du Dragon]]      | Utilise les manœuvres pour annihiler ses ennemis sur le champ de bataille                                    |
-| [[Étendard de l'Aigle]]        | Un maître de l'arc qui utilise des tirs de précision pour abattre ses ennemis d'en haut                      |
+| [[Étendard de l'Aigle]]     | Un maître de l'arc qui utilise des tirs de précision pour abattre ses ennemis d'en haut                      |
 | [[Étendard du Jolly Roger]] | Un duelliste et bretteur entraîné aux sabres et tactiques déloyales des brigands                             |
 | [[Étendard du Lion]]        | Un chef chevaleresque qui défie ses adversaires en combat d'honneur                                          |
 | [[Étendard du Bélier]]      | Pousse ses adversaires et les met au sol pour gagner l'avantage                                              |
-| [[Étendard du Corbeau]]     | Un maître furtif de la guerilla et des tactiques secrètes                                                    |
-| [[Étendard de la Tortue]]      | Met l'accent sur la défense avant tout, en utilisant des tactiques d'armures lourdes et de mur de boucliers. |
+| [[Étendard du Corbeau]]     | Un maître furtif de la guérilla et des tactiques secrètes                                                    |
+| [[Étendard de la Tortue]]   | Met l'accent sur la défense avant tout, en utilisant des tactiques d'armures lourdes et de mur de boucliers. |
 
 ## Tactiques de Guerre
 
