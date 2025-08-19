@@ -17,34 +17,23 @@
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
-> - __Défense sans Armure.__ Tant que le berserker ne porte ni armure ni bouclier, sa CA inclue son modificateur de Constitution.
+> - __Défense sans Armure.__ Tant que le berserker ne porte ni armure ni bouclier, sa CA inclut son modificateur de Constitution.
 >___
 >
 >### Actions
 >***Hache à Deux Mains.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 8 (1d12 + 2) dégâts tranchants.
 >
 >***Hachette.*** *Attaque Armée de Mêlée ou à Distance :* +4 pour toucher, portée 5 ft. ou 20/60 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts tranchants.
->
->***Mains Soignantes (1/Jour).*** L'abbé ou une créature que l'abbé touche regagne 11 (2d8+2) points de vie
->
-> ### Actions Bonus
-> ***Coup Traçant (1/Jour).*** Lorsque l'abbé touche une créature avec une attaque armée, il peut entourer la cible de lumière divine. Le prochain jet d'attaque réalisé contre la cible avant la fin du prochain tour de l'abbé a l'avantage.
-
 ### Compétences de Cohorte
 
-Tant qu'il suit les ordres de son capitaine, l'abbé obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
+Tant qu'il suit les ordres de son capitaine, le berserker obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Dévotion Divine.__ L'abbé peut utiliser ses ___Mains Soignantes___ et ___Coup Traçant___ une fois supplémentaire lorsque le capitaine atteint le niveau 5, 11 et 17, jusqu'à un maximum de 4 fois par jour.
+_Niveau 2._ __Témérité.__ Au début de son tour, le berserker peut obtenir l'avantage à tous ses jets d'attaque armée de mêlée pendant le tour, mais les attaques contre lui ont l'avantage jusqu'au début de son prochain tour.
 
-_Niveau 6._ _Action :_ __Incantation.__ L'abbé lance l'un des sorts suivants, sans avoir besoin de composantes matérielles et en utilisant sa Sagesse comme caractéristique d'incantation (DD de jet de sauvegarde de sort : 12) :
+_Niveau 6._ __Increvable (1/jour).__ Si le berserker tombe à 0 point de vie mais ne meurt pas sur le coup, il tombe à 1 point de vie à la place.
 
- - À volonté : [[assistance]], [[stabilisation]]
- - 1/jour chacun : [[bénédiction]], [[restauration partielle]], [[protection contre le mal et le bien]]
+_Niveau 10._ _Réaction :_ __Représailles (3/jour).__ En réponse après avoir été touché par une attaque de mêlée, le berserker peut réaliser une attaque armée de mêlée contre l'attaquant.
 
-_Niveau 10._ __Frappe Divine.__ L'abbé inflige 1d8 dégâts radiants supplémentaires lorsqu'il touche avec une attaque.
+_Niveau 14._ __Avancée Critique.__ Une fois par tour, lorsque le berserker inflige un coup critique, il peut se déplacer de jusqu'à sa vitesse et réaliser une attaque armée de mêlée avec avantage.
 
-_Niveau 14._ _Action :_ __Incantation.__ L'incantation de l'abbé s'améliore. Il peut lancer les sorts supplémentaires suivants :
-
- - 1/jour chacun : [[protection contre la mort]], [[retour à la vie]], [[communication avec les morts]]
-
-_Niveau 18._ _Réaction :_ __Lumière Miséricordieuse (1/jour).__ En réponse à une créature alliée à 30 ft. prenant des dégâts, l'abbé peut rendre un nombre de points de vie à cette créature égal à 2d8 + son modificateur de Sagesse.
+_Niveau 18._ _Réaction :_ __Résolution Primale.__ Lorsque le berserker possède moins de la moitié de ses points de vie, il est résistant aux dégâts contondants, perçants ou tranchants venant d'attaques non magiques.
