@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("5e/docs/races")
+        - file.ext != "json"
+    order:
+      - file.name
