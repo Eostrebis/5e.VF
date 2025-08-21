@@ -6,7 +6,7 @@ search:
 
 ## Avancée de la Traduction
 
-**Classes.** 9/26 ![](https://geps.dev/progress/35)
+**Classes.** 11/26 ![](https://geps.dev/progress/42)
 
 **Races.** 42/42 ![](https://geps.dev/progress/100) ✨
 
