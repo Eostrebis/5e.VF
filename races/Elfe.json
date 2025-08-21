@@ -1,0 +1,372 @@
+{
+  "type": "Humanoïde",
+  "languages": [
+    {
+      "type": "fix",
+      "value": "Elfique"
+    }
+  ],
+  "size": [
+    "M"
+  ],
+  "features": [
+    {
+      "name": "Ascendance Féerique",
+      "level": 1,
+      "description": "Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir."
+    },
+    {
+      "name": "Transe",
+      "level": 1,
+      "description": "Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil."
+    },
+    {
+      "name": "Sens Aiguisés",
+      "description": "Vous maîtrisez la compétence Perception.",
+      "level": 1,
+      "proficiency": {
+        "type": "fix",
+        "category": "skill",
+        "count": 1,
+        "values": [
+          "Perception"
+        ]
+      }
+    }
+  ],
+  "subraces": [
+    {
+      "name": "Haut Elfe",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Commun"
+        }
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Entraînement aux Armes Elfes",
+          "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
+          "level": 1,
+          "proficiency": {
+            "type": "fix",
+            "category": "weapon",
+            "values": [
+              "Épée Longue",
+              "Épée Courte",
+              "Arc Court",
+              "Arc Long"
+            ]
+          }
+        },
+        {
+          "name": "Cantrip",
+          "level": 1,
+          "add_spells": [
+              {
+                "level": 1,
+                "class": [
+                  "wizard"
+                ],
+                "spellcasting": {
+                  "type": "fix",
+                  "value": "Intelligence"
+                }
+              }
+
+          ],
+          "description": "Vous connaissez un cantrip de votre choix de la liste du magicien. L'intelligence est votre caractéristique de lancement pour ce sort."
+        },
+        {
+          "name": "Langue Supplémentaire",
+          "level": 1,
+          "languages": [
+            {
+              "type": "choice",
+              "count": 1,
+              "choices": []
+            }
+          ],
+          "description": "Vous connaissez une langue supplémentaire de votre choix."
+        }
+      ]
+    },
+    {
+      "name": "Elfe des Bois",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Commun"
+        }
+      ],
+      "speed": {
+        "walk": 35
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Entraînement aux Armes Elfes",
+          "description": "Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.",
+          "level": 1,
+          "proficiency": {
+            "type": "fix",
+            "category": "weapon",
+            "values": [
+              "Épée Longue",
+              "Épée Courte",
+              "Arc Court",
+              "Arc Long"
+            ]
+          }
+        },
+        {
+          "name": "Cachette Naturelle",
+          "level": 1,
+          "description": "Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel."
+        }
+      ]
+    },
+    {
+      "name": "Drow",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Outre-Commun"
+        }
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 120
+        },
+        {
+          "name": "Sensibilité au Soleil",
+          "description": "Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière naturelle.",
+          "level": 1
+        },
+        {
+          "name": "Magie Drow",
+          "level": 1,
+          "description": "Vous connaissez le cantrip lumières dansantes. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort lueurs féériques une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort ténèbres une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.",
+          "spells": {
+            "spellcasting": {
+              "type": "fix",
+              "value": "Charisme"
+            },
+            "0": [
+              {
+                "name": "Lumières dansantes",
+                "atlevel": 1
+              }
+            ],
+            "1": [
+              {
+                "name": "Lueurs féériques",
+                "atlevel": 3
+              }
+            ],
+            "2": [
+              {
+                "name": "Ténèbres",
+                "atlevel": 5
+              }
+            ]
+          },
+          "trackers": [
+            {
+              "type": "fix",
+              "name": "Magie Drow -- Lueurs Féériques",
+              "count": 1,
+              "reset": "LR"
+            },
+            {
+              "type": "fix",
+              "name": "Magie Drow -- Ténèbres",
+              "count": 1,
+              "reset": "LR"
+            }
+          ]
+        },
+        {
+          "name": "Entraînement aux Armes Drow",
+          "description": "Vous obtenez la maîtrise des rapières, des épées courtes, et des arbalètes de poing.",
+          "level": 1,
+          "proficiency": {
+            "type": "fix",
+            "category": "weapon",
+            "values": [
+              "Rapière",
+              "Épée Courte",
+              "Arbalète de Poing"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "Eladrin",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Commun"
+        }
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Transe Saisonnière",
+          "description": " Lorsque vous sortez d'une transe, vous pouvez changer votre saison, et vous gagnez deux maîtrises d'arme ou d'outil que vous n'avez pas. Vous obtenez ces maîtrises mystiquement en tirant dans la mémoire elfe partagée, et vous les conservez jusqu'à votre prochain repos long.",
+          "level": 1
+        },
+        {
+          "name": "Pas de Fée",
+          "level": 1,
+          "description": "Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long."
+        },
+        {
+          "name": "Pas de Fée Amélioré",
+          "description": "À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + Prof. + (Int. ou Wis. ou Cha.) mod :  <ul><li><em>Automne.</em> Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.</li><li><em>Hiver.</em> Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elle doit réussir un jet de sauvegarde de Sagesse ou être effrayée par vous jusqu'au début de votre prochain tour.</li><li><em>Printemps.</em> Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature volontaire et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft. (9m/6 cases).</li><li><em>Été.</em> Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. (1.5m/1 case) de vous prend des dégâts de feu égaux à votre bonus de maîtrise. </li></ul>",
+          "level": 3
+        }
+      ]
+    },
+    {
+      "name": "Elfe des mers",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Aquatique"
+        }
+      ],
+      "speed": {
+        "walk": 30,
+        "swim": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Enfant de la Mer",
+          "description": "Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.",
+          "level": 1
+        },
+        {
+          "name": "Ami de la Mer",
+          "level": 1,
+          "description": "Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour."
+        }
+      ]
+    },
+    {
+      "name": "Shadar-kai",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Ombre-Commun"
+        }
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Résistance Nécrotique",
+          "description": "Vous avez la résistance aux dégâts nécrotiques.",
+          "resistances": [
+            {
+              "type": "fix",
+              "value": "Nécrotique"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "name": "Bénédiction de la Reine Corbeau",
+          "level": 1,
+          "description": "En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long."
+        },
+        {
+          "name": "Bénédiction Supérieure de la Reine Corbeau",
+          "level": 3,
+          "description": "Lorsque vous utilisez votre bénédiction de la Reine Corbeau, vous gagnez également la résistance à tous les dégâts. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique."
+        }
+      ]
+    },
+    {
+      "name": "Elfe Astral",
+      "languages": [
+        {
+          "type": "fix",
+          "value": "Commun"
+        }
+      ],
+      "speed": {
+        "walk": 30
+      },
+      "features": [
+        {
+          "name": "Vision dans le noir",
+          "description": "Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.",
+          "darkvision": 60
+        },
+        {
+          "name": "Résistance Nécrotique",
+          "description": "Vous avez la résistance aux dégâts nécrotiques.",
+          "resistances": [
+            {
+              "type": "fix",
+              "value": "Nécrotique"
+            }
+          ],
+          "level": 1
+        },
+        {
+          "name": "Transe Astrale",
+          "level": 1,
+          "description": "À chaque fois que vous finissez une transe, vous maîtrisez un compétence de votre choix, ainsi qu'une arme ou un outil de votre choix. Vous possédez ces maîtrises magiquement en puisant dans la mémoire partagée elfe du Plan Astral, et vous les gardez jusqu'à ce que vous finissiez votre prochain repos long."
+        },
+        {
+          "name": "Feu Astral",
+          "level": 1,
+          "description": "Vous connaissez l'un des cantrips suivants de votre choix : [[lumières dansantes]], [[lumières]], ou [[flamme sacrée]]. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme. //TODO Add cantrips and spellcasting choice"
+        },
+        {
+          "name": "Pas d'Étoile",
+          "level": 1,
+          "description": "En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long."
+        }
+      ]
+    }
+  ]
+}
