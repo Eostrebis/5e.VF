@@ -1,5 +1,5 @@
 ---
-step: completed
+step: finished
 ---
 ## Personnage
 
@@ -29,6 +29,18 @@ __Vitesse :__ 30 ft.
 | ◎ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : ±0 |
 | ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : -1         |
 | ◎ Intuition (_Sag_) : -1    | ◎ Tromperie (_Cha_) : ±0<br>  |
+
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+> Vous êtes Thaghana, un goliath à la force colossale et à l'intelligence de génie, banni de son clan primitif pour avoir appris à lire, et qui tente maintenant de prouver au monde (souvent avec une frustration explosive) que la stratégie est aussi puissante qu'une hache bien aiguisée.
+> 
+> **Objectif pour la session :** 
+> Votre curiosité est sans fin. Votre but est d'observer, d'analyser et de tester vos théories tactiques dans des situations réelles. Chaque combat est une expérience, chaque conversation une occasion de partager (ou d'imposer) votre savoir. Secrètement, chaque succès est une pierre ajoutée à l'édifice qui, espérez-vous, prouvera un jour à votre clan qu'ils avaient tort.
+> 
+> **Le Professeur Frustré :** Vous êtes un génie passionné entouré d'élèves lents. Expliquez vos plans brillants avec un enthousiasme débordant, en utilisant des mots compliqués tirés de votre livre. Quand on ne vous comprend pas, devenez visiblement frustré (soupirs, grands gestes, simplifications extrêmes comme "ON MONTE, EUX DESCENDENT, ON GAGNE !").
+> 
+> **La Rage n'est pas Aveugle, elle est Exaspérée :** Votre rage n'est pas une fureur bestiale, c'est une crise de nerfs tactique. En combat, hurlez des corrections et des ordres à vos ennemis comme à vos alliés. "PAS COMME ÇA, IMBÉCILE ! LE FLANC !". Vous êtes en colère parce que les gens se battent de manière inefficace.
+> 
+> **Le Livre est la Vérité :** Votre livre de stratégies est votre bible. Brandissez-le pour prouver ce que vous avancez. Posez votre main dessus comme pour vous rassurer. C'est la source de votre force intellectuelle et la cause de votre exil ; il est l'objet le plus important de votre vie.
 
 #### Maîtrises
 
@@ -93,7 +105,7 @@ Une fois que vous vous êtes enragé autant de fois que renseigné dans la table
 
 Tant que vous ne portez aucune armure, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et profiter de cet effet.
 
-### Equipement
+### Équipement
 
  - Une [[hache à deux mains]]
  - Deux [[hachette]]

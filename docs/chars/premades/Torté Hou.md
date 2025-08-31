@@ -30,6 +30,19 @@ __Vitesse :__ 30 ft.
 | ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +6         |
 | ◉ Intuition (_Sag_) : +6    | ◉ Tromperie (_Cha_) : +4<br>  |
 
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+> Vous êtes Torté, une ancienne joueuse de cartes compulsive dont l'addiction a causé une tragédie, et qui dévoue désormais le reste de sa longue vie à être un rempart inébranlable pour les autres, chaque coup encaissé étant un acte de rédemption.
+> 
+> **Objectif pour la session :**
+> Votre vœu est de protéger ceux qui ne peuvent se protéger. Votre objectif est simple : identifier la personne ou le groupe le plus vulnérable dans la situation actuelle et vous assurer qu'il ne leur arrive aucun mal, quitte à vous transformer en un mur de carapace et d'acier entre eux et le danger.
+>  
+> **Parlez comme une Joueuse :** Votre vision du monde est celle d'une partie de cartes. Utilisez constamment des métaphores de jeu ("Il bluffe", "Quelle est la cote ?", "On ne fait pas tapis tout de suite"). Parlez lentement, avec une voix grave, et analysez tout le monde comme si vous cherchiez leurs "tics" à une table de jeu.
+> 
+> **La Forteresse de la Rédemption :** Vous êtes un roc. En combat, votre place est devant. Utilisez votre "Saisie du Gardien" pour bloquer les ennemis et votre compétence "Double-Mise Protectrice" pour prendre les coups à la place des autres. Chaque blessure que vous subissez est une pénitence que vous acceptez avec une détermination stoïque.
+> 
+> **La Lutte Intérieure :** Votre addiction n'est jamais loin. Jouez cette tension. Vos mains peuvent "mélanger" des cartes fantômes. Face à un jeu de hasard, montrez un mélange d'envie et de dégoût. Votre défaut ("Je suis un grand joueur... mauvais en maths") est une façade : vous êtes excellente au jeu, mais vous vous mentez à vous-même pour ne pas replonger.
+
+
 #### Maîtrises
 
 **Armure :** [[Armures Légères]], [[Armures Moyennes]], [[Bouclier, Équipement|boucliers]]
@@ -77,7 +90,7 @@ Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'ell
 
 Pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour se désengager.
 
-### Equipement
+### Équipement
 
  - Un [[Bouclier, Équipement|bouclier]] et une [[épée longue]]
  - Une [[lance]] et deux [[marteau léger|marteaux légers]]
