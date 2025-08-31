@@ -18,23 +18,23 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 | Niveau de sort | Sorts |
 | -------------- | ----- |
 | 1 | [[Bond]], [[grandes foulées]] |
-| 2 | [[Modification d'apparence]], [[métal brûlant]] |
+| 2 | [[Modification d'Apparence]], [[métal brûlant]] |
 | 3 | [[Forme gazeuse]], [[fusion dans la pierre]] |
 
 ### Ignis
 
 | Niveau de sort | Sorts                                   |
 | -------------- | --------------------------------------- |
-| 1              | [[Mains brûlantes]], [[vague tonnante]] |
-| 2              | [[Saute de vent]], [[rayon ardent]]     |
-| 3              | [[Appel de la foudre]], [[mur de vent]] |
+| 1              | [[Mains Brûlantes]], [[Vague Tonnante]] |
+| 2              | [[Saute de Vent]], [[rayon ardent]]     |
+| 3              | [[Appel de la Foudre]], [[mur de vent]] |
 
 ### Mortis
 
 | Niveau de sort | Sorts                                      |
 | -------------- | ------------------------------------------ |
-| 1              | [[Fléau]], [[simulacre de vie]]            |
-| 2              | [[Cécité ou surdité]], [[ténèbres]]        |
+| 1              | [[Fléau]], [[Simulacre de Vie]]            |
+| 2              | [[Cécité ou Surdité]], [[ténèbres]]        |
 | 3              | [[Retour à la vie]], [[touche vampirique]] |
 
 ### Regis
@@ -42,9 +42,9 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 
 | Niveau de sort | Sorts |
 | -------------- | ----- |
-| 1 | [[Charme-personne]], [[fou rire]] |
+| 1 | [[Charme-personne]], [[Fou Rire]] |
 | 2 | [[Discours captivant]], [[suggestion]] |
-| 3 | [[Dissipation de la magie]], [[motif hypnotique]] |
+| 3 | [[Dissipation de la Magie]], [[motif hypnotique]] |
 
 ## Docteur ès Sorts
 

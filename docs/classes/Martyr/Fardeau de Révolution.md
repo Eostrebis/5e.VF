@@ -11,9 +11,9 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 | Niveau de Martyr | Sorts                                                |
 | ---------------- | ---------------------------------------------------- |
-| 3                | [[Injonction]], [[héroïsme]]                         |
-| 5                | [[Immobilisation de personne]], [[arme magique]]     |
-| 9                | [[Célérité]], [[frappe divine]]                      |
+| 3                | [[Injonction]], [[Héroïsme]]                         |
+| 5                | [[Immobilisation de Personne]], [[Arme Magique]]     |
+| 9                | [[Célérité]], [[Frappe Divine]]                      |
 | 13               | [[Peau de pierre]], [[mur de feu]]                   |
 | 17               | [[Immobilisation de monstre]], [[lien télépathique]] |
 

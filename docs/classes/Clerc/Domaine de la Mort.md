@@ -7,11 +7,11 @@ Le domaine de la Mort s'intéresse aux forces qui provoquent la mort, ainsi qu'�
 
 | Niveau de Sort | Sorts                                            |
 | -------------- | ------------------------------------------------ |
-| 1              | [[Simulacre de vie]], [[rayon empoisonné]]       |
-| 3              | [[Cécité ou surdité]], [[rayon affaiblissant]]   |
-| 5              | [[Animation des morts]], [[touche vampirique]]   |
+| 1              | [[Simulacre de Vie]], [[rayon empoisonné]]       |
+| 3              | [[Cécité ou Surdité]], [[rayon affaiblissant]]   |
+| 5              | [[Animation des Morts]], [[touche vampirique]]   |
 | 7              | [[Flétrissement]], [[protection contre la mort]] |
-| 9              | [[Coquille antivie]], [[brume mortelle]]         |
+| 9              | [[Coquille Antivie]], [[brume mortelle]]         |
 
 ## Maîtrises Supplémentaires.
 

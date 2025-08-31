@@ -70,7 +70,7 @@ La peau d'un genasi d'air se trouve dans les teintes du bleu, ou d'une peau huma
 
 **Résistance à la Foudre.** Vous avez la résistance aux dégâts de foudre.
 
-**Danse du Vent.** Vous connaissez le cantrip [[poigne électrique]]. À partir du niveau 3, vous pouvez lancer le sort [[feuille morte]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lévitation]] de cette manière. Une fois que vous avez lancé [[feuille morte]] ou [[lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
+**Danse du Vent.** Vous connaissez le cantrip [[Poigne Électrique]]. À partir du niveau 3, vous pouvez lancer le sort [[Feuille Morte]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lévitation]] de cette manière. Une fois que vous avez lancé [[Feuille Morte]] ou [[lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (choisi à la sélection de cette race).
 
@@ -100,7 +100,7 @@ La peau d'un genasi de terre peut aussi bien être des couleurs de la pierre ou 
 
 **Marche Terrestre.** Vous pouvez vous déplacer sur du terrain difficile sans dépenser de mouvement supplémentaire si vous utilisez votre vitesse de marche sur le sol.
 
-**Fusion avec la Pierre.** Vous connaissez le cantrip [[protection contre les armes]]. Vous pouvez le lancer normalement, ou en utilisant une action bonus, un nombre de fois égal à votre bonus de maîtrise par repos long.
+**Fusion avec la Pierre.** Vous connaissez le cantrip [[Protection contre les Armes]]. Vous pouvez le lancer normalement, ou en utilisant une action bonus, un nombre de fois égal à votre bonus de maîtrise par repos long.
 
 À partir du niveau 3, vous pouvez également lancer le sort [[passage sans trace]] de cette manière. Une fois que vous avez lancé le sort avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également le lancer en utilisant des emplacements de sort.
 
@@ -132,7 +132,7 @@ Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon
 
 **Résistance au Feu.** Vous avez la résistance aux dégâts de feu.
 
-**Embrasement.** Vous connaissez le cantrip [[flammes]]. À partir du niveau 3, vous pouvez lancer le sort [[mains brûlantes]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lame de feu]] de cette manière. Une fois que vous avez lancé [[mains brûlantes]] ou [[lame de feu]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
+**Embrasement.** Vous connaissez le cantrip [[Flammes]]. À partir du niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lame de feu]] de cette manière. Une fois que vous avez lancé [[Mains Brûlantes]] ou [[lame de feu]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (choisi à la sélection de cette race).
 
@@ -164,6 +164,6 @@ Leur peau est généralement composée de teintes bleues ou vertes, parfois un m
 
 **Amphibien.** Vous pouvez respirer dans l'air et dans l'eau.
 
-**Appel de la Vague.** Vous connaissez le cantrip [[aspersion d'acide]]. À partir du niveau 3, vous pouvez lancer le sort [[création ou destruction d'eau]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[marche sur l'eau]] de cette manière. Une fois que vous avez lancé [[création ou destruction d'eau]] ou [[marche sur l'eau]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
+**Appel de la Vague.** Vous connaissez le cantrip [[Aspersion d'Acide]]. À partir du niveau 3, vous pouvez lancer le sort [[Création ou Destruction d'Eau]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[marche sur l'eau]] de cette manière. Une fois que vous avez lancé [[Création ou Destruction d'Eau]] ou [[marche sur l'eau]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (choisi à la sélection de cette race).

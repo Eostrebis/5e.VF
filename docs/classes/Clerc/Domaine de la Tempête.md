@@ -7,9 +7,9 @@ Les dieux dont la charge inclue le domaine de la Tempête gouvernent les tempêt
 
 | Niveau de Clerc | Sorts                                        |
 | --------------- | -------------------------------------------- |
-| 1               | [[Brouillard]], [[vague tonnante]]           |
-| 3               | [[Saute de vent]], [[fracassement]]          |
-| 5               | [[Appel de la foudre]], [[tempête de neige]] |
+| 1               | [[Brouillard]], [[Vague Tonnante]]           |
+| 3               | [[Saute de Vent]], [[fracassement]]          |
+| 5               | [[Appel de la Foudre]], [[tempête de neige]] |
 | 7               | [[Contrôle de l'eau]], [[tempête de grêle]]  |
 | 9               | [[Vague destructrice]], [[fléau d'insectes]] |
 

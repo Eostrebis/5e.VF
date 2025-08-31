@@ -9,8 +9,8 @@ Le baume de la paix s'épanouit au cœur des communautés saines, entre les nati
 | -------------- | -------------------------------------------------- |
 | 1              | [[Héroïsme]], [[sanctuaire]]                       |
 | 3              | [[Aide]], [[lien de protection]]                   |
-| 5              | [[Lueur d'espoir]], [[communication à distance]]   |
-| 7              | [[Aura de pureté]], [[sphère résiliente]]          |
+| 5              | [[Lueur d'Espoir]], [[communication à distance]]   |
+| 7              | [[Aura de Pureté]], [[sphère résiliente]]          |
 | 9              | [[Restauration supérieure]], [[lien télépathique]] |
 
 ## Agent de la Paix

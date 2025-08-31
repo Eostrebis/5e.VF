@@ -4,7 +4,7 @@ status: finished
 >## Mage
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*
 >
->- **Classe d'Armure** 11 (14 avec l'[[armure de mage]])
+>- **Classe d'Armure** 11 (14 avec l'[[Armure de Mage]])
 >- **Points de Vie** 9 (2d8 + 0)
 >- **Vitesse** 30 ft.
 >___
@@ -30,8 +30,8 @@ status: finished
 >***Flèche Arcanique.*** *Attaque de Sort à Distance :* +4 pour toucher, portée 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
 >
 >***Incantation.*** Le mage lance l'un des sorts suivants sans dépenser de composantes matérielles et en utilisant l'Intelligence comme caractéristique d'incantation (DD de sauvegarde de sort de 12) :
-> - _À volonté :_ [[main de mage]], [[prestidigitation]]
-> - _1/jour :_ [[disque flottant]], [[graisse]], [[armure de mage]]
+> - _À volonté :_ [[Main de Mage]], [[Prestidigitation]]
+> - _1/jour :_ [[Disque Flottant]], [[Graisse]], [[Armure de Mage]]
 
 ### Compétences de Cohorte
 
@@ -40,8 +40,8 @@ Tant qu'il suit les ordres de son capitaine, le mage obtient les capacités supp
 _Niveau 2._ __Apprentissage Arcanique.__ Les dégâts de la flèche arcanique du mage augmentent de 1d10 lorsque le capitaine atteint le niveau 5 (2d10), 11 (3d10) et 17 (4d10). La cohorte ajoute toujours son modificateur d'Intelligence aux jets de dégâts.
 
 _Niveau 6._ _Action :_ __Incantation.__ L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
- - À volonté : [[message]]
- - 1/jour : [[immobilisation de personne]], [[invisibilité]]
+ - À volonté : [[Message]]
+ - 1/jour : [[Immobilisation de Personne]], [[invisibilité]]
 
 _Niveau 10._ _Action :_ __Explosion Élémentaire.__ Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, une créature prend 8d6 dégâts du type choisi, et la moitié en cas de réussite.
 

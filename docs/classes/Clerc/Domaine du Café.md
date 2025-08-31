@@ -7,10 +7,10 @@ Les herbalistes ont depuis longtemps concoctés thés et autres remèdes pour ap
 
 | Niveau de Clerc | Sorts                                          |
 | --------------- | ---------------------------------------------- |
-| 1               | [[Repli expéditif]], [[simulacre de vie]]      |
+| 1               | [[Repli Expéditif]], [[Simulacre de Vie]]      |
 | 3               | [[Flou]], [[amélioration de caractéristiques]] |
 | 5               | [[Vol]], [[célérité]]                          |
-| 7               | [[Divination]], [[liberté de mouvement]]       |
+| 7               | [[Divination]], [[Liberté de Mouvement]]       |
 | 9               | [[Éveil]], [[télékinésie]]                     |
 
 ## Incantation Subite

@@ -15,9 +15,9 @@ Lorsque vous gagnez la compétence d'[[Moine#Attaque Supplémentaire|attaque sup
 
 ## Frappe d'Arc Brûlant
 
-Au niveau 6, vous gagnez la capacité de canaliser votre ki en de brûlantes vagues d'énergies. Immédiatement après avoir pris l'action d'attaquer pendant votre tour, vous pouvez dépenser 2 points de ki pour lancer le sort [[mains brûlantes]] pour une action bonus.
+Au niveau 6, vous gagnez la capacité de canaliser votre ki en de brûlantes vagues d'énergies. Immédiatement après avoir pris l'action d'attaquer pendant votre tour, vous pouvez dépenser 2 points de ki pour lancer le sort [[Mains Brûlantes]] pour une action bonus.
 
-Vous pouvez dépenser des points de ki supplémentaires pour incanter [[mains brûlantes]] à un niveau supérieur. Chaque point supplémentaire augment de 1 le niveau du sort. Le nombre maximum de points de ki que vous pouvez dépenser pour le sort (2 + les supplémentaires) est égal à la moitié de votre niveau de moine.
+Vous pouvez dépenser des points de ki supplémentaires pour incanter [[Mains Brûlantes]] à un niveau supérieur. Chaque point supplémentaire augment de 1 le niveau du sort. Le nombre maximum de points de ki que vous pouvez dépenser pour le sort (2 + les supplémentaires) est égal à la moitié de votre niveau de moine.
 
 ## Coup de Soleil
 

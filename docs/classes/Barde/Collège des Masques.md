@@ -33,11 +33,11 @@ Les masques suivants sont listés alphabétiquement
 
 ### Archimage
 
- Ce masque en argile affiche des rides exagérées et la mine renfrognée d'un vieil homme grincheux. Vous connaissez le cantrip [[trait de feu]], ainsi que les sorts de la table ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
+ Ce masque en argile affiche des rides exagérées et la mine renfrognée d'un vieil homme grincheux. Vous connaissez le cantrip [[Trait de Feu]], ainsi que les sorts de la table ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
 
 | Niveau de Barde | Sorts                                          |
 | --------------- | ---------------------------------------------- |
-| 3               | [[saute de vent]], [[rayon ardent]]            |
+| 3               | [[Saute de Vent]], [[rayon ardent]]            |
 | 5               | [[éclair]], [[protection contre une énergie]]  |
 | 7               | [[porte dimensionnelle]], [[tempête de grêle]] |
 | 9               | [[Scrutation]], [[mur de pierre]]              |
@@ -52,7 +52,7 @@ Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottan
 
 ### Sans-Visage
 
-Deux trous parfaitement ronds viennent casser le blanc parfait et la lisseté de ce masque en porcelaine. Tant que vous portez ce masque, vous pouvez lancer le sort [[déguisement]] sans dépenser d'emplacement de sort ni de composantes matérielles.
+Deux trous parfaitement ronds viennent casser le blanc parfait et la lisseté de ce masque en porcelaine. Tant que vous portez ce masque, vous pouvez lancer le sort [[Déguisement]] sans dépenser d'emplacement de sort ni de composantes matérielles.
 
 ### Fou
 
@@ -62,19 +62,19 @@ Ce masque en porcelaine d'un bouffon souriant est décoré de clochettes et de r
 
 ### Gladiateur
 
-Ce heaume en métal sombre, cabossé et griffé, recouvre votre visage entier. Tant que vous portez ce masque, vous maîtrisez les [[armes martiales]] et les [[bouclier|boucliers]].
+Ce heaume en métal sombre, cabossé et griffé, recouvre votre visage entier. Tant que vous portez ce masque, vous maîtrisez les [[armes martiales]] et les [[Bouclier|boucliers]].
 
 **Amélioration.** À partir du niveau 6, vous pouvez ajouter votre modificateur de Charisme à vos jets de dégâts d'arme de mêlée.
 
 ### Grand Prêtre
 
-Au lieu d'un visage, ce masque en bronze arbore un symbole sacré, avec de fins trous pour permettre la vision. Vous connaissez le cantrip [[flamme sacrée]] ainsi que les sorts montrés dans ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
+Au lieu d'un visage, ce masque en bronze arbore un symbole sacré, avec de fins trous pour permettre la vision. Vous connaissez le cantrip [[Flamme Sacrée]] ainsi que les sorts montrés dans ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
 
 | Niveau de Barde | Sorts                                            |
 | --------------- | ------------------------------------------------ |
-| 3               | [[aide]], [[restauration partielle]]             |
+| 3               | [[Aide]], [[restauration partielle]]             |
 | 5               | [[mot de soin de groupe]], [[Langues]]           |
-| 7               | [[bannissement]], [[protection contre la mort]]  |
+| 7               | [[Bannissement]], [[protection contre la mort]]  |
 | 9               | [[restauration supérieure]], [[soins de groupe]] |
 
 ### Comte

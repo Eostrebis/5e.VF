@@ -12,9 +12,9 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 | Niveau de Martyr | Sorts                                                          |
 | ---------------- | -------------------------------------------------------------- |
 | 3                | [[Charme-personne]], [[identification]]                        |
-| 5                | [[Augure]], [[détection des pensées]]                          |
+| 5                | [[Augure]], [[Détection des Pensées]]                          |
 | 9                | [[Communication à distance]], [[communication avec les morts]] |
-| 13               | [[Divination]], [[liberté de mouvement]]                       |
+| 13               | [[Divination]], [[Liberté de Mouvement]]                       |
 | 17               | [[Mythes et légendes]], [[scrutation]]                         |
 
 ## Érudition Civique
@@ -23,7 +23,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Maxime de Vérité
 
-Également au niveau 1, votre force de personnalité encourage les autres à l'honnêteté. Vous pouvez utiliser une action bonus pour lancer le sort [[zone de vérité]], centré sur vous-même. Lorsque vous lancez le sort en utilisant cette compétence, la zone a un rayon de 5 ft. et une durée de 1 minute. La caractéristique d'incantation pour ce sort est la Sagesse.
+Également au niveau 1, votre force de personnalité encourage les autres à l'honnêteté. Vous pouvez utiliser une action bonus pour lancer le sort [[Zone de Vérité]], centré sur vous-même. Lorsque vous lancez le sort en utilisant cette compétence, la zone a un rayon de 5 ft. et une durée de 1 minute. La caractéristique d'incantation pour ce sort est la Sagesse.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

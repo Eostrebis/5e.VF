@@ -7,7 +7,7 @@ Les dieux de la Lumière encouragent la renaissance et le renouveau, la vérité
 
 | Niveau de Sort | Sorts                                     |
 | -------------- | ----------------------------------------- |
-| 1              | [[Mains brûlantes]], [[lueurs féériques]] |
+| 1              | [[Mains Brûlantes]], [[Lueurs Féériques]] |
 | 3              | [[Sphère enflammée]], [[rayon ardent]]    |
 | 5              | [[Lumière du jour]], [[boule de feu]]     |
 | 7              | [[Gardien de la foi]], [[mur de feu]]     |
@@ -15,7 +15,7 @@ Les dieux de la Lumière encouragent la renaissance et le renouveau, la vérité
 
 ## Cantrip Supplémentaire
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le cantrip [[lumières]] si vous ne le connaissez pas déjà. Ce cantrip ne compte pas dans le nombre de cantrips que vous connaissez.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le cantrip [[Lumières]] si vous ne le connaissez pas déjà. Ce cantrip ne compte pas dans le nombre de cantrips que vous connaissez.
 
 ## Lueur Protectrice
 

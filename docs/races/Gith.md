@@ -34,7 +34,7 @@ Les githyanki sont élancés avec une peau aux teintes jaunes et marrons, et ils
 
 **Connaissance Astrale.** Vous pouvez accéder à un répertoire d'expériences d'entités liées au Plan Astral. À chaque fois que vous terminez un repos long, vous gagnez la maîtrise d'une compétence de votre choix et d'une arme ou outil de votre choix, en plongeant temporairement votre conscience dans le Plan Astral. Vous gardez ces maîtrises jusqu'à la fin de votre prochain repos long.
 
-**Psionie Githyanki.** Vous connaissez le cantrip [[main de mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
+**Psionie Githyanki.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
 
 À partir du niveau 3, vous lancer le sort [[bond]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[pas brumeux]]. Une fois que vous avez lancé [[bond]] ou [[pas brumeux]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
 
@@ -65,9 +65,9 @@ Les githyanki sont élancés avec une peau mouchetée aux teintes jaunes et marr
 
 **Discipline Mentale.** Votre défense psychique innée vous confère l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[charmé]] et [[apeuré]] sur vous-même.
 
-**Psionie Githyanki.** Vous connaissez le cantrip [[main de mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
+**Psionie Githyanki.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
 
-À partir du niveau 3, vous lancer le sort [[bouclier]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[détection des pensées]]. Une fois que vous avez lancé [[bouclier]] ou [[détection des pensées]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
+À partir du niveau 3, vous lancer le sort [[Bouclier]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[Détection des Pensées]]. Une fois que vous avez lancé [[Bouclier]] ou [[Détection des Pensées]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
 
 La caractéristique d'incantation pour ces sorts est, à votre choix, l'Intelligence, la Sagesse ou le Charisme, et vous la choisissez lorsque vous sélectionnez cette race. Aucun de ces sorts ne requiert de composantes lorsque vous le lancez de cette façon.
 

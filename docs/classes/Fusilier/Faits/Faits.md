@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 | Fait                  | Description                       |
 | --------------------- | --------------------------------- |

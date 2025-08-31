@@ -7,8 +7,8 @@ Vos pouvoirs divins viennent d'un dieu fou, un être de paranoïa, de chaos et d
 
 | Niveau de Sort | Sorts                                            |
 | -------------- | ------------------------------------------------ |
-| 1              | [[Fou rire]], [[image silencieuse]]              |
-| 3              | [[Cécité ou surdité]], [[détection des pensées]] |
+| 1              | [[Fou Rire]], [[image silencieuse]]              |
+| 3              | [[Cécité ou Surdité]], [[Détection des Pensées]] |
 | 5              | [[Clairvoyance]], [[motif hypnotique]]           |
 | 7              | [[Confusion]], [[terrain hallucinatoire]]        |
 | 9              | [[Songe]], [[modification de la mémoire]]        |
@@ -50,6 +50,6 @@ Au niveau 17, vous pouvez faire de votre vision tordue du monde la réalité, fo
 
 **1,2,3 Soleil.** Aucune créature ne peut bouger pendant son tour. Au début de chaque tour d'initiative, toutes les créatures choisissent simultanément où elles veulent se déplacer et s'y déplacent instantanément. Si deux ou plus créatures veulent se déplacer vers un même emplacement, elles se heurtent et tombent [[au sol]].
 
-**À Travers la Loupe.** Au début de tour de chaque créature, lancez un dé. Si le résultat est pair, la créature double en taille, comme d'après l'effet Agrandissement du sort [[agrandissement ou rapetissement]] ; si le résultat est impair, la taille de la créature est divisée par deux, comme selon l'effet Rapetissement.
+**À Travers la Loupe.** Au début de tour de chaque créature, lancez un dé. Si le résultat est pair, la créature double en taille, comme d'après l'effet Agrandissement du sort [[Agrandissement ou Rapetissement]] ; si le résultat est impair, la taille de la créature est divisée par deux, comme selon l'effet Rapetissement.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos long.

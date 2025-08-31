@@ -10,8 +10,8 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 | Niveau de Martyr | Sorts                                                 |
 | ---------------- | ----------------------------------------------------- |
-| 3                | [[Fléau]], [[injonction]]                             |
-| 5                | [[Appel de destrier]], [[immobilisation de personne]] |
+| 3                | [[Fléau]], [[Injonction]]                             |
+| 5                | [[Appel de destrier]], [[Immobilisation de Personne]] |
 | 9                | [[Malédiction Persistante]], [[peur]]                 |
 | 13               | [[Bannissement]], [[Domination de bête]]              |
 | 17               | [[Domination de personne]], [[quête]]                 |

@@ -7,10 +7,10 @@ status: finished
 
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Identification]], [[serviteur invisible]] |
-| 3              | [[Verrou magique]], [[localisation d'objet]]      |
+| 1              | [[Identification]], [[Serviteur Invisible]] |
+| 3              | [[Verrou Magique]], [[localisation d'objet]]      |
 | 5              | [[Glyphe de protection]], [[Langues]]   |
-| 7              | [[Fabrication]], [[coffre secret]]               |
+| 7              | [[Fabrication]], [[Coffre Secret]]               |
 | 9              | [[Création]], [[quête]]          |
 
 ## Estimation

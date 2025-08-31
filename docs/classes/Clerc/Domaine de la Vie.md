@@ -7,9 +7,9 @@ Le domaine de la vie se concentre sur l'énergie positive — une des forces fon
 
 | Niveau de Clerc | Sorts                                                |
 | --------------- | ---------------------------------------------------- |
-| 1               | [[Bénédiction]], [[soins]]                           |
+| 1               | [[Bénédiction]], [[Soins]]                           |
 | 3               | [[Restauration partielle]], [[arme spirituelle]]     |
-| 5               | [[Lueur d'espoir]], [[retour à la vie]]              |
+| 5               | [[Lueur d'Espoir]], [[retour à la vie]]              |
 | 7               | [[Protection contre la mort]], [[gardien de la foi]] |
 | 9               | [[Soins de groupe]], [[rappel à la vie]]             |
 

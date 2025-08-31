@@ -11,7 +11,7 @@ Un exterminateur ne peut souffrir qu'un monstre vive. Entraîné à abattre Mons
 
 Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous aider à éliminer monstres et autres menaces. Vous pouvez utiliser les babioles suivantes : 
 
-**Affiloir Béni.** Pour une action bonus, vous pouvez lancer le sort [[arme magique]] une fois sans dépenser d'emplacement de sort ou de composantes.
+**Affiloir Béni.** Pour une action bonus, vous pouvez lancer le sort [[Arme Magique]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
 **Écaille de Dragon Dorée.** Pour une action bonus, vous gagnez la résistance à un type de dégâts pendant 1 minute.
 

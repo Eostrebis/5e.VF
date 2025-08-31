@@ -9,7 +9,7 @@ Lorsque vous atteignez le niveau 3, vous complétez vos balles avec la possibili
 
 ### Cantrips (Sorts de niveau 0)
 
-Vous apprenez le cantrip [[doigts flingueurs]] et deux autres cantrips de votre choix de la liste de sorts du magicien. Vous apprenez un nouveau cantrip de magicien au niveau 10.
+Vous apprenez le cantrip [[Doigts Flingueurs]] et deux autres cantrips de votre choix de la liste de sorts du magicien. Vous apprenez un nouveau cantrip de magicien au niveau 10.
 
 ### Emplacements de sorts
 
@@ -57,11 +57,11 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts de magici
 
 ## Pan, T'es Mort !
 
-Au niveau 3, vous pouvez utiliser les [[Faits]] avec les attaques du sort [[doigts flingueurs]]. De plus, lorsque vous touchez une créature avec les attaques de [[doigts flingueurs]], vous pouvez dépenser un dé de risque et une action bonus pour infliger 1d8 dégâts de force supplémentaires à la cible.
+Au niveau 3, vous pouvez utiliser les [[Faits]] avec les attaques du sort [[Doigts Flingueurs]]. De plus, lorsque vous touchez une créature avec les attaques de [[Doigts Flingueurs]], vous pouvez dépenser un dé de risque et une action bonus pour infliger 1d8 dégâts de force supplémentaires à la cible.
 
 ## Tir Ensorcelé
 
-À partir du niveau 7, vous pouvez charger tout un cantrip dans votre fusil. Lorsque vous utilisez votre action pour lancer un cantrip, vous pouvez utiliser votre action bonus pour réaliser une attaque à distance avec une arme à feu ou le cantrip [[doigts flingueurs]]. 
+À partir du niveau 7, vous pouvez charger tout un cantrip dans votre fusil. Lorsque vous utilisez votre action pour lancer un cantrip, vous pouvez utiliser votre action bonus pour réaliser une attaque à distance avec une arme à feu ou le cantrip [[Doigts Flingueurs]]. 
 
 ## Cartouches Gravées de Runes
 
@@ -75,6 +75,6 @@ Une fois que vous avez utilisé cette compétence, vous devez terminer un repos 
 
 ## Tir Ensorcelé Amélioré
 
-Au niveau 14, lorsque vous utilisez votre action pour lancer un sort, vous pouvez dépenser un dé de risque et une action bonus pour réaliser une attaque à distance avec une arme à feu ou le cantrip [[doigts flingueurs]]. Ajoutez le dé de risque au jet d'attaque.
+Au niveau 14, lorsque vous utilisez votre action pour lancer un sort, vous pouvez dépenser un dé de risque et une action bonus pour réaliser une attaque à distance avec une arme à feu ou le cantrip [[Doigts Flingueurs]]. Ajoutez le dé de risque au jet d'attaque.
 
-Si le sort requiert un jet d'attaque de sort, vous pouvez choisir de canaliser le sort à travers votre arme ou vos [[doigts flingueurs]]. Si vous touchez, l'attaque inflige des dégâts normaux en plus des effets du sort.
+Si le sort requiert un jet d'attaque de sort, vous pouvez choisir de canaliser le sort à travers votre arme ou vos [[Doigts Flingueurs]]. Si vous touchez, l'attaque inflige des dégâts normaux en plus des effets du sort.

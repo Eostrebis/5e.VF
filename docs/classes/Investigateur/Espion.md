@@ -13,7 +13,7 @@ Au niveau 3, vous possédez un certain nombre de babioles qui assistent votre es
 
 **Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous prenez des dégâts.
 
-**Lunettes à Montures en Corne.** Pour une action bonus, vous pouvez lancer le sort [[déguisement]] une fois sans dépenser d'emplacement de sort ou de composantes.
+**Lunettes à Montures en Corne.** Pour une action bonus, vous pouvez lancer le sort [[Déguisement]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
 **Verre à Martini.** Pour une action bonus, vous pouvez lancer le sort [[suggestion]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
@@ -29,7 +29,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire
 
 ## Sosie
 
-Au niveau 14, vous pouvez rapidement échanger d'identité avec un cadavre. Lorsque vous réduisez un Humanoïde à 0 point de vie, vous pouvez utiliser votre réaction pour imiter son apparence, comme avec le sort [[déguisement]]. Lorsque vous faites ainsi, le corps de la créature, ainsi que son sang, ses vêtements et toutes autres preuves physiques de sa mort deviennent magiquement invisibles pendant 8 heures. Vous pouvez également utiliser cette capacité pour une action lorsque vous touchez le corps d'un Humanoïde qui n'est pas mort depuis plus de 24 heures, imitant son apparence et le rendant invisible, comme au-dessus.
+Au niveau 14, vous pouvez rapidement échanger d'identité avec un cadavre. Lorsque vous réduisez un Humanoïde à 0 point de vie, vous pouvez utiliser votre réaction pour imiter son apparence, comme avec le sort [[Déguisement]]. Lorsque vous faites ainsi, le corps de la créature, ainsi que son sang, ses vêtements et toutes autres preuves physiques de sa mort deviennent magiquement invisibles pendant 8 heures. Vous pouvez également utiliser cette capacité pour une action lorsque vous touchez le corps d'un Humanoïde qui n'est pas mort depuis plus de 24 heures, imitant son apparence et le rendant invisible, comme au-dessus.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 

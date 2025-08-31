@@ -12,14 +12,14 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 | Niveau de Martyr | Sorts                                                       |
 | ---------------- | ----------------------------------------------------------- |
 | 3                | [[Rayon Traçant]], [[protection contre le mal et le bien]] |
-| 5                | [[Cécité ou surdité]], [[ténèbres]]                         |
-| 9                | [[Appel de la foudre]], [[Contresort]]                      |
+| 5                | [[Cécité ou Surdité]], [[ténèbres]]                         |
+| 9                | [[Appel de la Foudre]], [[Contresort]]                      |
 | 13               | [[Flétrissement]], [[contrôle de l'eau]]                    |
 | 17               | [[Frappe de flamme]], [[fléau d'insectes]]                  |
 
 ## Cantrips
 
-À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[flamme sacrée]] et [[thaumaturgie]], et un cantrip de votre choix parmi la liste des sorts de clerc. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
+À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[Flamme Sacrée]] et [[Thaumaturgie]], et un cantrip de votre choix parmi la liste des sorts de clerc. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
 ## Hérault de la Fin
 

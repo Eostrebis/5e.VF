@@ -7,17 +7,17 @@ Les dieux de la Tombe observent la frontière entre la vie et la mort. Pour ces 
 
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Fléau]], [[simulacre de vie]] |
+| 1              | [[Fléau]], [[Simulacre de Vie]] |
 | 3              | [[docs/sorts/Repos Éternel]], [[rayon affaiblissant]]     |
 | 5              | [[Retour à la vie]], [[touche vampirique]]   |
 | 7              | [[Flétrissement]], [[protection contre la mort]]         |
-| 9              | [[Coquille antivie]], [[rappel à la vie]]         |
+| 9              | [[Coquille Antivie]], [[rappel à la vie]]         |
 
 ## Cercle de Mortalité
 
 Au niveau 1, vous gagnez la capacité de manipuler la ligne entre la vie et la mort. Lorsque vous devriez normalement lancer un ou plusieurs dés pour rendre des points de vie à une créature à 0 point de vie en utilisant un sort, vous utilisez plutôt le nombre de points de vie maximum pour chaque dé.
 
-De plus, vous apprenez le cantrip [[stabilisation]], qui ne compte pas dans la liste des sorts de clerc que vous connaissez. Pour vous, il a une portée de 30 ft. et vous pouvez le lancer comme une action bonus.
+De plus, vous apprenez le cantrip [[Stabilisation]], qui ne compte pas dans la liste des sorts de clerc que vous connaissez. Pour vous, il a une portée de 30 ft. et vous pouvez le lancer comme une action bonus.
 
 ## Yeux de la Tombe
 

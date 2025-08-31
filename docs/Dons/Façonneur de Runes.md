@@ -5,7 +5,7 @@ status: empty
 ---
 Vous avez étudié la magie des runes de Géants, et bénéficiez des effets suivants : 
 
-**Compréhension des Langues.** Vous apprenez le sort [[compréhension des langues]]. Vous pouvez lancer ce sort sans dépenser d'emplacement, et devez terminer un repos long avant de pouvoir le lancer à nouveau de cette manière.
+**Compréhension des Langues.** Vous apprenez le sort [[Compréhension des Langues]]. Vous pouvez lancer ce sort sans dépenser d'emplacement, et devez terminer un repos long avant de pouvoir le lancer à nouveau de cette manière.
 
 **Magie Runique.** Vous connaissez un nombre de runes égal à la moitié de votre bonus de maîtrise (arrondi à l'inférieur), choisies parmi la table ci-dessous. Lorsque vous terminez un repos long, vous pouvez inscrire chacune des runes que vous connaissez sur une arme non magique, une arme, un vêtement, ou n'importe quel objet que vous touchez. Vous apprenez temporairement le sort de niveau 1 associé à la rune, et vous connaissez ces sorts jusqu'à ce que vous terminiez un repos long, lorsque la rune disparaît. Tant que vous maniez ou portez un objet marqué par la rune, vous pouvez lancer le sort associé en utilisant vos emplacements de sorts.
 

@@ -16,7 +16,7 @@ Tant que vous êtes lié à M. Ludovic, vous ne pouvez être charmé ou posséd�
 ## Incantation : Ficelle d'Âme
 Tant que vous êtes lié à M. Ludovic, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles : 
 
-*À volonté :* [[injonction]]
+*À volonté :* [[Injonction]]
 
 *2/jour chacun :* [[domination de bête]], [[domination de personne]]
 

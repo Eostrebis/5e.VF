@@ -423,7 +423,7 @@ status: empty
 | Simulacrum                           | [[Simulacre]]                             |
 | Skill Empowerment                    | [[Amélioration de Compétences]]           |
 | Skywrite                             | [[Libellé Aérien]]                        |
-| Sleep                                | [[docs/sorts/Sommeil]]                    |
+| Sleep                                | [[Sommeil]]                    |
 | Slow                                 | [[Lenteur]]                               |
 | Snare                                | [[Collet]]                                |
 | Snilloc's Snowball Swarm             | [[Nuée de Boules de Neige de Snilloc]]    |

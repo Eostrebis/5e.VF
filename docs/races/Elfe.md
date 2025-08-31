@@ -168,7 +168,7 @@ En tant que Drow, vous êtes infusé de la magie de l'Outre-Terre, un royaume so
 
 **Sensibilité au Soleil.** Vous avez un désavantage aux jets d'attaque et aux jets de Sagesse (Perception) basés sur la vue quand vous, la cible de l'attaque ou ce que vous essayez de détecter est exposé à la lumière naturelle.
 
-**Magie Drow.** Vous connaissez le cantrip [[lumières dansantes]]. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort [[lueurs féériques]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort  [[ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Magie Drow.** Vous connaissez le cantrip [[Lumières Dansantes]]. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort [[Lueurs Féériques]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort  [[ténèbres]] une fois avec ce trait et regagnez cette capacité lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 **Entraînement aux Armes Drow.** Vous obtenez la maîtrise des [[rapière|rapières]], des [[épée courte|épées courtes]], et des [[arbalète de poing|arbalètes de poing]].
 
@@ -327,6 +327,6 @@ Puisque rien ne vieillit dans le Plan Astral, les elfes astraux qui habitent ce 
 
 **Transe Astrale.** Vous n'avez pas besoin de dormir. Au lieu de cela, vous méditez profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil. À chaque fois que vous finissez cette transe, vous maîtrisez un compétence de votre choix, ainsi qu'une arme ou un outil de votre choix. Vous possédez ces maîtrises magiquement en puisant dans la mémoire partagée elfe du Plan Astral, et vous les gardez jusqu'à ce que vous finissiez votre prochain repos long.
 
-**Feu Astral.** Vous connaissez l'un des cantrips suivants de votre choix : [[lumières dansantes]], [[lumières]], ou [[flamme sacrée]]. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme.
+**Feu Astral.** Vous connaissez l'un des cantrips suivants de votre choix : [[Lumières Dansantes]], [[Lumières]], ou [[Flamme Sacrée]]. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme.
 
 **Pas d'Étoile.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.

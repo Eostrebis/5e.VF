@@ -8,10 +8,10 @@ Les dieux de la forge sont les patrons des artisans qui travaillent le métal, d
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |
 | 1              | [[Identification]], [[châtiment calcinant]] |
-| 3              | [[Métal brûlant]], [[arme magique]]      |
+| 3              | [[Métal brûlant]], [[Arme Magique]]      |
 | 5              | [[Arme élémentaire]], [[protection contre une énergie]]   |
 | 7              | [[Fabrication]], [[mur de feu]]                |
-| 9              | [[Animation d'objets]], [[création]]          |
+| 9              | [[Animation d'Objets]], [[création]]          |
 
 ## Maîtrises Supplémentaires
 

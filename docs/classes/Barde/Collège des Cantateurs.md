@@ -5,7 +5,7 @@ Les cantateurs sont un groupe de barde qui guident les croyants par la prière e
 
 ## Voix Divine
 
-Lorsque vous choisissez ce collège au niveau 3, vous apprenez le cantrip [[thaumaturgie]], qui est considéré comme un sort de barde pour vous et qui ne compte dans le nombre de cantrips que vous connaissez.
+Lorsque vous choisissez ce collège au niveau 3, vous apprenez le cantrip [[Thaumaturgie]], qui est considéré comme un sort de barde pour vous et qui ne compte dans le nombre de cantrips que vous connaissez.
 
 ## Hymne de Soin
 
@@ -13,7 +13,7 @@ Lorsque vous choisissez ce collège au niveau 3, vous apprenez le cantrip [[thau
 
 ## Chorale Angélique
 
-À partir du niveau 6, votre musique divine encourage ceux qui rejoignent votre chorale. Vous pouvez créer les effets additionnels suivants lorsque vous utilisez le cantrip [[thaumaturgie]] :
+À partir du niveau 6, votre musique divine encourage ceux qui rejoignent votre chorale. Vous pouvez créer les effets additionnels suivants lorsque vous utilisez le cantrip [[Thaumaturgie]] :
 
  - Comme composante de l'action par laquelle vous lancez ce sort, vous pouvez Aider deux allés. Si vous utilisez l'action d'Aide pour aider un allié qui attaque une créature, la cible de l'attaque doit être à 30 ft. de vous, plutôt qu'à 5 ft. si la cible peut vous entendre ou vous voir.
  - Vous protégez une créature consentante que vous pouvez voir à 30 ft. avec une faible luminance dorée pendant 1 minute. Une seule créature peut être protégée ainsi à la fois. Lorsqu'un attaquant à 5 ft. d'une créature protégée la touche avec une attaque, la créature peut utiliser sa réaction pour infliger à l'attaquant un nombre de dégâts radiants égal à la moitié de votre niveau de barde (arrondi au supérieur).

@@ -18,7 +18,7 @@ Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde 
 ## Incantation : Ligature
 Tant que vous êtes lié à Velnias, vous pouvez lancer les sorts suivants sans utiliser d'emplacements de sorts ou de composantes matérielles :
 
-*2/jour chacun :* [[fléau]], [[ténèbres]]
+*2/jour chacun :* [[Fléau]], [[ténèbres]]
 
 *1/jour chacun :* [[peur]], [[assassin imaginaire]]
 

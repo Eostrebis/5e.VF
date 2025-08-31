@@ -7,10 +7,10 @@ La guerre se manifeste de multiples façons. Elle peut transformer des peuples o
 
 | Niveau de Sort | Sorts                                               |
 | -------------- | --------------------------------------------------- |
-| 1              | [[Faveur divine]], [[bouclier de foi]]              |
-| 3              | [[Arme magique]], [[arme spirituelle]]              |
+| 1              | [[Faveur Divine]], [[bouclier de foi]]              |
+| 3              | [[Arme Magique]], [[arme spirituelle]]              |
 | 5              | [[Aura du croisé]], [[esprits gardiens]]            |
-| 7              | [[Liberté de mouvement]], [[peau de pierre]]        |
+| 7              | [[Liberté de Mouvement]], [[peau de pierre]]        |
 | 9              | [[Frappe de flamme]], [[immobilisation de monstre]] |
 
 ## Maîtrises Supplémentaires

@@ -7,11 +7,11 @@ Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du
 
 | Niveau de Clerc | Sorts                                              |
 | --------------- | -------------------------------------------------- |
-| 1               | [[Feuille morte]], [[grandes foulées]]             |
+| 1               | [[Feuille Morte]], [[grandes foulées]]             |
 | 3               | [[Appel de destrier]], [[pas brumeux]]             |
 | 5               | [[Vol]], [[célérité]]                              |
-| 7               | [[Porte dimensionnelle]], [[liberté de mouvement]] |
-| 9               | [[Passe-muraille]], [[cercle de téléportation]]    |
+| 7               | [[Porte dimensionnelle]], [[Liberté de Mouvement]] |
+| 9               | [[Passe-muraille]], [[Cercle de Téléportation]]    |
 
 ## Grand Voyageur
 

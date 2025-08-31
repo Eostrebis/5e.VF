@@ -63,7 +63,7 @@ Le Charisme est votre caractéristique d'incantation pour vos sorts d'ensorceleu
 
 ## Exploits Surnaturels
 
-Au niveau 10, vous pouvez canaliser votre magie latente pour réaliser de spectaculaires exploits. Même lorsque vous n'êtes pas en rage, vous pouvez lancer les sorts suivants à volonté, ne vous ciblant que vous-même, sans avoir à dépenser d'emplacement de sort ou de composantes matérielles : [[vision dans le noir]], [[feuille morte]], [[bond]] ou [[vision de l'invisible]].
+Au niveau 10, vous pouvez canaliser votre magie latente pour réaliser de spectaculaires exploits. Même lorsque vous n'êtes pas en rage, vous pouvez lancer les sorts suivants à volonté, ne vous ciblant que vous-même, sans avoir à dépenser d'emplacement de sort ou de composantes matérielles : [[vision dans le noir]], [[Feuille Morte]], [[bond]] ou [[vision de l'invisible]].
 
 ## Explosions Occultes
 

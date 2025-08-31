@@ -28,6 +28,6 @@ Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous
 
 **Dévouement.** Vous touchez un humanoïde qui souhaite se dévouer au service de votre dieu. Pendant les prochaines 24 heures, lorsque la cible réalise un jet de sauvegarde, elle peut lancer un d4 et ajouter le résultat à son jet. Une créature ne peut bénéficier de ce rite qu'une seule fois.
 
-**Funérailles.** Vous touchez un corps et pour les 7 prochains jours, la cible ne peut devenir un mort-vivant par aucun moyen autre qu'un sort de [[Souhait]].
+**Funérailles.** Vous touchez un corps et pour les 7 prochains jours, la cible ne peut devenir un mort-vivant par aucun moyen autre qu'un sort de [[souhait]].
 
 **Mariage.** Vous touchez des adultes humanoïdes consentants à être liés par le mariage. Pendant les 7 prochains jours, chaque cible gagne un bonus de +2 à la CA tant qu'ils se trouvent à 30 ft. l'un de l'autre. Une créature ne peut bénéficier à nouveau de ce rite que lorsqu'elle est faite veuve.

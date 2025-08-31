@@ -9,7 +9,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 | Niveau de Martyr | Sorts                                                       |
 | ---------------- | ----------------------------------------------------------- |
-| 3                | [[Enchevêtrement]], [[baies nourricières]]                  |
+| 3                | [[Enchevêtrement]], [[Baies Nourricières]]                  |
 | 5                | [[Passage sans trace]], [[croissance d'épines]]             |
 | 9                | [[Croissance végétale]], [[communication avec les plantes]] |
 | 13               | [[Invocation d'êtres sylvains]], [[terrain hallucinatoire]] |
@@ -17,7 +17,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Cantrips
 
-À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[druidisme]] et [[gourdin magique]], et un cantrip de votre choix parmi la liste des sorts de druide. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
+À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[Druidisme]] et [[Gourdin Magique]], et un cantrip de votre choix parmi la liste des sorts de druide. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
 ## Ami de la forêt
 

@@ -20,7 +20,7 @@ Tant que vous êtes lié à Korine, vous pouvez lancer les sorts suivants sans d
 
 *2/jour chacun :* [[porte dimensionnelle]]
 
-*1/jour chacun :* [[clignotement]], [[cercle de téléportation]]
+*1/jour chacun :* [[Clignotement]], [[Cercle de Téléportation]]
 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

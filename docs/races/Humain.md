@@ -391,7 +391,7 @@ Insoucieux et toujours guidé par la curiosité, les pâles Parcourus par les Ve
 
 **Résistance à la Foudre.** Vous êtes résistant aux dégâts de foudre.
 
-**Magie Zéphyrienne.** Vous connaissez le cantrip [[message]]. À partir du niveau 3, vous pouvez lancer [[feuille morte]] avec ce trait sans dépenser de composantes matérielles. À partir du niveau 5, vous pouvez également lancer [[bourrasque]] avec ce trait sans dépenser de composantes matérielles. Une fois que vous avez lancé l'un de ces deux sorts avec ce trait, vous ne pouvez pas le relancer de cette façon jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi lancer ces sorts en utilisant un emplacement de sort du niveau adéquat.
+**Magie Zéphyrienne.** Vous connaissez le cantrip [[Message]]. À partir du niveau 3, vous pouvez lancer [[Feuille Morte]] avec ce trait sans dépenser de composantes matérielles. À partir du niveau 5, vous pouvez également lancer [[Bourrasque]] avec ce trait sans dépenser de composantes matérielles. Une fois que vous avez lancé l'un de ces deux sorts avec ce trait, vous ne pouvez pas le relancer de cette façon jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi lancer ces sorts en utilisant un emplacement de sort du niveau adéquat.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (à choisir lorsque vous sélectionnez cette race).
 

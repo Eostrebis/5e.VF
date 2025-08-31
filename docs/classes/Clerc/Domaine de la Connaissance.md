@@ -10,7 +10,7 @@ Les dieux de la connaissance valorisent l'apprentissage et la compréhension au-
 | 1               | [[Injonction]], [[identification]]                  |
 | 3               | [[Augure]], [[suggestion]]                          |
 | 5               | [[Antidétection]], [[communication avec les morts]] |
-| 7               | [[Œil magique]], [[confusion]]                      |
+| 7               | [[Œil Magique]], [[confusion]]                      |
 | 9               | [[Mythes et légendes]], [[scrutation]]              |
 ## Bénédiction du Savoir
 

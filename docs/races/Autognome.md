@@ -55,8 +55,8 @@ Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aime
 
 **Repos de Tourelle.** Lorsque vous prenez un repos long, vous passez au moins 6 heures dans un état végétatif, sans bouger, plutôt que de dormir. Dans cet état, vous apparaissez inerte, mais restez conscient.
 
-**Soin Mécanique.** Si le sort [[réparation]] est incanté sur vous, vous pouvez dépenser un Dé de Vie, le lancer, et regagner un nombre de points de vie égal à ce lancer + votre modificateur de Constitution.
+**Soin Mécanique.** Si le sort [[Réparation]] est incanté sur vous, vous pouvez dépenser un Dé de Vie, le lancer, et regagner un nombre de points de vie égal à ce lancer + votre modificateur de Constitution.
 
-De plus, votre créateur vous a pensé pour que vous puissiez profiter de certains sorts censés préserver la vie qui ne fonctionnent habituellement pas sur les Constructions, comme [[soins]], [[soins de groupe]], [[mot de soin]], [[mot de soin de groupe]] ou [[stabilisation]].
+De plus, votre créateur vous a pensé pour que vous puissiez profiter de certains sorts censés préserver la vie qui ne fonctionnent habituellement pas sur les Constructions, comme [[Soins]], [[soins de groupe]], [[Mot de Soin]], [[mot de soin de groupe]] ou [[Stabilisation]].
 
 

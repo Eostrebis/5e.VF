@@ -25,7 +25,7 @@ Au niveau 11, votre ki est complètement consommé par le vide entre les étoile
 
 ## Techniques sans Soleil
 
-Également au niveau 11, votre dévotion aux ténèbres au-delà du ciel vous permet d'invoquer de plus grand pouvoirs encore. Vous pouvez dépenser 3 points de ki pour lancer [[Ténèbres Rampantes]], [[croc du renard]], [[abri d'ombre]] ou [[poison d'ombre]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 3 points de ki pour lancer les sorts conférés par les autres compétences de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 3.
+Également au niveau 11, votre dévotion aux ténèbres au-delà du ciel vous permet d'invoquer de plus grand pouvoirs encore. Vous pouvez dépenser 3 points de ki pour lancer [[Ténèbres Rampantes]], [[croc du renard]], [[Abri d'Ombre]] ou [[poison d'ombre]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 3 points de ki pour lancer les sorts conférés par les autres compétences de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 3.
 
 ## Connaissance d'un Autre Monde
 

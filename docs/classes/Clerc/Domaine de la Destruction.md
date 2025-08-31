@@ -7,7 +7,7 @@ Certains dieux ne se délectent que de l'effondrement des murs et l'incendie des
 
 | Niveau de Sort | Sorts                                               |
 | -------------- | --------------------------------------------------- |
-| 1              | [[Mains brûlantes]], [[vague tonnante]]             |
+| 1              | [[Mains Brûlantes]], [[Vague Tonnante]]             |
 | 3              | [[Rayon ardent]], [[fracassement]]                  |
 | 5              | [[Boule de feu]], [[protection contre une énergie]] |
 | 7              | [[Flétrissement]], [[mur de feu]]                   |

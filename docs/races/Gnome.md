@@ -79,7 +79,7 @@ Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et son
 
 **Camouflage Svirfneblin.** Lorsque vous faites un jet de Dextérité (Discrétion), vous pouvez réaliser ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
 
-**Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort [[déguisement]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[antidétection]], sans avoir besoin des composantes matérielles. Une fois que vous avez lancé l'un de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en utilisant vos emplacements de sorts du niveau approprié. 
+**Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort [[Déguisement]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[antidétection]], sans avoir besoin des composantes matérielles. Une fois que vous avez lancé l'un de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en utilisant vos emplacements de sorts du niveau approprié. 
 
 Votre caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme. 
 
@@ -109,7 +109,7 @@ Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une 
 
 **Communication avec les Petits Animaux.** À l'aide de sons et de gestes, vous pouvez communiquer des idées simples avec des bêtes de taille P ou plus petites. Les gnomes de la forêt adorent les animaux et gardent souvent des écureuils, des blaireaux, des lapins, des taupes, des pic-verts ou d'autres créatures comme leurs animaux de compagnie adorés.
 
-**Illusionniste Né.** Vous connaissez le cantrip [[illusion mineure]]. Votre caractéristique d'incantation pour ce sort est l'Intelligence.
+**Illusionniste Né.** Vous connaissez le cantrip [[Illusion Mineure]]. Votre caractéristique d'incantation pour ce sort est l'Intelligence.
 
 **Ingéniosité Gnome.** Vous avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre les sorts.
 

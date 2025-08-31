@@ -91,7 +91,7 @@ De plus, escalader en utilisant vos mains et pieds est particulièrement diffici
 Vous connaissez deux cantrips : 
 
  - [[Message]]
- - [[Coup de tonnerre]]
+ - [[Coup de Tonnerre]]
 
 Vous connaissez quatre sorts de niveau 1 :
 

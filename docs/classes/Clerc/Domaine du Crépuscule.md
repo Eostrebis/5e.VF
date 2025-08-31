@@ -9,10 +9,10 @@ Les clercs qui servent ces déités prodiguent confort et protection à ceux qui
 
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Lueurs féériques]], [[sommeil]]                 |
+| 1              | [[Lueurs Féériques]], [[Sommeil]]                 |
 | 3              | [[Rayon lunaire]], [[vision de l'invisible]]      |
-| 5              | [[Aura de vitalité]], [[petite hutte de Leomund]] |
-| 7              | [[Aura de vie]], [[invisibilité supérieure]]      |
+| 5              | [[Aura de Vitalité]], [[petite hutte de Leomund]] |
+| 7              | [[Aura de Vie]], [[invisibilité supérieure]]      |
 | 9              | [[Cercle de pouvoir]], [[double illusoire]]       |
 
 ## Maîtrises Supplémentaires

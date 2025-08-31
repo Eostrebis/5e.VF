@@ -60,7 +60,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage Infernal.__ Vous connaissez le cantrip [[thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage Infernal.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Belzébuth
 
@@ -85,7 +85,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Maladomini.__ Vous connaissez le cantrip [[thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Maladomini.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Dispater
 
@@ -110,7 +110,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Dis.__ Vous connaissez le cantrip [[thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[détection des pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Dis.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Détection des Pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Fierna
 
@@ -135,7 +135,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Phlegethos.__ Vous connaissez le cantrip [[amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Phlegethos.__ Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Glosya
 
@@ -160,7 +160,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Malbolge.__ Vous connaissez le cantrip [[illusion mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Malbolge.__ Vous connaissez le cantrip [[Illusion Mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Levistus
 
@@ -185,7 +185,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Stygie.__ Vous connaissez le cantrip [[rayon de givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[armure d'agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Stygie.__ Vous connaissez le cantrip [[Rayon de Givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Armure d'Agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Mammon
 
@@ -210,7 +210,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Minauros.__ Vous connaissez le cantrip [[main de mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[disque flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[verrou magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Minauros.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Méphistophélès
 
@@ -235,7 +235,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Cania.__ Vous connaissez le cantrip [[main de mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[mains brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage de Cania.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Zariel
 
@@ -260,7 +260,7 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage d'Averne.__ Vous connaissez le cantrip [[thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[châtiment révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage d'Averne.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Châtiment Révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Bel
 
@@ -310,4 +310,4 @@ __Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une 
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
-__Héritage Infernal.__ Vous connaissez le cantrip [[moquerie cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+__Héritage Infernal.__ Vous connaissez le cantrip [[Moquerie Cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.

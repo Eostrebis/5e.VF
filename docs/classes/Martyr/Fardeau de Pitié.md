@@ -9,15 +9,15 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 | Niveau de Martyr | Sorts                                                            |
 | ---------------- | ---------------------------------------------------------------- |
-| 3                | [[Mot de soin]], [[sanctuaire]]                                  |
+| 3                | [[Mot de Soin]], [[sanctuaire]]                                  |
 | 5                | [[Amélioration de caractéristiques]], [[restauration partielle]] |
 | 9                | [[Délivrance des malédictions]], [[retour à la vie]]             |
-| 13               | [[Protection contre la mort]], [[Liberté de mouvement]]          |
+| 13               | [[Protection contre la mort]], [[Liberté de Mouvement]]          |
 | 17               | [[Mot de soin de groupe]], [[rappel à la vie]]                   |
 
 ## Cantrips
 
-À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[stabilisation]] et [[thaumaturgie]], et un cantrip de votre choix parmi la liste des sorts de clerc. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
+À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[Stabilisation]] et [[Thaumaturgie]], et un cantrip de votre choix parmi la liste des sorts de clerc. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
 ## Baume
 

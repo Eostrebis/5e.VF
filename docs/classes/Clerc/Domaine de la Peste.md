@@ -7,9 +7,9 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 | Niveau de Sort | Sorts                                                        |
 | -------------- | ------------------------------------------------------------ |
-| 1              | [[Fléau]], [[détection du poison et des maladies]]           |
-| 3              | [[Cécité ou surdité]], [[rayon affaiblissant]]               |
-| 5              | [[Malédiction persistante]], [[délivrance des malédictions]] |
+| 1              | [[Fléau]], [[Détection du Poison et des Maladies]]           |
+| 3              | [[Cécité ou Surdité]], [[rayon affaiblissant]]               |
+| 5              | [[Malédiction Persistante]], [[délivrance des malédictions]] |
 | 7              | [[Flétrissement]], [[confusion]]                             |
 | 9              | [[Contagion]], [[fléau d'insectes]]                          |
 

@@ -14,7 +14,7 @@ Tant que vous êtes lié à Fin, vous maîtrisez les [[armes martiales]].
 Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette compétence.
 
 ## Taille Gigantesque
-Vous pouvez lancer le sort [[agrandissement ou rapetissement]], sur vous-même en utilisant l'effet agrandissement du sort, une fois en utilisant une action bonus et sans dépenser d'emplacements de sorts ou de composantes matérielles. Vous n'avez pas besoin de vous concentrer sur ce sort. Une fois que vous avez lancé ce sort, vous ne pouvez pas le lancer de cette façon jusqu'à ce que vous terminiez un repos long.
+Vous pouvez lancer le sort [[Agrandissement ou Rapetissement]], sur vous-même en utilisant l'effet agrandissement du sort, une fois en utilisant une action bonus et sans dépenser d'emplacements de sorts ou de composantes matérielles. Vous n'avez pas besoin de vous concentrer sur ce sort. Une fois que vous avez lancé ce sort, vous ne pouvez pas le lancer de cette façon jusqu'à ce que vous terminiez un repos long.
 
 ## Trait : Force Colossale
 Tant que vous êtes lié à Fin, vous grandissez de quelques centimètres et vos muscles sont plus définis. Vous pouvez manier des armes sans lourdes sans pénalité, même si vous êtes de taille P. De plus, vous pouvez utiliser votre modificateur de Charisme plutôt que de Force pour les jets d'attaque et de dégâts avec des armes lourdes.

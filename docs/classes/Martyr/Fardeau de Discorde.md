@@ -12,15 +12,15 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 | Niveau de Martyr | Sorts                                      |
 | ---------------- | ------------------------------------------ |
-| 3                | [[Fou rire]], [[blessure]]                 |
+| 3                | [[Fou Rire]], [[blessure]]                 |
 | 5                | [[Toc-toc]], [[fracassement]]              |
 | 9                | [[Éclair]], [[nuage nauséabond]]           |
 | 13               | [[Confusion]], [[métamorphose]]            |
-| 17               | [[Animation d'objets]], [[passe-muraille]] |
+| 17               | [[Animation d'Objets]], [[passe-muraille]] |
 
 ## Cantrips
 
-À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[poigne électrique]] et [[thaumaturgie]], et un cantrip de votre choix parmi la liste des sorts de clerc. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
+À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[Poigne Électrique]] et [[Thaumaturgie]], et un cantrip de votre choix parmi la liste des sorts de clerc. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
 ## Chaos !
 

@@ -7,8 +7,8 @@ Les dieux de la Nature sont aussi variés que le monde naturel lui-même, des di
 
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Amitié avec les animaux]], [[communication avec les animaux]] |
-| 3              | [[Peau d'écorce]], [[croissance d'épines]]      |
+| 1              | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
+| 3              | [[Peau d'Écorce]], [[croissance d'épines]]      |
 | 5              | [[Croissance végétale]], [[mur de vent]]   |
 | 7              | [[Domination de bête]], [[lianes avides]]              |
 | 9              | [[Fléau d'insectes]], [[passage par les arbres]]          |

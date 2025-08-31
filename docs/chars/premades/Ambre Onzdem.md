@@ -75,7 +75,7 @@ Il se déplace avec une lenteur délibérée, s'appuyant souvent sur un simple b
 
 ### Compétences de Race
 
-**Magie Firbolg.** Vous pouvez lancer les sort [[détection de la magie]] et [[déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
+**Magie Firbolg.** Vous pouvez lancer les sort [[Détection de la Magie]] et [[Déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[Déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
 
 **Pas Caché.** Pour une action visible, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, réalisiez un jet de dégâts, ou forciez quelqu'un à réaliser un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
 
@@ -91,7 +91,7 @@ En tant que Martyr, vous avez été prédestiné par les dieux à périr pour un
 
 #### Cantrips
 
-À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[stabilisation]] et [[thaumaturgie]] et [[breuvage légendaire]]. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
+À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[Stabilisation]] et [[Thaumaturgie]] et [[Breuvage Légendaire]]. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
 ####  Baume
 
@@ -101,7 +101,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutil
 
 ### Équipement
 
- - Une [[épée courte]] et un [[bouclier]]
+ - Une [[épée courte]] et un [[Bouclier]]
  - Un [[bâton]]
  - Une armure d'[[écailles]]
  - Une [[arbalète légère]] et 20 [[Carreaux d'Arbalète (20)|carreaux]]

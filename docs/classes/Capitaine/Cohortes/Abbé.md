@@ -40,8 +40,8 @@ _Niveau 2._ __Dévotion Divine.__ L'abbé peut utiliser ses ___Mains Soignantes_
 
 _Niveau 6._ _Action :_ __Incantation.__ L'abbé lance l'un des sorts suivants, sans avoir besoin de composantes matérielles et en utilisant sa Sagesse comme caractéristique d'incantation (DD de jet de sauvegarde de sort : 12) :
 
- - À volonté : [[assistance]], [[stabilisation]]
- - 1/jour chacun : [[bénédiction]], [[restauration partielle]], [[protection contre le mal et le bien]]
+ - À volonté : [[Assistance]], [[Stabilisation]]
+ - 1/jour chacun : [[Bénédiction]], [[restauration partielle]], [[protection contre le mal et le bien]]
 
 _Niveau 10._ __Frappe Divine.__ L'abbé inflige 1d8 dégâts radiants supplémentaires lorsqu'il touche avec une attaque.
 

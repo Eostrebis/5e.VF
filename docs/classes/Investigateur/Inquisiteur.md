@@ -21,7 +21,7 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 **Calice Consacré.** Pour une action bonus, vous pouvez prononcer une prière et produire suffisamment d'eau bénite pour remplir 5 fioles. Après 24 heures, cette eau redevient de l'eau ordinaire.
 
-**Reliquaire de Doute.** Pour une action bonus, vous pouvez lancer le sort [[détection des pensées]] une fois sans dépenser d'emplacement de sort ou de composantes matérielles. Lorsque vous lancez ce sort de cette façon, vous ne pouvez détecter que les pensées qui sont associées aux émotions négatives, comme la culpabilité, l'appréhension, le regret et la mélancolie.
+**Reliquaire de Doute.** Pour une action bonus, vous pouvez lancer le sort [[Détection des Pensées]] une fois sans dépenser d'emplacement de sort ou de composantes matérielles. Lorsque vous lancez ce sort de cette façon, vous ne pouvez détecter que les pensées qui sont associées aux émotions négatives, comme la culpabilité, l'appréhension, le regret et la mélancolie.
 
 ## Frappe Divine
 

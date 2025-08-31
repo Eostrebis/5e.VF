@@ -27,7 +27,7 @@ La magie d'un firbolg est obscurante, ce qui a permis à ses ancêtres de traver
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Magie Firbolg.** Vous pouvez lancer les sort [[détection de la magie]] et [[déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques.
+**Magie Firbolg.** Vous pouvez lancer les sort [[Détection de la Magie]] et [[Déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[Déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques.
 
 L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour ces sorts (vous choisissez au moment où vous sélectionnez cette race).
 

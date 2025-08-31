@@ -15,10 +15,10 @@ Tant que vous êtes lié à Languebleue, vous maîtrisez les compétences Persua
 Tant que vous êtes lié à Languebleue, une poche, sac ou autre contenant de votre choix devient un portail vers un espace extra dimensionnel de votre choix, qui fait 60 ft$^3$. L'ouverture de ce contenant s'adapte pour laisser passer tous les objets qui peuvent rentrer dans l'espace, et les items dans cet espace n'ont pas de poids jusqu'à ce qu'ils soient retirés. Lorsque vous accédez à cet espace, l'objet que vous souhaitez apparaît magiquement au-dessus. Un contenant perd cette propriété et son contenu est expulsé lorsque vous n'êtes plus lié à Languebleue.
 
 ## Mots Persuasifs
-Vous pouvez lancer le sort [[charme-personne]] une fois sans dépenser d'emplacement de sort. Une fois que vous avez lancé ce sort, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
+Vous pouvez lancer le sort [[Charme-personne]] une fois sans dépenser d'emplacement de sort. Une fois que vous avez lancé ce sort, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Langue Bleue
-Tant que vous êtes lié à Languebleue, vous pouvez lancer le sort [[déguisement]] sans avoir à dépenser d'emplacement de sort ou de composantes. Lancer le sort de cette manière prend 1 minute. Peu importe votre apparence, lorsque vous parlez, une langue bleue de serpent peut être vue dans votre bouche.
+Tant que vous êtes lié à Languebleue, vous pouvez lancer le sort [[Déguisement]] sans avoir à dépenser d'emplacement de sort ou de composantes. Lancer le sort de cette manière prend 1 minute. Peu importe votre apparence, lorsque vous parlez, une langue bleue de serpent peut être vue dans votre bouche.
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, vous gagnez le trait de personnalité suivant : "Je parle sur un ton fort, mais on a toujours l'impression que j'essaye de vendre quelque chose."

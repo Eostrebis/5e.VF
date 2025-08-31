@@ -84,7 +84,7 @@ En tant que gardien, vous disposez des compétences de classes suivantes.
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement offert par votre historique : 
 
- - Un [[bouclier]] et n'importe quelle [[Armes Martiales|arme martiale]]
+ - Un [[Bouclier]] et n'importe quelle [[Armes Martiales|arme martiale]]
  - (a) une [[chemise de mailles]], (b) une armure de [[cuir]] et une [[lance]], ou (c) une [[cotte de mailles]] si maîtrisée
  - (a) deux [[marteau léger|marteaux légers]] ou (b) n'importe quelle [[Armes Simples|arme simple]] de mêlée
  - (a) un [[sac d'exploration souterraine]] ou (b) un [[sac d'explorateur]]

@@ -23,4 +23,4 @@ Vous envoyez un court message de 25 mots ou moins à une créature avec laquelle
 
 Vous pouvez envoyer le message à travers n'importe quelle distance, et même vers d'autres plans, mais si la cible ne se trouve pas sur le même plan que vous, il y a 5% de chance que le message se perde.
 
-Vous pouvez utiliser le message pour suggérer une action raisonnable à une cible, auquel cas la cible doit réussir un jet de sauvegarde de Sagesse ou être influencé par votre message comme à travers un sort de [[Suggestion]].
+Vous pouvez utiliser le message pour suggérer une action raisonnable à une cible, auquel cas la cible doit réussir un jet de sauvegarde de Sagesse ou être influencé par votre message comme à travers un sort de [[suggestion]].

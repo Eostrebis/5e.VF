@@ -100,7 +100,7 @@ Vous pouvez également dépenser 5 points du réservoir pour soigner une maladie
 Cette compétence n'a aucun effet sur les Constructions.
 ### Équipement
 
- - Une [[épée longue]] et un [[bouclier]]
+ - Une [[épée longue]] et un [[Bouclier]]
  - Une [[masse d'armes]]
  - Un [[sac d'ecclésiastique]]
  - Une [[cotte de mailles]] et un pendentif confié par le père Elric, servant de [[symbole sacré]]

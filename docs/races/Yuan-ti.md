@@ -32,6 +32,6 @@ Béni avec la résistance aux effets magiques et de poison grâce à leur rituel
 
 **Résilience contre le Poison.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer la condition [[empoisonné]] sur vous-même. Vous êtes également résistant aux dégâts de poison.
 
-**Incantation Serpentine.** Vous connaissez le cantrip [[bouffée de poison]]. Vous pouvez lancer [[amitié avec les animaux]] un nombre de fois illimitée avec ce trait, mais vous ne pouvez cibler que des serpents. À partir du niveau 3, vous pouvez également lancer [[suggestion]] avec ce trait. Une fois que vous l'avez fait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi le lancer en utilisant des emplacements de sorts de niveau 2 ou plus.
+**Incantation Serpentine.** Vous connaissez le cantrip [[Bouffée de Poison]]. Vous pouvez lancer [[Amitié avec les Animaux]] un nombre de fois illimitée avec ce trait, mais vous ne pouvez cibler que des serpents. À partir du niveau 3, vous pouvez également lancer [[suggestion]] avec ce trait. Une fois que vous l'avez fait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi le lancer en utilisant des emplacements de sorts de niveau 2 ou plus.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (à choisir à la sélection de la race).

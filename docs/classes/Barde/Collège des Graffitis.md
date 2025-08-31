@@ -9,9 +9,9 @@ Lorsque vous choisissez ce collège au niveau 3, vous maîtrisez le [[matériel 
 
 ## Art de Rue
 
-Également au niveau 3, vous apprenez le cantrip [[graffiti]], qui est considéré comme un cantrip de barde pour vous et qui ne compte pas dans le nombre de cantrips connus.
+Également au niveau 3, vous apprenez le cantrip [[Graffiti]], qui est considéré comme un cantrip de barde pour vous et qui ne compte pas dans le nombre de cantrips connus.
 
-Lorsque vous lancez le cantrip [[graffiti]], vous pouvez dépenser une utilisation d'Inspiration Bardique pour réaliser une murale. Pendant la prochaine minute, vous et toutes les créatures alliées à 30 ft. de la murale qui peuvent la voir gagnent un bonus de +1 aux jets de caractéristique, d'attaque et de sauvegarde. Vous pouvez réutiliser cette capacité et dépenser plus d'Inspirations Bardiques pour étendre la murale, augmentant le bonus de +1 à chaque fois, jusqu'à un maximum de +3.
+Lorsque vous lancez le cantrip [[Graffiti]], vous pouvez dépenser une utilisation d'Inspiration Bardique pour réaliser une murale. Pendant la prochaine minute, vous et toutes les créatures alliées à 30 ft. de la murale qui peuvent la voir gagnent un bonus de +1 aux jets de caractéristique, d'attaque et de sauvegarde. Vous pouvez réutiliser cette capacité et dépenser plus d'Inspirations Bardiques pour étendre la murale, augmentant le bonus de +1 à chaque fois, jusqu'à un maximum de +3.
 
 ## Marque Signature
 

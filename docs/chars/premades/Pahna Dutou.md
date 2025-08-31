@@ -67,7 +67,7 @@ Elle porte des vêtements sombres et fonctionnels, souvent en cuir usé, choisis
 
 **Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-**Héritage de Minauros.** Vous connaissez le cantrip [[main de mage]].
+**Héritage de Minauros.** Vous connaissez le cantrip [[Main de Mage]].
 
 ### Compétences de Classe
 
@@ -77,8 +77,8 @@ Vous avez appris à saisir et modeler la magie qui vous maudit en sorts. Vous la
 
 Vous connaissez quatre cantrips : 
 
- - [[Chair de poule]]
- - [[Vol de vie mineur]]
+ - [[Chair de Poule]]
+ - [[Vol de Vie Mineur]]
  - [[Glas]]
  - [[Prestidigitation]]
 

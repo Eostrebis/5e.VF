@@ -28,8 +28,8 @@ status: finished
 >***Frappe Occulte*** *Attaque de Sort de Mêlée ou à Distance :* +4 pour toucher, portée 5 ft. ou 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
 >
 >***Incantation.*** Le cultiste lance l'un des sorts suivants, sans dépenser de composantes matérielles et en utilisant son Charisme comme caractéristiques d'incantation (DD de sauvegarde des sorts de 12) : 
-> - _À volonté :_ [[lumières dansantes]], [[main de mage]], [[illusion mineure]]
-> - _1/jour chacun :_ [[charme-personne]], [[détection de la magie]]
+> - _À volonté :_ [[Lumières Dansantes]], [[Main de Mage]], [[Illusion Mineure]]
+> - _1/jour chacun :_ [[Charme-personne]], [[Détection de la Magie]]
 
 ### Compétences de Cohorte
 
@@ -38,7 +38,7 @@ Tant qu'il suit les ordres de son capitaine, le cultiste obtient les capacités 
 _Niveau 2._ __Pacte Occulte.__ La frappe occulte du cultiste augmente en dégâts de 1d10 lorsque le capitaine atteint le niveau 5 (2d10), 11 (3d10) et 17 (4d10). La cohorte ajoute toujours son modificateur de Charisme aux jets de dégâts.
 
 _Niveau 6._ _Action :_ __Incantation.__ L'incantation du cultiste s'améliore. Il peut lancer les sorts suivants en plus de ceux de ses statistiques : 
- - À volonté : [[déguisement]], [[simulacre de vie]]
+ - À volonté : [[Déguisement]], [[Simulacre de Vie]]
  - 1/jour : [[suggestion]]
 
 _Niveau 10._ _Action :_ __Sinistre Malédiction (1/jour).__ Une créature que le cultiste peut voir à 60 ft. doit réussir un jet de sauvegarde de Sagesse (DD 8 + modificateur de Charisme + bonus de maîtrise) ou être maudite pendant 1 minute. Tant qu'elle est maudite, la créature a un désavantage aux jets d'attaque et de sauvegarde. À la fin de chaque tour, la créature peut retenter le jet de sauvegarde.

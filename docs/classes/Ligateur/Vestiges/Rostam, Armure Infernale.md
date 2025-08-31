@@ -8,7 +8,7 @@ Armure mythique incarnant le mal même, Rostam apparaît autour de ses ligateurs
 # Compétences
 
 ## Maîtrises Supplémentaires
-Tant que vous êtes lié à Rostam, vous maîtrisez le [[fléau]], le [[morgenstern]] ainsi que les [[armures lourdes]].
+Tant que vous êtes lié à Rostam, vous maîtrisez le [[Fléau]], le [[morgenstern]] ainsi que les [[armures lourdes]].
 
 ## Négociation Létale
 Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à réaliser des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous prenez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.

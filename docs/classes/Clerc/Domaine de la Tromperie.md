@@ -7,9 +7,9 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 
 | Niveau de Clerc | Sorts                                                      |
 | --------------- | ---------------------------------------------------------- |
-| 1               | [[Charme-personne]], [[déguisement]]                       |
+| 1               | [[Charme-personne]], [[Déguisement]]                       |
 | 3               | [[Image miroir]], [[passage sans trace]]                   |
-| 5               | [[Clignotement]], [[dissipation de la magie]]              |
+| 5               | [[Clignotement]], [[Dissipation de la Magie]]              |
 | 7               | [[Porte dimensionnelle]], [[métamorphose]]                 |
 | 9               | [[Domination de personne]], [[modification de la mémoire]] |
 

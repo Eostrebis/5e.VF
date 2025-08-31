@@ -29,7 +29,7 @@ Avez-vous été un apprenti, étudiant auprès d'un maître, suivant un barde pl
 
 ### Création Rapide
 
-Vous pouvez créer un barde rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Dextérité. Choisissez l'historique [[comique]]. Enfin, choisissez les cantrips [[fou rire]] et [[lumières dansantes]], ainsi que les sorts de niveau 1 [[charme-personne]], [[détection de la magie]] et [[vague tonnante]].
+Vous pouvez créer un barde rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Dextérité. Choisissez l'historique [[comique]]. Enfin, choisissez les cantrips [[Fou Rire]] et [[Lumières Dansantes]], ainsi que les sorts de niveau 1 [[Charme-personne]], [[Détection de la Magie]] et [[Vague Tonnante]].
 
 | **Le barde** |                   |             |
 | ------------ | ----------------- | ----------- |

@@ -11,7 +11,7 @@ Tant que vous portez cette forge, vous bénéficiez des effets suivants :
 
  - Vous pouvez choisir que vos armes infligent des dégâts de feu plutôt que leurs dégâts normaux.
  - Vous êtes résistant aux dégâts de feu.
- - Vous pouvez lancer les cantrips [[réparation]] et [[flammes]]. L'Intelligence est votre caractéristique d'incantation pour ces sorts.
+ - Vous pouvez lancer les cantrips [[Réparation]] et [[Flammes]]. L'Intelligence est votre caractéristique d'incantation pour ces sorts.
 
 ## Armurerie de Forgefeu
 

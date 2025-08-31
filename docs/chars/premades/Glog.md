@@ -90,7 +90,7 @@ Les sorts suivants sont ajoutés à votre liste de sorts :
 
 | Niveau de sort | Sorts                     |
 | -------------- | ------------------------- |
-| 1              | [[Graisse]], [[fou rire]] |
+| 1              | [[Graisse]], [[Fou Rire]] |
 
 ##### Souvenirs Retrouvés
 
@@ -173,9 +173,9 @@ Il a compris qu'il ne pourrait pas obtenir son diplôme en restant assis sur un 
 
 Vous avez étudié un peu de théorie magique et avez appris quelques sorts liés à l'académie des Arts Mystiques.
 
-Vous connaissez les cantrips [[Lumières]] et [[Thaumaturgie]] ainsi que le sort [[mémorisation]].
+Vous connaissez les cantrips [[Lumières]] et [[Thaumaturgie]] ainsi que le sort [[Mémorisation]].
 
-Vous pouvez lancer [[mémorisation]] sans dépenser d'emplacement de sort, une fois par repos long. Vous pouvez également le lancer en utilisant vos emplacements de sort.
+Vous pouvez lancer [[Mémorisation]] sans dépenser d'emplacement de sort, une fois par repos long. Vous pouvez également le lancer en utilisant vos emplacements de sort.
 
 ### Traits de Personnalité
 

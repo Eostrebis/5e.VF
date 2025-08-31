@@ -16,7 +16,7 @@ Tant que vous êtes lié à Lexicon, lorsque vous prenez des dégâts d'un sort,
 ## Incantation : Murmures Mystiques
 Tant que vous êtes lié à Lexicon, vous pouvez lancer les sorts suivants sans utiliser d'emplacement de sorts ou de composantes matérielles : 
 
-2 fois par jour chacun : [[détection de la magie]], [[feuille morte]], [[disque flottant]], [[brouillard]], [[armure de mage]], [[projectiles magiques]], [[bouclier]], [[sommeil]], [[vague tonnante]] et [[serviteur invisible]].
+2 fois par jour chacun : [[Détection de la Magie]], [[Feuille Morte]], [[Disque Flottant]], [[Brouillard]], [[Armure de Mage]], [[Projectiles Magiques]], [[Bouclier]], [[Sommeil]], [[Vague Tonnante]] et [[Serviteur Invisible]].
 
 Vous pouvez lancer chaque sort de cette liste deux fois, plus une fois supplémentaire pour chaque autre vestige que Lexicon auquel vous êtes lié. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

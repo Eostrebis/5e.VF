@@ -5,7 +5,7 @@ Les moines suivant la Voie de l'Ombre respectent les traditions qui prônent la 
 
 ## Arts de l'Ombre
 
-À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez utiliser votre ki pour reproduire les effets de certains sorts. Pour une action, vous pouvez dépenser 2 points de ki pour lancer [[ténèbres]], [[vision dans le noir]], [[passage sans trace]] ou [[silence]], sans avoir à dépenser de composantes matérielles. De plus, vous apprenez le cantrip [[illusion mineure]] si vous ne le connaissez pas déjà.
+À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez utiliser votre ki pour reproduire les effets de certains sorts. Pour une action, vous pouvez dépenser 2 points de ki pour lancer [[ténèbres]], [[vision dans le noir]], [[passage sans trace]] ou [[silence]], sans avoir à dépenser de composantes matérielles. De plus, vous apprenez le cantrip [[Illusion Mineure]] si vous ne le connaissez pas déjà.
 
 ## Pas d'Ombre
 

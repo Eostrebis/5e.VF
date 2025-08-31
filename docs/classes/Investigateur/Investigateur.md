@@ -31,7 +31,7 @@ Est-ce que vous avez appris auprès d'un chasseur de monstres expérimentés, ap
 
 ### Création Rapide
 
-Vous pouvez créer un Investigateur rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Dextérité ou de la Force. Ensuite, choisissez les rituels [[indice]], [[compréhension des langues]], [[détection de la magie]] et [[rempart éphémère]]. Choisissez l'historique de votre choix.
+Vous pouvez créer un Investigateur rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Dextérité ou de la Force. Ensuite, choisissez les rituels [[Indice]], [[Compréhension des Langues]], [[Détection de la Magie]] et [[Rempart Éphémère]]. Choisissez l'historique de votre choix.
 
 | **Le Investigateur** |                   |                                                           |                  |
 | -------------------- | ----------------- | --------------------------------------------------------- | ---------------- |
@@ -159,7 +159,7 @@ De plus, l'attaque, ainsi que les autres attaques réalisées contre cette cible
 
 Au niveau 7, vous gardez toujours une vaste variété de symboles et d'objets sacrés sur vous, même si vous n'êtes pas particulièrement pieux. Lorsque vous utilisez votre Piété Opportuniste, vous choisissez un effet à créer parmi la liste ci-dessous. Vous devez alors terminer un repos avant de pouvoir réutiliser votre Piété Opportuniste.
 
-**Bannissement.** Vous lancez le sort [[bannissement]] sans dépenser d'emplacement de sort. Si la cible est un Fey, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle prend également un montant de dégâts radiants égal à votre niveau.
+**Bannissement.** Vous lancez le sort [[Bannissement]] sans dépenser d'emplacement de sort. Si la cible est un Fey, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle prend également un montant de dégâts radiants égal à votre niveau.
 
 **Soin Miraculeux.** Pour une action, une main divine émane de vos mains pour apaiser les blessures d'une créature consentante que vous touchez. Cette créature regagne un nombre de points de vie égal au double de votre niveau d'investigateur. Cette compétence n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
@@ -174,9 +174,9 @@ Au niveau 9, vous devenez résilient aux attaques et effets des créatures que v
 ## Énigme Arcanique
 Au niveau 13, vous découvrez un secret magique lié à l'origine d'une puissante magie. Vous pouvez lancer un des sorts suivants sans dépenser d'emplacement de sort : [[mirage]], [[changement de plan]], [[renversement de la gravité]], [[dissimulation]] ou [[téléportation]]. Une fois que vous l'avez fait, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
 
-Au niveau 15, vous pouvez également lancer les sorts [[champ antimagie]], [[bagou]], [[labyrinthe]] ou [[esprit impénétrable]]. #TODO Look for the "you can't cast any of *these* spells"
+Au niveau 15, vous pouvez également lancer les sorts [[Champ Antimagie]], [[bagou]], [[labyrinthe]] ou [[esprit impénétrable]]. #TODO Look for the "you can't cast any of *these* spells"
 
-Au niveau 17, vous pouvez également lancer les sorts [[projection astrale]], [[portail]] ou [[ennemi subconscient]].
+Au niveau 17, vous pouvez également lancer les sorts [[Projection Astrale]], [[portail]] ou [[ennemi subconscient]].
 
 ## Exorciste
 À partir du niveau 18, vous pouvez lancer le sort [[protection contre le mal et le bien]] sans dépenser d'emplacement de sort ou de composantes matérielles.

@@ -19,7 +19,7 @@ Lorsque vous choisissez cet art au niveau 3, vous apprenez à drainer la vitalit
 
 ## Contrôle des Morts-Vivants
 
-À partir du niveau 6, vous avez mélangé à la magie de votre familier la magie que vous utilisez pour animer les morts. Lorsque vous utilisez votre action bonus pour contrôler votre familier, vous pouvez utiliser la même action bonus pour donner un ordre à un Mort-vivant que vous contrôlez grâce au sort [[animation des morts]] ou par une magie similaire.
+À partir du niveau 6, vous avez mélangé à la magie de votre familier la magie que vous utilisez pour animer les morts. Lorsque vous utilisez votre action bonus pour contrôler votre familier, vous pouvez utiliser la même action bonus pour donner un ordre à un Mort-vivant que vous contrôlez grâce au sort [[Animation des Morts]] ou par une magie similaire.
 
 ## Lien Vital
 

@@ -19,6 +19,6 @@ Au niveau 7, vous pouvez utiliser votre action bonus pour échanger de place ave
 À partir du niveau 10, vous pouvez réaliser un rituel spécial pendant 10 minutes, qui renforce votre avatar. Lorsque vous invoquez votre avatar, sa taille est G, il ne peut se déplacer que de 20 ft. par tour et il peut ajouter la moitié de votre niveau de ligateur à ses jets de dégâts. Ces changements persistent jusqu'à ce que vous terminiez un repos long ou que vous les dissipiez avec une action.
 
 ## Véritable Avatar
-À partir du niveau 14, pour une action, vous pouvez échanger de rôle avec votre avatar, devenant ainsi l'esprit tandis que lui devient tangible. Pendant la prochaine minute, vous vous fondez avec le plan éthéré, comme dans le sort [[forme éthérée]] et vous y commandez votre avatar plutôt que votre corps. À la fin de cette durée ou lorsque vous la terminez avec une action, vous revenez à l'emplacement que vous avez quitté.
+À partir du niveau 14, pour une action, vous pouvez échanger de rôle avec votre avatar, devenant ainsi l'esprit tandis que lui devient tangible. Pendant la prochaine minute, vous vous fondez avec le plan éthéré, comme dans le sort [[Forme Éthérée]] et vous y commandez votre avatar plutôt que votre corps. À la fin de cette durée ou lorsque vous la terminez avec une action, vous revenez à l'emplacement que vous avez quitté.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.

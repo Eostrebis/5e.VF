@@ -19,7 +19,7 @@ Au niveau 6, votre expertise de la discipline de la douleur vous confère de nou
 
 **Paume Marquante.** Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour marquer la créature. La prochaine attaque qui touche contre une créature marquée dans la minute inflige 2d8 dégâts de feu supplémentaires. Au niveau 11, ces dégâts passent à 3d8. Au niveau 17, ils passent à 4d8.
 
-**Châtaigne.** Immédiatement après avoir utilisé votre action pendant votre tour pour attaquer, vous pouvez dépenser 1 point de ki pour lancer [[poigne électrique]] pour une action bonus. La Sagesse est votre caractéristique d'incantation pour ce sort.
+**Châtaigne.** Immédiatement après avoir utilisé votre action pendant votre tour pour attaquer, vous pouvez dépenser 1 point de ki pour lancer [[Poigne Électrique]] pour une action bonus. La Sagesse est votre caractéristique d'incantation pour ce sort.
 
 **Technique de la Cisaille.** Si vous réalisez des dégâts tranchants à une créature avec une arme monastique ou une attaque à mains nues, vous pouvez dépenser 1 point de ki pour provoquer chez la cible une blessure saignante. Les Constructions, Ooze et Morts-Vivants ne peuvent pas avoir de telles blessures. Une créature perd 1d6 points de vie au début de chacun de ses tours pour chacune de ses blessures sanglantes, sauf si elle dépense une action pour stopper l'hémoragie de toutes ses blessures. Tant qu'une cible saigne, elle ne peut pas regagner de points de vie. Une créature peut avoir un nombre de blessures saignantes maximum égal à votre bonus de maîtrise.
 

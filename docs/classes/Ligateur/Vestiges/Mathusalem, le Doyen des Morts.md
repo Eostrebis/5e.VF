@@ -16,9 +16,9 @@ Vous pouvez réaliser un rituel de 10 minutes afin d'invoquer un corps humanoïd
 ## Incantation : Draugr
 Tant que vous êtes lié à Mathusalem, vous relevez les corps par votre simple toucher. Vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :
 
-*À volonté :* [[simulacre de vie]] (vous uniquement)
+*À volonté :* [[Simulacre de Vie]] (vous uniquement)
 
-*3/jour chacun :* [[animation des morts]]
+*3/jour chacun :* [[Animation des Morts]]
 
 *1/jour chacun :* [[création de mort-vivant]]
 

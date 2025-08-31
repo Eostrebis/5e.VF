@@ -31,7 +31,7 @@ Travaillez avec votre MJ pour déterminer comment les sorcières sont perçues d
 
 ### Création Rapide
 
-Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Constitution. Puis, choisissez les cantrips [[aspersion d'acide]], [[chair de poule]], [[abracadabra]] et [[illusion mineure]], ainsi que les sorts [[fou rire]] et [[vague tonnante]]. Choisissez la malédiction [[Hideuse]], ainsi que les maléfices [[Mauvais Œil]] et [[Mauvaise Fortune]]. Enfin, choisissez l'historique de votre choix qui illustre votre vie avant d'avoir été maudite.
+Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Constitution. Puis, choisissez les cantrips [[Aspersion d'Acide]], [[Chair de Poule]], [[Abracadabra]] et [[Illusion Mineure]], ainsi que les sorts [[Fou Rire]] et [[Vague Tonnante]]. Choisissez la malédiction [[Hideuse]], ainsi que les maléfices [[Mauvais Œil]] et [[Mauvaise Fortune]]. Enfin, choisissez l'historique de votre choix qui illustre votre vie avant d'avoir été maudite.
 
 | **La Sorcière |                   |                                                                                                                                         |                  |                 |              |     |      |      |      |      |      |      |      |      |
 | ------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ------------ | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -149,11 +149,11 @@ Toutes les sorcières ne rient pas comme des maniaques lorsqu'elles ricanent, ma
 
 ## Familier
 
-Au niveau 2, vous apprenez le sort [[appel de familier]] et pouvez le lancer comme un rituel sans avoir à dépenser de composantes matérielles. Ce sort ne compte pas dans le nombre de sorts que vous connaissez. Le sort est amélioré des façons suivantes : 
+Au niveau 2, vous apprenez le sort [[Appel de Familier]] et pouvez le lancer comme un rituel sans avoir à dépenser de composantes matérielles. Ce sort ne compte pas dans le nombre de sorts que vous connaissez. Le sort est amélioré des façons suivantes : 
 
  - Votre familier agit juste avant ou après vous dans l'initiative (votre choix).
  - Une fois par tour pour une action ou une action bonus, vous pouvez commander mentalement votre familier afin qu'il utilise sa réaction pour réaliser une attaque.
- - Vous pouvez utiliser le sort [[appel de familier]] pour faire passer à travers votre familier des sorts qui n'ont pas une portée de toucher.
+ - Vous pouvez utiliser le sort [[Appel de Familier]] pour faire passer à travers votre familier des sorts qui n'ont pas une portée de toucher.
  - Lorsque vous lancez le sort, vous choisir une des formes habituelles ou une des formes spéciales suivantes : [[Escargot de la Mort]], [[Livre Volant]], [[homoncule]], [[Smacre]], [[Méduse Lune]], [[Ami Caillou]], [[pseudodragon]], [[Poupée]], [[lutin]], [[soldat d'étain]], [[louveteau d'hiver]] ou [[golem de laine]].
 
 

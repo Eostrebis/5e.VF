@@ -28,6 +28,6 @@ Au niveau 20, vous avez une vitesse de vol égal à votre vitesse de marche.
 De plus, vous pouvez utiliser votre action pour invoquer un éclair qui vous touche, infusant votre corps de la furie des tempêtes. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
  - Votre vitesse de vol est doublée.
- - Vous pouvez lancer le sort [[appel de la foudre]] pour une action bonus (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Constitution) sans dépenser d'emplacement de sort. Lorsque vous lancez un sort de cette façon, vous pouvez appeler un éclair à chacun de vos prochains tours pour une action bonus.
+ - Vous pouvez lancer le sort [[Appel de la Foudre]] pour une action bonus (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Constitution) sans dépenser d'emplacement de sort. Lorsque vous lancez un sort de cette façon, vous pouvez appeler un éclair à chacun de vos prochains tours pour une action bonus.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos long.

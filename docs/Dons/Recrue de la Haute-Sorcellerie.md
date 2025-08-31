@@ -9,9 +9,9 @@ Choisissez l'une des trois lunes de Krynn pour influencer votre magie : la lune 
 
 | Lune | Sort de niveau 1 |
 |------|------------------|
-| Nuitari | Choisissez deux parmi [[murmures dissonants]], [[simulacre de vie]], [[Malédiction Persistante]] et [[rayon empoisonné]] |
-| Lunitari | Choisissez deux parmi [[couleurs dansantes]], [[déguisement]], [[feuille morte]] et [[grandes foulées]] |
-| Solinari | Choisissez deux parmi [[compréhension des langues]], [[détection du mal et du bien]], [[protection contre le mal et le bien]] et [[bouclier]] |
+| Nuitari | Choisissez deux parmi [[Murmures Dissonants]], [[Simulacre de Vie]], [[Malédiction Persistante]] et [[rayon empoisonné]] |
+| Lunitari | Choisissez deux parmi [[Couleurs Dansantes]], [[Déguisement]], [[Feuille Morte]] et [[grandes foulées]] |
+| Solinari | Choisissez deux parmi [[Compréhension des Langues]], [[Détection du Mal et du Bien]], [[protection contre le mal et le bien]] et [[Bouclier]] |
 
 Vous pouvez lancer chacun de ces sorts de niveau 1 une fois sans dépenser d'emplacement de sort, et vous devez terminer un repos long avant de pouvoir le faire à nouveau. Vous pouvez également les incanter en utilisant vos emplacements.
 

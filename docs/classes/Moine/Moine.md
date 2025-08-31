@@ -240,7 +240,7 @@ Au niveau 15, votre ki vous sustente de telle sorte que vous ne souffrez d'aucun
 
 À partir du niveau 18, vous pouvez utiliser votre action pour dépenser 4 points de ki et devenir [[invisible]] pendant 1 minute. Pendant ce temps, vous avez également la résistance à tous les dégâts qui ne sont pas de force.
 
-De plus, vous pouvez dépenser 8 points de ki pour lancer le sort [[projection astrale]] sans devoir payer de composantes matérielles. Lorsque vous le faites, vous ne pouvez pas prendre de créature avec vous.
+De plus, vous pouvez dépenser 8 points de ki pour lancer le sort [[Projection Astrale]] sans devoir payer de composantes matérielles. Lorsque vous le faites, vous ne pouvez pas prendre de créature avec vous.
 
 ## Perfection de l'Être
 
