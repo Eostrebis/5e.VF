@@ -1,6 +1,7 @@
 ---
-englishname: 
+englishname:
 requis:
+step: empty
 ---
 Habitué aux bagarres fouillies et crues où tout peut servir d'armes, vous bénéficiez des effets suivants : 
 

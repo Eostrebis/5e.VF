@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description physique
 
 Peuple emplumé qui ressemble à des corbeaux, les kenkus sont dotés d'un sens de l'observation hors du commun et du mémoire incroyablement précise. Aucun d'entre eux ne peut se rappeler l'origine du premier kenku néanmoins, et il est souvent raconté qu'il existe autant d'histoires originelles que de kenkus. Certains voient leur existence comme une malédiction, étant un peuple aviaire incapable de voler condamné à imiter les créations des autres. D'autres récitent des poèmes aussi cryptiques que magnifiques où leur existence est vue comme une bénédiction, une mission des dieux pour explorer le multivers et cataloguer toutes ses merveilles.

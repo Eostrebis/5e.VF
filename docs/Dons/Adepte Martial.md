@@ -1,6 +1,7 @@
 ---
 englishname: Martial Adept
 requis:
+step: empty
 ---
 Vous avez suivi un entraînement martial qui vous permet de réaliser des manœuvres de combat. Vous bénéficiez des effets suivants :
 

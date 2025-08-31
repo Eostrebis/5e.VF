@@ -10,13 +10,14 @@ school: Nécromancie
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Minute
 Incantation: 1 Action
 Portée: Touché
 Concentration: true
 Rituel: false
 englishname: Bestow Curse
+step: empty
 ---
 Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
 

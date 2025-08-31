@@ -1,6 +1,7 @@
 ---
 englishname: Poisoner
 requis:
+step: empty
 ---
 Vous pouvez concevoir et injecter des poisons mortels, se traduisant par les effets ci-dessous :
 

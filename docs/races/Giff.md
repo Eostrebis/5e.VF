@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Les giffs sont un peuple de grand et larges individus avec des caractéristiques d'hippopotame. La plupart ont la peau lisse, tandis que d'autres possèdent de petits poils sur leur visage et au-dessus de leur tête. D'une taille impressionnante et au physique inoubliable, les giffs sont remarqués où qu'ils aillent.

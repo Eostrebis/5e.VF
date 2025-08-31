@@ -16,6 +16,7 @@ Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Enlarge/Reduce
+step: empty
 ---
 Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pour la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut réaliser un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
 

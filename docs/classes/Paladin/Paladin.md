@@ -1,3 +1,6 @@
+---
+step: empty
+---
 
 ## Créer un paladin
 

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 8*
 
 Archiviste d'innombrables trésors dans le Coffre de Venagoth, Döpple partage l'histoire des plus grands artefacts avec ses ligateurs.

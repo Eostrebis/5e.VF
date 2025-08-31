@@ -3,6 +3,7 @@ type: Poison
 coût: 500
 poids: 0.5
 englishname: Burnt Othur Fumes
+step: empty
 ---
 Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou prendre 10 (3d6) dégâts de poison et répéter le jet de sauvegarde au début de chacun de ses tours à venir. Pour chaque jet de sauvegarde raté, la créature prend 3 (1d6) dégâts de poison. Le poison se termine après trois jets de sauvegarde réussis.
 

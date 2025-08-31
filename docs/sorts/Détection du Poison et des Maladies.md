@@ -18,6 +18,7 @@ Portée: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: true
 englishname: Detect Poison and Disease
+step: empty
 ---
 Pendant la durée du sort, vous pouvez ressentir la présence de poisons, de créatures venimeuses ou de maladies à 30 ft. de vous. Vous pouvez également identifier le type de poison, de créature ou de maladie dans chaque cas.
 

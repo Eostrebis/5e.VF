@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l'une des excentricités suivantes : 
 
 **Honnête.** Vous détestez tromper les autres et ils sont donc plus enclins à vous trouver digne de confiance. Vous avez un bonus de +2 aux jets de Persuasion, mais le désavantage aux jets de Tromperie.

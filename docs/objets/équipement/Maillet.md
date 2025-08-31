@@ -2,7 +2,8 @@
 type: Arme de Mêlée Martiale
 coût: 10
 poids: 10
-englishname: Maul 
+englishname: Maul
+step: empty
 ---
 
 | Dégâts          | Propriétés           |

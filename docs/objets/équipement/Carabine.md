@@ -4,6 +4,7 @@ coût: 175
 poids: 8
 englishname: Hunting Rifle
 Ère: Industrielle
+step: empty
 ---
 
 | Dégâts       | Propriétés                                                |

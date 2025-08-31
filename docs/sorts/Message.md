@@ -17,6 +17,7 @@ Portée: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Message
+step: empty
 ---
 Vous pointez du doigt une créature à portée et lui murmurez un message. La cible (et seulement la cible) entend ce message et peut répondre par un murmure que vous êtes seul à entendre.
 

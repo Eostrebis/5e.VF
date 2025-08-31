@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Une foule difforme s’amasse autour d'un jeune nain aux vêtements impeccables. Il touche chaque personne tour à tour, refermant les blessures, soignant les maladies, et restaurant l'espoir.
 
 Une tieffline en haillons parle dans un parc fréquenté. Comme en réponse, des nuages noirs se forment au-dessus de sa tête, et la terre tremble à ses mots.

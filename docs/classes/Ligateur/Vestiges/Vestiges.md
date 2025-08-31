@@ -1,3 +1,6 @@
+---
+step: empty
+---
 | Niveau | Nom du Vestige                     | Rôle : Compétences                                                 |
 | ------ | ---------------------------------- | ------------------------------------------------------------------ |
 | 1      | [[Languebleue, le Filou]]          | **Social** : Maîtrises supplémentaires, sac sans fond, déguisement |

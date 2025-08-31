@@ -14,9 +14,10 @@ detailmat: Une petite cloche et un bout de fil d'argent
 Durée: 8 Heures
 Incantation: 1 Minute
 Portée: 30 ft.
-Concentration: 
+Concentration:
 Rituel: true
 englishname: Alarm
+step: empty
 ---
 Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arrête de 20 ft. (6m/4 cases). Jusqu'à ce que le sort termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
 

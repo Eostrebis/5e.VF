@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Un bourdonnement constant d'activités imprègne les garennes et villages où les gnomes forment de solides communautés. Des sons plus forts viennent parfois ponctuer le bourdonnement : un craquement de rouage par-ci, une petite explosion par là, un cri de triomphe ou de déception, et souvent un éclat de rire. Les gnomes apprécient la vie, profitant de chaque instant d'invention, d'exploration, d'investigation, de création et de jeu.

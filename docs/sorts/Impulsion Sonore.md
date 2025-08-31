@@ -7,13 +7,14 @@ school: Évocation
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Sonic Pulse
+step: empty
 ---
 Vous compressez une explosion bruyante en une balle invisible et la projetez vers une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 1d8 dégâts de tonnerre et être [[assourdi|assourdie]] jusqu'au début de votre prochain tour.
 

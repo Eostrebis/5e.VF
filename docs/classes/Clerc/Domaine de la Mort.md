@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Le domaine de la Mort s'intéresse aux forces qui provoquent la mort, ainsi qu'à l'énergie négative qui lève les morts-vivants. Certaines déités de ce domaine sont les patrons des nécromanciens, chevaliers de morts, liches, momies et autres vampires. Certains dieux du domaine de la Mort encouragent aussi le meurtre, la douleur, la maladie ou le poison, ainsi que l'Outre-Monde.
 
 **Sorts du Domaine de la Mort**

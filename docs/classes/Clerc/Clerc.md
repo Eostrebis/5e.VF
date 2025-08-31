@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les bras levés vers le ciel, le regard porté sur le soleil, et prononçant une prière, un elfe commence à briller d'une lumière intérieure qui s'échappe pour aller soigner ses compagnons blessés au combat.
 
 Scandant une chanson de gloire, un nain envoie sa hache à droite et à gauche pour se frayer un chemin à travers une horde d'orques lui courant dessus, louant la puissance des dieux à chaque ennemi mis à terre.

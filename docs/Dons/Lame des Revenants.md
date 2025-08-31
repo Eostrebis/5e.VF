@@ -1,6 +1,7 @@
 ---
 englishname: Revenant Blade
 requis: Elfe
+step: empty
 ---
 
 Vous êtes le descendant d'un maître du [[cimeterre à double-lame]], et un peu de sa maîtrise vous est parvenue. Vous bénéficiez des effets suivants : 

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Cousins lointains des géants, les premiers firbolgs parcouraient les forêts primitives du multivers et la magie de ces forêts s'est profondément liée à l'âme des firbolgs. Des siècles plus tard, cette magie persiste toujours dans un firbolg, même chez un qui n'a jamais vécu sous l'orée d'une grande forêt.

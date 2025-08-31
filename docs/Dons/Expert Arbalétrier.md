@@ -1,6 +1,7 @@
 ---
 englishname: Crossbow Expert
 requis:
+step: empty
 ---
 Grâce à votre entraînement sans relâche avec une arbalète, vous bénéficiez des effets suivants :
 

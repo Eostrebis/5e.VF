@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme de mêlée  exotique chef-d'œuvre
 

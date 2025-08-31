@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les capitaines qui arborent l'étendard du Bélier ne cherchent pas à contourner les obstacles, ils passent à travers par force brute. Lorsque c'est possible, ces capitaines obligent leurs ennemis à rester sur la défensive, les balançant au sol ou les repoussant vers des positions moins avantageuses, là où leurs cohortes peuvent terminer le travail. L'Étendard du Bélier voit ces tactiques non seulement comme équitables, mais surtout comme optimales, puisque la validité des techniques de combat ne devrait être estimée que par l'efficacité.
 
 ## Manœuvre : Ruée

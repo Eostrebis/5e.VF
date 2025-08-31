@@ -1,6 +1,7 @@
 ---
 requis:
   - Force 15
+step: empty
 ---
 Soyez plus grand, plus impressionnant, plus solide, et personne ne se tiendra en travers de votre route. Vous êtes un engin de siège vivant, un titan de muscles, maniant des armes que le commun des mortels ne peut soulever. Armé de ces impressionnantes armes à feu, vous intervenez au milieu du champ de bataille, bombardant et détruisant tous ceux suffisamment fous pour s'approcher de vous.
 

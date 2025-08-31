@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Des covent secrets à travers le Plan Matériel pratique la magie en incantant à travers leurs lames. Ricanant diaboliquement et tournoyant à travers le champ de bataille, ces sorcières tissent leur malédiction sur une tapisserie ensanglantée lorsqu'elles utilisent leurs lames.
 
 

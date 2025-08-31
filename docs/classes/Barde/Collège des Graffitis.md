@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Pour beaucoup, le collège des graffitis représente une nuisance, une bande de délinquants qui vandalisent sans considération pour la loi. Mais les bardes qui apprennent à taguer savent que le graffiti est la forme d'art la plus pure. Les graffistes utilisent la ville entière comme leur toile, place des murales inspirantes là où tous peuvent les voir et des tags plus personnels là où ils passeront inaperçus. Bien qu'illégal, ce comportement osé et créatif amène fraîcheur et joie de vivre dans la ville.
 
 ## Maîtrises Supplémentaires

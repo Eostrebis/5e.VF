@@ -1,6 +1,7 @@
 ---
 englishname: Fury of the Frost Giant
 requis: Niveau 4, Frappe des Géants (Frappe de Froid)
+step: empty
 ---
 Vous avez manifesté en vous la grandeur glacée emblématique des géants de froid, et vous bénéficiez des effets suivants : 
 

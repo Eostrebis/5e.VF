@@ -1,3 +1,6 @@
+---
+step: empty
+---
 L'amour est une chose puissante, et personne ne le sait aussi bien que les bardes du collège de la romance. Amoureux et séducteurs à la langue habile, ces bardes ont fait de l'art de séduire une science qu'ils utilisent à leur avantage avec une précision implacable. Si l'option est disponible, ces bardes préfèreraient toujours faire l'amour que la guerre, sachant parfaitement qu'un ennemi devenu allié est doublement plus efficace qu'un ennemi abattu.
 
 ## Appréciable

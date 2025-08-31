@@ -4,6 +4,7 @@ coût: 250
 poids: 10
 englishname: Harpoon Rifle
 Ère: Industrielle
+step: empty
 ---
 
 | Dégâts       | Propriétés                     |

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Le Domaine de l'Ordre représente la discipline, ainsi que la dévotion aux lois qui gouvernent la société, une institution ou une philosophie. Les Clercs de l'Ordre méditent sur la logique et la justice tout en servant leurs dieux.
 
 Les Clercs de l'Ordre pensent que des lois bien pensées établissent des hiérarchies légitimes, et que ceux choisis par loi pour mener doivent être suivis. Ceux qui obéissent doivent le faire au meilleur de leurs capacités, et si ceux qui mènent échouent à appliquer et protéger la loi, ils doivent être remplacés. Ainsi, les lois tissent une toile d'obligations qui créent de l'ordre et de la sécurité dans un multivers autrement chaotique.

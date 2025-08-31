@@ -1,3 +1,6 @@
+---
+step: empty
+---
 https://www.gmbinder.com/share/-N9HUHlsQ_DbkaVZS5cs
 https://i.4pcdn.org/tg/1515866457192.pdf
 Remove all HP gain (+1 CON instead)

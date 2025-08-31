@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Le colosse, souvent connu comme un char de guerre, est un barbare des première lignes, maniant des armes massives et projetant les combattants les plus petits dans sa furie. Pour un tel char, la force est le seul attribut qui compte. Prévoir est pour les faibles ; croire est pour les faibles ; la vitesse est pour les faibles. La victoire n'appartient qu'aux forts et la rage est le meilleur chemin vers la force. Cette voie est le favori des goliaths et des géants, qui s'adapte facilement à écraser de petits adversaires.
 
 ## Plus Grand que Nature

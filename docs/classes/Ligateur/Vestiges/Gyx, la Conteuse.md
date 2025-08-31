@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 1*
 
 *Prérequis : être lié à au moins un autre vestige*

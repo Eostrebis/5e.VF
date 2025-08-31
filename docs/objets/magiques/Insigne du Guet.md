@@ -1,6 +1,7 @@
 ---
-type: 
-rareté: 
-attunement: 
+type:
+rareté:
+attunement:
 attdet:
+step: empty
 ---

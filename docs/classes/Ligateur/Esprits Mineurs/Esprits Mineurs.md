@@ -1,3 +1,6 @@
+---
+step: empty
+---
 |                     Esprit Mineur                      |     Dégâts      |    Pour Toucher    |
 | :----------------------------------------------------: | :-------------: | :----------------: |
 |                   [[Esprit de Lame]]                   | 1d8 tranchants  |  Attaque de Mêlée  |

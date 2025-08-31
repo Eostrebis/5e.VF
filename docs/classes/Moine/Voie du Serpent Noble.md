@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Par héritage ou par pur accident, par éveil spirituel ou par conflit intérieur, vous avez réalisé vos premiers pas pour devenir un servant de l'Impératrice Serpent, une reine d'au-delà les plans dont le pouvoir rivalise même les dieux. Résidant dans son palace fait d'or et de saphir, sa Majesté Impériale dort en solitaire depuis des âges oubliés, voyageant lentement à travers les plans. Lorsque son palace arrive sur un nouveau monde et qu'elle se réveille, son règne de cruauté commence. Votre style martial vous a été appris par l'une de ses femmes de main ou vous l'avez découvert dans des parchemins de techniques interdites qui ont été oubliés lorsque l'Impératrice a quitté votre monde il y a une éternité, nul ne sait pourquoi.
 
 ## Vice Contraignant

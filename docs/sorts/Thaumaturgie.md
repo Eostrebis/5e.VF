@@ -5,14 +5,15 @@ level: 0
 school: Transmutation
 Verbal: true
 Somatique: false
-Matériel: 
-detailmat: 
+Matériel:
+detailmat:
 Durée: 1 Minute
 Incantation: 1 Action
 Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Thaumaturgy
+step: empty
 ---
 Vous manifestez un signe de pouvoir surnaturel à portée. Vous créez l'un des effets magiques suivants : 
 

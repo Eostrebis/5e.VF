@@ -3,6 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 5
 poids: 18
 englishname: Pike
+step: empty
 ---
 
 | Dégâts        | Propriétés                   |

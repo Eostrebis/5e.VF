@@ -17,6 +17,7 @@ Portée: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Frolicking Fountain
+step: empty
 ---
 Vous invoquez un cube d'eau de 5 ft. qui s'anime dans un pattern hypnotique dans un espace inoccupé à portée. L'eau voltige pendant la durée du sort, sans quitter son cube si ce n'est pour des petits jets jusqu'à 5 ft. de haut. Chaque créature à 60 ft. autre que vous qui voit la fontaine doit réaliser un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] par vous pendant la durée du sort. Tant qu'elle est charmée par ce sort, une créature doit utiliser son mouvement pendant son tour pour se rapprocher autant que possible de l'eau. A la fin de chacun de ses tours, une créature charmée peut retenter le jet de sauvegarde du sort. Une créature qui a réussi le jet de sauvegarde du sort n'est plus affectée par la même instance.
 

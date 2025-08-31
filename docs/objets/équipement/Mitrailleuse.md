@@ -4,6 +4,7 @@ coût: 3000
 poids: 125
 englishname: Gatling Gun
 Ère: Industrielle
+step: empty
 ---
 
 | Dégâts       | Propriétés                                                                            |

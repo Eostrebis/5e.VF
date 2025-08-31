@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Requis : Niveau 13, Bombeur Fou*
 
 Lorsque vous amorcez et lancez une bombe, vous pouvoir choisir de lancer un nombre de bombes égal au nombre de dés de dégâts de la bombe, plutôt qu'une seule. Chaque bombe que vous lancez inflige 1d10 dégâts plus votre modificateur d'Intelligence et ne peut pas cibler la même créature ou espace. Vous devez dépenser des dés de réactifs séparément pour chaque bombe, et ne pouvez appliquer une formule qu'à l'une d'entre elles.

@@ -18,6 +18,7 @@ Portée: 2 kilomètres
 Concentration: false
 Rituel: false
 englishname: Whisperind Wind
+step: empty
 ---
 Vous pointez votre doigt dans une direction et murmurez un message de jusqu'à vingt cinq mots, tout en désignant jusqu'à 6 créatures pour êtres les cibles. Si une cible est à portée et dans la direction générale que vous avez pointé, elle (et seulement elle) entend le message porté par le vent. Elle peut répondre par un murmure que vous êtes le seul à entendre.
 

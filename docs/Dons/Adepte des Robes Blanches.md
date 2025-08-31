@@ -1,6 +1,7 @@
 ---
 englishname: Adept of the White Robes
 requis: Niveau 4, Recrue de la Haute-Sorcellerie (Solinari)
+step: empty
 ---
 Vous avez choisi la lune Solinari comme influence de votre magie, et votre serment d'utiliser la magie pour faire du monde un meilleur endroit a été reconnu par l'Ordre des Robes Blanches, qui vous confère ces effets :
 

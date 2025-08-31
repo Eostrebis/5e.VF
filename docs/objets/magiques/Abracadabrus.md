@@ -3,6 +3,7 @@ type: Objet Merveilleux
 rareté: Très Rare
 attunement: false
 attdet:
+step: empty
 ---
 Un *abracadabrus* est un coffre en bois, orné de gemmes et de moulures, qui pèse près de 10 kg quand il est vide. Son compartiment intérieur est un cube mesurant 1.5ft. de côté.
 

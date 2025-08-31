@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Requis : Niveau 17*
 
 Un éclair de génie dans votre recherche vous a permis de découvrir la formulation de quelques élixirs très puissants. Vous pouvez concocter les potions suivantes : 

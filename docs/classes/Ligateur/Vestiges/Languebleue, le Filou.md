@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 1*
 
 Métamorphe trompeur, Languebleue offre ses mots habiles et ses pouvoirs de métamorphose à ceux qui se lient avec lui.

@@ -18,6 +18,7 @@ Portée: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Dancing Lights
+step: empty
 ---
 Vous créez jusqu'à quatre flammes de la taille d'une torche, et vous pouvez les faire apparaître comme des torches, des lanternes ou des orbes lumineux qui lévitent pour la durée du sort. Vous pouvez également combiner ces quatre lumières en une forme vaguement humanoïde de taille M. Quoi que vous choisissiez, chaque lumière émet une lumière faible sur 10 ft.
 

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] ou [[Propriétés d'Arme#Jet|Jet]] qui inflige des dégâts perçants.
 

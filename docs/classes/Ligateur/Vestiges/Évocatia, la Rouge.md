@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 3*
 
 Légendaire lanceuse de sort d'après laquelle l'école de l'Évocation est nommée, elle confère à ses ligateurs un arcane sauvage et ardente.

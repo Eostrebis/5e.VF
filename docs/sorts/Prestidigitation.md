@@ -12,13 +12,14 @@ school: Transmutation
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Prestidigitation
+step: empty
 ---
 Ce sort est un léger tour de magie que les lanceurs de sorts novices utilisent pour s'entraîner. Vous créez l'un des effets magiques suivants à portée : 
 

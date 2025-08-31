@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Au milieu de la nuit, vous entendez de la musique. Ça commence toujours pareil, d'abord un léger bourdonnement puis une cacophonie assourdissante. Ce bruit est à en devenir fou. Lorsque vous êtes éveillé, vos doigts apprennent à imiter cette mélodie et à faire connaître aux autres votre folie.
 
 Certains mettent ces cauchemars sur le dos d'une malédiction ou du stress, mais vous savez que c'est faux. Vous et les autres comme vous êtes appelés toutes les nuits par le battement d'un tambour et le sifflement monotone d'une flûte mal accordée, par le son d'un dieu fou qui raisonne dans le multivers et vous convoque pour réaliser quelque chose. Vous ne savez pas quoi.

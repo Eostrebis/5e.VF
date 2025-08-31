@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les artisans de la guilde des Piégeurs peuvent construire les pièges suivants :
 
 ### Piège Baliste

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les barbares de la voie du Heavy Metal ne font pas les choses à moitié. Ils affrontent toujours l'ennemi le plus imposant, manient les haches les plus lourdes et, surtout, joue leur musique le plus fort ! Ainsi, toutes les combats auxquels ils participent tendent à devenir ... bruyants, bordéliques, mais courts.
 
 Protégés seulement par leurs peintures faciales et leurs ceintures rembourrées, ces canailles sans peur sont connus pour hurler leurs ennemis vers la soumissions et pour saccager les tavernes, même s'ils peuvent être attentionnés et érudits lorsqu'ils ne canalisent pas leur furie primale. Loin du champ de bataille, ces "têtes de foudre" forment une confrérie soudée, liée par un dévouement absolu à leur voie et l'idée partagée que la vie d'un aventurier -- avec son voyage interminable, sa violence explosive et ses hébergements inconnus -- n'est rien d'autre qu'une tournée sans fin

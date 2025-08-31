@@ -1,6 +1,7 @@
 ---
 englishname: Strixhaven Initiate
 requis:
+step: empty
 ---
 Vous étudié un peu de théorie magique et avez appris quelques sorts liés à l'Académie de Strixhaven.
 

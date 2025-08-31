@@ -18,5 +18,6 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Borrowed Knowledge
+step: empty
 ---
 Vous tirez profit des esprits du passé. Choisissez une compétence que vous ne maîtrisez pas. Pendant la durée du sort, vous maîtrisez cette compétence. Ce sort se termine prématurément si vous le relancez.

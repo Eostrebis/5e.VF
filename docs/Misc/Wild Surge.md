@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Using the New Table
 
 The rules are unchanged. When a sorcerer casts a spell, after the spell is cast, roll d20. If the result is 1, roll on the Wild Magic Surge table. Other events or actions may also result in rolling on the table. However, instead of rolling d100 and going straight in, you must first roll d20 to determine which of the three columns you’re going to use. 1-3 (15%) is the first column (extreme), 4-9 (30%) is the middle column (moderate), and 10-20 (55%) is the third column (nuisance).

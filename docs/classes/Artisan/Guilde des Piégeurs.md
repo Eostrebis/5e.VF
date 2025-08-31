@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Tous les artisans ne sont pas étrangers aux tourelles, bombes et autres mécanismes subtils, mais les artisans de la Guilde des Piégeurs en font tout un art. Avec suffisamment de temps et de ressources, un piégeur peut couvrir une pièce d'installations, mettant en scène une demie douzaine de façon unique de donner la mort à un intrut. Tandis que les piège font le sale boulot, le piégeur peut rêvasser au loin, profitant de sa bière et réfléchissant déjà à son prochain design des plus mortels.
 
 ## Sens du Danger

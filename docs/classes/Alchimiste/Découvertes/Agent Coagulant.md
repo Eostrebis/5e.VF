@@ -1,1 +1,4 @@
+---
+step: empty
+---
 Vous avez développé un sérum qui épaissit votre sang. Votre nombre maximum de points de vie augmente de votre niveau d'alchimiste + votre modificateur de Constitution, et il augmentera de 1 encore à chaque niveau dans cette classe.

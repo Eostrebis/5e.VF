@@ -3,6 +3,7 @@ type: Potion
 rareté: Rare
 attunement: false
 attdet:
+step: empty
 ---
 Vous pouvez verser cette substance sur le sol pour une action. Si elle est versée sur de la pierre, un cylindre d'un rayon et d'une profondeur de 10 ft. se transforme en boue pour 1 heure.
 

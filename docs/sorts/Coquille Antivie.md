@@ -7,13 +7,14 @@ school: Abjuration
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Antilife Shell
+step: empty
 ---
 Une barrière scintillante émane de vous sur un rayon de 10 ft. et se déplace avec vous, toujours centrée sur vous et repoussant les créatures qui ne sont pas des morts-vivants ou des constructions. La barrière dure pour la durée du sort.
 

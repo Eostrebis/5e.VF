@@ -1,6 +1,7 @@
 ---
 englishname: Polearm Master
 requis:
+step: empty
 ---
 Vous bénéficiez des effets suivants : 
 

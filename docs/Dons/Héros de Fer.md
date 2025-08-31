@@ -1,6 +1,7 @@
 ---
 englishname: Iron Hero
 requis:
+step: empty
 ---
 Vous vous êtes résolu à devoir sauver le monde lorsque tout semble perdu. Vous bénéficiez des effets suivants : 
 

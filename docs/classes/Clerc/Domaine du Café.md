@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les herbalistes ont depuis longtemps concocté thés et autres remèdes pour apaiser le corps et aiguiser l'esprit, mais remèdes de grand-mère ne font que pâle figure devant la boisson préférée de beaoucup : le café. Le café est une boisson avec de forts effets alchimiques : repouse le sommeil, augmente la concentration, et provoque une sensation d'éveil et d'inspiration. Du plus communs des paysans à l'archimage royal, tous profitent de la chaleur acide de cette concotion, et il n'est pas surprenant que certains dieux aient adopté le café comme domaine. Cependant, certains clercs se tournent vers ce domaine sans vénérer une déité associée, mais simplement parce qu'ils en sont dépendants.
 
 **Sorts du Domaine du Café**

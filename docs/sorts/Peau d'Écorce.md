@@ -14,5 +14,6 @@ Portée: Touché
 Concentration: true
 Rituel: false
 englishname: Barkskin
+step: empty
 ---
 Vous touchez une créature consentante. Jusqu'à ce que le sort se termine, la peau de la cible a une apparence rude, comme de l'écorce, et sa CA ne peut être inférieure à 16, peu importe son armure.

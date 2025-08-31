@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 2*
 
 Père de toutes les médecines, Asclépios et son serpent confèrent à ses ligateurs un pouvoir de guérison surnaturelle et une connaissance inégalée de la médecine

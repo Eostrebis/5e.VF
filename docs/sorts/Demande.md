@@ -17,6 +17,7 @@ Portée: Illimitée
 Concentration: true
 Rituel: false
 englishname: Demand
+step: empty
 ---
 Vous envoyez un court message de 25 mots ou moins à une créature avec laquelle vous êtes familier. La créature entend le message dans son esprit, vous reconnaît comme étant l'expéditeur si elle vous connaît et peut répondre de la même manière immédiatement. Le sort permet à toute créature d'Intelligence au moins égale à 1 de comprendre le sens du message.
 

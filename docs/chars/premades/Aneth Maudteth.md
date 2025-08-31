@@ -1,1 +1,4 @@
+---
+step: empty
+---
 ![[Aneth.jpg]]

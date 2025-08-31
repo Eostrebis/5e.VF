@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ## Armes Simples de Mêlée
 
 | Arme              | Coût | Dégâts          | Poids | Propriétés                    |

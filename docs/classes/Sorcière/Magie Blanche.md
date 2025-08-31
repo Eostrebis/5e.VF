@@ -1,3 +1,6 @@
+---
+step: empty
+---
 La magie blanche est fondamentalement bonne et bienveillante envers toutes les créatures. Les sorcières qui adoptent cet art, en dépit de leur malédiction, se dévouent souvent au soin et à l'aide, avec l'intention de rendre le monde meilleur.
 
 

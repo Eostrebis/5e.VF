@@ -12,13 +12,14 @@ school: Conjuration
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Poison Spray
+step: empty
 ---
 Vous étendez votre main en direction d'une créature que vous pouvez voir à portée et projetez un nuage de gaz toxique depuis votre paume. La créature doit réussir un jet de sauvegarde de Constitution ou prendre 1d12 dégâts de poison.
 

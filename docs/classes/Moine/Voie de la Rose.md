@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Une des plusieurs traditions monastiques concentrées sur les fleurs et présente principalement dans la Féerie, la voie de la rose met l'accent sur l'importance de l'amour et de la compassion en toute chose. Même si le monastère est étroitement lié avec la Cour de la Rose, tous sont les bienvenus, même les visiteurs du Plan Matériel.
 
 ## Doux Parfum

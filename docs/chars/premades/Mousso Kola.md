@@ -1,1 +1,4 @@
+---
+step: empty
+---
 ![[Mousso.jpg]]

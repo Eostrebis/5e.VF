@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Souvent considéré comme le familier parfait qui ne requiert ni soin ni attention tout en étant particulièrement robuste, l'ami caillou peut être invoqué par la majorité des lanceurs de sorts. Même s'il n'agit pas avec agilité (à vrai dire, il ne bouge pas du tout), il peut servir d'arme en étant lancé.
 
 ___

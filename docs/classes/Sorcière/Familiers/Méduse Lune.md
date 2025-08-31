@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Même si elles sont incapables de survivre sur terre, les méduse lune sont adorées par les sorcières pour leur bioluminescence qui permet l'exploration des fonds sous-marins.
 ___
 >## Méduse Lune

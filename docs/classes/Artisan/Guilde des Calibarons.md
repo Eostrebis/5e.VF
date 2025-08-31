@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les Calibarons savent, mieux que bien d'autres, que la poudre est la plus grande invention que les mortels n'aient jamais créée. Une épée peut permettre à un habile manieur de défaire un géant et la magie peut permettre aux sachants et aux élus de se tenir face aux dieux, mais seul un pistolet peut permettre à l'homme commun de faire face à un dragon.
 
 ## Style de Combat

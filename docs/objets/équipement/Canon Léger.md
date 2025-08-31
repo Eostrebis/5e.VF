@@ -3,6 +3,7 @@ type: Arme à Feu Martiale
 coût: 3000
 poids: 225
 englishname: Light Cannon
+step: empty
 ---
 
 | Dégâts           | Propriétés                                                                                   |

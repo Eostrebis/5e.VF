@@ -13,6 +13,7 @@ Portée: 2 kilomètres
 Concentration: false
 Rituel: false
 englishname: Gahoul's Glorious Gothic
+step: empty
 ---
 Une faille s'ouvre, crachant des tonnes de briques et autres maçonneries qui s'assemblent pour former un large domaine gothique. La bâtisse comporte un manoir avec un coffre, une immense cour de 200 ft. par 200 ft. et une imposante barrière en fer de 10 ft. autour du périmètre. Toute les créatures à l'intérieur du domaine se voit escortée par des spectres inoffensifs mais puissants.
 

@@ -6,13 +6,14 @@ school: Nécromancie
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Minute
 Incantation: 1 Action
 Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Corruption Curse
+step: empty
 ---
 En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pour la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
 

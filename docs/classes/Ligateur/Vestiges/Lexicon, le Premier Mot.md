@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 1*
 
 Vieux sage et premier dieu de l'écriture, Lexicon confère à ses ligateurs une variété de sorts et une maîtrise du langage.

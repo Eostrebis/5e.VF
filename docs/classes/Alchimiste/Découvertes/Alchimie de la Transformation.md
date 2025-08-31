@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Requis : Niveau 13*
 
 Vous avez maîtrisé les secrets alchimiques pour transformer de la matière, ce qui vous permet de concocter les potions suivantes :

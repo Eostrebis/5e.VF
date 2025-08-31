@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Arme Compagnon_
 __Composantes :__ Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
 

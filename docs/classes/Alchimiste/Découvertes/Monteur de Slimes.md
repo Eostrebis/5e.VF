@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Requis : Niveau 13, Slime-boy*
 
 Lassé de devoir attendre vos vases, vous avez modifié leurs formules pour les rendre plus rapides ! Tous les slimes que vous fabriquez ont une vitesse de base de 30 ft., sauf si elle était plus élevée. De plus, vous pouvez monter n'importe quelle Vase que vous fabriquez de taille M ou plus grande. Vous et votre équipement ne souffrent d'aucun malus par la touche directe de vos Vases. Enfin, vos Vases ajoutent leurs bonus de maîtrise à leurs jets de dégâts et d'initiative.

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les moines suivant la Voie de l'Ombre respectent les traditions qui prônent la discrétion et les subterfuges. Ces moines sont parfois appelés ninjas ou danseurs de l'ombre, et ils servent comme espions ou assassins. Parfois, les membres d'un monastère ninja sont les membres d'une même famille, formant un clan qui jure de garder le secret sur leurs arts et missions. D'autres monastères sont comme des guildes de voleurs, vendant leurs services aux nobles, riches ou n'importe qui payerait leurs frais. Indépendamment de leurs méthodes, les chefs de ces monastères s'attendent à une obéissance totale de leurs élèves.
 
 ## Arts de l'Ombre

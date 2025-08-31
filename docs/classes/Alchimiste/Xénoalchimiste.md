@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Un petit nombre d'alchimistes rebelles préfère expérimenter sur eux-mêmes, modifiant leur anatomie, voire en se rajoutant des parties du corps. Ces expériences sont souvent considérées comme non-éthiques, et dangereuses, même par les autres alchimistes, et ceux qui les pratiquent sont surnommés xénoalchimistes. En progressant dans leurs recherches, les xénoalchimistes découvrent tôt ou tard la nécromancie alchimique, qui leur permet d'imprégner de vie des amas de morceaux de corps.
 
 ## Xénobiologie

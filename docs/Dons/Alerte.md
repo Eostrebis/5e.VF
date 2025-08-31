@@ -1,6 +1,7 @@
 ---
 englishname: Alert
 requis:
+step: empty
 ---
 Toujours à l'affut des dangers, vous bénéficiez des effets suivants : 
 

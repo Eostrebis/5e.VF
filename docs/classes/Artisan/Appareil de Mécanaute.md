@@ -1,3 +1,6 @@
+---
+step: empty
+---
 __Type :__ Grand Construction
 
 __CR :__  \_ (BM +2)

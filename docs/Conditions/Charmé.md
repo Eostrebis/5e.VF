@@ -1,3 +1,6 @@
+---
+step: empty
+---
 <div class="warning" style='background-color:var(--bg); border-left: solid var(--title) 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="../../Illustrations/Conditions/Charmed.png" style="width:20%;  float:right; padding:0.7em">

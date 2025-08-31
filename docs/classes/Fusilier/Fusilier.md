@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Un verre tombe, s'éclatant en mille morceaux en touchant le sol, et la taverne se tait. Un nain à l'air renfrogné, la barbe gouttant d'une bière fraîchement renversée, zyeute un orque ivre tout proche, et cherche de ses doigts un revolver fixé à sa hanche.
 
 En haut d'une colline, bien dissimulé sous un amas de feuilles et de pierres, une tireuse hors pair calme sa respiration et ajuste sa lunette, verrouillant sa cible et attendant le moment pour tirer.

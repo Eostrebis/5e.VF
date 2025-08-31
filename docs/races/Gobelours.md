@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Absolument pas des ours, les gobelours sont les cousins bourrins des gobelins et des hobgobelins. Avec des racines dans la Féerie, les premiers gobelours résidaient en des endroits cachés, dans des espaces difficiles d'accès et dans les ténèbres. Il y a longtemps et de façon discrète, ils arrivèrent sur le Plan Matériel, ordonné de conquérir le Multivers par une puissance divine. Des siècles plus tard, ils possèdent toujours un don féérique pour se faufiler hors de vue, et beaucoup se sont échappés de l'influence de ce dieu.

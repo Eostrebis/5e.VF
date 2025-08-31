@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Les plasmoïdes sont des êtres amorphes sans forme particulière. En la présence d'autres individus, ils s'efforcent de prendre une forme similaire, mais l'on reconnaît toujours sans mal un plasmoïde. Ils se nourrissent par osmose, comme une amibe le ferait et se débarrassent de leurs déchets par de minuscules pores. Ils respirent en absorbant l'oxygène par un autre type de pores et leurs membres sont suffisamment forts et flexibles pour manier armes et outils. Même si presque tous les plasmoïdes sont d'un gris translucide, ils peuvent altérer leur couleur et leur translucidité en absorbant des pigments par leurs pores.

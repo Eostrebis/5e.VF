@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 8*
 
 De son vivant, Carthin était un mage qui abandonna tout arcane, sauf celles qui pouvaient servir à faire tomber les archimages qui l'ont trahi. Il confère à ses ligateurs des moyens de repousser la magie ainsi que ses yeux inquisiteurs.

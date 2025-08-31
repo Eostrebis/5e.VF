@@ -1,6 +1,7 @@
 ---
 type: Munition
 coût: 1
-poids: 
+poids:
 englishname: Dragon Bullet
+step: empty
 ---

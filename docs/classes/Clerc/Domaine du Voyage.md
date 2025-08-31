@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du voyage sont populaires chez tous ceux qui parcourent les routes ou s'aventurent sur les mers. Les évangéliste et prêtres itinérants tendent également à vénérer de tels dieux.
 
 **Sorts du Domaine du Voyage**

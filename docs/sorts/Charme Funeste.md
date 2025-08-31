@@ -16,6 +16,7 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Dire Charm
+step: empty
 ---
 Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit réaliser un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort ne termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort termine, la créature sait qu'elle a été charmée par vous.
 

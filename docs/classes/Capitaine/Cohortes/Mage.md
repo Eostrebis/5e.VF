@@ -1,3 +1,6 @@
+---
+step: empty
+---
 >## Mage
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*
 >

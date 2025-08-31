@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Non surprenamment, les vases, les gelées et les slimes sont un sujet d'études fascinant pour les alchimistes qui cherche à comprendre comment des produits chimiques inanimés peuvent se combiner et se lever en une masse mouvante et affamée. La réponse à cette question pourrait bien être au cœur même de l'alchimie. Les alchimistes qui recherchent les slimes en détail sont souvent appelés des slime-boys, de par leur ressemblance avec les cow-boys et leur troupe de slimes qu'ils gardent pour leurs expériences.
 
 ## Empathie Slimesque

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Rares sont ceux qui considèrent les autres plans que le plan matériel, et ceux qui le font les considèrent comme de lointains royaumes distants, mais l'influence planaire peut être ressentie à travers le monde. Cela se manifeste parfois sous la forme d'individu qui, par le biais d'accidents ou de naissance, possède un peu de pouvoir planaire dans le sang. Les genasis font partie de ces individus, étant la progéniture entre les génies et les mortels.

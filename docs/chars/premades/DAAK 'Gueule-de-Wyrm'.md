@@ -1,3 +1,6 @@
+---
+step: finished
+---
 ## Personnage
 
 __Race :__ Kobold draconique
@@ -90,7 +93,7 @@ Vous possédez une endurance plus élevée que la moyenne, ce qui vous permet de
 
 Une fois que vous avez utilisé cette compétence, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
 
-### Equipement
+### Équipement
 
  - Une armure de [[cuir]] et un [[arc long]] avec 20 [[Flèches (20)|flèches]]
  - Une [[épée longue]] et un [[Bouclier, Équipement|bouclier]]
@@ -116,7 +119,7 @@ La meute n'existait plus. Il n'y avait plus que des individus terrifiés, et les
 
 Daak a fait ce que les kobolds font le mieux : il s'est caché. Il a attendu, tremblant, écoutant les cris se transformer en silence. Quand il est enfin sorti, le terrier était un tombeau. Il était seul. La règle numéro un était brisée.
 
-Dans le silence et la désolation, une pensée froide et claire a germé dans son esprit. Les grandes personnes avaient gagné non seulement parce qu'elles étaient fortes, mais parce qu'elles étaient une meute meilleure. Une meute de cinq valait mieux qu'une meute de cinquante, car la leur n'avait pas cédé à la peur. Il a alors pensé à Veridiax, le dragon. Ce n'était pas sa taille ou son souffle empoisonné qui le rendait terrifiant. C'était sa certitude. Sa volonté d'airain. Un dragon n'a jamais peur.
+Dans le silence et la désolation, une pensée froide et claire a germé dans son esprit. Les grandes personnes avaient gagné non seulement parce qu'elles étaient fortes, mais parce qu'elles étaient une meilleure meute. Une meute de cinq valait mieux qu'une meute de cinquante, car la leur n'avait pas cédé à la peur. Il a alors pensé à Veridiax, le dragon. Ce n'était pas sa taille ou son souffle empoisonné qui le rendait terrifiant. C'était sa certitude. Sa volonté d'airain. Un dragon n'a jamais peur.
 
 Ce jour-là, Daak a compris. La peur était une maladie, et le "Yip !" en était le symptôme. Il a juré, au milieu des corps des siens, que plus jamais il ne laisserait la peur détruire sa meute.
 

@@ -1,6 +1,7 @@
 ---
 englishname: Fey Touched
 requis:
+step: empty
 ---
 Votre exposition à la magie de la Féerie vous a changé, et vous bénéficiez des effets suivants : 
 

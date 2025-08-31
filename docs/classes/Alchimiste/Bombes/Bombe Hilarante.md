@@ -1,1 +1,4 @@
+---
+step: empty
+---
 En mélangeant au contenu explosif de votre bombe quelques gouttes de boufonnate, un produit chimique hautement euphorisant, vous pouvez créer une bombe hilarante. Une bombe hilarante inflige des dégâts de poison plutôt que de feu, ses dés de dégâts sont des d6s, et elle requiert un jet de sauvegarde de Constitution plutôt que de Dextérité. De plus, la cible, ainsi que toutes les créatures qui sont dans le rayon d'explosion et ratent leur jet de sauvegarde, tombent à terre dans un fou rire. Une fois qu'une créature est tombée à terre à cause de cette bombe, elle y est immunisée (mais pas aux dégâts de poison de la bombe) pour les prochaines 24 heures.

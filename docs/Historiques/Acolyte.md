@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Vous avez passé votre vie au service du temple d'un dieu spécifique ou d'un panthéon de dieux. Vous agissez comme intermédiaire entre les royaumes des cieux et le monde des mortels, exécutant des rites sacrés et offrant des sacrifices pour conduire les fidèles face aux divins. Vous n'êtes pas nécessairement un clerc, car exécuter des rites sacrés religieux n'est pas la même chose que de canaliser la puissance divine.
 
 Choisissez un dieu, un panthéon de dieux ou un être quasi-divin, et travaillez avec votre MD pour préciser la nature de votre labeur religieux. Étiez-vous un fonctionnaire de bas rang dans un temple, élevé dès l'enfance pour aider les clercs à réaliser leurs rites sacrés ? Ou étiez-vous un religieux qui a soudainement reçu un appel pour servir son dieu d'une manière différente ? Peut-être êtes-vous le chef d'un petit culte en dehors de la structure établie d'un temple, ou membre d'un groupe occulte qui a servi un maître diabolique que vous reniez à présent.

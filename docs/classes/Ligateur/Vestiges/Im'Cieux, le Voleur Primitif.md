@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 1*
 
 Un voleur mythique qui a dérobé le pouvoir des puissants dragons, Im'Cieux offre à ses ligateurs sa malice et sa fameuse marque.

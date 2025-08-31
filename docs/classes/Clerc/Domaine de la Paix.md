@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Le baume de la paix s'épanouit au cœur des communautés saines, entre les nations amies et dans l'âme des personnes bien intentionnées. Les dieux de la Paix poussent des gens de toutes sortes à résoudre les conflits et à se tenir devant les forces qui menacent la paix. Les clercs du domaine de la Paix sont responsables des traités et sont souvent requis pour servir de tiers dans les négociations ou conflits. La bénédiction de ces clercs regroupe les gens et les pousse à s'entraider. Leur magie aide ceux qui vont au combat pour la paix future.
 
 **Sorts du Domaine de la Paix**

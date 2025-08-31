@@ -13,6 +13,7 @@ Portée: Personnelle (rayon de 2 km)
 Concentration: false
 Rituel: false
 englishname: Heart of Darkness
+step: empty
 ---
 Lorsque vous lancez ce sort, vous poignardez un cœur noir préparé ritualistiquement. L'ichor du cœur infecte le sol avec de nauséabondes énergies nécromantiques, causant jusqu'à cent piles d'os ou corps d'Humanoïdes de taille P ou M dans les 2 km à la ronde à se relever de la mort, devenant des squelettes ou des zombies. Les morts-vivants creusent leur chemin hors des tombes, fracassent les mausolées et brisent les portes des cimetières. 
 

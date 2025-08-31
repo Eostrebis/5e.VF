@@ -3,6 +3,7 @@ type: Poison
 coût: 200
 poids: 0.5
 englishname: Serpent Venom
+step: empty
 ---
 Ce poison doit être récolté sur un [[serpent venimeux géant]] mort ou [[incapacité]]. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 11 ou prendre 10 (3d6) dégâts de poison. Si elle réussit, elle ne prend que la moitié des dégâts.
 

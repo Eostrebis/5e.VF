@@ -1,3 +1,6 @@
+---
+step: finished
+---
 ## Personnage
 
 __Race :__ Volanzée
@@ -84,7 +87,7 @@ Vous gagnez un bonus de +2 aux jets d'attaque à distance que vous réalisez ave
 
 Les fusiliers ont des réflexes impressionnants et peuvent sortir leur pistolet en un claquement de doigts. À partir du niveau 1, vous avez l'avantage à vos jets d'initiative. De plus, vous pouvez dégainer ou rengainer jusqu'à deux armes lorsque vous tirez l'initiative et à chaque fois que vous prenez une action pendant votre tour.
 
-### Equipement
+### Équipement
 
  - Une armure de [[cuir]] et un manteau long
  - Un uniforme de la compagnie des "Ombres des Haubans"
@@ -118,7 +121,7 @@ Aujourd'hui, Awahp n'est plus seulement un survivant ; il est un rescapé fragme
 Chaque rechargement de son fusil est un défi, une manœuvre apprise dans la douleur, où les doigts froids de sa main mécanique viennent assister sa main de chair. Sa quête de vengeance contre le Baron Grisefer n'est plus seulement une affaire d'honneur, c'est une nécessité pour donner un sens à sa propre survie. Chaque pièce qu'il gagne est investie soit dans l'entretien de son corps et de son arme, soit dans la recherche d'informations sur ses tortionnaires. L'homme qui visait avec une précision parfaite a été brisé, et de ses morceaux, il a reconstruit un être plus dangereux encore, car il n'a littéralement plus rien à perdre.
 ### Compétence d'Historique
 
-Grâce à , ou plutôt à cause de, sa blessure, Awahp est désormais équipé d'un bras bionique. Chargé magiquement, ce bras lui permet de délivrer une charge d'énergie directement dans son fusil. Lorsqu'Awahp tire avec une arme à feu avec la propriété Chargement, il peut décider de doubler la portée pour cette attaque. Awahp peut utiliser cette compétence un nombre de fois égal à son bonus de maîtrise, et il récupère toutes les charges dépensées lorsqu'il termine un repos long.
+Grâce à, ou plutôt à cause de, sa blessure, Awahp est désormais équipé d'un bras bionique. Chargé magiquement, ce bras lui permet de délivrer une charge d'énergie directement dans son fusil. Lorsqu'Awahp tire avec une arme à feu avec la propriété Chargement, il peut décider de doubler la portée pour cette attaque. Awahp peut utiliser cette compétence un nombre de fois égal à son bonus de maîtrise, et il récupère toutes les charges dépensées lorsqu'il termine un repos long.
 
 ### Traits de Personnalité
 

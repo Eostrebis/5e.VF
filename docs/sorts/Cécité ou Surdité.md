@@ -11,13 +11,14 @@ school: Nécromancie
 Verbal: true
 Somatique: false
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Minute
 Incantation: 1 Action
 Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Blindness/Deafness
+step: empty
 ---
 Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vous pouvez voir à portée qui doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[aveuglé|aveuglée]] ou [[assourdi|assourdie]] (votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible peut réaliser un nouveau jet de sauvegarde de Constitution.
 

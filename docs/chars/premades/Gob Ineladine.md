@@ -1,3 +1,6 @@
+---
+step: completed
+---
 ## Personnage
 
 __Race :__ [[Gobelin]]

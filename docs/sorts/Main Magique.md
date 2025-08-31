@@ -14,6 +14,7 @@ Portée: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Hand
+step: empty
 ---
 Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pour la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
 

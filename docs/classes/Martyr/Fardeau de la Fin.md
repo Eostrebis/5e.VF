@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les dieux ont vu un grand cataclysme se profiler à l'horizon, et ont chargé leur martyr de protéger le monde de cette catastrophe. La nature exacte de cette apocalypse peut varier : parfois l'éveil ou la venue d'une entité maléfique, parfois la découverte et l'abus d'un puissant artefact, et parfois un seul évènement particulièrement destructeur qui met en danger les dieux eux-mêmes, mais le martyr doit être prêt à donner sa vie pour l'arrêter. Pour ce faire, les dieux insufflent leur martyr de sorts anciens et puissants, des outils autrefois disponibles aux prophètes uniquement.
 
 Lorsque le cataclysme fait son approche, le martyr n'a rien à gagner à ignorer son devoir, puisque ce cataclysme l'impacte directement — ainsi que la vie de sa famille et de son entourage. La vie du martyr est toujours perdue, mais le reste du monde, lui, peut être sauvé.

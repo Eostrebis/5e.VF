@@ -18,6 +18,7 @@ Portée: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Magic Circle
+step: empty
 ---
 Vous créez une zone cylindrique d'énergie magique centrée sur un point de votre choix à portée que vous pouvez voir, d'un rayon de 10 ft. et haut de 20 ft. Des runes scintillantes apparaissent à l'intersection entre le cylindre et le sol ou n'importe quelle autre surface.
 

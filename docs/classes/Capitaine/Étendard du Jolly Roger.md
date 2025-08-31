@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les crânes et os adossant le Jolly Roger n'ont pas besoin de présentation : ils signifient voleurs, brigands, trésors et aventures en mer. De plus, ils insinuent aussi la forte solidarité d'un équipage qui travaille en unisson, pilotant un bateau d'horizon à horizon, sous les commandes d'un capitaine féroce et de son second.
 
 ## Manœuvre : Double Frappe

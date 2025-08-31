@@ -1,6 +1,7 @@
 ---
 englishname: Elven Accuracy
 requis: Elfe
+step: empty
 ---
 La précision des elfes est légendaire, surtout celle de leurs archers et lanceurs de sorts. Vous avez vous aussi cette visée inhabituelle pour vous attaques qui se basent sur la précision plutôt que sur la force brute. Vous bénéficiez des effets suivants : 
 

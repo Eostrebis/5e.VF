@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Quirks
 
     Honest. You hate to deceive others and people are more likely to find you trustworthy. You have a +2 bonus to Persuasion checks, but you have disadvantage on Deception checks.

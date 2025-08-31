@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 1*
 
 Guerrière entrainée d'un empire oublié, Dyogéna confère à ses ligateurs des compétences à l'épée, la lance et au bouclier.

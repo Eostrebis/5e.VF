@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les dieux de la Nature sont aussi variés que le monde naturel lui-même, des dieux insondables des grandes forêts aux déités avenantes associées au printemps et aux bosquets. Les druides révèrent la nature en général et peuvent servir l'une de ces déités, réalisant de mystérieux rites et récitant des prières oubliées dans leur langue secrète. Cependant, la plupart de ces dieux ont également des clercs, des champions qui prennent un rôle plus actif dans l'avancement des intérêts de leur dieu. Ces clercs peuvent chasser le mal et les monstruosités qui ravagent les plaines, bénir les récoltes des croyants ou faire flétrir les pousses de ceux qui s'opposent à leur dieu.
 
 **Sorts du Domaine de la Nature**

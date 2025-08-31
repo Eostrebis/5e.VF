@@ -1,3 +1,6 @@
+---
+step: empty
+---
 
 
 ## Propriétés bénéfiques mineures

@@ -16,6 +16,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: true
 englishname: Unseen Accountable
+step: empty
 ---
 Ce sort crée une force invisible et sans forme qui réaliser des tâches intellectuelles à votre demande jusqu'à ce que le sort ne termine. Le serviteur apparaît dans un espace inoccupé, au sol, à portée. Il a une CA de 10, 1 point de vie, une Intelligence de 12 et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort se termine.
 

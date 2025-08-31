@@ -1,7 +1,8 @@
 ---
 type: Équipement d'Aventure
-coût: 
-poids: 
+coût:
+poids:
 englishname: Alms Box
+step: empty
 ---
 Une petite boîte pour l'aumône, généralement trouvée dans un sac d'ecclésiastique.

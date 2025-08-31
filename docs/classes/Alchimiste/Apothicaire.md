@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Beaucoup d'alchimistes à l'esprit pratique prennent le rôle d'apothicaire : les aventuriers ont toujours besoin d'un soigneur, et les clercs ne suffisent pas toujours. Pendant leur repos, ces alchimistes ont des compétences importantes à vendre, et peuvent réaliser un montant improbable de bien à l'aide de leurs connaissances. Les apothicaires sont constamment en train d'étudier de nouvelles potions, et l'herbologie, préférant apprendre à soigner le corps plutôt que le détruire.
 
 ## Maîtrise Supplémentaire

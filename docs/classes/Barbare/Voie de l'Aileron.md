@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Des communautés tribales existent dans tous les royaumes, dans tous les types de climats. Bien que leurs coutumes changes, une certitude inébranlable, observée à maintes reprises, est le respect pour des animaux bien particulier. Ceux-ci sont variés : les tribus du Nord vénèrent le Loup ou l'Ours, celles du désert suivent le Faucon ou le Chacal et celles de la jungle peuvent aspirer à devenir un Singe ou un Tigre. C'est dans cette tradition que la Voie de l'Aileron apparut, des guerriers insulaires qui capturent l'essence assoiffée de sang du Grand Requin.
 
 ## Aquatique

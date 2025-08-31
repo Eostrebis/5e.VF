@@ -13,6 +13,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Gahoul's Shrieking Skull
+step: empty
 ---
 Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâ,ne prend 2d4 dégât de tonnerre.
 

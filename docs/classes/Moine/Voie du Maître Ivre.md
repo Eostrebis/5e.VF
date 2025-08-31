@@ -1,3 +1,6 @@
+---
+step: empty
+---
 La voie du maître ivre apprend à ses étudiants comment se déplacer avec les mouvement imprévisbiles et par accoup caractéristiques d'un saoulard. Un maître ivre titube, basculant d'un pied à l'autre, pour se faire passer pour un combattant inexpérimenté qui se révèle être une plaie à affronter. Les mouvement erratiques du maître ivre cache une dance parfaitement exécutée de parades, d'avancées, d'attaques et de retraites.
 
 Un maître ivre apprécie généralement jouer les idiots pour plaire à son interlocuteur ou apprendre l'humilité aux arrogants. Mais lorsque le combat se fait nécessaire, il peut être un adversaire redoutable.

@@ -1,6 +1,7 @@
 ---
 englishname: Lucky
 requis:
+step: empty
 ---
 Vous avez une chance inexpliquée qui semble toujours apparaître au moment opportun.
 

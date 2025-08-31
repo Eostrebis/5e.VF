@@ -9,14 +9,15 @@ level: 0
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: 
-detailmat: 
+Matériel:
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Gust
+step: empty
 ---
 Vous prenez contrôle de l'air et le forcez à réaliser l'un des effets suivants à partir d'un point à portée que vous pouvez voir :
 

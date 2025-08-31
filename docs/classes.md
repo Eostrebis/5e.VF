@@ -3,6 +3,7 @@ hide:
   - navigation
   - toc
 redirection: true
+step: empty
 ---
 
 <h1>Classes</h1>

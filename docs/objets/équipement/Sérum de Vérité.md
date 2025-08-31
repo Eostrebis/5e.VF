@@ -1,8 +1,9 @@
 ---
 type: Poison
 coût: 150
-poids: 
+poids:
 englishname: Truth Serum
+step: empty
 ---
 Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 11 ou être [[empoisonné|empoisonnée]] pendant 24 heures. La créature empoisonnée ne peut pas consciemment énoncer un mensonge, comme si elle était sous l'effet du sort [[zone de vérité]].
 

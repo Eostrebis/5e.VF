@@ -5,14 +5,15 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: 
-detailmat: 
+Matériel:
+detailmat:
 Durée: 1 Minute
 Incantation: 1 Action
 Portée: 90 ft. (20 ft.)
 Concentration: true
 Rituel: false
 englishname: Entangle
+step: empty
 ---
 Des ronces et lianes émanent du sol dans un carré de 20 ft. à partir d'un point à portée. Pendant la durée du sort, ces plantes rendent le terrain difficile.
 

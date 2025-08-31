@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Armure Légendaire_
 __Composantes :__ Armure légère exotique chef-d'œuvre
 

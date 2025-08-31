@@ -1,6 +1,7 @@
 ---
 englishname: Durable
 requis:
+step: empty
 ---
 Solide et résistant, vous bénéficiez des effets suivants : 
 

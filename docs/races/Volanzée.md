@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Les progéniteurs des Volanzées étaient des mammifères pas plus gros qu'un chat de maison. Chassés par des prédateurs naturels plus imposants, ils se sont appropriés les arbres et ont évolué afin d'avoir des étendues de peau comme des ailes leur permettant de planer de branche en branche.

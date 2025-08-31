@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corruption et les épidémies et sont généralement gravement atteints par la maladie, sans en souffrir. Comme un virus, ils se propagent dans la population, diffusant leur Foi Flétrissante à tous ceux qui veulent bien tendre l'oreille. À la différence d'un virus, il n'y a aucun système immunitaire contre la Foi Flétrissante, seulement l'acceptation.
 
 **Sorts du Domaine de la Peste**

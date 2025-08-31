@@ -1,6 +1,7 @@
 ---
 englishname: Charger
 requis:
+step: empty
 ---
 Lorsque vous utilisez votre action pour Sprinter, vous pouvez utiliser votre action bonus pour réaliser une attaque armée de mêlée ou pour pousser une créature.
 

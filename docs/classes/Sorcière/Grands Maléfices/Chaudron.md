@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Vous pouvez brasser des potions dans un chaudron bouillant en utilisant des ingrédients récupérés dans la nature. Pour ce faire, vous avez un nombre de points d'alchimie égal à la moitié de votre niveau de sorcière, arrondi à l'inférieur. Vous regagnez tous vos points d'alchimie dépensés lorsque vous terminez un repos long.
 
 Vous pouvez passer 10 minutes et dépenser des points d'alchimie pour brasser des potions. Ces potions restent efficaces pendant 24 heures, après quoi elles deviennent inertes.

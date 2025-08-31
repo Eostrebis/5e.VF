@@ -4,6 +4,7 @@ coût: 500
 poids: 8
 englishname: Sniper Rifle
 Ère: Moderne
+step: empty
 ---
 
 | Dégâts       | Propriétés                                                                   |

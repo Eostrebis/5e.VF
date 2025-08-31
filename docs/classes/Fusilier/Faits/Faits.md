@@ -1,3 +1,6 @@
+---
+step: empty
+---
 | Fait                  | Description                       |
 | --------------------- | --------------------------------- |
 | [[À un Poil de Cul]]  | Bonus à la CA sur une réaction    |

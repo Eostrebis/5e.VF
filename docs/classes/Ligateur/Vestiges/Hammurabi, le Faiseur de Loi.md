@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 7*
 
 Un des premiers grands rois de l'humanité, Hammurabi a mis en place les premières lois mortelles sur un obélisque de pierre. Aujourd'hui, son vestige confère à ses ligateurs l'autorité de juger les autres par ces lois et de les punir en conséquence.

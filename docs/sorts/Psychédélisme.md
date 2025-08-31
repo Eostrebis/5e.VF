@@ -16,5 +16,6 @@ Portée: Personnelle (rayon de 60 ft.)
 Concentration: false
 Rituel: false
 englishname: Psychedelics
+step: empty
 ---
 Pendant un moment, les couleurs autour de vous se mettent à tournoyer en un tourbillon arc-en-ciel, avant de se fixer loin de leurs teintes originales. Chaque créature que vous choisissez à portée doit réaliser un jet de sauvegarde de Dextérité. Sur un échec, la créature a le désavantage aux prochain jet d'attaque qu'elle réalise avant la fin de son prochain tour. De plus, les couleurs de toutes les créatures et objets que vous choisissez à portée changent aléatoirement et restent lumineuses et bizarrement colorées pendant 1 heure.

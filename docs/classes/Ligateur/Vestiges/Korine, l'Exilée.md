@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 5*
 
 Chercheuse planaire renommée qui a découvert la véritable nature du Vide, Korine offre à ses ligateurs le pouvoir de défier la physique, principalement par la téléportation.

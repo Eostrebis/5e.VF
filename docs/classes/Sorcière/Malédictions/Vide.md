@@ -1,1 +1,4 @@
+---
+step: empty
+---
 Votre âme a été séparée de votre corps, vous êtes maintenant dans un limbo entre la vie et la mort. Lorsque vous ou votre familier réduisez une créature hostile à 0 point de vie, vous pouvez drainer un peu de sa force vitale, gagnant un nombre de points de vie temporaires égal à votre modificateur de Charisme + votre niveau de sorcière (minimum 1).

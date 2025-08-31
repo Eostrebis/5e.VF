@@ -1,6 +1,7 @@
 ---
 englishname: Metamagic Adept
 requis: Incantation ou Magie de Pacte
+step: empty
 ---
 Vous avez appris à imposer votre volonté à vos sorts pour manipuler leur fonctionnement : 
 

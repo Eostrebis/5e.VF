@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Lorsque le monde naturel se trouve menacé par les besoins des industries en croissance, par les ravages des guerres ou par un évènement catastrophique, les dieux peuvent choisir un martyr pour protéger les endroits toujours sauvages de ce monde. Les martyrs avec ce fardeau ne cherchent pas à prévenir la destruction du monde ; cela serait impossible étant donné la multitude des facteurs qui le menacent. Plutôt, ceux qui portent le fardeau de la renaissance offrent leur vie pour recréer ce qui a été rasé, introduisant une nouvelle vie là où la mort était reine.
 
 ## Sorts de Fardeau

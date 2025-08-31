@@ -17,6 +17,7 @@ Portée: Touché
 Concentration: true
 Rituel: true
 englishname: Distort Gravity
+step: empty
 ---
 Ce sort manipule la direction de la gravité sur une surface non horizontale que vous touchez, la faisant attirer les créatures objets à 15 ft. comme si c'était le sol. La surface doit avoir une surface inférieure à 60 ft.² et peut s'"enrouler" autour d'une structure, si la géométrie le permet. Une créature peut marcher sur cette surface comme si c'était le sol, même si cette surface est perpendiculaire au sol ou à l'envers.
 

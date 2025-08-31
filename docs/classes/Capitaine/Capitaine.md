@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Une demie-elfe, couvertes des rubans et médailles d'un haut-commandant, est en selle d'un cheval en armure. À sa droite, un orque bien bâti, dans une tenue plus commune, chevauche sa propre monture, une hache à deux mains dans le dos. Ils avancent sur la route ensemble, annoncés par trompettes et percussions.
 
 Tirant sur sa pipe et observant la pièce, un maître de guilde halfelin en costume bien taillé joue avec une dague entre ses doigts. Une foule de voleurs, de filous et de bandits est amassée devant lui, tous en train d'étudier des plans étalés sur une table éclairée à la bougie. Ce soir, leur branche de la Guilde des Voleurs devient riche, et leur maître rentre dans l'histoire !

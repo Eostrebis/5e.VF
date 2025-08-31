@@ -17,6 +17,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Planar Binding
+step: empty
 ---
 Avec ce sort, vous tentez de soumettre un céleste, un élémentaire, un fey ou un fiélon. La créature doit se trouver à portée pendant l'entièreté de l'incantation du sort. Généralement, la créature est invoquée au centre d'un [[cercle magique]] inversé pour la garder piégée le temps de l'incantation. Après la finalisation de l'incantation, la cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle vous est liée et obligée de vous servir pendant la durée du sort. Si la créature est invoquée ou créée par un autre sort, la durée du sort est étendue pour correspondre à la durée de celui-ci.
 

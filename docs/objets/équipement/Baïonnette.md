@@ -3,6 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 2
 poids: 1
 englishname: Bayonet
+step: empty
 ---
 
 | Dégâts       | Propriétés              |

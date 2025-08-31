@@ -1,3 +1,6 @@
+---
+step: finished
+---
 ## Personnage
 
 __Race :__ Humain
@@ -88,14 +91,14 @@ Vous pouvez utiliser cette compétence un nombre de fois égal à 1 + votre modi
 
 #### Imposition des Mains
 
-votre toucher béni peut soigner les blessures. Vous disposez d'un réservoir de pouvoir soignant qui se renouvelle lorsque vous terminez un repos long. Avec ce réservoir, vous pouvez rendre un nombre de points de vie égal à 5 fois votre niveau de paladin.
+Votre toucher béni peut soigner les blessures. Vous disposez d'un réservoir de pouvoir soignant qui se renouvelle lorsque vous terminez un repos long. Avec ce réservoir, vous pouvez rendre un nombre de points de vie égal à 5 fois votre niveau de paladin.
 
 Pour une action, vous pouvez toucher une créature et extraire du pouvoir de ce réservoir afin de rendre des points de vie à une créature.
 
 Vous pouvez également dépenser 5 points du réservoir pour soigner une maladie ou un poison chez une créature. Vous pouvez soigner plusieurs maladies ou neutraliser plusieurs poisons avec une seule utilisation en dépensant bien 5 points par maladie et/ou poison.
 
 Cette compétence n'a aucun effet sur les Constructions.
-### Equipement
+### Équipement
 
  - Une [[épée longue]] et un [[bouclier]]
  - Une [[masse d'armes]]

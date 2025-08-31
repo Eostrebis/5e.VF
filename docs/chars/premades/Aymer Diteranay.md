@@ -1,3 +1,6 @@
+---
+step: wip
+---
 ## Personnage
 
 __Race :__ [[Elfe#Elfe des mers|Elfe des mers]]
@@ -47,7 +50,7 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 
 **Armes :** [[Armes Simples]], [[Armes Martiales]]
 
-**Outils :** --
+**Outils :** —
 
 __Langues__ : Commun, Aquatique, Elfique, Reptilien, Astral
 
@@ -82,7 +85,7 @@ Chaque détail de son apparence, de la couleur de sa peau à la forme de ses lam
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
+**Enfant de la Mer.** Vous pouvez respirer dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
 
 **Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
 ### Compétences de Classe

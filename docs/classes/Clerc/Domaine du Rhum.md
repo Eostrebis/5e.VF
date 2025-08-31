@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Là où le rhum coule à flot, les dieux de l'amusement accourt. Les clercs du domaine du rhum perçoivent la chaleur enivrante de cette boisson n'ont pas comme un excès à proscrire, mais comme une vénération des dieux du bon temps, auxquels ils s'abandonnent volontiers. Ils cherchent à propager leur joyeuse religion et les bon moments qui vont avec, amenant à tous paix et bonheur, beuverie par beuverie.
 
 **Sorts du Domaine du Rhum**

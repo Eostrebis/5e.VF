@@ -1,6 +1,7 @@
 ---
 englishname: Brutal Grip
 requis:
+step: empty
 ---
 Vous avez appris à utiliser efficacement le poids de vos armes, et savez utilisement de larges armes à une main. Vous bénéficiez des effets suivants : 
 

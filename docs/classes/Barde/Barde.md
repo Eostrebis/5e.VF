@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Fredonnant tout en passant ses doigts le long d'un vieux monument au milieu de ruines oubliées, une demie-elfe habillée de cuir se retrouve l'esprit emplit de savoir, conjurée par la magie de sa chanson — du savoir sur qui a construit ce monument et la formidable histoire qu'il raconte.
 
 Un humain à l'air sévère tape son épée en rythme contre son armure, mettant en place le tempo pour son chant de guerre et encourageant ses camarades à la bravoure et l'héroïsme. La magie de sa chanson les fortifie et les renforce.

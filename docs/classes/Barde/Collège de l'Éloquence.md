@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les membres du Collège de l'Éloquence sont maîtres des arts oratoires. La persuasion est reconnue comme un grand art et un argument bien pensé et bien amené est souvent plus persuasif que les faits. Ces bardes manient la logique et les jeux de mots théâtraux, convaincant sceptiques et détracteurs avec des arguments logiques et jouant sur les fibres sentimales afin de toucher les émotions des audiences.
 
 ## Langue d'Argent

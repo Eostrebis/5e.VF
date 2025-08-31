@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les dieux dont la charge inclue le domaine de la Tempête gouvernent les tempêtes, les mers et les cieux. Sont concernés les dieux de la foudre et des orages, les dieux des tremblements de terre, certains dieux du feu et de la violence, de la force physique et du courage. Dans certains panthéons, un dieu de ce domaine règne sur d'autres déités et est connu pour sa justice rapide. Les dieux des tempêtes envoient leurs clercs inspirer la crainte chez le peuple, ou pour les garder sur le droit chemin, ou pour les encourager à réaliser des sacrifices pour éloigner la colère divine.
 
 **Sorts du Domaine de la Tempête**

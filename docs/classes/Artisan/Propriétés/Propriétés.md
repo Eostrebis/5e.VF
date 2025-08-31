@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ## Propriétés "Apprenti"
 ### Propriétés "Apprenti" d'Arme
 

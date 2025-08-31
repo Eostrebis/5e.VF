@@ -1,3 +1,6 @@
+---
+step: finished
+---
 ## Personnage
 
 __Race :__ Firbolg
@@ -27,13 +30,25 @@ __Vitesse :__ 30 ft.
 | ◎ Intimidation (_Cha_) : -2 | ◎ Survie (_Sag_) : +1         |
 | ◉ Intuition (_Sag_) : +3    | ◎ Tromperie (_Cha_) : -2<br>  |
 
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+>Vous êtes Ambre, un ancien firbolg quasi-immortel venu du Plan Astral, dont le corps incroyablement résistant mais physiquement faible a servi de réceptacle à la souffrance d'un dieu mort pendant des siècles, et qui cherche maintenant une nouvelle "cause" pour laquelle souffrir dans le monde matériel.
+>
+>**Objectif pour la session :** 
+>Votre mission divine est de soulager la souffrance. Vous êtes instinctivement attiré par les situations de détresse. Votre but est simple : trouver ceux qui souffrent, vous placer entre eux et la source de leur douleur, et absorber le mal à leur place, car c'est la seule chose pour laquelle vous avez été créé.
+>
+>**Jouez la Lutte contre la Gravité :** Votre corps est une prison de faiblesse. Bougez lentement, appuyez-vous sur les murs ou sur votre bâton. Décrivez l'effort que représente chaque action physique. En revanche, mettez en avant votre endurance surnaturelle : vous êtes le dernier debout dans une tempête de neige, vous haussez à peine un sourcil face à un poison mortel.
+>
+> **L'Émerveillement de l'Étranger :** Le monde matériel est une découverte de chaque instant. Soyez fasciné par les choses les plus simples : le goût de l'eau, la texture de la mousse, la chaleur du soleil. Posez des questions naïves sur des concepts évidents pour les autres, avec une sérénité et une sincérité désarmantes.
+> 
+> **Le Martyr Silencieux :** Votre instinct est le sacrifice. Vous êtes un bouclier humain (ou plutôt, firbolg). Votre première réaction face au danger n'est pas d'attaquer, mais de vous interposer. Parlez calmement, par proverbes sacrés (même si vous les inventez à moitié), et acceptez la douleur avec une paix intérieure qui déconcertera vos alliés et vos ennemis.
+
 #### Maîtrises
 
 **Armure :** [[Armures Légères]], [[Armures Moyennes]], [[Bouclier, Équipement|Boucliers]]
 
 **Armes :** [[Armes Simples]], [[Armes Martiales]]
 
-**Outils :** --
+**Outils :** —
 
 __Langues__ : Commun, Primordial, Céleste, Nain
 
@@ -45,11 +60,11 @@ __Taille :__ 2,10 m
 
 __Poids :__ 110 kg
 
-Ambre est une silhouette à la fois imposante et paradoxale. Bien qu'il soit d'une taille spectaculaire, même pour un firbolg, il n'a rien de la carrure massive que l'on attendrait. Il est élancé, presque fragile, avec des membres longs et fins qui semblent mal à l'aise avec la lourdeur de la gravité.
+Ambre est une silhouette à la fois imposante et paradoxale. Bien qu'il soit d'une taille spectaculaire, même pour un firbolg, il n'a rien de la carrure massive que l'on attendrait. Il est élancé, presque fragile, avec de longs membres fins qui semblent mal à l'aise avec la lourdeur de la gravité.
 
 Son visage, d'une sérénité surnaturelle, est presque entièrement caché par une barbe incroyablement touffue et sauvage. Contrairement à ce que sa faible constitution pourrait laisser penser, sa barbe a poussé avec une vigueur anarchique durant sa longue veille, formant une épaisse broussaille d'un blanc pur qui rappelle celle des plus vieux maîtres artisans nains. Cette masse de poils indisciplinés dévale sa poitrine, un souvenir vivant des siècles passés en stase, sans jamais un peigne ou une lame pour la dompter.
 
-De cette toison faciale émergent deux yeux d'un violet profond et brumeux, qui semblent absorber la lumière et qui trahissent un calme insondable. Sa peau est d'une pâleur de nacre, parcourue de fines lignes argentées, presque invisibles, comme des fissures dans du marbre.
+De cette toison faciale émergent deux yeux d'un violet profond et brumeux, qui paraissent absorber la lumière et qui trahissent un calme insondable. Sa peau est d'une pâleur de nacre, parcourue de fines lignes argentées, presque invisibles, comme des fissures dans du marbre.
 
 Ambre porte une cotte d'écailles d'une matière inconnue. Chaque écaille, de la taille d'une paume, semble taillée dans un cristal laiteux ou une pierre astrale qui capte la lumière de manière étrange. L'armure couvre son torse et ses épaules, et bien qu'elle paraisse solide, elle semble aussi légère qu'un vêtement de tissu, comme si son poids était annulé par sa nature extraplanaire.
 
@@ -84,7 +99,7 @@ Vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créa
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
-### Equipement
+### Équipement
 
  - Une [[épée courte]] et un [[bouclier]]
  - Un [[bâton]]
@@ -132,6 +147,6 @@ __Alignement :__ Loyal Bon
 
 ## Conseils de Jeu
 
-Sa voix est douce, presque un murmure, avec de longues pauses entre les mots, comme si le simple fait de parler était un effort. Il utilise un vocabulaire philosophique et abstrait, mais peut poser des questions d'une simplicité enfantine sur le monde physique. "Cette sensation… le vent…  quelle est sa cause ?". Il parle dans un langage très propre, sans utiliser de contractions ou d'argot. Il dit "Je ne sais pas" plutôt que "J'sais pas".
+Sa voix est douce, presque un murmure, avec de longues pauses entre les mots, comme si le simple fait de parler était un effort. Il utilise un vocabulaire philosophique et abstrait, mais peut poser des questions d'une simplicité enfantine sur le monde physique. "Cette sensation… le vent… quelle est sa cause ?". Il parle dans un langage très propre, sans utiliser de contractions ou d'argot. Il dit "Je ne sais pas" plutôt que "J'sais pas".
 
 Il s'appuie souvent contre les murs, les arbres, ou même ses compagnons. Quand il s'assied, c'est avec un soupir de soulagement palpable. Il peut s'arrêter net au milieu d'une phrase pour toucher une fleur, regarder la pluie tomber, ou fixer la flamme d'une bougie avec une admiration intense. Ce sont des choses nouvelles pour lui.

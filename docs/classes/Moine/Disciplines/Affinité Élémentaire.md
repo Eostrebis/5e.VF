@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Vous pouvez utiliser votre action pour temporairement contrôler les forces élémentaires à 30 ft., provoquant un des effets suivants de votre choix : 
 
  - Créer un effet sensoriel inoffensif lié à l'air, à la terre, au feu ou à l'eau, comme une pluie d'étincelles, un coup de vent, une bouffée de brouillard ou un petit tremblement d'une pierre.

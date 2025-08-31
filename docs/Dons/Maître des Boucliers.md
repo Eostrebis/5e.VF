@@ -1,6 +1,7 @@
 ---
 englishname: Shield Master
 requis:
+step: empty
 ---
 Vous n'utilisez pas les boucliers que pour la défense, mais également pour l'attaque. Lorsque vous maniez un bouclier, vous bénéficiez des effets suivants : 
 

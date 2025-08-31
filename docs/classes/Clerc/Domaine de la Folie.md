@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Vos pouvoirs divins viennent d'un dieu fou, un être de paranoïa, de chaos et de psychose. Toutes les pensées dérangées et les fantaisies incontrôlées donnent du pouvoir à ce dieu fou, qui n'a que peu de considération pour la logique des domaines des autres dieux. Bien sûr, puisque ce dieu fou n'est autre qu'un écureuil qui vit juste en dehors de la ville et qui vous a expliqué que le secret des pouvoirs divins est simplement de posséder suffisamment de mûres, et qu'avoir un cheval aide. Par la suite, les règles de la réalité vous ont glissé entre les doigts et vous avez réalisé la sagesse des mots de ce dieu. Tout a du sens si vous pensez diagonalement et que vous plissez les oreilles de la bonne façon !
 
 **Sorts du Domaine Arcanique**

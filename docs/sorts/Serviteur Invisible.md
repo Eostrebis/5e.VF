@@ -15,9 +15,10 @@ detailmat: Un morceau de fil et du bois
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: 60 ft.
-Concentration: 
+Concentration:
 Rituel: true
 englishname: Unseen Servant
+step: empty
 ---
 Ce sort crée une force invisible, sans forme particulière et sans conscience de taille Moyenne qui réalise de simples tâches à votre demande jusqu'à ce que le sort termine. Le servant surgit dans un espace inoccupé au sol à portée. Il a une CA de 10, 1 point de vie et une force de 2, et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort termine.
 

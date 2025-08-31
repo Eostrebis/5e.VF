@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Requis : Niveau 13*
 
 Votre recherche alchimique vous a permis de découvrir que les émotions sont dirigées par des produits chimiques de base. Vous pouvez concocter les potions suivantes : 

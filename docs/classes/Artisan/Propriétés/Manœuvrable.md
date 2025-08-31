@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Armure Compagnon_
 __Composantes :__ Armure légère ou moyenne exotique chef-d'œuvre
 

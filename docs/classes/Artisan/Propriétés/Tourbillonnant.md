@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme de mêlée exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Finesse|Finesse]] et [[Propriétés d'Arme#Double|Double]] ou la propriété [[Propriétés d'Arme#Léger|Léger]] 
 

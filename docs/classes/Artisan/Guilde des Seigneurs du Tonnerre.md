@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Depuis les premiers instants de la vie, les tempêtes (et surtout l'éclair) ont frappé les créatures d'admiration et de terreur. Les Seigneurs du Tonnerre, au contraire, tirent leur inspiration de la majesté de la nature et essayent, très littéralement, d'attraper un éclair dans une bouteille.
 
 ## Cellule d'Énergie

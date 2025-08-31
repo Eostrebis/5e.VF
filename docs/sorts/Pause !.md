@@ -10,13 +10,14 @@ school: Transmutation
 Verbal: true
 Somatique: false
 Matériel: false
-detailmat: 
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action Bonus
 Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Moment to Think
+step: empty
 ---
 Lorsque vous lancez ce sort, vous arrêtez brièvement le temps pour tout le monde sauf vous. Vous pouvez prendre une actions supplémentaire et vous déplacer dans votre espace tandis que le temps ne passe pas pour les autres créatures. Cette action peut être utilisée seulement pour prendre l'action de Recherche ou d'Utilisation d'un Objet, ou pour réaliser un jet d'Intelligence.
 

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 2*
 
 Autrefois brave chevalier Homme-Souris, Fin confère à ses ligateurs des armes titanesques et une taille impressionnante.

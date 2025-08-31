@@ -1,6 +1,7 @@
 ---
 englishname: Divinely Favored
 requis: Niveau 4
+step: empty
 ---
 Un dieu vous a choisi afin que vous portiez une portion de son pouvoir.
 

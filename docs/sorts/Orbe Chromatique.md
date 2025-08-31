@@ -14,6 +14,7 @@ Portée: 90 ft.
 Concentration: false
 Rituel: false
 englishname: Chromatic Orb
+step: empty
 ---
 Vous projetez une sphère d'énergie de 15 cm de diamètre vers une créature que vous pouvez voir à portée. Vous choisissez l'acide, le froid, le feu, la foudre, le poison ou le tonnerre comme type de l'orbe, puis vous réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 3d8 dégâts du type que vous avez choisi.
 

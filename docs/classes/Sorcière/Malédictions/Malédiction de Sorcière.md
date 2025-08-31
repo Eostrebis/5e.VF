@@ -1,6 +1,7 @@
 ---
 search:
   exclude: true
+step: empty
 ---
 
 | Malédiction    |

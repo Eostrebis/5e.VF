@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Une balle bien placée est toujours plus efficace qu'une épée, une flèche et même un sort. Ainsi, vous pensez que tout conflit violent devrait être une simple détonation bruyante suivie d'un long silence. Ces tirs se doivent d'être parfaitement délivrés, même à longue distance, puisque lorsqu'ils sont bien faits, ils sont aussi mortels pour la cible qu'impressionnants pour toute audience.
 
 ## Œil d'Aigle

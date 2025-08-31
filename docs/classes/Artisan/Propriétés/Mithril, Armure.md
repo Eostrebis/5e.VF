@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Armure Compagnon_
 __Composantes :__ Armure moyenne ou lourde chef-d'œuvre
 

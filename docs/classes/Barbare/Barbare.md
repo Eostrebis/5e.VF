@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Un grand humain avance face au blizzard, emmitouflé dans de la fourrure, et traînant sa hache. Il rigole et fonce sur le géant des glaces qui a osé s'aventurer sur le territoire de son clan.
 
 Une demi-orque gronde à l'attention du dernier challenger à défier son pouvoir sur la tribu, prête à briser son coup de ses deux mains comme elle a fait pour les six derniers.

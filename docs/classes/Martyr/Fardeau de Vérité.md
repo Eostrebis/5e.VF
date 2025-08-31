@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Chargé de révéler les complots et tromperies de ce monde, et de délivrer aux peuples la profonde vérité, les martyrs qui portent le fardeau de vérité font face à d'innombrables batailles contre les illusions et les mensonges. Un tel martyr doit gagner le cœur et l'esprit du peuple, les écartant des mauvaises influences, et les rapprochant des dieux. Ce n'est pas une tâche facile, mais elle ne requiert que rarement la violence, sauf dans d'exceptionnelles circonstances.
 
 Les martyrs de vérité sont souvent considérés comme des prophètes, puisque les dieux leur confie la connaissance du futur, des informations du passé, et d'intéressantes perspectives sur le présent. Ces informations sont des preuves que leur message est d'origine divine et sont des précautions nécessaires, puisque le message porté par les martyrs sont généralement de dures vérités.

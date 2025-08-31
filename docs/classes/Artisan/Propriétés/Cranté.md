@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Arme Maître_
 __Composantes :__ Arme exotique chef-d'œuvre qui inflige des dégâts tranchants
 

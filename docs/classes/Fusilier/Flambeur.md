@@ -1,3 +1,6 @@
+---
+step: empty
+---
 La chance est une chose fuyante — sauf si vous êtes un flambeur. Ces fusiliers sont passés maîtres dans l'art du jeu et mélangent leur amour du risque avec leur talent pour le maniement des armes. Les flambeurs provoquent leur chance jusqu'à ce qu'elle manque, et y vont encore plus fort. Pourquoi s'arrêter sur un simple gain quand on peut y aller franco et gagner encore plus ?
 
 ## Maîtrises Supplémentaires

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les bombes sont des armes à distance exotiques avec les statistiques suivantes : 
 
 | Nom   | Coût | Dégâts      | Poids | Propriétés                            |

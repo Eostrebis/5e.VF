@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Vous êtes un magicien ! Peut-être avez-vous obtenu une bourse sportive pour aller à l'Université de Magie, ou bien peut-être avez-vous lu le livre qui traînait dans la rue. Peu importe comment, vous êtes un magicien, un qui a de bons gros muscles. Eh, vous avez même le chapeau bizarre et le livre rempli de gribouillis incompréhensibles.
 
 Vous rappelez gentiment aux autres, souvent par la violence physique, que vos pouvoirs magiques ne doivent pas êtres doutés. Vous êtes un formidable magicien, le meilleur même ! Et seulement un idiot penserait le contraire.

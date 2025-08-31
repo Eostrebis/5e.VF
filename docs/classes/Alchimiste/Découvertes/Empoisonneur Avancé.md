@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Requis : Niveau 7, Forgeron de Venin*
 
 Votre recherche glauque du poison le plus vicieux et exotique vous a permis de découvrir comme synthétiser de nombreux poisons quand vous concoctez des potions :

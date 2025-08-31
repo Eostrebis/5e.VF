@@ -1,6 +1,7 @@
 ---
 englishname: Mounted Combatant
 requis:
+step: empty
 ---
 Vous êtes un dangereux adversaire lorsque vous êtes sur une monture. Tant que vous êtes monté et non [[incapacité]], vous bénéficiez des effets suivants : 
 

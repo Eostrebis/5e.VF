@@ -6,13 +6,14 @@ school: Conjuration
 Verbal: true
 Somatique: false
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Minute
 Incantation: 1 Action Bonus
 Portée: Personnelle
 Concentration: true
-Rituel: 
+Rituel:
 englishname: Ensnaring Strike
+step: empty
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée avant que le sort ne termine, une masse difforme de ronces apparaît au point d'impact, et la cible doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]] par les lianes magiques jusqu'à la fin du sort. Une créature de taille G ou supérieure a l'avantage sur ce jet de sauvegarde. Si la cible réussit son jet, les ronces disparaissent.
 

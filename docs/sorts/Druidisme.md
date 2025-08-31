@@ -6,13 +6,14 @@ school: Transmutation
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Druidcraft
+step: empty
 ---
 En murmurant aux esprits de la nature, vous créez l'un des effets suivants à portée : 
 

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Le pouvoir primaire que vous maniez a pour origine votre lien profond avec les créatures sauvages, et vous avez pris la tâche de les défendre. Puisque vous partagez la férocité, la ténacité et l'instinct d'une bête sauvage, vous pouvez invoquer une force animale du plus profond de vous, et exterminer vos ennemis dans une transe férale.
 
 Tant que vous êtes en transe, vous pouvez sentir une connexion à un être supérieur : la Bête Primaire, le premier prédateur, dont tous les chasseurs descendent. Alors que votre engagement de défendre la nature de la corruption s'affermit, vous vous rapprochez de cette Bête Primaire, jusqu'à adopter sa forme vous-même, lui permettant de chasser à nouveau.

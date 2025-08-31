@@ -15,6 +15,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Free Throw
+step: empty
 ---
 Tout en lançant ce sort, vous jetez un objet tenu pesant 5 lbs. ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les couverture de moitié et de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit réaliser un jet de sauvegarde de Dextérité. Sur un échec, elle prend 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
 

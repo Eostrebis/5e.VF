@@ -1,6 +1,7 @@
 ---
 englishname: Gunner
 requis:
+step: empty
 ---
 Vous avez la main rapide et l'œil précis lorsque vous manipulez des armes à feu, bénéficiant des effets suivants :
 

@@ -14,6 +14,7 @@ Portée: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Black Tentacles
+step: empty
 ---
 De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.
 

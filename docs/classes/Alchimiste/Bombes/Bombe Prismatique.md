@@ -1,3 +1,6 @@
+---
+step: empty
+---
 En ajoutant quelques centilitres de polynectar, un produit chimique multicolore imprévisible, au contenu explosif de votre bombe, vous pouvez la changer en bombe prismatique. Une bombe prismatique inflige des dégâts d'un type aléatoire, et requiert un jet de sauvegarde aléatoirement déterminé. Ses dés de dégâts sont des d8s. Tirez dans chacune des tables suivantes : 
 
 | d6  | Type de Dégâts |

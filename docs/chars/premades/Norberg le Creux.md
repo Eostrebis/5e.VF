@@ -1,1 +1,4 @@
+---
+step: empty
+---
 ![[Norberg.jpg]]

@@ -1,6 +1,7 @@
 ---
 englishname: Adept of the Black Robes
 requis: Niveau 4, Recrue de la Haute-Sorcellerie (Nuitari)
+step: empty
 ---
 Vous avez choisi la lune Nuitari comme influence de votre magie, et votre ambition et votre loyauté auprès de l'Ordre des Robes Noires ont été reconnues, ce qui vous confère ces effets :
 

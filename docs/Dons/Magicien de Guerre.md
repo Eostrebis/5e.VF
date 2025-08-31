@@ -1,6 +1,7 @@
 ---
 englishname: War Caster
 requis: La capacité de lancer au moins un sort
+step: empty
 ---
 Vous avez pratiqué l'incantation en plein milieu de batailles, apprenant des techniques qui vous confèrent les effets suivants : 
 

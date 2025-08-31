@@ -3,6 +3,7 @@ type: Arme Martiale à Distance
 coût: 50
 poids: 18
 englishname: Heavy Crossbow
+step: empty
 ---
 
 | Dégâts        | Propriétés                                           |

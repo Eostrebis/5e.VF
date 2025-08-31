@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Les thri-keen possèdent des caractéristiques insectoïdes ainsi que deux paires de bras. Leur corps est protégé par une couche de chitine. Ils peuvent modifier la coloration de leur carapace afin de se mêler à leur environnement.

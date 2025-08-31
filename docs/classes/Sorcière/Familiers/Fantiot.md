@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les hantises peuvent souvent être attribuées aux suspects spectraux habituels : les fantômes, spectres, ombres et autres poltergeists. Mais les hantises inoffensives, où un esprit agité ne fait que jouer des tours aux vivants, sont généralement causées par un fantiot. Ces esprits tendent à être des reliquats d'enfants ou de comédien, s'accrochant à la vie pour avoir de la compagnie et de l'attention, et cherchent avant tout à s'amuser. Ils ne blessent jamais volontairement les autres lorsqu'ils hantent une maison, et servent tout maître qui les invoquerait, ne serait-ce que pour être inclus.
 
 

@@ -1,6 +1,7 @@
 ---
 search:
   exclude: true
+step: empty
 ---
 
 Les disciplines sont présentées ordre alphabétique. Si une discipline requiert un niveau, vous devez être d'au moins ce niveau dans la classe moine pour apprendre la discipline.

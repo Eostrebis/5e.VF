@@ -1,6 +1,7 @@
 ---
 englishname: Prodigy
 requis: Humain
+step: empty
 ---
 Vous avez un truc pour l'apprentissage. Vous bénéficiez des effets suivants : 
 

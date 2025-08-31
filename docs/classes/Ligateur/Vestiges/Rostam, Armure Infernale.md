@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 3*
 
 Armure mythique incarnant le mal même, Rostam apparaît autour de ses ligateurs et les protège.

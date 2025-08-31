@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Faites de matériaux fins et souples, les armures légères sont les préférées des aventuriers agiles puisqu'elles offrent un peu de protection sans sacrificier la mobilité. Si vous portez une armure légère, vous ajouter votre modificateur de Dextérité à la base de votre armure pour déterminer votre CA.
 
 | Armure          | Coût | Classe d'Armure (CA)      | Discrétion  | Poids |

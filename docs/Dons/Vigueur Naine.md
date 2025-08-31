@@ -1,6 +1,7 @@
 ---
 englishname: Dwarven Fortitude
 requis: Nain
+step: empty
 ---
 Vous avez en vous le sang des héros nains. Vous bénéficiez des effets suivants : 
 

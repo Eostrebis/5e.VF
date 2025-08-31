@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 5*
 
 Créature d'au-delà le multivers, Vortirrackt englobe ses ligateurs d'une réflexion de son étrange anatomie.

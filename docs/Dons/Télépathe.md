@@ -1,6 +1,7 @@
 ---
 englishname: Telepathic
 requis:
+step: empty
 ---
 Vous avez éveillé la cpacité de se connecter mentalement aux autres, et vous bénéficiez des effets suivants : 
 

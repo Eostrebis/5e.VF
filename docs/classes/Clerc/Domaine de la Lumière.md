@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les dieux de la Lumière encouragent la renaissance et le renouveau, la vérité, la vigilance et la beauté, et sont souvent associés au Soleil. Certains de ces dieux sont représentés directement par le Soleil ou par un cavalier qui guide le Soleil à travers le ciel. D'autres sont des sentinelles infatigables dont le regard perce toutes les ombres et met à jour toutes les tromperies. D'autres encore sont les déités de la beauté et de l'art, qui enseigne l'art comme véhicule de l'amélioration de l'âme. Les clercs des dieux de la Lumière sont des âmes éveillées infusées de radiance et avec le pouvoir de la vision de leur dieu, chargés de repousser les mensonges et d'illuminer les ténèbres.
 
 **Sorts du Domaine de la Lumière**

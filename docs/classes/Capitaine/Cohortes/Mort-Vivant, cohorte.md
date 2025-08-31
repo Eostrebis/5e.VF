@@ -1,3 +1,6 @@
+---
+step: empty
+---
 >## Mort-Vivant
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*
 >

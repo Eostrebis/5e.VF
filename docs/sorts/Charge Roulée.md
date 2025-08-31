@@ -15,6 +15,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Rumbling Charge
+step: empty
 ---
 Vous vous encerclez du pouvoir élémentaire d'un glissement de terrain. Lorsque vous lancez ce sort, vous vous déplacez automatiquement de 30 ft. en ligne droite sans provoquer d'attaque d'opportunité. Si votre chemin est bloqué par une créature ou un objet, vous vous y arrêtez et cette créature ou objet doit réaliser un jet de sauvegarde de Force ou prendre 2d12 dégâts contondants, ou la moitié en cas de succès.
 

@@ -15,6 +15,7 @@ Portée: 60 ft. (10 ft.)
 Concentration: false
 Rituel: false
 englishname: Grease
+step: empty
 ---
 De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pour la durée du sort.
 

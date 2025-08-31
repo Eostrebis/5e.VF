@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 3*
 
 Autrefois le plus grand épéiste au monde, Orzi confie à ses ligateurs une vitesse incroyable ainsi qu'un maniement hors pair des lames à une main.

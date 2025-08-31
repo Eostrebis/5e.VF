@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Humoristes talentueux, acrobates et orateurs, les bardes du collège des bouffons se trouvent aussi bien dans les cours royales que dans la taverne du coin. Ces bardes se spécialisent dans la vérité par l'humour cinglant plutôt que par le sonnet et accompagnent leurs propos assassins de galipettes ou autres exploits spectaculaires. Lorsqu'ils sont entourés de nobles, ces bardes offrent satyres, moqueries et conseils avisés en proportions égales. Ces bardes font de très bons compagnons de voyage, tant que vous ayez un peu de second degré.
 
 ## Raconteur

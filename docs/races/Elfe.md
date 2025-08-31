@@ -1,3 +1,6 @@
+---
+step: empty
+---
 ### Description
 
 Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux emprunts d'une beauté éthérée,  au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 

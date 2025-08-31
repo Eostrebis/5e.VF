@@ -7,13 +7,14 @@ school: Évocation
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: Personnelle (cône de 10 ft.)
 Concentration: false
 Rituel: false
 englishname: Thunderous Distortion
+step: empty
 ---
 Vous produisez une vague de bruit distordu dans un cône de 10 ft., qui peut être entendu jusqu'à 100 ft. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts de tonnerre.
 

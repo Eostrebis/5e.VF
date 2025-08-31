@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les rois et les dirigeants sont tous liés par une alliance tacite avec les dieux pour gouverner leur peuple avec justice et paisiblement. Lorsqu'un monarque se retourne contre les dieux, choisit la tyrannie, ou utilise de cruels moyens contre son propre peuple, un martyr est nommé pour mettre fin à son règne. Rares sont les fois où un martyr de révolution a usé de moyens pacifistes, puisque lorsque le roi doit tomber, seule l'épée est suffisamment puissante.
 
 Ces martyrs ne sont pas seulement désignés pour affronter des rois ; toutes les personnes d'influence qui oppressent et abusent de leurs pouvoirs peuvent agacer les dieux. Dans une sombre époque, un martyr peut être chargé de nettoyer le continent des despotes et oppresseurs, nécessitant une véritable campagne de libération.

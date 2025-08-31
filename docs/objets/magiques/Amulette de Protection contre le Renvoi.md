@@ -3,6 +3,7 @@ type: Objet Merveilleux
 rareté: Rare
 attunement: true
 attdet:
+step: empty
 ---
 Tant que vous portez cette amulette faite d'argent et de turquoise, vous avez l'avantage aux jets de sauvegarde pour résister aux effets de renvoi de morts-vivants.
 

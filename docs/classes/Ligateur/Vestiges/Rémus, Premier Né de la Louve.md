@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 5*
 
 Jumeau aigri qui a failli former un empire, Rémus confère à ses ligateurs un avant-goût de sa furie barbare.

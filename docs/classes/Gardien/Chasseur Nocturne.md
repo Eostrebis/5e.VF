@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les buveurs de sang, mort-vivants et autres créatures de la nuit sont souvent craints et chassés, et peu se place comme leur défenseur ; excepté, bien sûr, les sinistres et terribles chasseurs nocturnes. Les histoires de ces chasseurs sont racontées dans les contes pour enfant, les représentant comme des choses à craindre : chasseurs de clercs et exterminateurs de bons vampires. Leur présence ne présage rien de bon, généralement de longues nuits et une recrudescence du nombre de mort-vivants.
 
 Vous avez senti l'appel de la lune vous amener du côté de la nuit. Même si les vampires, les zombies et les squelettes sont puissants, ils sont toujours en sous-nombre et chassé par les clercs — ils n'ont jamais une chance de vivre paisiblement. Ils ont besoin d'un allié parmi les vivants pour continuer leur vie tranquille, et vous avez été choisi par la lumière de lune pour cela.

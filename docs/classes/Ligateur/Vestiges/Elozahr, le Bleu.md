@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 5*
 
 Elozahr, le fondateur légendaire de l'école de l'Évocation, confère à ses ligateurs des pouvoirs arcaniques frigorifiques et sa concentration sans faille.

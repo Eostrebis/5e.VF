@@ -1,6 +1,7 @@
 ---
-type: 
-coût: 
-poids: 
+type:
+coût:
+poids:
 englishname:
+step: empty
 ---

@@ -1,6 +1,7 @@
 ---
 englishname: Skill Expert
 requis:
+step: empty
 ---
 Vous avez perfectionné votre maîtrise de certaines compétences, et bénéficiez des effets suivants : 
 

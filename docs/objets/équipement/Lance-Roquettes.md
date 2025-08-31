@@ -4,6 +4,7 @@ coût: 1250
 poids: 20
 englishname: Rocket Launcher
 Ère: Moderne
+step: empty
 ---
 
 | Dégâts      | Propriétés                                                                            |

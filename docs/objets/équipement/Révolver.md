@@ -4,6 +4,7 @@ coût: 100
 poids: 3
 englishname: Revolver
 Ère: Industrielle
+step: empty
 ---
 | Dégâts       | Propriétés                                  |
 | ------------ | ------------------------------------------- |

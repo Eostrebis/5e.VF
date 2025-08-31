@@ -15,6 +15,7 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Arcane Lock
+step: empty
 ---
 Vous touchez une porte, une fenêtre, un coffre ou tout autre mécanisme fermé, et il devient verrouillé pour la durée du sort. Vous et les créatures que vous désignez lorsque vous lancer ce sort peuvent ouvrir l'objet normalement. Vous pouvez aussi mettre en place un mot de passe qui, lorsqu'il est prononcé à moins de 5 ft. de l'objet, étouffe le sort pour 1 minute. Sinon, il est impassable jusqu'à ce qu'il soit cassé ou que le sort soit dissipé ou étouffé. Lancer [[Toc-Toc]] sur l'objet étouffe le sort [[Verrou Magique]] pendant 10 minutes.
 

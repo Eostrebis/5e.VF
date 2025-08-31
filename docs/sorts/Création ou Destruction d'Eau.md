@@ -14,6 +14,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Create or Destroy Water
+step: empty
 ---
 Vous pouvez créer ou détruire de l'eau.
 

@@ -1,3 +1,6 @@
+---
+step: empty
+---
 >## Construction
 >*Moyenne Construction, Tout alignement*
 >

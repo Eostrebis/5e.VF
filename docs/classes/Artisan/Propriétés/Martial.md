@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme simple chef-d'œuvre
 

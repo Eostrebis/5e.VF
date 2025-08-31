@@ -1,6 +1,7 @@
 ---
 search:
   exclude: true
+step: empty
 ---
 
 | Découverte                        | Niveau Requis | Champ d'Études Requis |

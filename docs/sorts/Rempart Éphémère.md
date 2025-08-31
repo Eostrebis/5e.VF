@@ -15,5 +15,6 @@ Portée: Personnelle
 Concentration: false
 Rituel: true
 englishname: Transient Bulwark
+step: empty
 ---
 La prochaine attaque réalisée contre vous pendant la durée du sort a une pénalité de -10 pour toucher.

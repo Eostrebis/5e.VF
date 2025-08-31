@@ -1,3 +1,6 @@
+---
+step: empty
+---
 
 La première étape d'une partie de D&D est d'imaginer et de se créer son propre personnage. Un personnage est défini par des statistiques de jeu, des accroches de roleplay, et par votre imagination. Vous choisissez une race et une classe. Vous inventez également la personnalité, l'apparence et l'histoire de votre personnage. Commencez tout d'abord par imaginer votre personnage. Voulez-vous être un guerrier un peu bourrin, un magicien plutôt lâche, ou encore un alchimiste complètement fou ? C'est à vous de décider ! Essayez de vous faire une image en tête de ce que voulez que soit votre personnage. Si l'inspiration ne vient pas, vous pouvez aussi parcourir les descriptions des classes et races pour vous donner des idées. C'est bon, vous avez votre idée en tête ? Alors c'est parti ! Pensez à bien noter toutes les informations que vous récupérez pendant le choix des différentes options afin de remplir votre feuille de personnage 😉.
 

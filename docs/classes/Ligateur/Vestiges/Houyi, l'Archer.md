@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 2*
 
 Archer légendaire qui a battu plusieurs soleils, Houyi confère à ses ligateurs une vision d'aigle et le savoir du maniement de l'arc.

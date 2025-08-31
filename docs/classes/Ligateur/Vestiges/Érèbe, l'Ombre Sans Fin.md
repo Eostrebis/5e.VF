@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 9*
 
 Seuls les ligateurs se rappellent des légendes ésotériques d'Érèbe, l'initiateur de tous les vestiges, l'entité que même les dieux craignent.

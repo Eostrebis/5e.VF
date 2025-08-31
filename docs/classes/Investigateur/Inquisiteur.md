@@ -1,3 +1,6 @@
+---
+step: empty
+---
 L'église a depuis longtemps été la première ligne de défense contre les vagues déferlantes de ténèbres. Cependant, le dévouement obstiné du clergé à la morale les handicape quand c'est nécessaire : vous devez parfois accepter de faire le mal pour contrer le mal. C'est là que l'inquisition entre en jeu.
 
 En tant que rigoureux inquisiteur de votre foi, vous êtes chargé d'éliminer l'hérésie, d'exorciser les démons et d'écraser toute manifestation d'ésotérisme, et vous êtes pardonné pour toute action que vous prenez en défense du bien commun. Vous pouvez enquêter sur quiconque ou quoiconque que vous jugeriez digne d'intérêt, puisque vous êtes une lame sacrée contre les ténèbres, le juge de votre église.

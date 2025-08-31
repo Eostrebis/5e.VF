@@ -6,12 +6,13 @@ school: Illusion
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: Personnelle
 Concentration: true
-Rituel: 
+Rituel:
 englishname: Wings of Night
+step: empty
 ---
 

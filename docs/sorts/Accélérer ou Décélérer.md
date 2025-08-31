@@ -15,6 +15,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Accelerate/Decelerate
+step: empty
 ---
 Ce sort accélère ou ralentir une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. ne soit touchée par une attaque.
 

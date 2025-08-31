@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 6*
 
 M. Ludovic était un marionnettiste célèbre qui a atteint la déité. Ceux qui se lient à lui peuvent utiliser ses ficelles pour manipuler les autres aussi aisément qu'il manipulait les marionnettes.

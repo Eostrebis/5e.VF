@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Pour un Chevalier Forgé, la chaleur n'est pas seulement partie intégrale de la forge, la réparation et la soudure de l'équipement, c'est une arme par elle-même, puisque la frappe d'une lame chauffée à blanc ne blesse pas qu'avec l'acier, mais aussi par la flamme. Un Chevalier Forgé porte l'intensité de la forge avec lui, la préservant dans son armure et l'accumulant dans ses armes, avant de la déchaîner en une déflagration ardente.
 
 ## Forge Portative

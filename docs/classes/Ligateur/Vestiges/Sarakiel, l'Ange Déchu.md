@@ -1,3 +1,6 @@
+---
+step: empty
+---
 *Vestige de niveau 7*
 
 Premier ange déchu, Sarakiel a essayé, et échoué, de détruire le multivers en guise de pitié pour ses habitants. En punition, il confie à ses ligateurs ses ailes ainsi que sa lame, autrefois sacrée.

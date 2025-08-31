@@ -1,3 +1,6 @@
+---
+step: empty
+---
 La nuit noire a apporté en ce monde paix et réconfort en des temps mouvementés, démontrant l'insignifiance de ceux qui le frôle. Cependant, vous n'êtes pas ici pour répandre la paix. Vos méditations vous ont conduit au vide où l'Exilé Déchu a autrefois brillé, remplissant votre esprit d'un pouvoir noirci et plein de regrets. Cela peut-être dû par une intervention de l'Exilé lui-même, par l'illumination spirituelle que vous avez atteint de vous-même, ou par les enseignements d'un maître qui a voyagé le chemin obscur. Quelle que soit votre première intention, votre ki est désormais corrompu par ce vide cosmique surnaturel, vous conférant la capacité de le canaliser pour former une puissante arme de lumière et de profondes ténèbres.  Attisant vos techniques de la peur de vos adversaires, vous êtes désormais en quête de compréhension des secrets de cette éternelle étoile noire qui siège au centre du cosmos.
 
 ## Lame du Vide

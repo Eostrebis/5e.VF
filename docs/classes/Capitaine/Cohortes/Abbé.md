@@ -1,3 +1,6 @@
+---
+step: empty
+---
 >## Abbé
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*
 >

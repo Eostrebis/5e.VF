@@ -16,6 +16,7 @@ Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Eye
+step: empty
 ---
 Vous créez un œil magique invisible dans la portée qui flotte dans les airs pour la durée du sort.
 

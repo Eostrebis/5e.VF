@@ -3,6 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 10
 poids: 6
 englishname: Lance
+step: empty
 ---
 
 | Dégâts        | Propriétés      |

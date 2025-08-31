@@ -1,6 +1,7 @@
 ---
 englishname: Righteous Heritor
 requis: Niveau 4, Rejeton des Plans Extérieurs (Plan Extérieur Bon)
+step: empty
 ---
 Vous pouvez canaliser les forces cosmiques du bien pour gagner les effets suivants : 
 

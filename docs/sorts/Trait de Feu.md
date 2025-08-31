@@ -9,13 +9,14 @@ school: Évocation
 Verbal: true
 Somatique: true
 Matériel: false
-detailmat: 
+detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Fire Bolt
+step: empty
 ---
 Vous lancez un bout de feu sur une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d10 dégâts de feu. Un objet inflammable qui n'est pas porté s'embrase s'il est touché.
 

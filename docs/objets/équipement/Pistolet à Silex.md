@@ -4,6 +4,7 @@ coût: 75
 poids: 6
 englishname: Flintlock
 Ère: Renaissance
+step: empty
 ---
 
 | Dégâts       | Propriétés                                                  |

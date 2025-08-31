@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Les moines de la voie du Kensei s'entraînent sans relâche avec leurs armes, jusqu'à ce que ces mêmes armes deviennent des extensions de leurs corps. Fondée dans un monastère dédié à l'escrime, cette tradition s'est étendue afin inclure une multitude d'armes.
 
 Un kensei voit son arme comme un calligraphe ou un peintre voit son stylo ou son pinceau. Quelle que soit l'arme, le kensei la voit comme un outil pour exprimer la beauté et la précision des arts martiaux. Cette telle maîtrise qui fait forcément des kensei des guerriers sans égaux n'est qu'un effet secondaire de leur intense dévotion, ainsi que leurs entraînements et études.

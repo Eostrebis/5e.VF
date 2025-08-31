@@ -1,3 +1,6 @@
+---
+step: empty
+---
 Comme canal entre les morts et vivants, les mediums offrent un aperçu essentiel au-delà du voile de la mortalité. Utilisant leurs augures, séances et divinations, les médiums peuvent récupérer des bribes d'informations de l'au-delà pour régler les dettes entre les vivants ou les morts, et pour aider les enquêtes en cours. Ces informations, aussi cryptiques soient-elles, peuvent orienter une personne concernée vers des indices ou preuves que seuls les décédés sont capables de fournir.
 
 ## Prédiction

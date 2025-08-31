@@ -1,6 +1,7 @@
 ---
 englishname: Telekinetic
 requis:
+step: empty
 ---
 Vous avez appris à déplacer les choses avec votre esprit, et vous bénéficiez des effets suivants :
 

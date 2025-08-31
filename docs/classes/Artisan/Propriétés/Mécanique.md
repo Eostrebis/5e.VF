@@ -1,3 +1,6 @@
+---
+step: empty
+---
 _Propriété d'Armure Maître_
 __Composantes :__ Armure lourde exotique chef-d'œuvre
 
