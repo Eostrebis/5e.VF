@@ -1,5 +1,5 @@
 ---
-step: completed
+step: wip
 ---
 ## Personnage
 
@@ -75,7 +75,7 @@ Avec ses 31 kg, il est tout en os et en nerfs. Chaque mouvement est une aventure
 
 ### Compétences de Classe
 
-### Equipement
+### Équipement
 
  - 
 ## Historique

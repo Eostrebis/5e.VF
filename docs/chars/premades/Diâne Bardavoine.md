@@ -1,5 +1,5 @@
 ---
-step: completed
+step: finished
 ---
 ## Personnage
 
@@ -30,6 +30,17 @@ __Vitesse :__ 40 ft.
 | ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +1         |
 | ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
 
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+>Vous êtes Diâne, une centaure cantatrice à la voix divine et à l'esprit simple, qui a quitté sa vallée isolée pour un voyage optimiste (et très naïf) vers la grande ville afin de devenir une star de l'opéra.
+>
+>**Objectif pour la session :** 
+> Vous êtes en route pour la légendaire cité de Valoria ! Chaque ville ou village est une nouvelle "scène" où vous pouvez vous produire. Votre but est de rendre les gens heureux avec votre chant, de vous faire de nouveaux amis, et de demander votre chemin vers la prochaine étape de votre glorieux voyage.
+>
+>**Le Monde est une Comédie Musicale :** Parlez avec une voix mélodieuse et dramatique. Éclatez en chanson à des moments inappropriés. Pour vous, il n'y a aucun problème qui ne puisse être résolu (ou au moins amélioré) par la bonne aria.
+>
+>**Incarnez le "Poisson Hors de l'Eau" :** Vous êtes une créature de la nature, grande et puissante, dans un monde de "deux-jambes" fait de portes étroites et d'escaliers. Jouez avec votre physique : tapez du sabot quand vous êtes impatiente, broutez distraitement, et soyez fascinée par les choses les plus simples de la civilisation.
+>
+>**La Naïveté est votre Super-Pouvoir :** Vous prenez tout au premier degré et vous voyez le meilleur en chacun. Votre faible Intelligence n'est pas une faiblesse, c'est votre façon d'être. Posez des questions sincères et directes, et faites confiance aux gens, même quand ce n'est (probablement) pas une bonne idée. Votre cœur pur est votre boussole.
 #### Maîtrises
 
 **Armure :** [[Armures Légères]]
@@ -100,7 +111,7 @@ Vous pouvez inspirer les autres à travers des mots bien choisis. Pour ce faire,
 Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle réalise. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
 
 Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
-### Equipement
+### Équipement
 
  - Une [[rapière]]
  - Un [[sac d'artiste]]
@@ -147,7 +158,7 @@ __Alignement :__ Chaotique Bon
 
 ## Conseil de Jeu
 
-Sa voix est toujours musicale. Elle ne parle pas, elle déclame. Une simple phrase comme "Passez moi le sel, s'il vous plaît" peut sonner comme le début d'une grande aria. Elle utilise des mots grandiloquents pour décrire des choses simples. Un repas raté est une "tragédie culinaire", un joli coucher de soleil est une "extase céleste".
+Sa voix est toujours musicale. Elle ne parle pas, elle déclame. Une simple phrase comme "Passez-moi le sel, s'il vous plaît" peut sonner comme le début d'une grande aria. Elle utilise des mots grandiloquents pour décrire des choses simples. Un repas raté est une "tragédie culinaire", un joli coucher de soleil est une "extase céleste".
 
 Quand elle est excitée ou impatiente, elle tape le sol d'un de ses sabots avant, produisant un bruit sourd et régulier. Si la conversation s'éternise ou si elle est pensive, elle peut baisser la tête et commencer à brouter distraitement une touffe d'herbe ou les feuilles d'un buisson. 
 

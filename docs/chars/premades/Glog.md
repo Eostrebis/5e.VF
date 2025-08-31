@@ -1,5 +1,5 @@
 ---
-step: completed
+step: wip
 ---
 ## Personnage
 
@@ -29,6 +29,18 @@ __Vitesse :__ 30 ft.
 | ◉ Histoire (_Int_) : +4     | ◎ Représentation (_Cha_) : +3 |
 | ◎ Intimidation (_Cha_) : +3 | ◎ Survie (_Sag_) : +2         |
 | ◎ Intuition (_Sag_) : +2    | ◎ Tromperie (_Cha_) : +3<br>  |
+
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+> Vous êtes Glog, un brillant étudiant orque en magie qui, par accident de recherche, est devenu le relais d'une gelée cosmique mangeuse de souvenirs, vous forçant à partir à l'aventure pour "nourrir" votre patron avec de nouvelles expériences afin de passer vos examens.
+> 
+> **Objectif pour la session :** 
+>  Vous êtes en "recherche sur le terrain" pour votre thèse. Votre but est de documenter méticuleusement tout ce que vous rencontrez – créatures, lieux, événements – pour compiler des données pour vos études, et accessoirement, pour offrir de nouvelles "saveurs" à la Convocation Gélatineuse qui vous prête ses pouvoirs.
+>  
+>  **Parlez comme un Professeur Orque :** Utilisez un langage académique et complexe qui contraste avec votre apparence d'orque. Analysez tout de manière théorique ("Hypothétiquement...", "Empiriquement...") et citez des références historiques obscures que personne d'autre ne connaît.
+>  
+>  **La Connaissance avant Tout :** Votre grimoire/carnet de notes est votre meilleur ami. Sortez-le constamment pour prendre des notes, même dans les moments les plus inopportuns. Votre défaut est clair : vous êtes facilement distrait par la promesse d'une nouvelle information, même si c'est au milieu d'un combat.
+>  
+>  **Jouez la Double Mémoire :** Laissez parfois échapper des informations ou des souvenirs qui ne sont pas les vôtres (un écho de la Convocation Gélatineuse). Un mot dans une langue ancienne, le nom d'un roi oublié... puis reprenez-vous avec un air confus, comme si vous ne saviez pas d'où cela venait.
 
 #### Maîtrises
 
@@ -128,7 +140,7 @@ Charisma is your spellcasting ability for your warlock spells, so you use your C
 You can use an arcane focus as a spellcasting focus for your warlock spells.
 
 
-### Equipement
+### Équipement
 
  - Une [[épée courte]]
  - Un livre d'histoire, servant de [[focalisateur arcanique]]
@@ -159,7 +171,7 @@ Il a compris qu'il ne pourrait pas obtenir son diplôme en restant assis sur un 
 
 ### Compétence d'Historique
 
-Vous étudié un peu de théorie magique et avez appris quelques sorts liés à l'académie des Arts Mystiques.
+Vous avez étudié un peu de théorie magique et avez appris quelques sorts liés à l'académie des Arts Mystiques.
 
 Vous connaissez les cantrips [[Lumières]] et [[Thaumaturgie]] ainsi que le sort [[mémorisation]].
 

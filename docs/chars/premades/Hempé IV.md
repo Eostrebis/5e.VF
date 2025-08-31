@@ -1,5 +1,5 @@
 ---
-step: completed
+step: finished
 ---
 ## Personnage
 
@@ -30,15 +30,27 @@ __Vitesse :__ 30 ft.
 | ◎ Intimidation (_Cha_) : ±0 | ◉ Survie (_Sag_) : ±0         |
 | ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0<br>  |
 
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+> Vous êtes le Prince Hempé IV, héritier d'un trône Giff sans pouvoir, qui utilise en secret une magie interdite de liaison d'esprits pour préparer une révolution et reconquérir la souveraineté de votre île colonisée par une guilde marchande.
+> 
+> **Objectif pour la session :** 
+> Officiellement en "mission diplomatique", votre véritable but est de trouver des informations sur un nouveau _vestige_ (esprit puissant) ou de trouver un allié potentiel pour votre future rébellion. Chaque interaction est une opportunité de jauger la force et la loyauté des autres.
+> 
+> **Maintenez la Façade Royale :** Parlez toujours de manière formelle et posée (vouvoiement, langage soutenu). Votre posture est droite, vos vêtements impeccables. Vous êtes le prince, même en exil. C'est votre armure sociale.
+> 
+> **Jouez la Double Vie :** Votre calme extérieur cache une rage froide. Montrez cette tension par de petits tics : faites tourner votre bague sigillaire quand vous êtes contrarié ou que vous devez cacher votre magie. Laissez transparaître de brèves lueurs de votre pouvoir (un œil qui change de couleur, une ombre qui bouge) avant de les réprimer aussitôt.
+> 
+> **Le Pragmatisme du Révolutionnaire :** Votre magie n'est pas un don, c'est une arme. Pensez de manière tactique. Utilisez votre sceptre pour changer de vestige au moment le plus opportun. Vous n'êtes pas là pour la gloire, mais pour l'efficacité. Chaque action doit servir votre but ultime : la libération de votre peuple.
+
 #### Maîtrises
 
 **Armure :** [[Armures Légères]], [[Armures Moyennes]]
 
 **Armes :** [[Armes Simples]], [[Armes à Feu]]
 
-**Outils :** 
+**Outils :** --
 
-__Langues__ : Commun, 
+__Langues__ : Commun, [[Langues#Jypègue]]]
 
 ### Description
 
@@ -73,7 +85,7 @@ Ce sont les signes des vestiges qui se pressent contre les parois de son âme, d
 
 #### Ligature d'Âme
 
-Pendant vos études, vous avez découvert le moyen de percer la frontière entre les plans et d'appeler ce qui vit au-delà. Vous apprenez à invoquer un *vestige* et à le lier à votre âme.
+Pendant vos études, vous avez découvert le moyen de percer la frontière entre les plans et d'appeler ce qui vit au-delà. Vous apprenez à invoquer un [[vestiges|vestige]] et à le lier à votre âme.
 
 ##### Rituel d'Attachement
 
@@ -85,7 +97,7 @@ Les vestiges vous restent liés jusqu'à ce que vous terminiez un repos long. Un
 
 Le Charisme est votre caractéristique d'incantation.
 
-### Equipement
+### Équipement
 
  - Un [[pistolet à silex]], 10 [[Balles (10)|balles]] et une [[dague]]
  - Une armure d'[[écailles]]
