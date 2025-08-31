@@ -1,5 +1,5 @@
 ---
-step: completed
+step: finished
 ---
 ## Personnage
 

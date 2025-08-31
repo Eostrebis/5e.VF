@@ -1,5 +1,5 @@
 ---
-step: completed
+step: finished
 ---
 ## Personnage
 
@@ -30,6 +30,19 @@ __Vitesse :__ 30 ft.
 | ◎ Intimidation (_Cha_) : -3 | ◎ Survie (_Sag_) : +3         |
 | ◉ Intuition (_Sag_) : +5    | ◎ Tromperie (_Cha_) : -3<br>  |
 
+> [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
+> Vous êtes Zamenis, une Drow érudite et anormalement forte, exilée de votre société matriarcale après avoir résolu une crise surnaturelle par la logique et la force brute, prouvant ainsi que les méthodes "grossières" sont parfois les plus efficaces.
+> 
+> **Objectif pour la session :**
+> Le monde de la surface est un immense livre ouvert. Votre but est de survivre, d'étudier les menaces occultes locales pour enrichir votre grimoire, et de prouver, avant tout à vous-même, que votre liberté et vos méthodes sont supérieures à l'intrigue et au poison de votre ancien monde.
+> 
+> **Parlez comme un Rapport d'Autopsie :** Votre voix est un monotone factuel. Vous ne bavardez pas, vous communiquez des données. Utilisez des mots courts et précis ("Incorrect", "Possible"). Votre franchise est brutale, car la diplomatie est une perte de temps.
+> 
+> **La Force comme Solution :** Vous avez une Force de 20. Servez-vous-en. Face à un obstacle, votre premier réflexe n'est pas la finesse, mais la puissance. Une porte est fermée ? Enfoncez-la. Un PNJ est récalcitrant ? Utilisez l'Intimidation basée sur votre Force. Vous résolvez les problèmes de manière directe et définitive.
+> 
+> **Le Grimoire est votre Bouclier Social :** Vous êtes socialement inapte. Utilisez votre grimoire comme un refuge. Quand une conversation devient trop "émotionnelle" ou inutile, ouvrez-le et consultez vos notes. C'est votre façon de dire "Cette interaction est terminée". Votre véritable dialogue est avec le savoir, pas avec les gens.
+
+
 #### Maîtrises
 
 **Armure :** [[Armures Légères]]
@@ -54,7 +67,7 @@ Sa peau a la couleur de l'obsidienne polie, un noir profond qui absorbe la lumi�
 
 Son visage est anguleux et ses traits sont fins, mais ils sont dénués de la séduction ou de l'arrogance habituelles de son peuple. Son expression est neutre, presque impassible. Ses yeux, d'un orange infernal, ne cherchent pas à charmer ou à intimider par la ruse ; ils sont perçants, analytiques et scrutent le monde avec une intensité déconcertante, comme s'ils cherchaient constamment un indice, une faiblesse, une faille dans la réalité.
 
-Elle ne porte pas les robes de soie et les piéces d'armure en mithral ciselé de sa société. Sa tenue est purement fonctionnelle : une armure de cuir sombre, robuste et bien entretenue, mais portant les cicatrices de nombreuses rencontres. Des renforts de métal protègent ses avant-bras et ses épaules. À sa ceinture pendent plusieurs sacoches contenant des composants de rituels, des fioles, et un ou deux poignards.
+Elle ne porte pas les robes de soie et les pièces d'armure en mitral ciselé de sa société. Sa tenue est purement fonctionnelle : une armure de cuir sombre, robuste et bien entretenue, mais portant les cicatrices de nombreuses rencontres. Des renforts de métal protègent ses avant-bras et ses épaules. À sa ceinture pendent plusieurs sacoches contenant des composants de rituels, des fioles, et un ou deux poignards.
 
 Mais son bien le plus important, toujours à portée de main dans une sacoche de cuir à son flanc, est son lourd grimoire. Sa couverture est usée par des milliers de consultations, ses pages remplies de son écriture précise et anguleuse. C'est cet objet, plus que son épée, qui est le véritable symbole de sa puissance. Zamenis est une force de la nature, un esprit brillant dans le corps d'une briseuse de boucliers.
 
@@ -84,7 +97,7 @@ Vous éditez un grimoire rempli de rituels magiques : votre outil le plus effica
 
 Votre caractéristique d'incantation est l'Intelligence.
 
-### Equipement
+### Équipement
 
  - Une armure de [[cuir]]
  - Une [[dague]] et une [[épée longue]]
@@ -106,7 +119,7 @@ La panique s'installa. Les méthodes Drows étaient inutiles. On ne pouvait pas 
 
 Pendant ce temps, Zamenis observait et étudiait. Elle nota les schémas, les heures des possessions, les mots utilisés par l'esprit. Dans les archives, elle trouva une vieille tablette décrivant les Dybbuks et, surtout, le rituel précis pour en piéger un. Le rituel demandait une préparation minutieuse et, au moment crucial, que le corps hôte soit maintenu immobile.
 
-Armée de son grimoire où elle avait recopié le rituel, et d'une lourde chaîne de fer, Zamenis attendit son heure. Lorsque le Dybbuk posséda le cadavre d'un garde particulièrement robuste, elle intervint. Tandis que l'esprit la raillait à travers la bouche du mort, Zamenis ne tenta pas de le combattre. Elle utilisa sa force brute pour maîtriser le corps, l'enchaînant à un pilier de pierre malgré sa résistance surnaturelle. Une fois le corps immobilisé, elle commença à tracer les runes du rituel au sol et à psalmodier les paroles de liaison. Le Dybbuk, piégé, hurla de rage avant d'être arraché du cadavre et emprisonné dans une gemme qu'elle avait préparée.
+Armée de son grimoire dans lequel elle avait recopié le rituel, et d'une lourde chaîne de fer, Zamenis attendit son heure. Lorsque le Dybbuk posséda le cadavre d'un garde particulièrement robuste, elle intervint. Tandis que l'esprit la raillait à travers la bouche du mort, Zamenis ne tenta pas de le combattre. Elle utilisa sa force brute pour maîtriser le corps, l'enchaînant à un pilier de pierre malgré sa résistance surnaturelle. Une fois le corps immobilisé, elle commença à tracer les runes du rituel au sol et à psalmodier les paroles de liaison. Le Dybbuk, piégé, hurla de rage avant d'être arraché du cadavre et emprisonné dans une gemme qu'elle avait préparée.
 
 Elle avait réussi. Mais elle n'avait pas suivi le protocole. Elle n'avait pas demandé la permission de la Matrone, ni l'aide des prêtresses. Elle avait utilisé un savoir interdit et une force "grossière" pour résoudre un problème spirituel. Elle avait mis en lumière l'inefficacité de ses supérieures.
 
@@ -133,7 +146,7 @@ __Défaut :__ J'ai une faiblesse pour les habitants du monde de la surface.
 
 __Alignement :__ Neutre
 
-## Conseils de jeu
+## Conseils de Jeu
 
 Sa voix est un alto, basse et généralement dénuée d'émotion. Elle ne cherche pas à plaire ou à impressionner. Elle énonce des faits. Qu'elle décrive une recette de ragoût ou la méthode pour décapiter un vampire, le ton est exactement le même : neutre et informatif. Elle ne participe pas aux bavardages. Si elle n'a pas de données à recueillir ou à communiquer, elle est silencieuse. Elle peut répondre à une longue question par un simple mot : "Incorrect.", "Possible.", "Non pertinent.".
 
