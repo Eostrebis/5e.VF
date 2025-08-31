@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Black Lotus Assault
-step: empty
+status: empty
 ---
 

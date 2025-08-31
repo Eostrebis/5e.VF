@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Charm Monster
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Draconic Transformation
-step: empty
+status: empty
 ---
 

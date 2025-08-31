@@ -16,7 +16,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Aerial Alacrity
-step: empty
+status: empty
 ---
 Ciblez une créature consentante que vous pouvez voir à portée qui possède une vitesse de vol. Cette créature bénéficie des effets suivants pendant la durée du sort : 
 

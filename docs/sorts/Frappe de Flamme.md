@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Flame Strike
-step: empty
+status: empty
 ---
 

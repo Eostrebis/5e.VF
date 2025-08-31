@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Glimmer
-step: empty
+status: empty
 ---
 

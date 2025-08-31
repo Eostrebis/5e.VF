@@ -18,7 +18,7 @@ Portée: 60 ft.
 Concentration:
 Rituel:
 englishname: Acid Splash
-step: empty
+status: empty
 ---
 Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir dans la portée. Si vous en choisissez deux, elles doivent être à 5 ft. l'une de l'autre. Une cible doit réussir un jet de sauvegarde de Dextérité ou prendre `dice:1d6|avg` dégâts d'acide.
 

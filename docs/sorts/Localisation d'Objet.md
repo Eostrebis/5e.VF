@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Locate Object
-step: empty
+status: empty
 ---
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 >## Construction
 >*Moyenne Construction, Tout alignement*

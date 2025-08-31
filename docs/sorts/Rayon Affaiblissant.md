@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Ray of Enfeeblement
-step: empty
+status: empty
 ---
 

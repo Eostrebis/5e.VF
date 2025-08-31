@@ -1,7 +1,7 @@
 ---
 englishname: Skulker
 requis: Dexterité de 13 ou plus
-step: empty
+status: empty
 ---
 Vous savez parfaitement vous déplacer entre les ombres. Vous bénéficiez des effets suivants : 
 

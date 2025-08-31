@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dawn
-step: empty
+status: empty
 ---
 

@@ -1,4 +1,4 @@
 ---
-step: empty
+status: empty
 ---
 Une fois à chacun de vos tours, lorsque vous réduisez une créature à 0 point de vie ou effectuez un coup critique avec une attaque armée de mêlée, vous pouvez dépenser un dé de bataille pour vous déplacer de 15 ft. et réaliser une autre attaque armée de mêlée dans la même attaque. Si vous touchez, vous ajoutez le dé de bataille aux dégâts de l'attaque.

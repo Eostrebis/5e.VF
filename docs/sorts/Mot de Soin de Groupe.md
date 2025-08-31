@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Mass Healing Word
-step: empty
+status: empty
 ---
 

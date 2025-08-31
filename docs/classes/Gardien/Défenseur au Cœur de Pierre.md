@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Vous avez entendu l'appel inébranlable de la montagne, celui-là même que les nains et gnomes ressentent depuis des générations. Les stones vous ont appelé, à la recherche d'un protecteur pour défendre les montagnes de ceux qui les défigurent, de l'extérieur comme de l'intérieur. Vous pourriez être le garde de vieux murs nains ou un sentinelle qui patrouille les pics montagneux. Peu importe de l'endroit où vous vous tenez, vous êtes indéplacable : une montagne sous la forme d'un homme. Vous tirez votre pouvoir de la terren sous vous pieds et vous écrasez vos ennemis avec la force de la pierre.
 

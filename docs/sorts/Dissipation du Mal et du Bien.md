@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dispel Evil and good
-step: empty
+status: empty
 ---
 

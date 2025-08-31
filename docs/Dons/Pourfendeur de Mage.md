@@ -1,7 +1,7 @@
 ---
 englishname: Mage Slayer
 requis:
-step: empty
+status: empty
 ---
 Vous vous êtes entraîné aux technique utiles en corps-à-corps contre des incanteurs, et vous bénéficiez des effets suivants : 
 

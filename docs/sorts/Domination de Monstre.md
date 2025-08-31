@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dominate Monster
-step: empty
+status: empty
 ---
 

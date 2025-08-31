@@ -1,6 +1,6 @@
 ---
 subrace: true
-step: empty
+status: empty
 ---
 
 ### Description

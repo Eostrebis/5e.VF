@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Protection from Evil and Good
-step: empty
+status: empty
 ---
 

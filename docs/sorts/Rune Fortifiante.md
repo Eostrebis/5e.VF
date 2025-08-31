@@ -19,6 +19,6 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Rune of Fortification
-step: empty
+status: empty
 ---
 Vous inscrivez sur une porte ou un coffre une rune magique. Cette rune confère à l'objet 50 points de vie temporaires pour la durée du sort.

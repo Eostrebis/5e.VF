@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Evard's Black Tentacles
-step: empty
+status: empty
 ---
 

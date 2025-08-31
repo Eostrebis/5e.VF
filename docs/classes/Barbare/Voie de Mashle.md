@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Vous êtes un magicien ! Peut-être avez-vous obtenu une bourse sportive pour aller à l'Université de Magie, ou bien peut-être avez-vous lu le livre qui traînait dans la rue. Peu importe comment, vous êtes un magicien, un qui a de bons gros muscles. Eh, vous avez même le chapeau bizarre et le livre rempli de gribouillis incompréhensibles.
 

@@ -16,6 +16,6 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Instant Replay
-step: empty
+status: empty
 ---
 La prochaine fois que vous ratez une créature avec une attaque avant que ce sort ne termine, vous pouvez instantanément vous réinitialiser au moment juste avant l'attaque et la répéter contre la même cible.

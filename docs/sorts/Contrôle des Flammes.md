@@ -17,7 +17,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Control Flames
-step: empty
+status: empty
 ---
 Vous choisissez des flammes non magiques que vous pouvez voir et qui tiennent dans un cube de 5 ft. de côté. Vous leur appliquez l'un des effets suivants : 
 

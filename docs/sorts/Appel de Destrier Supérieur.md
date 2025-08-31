@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Find Steed
-step: empty
+status: empty
 ---
 

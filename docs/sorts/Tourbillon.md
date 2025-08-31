@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Whirlwind
-step: empty
+status: empty
 ---
 

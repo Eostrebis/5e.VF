@@ -1,11 +1,11 @@
 ---
-step: empty
+status: finished
 ---
-La transition de la lumière à l'obscurité amène souvent calme ou même joie, alors que la journée de travail se termine et que le repos peut commencer. L'obscurité peut également être source de terreur, mais les dieux du crépuscules protègent contre les horreurs de la nuit.
+La transition de la lumière à l'obscurité amène souvent calme ou même joie, alors que la journée de travail se termine et que le repos peut commencer. L'obscurité peut également être source de terreur, mais les dieux du crépuscule protègent contre les horreurs de la nuit.
 
-Les clercs qui servent ces déités prodiguent confort et protection à ceux qui cherchent le repos en s'aventurant eux-même dans l'obscurité.
+Les clercs qui servent ces déités prodiguent confort et protection à ceux qui cherchent le repos en s'aventurant eux-mêmes dans l'obscurité.
 
-**Sorts du Domaine du Crépscule**
+**Sorts du Domaine du Crépuscule**
 
 | Niveau de Sort | Sorts                                             |
 | -------------- | ------------------------------------------------- |

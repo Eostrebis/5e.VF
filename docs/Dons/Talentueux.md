@@ -1,6 +1,6 @@
 ---
 englishname: Skilled
 requis:
-step: empty
+status: empty
 ---
 Vous maîtrisez trois nouveaux outils ou compétences.

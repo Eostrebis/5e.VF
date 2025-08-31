@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Humoristes talentueux, acrobates et orateurs, les bardes du collège des bouffons se trouvent aussi bien dans les cours royales que dans la taverne du coin. Ces bardes se spécialisent dans la vérité par l'humour cinglant plutôt que par le sonnet et accompagnent leurs propos assassins de galipettes ou autres exploits spectaculaires. Lorsqu'ils sont entourés de nobles, ces bardes offrent satyres, moqueries et conseils avisés en proportions égales. Ces bardes font de très bons compagnons de voyage, tant que vous ayez un peu de second degré.
 
@@ -13,8 +13,8 @@ Lorsque vous choisissez ce collège au niveau 3, vous apprenez le cantrip [[moqu
 
 ## Jonglage
 
-Au niveau 6, vous êtes reconnu comme un jongleur hors-pair. Vous pouvez utiliser votre action bonus pour commencer à jongler avec un nombre d'armes de jet égal au maximum au double de votre bonus de maîtrise. Une fois à chaque de vos tours, lorsque vous utilisez votre action pour attaquer en jetant une arme, vous déplacer hors de la portée d'une créature ou lancer le cantrip [[moquerie cruelle]], vous pouvez réaliser un jet d'attaque à distance contre une créature que vous pouvez voir en utilisant une des armes jonglées.
+Au niveau 6, vous êtes reconnu comme un jongleur hors pair. Vous pouvez utiliser votre action bonus pour commencer à jongler avec un nombre d'armes de jet égal au maximum au double de votre bonus de maîtrise. Une fois à chaque de vos tours, lorsque vous utilisez votre action pour attaquer en jetant une arme, vous déplacer hors de la portée d'une créature ou lancer le cantrip [[moquerie cruelle]], vous pouvez réaliser un jet d'attaque à distance contre une créature que vous pouvez voir en utilisant une des armes jonglées.
 
 ## Bouquet Final
 
-À partir du niveau 14, vous pouvez réaliser une acrobatie extraordinaire pour conclure un discours captivant ou terminer une chanson avec brio. Lorsque vous utilisez cette compétence, vous pouvez prendre une action supplémentaire. Vous ne pouvez pas utiliser cette compétence pendant le premier tour d'un combat. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas prendre d'action ou d'action bonus pendant votre prochain tour.
+À partir du niveau 14, vous pouvez réaliser une acrobatie extraordinaire pour conclure un discours captivant ou terminer une chanson avec brio. Lorsque vous utilisez cette compétence, vous pouvez prendre une action supplémentaire. Vous ne pouvez pas utiliser cette compétence pendant le premier tour d'un combat. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas prendre d'action ou d'action bonus pendant votre prochain tour

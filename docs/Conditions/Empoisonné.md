@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
  <div class="warning" style='background-color:var(--bg); border-left: solid var(--title) 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>

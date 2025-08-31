@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Grasping Vine
-step: empty
+status: empty
 ---
 

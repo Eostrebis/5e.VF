@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Gift of Gab
-step: empty
+status: empty
 ---
 

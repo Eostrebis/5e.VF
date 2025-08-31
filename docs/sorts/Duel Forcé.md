@@ -14,7 +14,7 @@ Portée: 30 ft.
 Concentration: true
 Rituel:
 englishname: Compelled Duel
-step: empty
+status: empty
 ---
 Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit réaliser un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle réalise contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.
 

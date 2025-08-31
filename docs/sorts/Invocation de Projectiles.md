@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Conjure Barrage
-step: empty
+status: empty
 ---
 

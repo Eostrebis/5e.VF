@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Les capitaines arborant l'étendard de Dragon sont parmi les meilleurs guerriers à fouler les champs de bataille. Armés avec une variété de manœuvres létales, ces capitaines s'attaquent aux combattants les moins aguerris avec aise et renversent des batailles par eux-mêmes, si besoin. Le visage de l'étendard de dragon inspire tout autant la peur et la loyauté, car le carnage et le bain de sang qu'il laisse dans son sillage en disent long sur son habileté.
 

@@ -1,7 +1,7 @@
 ---
 search:
   exclude: true
-step: empty
+status: empty
 ---
 | Grand Maléfice         | Description                                                                  |
 | ---------------------- | ---------------------------------------------------------------------------- |

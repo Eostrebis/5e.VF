@@ -1,4 +1,4 @@
 ---
-step: finished
+status: finished
 ---
 En mélangeant de la poudre d'un cristal psionique au contenu explosif de votre bombe, vous pouvez la transformer en bombe psionique. Une bombe psionique inflige des dégâts psychiques plutôt que de feu, ses dés de dégâts sont des d6s, et elle requiert un jet de sauvegarde de Sagesse plutôt que de Dextérité. De plus, la cible, ainsi que toutes les créatures dans le rayon d'explosion qui ratent leur jet de sauvegarde, ont le désavantage à leur jet de Constitution pour maintenir leur concentration jusqu'à la fin de leur prochain tour, y compris contre les dégâts de cette même bombe.

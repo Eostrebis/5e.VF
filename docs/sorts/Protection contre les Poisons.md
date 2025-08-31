@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Protection from Poison
-step: empty
+status: empty
 ---
 

@@ -15,6 +15,6 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Springheel
-step: empty
+status: empty
 ---
 Vous inondez de magie vos jambes, vous permettant de bondir dans les airs sans élan. Lorsque vous lancez ce sort, votre distance de saut augmente de 10 ft. jusqu'au début de votre prochain tour, et vous n'avez plus besoin d'élan.

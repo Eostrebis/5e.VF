@@ -1,5 +1,5 @@
 ---
 englishname:
 requis:
-step: empty
+status: empty
 ---

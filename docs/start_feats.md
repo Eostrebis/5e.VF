@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Dons de Départ
-step: empty
+status: empty
 ---
 | Starter Feat          | Don de Départ                       |
 | --------------------- | ----------------------------------- |

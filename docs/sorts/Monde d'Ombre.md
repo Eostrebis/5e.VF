@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shadow World
-step: empty
+status: empty
 ---
 

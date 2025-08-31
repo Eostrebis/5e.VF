@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Lorsque vous enfilez votre masque, vous n'êtes plus un simple (bien qu'incroyablement séduisant) citoyen, vous êtes le plus grand lutteur que ce monde n'ait connu. Vous lutteriez n'importe qui - ou n'importe quoi - à portée de bras. Parfois, vous luttez même des objets inanimés comme ça, juste parce que vous pouvez. Et cette fois où vous avez lutté contre un hibours ? Ca s'est passé. Pour de vrai !
 

@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Armure Légendaire_
 __Composantes :__ Armure moyenne exotique chef-d'œuvre

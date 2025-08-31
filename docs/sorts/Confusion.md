@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Confusion
-step: empty
+status: empty
 ---
 

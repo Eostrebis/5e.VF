@@ -4,7 +4,7 @@ coût: 850
 poids: 10
 englishname: Grenade Launcher
 Ère: Moderne
-step: empty
+status: empty
 ---
 
 | Dégâts     | Propriétés                                                    |

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Speak with Plants
-step: empty
+status: empty
 ---
 

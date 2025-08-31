@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Devilish Hunt
-step: empty
+status: empty
 ---
 

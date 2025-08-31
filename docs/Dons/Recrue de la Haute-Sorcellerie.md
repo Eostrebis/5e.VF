@@ -1,7 +1,7 @@
 ---
 englishname: Initiate of High Sorcery
 requis: Magicien, Ensorceleur, Nécromancien, ou historique de Mage de la Haute-Sorcellerie
-step: empty
+status: empty
 ---
 Vous avez reçu un entraînement de la part d'utilisateurs de la magie affiliés à la Haute-Sorcellerie.
 

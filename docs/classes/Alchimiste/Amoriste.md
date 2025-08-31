@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 L'étude de l'alchimie affectant l'esprit est délicate, pratiquée seulement par une poignée d'alchimistes, appelées amoristes. Souvent surnommés "docteur de l'amour" par leurs clients, les amoristes se spécialisent dans la concoction de potions qui produisent des émotions fortes chez ceux qui les consomment. Si les potions d'amour sont leurs produits phares, les amoristes peuvent aussi produire de terrifiantes bombes de phéromones qui peuvent même amadouer le cœur des monstres les plus terribles.
 

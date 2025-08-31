@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Mirror Image
-step: empty
+status: empty
 ---
 

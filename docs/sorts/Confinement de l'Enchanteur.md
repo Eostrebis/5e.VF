@@ -17,6 +17,6 @@ Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Enchanter's Lockdown
-step: empty
+status: empty
 ---
 Vous influez une zone d'un rayon de 20 ft. d'une énergie chaotique, empêchant toute incantation de sort de niveau inférieur ou égal à 3.

@@ -1,4 +1,4 @@
 ---
-step: empty
+status: empty
 ---
 Peu importe combien vous mangez, la nourriture se transforme en cendre dans votre bouche. Votre malédiction vous nourrit, mais seulement à la limite de la famine, et vous êtes constamment tiraillée par la faim. Vous n'avez pas besoin de boire ou manger, mais vous pouvez toujours consommer et profiter des potions. De plus, vous êtes immunisée contre le fait d'être [[empoisonné|empoisonnée]].

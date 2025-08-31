@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Gaseous Form
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Life Transference
-step: empty
+status: empty
 ---
 

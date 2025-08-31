@@ -19,7 +19,7 @@ Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Banishment
-step: empty
+status: empty
 ---
 Vous tentez d'envoyer dans un autre plan d'existence une créature à portée que vous pouvez voir. La cible doit réussir un jet de sauvegarde de Charisme sous peine d'être bannie.  
 

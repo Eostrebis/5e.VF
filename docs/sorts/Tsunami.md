@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Tsunami
-step: empty
+status: empty
 ---
 

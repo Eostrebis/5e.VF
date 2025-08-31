@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Fell Onslaught
-step: empty
+status: empty
 ---
 

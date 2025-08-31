@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Find the Path
-step: empty
+status: empty
 ---
 

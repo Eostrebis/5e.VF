@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Undertow
-step: empty
+status: empty
 ---
 

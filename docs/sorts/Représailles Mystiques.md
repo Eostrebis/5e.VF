@@ -14,6 +14,6 @@ Portée: Personnelle
 Concentration:
 Rituel:
 englishname: Mystic Rebuke
-step: empty
+status: empty
 ---
 Lorsque vous prenez des dégâts par un sort, vous pouvez utiliser votre réaction pour renvoyer magiquement la moitié des dégâts au lanceur de sort. Vous prenez les dégâts restants.

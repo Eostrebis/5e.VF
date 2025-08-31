@@ -1,5 +1,5 @@
 ---
-step: empty
+status: wip
 ---
 Fredonnant tout en passant ses doigts le long d'un vieux monument au milieu de ruines oubliées, une demie-elfe habillée de cuir se retrouve l'esprit emplit de savoir, conjurée par la magie de sa chanson — du savoir sur qui a construit ce monument et la formidable histoire qu'il raconte.
 

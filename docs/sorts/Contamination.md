@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Harm
-step: empty
+status: empty
 ---
 

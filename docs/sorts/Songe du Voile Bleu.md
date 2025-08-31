@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dream
-step: empty
+status: empty
 ---
 

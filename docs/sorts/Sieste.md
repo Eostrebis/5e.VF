@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Catnap
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Pass Without Trace
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Douse
-step: empty
+status: empty
 ---
 

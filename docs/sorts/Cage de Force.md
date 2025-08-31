@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Forcecage
-step: empty
+status: empty
 ---
 

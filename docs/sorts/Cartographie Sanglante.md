@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Blood Cartography
-step: empty
+status: empty
 ---
 

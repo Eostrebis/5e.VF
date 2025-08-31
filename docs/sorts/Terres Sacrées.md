@@ -15,6 +15,6 @@ Portée: Personnelle (rayon de 10 ft.)
 Concentration: false
 Rituel: false
 englishname: Sanctify Ground
-step: empty
+status: empty
 ---
 Vous bénissez le sol dans une zone de 10 ft. autour de vous. Pendant la durée du sort, les morts-vivants et fiélons ont le désavantage aux jets d'attaque réalisés dans cette zone.

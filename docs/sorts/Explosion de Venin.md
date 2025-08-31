@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Venom Blast
-step: empty
+status: empty
 ---
 

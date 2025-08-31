@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Contact Other Plane
-step: empty
+status: empty
 ---
 

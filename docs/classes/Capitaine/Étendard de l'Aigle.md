@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Avec des yeux perçants et des flèches encore plus, les capitaines de l'Aigle cherchent à devenir des seigneurs de la vitesse et du combat à distance, maîtrisant arcs, frondes et balistes de la même façon. De tels capitaines sont tout aussi dangereux au corps-à-corps que perchés à l'horizon, puisqu'ils sont capables de parfaitement viser leur arc ou leur arbalète même à bout portant.
 

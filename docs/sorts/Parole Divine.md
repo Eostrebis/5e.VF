@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Divine Word
-step: empty
+status: empty
 ---
 

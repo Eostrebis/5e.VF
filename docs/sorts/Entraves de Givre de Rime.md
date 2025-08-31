@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Rime's Binding Ice
-step: empty
+status: empty
 ---
 

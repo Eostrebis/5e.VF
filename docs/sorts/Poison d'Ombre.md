@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shadow Toxin
-step: empty
+status: empty
 ---
 

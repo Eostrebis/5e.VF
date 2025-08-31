@@ -15,7 +15,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eye of Anubis
-step: empty
+status: empty
 ---
 Un rayon de lumière lunaire et sombre s'échappe de votre œil gauche vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas utiliser son action pour se désengager avant la fin de votre prochain tour.
 

@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 L'étude de l'alchimie est fondamentalement l'étude de la transformation. Tous les alchimistes transmutent des matériaux anodins en substances magiques — potions, élixirs et bombes -, mais certains vont encore un cran plus loin. Vous avez découvert les secrets du mutagène, l’élément clé de la transmutation, qui vous permet de transformer votre propre corps, vous procurant une force ou une vitesse surnaturelle, faisant pousser des membres supplémentaires ou des griffes, ou même durcissant votre peau.
 

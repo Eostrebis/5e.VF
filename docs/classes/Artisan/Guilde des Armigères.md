@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Les Armigères dévouent leurs compétences à l'art de la forge d'armure, avec la ferme croyance que la bonne plaque à la bonne place rend un guerrier invincible.
 

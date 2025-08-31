@@ -3,7 +3,7 @@ type: Poison
 coût: 1200
 poids: 0.5
 englishname: Wyvern Poison
-step: empty
+status: empty
 ---
 Ce poison doit être récolté sur un [[wyverne]] mort ou [[incapacité]]. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 15 ou prendre 24 (7d6) dégâts de poison. Si elle réussit, elle ne prend que la moitié des dégâts.
 

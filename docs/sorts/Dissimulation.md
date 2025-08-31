@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Sequester
-step: empty
+status: empty
 ---
 

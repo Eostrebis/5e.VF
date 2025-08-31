@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Break
-step: empty
+status: empty
 ---
 

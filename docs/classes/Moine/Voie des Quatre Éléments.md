@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Vous suivez une tradition monastique qui vous a appris à manier les éléments. Lorsque vous concentrez votre ki, vous pouvez vous aligner avec les forces de la création et tordre les éléments à votre volonté, et les utiliser comme une extension de votre corps. Certains membres de cette tradition se dévoue à un seul élément, mais la plupart manipule les éléments en harmonie.
 

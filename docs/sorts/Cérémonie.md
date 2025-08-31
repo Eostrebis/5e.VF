@@ -16,7 +16,7 @@ Portée: Touché
 Concentration: false
 Rituel: true
 englishname: Ceremony
-step: empty
+status: empty
 ---
 Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, les cibles duquel doivent se trouver à 10 ft. de vous pendant l'incantation.
 

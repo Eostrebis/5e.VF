@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Circle of Power
-step: empty
+status: empty
 ---
 

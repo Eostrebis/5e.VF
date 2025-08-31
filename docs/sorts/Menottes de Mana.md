@@ -14,7 +14,7 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Mana Shackle
-step: empty
+status: empty
 ---
 Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dissipé prématurément, vous prenez 1d4 dégâts psychiques.
 

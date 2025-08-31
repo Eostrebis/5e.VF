@@ -1,7 +1,7 @@
 ---
-step: empty
+status: finished
 ---
-Les membres du Collège de l'Éloquence sont maîtres des arts oratoires. La persuasion est reconnue comme un grand art et un argument bien pensé et bien amené est souvent plus persuasif que les faits. Ces bardes manient la logique et les jeux de mots théâtraux, convaincant sceptiques et détracteurs avec des arguments logiques et jouant sur les fibres sentimales afin de toucher les émotions des audiences.
+Les membres du Collège de l'Éloquence sont maîtres des arts oratoires. La persuasion est reconnue comme un grand art et un argument bien pensé et bien amené est souvent plus persuasif que les faits. Ces bardes manient la logique et les jeux de mots théâtraux, convaincant sceptiques et détracteurs avec des arguments logiques et jouant sur les fibres sentimentales afin de toucher les émotions des audiences.
 
 ## Langue d'Argent
 
@@ -17,12 +17,12 @@ Au niveau 6, vos mots inspirants sont si persuasifs que les autres ne peuvent s'
 
 ## Discours Universel
 
-Également au niveau 6, vous obtenez la capacité de rendre votre discours compréhensible par n'importe quelle créature. Pour une action, choisissez une créature ou plus à 60 ft, d'un nombre inférieur à votre modificateur de Charisme (au moins 1). Les créatures choisies peuvent magiquement vous comprendrez, peu importe la langue que vous parlez, pendant 1 heure.
+Également au niveau 6, vous obtenez la capacité de rendre votre discours compréhensible par n'importe quelle créature. Pour une action, choisissez une créature ou plus à 60 ft, d'un nombre inférieur à votre modificateur de Charisme (au moins 1). Les créatures choisies peuvent magiquement vous comprendre, peu importe la langue que vous parlez, pendant 1 heure.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire avant d'avoir terminé un repos long, sauf si vous utilisez un emplacement de sort pour le faire.
 
 ## Inspiration Infectieuse
 
-À partir du niveau 14, lorsque vous réussissez à inspirer quelqu'un, le pouvoir de votre éloquence se propage à un autre. Lorsqu'une créature à 60 ft. de vous ajoute un de vos dés d'Inspiration Bardique à un jet, vous pouvez utiliser votre réaction pour encourager une autre créature (sauf vous) qui peut vous entendre à 60 ft., lui conférant un dé d'Inspiration Bardique sans avoir à dépenser une charge.
+À partir du niveau 14, lorsque vous réussissez à inspirer quelqu'un, le pouvoir de votre éloquence se propage à un autre. Lorsqu'une créature à 60 ft. de vous ajoute un de vos dés d'Inspiration Bardique à un jet, vous pouvez utiliser votre réaction pour encourager une autre créature (excepté vous) qui peut vous entendre à 60 ft., lui conférant un dé d'Inspiration Bardique sans avoir à dépenser une charge.
 
 Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

@@ -13,7 +13,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Thaumaturgy
-step: empty
+status: empty
 ---
 Vous manifestez un signe de pouvoir surnaturel à portée. Vous créez l'un des effets magiques suivants : 
 

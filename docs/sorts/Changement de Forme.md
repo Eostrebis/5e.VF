@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shapechange
-step: empty
+status: empty
 ---
 

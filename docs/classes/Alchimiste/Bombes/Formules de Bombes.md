@@ -1,7 +1,7 @@
 ---
 search:
   exclude: true
-step: finished
+status: finished
 ---
 Les formules de bombes sont résumées dans la table suivante. Les bombes qui ne sont disponibles que pour un champ d'étude particulier sont marquées par un astérisque. Sauf si précisé, les bombes produisent toute une explosion audible à 1.5 km. Les bombes sont présentées dans l'ordre alphabétique.
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hallucinatory Terrain
-step: empty
+status: empty
 ---
 

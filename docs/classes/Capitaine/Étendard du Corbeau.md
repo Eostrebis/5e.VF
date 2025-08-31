@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 L'Étendard du Corbeau symbolise un capitaine clandestin qui préfère la discrétion à l'action et les embuscades aux combats ouverts. Si on le force, un capitaine du Corbeau peut se retrouver dans une confrontation directe, mais on ne peut jamais s'attendre à ce qu'il joue franc-jeu. Ces capitaines ont généralement plus de points communs avec les roublards, et certains sont même des haut placés dans des guildes de voleurs. Plus d'un maître de guilde et de chef de bandits ont fait voler l'Étendard du Corbeau pendant un pillage.
 

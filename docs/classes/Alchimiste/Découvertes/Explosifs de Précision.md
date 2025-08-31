@@ -1,4 +1,4 @@
 ---
-step: finished
+status: finished
 ---
 Vous avez modifié vos bombes pour qu'il y ait de légers creux dans leurs explosions, parfait pour garder à l'abri quelques créatures du souffle. Vous pouvez choisir une créature dans le rayon d'explosion de la bombe, autre que la cible, qui réussira automatiquement son jet de sauvegarde et ne prendra pas de dégâts.

@@ -1,4 +1,4 @@
 ---
-step: empty
+status: empty
 ---
 À travers votre malédiction, vous avez oublié les manières et us des hommes civilisés et êtes partie vivre au milieu des bêtes sauvages. Vous maîtrisez la compétence Survie. De plus, tant que vous ne portez ni armure ni bouclier, votre CA est égale à 13 + votre modificateur de Dextérité.

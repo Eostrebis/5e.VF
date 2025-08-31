@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Symbol
-step: empty
+status: empty
 ---
 

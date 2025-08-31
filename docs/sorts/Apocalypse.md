@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Armageddon
-step: empty
+status: empty
 ---
 

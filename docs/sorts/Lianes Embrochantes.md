@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Skewering Vines
-step: empty
+status: empty
 ---
 

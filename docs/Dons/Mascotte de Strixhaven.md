@@ -1,7 +1,7 @@
 ---
 englishname: Strixhaven Mascot
 requis: Niveau 4, Recrue de Strixhaven
-step: empty
+status: empty
 ---
 Vous avez appris à invoquer une mascotte de Strixhaven pour vous aider, et bénéficiez des effets suivants : 
 

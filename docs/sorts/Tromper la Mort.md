@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Feign Death
-step: empty
+status: empty
 ---
 

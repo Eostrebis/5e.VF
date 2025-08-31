@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Web
-step: empty
+status: empty
 ---
 

@@ -1,7 +1,7 @@
 ---
 englishname: Fey Teleportation
 requis: Haut-Elfe
-step: empty
+status: empty
 ---
 Votre étude de l'histoire elfique haut a débloqué en vous un pouvoir féerique que seulement quelques autres elfes possèdent, si ce n'est vos cousins eladrins. Puisant dans votre ascendance féerique, vous pouvez momentanément utiliser la Féerie pour raccourcir votre chemin d'un endroit à un autre. Vous bénéficiez des effets suivants : 
 

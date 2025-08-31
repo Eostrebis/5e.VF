@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 L'église a depuis longtemps été la première ligne de défense contre les vagues déferlantes de ténèbres. Cependant, le dévouement obstiné du clergé à la morale les handicape quand c'est nécessaire : vous devez parfois accepter de faire le mal pour contrer le mal. C'est là que l'inquisition entre en jeu.
 

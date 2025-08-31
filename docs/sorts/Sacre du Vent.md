@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Investiture of Wind
-step: empty
+status: empty
 ---
 

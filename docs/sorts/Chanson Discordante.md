@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shattersong
-step: empty
+status: empty
 ---
 

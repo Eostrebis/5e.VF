@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Pour une action, vous pouvez renforcer votre familier. Pendant 1 minute, ses points de vie maximums et actuels sont augmentés d'un montant égal à deux fois votre niveau de sorcière, et il gagne un bonus à ses jets de dégâts égal à votre modificateur de Charisme.
 

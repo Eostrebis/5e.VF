@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Le dieu dragon [[TODO bahamut]] est connu pour arpenter le Plan Matériel déguisé comme un vieux moine, et la légende raconte qu'il a fondé le premier monastère de la voie du dragon ascendant sous cette forme. L'enseignement fondamental de cette tradition soutient qu'en imitant les dragon, un moine peut s'intégrer efficacement avec le monde et sa magie. En changeant leurs esprits pour résonner avec la grandeur draconique, les moines qui suivent cette tradition augmentent leurs prouesses de bataille, renforcent leurs alliés, et peuvent même fendre le ciel de leurs ailes draconiques. Mais tout ce pouvoir est au service d'un but supérieur : achever une unité spirituelle avec l'essence même du Plan Matériel.
 

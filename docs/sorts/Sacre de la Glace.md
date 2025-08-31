@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Investiture of Ice
-step: empty
+status: empty
 ---
 

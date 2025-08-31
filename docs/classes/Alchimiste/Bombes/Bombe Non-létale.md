@@ -1,4 +1,4 @@
 ---
-step: finished
+status: finished
 ---
 En remplaçant le contenu explosif de la bombe par une bourse de balles en caoutchouc, vous pouvez la changer en bombe non létale. Une bombe non létale inflige des dégâts contondants plutôt que de feu, et ses dés de dégâts sont des d8s. Si les dégâts de la bombe font tomber une créature à 0 point de vie, cela assomme la créature plutôt que de lui infliger un coup de grâce, rendant la créature inconsciente, mais stable. De plus, les balles en caoutchouc rebondissent autour des coins, ignorant les couvertures de moitié et de trois-quarts pour les cibles dans le rayon d'explosion.

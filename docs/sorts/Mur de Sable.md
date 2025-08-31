@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Sand
-step: empty
+status: empty
 ---
 

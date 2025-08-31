@@ -3,7 +3,7 @@ type: Arme à Feu Martiale
 coût: 200
 poids: 7
 englishname: Pump Shotgun
-step: empty
+status: empty
 ---
 
 | Dégâts       | Propriétés                                                                         |

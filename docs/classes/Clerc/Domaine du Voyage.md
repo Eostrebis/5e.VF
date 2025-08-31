@@ -1,7 +1,7 @@
 ---
-step: empty
+status: finished
 ---
-Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du voyage sont populaires chez tous ceux qui parcourent les routes ou s'aventurent sur les mers. Les évangéliste et prêtres itinérants tendent également à vénérer de tels dieux.
+Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du voyage sont populaires chez tous ceux qui parcourent les routes ou s'aventurent sur les mers. Les évangélistes et prêtres itinérants tendent également à vénérer de tels dieux.
 
 **Sorts du Domaine du Voyage**
 
@@ -21,7 +21,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quat
 
 À partir du niveau 1, votre dieu accélère vos foulées et vous souffle dans le dos. Vous pouvez utiliser votre action bonus pour vous déplacer de 10 ft. sans provoquer d'attaque d'opportunité.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse. Vous regagnez les utilisation dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse. Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Canal Divin : Transposition Divine
 
@@ -29,7 +29,7 @@ Vous pouvez utiliser cette compétence un nombre de fois égal à votre modifica
 
 ## Expédition Étrangère
 
-Au niveau 6, en voyageant, vous et jusqu'à 10 créature voyageant avec vous vous déplacez avec une facilité surnaturelle. Vous voyagez toujours à un rythme soutenu et ignorez les délais causés par du terrain difficile, la météo ou d'autres obstacles non magiques. Vous ignorez de la même façon les dangers provoqués par le voyages vers d'autres plans. De plus, vous pouvez voyagez pour 12 heures plutôt que 8 avant de devoir réaliser un jet de sauvegarde Constitution de marche forcée.
+Au niveau 6, en voyageant, vous et jusqu'à 10 créatures voyageant avec vous vous déplacez avec une facilité surnaturelle. Vous voyagez toujours à un rythme soutenu et ignorez les délais causés par du terrain difficile, la météo ou d'autres obstacles non magiques. Vous ignorez de la même façon les dangers provoqués par les voyages vers d'autres plans. De plus, vous pouvez voyager pour 12 heures plutôt que 8 avant de devoir réaliser un jet de sauvegarde Constitution de marche forcée.
 
 Enfin, vous n'êtes pas concerné par le terrain difficile.
 

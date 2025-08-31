@@ -18,6 +18,6 @@ Portée: Personnelle
 Concentration: true
 Rituel: false
 englishname: Temporal Potion Heaven
-step: empty
+status: empty
 ---
 Une magie chronomancienne vous insuffle, vous plaçant sur un plan temporel différent. Pendant 1 minute, vous êtes immunisés contre tous les dégâts, mais la seule action que vous pouvez entreprendre est de consommer des potions.

@@ -1,7 +1,7 @@
 ---
 englishname: Dragon Hide
 requis: Drakéïde
-step: empty
+status: empty
 ---
 Vos écailles et vos griffes, signes de votre ascendance draconique, deviennent encore plus marquées. Vous bénéficiez des effets suivants : 
 

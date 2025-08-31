@@ -16,7 +16,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Command
-step: empty
+status: empty
 ---
 Vous prononcer une injonction d'un mot à une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou suivre l'ordre pendant son prochain tour. Le sort n'a aucun effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si l'injonction lui est directement néfaste.
 

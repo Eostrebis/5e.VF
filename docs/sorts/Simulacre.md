@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Simulacrum
-step: empty
+status: empty
 ---
 

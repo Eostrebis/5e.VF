@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hellish Halo
-step: empty
+status: empty
 ---
 

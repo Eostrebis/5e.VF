@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Incite Greed
-step: empty
+status: empty
 ---
 

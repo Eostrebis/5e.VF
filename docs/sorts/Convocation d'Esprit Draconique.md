@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Summon Draconic Spirit
-step: empty
+status: empty
 ---
 

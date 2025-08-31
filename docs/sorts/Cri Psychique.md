@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Psychic Scream
-step: empty
+status: empty
 ---
 

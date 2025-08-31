@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Snare
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Plane Shift
-step: empty
+status: empty
 ---
 

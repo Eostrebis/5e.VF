@@ -16,6 +16,6 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Scrutinize Foe
-step: empty
+status: empty
 ---
 Vous discernez les détails les plus petits concernant une créature que vous pouvez voir à portée. Vous apprenez deux des informations suivantes de votre choix à propos de la cible : sa CA, ses points de vie actuels, ses immunités aux conditions, ses immunités aux dégâts, ses résistances aux dégâts, ses vulnérabilités aux dégâts et ses enchantements (qui révèlent tous les sorts qui l'affectent).

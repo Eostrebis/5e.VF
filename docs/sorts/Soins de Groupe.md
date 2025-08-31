@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Cure Wounds
-step: empty
+status: empty
 ---
 

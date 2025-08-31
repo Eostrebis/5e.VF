@@ -3,7 +3,7 @@ type: Arme de Mêlée Simple
 coût: 5
 poids: 4
 englishname: Mace
-step: empty
+status: empty
 ---
 | Dégâts          | Propriétés |
 | --------------- | ---------- |

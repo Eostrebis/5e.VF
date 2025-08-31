@@ -1,4 +1,4 @@
 ---
-step: empty
+status: empty
 ---
 ![[Margaux.jpg]]

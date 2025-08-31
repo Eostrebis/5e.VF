@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Guards and Wards
-step: empty
+status: empty
 ---
 

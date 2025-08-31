@@ -1,7 +1,7 @@
 ---
 englishname: Field Commander
 requis:
-step: empty
+status: empty
 ---
 Sous votre commandement, vos alliés combattent tels une unité soudée, manœuvrant et encerclant leurs ennemis. Vous bénéficiez des effets suivants : 
 

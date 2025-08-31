@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Steel Wind Strike
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Force
-step: empty
+status: empty
 ---
 

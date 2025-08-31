@@ -4,7 +4,7 @@ coût: 100
 poids: 3
 englishname: Handgun
 Ère: Moderne
-step: empty
+status: empty
 ---
 
 | Dégâts       | Propriétés                                   |

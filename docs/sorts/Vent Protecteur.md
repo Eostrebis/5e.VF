@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Warding Wind
-step: empty
+status: empty
 ---
 

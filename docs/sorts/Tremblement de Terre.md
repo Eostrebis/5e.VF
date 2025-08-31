@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Earthquake
-step: empty
+status: empty
 ---
 

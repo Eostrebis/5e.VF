@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Spiritual Weapon
-step: empty
+status: empty
 ---
 

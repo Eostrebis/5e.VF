@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 >## Champion
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Ooze
-step: empty
+status: empty
 ---
 

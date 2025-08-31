@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Prismatic Wall
-step: empty
+status: empty
 ---
 

@@ -18,7 +18,7 @@ Portée: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Lightning Surge
-step: empty
+status: empty
 ---
 Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de foudre.
 

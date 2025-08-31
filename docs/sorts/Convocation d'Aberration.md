@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Summon Aberration
-step: empty
+status: empty
 ---
 

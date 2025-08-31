@@ -3,7 +3,7 @@ type: Potion
 rareté: Peu commun
 attunement:
 attdet:
-step: empty
+status: empty
 ---
 Cette concoction a l'apparence, l'odeur et le goût d'une [[potion de soins]]. Néanmoins, ce n'est qu'un poison caché par une magie d'illusion. Un sort d'[[identification]] permet de révéler la véritable nature du liquide.
 

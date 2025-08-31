@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Tree Stride
-step: empty
+status: empty
 ---
 

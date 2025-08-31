@@ -14,7 +14,7 @@ Portée: 30 ft. (30 ft. en ligne)
 Concentration:
 Rituel:
 englishname: Aganazzar's Scorcher
-step: empty
+status: empty
 ---
 Une ligne de flammes rugissantes  de 30 ft. (9m/6 cases) de long et 5 ft. (1.5m/1 case) de large émane de vous dans une direction que vous choisissez. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité, subissant `dice:3d8|avg` dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 

@@ -1,7 +1,7 @@
 ---
-step: empty
+status: finished
 ---
-Pendant des siècles, le pinacle des véhicules mécanisés était la [[machine du crabe]], un objet singulier capable d'explorer les environnements inhospitaliers, des fonds de mer au champs volcaniques. Cependant, les artisans ambitieux de la guilde des Mécanautes ont pensé un nouveau véhicule, plus impressionnant et plus customisable que l'ancienne machine. Cet appareil est une forteresse mobile, équipé de poings sauvages, de jambes solides et d'améliorer pour contrôler le climat -- un véhicule pour surpasser les autres, un véritable exploit d'ingénierie.
+Pendant des siècles, le pinacle des véhicules mécanisés était la [[machine du crabe]], un objet singulier capable d'explorer les environnements inhospitaliers, des fonds de mer aux champs volcaniques. Cependant, les artisans ambitieux de la guilde des Mécanautes ont pensé un nouveau véhicule, plus impressionnant et plus customisable que l'ancienne machine. Cet appareil est une forteresse mobile, équipé de poings sauvages, de jambes solides et d'améliorer pour contrôler le climat — un véhicule pour surpasser les autres, un véritable exploit d'ingénierie.
 
 ## Appareil du Mécanaute
 
@@ -11,7 +11,7 @@ __Statistiques de l'Appareil.__ La Classe d'Armure de l'appareil est basée sur 
 
 __Personnaliser l'Appareil.__ Votre appareil est équipé de deux armes chefs-d'œuvre, que vous pouvez modifier avec des propriétés de chef-d'œuvre ou remplacer par d'autres armes lorsque vous terminez un repos long. Seulement une des armes peut être à distance. De plus, vous ne pouvez charger ou recharger une arme de distance qu'en utilisant votre action à l'intérieur lorsque vous êtes dans l'appareil (ou deux actions si l'arme a la propriété Montée). Votre appareil maîtrise toujours les armes installées, et peut utiliser des armes chefs-d'œuvre avec des propriétés de niveau Maître ou Légendaire. 
 
-__Réparer l'Appareil.__ Lorsque l'appareil tombe à 0 point de vie, il ne peut plus bouger ou agir, mais il peut être réparé. Vous pouvez passer 1 minute à lui restaurer sa capacité à se déplacer à mi vitesse, qu'il perd s'il reprend des dégâts avant d'avoir été réparé.
+__Réparer l'Appareil.__ Lorsque l'appareil tombe à 0 point de vie, il ne peut plus bouger ou agir, mais il peut être réparé. Vous pouvez passer 1 minute à lui restaurer sa capacité à se déplacer à mi-vitesse, qu'il perd s'il reprend des dégâts avant d'avoir été réparé.
 
 Vous pouvez réparer votre appareil à la fin d'un repos cours en dépensant vos dés de vie, pour qu'il regagne des points de vie comme s'il finissait un repos court. Lorsque vous terminez un repos long, vous pouvez réparer votre appareil, le faisant regagner tous ses points de vie. Vous avez toujours suffisamment de matériaux sur vous pour réparer votre appareil. Si vous perdez votre appareil, vous pouvez en fabriquer un nouveau pour 400 PO.
 
@@ -23,11 +23,11 @@ Une seule créature peut piloter l'appareil à la fois. Le pilote prend la moiti
 
 Lorsque vous êtes hors de l'appareil, vous pouvez lui ordonner de vous suivre ou de vous attendre. Lorsqu'il vous suit, il se déplace pendant ses tours pour être à 30 ft. de vous.
 
-__Attaquer avec l'Appareil.__ L'appareil attaque avec ses armes installés comme s'il les maniait, et utilise votre modificateur de Dextérité ou d'Intelligence (votre choix) pour les jets d'attaque et de dégâts, en utilisant le même pour les deux. Lorsque vous utilisez votre action pour attaquer, il réalise le même nombre d'attaques que vous réaliseriez.
+__Attaquer avec l'Appareil.__ L'appareil attaque avec ses armes installées comme s'il les maniait, et utilise votre modificateur de Dextérité ou d'Intelligence (votre choix) pour les jets d'attaque et de dégâts, en utilisant le même pour les deux. Lorsque vous utilisez votre action pour attaquer, il réalise le même nombre d'attaques que vous réaliseriez.
 
 ## Amélioration du Cockpit
 
-Au niveau 3, vous pouvez personnaliser votre appareil en améliorant le compartiment de pilotage. Choisissez l'une des amélioration suivantes :
+Au niveau 3, vous pouvez personnaliser votre appareil en améliorant le compartiment de pilotage. Choisissez l'une des améliorations suivantes :
 
 __Équipements Confortables.__ L'intérieur de l'appareil est particulièrement confortable, peut-être même jusqu'à inclure une couette chaude et des oreillers. Vous pouvez dormir tout en étant dans l'appareil sans malus.
 
@@ -37,7 +37,7 @@ __Enceinte.__ L'appareil est équipé d'un système qui amplifie de trois fois l
 
 ## Amélioration de Membre
 
-Au niveau 7, vous avez redesigné les jambes de votre appareil pour obtenir une meilleure mobilité. Choisissez l'une des améliorations suivantes : 
+Au niveau 7, vous avez redessiné les jambes de votre appareil pour obtenir une meilleure mobilité. Choisissez l'une des améliorations suivantes : 
 
 __Jambes Arachnotrones.__ L'appareil peut se déplacer le long des surfaces verticales et des plafonds et il gagne une vitesse d'escalade égale à sa vitesse de marche.
 
@@ -47,7 +47,7 @@ __Structure Télescopique.__ Lorsque l'appareil n'est pas habité, vous pouvez u
 
 ## Siège Passager
 
-A partir du niveau 10, vous avez installé un second siège dans le cockpit, qui nécessite une action pour être entré et quitté. Une créature ne peut piloter l'appareil depuis ce siège, mais profite de la couverture totale contre les effets extérieurs.
+À partir du niveau 10, vous avez installé un second siège dans le cockpit, qui nécessite une action pour être entré et quitté. Une créature ne peut piloter l'appareil depuis ce siège, mais profite de la couverture totale contre les effets extérieurs.
 
 ## Amélioration d'Attachement
 

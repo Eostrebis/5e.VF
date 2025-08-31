@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Summon Shadowspawn
-step: empty
+status: empty
 ---
 

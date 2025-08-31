@@ -15,7 +15,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Séance
-step: empty
+status: empty
 ---
 Vous et au moins trois créatures consentantes vous donnez les mains pendant un moment de méditation pour conjurer un esprit d'au-delà la mort pour répondre à vos questions. Décrivez ou appelez une créature qui vous est familière. Si l'âme de la créature est libre et consentante, elle se manifeste devant vous en un spectre fantomatique. Ce sort échoue si l'esprit était déjà la cible de ce sort il y a moins de 10 jours.
 

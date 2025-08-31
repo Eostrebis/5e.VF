@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Power Word Pain
-step: empty
+status: empty
 ---
 

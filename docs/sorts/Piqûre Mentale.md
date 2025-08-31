@@ -17,7 +17,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Mind Sliver
-step: empty
+status: empty
 ---
 Vous dirigez un pic désorientant d'énergie psychique dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde d'Intelligence ou prendre 1d6 dégâts psychiques et soustraire 1d4 du prochain jet de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
 

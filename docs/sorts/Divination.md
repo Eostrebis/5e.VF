@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Divination
-step: empty
+status: empty
 ---
 

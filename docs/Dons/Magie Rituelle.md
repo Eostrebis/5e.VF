@@ -1,7 +1,7 @@
 ---
 englishname: Ritual Caster
 requis: Intelligence ou Sagesse 13
-step: empty
+status: empty
 ---
 Vous avez appris nombre de sorts que vous pouvez lancer comme des rituels. Ces sorts sont écrits dans un livre de rituels, que vous devez avoir en main lorsque vous les lancez.
 

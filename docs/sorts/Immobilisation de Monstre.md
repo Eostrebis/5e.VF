@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hold Monster
-step: empty
+status: empty
 ---
 

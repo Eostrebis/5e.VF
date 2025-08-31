@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Coldfire Blast
-step: empty
+status: empty
 ---
 

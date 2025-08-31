@@ -3,7 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 30
 poids: 2
 englishname: Cutlass
-step: empty
+status: empty
 ---
 
 | Dégâts         | Propriétés |

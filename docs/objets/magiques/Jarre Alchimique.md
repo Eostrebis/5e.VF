@@ -3,7 +3,7 @@ type: Objet Merveilleux
 rareté: Peu Commun
 attunement: false
 attdet:
-step: empty
+status: empty
 ---
 
 Cette jarre alchimique semble être capable de contenir un gallon d'un liquide et pèse environ 12 livres, qu'elle soit vide ou pleine. Des bruits de clapotis peuvent être entendus lorsque la jarre est secouée, même lorsqu'elle est vide.

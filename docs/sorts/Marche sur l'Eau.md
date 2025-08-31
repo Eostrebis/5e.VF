@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Water Walk
-step: empty
+status: empty
 ---
 

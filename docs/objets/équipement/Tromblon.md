@@ -4,7 +4,7 @@ coût: 180
 poids: 8
 englishname: Blunderbuss
 Ère: Renaissance
-step: empty
+status: empty
 ---
 | Dégâts       | Propriétés                                                                                  |
 | ------------ | ------------------------------------------------------------------------------------------- |

@@ -1,9 +1,9 @@
 ---
-step: empty
+status: finished
 ---
 __Type :__ Grand Construction
 
-__CR :__  \_ (BM +2)
+__CR :__ \_ (BM +2)
 
 __Points de vie :__ 30 (10 $\times$ le niveau d'artisan du créateur)
 
@@ -17,7 +17,7 @@ __Immunités__ : Poison, psychique
 
 __Immunités aux Conditions :__ Aveuglé, charmé, assourdi, apeuré, paralysé, pétrifié, empoisonné
 
-__Sens__ : Vision aveugle 120 ft. (aveugle au delà)
+__Sens__ : Vision aveugle 120 ft. (aveugle au-delà)
 
 ## Compétences
 
@@ -25,11 +25,11 @@ __Sens__ : Vision aveugle 120 ft. (aveugle au delà)
 
 __Couverture du Cockpit.__ Toute créature à l'intérieur de l'appareil a la couverture totale aux effets extérieurs, mais prend la moitié des dégâts pris par l'appareil.
 
-__Double Double Mains.__ L'appareil a deux bras mécaniques, chacun capable de manier une arme installée. Chaque bras est suffisamment puissant pour manier une arme comme s'il avait deux mains.
+__Double Mains.__ L'appareil a deux bras mécaniques, chacun capable de manier une arme installée. Chaque bras est suffisamment puissant pour manier une arme comme s'il avait deux mains.
 
 ### Actions
 
-__Écrasement (Main Droite).__ *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants.
+__Écrasement (Main Droite).__ *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants
 
 __Écrasement (Main Gauche).__ *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants.
 

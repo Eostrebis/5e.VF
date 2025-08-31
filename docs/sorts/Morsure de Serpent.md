@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Serpent's Bite
-step: empty
+status: empty
 ---
 

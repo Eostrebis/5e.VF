@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Jim's Magic Missile
-step: empty
+status: empty
 ---
 

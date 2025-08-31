@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Une demie-elfe, couvertes des rubans et médailles d'un haut-commandant, est en selle d'un cheval en armure. À sa droite, un orque bien bâti, dans une tenue plus commune, chevauche sa propre monture, une hache à deux mains dans le dos. Ils avancent sur la route ensemble, annoncés par trompettes et percussions.
 
@@ -183,7 +183,7 @@ Vous pouvez dépenser vos dés de bataille dans les manœuvres suivantes :
 
 __Préparation.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
 
-__Ralliement.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
+__Ralliement.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
 
 __Frappe Stupéfiante.__ Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Cheerful Song
-step: empty
+status: empty
 ---
 

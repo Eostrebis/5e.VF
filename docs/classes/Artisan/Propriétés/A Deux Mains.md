@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme exotique chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#FInesse|Finesse]], [[Propriétés d'Arme#Léger|Léger]], [[Propriétés d'Arme#Poignée Avant|Poignée Avant]], [[Propriétés d'Arme#Jet|Jet]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]

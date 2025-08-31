@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Guardian of Nature
-step: empty
+status: empty
 ---
 

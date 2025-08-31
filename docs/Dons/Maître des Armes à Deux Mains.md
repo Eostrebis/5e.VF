@@ -1,7 +1,7 @@
 ---
 englishname: Great Weapon Master
 requis:
-step: empty
+status: empty
 ---
 Vous avez appris à utiliser le poids d'une arme à votre avantage, profitant de l'inertie pour assener de puissants coups. Vous bénéficiez des effets suivants : 
 

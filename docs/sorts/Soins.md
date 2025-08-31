@@ -19,7 +19,7 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Cure Wounds
-step: empty
+status: empty
 ---
 Une créature que vous touchez regagne un nombre de points de vie égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les constructions.
 

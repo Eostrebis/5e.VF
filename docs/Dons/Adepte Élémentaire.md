@@ -1,7 +1,7 @@
 ---
 englishname: Elemental Adept
 requis: La capacité de lancer un sort
-step: empty
+status: empty
 ---
 Lorsque vous obtenez ce don, choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre ou tonnerre.
 

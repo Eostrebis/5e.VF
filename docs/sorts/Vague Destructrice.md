@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Destructive Wave
-step: empty
+status: empty
 ---
 

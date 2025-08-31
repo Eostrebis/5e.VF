@@ -13,7 +13,7 @@ Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Animal Shapes
-step: empty
+status: empty
 ---
 Votre magie transforme d'autres en bêtes. Choisissez n'importe quel nombre de créature consentantes à portée et que vous pouvez voir. Vous transformez chacune de ces cibles en une bête de taille G ou inférieure, avec un FP de 4 ou moins. Aux tours suivants, vous pouvez utiliser votre action pour re-transformer les créatures touchées en de nouvelles formes.
 

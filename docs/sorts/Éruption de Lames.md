@@ -17,7 +17,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Sword Burst
-step: empty
+status: empty
 ---
 Vous créez un cercle temporaire de lames spectrales autour de vous. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de force.
 

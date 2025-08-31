@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Raulothim's Psychic Lance
-step: empty
+status: empty
 ---
 

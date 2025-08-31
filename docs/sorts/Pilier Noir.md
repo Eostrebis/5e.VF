@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Black Pillar
-step: empty
+status: empty
 ---
 

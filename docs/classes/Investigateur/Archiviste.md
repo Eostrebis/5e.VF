@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Même si la plupart des investigateurs remplissent leur grimoire par des connaissances durement acquises lors de rencontres avec des menaces surnaturelles, d'autres préfèrent rester au chaud à la bibliothèque. Ces archivistes cherchent à accumuler le savoir plus que les babioles, en passant des heures à creuser parmi les multiples tomes de secrets ésotériques et à les rassembler en un texte encyclopédique. À travers leur recherche, les archivistes deviennent les références académiques de l'arcane et du puits sans fond des connaissances occultes.
 

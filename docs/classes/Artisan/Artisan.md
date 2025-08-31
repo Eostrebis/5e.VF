@@ -1,7 +1,7 @@
 ---
-step: empty
+status: finished
 ---
-Une naine baraquée abat son marteau sur un morceau d'acier rougeoyant, faisant s'envoler une pluie d'étincelles dans les airs. La pièce résonne avec le bruit du métal entrechoquant du métal, tandis que le bout d'acier, chaud et brillant, commence à prendre forme entre ses pinces. 
+Une naine baraquée abat son marteau sur un morceau d'acier rougeoyant, faisant s'envoler une pluie d'étincelles dans les airs. La pièce résonne avec le bruit du métal entrechoquant du métal, tandis que le bout d'acier, chaud et brillant, commence à prendre forme entre ses pinces.
 
 Un elfe prépare son aiguille avec un fil métallique extraordinairement fin, afin de réaliser les mailles de ce qui semble être une armure de cuir, mais réalisée à partir d'une peau de dragon. Une fois qu'il est satisfait des mesures, il continue dans un déchaînement de coutures incroyablement habiles.
 

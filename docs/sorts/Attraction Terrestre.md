@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Earthbind
-step: empty
+status: empty
 ---
 

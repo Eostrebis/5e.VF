@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Primordial Ward
-step: empty
+status: empty
 ---
 

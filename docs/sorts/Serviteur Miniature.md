@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Tiny Servant
-step: empty
+status: empty
 ---
 

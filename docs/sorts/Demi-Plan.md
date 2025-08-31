@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Demiplane
-step: empty
+status: empty
 ---
 

@@ -20,7 +20,7 @@ Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Hold Person
-step: empty
+status: empty
 ---
 Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.
 

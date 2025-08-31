@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wish
-step: empty
+status: empty
 ---
 

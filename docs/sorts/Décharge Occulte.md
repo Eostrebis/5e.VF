@@ -13,7 +13,7 @@ Portée: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Eldritch Blast
-step: empty
+status: empty
 ---
 Un rayon d'énergie fond sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d10 dégâts de force.
 

@@ -14,7 +14,7 @@ Portée: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Tyra's Coerced Karaoke
-step: empty
+status: empty
 ---
 Alors que des instruments spectraux apparaissent autour de vous, vous commencez à chanter une chanson bien connue, et les autres se sentent obligés à vous rejoindre. Pendant la durée du sort, lorsqu'une créature s'approche à moins de 30 ft. de vous ou y commence son tour, elle doit réussir un jet de sauvegarde de Sagesse ou commencer à chanter avec vous. Une créature qui chante mimique le ton et les mots de la chanson aussi bien qu'elle le peut, même si elle n'en parle pas la langue.
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Stone
-step: empty
+status: empty
 ---
 

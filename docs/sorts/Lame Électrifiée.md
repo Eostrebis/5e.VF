@@ -14,7 +14,7 @@ Portée: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Arc Blade
-step: empty
+status: empty
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts de foudre. De plus, un arc électrique se forme en direction de la créature de votre choix à 5 ft. de la cible, lui infligeant 1d6 dégâts de foudre.
 

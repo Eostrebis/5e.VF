@@ -15,7 +15,7 @@ Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Bless
-step: empty
+status: empty
 ---
 Vous bénissez jusqu'à trois créatures de votre choix à portée. À chaque fois qu'une de ces créatures réalise un jet d'attaque ou de sauvegarde avant la fin du sort, elle peut lancer un d4 et ajouter le résultat obtenu à son jet.
 

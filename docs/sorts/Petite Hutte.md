@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Tiny Hut
-step: empty
+status: empty
 ---
 

@@ -4,7 +4,7 @@ coût: 175
 poids: 10
 englishname: Mukset
 Ère: Renaissance
-step: empty
+status: empty
 ---
 
 | Dégâts       | Propriétés                                                         |

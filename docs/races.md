@@ -7,5 +7,5 @@ hide:
   - navigation
   - toc
 redirection: true
-step: empty
+status: empty
 ---

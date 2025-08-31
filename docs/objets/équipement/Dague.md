@@ -3,7 +3,7 @@ type: Arme de Mêlée Simple
 coût: 2
 poids: 1
 englishname: Dagger
-step: empty
+status: empty
 ---
 | Dégâts       | Propriétés                  |
 | ------------ | --------------------------- |

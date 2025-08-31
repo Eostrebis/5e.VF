@@ -1,7 +1,7 @@
 ---
 englishname: Fighting Initiate
 requis: Maîtrise d'une arme martiale
-step: empty
+status: empty
 ---
 Votre entraînement martial vous a aidé à développer un style de combat bien à vous. De fait, vous apprenez un style de combat parmi les options proposées à la classe [[Guerrier]]. Si vous avez déjà un style, celui que vous choisissez doit être différent.
 

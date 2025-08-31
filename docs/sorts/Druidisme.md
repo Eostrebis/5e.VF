@@ -13,7 +13,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Druidcraft
-step: empty
+status: empty
 ---
 En murmurant aux esprits de la nature, vous créez l'un des effets suivants à portée : 
 

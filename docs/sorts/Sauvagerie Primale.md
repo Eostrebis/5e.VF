@@ -14,7 +14,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Primal Savagery
-step: empty
+status: empty
 ---
 Vous canalisez la magie primale afin d'aiguiser vos dents ou ongles et vous tenir prêt à délivrer une attaque corrosive. Réalisez une attaque de sort de mêlée contre une créature à 5 ft. Si vous touchez, elle prend 1d10 dégâts d'acide. Après que vous avez réalisé l'attaque, vos dents et ongles reviennent à la normale.
 

@@ -16,7 +16,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Shape Water
-step: empty
+status: empty
 ---
 Vous choisissez une zone d'eau que vous pouvez voir à portée et qui rentre dans un cube de 5 ft. de côté. Vous le manipulez d'une des façons suivantes : 
 

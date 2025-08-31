@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Une immense armée de goblinoïdes apparaît à l'horizon des murs du château. Dans la faille, un simple chevalier repousse la horde, étripant tous ceux qui osent s'approcher, et ne laissant passer aucun d'entre eux.
 

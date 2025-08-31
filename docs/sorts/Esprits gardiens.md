@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Spirit Guardians
-step: empty
+status: empty
 ---
 

@@ -20,7 +20,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Mage Hand
-step: empty
+status: empty
 ---
 Une main spectrale et flottante apparaît à un point de votre choix à portée. La main persiste pour la durée du sort ou jusqu'à ce que vous la dissipiez pour une action. La main disparaît si elle se trouve à plus de 30 ft. de vous ou si vous relancez le sort.
 

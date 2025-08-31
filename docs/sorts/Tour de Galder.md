@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Galder's Tower
-step: empty
+status: empty
 ---
 

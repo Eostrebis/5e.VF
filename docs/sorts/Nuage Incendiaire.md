@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Incendiary Cloud
-step: empty
+status: empty
 ---
 

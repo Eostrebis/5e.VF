@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Vous pouvez embrigader les autres dans votre sinistre covent. En réalisant un rituel spécial sur 8 heures, qui peut être fait pendant un repos long, vous pouvez infiltrer votre magie maudite dans une créature consentante qui a la compétence Incantation ou Magie de Pacte. Cette créature entre dans votre covent. Vous pouvez avoir jusqu'à deux créatures autres que vous dans votre covent.
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 
 ## 1. Création du personnage

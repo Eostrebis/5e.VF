@@ -13,7 +13,7 @@ Portée: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Fog Cloud
-step: empty
+status: empty
 ---
 Un sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pour la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
 

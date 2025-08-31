@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Interdite dans la plupart des covent de sorcières, la magie du sang est centrée sur l'utilisation de sorts sombres et de maléfices mortels qui tirent leurs pouvoirs de l'essence même de leur lanceur. Cette magie est fondamentalement plus périlleuse que les autres arts, mais avec de grands risques viennent de grandes récompenses.
 

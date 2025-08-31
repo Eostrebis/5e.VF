@@ -13,7 +13,7 @@ Portée: Personnelle (ligne de 60 ft.)
 Concentration: false
 Rituel: false
 englishname: Gahoul's Spectral Scythe
-step: empty
+status: empty
 ---
 Vous invoquez une faux phantasmagorique de mort dans une main libre et la faite tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque dans la zone tant que la faux bouge doit réaliser un jet de sauvegarde de Dextérité ou prendre 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.
 

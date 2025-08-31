@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Fly
-step: empty
+status: empty
 ---
 

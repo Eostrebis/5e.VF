@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wind Walk
-step: empty
+status: empty
 ---
 

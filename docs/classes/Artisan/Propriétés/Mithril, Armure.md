@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Armure Compagnon_
 __Composantes :__ Armure moyenne ou lourde chef-d'œuvre

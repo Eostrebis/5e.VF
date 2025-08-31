@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Lesser Restoration
-step: empty
+status: empty
 ---
 

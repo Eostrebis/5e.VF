@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Misty Step
-step: empty
+status: empty
 ---
 

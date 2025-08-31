@@ -3,7 +3,7 @@ type: Objet Merveilleux
 rareté: Très Rare
 attunement: true
 attdet:
-step: empty
+status: empty
 ---
 
 Cette amulette est taillée dans l'obsidienne pour ressembler à un crâne humanoïde hurlant, avec des yeux de rubis et des dents d'émeraude. Elle pend au bout d'une chaîne en fer.

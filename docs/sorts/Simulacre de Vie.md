@@ -16,7 +16,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: False Life
-step: empty
+status: empty
 ---
 Vous remontant avec un facsimilé nécromantique de vie, vous gagnez 1d4 + 4 points de vie temporaires pendant la durée du sort.
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Synaptic Static
-step: empty
+status: empty
 ---
 

@@ -15,7 +15,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: " Produce Flame"
-step: empty
+status: empty
 ---
 Une flamme tremblante apparaît dans votre main. La flamme reste là pour la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
 

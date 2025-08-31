@@ -1,7 +1,7 @@
 ---
 englishname: Medium Armor Master
 requis: Maîtrise des Armures Moyennes
-step: empty
+status: empty
 ---
 Vous vous êtes entraînés à vous déplacer tout en portant une armure moyenne, et vous bénéficiez des effets suivants : 
 

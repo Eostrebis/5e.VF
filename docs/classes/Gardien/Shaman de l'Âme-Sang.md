@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Les esprits ancestraux vous ont appelé par la lumière des étoiles pour que vous accomplissiez leur volonté sur le monde, pour protéger leurs descendants et pour garder leurs sanctuaires. Vous êtes un Shaman de l'Âme-Sang, un manipulateur de l'âme et un ascétique de la magie primale. Votre communauté vous voit comme un chef, mais aussi comme une connexion vitale à l'après-vie puisque, si vous accomplissez votre devoir, ils rejoindront leurs ancêtres dans l'au-delà.
 

@@ -19,6 +19,6 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Stone Bones
-step: empty
+status: empty
 ---
 Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant la résistance aux dégâts contondants, perçants et tranchants non magiques jusqu'à la fin de votre prochain tour.

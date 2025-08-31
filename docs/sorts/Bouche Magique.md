@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Magic Mouth
-step: empty
+status: empty
 ---
 

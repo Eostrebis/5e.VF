@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Mighty Fortress
-step: empty
+status: empty
 ---
 

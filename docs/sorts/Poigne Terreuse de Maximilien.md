@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Maximilian's Earthen Grasp
-step: empty
+status: empty
 ---
 

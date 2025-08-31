@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Vortex Warp
-step: empty
+status: empty
 ---
 

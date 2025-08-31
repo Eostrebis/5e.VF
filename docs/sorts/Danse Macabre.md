@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Danse Macabre
-step: empty
+status: empty
 ---
 

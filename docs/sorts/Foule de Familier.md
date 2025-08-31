@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Flock of Familiars
-step: empty
+status: empty
 ---
 

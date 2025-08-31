@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shadow Armor
-step: empty
+status: empty
 ---
 

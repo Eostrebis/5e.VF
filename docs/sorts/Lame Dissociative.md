@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dissociative Edge
-step: empty
+status: empty
 ---
 

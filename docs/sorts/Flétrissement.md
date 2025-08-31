@@ -17,7 +17,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Blight
-step: empty
+status: empty
 ---
 De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit réaliser un jet de sauvegarde de Constitution. La cible prend 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.
 

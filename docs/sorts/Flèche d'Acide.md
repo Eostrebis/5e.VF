@@ -14,7 +14,7 @@ Portée: 90 ft.
 Concentration:
 Rituel:
 englishname: Acid Arrow
-step: empty
+status: empty
 ---
 Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible prend `dice:4d4|avg` dégâts d'acide immédiatement, et `dice:2d4|avg` à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
 

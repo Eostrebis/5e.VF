@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Warding Bond
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Invitation
-step: empty
+status: empty
 ---
 

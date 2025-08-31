@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Le baume de la paix s'épanouit au cœur des communautés saines, entre les nations amies et dans l'âme des personnes bien intentionnées. Les dieux de la Paix poussent des gens de toutes sortes à résoudre les conflits et à se tenir devant les forces qui menacent la paix. Les clercs du domaine de la Paix sont responsables des traités et sont souvent requis pour servir de tiers dans les négociations ou conflits. La bénédiction de ces clercs regroupe les gens et les pousse à s'entraider. Leur magie aide ceux qui vont au combat pour la paix future.
 
@@ -19,7 +19,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez l'une des compé
 
 ## Lien Encourageant
 
-Également au niveau 1, vous pouvez créer un fort lien entre des gens en paix entre eux. Pour une action, choisissez un nombre de créatures à 30 ft. (vous y compris) égal à votre bonus de maîtrise. Vous créez un lien magique entre elles pour 10 minutes ou jusqu'à ce que vous utilisez cette compétence. Tant que n'importe quelle créature liée est à 30 ft. d'une autre, la créature peut lancer un d4 et ajouter le résultat à un jet d'attaque, de caractéristique ou de sauvegarde. Chaque créature ne peut ajouter qu'un d4 par tour.
+Également au niveau 1, vous pouvez créer un fort lien entre des gens en paix entre eux. Pour une action, choisissez un nombre de créatures à 30 ft. (vous y compris) égal à votre bonus de maîtrise. Vous créez un lien magique entre elles pour 10 minutes ou jusqu'à ce que vous utilisiez cette compétence. Tant que n'importe quelle créature liée est à 30 ft. d'une autre, la créature peut lancer un d4 et ajouter le résultat à un jet d'attaque, de caractéristique ou de sauvegarde. Chaque créature ne peut ajouter qu'un d4 par tour.
 
 Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

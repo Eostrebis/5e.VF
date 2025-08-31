@@ -3,7 +3,7 @@ type: Potion
 rareté: Légendaire
 attunement:
 attdet:
-step: empty
+status: empty
 ---
 Lorsque vous buvez cette potion, votre score de Force passe à 29 pour 1 heure. La potion n'a aucun effet sur vous si votre Force est déjà supérieure ou égale à ce score.
 

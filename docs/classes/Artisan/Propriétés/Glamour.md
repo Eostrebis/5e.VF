@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Armure Maître_
 __Composantes :__ Armure exotique chef-d'œuvre

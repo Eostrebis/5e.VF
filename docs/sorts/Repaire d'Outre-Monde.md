@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Otherworldly Lair
-step: empty
+status: empty
 ---
 

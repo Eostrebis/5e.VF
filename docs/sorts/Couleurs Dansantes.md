@@ -14,7 +14,7 @@ Portée: Personnelle (rayon de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Color Spray
-step: empty
+status: empty
 ---
 Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total étant combien de points de vie de créatures vous pouvez affecter avec ce sort. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
 

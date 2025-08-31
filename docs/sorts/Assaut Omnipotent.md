@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Almighty Assault
-step: empty
+status: empty
 ---
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Vampires, démons, lycanthropes et Monstruosités ont une chose en commun : ce sont des menaces magiques, mieux combattues par des moyens magiques. Pour être au même niveau que leurs adversaires, les ésotéristes n'hésitent pas à explorer les arcanes, remplissant leur grimoire de secrets magiques et maîtrisant quelques sorts. Les ésotéristes sont les investigateurs les plus enclins à fréquenter des occultistes, à emprunter des tours aux magiciens et à s'initier à la magie noire pour vaincre leurs ennemis.
 

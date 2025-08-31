@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Suffer
-step: empty
+status: empty
 ---
 

@@ -3,7 +3,7 @@ type: Bâton
 rareté: Très Rare
 attunement: true
 attdet: par un druide, un ensorceleur, un occultiste ou un magicien
-step: empty
+status: empty
 ---
 Tant que vous tenez ce bâton, vous êtes résistant aux dégâts de froid.
 

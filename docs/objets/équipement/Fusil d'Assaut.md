@@ -4,7 +4,7 @@ coût: 350
 poids: 7
 englishname: Assault Rifle
 Ère: Moderne
-step: empty
+status: empty
 ---
 
 | Dégâts       | Propriétés                                                              |

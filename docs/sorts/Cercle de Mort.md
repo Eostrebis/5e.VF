@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Circle of Death
-step: empty
+status: empty
 ---
 

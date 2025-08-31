@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Suggestion
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Constriction
-step: empty
+status: empty
 ---
 

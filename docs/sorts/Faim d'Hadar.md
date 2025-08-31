@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hunger of Hadar
-step: empty
+status: empty
 ---
 

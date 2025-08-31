@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Fox's Fangs
-step: empty
+status: empty
 ---
 

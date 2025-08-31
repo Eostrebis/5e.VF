@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Slow
-step: empty
+status: empty
 ---
 

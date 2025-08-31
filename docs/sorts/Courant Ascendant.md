@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Skyward Rise
-step: empty
+status: empty
 ---
 

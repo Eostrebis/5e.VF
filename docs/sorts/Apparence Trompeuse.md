@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Seeming
-step: empty
+status: empty
 ---
 

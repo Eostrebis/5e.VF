@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Clairvoyance
-step: empty
+status: empty
 ---
 

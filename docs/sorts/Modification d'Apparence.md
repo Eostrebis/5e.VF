@@ -15,7 +15,7 @@ Portée: Personnelle
 Concentration: true
 Rituel:
 englishname: Alter Self
-step: empty
+status: empty
 ---
 Vous endossez une forme différente. Lorsque vous lancez le sort, choisissez parmi les options suivantes, dont les effets s'appliqueront jusqu'à ce que le sort prenne fin. Tant que le sort est actif, vous pouvez mettre un terme à une option, en dépensant une action, pour gagner les bénéfices d'une option différente.
 

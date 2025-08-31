@@ -15,7 +15,7 @@ Portée: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Caustic Blade
-step: empty
+status: empty
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts d'acide. Si vous ratez de 3 ou moins, de l'acide est aspergé sur la cible et vous infligez 1d8 dégâts d'acide.
 

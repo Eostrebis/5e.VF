@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Chargement|Chargement]] ou [[Propriétés d'Arme#Rechargement|Rechargement]] qui n'a pas la propriété [[Propriétés d'Arme#Tension|Tension]]

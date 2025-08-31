@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shield
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Leomund's Tiny Hut
-step: empty
+status: empty
 ---
 

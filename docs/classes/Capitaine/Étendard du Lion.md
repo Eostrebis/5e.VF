@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 La bravoure même face aux situations les plus difficiles, la maîtrise de l'équitation et surtout un honneur jamais vacillant sont les marques d'un capitaine du Lion. Cet étendard représente l'idéal même de galanterie et de vigueur auquel les paladins et chevaliers aspirent. Ne serait-ce que l'apercevoir inspire un héroïsme chez les troupes et un capitaine qui l'arbore peut transformer même la pire des milices en une véritable armée.
 

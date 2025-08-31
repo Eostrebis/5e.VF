@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Bien que la plupart des lanceurs de sorts n'enchantent qu'une poignée d'objets magiques au fil de leur carrière, les artisans de la Guilde des Maestros Arcaniques cherchent à devenir de vrais experts de création d'objets magiques. Ils prennent de telles fabrications très au sérieux : chaque création doit être un chef-d'œuvre pour ne serait-ce que contenir une puissante magie. Malgré leur travail acharné de longue haleine, ces maestros sont toujours vus équipés d'une multitude d'objets magiques, liés à plusieurs anneaux et portant une [[baguette de projectiles magiques]], juste au cas où.
 

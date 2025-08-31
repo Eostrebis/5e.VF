@@ -13,6 +13,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Spirit Shroud
-step: empty
+status: empty
 ---
 

@@ -13,6 +13,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Sunbeam
-step: empty
+status: empty
 ---
 

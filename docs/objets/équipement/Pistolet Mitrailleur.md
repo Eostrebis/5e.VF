@@ -4,7 +4,7 @@ coût: 200
 poids: 6
 englishname: Submachine gun
 Ère: Moderne
-step: empty
+status: empty
 ---
 | Dégâts       | Propriétés                                                                     |
 | ------------ | ------------------------------------------------------------------------------ |

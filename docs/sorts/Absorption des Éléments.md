@@ -19,7 +19,7 @@ Concentration:
 Rituel:
 reaction: Quand vous prenez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
 englishname: Absorb Elements
-step: empty
+status: empty
 ---
 
 Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous avez la résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible prend 1d6 dégâts supplémentaire du type correspondant, et le sort se termine.

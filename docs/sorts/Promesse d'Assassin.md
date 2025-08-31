@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Assassin's Promise
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Mislead
-step: empty
+status: empty
 ---
 

@@ -17,7 +17,7 @@ Portée: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Detect Evil and Good
-step: empty
+status: empty
 ---
 Pendant la durée du sort, vous savez s'il y a une aberration, un céleste, un élémentaire, un fey, un fiélon ou un mort-vivant à 30 ft. de vous, ainsi que sa localisation. De même, vous savez s'il y a un emplacement ou objet à 30 ft. qui a été magiquement consacré ou désacralisé.
 

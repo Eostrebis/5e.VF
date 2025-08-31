@@ -13,6 +13,6 @@ Portée: Personnelle
 Concentration: true
 Rituel:
 englishname: Wings of Night
-step: empty
+status: empty
 ---
 

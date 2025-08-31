@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wind Wall
-step: empty
+status: empty
 ---
 

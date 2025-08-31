@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 Étant l'un des moteurs les plus importants pour les humanoïdes du monde entier, il n'est pas surprenant que l'accumulation de possessions matérielles soit gouvernée par ses propres déités. Situés entre l'industrie et la fertilité, les dieux du domaine de la Richesse sont rigoureux quand il s'agit de demander des tribus, mais payent généreusement leurs serviteurs les plus loyaux, les couvrant d'or.
 

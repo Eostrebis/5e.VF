@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Death Ward
-step: empty
+status: empty
 ---
 

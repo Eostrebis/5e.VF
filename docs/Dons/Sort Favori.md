@@ -1,7 +1,7 @@
 ---
 englishname: Favorite Spell
 requis: La capacité de lancer au moins un sort, Caractéristique d'Incantation 15
-step: empty
+status: empty
 ---
 Vous êtes tellement familier avec l'un de vos sort que vous pouvez le lancer sans efforts, et avec style ! Choisissez un sort que vous pouvez lancer de niveau 5 ou moins qui devient votre sort favori. Vous pouvez prendre ce don plusieurs, choisissant un sort différent à chaque fois. Vous bénéficiez des effets suivants : 
 

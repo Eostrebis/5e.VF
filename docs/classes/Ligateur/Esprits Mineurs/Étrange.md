@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 La forme toujours changeante et incompréhensible d'un étrange semble venir d'une dimension parallèle où les règles diffèrent des nôtres. Pour une action bonus, vous pouvez utiliser l'étrange pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou prendre 1d4 dégâts psychiques.
 

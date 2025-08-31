@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Les armures moyennes offrent plus de protection que les armures légères, mais elles sont également plus handicapantes. Si vous portez une armure moyenne, vous ajoutez votre modificateur de Dextérité, jusqu'à un maximum de 2, au nombre base de votre armure afin de déterminer votre Classe d'Armure.
 

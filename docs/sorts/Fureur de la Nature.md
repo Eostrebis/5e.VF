@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wrath of Nature
-step: empty
+status: empty
 ---
 

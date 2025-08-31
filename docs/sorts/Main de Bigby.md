@@ -12,7 +12,7 @@ Portée:
 Concentration:
 Rituel:
 englishname: Bigby's Hand
-step: empty
+status: empty
 ---
 
 (Voir [[Main Magique]])

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hypnotic Pattern
-step: empty
+status: empty
 ---
 

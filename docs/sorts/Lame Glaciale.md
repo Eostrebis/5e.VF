@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Rimesworn Blade
-step: empty
+status: empty
 ---
 

@@ -1,4 +1,4 @@
 ---
-step: empty
+status: empty
 ---
 Lorsque vous réalisez une attaque contre une créature, vous pouvez dépenser un dé de bataille pour réaliser un coup sauvage, presque désespéré. Vous avez l'avantage à votre jet d'attaque. Cependant, jusqu'au début de votre prochain tour, les jets d'attaque contre vous ont l'avantage.

@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Votre force vient des nuages orageux et des éclairs. En tant que sentinelle des tempêtes, vous êtes appelé pour protéger les maris en expédition ainsi que les villages côtiers contre la colère des tempêtes et l'arrivée des grandes vagues. Vous abhorrez les pirates et autres ennemis des peuples côtiers et vous opposez à eux où qu'ils frappent.
 

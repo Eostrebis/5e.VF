@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Tongues
-step: empty
+status: empty
 ---
 

@@ -1,7 +1,7 @@
 ---
 englishname: Heavy Armor Master
 requis: Maîtrise des armures lourdes
-step: empty
+status: empty
 ---
 Vous savez utiliser votre armure pour dévier les coups qui vous seraient léthaux. Vous bénéficiez des effets suivants : 
 

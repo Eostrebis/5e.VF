@@ -15,7 +15,7 @@ Portée: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Animate Dead
-step: empty
+status: empty
 ---
 Ce sort crée un servant mort-vivant. Choisissez une pile d'ossements ou un corps d'humanoïde de taille M ou inférieure à portée. Votre sort imprègne la cible avec un simulacre de vie, la relevant en tant que mort-vivant. La cible devient un [squelette](https://www.dndbeyond.com/monsters/17015-skeleton) si vous avez choisi les ossements, ou un [zombie](https://www.dndbeyond.com/monsters/17077-zombie) si vous avez choisi le corps.
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Ice
-step: empty
+status: empty
 ---
 

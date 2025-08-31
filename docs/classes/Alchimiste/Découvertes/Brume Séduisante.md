@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 *Requis : Niveau 13, Amoriste*
 

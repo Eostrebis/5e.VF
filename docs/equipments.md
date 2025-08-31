@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Équipements
-step: empty
+status: empty
 ---
 
 | Item                        | Objet                                  |

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Guardian of Faith
-step: empty
+status: empty
 ---
 

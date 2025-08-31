@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Sorts
-step: empty
+status: empty
 ---
 
 | Spell name                           | Nom du sort                               |

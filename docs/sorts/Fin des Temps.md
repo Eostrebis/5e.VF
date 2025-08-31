@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: End of Days
-step: empty
+status: empty
 ---
 

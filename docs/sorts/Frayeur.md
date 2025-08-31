@@ -16,7 +16,7 @@ Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Cause Fear
-step: empty
+status: empty
 ---
 Vous éveillez, chez une créature que vous pouvez voir à portée, son sens de la mortalité, sa conscience de la mort. Une construction ou un mort-vivant est immunisé contre cet effet. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'à ce que le sort se termine. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet sur un succès.
 

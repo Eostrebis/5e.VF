@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Illusory Dragon
-step: empty
+status: empty
 ---
 

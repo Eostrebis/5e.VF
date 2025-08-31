@@ -1,5 +1,5 @@
 ---
-step: empty
+status: wip
 ---
 Les bras levés vers le ciel, le regard porté sur le soleil, et prononçant une prière, un elfe commence à briller d'une lumière intérieure qui s'échappe pour aller soigner ses compagnons blessés au combat.
 

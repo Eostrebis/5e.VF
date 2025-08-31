@@ -1,7 +1,7 @@
 ---
 englishname: Actor
 requis:
-step: empty
+status: empty
 ---
 Doué en imitations et attiré par le dramatique, vous bénéficiez des effets suivants : 
 

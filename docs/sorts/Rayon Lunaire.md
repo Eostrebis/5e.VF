@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Moonbeam
-step: empty
+status: empty
 ---
 

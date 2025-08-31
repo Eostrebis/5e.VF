@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Scatter
-step: empty
+status: empty
 ---
 

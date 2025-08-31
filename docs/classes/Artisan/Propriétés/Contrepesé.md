@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Arme Compagnon_
 __Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]

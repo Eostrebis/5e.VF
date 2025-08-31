@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Magnificent Mansion
-step: empty
+status: empty
 ---
 

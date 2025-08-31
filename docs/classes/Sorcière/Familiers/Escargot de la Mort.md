@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 
 Un escargot de la mort est formé à partir de la mixture de moelle de troll des forêts, de sang d'aigle géant et de moelle de gobelin, enfermée dans une corne d'éfrit évidée et scellée avec une langue d'ettercap. La monstruosité possède une intelligence moyenne, mais son seul instinct est d'exterminer toutes les créatures autres que son maître.

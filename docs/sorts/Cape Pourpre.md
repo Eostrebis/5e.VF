@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Crimson Cloak
-step: empty
+status: empty
 ---
 

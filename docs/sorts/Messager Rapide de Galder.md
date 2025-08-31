@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Galder's Speedy Courier
-step: empty
+status: empty
 ---
 

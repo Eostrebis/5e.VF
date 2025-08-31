@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Cruel Wind
-step: empty
+status: empty
 ---
 

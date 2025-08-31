@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dimension Door
-step: empty
+status: empty
 ---
 

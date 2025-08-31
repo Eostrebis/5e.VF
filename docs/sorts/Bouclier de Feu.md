@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Fire Shield
-step: empty
+status: empty
 ---
 

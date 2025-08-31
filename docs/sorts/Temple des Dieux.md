@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Temple of the Gods
-step: empty
+status: empty
 ---
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Les moines qui suivent la Voie de l'Arc trouvent la paix intérieur dans la trajectoire parfaite et précis d'un tir de flèche. Vous avez été entraîné à l'archerie montée, à trier un arc les yeux bandés, et à saisir les ailes d'un insecte en vol. En atteignant la concorde parfaite avec vos flèches, aucun exploit d'archerie ne semble hors de votre portée.
 

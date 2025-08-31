@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Purify Food and Drink
-step: empty
+status: empty
 ---
 

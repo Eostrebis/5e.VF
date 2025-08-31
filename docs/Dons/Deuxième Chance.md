@@ -1,7 +1,7 @@
 ---
 englishname: Second Chance
 requis: Halfelin
-step: empty
+status: empty
 ---
 La chance vous sourit lorsque quelqu'un essaye de vous attaquer. Vous bénéficiez des effets suivants :
 

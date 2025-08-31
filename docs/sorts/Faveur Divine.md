@@ -13,6 +13,6 @@ Portée: Personnelle
 Concentration: true
 Rituel: false
 englishname: Divine Favor
-step: empty
+status: empty
 ---
 Vos prières vous confèrent un rayonnement divin. Jusqu'à ce que le sort termine, vos attaques armées infligent 1d4 dégâts radiants supplémentaires.

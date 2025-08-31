@@ -14,7 +14,7 @@ Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Petal Storm
-step: empty
+status: empty
 ---
 Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaissent dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.
 

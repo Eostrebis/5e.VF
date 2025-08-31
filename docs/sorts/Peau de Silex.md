@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Skin of Flint
-step: empty
+status: empty
 ---
 

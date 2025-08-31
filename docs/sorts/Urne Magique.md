@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Magic Jar
-step: empty
+status: empty
 ---
 

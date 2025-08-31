@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: See Invisibility
-step: empty
+status: empty
 ---
 

@@ -16,7 +16,7 @@ Portée: Personnelle
 Concentration: true
 Rituel: false
 englishname: Zephyr's Feather
-step: empty
+status: empty
 ---
 Vous agitez votre main et trois plumes d'un blanc éclatant, magiquement aiguisées, apparaissent et se mettent à tournoyer autour de vous. Lorsque vous lancez ce sort, réaliser une attaque de sort à distance en utilisant une des plumes contre une créature à 120 ft. de vous. SI vous touchez, la cible prend 2d8 dégâts tranchants. Jusqu'à la fin du sort, tant qu'il vous reste des plumes, vous pouvez réaliser une attaque en utilisant une plume à chacun de vos tours pour une action.
 

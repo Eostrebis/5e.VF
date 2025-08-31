@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hideous Laughter
-step: empty
+status: empty
 ---
 

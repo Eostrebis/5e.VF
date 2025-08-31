@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Glyph of Warding
-step: empty
+status: empty
 ---
 

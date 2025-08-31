@@ -1,7 +1,7 @@
 ---
 englishname: Chef
 requis:
-step: empty
+status: empty
 ---
 Le temps que vous avez passé à perfectionner vos arts culinaires a payé, vous conférant les effets suivants : 
 

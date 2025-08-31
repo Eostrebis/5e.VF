@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Sinister Threat
-step: empty
+status: empty
 ---
 

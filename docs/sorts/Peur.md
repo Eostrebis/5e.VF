@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Fear
-step: empty
+status: empty
 ---
 

@@ -14,7 +14,7 @@ Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Hunger of the Earth
-step: empty
+status: empty
 ---
 Choisissez une créature de taille au plus G au sol à portée. La terre s'ouvre sous cette créature et essaye de l'avaler. La cible doit réaliser un jet de sauvegarde de Force ou être [[retenu|retenue]] pendant la durée du sort. De plus, si la cible échoue le jet, elle commence à couler dans le sol.
 

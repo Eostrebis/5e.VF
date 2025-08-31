@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Contagion
-step: empty
+status: empty
 ---
 

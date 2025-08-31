@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Grim Scythe
-step: empty
+status: empty
 ---
 

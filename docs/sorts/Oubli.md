@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Forget
-step: empty
+status: empty
 ---
 

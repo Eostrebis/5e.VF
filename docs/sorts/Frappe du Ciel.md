@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Skystrike
-step: empty
+status: empty
 ---
 

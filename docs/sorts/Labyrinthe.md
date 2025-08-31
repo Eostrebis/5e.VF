@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Maze
-step: empty
+status: empty
 ---
 

@@ -1,7 +1,7 @@
 ---
-step: empty
+status: finished
 ---
-Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui représente un trouble constant à l'ordre établi par les dieux et les mortels. Ils sont les patrons des voleurs, des canailles, des parieurs, des rebelles et des révolutionnaires. Leurs clercs représentent une force disruptive du monde, blessant les fiertés, moquant les tyrans, volant les riches, libérant les prisonniers et bafouant les traditions. Ils préfèrent le subterfuge, la blague, la tromperie ou le vol plutôt que l'affrontement direct.
+Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui représentent un trouble constant à l'ordre établi par les dieux et les mortels. Ils sont les patrons des voleurs, des canailles, des parieurs, des rebelles et des révolutionnaires. Leurs clercs représentent une force disruptive du monde, blessant les fiertés, moquant les tyrans, volant les riches, libérant les prisonniers et bafouant les traditions. Ils préfèrent le subterfuge, la blague, la tromperie ou le vol plutôt que l'affrontement direct.
 
 **Sorts du Domaine de la Tromperie**
 
@@ -15,7 +15,7 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 
 ## Bénédiction du Farceur
 
-À partir du moment où vous choisissez ce domaine au niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante autre que vous pour lui conférer l'avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure 1 heure ou jusqu'à ce que vous utilisez cette compétence à nouveau.
+À partir du moment où vous choisissez ce domaine au niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante autre que vous pour lui conférer l'avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure 1 heure ou jusqu'à ce que vous utilisiez cette compétence à nouveau
 
 ## Canal Divin : Ubiquité
 
@@ -37,4 +37,4 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Ubiquité Améliorée
 
-Au niveau 17, vous pouvez créer jusqu'à quatre illusions lorsque vous utilisez votre Ubiquité. Pour une action bonus pendant votre tour, vous pouvez déplacer n'importe quel nombre d'entres elles jusqu'à 30 ft., tant qu'elles restent à 120 ft. de vous.
+Au niveau 17, vous pouvez créer jusqu'à quatre illusions lorsque vous utilisez votre Ubiquité. Pour une action bonus pendant votre tour, vous pouvez déplacer n'importe quel nombre d'entre elles jusqu'à 30 ft., tant qu'elles restent à 120 ft. de vous.

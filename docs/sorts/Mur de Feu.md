@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Fire
-step: empty
+status: empty
 ---
 

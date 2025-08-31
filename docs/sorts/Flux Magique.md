@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Spell Flux
-step: empty
+status: empty
 ---
 

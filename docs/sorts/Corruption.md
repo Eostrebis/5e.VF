@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Corruption
-step: empty
+status: empty
 ---
 

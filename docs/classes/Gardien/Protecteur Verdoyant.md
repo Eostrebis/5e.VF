@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Vous tirez votre force des arbres des forêts et du terreau sous vos pieds. En tant que Protecteur Verdoyant, vous êtes le champion des verdures de la nature et vous les défendez contre ceux qui défigurent les étendues sauvages. Vous trouvez facilement des alliés parmi les druides et tous ceux qui comprennent la sacralité des arbres et anciens esprits de la forêt.
 

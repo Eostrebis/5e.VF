@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Spreading Nightmare
-step: empty
+status: empty
 ---
 

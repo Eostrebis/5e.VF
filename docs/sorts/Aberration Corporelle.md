@@ -17,7 +17,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Aberrate
-step: empty
+status: empty
 ---
 Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne prenez pas de dégâts supplémentaires des dégâts critiques.
 

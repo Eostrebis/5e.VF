@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 La précision n'a pas le même sens pour tout le monde. Pour vous, la véritable précision n'est pas tant de toucher la cible au premier coup, mais peut-être après que la balle a ricoché une dizaine de fois. Vos attaques sont tout aussi dangereuses si elles ratent, puisque leurs rebonds sont imprévisibles à des yeux novices.
 

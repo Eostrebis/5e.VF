@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hallow
-step: empty
+status: empty
 ---
 

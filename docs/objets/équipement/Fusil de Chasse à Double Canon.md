@@ -4,7 +4,7 @@ coût: 200
 poids: 8
 englishname: "Double-Barrel \rShotgun"
 Ère: Industrielle
-step: empty
+status: empty
 ---
 | Dégâts       | Propriétés                                                                 |
 | ------------ | -------------------------------------------------------------------------- |

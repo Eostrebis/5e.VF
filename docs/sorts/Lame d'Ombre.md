@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shadow Blade
-step: empty
+status: empty
 ---
 

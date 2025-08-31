@@ -18,6 +18,6 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Resolve's Mantle of Spell Resistance
-step: empty
+status: empty
 ---
 Vous touchez une créature en prononçant le nom exact d'un sort dont vous connaissez la signature magique (au bon vouloir du MJ). La créature est totalement immunisée au sort cité pendant la durée du sort. 

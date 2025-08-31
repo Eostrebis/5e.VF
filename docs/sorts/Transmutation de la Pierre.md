@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Transmute Rock
-step: empty
+status: empty
 ---
 

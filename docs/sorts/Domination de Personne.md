@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dominate Person
-step: empty
+status: empty
 ---
 

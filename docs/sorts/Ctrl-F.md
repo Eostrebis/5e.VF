@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Seek Phrase
-step: empty
+status: empty
 ---
 

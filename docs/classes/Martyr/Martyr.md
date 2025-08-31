@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Une foule difforme s’amasse autour d'un jeune nain aux vêtements impeccables. Il touche chaque personne tour à tour, refermant les blessures, soignant les maladies, et restaurant l'espoir.
 

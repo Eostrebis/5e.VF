@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Speak with Animals
-step: empty
+status: empty
 ---
 

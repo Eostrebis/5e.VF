@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Passwall
-step: empty
+status: empty
 ---
 

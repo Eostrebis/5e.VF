@@ -15,6 +15,6 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Spare the Dying
-step: empty
+status: empty
 ---
 Vous touchez une créature vivante qui a 0 point de vie. La créature se stabilise. Ce sort n'a aucun effet sur les mort-vivants ou constructions.

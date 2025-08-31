@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Unseen Claw
-step: empty
+status: empty
 ---
 

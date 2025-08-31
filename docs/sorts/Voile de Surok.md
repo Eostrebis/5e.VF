@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shroud of Surok
-step: empty
+status: empty
 ---
 

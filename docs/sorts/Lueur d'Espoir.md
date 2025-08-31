@@ -13,6 +13,6 @@ Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Beacon of Hope
-step: empty
+status: empty
 ---
 Ce sort restaure l'espoir et la vitalité. Choisissez n'importe quel nombre de créatures à portée. Pendant la durée de ce sort, chaque cible a l'avantage aux jets de sauvegarde de Sagesse et contre la mort, et regagne le maximum de points de vie pour chaque soin.

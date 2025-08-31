@@ -1,7 +1,7 @@
 ---
 englishname: Keenness of the Stone Giant
 requis: Niveau 4, Frappe des Géants (Frappe de Pierre)
-step: empty
+status: empty
 ---
 Vous avez manifesté en vous les talents physiques emblématiques des géants de pierre, vous conférant les effets suivants : 
 

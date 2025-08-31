@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Locate Animals or Plants
-step: empty
+status: empty
 ---
 

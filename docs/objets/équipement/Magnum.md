@@ -4,7 +4,7 @@ coût: 500
 poids: 6
 englishname: Magnum
 Ère: Moderne
-step: empty
+status: empty
 ---
 
 | Dégâts       | Propriétés                                         |

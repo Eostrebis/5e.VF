@@ -3,7 +3,7 @@ type: Arme Martiale à Distance
 coût: 1
 poids: 3
 englishname: Net
-step: empty
+status: empty
 ---
 
 | Dégâts | Propriétés          |

@@ -12,7 +12,7 @@ Portée:
 Concentration:
 Rituel:
 englishname:
-step: empty
+status: empty
 ---
 
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Hunter's Pace
-step: empty
+status: empty
 ---
 

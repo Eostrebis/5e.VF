@@ -15,7 +15,7 @@ Portée: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Ice Claw Prison
-step: empty
+status: empty
 ---
 Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pour la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
 

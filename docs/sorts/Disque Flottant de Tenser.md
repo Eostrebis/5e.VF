@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Floating Disk
-step: empty
+status: empty
 ---
 

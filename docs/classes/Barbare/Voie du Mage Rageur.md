@@ -1,7 +1,7 @@
 ---
-step: empty
+status: finished
 ---
-La plupart des barbares qui possèdent l'étincelle arcanique ne le remarquent jamais, l'introspection n'étant pas la plus grande force de ces gens. Ceux qui la découvrent, cependant, peuvent apprendre à canaliser leur férocité brute par la magie et embarquer sur la voie du Mage Rageur. Par leurs puissantes arcane alimentées par la rage, ces barbares possèdent une furie particulièrement apocalyptique, fusionnant prouesses physiques avec les incantations pour former un chemin de sang, de lames et de feu.
+La plupart des barbares qui possèdent l'étincelle arcanique ne le remarquent jamais, l'introspection n'étant pas la plus grande force de ces gens. Ceux qui la découvrent, cependant, peuvent apprendre à canaliser leur férocité brute par la magie et embarquer sur la voie du Mage Rageur. Par leurs puissants arcanes alimentées par la rage, ces barbares possèdent une furie particulièrement apocalyptique, fusionnant prouesses physiques avec les incantations pour former un chemin de sang, de lames et de feu.
 
 ## Intuition Arcanique
 
@@ -9,14 +9,14 @@ Lorsque vous choisissez cette voie au niveau 3, vous obtenez la maîtrise de la 
 
 ## Incantation
 
-Egalement au niveau 3, votre rage se manifeste sous la forme d'un déferlement d'énergie arcanique. Tant que vous ragez, vous pouvez lancer et vous concentrer sur des sorts. De plus, lancer un sort pendant votre tour vous permet de prolonger votre rage comme si vous attaquiez une créature hostile. 
+Également au niveau 3, votre rage se manifeste sous la forme d'un déferlement d'énergie arcanique. Tant que vous ragez, vous pouvez lancer et vous concentrer sur des sorts. De plus, lancer un sort pendant votre tour vous permet de prolonger votre rage comme si vous attaquiez une créature hostile. 
 ### Cantrips (Sorts de niveau 0)
 
-Vous connaissez deux cantrips de votre choix de la liste de sorts de l'ensorceleur. Vous apprenez un cantrip supplémentaire de la lsite de sorts de l'ensorceleur lorsque vous atteignez le niveau 10.
+Vous connaissez deux cantrips de votre choix de la liste de sorts de l'ensorceleur. Vous apprenez un cantrip supplémentaire de la liste de sorts de l'ensorceleur lorsque vous atteignez le niveau 10.
 
 ### Préparation et Incantation de Sorts
 
-La table du Mage Rageur indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts. Pour lancer un sort vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements utilisés lorsque vous terminez un repos long.
+La table du Mage Rageur indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts. Pour lancer un sort, vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements utilisés lorsque vous terminez un repos long.
 
 ### Sorts Connus au Niveau 3 et Après
 
@@ -59,7 +59,7 @@ Le Charisme est votre caractéristique d'incantation pour vos sorts d'ensorceleu
 | 20                | 3               | 13           | 4  ---- 3  ---- 3  ---- 1  |
 ## Furie Arcanique
 
-A partir du niveau 6, lorsque vous utilisez votre action pour attaquer lorsque vous ragez et attaquez témérairement, vous pouvez utiliser votre action bonus pour lancer un sort à la place de l'une de vos attaques. Le sort doit avoir une incantation d'une action ou une action bonus.
+À partir du niveau 6, lorsque vous utilisez votre action pour attaquer lorsque vous ragez et attaquez témérairement, vous pouvez utiliser votre action bonus pour lancer un sort à la place de l'une de vos attaques. Le sort doit avoir une incantation d'une action ou une action bonus.
 
 ## Exploits Surnaturels
 
@@ -67,4 +67,4 @@ Au niveau 10, vous pouvez canaliser votre magie latente pour réaliser de specta
 
 ## Explosions Occultes
 
-A partir du niveau 14, vous manifestez des décharges arcaniques à chacun de vos coups. Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez dépenser un emplacement de sort pour créer une explosion d'énergie à un point que vous choisissez à 10 ft. Chaque créature autre que vous dans un rayon de 10 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sorts, prenant 2d6 dégâts de force par niveau d'emplacement de sort dépensé en cas d'échec, la moitié en cas de réussite.
+À partir du niveau 14, vous manifestez des décharges arcaniques à chacun de vos coups. Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez dépenser un emplacement de sort pour créer une explosion d'énergie à un point que vous choisissez à 10 ft. Chaque créature autre que vous dans un rayon de 10 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sorts, prenant 2d6 dégâts de force par niveau d'emplacement de sort dépensé en cas d'échec, la moitié en cas de réussite.

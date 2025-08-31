@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Motivational Speech
-step: empty
+status: empty
 ---
 

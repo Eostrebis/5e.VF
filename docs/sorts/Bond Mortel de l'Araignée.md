@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Jump
-step: empty
+status: empty
 ---
 

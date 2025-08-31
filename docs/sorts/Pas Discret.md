@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Duskwalk
-step: empty
+status: empty
 ---
 

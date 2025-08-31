@@ -15,7 +15,7 @@ Portée: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Healing Word
-step: empty
+status: empty
 ---
 Une créature de votre choix que vous pouvez voir à portée regagne un nombre de points de vie égal à 1d4 + votre modificateur d'incantation. Ce sort n'a aucun effet sur les morts-vivants ou les constructions.
 

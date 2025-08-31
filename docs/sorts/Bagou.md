@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Glibness
-step: empty
+status: empty
 ---
 

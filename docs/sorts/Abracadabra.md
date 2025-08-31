@@ -15,7 +15,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Hocuspocus
-step: empty
+status: empty
 ---
 Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :
 

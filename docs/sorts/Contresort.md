@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Counterspell
-step: empty
+status: empty
 ---
 

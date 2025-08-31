@@ -16,7 +16,7 @@ Portée: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Frenzy
-step: empty
+status: empty
 ---
 En un geste, vous réduisez une foule à un état instinctif et violent. Choisissez un point que vous pouvez voir à portée. Chaque créature dans un rayon de 20 ft. autour de ce point doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature est frénétique pour la durée du sort. Lorsque une créature est frénétique, si elle a une arme de mêlée, elle la dégaine.
 

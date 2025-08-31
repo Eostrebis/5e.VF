@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Haunt
-step: empty
+status: empty
 ---
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 La diversité des peuples d'Eostrebis se reflète dans la multitude de langues parlées à travers les continents et les plans. Si le Commun sert de langue véhiculaire pour le commerce et la diplomatie, de nombreuses autres langues, qu'elles soient anciennes, planaires ou régionales, continuent d'être utilisées par les différentes races qui peuplent le monde.
 

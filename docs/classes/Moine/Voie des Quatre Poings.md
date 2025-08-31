@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 À travers de prudentes manipulations de leur ki, les moines de la voie des quatre poings cherchent à simuler le style de combat inhabituel du Roi Singe. En progressant dans leur entraînement, ces moines subissent une transformation magique, gagnant des caractéristiques simiesques.  En combat, les maîtres de cette tradition monastique est un masse tourbillonnante et floue de coudes, de fourrure et de poings.
 

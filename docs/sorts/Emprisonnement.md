@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Imprisonment
-step: empty
+status: empty
 ---
 

@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme chef-d'œuvre

@@ -14,7 +14,7 @@ Portée: Personnelle
 Concentration: true
 Rituel: false
 englishname: Banishing Smite
-step: empty
+status: empty
 ---
 La prochaine fois que vous touchez une créature avec une attaque avec une arme avant que le sort ne termine, votre arme déborde d'énergie magique, et l'attaque inflige 5d10 dégâts de force supplémentaire à la cible.
 

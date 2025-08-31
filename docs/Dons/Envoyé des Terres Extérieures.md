@@ -1,7 +1,7 @@
 ---
 englishname: Outlands Envoy
 requis: Niveau 4, Rejeton des Plans Extérieurs (Terres Extérieures)
-step: empty
+status: empty
 ---
 Vous avez passé un certain temps à Sigil ou sur les Terres Extérieures, le carrefour du multivers. Être plongé dans ces énergies planaires convergentes vous confères les effets suivants :
 

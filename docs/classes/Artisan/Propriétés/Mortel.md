@@ -1,5 +1,5 @@
 ---
-step: finished
+status: finished
 ---
 _Propriété d'Arme Légendaire_
 __Composantes :__ [[Armes à Feu|Arme à Feu]] exotique chef-d'œuvre 

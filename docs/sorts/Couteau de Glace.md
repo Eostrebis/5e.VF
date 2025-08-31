@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Ice Knife
-step: empty
+status: empty
 ---
 

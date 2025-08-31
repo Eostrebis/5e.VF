@@ -1,7 +1,7 @@
 ---
 englishname: Keen Mind
 requis:
-step: empty
+status: empty
 ---
 Vous possédez un esprit particulièrement affûté, capable de garder trace du temps, de la direction, et des détails avec une précision étonnante. Vous bénéficiez des effets suivants : 
 

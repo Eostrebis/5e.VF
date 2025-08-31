@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Speak with Dead
-step: empty
+status: empty
 ---
 

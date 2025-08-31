@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Tasha's Caustic Brew
-step: empty
+status: empty
 ---
 

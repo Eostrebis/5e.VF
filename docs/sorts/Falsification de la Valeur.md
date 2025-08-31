@@ -16,7 +16,7 @@ Portée: Touché
 Concentration: false
 Rituel: false
 englishname: Distort Value
-step: empty
+status: empty
 ---
 Vous lancez ce sort sur un objet qui ne fait pas plus de 1 ft. dans chacune de ses dimensions, doublant sa valeur perceptible en ajoutant des finitions illusoires ou réduisant sa valeur perceptible de moitié à l'aide de traces d'usures illusoires. N'importe qui examinant l'objet doit réaliser un jet d'Investigation contre votre DD de sort.
 

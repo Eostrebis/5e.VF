@@ -12,5 +12,5 @@ Portée:
 Concentration:
 Rituel:
 englishname: Scrying
-step: empty
+status: empty
 ---

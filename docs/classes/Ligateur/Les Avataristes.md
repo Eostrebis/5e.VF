@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 Tous les ligateurs font appel aux vestiges depuis le Vide, mais seuls les avataristes sont capables de leur conférer une forme physique. Ce savoir-faire est une discipline antique qui consiste à manier la magie même qui invoque les fiélons des enfers — et tout comme tous les grands secrets de la ligature, invoquer un avatar est une hérésie absolue. Ceux qui y parviennent rejoignent les rangs des avataristes, une légion de ligateurs qui ne se battent qu'en utilisant la manifestation d'esprits. Ces batailles sont autant des combats d'égo qu'une bagarre physique, puisqu'une partie des blessures infligées à un avatar se retrouve répercutée sur le ligateur.
 

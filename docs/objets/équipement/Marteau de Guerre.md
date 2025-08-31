@@ -3,7 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 15
 poids: 2
 englishname: Warhammer
-step: empty
+status: empty
 ---
 
 | Dégâts          | Propriétés        |

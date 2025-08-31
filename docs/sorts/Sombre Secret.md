@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Dark Secret
-step: empty
+status: empty
 ---
 

@@ -13,7 +13,7 @@ Portée: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Frigid Blade
-step: empty
+status: empty
 ---
 Dans la même action que celle utilisée pour lancer ce sort, vous devez réalisez une attaque de mêlée avec une arme contre une créature à portée, ou le sort échoue. Si vous touchez, l'attaque inflige les dégâts normalement, si ce n'est que ce sont des dégâts de froid. De plus, la cible est couverte d'un léger givre jusqu'au début de votre prochain tour. Si la cible bouge volontairement d'ici là, vous pouvez utiliser votre réaction pour lui infliger 1d8 dégâts de froid, terminant le sort.
 

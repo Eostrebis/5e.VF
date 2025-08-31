@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Meld into Stone
-step: empty
+status: empty
 ---
 

@@ -19,6 +19,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Cryptogram
-step: empty
+status: empty
 ---
 

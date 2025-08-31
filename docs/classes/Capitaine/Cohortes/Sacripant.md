@@ -1,5 +1,5 @@
 ---
-step: empty
+status: finished
 ---
 >## Sacripant
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*

@@ -19,6 +19,6 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Blade Ward
-step: empty
+status: empty
 ---
 Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous avez la résistance contre les dégâts contondants, perçants et tranchants infligés par des attaques à main armée.

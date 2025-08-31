@@ -16,7 +16,7 @@ Portée: Personnelle
 Concentration: false
 Rituel: false
 englishname: Goan Arcane Cloak
-step: empty
+status: empty
 ---
 Vous vous enrobez d'une cape composée d'énergie magique. Vous gagnez l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques, mais vous prenez 1d4 dégâts de feu si vous ratez le jet de sauvegarde.
 

@@ -17,7 +17,7 @@ Portée: Personnelle
 Concentration: true
 Rituel: false
 englishname: Ashardalon's Stride
-step: empty
+status: empty
 ---
 Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Thunder Step
-step: empty
+status: empty
 ---
 

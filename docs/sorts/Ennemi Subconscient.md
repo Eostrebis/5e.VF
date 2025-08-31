@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Weird
-step: empty
+status: empty
 ---
 

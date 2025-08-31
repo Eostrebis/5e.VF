@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Prismatic Spray
-step: empty
+status: empty
 ---
 

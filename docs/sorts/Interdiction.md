@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Forbiddance
-step: empty
+status: empty
 ---
 

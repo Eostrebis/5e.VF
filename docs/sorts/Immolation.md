@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Immolation
-step: empty
+status: empty
 ---
 

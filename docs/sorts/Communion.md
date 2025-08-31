@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Commune
-step: empty
+status: empty
 ---
 

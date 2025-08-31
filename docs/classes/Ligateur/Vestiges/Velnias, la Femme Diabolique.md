@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 
 *Vestige de niveau 4*

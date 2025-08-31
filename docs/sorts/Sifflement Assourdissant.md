@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Shrill Whistle
-step: empty
+status: empty
 ---
 

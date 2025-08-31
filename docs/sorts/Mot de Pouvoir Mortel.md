@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Power Word Kill
-step: empty
+status: empty
 ---
 

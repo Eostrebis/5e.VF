@@ -16,7 +16,7 @@ Portée: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Teleportation Circle
-step: empty
+status: empty
 ---
 Pour lancer ce sort, vous dessinez un cercle de 10 ft. de diamètre au sol inscrit avec des sigils qui lient votre localisation avec celle d'un cercle de téléportation permanent de votre choix dont vous connaissez la séquence de sigils et qui se trouve sur le même plan. Un portail vibrant s'ouvre à l'intérieur du cercle que vous avez dessiné et reste ouvert jusqu'à la fin de votre prochain tour. N'importe quelle créature qui passe au travers du portail réapparait instantanément à 5 ft. du cercle d'arrivée ou sur l'emplacement inoccupé le plus proche.
 

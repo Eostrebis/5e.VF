@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Move Earth
-step: empty
+status: empty
 ---
 

@@ -1,7 +1,7 @@
 ---
 englishname: Agent of Order
 requis: Niveau 4, Rejeton des Plans Extérieurs (Plan Extérieur Loyal)
-step: empty
+status: empty
 ---
 Vous pouvez canaliser les forces cosmiques de l'ordre pour gagner les effets suivants : 
 

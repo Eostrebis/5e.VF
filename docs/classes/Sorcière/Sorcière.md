@@ -1,5 +1,5 @@
 ---
-step: empty
+status: empty
 ---
 
 Trois vieilles groagez se penchent au-dessus d'un chaudron bouillant, rempli de toutes choses plus étranges les unes que les autres, où se forment des bulles aux couleurs étranges laissant échapper des fumées toxiques. Dans la fumée et la vapeur au-dessus du pot, le trio discerne des formes et figurent de la plus haute importance, et une ricane bruyamment à la vue de ces résultats.

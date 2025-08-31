@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Mass Suggestion
-step: empty
+status: empty
 ---
 

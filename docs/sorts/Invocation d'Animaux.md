@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Conjure Animals
-step: empty
+status: empty
 ---
 

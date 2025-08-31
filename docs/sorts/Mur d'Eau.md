@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Wall of Water
-step: empty
+status: empty
 ---
 

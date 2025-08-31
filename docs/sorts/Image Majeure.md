@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Major Image
-step: empty
+status: empty
 ---
 

@@ -16,7 +16,7 @@ Portée: Touché
 Concentration: true
 Rituel:
 englishname: Magic Weapon
-step: empty
+status: empty
 ---
 Vous touchez une arme non magique. Jusqu'à ce que le sort se termine, cette arme devient une arme magique avec un bonus de +1 aux jets d'attaque et de dégâts.
 

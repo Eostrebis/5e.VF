@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Darkvision
-step: empty
+status: empty
 ---
 

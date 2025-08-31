@@ -1,5 +1,5 @@
 ---
-step: wip
+status: wip
 ---
 ## Personnage
 

@@ -14,7 +14,7 @@ Portée: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Burning Blade
-step: empty
+status: empty
 ---
 
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts de feu. De plus, un tourbillon enflammé se crée dans l'espace de la cible. Jusqu'au début de votre prochain tour, lorsqu'une créature entre dans cet espace pour la première fois ou qu'elle y termine son tour, vous pouvez utiliser votre réaction pour lui infliger 1d6 dégâts de feu et terminer le sort.

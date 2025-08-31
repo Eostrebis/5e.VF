@@ -1,3 +1,3 @@
 ---
-step: empty
+status: empty
 ---

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Silent Image
-step: empty
+status: empty
 ---
 

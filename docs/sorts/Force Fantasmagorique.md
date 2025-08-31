@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Phantasmal Force
-step: empty
+status: empty
 ---
 

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Feeblemind
-step: empty
+status: empty
 ---
 

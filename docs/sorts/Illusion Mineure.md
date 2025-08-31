@@ -18,7 +18,7 @@ Portée: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Minor Illusion
-step: empty
+status: empty
 ---
 Vous créez un son ou l'image d'un objet à portée qui persiste pour la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
 

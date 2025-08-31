@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Intellect Fortress
-step: empty
+status: empty
 ---
 

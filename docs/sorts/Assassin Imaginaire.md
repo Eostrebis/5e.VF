@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Phantasmal Killer
-step: empty
+status: empty
 ---
 

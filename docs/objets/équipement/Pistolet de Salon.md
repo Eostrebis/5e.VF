@@ -4,7 +4,7 @@ coût: 75
 poids: 2
 englishname: Parlor Gun
 Ère: Industrielle
-step: empty
+status: empty
 ---
 | Dégâts       | Propriétés                                                       |
 | ------------ | ---------------------------------------------------------------- |

@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Druid Grove
-step: empty
+status: empty
 ---
 

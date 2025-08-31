@@ -18,7 +18,7 @@ Portée: 30 ft.
 Concentration:
 Rituel:
 englishname: Aid
-step: empty
+status: empty
 ---
 Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de point de vie et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort.
 

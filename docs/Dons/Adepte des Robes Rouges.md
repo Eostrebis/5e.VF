@@ -1,7 +1,7 @@
 ---
 englishname: Adept of the Red Robes
 requis: Niveau 4, [[Recrue de la Haute-Sorcellerie]] (Lunitari)
-step: empty
+status: empty
 ---
 Vous avez choisi la lune Lunitari comme influence de votre magie, et votre engagement à maintenir l'équilibre entre toutes choses a été reconnu par l'Ordre des Robes Rouges, qui vous confère ces effets :
 

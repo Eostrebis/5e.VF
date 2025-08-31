@@ -12,6 +12,6 @@ Portée:
 Concentration:
 Rituel:
 englishname: Water Breathing
-step: empty
+status: empty
 ---
 

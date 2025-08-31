@@ -18,7 +18,7 @@ Portée: Personnelle
 Concentration:
 Rituel:
 englishname: Disguise Self
-step: empty
+status: empty
 ---
 Vous changez d'apparence jusqu'à ce que le sort ne se termine ou que vous utilisiez une action pour le dissiper. Le changement inclut vos vêtements, votre armure, vos armes et les autres objets que vous portez. Vous pouvez paraître 30 cm plus grand ou plus petit, plus mince ou plus obèse. Vous ne pouvez pas modifier votre type morphologique. Vous devez donc prendre une forme qui présente un arrangement similaire des membres. Par ailleurs, l'ampleur de l'illusion ne tient qu'à vous.  
 
