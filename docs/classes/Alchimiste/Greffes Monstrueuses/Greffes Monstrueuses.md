@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 Adopter les griffes redoutables d'une monstruosité ou le souffle brûlant d'un dragon est une manière inhabituelle mais infaillible de prendre l'avantage sur ses ennemis. Cependant, beaucoup trouvent la pratique de la Xénoalchimie ou celle des Greffes Monstrueuses (qui consiste à attacher chirurgicalement des parties monstrueuses sur un corps humanoïde) de mauvais goût, si ce n'est carrément répugnante. Cette science marginale, obsédée par les appendices et les organes des monstres, peut remplacer les membres des amputés, accorder aux aventuriers la capacité surnaturelle de voir dans le noir ou leur conférer des armes et des sens non conventionnels.
 

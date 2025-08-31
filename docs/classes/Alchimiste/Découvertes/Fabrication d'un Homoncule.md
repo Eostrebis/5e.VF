@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 En utilisant un processus alchimique complexe demandant 8 heures de travail, qui peut être réalisé pendant un repos long, vous pouvez créer un homoncule. Un homoncule fonctionne comme un familier créé par le sort [[Appel de Familier]], avec quelques différences : 
  - Le lien télépathique entre vous et l'homoncule fonctionne quelle que soit la distance, tant que vous êtes sur le même plan de l'existence.

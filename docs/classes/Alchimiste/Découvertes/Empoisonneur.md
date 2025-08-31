@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 Votre recherche des mélanges empoisonnés vous a appris comment réaliser de toxines létales. Vous gagnez la maîtrise du kit d'empoisonneur. De plus, vous pouvez fabriquer les poisons suivants quand vous concoctez des potions, qui utilisent votre DD de sauvegarde de bombes, plutôt que leur DD usuel : 
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme à distance exotique chef-d'œuvre qui n'a pas la propriété Arme à Feu

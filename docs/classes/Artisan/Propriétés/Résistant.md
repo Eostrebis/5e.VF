@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Armure Compagnon_
 __Composantes :__ Armure chef-d'œuvre

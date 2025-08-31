@@ -1,10 +1,10 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Armure Maître_
 __Composantes :__ Armure lourde exotique chef-d'œuvre
 
-Cette armure est enchanté avec une puissante magie de transmutation. Pour une action, vous pouvez retirer l'armure, qui s'anime comme d'après le sort [[Animation d'Objets]] et devient un objet animé de taille M.
+Cette armure est enchantée avec une puissante magie de transmutation. Pour une action, vous pouvez retirer l'armure, qui s'anime comme d'après le sort [[Animation d'Objets]] et devient un objet animé de taille M.
 
 La CA de l'armure est égale à la vôtre tant que vous la portiez, et elle utilise votre bonus d'attaque de mêlée plutôt que le sien. Si vous teniez une arme lorsque l'armure s'est animée, elle peut réaliser une attaque avec cette arme plutôt que son habituel attaque d'écrasement.
 

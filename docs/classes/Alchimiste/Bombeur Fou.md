@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 Même si la plupart des "bombeurs fous" ne sont pas vraiment fous, ça demande un certain niveau de cinglé pour dévouer son unique vie à l'étude des explosifs. La plupart des alchimistes qui se spécialisent dans ce domaine sont d’incorrigibles pyromanes qui prennent grand plaisir à brûler, exploser, et dynamiter des trucs. Les bombeurs fous sont toujours en train de travailler pour améliorer l'efficacité de leurs bombes.
 

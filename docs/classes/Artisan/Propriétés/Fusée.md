@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Arme Compagnon_
 __Composantes :__ Arme exotique chef-d'œuvre

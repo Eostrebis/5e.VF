@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 Comme une des premières thèses alchimiques le dit : si l'énergie fondamentale de la magie pouvait être capturée dans une réalité physique, il n'y aurait plus besoin d'utilisateurs de la magie. Certains alchimistes ont fondé leur carrière sur cette notion, inventant et itérant des petits appareils connus comme des dynamos de sorts, qui peuvent emmagasiner et relâcher l'énergie arcanique. Ces dynamos peuvent être configurées pour garder leur énergie à une fréquence spécifique si bien que, quand elles la relâchent, cette énergie réplique parfaitement l'effet d'un sort. Ainsi, ces quelques alchimistes ont commencé à braver la frontière de l'incantation, sans une once de talent arcanique ; simplement un truc pour le bricolage et la bidouille.
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 *Requis : Niveau 13, Apothicaire*
 

@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]

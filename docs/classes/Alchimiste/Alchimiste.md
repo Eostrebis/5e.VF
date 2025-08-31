@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 Un gnome grimaçant caquette avec allégresse alors qu'il envoie une bombe au beau milieu d'un groupe de gobelins le chargeant, les explosant en morceaux brûlés. Il en crée une autre, la jette à ses pieds, et disparaît, toujours riant, dans un nuage de fumée.
 

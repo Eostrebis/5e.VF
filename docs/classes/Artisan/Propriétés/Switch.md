@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Deux armes exotiques chefs-d'œuvre

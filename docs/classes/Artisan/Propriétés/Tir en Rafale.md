@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme à feu exotique chef-d'œuvre avec la propriété Automatique

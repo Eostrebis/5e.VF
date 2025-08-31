@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 En mélangeant le contenu explosif de votre bombe avec quelques gouttes d'acide ardenflotique, un produit chimique hautement corrosif, vous pouvez la transformer en bombe d'acide. Une bombe acide inflige des dégâts acides plutôt que de feu, et ses dés de dégâts sont des d4s. De plus, la cible, ainsi que toutes les créatures dans le rayon d'explosion qui ratent le jet de sauvegarde, prennent le même montant de dégâts à la fin de leur prochain tour.
 

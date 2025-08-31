@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 *Requis : Niveau 7, Forgeron de Venin*
 

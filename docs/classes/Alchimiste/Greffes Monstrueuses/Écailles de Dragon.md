@@ -1,7 +1,7 @@
 ---
 donneur: Un Dragon de taille G ou supérieure
 emplacement: Externe
-step: empty
+step: finished
 ---
 Vous vous êtes implanté la peau écailleuse d'un dragon sur le corps. Lorsque vous ne portez pas d'armure, cette armure naturelle vous prodigue une CA de base de 17. 
 

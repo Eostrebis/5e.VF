@@ -1,5 +1,5 @@
 ---
-step: empty
+step: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme martiale chef-d'œuvre
