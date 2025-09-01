@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Vous pensez que la camaraderie et la gloire vont de pair, que vous et vos alliés êtes invincibles tant que vous restez soudés. Ainsi, vous avez été entraîné aux lames et hallebardes pour le combat rapproché. Votre rôle n'est pas d'être à l'arrière afin de supporter vos alliés, mais bien de tirer une simple salve avant de charger, baïonnette en main, de telle sorte que vous réussirez ou échouerez ensemble.
 
@@ -13,7 +13,7 @@ Au niveau 3, vous pouvez charger et tirer des balles particulièrement denses. L
 
 ## Platine, Crosse et Canon
 
-Au niveau 7, vous ignorez les propriétés *Chargement* et *Enrayage* du [[tromblon]], du [[mousquet]] et du [[pistolet à silex]].
+Au niveau 7, vous ignorez les propriétés [[Propriétés d'Arme#Chargement|Chargement]] et [[Propriétés d'Arme#Malfonctionnement|Malfonctionnement]] du [[tromblon]], du [[mousquet]] et du [[pistolet à silex]].
 
 ## Charge à la Baïonnette
 

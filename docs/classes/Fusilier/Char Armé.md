@@ -1,7 +1,7 @@
 ---
 requis:
   - Force 15
-status: empty
+status: finished
 ---
 Soyez plus grand, plus impressionnant, plus solide, et personne ne se tiendra en travers de votre route. Vous êtes un engin de siège vivant, un titan de muscles, maniant des armes que le commun des mortels ne peut soulever. Armé de ces impressionnantes armes à feu, vous intervenez au milieu du champ de bataille, bombardant et détruisant tous ceux suffisamment fous pour s'approcher de vous.
 
@@ -21,7 +21,7 @@ Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour
 
 ## Fort comme un Bœuf
 
-À partir du niveau 10, le poids total que vous porter, pousser, tirer et soulever est doublé, et vous avez l'avantage aux jets de Force et jets de sauvegarde de Force. De plus, vous pouvez ignorer la propriété *À deux mains* des armes à feu lourdes que vous maîtrisez.
+À partir du niveau 10, le poids total que vous pouvez porter, pousser, tirer et soulever est doublé, et vous avez l'avantage aux jets de Force et jets de sauvegarde de Force. De plus, vous pouvez ignorer la propriété *À deux mains* des armes à feu lourdes que vous maîtrisez.
 
 ## Rage Flingueuse
 

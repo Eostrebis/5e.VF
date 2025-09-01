@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Le pouvoir primaire que vous maniez a pour origine votre lien profond avec les créatures sauvages, et vous avez pris la tâche de les défendre. Puisque vous partagez la férocité, la ténacité et l'instinct d'une bête sauvage, vous pouvez invoquer une force animale du plus profond de vous, et exterminer vos ennemis dans une transe férale.
 

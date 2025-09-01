@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Certains fusiliers vivent selon un code et attendent des autres qu'ils fassent la même. Ces fusiliers, souvent connus comme les chapeaux blancs, servent parfois d'agent de maintien des lois au niveau local ou régional mais n'hésitent pas à faire ce qui doit être fait. Malgré leur affinité avec les armes mortelles, les chapeaux blancs préfèrent garder leurs amis en sécurité et arrêter leurs ennemis sans les blesser — une préférence que rarement partagée par lesdits ennemis.
 

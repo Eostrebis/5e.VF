@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Les balles sont le pouvoir, et vous avez longtemps pensé que plus de balles signifie forcément un plus grand pouvoir. Ainsi, votre expertise est d'abattre une déferlante de balles afin de pulvériser vos ennemis. Il n'y a pas besoin que chaque balle soit précise pour être impactante.
 

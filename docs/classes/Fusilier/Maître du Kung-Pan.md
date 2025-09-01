@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 L'art ancestral du Kung-Pan est passé de génération en génération de fusiliers qui étudient l'arme à feu comme l'arme parfaite et philosophent sur son fonctionnement. Ce chemin n'est ni pour les impatients, ni pour les petites natures, puisque ceux qui le suivent font de leurs armes une extension de leur corps, apprenant à frapper avec la vitesse d'un fusil et à rattraper les balles en plein vol.
 
