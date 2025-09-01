@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 Une foule difforme s’amasse autour d'un jeune nain aux vêtements impeccables. Il touche chaque personne tour à tour, refermant les blessures, soignant les maladies, et restaurant l'espoir.
 
-Une tieffline en haillons parle dans un parc fréquenté. Comme en réponse, des nuages noirs se forment au-dessus de sa tête, et la terre tremble à ses mots.
+Une tieffline en haillons parle dans un parc fréquenté. Comme en réponse, des nuages noirs se forment au-dessus de sa tête, et la terre tremble à ses mots
 
 Un roi fou crache et jure depuis son trône sur les gardes impériaux morts ou déserteurs. Une drakéïde solitaire se tient devant lui, se préparant solennellement à effectuer un régicide demandé par les dieux.
 
@@ -200,6 +200,5 @@ De plus, pendant cette durée, vous pouvez lancer le sort [[souhait]] une fois, 
 
 À la fin de cette durée, vous mourez. Aucune puissance autre qu'une intervention divine ne peut l'empêcher, et vous ne pouvez être ramené à la vie d'aucune façon que ce soit.
 
-	Martyr Silencieux
-
-		Toutes les histoires de martyr ne finissent pas dans des confrontations épiques contre des ennemis surpuissants. Parfois, le sacrifice d'un martyr se termine sans verser de sang, tout en satisfaisant les dieux. Néanmoins, l'histoire de ces martyrs se terminent tout de même -- ils ne partent plus à l'aventure une fois que leur objectif a été atteint. Peut-être se retirent-ils dans un lointain monastère, se perdent dans le désert, ou se mêlent à la foule, pour ne jamais être retrouvés.
+>[!info] Martyr Silencieux
+> Toutes les histoires de martyr ne finissent pas dans des confrontations épiques contre des ennemis surpuissants. Parfois, le sacrifice d'un martyr se termine sans verser de sang, tout en satisfaisant les dieux. Néanmoins, l'histoire de ces martyrs se terminent tout de même -- ils ne partent plus à l'aventure une fois que leur objectif a été atteint. Peut-être se retirent-ils dans un lointain monastère, se perdent dans le désert, ou se mêlent à la foule, pour ne jamais être retrouvés.

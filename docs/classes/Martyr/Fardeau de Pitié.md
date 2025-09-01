@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Lorsque la souffrance du monde se fait trop lourde et les pleurs des angoissés trop forts, les dieux désignent un martyr pour apaiser les conflits et amener la paix aux masses. Ce fardeau, cependant, est sans fin. Un martyr pourrait passer toute sa journée à soigner les malades et exorciser des démons sans pour autant n'avoir d'impact sur le monde dans sa globalité. Ainsi, il ne leur incombe pas de guérir toutes les blessures ou de réconforter toutes les veuves, mais de présenter un espoir dans les temps les plus sombres. Cet espoir que les dieux n'ont pas abandonné leurs peuples, que la paix est à venir, et que la lumière vaincra.
 

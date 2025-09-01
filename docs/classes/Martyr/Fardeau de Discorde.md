@@ -1,7 +1,6 @@
 ---
-status: empty
+status: finished
 ---
-
 Les martyrs de la Discorde sont choisis au hasard pour créer du chaos et alimenter le mal partout où ils vont. Ils mettent le feu, commettent des délits, et même tuent lorsque l'envie leur prend. N'obéissant qu'à leurs envies, les martyrs de la discorde ne se rassemblent que sous la bannière du dérangement du statu quo, autant que possible.
 
 Personne n'est certain de pourquoi les dieux créent des martyrs de la Discorde. Peut-être est-ce le caprice d'un dieu lunatique ou mauvais, ou peut-être que les dieux souhaitent un équilibre entre le chaos et la loi, et doivent parfois raviver le feu du chaos pour le maintenir.
