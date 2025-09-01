@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Le reste d'une âme éveillé d'une arme, un esprit de lame se manifeste comme une arme éthérée. Pour une action bonus, vous pouvez réaliser une attaque de sort de mêlée avec cet esprit contre une cible à 5 ft., infligeant 1d8 dégâts tranchants si vous touchez.
 
