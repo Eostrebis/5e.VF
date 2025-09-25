@@ -1,11 +1,12 @@
 ---
-status: empty
+status: finished
 ---
 *Vestige de niveau 1*
 
 *Prérequis : être lié à au moins un autre vestige*
 
 Gyx, mère de tous les ligateurs, ne vous offre aucun pouvoir per se, mais vous laisse profiter du plein potentiel de vos autres vestiges.
+
 # Compétences
 ## Savoir Hérétique
 Vous avez l'avantage aux jets de compétence que vous réalisez pour vous souvenir de mythes, de légendes ou de traditions. De plus, le MJ peut vous autoriser à réaliser ces jets même s'il serait impossible pour vous de connaître ces informations.
