@@ -1,5 +1,5 @@
 ---
-status: empty
+status: wip
 ---
 
 ## Créer un Ligateur
@@ -100,6 +100,16 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 ## Secte Ésotérique
 
 À partir du niveau 3, vous vous alignez avec une secte ésotérique, une organisation secrète de ligateurs liés par des objectifs similaires et un savoir mystique partagé. Choisissez l'une des sectes suivantes. Votre choix de secte vous confère une compétence aux niveaux 3, 7, 10 et 14.
+
+| Secte Ésotérique                   | Description |
+| ---------------------------------- | ----------- |
+| [[L'Église de Gyx]]                |             |
+| [[La Confrérie des Ascètes]]       |             |
+| [[La Loge de la Légion]]           |             |
+| [[Les Avataristes]]                |             |
+| [[Les Fidèles d'Ishtar]]           |             |
+| [[Ordre de la Ligature Cramoisie]] |             |
+| [[Société du Sceau Stygien]]       |             |
 
 ## Suppression des Signes
 
