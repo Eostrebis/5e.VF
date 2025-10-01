@@ -1,11 +1,11 @@
 ---
-status: empty
+status: finished
 ---
-La nuit noire a apporté en ce monde paix et réconfort en des temps mouvementés, démontrant l'insignifiance de ceux qui le frôle. Cependant, vous n'êtes pas ici pour répandre la paix. Vos méditations vous ont conduit au vide où l'Exilé Déchu a autrefois brillé, remplissant votre esprit d'un pouvoir noirci et plein de regrets. Cela peut-être dû par une intervention de l'Exilé lui-même, par l'illumination spirituelle que vous avez atteint de vous-même, ou par les enseignements d'un maître qui a voyagé le chemin obscur. Quelle que soit votre première intention, votre ki est désormais corrompu par ce vide cosmique surnaturel, vous conférant la capacité de le canaliser pour former une puissante arme de lumière et de profondes ténèbres.  Attisant vos techniques de la peur de vos adversaires, vous êtes désormais en quête de compréhension des secrets de cette éternelle étoile noire qui siège au centre du cosmos.
+La nuit noire a apporté en ce monde paix et réconfort en des temps mouvementés, démontrant l'insignifiance de ceux qui le frôlent. Cependant, vous n'êtes pas ici pour répandre la paix. Vos méditations vous ont conduit au vide où l'Exilé Déchu a autrefois brillé, remplissant votre esprit d'un pouvoir noirci et plein de regrets. Cela peut être dû par une intervention de l'Exilé lui-même, par l'illumination spirituelle que vous avez atteint de vous-même, ou par les enseignements d'un maître qui a voyagé le chemin obscur. Quelle que soit votre première intention, votre ki est désormais corrompu par ce vide cosmique surnaturel, vous conférant la capacité de le canaliser pour former une puissante arme de lumière et de profondes ténèbres. Attisant vos techniques de la peur de vos adversaires, vous êtes désormais en quête de compréhension des secrets de cette éternelle étoile noire qui siège au centre du cosmos.
 
 ## Lame du Vide
 
-Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une épée faîte d'ombre et de lumière. Cette arme monastique inflige 1d8 dégâts tranchants et possède les propriétés légère, finesse et jetée (30/60). Vous pouvez choisir d'invoquer cette arme à chaque fois que vous attaquez, et elle disparaît dès que vous la lâchez ou après lavoir jetée. Vous pouvez choisir l'apparence de cette arme à chaque fois que vous l'invoquer, mais elle semble toujours être faîte d'une obscurité pure vêtue de bandes de lumière.
+Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une épée faîte d'ombre et de lumière. Cette arme monastique inflige 1d8 dégâts tranchants et possède les propriétés légère, finesse et jetée (30/60). Vous pouvez choisir d'invoquer cette arme à chaque fois que vous attaquez, et elle disparaît dès que vous la lâchez ou après l'avoir jetée. Vous pouvez choisir l'apparence de cette arme à chaque fois que vous l'invoquer, mais elle semble toujours être faite d'une obscurité pure vêtue de bandes de lumière.
 
 ## Techniques du Clair de Lune
 
@@ -25,11 +25,11 @@ Au niveau 11, votre ki est complètement consommé par le vide entre les étoile
 
 ## Techniques sans Soleil
 
-Également au niveau 11, votre dévotion aux ténèbres au-delà du ciel vous permet d'invoquer de plus grand pouvoirs encore. Vous pouvez dépenser 3 points de ki pour lancer [[Ténèbres Rampantes]], [[croc du renard]], [[Abri d'Ombre]] ou [[poison d'ombre]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 3 points de ki pour lancer les sorts conférés par les autres compétences de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 3.
+Également au niveau 11, votre dévotion aux ténèbres au-delà du ciel vous permet d'invoquer de plus grands pouvoirs encore. Vous pouvez dépenser 3 points de ki pour lancer [[Ténèbres Rampantes]], [[croc du renard]], [[Abri d'Ombre]] ou [[poison d'ombre]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 3 points de ki pour lancer les sorts conférés par les autres compétences de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 3.
 
 ## Connaissance d'un Autre Monde
 
-Au niveau 17, votre voyage spirituel vous a amené à scruter directement au coeur noir des étoiles elles-mêmes, où toute la lumière finit par disparaître, et ce coeur vous a scruté, vous conférant la sagesse collective de l'univers. Pour une action, vous pouvez ouvrir votre esprit à cette connaissance pendant 10 minutes. Pendant ce temps, vous maîtriser toutes les compétences et tous les outils, et vous pouvez utiliser votre modificateur de Sagesse plutôt que n'importe quel autre modificateur, pour n'importe quel jet de compétence.
+Au niveau 17, votre voyage spirituel vous a amené à scruter directement au cœur noir des étoiles elles-mêmes, où toute la lumière finit par disparaître, et ce cœur vous a scruté, vous conférant la sagesse collective de l'univers. Pour une action, vous pouvez ouvrir votre esprit à cette connaissance pendant 10 minutes. Pendant ce temps, vous maîtrisez toutes les compétences et tous les outils, et vous pouvez utiliser votre modificateur de Sagesse plutôt que n'importe quel autre modificateur, pour n'importe quel jet de compétence.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

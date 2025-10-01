@@ -1,7 +1,7 @@
 ---
-status: empty
+status: finished
 ---
-Les moines qui suivent la Voie de l'Arc trouvent la paix intérieur dans la trajectoire parfaite et précis d'un tir de flèche. Vous avez été entraîné à l'archerie montée, à trier un arc les yeux bandés, et à saisir les ailes d'un insecte en vol. En atteignant la concorde parfaite avec vos flèches, aucun exploit d'archerie ne semble hors de votre portée.
+Les moines qui suivent la Voie de l'Arc trouvent la paix intérieure dans la trajectoire parfaite et précise d'un tir de flèche. Vous avez été entraîné à l'archerie montée, à trier un arc les yeux bandés, et à saisir les ailes d'un insecte en vol. En atteignant la concorde parfaite avec vos flèches, aucun exploit d'archerie ne semble hors de votre portée.
 
 ## Style de combat : Archerie
 
@@ -9,7 +9,7 @@ Les moines qui suivent la Voie de l'Arc trouvent la paix intérieur dans la traj
 
 ## Arts Archers
 
-Au niveau 3, vous maîtrisez les arcs longs et courts, que vous traitez comme des armes monastiques. N'importe quelle attaque armée à distance que vous réalisez à 5 ft. d'une créature hostile n'a pas le désavantage. Aussi, vous pouvez dépensez des points de ki pour utiliser les compétences Volée de Flèches et Flèche d'Âme.
+Au niveau 3, vous maîtrisez les arcs longs et courts, que vous traitez comme des armes monastiques. N'importe quelle attaque armée à distance que vous réalisez à 5 ft. d'une créature hostile n'a pas le désavantage. Aussi, vous pouvez dépenser des points de ki pour utiliser les compétences Volée de Flèches et Flèche d'Âme.
 
 Au niveau 6, vous pouvez réaliser une attaque armée à distance pour infliger une Frappe Étourdissante.
 
@@ -19,7 +19,7 @@ Immédiatement après avoir utilisé votre action pour attaquer avec une arme à
 
 ### Flèche d'Âme
 
-Lorsque vous prenez l'action d'attaquer avec une arme à distance pendant votre tour, vous pouvez dépenser 1 point de ki pour tirer une flèche d'âme pour votre première attaque. Une flèche d'âme est une munition normale qui ignore les couvertures partielles et infliges des dégâts supplémentaires égaux à votre modificateur de Sagesse. Tirer une flèche d'âme ne consomme pas de munitions.
+Lorsque vous prenez l'action d'attaquer avec une arme à distance pendant votre tour, vous pouvez dépenser 1 point de ki pour tirer une flèche d'âme pour votre première attaque. Une flèche d'âme est une munition normale qui ignore les couvertures partielles et inflige des dégâts supplémentaires égaux à votre modificateur de Sagesse. Tirer une flèche d'âme ne consomme pas de munitions.
 
 ## Tir Interceptant
 
