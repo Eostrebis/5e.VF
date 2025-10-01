@@ -1,4 +1,4 @@
 ---
-status: empty
+status: finished
 ---
 Pour une action, vous pouvez dépenser 1 point de ki pour choisir une zone de glace ou d'eau de moins de 30 ft. de côté à moins de 120 ft. Vous pouvez transformer l'eau en glace dans cette zone et vice-versa, et vous pouvez modeler la glace comme bon vous semble. Vous pouvez élever ou baisser le niveau de la glace, créer ou remplir une fosse, dresser ou démolir un mur, ou former un pilier. L'étendu de ces changements ne peut pas dépasser la moitié de la dimension la plus large de la zone. Par exemple, si vous affectez un carré de 30 ft., vous pouvez créer un pilier de 15 ft. ou creuser une fosse de 15 ft. Vous ne pouvez pas modeler la glace pour piéger ou blesser une créature dans la zone.
