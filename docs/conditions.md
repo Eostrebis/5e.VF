@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Conditions
-status: empty
+status: finished
 ---
 | Condition (EN) | Condition (FR)  | Logo                                    |
 | -------------- | --------------- | --------------------------------------- |
