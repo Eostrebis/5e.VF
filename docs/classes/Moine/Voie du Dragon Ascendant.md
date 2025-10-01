@@ -1,11 +1,11 @@
 ---
-status: empty
+status: finished
 ---
-Le dieu dragon [[TODO bahamut]] est connu pour arpenter le Plan Matériel déguisé comme un vieux moine, et la légende raconte qu'il a fondé le premier monastère de la voie du dragon ascendant sous cette forme. L'enseignement fondamental de cette tradition soutient qu'en imitant les dragon, un moine peut s'intégrer efficacement avec le monde et sa magie. En changeant leurs esprits pour résonner avec la grandeur draconique, les moines qui suivent cette tradition augmentent leurs prouesses de bataille, renforcent leurs alliés, et peuvent même fendre le ciel de leurs ailes draconiques. Mais tout ce pouvoir est au service d'un but supérieur : achever une unité spirituelle avec l'essence même du Plan Matériel.
+Le dieu dragon [[TODO bahamut]] est connu pour arpenter le Plan Matériel déguisé comme un vieux moine, et la légende raconte qu'il a fondé le premier monastère de la voie du dragon ascendant sous cette forme. L'enseignement fondamental de cette tradition soutient qu'en imitant les dragons, un moine peut s'intégrer efficacement avec le monde et sa magie. En changeant leurs esprits pour résonner avec la grandeur draconique, les moines qui suivent cette tradition augmentent leurs prouesses de bataille, renforcent leurs alliés, et peuvent même fendre le ciel de leurs ailes draconiques. Mais tout ce pouvoir est au service d'un but supérieur : achever une unité spirituelle avec l'essence même du Plan Matériel.
 
 En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vous avez libéré le pouvoir des dragons en vous. La table ci-dessous offre quelques possibilités :
 
-| d6  | Origin                                                                                                                                                                |
+| d6  | Origine                                                                                                                                                                |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Vous avez perfectionné vos compétences en alignant votre esprit avec le pouvoir immense d'un dragon.                                                                  |
 | 2   | Un dragon a eu un rôle important pour modeler votre énergie intérieure.                                                                                               |
@@ -16,11 +16,11 @@ En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vou
 
 ## Disciple Draconique
 
-À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez canaliser le pouvoir draconique pour augmenter votre présence et insuffler vos attaques à mains nues avec l'essence d'une souffle de dragon. Vous gagnez les effets suivants : 
+À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez canaliser le pouvoir draconique pour augmenter votre présence et insuffler vos attaques à mains nues avec l'essence d'un souffle de dragon. Vous gagnez les effets suivants : 
 
 **Présence Draconique.** Si vous ratez un jet de Charisme (Intimidation) ou Charisme (Persuasion), vous pouvez utiliser votre réaction pour retirer le jet, en puisant dans l'immense présence des dragons. Une fois que cette compétence transforme un échec en succès, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
 
-**Coup Draconique.** Lorsque vous infligez des dégâts à une cible avec une attaque à mains nues, vous changer le type de dégâts pour acide, froid, feu, foudre ou poison.
+**Coup Draconique.** Lorsque vous infligez des dégâts à une cible avec une attaque à mains nues, vous changez le type de dégâts pour acide, froid, feu, foudre ou poison.
 
 **Langue des Dragons.** Vous apprenez à parler, écrire et lire le Draconique, ou une autre langue de votre choix.
 
@@ -34,7 +34,7 @@ Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de
 
 ## Ailes Déployées
 
-Au niveau 6, lorsque vous utilisez votre Pas du Vnet, vous pouvez déployer des ailes draconiques spectrales dans votre dos qui disparaîssent à la fin de votre tour. Tant que ces ailes existent, vous possèdez une vitesse de vol égale à votre vitesse de marche.
+Au niveau 6, lorsque vous utilisez votre Pas du Vent, vous pouvez déployer des ailes draconiques spectrales dans votre dos qui disparaissent à la fin de votre tour. Tant que ces ailes existent, vous possédez une vitesse de vol égale à votre vitesse de marche.
 
 Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -46,7 +46,7 @@ Au niveau 11, le pouvoir de votre esprit draconique irradie de vous, protégeant
 
 **Résistance.** Choisissez un type de dégâts lorsque vous activez cette aura : acide, froid, feu, foudre ou poison. Vous et vos alliés dans l'aura ont la résistance contre ces dégâts.
 
-Une fois que vous avez créé cette aura, vous ne pouvez pas le refaire jusqu'à ce que vous finissez un repos long, ou dépensiez 3 poins de ki.
+Une fois que vous avez créé cette aura, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long, ou dépensiez 3 poins de ki.
 
 ## Aspect Ascendant
 
