@@ -3,7 +3,7 @@ import os
 from pathlib import Path
 
 working_dir = "/home/runner/work/5e.VF/5e.VF/docs/"
-working_dir = "C:\\Users\\User\\Documents\\Gautier\\5e.VF\\5e\\docs"
+working_dir = "C:\\Users\\frosq\\workspace\\JdR\\5e.VF\\docs"
 directory = Path(working_dir)
 
 

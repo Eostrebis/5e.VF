@@ -7,13 +7,13 @@ level: 2
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: Personnelle
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Alter Self
 status: empty
 ---

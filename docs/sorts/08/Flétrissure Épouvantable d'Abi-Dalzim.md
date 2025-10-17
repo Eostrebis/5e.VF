@@ -11,8 +11,8 @@ Somatique: true
 detailmat: Un morceau d'éponge
 Durée: Instantanée
 Incantation: 1 Action
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 Matériel: true
 Portée: 150 ft.(30 ft.)
 englishname: Abi-Dalzim's Horrid Wilting

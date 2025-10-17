@@ -5,7 +5,7 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Minute
 Incantation: 1 Action

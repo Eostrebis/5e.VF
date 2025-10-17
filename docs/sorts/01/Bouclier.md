@@ -6,7 +6,7 @@ level: 1
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Tour
 Incantation: 1 Réaction

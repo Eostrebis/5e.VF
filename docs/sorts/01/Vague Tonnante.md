@@ -14,8 +14,8 @@ detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: Personnelle (rayon de 15 ft.)
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Thunderwave
 status: empty
 ---

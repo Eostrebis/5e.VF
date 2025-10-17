@@ -18,7 +18,7 @@ Durée: 1 Minute
 Incantation: 1 Action
 Portée: Touché
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Protection from Ballistics
 status: empty
 ---

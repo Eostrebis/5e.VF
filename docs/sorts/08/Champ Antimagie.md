@@ -11,7 +11,7 @@ Matériel: true
 detailmat: Une pincée de poudre de fer
 Durée: 1 Heure
 Incantation: 1 Action
-Portée:
+Portée: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Antimagic Field

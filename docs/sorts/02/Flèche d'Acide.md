@@ -11,8 +11,8 @@ detailmat: Une feuille de rubarbe en poudre, et un estomac de vipère
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 90 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Acid Arrow
 status: empty
 ---

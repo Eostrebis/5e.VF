@@ -13,7 +13,7 @@ Durée: Instantanée
 Incantation: 1 Action
 Portée: Touché
 Concentration: false
-Rituel:
+Rituel: false
 englishname: Tag
 status: empty
 ---

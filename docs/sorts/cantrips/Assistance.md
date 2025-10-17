@@ -7,13 +7,13 @@ level: 0
 school: Divination
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Minute
 Incantation: 1 Action
 Portée: Touché
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Guidance
 status: empty
 ---

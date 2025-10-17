@@ -15,7 +15,7 @@ level: 1
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat: Quelques centilitres de sang
 Durée: Instantanée
 Incantation: 1 Action

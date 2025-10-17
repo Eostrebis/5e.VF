@@ -12,8 +12,8 @@ detailmat:
 Durée: 1 Tour
 Incantation: 1 Action Bonus
 Portée: Personnelle
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Shadow Refuge
 status: empty
 ---

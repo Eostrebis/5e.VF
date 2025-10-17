@@ -12,8 +12,8 @@ detailmat: Un sceau en argent
 Durée: 8 Heures
 Incantation: 1 Minute
 Portée: Personnelle (rayon de 30 ft.)
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Nether Seal
 status: empty
 ---

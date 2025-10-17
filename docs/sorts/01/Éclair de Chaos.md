@@ -10,8 +10,8 @@ detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 120 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Chaos Bolt
 status: empty
 ---

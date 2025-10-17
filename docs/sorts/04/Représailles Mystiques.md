@@ -11,8 +11,8 @@ detailmat:
 Durée: Instantanée
 Incantation: 1 Réaction
 Portée: Personnelle
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Mystic Rebuke
 status: empty
 ---

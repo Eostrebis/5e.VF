@@ -8,7 +8,7 @@ level: 1
 school: Nécromancie
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Minute
 Incantation: 1 Action

@@ -10,13 +10,13 @@ level: 0
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 60 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Toll the Dead
 status: empty
 ---

@@ -10,13 +10,13 @@ level: 1
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: Personnelle
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Disguise Self
 status: empty
 ---

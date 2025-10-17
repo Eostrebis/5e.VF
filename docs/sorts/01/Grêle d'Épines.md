@@ -5,13 +5,13 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Minute
 Incantation: 1 Action Bonus
 Portée: Personnelle
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Hail of Thorns
 status: empty
 ---

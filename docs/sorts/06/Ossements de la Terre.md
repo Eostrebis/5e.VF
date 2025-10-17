@@ -5,13 +5,13 @@ level: 6
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Matériel: false
 detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 120 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Bones of the Earth
 status: empty
 ---
