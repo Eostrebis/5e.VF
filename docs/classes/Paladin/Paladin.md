@@ -1,5 +1,5 @@
 ---
-status: empty
+status: wip
 ---
 
 ## Créer un paladin

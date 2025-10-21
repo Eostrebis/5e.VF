@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Les moines suivant la Voie de l'Âme du Soleil apprennent à canaliser leur force vitale pour former de brûlants rayons de lumière. Ils considèrent que la méditation peut leur débloquer la capacité de déchaîner la lumière projetée par l'âme de chaque créature.
 

@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Vous pouvez utiliser votre action pour temporairement contrôler les forces élémentaires à 30 ft., provoquant un des effets suivants de votre choix : 
 

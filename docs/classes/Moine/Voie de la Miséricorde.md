@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 Les moines qui suivent la voie de la miséricorde ont appris à manipuler la force vitale des autres pour apporter de l'aide à ceux qui en ont besoin. Ce sont des médecins itinérants auprès des pauvres et des blessés. Cependant, pour ceux dont le sort est scellé, ils apportent une fin rapide en guise de miséricorde.
 
@@ -9,7 +9,7 @@ Les pratiquants de cette voie portent généralement des robes avec des capuchon
 
 ## Instruments de Miséricorde
 
-Au niveau 3, vous maîtriser les compétences Perspicacité et Médecine ainsi que le [[kit d'herboriste]]. Vous obtenez également un masque spécial, que vous portez généralement lorsque vous utilisés les compétences de cette sous-classe. Vous déterminez son apparence ou tirez aléatoirement dans la table ci-dessous.
+Au niveau 3, vous maîtrisez les compétences Perspicacité et Médecine ainsi que le [[kit d'herboriste]]. Vous obtenez également un masque spécial, que vous portez généralement lorsque vous utilisez les compétences de cette sous-classe. Vous déterminez son apparence ou tirez aléatoirement dans la table ci-dessous.
 
 | d6  | Apparence du Masque |
 | --- | ------------------- |

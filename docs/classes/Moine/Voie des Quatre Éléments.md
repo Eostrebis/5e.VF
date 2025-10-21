@@ -1,7 +1,7 @@
 ---
-status: empty
+status: finished
 ---
-Vous suivez une tradition monastique qui vous a appris à manier les éléments. Lorsque vous concentrez votre ki, vous pouvez vous aligner avec les forces de la création et tordre les éléments à votre volonté, et les utiliser comme une extension de votre corps. Certains membres de cette tradition se dévoue à un seul élément, mais la plupart manipule les éléments en harmonie.
+Vous suivez une tradition monastique qui vous a appris à manier les éléments. Lorsque vous concentrez votre ki, vous pouvez vous aligner avec les forces de la création et tordre les éléments à votre volonté, et les utiliser comme une extension de votre corps. Certains membres de cette tradition se dévouent à un seul élément, mais la plupart manipulent les éléments en harmonie.
 
 Beaucoup de moines de cette tradition tatouent leur corps avec une représentation de leur pouvoir de ki, souvent sous la forme de dragons mais aussi de phénix, de poissons, de plantes, de montagnes et de vagues.
 
@@ -17,7 +17,7 @@ Vous connaissez la discipline [[Affinité Élémentaire]] et une autre de votre 
 
 Certaines disciplines vous permettent de lancer des sorts. Pour lancer un de ces sorts, vous utilisez son temps d'incantation et les autres règles, mais vous n'avez pas à dépenser de composantes matérielles.
 
-Une fois que vous avez atteint le niveau 5 dans cette classe, vous pouvez dépenser des points de ki additionnels pour augmenter le niveau d'un sort de discipline que vous lancez, supposant que le sort a un effet lorsqu'il est lancé à plus haut niveau, comme [[Mains Brûlantes]]. Le niveau du sort augment de 1 pour chaque point de ki additionnel que vous dépensez. Par exemple, si vous êtes un moine de niveau 5 et que vous utiliser [[Frappe Cendrée Balayante]] pour lancer [[Mains Brûlantes]], vous pouvez dépenser 3 points de ki pour le lancer au niveau 2.
+Une fois que vous avez atteint le niveau 5 dans cette classe, vous pouvez dépenser des points de ki additionnels pour augmenter le niveau d'un sort de discipline que vous lancez, supposant que le sort a un effet lorsqu'il est lancé à plus haut niveau, comme [[Mains Brûlantes]]. Le niveau du sort augment de 1 pour chaque point de ki additionnel que vous dépensez. Par exemple, si vous êtes un moine de niveau 5 et que vous utilisez [[Frappe Cendrée Balayante]] pour lancer [[Mains Brûlantes]], vous pouvez dépenser 3 points de ki pour le lancer au niveau 2.
 
 Le nombre maximum de points de ki que vous pouvez dépenser pour lancer un sort de cette façon est déterminé par votre niveau de moine, et détaillé dans la table ci-dessous.
 

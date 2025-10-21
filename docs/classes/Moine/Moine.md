@@ -1,6 +1,6 @@
 ---
 Title: Moine
-status: empty
+status: finished
 ---
 Ses poings se percevant à peine alors qu'ils parent une volée de flèches, une demie-elfe saute au-dessus d'une barricade et se jette dans la mêlée de hobgobelins de l'autre côté. Elle danse presque au milieu d'eux, repoussant gracieusement leurs coups, et les envoyant voler, jusqu'à ce qu'il ne reste plus qu'elle.
 
@@ -30,6 +30,7 @@ En créant votre moine, pensez à votre connexion au monastère où vous avez ap
 Réfléchissez à pourquoi vous êtes parti. Est-ce que le chef de votre monastère vous a désigné pour une importante mission hors des murs du cloître ? Peut-être avez-vous été banni pour avoir violé une des règles de la communauté. Est-ce que vous étiez craintif à l'idée de partir, ou plutôt réjoui ? Y a-t-il quelque chose que vous espérez accomplir en dehors du monastère ? Êtes-vous impatient d'y revenir ?
 
 En raison de la vie structurée des communautés monastiques et de la discipline nécessaire pour maîtriser le ki, les moines sont presque toujours d'alignement loyal.
+
 ### Création Rapide
 
 Vous pouvez créer un Moine rapidement en suivant ces suggestions. Commencez par faire de la Dextérité votre caractéristique principale, suivie de la Sagesse. Choisissez l'historique [[ermite]].
