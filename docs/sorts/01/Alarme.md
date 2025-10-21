@@ -14,7 +14,7 @@ detailmat: Une petite cloche et un bout de fil d'argent
 Durée: 8 Heures
 Incantation: 1 Minute
 Portée: 30 ft.
-Concentration:
+Concentration: false
 Rituel: true
 englishname: Alarm
 status: empty

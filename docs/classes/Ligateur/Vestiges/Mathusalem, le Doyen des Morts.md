@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 *Vestige de niveau 6*
 
-Humain qui a vécu si longtemps qu'il a fini par glisser entre la vie et la mort, Mathusalem confère à ses ligateurs un pouvoir sur les morts-vivants ainsi que son étrange déconnexion avec la mortalité.
+Humain qui a vécu si longtemps qu'il a fini par glisser entre la vie et la mort, Mathusalem confère à ses ligateurs un pouvoir sur les morts-vivants ainsi que son étrange déconnexion avec la mortalité
 
 # Compétences
 

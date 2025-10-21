@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 *Vestige de niveau 4*
 
-Trahi par ses amis et ses ennemis, Nezaré le vengeur offre à ses ligateurs sa chair meurtrie et son sang bouillant.
+Trahi par ses amis et ses ennemis, Nezaré le vengeur offre à ses ligateurs sa chair meurtrie et son sang bouillant
 
 # Compétences
 

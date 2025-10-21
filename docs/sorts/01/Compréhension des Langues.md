@@ -15,7 +15,7 @@ detailmat: Un pincée de suie et de sel
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: Personnelle
-Concentration:
+Concentration: false
 Rituel: true
 englishname: Comprehend Languages
 status: empty

@@ -11,13 +11,13 @@ level: 0
 school: Divination
 Verbal: false
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Tour
 Incantation: 1 Action
 Portée: 30 ft.
 Concentration: true
-Rituel:
+Rituel: false
 englishname: True Strike
 status: empty
 ---

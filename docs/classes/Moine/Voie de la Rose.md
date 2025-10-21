@@ -29,3 +29,4 @@ Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d
 
 Une fois que vous avez atteint le niveau 17, vous distrayez vos ennemis avec votre beauté et des bouquets de fleurs, les laissant ouvert à de rapides contre-attaques. Lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser 1 point de ki et une réaction pour réaliser une attaque à mains nues contre cette créature.
 
+

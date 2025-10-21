@@ -15,7 +15,7 @@ detailmat: Un morceau de fil et du bois
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: 60 ft.
-Concentration:
+Concentration: false
 Rituel: true
 englishname: Unseen Servant
 status: empty

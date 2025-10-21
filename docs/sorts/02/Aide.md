@@ -15,8 +15,8 @@ detailmat: Un petit morceau de tissu blanc
 Durée: 8 Heures
 Incantation: 1 Action
 Portée: 30 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Aid
 status: empty
 ---

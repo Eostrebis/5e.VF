@@ -27,7 +27,7 @@ Le visage spectral recouvre votre face comme un casque ou un masque. Vous déter
 
 Tant que ce visage spectral est présent, vous bénéficiez des effets suivants :
 
-**Vision Astrale.** Vous voyez normalement dans les ténèbres, magique et non magique, sur une portée de 120 ft.
+**Vision Astrale.** Vous voyez normalement dans les ténèbres, magiques et non magiques, sur une portée de 120 ft.
 
 **Sagesse de l'Esprit.** Vous avez l'avantage aux jets de Sagesse (Perspicacité) et Charisme (Intimidation).
 

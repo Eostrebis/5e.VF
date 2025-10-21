@@ -9,7 +9,7 @@ level: 1
 school: Divination
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 10 Minutes
 Incantation: 1 Action

@@ -1,11 +1,12 @@
 ---
 status: finished
 ---
-La nuit noire a apporté en ce monde paix et réconfort en des temps mouvementés, démontrant l'insignifiance de ceux qui le frôle. Cependant, vous n'êtes pas ici pour répandre la paix. Vos méditations vous ont conduit au vide où l'Exilé Déchu a autrefois brillé, remplissant votre esprit d'un pouvoir noirci et plein de regrets. Cela peut être dû par une intervention de l'Exilé lui-même, par l'illumination spirituelle que vous avez atteint de vous-même, ou par les enseignements d'un maître qui a voyagé le chemin obscur. Quelle que soit votre première intention, votre ki est désormais corrompu par ce vide cosmique surnaturel, vous conférant la capacité de le canaliser pour former une puissante arme de lumière et de profondes ténèbres. Attisant vos techniques de la peur de vos adversaires, vous êtes désormais en quête de compréhension des secrets de cette éternelle étoile noire qui siège au centre du cosmos
+
+La nuit noire a apporté en ce monde paix et réconfort en des temps mouvementés, démontrant l'insignifiance de ceux qui le frôlent. Cependant, vous n'êtes pas ici pour répandre la paix. Vos méditations vous ont conduit au vide où l'Exilé Déchu a autrefois brillé, remplissant votre esprit d'un pouvoir noirci et plein de regrets. Cela peut être dû par une intervention de l'Exilé lui-même, par l'illumination spirituelle que vous avez atteint de vous-même, ou par les enseignements d'un maître qui a voyagé le chemin obscur. Quelle que soit votre première intention, votre ki est désormais corrompu par ce vide cosmique surnaturel, vous conférant la capacité de le canaliser pour former une puissante arme de lumière et de profondes ténèbres. Attisant vos techniques de la peur de vos adversaires, vous êtes désormais en quête de compréhension des secrets de cette éternelle étoile noire qui siège au centre du cosmos.
 
 ## Lame du Vide
 
-Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une épée faîte d'ombre et de lumière. Cette arme monastique inflige 1d8 dégâts tranchants et possède les propriétés légère, finesse et jet (30/60). Vous pouvez choisir d'invoquer cette arme à chaque fois que vous attaquez, et elle disparaît dès que vous la lâchez ou après l'avoir jetée. Vous pouvez choisir l'apparence de cette arme à chaque fois que vous l'invoquer, mais elle semble toujours être faîte d'une obscurité pure vêtue de bandes de lumière.
+Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une épée faîte d'ombre et de lumière. Cette arme monastique inflige 1d8 dégâts tranchants et possède les propriétés légère, finesse et jetée (30/60). Vous pouvez choisir d'invoquer cette arme à chaque fois que vous attaquez, et elle disparaît dès que vous la lâchez ou après l'avoir jetée. Vous pouvez choisir l'apparence de cette arme à chaque fois que vous l'invoquer, mais elle semble toujours être faite d'une obscurité pure vêtue de bandes de lumière.
 
 ## Techniques du Clair de Lune
 

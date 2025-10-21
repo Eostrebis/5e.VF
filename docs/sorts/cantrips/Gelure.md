@@ -11,13 +11,13 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 60 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Frostbite
 status: empty
 ---

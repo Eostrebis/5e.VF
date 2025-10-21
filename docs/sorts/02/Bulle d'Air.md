@@ -11,13 +11,13 @@ level: 2
 school: Conjuration
 Verbal: false
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 24 Heures
 Incantation: 1 Action
 Portée: 60 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Air Bubble
 status: empty
 ---

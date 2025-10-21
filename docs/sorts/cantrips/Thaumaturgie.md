@@ -5,7 +5,7 @@ level: 0
 school: Transmutation
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Minute
 Incantation: 1 Action

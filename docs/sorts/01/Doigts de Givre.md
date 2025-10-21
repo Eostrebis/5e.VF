@@ -5,13 +5,13 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: Instantanée
 Incantation: 1 Action
 Portée: Personnelle (cône de 15 ft.)
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Frost Fingers
 status: empty
 ---

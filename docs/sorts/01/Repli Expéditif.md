@@ -10,13 +10,13 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel:
+Matériel: false
 detailmat:
 Durée: 10 Minutes
 Incantation: 1 Action Bonus
 Portée: Personnelle
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Expeditious Retreat
 status: empty
 ---

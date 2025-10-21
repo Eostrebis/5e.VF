@@ -11,8 +11,8 @@ detailmat: Une écaille de dragon rouge
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 30 ft. (30 ft. en ligne)
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Aganazzar's Scorcher
 status: empty
 ---

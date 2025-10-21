@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 *Vestige de niveau 5*
 
@@ -36,7 +36,7 @@ Rémus ne répond à aucun ligateur qui inscrirait son signe à l'intérieur d'u
 # Légende
 Romulus et Rémus, les fils jumeaux de la déesse de la guerre, ont été placés dans un panier et lâchés sur une rivière peu après leurs naissances. Seuls et incapables, les jumeaux ont été sauvés par Lupa, une lycanthrope qui s'en ait occupé pendant des semaines et a confié au faible Rémus le don de lycanthropie afin qu'il puisse devenir aussi fort que son frère. Les jumeaux grandirent vite et — demi-dieux qu'ils étaient — ont hérité de l'incommensurable force et sauvagerie de leur père.
 
-Une fois adultes, rien ne pouvait se mettre en travers sur leur chemin, si ce n'est leurs chamailleries. Malgré leurs pouvoirs divins, les deux ne parvenaient jamais à se décider sur quoi que ce soit. La plupart du temps, ils se querellaient sur leur héritage. Rémus souhaitait conquérir des cités états dont ils avaient été exilés enfants tandis que Romulus souhaitait fonder sa propre cité état. Rémus céda, mais le nouveau désaccord portait sur l'emplacement de cette ville.
+Une fois adultes, rien ne pouvait se mettre en travers sur leur chemin, si ce n'est leurs chamailleries. Malgré leurs pouvoirs divins, les deux ne parvenaient jamais à se décider sur quoi que ce soit. La plupart du temps, ils se querellaient sur leur héritage. Rémus souhaitait conquérir des cités états dont ils avaient été exilés enfants, tandis que Romulus souhaitait fonder sa propre cité état. Rémus céda, mais le nouveau désaccord portait sur l'emplacement de cette ville.
 
 Les jumeaux se sont tenus sur une colline puis ont lancé [[Augure]]. Dans leur sagesse, les dieux ont délivré un signe de _péril et fortune_, espérant ainsi réconcilier les deux jumeaux. Cela n'eut que l'effet contraire, et les frères en vinrent aux mains pour déchiffrer ces résultats. Romulus et Rémus se battirent ainsi à mains nues, et alors que Rémus devenait de plus en plus bestial, Romulus le poignarda dans le flan avec une petite dague en argent, le tuant sur le coup.
 

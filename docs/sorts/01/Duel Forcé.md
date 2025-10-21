@@ -6,13 +6,13 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Minute
 Incantation: 1 Action Bonus
 Portée: 30 ft.
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Compelled Duel
 status: empty
 ---

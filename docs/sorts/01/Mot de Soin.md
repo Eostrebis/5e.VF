@@ -7,7 +7,7 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: Instantanée
 Incantation: 1 Action Bonus

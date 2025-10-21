@@ -11,7 +11,7 @@ Durée: 1 Minute
 Incantation: 1 Action Bonus
 Portée: Personnelle
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Ensnaring Strike
 status: empty
 ---

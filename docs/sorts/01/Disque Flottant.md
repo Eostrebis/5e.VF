@@ -11,7 +11,7 @@ detailmat: Une goutte de mercure
 Durée: 1 Heure
 Incantation: 1 Action
 Portée: 30 ft.
-Concentration:
+Concentration: false
 Rituel: true
 englishname: Floating Disk
 status: empty

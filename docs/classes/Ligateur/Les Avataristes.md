@@ -1,10 +1,10 @@
 ---
-status: empty
+status: finished
 ---
 Tous les ligateurs font appel aux vestiges depuis le Vide, mais seuls les avataristes sont capables de leur conférer une forme physique. Ce savoir-faire est une discipline antique qui consiste à manier la magie même qui invoque les fiélons des enfers — et tout comme tous les grands secrets de la ligature, invoquer un avatar est une hérésie absolue. Ceux qui y parviennent rejoignent les rangs des avataristes, une légion de ligateurs qui ne se battent qu'en utilisant la manifestation d'esprits. Ces batailles sont autant des combats d'égo qu'une bagarre physique, puisqu'une partie des blessures infligées à un avatar se retrouve répercutée sur le ligateur.
 
 ## Invocation d'Avatar
-À partir du moment où vous rejoignez cette secte au niveau 3, vous pouvez utiliser votre action bonus pour manifester un avatar de vos vestiges, un esprit tangible qui apparaît à 5 ft. de vous et vous est lié par un cordon spectral. L'avatar est un mort-vivant de taille M avec des caractéristiques égales aux vôtre et une CA égale à 10 + votre modificateur de Charisme + votre modificateur de Dextérité. Il a l'apparence d'un amalgame de tous les vestiges auxquels vous êtes lié.
+À partir du moment où vous rejoignez cette secte au niveau 3, vous pouvez utiliser votre action bonus pour manifester un avatar de vos vestiges, un esprit tangible qui apparaît à 5 ft. de vous et vous est lié par un cordon spectral. L'avatar est un mort-vivant de taille M avec des caractéristiques égales aux vôtres et une CA égale à 10 + votre modificateur de Charisme + votre modificateur de Dextérité. Il a l'apparence d'un amalgame de tous les vestiges auxquels vous êtes lié.
 
 Cet avatar n'a pas de points de vie, mais vous prenez les dégâts qu'il devrait prendre comme si vous aviez la résistance à tous les dégâts. Il disparaît si vous tombez [[inconscient]] ou si vous le dissipez pour une action bonus. Il réapparaît instantanément à vos côtés si vous vous trouvez à plus de 60 ft. de lui.
 

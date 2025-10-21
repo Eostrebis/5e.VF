@@ -12,8 +12,8 @@ detailmat: La racine d'une plante avec des épines
 Durée: Instantanée
 Incantation: 1 Action
 Portée: 30 ft.
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Thorn Whip
 status: empty
 ---

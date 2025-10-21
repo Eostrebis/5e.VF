@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Équipements
-status: empty
+status: wip
 ---
 
 | Item                        | Objet                                  |

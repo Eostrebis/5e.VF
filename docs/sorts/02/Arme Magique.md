@@ -14,7 +14,7 @@ Durée: 1 Heure
 Incantation: 1 Action Bonus
 Portée: Touché
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Magic Weapon
 status: empty
 ---

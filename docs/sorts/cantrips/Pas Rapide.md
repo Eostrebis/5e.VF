@@ -6,7 +6,7 @@ level: 0
 school: Transmutation
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: 1 Tour
 Incantation: 1 Action Bonus

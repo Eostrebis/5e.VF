@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 *Vestige de niveau 3*
 
