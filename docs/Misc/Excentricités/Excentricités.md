@@ -21,7 +21,7 @@ Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l
 
 **Papivore.** Vous avez passé beaucoup trop de temps la tête dans les bouquins. Vous avez un malus de -1 à la Force, la Dextérité et la Constitution. Vous maîtrisez l'Investigation, une langue de votre choix et une des compétences suivantes : Arcane, Histoire, Nature, Religion, Médecine ou Survie.
 
-**Illetré.** Vous ne savez ni lire ni écrire. Vous avez peut-être essayé sans succès, ou vous n'en avez peut-être rien à faire, mais vous avez plutôt maîtrisé une autre compétence. Gagnez la maîtrise d'un outil, d'une langue, ou d'un arme simple au choix.
+**Illettré.** Vous ne savez ni lire ni écrire. Vous avez peut-être essayé sans succès, ou vous n'en avez peut-être rien à faire, mais vous avez plutôt maîtrisé une autre compétence. Gagnez la maîtrise d'un outil, d'une langue, ou d'un arme simple au choix.
 
 **Prudent.** Vous êtes attentif au danger au point d'en être couard. Vous avez un bonus de +2 à la CA et aux jets de sauvegarde de Dextérité jusqu'au début de votre prochain tour lorsque vous Sprintez, Évitez ou vous désengagez, mais vous avez le désavantage aux jets de Sagesse que vous réalisez pour éviter d'être apeuré.
 
@@ -35,7 +35,7 @@ Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l
 
 **Nyctalope.** On savait bien que vous étiez une salope ! Vous avez Vision dans le Noir sur une portée de 60 ft., ou sur 30 ft. supplémentaire si vous la possédez déjà, mais vous souffrez d'une sensibilité à la lumière du soleil.
 
-**Champ Aveugle.** Vous ne pouvez pas voir par les moyens habituels, mais vous avez appris à vous écholocaliser. Vous avez une vision aveugle de 15 ft. et êtes considéré comme [[aveugle]] au-delà de cette portée. Vous ne pouvez discerner la couleur ou les détails avec votre vision aveugle, seulement les formes générales et les nuances de gris. Vous avez également l'avantage aux jets de Perception utilisant l'ouïe, mais vous perdez votre vision aveugle lorsque vous êtes [[assourdi]] ou dans une zone de silence complet. Vous pouvez créer des sons faibles, qui ne seront pas entendus au-delà de 15 ft., pour déclencher votre vision aveugle dans une zone de silence.
+**Champ Aveugle.** Vous ne pouvez pas voir par les moyens habituels, mais vous avez appris à vous écholocaliser. Vous avez une vision aveugle de 15 ft. et êtes considéré comme [[aveuglé]] au-delà de cette portée. Vous ne pouvez discerner la couleur ou les détails avec votre vision aveugle, seulement les formes générales et les nuances de gris. Vous avez également l'avantage aux jets de Perception utilisant l'ouïe, mais vous perdez votre vision aveugle lorsque vous êtes [[assourdi]] ou dans une zone de silence complet. Vous pouvez créer des sons faibles, qui ne seront pas entendus au-delà de 15 ft., pour déclencher votre vision aveugle dans une zone de silence.
 
 **Têtu.** Vous préférez camper sur vos positions, mais êtes confus par les vérités incompatibles avec vos croyances. Vous avez un bonus de +2 aux jets de sauvegarde de Constitution mais un malus de -1 aux jets de sauvegarde de Dextérité et de -2 aux jets de sauvegarde de Charisme.
 
@@ -45,7 +45,7 @@ Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l
 
 **Rapide.** Vous êtes incroyable rapide mais moins solide que d'autres. Votre vitesse de base est augmentée de 10 ft. et vous gagnez un bonus de +1 à la Dextérité, mais vous souffrez d'un malus de -2 à la Constitution et de -1 aux jets de sauvegarde contre la mort.
 
-**Brute.** Vous réalisez des coups puissants qui touchent ... parfois. Vous avez un malus de -1 aux jets d'attaque et un bonus de +2 aux jets de dégâts des attaques utilisant la Force.
+**Brute.** Vous réalisez des coups puissants qui touchent … parfois. Vous avez un malus de -1 aux jets d'attaque et un bonus de +2 aux jets de dégâts des attaques utilisant la Force.
 
 **Chirurgical.** Vous avez une précision impressionnante, au détriment de la puissance. Vous avez un bonus de +1 aux jets d'attaque et un malus de -2 aux jets de dégâts des attaques utilisant la Dextérité.
 
