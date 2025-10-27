@@ -3,7 +3,7 @@ type: Arme de Mêlée Simple
 coût: 0.2
 poids: 4
 englishname: Quarterstaff
-status: empty
+status: finished
 ---
 | Dégâts          | Propriétés       |
 | --------------- | ---------------- |

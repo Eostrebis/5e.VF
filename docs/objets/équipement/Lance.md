@@ -3,7 +3,7 @@ type: Arme de Mêlée Simple
 coût: 1
 poids: 3
 englishname: Spear
-status: empty
+status: finished
 ---
 
 | Dégâts       | Propriétés                    |

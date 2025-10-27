@@ -3,7 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 20
 poids: 6
 englishname: Hallberd
-status: empty
+status: finished
 ---
 
 | Dégâts          | Propriétés                   |

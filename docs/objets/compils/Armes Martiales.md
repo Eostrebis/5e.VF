@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ## Armes Martiales de Mêlée
 

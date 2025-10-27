@@ -3,7 +3,7 @@ type: Armure Légère
 coût: 10
 poids: 10
 englishname: Leather
-status: empty
+status: finished
 ---
 Le poitrail et les épaulettes de cette armure sont faites de cuir qui a été renforcé en le faisant bouillir dans de l'huile. Le reste de l'armure est plus souple et flexible.
 

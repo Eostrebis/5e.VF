@@ -3,7 +3,7 @@ type: Armure Légère
 coût: 45
 poids: 13
 englishname: Studded Leather
-status: empty
+status: finished
 ---
 Faite à partir d'un cuir solide tout en restant souple, le cuir clouté est renforcé par des piques de métal.
 

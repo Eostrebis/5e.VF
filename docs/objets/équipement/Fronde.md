@@ -3,7 +3,7 @@ type: Arme Simple à Distance
 coût: 0.1
 poids:
 englishname: Sling
-status: empty
+status: finished
 ---
 | Dégâts          | Propriétés        |
 | --------------- | ----------------- |

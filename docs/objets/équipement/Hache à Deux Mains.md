@@ -3,7 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 30
 poids: 7
 englishname: Greataxe
-status: empty
+status: finished
 ---
 
 | Dégâts          | Propriétés           |

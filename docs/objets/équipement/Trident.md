@@ -3,7 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 5
 poids: 4
 englishname: Trident
-status: empty
+status: finished
 ---
 
 | Dégâts       | Propriétés                    |

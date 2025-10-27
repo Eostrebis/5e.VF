@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 De toutes les catégories d'armures, les armures lourdes prodiguent la meilleure protection. Ces armures recouvrent l'entièreté du corps et sont imaginées pour stopper la plupart des attaques. Seuls quelques guerriers arrivent à les utiliser malgré le poids et l'encombrement.
 

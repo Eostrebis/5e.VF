@@ -3,7 +3,7 @@ type: Arme de Mêlée Simple
 coût: 2
 poids: 2
 englishname: Light Hammer
-status: empty
+status: finished
 ---
 
 | Dégâts          | Propriétés         |

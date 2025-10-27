@@ -1,5 +1,5 @@
 ---
-status: wip
+status: finished
 ---
 Une elfe incante dans une ancienne bibliothèque, écoutant les murmures des pierres emplies d'histoire autour d'elle. Des rubans d'énergie arcanique se forment autour de ses lames à chaque fois qu'elle déchire les airs, rassemblant ses forces pour ce qui doit être fait.
 
@@ -134,6 +134,79 @@ Au niveau 2, vous apprenez à réaliser des finitions : des coups de grâce mort
 
 Vous pouvez réaliser une Finition en dépensant le nombre associé de ficelles arcaniques en dépensant votre action bonus pendant un tour où vous avez utilisé votre action pour attaquer. Votre Échelon de Trame représente le pouvoir de vos Finitions, et apparaît dans la table du Tisserand.
 
+### Caractéristique d'Incantation
+
+L'Intelligence est votre caractéristique d'incantation pour vos finitions et vos sorts de tisserands, puisque votre contrôle de la magie vient d'études et d'entraînements minutieux. En outre, vous utilisez votre modificateur d'Intelligence pour définir le DD du jet de sauvegarde d'un sort de tisserand que vous lancez, pour le jet d'attaque de celui-ci, lorsqu'une compétence de tisserand demande un jet de sauvegarde ou lorsqu'une compétence appelle un jet d'attaque de sort :
+
+<p style="text-align:center"><b>DD de Sauvegarde des sorts et finitions</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
+
+<p style="text-align:center"><b>Modificateur aux attaques avec un sort</b> = bonus de maîtrise + modificateur d'Intelligence</p>
+
+## Découpe-Ruban
+
+À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible prend un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
+
+## Tapisserie du Tisserand
+
+Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canaliser plus facilement votre pouvoir arcanique. Choisissez parmi la liste des tapisseries disponibles. Votre tapisserie vous confère des compétences au niveau 3, puis aux niveaux 6, 10 et 14.
+
+| Tapisserie                             | Description |
+| -------------------------------------- | ----------- |
+| [[Tapisserie Cramoisie]]               |             |
+| [[Tapisserie d'Ombres et de Lumières]] |             |
+| [[Tapisserie de Spirale Étoilée]]      |             |
+| [[Tapisserie Mortelle]]                |             |
+
+## Renaissance Régulière
+
+Au niveau 3, vous apprenez le cantrip [[réparation]]. Vous pouvez utiliser votre action pour appeler et former votre fil arcanique en des objets utiles qui pèsent moins de 10 lbs. et coûtent moins de 10 po. Certaines choses sont au-delà de vos capacités, en fonction de leur complexité, et tous les objets que vous créez avec cette compétence sont visiblement magiques.
+
+Vous pouvez également tisser votre fil arcanique en une corde de 100 ft. avec un grappin, une échelle de 10 ft., une longue-vue ou une table avec des chaises. Ces objets disparaissent si vous en invoquez un autre ou après 1 minute sans les toucher.
+
+De plus, vous obtenez la maîtrise de trois outils et vous pouvez créer n'importe quel outil que vous maîtrisez en utilisant cette compétence.
+
+Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette compétence. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de prendre les dégâts à la place ou de les laisser disparaître.
+
 ## Augmentation de Caractéristiques
 
 Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière.
+
+## Cisaillement
+
+À partir du niveau 5, vous pouvez utiliser votre Coupe du Tisserand lorsque vous utilisez votre action pour attaquer. Si vous n'avez pas attaqué, votre Coupe du Tisserand vous permet d'attaquer deux fois au lieu d'une.
+
+## Navette
+
+Au niveau 7, vos études martiales vous confèrent vitesse et pouvoir. Tant que vous ne portez pas d'armure, votre vitesse de marche est augmentée de 10 ft. et se déplacer à travers un espace que vous avez déjà parcouru ce tour ne vous coûte que la moitié de mouvement.
+
+## Tissage Cyclique
+
+À partir du niveau 9, vous pouvez faire en sorte que votre infusion capture tout excès d'énergie arcanique que vous libéreriez. Lorsque vous réalisez une finition, vous avez l'avantage à votre prochain jet de sauvegarde avant le début de votre prochain tour.
+
+## Lame Rusée
+
+Au niveau 11, vos attaques avec votre lamefil et votre accessoire de tapisserie gagne un bonus aux jets de dégâts égale à votre modificateur d'Intelligence. Cela s'applique également à votre Coupe du Tisserand.
+
+## Indivisible
+
+Au niveau 13, votre infusion fusionne votre corps et votre âme en une seule entité. Vous maîtrisez les jets de sauvegarde de Force et de Charisme.
+
+## Ciseaux à Ruban
+
+Au niveau 15, votre infusion se diffuse autour de vous, vous permettant de voir plus facilement à travers les tromperies magiques. Vous avez l'avantage aux jets de compétence et de sauvegarde pour percer à jour les illusions, détecter les créatures invisibles ou déterminer la véritable forme de métamorphes.
+
+## Pattern Parfait
+
+Au niveau 17, votre infusion vient parfaire votre âme comme votre corps. Vous pouvez ignorer toutes les sources de désavantage sur vos jets de caractéristiques, d'attaque ou de sauvegarde. De plus, vous ne vieillissez plus, même magiquement.
+
+## Âme Tissée
+
+Au niveau 18, vous apprenez à tisser des fragments d'arcane dans votre âme. Choisissez une finition. Vous pouvez réaliser cette finition en ne dépensant qu'une seule ficelle d'arcane.
+
+Lorsque vous terminez un repos court, vous pouvez remplacer la finition choisie par une autre.
+
+## Touche Finale
+
+Au niveau 20, vous apprenez à aller au-delà des dernières limites de votre pouvoir arcanique. Vous pouvez utiliser votre action pour tisser une fraction de votre âme en fil arcanique. Pendant 1 minute, vos attaques avec votre lamefil et votre arme accessoire de tapisserie ne peuvent pas rater.
+
+Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.

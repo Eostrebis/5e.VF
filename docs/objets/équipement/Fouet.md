@@ -3,7 +3,7 @@ type: Arme de Mêlée Martiale
 coût: 2
 poids: 3
 englishname: Whip
-status: empty
+status: finished
 ---
 
 | Dégâts         | Propriétés      |

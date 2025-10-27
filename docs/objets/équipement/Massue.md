@@ -3,7 +3,7 @@ type: Arme de Mêlée Simple
 coût: 0.2
 poids: 10
 englishname: Greatclub
-status: empty
+status: finished
 ---
 | Dégâts          | Propriétés   |
 | --------------- | ------------ |
