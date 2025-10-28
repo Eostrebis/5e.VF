@@ -13,7 +13,7 @@ Les tortues exhibent une forte variété de couleurs et de patterns sur leurs ca
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : FOR +2, SAG +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, SAG +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
