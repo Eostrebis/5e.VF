@@ -25,8 +25,6 @@ Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aime
 | 5   | Vous avez construit pour accomplir une certaine mission                                                                                                    |
 | 6   | Vous vous sentiez emprisonné dans le rôle pour lequel vous avez été conçu, et vous avez abandonné votre créateur, déterminé à trouver un meilleur objectif |
 
-![[Autognomes.webp]]
-
 ### Culture
 
 ### Langue
