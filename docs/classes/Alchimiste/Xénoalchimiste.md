@@ -9,7 +9,7 @@ Un petit nombre d'alchimistes rebelles préfère expérimenter sur eux-mêmes, m
 
 ## Scientifique Fou
 
-Au niveau 2, vous avez appris comment réanimer des membres morts, et les rattacher à d'autres choses. Vous gagnez deux greffes monstrueuses de votre choix. De plus, vous ne perdez pas de points de vie ou de dés de vie en installant ces greffes, et cela ne vous prend aucun temps pour récupérer de la greffe.
+Au niveau 2, vous avez appris comment réanimer des membres morts, et les rattacher à d'autres choses. Vous gagnez deux [[greffes monstrueuses]] de votre choix. De plus, vous ne perdez pas de points de vie ou de dés de vie en installant ces greffes, et cela ne vous prend aucun temps pour récupérer de la greffe.
 
 ## Attaque Chirurgicale
 
