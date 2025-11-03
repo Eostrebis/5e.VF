@@ -1,5 +1,5 @@
 ---
-status: wip
+status: finished
 ---
 Votre tapisserie est beaucoup plus proche de sa dénomination que les autres, se manifestant sous la forme d'une cape brodée de lames tranchantes et embuée d'une puissante magie d'illusion. Celle-ci se déplace selon vos ordres, contractant, saisissant et coupant à votre guise. Vous n'êtes pas tout à fait sûr de si elle obéit à vos pensées conscientes ou à votre inconscient, mais dans tous les cas, elle est toujours là pour vous protéger. Levez votre capuche, ou levez vos lames.
 
@@ -28,4 +28,4 @@ Au niveau 10, votre tapisserie s'accroche à l'environnement qui vous entoure, v
 
 ## Dance des Ombres
 
-Au niveau 14, les lames de votre cape déchirent la fabrique de la réalité-même, ouvrant par là des portails dans lesquels vous pouvez vous faufiler. Après avoir réaliser une Finition, vous pouvez vous téléporter de 15 ft. vers un emplacement que vous voyez. De plus, lorsque vous utilisez votre action pour Esquiver et qu'une créature rate une attaque vous ciblant, ou quand une créature que vous pouvez voir termine son tour, vous pouvez utiliser votre réaction pour vous téléporter de 15 ft. vers un emplacement que vous pouvez voir.
+Au niveau 14, les lames de votre cape déchirent la fabrique de la réalité-même, ouvrant par là des portails dans lesquels vous pouvez vous faufiler. Après avoir réalisé une Finition, vous pouvez vous téléporter de 15 ft. vers un emplacement que vous voyez. De plus, lorsque vous utilisez votre action pour Esquiver et qu'une créature rate une attaque vous ciblant, ou quand une créature que vous pouvez voir termine son tour, vous pouvez utiliser votre réaction pour vous téléporter de 15 ft. vers un emplacement que vous pouvez voir.
