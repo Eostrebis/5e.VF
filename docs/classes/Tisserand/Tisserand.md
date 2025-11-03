@@ -153,7 +153,7 @@ Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canal
 | Tapisserie                             | Description |
 | -------------------------------------- | ----------- |
 | [[Tapisserie Cramoisie]]               |             |
-| [[Tapisserie d'Ombres et de Lumières]] |             |
+| [[Tapisserie de Soie d'Ombre]] |             |
 | [[Tapisserie de Spirale Étoilée]]      |             |
 | [[Tapisserie Mortelle]]                |             |
 
