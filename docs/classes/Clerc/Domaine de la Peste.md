@@ -5,13 +5,13 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 **Sorts du Domaine de la Peste**
 
-| Niveau de Sort | Sorts                                                        |
-| -------------- | ------------------------------------------------------------ |
-| 1              | [[Fléau]], [[Détection du Poison et des Maladies]]           |
-| 3              | [[Cécité ou Surdité]], [[rayon affaiblissant]]               |
-| 5              | [[Malédiction Persistante]], [[délivrance des malédictions]] |
-| 7              | [[Flétrissement]], [[confusion]]                             |
-| 9              | [[Contagion]], [[fléau d'insectes]]                          |
+| Niveau de Clerc | Sorts                                                        |
+| --------------- | ------------------------------------------------------------ |
+| 1               | [[Fléau]], [[Détection du Poison et des Maladies]]           |
+| 3               | [[Cécité ou Surdité]], [[rayon affaiblissant]]               |
+| 5               | [[Malédiction Persistante]], [[délivrance des malédictions]] |
+| 7               | [[Flétrissement]], [[confusion]]                             |
+| 9               | [[Contagion]], [[fléau d'insectes]]                          |
 
 ## Porteur Sain
 

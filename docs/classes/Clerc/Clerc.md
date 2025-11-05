@@ -1,5 +1,5 @@
 ---
-status: wip
+status: finished
 ---
 Les bras levés vers le ciel, le regard porté sur le soleil, et prononçant une prière, un elfe commence à briller d'une lumière intérieure qui s'échappe pour aller soigner ses compagnons blessés au combat.
 
@@ -129,29 +129,29 @@ Vous pouvez utiliser un [[symbole sacré]] comme focalisateur d'incantation pour
 
 Au niveau 1, choisissez un domaine lié à votre déité. Ce choix vous confère des sorts de domaine et d'autres compétences lorsque vous le choisissez au niveau 1. Il vous confère également de nouvelles utilisations de votre compétence Canal Divin lorsque vous obtenez cette compétence au niveau 2, ainsi que des effets supplémentaires aux niveaux 6, 8 et 17.
 
-| Domain Divin                   | Description |
-| ------------------------------ | ----------- |
-| [[Domaine Arcanique]]          |             |
-| [[Domaine de l'Ordre]]         |             |
-| [[Domaine de la Connaissance]] |             |
-| [[Domaine de la Destruction]]  |             |
-| [[Domaine de la Folie]]        |             |
-| [[Domaine de la Forge]]        |             |
-| [[Domaine de la Guerre]]       |             |
-| [[Domaine de la Lumière]]      |             |
-| [[Domaine de la Mort]]         |             |
-| [[Domaine de la Nature]]       |             |
-| [[Domaine de la Paix]]         |             |
-| [[Domaine de la Peste]]        |             |
-| [[Domaine de la Richesse]]     |             |
-| [[Domaine de la Tempête]]      |             |
-| [[Domaine de la Tombe]]        |             |
-| [[Domaine de la Tromperie]]    |             |
-| [[Domaine de la Vie]]          |             |
-| [[Domaine du Café]]            |             |
-| [[Domaine du Crépuscule]]      |             |
-| [[Domaine du Rhum]]            |             |
-| [[Domaine du Voyage]]          |             |
+| Domain Divin                   | Description                                                                                         |
+| ------------------------------ | --------------------------------------------------------------------------------------------------- |
+| [[Domaine Arcanique]]          | Un clerc-érudit des dieux de la magie, qui manie la foi divine et les secrets arcaniques.           |
+| [[Domaine de l'Ordre]]         | Un champion de la hiérarchie sacrée, imposant la loi divine par la persuasion et la contrainte.     |
+| [[Domaine de la Connaissance]] | Un érudit divin au service du savoir, qui perce les secrets du passé et de l'esprit.                |
+| [[Domaine de la Destruction]]  | Un dévot de l'entropie, imprégné du pouvoir divin des dieux de la ruine.                            |
+| [[Domaine de la Folie]]        | Un dévot déséquilibré au service d'un dieu fou, propageant la démence et le chaos.                  |
+| [[Domaine de la Forge]]        | Un clerc-artisan des dieux de la forge, qui protège la création et manie le feu divin.              |
+| [[Domaine de la Guerre]]       | Un prêtre-soldat béni, qui voit le champ de bataille comme un temple et le combat comme une prière. |
+| [[Domaine de la Lumière]]      | Une sentinelle infusée de radiance, qui brûle les ombres et expose les mensonges.                   |
+| [[Domaine de la Mort]]         | Un agent de la non-vie, au service des dieux de la mort et de la nécromancie.                       |
+| [[Domaine de la Nature]]       | Un champion divin du monde sauvage, qui commande aux bêtes et protège la croissance.                |
+| [[Domaine de la Paix]]         | Un médiateur sacré, qui forge des liens d'unité au nom des dieux de la paix.                        |
+| [[Domaine de la Peste]]        | Un prêtre infesté par la maladie, propageant une foi grotesque de corruption et de déclin.          |
+| [[Domaine de la Richesse]]     | Le capitalisme est-il un dieu ? Absolument, et vous êtes son prophète.                              |
+| [[Domaine de la Tempête]]      | Un héraut de la colère divine, qui manie la fureur des cieux et de la mer.                          |
+| [[Domaine de la Tombe]]        | Un prêtre de la tombe, qui veille au repos des morts et châtie la non-vie.                          |
+| [[Domaine de la Tromperie]]    | Un instigateur sacré au service des dieux de la ruse, du vol et de la rébellion.                    |
+| [[Domaine de la Vie]]          | Un conduit pour l'énergie positive, au service des dieux de la vitalité et de la santé.             |
+| [[Domaine du Café]]            | Propage l'éveil et la vitesse au nom des dieux de la caféine (ou par simple dépendance).            |
+| [[Domaine du Crépuscule]]      | Une sentinelle divine du seuil, qui protège le repos des mortels des horreurs de la nuit.           |
+| [[Domaine du Rhum]]            | Propage la joie et les boissons fortes au nom de divinités festives.                                |
+| [[Domaine du Voyage]]          | Un clerc évangéliste, qui vénère les dieux des marchands et des vagabonds.                          |
 
 ### Sorts de Domaine
 

@@ -5,13 +5,13 @@ Là où le rhum coule à flot, les dieux de l'amusement accourent. Les clercs du
 
 **Sorts du Domaine du Rhum**
 
-| Niveau de Sort | Sorts                                                       |
-| -------------- | ----------------------------------------------------------- |
-| 1              | [[Charme-personne]], [[Sommeil]]                            |
-| 3              | [[Apaisement des émotions]], [[Gueule de Bois]]             |
-| 5              | [[Motif hypnotique]], [[lenteur]]                           |
-| 7              | [[Confusion]], [[protection contre la mort]]                |
-| 9              | [[Restauration supérieure]], [[modification de la mémoire]] |
+| Niveau de Clerc | Sorts                                                       |
+| --------------- | ----------------------------------------------------------- |
+| 1               | [[Charme-personne]], [[Sommeil]]                            |
+| 3               | [[Apaisement des émotions]], [[Gueule de Bois]]             |
+| 5               | [[Motif hypnotique]], [[lenteur]]                           |
+| 7               | [[Confusion]], [[protection contre la mort]]                |
+| 9               | [[Restauration supérieure]], [[modification de la mémoire]] |
 
 ## Équilibre de l'Ivrogne
 

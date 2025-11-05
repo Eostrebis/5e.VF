@@ -5,13 +5,13 @@ Vos pouvoirs divins viennent d'un dieu fou, un être de paranoïa, de chaos et d
 
 **Sorts du Domaine Arcanique**
 
-| Niveau de Sort | Sorts                                            |
-| -------------- | ------------------------------------------------ |
-| 1              | [[Fou Rire]], [[image silencieuse]]              |
-| 3              | [[Cécité ou Surdité]], [[Détection des Pensées]] |
-| 5              | [[Clairvoyance]], [[motif hypnotique]]           |
-| 7              | [[Confusion]], [[terrain hallucinatoire]]        |
-| 9              | [[Songe]], [[modification de la mémoire]]        |
+| Niveau de Clerc | Sorts                                            |
+| --------------- | ------------------------------------------------ |
+| 1               | [[Fou Rire]], [[image silencieuse]]              |
+| 3               | [[Cécité ou Surdité]], [[Détection des Pensées]] |
+| 5               | [[Clairvoyance]], [[motif hypnotique]]           |
+| 7               | [[Confusion]], [[terrain hallucinatoire]]        |
+| 9               | [[Songe]], [[modification de la mémoire]]        |
 
 ## Apprenti Dérangé
 
