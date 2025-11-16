@@ -86,7 +86,7 @@ Cette arme a deux formes. Vous pouvez échanger entre les formes à n'importe qu
 Lorsque vous réalisez une attaque armée à distance avec une arme de tension, vous pouvez utiliser au choix la Force ou la Dextérité pour vos jets d'attaque et de dégâts. Vous devez utiliser la même caractéristique pour les deux jets.
 
 #### Jet
-Si une arme a la propriété Jet, vous pouvez jet l'arme pour réaliser une attaque à distance. Si l'arme est une arme de mêlée, vous utilisez le même modificateur que vous utiliseriez pour une attaque de mêlée.
+Si une arme a la propriété Jet, vous pouvez jeter l'arme pour réaliser une attaque à distance. Si l'arme est une arme de mêlée, vous utilisez le même modificateur que vous utiliseriez pour une attaque de mêlée.
 
 #### À Deux Mains
 Cette arme requiert deux mains pour être utilisée.

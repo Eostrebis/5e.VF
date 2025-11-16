@@ -39,6 +39,8 @@ Comme une des premières thèses alchimiques le dit : si l'énergie fondamentale
 | 14                                | 10           | 5                | 3                    |
 | 15                                | 10           | 5                | 3                    |
 | 16                                | 11           | 6                | 3                    |
+| 17                                | 11           | 6                | 3                    |
+| 18                                | 11           | 6                | 3                    |
 | 19                                | 12           | 7                | 4                    |
 | 20                                | 13           | 7                | 4                    |
 

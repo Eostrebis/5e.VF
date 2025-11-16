@@ -10,7 +10,7 @@ Somatique: true
 Matériel: true
 detailmat: Une boule de cristal, un jeu de tarot ou une planche de ouija
 Durée: 1 Minute
-Incantation: 10 minutes
+Incantation: 10 Minutes
 Portée: Personnelle
 Concentration: false
 Rituel: false
