@@ -154,7 +154,7 @@ Lorsque vous atteignez le niveau 3, vous vous dédiez à une tradition monastiqu
 | [[Voie de l'Étoile Noire]]   | Utilise le pouvoir de l'Étoile Noire pour corrompre son ki et ses adversaires          |
 | [[Voie de la Mort Longue]]   | Étudie la mort et ses mécanismes pour utiliser un style de combat mortel               |
 | [[Voie de la Paume]]         | Manipule le ki à la volée pour désorienter ses adversaires et se soigner               |
-| [[Voie de la Miséricorde]]         | Manipule la force vitale des autres pour soigner et/ou achever                         |
+| [[Voie de la Miséricorde]]   | Manipule la force vitale des autres pour soigner et/ou achever                         |
 | [[Voie de la Rose]]          | Un artiste martial doux et mobile, embrassant le pouvoir des fleurs                    |
 | [[Voie des Quatre Poings]]   | Possède une queue et pratique les arts martiaux du légendaire Roi des Singes           |
 | [[Voie des Quatre Éléments]] | Concentre son ki pour s'aligner avec la nature et manipuler les quatre éléments        |
@@ -164,7 +164,6 @@ Lorsque vous atteignez le niveau 3, vous vous dédiez à une tradition monastiqu
 | [[Voie du Kensei]]           | Expert des armes, capable d'en manier une grande variété                               |
 | [[Voie du Masque]]           | Un lutteur masqué à la force et à l'égo démesuré                                       |
 | [[Voie du Maître Ivre]]      | Imite les mouvements d'un saoulard pour tromper l'ennemi                               |
-| [[Voie du Poing Ivre]]       | Utilise les effets de l'alcool pour gagner en puissance et en instinct                 |
 | [[Voie du Serpent Noble]]    | Sert l'Impératrice Serpent et utilise ses techniques                                   |
 | [[Voie du Soi Astral]]       | Utilise le ki pour représenter sa forme astrale et se battre avec                      |
 

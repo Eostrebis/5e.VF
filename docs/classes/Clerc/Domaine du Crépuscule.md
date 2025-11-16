@@ -7,13 +7,13 @@ Les clercs qui servent ces déités prodiguent confort et protection à ceux qui
 
 **Sorts du Domaine du Crépuscule**
 
-| Niveau de Sort | Sorts                                             |
-| -------------- | ------------------------------------------------- |
-| 1              | [[Lueurs Féériques]], [[Sommeil]]                 |
-| 3              | [[Rayon lunaire]], [[vision de l'invisible]]      |
-| 5              | [[Aura de Vitalité]], [[petite hutte de Leomund]] |
-| 7              | [[Aura de Vie]], [[invisibilité supérieure]]      |
-| 9              | [[Cercle de pouvoir]], [[double illusoire]]       |
+| Niveau de Clerc | Sorts                                             |
+| --------------- | ------------------------------------------------- |
+| 1               | [[Lueurs Féériques]], [[Sommeil]]                 |
+| 3               | [[Rayon lunaire]], [[vision de l'invisible]]      |
+| 5               | [[Aura de Vitalité]], [[petite hutte de Leomund]] |
+| 7               | [[Aura de Vie]], [[invisibilité supérieure]]      |
+| 9               | [[Cercle de pouvoir]], [[double illusoire]]       |
 
 ## Maîtrises Supplémentaires
 Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les [[Armures Lourdes]] et les [[Armes Martiales]].

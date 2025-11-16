@@ -5,13 +5,13 @@ Les dieux de la Lumière encouragent la renaissance et le renouveau, la vérité
 
 **Sorts du Domaine de la Lumière**
 
-| Niveau de Sort | Sorts                                     |
-| -------------- | ----------------------------------------- |
-| 1              | [[Mains Brûlantes]], [[Lueurs Féériques]] |
-| 3              | [[Sphère enflammée]], [[rayon ardent]]    |
-| 5              | [[Lumière du jour]], [[boule de feu]]     |
-| 7              | [[Gardien de la foi]], [[mur de feu]]     |
-| 9              | [[Frappe de flamme]], [[scrutation]]      |
+| Niveau de Clerc | Sorts                                     |
+| --------------- | ----------------------------------------- |
+| 1               | [[Mains Brûlantes]], [[Lueurs Féériques]] |
+| 3               | [[Sphère enflammée]], [[rayon ardent]]    |
+| 5               | [[Lumière du jour]], [[boule de feu]]     |
+| 7               | [[Gardien de la foi]], [[mur de feu]]     |
+| 9               | [[Frappe de flamme]], [[scrutation]]      |
 
 ## Cantrip Supplémentaire
 

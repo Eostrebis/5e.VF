@@ -5,13 +5,13 @@ Les dieux de la forge sont les patrons des artisans qui travaillent le métal, d
 
 **Sorts du Domaine de la Forge**
 
-| Niveau de Sort | Sorts                                             |
-| -------------- | ------------------------------------------------- |
-| 1              | [[Identification]], [[châtiment calcinant]] |
-| 3              | [[Métal brûlant]], [[Arme Magique]]      |
-| 5              | [[Arme élémentaire]], [[protection contre une énergie]]   |
-| 7              | [[Fabrication]], [[mur de feu]]                |
-| 9              | [[Animation d'Objets]], [[création]]          |
+| Niveau de Clerc | Sorts                                                   |
+| --------------- | ------------------------------------------------------- |
+| 1               | [[Identification]], [[châtiment calcinant]]             |
+| 3               | [[Métal brûlant]], [[Arme Magique]]                     |
+| 5               | [[Arme élémentaire]], [[protection contre une énergie]] |
+| 7               | [[Fabrication]], [[mur de feu]]                         |
+| 9               | [[Animation d'Objets]], [[création]]                    |
 
 ## Maîtrises Supplémentaires
 

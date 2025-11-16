@@ -5,13 +5,13 @@ Les dieux de la Tombe observent la frontière entre la vie et la mort. Pour ces 
 
 **Sorts du Domaine de la Tombe**
 
-| Niveau de Sort | Sorts                                             |
-| -------------- | ------------------------------------------------- |
-| 1              | [[Fléau]], [[Simulacre de Vie]] |
-| 3              | [[docs/sorts/Repos Éternel]], [[rayon affaiblissant]]     |
-| 5              | [[Retour à la vie]], [[touche vampirique]]   |
-| 7              | [[Flétrissement]], [[protection contre la mort]]         |
-| 9              | [[Coquille Antivie]], [[rappel à la vie]]         |
+| Niveau de Clerc | Sorts                                            |
+| --------------- | ------------------------------------------------ |
+| 1               | [[Fléau]], [[Simulacre de Vie]]                  |
+| 3               | [[Repos Éternel]], [[rayon affaiblissant]]       |
+| 5               | [[Retour à la vie]], [[touche vampirique]]       |
+| 7               | [[Flétrissement]], [[protection contre la mort]] |
+| 9               | [[Coquille Antivie]], [[rappel à la vie]]        |
 
 ## Cercle de Mortalité
 

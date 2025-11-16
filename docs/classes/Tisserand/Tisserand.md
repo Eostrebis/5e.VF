@@ -130,9 +130,15 @@ Au niveau 1, vous apprenez à vous vêtir de magie. Tant que vous ne maniez pas 
 
 ## Finition
 
-Au niveau 2, vous apprenez à réaliser des finitions : des coups de grâce mortels alimentés par votre pouvoir arcanique. Chaque fois que vous réalisez une attaque avec votre lamefil ou une arme accessoire conférée par cette classe, vous pouvez tisser une fraction de son pouvoir en une ficelle arcanique, qui flotte autour de votre lamefil comme un ruban de lumière. Vos ficelles arcaniques disparaissent après 1 minute et lorsque vous tirez l'initiative.
+Au niveau 2, vous apprenez à réaliser des [[finitions]] : des coups de grâce mortels alimentés par votre pouvoir arcanique. Chaque fois que vous réalisez une attaque avec votre lamefil ou une arme accessoire conférée par cette classe, vous pouvez tisser une fraction de son pouvoir en une ficelle arcanique, qui flotte autour de votre lamefil comme un ruban de lumière. Vos ficelles arcaniques disparaissent après 1 minute et lorsque vous tirez l'initiative.
 
 Vous pouvez réaliser une Finition en dépensant le nombre associé de ficelles arcaniques en dépensant votre action bonus pendant un tour où vous avez utilisé votre action pour attaquer. Votre Échelon de Trame représente le pouvoir de vos Finitions, et apparaît dans la table du Tisserand.
+
+### Apprendre des Finitions
+
+Au niveau 2, vous apprenez quatre finitions : [[reprise]] et trois autres de votre choix parmi la liste des [[finitions]]. 
+
+Vous apprenez deux nouvelles finitions aux niveaux 6, 9 et 15. Vous pouvez échanger une finition que vous connaissez pour une autre lorsque vous gagnez un niveau dans cette classe. Vous ne pouvez pas échanger [[reprise]] pour une autre finition.
 
 ### Caractéristique d'Incantation
 
@@ -150,12 +156,12 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canaliser plus facilement votre pouvoir arcanique. Choisissez parmi la liste des tapisseries disponibles. Votre tapisserie vous confère des compétences au niveau 3, puis aux niveaux 6, 10 et 14.
 
-| Tapisserie                             | Description |
-| -------------------------------------- | ----------- |
-| [[Tapisserie Cramoisie]]               |             |
-| [[Tapisserie d'Ombres et de Lumières]] |             |
-| [[Tapisserie de Spirale Étoilée]]      |             |
-| [[Tapisserie Mortelle]]                |             |
+| Tapisserie                        | Description                                                                                             |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| [[Tapisserie Cramoisie]]          | Tissez un œil de sang vivant pour une mobilité féroce et une détermination inarrêtable.                 |
+| [[Tapisserie de Soie d'Ombre]]    | Tissez une cape de lames d'ombre pour frapper à distance, vous dissimuler et vous téléporter.           |
+| [[Tapisserie de Spirale Étoilée]] | Tissez une armure d'étoiles mécanique pour devenir un colosse de combat dévastateur.                    |
+| [[Tapisserie Mortelle]]           | Tissez un tome illusoire pour maîtriser toutes les lamefils et vous défendre par la ruse et l'illusion. |
 
 ## Renaissance Régulière
 

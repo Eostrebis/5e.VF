@@ -5,13 +5,13 @@ Les dieux de la Nature sont aussi variés que le monde naturel lui-même, des di
 
 **Sorts du Domaine de la Nature**
 
-| Niveau de Sort | Sorts                                             |
-| -------------- | ------------------------------------------------- |
-| 1              | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
-| 3              | [[Peau d'Écorce]], [[croissance d'épines]]      |
-| 5              | [[Croissance végétale]], [[mur de vent]]   |
-| 7              | [[Domination de bête]], [[lianes avides]]              |
-| 9              | [[Fléau d'insectes]], [[passage par les arbres]]          |
+| Niveau de Clerc | Sorts                                                           |
+| --------------- | --------------------------------------------------------------- |
+| 1               | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
+| 3               | [[Peau d'Écorce]], [[croissance d'épines]]                      |
+| 5               | [[Croissance végétale]], [[mur de vent]]                        |
+| 7               | [[Domination de bête]], [[lianes avides]]                       |
+| 9               | [[Fléau d'insectes]], [[passage par les arbres]]                |
 
 ## Apprenti de la Nature
 
@@ -33,7 +33,7 @@ Pour une action, vous présentez votre symbole sacré et appelez le nom de votre
 
 ## Frappe Divine
 
-Vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque armée, vous pouvez faire en sort que l'attaque inflige 1d8 dégâts de froid, de feu ou de foudre supplémentaires à la cible, du même type que votre arme. Lorsque vous atteignez le niveau 14, ces dégâts supplémentaires passent à 2d8.
+Vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque armée, vous pouvez faire en sort que l'attaque inflige 1d8 dégâts de froid, de feu ou de foudre supplémentaires à la cible. Lorsque vous atteignez le niveau 14, ces dégâts supplémentaires passent à 2d8.
 
 ## Maître de la Nature
 

@@ -5,13 +5,13 @@ status: finished
 
 **Sorts du Domaine de la Richesse**
 
-| Niveau de Sort | Sorts                                             |
-| -------------- | ------------------------------------------------- |
-| 1              | [[Identification]], [[Serviteur Invisible]] |
-| 3              | [[Verrou Magique]], [[localisation d'objet]]      |
-| 5              | [[Glyphe de protection]], [[Langues]]   |
-| 7              | [[Fabrication]], [[Coffre Secret]]               |
-| 9              | [[Création]], [[quête]]          |
+| Niveau de Clerc | Sorts                                        |
+| --------------- | -------------------------------------------- |
+| 1               | [[Identification]], [[Serviteur Invisible]]  |
+| 3               | [[Verrou Magique]], [[localisation d'objet]] |
+| 5               | [[Glyphe de protection]], [[Langues]]        |
+| 7               | [[Fabrication]], [[Coffre Secret]]           |
+| 9               | [[Création]], [[quête]]                      |
 
 ## Estimation
 

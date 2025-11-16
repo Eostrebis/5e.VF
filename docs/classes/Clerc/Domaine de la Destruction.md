@@ -5,13 +5,13 @@ Certains dieux ne se délectent que de l'effondrement des murs et l'incendie des
 
 **Sorts du Domaine de la Destruction**
 
-| Niveau de Sort | Sorts                                               |
-| -------------- | --------------------------------------------------- |
-| 1              | [[Mains Brûlantes]], [[Vague Tonnante]]             |
-| 3              | [[Rayon ardent]], [[fracassement]]                  |
-| 5              | [[Boule de feu]], [[protection contre une énergie]] |
-| 7              | [[Flétrissement]], [[mur de feu]]                   |
-| 9              | [[Brume mortelle]], [[cône de froid]]               |
+| Niveau de Clerc | Sorts                                               |
+| --------------- | --------------------------------------------------- |
+| 1               | [[Mains Brûlantes]], [[Vague Tonnante]]             |
+| 3               | [[Rayon ardent]], [[fracassement]]                  |
+| 5               | [[Boule de feu]], [[protection contre une énergie]] |
+| 7               | [[Flétrissement]], [[mur de feu]]                   |
+| 9               | [[Brume mortelle]], [[cône de froid]]               |
 ## Apprenti Dévastateur
 
 Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[Magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
