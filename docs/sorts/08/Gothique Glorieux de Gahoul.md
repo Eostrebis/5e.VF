@@ -7,7 +7,7 @@ Verbal: true
 Somatique: true
 Matériel: true
 detailmat: Un miniature de manoir gothique valant au moins 1000 PO
-Durée: 7 jours
+Durée: 7 Jours
 Incantation: 1 Heure
 Portée: 2 kilomètres
 Concentration: false

@@ -8,7 +8,7 @@ Somatique: true
 Matériel: true
 detailmat: Un bûcher et un animal mort
 Durée: 24 Heures
-Incantation: 10 minutes
+Incantation: 10 Minutes
 Portée: Personnelle
 Concentration: false
 Rituel: true
