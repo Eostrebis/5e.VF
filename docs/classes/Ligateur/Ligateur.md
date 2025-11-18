@@ -74,7 +74,7 @@ Pendant vos études, vous avez découvert le moyen de percer la frontière entre
 
 Vous pouvez dépenser 10 minutes à réaliser un rituel spécial d'attachement, qui consiste à dessiner les symboles de vestiges à la craie, les appeler par leurs noms et réaliser une performance ésotérique. Pendant ce rituel, des [[Vestiges]] se manifestent par des signes tangibles alors qu'ils se pressent contre les frontières du réel et trouvent refuge dans votre âme.
 
-Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges lorsque vous montez de niveau, comme affiché dans la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure à votre niveau de ligateur.
+Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges à la fois lorsque vous montez de niveau, comme indiqué dans la colonne _Vestiges Liés_ de la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure ou égale à votre niveau de ligateur.
 
 Les vestiges vous restent liés jusqu'à ce que vous terminiez un repos long. Une fois que vous avez réalisé ce rituel, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 
