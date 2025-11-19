@@ -174,8 +174,8 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment d'Avarice]]            | Incarnez l'avidité pure en vous drapant d'or et en volant vos ennemis, transformant chaque combat en une transaction profitable. |
 | [[Serment d'Hérésie]]            | Dénoncez les mensonges des dieux et de l'église pour mener une croisade révolutionnaire alimentée par votre propre vérité.       |
 | [[Serment de Conquête]]          | Imposez un ordre absolu en écrasant tout espoir et en subjuguant vos ennemis par la peur et la force brute.                      |
-| [[Serment de Dévotion]]          |                                                                                                                                  |
-| [[Serment de Gloire]]            |                                                                                                                                  |
+| [[Serment de Dévotion]]          | Incarnez l'archétype du chevalier en armure étincelante, un guerrier saint voué à la justice, la vertu et le bien commun.        |
+| [[Serment de Gloire]]            | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque.          |
 | [[Serment de Jugement]]          |                                                                                                                                  |
 | [[Serment de l'Hiver]]           |                                                                                                                                  |
 | [[Serment de la Couronne]]       |                                                                                                                                  |
