@@ -172,7 +172,7 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | [[Briseur de Serment]]           | Rejetez la lumière pour asservir les morts-vivants et devenir un seigneur de terreur alimenté par la haine.                      |
 | [[Serment d'Avarice]]            | Incarnez l'avidité pure en vous drapant d'or et en volant vos ennemis, transformant chaque combat en une transaction profitable. |
-| [[Serment d'Hérésie]]            |                                                                                                                                  |
+| [[Serment d'Hérésie]]            | Dénoncez les mensonges des dieux et de l'église pour mener une croisade révolutionnaire alimentée par votre propre vérité.       |
 | [[Serment de Conquête]]          |                                                                                                                                  |
 | [[Serment de Dévotion]]          |                                                                                                                                  |
 | [[Serment de Gloire]]            |                                                                                                                                  |
