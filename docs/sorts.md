@@ -769,7 +769,7 @@ status: empty
 | Touch Infinity                       | [[Touche de l'Infini]]                    |
 | Undertow                             | [[Contre-Courant]]                        |
 | Unseen Claw                          | [[Griffe Invisible]]                      |
-| Unspoken Agreement                   | [[Accord Implicite]]                      |
+| Unspoken Agreement                   | [[Accord Tacite]]                      |
 | Unstoppable Ascent                   | [[Ascension Inarrêtable]]                 |
 | Venom Blast                          | [[Explosion de Venin]]                    |
 | Wall of Ooze                         | [[Mur de Vase]]                           |
