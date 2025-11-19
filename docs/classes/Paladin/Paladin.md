@@ -168,26 +168,26 @@ Au niveau 3, la magie divine qui vous parcourt vous rend immunisé contre les ma
 
 Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant que paladin à jamais. Jusqu'à maintenant, vous vous y prépariez, vous étiez engagé sur le chemin mais pas encore sermenté. Désormais, vous choisissez un des serments suivants.
 
-| Serment                          | Description                                                                                                                      |
-| -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [[Briseur de Serment]]           | Rejetez la lumière pour asservir les morts-vivants et devenir un seigneur de terreur alimenté par la haine.                      |
-| [[Serment d'Avarice]]            | Incarnez l'avidité pure en vous drapant d'or et en volant vos ennemis, transformant chaque combat en une transaction profitable. |
-| [[Serment d'Hérésie]]            | Dénoncez les mensonges des dieux et de l'église pour mener une croisade révolutionnaire alimentée par votre propre vérité.       |
-| [[Serment de Conquête]]          | Imposez un ordre absolu en écrasant tout espoir et en subjuguant vos ennemis par la peur et la force brute.                      |
-| [[Serment de Dévotion]]          | Incarnez l'archétype du chevalier en armure étincelante, un guerrier saint voué à la justice, la vertu et le bien commun.        |
-| [[Serment de Gloire]]            | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque.          |
-| [[Serment de Jugement]]          |                                                                                                                                  |
-| [[Serment de l'Hiver]]           |                                                                                                                                  |
-| [[Serment de la Couronne]]       |                                                                                                                                  |
-| [[Serment de la Haute-Mer]]      |                                                                                                                                  |
-| [[Serment de la Nuit Éternelle]] |                                                                                                                                  |
-| [[Serment de Rédemption]]        |                                                                                                                                  |
-| [[Serment de Liesse]]            |                                                                                                                                  |
-| [[Serment de Vengance]]          |                                                                                                                                  |
-| [[Serment des Anciens]]          |                                                                                                                                  |
-| [[Serment des Sentinelles]]      |                                                                                                                                  |
-| [[Serment des Tempêtes]]         |                                                                                                                                  |
-| [[Serment du Soleil]]            |                                                                                                                                  |
+| Serment                          | Description                                                                                                                                      |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[Briseur de Serment]]           | Rejetez la lumière pour asservir les morts-vivants et devenir un seigneur de terreur alimenté par la haine.                                      |
+| [[Serment d'Avarice]]            | Incarnez l'avidité pure en vous drapant d'or et en volant vos ennemis, transformant chaque combat en une transaction profitable.                 |
+| [[Serment d'Hérésie]]            | Dénoncez les mensonges des dieux et de l'église pour mener une croisade révolutionnaire alimentée par votre propre vérité.                       |
+| [[Serment de Conquête]]          | Imposez un ordre absolu en écrasant tout espoir et en subjuguant vos ennemis par la peur et la force brute.                                      |
+| [[Serment de Dévotion]]          | Incarnez l'archétype du chevalier en armure étincelante, un guerrier saint voué à la justice, la vertu et le bien commun.                        |
+| [[Serment de Gloire]]            | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque.                          |
+| [[Serment de Jugement]]          | Incarnez l'équilibre cosmique en tant que juge et bourreau, intervenant dans les conflits planaires pour préserver le libre arbitre des mortels. |
+| [[Serment de l'Hiver]]           |                                                                                                                                                  |
+| [[Serment de la Couronne]]       |                                                                                                                                                  |
+| [[Serment de la Haute-Mer]]      |                                                                                                                                                  |
+| [[Serment de la Nuit Éternelle]] |                                                                                                                                                  |
+| [[Serment de Rédemption]]        |                                                                                                                                                  |
+| [[Serment de Liesse]]            |                                                                                                                                                  |
+| [[Serment de Vengance]]          |                                                                                                                                                  |
+| [[Serment des Anciens]]          |                                                                                                                                                  |
+| [[Serment des Sentinelles]]      |                                                                                                                                                  |
+| [[Serment des Tempêtes]]         |                                                                                                                                                  |
+| [[Serment du Soleil]]            |                                                                                                                                                  |
 
 
 Votre choix vous confère des compétences aux niveaux 3, 7, 15 et 20.
