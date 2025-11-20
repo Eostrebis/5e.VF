@@ -177,7 +177,7 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment de Dévotion]]          | Incarnez l'archétype du chevalier en armure étincelante, un guerrier saint voué à la justice, la vertu et le bien commun.                        |
 | [[Serment de Gloire]]            | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque.                          |
 | [[Serment de Jugement]]          | Incarnez l'équilibre cosmique en tant que juge et bourreau, intervenant dans les conflits planaires pour préserver le libre arbitre des mortels. |
-| [[Serment de l'Hiver]]           |                                                                                                                                                  |
+| [[Serment de l'Hiver]]           | Dressez-vous en rempart contre le froid éternel pour protéger les innocents des ravages de l'hiver et geler vos ennemis.                         |
 | [[Serment de la Couronne]]       |                                                                                                                                                  |
 | [[Serment de la Haute-Mer]]      |                                                                                                                                                  |
 | [[Serment de la Nuit Éternelle]] |                                                                                                                                                  |
