@@ -178,13 +178,14 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment de Gloire]]            | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque.                          |
 | [[Serment de Jugement]]          | Incarnez l'équilibre cosmique en tant que juge et bourreau, intervenant dans les conflits planaires pour préserver le libre arbitre des mortels. |
 | [[Serment de l'Hiver]]           | Dressez-vous en rempart contre le froid éternel pour protéger les innocents des ravages de l'hiver et geler vos ennemis.                         |
-| [[Serment de la Couronne]]       |                                                                                                                                                  |
-| [[Serment de la Haute-Mer]]      |                                                                                                                                                  |
+| [[Serment de la Couronne]]       | Devenez le bouclier vivant de la civilisation, jurant de faire respecter la loi et de sacrifier votre santé pour protéger vos alliés.            |
+| [[Serment de la Haute-Mer]]      | Prenez le large pour défendre la liberté et l'aventure, en commandant aux brumes et aux marées pour rester insaisissable.                        |
 | [[Serment de la Nuit Éternelle]] |                                                                                                                                                  |
-| [[Serment de Rédemption]]        |                                                                                                                                                  |
 | [[Serment de Liesse]]            |                                                                                                                                                  |
+| [[Serment de Rédemption]]        |                                                                                                                                                  |
 | [[Serment de Vengance]]          |                                                                                                                                                  |
 | [[Serment des Anciens]]          |                                                                                                                                                  |
+| [[Serment des Buveurs de Sorts]] | Traquez les mages renégats et absorbez leur magie pour protéger l'équilibre entre le monde ordinaire et les forces occultes.                     |
 | [[Serment des Sentinelles]]      |                                                                                                                                                  |
 | [[Serment des Tempêtes]]         |                                                                                                                                                  |
 | [[Serment du Soleil]]            |                                                                                                                                                  |

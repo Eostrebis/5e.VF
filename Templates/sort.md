@@ -1,16 +1,16 @@
 ---
 available: []
-level: 
-school: 
+level:
+school:
 Verbal: false
 Somatique: false
-Matériel: 
-detailmat: 
-Durée: 
-Incantation: 
-Portée: 
-Concentration: 
-Rituel: 
+Matériel:
+detailmat:
+Durée:
+Incantation:
+Portée:
+Concentration:
+Rituel:
 englishname:
 ---
 
