@@ -180,7 +180,8 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment de l'Hiver]]           | Dressez-vous en rempart contre le froid éternel pour protéger les innocents des ravages de l'hiver et geler vos ennemis.                                             |
 | [[Serment de la Couronne]]       | Devenez le bouclier vivant de la civilisation, jurant de faire respecter la loi et de sacrifier votre santé pour protéger vos alliés.                                |
 | [[Serment de la Haute-Mer]]      | Prenez le large pour défendre la liberté et l'aventure, en commandant aux brumes et aux marées pour rester insaisissable.                                            |
-| [[Serment de la Nuit Éternelle]] |                                                                                                                                                                      |
+| [[Serment de la Moisson]]        | Cultivez la vie et l'abondance en partageant votre vitalité et en offrant la rédemption aux vaincus, ne levant l'épée que pour empêcher de plus grandes souffrances. |
+| [[Serment de la Nuit Éternelle]] | Incarnez un justicier de l'ombre qui renonce à l'honneur chevaleresque pour dispenser une justice expéditive par l'assassinat et le subterfuge.                      |
 | [[Serment de Liesse]]            |                                                                                                                                                                      |
 | [[Serment de Rédemption]]        |                                                                                                                                                                      |
 | [[Serment de Vengance]]          |                                                                                                                                                                      |
@@ -189,7 +190,6 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment des Sentinelles]]      |                                                                                                                                                                      |
 | [[Serment des Tempêtes]]         |                                                                                                                                                                      |
 | [[Serment du Soleil]]            |                                                                                                                                                                      |
-| [[Serment de la Moisson]]        | Cultivez la vie et l'abondance en partageant votre vitalité et en offrant la rédemption aux vaincus, ne levant l'épée que pour empêcher de plus grandes souffrances. |
 
 
 Votre choix vous confère des compétences aux niveaux 3, 7, 15 et 20.
