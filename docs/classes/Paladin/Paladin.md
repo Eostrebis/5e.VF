@@ -1,5 +1,5 @@
 ---
-status: wip
+status: finished
 ---
 Vêtue d'une armure de plaques étincelant sous le soleil malgré la poussière et la crasse d'un long voyage, une humaine dépose son épée et son bouclier pour apposer ses mains sur un homme mortellement blessé. Une lueur divine émane de ses paumes, les plaies de l'homme se referment, et il ouvre de grands yeux stupéfaits.
 
@@ -10,7 +10,7 @@ Ses cheveux d'argent brillant sous un rais de lumière qui semble n'illuminer qu
 Quelles que soient leurs origines et leurs missions, les paladins sont unis par leurs serments de se dresser contre les forces du mal. Qu'il soit prêté devant l'autel d'un dieu sous le regard d'un prêtre, dans une clairière sacrée devant des esprits de la nature et des êtres féeriques, ou dans un moment de désespoir et de deuil avec les morts pour seuls témoins, le serment d'un paladin est un lien puissant. C'est une source de pouvoir qui transforme un guerrier pieux en un champion béni.
 ## La Cause de la Justice
 
-Un paladin jure de défendre la justice et la droiture, de se dresser aux côtés de ce qu'il y a de bon en ce monde face aux ténèbres envahissantes, et de traquer les forces du mal où qu'elles se terrent. Les paladins se focalisent sur différents aspects de la cause de la justice, mais tous sont liés par les serments qui leur confèrent le pouvoir d'accomplir leur œuvre sacrée. Bien que de nombreux paladins soient dévoués aux dieux Bons, le pouvoir d'un paladin provient tout autant de son engagement envers la justice elle-même que d'une divinité.
+Un paladin jure de défendre la justice et la droiture, de se dresser aux côtés de ce qu'il y a de bon en ce monde face aux ténèbres envahissantes, et de traquer les forces du mal où qu'elles se terrent. Les paladins se focalisent sur différents aspects de la cause de la justice, mais tous sont liés par les serments qui leur confèrent le pouvoir d'accomplir leur œuvre sacrée. Bien que de nombreux paladins soient dévoués aux dieux du bien, le pouvoir d'un paladin provient tout autant de son engagement envers la justice elle-même que d'une divinité.
 
 Les paladins s'entraînent durant des années pour apprendre l'art du combat, maîtrisant une variété d'armes et d'armures. Toutefois, leurs compétences martiales sont secondaires face à la puissance magique qu'ils manient : le pouvoir de soigner les malades et les blessés, de châtier les impies et les morts-vivants, et de protéger les innocents ainsi que ceux qui se joignent à eux dans leur lutte pour la justice.
 
@@ -91,7 +91,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Instinct Divin
 
-Au niveau 1, la présence de grands maux pèse sur vos sens comme une odeur désagréable, et le bien raisonne comme de la musique paradisiaque pour vos oreilles. Pour une action, vous pouvez vous ouvrir à la détection de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez la localisation de n'importe quel céleste, fiélon ou mort-vivant à 60 ft. qui n'est pas derrière une couverture totale. Vous connaissez le type de chacune des présences que vous détectez, mais pas son identité. Dans ce même rayon, vous détectez également la présence de tout endroit ou objet qui aurait été consacré ou désacralisé, comme avec le sort [[sanctification]].
+Au niveau 1, la présence de grands maux pèse sur vos sens comme une odeur désagréable, et le bien résonne comme de la musique paradisiaque pour vos oreilles. Pour une action, vous pouvez vous ouvrir à la détection de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez la localisation de n'importe quel céleste, fiélon ou mort-vivant à 60 ft. qui n'est pas derrière une couverture totale. Vous connaissez le type de chacune des présences que vous détectez, mais pas son identité. Dans ce même rayon, vous détectez également la présence de tout endroit ou objet qui aurait été consacré ou désacralisé, comme avec le sort [[sanctification]].
 
 Vous pouvez utiliser cette compétence un nombre de fois égal à 1 + votre modificateur de Charisme. Lorsque vous terminez un repos long, vous regagnez toutes les utilisations dépensées.
 
@@ -182,14 +182,14 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment de la Haute-Mer]]      | Prenez le large pour défendre la liberté et l'aventure, en commandant aux brumes et aux marées pour rester insaisissable.                                            |
 | [[Serment de la Moisson]]        | Cultivez la vie et l'abondance en partageant votre vitalité et en offrant la rédemption aux vaincus, ne levant l'épée que pour empêcher de plus grandes souffrances. |
 | [[Serment de la Nuit Éternelle]] | Incarnez un justicier de l'ombre qui renonce à l'honneur chevaleresque pour dispenser une justice expéditive par l'assassinat et le subterfuge.                      |
-| [[Serment de Liesse]]            |                                                                                                                                                                      |
-| [[Serment de Rédemption]]        |                                                                                                                                                                      |
-| [[Serment de Vengance]]          |                                                                                                                                                                      |
-| [[Serment des Anciens]]          |                                                                                                                                                                      |
+| [[Serment de Liesse]]            | Devenez l'âme de la fête et l'antithèse des croisés rigides, jurant de célébrer jour et nuit et de transformer chaque combat en une joyeuse bacchanale.              |
+| [[Serment de Rédemption]]        | Incarnez un guerrier saint qui croit en la rédemption de tous, ne recourant à la violence qu'en dernier ressort pour protéger les innocents.                         |
+| [[Serment de Vengeance]]          | Devenez un instrument de vengeance implacable, sacrifiant votre propre pureté morale pour traquer et exterminer les auteurs de crimes abominables.                   |
+| [[Serment des Anciens]]          | Incarnez un chevalier vert voué à la lumière et à la nature, protégeant la beauté du monde par une magie aussi ancienne que les druides.                             |
 | [[Serment des Buveurs de Sorts]] | Traquez les mages renégats et absorbez leur magie pour protéger l'équilibre entre le monde ordinaire et les forces occultes.                                         |
-| [[Serment des Sentinelles]]      |                                                                                                                                                                      |
-| [[Serment des Tempêtes]]         |                                                                                                                                                                      |
-| [[Serment du Soleil]]            |                                                                                                                                                                      |
+| [[Serment des Sentinelles]]      | Devenez le rempart ultime contre les menaces extraplanaires, affûtant votre esprit et votre corps pour déceler et bannir les intrus cosmiques.                       |
+| [[Serment des Tempêtes]]         | Devenez un croisé errant des mers, guidé par les vents et les marées, adoptant la neutralité impassible et la fureur vengeresse de la tempête.                       |
+| [[Serment du Soleil]]            | Incarnez la dualité de l'astre solaire en apportant sa lumière sacrée dans les ténèbres tout en protégeant les innocents de sa chaleur impitoyable.                  |
 
 
 Votre choix vous confère des compétences aux niveaux 3, 7, 15 et 20.

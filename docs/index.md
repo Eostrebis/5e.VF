@@ -7,7 +7,7 @@ status: empty
 
 ## Avancée de la Traduction
 
-**Classes.** 11/26 ![](https://geps.dev/progress/42)
+**Classes.** 12/26 ![](https://geps.dev/progress/46)
 
 **Races.** 42/42 ![](https://geps.dev/progress/100) ✨
 

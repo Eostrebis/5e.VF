@@ -11,7 +11,7 @@ Incantation:
 Portée:
 Concentration:
 Rituel:
-englishname:
+englishname: Geas
 status: empty
 ---
 

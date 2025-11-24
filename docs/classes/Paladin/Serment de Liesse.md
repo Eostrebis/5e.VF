@@ -1,53 +1,55 @@
 ---
-status: wip
+status: finished
 ---
-Les paladins qui prêtent le Serment de Liesse font le vœu solennel de festoyer jour et nuit jusqu'à ce que leur cœur lâche. Antithèse des croisés guindés et loyaux, ces émissaires de la fête parcourent les terres, s'invitant dans les célébrations et semant la pagaille partout où ils lèvent leur verre. Les autorités s'hérissent à leur arrivée, mais la jeunesse les acclame, car un Paladin de la Fête est toujours accompagné de bons moments.
+Les paladins qui prêtent le Serment de Liesse font le vœu solennel de festoyer jour et nuit jusqu'à ce que leur cœur lâche. Antithèse des croisés guindés et loyaux, ces émissaires de la fête parcourent les terres, s'invitant dans les célébrations et semant la pagaille partout où ils lèvent leur verre. Les autorités se hérissent à leur arrivée, mais la jeunesse les acclame, car un Paladin de la Fête est toujours accompagné de bons moments.
 
 > [!INFO] Principes de la Liesse
 > La plupart des paladins qui prêtent le Serment de Liesse choisissent de suivre le Codicus Brodicus, une doctrine de jugements moraux, aussi bien justes que stupides, à propos de la façon dont il est bon de conduire sa vie et ses soirées. En général, les paladins qui prêtent ce serment se soumettent aux principes suivants : 
 > 
-> **Propager la Révolution.** Partagez la vérité avec tous. Là où la vérité ne suffit pas à disperser les mensonges, votre épée est une vérité en elle-même.
+> **La Fête ne s'Arrête Jamais.** Toute occasion est bonne pour célébrer, et le monde entier devrait être invité.
 > 
-> **Défier l'Ordre.** Vous cherchez à briser les lois qui visent à cacher la vérité. Ne vous attardez pas sur des traditions que vous comptez réformer.
+> **Travailler Dur, Profiter Bien.** Sans planification ou effort, même une bonne bacchanale n'a rien de mémorable. Sortez le grand jeu à chaque évènement.
 > 
-> **Parler Vrai aux Puissants.** Confrontez les puissants de ce monde avec votre vérité, et ne les laissez pas l'ignorer. Ce n'est qu'en embrassant la vérité qu'ils peuvent faire partie du changement.
+> **Protéger son Droit à la Fête.** Ceux qui se tiennent en travers de votre chemin doivent se voir rappeler ce que c'est que de profiter ou, le cas échéant, être évités.
+
 
 ## Sorts de Serment
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                           |
-| ----------------- | --------------------------------------------------------------- |
-| 3                 | [[Écriture illusoire]], [[protection contre le mal et le bien]] |
-| 5                 | [[Arme magique]], [[zone de vérité]]                            |
-| 9                 | [[Dissipation de la magie]], [[communication avec les morts]]   |
-| 13                | [[Bannissement]], [[sanctuaire privé]]                          |
-| 17                | [[Dissipation du mal et du bien]], [[mythes et légendes]]       |
+| Niveau de Paladin | Sorts                                                             |
+| ----------------- | ----------------------------------------------------------------- |
+| 3                 | [[Charme-personne]], [[fou rire]]                                 |
+| 5                 | [[Apaisement des émotions]], [[amélioration de caractéristiques]] |
+| 9                 | [[Création de nourriture et d'eau]], [[motif hypnotique]]         |
+| 13                | [[Compulsion]], [[liberté de mouvement]]                          |
+| 17                | [[Quête]], [[lien télépathique]]                                  |
 
 ## Canal Divin
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Blasphème.** Pour une action en utilisant votre Canal Divin, vous prononcez une série de mots profondément hérétiques qui font trembler la pièce. Chaque créature que vous choisissez à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature prend 2d6 dégâts psychiques par point de votre bonus de maîtrise et est [[assourdi|assourdie]] pendant 1 minute. Si elle réussit, la créature ne prend que la moitié des dégâts et n'est pas assourdie.
+**Conjuration de Boisson.** Lorsque vous terminez un repos long, vous pouvez utiliser votre Canal Divin pour invoquer une flasque de bière bien mousseuse digne du paradis. Jusqu'à 3 créatures peuvent boire de cette flasque, et chacune d'entre elles a l'avantage au prochain jet de sauvegarde qu'elle réalise avant son prochain repos long, après quoi l'ivresse se dissipe. Lorsque vous prenez un repos court, la bière restante perd toutes propriétés magiques.
 
-**Renvoi du Sacré.** Pour une action en utilisant votre Canal Divin, vous censurez les Célestes et autres hommes de foi. Chaque Céleste que vous pouvez voir ou entendre à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse. Chaque Humanoïde à portée qui peut lancer des sorts de niveau 1 ou plus en utilisant la Sagesse comme caractéristique d'incantation doit également réaliser un jet de sauvegarde de Sagesse. Si une créature échoue son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
+**Danse et Chanson.** Vous pouvez utiliser votre Canal Divin en une action pour danser et entonner une gigue entraînante. Chaque créature que vous choisissez à 15 ft. de vous doit réussir un jet de sauvegarde de Sagesse ou se joindre à la danse. Les créatures continuent de danser tant que vous le faites.
 
-Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que courir ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
+Les créatures qui ne peuvent être [[charmé|charmées]] sont immunisées contre cet effet. L'effet se termine pour une créature lorsque vous choisissez de le terminer pendant votre tour (aucune action requise) ou lorsque la créature réussit le jet de sauvegarde de Sagesse qu'elle peut retenter à la fin de chacun de ses tours.
 
-## Aura de Non Divinité
+Une créature qui danse dépense tous ses points de mouvement à taper des pieds et se tortiller sans quitter son emplacement. Elle a également le désavantage aux jets de sauvegarde de Dextérité et jets d'attaque se basant sur la Dextérité.
 
-À partir du niveau 7, votre aura sépare la zone autour de vous des pouvoirs divins. Lorsqu'une créature autre que vous à 10 ft. de vous regagne des points de vie, vous pouvez faire en sorte que ce soin échoue et ne prodigue aucun effet. De plus, vous pouvez utiliser votre réaction pour lancer [[contresort]], sans utiliser d'emplacement ou de composantes, afin d'interrompre un lanceur de sort utilisant la Sagesse comme caractéristique d'incantation pour lancer un sort de niveau 1 ou plus à 10 ft. de vous.
+## Aura de Fraternité
 
-Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
+À partir du niveau 7, vous et vos alliés fonctionnez en harmonie au combat. Tant que vous avez un ou plusieurs alliés adjacents, vous et tous vos alliés à 5 ft. infligez 1d4 dégâts supplémentaires aux attaques de mêlée.
 
-## Volonté Implacable
+Au niveau 18, la portée de cette aura augmente de 10 ft. pour passer à 15 ft.
 
-Au niveau 15, vous pouvez relancer avec avantage les jets de sauvegarde que vous échouez. Si vous le faites, vous devez utiliser le nouveau lancer et ne pouvez pas le refaire avant d'avoir terminé un repos long.
-## Apostat
+## Fêtard
 
-Au niveau 20, enfin divorcé de la volonté des dieux, vous pouvez utiliser votre action pour prendre la forme même de votre blasphème, une sorte d'anti-apothéose. Vous bénéficiez des effets suivants pendant 1 minute :
+Au niveau 15, lorsque vous ou une créature alliée à 30 ft. de vous réalisez un jet de caractéristique ou de sauvegarde sans le désavantage, vous pouvez conférer l'avantage.
 
- - Vous pouvez utiliser votre option de Canal Divin de Blasphème pour une action bonus sans avoir à utiliser votre Canal Divin. Lorsque vous utilisez cette compétence de cette façon, elle inflige 4d6 dégâts psychiques en cas d'échec, et la moitié en cas de réussite.
- - Vous gagnez 20 points de vie temporaires au début de chacun de vos tours.
+Vous pouvez utiliser cette compétence trois fois, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+## Bête de Scène
+
+Au niveau 20, vous pouvez utiliser votre action pour vous transformer en l'incarnation même de la fête. Vous vous voyez pousser des cornes tel un satyre et émaner une aura de gaieté sur 30 ft. Pendant la prochaine minute, vous et vos alliés dans l'aura ne pouvez être [[aveuglé|aveuglés]], [[assourdi|assourdis]], [[épuisement|épuisés]] ou [[empoisonné|empoisonnés]]. De plus, au début de chacun de vos tours, vous et vos alliés non [[incapacité|incapacités]] dans l'aura regagnez 10 points de vie.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
