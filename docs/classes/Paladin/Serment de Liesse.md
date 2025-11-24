@@ -3,8 +3,8 @@ status: wip
 ---
 Les paladins qui prêtent le Serment de Liesse font le vœu solennel de festoyer jour et nuit jusqu'à ce que leur cœur lâche. Antithèse des croisés guindés et loyaux, ces émissaires de la fête parcourent les terres, s'invitant dans les célébrations et semant la pagaille partout où ils lèvent leur verre. Les autorités s'hérissent à leur arrivée, mais la jeunesse les acclame, car un Paladin de la Fête est toujours accompagné de bons moments.
 
-> [!INFO] Principes de l'Hérésie
-> En prêtant serment, vous jurez de propager la vérité où vous passez, en suivant les principes suivants :
+> [!INFO] Principes de la Liesse
+> La plupart des paladins qui prêtent le Serment de Liesse choisissent de suivre le Codicus Brodicus, une doctrine de jugements moraux, aussi bien justes que stupides, à propos de la façon dont il est bon de conduire sa vie et ses soirées. En général, les paladins qui prêtent ce serment se soumettent aux principes suivants : 
 > 
 > **Propager la Révolution.** Partagez la vérité avec tous. Là où la vérité ne suffit pas à disperser les mensonges, votre épée est une vérité en elle-même.
 > 
