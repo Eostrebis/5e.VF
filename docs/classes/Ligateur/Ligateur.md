@@ -63,7 +63,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
  - Une [[arbalète légère]], 20 [[Carreaux d'Arbalète (20)|carreaux]] et n'importe quelle [[Armes Simples|arme simple]]
  - (a) une armure d'[[écailles]] ou (b) une armure de [[cuir]]
- - 10 morceaux de [[Craie (1 morceau)||craie]] et (a) une [[sacoche à composants]] ou (b) un [[focalisateur arcanique]]
+ - 10 morceaux de [[Craie (1 morceau)|craie]] et (a) une [[sacoche à composants]] ou (b) un [[focalisateur arcanique]]
  - (a) un [[sac d'érudit]] ou (b) un [[sac d'exploration souterraine]]
 
 ## Ligature d'Âme
