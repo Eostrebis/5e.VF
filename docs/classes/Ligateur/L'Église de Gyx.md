@@ -1,9 +1,9 @@
 ---
 status: finished
 ---
-Gyx fut la première ligatrice connue, et la première à établir une Secte Ésotérique. À l'époque, la nature des vestiges, le Vide et les effets de la magie ligatrice sur l'âme n'étaient pas encore compris, et les suivants fanatiques de Gyx pensait être membre d'une nouvelle religion, pas d'une secte. De multiples inquisitions ont depuis vues l'église tomber dans l'ombre, ses pratiques et crédo étouffés, mais jamais éradiquée.
+Gyx fut la première ligatrice connue, et la première à établir une Secte Ésotérique. À l'époque, la nature des vestiges, le Vide et les effets de la magie ligatrice sur l'âme n'étaient pas encore compris, et les suivants fanatiques de Gyx pensaient être membre d'une nouvelle religion, pas d'une secte. De multiples inquisitions ont depuis vues l'église tomber dans l'ombre, ses pratiques et crédo étouffés, mais jamais éradiquée.
 
-Les membres de l'Église de Gyx sont tous membres du clergé, mais arborent chacun un symbole sacré différent. Leurs textes sacrés sont les légendes des différents vestiges, arrangés comme dans un panthéon, avec l'énigmatique [[Érèbe, l'Ombre Sans Fin]] à sa tête. Dans cette mythologie, Gyx joue le rôle de messagère des dieux ; confiant aux mortels l'art de la ligature et ouvrant le Vide aux vestiges divins.
+Les membres de l'Église de Gyx ressemblent à s'y méprendre à des clercs, mais arborent chacun un symbole sacré différent. Leurs textes sacrés sont les légendes des différents vestiges, arrangés comme dans un panthéon, avec l'énigmatique [[Érèbe, l'Ombre Sans Fin]] à sa tête. Dans cette mythologie, Gyx joue le rôle de messagère des dieux ; confiant aux mortels l'art de la ligature et ouvrant le Vide aux vestiges divins.
 
 ## Maîtrise Supplémentaire
 
@@ -23,4 +23,4 @@ Au niveau 7, vous recevez la bénédiction des dieux oubliés à travers vos ves
 
 ## Sacrifice au Vide
 
-Au niveau 14, vous pouvez lancer vos vestiges liés dans le Vide pour causer des miracles. À votre tour, vous pouvez expulser un vestige auquel vous êtes lié pour lancer un sort de clerc sans dépenser d'emplacement de sort. Ce sort doit être d'un niveau inférieur ou égal à celui du vestige expulsé. Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Au niveau 14, vous pouvez lancer vos vestiges liés dans le Vide pour causer des miracles. À votre tour, vous pouvez expulser un vestige auquel vous êtes lié pour lancer un sort de la liste de sorts du clerc sans dépenser d'emplacement de sort. Ce sort doit être d'un niveau inférieur ou égal à celui du vestige expulsé. Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
