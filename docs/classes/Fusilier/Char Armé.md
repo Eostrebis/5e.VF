@@ -7,7 +7,7 @@ Soyez plus grand, plus impressionnant, plus solide, et personne ne se tiendra en
 
 ## Artilleur
 
-Lorsque vous choisissez ce crédo au niveau 3, vous pouvez manier des armes à feu lourdes indépendamment de leur poids. De plus, vous pouvez utiliser la Force, plutôt que la Dextérité, pour les jets d'attaque et de dégâts utilisant des armes à feu lourdes, et vous pouvez utiliser votre Force plutôt que votre Dextérité pour déterminer votre DD de sauvegarde de Fait.
+Lorsque vous choisissez ce crédo au niveau 3, vous pouvez porter des armes à feu lourdes indépendamment de leur poids. De plus, vous pouvez utiliser la Force, plutôt que la Dextérité, pour les jets d'attaque et de dégâts utilisant des armes à feu lourdes, et vous pouvez utiliser votre Force plutôt que votre Dextérité pour déterminer votre DD de sauvegarde de Fait.
 
 ## Dur à Cuire
 

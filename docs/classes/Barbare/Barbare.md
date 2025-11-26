@@ -127,7 +127,7 @@ Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre ch
 | Voie                            | Description                                                                             |
 | ------------------------------- | --------------------------------------------------------------------------------------- |
 | [[Voie de l'Aileron]]           | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées          |
-| [[Voie de la Bête]]             |                                                                                         |
+| [[Voie de la Bête]]             | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.     |
 | [[Voie de la Magie Sauvage]]    |                                                                                         |
 | [[Voie de la Sérénité]]         | Un guerrier zen qui rentre en état de transe pendant les combats                        |
 | [[Voie de Mashle]]              | Clairement un "magicien". Un "magicien" costaud et énervé                               |

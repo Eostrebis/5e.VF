@@ -28,4 +28,4 @@ status: wip
 | 8      | [[Carthin, le Briseur de Rune]]    |                                                                    |
 | 8      | [[Döpple, l'Archiviste]]           |                                                                    |
 | 9      | [[Érèbe, l'Ombre Sans Fin]]        |                                                                    |
-|        |                                    |                                                                    |
+| 9      | [[Qadir, le Génie Maudit]]         |                                                                    |
