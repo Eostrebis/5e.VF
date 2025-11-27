@@ -77,12 +77,28 @@
             color: #fff;
             padding: 10px;
             text-align: left;
-            cursor: pointer;
             white-space: nowrap;
             user-select: none;
+            position: relative; /* Pour la flèche de tri */
         }
 
-        .spells-app th:hover { opacity: 0.9; }
+        /* Style des colonnes triables */
+        .spells-app th.sortable {
+            cursor: pointer;
+            padding-right: 20px; /* Place pour la flèche */
+        }
+        .spells-app th.sortable:hover { opacity: 0.9; }
+
+        /* Flèches de tri CSS */
+        .spells-app th.sortable::after {
+            content: '↕';
+            position: absolute;
+            right: 5px;
+            opacity: 0.3;
+            font-size: 0.8em;
+        }
+        .spells-app th.asc::after { content: '▲'; opacity: 1; }
+        .spells-app th.desc::after { content: '▼'; opacity: 1; }
 
         .spells-app td {
             padding: 8px 10px;
@@ -274,10 +290,10 @@
         <table id="spells-table">
             <thead>
                 <tr>
-                    <th onclick="sortSpells('level')" title="Trier par niveau">Niv.</th>
-                    <th onclick="sortSpells('name')" title="Trier par nom">Nom</th>
-                    <th onclick="sortSpells('school')" title="Trier par école">École</th>
-                    <th>Temps</th>
+                    <th onclick="sortSpells('levelInt')" class="sortable" id="th-levelInt">Niv.</th>
+                    <th onclick="sortSpells('name')" class="sortable" id="th-name">Nom</th>
+                    <th onclick="sortSpells('school')" class="sortable" id="th-school">École</th>
+                    <th onclick="sortSpells('Incantation')" class="sortable" id="th-Incantation">Temps</th>
                     <th>Comp.</th>
                     <th>Classes</th>
                 </tr>
@@ -303,7 +319,7 @@
         const BASE_DOC_URL = 'https://eostrebis.github.io/5e.VF/sorts/';
 
         let spellsData = [];
-        let currentSort = { column: 'level', direction: 'asc' };
+        let currentSort = { column: 'levelInt', direction: 'asc' }; // Défaut : Niveau numérique
 
         const inputs = {
             search: document.getElementById('spells-search'),
@@ -326,17 +342,16 @@
             return classMapping[name] || name;
         }
 
-        // --- NORMALISATION AVANCEE POUR TRI ---
-        function normalizeText(text) {
+        // Fonction de normalisation pour la RECHERCHE uniquement
+        // (Supprime les accents pour trouver "eclat" en tapant "eclat")
+        function normalizeForSearch(text) {
             return text.toString().toLowerCase()
-                .replace(/œ/g, "oe") // Gère la ligature œ
-                .replace(/æ/g, "ae") // Gère la ligature æ
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Gère é, à, î, etc.
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         }
 
         // Slug pour URL
         function toSlug(text) {
-            return normalizeText(text)
+            return normalizeForSearch(text)
                 .replace(/[^a-z0-9]+/g, '-')
                 .replace(/(^-|-$)+/g, '');
         }
@@ -355,9 +370,8 @@
                         id: key,
                         slug: toSlug(key),
                         name: key,
-                        // On stocke la version normalisée pour le tri et la recherche
-                        normName: normalizeText(key),
-                        normEng: normalizeText(val.englishname || ''),
+                        normName: normalizeForSearch(key),
+                        normEng: normalizeForSearch(val.englishname || ''),
                         ...val,
                         levelInt: lvl,
                         isCostly: isCostly,
@@ -365,7 +379,9 @@
                     };
                 });
 
-                sortData('level');
+                // Tri initial
+                updateSortHeaderUI('levelInt');
+                sortData('levelInt');
                 initFilters();
                 renderTable(spellsData);
                 Object.values(inputs).forEach(el => el.disabled = false);
@@ -444,7 +460,7 @@
         }
 
         function filterSpells() {
-            const terms = normalizeText(inputs.search.value);
+            const terms = normalizeForSearch(inputs.search.value);
             const fLvl = inputs.level.value;
             const fSch = inputs.school.value;
             const fCls = inputs.cls.value;
@@ -464,6 +480,7 @@
             renderTable(sorted);
         }
 
+        // --- GESTION DU TRI ---
         window.sortSpells = function(col) {
             if(currentSort.column === col) {
                 currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
@@ -471,8 +488,21 @@
                 currentSort.column = col;
                 currentSort.direction = 'asc';
             }
+            updateSortHeaderUI(col);
             filterSpells();
         };
+
+        function updateSortHeaderUI(activeCol) {
+            // Retire les classes asc/desc de tous les th
+            document.querySelectorAll('#spells-table th').forEach(th => {
+                th.classList.remove('asc', 'desc');
+            });
+            // Ajoute la classe active au th cliqué
+            const activeTh = document.getElementById('th-' + activeCol);
+            if(activeTh) {
+                activeTh.classList.add(currentSort.direction);
+            }
+        }
 
         function sortData(col) {
             spellsData = sortDataList(spellsData, col, 'asc');
@@ -480,29 +510,28 @@
 
         function sortDataList(list, col, dir) {
             return list.sort((a, b) => {
-                if (col === 'level') {
+                // 1. TRI NUMERIQUE (LevelInt)
+                if (col === 'levelInt') {
                     const valA = a.levelInt;
                     const valB = b.levelInt;
                     return dir === 'asc' ? valA - valB : valB - valA;
-                } else {
-                    // TRI SUR LA VERSION NORMALISÉE (déjà calculée)
-                    // Gestion de normName pour le nom, ou valeur brute normalisée pour les autres
-                    const valA = col === 'name' ? a.normName : normalizeText(a[col] || '');
-                    const valB = col === 'name' ? b.normName : normalizeText(b[col] || '');
+                }
+                // 2. TRI ALPHABETIQUE LINGUISTIQUE (localeCompare)
+                else {
+                    const valA = (a[col] || '').toString();
+                    const valB = (b[col] || '').toString();
 
-                    if (valA < valB) return dir === 'asc' ? -1 : 1;
-                    if (valA > valB) return dir === 'asc' ? 1 : -1;
-                    return 0;
+                    // localeCompare avec 'fr' et sensitivity: 'base' ignore les accents et la casse
+                    // "Éclat" == "eclat" et "Œil" == "oeil"
+                    return dir === 'asc'
+                        ? valA.localeCompare(valB, 'fr', { sensitivity: 'base', numeric: true })
+                        : valB.localeCompare(valA, 'fr', { sensitivity: 'base', numeric: true });
                 }
             });
         }
 
         function openModal(s, updateHash = true) {
-            if (updateHash) {
-                // Pour ne pas pourrir l'historique : replaceState au lieu de pushState
-                // Ça met à jour l'URL sans créer une nouvelle entrée "Précédent"
-                history.replaceState(null, null, `#${s.slug}`);
-            }
+            if (updateHash) history.pushState(null, null, `#${s.slug}`);
 
             const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
             const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
@@ -547,7 +576,6 @@
 
         closeBtn.onclick = () => {
             modal.style.display = 'none';
-            // Optionnel : Retirer le hash de l'URL proprement sans recharger
             history.replaceState(null, null, window.location.pathname);
         };
         window.onclick = (e) => {
