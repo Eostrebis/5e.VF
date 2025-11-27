@@ -9,7 +9,7 @@ Vous rappelez gentiment aux autres, souvent par la violence physique, que vos po
 
 À partir du niveau 3, votre légitimité magique (et vos immenses pectoraux) vous confèrent l'avantage aux jets de Charisme (Intimidation) que vous réalisez pour convaincre les autres que vous êtes un magicien.
 
-De plus, si quelqu'un questionne vos prouesses magiques, vous pouvez vous enrager pendant 1 tour. Cette rage ne peut être étendue et ne compte pas dans le nombre de rages que vous pouvez réaliser. Pendant que vous êtes enragé de cette manière, vous ne pouvez attaquer que la créature qui vous a vexé ainsi que ses alliés.
+De plus, si quelqu'un questionne vos prouesses magiques, vous pouvez vous enrager pendant 1 tour. Cette rage ne peut être prolongée et ne compte pas dans le nombre de rages que vous pouvez réaliser. Pendant que vous êtes enragé de cette manière, vous ne pouvez attaquer que la créature qui vous a vexé ainsi que ses alliés.
 
 ## "Cantrips"
  
