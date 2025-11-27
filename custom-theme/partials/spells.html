@@ -5,14 +5,14 @@
         .spells-app {
             font-size: 0.9rem;
             color: var(--md-typeset-color, #333);
-            /* Centrage global du conteneur */
             max-width: 100%;
             margin: 0 auto;
         }
 
-        .spells-app a { color: var(--md-typeset-a-color, #3f51b5); }
+        .spells-app a { color: var(--md-typeset-a-color, #3f51b5); text-decoration: none; }
+        .spells-app a:hover { text-decoration: underline; }
 
-        /* --- Contrôles (Barre de filtres) --- */
+        /* --- Contrôles --- */
         .spells-app .controls {
             background-color: var(--md-default-bg-color, #fff);
             border: 1px solid var(--md-default-fg-color--lightest, #eee);
@@ -23,7 +23,7 @@
             gap: 15px;
             flex-wrap: wrap;
             align-items: flex-end;
-            justify-content: center; /* Centrer les contrôles */
+            justify-content: center;
         }
 
         .spells-app .control-group {
@@ -61,15 +61,15 @@
             border-radius: 4px;
             background-color: var(--md-default-bg-color, #fff);
             width: 100%;
-            display: flex;           /* Flex pour centrer le tableau */
-            justify-content: center; /* Centrage horizontal */
+            display: flex;
+            justify-content: center;
         }
 
         .spells-app table {
             width: 100%;
             border-collapse: collapse;
-            min-width: 800px; /* Force le scroll sur petit écran */
-            margin: 0 auto;   /* Sécurité centrage */
+            min-width: 800px;
+            margin: 0 auto;
         }
 
         .spells-app th {
@@ -100,7 +100,7 @@
             background-color: var(--md-accent-fg-color--transparent, rgba(0,0,0,0.05));
         }
 
-        /* --- Tags (Icônes) --- */
+        /* --- Tags --- */
         .spells-app .tag {
             display: inline-block;
             padding: 2px 6px;
@@ -108,50 +108,41 @@
             font-size: 0.8em;
             margin: 1px;
             font-weight: 600;
-            border: 1px solid transparent; /* Pour éviter le saut quand on ajoute une bordure */
+            border: 1px solid transparent;
         }
 
-        /* == COULEURS MODE CLAIR (Défaut) == */
-        /* Verbal (Rouge) */
+        /* Mode Clair */
         .spells-app .tag-V { color: #b71c1c; background: #ffcdd2; border-color: #ef9a9a; }
-        /* Somatique (Bleu) */
         .spells-app .tag-S { color: #0d47a1; background: #bbdefb; border-color: #90caf9; }
-        /* Matériel (Vert) */
         .spells-app .tag-M { color: #1b5e20; background: #c8e6c9; border-color: #a5d6a7; }
-        /* Concentration (Orange) */
         .spells-app .tag-conc { color: #e65100; background: #ffe0b2; border-color: #ffcc80; }
-        /* Rituel (Violet) */
         .spells-app .tag-rit { color: #4a148c; background: #e1bee7; border-color: #ce93d8; }
 
-        /* Style spécial Matériel coûteux (Clair) */
         .spells-app .tag-M.costly {
             border: 2px solid #2e7d32;
             font-weight: 800;
             text-decoration: underline dotted;
         }
 
-        /* == COULEURS MODE SOMBRE (Overrides MkDocs) == */
+        /* Mode Sombre (Detection via attribut data-md-color-scheme) */
         body[data-md-color-scheme="slate"] .spells-app .tag-V { color: #ffcdd2; background: rgba(183, 28, 28, 0.3); border-color: #b71c1c; }
         body[data-md-color-scheme="slate"] .spells-app .tag-S { color: #bbdefb; background: rgba(13, 71, 161, 0.3); border-color: #0d47a1; }
         body[data-md-color-scheme="slate"] .spells-app .tag-M { color: #c8e6c9; background: rgba(27, 94, 32, 0.3); border-color: #1b5e20; }
         body[data-md-color-scheme="slate"] .spells-app .tag-conc { color: #ffe0b2; background: rgba(230, 81, 0, 0.3); border-color: #e65100; }
         body[data-md-color-scheme="slate"] .spells-app .tag-rit { color: #e1bee7; background: rgba(74, 20, 140, 0.3); border-color: #4a148c; }
 
-        /* Style spécial Matériel coûteux (Sombre) */
         body[data-md-color-scheme="slate"] .spells-app .tag-M.costly {
             border: 2px solid #81c784;
             color: #fff;
         }
 
-        /* Badges de classe (Neutres) */
         .spells-app .class-tag {
             border: 1px solid var(--md-default-fg-color--lightest, #ccc);
-            background-color: var(--md-default-bg-color, #fff); /* Fond adaptatif */
+            background-color: var(--md-default-bg-color, #fff);
             color: var(--md-typeset-color, #333);
             font-weight: normal;
         }
 
-        /* Tooltip interactif pour les classes tronquées */
         .spells-app .more-classes {
             cursor: help;
             border-bottom: 1px dotted var(--md-typeset-color);
@@ -211,6 +202,21 @@
             padding-bottom: 15px;
             margin-bottom: 15px;
             line-height: 1.6;
+        }
+
+        /* Liens d'action dans le titre de la modal */
+        .spell-action-link {
+            font-size: 0.8em;
+            margin-left: 8px;
+            opacity: 0.4;
+            vertical-align: middle;
+            text-decoration: none !important;
+            transition: opacity 0.2s, transform 0.2s;
+            display: inline-block;
+        }
+        .spell-action-link:hover {
+            opacity: 1;
+            transform: scale(1.1);
         }
     </style>
 
@@ -286,7 +292,7 @@
     <div id="spells-modal" class="spells-modal">
         <div class="spells-modal-content">
             <span class="spells-close">&times;</span>
-            <h2 id="modal-title" style="margin-top:0; color:var(--md-primary-fg-color);"></h2>
+            <h2 id="modal-title" style="margin-top:0; color:var(--md-primary-fg-color); padding-right: 30px;"></h2>
             <div id="modal-meta" class="spells-meta"></div>
             <div id="modal-desc"></div>
         </div>
@@ -295,6 +301,8 @@
     <script>
     (function() {
         const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
+        const BASE_DOC_URL = 'https://eostrebis.github.io/5e.VF/sorts/'; // Base de l'URL externe
+
         let spellsData = [];
         let currentSort = { column: 'level', direction: 'asc' };
 
@@ -319,6 +327,14 @@
             return classMapping[name] || name;
         }
 
+        // Slugify pour l'ancre interne (#nom-du-sort)
+        function toSlug(text) {
+            return text.toString().toLowerCase()
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                .replace(/[^a-z0-9]+/g, '-')
+                .replace(/(^-|-$)+/g, '');
+        }
+
         fetch(JSON_URL)
             .then(res => res.json())
             .then(data => {
@@ -328,6 +344,7 @@
 
                     return {
                         id: key,
+                        slug: toSlug(key),
                         name: key,
                         ...val,
                         levelInt: parseInt(val.level),
@@ -339,22 +356,28 @@
                 sortData('level');
                 initFilters();
                 renderTable(spellsData);
-
                 Object.values(inputs).forEach(el => el.disabled = false);
+                checkHashAndOpen();
             })
             .catch(err => {
                 tbody.innerHTML = `<tr><td colspan="6" style="color:red; text-align:center;">Erreur chargement: ${err.message}</td></tr>`;
             });
 
+        function checkHashAndOpen() {
+            const hash = window.location.hash.substring(1);
+            if (hash) {
+                const targetSpell = spellsData.find(s => s.slug === hash);
+                if (targetSpell) openModal(targetSpell, false);
+            }
+        }
+
         function initFilters() {
             const schools = new Set();
             const classes = new Set();
-
             spellsData.forEach(s => {
                 if(s.school) schools.add(s.school);
                 s.cleanClasses.forEach(c => classes.add(c));
             });
-
             Array.from(schools).sort().forEach(s => {
                 inputs.school.innerHTML += `<option value="${s}">${s}</option>`;
             });
@@ -369,31 +392,27 @@
                 tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;">Aucun sort trouvé.</td></tr>';
                 return;
             }
-
             const fragment = document.createDocumentFragment();
-
             data.forEach(spell => {
                 const tr = document.createElement('tr');
                 tr.style.cursor = 'pointer';
                 tr.onclick = () => openModal(spell);
 
-                let comps = '';
-                if(spell.Verbal === "true") comps += '<span class="tag tag-V" title="Verbal">V</span>';
-                if(spell.Somatique === "true") comps += '<span class="tag tag-S" title="Somatique">S</span>';
+                let comps = [];
+                if(spell.Verbal === "true") comps.push('<span class="tag tag-V" title="Verbal">V</span>');
+                if(spell.Somatique === "true") comps.push('<span class="tag tag-S" title="Somatique">S</span>');
                 if(spell.Matériel === "true") {
-                    const styleClass = spell.isCostly ? 'tag tag-M costly' : 'tag tag-M';
-                    const title = spell.detailmat ? `Matériel: ${spell.detailmat}` : 'Matériel';
-                    comps += `<span class="${styleClass}" title="${title.replace(/"/g, '&quot;')}">M</span>`;
+                    const style = spell.isCostly ? 'tag tag-M costly' : 'tag tag-M';
+                    const tooltip = spell.detailmat ? `Matériel: ${spell.detailmat}` : 'Matériel';
+                    comps.push(`<span class="${style}" title="${tooltip.replace(/"/g, '&quot;')}">M</span>`);
                 }
-                if(spell.Concentration === "true") comps += '<span class="tag tag-conc" title="Concentration">C</span>';
-                if(spell.Rituel === "true") comps += '<span class="tag tag-rit" title="Rituel">R</span>';
+                if(spell.Concentration === "true") comps.push('<span class="tag tag-conc" title="Concentration">C</span>');
+                if(spell.Rituel === "true") comps.push('<span class="tag tag-rit" title="Rituel">R</span>');
 
-                // --- Gestion Classes & Tooltip ---
                 let classDisplay = '';
                 if (spell.cleanClasses.length <= 3) {
                     classDisplay = spell.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
                 } else {
-                    // Affiche les 3 premières + tooltip sur le reste
                     classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
                     const allRemaining = spell.cleanClasses.join(', ');
                     classDisplay += ` <span class="more-classes" title="${allRemaining}">+${spell.cleanClasses.length - 3}</span>`;
@@ -404,7 +423,7 @@
                     <td style="font-weight:500; color:var(--md-primary-fg-color);">${spell.name}</td>
                     <td>${spell.school}</td>
                     <td>${spell.Incantation}</td>
-                    <td style="white-space:nowrap;">${comps}</td>
+                    <td style="white-space:nowrap;">${comps.join(' ')}</td>
                     <td>${classDisplay}</td>
                 `;
                 fragment.appendChild(tr);
@@ -427,10 +446,8 @@
                 const matchCls = fCls === 'all' || s.cleanClasses.includes(fCls);
                 const matchConc = fConc === 'all' || s.Concentration === fConc;
                 const matchRit = fRit === 'all' || s.Rituel === fRit;
-
                 return matchName && matchLvl && matchSch && matchCls && matchConc && matchRit;
             });
-
             const sorted = sortDataList(filtered, currentSort.column, currentSort.direction);
             renderTable(sorted);
         }
@@ -465,8 +482,22 @@
             });
         }
 
-        function openModal(s) {
-            document.getElementById('modal-title').textContent = `${s.name} ${s.englishname ? `(${s.englishname})` : ''}`;
+        function openModal(s, updateHash = true) {
+            if (updateHash) history.pushState(null, null, `#${s.slug}`);
+
+            // Construction de l'URL externe
+            // Logic: Level 0 -> 'cantrips', sinon '0' + level (ex: '01')
+            const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
+            const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
+
+            // Titre + Lien ancre + Lien externe
+            const titleHTML = `
+                ${s.name}
+                <a href="#${s.slug}" class="spell-action-link" title="Lien direct (ancre)">🔗</a>
+                <a href="${spellUrl}" class="spell-action-link" title="Page détaillée du sort" target="_blank">📖</a>
+                ${s.englishname ? `<small style="font-weight:normal; opacity:0.7; margin-left:10px;">(${s.englishname})</small>` : ''}
+            `;
+            document.getElementById('modal-title').innerHTML = titleHTML;
 
             let meta = `<strong>Niveau ${s.level} - ${s.school}</strong><br>`;
             meta += `<strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portée} | <strong>Durée:</strong> ${s.Durée}<br>`;
@@ -480,7 +511,6 @@
             }
             meta += `<strong>Composantes:</strong> ${compDetails.join(' ')}`;
 
-            // Affichage complet des classes dans le modal
             const classesBadges = s.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
             meta += `<br><div style="margin-top:5px;"><strong>Classes:</strong> ${classesBadges}</div>`;
 
@@ -492,7 +522,7 @@
             let desc = s.description || '';
             desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                        .replace(/__(.*?)__/g, '<strong>$1</strong>')
-                       .replace(/\[\[(.*?)\|(.*?)\]\]/g, '$2') // Liens wiki nettoyés
+                       .replace(/\[\[(.*?)\|(.*?)\]\]/g, '$2')
                        .replace(/\[\[(.*?)\]\]/g, '$1')
                        .replace(/\n/g, '<br>');
 
