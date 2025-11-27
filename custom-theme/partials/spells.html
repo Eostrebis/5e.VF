@@ -85,7 +85,7 @@
         /* Style des colonnes triables */
         .spells-app th.sortable {
             cursor: pointer;
-            padding-right: 20px; /* Place pour la flèche */
+            padding-right: 20px;
         }
         .spells-app th.sortable:hover { opacity: 0.9; }
 
@@ -342,16 +342,17 @@
             return classMapping[name] || name;
         }
 
-        // Fonction de normalisation pour la RECHERCHE uniquement
-        // (Supprime les accents pour trouver "eclat" en tapant "eclat")
-        function normalizeForSearch(text) {
+        // --- NORMALISATION PUISSANTE (Fixe le problème Œil / Éclat) ---
+        function normalizeText(text) {
+            if (!text) return "";
             return text.toString().toLowerCase()
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+                .replace(/œ/g, "oe") // Remplacement MANUEL ligature
+                .replace(/æ/g, "ae")
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Supprime accents
         }
 
-        // Slug pour URL
         function toSlug(text) {
-            return normalizeForSearch(text)
+            return normalizeText(text)
                 .replace(/[^a-z0-9]+/g, '-')
                 .replace(/(^-|-$)+/g, '');
         }
@@ -370,8 +371,11 @@
                         id: key,
                         slug: toSlug(key),
                         name: key,
-                        normName: normalizeForSearch(key),
-                        normEng: normalizeForSearch(val.englishname || ''),
+                        // On stocke la version nettoyée pour le tri et le filtre
+                        normName: normalizeText(key),
+                        normSchool: normalizeText(val.school || ''),
+                        normTime: normalizeText(val.Incantation || ''),
+                        normEng: normalizeText(val.englishname || ''),
                         ...val,
                         levelInt: lvl,
                         isCostly: isCostly,
@@ -379,7 +383,7 @@
                     };
                 });
 
-                // Tri initial
+                // Init UI
                 updateSortHeaderUI('levelInt');
                 sortData('levelInt');
                 initFilters();
@@ -460,7 +464,7 @@
         }
 
         function filterSpells() {
-            const terms = normalizeForSearch(inputs.search.value);
+            const terms = normalizeText(inputs.search.value);
             const fLvl = inputs.level.value;
             const fSch = inputs.school.value;
             const fCls = inputs.cls.value;
@@ -480,7 +484,7 @@
             renderTable(sorted);
         }
 
-        // --- GESTION DU TRI ---
+        // --- TRI OPTIMISÉ ---
         window.sortSpells = function(col) {
             if(currentSort.column === col) {
                 currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
@@ -493,15 +497,11 @@
         };
 
         function updateSortHeaderUI(activeCol) {
-            // Retire les classes asc/desc de tous les th
             document.querySelectorAll('#spells-table th').forEach(th => {
                 th.classList.remove('asc', 'desc');
             });
-            // Ajoute la classe active au th cliqué
             const activeTh = document.getElementById('th-' + activeCol);
-            if(activeTh) {
-                activeTh.classList.add(currentSort.direction);
-            }
+            if(activeTh) activeTh.classList.add(currentSort.direction);
         }
 
         function sortData(col) {
@@ -510,29 +510,30 @@
 
         function sortDataList(list, col, dir) {
             return list.sort((a, b) => {
-                // 1. TRI NUMERIQUE (LevelInt)
+                // TRI NUMERIQUE (Niveau)
                 if (col === 'levelInt') {
-                    const valA = a.levelInt;
-                    const valB = b.levelInt;
-                    return dir === 'asc' ? valA - valB : valB - valA;
+                    return dir === 'asc' ? a.levelInt - b.levelInt : b.levelInt - a.levelInt;
                 }
-                // 2. TRI ALPHABETIQUE LINGUISTIQUE (localeCompare)
-                else {
-                    const valA = (a[col] || '').toString();
-                    const valB = (b[col] || '').toString();
 
-                    // localeCompare avec 'fr' et sensitivity: 'base' ignore les accents et la casse
-                    // "Éclat" == "eclat" et "Œil" == "oeil"
-                    return dir === 'asc'
-                        ? valA.localeCompare(valB, 'fr', { sensitivity: 'base', numeric: true })
-                        : valB.localeCompare(valA, 'fr', { sensitivity: 'base', numeric: true });
+                // TRI TEXTE NETTOYÉ (Pour Nom, Ecole, etc.)
+                let valA, valB;
+                if(col === 'name') { valA = a.normName; valB = b.normName; }
+                else if(col === 'school') { valA = a.normSchool; valB = b.normSchool; }
+                else if(col === 'Incantation') { valA = a.normTime; valB = b.normTime; }
+                else {
+                    // Fallback
+                    valA = normalizeText(a[col] || '');
+                    valB = normalizeText(b[col] || '');
                 }
+
+                if (valA < valB) return dir === 'asc' ? -1 : 1;
+                if (valA > valB) return dir === 'asc' ? 1 : -1;
+                return 0;
             });
         }
 
         function openModal(s, updateHash = true) {
-            if (updateHash) history.pushState(null, null, `#${s.slug}`);
-
+            // Pas de hash pour navigation clean
             const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
             const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
 
@@ -576,12 +577,10 @@
 
         closeBtn.onclick = () => {
             modal.style.display = 'none';
-            history.replaceState(null, null, window.location.pathname);
         };
         window.onclick = (e) => {
             if(e.target === modal) {
                 modal.style.display = 'none';
-                history.replaceState(null, null, window.location.pathname);
             }
         };
 
