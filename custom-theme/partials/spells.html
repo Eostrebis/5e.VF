@@ -1,15 +1,18 @@
 <div class="spells-app">
 
     <style>
-        /* --- CSS Scoped & Dark Mode Compatible --- */
+        /* --- CSS Scoped & Variables --- */
         .spells-app {
             font-size: 0.9rem;
             color: var(--md-typeset-color, #333);
+            /* Centrage global du conteneur */
+            max-width: 100%;
+            margin: 0 auto;
         }
 
         .spells-app a { color: var(--md-typeset-a-color, #3f51b5); }
 
-        /* Contrôles */
+        /* --- Contrôles (Barre de filtres) --- */
         .spells-app .controls {
             background-color: var(--md-default-bg-color, #fff);
             border: 1px solid var(--md-default-fg-color--lightest, #eee);
@@ -20,12 +23,14 @@
             gap: 15px;
             flex-wrap: wrap;
             align-items: flex-end;
+            justify-content: center; /* Centrer les contrôles */
         }
 
         .spells-app .control-group {
             display: flex;
             flex-direction: column;
             flex: 1 1 auto;
+            min-width: 120px;
         }
 
         .spells-app label {
@@ -49,24 +54,22 @@
             outline: none;
         }
 
-        /* Tableau */
+        /* --- Tableau --- */
         .spells-app .table-container {
             overflow-x: auto;
             border: 1px solid var(--md-default-fg-color--lightest, #eee);
             border-radius: 4px;
             background-color: var(--md-default-bg-color, #fff);
-            /* Centrage du contenu du conteneur si besoin */
-            text-align: center;
+            width: 100%;
+            display: flex;           /* Flex pour centrer le tableau */
+            justify-content: center; /* Centrage horizontal */
         }
 
         .spells-app table {
             width: 100%;
-            /* Centrage du tableau lui-même */
-            margin: 0 auto;
             border-collapse: collapse;
-            min-width: 800px;
-            /* Rétablissement de l'alignement texte à gauche pour le contenu */
-            text-align: left;
+            min-width: 800px; /* Force le scroll sur petit écran */
+            margin: 0 auto;   /* Sécurité centrage */
         }
 
         .spells-app th {
@@ -86,6 +89,7 @@
             border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
             vertical-align: middle;
             color: var(--md-typeset-color);
+            text-align: left;
         }
 
         .spells-app tr:nth-child(even) {
@@ -96,52 +100,72 @@
             background-color: var(--md-accent-fg-color--transparent, rgba(0,0,0,0.05));
         }
 
-        /* Tags */
+        /* --- Tags (Icônes) --- */
         .spells-app .tag {
             display: inline-block;
-            padding: 1px 5px;
-            border-radius: 3px;
+            padding: 2px 6px;
+            border-radius: 4px;
             font-size: 0.8em;
             margin: 1px;
-            font-weight: 500;
-            background: #e0e0e0;
-            color: #333;
+            font-weight: 600;
+            border: 1px solid transparent; /* Pour éviter le saut quand on ajoute une bordure */
         }
 
-        .spells-app .tag-V { color: #b71c1c; background: #ffcdd2; }
-        .spells-app .tag-S { color: #0d47a1; background: #bbdefb; }
-        .spells-app .tag-M { color: #1b5e20; background: #c8e6c9; }
+        /* == COULEURS MODE CLAIR (Défaut) == */
+        /* Verbal (Rouge) */
+        .spells-app .tag-V { color: #b71c1c; background: #ffcdd2; border-color: #ef9a9a; }
+        /* Somatique (Bleu) */
+        .spells-app .tag-S { color: #0d47a1; background: #bbdefb; border-color: #90caf9; }
+        /* Matériel (Vert) */
+        .spells-app .tag-M { color: #1b5e20; background: #c8e6c9; border-color: #a5d6a7; }
+        /* Concentration (Orange) */
+        .spells-app .tag-conc { color: #e65100; background: #ffe0b2; border-color: #ffcc80; }
+        /* Rituel (Violet) */
+        .spells-app .tag-rit { color: #4a148c; background: #e1bee7; border-color: #ce93d8; }
 
+        /* Style spécial Matériel coûteux (Clair) */
         .spells-app .tag-M.costly {
-            font-weight: 900;
-            border: 1px solid #1b5e20;
-            background: #a5d6a7;
+            border: 2px solid #2e7d32;
+            font-weight: 800;
             text-decoration: underline dotted;
         }
 
-        .spells-app .tag-conc { background: #fff9c4; color: #f57f17; font-weight: bold; }
-        .spells-app .tag-rit { background: #e1bee7; color: #4a148c; }
+        /* == COULEURS MODE SOMBRE (Overrides MkDocs) == */
+        body[data-md-color-scheme="slate"] .spells-app .tag-V { color: #ffcdd2; background: rgba(183, 28, 28, 0.3); border-color: #b71c1c; }
+        body[data-md-color-scheme="slate"] .spells-app .tag-S { color: #bbdefb; background: rgba(13, 71, 161, 0.3); border-color: #0d47a1; }
+        body[data-md-color-scheme="slate"] .spells-app .tag-M { color: #c8e6c9; background: rgba(27, 94, 32, 0.3); border-color: #1b5e20; }
+        body[data-md-color-scheme="slate"] .spells-app .tag-conc { color: #ffe0b2; background: rgba(230, 81, 0, 0.3); border-color: #e65100; }
+        body[data-md-color-scheme="slate"] .spells-app .tag-rit { color: #e1bee7; background: rgba(74, 20, 140, 0.3); border-color: #4a148c; }
 
-        .spells-app .class-tag {
-            border: 1px solid var(--md-default-fg-color--lightest, #ccc);
-            background-color: var(--md-default-bg-color, #fff);
-            color: var(--md-typeset-color, #333);
+        /* Style spécial Matériel coûteux (Sombre) */
+        body[data-md-color-scheme="slate"] .spells-app .tag-M.costly {
+            border: 2px solid #81c784;
+            color: #fff;
         }
 
-        /* Tooltip pour les classes tronquées */
+        /* Badges de classe (Neutres) */
+        .spells-app .class-tag {
+            border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+            background-color: var(--md-default-bg-color, #fff); /* Fond adaptatif */
+            color: var(--md-typeset-color, #333);
+            font-weight: normal;
+        }
+
+        /* Tooltip interactif pour les classes tronquées */
         .spells-app .more-classes {
             cursor: help;
             border-bottom: 1px dotted var(--md-typeset-color);
-            margin-left: 4px;
+            margin-left: 6px;
             font-weight: bold;
-            opacity: 0.7;
+            opacity: 0.6;
+            transition: opacity 0.2s;
         }
         .spells-app .more-classes:hover {
             opacity: 1;
             color: var(--md-primary-fg-color);
         }
 
-        /* Modal */
+        /* --- Modal --- */
         .spells-modal {
             display: none;
             position: fixed;
@@ -150,8 +174,8 @@
             top: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0,0,0,0.7);
-            backdrop-filter: blur(3px);
+            background-color: rgba(0,0,0,0.75);
+            backdrop-filter: blur(4px);
         }
 
         .spells-modal-content {
@@ -159,15 +183,14 @@
             color: var(--md-typeset-color, #000);
             margin: 5% auto;
             padding: 25px;
-            border-radius: 4px;
+            border-radius: 6px;
             border: 1px solid var(--md-default-fg-color--lightest);
             width: 90%;
             max-width: 700px;
-            max-height: 90vh;
+            max-height: 85vh;
             overflow-y: auto;
             box-shadow: 0 10px 25px rgba(0,0,0,0.5);
             position: relative;
-            text-align: left; /* Force align left pour modal */
         }
 
         .spells-close {
@@ -185,8 +208,9 @@
             font-style: italic;
             color: var(--md-default-fg-color--light, #666);
             border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
-            padding-bottom: 10px;
+            padding-bottom: 15px;
             margin-bottom: 15px;
+            line-height: 1.6;
         }
     </style>
 
@@ -365,12 +389,14 @@
                 if(spell.Rituel === "true") comps += '<span class="tag tag-rit" title="Rituel">R</span>';
 
                 // --- Gestion Classes & Tooltip ---
-                let classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
-
-                if(spell.cleanClasses.length > 3) {
-                    // Les classes cachées pour le tooltip
-                    const remainingClasses = spell.cleanClasses.join(', ');
-                    classDisplay += ` <span class="more-classes" title="${remainingClasses}">...</span>`;
+                let classDisplay = '';
+                if (spell.cleanClasses.length <= 3) {
+                    classDisplay = spell.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
+                } else {
+                    // Affiche les 3 premières + tooltip sur le reste
+                    classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
+                    const allRemaining = spell.cleanClasses.join(', ');
+                    classDisplay += ` <span class="more-classes" title="${allRemaining}">+${spell.cleanClasses.length - 3}</span>`;
                 }
 
                 tr.innerHTML = `
@@ -446,18 +472,27 @@
             meta += `<strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portée} | <strong>Durée:</strong> ${s.Durée}<br>`;
 
             let compDetails = [];
-            if(s.Verbal === "true") compDetails.push("Verbal");
-            if(s.Somatique === "true") compDetails.push("Somatique");
-            if(s.Matériel === "true") compDetails.push(`Matériel (${s.detailmat || '?'})`);
-            meta += `<strong>Composantes:</strong> ${compDetails.join(', ')}`;
-            meta += `<br><strong>Classes:</strong> ${s.cleanClasses.join(', ')}`;
-            if(s.Rituel === "true") meta += `<br><em>Ce sort peut être lancé comme un rituel.</em>`;
+            if(s.Verbal === "true") compDetails.push('<span class="tag tag-V">Verbal</span>');
+            if(s.Somatique === "true") compDetails.push('<span class="tag tag-S">Somatique</span>');
+            if(s.Matériel === "true") {
+                const style = s.isCostly ? 'tag tag-M costly' : 'tag tag-M';
+                compDetails.push(`<span class="${style}">Matériel</span> (${s.detailmat || '?'})`);
+            }
+            meta += `<strong>Composantes:</strong> ${compDetails.join(' ')}`;
+
+            // Affichage complet des classes dans le modal
+            const classesBadges = s.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
+            meta += `<br><div style="margin-top:5px;"><strong>Classes:</strong> ${classesBadges}</div>`;
+
+            if(s.Rituel === "true") meta += `<br><span class="tag tag-rit">Rituel</span> <em>Ce sort peut être lancé comme un rituel.</em>`;
+            if(s.Concentration === "true") meta += `<br><span class="tag tag-conc">Concentration</span>`;
 
             document.getElementById('modal-meta').innerHTML = meta;
 
             let desc = s.description || '';
             desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                        .replace(/__(.*?)__/g, '<strong>$1</strong>')
+                       .replace(/\[\[(.*?)\|(.*?)\]\]/g, '$2') // Liens wiki nettoyés
                        .replace(/\[\[(.*?)\]\]/g, '$1')
                        .replace(/\n/g, '<br>');
 
