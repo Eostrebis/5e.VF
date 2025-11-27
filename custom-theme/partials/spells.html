@@ -326,10 +326,12 @@
             return classMapping[name] || name;
         }
 
-        // Normalisation pour recherche/tri (supprime accents, minuscules)
+        // --- NORMALISATION AVANCEE POUR TRI ---
         function normalizeText(text) {
             return text.toString().toLowerCase()
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+                .replace(/œ/g, "oe") // Gère la ligature œ
+                .replace(/æ/g, "ae") // Gère la ligature æ
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Gère é, à, î, etc.
         }
 
         // Slug pour URL
@@ -353,6 +355,7 @@
                         id: key,
                         slug: toSlug(key),
                         name: key,
+                        // On stocke la version normalisée pour le tri et la recherche
                         normName: normalizeText(key),
                         normEng: normalizeText(val.englishname || ''),
                         ...val,
@@ -362,7 +365,6 @@
                     };
                 });
 
-                // Tri initial
                 sortData('level');
                 initFilters();
                 renderTable(spellsData);
@@ -483,17 +485,24 @@
                     const valB = b.levelInt;
                     return dir === 'asc' ? valA - valB : valB - valA;
                 } else {
-                    const valA = (a[col] || '').toString();
-                    const valB = (b[col] || '').toString();
-                    return dir === 'asc'
-                        ? valA.localeCompare(valB, 'fr', { sensitivity: 'base' })
-                        : valB.localeCompare(valA, 'fr', { sensitivity: 'base' });
+                    // TRI SUR LA VERSION NORMALISÉE (déjà calculée)
+                    // Gestion de normName pour le nom, ou valeur brute normalisée pour les autres
+                    const valA = col === 'name' ? a.normName : normalizeText(a[col] || '');
+                    const valB = col === 'name' ? b.normName : normalizeText(b[col] || '');
+
+                    if (valA < valB) return dir === 'asc' ? -1 : 1;
+                    if (valA > valB) return dir === 'asc' ? 1 : -1;
+                    return 0;
                 }
             });
         }
 
         function openModal(s, updateHash = true) {
-            if (updateHash) history.pushState(null, null, `#${s.slug}`);
+            if (updateHash) {
+                // Pour ne pas pourrir l'historique : replaceState au lieu de pushState
+                // Ça met à jour l'URL sans créer une nouvelle entrée "Précédent"
+                history.replaceState(null, null, `#${s.slug}`);
+            }
 
             const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
             const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
@@ -538,10 +547,13 @@
 
         closeBtn.onclick = () => {
             modal.style.display = 'none';
+            // Optionnel : Retirer le hash de l'URL proprement sans recharger
+            history.replaceState(null, null, window.location.pathname);
         };
         window.onclick = (e) => {
             if(e.target === modal) {
                 modal.style.display = 'none';
+                history.replaceState(null, null, window.location.pathname);
             }
         };
 
