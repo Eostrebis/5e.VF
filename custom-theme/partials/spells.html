@@ -155,27 +155,27 @@
         const slugify = t => normalize(t).replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
         const formatClass = c => ({ "MagedeGuerre": "Mage de Guerre", "MaitreGuerre": "Maître de Guerre" }[c] || c);
 
-        // --- NOUVEAU CALCUL DE POIDS DE TEMPS ROBUSTE ---
+        // --- CALCUL DU POIDS TEMPS (En Secondes fictives) ---
         const getTimeWeight = (t) => {
-            if (!t) return 9999;
+            if (!t) return 999999;
             const txt = t.toString().toLowerCase().trim();
 
-            // 1. Mots-clés fixes
+            // Valeurs arbitraires très basses pour les actions de combat
             if (txt.includes('bonus')) return 1;
             if (txt.includes('réaction') || txt.includes('reaction')) return 2;
             if (txt.includes('action')) return 3;
 
-            // 2. Extraction valeur numérique (sécurisée)
+            // Extraction de la valeur numérique
             const match = txt.match(/(\d+)/);
-            let val = match ? parseInt(match[1], 10) : 0;
-            if (isNaN(val)) val = 0;
+            let val = match ? parseInt(match[1], 10) : 1;
 
-            // 3. Paliers par unité
-            if (txt.includes('heure') || txt.includes('hour')) return 1000 + val;
-            if (txt.includes('minute')) return 100 + val;
-            if (txt.includes('tour') || txt.includes('round')) return 10 + val;
+            // Conversion en "secondes" (ordre de grandeur)
+            if (txt.includes('tour') || txt.includes('round')) return val * 6;
+            if (txt.includes('minute')) return val * 60;
+            if (txt.includes('heure') || txt.includes('hour')) return val * 3600;
+            if (txt.includes('jour') || txt.includes('day')) return val * 86400;
 
-            return 9999; // Fallback
+            return 999999; // Fallback (ex: "Spécial")
         };
 
         // --- Fetch ---
@@ -187,7 +187,7 @@
                     levelInt: lvl,
                     sortName: normalize(k),
                     sortSchool: normalize(v.school),
-                    sortTimeValue: getTimeWeight(v.Incantation), // Poids pour le tri Tablesort
+                    sortTimeValue: getTimeWeight(v.Incantation),
                     classes: (v.available || []).map(formatClass),
                     isCostly: (v.detailmat || '').toLowerCase().match(/consomme|po|vaut/)
                 };
@@ -224,11 +224,11 @@
                     data-conc="${s.Concentration}"
                     data-rit="${s.Rituel}">
 
-                    <td data-sort="${s.levelInt}" style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
+                    <td data-sort="${String(s.levelInt).padStart(2, '0')}" style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
                     <td data-sort="${s.sortName}" style="font-weight:500;color:var(--primary)">${s.name}</td>
                     <td data-sort="${s.sortSchool}">${s.school}</td>
 
-                    <td data-sort="${s.sortTimeValue}">${s.Incantation}</td>
+                    <td data-sort="${String(s.sortTimeValue).padStart(10, '0')}">${s.Incantation}</td>
 
                     <td>${getCompTags(s)}</td>
                     <td>${getClassTags(s.classes)}</td>
