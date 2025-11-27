@@ -1,15 +1,20 @@
 <div class="spells-app">
 
     <style>
-        /* CSS Scoped pour ne pas casser le thème MkDocs */
+        /* --- CSS Scoped & Dark Mode Compatible --- */
         .spells-app {
             font-size: 0.9rem;
-            color: var(--md-text-color, #333);
+            /* Utilisation des variables natives MkDocs Material */
+            color: var(--md-typeset-color, #333);
         }
 
-        /* Contrôles */
+        /* Liens dans le tableau */
+        .spells-app a { color: var(--md-typeset-a-color, #3f51b5); }
+
+        /* Conteneur des filtres */
         .spells-app .controls {
-            background: var(--md-code-bg-color, #f5f5f5);
+            background-color: var(--md-default-bg-color, #fff);
+            border: 1px solid var(--md-default-fg-color--lightest, #eee);
             padding: 15px;
             border-radius: 4px;
             margin-bottom: 20px;
@@ -17,7 +22,6 @@
             gap: 15px;
             flex-wrap: wrap;
             align-items: flex-end;
-            border: 1px solid var(--md-default-fg-color--lightest, #ddd);
         }
 
         .spells-app .control-group {
@@ -31,14 +35,23 @@
             font-weight: bold;
             margin-bottom: 4px;
             opacity: 0.8;
+            color: var(--md-typeset-color);
         }
 
+        /* Inputs & Selects adaptatifs */
         .spells-app input, .spells-app select {
             padding: 6px;
-            border: 1px solid #ccc;
+            border: 1px solid var(--md-default-fg-color--lightest, #ccc);
             border-radius: 3px;
-            background: var(--md-bg-color, #fff);
-            color: var(--md-text-color, #000);
+            /* Fond et texte basés sur le thème */
+            background-color: var(--md-default-bg-color, #fff);
+            color: var(--md-typeset-color, #000);
+        }
+
+        /* Focus state pour l'accessibilité */
+        .spells-app input:focus, .spells-app select:focus {
+            border-color: var(--md-primary-fg-color, #3f51b5);
+            outline: none;
         }
 
         /* Tableau */
@@ -46,40 +59,42 @@
             overflow-x: auto;
             border: 1px solid var(--md-default-fg-color--lightest, #eee);
             border-radius: 4px;
+            background-color: var(--md-default-bg-color, #fff);
         }
 
         .spells-app table {
             width: 100%;
             border-collapse: collapse;
-            min-width: 800px; /* Force le scroll horizontal sur mobile */
+            min-width: 800px;
         }
 
         .spells-app th {
+            /* Couleur primaire du thème pour l'entête */
             background-color: var(--md-primary-fg-color, #5c6bc0);
-            color: white;
+            color: #fff;
             padding: 10px;
             text-align: left;
             cursor: pointer;
             white-space: nowrap;
             user-select: none;
         }
-        
-        .spells-app th:hover {
-            opacity: 0.9;
-        }
+
+        .spells-app th:hover { opacity: 0.9; }
 
         .spells-app td {
             padding: 8px 10px;
             border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
             vertical-align: middle;
+            color: var(--md-typeset-color);
         }
 
+        /* Zebra striping compatible dark mode */
         .spells-app tr:nth-child(even) {
-            background-color: var(--md-code-bg-color, #fafafa);
+            background-color: var(--md-default-fg-color--lightest, rgba(0,0,0,0.02));
         }
-        
+
         .spells-app tr:hover {
-            background-color: rgba(0,0,0,0.05);
+            background-color: var(--md-accent-fg-color--transparent, rgba(0,0,0,0.05));
         }
 
         /* Tags et Badges */
@@ -89,25 +104,33 @@
             border-radius: 3px;
             font-size: 0.8em;
             margin: 1px;
+            font-weight: 500;
+            /* Couleurs par défaut (fallback) */
             background: #e0e0e0;
             color: #333;
-            font-weight: 500;
         }
 
-        .spells-app .tag-V { color: #c62828; background: #ffcdd2; }
-        .spells-app .tag-S { color: #1565c0; background: #bbdefb; }
-        .spells-app .tag-M { color: #2e7d32; background: #c8e6c9; }
-        
-        /* Style spécial pour M coûteux/consommé */
+        /* Couleurs spécifiques pour les tags (restent fixes pour la lisibilité) */
+        .spells-app .tag-V { color: #b71c1c; background: #ffcdd2; }
+        .spells-app .tag-S { color: #0d47a1; background: #bbdefb; }
+        .spells-app .tag-M { color: #1b5e20; background: #c8e6c9; }
+
         .spells-app .tag-M.costly {
             font-weight: 900;
-            border: 1px solid #2e7d32;
+            border: 1px solid #1b5e20;
             background: #a5d6a7;
             text-decoration: underline dotted;
         }
 
-        .spells-app .tag-conc { background: #fff9c4; color: #fbc02d; font-weight: bold; }
-        .spells-app .tag-rit { background: #e1bee7; color: #8e24aa; }
+        .spells-app .tag-conc { background: #fff9c4; color: #f57f17; font-weight: bold; }
+        .spells-app .tag-rit { background: #e1bee7; color: #4a148c; }
+
+        /* Badges de classe */
+        .spells-app .class-tag {
+            border: 1px solid var(--md-default-fg-color--lightest, #ccc);
+            background-color: var(--md-default-bg-color, #fff);
+            color: var(--md-typeset-color, #333);
+        }
 
         /* Modal */
         .spells-modal {
@@ -118,21 +141,22 @@
             top: 0;
             width: 100%;
             height: 100%;
-            background-color: rgba(0,0,0,0.6);
-            backdrop-filter: blur(2px);
+            background-color: rgba(0,0,0,0.7);
+            backdrop-filter: blur(3px);
         }
 
         .spells-modal-content {
-            background-color: var(--md-bg-color, #fff);
-            color: var(--md-text-color, #000);
+            background-color: var(--md-default-bg-color, #fff);
+            color: var(--md-typeset-color, #000);
             margin: 5% auto;
             padding: 25px;
-            border-radius: 5px;
+            border-radius: 4px;
+            border: 1px solid var(--md-default-fg-color--lightest);
             width: 90%;
             max-width: 700px;
             max-height: 90vh;
             overflow-y: auto;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
             position: relative;
         }
 
@@ -143,14 +167,14 @@
             font-size: 24px;
             font-weight: bold;
             cursor: pointer;
-            color: #888;
+            color: var(--md-default-fg-color--light, #888);
         }
-        .spells-close:hover { color: #000; }
+        .spells-close:hover { color: var(--md-typeset-color, #000); }
 
         .spells-meta {
             font-style: italic;
             color: var(--md-default-fg-color--light, #666);
-            border-bottom: 1px solid #eee;
+            border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
             padding-bottom: 10px;
             margin-bottom: 15px;
         }
@@ -197,6 +221,14 @@
                 <option value="false">Non</option>
             </select>
         </div>
+        <div class="control-group">
+            <label>Rituel</label>
+            <select id="spells-rit" disabled>
+                <option value="all">Peu importe</option>
+                <option value="true">Oui</option>
+                <option value="false">Non</option>
+            </select>
+        </div>
     </div>
 
     <div class="table-container">
@@ -220,7 +252,7 @@
     <div id="spells-modal" class="spells-modal">
         <div class="spells-modal-content">
             <span class="spells-close">&times;</span>
-            <h2 id="modal-title" style="margin-top:0;"></h2>
+            <h2 id="modal-title" style="margin-top:0; color:var(--md-primary-fg-color);"></h2>
             <div id="modal-meta" class="spells-meta"></div>
             <div id="modal-desc"></div>
         </div>
@@ -230,25 +262,24 @@
     (function() { // Isolation du scope JS
         const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
         let spellsData = [];
-        let currentSort = { column: 'level', direction: 'asc' }; // Tri par défaut : Niveau croissant
+        let currentSort = { column: 'level', direction: 'asc' };
 
-        // Éléments DOM avec préfixe unique pour éviter les conflits
         const inputs = {
             search: document.getElementById('spells-search'),
             level: document.getElementById('spells-level'),
             school: document.getElementById('spells-school'),
             cls: document.getElementById('spells-class'),
-            conc: document.getElementById('spells-conc')
+            conc: document.getElementById('spells-conc'),
+            rit: document.getElementById('spells-rit') // Nouveau filtre Rituel
         };
         const tbody = document.getElementById('spells-body');
         const modal = document.getElementById('spells-modal');
         const closeBtn = modal.querySelector('.spells-close');
 
-        // Mapping pour nettoyer les noms de classes
+        // Nettoyage des noms de classes
         const classMapping = {
             "MagedeGuerre": "Mage de Guerre",
             "MaitreGuerre": "Maître de Guerre"
-            // Ajoutez d'autres corrections ici si nécessaire
         };
 
         function formatClassName(name) {
@@ -260,7 +291,6 @@
             .then(res => res.json())
             .then(data => {
                 spellsData = Object.entries(data).map(([key, val]) => {
-                    // Analyse des coûts matériels pour le style
                     const details = (val.detailmat || '').toLowerCase();
                     const isCostly = details.includes('consomme') || details.includes('po') || details.includes('vaut');
 
@@ -268,20 +298,18 @@
                         id: key,
                         name: key,
                         ...val,
-                        levelInt: parseInt(val.level), // Pour le tri numérique
+                        levelInt: parseInt(val.level),
                         isCostly: isCostly,
-                        // On nettoie les classes ici
                         cleanClasses: (val.available || []).map(c => formatClassName(c))
                     };
                 });
 
-                // Trier par défaut : Cantrip (0) -> Niv 9
+                // Tri par défaut
                 sortData('level');
 
                 initFilters();
                 renderTable(spellsData);
-                
-                // Activer inputs
+
                 Object.values(inputs).forEach(el => el.disabled = false);
             })
             .catch(err => {
@@ -314,18 +342,16 @@
             }
 
             const fragment = document.createDocumentFragment();
-            
+
             data.forEach(spell => {
                 const tr = document.createElement('tr');
                 tr.style.cursor = 'pointer';
                 tr.onclick = () => openModal(spell);
 
-                // Composantes
                 let comps = '';
                 if(spell.Verbal === "true") comps += '<span class="tag tag-V" title="Verbal">V</span>';
                 if(spell.Somatique === "true") comps += '<span class="tag tag-S" title="Somatique">S</span>';
-                
-                // Logique Matériel Gras/Souligné
+
                 if(spell.Matériel === "true") {
                     const styleClass = spell.isCostly ? 'tag tag-M costly' : 'tag tag-M';
                     const title = spell.detailmat ? `Matériel: ${spell.detailmat}` : 'Matériel';
@@ -333,15 +359,15 @@
                 }
 
                 if(spell.Concentration === "true") comps += '<span class="tag tag-conc" title="Concentration">C</span>';
+                // Tag visuel pour Rituel dans le tableau aussi
                 if(spell.Rituel === "true") comps += '<span class="tag tag-rit" title="Rituel">R</span>';
 
-                // Classes (limité à 3 pour l'affichage tableau, reste dans modal)
-                let classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag" style="background:#fff; border:1px solid #ccc;">${c}</span>`).join(' ');
+                let classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
                 if(spell.cleanClasses.length > 3) classDisplay += ' <small>...</small>';
 
                 tr.innerHTML = `
                     <td style="text-align:center; font-weight:bold;">${spell.level === "0" ? "C" : spell.level}</td>
-                    <td style="font-weight:500; color:var(--md-primary-fg-color, #3f51b5);">${spell.name}</td>
+                    <td style="font-weight:500; color:var(--md-primary-fg-color);">${spell.name}</td>
                     <td>${spell.school}</td>
                     <td>${spell.Incantation}</td>
                     <td style="white-space:nowrap;">${comps}</td>
@@ -358,6 +384,7 @@
             const fSch = inputs.school.value;
             const fCls = inputs.cls.value;
             const fConc = inputs.conc.value;
+            const fRit = inputs.rit.value; // Récupération valeur Rituel
 
             const filtered = spellsData.filter(s => {
                 const matchName = s.name.toLowerCase().includes(terms) || (s.englishname && s.englishname.toLowerCase().includes(terms));
@@ -365,24 +392,24 @@
                 const matchSch = fSch === 'all' || s.school === fSch;
                 const matchCls = fCls === 'all' || s.cleanClasses.includes(fCls);
                 const matchConc = fConc === 'all' || s.Concentration === fConc;
-                return matchName && matchLvl && matchSch && matchCls && matchConc;
+                const matchRit = fRit === 'all' || s.Rituel === fRit; // Logique Rituel
+
+                return matchName && matchLvl && matchSch && matchCls && matchConc && matchRit;
             });
 
-            // Ré-appliquer le tri actuel sur les données filtrées
             const sorted = sortDataList(filtered, currentSort.column, currentSort.direction);
             renderTable(sorted);
         }
 
         // --- Tri ---
         window.sortSpells = function(col) {
-            // Inversion direction si même colonne
             if(currentSort.column === col) {
                 currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
             } else {
                 currentSort.column = col;
                 currentSort.direction = 'asc';
             }
-            filterSpells(); // Relance le rendu avec le nouveau tri
+            filterSpells();
         };
 
         function sortData(col) {
@@ -392,8 +419,7 @@
         function sortDataList(list, col, dir) {
             return list.sort((a, b) => {
                 let valA, valB;
-                
-                // Tri spécial pour niveau (numérique)
+
                 if (col === 'level') {
                     valA = a.levelInt;
                     valB = b.levelInt;
@@ -411,29 +437,29 @@
         // --- Modal ---
         function openModal(s) {
             document.getElementById('modal-title').textContent = `${s.name} ${s.englishname ? `(${s.englishname})` : ''}`;
-            
+
             let meta = `<strong>Niveau ${s.level} - ${s.school}</strong><br>`;
             meta += `<strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portée} | <strong>Durée:</strong> ${s.Durée}<br>`;
-            
-            // Détail composantes modal
+
             let compDetails = [];
             if(s.Verbal === "true") compDetails.push("Verbal");
             if(s.Somatique === "true") compDetails.push("Somatique");
             if(s.Matériel === "true") compDetails.push(`Matériel (${s.detailmat || '?'})`);
             meta += `<strong>Composantes:</strong> ${compDetails.join(', ')}`;
-            
-            // Liste complète des classes dans le modal
+
             meta += `<br><strong>Classes:</strong> ${s.cleanClasses.join(', ')}`;
 
+            // Info Rituel explicite dans le modal
+            if(s.Rituel === "true") meta += `<br><em>Ce sort peut être lancé comme un rituel.</em>`;
+
             document.getElementById('modal-meta').innerHTML = meta;
-            
-            // Description formatting
+
             let desc = s.description || '';
             desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
                        .replace(/__(.*?)__/g, '<strong>$1</strong>')
                        .replace(/\[\[(.*?)\]\]/g, '$1')
                        .replace(/\n/g, '<br>');
-            
+
             document.getElementById('modal-desc').innerHTML = desc;
             modal.style.display = 'block';
         }
@@ -444,6 +470,6 @@
         // Events inputs
         Object.values(inputs).forEach(i => i.addEventListener('input', filterSpells));
 
-    })(); // Fin IIFE
+    })();
     </script>
 </div>

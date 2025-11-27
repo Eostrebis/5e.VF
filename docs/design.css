@@ -59,6 +59,10 @@
   	margin-right: auto !important;
 }
 
+.md-main__inner.md-grid {
+    max-width: initial;
+}
+
 .figure > .admonition-title,
 .figure-right > .admonition-title,
 .figure-left > .admonition-title {
