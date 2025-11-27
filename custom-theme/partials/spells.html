@@ -18,6 +18,7 @@
             font-size: 0.9rem;
             color: var(--text-main);
             margin: 0 auto;
+            max-width: 100%;
         }
 
         /* Mode Sombre : On redéfinit juste les variables */
@@ -39,7 +40,7 @@
             display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;
         }
         .control-group { display: flex; flex-direction: column; flex: 1 1 auto; min-width: 120px; }
-        .control-group label { font-weight: bold; font-size: 0.8em; opacity: 0.8; margin-bottom: 4px; }
+        .control-group label { font-weight: bold; font-size: 0.8em; opacity: 0.8; margin-bottom: 4px; color: var(--text-main); }
 
         input, select {
             padding: 6px; border: 1px solid #ccc; border-radius: 3px;
@@ -47,8 +48,16 @@
         }
 
         /* Tableau */
-        .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 4px; }
-        table { width: 100%; border-collapse: collapse; min-width: 800px; }
+        .table-wrap {
+            overflow-x: auto;
+            border: 1px solid var(--border);
+            border-radius: 4px;
+            /* Centrage du tableau */
+            display: flex;
+            justify-content: center;
+            background: var(--bg-main);
+        }
+        table { width: 100%; border-collapse: collapse; min-width: 800px; margin: 0 auto; }
 
         th {
             background: var(--primary); color: #fff; padding: 10px; text-align: left;
@@ -56,11 +65,11 @@
         }
         th:hover { opacity: 0.9; }
 
-        /* Flèches de tri personnalisées */
+        /* Flèches de tri (uniquement sur colonnes triables) */
         th[data-sort].asc::after { content: '▲'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
         th[data-sort].desc::after { content: '▼'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
 
-        td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+        td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; color: var(--text-main); }
         tr:nth-child(even) { background: rgba(128,128,128, 0.05); }
         tr:hover { background: rgba(128,128,128, 0.1); cursor: pointer; }
 
@@ -79,7 +88,7 @@
         .t-m.costly { border-width: 2px; text-decoration: underline dotted; }
 
         .t-cls { border: 1px solid #ccc; background: var(--bg-main); color: var(--text-main); font-weight: normal; }
-        .more-cls { cursor: help; border-bottom: 1px dotted; margin-left: 5px; font-weight: bold; opacity: 0.6; }
+        .more-cls { cursor: help; border-bottom: 1px dotted; margin-left: 5px; font-weight: bold; opacity: 0.6; color: var(--text-main); }
 
         /* Modal */
         .modal-overlay {
@@ -90,11 +99,12 @@
             background: var(--bg-main); margin: 5% auto; padding: 25px;
             width: 90%; max-width: 700px; max-height: 85vh; overflow-y: auto;
             border-radius: 6px; position: relative; box-shadow: 0 10px 25px rgba(0,0,0,0.5);
+            color: var(--text-main);
         }
         .close-btn { position: absolute; right: 20px; top: 15px; font-size: 24px; cursor: pointer; opacity: 0.6; }
         .meta-info { font-style: italic; opacity: 0.8; border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 15px; line-height: 1.6; }
-        .action-link { font-size: 0.8em; margin-left: 8px; opacity: 0.4; text-decoration: none; }
-        .action-link:hover { opacity: 1; transform: scale(1.1); display: inline-block; }
+        .action-link { font-size: 0.8em; margin-left: 8px; opacity: 0.4; text-decoration: none; display: inline-block; vertical-align: middle; }
+        .action-link:hover { opacity: 1; transform: scale(1.1); }
     </style>
 
     <div class="controls">
@@ -114,8 +124,8 @@
                     <th data-sort="normName" class="sorter-false">Nom</th>
                     <th data-sort="normSchool" class="sorter-false">École</th>
                     <th data-sort="normTime" class="sorter-false">Temps</th>
-                    <th class="sorter-false">Comp.</th>
-                    <th class="sorter-false">Classes</th>
+                    <th class="no-sort sorter-false">Comp.</th>
+                    <th class="no-sort sorter-false">Classes</th>
                 </tr>
             </thead>
             <tbody id="spells-body">
@@ -138,10 +148,12 @@
         const URL_DATA = 'https://eostrebis.github.io/5e.VF/spells.json';
         const URL_BASE = 'https://eostrebis.github.io/5e.VF/sorts/';
 
+        // État de l'application
         let allSpells = [];
         let sortCol = 'levelInt';
         let sortAsc = true;
 
+        // Éléments DOM
         const ui = {
             search: document.getElementById('s-search'),
             lvl: document.getElementById('s-lvl'),
@@ -154,15 +166,22 @@
             headers: document.querySelectorAll('#spells-table th[data-sort]')
         };
 
-        const normalize = t => t ? t.toString().toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
+        // --- Helpers ---
+        // Normalisation stricte pour recherche et tri (accents, ligatures)
+        const normalize = t => t ? t.toString().toLowerCase().replace(/\u0153/g, "oe").replace(/\u00e6/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
         const slugify = t => normalize(t).replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
         const formatClass = c => ({ "MagedeGuerre": "Mage de Guerre", "MaitreGuerre": "Maître de Guerre" }[c] || c);
 
+        // --- Chargement ---
         fetch(URL_DATA).then(r => r.json()).then(data => {
+            // Pré-traitement des données pour performance
             allSpells = Object.entries(data).map(([k, v]) => {
                 const lvl = parseInt(v.level) || 0;
                 return {
-                    id: k, slug: slugify(k), ...v,
+                    id: k,
+                    name: k, // FIX: Ajout explicite du nom ici
+                    slug: slugify(k),
+                    ...v,
                     levelInt: lvl,
                     normName: normalize(k),
                     normEng: normalize(v.englishname),
@@ -173,12 +192,15 @@
                 };
             });
 
+            // Remplissage des Selects
             [0,1,2,3,4,5,6,7,8,9].forEach(l => ui.lvl.add(new Option(l === 0 ? "Cantrip (0)" : `Niveau ${l}`, l)));
             [...new Set(allSpells.map(s => s.school).filter(Boolean))].sort().forEach(s => ui.sch.add(new Option(s, s)));
             [...new Set(allSpells.flatMap(s => s.classes))].sort().forEach(c => ui.cls.add(new Option(c, c)));
 
+            // Activation
             Object.values(ui).forEach(el => el instanceof HTMLElement && (el.disabled = false));
 
+            // Gestion tri
             ui.headers.forEach(th => th.addEventListener('click', () => {
                 const col = th.dataset.sort;
                 if (sortCol === col) sortAsc = !sortAsc;
@@ -186,13 +208,17 @@
                 render();
             }));
 
+            // Gestion filtre
             [ui.search, ui.lvl, ui.sch, ui.cls, ui.conc, ui.rit].forEach(el => el.addEventListener('input', render));
 
+            // Init
             checkHash();
             render();
         }).catch(e => ui.tbody.innerHTML = `<tr><td colspan="6" style="color:red;text-align:center">Erreur: ${e.message}</td></tr>`);
 
+        // --- Rendu Principal ---
         function render() {
+            // 1. Filtrage
             const q = normalize(ui.search.value);
             const filtered = allSpells.filter(s => {
                 if (q && !s.normName.includes(q) && !s.normEng.includes(q)) return false;
@@ -204,6 +230,7 @@
                 return true;
             });
 
+            // 2. Tri
             filtered.sort((a, b) => {
                 let res = 0;
                 if (sortCol === 'levelInt') res = a.levelInt - b.levelInt;
@@ -211,11 +238,13 @@
                 return sortAsc ? res : -res;
             });
 
+            // 3. Mise à jour UI Entêtes
             ui.headers.forEach(th => {
                 th.classList.remove('asc', 'desc');
                 if (th.dataset.sort === sortCol) th.classList.add(sortAsc ? 'asc' : 'desc');
             });
 
+            // 4. Construction HTML
             if (!filtered.length) {
                 ui.tbody.innerHTML = '<tr><td colspan="6" style="text-align:center">Aucun résultat</td></tr>';
                 return;
@@ -233,6 +262,7 @@
             `).join('');
         }
 
+        // --- Rendu HTML des Badges ---
         function getCompTags(s) {
             let h = '';
             if (s.Verbal === "true") h += '<span class="tag t-v" title="Verbal">V</span>';
@@ -249,6 +279,7 @@
                    `<span class="more-cls" title="${list.slice(3).join(', ')}">+${list.length - 3}</span>`;
         }
 
+        // --- Modal ---
         window.openSpell = (id) => {
             const s = allSpells.find(x => x.id === id);
             if (!s) return;
@@ -262,7 +293,8 @@
             <strong>Composantes:</strong> ${getCompTags(s).replace(/class="tag /g, 'class="tag ')}<br>
             <div style="margin-top:5px"><strong>Classes:</strong> ${s.classes.map(c => `<span class="tag t-cls">${c}</span>`).join(' ')}</div>`;
 
-            if (s.detailmat) meta += `<div style="font-size:0.9em;margin-top:5px;opacity:0.8">Material: ${s.detailmat}</div>`;
+            if (s.Rituel === "true") meta += `<br><span class="tag t-r">Rituel</span> <em>Ce sort peut être lancé comme un rituel.</em>`;
+            if (s.detailmat) meta += `<div style="font-size:0.9em;margin-top:5px;opacity:0.8">Matériel: ${s.detailmat}</div>`;
 
             document.getElementById('m-meta').innerHTML = meta;
             document.getElementById('m-desc').innerHTML = (s.description || '').replace(/\*\*(.*?)\*\*/g, '<b>$1</b>').replace(/\n/g, '<br>');
@@ -270,6 +302,7 @@
             ui.modal.style.display = 'block';
         };
 
+        // --- Gestion URL/Fermeture ---
         function checkHash() {
             const hash = window.location.hash.substring(1);
             const target = allSpells.find(s => s.slug === hash);
