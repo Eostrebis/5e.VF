@@ -3,585 +3,281 @@
     <style>
         /* --- CSS Scoped & Variables --- */
         .spells-app {
+            --text-main: var(--md-typeset-color, #333);
+            --bg-main: var(--md-default-bg-color, #fff);
+            --border: var(--md-default-fg-color--lightest, #eee);
+            --primary: var(--md-primary-fg-color, #5c6bc0);
+
+            /* Couleurs des Tags (Défaut Clair) */
+            --tag-v-bg: #ffcdd2; --tag-v-fg: #b71c1c;
+            --tag-s-bg: #bbdefb; --tag-s-fg: #0d47a1;
+            --tag-m-bg: #c8e6c9; --tag-m-fg: #1b5e20;
+            --tag-c-bg: #ffe0b2; --tag-c-fg: #e65100;
+            --tag-r-bg: #e1bee7; --tag-r-fg: #4a148c;
+
             font-size: 0.9rem;
-            color: var(--md-typeset-color, #333);
-            max-width: 100%;
+            color: var(--text-main);
             margin: 0 auto;
+        }
+
+        /* Mode Sombre : On redéfinit juste les variables */
+        body[data-md-color-scheme="slate"] .spells-app {
+            --tag-v-bg: rgba(183, 28, 28, 0.3); --tag-v-fg: #ffcdd2;
+            --tag-s-bg: rgba(13, 71, 161, 0.3); --tag-s-fg: #bbdefb;
+            --tag-m-bg: rgba(27, 94, 32, 0.3);  --tag-m-fg: #c8e6c9;
+            --tag-c-bg: rgba(230, 81, 0, 0.3);  --tag-c-fg: #ffe0b2;
+            --tag-r-bg: rgba(74, 20, 140, 0.3); --tag-r-fg: #e1bee7;
         }
 
         .spells-app a { color: var(--md-typeset-a-color, #3f51b5); text-decoration: none; }
         .spells-app a:hover { text-decoration: underline; }
 
-        /* --- Contrôles --- */
-        .spells-app .controls {
-            background-color: var(--md-default-bg-color, #fff);
-            border: 1px solid var(--md-default-fg-color--lightest, #eee);
-            padding: 15px;
-            border-radius: 4px;
-            margin-bottom: 20px;
-            display: flex;
-            gap: 15px;
-            flex-wrap: wrap;
-            align-items: flex-end;
-            justify-content: center;
+        /* Interface */
+        .controls {
+            background: var(--bg-main); border: 1px solid var(--border);
+            padding: 15px; border-radius: 4px; margin-bottom: 20px;
+            display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;
+        }
+        .control-group { display: flex; flex-direction: column; flex: 1 1 auto; min-width: 120px; }
+        .control-group label { font-weight: bold; font-size: 0.8em; opacity: 0.8; margin-bottom: 4px; }
+
+        input, select {
+            padding: 6px; border: 1px solid #ccc; border-radius: 3px;
+            background: var(--bg-main); color: var(--text-main);
         }
 
-        .spells-app .control-group {
-            display: flex;
-            flex-direction: column;
-            flex: 1 1 auto;
-            min-width: 120px;
-        }
+        /* Tableau */
+        .table-wrap { overflow-x: auto; border: 1px solid var(--border); border-radius: 4px; }
+        table { width: 100%; border-collapse: collapse; min-width: 800px; }
 
-        .spells-app label {
-            font-size: 0.8em;
-            font-weight: bold;
-            margin-bottom: 4px;
-            opacity: 0.8;
-            color: var(--md-typeset-color);
+        th {
+            background: var(--primary); color: #fff; padding: 10px; text-align: left;
+            cursor: pointer; user-select: none; position: relative;
         }
+        th:hover { opacity: 0.9; }
 
-        .spells-app input, .spells-app select {
-            padding: 6px;
-            border: 1px solid var(--md-default-fg-color--lightest, #ccc);
-            border-radius: 3px;
-            background-color: var(--md-default-bg-color, #fff);
-            color: var(--md-typeset-color, #000);
-        }
+        /* Flèches de tri personnalisées */
+        th[data-sort].asc::after { content: '▲'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
+        th[data-sort].desc::after { content: '▼'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
 
-        .spells-app input:focus, .spells-app select:focus {
-            border-color: var(--md-primary-fg-color, #3f51b5);
-            outline: none;
-        }
+        td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; }
+        tr:nth-child(even) { background: rgba(128,128,128, 0.05); }
+        tr:hover { background: rgba(128,128,128, 0.1); cursor: pointer; }
 
-        /* --- Tableau --- */
-        .spells-app .table-container {
-            overflow-x: auto;
-            border: 1px solid var(--md-default-fg-color--lightest, #eee);
-            border-radius: 4px;
-            background-color: var(--md-default-bg-color, #fff);
-            width: 100%;
-            display: flex;
-            justify-content: center;
-        }
-
-        .spells-app table {
-            width: 100%;
-            border-collapse: collapse;
-            min-width: 800px;
-            margin: 0 auto;
-        }
-
-        .spells-app th {
-            background-color: var(--md-primary-fg-color, #5c6bc0);
-            color: #fff;
-            padding: 10px;
-            text-align: left;
-            white-space: nowrap;
-            user-select: none;
-            position: relative;
-        }
-
-        /* Style des colonnes triables (nom unique pour éviter conflit) */
-        .spells-app th.custom-sort {
-            cursor: pointer;
-            padding-right: 20px;
-        }
-        .spells-app th.custom-sort:hover { opacity: 0.9; }
-
-        /* Flèches de tri CSS */
-        .spells-app th.custom-sort::after {
-            content: '↕';
-            position: absolute;
-            right: 5px;
-            opacity: 0.3;
-            font-size: 0.8em;
-        }
-        .spells-app th.asc::after { content: '▲'; opacity: 1; }
-        .spells-app th.desc::after { content: '▼'; opacity: 1; }
-
-        .spells-app td {
-            padding: 8px 10px;
-            border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
-            vertical-align: middle;
-            color: var(--md-typeset-color);
-            text-align: left;
-        }
-
-        .spells-app tr:nth-child(even) {
-            background-color: var(--md-default-fg-color--lightest, rgba(0,0,0,0.02));
-        }
-
-        .spells-app tr:hover {
-            background-color: var(--md-accent-fg-color--transparent, rgba(0,0,0,0.05));
-        }
-
-        /* --- Tags --- */
-        .spells-app .tag {
-            display: inline-block;
-            padding: 2px 6px;
-            border-radius: 4px;
-            font-size: 0.8em;
-            margin: 1px;
-            font-weight: 600;
+        /* Badges */
+        .tag {
+            display: inline-block; padding: 2px 6px; border-radius: 4px;
+            font-size: 0.75em; font-weight: 700; margin: 1px;
             border: 1px solid transparent;
         }
+        .t-v { background: var(--tag-v-bg); color: var(--tag-v-fg); border-color: var(--tag-v-fg); }
+        .t-s { background: var(--tag-s-bg); color: var(--tag-s-fg); border-color: var(--tag-s-fg); }
+        .t-m { background: var(--tag-m-bg); color: var(--tag-m-fg); border-color: var(--tag-m-fg); }
+        .t-c { background: var(--tag-c-bg); color: var(--tag-c-fg); border-color: var(--tag-c-fg); }
+        .t-r { background: var(--tag-r-bg); color: var(--tag-r-fg); border-color: var(--tag-r-fg); }
 
-        /* Mode Clair */
-        .spells-app .tag-V { color: #b71c1c; background: #ffcdd2; border-color: #ef9a9a; }
-        .spells-app .tag-S { color: #0d47a1; background: #bbdefb; border-color: #90caf9; }
-        .spells-app .tag-M { color: #1b5e20; background: #c8e6c9; border-color: #a5d6a7; }
-        .spells-app .tag-conc { color: #e65100; background: #ffe0b2; border-color: #ffcc80; }
-        .spells-app .tag-rit { color: #4a148c; background: #e1bee7; border-color: #ce93d8; }
+        .t-m.costly { border-width: 2px; text-decoration: underline dotted; }
 
-        .spells-app .tag-M.costly {
-            border: 2px solid #2e7d32;
-            font-weight: 800;
-            text-decoration: underline dotted;
-        }
+        .t-cls { border: 1px solid #ccc; background: var(--bg-main); color: var(--text-main); font-weight: normal; }
+        .more-cls { cursor: help; border-bottom: 1px dotted; margin-left: 5px; font-weight: bold; opacity: 0.6; }
 
-        /* Mode Sombre (Detection via attribut data-md-color-scheme) */
-        body[data-md-color-scheme="slate"] .spells-app .tag-V { color: #ffcdd2; background: rgba(183, 28, 28, 0.3); border-color: #b71c1c; }
-        body[data-md-color-scheme="slate"] .spells-app .tag-S { color: #bbdefb; background: rgba(13, 71, 161, 0.3); border-color: #0d47a1; }
-        body[data-md-color-scheme="slate"] .spells-app .tag-M { color: #c8e6c9; background: rgba(27, 94, 32, 0.3); border-color: #1b5e20; }
-        body[data-md-color-scheme="slate"] .spells-app .tag-conc { color: #ffe0b2; background: rgba(230, 81, 0, 0.3); border-color: #e65100; }
-        body[data-md-color-scheme="slate"] .spells-app .tag-rit { color: #e1bee7; background: rgba(74, 20, 140, 0.3); border-color: #4a148c; }
-
-        body[data-md-color-scheme="slate"] .spells-app .tag-M.costly {
-            border: 2px solid #81c784;
-            color: #fff;
+        /* Modal */
+        .modal-overlay {
+            display: none; position: fixed; z-index: 9999; left: 0; top: 0;
+            width: 100%; height: 100%; background: rgba(0,0,0,0.75); backdrop-filter: blur(2px);
         }
-
-        .spells-app .class-tag {
-            border: 1px solid var(--md-default-fg-color--lightest, #ccc);
-            background-color: var(--md-default-bg-color, #fff);
-            color: var(--md-typeset-color, #333);
-            font-weight: normal;
+        .modal-box {
+            background: var(--bg-main); margin: 5% auto; padding: 25px;
+            width: 90%; max-width: 700px; max-height: 85vh; overflow-y: auto;
+            border-radius: 6px; position: relative; box-shadow: 0 10px 25px rgba(0,0,0,0.5);
         }
-
-        .spells-app .more-classes {
-            cursor: help;
-            border-bottom: 1px dotted var(--md-typeset-color);
-            margin-left: 6px;
-            font-weight: bold;
-            opacity: 0.6;
-            transition: opacity 0.2s;
-        }
-        .spells-app .more-classes:hover {
-            opacity: 1;
-            color: var(--md-primary-fg-color);
-        }
-
-        /* --- Modal --- */
-        .spells-modal {
-            display: none;
-            position: fixed;
-            z-index: 9999;
-            left: 0;
-            top: 0;
-            width: 100%;
-            height: 100%;
-            background-color: rgba(0,0,0,0.75);
-            backdrop-filter: blur(4px);
-        }
-
-        .spells-modal-content {
-            background-color: var(--md-default-bg-color, #fff);
-            color: var(--md-typeset-color, #000);
-            margin: 5% auto;
-            padding: 25px;
-            border-radius: 6px;
-            border: 1px solid var(--md-default-fg-color--lightest);
-            width: 90%;
-            max-width: 700px;
-            max-height: 85vh;
-            overflow-y: auto;
-            box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-            position: relative;
-        }
-
-        .spells-close {
-            position: absolute;
-            right: 20px;
-            top: 15px;
-            font-size: 24px;
-            font-weight: bold;
-            cursor: pointer;
-            color: var(--md-default-fg-color--light, #888);
-        }
-        .spells-close:hover { color: var(--md-typeset-color, #000); }
-
-        .spells-meta {
-            font-style: italic;
-            color: var(--md-default-fg-color--light, #666);
-            border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
-            padding-bottom: 15px;
-            margin-bottom: 15px;
-            line-height: 1.6;
-        }
-
-        .spell-action-link {
-            font-size: 0.8em;
-            margin-left: 8px;
-            opacity: 0.4;
-            vertical-align: middle;
-            text-decoration: none !important;
-            transition: opacity 0.2s, transform 0.2s;
-            display: inline-block;
-        }
-        .spell-action-link:hover {
-            opacity: 1;
-            transform: scale(1.1);
-        }
+        .close-btn { position: absolute; right: 20px; top: 15px; font-size: 24px; cursor: pointer; opacity: 0.6; }
+        .meta-info { font-style: italic; opacity: 0.8; border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 15px; line-height: 1.6; }
+        .action-link { font-size: 0.8em; margin-left: 8px; opacity: 0.4; text-decoration: none; }
+        .action-link:hover { opacity: 1; transform: scale(1.1); display: inline-block; }
     </style>
 
     <div class="controls">
-        <div class="control-group">
-            <label>Recherche</label>
-            <input type="text" id="spells-search" placeholder="Nom du sort..." disabled>
-        </div>
-        <div class="control-group">
-            <label>Niveau</label>
-            <select id="spells-level" disabled>
-                <option value="all">Tous</option>
-                <option value="0">Cantrip (0)</option>
-                <option value="1">Niveau 1</option>
-                <option value="2">Niveau 2</option>
-                <option value="3">Niveau 3</option>
-                <option value="4">Niveau 4</option>
-                <option value="5">Niveau 5</option>
-                <option value="6">Niveau 6</option>
-                <option value="7">Niveau 7</option>
-                <option value="8">Niveau 8</option>
-                <option value="9">Niveau 9</option>
-            </select>
-        </div>
-        <div class="control-group">
-            <label>École</label>
-            <select id="spells-school" disabled>
-                <option value="all">Toutes</option>
-            </select>
-        </div>
-        <div class="control-group">
-            <label>Classe</label>
-            <select id="spells-class" disabled>
-                <option value="all">Toutes</option>
-            </select>
-        </div>
-        <div class="control-group">
-            <label>Concentration</label>
-            <select id="spells-conc" disabled>
-                <option value="all">Peu importe</option>
-                <option value="true">Oui</option>
-                <option value="false">Non</option>
-            </select>
-        </div>
-        <div class="control-group">
-            <label>Rituel</label>
-            <select id="spells-rit" disabled>
-                <option value="all">Peu importe</option>
-                <option value="true">Oui</option>
-                <option value="false">Non</option>
-            </select>
-        </div>
+        <div class="control-group"><label>Recherche</label><input type="text" id="s-search" placeholder="Nom..." disabled></div>
+        <div class="control-group"><label>Niveau</label><select id="s-lvl" disabled><option value="all">Tous</option></select></div>
+        <div class="control-group"><label>École</label><select id="s-sch" disabled><option value="all">Toutes</option></select></div>
+        <div class="control-group"><label>Classe</label><select id="s-cls" disabled><option value="all">Toutes</option></select></div>
+        <div class="control-group"><label>Conc.</label><select id="s-conc" disabled><option value="all">-</option><option value="true">Oui</option><option value="false">Non</option></select></div>
+        <div class="control-group"><label>Rituel</label><select id="s-rit" disabled><option value="all">-</option><option value="true">Oui</option><option value="false">Non</option></select></div>
     </div>
 
-    <div class="table-container">
+    <div class="table-wrap">
         <table id="spells-table">
             <thead>
                 <tr>
-                    <th onclick="sortSpells('levelInt')" class="custom-sort no-sort" id="th-levelInt">Niv.</th>
-                    <th onclick="sortSpells('name')" class="custom-sort no-sort" id="th-name">Nom</th>
-                    <th onclick="sortSpells('school')" class="custom-sort no-sort" id="th-school">École</th>
-                    <th onclick="sortSpells('Incantation')" class="custom-sort no-sort" id="th-Incantation">Temps</th>
-                    <th class="no-sort">Comp.</th>
-                    <th class="no-sort">Classes</th>
+                    <th data-sort="levelInt" class="sorter-false">Niv.</th>
+                    <th data-sort="normName" class="sorter-false">Nom</th>
+                    <th data-sort="normSchool" class="sorter-false">École</th>
+                    <th data-sort="normTime" class="sorter-false">Temps</th>
+                    <th class="sorter-false">Comp.</th>
+                    <th class="sorter-false">Classes</th>
                 </tr>
             </thead>
             <tbody id="spells-body">
-                <tr><td colspan="6" style="text-align:center; padding: 20px;">Chargement du grimoire...</td></tr>
+                <tr><td colspan="6" style="text-align:center; padding: 20px;">Chargement...</td></tr>
             </tbody>
         </table>
     </div>
 
-    <div id="spells-modal" class="spells-modal">
-        <div class="spells-modal-content">
-            <span class="spells-close">&times;</span>
-            <h2 id="modal-title" style="margin-top:0; color:var(--md-primary-fg-color); padding-right: 30px;"></h2>
-            <div id="modal-meta" class="spells-meta"></div>
-            <div id="modal-desc"></div>
+    <div id="spells-modal" class="modal-overlay">
+        <div class="modal-box">
+            <span class="close-btn">&times;</span>
+            <h2 id="m-title" style="margin-top:0; color:var(--primary); padding-right:30px;"></h2>
+            <div id="m-meta" class="meta-info"></div>
+            <div id="m-desc"></div>
         </div>
     </div>
 
     <script>
     (function() {
-        const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
-        const BASE_DOC_URL = 'https://eostrebis.github.io/5e.VF/sorts/';
+        const URL_DATA = 'https://eostrebis.github.io/5e.VF/spells.json';
+        const URL_BASE = 'https://eostrebis.github.io/5e.VF/sorts/';
 
-        let spellsData = [];
-        let currentSort = { column: 'levelInt', direction: 'asc' };
+        let allSpells = [];
+        let sortCol = 'levelInt';
+        let sortAsc = true;
 
-        const inputs = {
-            search: document.getElementById('spells-search'),
-            level: document.getElementById('spells-level'),
-            school: document.getElementById('spells-school'),
-            cls: document.getElementById('spells-class'),
-            conc: document.getElementById('spells-conc'),
-            rit: document.getElementById('spells-rit')
-        };
-        const tbody = document.getElementById('spells-body');
-        const modal = document.getElementById('spells-modal');
-        const closeBtn = modal.querySelector('.spells-close');
-
-        const classMapping = {
-            "MagedeGuerre": "Mage de Guerre",
-            "MaitreGuerre": "Maître de Guerre"
+        const ui = {
+            search: document.getElementById('s-search'),
+            lvl: document.getElementById('s-lvl'),
+            sch: document.getElementById('s-sch'),
+            cls: document.getElementById('s-cls'),
+            conc: document.getElementById('s-conc'),
+            rit: document.getElementById('s-rit'),
+            tbody: document.getElementById('spells-body'),
+            modal: document.getElementById('spells-modal'),
+            headers: document.querySelectorAll('#spells-table th[data-sort]')
         };
 
-        function formatClassName(name) {
-            return classMapping[name] || name;
-        }
+        const normalize = t => t ? t.toString().toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
+        const slugify = t => normalize(t).replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
+        const formatClass = c => ({ "MagedeGuerre": "Mage de Guerre", "MaitreGuerre": "Maître de Guerre" }[c] || c);
 
-        function normalizeText(text) {
-            if (!text) return "";
-            return text.toString().toLowerCase()
-                .replace(/\u0153/g, "oe") // Unicode œ -> oe
-                .replace(/\u00e6/g, "ae") // Unicode æ -> ae
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
-        }
-
-        function toSlug(text) {
-            return normalizeText(text)
-                .replace(/[^a-z0-9]+/g, '-')
-                .replace(/(^-|-$)+/g, '');
-        }
-
-        fetch(JSON_URL)
-            .then(res => res.json())
-            .then(data => {
-                spellsData = Object.entries(data).map(([key, val]) => {
-                    const details = (val.detailmat || '').toLowerCase();
-                    const isCostly = details.includes('consomme') || details.includes('po') || details.includes('vaut');
-
-                    let lvl = parseInt(val.level);
-                    if (isNaN(lvl)) lvl = 0;
-
-                    return {
-                        id: key,
-                        slug: toSlug(key),
-                        name: key,
-                        normName: normalizeText(key),
-                        normSchool: normalizeText(val.school || ''),
-                        normTime: normalizeText(val.Incantation || ''),
-                        normEng: normalizeText(val.englishname || ''),
-                        ...val,
-                        levelInt: lvl,
-                        isCostly: isCostly,
-                        cleanClasses: (val.available || []).map(c => formatClassName(c))
-                    };
-                });
-
-                // Tri initial
-                updateSortHeaderUI('levelInt');
-                sortData('levelInt');
-                initFilters();
-                renderTable(spellsData);
-                Object.values(inputs).forEach(el => el.disabled = false);
-                checkHashAndOpen();
-            })
-            .catch(err => {
-                tbody.innerHTML = `<tr><td colspan="6" style="color:red; text-align:center;">Erreur chargement: ${err.message}</td></tr>`;
+        fetch(URL_DATA).then(r => r.json()).then(data => {
+            allSpells = Object.entries(data).map(([k, v]) => {
+                const lvl = parseInt(v.level) || 0;
+                return {
+                    id: k, slug: slugify(k), ...v,
+                    levelInt: lvl,
+                    normName: normalize(k),
+                    normEng: normalize(v.englishname),
+                    normSchool: normalize(v.school),
+                    normTime: normalize(v.Incantation),
+                    classes: (v.available || []).map(formatClass),
+                    isCostly: (v.detailmat || '').toLowerCase().match(/consomme|po|vaut/)
+                };
             });
 
-        function checkHashAndOpen() {
-            const hash = window.location.hash.substring(1);
-            if (hash) {
-                const targetSpell = spellsData.find(s => s.slug === hash);
-                if (targetSpell) openModal(targetSpell, false);
-            }
-        }
+            [0,1,2,3,4,5,6,7,8,9].forEach(l => ui.lvl.add(new Option(l === 0 ? "Cantrip (0)" : `Niveau ${l}`, l)));
+            [...new Set(allSpells.map(s => s.school).filter(Boolean))].sort().forEach(s => ui.sch.add(new Option(s, s)));
+            [...new Set(allSpells.flatMap(s => s.classes))].sort().forEach(c => ui.cls.add(new Option(c, c)));
 
-        function initFilters() {
-            const schools = new Set();
-            const classes = new Set();
-            spellsData.forEach(s => {
-                if(s.school) schools.add(s.school);
-                s.cleanClasses.forEach(c => classes.add(c));
-            });
-            Array.from(schools).sort().forEach(s => {
-                inputs.school.innerHTML += `<option value="${s}">${s}</option>`;
-            });
-            Array.from(classes).sort().forEach(c => {
-                inputs.cls.innerHTML += `<option value="${c}">${c}</option>`;
-            });
-        }
+            Object.values(ui).forEach(el => el instanceof HTMLElement && (el.disabled = false));
 
-        function renderTable(data) {
-            tbody.innerHTML = '';
-            if(!data.length) {
-                tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;">Aucun sort trouvé.</td></tr>';
+            ui.headers.forEach(th => th.addEventListener('click', () => {
+                const col = th.dataset.sort;
+                if (sortCol === col) sortAsc = !sortAsc;
+                else { sortCol = col; sortAsc = true; }
+                render();
+            }));
+
+            [ui.search, ui.lvl, ui.sch, ui.cls, ui.conc, ui.rit].forEach(el => el.addEventListener('input', render));
+
+            checkHash();
+            render();
+        }).catch(e => ui.tbody.innerHTML = `<tr><td colspan="6" style="color:red;text-align:center">Erreur: ${e.message}</td></tr>`);
+
+        function render() {
+            const q = normalize(ui.search.value);
+            const filtered = allSpells.filter(s => {
+                if (q && !s.normName.includes(q) && !s.normEng.includes(q)) return false;
+                if (ui.lvl.value !== 'all' && s.levelInt != ui.lvl.value) return false;
+                if (ui.sch.value !== 'all' && s.school !== ui.sch.value) return false;
+                if (ui.cls.value !== 'all' && !s.classes.includes(ui.cls.value)) return false;
+                if (ui.conc.value !== 'all' && s.Concentration !== ui.conc.value) return false;
+                if (ui.rit.value !== 'all' && s.Rituel !== ui.rit.value) return false;
+                return true;
+            });
+
+            filtered.sort((a, b) => {
+                let res = 0;
+                if (sortCol === 'levelInt') res = a.levelInt - b.levelInt;
+                else res = a[sortCol].localeCompare(b[sortCol], 'fr', { numeric: true });
+                return sortAsc ? res : -res;
+            });
+
+            ui.headers.forEach(th => {
+                th.classList.remove('asc', 'desc');
+                if (th.dataset.sort === sortCol) th.classList.add(sortAsc ? 'asc' : 'desc');
+            });
+
+            if (!filtered.length) {
+                ui.tbody.innerHTML = '<tr><td colspan="6" style="text-align:center">Aucun résultat</td></tr>';
                 return;
             }
-            const fragment = document.createDocumentFragment();
-            data.forEach(spell => {
-                const tr = document.createElement('tr');
-                tr.style.cursor = 'pointer';
-                tr.onclick = () => openModal(spell);
 
-                let comps = [];
-                if(spell.Verbal === "true") comps.push('<span class="tag tag-V" title="Verbal">V</span>');
-                if(spell.Somatique === "true") comps.push('<span class="tag tag-S" title="Somatique">S</span>');
-                if(spell.Matériel === "true") {
-                    const style = spell.isCostly ? 'tag tag-M costly' : 'tag tag-M';
-                    const tooltip = spell.detailmat ? `Matériel: ${spell.detailmat}` : 'Matériel';
-                    comps.push(`<span class="${style}" title="${tooltip.replace(/"/g, '&quot;')}">M</span>`);
-                }
-                if(spell.Concentration === "true") comps.push('<span class="tag tag-conc" title="Concentration">C</span>');
-                if(spell.Rituel === "true") comps.push('<span class="tag tag-rit" title="Rituel">R</span>');
-
-                let classDisplay = '';
-                if (spell.cleanClasses.length <= 3) {
-                    classDisplay = spell.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
-                } else {
-                    classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
-                    const allRemaining = spell.cleanClasses.slice(3).join(', ');
-                    classDisplay += ` <span class="more-classes" title="${allRemaining}">+${spell.cleanClasses.length - 3}</span>`;
-                }
-
-                tr.innerHTML = `
-                    <td style="text-align:center; font-weight:bold;">${spell.levelInt === 0 ? "C" : spell.levelInt}</td>
-                    <td style="font-weight:500; color:var(--md-primary-fg-color);">${spell.name}</td>
-                    <td>${spell.school}</td>
-                    <td>${spell.Incantation}</td>
-                    <td style="white-space:nowrap;">${comps.join(' ')}</td>
-                    <td>${classDisplay}</td>
-                `;
-                fragment.appendChild(tr);
-            });
-            tbody.appendChild(fragment);
+            ui.tbody.innerHTML = filtered.map(s => `
+                <tr onclick="window.openSpell('${s.id}')">
+                    <td style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
+                    <td style="font-weight:500;color:var(--primary)">${s.name}</td>
+                    <td>${s.school}</td>
+                    <td>${s.Incantation}</td>
+                    <td style="white-space:nowrap">${getCompTags(s)}</td>
+                    <td>${getClassTags(s.classes)}</td>
+                </tr>
+            `).join('');
         }
 
-        function filterSpells() {
-            const terms = normalizeText(inputs.search.value);
-            const fLvl = inputs.level.value;
-            const fSch = inputs.school.value;
-            const fCls = inputs.cls.value;
-            const fConc = inputs.conc.value;
-            const fRit = inputs.rit.value;
-
-            const filtered = spellsData.filter(s => {
-                const matchName = s.normName.includes(terms) || s.normEng.includes(terms);
-                const matchLvl = fLvl === 'all' || s.level === fLvl;
-                const matchSch = fSch === 'all' || s.school === fSch;
-                const matchCls = fCls === 'all' || s.cleanClasses.includes(fCls);
-                const matchConc = fConc === 'all' || s.Concentration === fConc;
-                const matchRit = fRit === 'all' || s.Rituel === fRit;
-                return matchName && matchLvl && matchSch && matchCls && matchConc && matchRit;
-            });
-            const sorted = sortDataList(filtered, currentSort.column, currentSort.direction);
-            renderTable(sorted);
+        function getCompTags(s) {
+            let h = '';
+            if (s.Verbal === "true") h += '<span class="tag t-v" title="Verbal">V</span>';
+            if (s.Somatique === "true") h += '<span class="tag t-s" title="Somatique">S</span>';
+            if (s.Matériel === "true") h += `<span class="tag t-m ${s.isCostly ? 'costly' : ''}" title="Matériel: ${(s.detailmat||'').replace(/"/g,"&quot;")}">M</span>`;
+            if (s.Concentration === "true") h += '<span class="tag t-c" title="Concentration">C</span>';
+            if (s.Rituel === "true") h += '<span class="tag t-r" title="Rituel">R</span>';
+            return h;
         }
 
-        // --- GESTION DU TRI ---
-        window.sortSpells = function(col) {
-            if(currentSort.column === col) {
-                currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
-            } else {
-                currentSort.column = col;
-                currentSort.direction = 'asc';
-            }
-            updateSortHeaderUI(col);
-            filterSpells();
+        function getClassTags(list) {
+            if (list.length <= 3) return list.map(c => `<span class="tag t-cls">${c}</span>`).join(' ');
+            return list.slice(0, 3).map(c => `<span class="tag t-cls">${c}</span>`).join(' ') +
+                   `<span class="more-cls" title="${list.slice(3).join(', ')}">+${list.length - 3}</span>`;
+        }
+
+        window.openSpell = (id) => {
+            const s = allSpells.find(x => x.id === id);
+            if (!s) return;
+
+            const url = `${URL_BASE}${s.levelInt === 0 ? 'cantrips' : '0'+s.levelInt}/${encodeURIComponent(s.name)}/`;
+
+            document.getElementById('m-title').innerHTML = `${s.name} <a href="${url}" class="action-link">📖</a> <small style="opacity:0.6;font-weight:normal;font-size:0.7em">(${s.englishname})</small>`;
+
+            let meta = `<strong>Niveau ${s.level} - ${s.school}</strong><br>
+            <strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portée} | <strong>Durée:</strong> ${s.Durée}<br>
+            <strong>Composantes:</strong> ${getCompTags(s).replace(/class="tag /g, 'class="tag ')}<br>
+            <div style="margin-top:5px"><strong>Classes:</strong> ${s.classes.map(c => `<span class="tag t-cls">${c}</span>`).join(' ')}</div>`;
+
+            if (s.detailmat) meta += `<div style="font-size:0.9em;margin-top:5px;opacity:0.8">Material: ${s.detailmat}</div>`;
+
+            document.getElementById('m-meta').innerHTML = meta;
+            document.getElementById('m-desc').innerHTML = (s.description || '').replace(/\*\*(.*?)\*\*/g, '<b>$1</b>').replace(/\n/g, '<br>');
+
+            ui.modal.style.display = 'block';
         };
 
-        function updateSortHeaderUI(activeCol) {
-            document.querySelectorAll('#spells-table th').forEach(th => {
-                th.classList.remove('asc', 'desc');
-            });
-            const activeTh = document.getElementById('th-' + activeCol);
-            if(activeTh) activeTh.classList.add(currentSort.direction);
+        function checkHash() {
+            const hash = window.location.hash.substring(1);
+            const target = allSpells.find(s => s.slug === hash);
+            if (target) window.openSpell(target.id);
         }
 
-        function sortData(col) {
-            spellsData = sortDataList(spellsData, col, 'asc');
-        }
-
-        function sortDataList(list, col, dir) {
-            return list.sort((a, b) => {
-                // TRI NUMERIQUE (Niveau)
-                if (col === 'levelInt') {
-                    return dir === 'asc' ? a.levelInt - b.levelInt : b.levelInt - a.levelInt;
-                }
-
-                // TRI TEXTE NETTOYÉ
-                let valA, valB;
-                if(col === 'name') { valA = a.normName; valB = b.normName; }
-                else if(col === 'school') { valA = a.normSchool; valB = b.normSchool; }
-                else if(col === 'Incantation') { valA = a.normTime; valB = b.normTime; }
-                else {
-                    valA = normalizeText(a[col] || '');
-                    valB = normalizeText(b[col] || '');
-                }
-
-                if (valA < valB) return dir === 'asc' ? -1 : 1;
-                if (valA > valB) return dir === 'asc' ? 1 : -1;
-                return 0;
-            });
-        }
-
-        function openModal(s, updateHash = true) {
-            // Pas de hash
-            const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
-            const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
-
-            const titleHTML = `
-                ${s.name}
-                <a href="${spellUrl}" class="spell-action-link" title="Page détaillée du sort">📖</a>
-                ${s.englishname ? `<small style="font-weight:normal; opacity:0.7; margin-left:10px;">(${s.englishname})</small>` : ''}
-            `;
-            document.getElementById('modal-title').innerHTML = titleHTML;
-
-            let meta = `<strong>Niveau ${s.level} - ${s.school}</strong><br>`;
-            meta += `<strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portée} | <strong>Durée:</strong> ${s.Durée}<br>`;
-
-            let compDetails = [];
-            if(s.Verbal === "true") compDetails.push('<span class="tag tag-V">Verbal</span>');
-            if(s.Somatique === "true") compDetails.push('<span class="tag tag-S">Somatique</span>');
-            if(s.Matériel === "true") {
-                const style = s.isCostly ? 'tag tag-M costly' : 'tag tag-M';
-                compDetails.push(`<span class="${style}">Matériel</span> (${s.detailmat || '?'})`);
-            }
-            meta += `<strong>Composantes:</strong> ${compDetails.join(' ')}`;
-
-            const classesBadges = s.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
-            meta += `<br><div style="margin-top:5px;"><strong>Classes:</strong> ${classesBadges}</div>`;
-
-            if(s.Rituel === "true") meta += `<br><span class="tag tag-rit">Rituel</span> <em>Ce sort peut être lancé comme un rituel.</em>`;
-            if(s.Concentration === "true") meta += `<br><span class="tag tag-conc">Concentration</span>`;
-
-            document.getElementById('modal-meta').innerHTML = meta;
-
-            let desc = s.description || '';
-            desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
-                       .replace(/__(.*?)__/g, '<strong>$1</strong>')
-                       .replace(/\[\[(.*?)\|(.*?)\]\]/g, '$2')
-                       .replace(/\[\[(.*?)\]\]/g, '$1')
-                       .replace(/\n/g, '<br>');
-
-            document.getElementById('modal-desc').innerHTML = desc;
-            modal.style.display = 'block';
-        }
-
-        closeBtn.onclick = () => {
-            modal.style.display = 'none';
-        };
-        window.onclick = (e) => {
-            if(e.target === modal) {
-                modal.style.display = 'none';
-            }
-        };
-
-        Object.values(inputs).forEach(i => i.addEventListener('input', filterSpells));
+        ui.modal.querySelector('.close-btn').onclick = () => ui.modal.style.display = 'none';
+        window.onclick = e => { if (e.target === ui.modal) ui.modal.style.display = 'none'; };
 
     })();
     </script>
