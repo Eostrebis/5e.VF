@@ -86,7 +86,11 @@
     {%if page.meta.creator%}
         {% include "partials/creator.html" %}
     {%else%}
-        {{ page.content }}
+        {%if page.meta.spells%}
+            {% include "partials/spells.html" %}
+        {%else%}
+            {{ page.content }}
+        {%endif%}
     {%endif%}
 {%endif%}
 

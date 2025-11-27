@@ -3,6 +3,7 @@ search:
   exclude: true
 title: Sorts
 status: empty
+spells: "true"
 ---
 
 | Spell name                           | Nom du sort                               |

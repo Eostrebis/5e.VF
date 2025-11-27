@@ -1,0 +1,355 @@
+    <style>
+        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; padding: 20px; }
+        h1 { text-align: center; color: #4a4a8a; }
+
+        /* Contrôles de filtrage */
+        .controls { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: end; }
+        .control-group { display: flex; flex-direction: column; }
+        .control-group label { font-size: 0.85em; font-weight: bold; margin-bottom: 5px; color: #666; }
+        input, select { padding: 8px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
+        input[type="text"] { min-width: 250px; }
+
+        /* Table */
+        .table-container { overflow-x: auto; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
+        table { width: 100%; border-collapse: collapse; min-width: 900px; }
+        thead { background-color: #4a4a8a; color: white; }
+        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
+        th { cursor: pointer; user-select: none; position: relative; white-space: nowrap; }
+        th:hover { background-color: #3b3b6e; }
+        th::after { content: ' \25B4'; opacity: 0.3; font-size: 0.8em; } /* Flèche tri */
+        th.asc::after { content: ' \25BE'; opacity: 1; }
+        th.desc::after { content: ' \25B4'; opacity: 1; }
+
+        tr:hover { background-color: #f1f1f1; }
+
+        /* Styles spécifiques aux colonnes */
+        .col-level { width: 60px; text-align: center; }
+        .col-comp { width: 80px; font-weight: bold; letter-spacing: 1px; }
+        .tag { display: inline-block; background: #e0e0e0; padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin: 1px; }
+        .tag-V { color: #d32f2f; } /* Verbal */
+        .tag-S { color: #1976d2; } /* Somatique */
+        .tag-M { color: #388e3c; } /* Matériel */
+
+        /* Modal pour description */
+        .modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.5); }
+        .modal-content { background-color: #fefefe; margin: 10% auto; padding: 20px; border: 1px solid #888; width: 80%; max-width: 700px; border-radius: 8px; position: relative; }
+        .close { color: #aaa; float: right; font-size: 28px; font-weight: bold; cursor: pointer; }
+        .close:hover { color: black; }
+        .spell-meta { color: #666; font-style: italic; margin-bottom: 15px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+
+        /* Message de chargement */
+        .loading { text-align: center; padding: 20px; font-style: italic; color: #666; }
+    </style>
+
+    <h1>Grimoire des Sorts 5e</h1>
+
+    <div class="controls">
+        <div class="control-group">
+            <label for="search">Recherche (Nom)</label>
+            <input type="text" id="search" placeholder="Ex: Boule de feu..." disabled>
+        </div>
+        <div class="control-group">
+            <label for="levelFilter">Niveau</label>
+            <select id="levelFilter" disabled>
+                <option value="all">Tous</option>
+                <option value="0">Cantrip (0)</option>
+                <option value="1">Niveau 1</option>
+                <option value="2">Niveau 2</option>
+                <option value="3">Niveau 3</option>
+                <option value="4">Niveau 4</option>
+                <option value="5">Niveau 5</option>
+                <option value="6">Niveau 6</option>
+                <option value="7">Niveau 7</option>
+                <option value="8">Niveau 8</option>
+                <option value="9">Niveau 9</option>
+            </select>
+        </div>
+        <div class="control-group">
+            <label for="schoolFilter">École</label>
+            <select id="schoolFilter" disabled>
+                <option value="all">Toutes</option>
+                </select>
+        </div>
+        <div class="control-group">
+            <label for="classFilter">Classe</label>
+            <select id="classFilter" disabled>
+                <option value="all">Toutes</option>
+                </select>
+        </div>
+        <div class="control-group">
+            <label>Concentration</label>
+            <select id="concFilter" disabled>
+                <option value="all">Peu importe</option>
+                <option value="true">Oui</option>
+                <option value="false">Non</option>
+            </select>
+        </div>
+    </div>
+
+    <div class="table-container">
+        <table id="spellsTable">
+            <thead>
+                <tr>
+                    <th onclick="sortTable('level')" class="col-level">Niv.</th>
+                    <th onclick="sortTable('name')">Nom du Sort</th>
+                    <th onclick="sortTable('englishname')">Nom Anglais</th>
+                    <th onclick="sortTable('school')">École</th>
+                    <th onclick="sortTable('Incantation')">Incantation</th>
+                    <th onclick="sortTable('components')">Comp.</th>
+                    <th>Classes</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+                <tr><td colspan="7" class="loading">Chargement des sorts depuis le grimoire en ligne...</td></tr>
+            </tbody>
+        </table>
+    </div>
+
+    <div id="spellModal" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <h2 id="modalTitle">Titre du sort</h2>
+            <div id="modalMeta" class="spell-meta"></div>
+            <div id="modalDesc"></div>
+        </div>
+    </div>
+
+<script>
+    // URL du fichier JSON
+    const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
+
+    let spellsArray = [];
+    let currentSort = { column: null, direction: 'asc' };
+
+    // Éléments du DOM
+    const tableBody = document.getElementById('tableBody');
+    const searchInput = document.getElementById('search');
+    const levelFilter = document.getElementById('levelFilter');
+    const schoolFilter = document.getElementById('schoolFilter');
+    const classFilter = document.getElementById('classFilter');
+    const concFilter = document.getElementById('concFilter');
+    const allInputs = [searchInput, levelFilter, schoolFilter, classFilter, concFilter];
+
+    // ---------------------------------------------------------
+    // 1. CHARGEMENT DES DONNÉES (FETCH)
+    // ---------------------------------------------------------
+
+    fetch(JSON_URL)
+        .then(response => {
+            if (!response.ok) {
+                throw new Error("Erreur réseau ou fichier non trouvé");
+            }
+            return response.json();
+        })
+        .then(data => {
+            // Transformation des données
+            spellsArray = Object.entries(data).map(([key, val]) => {
+                return {
+                    name: key,
+                    ...val,
+                    components: (val.Verbal === "true" ? "V" : "") + (val.Somatique === "true" ? "S" : "") + (val.Matériel === "true" ? "M" : ""),
+                    levelInt: parseInt(val.level)
+                };
+            });
+
+            // Initialisation
+            initFilters();
+            renderTable(spellsArray);
+
+            // Activer les contrôles
+            allInputs.forEach(input => input.disabled = false);
+        })
+        .catch(error => {
+            console.error('Erreur:', error);
+            tableBody.innerHTML = `<tr><td colspan="7" style="text-align:center; color:red; padding:20px;">
+                Impossible de charger les sorts.<br>Vérifiez votre connexion internet ou l'URL du fichier.<br>
+                <small>${error.message}</small>
+            </td></tr>`;
+        });
+
+
+    // ---------------------------------------------------------
+    // 2. LOGIQUE D'AFFICHAGE ET DE FILTRE
+    // ---------------------------------------------------------
+
+    function initFilters() {
+        const schools = new Set();
+        const classes = new Set();
+
+        spellsArray.forEach(spell => {
+            if(spell.school) schools.add(spell.school);
+            if(spell.available && Array.isArray(spell.available)) {
+                spell.available.forEach(c => classes.add(c));
+            }
+        });
+
+        // Remplir le select École
+        Array.from(schools).sort().forEach(school => {
+            const opt = document.createElement('option');
+            opt.value = school;
+            opt.textContent = school;
+            schoolFilter.appendChild(opt);
+        });
+
+        // Remplir le select Classe
+        Array.from(classes).sort().forEach(cls => {
+            const opt = document.createElement('option');
+            opt.value = cls;
+            opt.textContent = cls;
+            classFilter.appendChild(opt);
+        });
+    }
+
+    function renderTable(data) {
+        tableBody.innerHTML = '';
+
+        if (data.length === 0) {
+            tableBody.innerHTML = '<tr><td colspan="7" style="text-align:center;">Aucun sort trouvé.</td></tr>';
+            return;
+        }
+
+        data.forEach(spell => {
+            const row = document.createElement('tr');
+
+            // Composantes
+            let compsHTML = '';
+            if (spell.Verbal === "true") compsHTML += '<span class="tag tag-V" title="Verbal">V</span>';
+            if (spell.Somatique === "true") compsHTML += '<span class="tag tag-S" title="Somatique">S</span>';
+            if (spell.Matériel === "true") compsHTML += '<span class="tag tag-M" title="Matériel: ' + (spell.detailmat || '').replace(/"/g, '&quot;') + '">M</span>';
+            if (spell.Concentration === "true") compsHTML += '<span class="tag" title="Concentration" style="background:#ddd;">©</span>';
+            if (spell.Rituel === "true") compsHTML += '<span class="tag" title="Rituel" style="background:#ddd;">R</span>';
+
+            // Classes
+            const classesHTML = (spell.available || []).map(c => `<span class="tag">${c}</span>`).join(' ');
+
+            row.innerHTML = `
+                <td style="text-align:center; font-weight:bold;">${spell.level === "0" ? "C" : spell.level}</td>
+                <td style="font-weight:600; color:#4a4a8a;">${spell.name}</td>
+                <td style="font-style:italic; color:#666;">${spell.englishname}</td>
+                <td>${spell.school}</td>
+                <td>${spell.Incantation}</td>
+                <td>${compsHTML}</td>
+                <td>${classesHTML}</td>
+            `;
+
+            row.addEventListener('click', () => openModal(spell));
+            row.style.cursor = 'pointer';
+
+            tableBody.appendChild(row);
+        });
+    }
+
+    function filterSpells() {
+        const searchTerm = searchInput.value.toLowerCase();
+        const selectedLevel = levelFilter.value;
+        const selectedSchool = schoolFilter.value;
+        const selectedClass = classFilter.value;
+        const selectedConc = concFilter.value;
+
+        const filtered = spellsArray.filter(spell => {
+            const matchName = spell.name.toLowerCase().includes(searchTerm) ||
+                              (spell.englishname && spell.englishname.toLowerCase().includes(searchTerm));
+            const matchLevel = selectedLevel === 'all' || spell.level === selectedLevel;
+            const matchSchool = selectedSchool === 'all' || spell.school === selectedSchool;
+            const matchClass = selectedClass === 'all' || (spell.available && spell.available.includes(selectedClass));
+            const matchConc = selectedConc === 'all' || spell.Concentration === selectedConc;
+
+            return matchName && matchLevel && matchSchool && matchClass && matchConc;
+        });
+
+        if (currentSort.column) {
+            sortArray(filtered, currentSort.column, currentSort.direction);
+        }
+
+        renderTable(filtered);
+    }
+
+    // ---------------------------------------------------------
+    // 3. LOGIQUE DE TRI
+    // ---------------------------------------------------------
+
+    window.sortTable = function(column) {
+        if (spellsArray.length === 0) return;
+
+        if (currentSort.column === column) {
+            currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
+        } else {
+            currentSort.column = column;
+            currentSort.direction = 'asc';
+        }
+
+        document.querySelectorAll('th').forEach(th => {
+            th.classList.remove('asc', 'desc');
+            if (th.getAttribute('onclick') && th.getAttribute('onclick').includes(column)) {
+                th.classList.add(currentSort.direction);
+            }
+        });
+
+        filterSpells();
+    }
+
+    function sortArray(arr, column, direction) {
+        arr.sort((a, b) => {
+            let valA, valB;
+            if (column === 'level') {
+                valA = a.levelInt;
+                valB = b.levelInt;
+            } else {
+                valA = a[column] ? a[column].toString().toLowerCase() : '';
+                valB = b[column] ? b[column].toString().toLowerCase() : '';
+            }
+
+            if (valA < valB) return direction === 'asc' ? -1 : 1;
+            if (valA > valB) return direction === 'asc' ? 1 : -1;
+            return 0;
+        });
+    }
+
+    // ---------------------------------------------------------
+    // 4. MODAL
+    // ---------------------------------------------------------
+    const modal = document.getElementById("spellModal");
+    const modalTitle = document.getElementById("modalTitle");
+    const modalMeta = document.getElementById("modalMeta");
+    const modalDesc = document.getElementById("modalDesc");
+    const closeBtn = document.getElementsByClassName("close")[0];
+
+    function openModal(spell) {
+        modalTitle.textContent = spell.name + (spell.englishname ? ` (${spell.englishname})` : '');
+
+        let meta = `<strong>Niveau ${spell.level} - ${spell.school}</strong><br>`;
+        meta += `<strong>Incantation:</strong> ${spell.Incantation} | `;
+        meta += `<strong>Portée:</strong> ${spell.Portée} | `;
+        meta += `<strong>Durée:</strong> ${spell.Durée}<br>`;
+        if (spell.Matériel === "true") {
+            meta += `<strong>Composantes:</strong> V, S, M (${spell.detailmat || 'non spécifié'})`;
+        } else {
+            let comps = [];
+            if(spell.Verbal === "true") comps.push("V");
+            if(spell.Somatique === "true") comps.push("S");
+            meta += `<strong>Composantes:</strong> ${comps.join(', ')}`;
+        }
+
+        modalMeta.innerHTML = meta;
+
+        let desc = spell.description || "Pas de description.";
+        // Formatage simple
+        desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
+        desc = desc.replace(/__(.*?)__/g, '<strong>$1</strong>');
+        desc = desc.replace(/\[\[(.*?)\|(.*?)\]\]/g, '$2'); // Nettoyage liens wikis complexes
+        desc = desc.replace(/\[\[(.*?)\]\]/g, '$1'); // Nettoyage liens wikis simples
+        desc = desc.replace(/\n/g, '<br>');
+
+        modalDesc.innerHTML = desc;
+        modal.style.display = "block";
+    }
+
+    closeBtn.onclick = function() { modal.style.display = "none"; }
+    window.onclick = function(event) { if (event.target == modal) modal.style.display = "none"; }
+
+    // ---------------------------------------------------------
+    // 5. EVENTS
+    // ---------------------------------------------------------
+    allInputs.forEach(input => input.addEventListener('input', filterSpells));
+
+</script>
