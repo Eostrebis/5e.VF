@@ -2,7 +2,7 @@ import json
 import os
 import sys
 
-spell_dir = "C:\\Users\\frosq\\workspace\\JdR\\5e.VF\\docs\\sorts"
+spell_dir = "/home/runner/work/5e.VF/5e.VF/docs/sorts/"
 
 if __name__ == '__main__':
     os.chdir(spell_dir)
@@ -46,7 +46,7 @@ if __name__ == '__main__':
                     print(f'WARNING -- spell {s[:-3]} has a non-compliant description', file=sys.stderr)
                 json_spell['description'] = description
                 spells_json[s[:-3]] = json_spell
-    with open("C:\\Users\\frosq\\workspace\\JdR\\5e.VF\\docs\\spells.json", "w", encoding="utf8") as f:
+    with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
         f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
     if '' in levels:
         levels.pop('')
