@@ -56,18 +56,24 @@
 
         /* --- Tableau --- */
         .spells-app .table-container {
-            overflow-x: auto;
             border: 1px solid var(--md-default-fg-color--lightest, #eee);
             border-radius: 4px;
             background-color: var(--md-default-bg-color, #fff);
             width: 100%;
             display: flex;
             justify-content: center;
+
+            /* --- AJOUTS POUR SCROLL ET ENTÊTE FIXE --- */
+            overflow-x: auto; /* Scroll horizontal si besoin */
+            overflow-y: auto; /* Scroll vertical activé */
+            max-height: 75vh; /* Hauteur max = 75% de la fenêtre */
+            position: relative;
         }
 
         .spells-app table {
             width: 100%;
-            border-collapse: collapse;
+            border-collapse: separate; /* Nécessaire pour sticky th parfois */
+            border-spacing: 0;
             min-width: 800px;
             margin: 0 auto;
         }
@@ -80,6 +86,13 @@
             cursor: pointer;
             white-space: nowrap;
             user-select: none;
+            border-bottom: 2px solid rgba(0,0,0,0.1);
+
+            /* --- STICKY HEADER --- */
+            position: sticky;
+            top: 0;
+            z-index: 10; /* Reste au dessus du contenu */
+            box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.2); /* Ombre pour détacher l'entête */
         }
 
         .spells-app th:hover { opacity: 0.9; }
@@ -409,16 +422,13 @@
                 if(spell.Concentration === "true") comps.push('<span class="tag tag-conc" title="Concentration">C</span>');
                 if(spell.Rituel === "true") comps.push('<span class="tag tag-rit" title="Rituel">R</span>');
 
-                // --- GESTION CLASSES TABLEAU ---
                 let classDisplay = '';
                 if (spell.cleanClasses.length <= 3) {
                     classDisplay = spell.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
                 } else {
-                    // Affiche les 3 premiers badges
                     classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
-                    // Le tooltip contient UNIQUEMENT les classes restantes (à partir de l'index 3)
-                    const remainingClasses = spell.cleanClasses.slice(3).join(', ');
-                    classDisplay += ` <span class="more-classes" title="${remainingClasses}">+${spell.cleanClasses.length - 3}</span>`;
+                    const allRemaining = spell.cleanClasses.slice(3).join(', ');
+                    classDisplay += ` <span class="more-classes" title="${allRemaining}">+${spell.cleanClasses.length - 3}</span>`;
                 }
 
                 tr.innerHTML = `
