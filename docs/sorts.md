@@ -1,7 +1,7 @@
 ---
 search:
   exclude: true
-title: Sorts
+title: Grimoire des Sorts
 status: empty
 spells: "true"
 ---

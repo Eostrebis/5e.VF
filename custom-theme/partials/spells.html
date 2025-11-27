@@ -1,56 +1,169 @@
+<div class="spells-app">
+
     <style>
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background-color: #f4f4f9; color: #333; padding: 20px; }
-        h1 { text-align: center; color: #4a4a8a; }
+        /* CSS Scoped pour ne pas casser le thème MkDocs */
+        .spells-app {
+            font-size: 0.9rem;
+            color: var(--md-text-color, #333);
+        }
 
-        /* Contrôles de filtrage */
-        .controls { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); margin-bottom: 20px; display: flex; gap: 15px; flex-wrap: wrap; align-items: end; }
-        .control-group { display: flex; flex-direction: column; }
-        .control-group label { font-size: 0.85em; font-weight: bold; margin-bottom: 5px; color: #666; }
-        input, select { padding: 8px; border: 1px solid #ddd; border-radius: 4px; font-size: 14px; }
-        input[type="text"] { min-width: 250px; }
+        /* Contrôles */
+        .spells-app .controls {
+            background: var(--md-code-bg-color, #f5f5f5);
+            padding: 15px;
+            border-radius: 4px;
+            margin-bottom: 20px;
+            display: flex;
+            gap: 15px;
+            flex-wrap: wrap;
+            align-items: flex-end;
+            border: 1px solid var(--md-default-fg-color--lightest, #ddd);
+        }
 
-        /* Table */
-        .table-container { overflow-x: auto; background: white; border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1); }
-        table { width: 100%; border-collapse: collapse; min-width: 900px; }
-        thead { background-color: #4a4a8a; color: white; }
-        th, td { padding: 12px 15px; text-align: left; border-bottom: 1px solid #ddd; }
-        th { cursor: pointer; user-select: none; position: relative; white-space: nowrap; }
-        th:hover { background-color: #3b3b6e; }
-        th::after { content: ' \25B4'; opacity: 0.3; font-size: 0.8em; } /* Flèche tri */
-        th.asc::after { content: ' \25BE'; opacity: 1; }
-        th.desc::after { content: ' \25B4'; opacity: 1; }
+        .spells-app .control-group {
+            display: flex;
+            flex-direction: column;
+            flex: 1 1 auto;
+        }
 
-        tr:hover { background-color: #f1f1f1; }
+        .spells-app label {
+            font-size: 0.8em;
+            font-weight: bold;
+            margin-bottom: 4px;
+            opacity: 0.8;
+        }
 
-        /* Styles spécifiques aux colonnes */
-        .col-level { width: 60px; text-align: center; }
-        .col-comp { width: 80px; font-weight: bold; letter-spacing: 1px; }
-        .tag { display: inline-block; background: #e0e0e0; padding: 2px 6px; border-radius: 4px; font-size: 0.85em; margin: 1px; }
-        .tag-V { color: #d32f2f; } /* Verbal */
-        .tag-S { color: #1976d2; } /* Somatique */
-        .tag-M { color: #388e3c; } /* Matériel */
+        .spells-app input, .spells-app select {
+            padding: 6px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+            background: var(--md-bg-color, #fff);
+            color: var(--md-text-color, #000);
+        }
 
-        /* Modal pour description */
-        .modal { display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; overflow: auto; background-color: rgba(0,0,0,0.5); }
-        .modal-content { background-color: #fefefe; margin: 10% auto; padding: 20px; border: 1px solid #888; width: 80%; max-width: 700px; border-radius: 8px; position: relative; }
-        .close { color: #aaa; float: right; font-size: 28px; font-weight: bold; cursor: pointer; }
-        .close:hover { color: black; }
-        .spell-meta { color: #666; font-style: italic; margin-bottom: 15px; border-bottom: 1px solid #eee; padding-bottom: 10px; }
+        /* Tableau */
+        .spells-app .table-container {
+            overflow-x: auto;
+            border: 1px solid var(--md-default-fg-color--lightest, #eee);
+            border-radius: 4px;
+        }
 
-        /* Message de chargement */
-        .loading { text-align: center; padding: 20px; font-style: italic; color: #666; }
+        .spells-app table {
+            width: 100%;
+            border-collapse: collapse;
+            min-width: 800px; /* Force le scroll horizontal sur mobile */
+        }
+
+        .spells-app th {
+            background-color: var(--md-primary-fg-color, #5c6bc0);
+            color: white;
+            padding: 10px;
+            text-align: left;
+            cursor: pointer;
+            white-space: nowrap;
+            user-select: none;
+        }
+        
+        .spells-app th:hover {
+            opacity: 0.9;
+        }
+
+        .spells-app td {
+            padding: 8px 10px;
+            border-bottom: 1px solid var(--md-default-fg-color--lightest, #eee);
+            vertical-align: middle;
+        }
+
+        .spells-app tr:nth-child(even) {
+            background-color: var(--md-code-bg-color, #fafafa);
+        }
+        
+        .spells-app tr:hover {
+            background-color: rgba(0,0,0,0.05);
+        }
+
+        /* Tags et Badges */
+        .spells-app .tag {
+            display: inline-block;
+            padding: 1px 5px;
+            border-radius: 3px;
+            font-size: 0.8em;
+            margin: 1px;
+            background: #e0e0e0;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .spells-app .tag-V { color: #c62828; background: #ffcdd2; }
+        .spells-app .tag-S { color: #1565c0; background: #bbdefb; }
+        .spells-app .tag-M { color: #2e7d32; background: #c8e6c9; }
+        
+        /* Style spécial pour M coûteux/consommé */
+        .spells-app .tag-M.costly {
+            font-weight: 900;
+            border: 1px solid #2e7d32;
+            background: #a5d6a7;
+            text-decoration: underline dotted;
+        }
+
+        .spells-app .tag-conc { background: #fff9c4; color: #fbc02d; font-weight: bold; }
+        .spells-app .tag-rit { background: #e1bee7; color: #8e24aa; }
+
+        /* Modal */
+        .spells-modal {
+            display: none;
+            position: fixed;
+            z-index: 9999;
+            left: 0;
+            top: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(0,0,0,0.6);
+            backdrop-filter: blur(2px);
+        }
+
+        .spells-modal-content {
+            background-color: var(--md-bg-color, #fff);
+            color: var(--md-text-color, #000);
+            margin: 5% auto;
+            padding: 25px;
+            border-radius: 5px;
+            width: 90%;
+            max-width: 700px;
+            max-height: 90vh;
+            overflow-y: auto;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+            position: relative;
+        }
+
+        .spells-close {
+            position: absolute;
+            right: 20px;
+            top: 15px;
+            font-size: 24px;
+            font-weight: bold;
+            cursor: pointer;
+            color: #888;
+        }
+        .spells-close:hover { color: #000; }
+
+        .spells-meta {
+            font-style: italic;
+            color: var(--md-default-fg-color--light, #666);
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+            margin-bottom: 15px;
+        }
     </style>
-
-    <h1>Grimoire des Sorts 5e</h1>
 
     <div class="controls">
         <div class="control-group">
-            <label for="search">Recherche (Nom)</label>
-            <input type="text" id="search" placeholder="Ex: Boule de feu..." disabled>
+            <label>Recherche</label>
+            <input type="text" id="spells-search" placeholder="Nom du sort..." disabled>
         </div>
         <div class="control-group">
-            <label for="levelFilter">Niveau</label>
-            <select id="levelFilter" disabled>
+            <label>Niveau</label>
+            <select id="spells-level" disabled>
                 <option value="all">Tous</option>
                 <option value="0">Cantrip (0)</option>
                 <option value="1">Niveau 1</option>
@@ -65,20 +178,20 @@
             </select>
         </div>
         <div class="control-group">
-            <label for="schoolFilter">École</label>
-            <select id="schoolFilter" disabled>
+            <label>École</label>
+            <select id="spells-school" disabled>
                 <option value="all">Toutes</option>
-                </select>
+            </select>
         </div>
         <div class="control-group">
-            <label for="classFilter">Classe</label>
-            <select id="classFilter" disabled>
+            <label>Classe</label>
+            <select id="spells-class" disabled>
                 <option value="all">Toutes</option>
-                </select>
+            </select>
         </div>
         <div class="control-group">
             <label>Concentration</label>
-            <select id="concFilter" disabled>
+            <select id="spells-conc" disabled>
                 <option value="all">Peu importe</option>
                 <option value="true">Oui</option>
                 <option value="false">Non</option>
@@ -87,269 +200,250 @@
     </div>
 
     <div class="table-container">
-        <table id="spellsTable">
+        <table id="spells-table">
             <thead>
                 <tr>
-                    <th onclick="sortTable('level')" class="col-level">Niv.</th>
-                    <th onclick="sortTable('name')">Nom du Sort</th>
-                    <th onclick="sortTable('englishname')">Nom Anglais</th>
-                    <th onclick="sortTable('school')">École</th>
-                    <th onclick="sortTable('Incantation')">Incantation</th>
-                    <th onclick="sortTable('components')">Comp.</th>
+                    <th onclick="sortSpells('level')" title="Trier par niveau">Niv.</th>
+                    <th onclick="sortSpells('name')" title="Trier par nom">Nom</th>
+                    <th onclick="sortSpells('school')" title="Trier par école">École</th>
+                    <th>Temps</th>
+                    <th>Comp.</th>
                     <th>Classes</th>
                 </tr>
             </thead>
-            <tbody id="tableBody">
-                <tr><td colspan="7" class="loading">Chargement des sorts depuis le grimoire en ligne...</td></tr>
+            <tbody id="spells-body">
+                <tr><td colspan="6" style="text-align:center; padding: 20px;">Chargement du grimoire...</td></tr>
             </tbody>
         </table>
     </div>
 
-    <div id="spellModal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2 id="modalTitle">Titre du sort</h2>
-            <div id="modalMeta" class="spell-meta"></div>
-            <div id="modalDesc"></div>
+    <div id="spells-modal" class="spells-modal">
+        <div class="spells-modal-content">
+            <span class="spells-close">&times;</span>
+            <h2 id="modal-title" style="margin-top:0;"></h2>
+            <div id="modal-meta" class="spells-meta"></div>
+            <div id="modal-desc"></div>
         </div>
     </div>
 
-<script>
-    // URL du fichier JSON
-    const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
+    <script>
+    (function() { // Isolation du scope JS
+        const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
+        let spellsData = [];
+        let currentSort = { column: 'level', direction: 'asc' }; // Tri par défaut : Niveau croissant
 
-    let spellsArray = [];
-    let currentSort = { column: null, direction: 'asc' };
+        // Éléments DOM avec préfixe unique pour éviter les conflits
+        const inputs = {
+            search: document.getElementById('spells-search'),
+            level: document.getElementById('spells-level'),
+            school: document.getElementById('spells-school'),
+            cls: document.getElementById('spells-class'),
+            conc: document.getElementById('spells-conc')
+        };
+        const tbody = document.getElementById('spells-body');
+        const modal = document.getElementById('spells-modal');
+        const closeBtn = modal.querySelector('.spells-close');
 
-    // Éléments du DOM
-    const tableBody = document.getElementById('tableBody');
-    const searchInput = document.getElementById('search');
-    const levelFilter = document.getElementById('levelFilter');
-    const schoolFilter = document.getElementById('schoolFilter');
-    const classFilter = document.getElementById('classFilter');
-    const concFilter = document.getElementById('concFilter');
-    const allInputs = [searchInput, levelFilter, schoolFilter, classFilter, concFilter];
+        // Mapping pour nettoyer les noms de classes
+        const classMapping = {
+            "MagedeGuerre": "Mage de Guerre",
+            "MaitreGuerre": "Maître de Guerre"
+            // Ajoutez d'autres corrections ici si nécessaire
+        };
 
-    // ---------------------------------------------------------
-    // 1. CHARGEMENT DES DONNÉES (FETCH)
-    // ---------------------------------------------------------
+        function formatClassName(name) {
+            return classMapping[name] || name;
+        }
 
-    fetch(JSON_URL)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error("Erreur réseau ou fichier non trouvé");
-            }
-            return response.json();
-        })
-        .then(data => {
-            // Transformation des données
-            spellsArray = Object.entries(data).map(([key, val]) => {
-                return {
-                    name: key,
-                    ...val,
-                    components: (val.Verbal === "true" ? "V" : "") + (val.Somatique === "true" ? "S" : "") + (val.Matériel === "true" ? "M" : ""),
-                    levelInt: parseInt(val.level)
-                };
+        // --- Fetch & Init ---
+        fetch(JSON_URL)
+            .then(res => res.json())
+            .then(data => {
+                spellsData = Object.entries(data).map(([key, val]) => {
+                    // Analyse des coûts matériels pour le style
+                    const details = (val.detailmat || '').toLowerCase();
+                    const isCostly = details.includes('consomme') || details.includes('po') || details.includes('vaut');
+
+                    return {
+                        id: key,
+                        name: key,
+                        ...val,
+                        levelInt: parseInt(val.level), // Pour le tri numérique
+                        isCostly: isCostly,
+                        // On nettoie les classes ici
+                        cleanClasses: (val.available || []).map(c => formatClassName(c))
+                    };
+                });
+
+                // Trier par défaut : Cantrip (0) -> Niv 9
+                sortData('level');
+
+                initFilters();
+                renderTable(spellsData);
+                
+                // Activer inputs
+                Object.values(inputs).forEach(el => el.disabled = false);
+            })
+            .catch(err => {
+                tbody.innerHTML = `<tr><td colspan="6" style="color:red; text-align:center;">Erreur chargement: ${err.message}</td></tr>`;
             });
 
-            // Initialisation
-            initFilters();
-            renderTable(spellsArray);
+        // --- Logique ---
+        function initFilters() {
+            const schools = new Set();
+            const classes = new Set();
 
-            // Activer les contrôles
-            allInputs.forEach(input => input.disabled = false);
-        })
-        .catch(error => {
-            console.error('Erreur:', error);
-            tableBody.innerHTML = `<tr><td colspan="7" style="text-align:center; color:red; padding:20px;">
-                Impossible de charger les sorts.<br>Vérifiez votre connexion internet ou l'URL du fichier.<br>
-                <small>${error.message}</small>
-            </td></tr>`;
-        });
+            spellsData.forEach(s => {
+                if(s.school) schools.add(s.school);
+                s.cleanClasses.forEach(c => classes.add(c));
+            });
 
+            Array.from(schools).sort().forEach(s => {
+                inputs.school.innerHTML += `<option value="${s}">${s}</option>`;
+            });
+            Array.from(classes).sort().forEach(c => {
+                inputs.cls.innerHTML += `<option value="${c}">${c}</option>`;
+            });
+        }
 
-    // ---------------------------------------------------------
-    // 2. LOGIQUE D'AFFICHAGE ET DE FILTRE
-    // ---------------------------------------------------------
-
-    function initFilters() {
-        const schools = new Set();
-        const classes = new Set();
-
-        spellsArray.forEach(spell => {
-            if(spell.school) schools.add(spell.school);
-            if(spell.available && Array.isArray(spell.available)) {
-                spell.available.forEach(c => classes.add(c));
+        function renderTable(data) {
+            tbody.innerHTML = '';
+            if(!data.length) {
+                tbody.innerHTML = '<tr><td colspan="6" style="text-align:center;">Aucun sort trouvé.</td></tr>';
+                return;
             }
-        });
 
-        // Remplir le select École
-        Array.from(schools).sort().forEach(school => {
-            const opt = document.createElement('option');
-            opt.value = school;
-            opt.textContent = school;
-            schoolFilter.appendChild(opt);
-        });
+            const fragment = document.createDocumentFragment();
+            
+            data.forEach(spell => {
+                const tr = document.createElement('tr');
+                tr.style.cursor = 'pointer';
+                tr.onclick = () => openModal(spell);
 
-        // Remplir le select Classe
-        Array.from(classes).sort().forEach(cls => {
-            const opt = document.createElement('option');
-            opt.value = cls;
-            opt.textContent = cls;
-            classFilter.appendChild(opt);
-        });
-    }
+                // Composantes
+                let comps = '';
+                if(spell.Verbal === "true") comps += '<span class="tag tag-V" title="Verbal">V</span>';
+                if(spell.Somatique === "true") comps += '<span class="tag tag-S" title="Somatique">S</span>';
+                
+                // Logique Matériel Gras/Souligné
+                if(spell.Matériel === "true") {
+                    const styleClass = spell.isCostly ? 'tag tag-M costly' : 'tag tag-M';
+                    const title = spell.detailmat ? `Matériel: ${spell.detailmat}` : 'Matériel';
+                    comps += `<span class="${styleClass}" title="${title.replace(/"/g, '&quot;')}">M</span>`;
+                }
 
-    function renderTable(data) {
-        tableBody.innerHTML = '';
+                if(spell.Concentration === "true") comps += '<span class="tag tag-conc" title="Concentration">C</span>';
+                if(spell.Rituel === "true") comps += '<span class="tag tag-rit" title="Rituel">R</span>';
 
-        if (data.length === 0) {
-            tableBody.innerHTML = '<tr><td colspan="7" style="text-align:center;">Aucun sort trouvé.</td></tr>';
-            return;
+                // Classes (limité à 3 pour l'affichage tableau, reste dans modal)
+                let classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag" style="background:#fff; border:1px solid #ccc;">${c}</span>`).join(' ');
+                if(spell.cleanClasses.length > 3) classDisplay += ' <small>...</small>';
+
+                tr.innerHTML = `
+                    <td style="text-align:center; font-weight:bold;">${spell.level === "0" ? "C" : spell.level}</td>
+                    <td style="font-weight:500; color:var(--md-primary-fg-color, #3f51b5);">${spell.name}</td>
+                    <td>${spell.school}</td>
+                    <td>${spell.Incantation}</td>
+                    <td style="white-space:nowrap;">${comps}</td>
+                    <td>${classDisplay}</td>
+                `;
+                fragment.appendChild(tr);
+            });
+            tbody.appendChild(fragment);
         }
 
-        data.forEach(spell => {
-            const row = document.createElement('tr');
+        function filterSpells() {
+            const terms = inputs.search.value.toLowerCase();
+            const fLvl = inputs.level.value;
+            const fSch = inputs.school.value;
+            const fCls = inputs.cls.value;
+            const fConc = inputs.conc.value;
 
-            // Composantes
-            let compsHTML = '';
-            if (spell.Verbal === "true") compsHTML += '<span class="tag tag-V" title="Verbal">V</span>';
-            if (spell.Somatique === "true") compsHTML += '<span class="tag tag-S" title="Somatique">S</span>';
-            if (spell.Matériel === "true") compsHTML += '<span class="tag tag-M" title="Matériel: ' + (spell.detailmat || '').replace(/"/g, '&quot;') + '">M</span>';
-            if (spell.Concentration === "true") compsHTML += '<span class="tag" title="Concentration" style="background:#ddd;">©</span>';
-            if (spell.Rituel === "true") compsHTML += '<span class="tag" title="Rituel" style="background:#ddd;">R</span>';
+            const filtered = spellsData.filter(s => {
+                const matchName = s.name.toLowerCase().includes(terms) || (s.englishname && s.englishname.toLowerCase().includes(terms));
+                const matchLvl = fLvl === 'all' || s.level === fLvl;
+                const matchSch = fSch === 'all' || s.school === fSch;
+                const matchCls = fCls === 'all' || s.cleanClasses.includes(fCls);
+                const matchConc = fConc === 'all' || s.Concentration === fConc;
+                return matchName && matchLvl && matchSch && matchCls && matchConc;
+            });
 
-            // Classes
-            const classesHTML = (spell.available || []).map(c => `<span class="tag">${c}</span>`).join(' ');
-
-            row.innerHTML = `
-                <td style="text-align:center; font-weight:bold;">${spell.level === "0" ? "C" : spell.level}</td>
-                <td style="font-weight:600; color:#4a4a8a;">${spell.name}</td>
-                <td style="font-style:italic; color:#666;">${spell.englishname}</td>
-                <td>${spell.school}</td>
-                <td>${spell.Incantation}</td>
-                <td>${compsHTML}</td>
-                <td>${classesHTML}</td>
-            `;
-
-            row.addEventListener('click', () => openModal(spell));
-            row.style.cursor = 'pointer';
-
-            tableBody.appendChild(row);
-        });
-    }
-
-    function filterSpells() {
-        const searchTerm = searchInput.value.toLowerCase();
-        const selectedLevel = levelFilter.value;
-        const selectedSchool = schoolFilter.value;
-        const selectedClass = classFilter.value;
-        const selectedConc = concFilter.value;
-
-        const filtered = spellsArray.filter(spell => {
-            const matchName = spell.name.toLowerCase().includes(searchTerm) ||
-                              (spell.englishname && spell.englishname.toLowerCase().includes(searchTerm));
-            const matchLevel = selectedLevel === 'all' || spell.level === selectedLevel;
-            const matchSchool = selectedSchool === 'all' || spell.school === selectedSchool;
-            const matchClass = selectedClass === 'all' || (spell.available && spell.available.includes(selectedClass));
-            const matchConc = selectedConc === 'all' || spell.Concentration === selectedConc;
-
-            return matchName && matchLevel && matchSchool && matchClass && matchConc;
-        });
-
-        if (currentSort.column) {
-            sortArray(filtered, currentSort.column, currentSort.direction);
+            // Ré-appliquer le tri actuel sur les données filtrées
+            const sorted = sortDataList(filtered, currentSort.column, currentSort.direction);
+            renderTable(sorted);
         }
 
-        renderTable(filtered);
-    }
-
-    // ---------------------------------------------------------
-    // 3. LOGIQUE DE TRI
-    // ---------------------------------------------------------
-
-    window.sortTable = function(column) {
-        if (spellsArray.length === 0) return;
-
-        if (currentSort.column === column) {
-            currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
-        } else {
-            currentSort.column = column;
-            currentSort.direction = 'asc';
-        }
-
-        document.querySelectorAll('th').forEach(th => {
-            th.classList.remove('asc', 'desc');
-            if (th.getAttribute('onclick') && th.getAttribute('onclick').includes(column)) {
-                th.classList.add(currentSort.direction);
-            }
-        });
-
-        filterSpells();
-    }
-
-    function sortArray(arr, column, direction) {
-        arr.sort((a, b) => {
-            let valA, valB;
-            if (column === 'level') {
-                valA = a.levelInt;
-                valB = b.levelInt;
+        // --- Tri ---
+        window.sortSpells = function(col) {
+            // Inversion direction si même colonne
+            if(currentSort.column === col) {
+                currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
             } else {
-                valA = a[column] ? a[column].toString().toLowerCase() : '';
-                valB = b[column] ? b[column].toString().toLowerCase() : '';
+                currentSort.column = col;
+                currentSort.direction = 'asc';
             }
+            filterSpells(); // Relance le rendu avec le nouveau tri
+        };
 
-            if (valA < valB) return direction === 'asc' ? -1 : 1;
-            if (valA > valB) return direction === 'asc' ? 1 : -1;
-            return 0;
-        });
-    }
-
-    // ---------------------------------------------------------
-    // 4. MODAL
-    // ---------------------------------------------------------
-    const modal = document.getElementById("spellModal");
-    const modalTitle = document.getElementById("modalTitle");
-    const modalMeta = document.getElementById("modalMeta");
-    const modalDesc = document.getElementById("modalDesc");
-    const closeBtn = document.getElementsByClassName("close")[0];
-
-    function openModal(spell) {
-        modalTitle.textContent = spell.name + (spell.englishname ? ` (${spell.englishname})` : '');
-
-        let meta = `<strong>Niveau ${spell.level} - ${spell.school}</strong><br>`;
-        meta += `<strong>Incantation:</strong> ${spell.Incantation} | `;
-        meta += `<strong>Portée:</strong> ${spell.Portée} | `;
-        meta += `<strong>Durée:</strong> ${spell.Durée}<br>`;
-        if (spell.Matériel === "true") {
-            meta += `<strong>Composantes:</strong> V, S, M (${spell.detailmat || 'non spécifié'})`;
-        } else {
-            let comps = [];
-            if(spell.Verbal === "true") comps.push("V");
-            if(spell.Somatique === "true") comps.push("S");
-            meta += `<strong>Composantes:</strong> ${comps.join(', ')}`;
+        function sortData(col) {
+            spellsData = sortDataList(spellsData, col, 'asc');
         }
 
-        modalMeta.innerHTML = meta;
+        function sortDataList(list, col, dir) {
+            return list.sort((a, b) => {
+                let valA, valB;
+                
+                // Tri spécial pour niveau (numérique)
+                if (col === 'level') {
+                    valA = a.levelInt;
+                    valB = b.levelInt;
+                } else {
+                    valA = a[col] ? a[col].toString().toLowerCase() : '';
+                    valB = b[col] ? b[col].toString().toLowerCase() : '';
+                }
 
-        let desc = spell.description || "Pas de description.";
-        // Formatage simple
-        desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-        desc = desc.replace(/__(.*?)__/g, '<strong>$1</strong>');
-        desc = desc.replace(/\[\[(.*?)\|(.*?)\]\]/g, '$2'); // Nettoyage liens wikis complexes
-        desc = desc.replace(/\[\[(.*?)\]\]/g, '$1'); // Nettoyage liens wikis simples
-        desc = desc.replace(/\n/g, '<br>');
+                if(valA < valB) return dir === 'asc' ? -1 : 1;
+                if(valA > valB) return dir === 'asc' ? 1 : -1;
+                return 0;
+            });
+        }
 
-        modalDesc.innerHTML = desc;
-        modal.style.display = "block";
-    }
+        // --- Modal ---
+        function openModal(s) {
+            document.getElementById('modal-title').textContent = `${s.name} ${s.englishname ? `(${s.englishname})` : ''}`;
+            
+            let meta = `<strong>Niveau ${s.level} - ${s.school}</strong><br>`;
+            meta += `<strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portée} | <strong>Durée:</strong> ${s.Durée}<br>`;
+            
+            // Détail composantes modal
+            let compDetails = [];
+            if(s.Verbal === "true") compDetails.push("Verbal");
+            if(s.Somatique === "true") compDetails.push("Somatique");
+            if(s.Matériel === "true") compDetails.push(`Matériel (${s.detailmat || '?'})`);
+            meta += `<strong>Composantes:</strong> ${compDetails.join(', ')}`;
+            
+            // Liste complète des classes dans le modal
+            meta += `<br><strong>Classes:</strong> ${s.cleanClasses.join(', ')}`;
 
-    closeBtn.onclick = function() { modal.style.display = "none"; }
-    window.onclick = function(event) { if (event.target == modal) modal.style.display = "none"; }
+            document.getElementById('modal-meta').innerHTML = meta;
+            
+            // Description formatting
+            let desc = s.description || '';
+            desc = desc.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+                       .replace(/__(.*?)__/g, '<strong>$1</strong>')
+                       .replace(/\[\[(.*?)\]\]/g, '$1')
+                       .replace(/\n/g, '<br>');
+            
+            document.getElementById('modal-desc').innerHTML = desc;
+            modal.style.display = 'block';
+        }
 
-    // ---------------------------------------------------------
-    // 5. EVENTS
-    // ---------------------------------------------------------
-    allInputs.forEach(input => input.addEventListener('input', filterSpells));
+        closeBtn.onclick = () => modal.style.display = 'none';
+        window.onclick = (e) => { if(e.target === modal) modal.style.display = 'none'; };
 
-</script>
+        // Events inputs
+        Object.values(inputs).forEach(i => i.addEventListener('input', filterSpells));
+
+    })(); // Fin IIFE
+    </script>
+</div>
