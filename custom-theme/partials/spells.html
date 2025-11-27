@@ -47,15 +47,12 @@
             background: var(--bg-main); color: var(--text-main);
         }
 
+        input:focus, select:focus { border-color: var(--primary); outline: none; }
+
         /* Tableau */
         .table-wrap {
-            overflow-x: auto;
-            border: 1px solid var(--border);
-            border-radius: 4px;
-            /* Centrage du tableau */
-            display: flex;
-            justify-content: center;
-            background: var(--bg-main);
+            overflow-x: auto; border: 1px solid var(--border); border-radius: 4px;
+            display: flex; justify-content: center; background: var(--bg-main);
         }
         table { width: 100%; border-collapse: collapse; min-width: 800px; margin: 0 auto; }
 
@@ -65,9 +62,9 @@
         }
         th:hover { opacity: 0.9; }
 
-        /* Flèches de tri (uniquement sur colonnes triables) */
-        th[data-sort].asc::after { content: '▲'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
-        th[data-sort].desc::after { content: '▼'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
+        /* Flèches de tri */
+        th[data-col].asc::after { content: '▲'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
+        th[data-col].desc::after { content: '▼'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
 
         td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; color: var(--text-main); }
         tr:nth-child(even) { background: rgba(128,128,128, 0.05); }
@@ -120,12 +117,12 @@
         <table id="spells-table">
             <thead>
                 <tr>
-                    <th data-sort="levelInt" class="sorter-false">Niv.</th>
-                    <th data-sort="normName" class="sorter-false">Nom</th>
-                    <th data-sort="normSchool" class="sorter-false">École</th>
-                    <th data-sort="normTime" class="sorter-false">Temps</th>
-                    <th class="no-sort sorter-false">Comp.</th>
-                    <th class="no-sort sorter-false">Classes</th>
+                    <th data-col="levelInt" class="sorter-false">Niv.</th>
+                    <th data-col="normName" class="sorter-false">Nom</th>
+                    <th data-col="normSchool" class="sorter-false">École</th>
+                    <th data-col="normTime" class="sorter-false">Temps</th>
+                    <th class="sorter-false">Comp.</th>
+                    <th class="sorter-false">Classes</th>
                 </tr>
             </thead>
             <tbody id="spells-body">
@@ -148,12 +145,10 @@
         const URL_DATA = 'https://eostrebis.github.io/5e.VF/spells.json';
         const URL_BASE = 'https://eostrebis.github.io/5e.VF/sorts/';
 
-        // État de l'application
         let allSpells = [];
         let sortCol = 'levelInt';
         let sortAsc = true;
 
-        // Éléments DOM
         const ui = {
             search: document.getElementById('s-search'),
             lvl: document.getElementById('s-lvl'),
@@ -163,26 +158,22 @@
             rit: document.getElementById('s-rit'),
             tbody: document.getElementById('spells-body'),
             modal: document.getElementById('spells-modal'),
-            headers: document.querySelectorAll('#spells-table th[data-sort]')
+            headers: document.querySelectorAll('#spells-table th[data-col]')
         };
 
-        // --- Helpers ---
-        // Normalisation stricte pour recherche et tri (accents, ligatures)
-        const normalize = t => t ? t.toString().toLowerCase().replace(/\u0153/g, "oe").replace(/\u00e6/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
+        // --- Helpers Normalisation ---
+        const normalize = t => t ? t.toString().toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
         const slugify = t => normalize(t).replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
         const formatClass = c => ({ "MagedeGuerre": "Mage de Guerre", "MaitreGuerre": "Maître de Guerre" }[c] || c);
 
-        // --- Chargement ---
+        // --- Fetch ---
         fetch(URL_DATA).then(r => r.json()).then(data => {
-            // Pré-traitement des données pour performance
             allSpells = Object.entries(data).map(([k, v]) => {
                 const lvl = parseInt(v.level) || 0;
                 return {
-                    id: k,
-                    name: k, // FIX: Ajout explicite du nom ici
-                    slug: slugify(k),
-                    ...v,
+                    id: k, name: k, slug: slugify(k), ...v,
                     levelInt: lvl,
+                    // Pré-calcul des valeurs normalisées pour le tri/filtre
                     normName: normalize(k),
                     normEng: normalize(v.englishname),
                     normSchool: normalize(v.school),
@@ -192,33 +183,29 @@
                 };
             });
 
-            // Remplissage des Selects
+            // Remplissage Selects
             [0,1,2,3,4,5,6,7,8,9].forEach(l => ui.lvl.add(new Option(l === 0 ? "Cantrip (0)" : `Niveau ${l}`, l)));
             [...new Set(allSpells.map(s => s.school).filter(Boolean))].sort().forEach(s => ui.sch.add(new Option(s, s)));
             [...new Set(allSpells.flatMap(s => s.classes))].sort().forEach(c => ui.cls.add(new Option(c, c)));
 
-            // Activation
             Object.values(ui).forEach(el => el instanceof HTMLElement && (el.disabled = false));
 
-            // Gestion tri
+            // Events
             ui.headers.forEach(th => th.addEventListener('click', () => {
-                const col = th.dataset.sort;
+                const col = th.dataset.col;
                 if (sortCol === col) sortAsc = !sortAsc;
                 else { sortCol = col; sortAsc = true; }
                 render();
             }));
 
-            // Gestion filtre
             [ui.search, ui.lvl, ui.sch, ui.cls, ui.conc, ui.rit].forEach(el => el.addEventListener('input', render));
 
-            // Init
             checkHash();
             render();
         }).catch(e => ui.tbody.innerHTML = `<tr><td colspan="6" style="color:red;text-align:center">Erreur: ${e.message}</td></tr>`);
 
-        // --- Rendu Principal ---
+        // --- Rendu ---
         function render() {
-            // 1. Filtrage
             const q = normalize(ui.search.value);
             const filtered = allSpells.filter(s => {
                 if (q && !s.normName.includes(q) && !s.normEng.includes(q)) return false;
@@ -230,7 +217,7 @@
                 return true;
             });
 
-            // 2. Tri
+            // Tri optimisé sur les valeurs normalisées
             filtered.sort((a, b) => {
                 let res = 0;
                 if (sortCol === 'levelInt') res = a.levelInt - b.levelInt;
@@ -238,31 +225,29 @@
                 return sortAsc ? res : -res;
             });
 
-            // 3. Mise à jour UI Entêtes
             ui.headers.forEach(th => {
                 th.classList.remove('asc', 'desc');
-                if (th.dataset.sort === sortCol) th.classList.add(sortAsc ? 'asc' : 'desc');
+                if (th.dataset.col === sortCol) th.classList.add(sortAsc ? 'asc' : 'desc');
             });
 
-            // 4. Construction HTML
             if (!filtered.length) {
                 ui.tbody.innerHTML = '<tr><td colspan="6" style="text-align:center">Aucun résultat</td></tr>';
                 return;
             }
 
+            // Génération avec data-sort sur les TD
             ui.tbody.innerHTML = filtered.map(s => `
                 <tr onclick="window.openSpell('${s.id}')">
-                    <td style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
-                    <td style="font-weight:500;color:var(--primary)">${s.name}</td>
-                    <td>${s.school}</td>
-                    <td>${s.Incantation}</td>
+                    <td data-sort="${s.levelInt}" style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
+                    <td data-sort="${s.normName}" style="font-weight:500;color:var(--primary)">${s.name}</td>
+                    <td data-sort="${s.normSchool}">${s.school}</td>
+                    <td data-sort="${s.normTime}">${s.Incantation}</td>
                     <td style="white-space:nowrap">${getCompTags(s)}</td>
                     <td>${getClassTags(s.classes)}</td>
                 </tr>
             `).join('');
         }
 
-        // --- Rendu HTML des Badges ---
         function getCompTags(s) {
             let h = '';
             if (s.Verbal === "true") h += '<span class="tag t-v" title="Verbal">V</span>';
@@ -279,7 +264,6 @@
                    `<span class="more-cls" title="${list.slice(3).join(', ')}">+${list.length - 3}</span>`;
         }
 
-        // --- Modal ---
         window.openSpell = (id) => {
             const s = allSpells.find(x => x.id === id);
             if (!s) return;
@@ -293,7 +277,6 @@
             <strong>Composantes:</strong> ${getCompTags(s).replace(/class="tag /g, 'class="tag ')}<br>
             <div style="margin-top:5px"><strong>Classes:</strong> ${s.classes.map(c => `<span class="tag t-cls">${c}</span>`).join(' ')}</div>`;
 
-            if (s.Rituel === "true") meta += `<br><span class="tag t-r">Rituel</span> <em>Ce sort peut être lancé comme un rituel.</em>`;
             if (s.detailmat) meta += `<div style="font-size:0.9em;margin-top:5px;opacity:0.8">Matériel: ${s.detailmat}</div>`;
 
             document.getElementById('m-meta').innerHTML = meta;
@@ -302,7 +285,6 @@
             ui.modal.style.display = 'block';
         };
 
-        // --- Gestion URL/Fermeture ---
         function checkHash() {
             const hash = window.location.hash.substring(1);
             const target = allSpells.find(s => s.slug === hash);
