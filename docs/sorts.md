@@ -433,7 +433,7 @@ spells: "true"
 | Speak with Animals                   | [[Communication avec les Animaux]]        |
 | Speak with Dead                      | [[Communication avec les Morts]]          |
 | Speak with Plants                    | [[Communication avec les Plantes]]        |
-| Spider Climb                         | [[Pattes d'Araignées]]                    |
+| Spider Climb                         | [[Pattes d'Araignée]]                    |
 | Spike Growth                         | [[Croissance d'Épines]]                   |
 | Spirit Guardians                     | [[Esprits gardiens]]                      |
 | Spirit Shroud                        | [[Voile Spirituel]]                       |
