@@ -79,18 +79,18 @@
             text-align: left;
             white-space: nowrap;
             user-select: none;
-            position: relative; /* Pour la flèche de tri */
+            position: relative;
         }
 
-        /* Style des colonnes triables */
-        .spells-app th.sortable {
+        /* Style des colonnes triables (nom unique pour éviter conflit) */
+        .spells-app th.custom-sort {
             cursor: pointer;
             padding-right: 20px;
         }
-        .spells-app th.sortable:hover { opacity: 0.9; }
+        .spells-app th.custom-sort:hover { opacity: 0.9; }
 
         /* Flèches de tri CSS */
-        .spells-app th.sortable::after {
+        .spells-app th.custom-sort::after {
             content: '↕';
             position: absolute;
             right: 5px;
@@ -290,12 +290,12 @@
         <table id="spells-table">
             <thead>
                 <tr>
-                    <th onclick="sortSpells('levelInt')" class="sortable" id="th-levelInt">Niv.</th>
-                    <th onclick="sortSpells('name')" class="sortable" id="th-name">Nom</th>
-                    <th onclick="sortSpells('school')" class="sortable" id="th-school">École</th>
-                    <th onclick="sortSpells('Incantation')" class="sortable" id="th-Incantation">Temps</th>
-                    <th>Comp.</th>
-                    <th>Classes</th>
+                    <th onclick="sortSpells('levelInt')" class="custom-sort no-sort" id="th-levelInt">Niv.</th>
+                    <th onclick="sortSpells('name')" class="custom-sort no-sort" id="th-name">Nom</th>
+                    <th onclick="sortSpells('school')" class="custom-sort no-sort" id="th-school">École</th>
+                    <th onclick="sortSpells('Incantation')" class="custom-sort no-sort" id="th-Incantation">Temps</th>
+                    <th class="no-sort">Comp.</th>
+                    <th class="no-sort">Classes</th>
                 </tr>
             </thead>
             <tbody id="spells-body">
@@ -319,7 +319,7 @@
         const BASE_DOC_URL = 'https://eostrebis.github.io/5e.VF/sorts/';
 
         let spellsData = [];
-        let currentSort = { column: 'levelInt', direction: 'asc' }; // Défaut : Niveau numérique
+        let currentSort = { column: 'levelInt', direction: 'asc' };
 
         const inputs = {
             search: document.getElementById('spells-search'),
@@ -342,13 +342,12 @@
             return classMapping[name] || name;
         }
 
-        // --- NORMALISATION PUISSANTE (Fixe le problème Œil / Éclat) ---
         function normalizeText(text) {
             if (!text) return "";
             return text.toString().toLowerCase()
-                .replace(/œ/g, "oe") // Remplacement MANUEL ligature
-                .replace(/æ/g, "ae")
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, ""); // Supprime accents
+                .replace(/\u0153/g, "oe") // Unicode œ -> oe
+                .replace(/\u00e6/g, "ae") // Unicode æ -> ae
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
         }
 
         function toSlug(text) {
@@ -371,7 +370,6 @@
                         id: key,
                         slug: toSlug(key),
                         name: key,
-                        // On stocke la version nettoyée pour le tri et le filtre
                         normName: normalizeText(key),
                         normSchool: normalizeText(val.school || ''),
                         normTime: normalizeText(val.Incantation || ''),
@@ -383,7 +381,7 @@
                     };
                 });
 
-                // Init UI
+                // Tri initial
                 updateSortHeaderUI('levelInt');
                 sortData('levelInt');
                 initFilters();
@@ -484,7 +482,7 @@
             renderTable(sorted);
         }
 
-        // --- TRI OPTIMISÉ ---
+        // --- GESTION DU TRI ---
         window.sortSpells = function(col) {
             if(currentSort.column === col) {
                 currentSort.direction = currentSort.direction === 'asc' ? 'desc' : 'asc';
@@ -515,13 +513,12 @@
                     return dir === 'asc' ? a.levelInt - b.levelInt : b.levelInt - a.levelInt;
                 }
 
-                // TRI TEXTE NETTOYÉ (Pour Nom, Ecole, etc.)
+                // TRI TEXTE NETTOYÉ
                 let valA, valB;
                 if(col === 'name') { valA = a.normName; valB = b.normName; }
                 else if(col === 'school') { valA = a.normSchool; valB = b.normSchool; }
                 else if(col === 'Incantation') { valA = a.normTime; valB = b.normTime; }
                 else {
-                    // Fallback
                     valA = normalizeText(a[col] || '');
                     valB = normalizeText(b[col] || '');
                 }
@@ -533,7 +530,7 @@
         }
 
         function openModal(s, updateHash = true) {
-            // Pas de hash pour navigation clean
+            // Pas de hash
             const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
             const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
 
