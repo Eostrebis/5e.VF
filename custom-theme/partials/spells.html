@@ -301,7 +301,7 @@
     <script>
     (function() {
         const JSON_URL = 'https://eostrebis.github.io/5e.VF/spells.json';
-        const BASE_DOC_URL = 'https://eostrebis.github.io/5e.VF/sorts/'; // Base de l'URL externe
+        const BASE_DOC_URL = 'https://eostrebis.github.io/5e.VF/sorts/';
 
         let spellsData = [];
         let currentSort = { column: 'level', direction: 'asc' };
@@ -327,7 +327,7 @@
             return classMapping[name] || name;
         }
 
-        // Slugify pour l'ancre interne (#nom-du-sort)
+        // Slugify pour l'ancre interne
         function toSlug(text) {
             return text.toString().toLowerCase()
                 .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
@@ -409,13 +409,16 @@
                 if(spell.Concentration === "true") comps.push('<span class="tag tag-conc" title="Concentration">C</span>');
                 if(spell.Rituel === "true") comps.push('<span class="tag tag-rit" title="Rituel">R</span>');
 
+                // --- GESTION CLASSES TABLEAU ---
                 let classDisplay = '';
                 if (spell.cleanClasses.length <= 3) {
                     classDisplay = spell.cleanClasses.map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
                 } else {
+                    // Affiche les 3 premiers badges
                     classDisplay = spell.cleanClasses.slice(0, 3).map(c => `<span class="tag class-tag">${c}</span>`).join(' ');
-                    const allRemaining = spell.cleanClasses.join(', ');
-                    classDisplay += ` <span class="more-classes" title="${allRemaining}">+${spell.cleanClasses.length - 3}</span>`;
+                    // Le tooltip contient UNIQUEMENT les classes restantes (à partir de l'index 3)
+                    const remainingClasses = spell.cleanClasses.slice(3).join(', ');
+                    classDisplay += ` <span class="more-classes" title="${remainingClasses}">+${spell.cleanClasses.length - 3}</span>`;
                 }
 
                 tr.innerHTML = `
@@ -485,12 +488,10 @@
         function openModal(s, updateHash = true) {
             if (updateHash) history.pushState(null, null, `#${s.slug}`);
 
-            // Construction de l'URL externe
-            // Logic: Level 0 -> 'cantrips', sinon '0' + level (ex: '01')
+            // Construction URL externe
             const levelPart = s.levelInt === 0 ? 'cantrips' : '0' + s.levelInt;
             const spellUrl = `${BASE_DOC_URL}${levelPart}/${encodeURIComponent(s.name)}/`;
 
-            // Titre + Lien ancre + Lien externe
             const titleHTML = `
                 ${s.name}
                 <a href="#${s.slug}" class="spell-action-link" title="Lien direct (ancre)">🔗</a>
@@ -530,8 +531,14 @@
             modal.style.display = 'block';
         }
 
-        closeBtn.onclick = () => modal.style.display = 'none';
-        window.onclick = (e) => { if(e.target === modal) modal.style.display = 'none'; };
+        closeBtn.onclick = () => {
+            modal.style.display = 'none';
+        };
+        window.onclick = (e) => {
+            if(e.target === modal) {
+                modal.style.display = 'none';
+            }
+        };
 
         Object.values(inputs).forEach(i => i.addEventListener('input', filterSpells));
 
