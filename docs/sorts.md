@@ -219,7 +219,7 @@ spells: "true"
 | Gaseous Form                         | [[Forme Gazeuse]]                         |
 | Gate                                 | [[Portail]]                               |
 | Geas                                 | [[Quête]]                                 |
-| Gentle Repose                        | [[docs/sorts/Repos Éternel]]                |
+| Gentle Repose                        | [[docs/sorts/Repos Éternel]]              |
 | Giant Insect                         | [[Insecte Géant]]                         |
 | Gift of Gab                          | [[Don du Bagou]]                          |
 | Glibness                             | [[Bagou]]                                 |
@@ -424,7 +424,7 @@ spells: "true"
 | Simulacrum                           | [[Simulacre]]                             |
 | Skill Empowerment                    | [[Amélioration de Compétences]]           |
 | Skywrite                             | [[Libellé Aérien]]                        |
-| Sleep                                | [[Sommeil]]                    |
+| Sleep                                | [[Sommeil]]                               |
 | Slow                                 | [[Lenteur]]                               |
 | Snare                                | [[Collet]]                                |
 | Snilloc's Snowball Swarm             | [[Nuée de Boules de Neige de Snilloc]]    |
@@ -770,7 +770,7 @@ spells: "true"
 | Touch Infinity                       | [[Touche de l'Infini]]                    |
 | Undertow                             | [[Contre-Courant]]                        |
 | Unseen Claw                          | [[Griffe Invisible]]                      |
-| Unspoken Agreement                   | [[Accord Tacite]]                      |
+| Unspoken Agreement                   | [[Accord Tacite]]                         |
 | Unstoppable Ascent                   | [[Ascension Inarrêtable]]                 |
 | Venom Blast                          | [[Explosion de Venin]]                    |
 | Wall of Ooze                         | [[Mur de Vase]]                           |
@@ -798,5 +798,5 @@ spells: "true"
 | Temporal Potion Heaven               | [[Refuge Temporel]]                       |
 | Dragon Claw                          | [[Griffe Draconique]]                     |
 | Sleet Storm                          | [[Tempête de neige]]                      |
-| Gahoul's Shrieking Skull             | [[Crâne Hurlant de Gahoul]]                |
+| Gahoul's Shrieking Skull             | [[Crâne Hurlant de Gahoul]]               |
 

@@ -60,7 +60,7 @@
 }
 
 .md-main__inner.md-grid {
-    max-width: initial;
+    max-width: 60%;
 }
 
 .figure > .admonition-title,
