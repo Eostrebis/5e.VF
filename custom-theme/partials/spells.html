@@ -1,52 +1,48 @@
 <div class="spells-app">
 
     <style>
-        /* --- CSS Scoped & Variables --- */
+        /* --- Variables & Thème --- */
         .spells-app {
             --text-main: var(--md-typeset-color, #333);
             --bg-main: var(--md-default-bg-color, #fff);
             --border: var(--md-default-fg-color--lightest, #eee);
             --primary: var(--md-primary-fg-color, #5c6bc0);
 
-            /* Couleurs des Tags (Défaut Clair) */
-            --tag-v-bg: #ffcdd2; --tag-v-fg: #b71c1c;
-            --tag-s-bg: #bbdefb; --tag-s-fg: #0d47a1;
-            --tag-m-bg: #c8e6c9; --tag-m-fg: #1b5e20;
-            --tag-c-bg: #ffe0b2; --tag-c-fg: #e65100;
-            --tag-r-bg: #e1bee7; --tag-r-fg: #4a148c;
+            /* Couleurs Tags (Mode Clair) */
+            --t-v-bg: #ffcdd2; --t-v-fg: #b71c1c;
+            --t-s-bg: #bbdefb; --t-s-fg: #0d47a1;
+            --t-m-bg: #c8e6c9; --t-m-fg: #1b5e20;
+            --t-c-bg: #ffe0b2; --t-c-fg: #e65100;
+            --t-r-bg: #e1bee7; --t-r-fg: #4a148c;
 
-            font-size: 0.9rem;
-            color: var(--text-main);
-            margin: 0 auto;
-            max-width: 100%;
+            font-size: 0.9rem; color: var(--text-main); max-width: 100%; margin: 0 auto;
         }
 
-        /* Mode Sombre : On redéfinit juste les variables */
+        /* Couleurs Tags (Mode Sombre) */
         body[data-md-color-scheme="slate"] .spells-app {
-            --tag-v-bg: rgba(183, 28, 28, 0.3); --tag-v-fg: #ffcdd2;
-            --tag-s-bg: rgba(13, 71, 161, 0.3); --tag-s-fg: #bbdefb;
-            --tag-m-bg: rgba(27, 94, 32, 0.3);  --tag-m-fg: #c8e6c9;
-            --tag-c-bg: rgba(230, 81, 0, 0.3);  --tag-c-fg: #ffe0b2;
-            --tag-r-bg: rgba(74, 20, 140, 0.3); --tag-r-fg: #e1bee7;
+            --t-v-bg: rgba(183, 28, 28, 0.3); --t-v-fg: #ffcdd2;
+            --t-s-bg: rgba(13, 71, 161, 0.3); --t-s-fg: #bbdefb;
+            --t-m-bg: rgba(27, 94, 32, 0.3);  --t-m-fg: #c8e6c9;
+            --t-c-bg: rgba(230, 81, 0, 0.3);  --t-c-fg: #ffe0b2;
+            --t-r-bg: rgba(74, 20, 140, 0.3); --t-r-fg: #e1bee7;
         }
 
         .spells-app a { color: var(--md-typeset-a-color, #3f51b5); text-decoration: none; }
         .spells-app a:hover { text-decoration: underline; }
 
-        /* Interface */
+        /* Interface Filtres */
         .controls {
             background: var(--bg-main); border: 1px solid var(--border);
             padding: 15px; border-radius: 4px; margin-bottom: 20px;
             display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;
         }
         .control-group { display: flex; flex-direction: column; flex: 1 1 auto; min-width: 120px; }
-        .control-group label { font-weight: bold; font-size: 0.8em; opacity: 0.8; margin-bottom: 4px; color: var(--text-main); }
+        .control-group label { font-weight: bold; font-size: 0.8em; opacity: 0.8; margin-bottom: 4px; color: var(--md-typeset-color); }
 
         input, select {
             padding: 6px; border: 1px solid #ccc; border-radius: 3px;
             background: var(--bg-main); color: var(--text-main);
         }
-
         input:focus, select:focus { border-color: var(--primary); outline: none; }
 
         /* Tableau */
@@ -58,30 +54,27 @@
 
         th {
             background: var(--primary); color: #fff; padding: 10px; text-align: left;
-            cursor: pointer; user-select: none; position: relative;
+            white-space: nowrap; user-select: none; cursor: pointer;
         }
         th:hover { opacity: 0.9; }
-
-        /* Flèches de tri */
-        th[data-col].asc::after { content: '▲'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
-        th[data-col].desc::after { content: '▼'; position: absolute; right: 5px; opacity: 0.5; font-size: 0.8em; }
 
         td { padding: 8px 10px; border-bottom: 1px solid var(--border); vertical-align: middle; color: var(--text-main); }
         tr:nth-child(even) { background: rgba(128,128,128, 0.05); }
         tr:hover { background: rgba(128,128,128, 0.1); cursor: pointer; }
 
+        /* Classe pour masquer les lignes filtrées via JS */
+        tr.hidden { display: none; }
+
         /* Badges */
         .tag {
             display: inline-block; padding: 2px 6px; border-radius: 4px;
-            font-size: 0.75em; font-weight: 700; margin: 1px;
-            border: 1px solid transparent;
+            font-size: 0.75em; font-weight: 700; margin: 1px; border: 1px solid transparent;
         }
-        .t-v { background: var(--tag-v-bg); color: var(--tag-v-fg); border-color: var(--tag-v-fg); }
-        .t-s { background: var(--tag-s-bg); color: var(--tag-s-fg); border-color: var(--tag-s-fg); }
-        .t-m { background: var(--tag-m-bg); color: var(--tag-m-fg); border-color: var(--tag-m-fg); }
-        .t-c { background: var(--tag-c-bg); color: var(--tag-c-fg); border-color: var(--tag-c-fg); }
-        .t-r { background: var(--tag-r-bg); color: var(--tag-r-fg); border-color: var(--tag-r-fg); }
-
+        .t-v { background: var(--t-v-bg); color: var(--t-v-fg); border-color: var(--t-v-fg); }
+        .t-s { background: var(--t-s-bg); color: var(--t-s-fg); border-color: var(--t-s-fg); }
+        .t-m { background: var(--t-m-bg); color: var(--t-m-fg); border-color: var(--t-m-fg); }
+        .t-c { background: var(--t-c-bg); color: var(--t-c-fg); border-color: var(--t-c-fg); }
+        .t-r { background: var(--t-r-bg); color: var(--t-r-fg); border-color: var(--t-r-fg); }
         .t-m.costly { border-width: 2px; text-decoration: underline dotted; }
 
         .t-cls { border: 1px solid #ccc; background: var(--bg-main); color: var(--text-main); font-weight: normal; }
@@ -95,8 +88,7 @@
         .modal-box {
             background: var(--bg-main); margin: 5% auto; padding: 25px;
             width: 90%; max-width: 700px; max-height: 85vh; overflow-y: auto;
-            border-radius: 6px; position: relative; box-shadow: 0 10px 25px rgba(0,0,0,0.5);
-            color: var(--text-main);
+            border-radius: 6px; position: relative; box-shadow: 0 10px 25px rgba(0,0,0,0.5); color: var(--text-main);
         }
         .close-btn { position: absolute; right: 20px; top: 15px; font-size: 24px; cursor: pointer; opacity: 0.6; }
         .meta-info { font-style: italic; opacity: 0.8; border-bottom: 1px solid var(--border); padding-bottom: 15px; margin-bottom: 15px; line-height: 1.6; }
@@ -117,12 +109,12 @@
         <table id="spells-table">
             <thead>
                 <tr>
-                    <th data-col="levelInt" class="sorter-false">Niv.</th>
-                    <th data-col="normName" class="sorter-false">Nom</th>
-                    <th data-col="normSchool" class="sorter-false">École</th>
-                    <th data-col="normTime" class="sorter-false">Temps</th>
-                    <th class="sorter-false">Comp.</th>
-                    <th class="sorter-false">Classes</th>
+                    <th>Niv.</th>
+                    <th>Nom</th>
+                    <th>École</th>
+                    <th>Temps</th>
+                    <th>Comp.</th>
+                    <th>Classes</th>
                 </tr>
             </thead>
             <tbody id="spells-body">
@@ -146,9 +138,8 @@
         const URL_BASE = 'https://eostrebis.github.io/5e.VF/sorts/';
 
         let allSpells = [];
-        let sortCol = 'levelInt';
-        let sortAsc = true;
 
+        // DOM Cache
         const ui = {
             search: document.getElementById('s-search'),
             lvl: document.getElementById('s-lvl'),
@@ -157,12 +148,12 @@
             conc: document.getElementById('s-conc'),
             rit: document.getElementById('s-rit'),
             tbody: document.getElementById('spells-body'),
-            modal: document.getElementById('spells-modal'),
-            headers: document.querySelectorAll('#spells-table th[data-col]')
+            modal: document.getElementById('spells-modal')
         };
 
-        // --- Helpers Normalisation ---
-        const normalize = t => t ? t.toString().toLowerCase().replace(/œ/g, "oe").replace(/æ/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
+        // --- Helpers ---
+        // Normalisation propre pour data-sort (gère Œ -> oe, accents)
+        const normalize = t => t ? t.toString().toLowerCase().replace(/\u0153/g, "oe").replace(/\u00e6/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
         const slugify = t => normalize(t).replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
         const formatClass = c => ({ "MagedeGuerre": "Mage de Guerre", "MaitreGuerre": "Maître de Guerre" }[c] || c);
 
@@ -170,84 +161,94 @@
         fetch(URL_DATA).then(r => r.json()).then(data => {
             allSpells = Object.entries(data).map(([k, v]) => {
                 const lvl = parseInt(v.level) || 0;
+                // On prépare les données pour le filtrage rapide et l'attribut data-sort
                 return {
                     id: k, name: k, slug: slugify(k), ...v,
                     levelInt: lvl,
-                    // Pré-calcul des valeurs normalisées pour le tri/filtre
-                    normName: normalize(k),
-                    normEng: normalize(v.englishname),
-                    normSchool: normalize(v.school),
-                    normTime: normalize(v.Incantation),
+                    sortName: normalize(k), // Pour data-sort
+                    sortEng: normalize(v.englishname),
+                    sortSchool: normalize(v.school),
+                    sortTime: normalize(v.Incantation),
                     classes: (v.available || []).map(formatClass),
                     isCostly: (v.detailmat || '').toLowerCase().match(/consomme|po|vaut/)
                 };
             });
 
-            // Remplissage Selects
+            // Remplir Selects
             [0,1,2,3,4,5,6,7,8,9].forEach(l => ui.lvl.add(new Option(l === 0 ? "Cantrip (0)" : `Niveau ${l}`, l)));
             [...new Set(allSpells.map(s => s.school).filter(Boolean))].sort().forEach(s => ui.sch.add(new Option(s, s)));
             [...new Set(allSpells.flatMap(s => s.classes))].sort().forEach(c => ui.cls.add(new Option(c, c)));
 
             Object.values(ui).forEach(el => el instanceof HTMLElement && (el.disabled = false));
 
-            // Events
-            ui.headers.forEach(th => th.addEventListener('click', () => {
-                const col = th.dataset.col;
-                if (sortCol === col) sortAsc = !sortAsc;
-                else { sortCol = col; sortAsc = true; }
-                render();
-            }));
+            // Events de filtrage (plus de tri JS ici)
+            [ui.search, ui.lvl, ui.sch, ui.cls, ui.conc, ui.rit].forEach(el => el.addEventListener('input', applyFilters));
 
-            [ui.search, ui.lvl, ui.sch, ui.cls, ui.conc, ui.rit].forEach(el => el.addEventListener('input', render));
-
+            // Rendu initial (une seule fois)
+            renderTableRows();
             checkHash();
-            render();
+
+            // Si Tablesort est chargé, il s'attachera automatiquement au tableau rempli
+            // Sinon, vous pouvez déclencher manuellement: new Tablesort(document.getElementById('spells-table'));
+
         }).catch(e => ui.tbody.innerHTML = `<tr><td colspan="6" style="color:red;text-align:center">Erreur: ${e.message}</td></tr>`);
 
-        // --- Rendu ---
-        function render() {
-            const q = normalize(ui.search.value);
-            const filtered = allSpells.filter(s => {
-                if (q && !s.normName.includes(q) && !s.normEng.includes(q)) return false;
-                if (ui.lvl.value !== 'all' && s.levelInt != ui.lvl.value) return false;
-                if (ui.sch.value !== 'all' && s.school !== ui.sch.value) return false;
-                if (ui.cls.value !== 'all' && !s.classes.includes(ui.cls.value)) return false;
-                if (ui.conc.value !== 'all' && s.Concentration !== ui.conc.value) return false;
-                if (ui.rit.value !== 'all' && s.Rituel !== ui.rit.value) return false;
-                return true;
-            });
+        // --- Génération des lignes (Une seule fois) ---
+        function renderTableRows() {
+            if (!allSpells.length) return;
 
-            // Tri optimisé sur les valeurs normalisées
-            filtered.sort((a, b) => {
-                let res = 0;
-                if (sortCol === 'levelInt') res = a.levelInt - b.levelInt;
-                else res = a[sortCol].localeCompare(b[sortCol], 'fr', { numeric: true });
-                return sortAsc ? res : -res;
-            });
+            // On génère TOUTES les lignes. Le filtrage se fera via CSS (display: none)
+            ui.tbody.innerHTML = allSpells.map(s => `
+                <tr class="spell-row"
+                    onclick="window.openSpell('${s.id}')"
+                    data-name="${s.sortName} ${s.sortEng}"
+                    data-lvl="${s.levelInt}"
+                    data-sch="${s.school}"
+                    data-cls="${s.classes.join(',')}"
+                    data-conc="${s.Concentration}"
+                    data-rit="${s.Rituel}">
 
-            ui.headers.forEach(th => {
-                th.classList.remove('asc', 'desc');
-                if (th.dataset.col === sortCol) th.classList.add(sortAsc ? 'asc' : 'desc');
-            });
-
-            if (!filtered.length) {
-                ui.tbody.innerHTML = '<tr><td colspan="6" style="text-align:center">Aucun résultat</td></tr>';
-                return;
-            }
-
-            // Génération avec data-sort sur les TD
-            ui.tbody.innerHTML = filtered.map(s => `
-                <tr onclick="window.openSpell('${s.id}')">
                     <td data-sort="${s.levelInt}" style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
-                    <td data-sort="${s.normName}" style="font-weight:500;color:var(--primary)">${s.name}</td>
-                    <td data-sort="${s.normSchool}">${s.school}</td>
-                    <td data-sort="${s.normTime}">${s.Incantation}</td>
-                    <td style="white-space:nowrap">${getCompTags(s)}</td>
+                    <td data-sort="${s.sortName}" style="font-weight:500;color:var(--primary)">${s.name}</td>
+                    <td data-sort="${s.sortSchool}">${s.school}</td>
+                    <td data-sort="${s.sortTime}">${s.Incantation}</td>
+                    <td>${getCompTags(s)}</td>
                     <td>${getClassTags(s.classes)}</td>
                 </tr>
             `).join('');
         }
 
+        // --- Filtrage par CSS (Masquage) ---
+        function applyFilters() {
+            const q = normalize(ui.search.value);
+            const fLvl = ui.lvl.value;
+            const fSch = ui.sch.value;
+            const fCls = ui.cls.value;
+            const fConc = ui.conc.value;
+            const fRit = ui.rit.value;
+
+            // On itère sur le DOM existant : c'est très rapide et ne casse pas le plugin de tri
+            const rows = document.querySelectorAll('.spell-row');
+
+            rows.forEach(row => {
+                const d = row.dataset; // Accès aux data-attributes générés plus haut
+
+                const matchName = !q || d.name.includes(q);
+                const matchLvl = fLvl === 'all' || d.lvl === fLvl;
+                const matchSch = fSch === 'all' || d.sch === fSch;
+                const matchCls = fCls === 'all' || d.cls.includes(fCls);
+                const matchConc = fConc === 'all' || d.conc === fConc;
+                const matchRit = fRit === 'all' || d.rit === fRit;
+
+                if (matchName && matchLvl && matchSch && matchCls && matchConc && matchRit) {
+                    row.classList.remove('hidden');
+                } else {
+                    row.classList.add('hidden');
+                }
+            });
+        }
+
+        // --- HTML Helpers ---
         function getCompTags(s) {
             let h = '';
             if (s.Verbal === "true") h += '<span class="tag t-v" title="Verbal">V</span>';
@@ -264,6 +265,7 @@
                    `<span class="more-cls" title="${list.slice(3).join(', ')}">+${list.length - 3}</span>`;
         }
 
+        // --- Modal ---
         window.openSpell = (id) => {
             const s = allSpells.find(x => x.id === id);
             if (!s) return;
