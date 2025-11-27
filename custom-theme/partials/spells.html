@@ -204,7 +204,6 @@
             line-height: 1.6;
         }
 
-        /* Liens d'action dans le titre de la modal */
         .spell-action-link {
             font-size: 0.8em;
             margin-left: 8px;
@@ -327,10 +326,15 @@
             return classMapping[name] || name;
         }
 
-        // Slugify pour l'ancre interne
-        function toSlug(text) {
+        // Normalisation pour recherche/tri (supprime accents, minuscules)
+        function normalizeText(text) {
             return text.toString().toLowerCase()
-                .normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+                .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+        }
+
+        // Slug pour URL (pour le permalien)
+        function toSlug(text) {
+            return normalizeText(text)
                 .replace(/[^a-z0-9]+/g, '-')
                 .replace(/(^-|-$)+/g, '');
         }
@@ -342,7 +346,7 @@
                     const details = (val.detailmat || '').toLowerCase();
                     const isCostly = details.includes('consomme') || details.includes('po') || details.includes('vaut');
 
-                    // Sécurité pour le niveau : force 0 si non numérique ou 0
+                    // Force 0 pour cantrips ou erreurs
                     let lvl = parseInt(val.level);
                     if (isNaN(lvl)) lvl = 0;
 
@@ -350,8 +354,10 @@
                         id: key,
                         slug: toSlug(key),
                         name: key,
+                        normName: normalizeText(key), // Pré-calcul pour recherche rapide
+                        normEng: normalizeText(val.englishname || ''),
                         ...val,
-                        levelInt: lvl, // Utilisé pour le tri
+                        levelInt: lvl,
                         isCostly: isCostly,
                         cleanClasses: (val.available || []).map(c => formatClassName(c))
                     };
@@ -437,7 +443,7 @@
         }
 
         function filterSpells() {
-            const terms = inputs.search.value.toLowerCase();
+            const terms = normalizeText(inputs.search.value);
             const fLvl = inputs.level.value;
             const fSch = inputs.school.value;
             const fCls = inputs.cls.value;
@@ -445,7 +451,7 @@
             const fRit = inputs.rit.value;
 
             const filtered = spellsData.filter(s => {
-                const matchName = s.name.toLowerCase().includes(terms) || (s.englishname && s.englishname.toLowerCase().includes(terms));
+                const matchName = s.normName.includes(terms) || s.normEng.includes(terms);
                 const matchLvl = fLvl === 'all' || s.level === fLvl;
                 const matchSch = fSch === 'all' || s.school === fSch;
                 const matchCls = fCls === 'all' || s.cleanClasses.includes(fCls);
@@ -473,17 +479,24 @@
 
         function sortDataList(list, col, dir) {
             return list.sort((a, b) => {
-                let valA, valB;
+                // TRI NUMÉRIQUE (Niveau)
                 if (col === 'level') {
-                    valA = a.levelInt;
-                    valB = b.levelInt;
-                } else {
-                    valA = a[col] ? a[col].toString().toLowerCase() : '';
-                    valB = b[col] ? b[col].toString().toLowerCase() : '';
+                    const valA = a.levelInt;
+                    const valB = b.levelInt;
+                    // Ordre numérique simple : 0 (Cantrip) est plus petit que 1, 2, etc.
+                    return dir === 'asc' ? valA - valB : valB - valA;
                 }
-                if(valA < valB) return dir === 'asc' ? -1 : 1;
-                if(valA > valB) return dir === 'asc' ? 1 : -1;
-                return 0;
+
+                // TRI ALPHABÉTIQUE (Nom, École, etc.) AVEC ACCENTS
+                else {
+                    const valA = (a[col] || '').toString();
+                    const valB = (b[col] || '').toString();
+
+                    // localeCompare gère les accents ('É' proche de 'E')
+                    return dir === 'asc'
+                        ? valA.localeCompare(valB, 'fr', { sensitivity: 'base' })
+                        : valB.localeCompare(valA, 'fr', { sensitivity: 'base' });
+                }
             });
         }
 
