@@ -10,7 +10,7 @@ if __name__ == '__main__':
     spells_json = {}
     spell_dirs = [d for d in os.listdir() if os.path.isdir(d)]
     for d in spell_dirs:
-        os.chdir(spell_dir+'\\'+d)
+        os.chdir(spell_dir+'/'+d)
         spells = [f for f in os.listdir() if os.path.isfile(f)]
         for s in spells:
             with open(s, encoding="utf8") as f:
