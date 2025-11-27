@@ -124,26 +124,27 @@ Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que
 
 Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des compétences aux niveaux 3, 6, 10 et 14.
 
-| Voie                            | Description                                                                             |
-| ------------------------------- | --------------------------------------------------------------------------------------- |
-| [[Voie de l'Aileron]]           | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées          |
-| [[Voie de la Bête]]             | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.     |
-| [[Voie de la Magie Sauvage]]    |                                                                                         |
-| [[Voie de la Sérénité]]         | Un guerrier zen qui rentre en état de transe pendant les combats                        |
-| [[Voie de Mashle]]              | Clairement un "magicien". Un "magicien" costaud et énervé                               |
-| [[Voie du Berserker]]           |                                                                                         |
-| [[Voie du Colosse]]             | Double sa taille pour écraser ses ennemis                                               |
-| [[Voie du Fanatique]]           |                                                                                         |
-| [[Voie du Fléau]]               |                                                                                         |
-| [[Voie du Fou de Guerre]]       |                                                                                         |
-| [[Voie du Gardien Ancestral]]   |                                                                                         |
-| [[Voie du Guerrier Totémique]]  |                                                                                         |
-| [[Voie du Heavy Metal]]         | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes |
-| [[Voie du Héraut des Tempêtes]] |                                                                                         |
-| [[Voie du Lunatique]]           |                                                                                         |
-| [[Voie du Mage Rageur]]         | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité |
-| [[Voie du Maudit]]              |                                                                                         |
-| [[Voie du Tonneau]]             |                                                                                         |
+| Voie                              | Description                                                                               |
+| --------------------------------- | ----------------------------------------------------------------------------------------- |
+| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées            |
+| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.       |
+| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets imprévisibles.<br> |
+| [[Voie de la Magie Très Sauvage]] | Est soumis aux instabilités magiques que lui confère sa rage.                             |
+| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                          |
+| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                 |
+| [[Voie du Berserker]]             |                                                                                           |
+| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                 |
+| [[Voie du Fanatique]]             |                                                                                           |
+| [[Voie du Fléau]]                 |                                                                                           |
+| [[Voie du Fou de Guerre]]         |                                                                                           |
+| [[Voie du Gardien Ancestral]]     |                                                                                           |
+| [[Voie du Guerrier Totémique]]    |                                                                                           |
+| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes   |
+| [[Voie du Héraut des Tempêtes]]   |                                                                                           |
+| [[Voie du Lunatique]]             |                                                                                           |
+| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité   |
+| [[Voie du Maudit]]                |                                                                                           |
+| [[Voie du Tonneau]]               |                                                                                           |
 
 ## Savoir Primitif (Opt.)
 
