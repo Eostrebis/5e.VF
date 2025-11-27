@@ -1,7 +1,7 @@
 <div class="spells-app">
 
     <style>
-        /* --- Variables & Thème --- */
+        /* --- CSS Scoped & Variables --- */
         .spells-app {
             --text-main: var(--md-typeset-color, #333);
             --bg-main: var(--md-default-bg-color, #fff);
@@ -139,7 +139,6 @@
 
         let allSpells = [];
 
-        // DOM Cache
         const ui = {
             search: document.getElementById('s-search'),
             lvl: document.getElementById('s-lvl'),
@@ -152,23 +151,37 @@
         };
 
         // --- Helpers ---
-        // Normalisation propre pour data-sort (gère Œ -> oe, accents)
         const normalize = t => t ? t.toString().toLowerCase().replace(/\u0153/g, "oe").replace(/\u00e6/g, "ae").normalize("NFD").replace(/[\u0300-\u036f]/g, "") : "";
         const slugify = t => normalize(t).replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
         const formatClass = c => ({ "MagedeGuerre": "Mage de Guerre", "MaitreGuerre": "Maître de Guerre" }[c] || c);
+
+        // NOUVEAU: Calcule un poids pour le tri des temps d'incantation
+        const getTimeWeight = (t) => {
+            if (!t) return 9999;
+            const txt = t.toLowerCase();
+            if (txt.includes('bonus')) return 1;
+            if (txt.includes('réaction') || txt.includes('reaction')) return 2;
+            if (txt.includes('action')) return 3;
+            if (txt.includes('tour') || txt.includes('round')) return 4;
+
+            // Extraction nombre
+            const num = parseInt(txt.match(/\d+/) || [0])[0];
+            if (txt.includes('minute')) return 10 + num; // 1 min -> 11, 10 min -> 20
+            if (txt.includes('heure') || txt.includes('hour')) return 100 + num; // 1h -> 101
+
+            return 999; // Autre/Inconnu
+        };
 
         // --- Fetch ---
         fetch(URL_DATA).then(r => r.json()).then(data => {
             allSpells = Object.entries(data).map(([k, v]) => {
                 const lvl = parseInt(v.level) || 0;
-                // On prépare les données pour le filtrage rapide et l'attribut data-sort
                 return {
                     id: k, name: k, slug: slugify(k), ...v,
                     levelInt: lvl,
-                    sortName: normalize(k), // Pour data-sort
-                    sortEng: normalize(v.englishname),
+                    sortName: normalize(k),
                     sortSchool: normalize(v.school),
-                    sortTime: normalize(v.Incantation),
+                    sortTimeValue: getTimeWeight(v.Incantation), // Valeur numérique pour le tri
                     classes: (v.available || []).map(formatClass),
                     isCostly: (v.detailmat || '').toLowerCase().match(/consomme|po|vaut/)
                 };
@@ -181,27 +194,21 @@
 
             Object.values(ui).forEach(el => el instanceof HTMLElement && (el.disabled = false));
 
-            // Events de filtrage (plus de tri JS ici)
             [ui.search, ui.lvl, ui.sch, ui.cls, ui.conc, ui.rit].forEach(el => el.addEventListener('input', applyFilters));
 
-            // Rendu initial (une seule fois)
             renderTableRows();
             checkHash();
 
-            // Si Tablesort est chargé, il s'attachera automatiquement au tableau rempli
-            // Sinon, vous pouvez déclencher manuellement: new Tablesort(document.getElementById('spells-table'));
-
         }).catch(e => ui.tbody.innerHTML = `<tr><td colspan="6" style="color:red;text-align:center">Erreur: ${e.message}</td></tr>`);
 
-        // --- Génération des lignes (Une seule fois) ---
+        // --- Génération des lignes ---
         function renderTableRows() {
             if (!allSpells.length) return;
 
-            // On génère TOUTES les lignes. Le filtrage se fera via CSS (display: none)
             ui.tbody.innerHTML = allSpells.map(s => `
                 <tr class="spell-row"
                     onclick="window.openSpell('${s.id}')"
-                    data-name="${s.sortName} ${s.sortEng}"
+                    data-name="${s.sortName} ${normalize(s.englishname)}"
                     data-lvl="${s.levelInt}"
                     data-sch="${s.school}"
                     data-cls="${s.classes.join(',')}"
@@ -211,14 +218,16 @@
                     <td data-sort="${s.levelInt}" style="text-align:center;font-weight:bold">${s.levelInt === 0 ? 'C' : s.levelInt}</td>
                     <td data-sort="${s.sortName}" style="font-weight:500;color:var(--primary)">${s.name}</td>
                     <td data-sort="${s.sortSchool}">${s.school}</td>
-                    <td data-sort="${s.sortTime}">${s.Incantation}</td>
+
+                    <td data-sort="${s.sortTimeValue}">${s.Incantation}</td>
+
                     <td>${getCompTags(s)}</td>
                     <td>${getClassTags(s.classes)}</td>
                 </tr>
             `).join('');
         }
 
-        // --- Filtrage par CSS (Masquage) ---
+        // --- Filtrage par CSS ---
         function applyFilters() {
             const q = normalize(ui.search.value);
             const fLvl = ui.lvl.value;
@@ -227,12 +236,8 @@
             const fConc = ui.conc.value;
             const fRit = ui.rit.value;
 
-            // On itère sur le DOM existant : c'est très rapide et ne casse pas le plugin de tri
-            const rows = document.querySelectorAll('.spell-row');
-
-            rows.forEach(row => {
-                const d = row.dataset; // Accès aux data-attributes générés plus haut
-
+            document.querySelectorAll('.spell-row').forEach(row => {
+                const d = row.dataset;
                 const matchName = !q || d.name.includes(q);
                 const matchLvl = fLvl === 'all' || d.lvl === fLvl;
                 const matchSch = fSch === 'all' || d.sch === fSch;
