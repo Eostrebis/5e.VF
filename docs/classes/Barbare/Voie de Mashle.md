@@ -3,7 +3,7 @@ status: finished
 ---
 Vous êtes un magicien ! Peut-être avez-vous obtenu une bourse sportive pour aller à l'Université de Magie, ou bien peut-être avez-vous lu le livre qui traînait dans la rue. Peu importe comment, vous êtes un magicien, un qui a de bons gros muscles. Eh, vous avez même le chapeau bizarre et le livre rempli de gribouillis incompréhensibles.
 
-Vous rappelez gentiment aux autres, souvent par la violence physique, que vos pouvoirs magiques ne doivent pas êtres doutés. Vous êtes un formidable magicien, le meilleur même ! Et seulement un idiot penserait le contraire.
+Vous rappelez gentiment aux autres, souvent par la violence physique, que vos pouvoirs magiques ne doivent pas êtres remis en question. Vous êtes un formidable magicien, le meilleur même ! Et seulement un idiot penserait le contraire.
 
 ## Magie Incontestable
 
@@ -19,7 +19,7 @@ Au niveau 3, vous pouvez utiliser votre "magie" pour lancer des "cantrips" en co
 
 **Poigne Électrique.** Pour une action bonus lorsque vous réalisez une attaque pendant votre tour, vous pouvez frapper la cible un peu plus durement que d'habitude, court-circuitant ses neurones. Si vous touchez, la cible ne peut pas prendre de réactions jusqu'au début de votre prochain tour.
 
-**Coup au But.** Pour une action bonus lorsque vous réalisez une action pendant votre tour, vous pouvez véritable, avec précision, aller droit au but. Si vous touchez, vous infligez 1d8 dégâts supplémentaires à la cible.
+**Coup au But.** Pour une action bonus lorsque vous réalisez une action pendant votre tour, vous pouvez véritablement, avec précision, aller droit au but. Si vous touchez, vous infligez 1d8 dégâts supplémentaires à la cible.
 
 ## "Sorts"
 
