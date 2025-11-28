@@ -27,6 +27,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
 	    <div class="flip-card-tagbox">
 		<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
