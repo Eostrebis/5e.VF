@@ -52,7 +52,7 @@ if __name__ == '__main__':
                 print(f"Moving spell {s}")
                 to_move = True
         if to_move:
-            os.rename(s, f'0{"cantrips" if js_spell["level"] == "00" else js_spell["level"]}/{s}')
+            os.rename(s, f'{"cantrips" if js_spell["level"] == "0" else "0"+js_spell["level"]}/{s}')
     for d in spell_dirs:
         os.chdir(spell_dir+'/'+d)
         spells = [f for f in os.listdir() if os.path.isfile(f)]
