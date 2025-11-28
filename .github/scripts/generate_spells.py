@@ -43,7 +43,7 @@ if __name__ == '__main__':
     levels = {}
     spells_json = {}
     spell_dirs = [d for d in os.listdir() if os.path.isdir(d)]
-    spell_unsorted = [s for s in os.listdir() if os.path.isfile(s)]
+    spell_unsorted = [s for s in os.listdir() if os.path.isfile(s) and not os.path.isdir(s)]
     for s in spell_dirs:
         to_move = False
         with open(s, encoding="utf8") as f:
