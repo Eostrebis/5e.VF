@@ -2369,6 +2369,26 @@
         ],
         "description": "Vous incantez une série d'ordres, faisant appel à la moindre faveur et à la moindre force que vous pouvez mobiliser, vous préparant à briser la réalité. Vous ne pouvez pas vous déplacer pendant que vous lancez ce sort. Chaque créature à portée sait que vous lancez ce sort, est consciente des conséquences et connaît votre position exacte pendant toute la durée de l'incantation.\n\nChoisissez un point que vous pouvez voir à portée. Une sphère de 2 kilomètres de rayon centrée sur ce point éclate en une explosion unique d'un feu indicible. Toute créature, y compris vous, qui peut voir ce point au moment où le sort est lancé est définitivement [[aveuglé|aveuglée]]. Les structures et objets non magiques dans le rayon sont détruits instantanément. Les créatures dans la zone sont mises [[au sol]] et subissent 10d10 dégâts de force, 10d10 dégâts radiants et 10d10 dégâts de feu. Si elles meurent, elles sont réduites en cendres.\n\nUn cratère massif est creusé dans le sol, continuant de brûler d'une énergie malsaine. Toute créature qui commence son tour dans le cratère subit 2d10 dégâts radiants et 1d10 dégâts de feu. Le cratère brûle pendant un mois. Vous subissez immédiatement 5 niveaux d'[[épuisement]] après avoir lancé ce sort, et si cela vous tue, vous ne pouvez être ressuscité par aucun moyen.\n"
     },
+    "Arrêt du Temps": {
+        "level": "9",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Time Stop",
+        "status": "finished",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous prenez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.\n\nLe sort se termine si l'une de vos actions effectuées pendant cette période ou l'un de vos effets créés pendant cette période affecte une créature autre que vous ou un objet porté ou manié par un individu autre que vous. De plus, le sort se termine lorsque vous vous déplacez vers un endroit à plus de 1 000 ft. de là où vous avez lancé le sort.\n"
+    },
     "Champ Antiballistique": {
         "level": "6",
         "school": "Abjuration",
@@ -2911,6 +2931,27 @@
         ],
         "description": "Ce sort vous permet d'altérer l'apparence de n'importe quel nombre de créatures que vous voyez à portée. Vous donnez à chaque créature une nouvelle apparence illusoire. Une créature récalcitrante peut réaliser un jet de sauvegarde de Charisme et, si elle réussit, être inaffectée par le sort.\n\nLe sort déguise les apparences physiques comme les vêtements, l'armure, les armes et l'équipement. Vous pouvez rendre chaque créature 1 pied plus grande ou plus petite et la faire apparaître mince, enrobée ou entre les deux. Vous ne pouvez changer le type morphologique de la cible, donc vous devez choisir une forme qui a même arrangement de membres. Par ailleurs, la variété de l'illusion ne dépend que de vous. Le sort peut être terminé prématurément si vous utilisez votre action.\n\nLes modifications apportées par ce sort ne résistent pas à une inspection physique. Par exemple, si vous utilisez ce sort pour ajouter un chapeau à votre accoutrement, les objets passeront à travers le chapeau et si on y touche, on ne sentira pas sa présence ou on tâtera plutôt votre tête et votre chevelure. Si vous utilisez ce sort pour paraître plus mince, la main d'une personne qui veut vous toucher entrera en contact avec votre corps alors que sa main semble libre d'obstruction.  \n\nPour détecter qu'une cible est déguisée, une créature peut utiliser son action pour inspecter son apparence et elle doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort.\n"
     },
+    "Arme Sacrée": {
+        "level": "5",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Holy Weapon",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Martyr"
+        ],
+        "description": "Vous imprégnez une arme que vous touchez de votre pouvoir sacré. Jusqu'à ce que le sort termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.\n\nPour une action bonus pendant votre tour, vous pouvez dissiper ce sort et faire émettre à l'arme une explosion de radiance. Chaque créature de votre choix que vous pouvez voir à 30 ft. de l'arme doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, une créature prend 4d8 dégâts radiants et est [[aveuglé|aveuglée]] pendant 1 minute. Si elle réussit, une créature prend la moitié des dégâts et n'est pas aveuglée. À la fin de chacun de ses tours, une créature [[aveuglé|aveuglée]] peut réaliser un jet de sauvegarde de Constitution pour terminer l'effet.\n"
+    },
     "Sceau du Vide": {
         "level": "5",
         "school": "Abjuration",
@@ -3035,6 +3076,25 @@
             "Druide"
         ],
         "description": "Après avoir passé le temps d'incantation à tracer des chemins magiques à l'intérieur d'une précieuse gemme, vous touchez une bête ou plante de taille G ou inférieure. La cible ne doit pas avoir de score d'Intelligence, ou un inférieur à 3. La cible gagne une Intelligence de 10. La cible gagne aussi la capacité de parler une langue que vous parlez. Si la cible est une plante, elle gagne la possibilité de déplacer ses membres, racines, lianes ou autres, et elle gagne des sens similaires à un humain. Le MJ décide des caractéristiques appropriées pour la plante éveillée, comme celles d'un [buisson éveillé](https://www.dndbeyond.com/monsters/16791-awakened-shrub) ou d'un [arbre éveillé](https://www.dndbeyond.com/monsters/16792-awakened-tree).\n\nLa bête ou plante éveillée est [[charmé|charmée]] par vous pendant 30 jours ou jusqu'à ce que vous ou vous compagnons lui fassiez du mal. Quand la condition se termine, la créature éveillée décide de son comportement vis à vis de vous en fonction de comment vous l'avez traitée pendant qu'elle était [[charmé|charmée]]."
+    },
+    "Ascension Inarrêtable": {
+        "level": "5",
+        "school": "Évocation",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Unstoppable Ascent",
+        "status": "finished",
+        "available": [
+            "Druide"
+        ],
+        "description": "Vous tentez de projeter une créature dans les airs, la faisant passer partiellement dans le plan éthéré. Effectuez une attaque de sort au corps à corps contre une créature à portée. Si vous touchez, vous saisissez la cible et la projetez jusqu'à 150 ft. directement vers le haut. La créature traverse les obstacles sans être gênée et sans subir de dégâts.\n\nSi la destination finale est occupée, la créature est déplacée vers l'espace inoccupé le plus proche et subit des dégâts de force égaux au nombre de tranches de 5 ft. dont elle a été déplacée. Si la créature est un allié, les dégâts de chute qu'elle devrait subir sont réduits de 100 jusqu'au début de votre prochain tour.\n"
     },
     "Éventreur de Chair": {
         "level": "0",
@@ -4689,20 +4749,24 @@
     },
     "Tempête de Neige": {
         "level": "3",
-        "school": "",
-        "Verbal": "false",
-        "Somatique": "false",
-        "Matériel": "",
-        "detailmat": "",
-        "Durée": "",
-        "Incantation": "",
-        "Portée": "",
-        "Concentration": "",
-        "Rituel": "",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une pincée de poussière et quelques gouttes d'eau",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "150 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
         "englishname": "Sleet Storm",
-        "status": "empty",
-        "available": [],
-        "description": "\n**Aux niveaux supérieurs**."
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Jusqu'à ce que le sort termine, une pluie gelée et du grésil tombent dans un cylindre d'un rayon de 40 ft. et haut de 20 ft. centré sur un point que vous choisissez à portée. La zone est fortement obscurée et les flammes exposées dans la zone sont éteintes.\n\nLe sol de la zone est recouvert d'un épais verglas, rendant le terrain difficile. Lorsqu'une créature pénètre dans la zone du sort pour la première fois pendant son tour ou qu'elle y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle tombe [[au sol]].\n\nSi une créature commence son tour dans la zone du sort en se concentrant sur un sort, la créature doit réussir un jet de sauvegarde de Constitution ou perdre sa concentration.\n"
     },
     "Démembrement Bénin": {
         "level": "3",
@@ -4725,6 +4789,28 @@
             "Investigateur"
         ],
         "description": "Pendant la durée, les parties du corps d'une cible consentante (doigts, jambes, queue et même sa tête) peuvent être retirées du corps sans danger. La créature ne subit aucun dégâts d'un tel démembrement, tant que la coupe est nette et rapide. La tête de la cible reste vivante et consciente, et les parties connectées à la tête restent en vie. Tous les membres séparés deviennent inanimés, mais ne commencent pas à se décomposer pendant la durée du sort. Tout partie du corps de la cible retirée pendant la durée du sort peut être pressée contre le moignon, ce qui restaurent immédiatement la connexion entre la partie et le corps.\n\nA la fin du sort, les parties du corps séparées deviennent définitivement séparées. La cible meurt si des organes vitaux n'ont pas été rattachés à la tête.\n"
+    },
+    "Arme Élémentaire": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Elemental Weapon",
+        "status": "finished",
+        "available": [
+            "Artificier",
+            "Druide",
+            "Paladin",
+            "Ranger"
+        ],
+        "description": "Une arme non magique que vous touchez devient une arme magique. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre et tonnerre. Pendant la durée du sort, l'arme a un bonus de +1 aux jets d'attaque et inflige 1d4 dégâts supplémentaires du type choisi lorsqu'elle touche.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou 6, le bonus aux jets d'attaque passe à +2 et les dégâts supplémentaires augmentent à 2d4. Lorsque vous utilisez un emplacement de sort de niveau 7 ou plus, le bonus passe à +3 et les dégâts supplémentaires à 3d4.\n"
     },
     "Foulée d'Ashardalon": {
         "level": "3",
@@ -5369,7 +5455,7 @@
         "Incantation": "1 Action",
         "Portée": "Touché",
         "Concentration": "false",
-        "Rituel": "",
+        "Rituel": "false",
         "englishname": "Nondetection",
         "status": "finished",
         "available": [
@@ -5961,6 +6047,25 @@
         ],
         "description": "Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit réaliser un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort ne termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort termine, la créature sait qu'elle a été charmée par vous.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez le sort en utilisant un emplacement de sort de niveau 8 ou plus, l'effet devient permanent.\n"
     },
+    "Appel de Destrier Supérieur": {
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "10 Minutes",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Find Greater Steed",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "Vous invoquez un esprit qui prend la forme d'une loyale et majestueuse monture. Apparaissant dans un espace non occupé à portée, le destrier prend la forme de votre choix : un griffon, un pégase, un péritio, un loup géant, un rhinocéros ou un tigre aux dents de sabre . Votre MJ peut exceptionnellement autoriser d'autres animaux comme montures. Le destrier a les statistiques de la forme choisie, mais c'est un céleste, un fey ou un fiélon (votre choix) à la place de son type normal. De plus, si votre destrier a une Intelligence de 5 ou moins, son Intelligence passe à 6 et il devient capable de comprendre une langue de votre choix que vous parlez. \n\nVotre destrier vous sert de monture, en combat comme en dehors, et vous avez un lien instinctif qui vous permet de combattre comme un seul homme. Tant que vous utilisez votre destrier comme monture, vous pouvez faire en sorte que n'importe quel sort que vous lancez qui ne vous cible que vous cible aussi votre destrier.\n\nLorsque le destrier tombe à 0 point de vie, il disparaît et ne laisse derrière aucune forme physique. Vous pouvez également renvoyer votre destrier lorsque vous le souhaitez pour une action, le faisant disparaître. Dans tous les cas, relancer ce sort invoque le même destrier à nouveau et lui restaure ces points de vie au maximum. \n\nTant que votre destrier se trouve à moins de 2 kilomètres de vous, vous pouvez communiquer l'un avec l'autre télépathiquement. Vous ne pouvez pas avoir plus d'un destrier lié par ce sort ou par [[appel de destrier]] à la fois. Pour une action, vous pouvez libérer ce destrier de son lien à n'importe quel moment, le faisant disparaître. "
+    },
     "Tentacules Noires": {
         "level": "4",
         "school": "Conjuration",
@@ -6517,6 +6622,25 @@
         ],
         "description": "Vous endossez une forme différente. Lorsque vous lancez le sort, choisissez parmi les options suivantes, dont les effets s'appliqueront jusqu'à ce que le sort prenne fin. Tant que le sort est actif, vous pouvez mettre un terme à une option, en dépensant une action, pour gagner les bénéfices d'une option différente.\n\n**Adaptation Aquatique.** Vous adaptez votre corps à un environnement aquatique, en vous faisant pousser des branchies et expansions palmaires entre les doigts. Vous pouvez respirer sous l'eau et obtenez une vitesse de ange égale à votre vitesse de marche.\n\n**Changement d'apparence.** Vous transformez votre apparence. Vous décidez ce à quoi vous ressemblez, que ce soit votre taille, votre poids, les traits de votre visage, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et même vos signes distinctifs, le cas échéant. Vous pouvez prendre l'apparence d'une créature d'une autre race, sans que cela n'ait d'impact sur vos caractéristiques ou traits raciaux. Vous ne pouvez pas apparaître comme étant d'une taille différente de la votre, et votre forme de base reste la même : un bipède reste bipède, par exemple. À n'importe quel moment pendant la durée de ce sort, vous pour utiliser votre action pour changer votre apparence à nouveau. \n\n**Armes Naturelles.** Vous vous dotez de griffes, de crocs, d'épines ou de n'importe quelles autres armes naturelles de votre choix. Vos attaques à mains nues font 1d6 dégâts contondants, perçant ou tranchants, suivant ce qui convient le mieux aux armes naturelles que vous avez choisies., et vous obtenez la maîtrise de vos attaques à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts."
     },
+    "Arme Spirituelle": {
+        "level": "2",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Spiritual Weapon",
+        "status": "finished",
+        "available": [
+            "Clerc"
+        ],
+        "description": "Vous créez à portée une arme spectrale flottante qui persiste pour la durée du sort ou jusqu'à ce que vous le relanciez.\n\nLorsque vous lancez ce sort, vous pouvez réaliser une attaque de sort de mêlée contre une créature à 5 ft. de l'arme. Si l'attaque touche, la cible prend 1d8 + votre modificateur de caractéristique d'incantation dégâts de force.\n\nPour une action bonus pendant votre tour, vous pouvez déplacer l'arme jusqu'à 20 ft. et refaire une attaque contre une cible à 5 ft. d'elle.\n\nL'arme peut prendre la forme que vous souhaitez. Les clercs de déités associées à des armes précises font généralement en sorte que l'effet de ce sort ressemble à l'arme.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez le sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d8 par deux niveaux d'emplacement au-delà du niveau 2.\n"
+    },
     "Gueule de Bois": {
         "level": "2",
         "school": "Enchantement",
@@ -6793,6 +6917,29 @@
             "Sorcière"
         ],
         "description": "Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaissent dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.\n\nToute créature qui entre dans la tempête pour la première fois pendant son tour ou y commence son tour doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 3d4 dégâts tranchants. Pour une action bonus, vous pouvez déplacer la tempête jusqu'à 30 ft. dans n'importe quelle direction. La première fois que la zone de la tempête contient des feuilles mortes, des fleurs, des buissons ou des arbres, elle les absorbe et les dégâts augmentent de 2d4.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 2.\n"
+    },
+    "Armure d'Ombre": {
+        "level": "2",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Réaction",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Shadow Armor",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Lorsque vous êtes attaqué ou que vous devez réaliser un jet de sauvegarde, vous pouvez utiliser votre réaction pour vous envelopper d'une cape d'ombre, vous repliant dans une posture défensive. Jusqu'au début de votre prochain tour, les attaques vous ciblant sont effectuées avec un désavantage et vous avez l'avantage aux jets de sauvegarde de Dextérité. La prochaine fois qu'une attaque vous touche ou vous rate, vous pouvez choisir de vous déplacer jusqu'à 15 ft. sans provoquer d'attaques d'opportunité. Une fois que vous avez fait cela, le sort se termine.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez choisir de vous déplacer une fois supplémentaire par niveau d'emplacement au-delà du niveau 2 avant que le sort ne se termine.\n"
     },
     "Enrayement": {
         "level": "2",
