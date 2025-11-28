@@ -704,7 +704,7 @@ spells: "true"
 | Fallen Soul                          | [[Âme Corrompue]]                         |
 | Falling Spider's Spite               | [[Bond Mortel de l'Araignée]]             |
 | Falling Star                         | [[Étoile Filante]]                        |
-| Fell Onslaught                       | [[Attaque Marquante]]                     |
+| Fell Onslaught                       | [[Assaut Funeste]]                     |
 | Flashing Blades                      | [[Lames Éblouissantes]]                   |
 | Forbidden Obelisk                    | [[Obélisque Interdit]]                    |
 | Forget                               | [[Oubli]]                                 |
