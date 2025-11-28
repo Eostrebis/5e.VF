@@ -495,7 +495,6 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
       </div>
     </a>
   </div>
-</div>
 
 
 <!-- Carte Paladin -->

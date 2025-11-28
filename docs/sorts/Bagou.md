@@ -1,17 +1,20 @@
 ---
-available: []
-level:
-school:
-Verbal: false
+available:
+  - Sorcière
+  - Barde
+  - Occultiste
+level: 8
+school: Transmutation
+Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
-Durée:
-Incantation:
-Portée:
-Concentration:
-Rituel:
+Durée: 1 Heure
+Incantation: 1 Action
+Portée: Personnelle
+Concentration: false
+Rituel: false
 englishname: Glibness
-status: empty
+status: wip
 ---
-
+Jusqu'à la fin du sort, lorsque vous réalisez un jet de Charisme, vous pouvez remplacer le résultat du dé par 15. De plus, peu importe ce que vous dites, une magie qui voudrait déterminer si vous mentez vous perçoit toujours comme étant honnête.

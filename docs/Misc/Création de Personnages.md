@@ -4,7 +4,7 @@ La première étape d'une partie de D&D est d'imaginer et de se créer son propr
 # Choisir une race
 
 N'importe quel personnage, qu'importe son histoire ou son apparence, appartient à une race, *i.e* est un membre de l'une des espèces intelligentes du monde d'[[Eostrebis]]. Certaines races sont divisées en sous-race, comme les nains des montagnes ou les elfes des mers. D'autres sont uniques, il y a de quoi choisir !  
-Toutes les [[races_prev]] sont compilées dans un seul fichier, et toutes les options y sont présentées, ainsi qu'un peu de lore et d'autres informations les concernant.
+Toutes les [[races]] sont compilées dans un seul fichier, et toutes les options y sont présentées, ainsi qu'un peu de lore et d'autres informations les concernant.
 
 Le choix de la race affecte de nombreux aspects de votre personnage. Il établit des qualités fondamentales qui vont marquer toute sa carrière d'aventurier. Lorsque vous prenez cette décision, gardez bien à l'esprit le genre de personnage que vous voulez jouer. Si un orque est un bon choix pour un barbare, un elfe est peut-être une meilleure option pour un fragile magicien. 
 
