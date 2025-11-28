@@ -476,7 +476,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 <div class="flip-card" style="--card-color: #7628f5;">
   <div class="flip-card-inner">
     <a href=./Occultiste/Occultiste/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Occultiste24.jpeg
+      <img class="flip-card-img" src=../Illustrations/Classes/Occultiste24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Occultiste</div>
         <div class="flip-card-subtitle">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</div>
@@ -494,6 +494,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 	    </div>
       </div>
     </a>
+  </div>
   </div>
 
 
