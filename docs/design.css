@@ -197,7 +197,6 @@
 
 .flip-card-front {
   flex-direction: row;
-  text-decoration: none; 
   color: inherit; /* Pour ne pas avoir le texte en bleu par défaut */
 }
 .flip-card-img {
