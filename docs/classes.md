@@ -9,9 +9,9 @@ Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier c
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
 <!-- Carte Alchimiste -->
-<a href=./Alchimiste/Alchimiste/ class="flip-card" style="--card-color: #1ed10d;">
+<div class="flip-card" style="--card-color: #1ed10d;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Alchimiste/Alchimiste/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Alchimiste</div>
@@ -28,9 +28,9 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
 		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
-</a>
+</div>
 
 <!-- Carte Artisan -->
 <div class="flip-card" style="--card-color: #efd473;">
