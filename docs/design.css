@@ -310,6 +310,7 @@
   --text-color: #777;
   background: var(--tag-color);
   color: var(--text-color);
+  font-weight: var(--weight, normal);
   border-radius: 3px 0 0 3px;
   line-height: 26px;
   padding: 0 10px 0 23px;
