@@ -25,7 +25,9 @@ Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis a
 Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté.
         </div>
 	    <div class="flip-card-tagbox">
+		<span class="flip-card-tag" style="--tag-color: #2E5D9F;">Intelligence</span>
 		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
