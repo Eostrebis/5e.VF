@@ -502,6 +502,29 @@
         ],
         "description": "Un anneau d'étincelles est projeté de votre main et vous revient quelques instants plus tard. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, vous infligez 3d6 dégâts radiants. Si vous ratez, vous pouvez retenter le jet d'attaque contre la même cible une fois.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.\n\nSi vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, après que l'anneau a touché une première cible, il ricoche vers une seconde cible de votre choix que vous pouvez voir à 30 ft. de la première, infligeant les dégâts normaux. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, l'anneau peut ricocher une fois de plus. Peu importe le nombre de créatures sur lesquelles l'anneau ricoche, vous ne pouvez retenter le jet d'attaque qu'une seule fois.\n"
     },
+    "Assaut du Lotus Noir": {
+        "level": "1",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une arme de mêlée d'une valeur d'au moins 1 pa",
+        "Durée": "1 Minute",
+        "Incantation": "Spéciale",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Black Lotus Assault",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Ranger",
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "\nLa première fois que vous utilisez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour invoquer un tourbillon de pétales de lotus noir autour de votre arme, distrayant vos ennemis et vous permettant de frapper avec une grande puissance. Chaque fois que vous touchez avec cette arme avant que le sort ne se termine, la cible doit effectuer un jet de sauvegarde de Sagesse ou subir un nouvel effet. Une fois que vous avez effectué trois attaques avec une arme, le sort se termine.\n\n- **1re Touche :** Si la cible échoue son jet de sauvegarde, sa vitesse est divisée par deux jusqu'à la fin de son prochain tour.\n\n- **2e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 1d6 dégâts psychiques et ne peut pas prendre de réactions jusqu'à la fin de votre prochain tour.\n\n- **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas effectuer d'actions bonus pendant son prochain tour.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts psychiques de la 2e touche augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1."
+    },
     "Rune Fortifiante": {
         "level": "1",
         "school": "Abjuration",
@@ -2721,6 +2744,27 @@
         ],
         "description": "Avec ce sort, vous tentez de soumettre un céleste, un élémentaire, un fey ou un fiélon. La créature doit se trouver à portée pendant l'entièreté de l'incantation du sort. Généralement, la créature est invoquée au centre d'un [[Cercle Magique]] inversé pour la garder piégée le temps de l'incantation. Après la finalisation de l'incantation, la cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle vous est liée et obligée de vous servir pendant la durée du sort. Si la créature est invoquée ou créée par un autre sort, la durée du sort est étendue pour correspondre à la durée de celui-ci.\n\nUne créature soumise doit suivre vos instructions au mieux de ses capacités. Vous pouvez lui ordonner de vous accompagner à l'aventure, de garder un emplacement ou de délivrer un message. La créature suit vos instructions **à la lettre.** Si la créature termine vos instructions avant que le sort ne termine, elle voyage vers vous pour vous faire un rapport si vous vous trouvez sur le même plan. Sinon, elle retourne à l'endroit de l'incantation de ce sort et vous y attend.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort d'un niveau supérieur à 5, la durée passe à 10 jours avec un emplacement de niveau 6, 30 jours avec un emplacement de niveau 7, 180 jours avec un emplacement de niveau 8, et un an et un jour avec un emplacement de niveau 9.\n"
     },
+    "Aube": {
+        "level": "5",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un pendentif à l'effigie du soleil valant au moins 100 po",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Dawn",
+        "status": "wip",
+        "available": [
+            "Clerc",
+            "Magicien",
+            "Martyr"
+        ],
+        "description": "La lumière de l'aube s'abat sur un emplacement que vous spécifiez à portée. Jusqu'à ce que le sort se termine, un cylindre d'un rayon \n"
+    },
     "Évasivité": {
         "level": "5",
         "school": "Transmutation",
@@ -2847,6 +2891,45 @@
             "Magicien"
         ],
         "description": "Vous discernez les détails les plus petits concernant une créature que vous pouvez voir à portée. Vous apprenez deux des informations suivantes de votre choix à propos de la cible : sa CA, ses points de vie actuels, ses immunités aux conditions, ses immunités aux dégâts, ses résistances aux dégâts, ses vulnérabilités aux dégâts et ses enchantements (qui révèlent tous les sorts qui l'affectent).\n"
+    },
+    "Assaut Funeste": {
+        "level": "5",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une arme de mêlée martiale d'une valeur d'au moins 1 pa",
+        "Durée": "1 Minute",
+        "Incantation": "Spéciale",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Fell Onslaught",
+        "status": "finished",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "La première fois que vous prenez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour faire luire votre arme d'une puissance occulte et fendre le tissu de la réalité à chaque coup. La première fois que vous touchez pendant ce tour, votre attaque inflige 2d10 dégâts de force supplémentaires, et la cible est affligée d'une malédiction maligne.\n\nJusqu'à ce que le sort se termine, chaque fois que vous prenez l'action Attaquer, vous pouvez choisir d'attaquer la créature maudite indépendamment de la distance ou des obstacles. Ces attaques infligent 1d10 dégâts de force supplémentaires, ignorent les **abris** et ne peuvent pas subir de désavantage."
+    },
+    "Assignation Infernale": {
+        "level": "5",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un rubis valant au moins 999 po",
+        "Durée": "1 Heure",
+        "Incantation": "1 Minute",
+        "Portée": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Infernal Calling",
+        "status": "finished",
+        "available": [
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous prononcez une sombre incantation et invoquez un diable des Neuf Enfers. Vous choisissez le type du diable, qui doit être de FP inférieur à 6, comme un diable barbu ou un diable barbelé. Le diable apparaît sur un espace inoccupé que vous pouvez voir à portée. Le diable disparaît lorsqu'il tombe à 0 point de vie ou que le sort se termine.\n\nLe diable est inamical envers vous et vos compagnons. Lancez l'initiative pour le diable, qui a ses propres tours. Il est sous le contrôle du Maître du Jeu et agit conformément à sa nature à chacun de ses tours, ce qui peut le conduire à vous attaquer s'il pense l'emporter ou à tenter de vous convaincre de réaliser un acte mauvais en échange de quelques services. Le MJ a les caractéristiques de la créature.\n\nUne fois à chacun de vos tours, vous pouvez essayer de donner un ordre verbal au diable (aucune action requise). Il y obéit si l'issue la plus probable est en adéquation avec ses désirs, et plus particulièrement si cela vous rapproche du mal. Sinon, vous devez réaliser un jet de Charisme (Tromperie, Intimidation ou Persuasion) contre son jet de Sagesse (Perspicacité). Vous réalisez le jet avec avantage si vous prononcez le véritable nom du diable. Si votre jet échoue, le diable devient immunisé à vos ordres verbaux pendant la durée du sort, mais peut tout de même choisir de les suivre. Si votre jet réussit, le diable accomplit votre ordre — comme \"attaque mes ennemis\", \"explore la salle suivante\" ou \"apporte ce message à la reine\" — jusqu'à ce qu'il ait terminé, après quoi il vient vous le rapporter.\n\nSi votre concentration se termine avant que le sort n'atteigne sa durée totale, le diable ne disparaît pas s'il est devenu immunisé contre vos ordres verbaux. À la place, il agit à sa guise pendant 3d6 minutes, puis disparaît.\n\nSi vous possédez le talisman d'un diable, vous pouvez l'invoquer si son FP est inférieur ou égal au FP approprié + 1, et il obéit à tous vos ordres, sans jet de Charisme requis.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, le FP augmente de 1 par niveau d'emplacement au-delà du niveau 5.\n"
     },
     "Malédiction du Pharaon": {
         "level": "5",
@@ -3617,6 +3700,31 @@
             "Clerc"
         ],
         "description": "Vous manifestez un signe de pouvoir surnaturel à portée. Vous créez l'un des effets magiques suivants : \n\n - Votre voix résonne jusqu'à trois fois plus lourdement que d'habitude pendant 1 minute.\n - Vous faites vaciller, atténuez ou augmenter la luminosité ou changez la couleur de flammes pendant 1 minute.\n - Vous provoquez des tremblements inoffensifs dans le sol pendant 1 minute.\n - Vous créez un son instantané qui est émis d'un point de votre choix à portée, comme le grondement du tonnerre, le cri d'un corbeau ou des murmures.\n - Vous faites s'ouvrir violemment ou claquer une porte ou fenêtre déverrouillée.\n - Vous changez l'apparence de vos yeux pendant 1 minute.\n\nSi vous lancez ce sort plusieurs fois, vous ne pouvez pas avoir plus de trois de ses effets non instantanés actifs à la fois, vous pouvez dissiper l'un de ces effets avec une action.\n"
+    },
+    "Aspersion": {
+        "level": "0",
+        "school": "Conjuration",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Douse",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "MagedeGuerre"
+        ],
+        "description": "Vous faites un geste, invoquant une gerbe d'eau salée qui s'abat sur une créature ou un objet à portée. Les flammes sont instantanément éteintes, et les objets ciblés par ce sort ne peuvent pas être enflammés pendant au moins une minute. Si vous ciblez une créature, vous pouvez choisir de rendre l'eau salée glaciale. La cible doit alors effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle subit 1d8 dégâts de froid.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).\n"
     },
     "Assistance": {
         "level": "0",
@@ -5201,6 +5309,26 @@
         ],
         "description": "Deux bras musclés faits d'énergie arcanique brillante apparaissent sur une créature consentante que vous touchez. Ces bras sont totalement fonctionnels et peuvent être utilisés pour manier armes et boucliers (permettant à la cible de manier 2 armes à deux mains, ou 4 armes à une main), réaliser des composantes somatiques ou réaliser d'autres actions, même si les armes par eux-mêmes ne confèrent pas d'actions supplémentaires. Pendant la durée du sort, la cible a l'avantage aux jets de Force (Athlétisme) réalisés à l'aide de ses nouveaux bras. De plus, si les bras sont utilisés pour manier des armes, la cible peut utiliser une action bonus pour réaliser une attaque armée de mêlée en utilisant ces bras.\n"
     },
+    "Assaut Omnipotent": {
+        "level": "3",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "true",
+        "detailmat": "N'importe quelle arme valant au moins 1 pa",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "5 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Almighty Assault",
+        "status": "finished",
+        "available": [
+            "Paladin",
+            "Martyr"
+        ],
+        "description": "Dans le cadre de l'action utilisée pour lancer ce sort, vous devez effectuer une attaque d'arme au corps à corps contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :\n\n- **Tranchants.** Un croissant d'énergie jaillit de l'attaque, et chaque créature dans un cône de 20 ft. dans la direction de la cible doit effectuer un jet de sauvegarde de Dextérité.\n\n- **Perçants.** Un rayon d'énergie pure émane de l'attaque, et chaque créature sur une ligne de 60 ft. de long et 5 ft. de large doit effectuer un jet de sauvegarde de Dextérité.\n\n- **Contondants.** Une énergie explosive émane de l'attaque, et chaque créature autre que vous à moins de 10 ft. de la cible doit effectuer un jet de sauvegarde de Dextérité.\n\nLes créatures qui échouent à leur jet de sauvegarde subissent 2d10 dégâts radiants, sont repoussées de 10 ft. et tombent [[au sol]]. Une créature qui a été touchée par votre attaque a un désavantage à son jet de sauvegarde.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts radiants augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.\n"
+    },
     "Beauté Fantasmagorique": {
         "level": "3",
         "school": "Illusion",
@@ -5985,6 +6113,27 @@
         ],
         "description": "Ce sort intensifie la gravité dans un cylindre d'un rayon de 50 ft. et haut de 100 ft. centré sur un point à portée. Chaque créature dans la zone doit dépenser deux pieds de mouvement par pied bougé, y compris pour des mouvements de vol, de saut et d'escalade. Cela peut être combiné avec un terrain difficile pour un déplacement au quart de la vitesse initiale. Si une créature [[au sol]] souhaite se relever, elle doit réussir un jet de Force. Si elle rate, elle ne peut pas se déplacer ce tour.\n\nLes objets dans la zone, y compris ceux portés ou maniés, voient leurs poids doubler, ce qui peut rendre certaines créatures encombrées ou faire échouer des sorts comme [[lévitation]]. Toute attaque armée à distance qui passe à travers la zone a le désavantage et tous les dégâts de chute sont doublés.\n"
     },
+    "Assassin Imaginaire": {
+        "level": "4",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Phantasmal Killer",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Vous explorez les cauchemars d'une créature que vous pouvez voir à portée et créez une manifestation illusoire de ses peurs les plus profondes, visible seulement par cette créature.\n\nLa cible doit réaliser un jet de sauvegarde de Sagesse. En cas d'échec, la cible est [[apeuré|apeurée]] pendant la durée du sort. À la fin de chacun de ses tours avant que le sort ne se termine, la cible doit réussir un jet de sauvegarde de Sagesse ou prendre 4d10 dégâts psychiques. Si elle réussit, le sort se termine.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 4.\n"
+    },
     "Bouc Émissaire de Gahoul": {
         "level": "4",
         "school": "Abjuration",
@@ -6720,6 +6869,29 @@
         ],
         "description": "Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son sujet. La cible peut être une créature consentante ou un objet qui n'est ni porté ni manié par une autre créature.\n\nLorsque vous lancez ce sort, choisissez un ou les deux effets suivants. Ces effets persistent pour la durée du sort. Si vous lancez le sort sur une même créature ou un même objet pendant 30 jours en plaçant le même effet à chaque fois, l'illusion persiste jusqu'à ce qu'elle soit dissipée.\n\n**Fausse Aura.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques, comme [[Détection de la Magie]], qui détectent les auras magiques. Vous pouvez faire en sorte qu'un objet non magique apparaisse magique, qu'un objet magique apparaisse non magique, ou changer l'aura magique e l'objet pour qu'il semble appartenir à une autre école de votre choix. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse magie apparente à toute créature qui manipule l'objet.\n\n**Masque.** Vous  changez la façon dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme la compétence de paladin Intuition Divine ou le déclenchement d'un sort [[symbole]]. Vous choisissez un type de créature et les autres sorts et effets magiques traitent la créature comme si elle était de ce type.\n"
     },
+    "Attrape-Cœur": {
+        "level": "2",
+        "school": "Nécromancie",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Heartripper",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Ranger",
+            "Ensorceleur",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort au corps à corps contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perçants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perçants supplémentaires et la cible est [[sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts perçants de la seconde phase du sort augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.\n"
+    },
     "Délai": {
         "level": "2",
         "school": "Transmutation",
@@ -7119,6 +7291,29 @@
             "Magicien"
         ],
         "description": "Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne prenez pas de dégâts supplémentaires des dégâts critiques.\n\nDe plus, votre corps s'adapte aux menaces en se déformant. Immédiatement après avoir pris des dégâts tant que ce sort est actif, vous pouvez utiliser votre réaction pour gagner la résistance à ce type de dégâts jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez ce sort à nouveau pour changer la résistance obtenue. Cette résistance ne s'applique pas aux dégâts qui provoquent la réaction.\n"
+    },
+    "Attraction Terrestre": {
+        "level": "2",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "300 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Earthbind",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Choisissez une créature que vous pouvez voir à portée. Des rubans jaunes d'énergie magique s'enroulent autour de la créature. La cible doit réussir un jet de sauvegarde de Force ou voir sa vitesse de vol (le cas échéant) être réduite à 0 pendant la durée du sort. Une créature dans les airs au moment où elle est affectée par ce sort descend vers le sol à une vitesse de 60 ft. par tour jusqu'à ce qu'elle touche le sol ou que le sort ne se termine.\n"
     },
     "Immobilisation de Personne": {
         "level": "2",
