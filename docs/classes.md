@@ -43,13 +43,13 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
 Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<br/>
-Tous sont des génies créatifs, capables non seulement de fabriq[[Étendard du Bélier]] maître, mais aussi d’imaginer des inventions originales et redoutables.
+Tous sont des génies créatifs, capables non seulement de fabriquer de l'équipement de maître, mais aussi d’imaginer des inventions originales et redoutables.
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Utilitaire</span>
+			<span class="flip-card-tag">Utilitaire</span>
 			<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
