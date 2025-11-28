@@ -1,6 +1,3 @@
----
-status: wip
----
 | Background                   | Historique                       |
 | ---------------------------- | -------------------------------- |
 | Acolyte                      | [[Acolyte]]                      |

@@ -1,7 +1,6 @@
 ---
 search:
   exclude: true
-status: empty
 ---
 # Eostrebis
 
