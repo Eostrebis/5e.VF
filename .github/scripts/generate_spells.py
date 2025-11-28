@@ -44,7 +44,7 @@ if __name__ == '__main__':
     spells_json = {}
     spell_dirs = [d for d in os.listdir() if os.path.isdir(d)]
     spell_unsorted = [s for s in os.listdir() if os.path.isfile(s) and not os.path.isdir(s)]
-    for s in spell_dirs:
+    for s in spell_unsorted:
         to_move = False
         with open(s, encoding="utf8") as f:
             js_spell = read_spell(f.read())
