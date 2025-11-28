@@ -9,7 +9,7 @@ Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier c
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
 <!-- Carte Alchimiste -->
-<a="../docs/classes/Alchimiste/Alchimiste.md" class="flip-card" style="--card-color: #1ed10d;">
+<a href=./Alchimiste/Alchimiste/ class="flip-card" style="--card-color: #1ed10d;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
