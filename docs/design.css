@@ -307,8 +307,9 @@
 .flip-card-tag {
   display: inline-block;
   --tag-color: #E0E0E0; 
+  --text-color: #777;
   background: var(--tag-color);
-  color: #777;
+  color: var(--text-color);
   border-radius: 3px 0 0 3px;
   line-height: 26px;
   padding: 0 10px 0 23px;
