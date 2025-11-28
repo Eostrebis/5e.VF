@@ -73,7 +73,12 @@ Trois artisans d’exception exercent leur art avec une maîtrise remarquable : 
 Tous sont des génies créatifs, capables non seulement de fabriq[[Étendard du Bélier]] maître, mais aussi d’imaginer des inventions originales et redoutables.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
+			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag">Utilitaire</span>
+			<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -118,8 +123,11 @@ Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait com
 Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
+			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag">Tank</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
     </div>
@@ -173,10 +181,12 @@ Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la mu
 Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Utilitaire</span>
 		<span class="flip-card-tag">Social</span>
 		<span class="flip-card-tag">Support</span>
 		<span class="flip-card-tag">Contrôle</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -229,8 +239,12 @@ Dans le tumulte, les actions se succèdent : les kobolds se faufilent, un arch
 Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement la cohésion de leurs troupes et se tiennent toujours aux côtés de leurs lieutenants, garantissant la victoire sans infliger le coup de grâce.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Social</span>
 		<span class="flip-card-tag">Support</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -274,8 +288,10 @@ Qu’ils invoquent des malédictions contre les morts-vivants, illuminent le cha
 Guidés par des croyances aussi diverses que les divinités qu’ils servent, les clercs transcendent le rôle de simples prêtres, incarnant une magie sacrée aussi implacable que bienveillante.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
 		<span class="flip-card-tag">Tank</span>
 		<span class="flip-card-tag">Support</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -334,8 +350,10 @@ Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et
 Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
 		<span class="flip-card-tag">Tank</span>
 		<span class="flip-card-tag">Contrôle</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -386,8 +404,10 @@ Leur magie sauvage éclate avec force, transformant leur être et le monde autou
 Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce dernier qui les choisit, façonnant leur destinée hors du commun.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Social</span>
+		<span class="flip-card-tag">Utilitaire</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -441,7 +461,9 @@ Qu’ils dégainent leur revolver au fond d’une taverne silencieuse ou qu’il
 Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute épreuve et une bonne dose de chance pour traverser les pires situations.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 		<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
     </div>
@@ -487,8 +509,12 @@ Qu'ils soient chevaliers, bêtes furieuses ou sentinelles sylvestres, ils incarn
 Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils deviennent des remparts vivants, ancrés dans leur devoir.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
+			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 		<span class="flip-card-tag">Tank</span>
 		<span class="flip-card-tag">Contrôle</span>
+			<span class="flip-card-tag">Support</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -533,8 +559,11 @@ Leur diversité est leur plus grande force : qu’ils soient archers elfes, chev
 Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeux ouverts — et la renvoient souvent à leurs ennemis.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag">Tank</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
     </div>
@@ -592,9 +621,10 @@ Leur quotidien oscille entre la recherche patiente de vérités enfouies et l’
 Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veillant à ce que nul cauchemar n’échappe à leur vigilance.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag">Support</span>
 		<span class="flip-card-tag">Utilitaire</span>
-		<span class="flip-card-tag">Social</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -639,7 +669,14 @@ En échange de leur propre force vitale, de fragments de mémoire ou d'obscurs s
 Ces pactes, souvent instables et parfois envahissants, façonnent autant le destin du ligateur que son apparence, faisant de lui un vecteur d’énigmes, d’horreur et de prodiges.
         </div>
 	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Paul</span>
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+					<span class="flip-card-tag">Utilitaire</span>
+					<span class="flip-card-tag">Social</span>
+					<span class="flip-card-tag">Support</span>
+					<span class="flip-card-tag">Contrôle</span>
+					<span class="flip-card-tag">Tank</span>
+					<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -684,8 +721,9 @@ Leur entraînement rigoureux leur permet d’adapter leur puissance magique aux 
 Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent la fusion parfaite entre puissance mystique et discipline martiale.
         </div>
 	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Tank</span>
+			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -731,9 +769,12 @@ Leur maîtrise de la magie leur permet d’invoquer des créatures d’outre-mon
 Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité, allant jusqu’à faire pleuvoir des météores ou ouvrir des portails vers des mondes inconnus, incarnant l’essence même de la puissance magique.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag">Utilitaire</span>
 		<span class="flip-card-tag">Contrôle</span>
 		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -789,7 +830,10 @@ Leur parole peut faire trembler la terre et changer le cours des événements, t
 Véritables instruments des dieux, ils acceptent leur sacrifice comme une mission divine, sachant que leur fin est écrite dans les étoiles.
         </div>
 	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Gaël</span>
+			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
+			<span class="flip-card-tag">Tank</span>
+			<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -834,8 +878,11 @@ Leur maîtrise du corps et de l’esprit leur permet de combiner agilité, puiss
 Quelle que soit leur spécialité, ils canalisent cette force magique pour augmenter leur vitesse, leur défense et leur efficacité au combat.
         </div>
 	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Utilitaire</span>
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
+			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
+			<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag">Contrôle</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -891,8 +938,10 @@ Ils commandent des légions de morts-vivants, utilisant ces créatures comme des
 Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la désolation pour affaiblir leurs ennemis et imposer leur domination.
 	</div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag">Contrôle</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -937,8 +986,10 @@ Ils manipulent la magie à travers des influences aussi diverses que les nobles 
 Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance pour contrôler leur environnement et influencer le destin avec subtilité et force.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag">Contrôle</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
     </div>
@@ -1008,8 +1059,12 @@ Cachés dans l’ombre, ils agissent avec précision et discrétion pour élimin
 Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans la solitude face à la mort, forge en eux un pouvoir extraordinaire qui élève ces guerriers en champions bénis, unis par leur lutte contre les ténèbres.
         </div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 		<span class="flip-card-tag">Tank</span>
 		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag">Support</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
     </div>
@@ -1064,8 +1119,10 @@ Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis 
 Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les protecteurs silencieux des frontières sauvages, veillant sans relâche loin des villages, dans des forêts denses ou des plaines désolées, prêts à défendre les terres contre toutes les menaces.
       	</div>
 	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Social</span>
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
+			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
+			<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
 	</div>
     </div>
@@ -1118,9 +1175,10 @@ Les roublards avancent toujours avec prudence et ruse, utilisant leur habileté 
 Ils sont des maîtres de l’embuscade et de l’assassinat silencieux, frappant avec précision et rapidité pour neutraliser leurs ennemis avant même qu’ils ne réalisent le danger.<br/>
 Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque faiblesse, libérant alliés ou déjouant pièges, ce qui fait d’eux des atouts essentiels dans toute aventure.
       	</div>
-	    <div class="flip-card-tagbox">
+	    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 		<span class="flip-card-tag">Utilitaire</span>
 		<span class="flip-card-tag">Social</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
 	</div>
     </div>
@@ -1174,7 +1232,10 @@ Une jeune fille isolée invoque un chat noir avec un simple claquement de doigts
 Un elfe murmure des incantations obscures, libérant une magie maléfique qui s’enroule autour d’un orque pour le plonger dans une agonie lente, illustrant la nature sombre et tordue des sorcières qui façonnent les ténèbres par leur volonté.
       	</div>
 	    <div class="flip-card-tagbox">
+			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Contrôle</span>
+		<span class="flip-card-tag">Support</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
 	</div>
     </div>
@@ -1220,7 +1281,10 @@ Grâce à leur habileté à entrelacer la magie avec la matière, ils peuvent al
 Leur compréhension profonde des forces cosmiques leur permet de façonner la trame même du temps et de l’espace, faisant d’eux des alliés précieux et des adversaires redoutables.
       	</div>
 	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag">Cendrillon ?</span>
+			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
+			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
+		<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
 	</div>
     </div>
