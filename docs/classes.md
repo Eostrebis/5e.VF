@@ -29,30 +29,6 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
 	    </div>
       </div>
     </div>
-    <div class="flip-card-back">
-      <div class="flip-card-title">Champs d'Études</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Alchimiste/Amoriste/>Amoriste</a>
-          </li>
-          <li><a href=./Alchimiste/Apothicaire/>Apothicaire</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Alchimiste/Bombeur%20Fou/>Bombeur Fou</a></li>
-          <li><a href=./Alchimiste/Forgeron%20de%20Venin/>Forgeron de Venin</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Alchimiste/Ingénieur%20Dynamo/>Ingénieur Dynamo</a></li>
-          <li><a href=./Alchimiste/Mutagéniste/>Mutagéniste</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Alchimiste/Slime-boy/>Slime-boy</a></li>
-          <li><a href=./Alchimiste/Xénoalchimiste/>Xénoalchimiste</a></li>
-        </ul>
-      </div>
-	<a href=./Alchimiste/Alchimiste/ class="flip-card-link">Pour en savoir plus sur l'Alchimiste ...</a>
-    </div>
   </div>
 </div>
 
@@ -67,40 +43,17 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
 Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<br/>
-Tous sont des génies créatifs, capables non seulement de fabriq[[Étendard du Bélier]] maître, mais aussi d’imaginer des inventions originales et redoutables.
+Tous sont des génies créatifs, capables non seulement de fabriquer de l'équipement de maître, mais aussi d’imaginer des inventions originales et redoutables.
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Utilitaire</span>
+			<span class="flip-card-tag">Utilitaire</span>
 			<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Guildes d'Artisan</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Artisan/Guilde%20des%20Armigères/>Guilde des Armigères</a></li>
-          <li><a href=./Artisan/Guilde%20des%20Calibarons/>Guilde des Calibarons</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Artisan/Guilde%20des%20Chevaliers%20Forgés/>Guilde des Chevaliers Forgés</a></li>
-          <li><a href=./Artisan/Guilde%20des%20Maestros%20Arcaniques/>Guilde des Maestros Arcaniques</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Artisan/Guilde%20des%20Mécanautes/>Guilde des Mécanautes</a></li>
-          <li><a href=./Artisan/Guilde%20des%20Piègeurs/>Guilde des Piègeurs</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Artisan/Guilde%20des%20Seigneurs%20du%20Tonnerre/>Guilde des Seigneurs du Tonnerre</a></li>
-          <li><a href=./Artisan/Guilde%20des%20Travailleurs%20de%20la%20Lame/>Guilde des Travailleurs de la Lame</a></li>
-        </ul>
-      </div>
-	  <a href=./Artisan/Artisan/ class="flip-card-link">Pour en savoir plus sur l'Artisan ...</a>
     </div>
   </div>
 </div>
@@ -110,7 +63,7 @@ Tous sont des génies créatifs, capables non seulement de fabriq[[Étendard du 
 <div class="flip-card" style="--card-color: #810000;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-	<img class="flip-card-img" src=../Illustrations/Classes/Barbare'24.jpeg>
+	<img class="flip-card-img" src=../Illustrations/Classes/Barbare24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Barbare</div>
         <div class="flip-card-subtitle">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</div>
@@ -128,39 +81,6 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Voies Primitives</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Barbare/Voie%20de%20Mashle/>Voie de Mashle</a></li>
-          <li><a href=./Barbare/Voie%20de%20l'Aileron/>Voie de l'Aileron</a></li>
-	  <li><a href=./Barbare/Voie%20du%20Fléau/>Voie du Fléau</a></li>
-          <li><a href=./Barbare/Voie%20du%20Fou%20de%20Guerre/>Voie du Fou de Guerre</a></li>
-	  <li><a href=./Barbare/Voie%20du%20Maudit/>Voie du Maudit</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Barbare/Voie%20de%20la%20Bête/>Voie de la Bête</a></li>
-          <li><a href=./Barbare/Voie%20de%20la%20Magie%20Sauvage/>Voie de la Magie Sauvage</a></li>
-	  <li><a href=./Barbare/Voie%20du%20Gardien%20Ancestral/>Voie du Gardien Ancestral</a></li>
-          <li><a href=./Barbare/Voie%20du%20Guerrier%20Totémique/>Voie du Guerrier Totémique</a></li>
-	  <li><a href=./Barbare/Voie%20du%20Tonneau/>Voie du Tonneau</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Barbare/Voie%20de%20la%20Sérénité/>Voie de la Sérénité</a></li>
-          <li><a href=./Barbare/Voie%20du%20Berserker/>Voie du Berserker</a></li>
-	  <li><a href=./Barbare/Voie%20du%20Heavy%20Metal/>Voie du Heavy Metal</a></li>
-          <li><a href=./Barbare/Voie%20du%20Héraut%20des%20Tempêtes/>Voie du Héraut des Tempêtes</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Barbare/Voie%20du%20Colosse/>Voie du Colosse</a></li>
-          <li><a href=./Barbare/Voie%20du%20Fanatique/>Voie du Fanatique</a></li>
-	  <li><a href=./Barbare/Voie%20du%20Lunatique/>Voie du Lunatique</a></li>
-          <li><a href=./Barbare/Voie%20du%20Mage%20Rageur/>Voie du Mage Rageur</a></li>
-        </ul>
-      </div>
-	  <a href=./Barbare/Barbare/ class="flip-card-link">Pour en savoir plus sur le Barbare ...</a>
-    </div>
   </div>
 </div>
 
@@ -168,7 +88,7 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 <div class="flip-card" style="--card-color: #6f4774;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Barde.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Barde24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Barde</div>
         <div class="flip-card-subtitle">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</div>
@@ -186,37 +106,6 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Collèges Bardiques</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Barde/Collège%20de%20l'Éloquence/>Collège de l'Éloquence</a></li>
-          <li><a href=./Barde/Collège%20de%20la%20Création/>Collège de la Création</a></li>
-	  <li><a href=./Barde/Collège%20de%20la%20Romance/>Collège de la Romance</a></li>
-          <li><a href=./Barde/Collège%20de%20la%20Vaillance/>Collège de la Vaillance</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Barde/Collège%20des%20Annonciateurs/>Collège des Annonciateurs</a></li>
-          <li><a href=./Barde/Collège%20des%20Barmans/>Collège des Barmans</a></li>
-	  <li><a href=./Barde/Collège%20des%20Bouffons/>Collège des Bouffons</a></li>
-          <li><a href=./Barde/Collège%20des%20Cantateurs/>Collège des Cantateurs</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Barde/Collège%20des%20Graffitis/>Collège des Graffitis</a></li>
-          <li><a href=./Barde/Collège%20des%20Masques/>Collège des Masques</a></li>
-          <li><a href=./Barde/Collège%20des%20Rumeurs/>Collège des Rumeurs</a></li>
-	  <li><a href=./Barde/Collège%20des%20Épées/>Collège des Épées</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Barde/Collège%20du%20Dieu%20Fou/>Collège du Dieu Fou</a></li>
-          <li><a href=./Barde/Collège%20du%20Charme/>Collège du Charme</a></li>
-	  <li><a href=./Barde/Collège%20du%20Portrait/>Collège du Portrait</a></li>
-          <li><a href=./Barde/Collège%20du%20Savoir/>Collège du Savoir</a></li>
-        </ul>
-      </div>
-	  <a href=./Barde/Barde/ class="flip-card-link">Pour en savoir plus sur le Barde ...</a>
     </div>
   </div>
 </div>
@@ -245,28 +134,6 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Étendards</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Capitaine/Étendard%20d'Aigle/>Étendard d'Aigle</a></li>
-          <li><a href=./Capitaine/Étendard%20de%20Bélier/>Étendard de Bélier</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Capitaine/Étendard%20de%20Corbeau/>Étendard de Corbeau</a></li>
-          <li><a href=./Capitaine/Étendard%20de%20Dragon/>Étendard de Dragon</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Capitaine/Étendard%20de%20Lion/>Étendard de Lion</a></li>
-          <li><a href=./Capitaine/Étendard%20de%20Tortue/>Étendard de Tortue</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Capitaine/Étendard%20du%20Jolly%20Roger/>Étendard du Jolly Roger</a></li>
-        </ul>
-      </div>
-	  <a href=./Capitaine/Capitaine/ class="flip-card-link">Pour en savoir plus sur le Capitaine ...</a>
-    </div>
   </div>
 </div>
 
@@ -274,7 +141,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 <div class="flip-card" style="--card-color: #8c8c8c;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Clerc.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Clerc24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Clerc</div>
         <div class="flip-card-subtitle">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</div>
@@ -292,43 +159,6 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Domaines</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Clerc/Domaine%20Arcanique/>Domaine Arcanique</a></li>
-          <li><a href=./Clerc/Domaine%20de%20l'Ordre/>Domaine de l'Ordre</a></li>
-	  <li><a href=./Clerc/Domaine%20de%20la%20Connaissance/>Domaine de la Connaissance</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Destruction/>Domaine de la Destruction</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Vie/>Domaine de la Vie</a></li>
-          <li><a href=./Clerc/Domaine%20du%20Voyage/>Domaine du Voyage</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Clerc/Domaine%20de%20la%20Folie/>Domaine de la Folie</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Forge/>Domaine de la Forge</a></li>
-	  <li><a href=./Clerc/Domaine%20de%20la%20Guerre/>Domaine de la Guerre</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Lumière/>Domaine de la Lumière</a></li>
-          <li><a href=./Clerc/Domaine%20du%20Crépuscule/>Domaine du Crépuscule</a></li>
-          <li><a href=./Clerc/Domaine%20du%20Rhum/>Domaine du Rhum</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Clerc/Domaine%20de%20la%20Mort/>Domaine de la Mort</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Nature/>Domaine de la Nature</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Paix/>Domaine de la Paix</a></li>
-	  <li><a href=./Clerc/Domaine%20de%20la%20Peste/>Domaine de la Peste</a></li>
-          <li><a href=./Clerc/Domaine%20du%20Changement/>Domaine du Changement</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Clerc/Domaine%20de%20la%20Richesse/>Domaine de la Richesse</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Tempête/>Domaine de la Tempête</a></li>
-	  <li><a href=./Clerc/Domaine%20de%20la%20Tombe/>Domaine de la Tombe</a></li>
-          <li><a href=./Clerc/Domaine%20de%20la%20Tromperie/>Domaine de la Tromperie</a></li>
-          <li><a href=./Clerc/Domaine%20du%20Café/>Domaine du Café</a></li>
-        </ul>
-      </div>
-	  <a href=./Clerc/Clerc/ class="flip-card-link">Pour en savoir plus sur le Clerc ...</a>
-    </div>
   </div>
 </div>
 
@@ -336,7 +166,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 <div class="flip-card" style="--card-color: #a0d87c;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Druide.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Druide24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Druide</div>
         <div class="flip-card-subtitle">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</div>
@@ -354,35 +184,6 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Cercles</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Druide/Cercle%20de%20Moonshine/>Cercle de Moonshine</a></li>
-          <li><a href=./Druide/Cercle%20de%20l'Incendie/>Cercle de l'Incendie</a></li>
-	  <li><a href=./Druide/Cercle%20de%20la%20Lune/>Cercle de la Lune</a></li>
-          <li><a href=./Druide/Cercle%20de%20la%20Terre/>Cercle de la Terre</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Druide/Cercle%20de%20la%20Vermine/>Cercle de la Vermine</a></li>
-          <li><a href=./Druide/Cercle%20de%20la%20Ville/>Cercle de la Ville</a></li>
-	  <li><a href=./Druide/Cercle%20de%20la%20Wyrm/>Cercle de la Wyrm</a></li>
-          <li><a href=./Druide/Cercle%20des%20Bergers/>Cercle des Bergers</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Druide/Cercle%20des%20Cailloux/>Cercle des Cailloux</a></li>
-          <li><a href=./Druide/Cercle%20des%20Profondeurs/>Cercle des Profondeurs</a></li>
-          <li><a href=./Druide/Cercle%20des%20Rêves/>Cercle des Rêves</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Druide/Cercle%20des%20Étoiles/>Cercle des Étoiles</a></li>
-          <li><a href=./Druide/Cercle%20du%20Poing/>Cercle du Poing</a></li>
-	  <li><a href=./Druide/Cercle%20des%20Spores/>Cercle des Spores</a></li>
-        </ul>
-      </div>
-	  <a href=./Druide/Druide/ class="flip-card-link">Pour en savoir plus sur le Druide ...</a>
-    </div>
   </div>
 </div>
 
@@ -390,7 +191,7 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 <div class="flip-card" style="--card-color: #e5421f;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Ensorceleur.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Ensorceleur24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Ensorceleur</div>
         <div class="flip-card-subtitle">Porteur d’une magie innée et sauvage, il canalise un pouvoir brut venu de ses origines mystérieuses pour façonner le combat et la réalité.</div>
@@ -408,38 +209,6 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Origines Magiques</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Ensorceleur/Esprit%20Aberrant/>Esprit Aberrant</a></li>
-          <li><a href=./Ensorceleur/Habitant%20du%20Miroir/>Habitant du Miroir</a></li>
-	  <li><a href=./Ensorceleur/Héro%20Réincarné/>Héro Réincarné</a></li>
-          <li><a href=./Ensorceleur/Lignée%20Cendrée/>Lignée Cendrée</a></li>
-          <li><a href=./Ensorceleur/Élu%20Divin/>Élu Divin</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ensorceleur/Lignée%20Draconique/>Lignée Draconique</a></li>
-          <li><a href=./Ensorceleur/Lignée%20Épineuse/>Lignée Épineuse</a></li>
-	  <li><a href=./Ensorceleur/Lié%20par%20l'Esprit/>Lié par l'Esprit</a></li>
-          <li><a href=./Ensorceleur/Magie%20Cartoonesque/>Magie Cartoonesque</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ensorceleur/Magie%20Sauvage/>Magie Sauvage</a></li>
-          <li><a href=./Ensorceleur/Magie%20de%20l'Ombre/>Magie de l'Ombre</a></li>
-          <li><a href=./Ensorceleur/Maître%20des%20Slimes/>Maître des Slimes</a></li>
-          <li><a href=./Ensorceleur/Saucier/>Saucier</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ensorceleur/Seigneur%20des%20Émotions/>Seigneur des Émotions</a></li>
-          <li><a href=./Ensorceleur/Sorcellerie%20de%20la%20Lune/>Sorcellerie de la Lune</a></li>
-	  <li><a href=./Ensorceleur/Sorcellerie%20des%20Tempêtes/>Sorcellerie des Tempêtes</a></li>
-          <li><a href=./Ensorceleur/Âme%20Mécanique/>Âme Mécanique</a></li>
-        </ul>
-      </div>
-	  <a href=./Ensorceleur/Ensorceleur/ class="flip-card-link">Pour en savoir plus sur l'Ensorceleur ...</a>
-    </div>
   </div>
 </div>
 
@@ -447,7 +216,7 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
 <div class="flip-card" style="--card-color: #f88f10;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Fusilier.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Fusilier24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Fusilier</div>
         <div class="flip-card-subtitle">Tireur d’élite maniant armes à feu ou arcanotech, il frappe de loin avec précision, calme et puissance.</div>
@@ -463,30 +232,6 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Crédos</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Fusilier/Char%20Armé/>Char Armé</a></li>
-          <li><a href=./Fusilier/Mousquetaire/>Mousquetaire</a></li>
-	  <li><a href=./Fusilier/Toureur/>Toureur</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Fusilier/Flambeur/>Flambeur</a></li>
-          <li><a href=./Fusilier/Pistolero/>Pistolero</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Fusilier/Le%20Bon/>Le Bon</a></li>
-          <li><a href=./Fusilier/Tireur%20d'Élite/>Tireur d'Élite</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Fusilier/Maître%20du%20Kung-Pan/>Maître du Kung-Pan</a></li>
-          <li><a href=./Fusilier/Tireur%20de%20Sorts/>Tireur de Sorts</a></li>
-        </ul>
-      </div>
-	  <a href=./Fusilier/Fusilier/ class="flip-card-link">Pour en savoir plus sur le Fusilier ...</a>
     </div>
   </div>
 </div>
@@ -515,28 +260,6 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Appels du Champion</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Gardien/Chasseur%20Nocturne/>Chasseur Nocturne</a></li>
-          <li><a href=./Gardien/Défenseur%20au%20Cœur%20de%20Pierre/>Défenseur au Cœur de Pierre</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Gardien/Gardien%20Enragé/>Gardien Enragé</a></li>
-          <li><a href=./Gardien/Shaman%20de%20l'Âme-Sang/>Shaman de l'Âme-Sang</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Gardien/Sentinelle%20des%20Tempêtes/>Sentinelle des Tempêtes</a></li>
-          <li><a href=./Gardien/Sentinelle%20Grise/>Sentinelle Grise</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Gardien/Protecteur%20Verdoyant/>Protecteur Verdoyant</a></li>
-        </ul>
-      </div>
-	  <a href=./Gardien/Gardien/ class="flip-card-link">Pour en savoir plus sur le Gardien ...</a>
-    </div>
   </div>
 </div>
 
@@ -545,7 +268,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 <div class="flip-card" style="--card-color: #78250a;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Guerrier.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Guerrier24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Guerrier</div>
         <div class="flip-card-subtitle">Maître d’armes polyvalent, il domine le champ de bataille par sa technique, sa discipline et sa détermination inébranlable.</div>
@@ -563,41 +286,6 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Archétypes Martiaux</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Guerrier/Archer%20Arcanique/>Archer Arcanique</a></li>
-          <li><a href=./Guerrier/Bagarreur/>Bagarreur</a></li>
-	  <li><a href=./Guerrier/Cavalier/>Cavalier</a></li>
-          <li><a href=./Guerrier/Champion/>Champion</a></li>
-          <li><a href=./Guerrier/Monument%20Intemporel/>Monument Intemporel</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Guerrier/Chevalier%20Eldricht/>Chevalier Eldricht</a></li>
-          <li><a href=./Guerrier/Chevalier%20Runique/>Chevalier Runique</a></li>
-	  <li><a href=./Guerrier/Chevalier%20d'Os/>Chevalier d'Os</a></li>
-          <li><a href=./Guerrier/Chevalier%20du%20Dragon%20Violet/>Chevalier du Dragon Violet</a></li>
-          <li><a href=./Guerrier/Samuraï/>Samuraï</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Guerrier/Corsaire/>Corsaire</a></li>
-          <li><a href=./Guerrier/Dissonant/>Dissonant</a></li>
-          <li><a href=./Guerrier/Expert%20en%20Main%20de%20Mage/>Expert en Main de Mage</a></li>
-          <li><a href=./Guerrier/Explorateur%20de%20Donjons/>Explorateur de Donjons</a></li>
-          <li><a href=./Guerrier/Sentinelle%20Grise/>Sentinelle Grise</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Guerrier/Flingueur/>Flingueur</a></li>
-          <li><a href=./Guerrier/Guerrier%20Psi/>Guerrier Psi</a></li>
-	  <li><a href=./Guerrier/Lancier%20Céleste/>Lancier Céleste</a></li>
-          <li><a href=./Guerrier/Maître%20de%20Guerre/>Maître de Guerre</a></li>
-          <li><a href=./Guerrier/Sentinelle%20des%20Tempêtes/>Sentinelle des Tempêtes</a></li>
-        </ul>
-      </div>
-	  <a href=./Guerrier/Guerrier/ class="flip-card-link">Pour en savoir plus sur le Guerrier ...</a>
     </div>
   </div>
 </div>
@@ -624,29 +312,6 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Spécialisations Occultes</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Investigateur/Antiquaire/>Antiquaire</a></li>
-          <li><a href=./Investigateur/Archiviste/>Archiviste</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Investigateur/Détective/>Détective</a></li>
-          <li><a href=./Investigateur/Espion/>Espion</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Investigateur/Exterminateur/>Exterminateur</a></li>
-          <li><a href=./Investigateur/Inquisiteur/>Inquisiteur</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Investigateur/Medium/>Medium</a></li>
-          <li><a href=./Investigateur/Ésotériste/>Ésotériste</a></li>
-        </ul>
-      </div>
-	  <a href=./Investigateur/Investigateur/ class="flip-card-link">Pour en savoir plus sur l'Investigateur ...</a>
     </div>
   </div>
 </div>
@@ -677,28 +342,6 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Cultes Ésotériques</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Ligateur/L'Église%20de%20Gyx/>L'Église de Gyx</a></li>
-          <li><a href=./Ligateur/La%20Confrérie%20des%20Ascètes/>La Confrérie des Ascètes</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ligateur/La%20Loge%20de%20la%20Légion/>La Loge de la Légion</a></li>
-          <li><a href=./Ligateur/Les%20Avataristes/>Les Avataristes</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ligateur/Les%20Fidèles%20d'Ishtar/>Les Fidèles d'Ishtar</a></li>
-          <li><a href=./Ligateur/Ordre%20de%20la%20Ligature%20Cramoisie/>Ordre de la Ligature Cramoisie</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ligateur/Société%20du%20Sceau%20Stygien/>Société du Sceau Stygien</a></li>
-        </ul>
-      </div>
-	  <a href=./Ligateur/Ligateur/ class="flip-card-link">Pour en savoir plus sur le Ligateur ...</a>
-    </div>
   </div>
 </div>
 
@@ -724,29 +367,6 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Maisons</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Cartes/>Maison des Cartes</a></li>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Cavaliers/>Maison des Cavaliers</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Dés/>Maison des Dés</a></li>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Fous/>Maison des Fous</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Lanciers/>Maison des Lanciers</a></li>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Pions/>Maison des Pions</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Rois/>Maison des Rois</a></li>
-          <li><a href=./Mage%20de%20Guerre/Maison%20des%20Tours/>Maison des Tours</a></li>
-        </ul>
-      </div>
-	  <a href=./Mage%20de%20Guerre/Mage%20de%20Guerre/ class="flip-card-link">Pour en savoir plus sur le Mage de Guerre ...</a>
-    </div>
   </div>
 </div>
 
@@ -755,7 +375,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 <div class="flip-card" style="--card-color: #1956ba;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Magicien.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Magicien24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Magicien</div>
         <div class="flip-card-subtitle">Les mages maîtrisent l’art des arcanes, lançant des sorts puissants et variés grâce à leur savoir et leur concentration.</div>
@@ -774,40 +394,6 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Traditions Arcaniques</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Magicien/Cartographie%20des%20Rêves/>Cartographie des Rêves</a></li>
-          <li><a href=./Magicien/Chantelame/>Chantelame</a></li>
-	  <li><a href=./Magicien/Mage%20de%20Projectiles%20Magiques/>Mage de Projectiles Magiques</a></li>
-          <li><a href=./Magicien/Magie%20de%20Guerre/>Magie de Guerre</a></li>
-          <li><a href=./Magicien/École%20de%20Somnomancie/>École de Somnomancie</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Magicien/Maître%20des%20Familiers/>Maître des Familiers</a></li>
-          <li><a href=./Magicien/Ordre%20des%20Scribes/>Ordre des Scribes</a></li>
-	  <li><a href=./Magicien/Plasmologie%20Ésotérique/>Plasmologie Ésotérique</a></li>
-          <li><a href=./Magicien/Savant%20Mystique/>Savant Mystique</a></li>
-          <li><a href=./Magicien/École%20de%20Transmutation/>École de Transmutation</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Magicien/École%20d'Abjuration/>École d'Abjuration</a></li>
-          <li><a href=./Magicien/École%20d'Enchantement/>École d'Enchantement</a></li>
-          <li><a href=./Magicien/École%20d'Illusion/>École d'Illusion</a></li>
-          <li><a href=./Magicien/École%20d'Évocation/>École d'Évocation</a></li>
-          <li><a href=./Magicien/École%20de%20Nécromancie/>École de Nécromancie</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Magicien/École%20de%20Chronomancie/>École de Chronomancie</a></li>
-          <li><a href=./Magicien/École%20de%20Conjuration/>École de Conjuration</a></li>
-	  <li><a href=./Magicien/École%20de%20Divination/>École de Divination</a></li>
-          <li><a href=./Magicien/École%20de%20Gastronomie/>École de Gastronomie</a></li>
-        </ul>
-      </div>
-	  <a href=./Magicien/Magicien/ class="flip-card-link">Pour en savoir plus sur le Magicien ...</a>
     </div>
   </div>
 </div>
@@ -834,29 +420,6 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Fardeaux Mortels</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Martyr/Fardeau%20d'Expiation/>Fardeau d'Expiation</a></li>
-          <li><a href=./Martyr/Fardeau%20de%20Discorde/>Fardeau de Discorde</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Martyr/Fardeau%20de%20Pitié/>Fardeau de Pitié</a></li>
-          <li><a href=./Martyr/Fardeau%20de%20Renaissance/>Fardeau de Renaissance</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Martyr/Fardeau%20de%20Révolution/>Fardeau de Révolution</a></li>
-          <li><a href=./Martyr/Fardeau%20de%20Tyrannie/>Fardeau de Tyrannie</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Martyr/Fardeau%20de%20Vérité/>Fardeau de Vérité</a></li>
-          <li><a href=./Martyr/Fardeau%20de%20la%20Fin/>Fardeau de la Fin</a></li>
-        </ul>
-      </div>
-	  <a href=./Martyr/Martyr/ class="flip-card-link">Pour en savoir plus sur le Martyr ...</a>
-    </div>
   </div>
 </div>
 
@@ -864,7 +427,7 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
 <div class="flip-card" style="--card-color: #28c3f5;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Moine.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Moine24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Moine</div>
         <div class="flip-card-subtitle">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</div>
@@ -882,40 +445,6 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Traditions Monastiques</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Moine/Voie%20de%20l'Arc/>Voie de l'Arc</a></li>
-          <li><a href=./Moine/Voie%20de%20l'Ombre/>Voie de l'Ombre</a></li>
-	  <li><a href=./Moine/Voie%20de%20l'Âme%20du%20Soleil/>Voie de l'Âme du Soleil</a></li>
-          <li><a href=./Moine/Voie%20%20de%20l'Étoile%20Noire/>Voie de l'Étoile Noire</a></li>
-          <li><a href=./Moine/Voie%20de%20la%20Mort%20Longue/>Voie de la Mort Longue</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Moine/Voie%20de%20la%20Paume/>Voie de la Paume</a></li>
-          <li><a href=./Moine/Voie%20de%20la%20Miséricorde/>Voie de la Miséricorde</a></li>
-	  <li><a href=./Moine/Voie%20de%20la%20Rose/>Voie de la Rose</a></li>
-          <li><a href=./Moine/Voie%20des%20Quatre%20Poings/>Voie des Quatre Poings</a></li>
-          <li><a href=./Moine/Voie%20des%20Quatre%20Éléments/>Voie des Quatre Éléments</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Moine/Voie%20du%20Combat%20de%20Rue/>Voie du Combat de Rue</a></li>
-          <li><a href=./Moine/Voie%20du%20Dragon%20Ascendant/>Voie du Dragon Ascendant</a></li>
-          <li><a href=./Moine/Voie%20du%20Flagellant/>Voie du Flagellant</a></li>
-          <li><a href=./Moine/Voie%20du%20Kensei/>Voie du Kensei</a></li>
-          <li><a href=./Moine/Voie%20du%20Masque/>Voie du Masque</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Moine/Voie%20du%20Maître%20Ivre/>Voie du Maître Ivre</a></li>
-          <li><a href=./Moine/Voie%20du%20Poing%20Ivre/>Voie du Poing Ivre</a></li>
-	  <li><a href=./Moine/Voie%20du%20Serpent%20Noble/>Voie du Serpent Noble</a></li>
-          <li><a href=./Moine/Voie%20du%20Soi%20Astral/>Voie du Soi Astral</a></li>
-        </ul>
-      </div>
-	  <a href=./Moine/Moine/ class="flip-card-link">Pour en savoir plus sur le Moine ...</a>
     </div>
   </div>
 </div>
@@ -942,29 +471,6 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Ambitions Mortelles</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Nécromancien/Chevalier%20de%20la%20Mort/>Chevalier de la Mort</a></li>
-          <li><a href=./Nécromancien/Descendant%20du%20Sang/>Descendant du Sang</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Nécromancien/Faucheur/>Faucheur</a></li>
-          <li><a href=./Nécromancien/Maître%20Pâle/>Maître Pâle</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Nécromancien/Pharaon/>Pharaon</a></li>
-          <li><a href=./Nécromancien/Réanimateur/>Réanimateur</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Nécromancien/Seigneur%20Suprême/>Seigneur Suprême</a></li>
-          <li><a href=./Nécromancien/Seigneur%20de%20la%20Peste/>Seigneur de la Peste</a></li>
-        </ul>
-      </div>
-	  <a href=./Nécromancien/Nécromancien/ class="flip-card-link">Pour en savoir plus sur le Nécromancien ...</a>
-    </div>
   </div>
 </div>
 
@@ -972,7 +478,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 <div class="flip-card" style="--card-color: #7628f5;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Occultiste.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Occultiste24.jpeg
       <div class="flip-card-textbox">
         <div class="flip-card-title">Occultiste</div>
         <div class="flip-card-subtitle">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</div>
@@ -990,53 +496,6 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Patrons d'Outremonde</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Occultiste/Celui%20qui%20rôde%20dans%20les%20Profondeurs/>Celui qui rôde dans les Profondeurs</a></li>
-          <li><a href=./Occultiste/L'Accord%20Parfait/>L'Accord Parfait</a></li>
-	  <li><a href=./Occultiste/L'Archifée/>L'Archifée</a></li>
-          <li><a href=./Occultiste/L'Archive%20Maudite/>L'Archive Maudite</a></li>
-          <li><a href=./Occultiste/L'Exil%20Déchu/>L'Exil Déchu</a></li>
-          <li><a href=./Occultiste/Le%20Céleste/>Le Céleste</a></li>
-          <li><a href=./Occultiste/Le%20Fiélon/>Le Fiélon</a></li>
-          <li><a href=./Occultiste/Le%20Gardien%20des%20Profondeurs/>Le Gardien des Profondeurs</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Occultiste/L'Héritage/>L'Héritage</a></li>
-          <li><a href=./Occultiste/L'Immortel/>L'Immortel</a></li>
-	  <li><a href=./Occultiste/L'Impératrice%20Serpent/>L'Impératrice Serpent</a></li>
-          <li><a href=./Occultiste/L'Intelligence%20Supérieure/>L'Intelligence Supérieure</a></li>
-          <li><a href=./Occultiste/La%20Brume%20des%20Morts/>La Brume des Morts</a></li>
-          <li><a href=./Occultiste/Le%20Grand%20Ancien/>Le Grand Ancien</a></li>
-          <li><a href=./Occultiste/Le%20Guerrier%20Saint/>Le Guerrier Saint</a></li>
-          <li><a href=./Occultiste/Le%20Génie/>Le Génie</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Occultiste/La%20Cabale%20des%20Monnaies/>La Cabale des Monnaies</a></li>
-          <li><a href=./Occultiste/La%20Citadelle%20Éternelle/>La Citadelle Éternelle</a></li>
-          <li><a href=./Occultiste/La%20Convocation%20Gélatineuse/>La Convocation Gélatineuse</a></li>
-          <li><a href=./Occultiste/La%20Lame%20Maudite/>La Lame Maudite</a></li>
-          <li><a href=./Occultiste/La%20Tisseuse%20de%20Mensonge/>La Tisseuse de Mensonge</a></li>
-          <li><a href=./Occultiste/Le%20Loup%20Cendré/>Le Loup Cendré</a></li>
-          <li><a href=./Occultiste/Le%20MJ/>Le MJ</a></li>
-          <li><a href=./Occultiste/Le%20Magicien/>Le Magicien</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Occultiste/Le%20Bosquet%20d'Épines%20Noires/>Le Bosquet d'Épines Noires</a></li>
-          <li><a href=./Occultiste/Le%20Chasseur%20Sauvage/>Le Chasseur Sauvage</a></li>
-	  <li><a href=./Occultiste/Le%20Chat%20d'Ombre/>Le Chat d'Ombre</a></li>
-          <li><a href=./Occultiste/Le%20Cimetière%20Interdit/>Le Cimetière Interdit</a></li>
-          <li><a href=./Occultiste/Le%20Portrait%20de%20Gray/>Le Portrait de Gray</a></li>
-          <li><a href=./Occultiste/Le%20Seigneur%20des%20Tempêtes/>Le Seigneur des Tempêtes</a></li>
-          <li><a href=./Occultiste/Le%20Symbiote/>Le Symbiote</a></li>
-          <li><a href=./Occultiste/Le%20Vous%20du%20Futur/>Le Vous du Futur</a></li>
-        </ul>
-      </div>
-	  <a href=./Occultiste/Occultiste/ class="flip-card-link">Pour en savoir plus sur l'Occultiste ...</a>
-    </div>
   </div>
 </div>
 
@@ -1045,7 +504,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 <div class="flip-card" style="--card-color: #daca06;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Paladin.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Paladin24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Paladin</div>
         <div class="flip-card-subtitle">Les paladins sont des guerriers sacrés, incarnant la justice divine et protégeant les innocents avec foi et puissance.</div>
@@ -1065,39 +524,6 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	    </div>
       </div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Serments Sacrés</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Paladin/Briseur%20de%20Serment/>Briseur de Serment</a></li>
-          <li><a href=./Paladin/Serment%20d'Avarice/>Serment d'Avarice</a></li>
-	  <li><a href=./Paladin/Serment%20d'Hérésie/>Serment d'Hérésie</a></li>
-          <li><a href=./Paladin/Serment%20de%20Conquête/>Serment de Conquête</a></li>
-          <li><a href=./Paladin/Serment%20de%20Dévotion/>Serment de Dévotion</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Paladin/Serment%20de%20Gloire/>Serment de Gloire</a></li>
-          <li><a href=./Paladin/Serment%20de%20Jugement/>Serment de Jugement</a></li>
-	  <li><a href=./Paladin/Serment%20de%20Rédemption/>Serment de Rédemption</a></li>
-          <li><a href=./Paladin/Serment%20de%20Réjouissance/>Serment de Réjouissance</a></li>
-          <li><a href=./Paladin/Serment%20de%20Vengance/>Serment de Vengance</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Paladin/Serment%20de%20l'Hiver/>Serment de l'Hiver</a></li>
-          <li><a href=./Paladin/Serment%20de%20la%20Couronne/>Serment de la Couronne</a></li>
-          <li><a href=./Paladin/Serment%20de%20la%20Haute-Mer/>Serment de la Haute-Mer</a></li>
-          <li><a href=./Paladin/Serment%20de%20la%20Nuit%20Éternelle/>Serment de la Nuit Éternelle</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Paladin/Serment%20des%20Sentinelles/>Serment des Sentinelles</a></li>
-          <li><a href=./Paladin/Serment%20des%20Tempêtes/>Serment des Tempêtes</a></li>
-	  <li><a href=./Paladin/Serment%20du%20Soleil/>Serment du Soleil</a></li>
-          <li><a href=./Paladin/Serment%20des%20Anciens/>Serment des Anciens</a></li>
-        </ul>
-      </div>
-	  <a href=./Paladin/Paladin/ class="flip-card-link">Pour en savoir plus sur le Paladin ...</a>
-    </div>
   </div>
 </div>
 
@@ -1105,7 +531,7 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 <div class="flip-card" style="--card-color: #006839;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Ranger.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Ranger24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Ranger</div>
         <div class="flip-card-subtitle">Les rangers sont des éclaireurs et chasseurs experts, maîtrisant la traque, la survie en milieu sauvage, et le combat à distance.</div>
@@ -1123,38 +549,6 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 	    </div>
 	</div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Archétypes</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Ranger/Arpenteur%20de%20l'Horizon/>Arpenteur de l'Horizon</a></li>
-          <li><a href=./Ranger/Bandit%20de%20Grands%20Chemins/>Bandit de Grands Chemins</a></li>
-          <li><a href=./Ranger/Gardien%20des%20Nuées/>Gardien des Nuées</a></li>
-          <li><a href=./Ranger/Lame%20d'Argent/>Lame d'Argent</a></li>
-          <li><a href=./Ranger/Vigilante/>Vigilante</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ranger/Casseur%20de%20Sorts/>Casseur de Sorts</a></li>
-          <li><a href=./Ranger/Chasseur%20de%20Trophées/>Chasseur de Trophées</a></li>
-          <li><a href=./Ranger/Maître%20des%20Bêtes/>Maître des Bêtes</a></li>
-          <li><a href=./Ranger/Molosse%20du%20Chasseur/>Molosse du Chasseur</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ranger/Chasseur/>Chasseur</a></li>
-          <li><a href=./Ranger/Coureur/>Coureur</a></li>
-          <li><a href=./Ranger/Né%20des%20Bêtes/>Né des Bêtes</a></li>
-          <li><a href=./Ranger/Pilleur%20de%20Tombes/>Pilleur de Tombes</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Ranger/Embuscade%20Obscur/>Embuscade Obscur</a></li>
-          <li><a href=./Ranger/Gardien%20de%20Drake/>Gardien de Drake</a></li>
-          <li><a href=./Ranger/Tueur%20de%20Monstres/>Tueur de Monstres</a></li>
-          <li><a href=./Ranger/Vagabond%20Féérique/>Vagabond Féérique</a></li>
-        </ul>
-      </div>
-	  <a href=./Ranger/Ranger/ class="flip-card-link">Pour en savoir plus sur le Ranger ...</a>
-    </div>
   </div>
 </div>
 
@@ -1162,7 +556,7 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 <div class="flip-card" style="--card-color: #363636;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Roublard.png>
+      <img class="flip-card-img" src=../Illustrations/Classes/Roublard24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Roublard</div>
         <div class="flip-card-subtitle">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</div>
@@ -1178,38 +572,6 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
 	</div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Archétypes</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Roublard/Arnaqueur/>Arnaqueur</a></li>
-          <li><a href=./Roublard/Assassin/>Assassin</a></li>
-          <li><a href=./Roublard/Conspirateur/>Conspirateur</a></li>
-          <li><a href=./Roublard/Couteau%20d'Âme/>Couteau d'Âme</a></li>
-          <li><a href=./Roublard/Enquêteur/>Enquêteur</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Roublard/Escroc%20Arcanique/>Escroc Arcanique</a></li>
-          <li><a href=./Roublard/Escroc%20Temporel/>Escroc Temporel</a></li>
-          <li><a href=./Roublard/Exécuteur/>Exécuteur</a></li>
-          <li><a href=./Roublard/Fantôme/>Fantôme</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Roublard/Fier-à-bras/>Fier-à-bras</a></li>
-          <li><a href=./Roublard/Joli%20Minois/>Joli Minois</a></li>
-          <li><a href=./Roublard/Maître%20des%20Ombres/>Maître des Ombres</a></li>
-          <li><a href=./Roublard/Touché%20par%20l'Araignée/>Touché par l'Araignée</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Roublard/Traqueur%20Arachnide/>Traqueur Arachnide</a></li>
-          <li><a href=./Roublard/Tueur%20de%20Titans/>Tueur de Titans</a></li>
-          <li><a href=./Roublard/Voleur/>Voleur</a></li>
-          <li><a href=./Roublard/Éclaireur/>Éclaireur</a></li>
-        </ul>
-      </div>
-	  <a href=./Roublard/Roublard/ class="flip-card-link">Pour en savoir plus sur le Roublard ...</a>
     </div>
   </div>
 </div>
@@ -1236,30 +598,6 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 	    </div>
 	</div>
     </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Arts de Sorcière</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Sorcière/Magie%20Blanche/>Magie Blanche</a></li>
-          <li><a href=./Sorcière/Magie%20d'Acier/>Magie d'Acier</a></li>
-          <li><a href=./Sorcière/Magie%20Violette/>Magie Violette</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Sorcière/Magie%20de%20Sang/>Magie de Sang</a></li>
-          <li><a href=./Sorcière/Magie%20du%20Thé/>Magie du Thé</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Sorcière/Magie%20Noire/>Magie Noire</a></li>
-          <li><a href=./Sorcière/Magie%20Rouge/>Magie Rouge</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Sorcière/Magie%20Technicolore/>Magie Technicolore</a></li>
-          <li><a href=./Sorcière/Magie%20Verte/>Magie Verte</a></li>
-        </ul>
-      </div>
-	  <a href=./Sorcière/Sorcière/ class="flip-card-link">Pour en savoir plus sur la Sorcière ...</a>
-    </div>
   </div>
 </div>
 
@@ -1284,21 +622,6 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
 	</div>
-    </div>
-  <div class="flip-card-back">
-      <div class="flip-card-title">Tapisseries</div>
-      <div class="flip-card-bar"></div>
-      <div class="flip-card-linkbox">
-        <ul>
-          <li><a href=./Tisserand/Couture%20Cramoisie/>Couture Cramoisie</a></li>
-          <li><a href=./Tisserand/Couture%20Mortelle/>Couture Mortelle</a></li>
-        </ul>
-        <ul>
-          <li><a href=./Tisserand/Couture%20d'Ombres%20et%20de%20Lumières/>Couture d'Ombres et de Lumières</a></li>
-          <li><a href=./Tisserand/Couture%20de%20Spirale%20Étoilée/>Couture de Spirale Étoilée</a></li>
-        </ul>
-      </div>
-	  <a href=./Tisserand/Tisserand/ class="flip-card-link">Pour en savoir plus sur le Tisserand ...</a>
     </div>
   </div>
 </div>
