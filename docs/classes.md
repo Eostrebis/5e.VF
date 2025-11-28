@@ -110,7 +110,7 @@ Tous sont des génies créatifs, capables non seulement de fabriq[[Étendard du 
 <div class="flip-card" style="--card-color: #810000;">
   <div class="flip-card-inner">
     <div class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Barbare.png>
+	<img class="flip-card-img" src=../Illustrations/Classes/Barbare'24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Barbare</div>
         <div class="flip-card-subtitle">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</div>
