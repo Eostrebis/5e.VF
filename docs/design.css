@@ -163,9 +163,6 @@
   box-sizing: border-box;
   height: 350px;
   margin-bottom: 40px;
-  text-decoration: none; 
-  color: inherit; /* Pour ne pas avoir le texte en bleu par défaut */
-  display: block
 }
 
 /* Structure interne de la carte */
@@ -200,6 +197,7 @@
 
 .flip-card-front {
   flex-direction: row;
+  color: inherit; /* Pour ne pas avoir le texte en bleu par défaut */
 }
 .flip-card-img {
   position: absolute;

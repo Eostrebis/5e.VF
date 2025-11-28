@@ -9,9 +9,9 @@ Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier c
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
 <!-- Carte Alchimiste -->
-<a="../docs/classes/Alchimiste/Alchimiste.md" class="flip-card" style="--card-color: #1ed10d;">
+<div class="flip-card" style="--card-color: #1ed10d;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Alchimiste/Alchimiste/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Alchimiste</div>
@@ -28,14 +28,14 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
 		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
-</a>
+</div>
 
 <!-- Carte Artisan -->
 <div class="flip-card" style="--card-color: #efd473;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Artisan/Artisan/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Artisan.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Artisan</div>
@@ -54,7 +54,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 		<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -62,7 +62,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 <!-- Carte Barbare -->
 <div class="flip-card" style="--card-color: #810000;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Barbare/Barbare/ class="flip-card-front">
 	<img class="flip-card-img" src=../Illustrations/Classes/Barbare24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Barbare</div>
@@ -80,14 +80,14 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Barde -->
 <div class="flip-card" style="--card-color: #6f4774;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Barde/Barde/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Barde24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Barde</div>
@@ -106,14 +106,14 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Capitaine -->
 <div class="flip-card" style="--card-color: #34495e;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Capitaine/Capitaine/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Capitaine.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Capitaine</div>
@@ -133,14 +133,14 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Clerc -->
 <div class="flip-card" style="--card-color: #8c8c8c;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Clerc/Clerc/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Clerc24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Clerc</div>
@@ -158,14 +158,14 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Druide -->
 <div class="flip-card" style="--card-color: #a0d87c;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Druide/Druide/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Druide24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Druide</div>
@@ -183,14 +183,14 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Ensorceleur -->
 <div class="flip-card" style="--card-color: #e5421f;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Ensorceleur/Ensorceleur/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Ensorceleur24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Ensorceleur</div>
@@ -208,14 +208,14 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Fusilier -->
 <div class="flip-card" style="--card-color: #f88f10;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Fusilier/Fusilier/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Fusilier24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Fusilier</div>
@@ -232,14 +232,14 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Gardien -->
 <div class="flip-card" style="--card-color: #000000;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Gardien/Gardien/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Gardien.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Gardien</div>
@@ -259,7 +259,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -267,7 +267,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 <!-- Carte Guerrier -->
 <div class="flip-card" style="--card-color: #78250a;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Guerrier/Guerrier/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Guerrier24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Guerrier</div>
@@ -286,7 +286,7 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -294,7 +294,7 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 <!-- Carte Investigateur -->
 <div class="flip-card" style="--card-color: #325a87;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Investigateur/Investigateur/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Investigateur.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Investigateur</div>
@@ -312,14 +312,14 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Ligateur -->
 <div class="flip-card" style="--card-color: #ff1193;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Ligateur/Ligateur/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Ligateur.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Ligateur</div>
@@ -341,7 +341,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -349,7 +349,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 <!-- Carte Mage de Guerre -->
 <div class="flip-card" style="--card-color: #53e5dc;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Mage de Guerre/Mage de Guerre/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Mage%20de%20Guerre.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Mage de Guerre</div>
@@ -366,7 +366,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -374,7 +374,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 <!-- Carte Magicien -->
 <div class="flip-card" style="--card-color: #1956ba;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Magicien/Magicien/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Magicien24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Magicien</div>
@@ -394,14 +394,14 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Martyr -->
 <div class="flip-card" style="--card-color: #929292;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Martyr/Martyr/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Martyr.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Martyr</div>
@@ -419,14 +419,14 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Moine -->
 <div class="flip-card" style="--card-color: #28c3f5;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Moine/Moine/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Moine24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Moine</div>
@@ -445,14 +445,14 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Nécromancien -->
 <div class="flip-card" style="--card-color: #929292;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Nécromancien/Nécromancien/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Nécromancien.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Nécromancien</div>
@@ -470,14 +470,14 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Occultiste -->
 <div class="flip-card" style="--card-color: #7628f5;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Occultiste/Occultiste/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Occultiste24.jpeg
       <div class="flip-card-textbox">
         <div class="flip-card-title">Occultiste</div>
@@ -495,7 +495,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
@@ -503,7 +503,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 <!-- Carte Paladin -->
 <div class="flip-card" style="--card-color: #daca06;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Paladin/Paladin/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Paladin24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Paladin</div>
@@ -523,14 +523,14 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐</span>
 	    </div>
       </div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Ranger -->
 <div class="flip-card" style="--card-color: #006839;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Ranger/Ranger/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Ranger24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Ranger</div>
@@ -548,14 +548,14 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
 	</div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Roublard -->
 <div class="flip-card" style="--card-color: #363636;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Roublard/Roublard/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Roublard24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Roublard</div>
@@ -572,14 +572,14 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
 	    </div>
 	</div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Sorcière -->
 <div class="flip-card" style="--card-color: #ca0175;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Sorcière/Sorcière/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Sorcière.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Sorcière</div>
@@ -597,14 +597,14 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
 	</div>
-    </div>
+    </a>
   </div>
 </div>
 
 <!-- Carte Tisserand -->
 <div class="flip-card" style="--card-color: #0172ca;">
   <div class="flip-card-inner">
-    <div class="flip-card-front">
+    <a href=./Tisserand/Tisserand/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Tisserand.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">Tisserand</div>
@@ -622,6 +622,6 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
 	    </div>
 	</div>
-    </div>
+    </a>
   </div>
 </div>
