@@ -20,6 +20,25 @@
         ],
         "description": "Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pour la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.\n\n**Aversion.** Cet enchantement provoque chez les créatures du type désigné un intense besoin de quitter la zone et d'éviter la cible. Lorsqu'une telle créature peut voir la cible ou se trouve à moins de 60 ft. d'elle, la créature doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]]. La créature demeure [[apeuré|apeurée]] tant qu'elle peut voir la cible ou qu'elle reste à moins de 60 ft. d'elle. Tant qu'elle est apeurée par la cible, la créature doit utiliser son mouvement pour se déplacer à l'emplacement le plus proche duquel elle ne peut pas voir la cible. Si la créature se déplace à plus de 60 ft. de la cible et qu'elle ne peut plus la voir, la créature n'est plus apeurée, mais elle le redevient si elle récupère une vision de la cible ou se rapproche à moins de 60 ft.\n\n**Attirance.** Cet enchantement provoque chez les créatures du type désigné un intense besoin d'approcher la cible à moins de 60 ft. ou jusqu'à pouvoir la voir. Lorsqu'une telle créature peut voir la cible ou se trouve à moins de 60 ft. d'elle, la créature doit réussir un jet de sauvegarde de Sagesse ou utiliser l'intégralité de son mouvement chaque tour pour entrer dans la zone ou jusqu'à portée de la cible. Lorsque la créature l'a fait, elle ne peut pas s'éloigner volontairement de la cible.\n\nSi la cible inflige des dégâts ou des effets néfastes à la créature affectée, la créature affectée peut réaliser un jet de sauvegarde de Sagesse pour terminer l'effet, comme décrit ci-dessous.\n\n**Terminer l'Effet.** Si une créature affectée finit son tour à plus de 60 ft. de la cible ou sans être capable de la voir, elle peut réaliser un jet de sauvegarde de Sagesse. Si elle réussit, la créature n'est plus affectée par le sort et reconnaît son précédent sentiment comme magique. De plus, une créature affectée par le sort a le droit a un jet de sauvegarde supplémentaire toutes les 24 heures pendant que le sort persiste.\n\nUne créature qui réussit son jet de sauvegarde contre cet effet y est immunisé pendant 1 minute, après quoi elle peut affectée à nouveau."
     },
+    "Aura Sacrée": {
+        "level": "8",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un petit reliquaire valant au moins 1000 po contenant une relique sacrée, comme un bout de tissu de la toge d'un saint ou un fragment de parchemin d'un texte sacré",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Holy Aura",
+        "status": "finished",
+        "available": [
+            "Clerc"
+        ],
+        "description": "Une lumière divine émane de vous et se condense en une douce lueur dans rayon de 30 ft. autour de vous. Les créatures de votre choix située dans ce rayon lorsque vous lancez ce sort émettent une lumière faible sur un rayon de 5 ft., ont l'avantage sur tous les jets de sauvegarde et les autres créatures ont le désavantage sur les jets d'attaques contre elles jusqu'à ce que le sort ne se termine. De plus, lorsqu'un fiélon ou un mort-vivant touche une créature affectée avec une attaque de mêlée, l'aura scintille d'une lumière vive. L'attaquant doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé]] jusqu'à ce que le sort se termine.\n"
+    },
     "Feu de Forêt": {
         "level": "8",
         "school": "Évocation",
@@ -2721,6 +2740,27 @@
         ],
         "description": "Une magie chronomancienne vous insuffle, vous plaçant sur un plan temporel différent. Pendant 1 minute, vous êtes immunisés contre tous les dégâts, mais la seule action que vous pouvez entreprendre est de consommer des potions."
     },
+    "Aura Infernale": {
+        "level": "6",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un talisman d'obsidienne valant au moins 100 po",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Hellish Halo",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Ensorceleur",
+            "Occultiste"
+        ],
+        "description": "Vous invoquez une immense auréole de flammes qui vous entoure, embrasant l'air autour de votre corps et vous imprégnant d'une vitalité brûlante. Lorsqu'une créature pénètre dans un espace à moins de 10 ft. de vous pour la première fois lors d'un tour ou y commence son tour, la cible subit 5d10 dégâts de feu.\n\nChaque fois qu'une créature subit des dégâts de cet effet, vous gagnez un nombre de points de vie temporaires égal aux dégâts infligés. Vous pouvez choisir de supprimer ou de rallumer cette auréole enflammée par une action bonus.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts de feu augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 6.\n"
+    },
     "Contrat": {
         "level": "5",
         "school": "Abjuration",
@@ -2757,13 +2797,13 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Dawn",
-        "status": "wip",
+        "status": "finished",
         "available": [
             "Clerc",
             "Magicien",
             "Martyr"
         ],
-        "description": "La lumière de l'aube s'abat sur un emplacement que vous spécifiez à portée. Jusqu'à ce que le sort se termine, un cylindre d'un rayon \n"
+        "description": "La lumière de l'aube s'abat sur un point que vous spécifiez à portée. Jusqu'à ce que le sort se termine, un cylindre d'un rayon de 30 ft. et haut de 40 ft. de lumière vive y luit. La lumière est solaire. Lorsque le cylindre apparaît, chaque créature à l'intérieur doit réaliser un jet de sauvegarde de Constitution, prenant 4d10 dégâts radiants en cas d'échec ou la moitié en cas de réussite. Une créature doit également refaire ce jet de sauvegarde lorsqu'elle termine son tour dans le cylindre. Si vous vous trouvez à 60 ft. du cylindre, vous pouvez le déplacer jusqu'à 60 ft. pour une action bonus pendant votre tour.\n"
     },
     "Évasivité": {
         "level": "5",
@@ -4961,6 +5001,25 @@
             "Martyr"
         ],
         "description": "Vous déchaînez une portion de colère divine sur un point que vous pouvez voir à portée. Chaque créature que vous choisissez dans une sphère de 10 ft. autour de ce point doit réaliser un jet de sauvegarde de Constitution. Sur un échec, une créature prend 7d6 dégâts nécrotiques, ou la moitié en cas de réussite. Si les dégâts réduisent une cible ayant échoué son jet à 0 point de vie, elle est transformée en pilier de sel.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.\n"
+    },
+    "Aura du Croisé": {
+        "level": "3",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Crusader's Mantle",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "Une puissance sacrée émane de vous en une aura d'un rayon de 30 ft., éveillant le courage des créatures amicales. Jusqu'à ce que le sort se termine, l'aura se déplace avec vous et reste centrée sur vous. Tant qu'elle est dans l'aura, chaque créature non hostile (vous y compris) inflige 1d4 dégâts radiants supplémentaires lorsqu'elle touche avec une attaque armée. \n"
     },
     "Prison des Griffes Glaciales": {
         "level": "3",
