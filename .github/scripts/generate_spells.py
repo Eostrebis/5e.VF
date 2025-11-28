@@ -5,7 +5,7 @@ import sys
 spell_dir = "/home/runner/work/5e.VF/5e.VF/docs/sorts/"
 
 
-def read_spell(spell):
+def read_spell(spell, verbose=False):
     json_spell = {}
     first_sep = spell.index('---') + 4
     second_sep = spell[first_sep:].index("---") + 4
@@ -15,7 +15,7 @@ def read_spell(spell):
         property = line[:line.index(':')] if ":" in line else None
         value = line[line.index(':') + 2:] if ":" in line else None
         if property and property != "available":
-            if not value and (property != "detailmat" or
+            if verbose and not value and (property != "detailmat" or
                               (property == 'detailmat' and json_spell['Matériel'] == "true")):
                 print(f'WARNING -- spell {s[:-3]} has an empty property : {property}', file=sys.stderr)
             json_spell[property] = value
@@ -33,7 +33,7 @@ def read_spell(spell):
         levels[json_spell["level"]] += 1
     else:
         levels[json_spell["level"]] = 1
-    if description.startswith('\n'):
+    if verbose and description.startswith('\n'):
         print(f'WARNING -- spell {s[:-3]} has a non-compliant description', file=sys.stderr)
     json_spell['description'] = description
     return json_spell
@@ -52,13 +52,13 @@ if __name__ == '__main__':
                 print(f"Moving spell {s}")
                 to_move = True
         if to_move:
-            os.rename(s, f'0{js_spell["level"]}/{s}')
+            os.rename(s, f'0{"cantrips" if js_spell["level"] == "00" else js_spell["level"]}/{s}')
     for d in spell_dirs:
         os.chdir(spell_dir+'/'+d)
         spells = [f for f in os.listdir() if os.path.isfile(f)]
         for s in spells:
             with open(s, encoding="utf8") as f:
-                spells_json[s[:-3]] = read_spell(f.read())
+                spells_json[s[:-3]] = read_spell(f.read(), verbose=True)
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
         f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
     if '' in levels:
