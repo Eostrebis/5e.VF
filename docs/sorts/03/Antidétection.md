@@ -15,7 +15,7 @@ Durée: 8 Heures
 Incantation: 1 Action
 Portée: Touché
 Concentration: false
-Rituel:
+Rituel: false
 englishname: Nondetection
 status: finished
 ---
