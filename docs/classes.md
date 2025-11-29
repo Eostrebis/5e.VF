@@ -7,6 +7,35 @@ Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier c
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
 
+<div class="filter-container">
+  <select id="filter-type" class="filter-select">
+    <option value="all">Tous les rôles</option>
+    <option value="tank">Tank</option>
+    <option value="degats">Dégâts</option>
+    <option value="soutien">Soutien</option>
+    <option value="utilitaire">Utilitaire</option>
+  </select>
+
+  <select id="filter-vie" class="filter-select">
+    <option value="all">Tous les dés de vie</option>
+    <option value="d6">d6 (Fragile)</option>
+    <option value="d8">d8 (Moyen)</option>
+    <option value="d10">d10 (Robuste)</option>
+    <option value="d12">d12 (Colosse)</option>
+  </select>
+
+  <select id="filter-difficulte" class="filter-select">
+    <option value="all">Toute difficulté</option>
+    <option value="facile">Facile</option>
+    <option value="moyenne">Moyenne</option>
+    <option value="difficile">Difficile</option>
+  </select>
+
+  <button onclick="resetFilters()" class="filter-btn">Réinitialiser</button>
+</div>
+
+
+
 <div class="card-grid">
 
   <a href="page_alchimiste.html" class="art-card-link">
