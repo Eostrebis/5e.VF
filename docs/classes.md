@@ -46,7 +46,7 @@ data-type="Soutien"
 data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<br/>
 Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté."
 style="--accent-color: #1ed10d;">
-    <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" class="card-background" loading="lazy">
+    <img src="../Illustrations/Classes/Alchimiste_background.jpg" alt="Alchimiste" class="card-background" loading="lazy">
 
   <div class="class-card-body">
     <h2 class="class-card-title">
