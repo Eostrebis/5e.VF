@@ -69,6 +69,7 @@ style="--accent-color: #1ed10d;">
     </div>
     <div class="class-card-tags">
        <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
+		<br></br>
 		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
     </div>
