@@ -96,7 +96,7 @@ Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la mu
 Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant.
         </div>
 	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Utilitaire</span>
 		<span class="flip-card-tag">Social</span>
 		<span class="flip-card-tag">Support</span>
@@ -125,7 +125,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Social</span>
 		<span class="flip-card-tag">Support</span>
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐⭐</span>
@@ -200,7 +200,7 @@ Leur magie sauvage éclate avec force, transformant leur être et le monde autou
 Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce dernier qui les choisit, façonnant leur destinée hors du commun.
         </div>
 	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag">Utilitaire</span>
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
@@ -329,7 +329,7 @@ En échange de leur propre force vitale, de fragments de mémoire ou d'obscurs s
 Ces pactes, souvent instables et parfois envahissants, façonnent autant le destin du ligateur que son apparence, faisant de lui un vecteur d’énigmes, d’horreur et de prodiges.
         </div>
 	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 					<span class="flip-card-tag">Utilitaire</span>
 					<span class="flip-card-tag">Social</span>
 					<span class="flip-card-tag">Support</span>
@@ -487,7 +487,7 @@ Ils manipulent la magie à travers des influences aussi diverses que les nobles 
 Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance pour contrôler leur environnement et influencer le destin avec subtilité et force.
         </div>
 	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Dégâts</span>
 		<span class="flip-card-tag">Contrôle</span>
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐</span>
@@ -513,7 +513,7 @@ Cachés dans l’ombre, ils agissent avec précision et discrétion pour élimin
 Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans la solitude face à la mort, forge en eux un pouvoir extraordinaire qui élève ces guerriers en champions bénis, unis par leur lutte contre les ténèbres.
         </div>
 	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 		<span class="flip-card-tag">Tank</span>
 		<span class="flip-card-tag">Dégâts</span>
@@ -589,7 +589,7 @@ Une jeune fille isolée invoque un chat noir avec un simple claquement de doigts
 Un elfe murmure des incantations obscures, libérant une magie maléfique qui s’enroule autour d’un orque pour le plonger dans une agonie lente, illustrant la nature sombre et tordue des sorcières qui façonnent les ténèbres par leur volonté.
       	</div>
 	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ffcad4; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
+			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag">Contrôle</span>
 		<span class="flip-card-tag">Support</span>
 			<span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
