@@ -50,8 +50,8 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-			<span class="flip-card-tag">Utilitaire</span>
-			<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
     </a>
@@ -77,8 +77,8 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Tank</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 	    </div>
       </div>
     </a>
@@ -102,10 +102,10 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag">Utilitaire</span>
-		<span class="flip-card-tag">Social</span>
-		<span class="flip-card-tag">Support</span>
-		<span class="flip-card-tag">Contrôle</span>
+		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 	    </div>
       </div>
     </a>
@@ -132,8 +132,8 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag">Social</span>
-		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
 	    </div>
       </div>
     </a>
@@ -158,8 +158,8 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
-		<span class="flip-card-tag">Tank</span>
-		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
 	    </div>
       </div>
     </a>
@@ -184,8 +184,8 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
-		<span class="flip-card-tag">Tank</span>
-		<span class="flip-card-tag">Contrôle</span>
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 	    </div>
       </div>
     </a>
@@ -210,8 +210,8 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Utilitaire</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 	    </div>
       </div>
     </a>
@@ -236,7 +236,7 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-		<span class="flip-card-tag">Dégâts</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
     </a>
@@ -262,9 +262,9 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
-		<span class="flip-card-tag">Tank</span>
-		<span class="flip-card-tag">Contrôle</span>
-			<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+			<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
 	    </div>
       </div>
     </a>
@@ -291,8 +291,8 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Tank</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 	    </div>
       </div>
     </a>
@@ -318,8 +318,8 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Support</span>
-		<span class="flip-card-tag">Utilitaire</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 	    </div>
       </div>
     </a>
@@ -344,12 +344,12 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-					<span class="flip-card-tag">Utilitaire</span>
-					<span class="flip-card-tag">Social</span>
-					<span class="flip-card-tag">Support</span>
-					<span class="flip-card-tag">Contrôle</span>
-					<span class="flip-card-tag">Tank</span>
-					<span class="flip-card-tag">Dégâts</span>
+					<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+					<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+					<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
+					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+					<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+					 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
     </a>
@@ -375,7 +375,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Dégâts</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
     </a>
@@ -401,10 +401,10 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Utilitaire</span>
-		<span class="flip-card-tag">Contrôle</span>
-		<span class="flip-card-tag">Support</span>
-		<span class="flip-card-tag">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
     </a>
@@ -429,8 +429,8 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
-			<span class="flip-card-tag">Tank</span>
-			<span class="flip-card-tag">Dégâts</span>
+			<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+			 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
     </a>
@@ -456,8 +456,8 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
-			<span class="flip-card-tag">Dégâts</span>
-			<span class="flip-card-tag">Contrôle</span>
+			 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+			<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 	    </div>
       </div>
     </a>
@@ -482,8 +482,8 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 	</div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Contrôle</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 	    </div>
       </div>
     </a>
@@ -508,8 +508,8 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Contrôle</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 	    </div>
       </div>
     </a>
@@ -536,9 +536,9 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
-		<span class="flip-card-tag">Tank</span>
-		<span class="flip-card-tag">Dégâts</span>
-		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
 	    </div>
       </div>
     </a>
@@ -564,7 +564,7 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
-			<span class="flip-card-tag">Dégâts</span>
+			 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
 	</div>
     </a>
@@ -590,8 +590,8 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
       	</div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-		<span class="flip-card-tag">Utilitaire</span>
-		<span class="flip-card-tag">Social</span>
+		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 	    </div>
 	</div>
     </a>
@@ -616,8 +616,8 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
       	</div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag">Contrôle</span>
-		<span class="flip-card-tag">Support</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+		<span class="flip-card-tag" style="--text-color: #edc531; --border-color: #edc531;">Support</span>
 	    </div>
 	</div>
     </a>
@@ -643,7 +643,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag">Dégâts</span>
+		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
 	</div>
     </a>
