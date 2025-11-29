@@ -302,13 +302,13 @@
   display: flex; 
   align-items: center; /* Centre verticalement l'icône par rapport au texte */
   gap: 10px; /* Espace entre l'icône et le texte */
+  padding: 0px 0px 10px 0px;
   
   /* Vos styles existants conservés */
   font-family: 'Roboto', sans-serif;
   font-size: 1.4rem;
   font-weight: 800;
   text-transform: uppercase;
-  color: var(--title);
   letter-spacing: 0.5px;
 }
 
