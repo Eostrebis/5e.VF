@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
@@ -15,7 +15,7 @@ La peau des nains peut aller du marron profond à des teintes plus pâles tinté
 
 #### Longue mémoire, longues rancœurs
 
-Les nains peuvent vivre plus de 400 ans, donc les nains les plus vieux se souviennent d'un monde bien différent du monde actuel. Cette longévité leur offre une perspective que les races à l'espérance de vie plus courte comme les humains ou les halfelins. 
+Les nains peuvent vivre plus de 400 ans, donc les nains les plus vieux se souviennent d'un monde bien différent du monde actuel. Cette longévité leur offre une perspective que les races à l'espérance de vie plus courte comme les humains ou les halfelins manquent. 
 
 Les nains sont solides et endurants comme les montagnes qu'ils adorent, surmontant le passage du temps avec stoïcisme et bien peu de changements. Ils respectent les traditions de leur clan, remontant leurs ancêtres jusqu'à la fondation des premières forteresses du monde, et n'abandonnent pas ces traditions à la légère. Une partie de ces traditions est la dévotion aux dieux nains, qui représentent les idéals nains du travail, de la compétence martiale et du dévouement à la forge.
 
@@ -31,7 +31,7 @@ Les nains d'autres territoires sont généralement des artisans, notamment des f
 
 #### Dieux, Or et Clan
 
-Les nains qui choisissent l'aventure peuvent être motivés par un trésor, que ce soit pour son propre gain, pour un but bien précis ou pour le désir altruistique d'aider les autres. D'autres nains sont motivés par l'inspiration d'une déité, un sentiment de destinée ou l'envie d'apporter la gloire aux divinités naines. Les clans et leurs héritages sont également des facteurs importants. Un nain pourrait essayer de restaurer l'honneur d'un clan déchu, prendre revanche d'un ancien affront ou regagner sa place au sein d'un clan après l'exil. Enfin, un nain pourrait être à la recherche d'une hache perdue par un ancêtre sur le champ de bataille, il y a de cela plusieurs siècles.
+Les nains qui choisissent l'aventure peuvent être motivés par un trésor, que ce soit pour son propre gain, pour un but bien précis ou pour le désir altruiste d'aider les autres. D'autres nains sont motivés par l'inspiration d'une déité, un sentiment de destinée ou l'envie d'apporter la gloire aux divinités naines. Les clans et leurs héritages sont également des facteurs importants. Un nain pourrait essayer de restaurer l'honneur d'un clan déchu, prendre revanche d'un ancien affront ou regagner sa place au sein d'un clan après l'exil. Enfin, un nain pourrait être à la recherche d'une hache perdue par un ancêtre sur le champ de bataille, il y a de cela plusieurs siècles.
 
 ### Langue
 
@@ -59,7 +59,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Nain|Nain]].
 
-**Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeune jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
+**Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
 **Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
 
@@ -81,7 +81,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 ### Description
 
-En tant que nain des collines, vous êtes fort et solide, habitué à une vie difficile dans des terres abîmées. Vous êtes probablement grand (pour un nain), et êtes d'une coloration plus claire que vos semblables.
+En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie difficile dans des terres abîmées. Vous êtes probablement grand (pour un nain), et êtes d'une coloration plus claire que vos semblables.
 
 ### Mécaniques
 
@@ -91,7 +91,7 @@ En tant que nain des collines, vous êtes fort et solide, habitué à une vie di
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Nain|Nain]].
 
-**Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeune jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
+**Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
 **Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
 
@@ -107,7 +107,7 @@ En tant que nain des collines, vous êtes fort et solide, habitué à une vie di
 
 **Héritage Rocheux.** Lorsque vous réalisez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
 
-**Entraînement aux Armures Naines.** Vous maîtrisez les [[armures légères]] et les [[armures moyennes]]. Votre score de Force augmente de 1.
+**Entraînement aux Armures Naines.** Vous maîtrisez les [[armures légères]] et les [[armures moyennes]]. 
 
 ## Duergar
 
@@ -123,7 +123,7 @@ Les duergars sont des nains dont les ancêtres se sont transformés au fil des s
 
 **Langage.** Vous parlez l'[[Langues#Outre-Commun|Outre-Commun]] et le [[Langues#Nain|Nain]].
 
-**Âge.** Les duergars grandissent au même rythme que les humains, mais sont considérés comme jeune jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
+**Âge.** Les duergars grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
 **Taille.** Les duergars mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
 

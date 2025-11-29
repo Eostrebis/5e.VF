@@ -1,14 +1,14 @@
 ---
-status: empty
+status: completed
 ---
 
 ### Description
 
-Être accueilli par des regards froids et des murmures, subir violence et insultes dans la rue, percevoir méfiance et peur dans chaque paire d'yeux : voilà la vie des tieflins. Et pour remuer le couteau, les tieflins savent pertinemment que tout cela émane d'un pacte établi il y a de cela des générations qui infusent leur sang de pouvoir infernal. Leurs apparences et leurs natures ne sont pas de leur fait mais la résultante d'un ancien péché pour lequel eux, leurs enfants et les enfants de leurs enfants seront toujours responsables.
+Être accueilli par des regards froids et des murmures, subir violence et insultes dans la rue, percevoir méfiance et peur dans chaque paire d'yeux : voilà la vie des tieflins. Et pour remuer le couteau, les tieflins savent pertinemment que tout cela émane d'un pacte établi il y a de cela des générations qui infuse leur sang de pouvoir infernal. Leur apparence et leur nature ne sont pas de leur fait mais la résultante d'un ancien péché pour lequel eux, leurs enfants et les enfants de leurs enfants seront toujours responsables.
 ![[Tieflin.png]]
 #### Héritage Infernal
 
-Les tieflins sont dérivés d'un héritage humain et dans le sens large, ils ressemblent à des humains. Cependant, leur héritage infernal a laissé une empreinte claire sur leur apparence. Les tieflins possèdent de larges cornes qui prennent toutes sortes de formes : certains ont des cornes recourbées comme celles des béliers tandis que d'autres sont hautes et droites comme celles des gazelles et d'autres encore spiralant vers le haut comme les antilopes. Ils ont une épaisse queue longue d'environ 1 mètre qui s'enroule autour de leurs jambes lorsqu'ils s'énervent ou deviennent nerveux. Leurs canines sont particulièrement aiguisées et leurs yeux sont de couleurs solides — noir, rouge, blanc, argent ou or — sans pupille visible. Leur couleur de peau recouvre la variation que l'on retrouve chez les humains mais inclus aussi différents tons de rouge. Leurs cheveux, tombant en cascade derrière leurs cornes, sont généralement foncés, du noir ou marron au rouge, bleu ou violet foncé.
+Les tieflins sont dérivés d'un héritage humain et dans le sens large, ils ressemblent à des humains. Cependant, leur héritage infernal a laissé une empreinte claire sur leur apparence. Les tieflins possèdent de larges cornes qui prennent toutes sortes de formes : certains ont des cornes recourbées comme celles des béliers tandis que d'autres sont hautes et droites comme celles des gazelles et d'autres encore spiralant vers le haut comme les antilopes. Ils ont une épaisse queue longue d'environ 1 mètre qui s'enroule autour de leurs jambes lorsqu'ils s'énervent ou deviennent nerveux. Leurs canines sont particulièrement aiguisées et leurs yeux sont de couleurs solides — noir, rouge, blanc, argent ou or — sans pupille visible. Leur couleur de peau recouvre la variation que l'on retrouve chez les humains mais inclut aussi différents tons de rouge. Leurs cheveux, tombant en cascade derrière leurs cornes, sont généralement foncés, du noir ou marron au rouge, bleu ou violet foncé.
 
 #### Sous-races
 
@@ -21,7 +21,7 @@ En fonction du pacte établi par leurs ancêtres, les tieflins se distinguent en
 
 #### Indépendants et Suspicieux
 
-Les tieflins subsistent en minorité dans les territoires humains, souvent dans les pires quartiers de ces endroits, où ils grandissent pour devenir brigand, voleur ou maître du crime. Parfois, ils vivent au milieu d'une autre minorité auquel cas ils sont généralement traités avec plus de respect.
+Les tieflins subsistent en minorité dans les territoires humains, souvent dans les pires quartiers de ces endroits, où ils grandissent pour devenir brigands, voleurs ou maîtres du crime. Parfois, ils vivent au milieu d'une autre minorité auquel cas ils sont généralement traités avec plus de respect.
 
 Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et être forts pour survivre. Ils ont du mal à faire confiance à quiconque se présente comme un ami, mais lorsqu'un compagnon de tieflin démontre sa confiance envers le tieflin, cette confiance lui est rendue. Et une fois qu'un tieflin a donné sa loyauté, il est un ami sincère ou un allié à vie.
 
@@ -29,13 +29,13 @@ Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et êtr
 
 #### Noms
 
-Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certain, le nom choisi est une noble quête. Pour d'autre, une sombre destinée.  
+Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certains, le nom choisi est une noble quête. Pour d'autres, une sombre destinée.  
 
-__Nom Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+__Noms Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
 
-__Nom Infernaux Féminins :__ Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+__Noms Infernaux Féminins :__ Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
 
-__Nom de "Vertu" :__ Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
+__Noms de "Vertu" :__ Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
 
 ## Héritier d'Asmodée
 
@@ -137,11 +137,11 @@ __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
 __Héritage de Phlegethos.__ Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
-## Héritier de Glosya
+## Héritier de Glasya
 
 ### Description
 
-Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utilise pour commettre des braquages.
+Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utile pour commettre des braquages.
 ### Mécaniques
 
 **Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, DEX +1*)
