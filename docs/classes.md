@@ -43,7 +43,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 href=./Alchimiste/Alchimiste/
 class="class-card"
 data-type="Soutien"
-data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<br/>
+data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.
 Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté."
 style="--accent-color: #1ed10d;">
     <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
@@ -69,7 +69,7 @@ style="--accent-color: #1ed10d;">
     </div>
     <div class="class-card-tags">
        <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
-		<br></br>
+		</br>
 		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
     </div>
