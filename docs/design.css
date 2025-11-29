@@ -161,100 +161,154 @@
 
 
 
-/* --- 1. La Carte (Conteneur) --- */
-.rpg-card {
+/* --- 1. La Grille (Responsive) --- */
+.rpg-grid {
+  display: grid;
+  /* Crée des colonnes automatiques : minimum 300px de large, max 1 fraction */
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 25px;
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* --- 2. La Carte (Design) --- */
+.dnd-card {
   display: flex;
-  flex-direction: column; /* Empile image puis texte */
-  background: white;
-  border-radius: 12px; /* Coins arrondis modernes */
-  overflow: hidden; /* Pour que l'image respecte les coins */
+  flex-direction: column;
+  background: #ffffff;
+  border-radius: 8px; /* Arrondi léger */
+  overflow: hidden;
   text-decoration: none;
   color: #333;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Ombre douce */
+  
+  /* L'Ombre portée typique du "Material Design" */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  
+  /* La fameuse bordure colorée en haut (comme D&D Beyond) */
+  border-top: 5px solid var(--accent-color);
+  
   transition: transform 0.3s ease, box-shadow 0.3s ease;
-  height: 100%; /* Remplit la grille */
-  border-bottom: 4px solid var(--card-accent); /* Touche de couleur en bas */
+  height: 100%;
 }
 
-/* Effet au survol : la carte "lévite" */
-.rpg-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+/* Effet Hover global sur la carte */
+.dnd-card:hover {
+  transform: translateY(-5px); /* La carte monte légèrement */
+  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
 }
 
-/* --- 2. L'Image --- */
-.rpg-card-header {
-  height: 200px; /* Hauteur fixe pour l'image */
+/* --- 3. L'Image (Header) --- */
+.dnd-card-header {
+  height: 180px; /* Hauteur fixe */
   width: 100%;
   overflow: hidden;
-  background: #f0f0f0;
+  background-color: #f4f4f4;
+  position: relative;
+  border-bottom: 1px solid #eee;
 }
 
-.rpg-card-header img {
+.dnd-card-header img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* L'image remplit la zone sans être écrasée */
-  object-position: top center; /* On cadre sur le haut (visages) */
+  object-fit: cover; /* Remplit la zone sans déformation */
+  object-position: top center; /* Focus sur les visages */
   transition: transform 0.5s ease;
 }
 
-/* Zoom léger de l'image au survol */
-.rpg-card:hover .rpg-card-header img {
-  transform: scale(1.05);
+/* Zoom lent sur l'image au survol */
+.dnd-card:hover .dnd-card-header img {
+  transform: scale(1.1);
 }
 
-/* --- 3. Le Contenu --- */
-.rpg-card-body {
+/* --- 4. Le Corps (Texte) --- */
+.dnd-card-body {
   padding: 20px;
+  flex-grow: 1; /* Pousse le footer vers le bas */
   display: flex;
   flex-direction: column;
-  flex-grow: 1; /* Pousse le contenu pour remplir l'espace */
 }
 
-.card-title {
-  font-size: 1.4rem;
-  margin: 0 0 5px 0;
-  color: #2c3e50;
-  font-family: serif; /* Police "Fantasy" si vous avez */
+.dnd-card-title {
+  font-family: 'Roboto', sans-serif; /* Ou votre police de titre */
+  font-size: 1.5rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 0 0 10px 0;
+  color: #242424;
+  letter-spacing: 0.5px;
 }
 
-.card-subtitle {
-  font-size: 0.9rem;
-  color: #666;
-  font-style: italic;
-  margin-bottom: 15px;
-  min-height: 40px; /* Aligne visuellement les cartes */
-}
-
-/* Zone des tags */
-.card-tags {
-  margin-bottom: 15px;
+/* Zone des Tags */
+.dnd-card-tags {
+  margin-bottom: 12px;
+  /* Permet aux tags de s'aligner proprement */
   display: flex;
-  flex-wrap: wrap;
-  gap: 8px; /* Espace entre les tags */
+  flex-wrap: wrap; 
+  gap: 8px; 
 }
 
-/* Description courte */
-.card-excerpt {
+/* Description tronquée */
+.dnd-card-desc {
   font-size: 0.95rem;
-  line-height: 1.5;
-  color: #444;
-  margin-top: auto; /* Pousse le texte vers le bas si besoin */
+  line-height: 1.6;
+  color: #555;
+  margin: 0;
   
-  /* Astuce pour couper le texte après 3 lignes (Webkit) */
+  /* Coupe le texte après 3 lignes */
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-.read-more {
-  display: block;
-  margin-top: 10px;
-  font-weight: bold;
-  color: var(--card-accent); /* Utilise la couleur de la classe */
-  font-size: 0.9rem;
+/* --- 5. Le Footer (Bouton) --- */
+.dnd-card-footer {
+  padding: 15px 20px;
+  border-top: 1px solid #eee;
+  background-color: #fafafa;
+  text-align: right; /* Bouton à droite */
 }
+
+.dnd-btn {
+  display: inline-block;
+  font-size: 0.85rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 8px 16px;
+  border-radius: 4px;
+  
+  /* Style "Outline" (Bordure colorée, fond transparent) */
+  color: var(--accent-color);
+  border: 1px solid var(--accent-color);
+  background: transparent;
+  
+  transition: all 0.2s ease;
+}
+
+/* Quand on survole la CARTE, le bouton se remplit */
+.dnd-card:hover .dnd-btn {
+  background: var(--accent-color);
+  color: white; /* Le texte devient blanc */
+}
+
+/* --- Rappel CSS des Tags (Pour compatibilité) --- */
+/* (Assurez-vous que votre CSS précédent pour .flip-card-tag est présent) */
+.flip-card-tag {
+    /* ... Votre code précédent ... */
+    font-size: 11px; /* Un peu plus petit pour la grille */
+    padding: 0 8px 0 18px; /* Ajustement padding */
+}
+/* Ajustement de la pointe du tag pour la taille réduite */
+.flip-card-tag::after { right: -8px; border-width: 9px; }
+
+
+
+
+
+
+
+
 
 
 
