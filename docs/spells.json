@@ -3975,27 +3975,6 @@
         ],
         "description": "Vous compressez une explosion bruyante en une balle invisible et la projetez vers une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 1d8 dégâts de tonnerre et être [[assourdi|assourdie]] jusqu'au début de votre prochain tour.\n\nSi la cible du sort se trouve à 10 ft. de vous, les dégâts deviennent des d10s au lieu de d8s.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).\n"
     },
-    "Flammes": {
-        "level": "0",
-        "school": "Conjuration",
-        "Verbal": "true",
-        "Somatique": "true",
-        "Matériel": "false",
-        "detailmat": "",
-        "Durée": "10 Minutes",
-        "Incantation": "1 Action",
-        "Portée": "Personnelle",
-        "Concentration": "false",
-        "Rituel": "false",
-        "englishname": "\" Produce Flame\"",
-        "status": "empty",
-        "available": [
-            "Druide",
-            "Sorcière",
-            "MagedeGuerre"
-        ],
-        "description": "Une flamme tremblante apparaît dans votre main. La flamme reste là pour la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.\n\nVous pouvez également attaquer avec la flamme, mais le faire termine le sort. Lorsque vous lancez ce sort, ou pour une action plus tard, vous pouvez lancer la flamme sur une créature à 30 ft. Réalisez une attaque de sort à distance. Si vous touchez, la cible prend 1d8 dégâts de feu.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.\n"
-    },
     "Glas": {
         "level": "0",
         "school": "Nécromancie",
@@ -4529,6 +4508,27 @@
             "MagedeGuerre"
         ],
         "description": "Vous créez un son ou l'image d'un objet à portée qui persiste pour la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.\n\nSi vous créez un son, le volume peut aller d'un murmure à un hurlement. Celui-ci peut être votre voix, celle d'une autre personne, le rugissement d'un lion, un roulement de tambours ou n'importe quel autre son que vous choisissez. Le son continue de manière ininterrompue pendant la durée du sort, ou vous pouvez réaliser plusieurs sons différents à différents moments avant que le sort ne termine.\n\nSi vous créez une image d'un objet, comme une chaise, des empreintes de pas ou un petit coffre, elle ne doit pas faire plus de 5 ft. de côté. L'image ne peut pas créer de son, de lumière, d'odeurs et/ou d'autre effet sensoriel. Les interactions physiques avec l'image révèlent que c'est une illusion, puisque les choses passent au travers.\n\nSi une créature utilise son action pour examiner le son ou l'image, elle peut déterminer sa nature illusoire en réussissant un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sorts. Si une créature discerne l'illusion, elle devient transparente pour la créature."
+    },
+    "Flamme": {
+        "level": "0",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "\" Produce Flame\"",
+        "status": "empty",
+        "available": [
+            "Druide",
+            "Sorcière",
+            "MagedeGuerre"
+        ],
+        "description": "Une flamme tremblante apparaît dans votre main. La flamme reste là pour la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.\n\nVous pouvez également attaquer avec la flamme, mais le faire termine le sort. Lorsque vous lancez ce sort, ou pour une action plus tard, vous pouvez lancer la flamme sur une créature à 30 ft. Réalisez une attaque de sort à distance. Si vous touchez, la cible prend 1d8 dégâts de feu.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.\n"
     },
     "Prestidigitation": {
         "level": "0",
