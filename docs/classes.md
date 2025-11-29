@@ -51,8 +51,10 @@ style="--accent-color: #1ed10d;">
   <div class="class-card-body">
     <div class="class-card-title">
     <img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
-    Alchimiste</br>
+	<div class="class-card-title">
+    Alchimiste
 	<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
+		  </div>
   </div>
     <div class="dnd-stats-row">
       <div class="stat-item">
@@ -72,9 +74,7 @@ style="--accent-color: #1ed10d;">
 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
     </div>
-    <p class="class-card-desc">
-      Combiner des réactifs pour produire des effets ... détonnants !
-    </p>
+    <span class="class-card-desc">Combiner des réactifs pour produire des effets ... détonnants !</span>
   </div>
 </a>
 
