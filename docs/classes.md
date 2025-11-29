@@ -6,6 +6,32 @@ title: Choix de classe
 Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
+<div class="card-grid">
+
+<a href="page_alchimiste.html" class="rpg-card" style="--card-accent: #1ed10d;">
+  
+  <div class="rpg-card-header">
+    <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
+  </div>
+
+  <div class="rpg-card-body">
+    
+    <h3 class="card-title">Alchimiste</h3>
+    <div class="card-subtitle">Combiner des réactifs pour produire des effets détonnants !</div>
+
+    <div class="card-tags">
+       <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFF;">Intelligence</span>
+       <span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
+    </div>
+
+    <p class="card-excerpt">
+      Un gnome lance des bombes avec enthousiasme, semant le chaos... 
+      <span class="read-more">Voir la fiche &rarr;</span>
+    </p>
+
+  </div>
+</a>
+
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #1ed10d;">
   <div class="flip-card-inner">
@@ -580,7 +606,6 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
         <div class="flip-card-title">💫 Roublard 📜
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
-		</div>
         <div class="flip-card-subtitle">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
@@ -590,8 +615,8 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
       	</div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+			<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 	    </div>
 	</div>
     </a>
@@ -648,4 +673,5 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 	</div>
     </a>
   </div>
+</div>
 </div>
