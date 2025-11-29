@@ -39,7 +39,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 <div class="class-grid">
 
-<a href=./Alchimiste/Alchimiste/ class="class-card" style="--accent-color: #1ed10d;">
+<a href=./Alchimiste/Alchimiste/ class="class-card" data-type="support" style="--accent-color: #1ed10d;">
   
   <div class="class-card-header">
     <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
