@@ -288,11 +288,18 @@
   object-position: top center; /* Focus sur le haut (visage) */
   z-index: 0; /* Tout au fond */
   transition: transform 0.5s ease, filter 0.3s ease;
+/* 1. Zoom initial : On agrandit l'image par défaut */
+  transform: scale(1.30);
+ transform-origin: 5% center;
+  transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1), 
+              transform-origin 0.6s cubic-bezier(0.25, 0.8, 0.25, 1),
+              filter 0.3s ease;
 }
 
 /* Effet sur l'image au survol */
 .class-card:hover .card-background {
   transform: scale(1.1); /* Zoom léger */
+  transform-origin: center;
   filter: brightness(0.4); /* Assombrit pour lire "Voir la fiche" */
 }
 
@@ -302,13 +309,13 @@
   display: flex; 
   align-items: center; /* Centre verticalement l'icône par rapport au texte */
   gap: 10px; /* Espace entre l'icône et le texte */
-  padding: 0px 0px 10px 0px;
   
   /* Vos styles existants conservés */
   font-family: 'Roboto', sans-serif;
   font-size: 1.4rem;
   font-weight: 800;
   text-transform: uppercase;
+  color: var(--title);
   letter-spacing: 0.5px;
 }
 
