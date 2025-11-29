@@ -6,6 +6,8 @@ title: Choix de classe
 Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
+<div class="card-grid">
+
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #1ed10d;">
   <div class="flip-card-inner">
@@ -647,4 +649,5 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 	</div>
     </a>
   </div>
+</div>
 </div>
