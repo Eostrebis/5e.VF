@@ -12,7 +12,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
     <a href=./Alchimiste/Alchimiste/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Alchimiste
+        <div class="flip-card-title">⚔️ Alchimiste ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
@@ -37,7 +37,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
     <a href=./Artisan/Artisan/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Artisan.png>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Artisan
+        <div class="flip-card-title">⚔️ Artisan ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 	    </div>
         <div class="flip-card-subtitle">Capable de renverser des pays entiers à coup de marteau !</div>
@@ -65,7 +65,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
     <a href=./Barbare/Barbare/ class="flip-card-front">
 	<img class="flip-card-img" src=../Illustrations/Classes/Barbare24.jpeg>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Barbare
+        <div class="flip-card-title">⚔️ Barbare ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</div>
@@ -118,7 +118,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
     <a href=./Capitaine/Capitaine/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Capitaine.png>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Capitaine
+        <div class="flip-card-title">⚔️ Capitaine ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 	    </div>
         <div class="flip-card-subtitle">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</div>
@@ -224,7 +224,7 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
     <a href=./Fusilier/Fusilier/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Fusilier24.jpeg>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Fusilier
+        <div class="flip-card-title">⚔️ Fusilier ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Tireur d’élite maniant armes à feu ou arcanotech, il frappe de loin avec précision, calme et puissance.</div>
@@ -249,7 +249,7 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
     <a href=./Gardien/Gardien/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Gardien.png>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Gardien
+        <div class="flip-card-title">⚔️ Gardien ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Rempart vivant entre ses alliés et le danger, il encaisse les coups, contrôle le champ de bataille et protège ceux qui l’entourent.</div>
@@ -278,7 +278,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
     <a href=./Guerrier/Guerrier/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Guerrier24.jpeg>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Guerrier
+        <div class="flip-card-title">⚔️ Guerrier ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Maître d’armes polyvalent, il domine le champ de bataille par sa technique, sa discipline et sa détermination inébranlable.</div>
@@ -443,7 +443,7 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
     <a href=./Moine/Moine/ class="flip-card-front">
       <img class="flip-card-img" src=../Illustrations/Classes/Moine24.jpeg>
       <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Moine
+        <div class="flip-card-title">⚔️ Moine ⚔️
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</div>
