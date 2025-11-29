@@ -225,46 +225,80 @@
   display: flex;
   flex-direction: column;
   background: #ffffff;
-  border-radius: 8px; /* Arrondi léger */
-  overflow: hidden;
+  border-radius: 8px;
+  overflow: hidden; /* Important pour cacher ce qui sort du cadre */
   text-decoration: none;
   color: #333;
-  
-  /* L'Ombre portée typique du "Material Design" */
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  
-  /* La fameuse bordure colorée en haut (comme D&D Beyond) */
   border-top: 5px solid var(--accent-color);
-  
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
+  
+  /* NOUVEAU : Nécessaire pour positionner le texte caché */
+  position: relative; 
+}
+
+/* NOUVEAU : Le texte qui apparaît en fond */
+.class-card::before {
+  content: "Voir la fiche"; /* Le texte à afficher */
+  
+  /* Positionnement : on le place dans la zone du corps */
+  position: absolute;
+  top: 180px; /* Hauteur de l'image (header) pour commencer juste en dessous */
+  bottom: 0;
+  left: 0;
+  right: 0;
+  
+  /* Centrage du texte */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+  /* Style du texte */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: var(--accent-color); /* Utilise la couleur de la carte */
+  background-color: transparent; /* Fond transparent demandé */
+  
+  z-index: 0; /* Reste derrière le contenu par défaut */
+  opacity: 0; /* Invisible par défaut */
+  transition: opacity 0.3s ease;
 }
 
 /* Effet Hover global sur la carte */
 .class-card:hover {
-  transform: translateY(-5px); /* La carte monte légèrement */
+  transform: translateY(-5px);
   box-shadow: 0 12px 20px rgba(0,0,0,0.15);
 }
 
+/* NOUVEAU : On fait apparaître le texte au survol */
+.class-card:hover::before {
+  opacity: 1;
+  transition-delay: 0.1s;
+}
+
 /* --- 3. L'Image (Header) --- */
+/* ... (Le code de l'image ne change pas, elle reste fixe) ... */
 .class-card-header {
-  height: 180px; /* Hauteur fixe */
+  height: 180px;
   width: 100%;
   overflow: hidden;
   background-color: #f4f4f4;
   position: relative;
   border-bottom: 1px solid #eee;
+  z-index: 2; /* L'image reste au-dessus */
 }
 
 .class-card-header img {
   width: 100%;
   height: 100%;
-  object-fit: cover; /* Remplit la zone sans déformation */
-  object-position: top center; /* Focus sur les visages */
+  object-fit: cover;
+  object-position: top center;
   transition: transform 0.5s ease;
 }
 
-/* Zoom lent sur l'image au survol */
 .class-card:hover .class-card-header img {
   transform: scale(1.1);
 }
@@ -272,13 +306,24 @@
 /* --- 4. Le Corps (Texte) --- */
 .class-card-body {
   padding: 20px;
-  flex-grow: 1; /* Pousse le footer vers le bas */
+  flex-grow: 1;
   display: flex;
   flex-direction: column;
+  
+  /* NOUVEAU : Gestion du glissement */
+  background-color: #ffffff; /* Fond blanc pour masquer le texte "Voir la fiche" derrière */
+  position: relative;
+  z-index: 1; /* Au-dessus du texte caché */
+  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); /* Animation fluide */
+}
+
+/* NOUVEAU : Au survol, on décale le corps vers la gauche */
+.class-card:hover .class-card-body {
+  transform: translateX(-100%);
 }
 
 .class-card-title {
-  font-family: 'Roboto', sans-serif; /* Ou votre police de titre */
+  font-family: 'Roboto', sans-serif;
   font-size: 1.5rem;
   font-weight: 800;
   text-transform: uppercase;
@@ -290,7 +335,6 @@
 /* Zone des Tags */
 .class-card-tags {
   margin-bottom: 12px;
-  /* Permet aux tags de s'aligner proprement */
   display: flex;
   flex-wrap: wrap; 
   gap: 8px; 
@@ -302,8 +346,6 @@
   line-height: 1.6;
   color: #555;
   margin: 0;
-  
-  /* Coupe le texte après 3 lignes */
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -315,7 +357,17 @@
   padding: 15px 20px;
   border-top: 1px solid #eee;
   background-color: #fafafa;
-  text-align: right; /* Bouton à droite */
+  text-align: right;
+  
+  /* NOUVEAU : Le footer doit aussi glisser */
+  position: relative;
+  z-index: 1;
+  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+/* NOUVEAU : Le footer glisse en même temps que le corps */
+.class-card:hover .class-card-footer {
+  transform: translateX(-100%);
 }
 
 .dnd-btn {
@@ -325,12 +377,9 @@
   text-transform: uppercase;
   padding: 8px 16px;
   border-radius: 4px;
-  
-  /* Style "Outline" (Bordure colorée, fond transparent) */
   color: var(--accent-color);
   border: 1px solid var(--accent-color);
   background: transparent;
-  
   transition: all 0.2s ease;
 }
 
