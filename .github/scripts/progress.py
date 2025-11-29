@@ -4,7 +4,6 @@ import sys
 from pathlib import Path
 
 working_dir = "/home/runner/work/5e.VF/5e.VF/docs/"
-working_dir = "C:\\Users\\frosq\\Documents\\eostrebis-test\\5e.VF\\docs"
 directory = Path(working_dir)
 
 
@@ -84,8 +83,8 @@ def evaluate_status(status) -> float:
 def get_spell_progress():
     done = {}
     undone = 0
-    index = len(working_dir+"\\sorts\\")
-    for subdir, dirs, files in os.walk(working_dir+"\\sorts"):
+    index = len(working_dir+"/sorts/")
+    for subdir, dirs, files in os.walk(working_dir+"/sorts"):
         if dirs:
             undone = len(files)
         else:
@@ -95,13 +94,13 @@ def get_spell_progress():
 
 def get_classe_progress():
     done = {}
-    classes = [d for d in os.listdir(working_dir+"\\classes")]
+    classes = [d for d in os.listdir(working_dir+"/classes")]
     for classe in classes:
         total_classe = 0
         done_classe = 0
-        for subdir, dirs, files in os.walk(working_dir + "\\classes\\" + classe):
+        for subdir, dirs, files in os.walk(working_dir + "/classes/" + classe):
             for f in files:
-                status = get_status(subdir+"\\"+f)
+                status = get_status(subdir+"/"+f)
                 done_classe += evaluate_status(status)
                 total_classe += 1
         done[classe] = round(done_classe / total_classe * 100, 2)
@@ -110,8 +109,8 @@ def get_classe_progress():
 def get_race_progress():
     done = 0
     total = 0
-    for race in os.listdir(working_dir+"\\races"):
-        status = get_status(working_dir+"\\races\\" + race)
+    for race in os.listdir(working_dir+"/races"):
+        status = get_status(working_dir+"/races/" + race)
         if status:
             done += evaluate_status(status)
             total += 1
@@ -120,8 +119,8 @@ def get_race_progress():
 def get_feat_progress():
     done = 0
     total = 0
-    for feat in os.listdir(working_dir + "\\Dons"):
-        status = get_status(working_dir + "\\Dons\\" + feat)
+    for feat in os.listdir(working_dir + "/Dons"):
+        status = get_status(working_dir + "/Dons/" + feat)
         if status:
             done += evaluate_status(status)
             total += 1
@@ -130,8 +129,8 @@ def get_feat_progress():
 def get_equipment_progress():
     done = 0
     total = 0
-    for gear in os.listdir(working_dir + "\\objets\\équipement"):
-        status = get_status(working_dir + "\\objets\\équipement\\" + gear)
+    for gear in os.listdir(working_dir + "/objets/équipement"):
+        status = get_status(working_dir + "/objets/équipement/" + gear)
         if status:
             done += evaluate_status(status)
             total += 1
@@ -140,8 +139,8 @@ def get_equipment_progress():
 def get_magic_item_progress():
     done = 0
     total = 0
-    for gear in os.listdir(working_dir + "\\objets\\magiques"):
-        status = get_status(working_dir + "\\objets\\magiques\\" + gear)
+    for gear in os.listdir(working_dir + "/objets/magiques"):
+        status = get_status(working_dir + "/objets/magiques/" + gear)
         if status:
             done += evaluate_status(status)
             total += 1
@@ -150,8 +149,8 @@ def get_magic_item_progress():
 def get_background_progress():
     done = 0
     total = 0
-    for gear in os.listdir(working_dir + "\\Historiques"):
-        status = get_status(working_dir + "\\Historiques\\" + gear)
+    for gear in os.listdir(working_dir + "/Historiques"):
+        status = get_status(working_dir + "/Historiques/" + gear)
         if status:
             done += evaluate_status(status)
             total += 1
@@ -194,7 +193,7 @@ Mis à jour pour la dernière fois le {datetime.today().strftime('%Y-%m-%d %H:%M
     """
 
 def write_index_file(content):
-    with open(working_dir+'\\index.md', 'w', encoding='utf-8') as f:
+    with open(working_dir+'/index.md', 'w', encoding='utf-8') as f:
         f.write(content)
 
 def compute_progress():
