@@ -51,20 +51,20 @@ style="--accent-color: #1ed10d;">
   <div class="class-card-body">
     <h2 class="class-card-title">
     <img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
-    Alchimiste
+    Alchimiste<br>
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
   </h2>
     <div class="dnd-stats-row">
       <div class="stat-item">
 		<span class="stat-label">Archétype</span>
-        <span class="stat-value">Martial distance 🏹</span>
+        <span class="stat-value">Martial dist. 🏹</span>
       </div>
       <div class="stat-item">
         <span class="stat-label">Dés de vie</span>
         <span class="stat-value">d8</span>
       </div>
       <div class="stat-item">
-        <span class="stat-label">Carac. primaire</span>
+        <span class="stat-label">Primaire</span>
         <span class="stat-value">Intelligence</span>
       </div>
     </div>
