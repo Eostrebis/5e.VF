@@ -1,7 +1,7 @@
 name: ci
 on:
   workflow_run:
-    workflows: [Update Progress]
+    workflows: [Spells]
     types:
       - completed
 permissions:
