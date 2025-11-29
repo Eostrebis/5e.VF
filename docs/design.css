@@ -344,52 +344,6 @@
   transform: translateX(-150%);
 }
 
-/* ... (Titre, tags, description ne changent pas) ... */
-
-
-/* --- 4. Le Footer (Doit suivre l'alignement du Body) --- */
-.class-card-footer {
-  padding: 12px 20px;
-  border-top: 1px solid #eee;
-  background-color: var(--bg);
-  text-align: right;
-  
-  /* --- IMPORTANT : MÊMES MARGES LATÉRALES QUE LE BODY --- */
-  /* On garde 60px à droite pour que le footer soit aligné avec le texte */
-  margin: 0 200px 15px 20px; 
-  
-  border-radius: 0 0 8px 8px; 
-  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-  
-  position: relative;
-  z-index: 2;
-  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
-}
-
-/* Le footer suit le mouvement */
-.class-card:hover .class-card-footer {
-  transform: translateX(-150%);
-}
-
-.dnd-btn {
-  display: inline-block;
-  font-size: 0.8rem;
-  font-weight: bold;
-  text-transform: uppercase;
-  padding: 6px 12px;
-  border-radius: 4px;
-  color: var(--accent-color);
-  border: 1px solid var(--accent-color);
-  background: transparent;
-}
-
-/* Quand on survole la CARTE, le bouton se remplit */
-.class-card:hover .dnd-btn {
-  background: var(--accent-color);
-  color: white; /* Le texte devient blanc */
-}
-
-
 /* --- La Ligne de Statistiques --- */
 .dnd-stats-row {
   display: flex;
