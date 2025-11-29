@@ -170,12 +170,12 @@ search:
 **Classes.** {list(classe_done.values()).count(100)}/{len(classe_done)} ![](https://geps.dev/progress/{int(classe_percentage)})
 
 > [!INFO]- Détails par classe
->{">".join([f' - **{classe}.** ![](https://geps.dev/progress/{int(classe_done[classe])}) \n' for classe in classe_done])}
+>{">".join([f' - **{classe}.** ![](https://geps.dev/progress/{int(classe_done[classe])}) \n' for classe in sorted(classe_done)])}
 
 **Sorts.** {sum(spell_done.values())}/{spell_total} ![](https://geps.dev/progress/{int(spell_percentage)})
 
 > [!INFO]- Sorts traduits par niveau
->{">".join([f' - **{'Cantrips' if level == 0 else level}.** {int(spell_done[level])} \n' for level in spell_done])}
+>{">".join([f' - **{'Cantrips' if level == 0 else level}.** {int(spell_done[level])} \n' for level in [0,1,2,3,4,5,6,7,8,9]])}
 
 **Races.** {int(race_done)}/{race_total} ![](https://geps.dev/progress/{int(100*race_done/race_total)})
 
