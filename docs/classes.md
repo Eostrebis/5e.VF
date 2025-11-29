@@ -14,6 +14,8 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
     <option value="degats">Dégâts</option>
     <option value="soutien">Soutien</option>
     <option value="utilitaire">Utilitaire</option>
+	<option value="utilitaire">Contrôle</option>
+	<option value="utilitaire">Social</option>
   </select>
 
   <select id="filter-vie" class="filter-select">
@@ -35,54 +37,16 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 </div>
 
 
+<div class="class-grid">
 
-<div class="card-grid">
-
-  <a href="page_alchimiste.html" class="art-card-link">
-    <figure style="--c: #1ed10d;"> 
-      <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste">
-      <figcaption>
-        Alchimiste
-        <span>Maître des potions</span>
-      </figcaption>
-    </figure>
-  </a>
-
-  <a href="page_barbare.html" class="art-card-link">
-    <figure style="--c: #810000;">
-      <img src="../Illustrations/Classes/Barbare24.jpeg" alt="Barbare">
-      <figcaption>
-        Barbare
-        <span>Rage primitive</span>
-      </figcaption>
-    </figure>
-  </a>
-
-  <a href="page_magicien.html" class="art-card-link">
-    <figure style="--c: #1956ba;">
-      <img src="../Illustrations/Classes/Magicien24.jpeg" alt="Magicien">
-      <figcaption>
-        Magicien
-        <span>Savoir arcanique</span>
-      </figcaption>
-    </figure>
-  </a>
-
-</div>
-
-
-<div class="rpg-grid">
-
-<a href="page_alchimiste.html" class="dnd-card" style="--accent-color: #1ed10d;">
+<a href=./Alchimiste/Alchimiste/ class="class-card" style="--accent-color: #1ed10d;">
   
-  <div class="dnd-card-header">
+  <div class="class-card-header">
     <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
-    <div class="class-icon">⚗️</div> 
   </div>
 
-  <div class="dnd-card-body">
-    <h2 class="dnd-card-title">Alchimiste</h2>
-    
+  <div class="class-card-body">
+    <h2 class="class-card-title">Alchimiste</h2>
     <div class="dnd-stats-row">
       <div class="stat-item">
         <span class="stat-label">Type</span>
@@ -97,23 +61,28 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
         <span class="stat-value medium">Moyenne</span>
       </div>
     </div>
-
-    <div class="dnd-card-tags">
+    <div class="class-card-tags">
        <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
        <span class="flip-card-tag">Artisanat</span>
     </div>
-
-    <p class="dnd-card-desc">
+    <p class="class-card-desc">
       Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis...
     </p>
   </div>
 
-  <div class="dnd-card-footer">
+  <div class="class-card-footer">
     <span class="dnd-btn">Voir la fiche</span>
   </div>
 </a>
 
   </div>
+
+
+
+
+
+
+
 
 
 <div class="card-grid">
