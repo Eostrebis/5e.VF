@@ -220,126 +220,97 @@
   margin: 0 auto;
 }
 
-/* --- 2. La Carte (Design) --- */
+/* --- 1. La Carte (Conteneur) --- */
 .class-card {
   display: flex;
   flex-direction: column;
-  background: #ffffff;
+  background-color: #000; /* Fond noir par sécurité derrière l'image */
   border-radius: 8px;
-  overflow: hidden; /* Important pour cacher ce qui sort du cadre */
+  overflow: hidden;
   text-decoration: none;
   color: #333;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
   border-top: 5px solid var(--accent-color);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
-  
-  /* NOUVEAU : Nécessaire pour positionner le texte caché */
-  position: relative; 
+  position: relative; /* Indispensable pour positionner l'image en absolu */
 }
 
-/* NOUVEAU : Le texte qui apparaît en fond */
+/* Texte "VOIR LA FICHE" (Caché par défaut) */
 .class-card::before {
-  content: "Voir la fiche"; /* Le texte à afficher */
-  
-  /* Positionnement : on le place dans la zone du corps */
+  content: "Voir la fiche";
   position: absolute;
-  top: 180px; /* Hauteur de l'image (header) pour commencer juste en dessous */
-  bottom: 0;
-  left: 0;
-  right: 0;
-  
-  /* Centrage du texte */
+  inset: 0; /* Prend tout l'espace */
   display: flex;
   align-items: center;
   justify-content: center;
-  
-  /* Style du texte */
   font-family: 'Roboto', sans-serif;
-  font-size: 1.8rem;
-  font-weight: bold;
+  font-size: 2rem;
+  font-weight: 800;
   text-transform: uppercase;
-  color: var(--accent-color); /* Utilise la couleur de la carte */
-  background-color: transparent; /* Fond transparent demandé */
-  
-  z-index: 0; /* Reste derrière le contenu par défaut */
-  opacity: 0; /* Invisible par défaut */
-  transition: opacity 0.3s ease;
+  font-style: italic;
+  color: #fff;
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+  z-index: 1; 
+  opacity: 0;
+  transition: opacity 0.3s ease 0.1s;
 }
 
-/* Effet Hover global sur la carte */
 .class-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.3);
 }
 
-/* NOUVEAU : On fait apparaître le texte au survol */
 .class-card:hover::before {
   opacity: 1;
-  transition-delay: 0.1s;
 }
 
-/* --- 3. L'Image (Header) --- */
-/* ... (Le code de l'image ne change pas, elle reste fixe) ... */
-.class-card-header {
-  height: 180px;
-  width: 100%;
-  overflow: hidden;
-  background-color: #f4f4f4;
-  position: relative;
-  border-bottom: 1px solid #eee;
-  z-index: 2; /* L'image reste au-dessus */
-}
-
-.class-card-header img {
+/* --- 2. L'Image de Fond (Nouvelle classe) --- */
+.card-background {
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
-  object-fit: cover;
-  object-position: top center;
-  transition: transform 0.5s ease;
+  object-fit: cover; /* Remplit tout l'espace sans déformer */
+  object-position: top center; /* Focus sur le haut (visage) */
+  z-index: 0; /* Tout au fond */
+  transition: transform 0.5s ease, filter 0.3s ease;
 }
 
-.class-card:hover .class-card-header img {
-  transform: scale(1.1);
+/* Effet sur l'image au survol */
+.class-card:hover .card-background {
+  transform: scale(1.1); /* Zoom léger */
+  filter: brightness(0.6); /* Assombrit pour lire "Voir la fiche" */
 }
 
-/* --- 4. Le Corps (Le bloc flottant incrusté) --- */
+/* --- 3. Le Corps (Bloc Incrusté) --- */
 .class-card-body {
-  padding: 15px 20px; /* Un peu moins de padding vertical pour l'équilibre */
+  padding: 15px 20px;
   flex-grow: 1;
   display: flex;
   flex-direction: column;
   
-  /* C'est ici que l'effet incrusté se joue : */
-  /* Haut: 170px (pour voir le visage) */
-  /* Droite/Gauche: 15px (pour voir l'image sur les côtés) */
-  /* Bas: 0 (collé au footer) */
-  margin: 170px 15px 0 15px; 
+  /* L'effet incrusté : marges pour laisser voir l'image autour */
+  margin: 180px 15px 0 15px; 
   
   background-color: #ffffff;
-  
-  /* On arrondit uniquement le haut du bloc texte */
-  border-radius: 8px 8px 0 0; 
-  
-  /* Une petite ombre pour bien détacher le texte de l'image de fond */
-  box-shadow: 0 -4px 15px rgba(0,0,0,0.2);
+  border-radius: 8px 8px 0 0; /* Arrondi haut */
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.1); /* Ombre douce */
   
   position: relative;
-  z-index: 2;
+  z-index: 2; /* Au-dessus de l'image */
   
-  /* L'animation de sortie vers la gauche */
+  /* Animation de sortie */
   transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* Au survol, on évacue le panneau vers la gauche */
-/* On augmente le pourcentage car le bloc est plus étroit, il doit aller plus loin */
+/* Au survol, le corps part à gauche */
 .class-card:hover .class-card-body {
-  transform: translateX(-150%); 
+  transform: translateX(-150%);
 }
 
 .class-card-title {
   font-family: 'Roboto', sans-serif;
-  font-size: 1.4rem; /* Légèrement réduit pour s'adapter à la largeur moindre */
+  font-size: 1.4rem;
   font-weight: 800;
   text-transform: uppercase;
   margin: 0 0 10px 0;
@@ -347,7 +318,6 @@
   letter-spacing: 0.5px;
 }
 
-/* Zone des Tags */
 .class-card-tags {
   margin-bottom: 12px;
   display: flex;
@@ -355,34 +325,29 @@
   gap: 6px; 
 }
 
-/* Description */
 .class-card-desc {
   font-size: 0.9rem;
   line-height: 1.5;
   color: #555;
   margin: 0;
   display: -webkit-box;
-  -webkit-line-clamp: 3; /* Nombre de lignes de texte */
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-/* --- 5. Le Footer (La base du bloc flottant) --- */
+/* --- 4. Le Footer (Base du bloc incrusté) --- */
 .class-card-footer {
   padding: 12px 20px;
   border-top: 1px solid #eee;
   background-color: #fafafa;
   text-align: right;
   
-  /* On applique les mêmes marges latérales que le body pour l'alignement */
-  /* Et on ajoute une marge en bas (15px) pour voir l'image en bas aussi */
-  margin: 0 15px 20px 15px;
+  /* Marges identiques au body + marge bas */
+  margin: 0 15px 20px 15px; 
   
-  /* On arrondit le bas pour fermer la "capsule" */
-  border-radius: 0 0 8px 8px;
-  
-  /* Ombre pour la continuité avec le body */
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  border-radius: 0 0 8px 8px; /* Arrondi bas */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
   
   position: relative;
   z-index: 2;
