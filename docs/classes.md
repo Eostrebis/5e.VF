@@ -8,6 +8,30 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 <div class="card-grid">
 
+<a href="page_alchimiste.html" class="rpg-card" style="--card-accent: #1ed10d;">
+  
+  <div class="rpg-card-header">
+    <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
+  </div>
+
+  <div class="rpg-card-body">
+    
+    <h3 class="card-title">Alchimiste</h3>
+    <div class="card-subtitle">Combiner des réactifs pour produire des effets détonnants !</div>
+
+    <div class="card-tags">
+       <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFF;">Intelligence</span>
+       <span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
+    </div>
+
+    <p class="card-excerpt">
+      Un gnome lance des bombes avec enthousiasme, semant le chaos... 
+      <span class="read-more">Voir la fiche &rarr;</span>
+    </p>
+
+  </div>
+</a>
+
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #1ed10d;">
   <div class="flip-card-inner">
