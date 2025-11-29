@@ -304,11 +304,18 @@
 }
 
 /* --- Modification du Titre --- */
+.class-card-title-wrapper {
+  display: flex;
+  align-items: center; /* Centre verticalement le logo par rapport au texte */
+  gap: 12px; /* Espace entre le logo et le bloc de texte */
+  margin-bottom: 8px; /* Espace sous l'en-tête avant les tags */
+}
+
 .class-card-title {
   /* On active Flexbox pour mettre l'image et le texte côte à côte */
-  display: flex; 
-  align-items: center; /* Centre verticalement l'icône par rapport au texte */
-  gap: 10px; /* Espace entre l'icône et le texte */
+  display: flex;
+  flex-direction: column; /* Empile le titre et le sous-titre verticalement */
+  justify-content: center;
   
   /* Vos styles existants conservés */
   font-family: 'Roboto', sans-serif;
@@ -324,6 +331,7 @@
   width: 100px;  /* Ajustez la taille selon vos besoins */
   height: 100px;
   object-fit: contain; /* Empêche l'image de se déformer */
+  flex-shrink: 0; /* Empêche le logo de s'écraser si le texte est long */
 }
 
 /* --- 3. Le Corps (Bloc Incrusté Asymétrique) --- */
