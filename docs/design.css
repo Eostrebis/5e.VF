@@ -281,6 +281,30 @@
   filter: brightness(0.6); /* Assombrit pour lire "Voir la fiche" */
 }
 
+/* --- Modification du Titre --- */
+.class-card-title {
+  /* On active Flexbox pour mettre l'image et le texte côte à côte */
+  display: flex; 
+  align-items: center; /* Centre verticalement l'icône par rapport au texte */
+  gap: 10px; /* Espace entre l'icône et le texte */
+  
+  /* Vos styles existants conservés */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 0 0 10px 0;
+  color: #242424;
+  letter-spacing: 0.5px;
+}
+
+/* --- Nouvelle classe pour l'icône --- */
+.title-icon {
+  width: 30px;  /* Ajustez la taille selon vos besoins */
+  height: 30px;
+  object-fit: contain; /* Empêche l'image de se déformer */
+}
+
 /* --- 3. Le Corps (Bloc Incrusté Asymétrique) --- */
 .class-card-body {
   padding: 15px 20px;
