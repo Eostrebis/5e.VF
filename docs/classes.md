@@ -181,7 +181,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Semi-lanceur 🏹</span>
+	        <span class="stat-value">½ Caster 🏹</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
@@ -201,7 +201,46 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 	    <span class="class-card-desc">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</span>
 	  </div>
 	</a>
-
+<!-- Carte Capitaine -->
+	<a
+	href=./Capitaine/Capitaine/
+	class="class-card"
+	data-type="social soutien"
+	data-vie="d8"
+	data-difficulte="honneur"
+	data-text="Au cœur d’une scène épique se mêlent figures de commandement et intrigues, où une demi-elfe haute décorée et un orque robuste, aux côtés d’un maître de guilde astucieux, annoncent leur passage par trompettes et percussions.
+Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement la cohésion de leurs troupes et se tiennent toujours aux côtés de leurs lieutenants, garantissant la victoire sans infliger le coup de grâce."
+	style="--accent-color: #34495e;">
+	    <img src="../Illustrations/Classes/Capitaine_background.png" alt="Capitaine" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Capitaine.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Capitaine
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">Martial ⚔️</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d8</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">For / Dex + Cha</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+			<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
+	    </div>
+	    <span class="class-card-desc">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</span>
+	  </div>
+	</a>
 
 
 
@@ -214,60 +253,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 
 
 
-<!-- Carte Barde -->
-<div class="flip-card" style="--card-color: #6f4774;">
-  <div class="flip-card-inner">
-    <a href=./Barde/Barde/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Barde24.jpeg>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">💫 Barde 📜
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
-	    </div>
-        <div class="flip-card-subtitle">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la musique et les mots, mêlant savoir, inspiration et tromperie pour renforcer leurs alliés, troubler leurs ennemis et tisser la réalité à leur image.<br/>
-Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant.
-        </div>
-	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
 
-<!-- Carte Capitaine -->
-<div class="flip-card" style="--card-color: #34495e;">
-  <div class="flip-card-inner">
-    <a href=./Capitaine/Capitaine/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Capitaine.png>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Capitaine ⚔️
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
-	    </div>
-        <div class="flip-card-subtitle">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Au cœur d’une scène épique se mêlent figures de commandement et intrigues, où une demi-elfe haute décorée et un orque robuste, aux côtés d’un maître de guilde astucieux, annoncent leur passage par trompettes et percussions.<br/>
-Dans le tumulte, les actions se succèdent : les kobolds se faufilent, un archer humain décochait ses flèches contre un dragon enragé et une mage gnomide libère une puissante énergie arcanique pendant qu’un plan se précise sous le regard féroce d’une chef de compagnie.<br/>
-Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement la cohésion de leurs troupes et se tiennent toujours aux côtés de leurs lieutenants, garantissant la victoire sans infliger le coup de grâce.
-        </div>
-	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
-			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
-		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
 
 <!-- Carte Clerc -->
 <div class="flip-card" style="--card-color: #8c8c8c;">
