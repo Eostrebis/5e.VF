@@ -32,9 +32,3 @@ Peuple souterrain, les gobelins peuvent être trouvés partout, souvent aux côt
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long. Vous ne pouvez pas l'utiliser plus d'une fois par tour.
 
 **Évasion Agile.** Vous pouvez utiliser votre action bonus pour vous désengager ou vous cacher.
-
-
-
-
-
-

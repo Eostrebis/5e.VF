@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
@@ -13,13 +13,13 @@ La personnalité d'un gnome s'exprime énormément dans son apparence. La barbe 
 
 #### Sous-races
 
-En fonction de leur lieu d'habitation, les gnomes ont évolués en différentes sous-races : 
+En fonction de leur lieu d'habitation, les gnomes ont évolué en différentes sous-races : 
 
-| Sous-race                                | Description |
-| ---------------------------------------- | ----------- |
-| [[#Gnome des profondeurs (Svirfneblin)]] |             |
-| [[#Gnome des forêts]]                    |             |
-| [[#Gnome des roches]]                    |             |
+| Sous-race                                | Description                                                          |
+| ---------------------------------------- | -------------------------------------------------------------------- |
+| [[#Gnome des profondeurs (Svirfneblin)]] | Habitants de l'Outreterre, furtifs et résistants à la magie.         |
+| [[#Gnome des forêts]]                    | Illusionnistes nés, capables de communiquer avec les petits animaux. |
+| [[#Gnome des roches]]                    | Inventeurs robustes et créateurs de petits dispositifs mécaniques.   |
 
 ### Culture
 
@@ -59,7 +59,7 @@ Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La m
 
 ### Description
 
-Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et sont infusés de la magie de leur domaine. Ils peuvent se camoufler et leur magie svirfneblin les rend difficiles à localiser. Ces compétences leur ont permis de survivre pendant des générations au milieu des dangers de l'Outre-Terre.
+Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et sont imprégnés de la magie de leur domaine. Ils peuvent se camoufler et leur magie svirfneblin les rend difficiles à localiser. Ces compétences leur ont permis de survivre pendant des générations au milieu des dangers de l'Outre-Terre.
 
 ### Mécaniques
 

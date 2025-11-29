@@ -371,7 +371,7 @@ spells: "true"
 | Prismatic Spray                      | [[Rayons Prismatiques]]                   |
 | Prismatic Wall                       | [[Mur Prismatique]]                       |
 | Private Sanctum                      | [[Sanctuaire Privé]]                      |
-| Produce Flame                        | [[Flammes]]                               |
+| Produce Flame                        | [[Flamme]]                               |
 | Programmed Illusion                  | [[Illusion Programmée]]                   |
 | Project Image                        | [[Projection d'Image]]                    |
 | Protection from Energy               | [[Protection contre une Énergie]]         |

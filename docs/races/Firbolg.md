@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
@@ -31,8 +31,8 @@ La magie d'un firbolg est obscurante, ce qui a permis à ses ancêtres de traver
 
 L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour ces sorts (vous choisissez au moment où vous sélectionnez cette race).
 
-**Pas Caché.** Pour une action visible, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, réalisiez un jet de dégâts, ou forciez quelqu'un à réaliser un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
+**Pas Caché.** Pour une action bonus, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, réalisiez un jet de dégâts, ou forciez quelqu'un à réaliser un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
 
-**Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, tirer, soulever.
+**Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, pousser, tirer, soulever.
 
-**Dialogue de la Bête et de la Feuille.** Vous avez la capacité de communiquer légèrement avec les Bêtes, Plantes et la végétation. Ils peuvent comprendre le sens de vos mots, même si vous n'avez pas de disposition particulière à les comprendre en retour. Vous avez l'avantage à tous les jets de Charisme que vous réalisez pour les influencer.
+**Dialogue de la Bête et de la Feuille.** Vous avez la capacité de communiquer de manière limitée avec les Bêtes, Plantes et la végétation. Ils peuvent comprendre le sens de vos mots, même si vous n'avez pas de disposition particulière à les comprendre en retour. Vous avez l'avantage à tous les jets de Charisme que vous réalisez pour les influencer.

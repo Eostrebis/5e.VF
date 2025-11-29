@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
-Les giffs sont un peuple de grand et larges individus avec des caractéristiques d'hippopotame. La plupart ont la peau lisse, tandis que d'autres possèdent de petits poils sur leur visage et au-dessus de leur tête. D'une taille impressionnante et au physique inoubliable, les giffs sont remarqués où qu'ils aillent.
+Les giffs sont un peuple de grands et larges individus avec des caractéristiques d'hippopotame. La plupart ont la peau lisse, tandis que d'autres possèdent de petits poils sur leur visage et au-dessus de leur tête. D'une taille impressionnante et au physique inoubliable, les giffs sont remarqués où qu'ils aillent.
 
 La plupart des giffs pensent être originaires d'un autre monde, même si ce monde natal est désormais un objet des légendes, puisqu'aucun giff encore vivant ne l'a vu ou connaît son emplacement. Les entités divines qui ont créé les giffs sont tout autant oubliées. Leurs immenses corps pétrifiés voguent dans la Mer Astrale, isolés et impossible à reconnaître.
 
@@ -21,7 +21,7 @@ Les giffs ont un débat de société important sur la façon dont leur nom doit 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] ainsi que le [[Langes#Jypègue|Jypègue]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] ainsi que le [[Langues#Jypègue|Jypègue]].
 
 **Âge.** La plupart des giffs vivant dans le plan Astral, ils ne connaissent que peu la vieillesse. Néanmoins, un giff sur le Plan Matériel vieillira bien plus rapidement qu'un humain : il atteindra sa taille adulte en deux ans et aura une espérance de vie de 40 ans environ. 
 
@@ -33,4 +33,4 @@ Les giffs ont un débat de société important sur la façon dont leur nom doit 
 
 **Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété _Chargement_ de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
 
-**Carrure d'Hippo.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Force. De plus, vous êtes considéré comme d'une taille supplémentaire pour déterminer votre capacité de charge.
+**Carrure d'Hippo.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Force. De plus, vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de charge.
