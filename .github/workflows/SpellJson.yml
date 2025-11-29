@@ -1,12 +1,15 @@
 # This generates spells.json
 
-name: Generate spells.json
+name: Spells
 
 # Controls when the action will run. Workflow runs when manually triggered using the UI
 # or API.
 
 on:
-  workflow_dispatch:
+  workflow_run:
+    workflows: [Update Progress]
+    types:
+      - completed
     
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
