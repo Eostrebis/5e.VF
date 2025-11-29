@@ -231,7 +231,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For / Dex + Cha</span>
+	        <span class="stat-value">For/Dex + Cha</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
