@@ -119,7 +119,46 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	    <span class="class-card-desc">Capable de renverser des pays entiers à coup de marteau !</span>
 	  </div>
 	</a>
-
+<!-- Carte Barbare -->
+	<a
+	href=./Barbare/Barbare/
+	class="class-card"
+	data-type="degats tank"
+	data-vie="d12"
+	data-difficulte="explorateur"
+	data-text="Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.<br/>
+Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur."
+	style="--accent-color: #810000;">
+	    <img src="../Illustrations/Classes/Barbare_background.png" alt="Barbare" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Barbare.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Barbare
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">Martial ⚔️</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d12</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">Con + For</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+			<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+	    </div>
+	    <span class="class-card-desc">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</span>
+	  </div>
+	</a>
 
 
 
@@ -131,59 +170,8 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 
 
 
-<!-- Carte Artisan -->
-<div class="flip-card" style="--card-color: #efd473;">
-  <div class="flip-card-inner">
-    <a href=./Artisan/Artisan/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Artisan.png>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Artisan ⚔️
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
-	    </div>
-        <div class="flip-card-subtitle">Capable de renverser des pays entiers à coup de marteau !</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.<br/>
-Tous sont des génies créatifs, capables non seulement de fabriquer de l'équipement de maître, mais aussi d’imaginer des inventions originales et redoutables.
-        </div>
-	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
-			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
 
 
-<!-- Carte Barbare -->
-<div class="flip-card" style="--card-color: #810000;">
-  <div class="flip-card-inner">
-    <a href=./Barbare/Barbare/ class="flip-card-front">
-	<img class="flip-card-img" src=../Illustrations/Classes/Barbare24.jpeg>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Barbare ⚔️
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
-	    </div>
-        <div class="flip-card-subtitle">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.<br/>
-Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur.
-        </div>
-	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #FCD33B; --text-color: #FFFFFF; --weight: bold;">Constitution</span>
-			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
-		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
 
 <!-- Carte Barde -->
 <div class="flip-card" style="--card-color: #6f4774;">
