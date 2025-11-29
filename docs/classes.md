@@ -39,7 +39,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 <div class="class-grid">
 
-<a href=./Alchimiste/Alchimiste/ class="class-card" data-type="support" style="--accent-color: #1ed10d;">
+<a href=./Alchimiste/Alchimiste/ class="class-card" data-type="Soutien" style="--accent-color: #1ed10d;">
     <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" class="card-background" loading="lazy">
 
   <div class="class-card-body">
@@ -60,7 +60,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
     </div>
     <div class="class-card-tags">
        <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
     </div>
     <p class="class-card-desc">
@@ -102,7 +102,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
         </div>
 	    <div class="flip-card-tagbox">
 		<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
@@ -183,7 +183,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 	    </div>
       </div>
@@ -212,7 +212,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 	    </div>
       </div>
     </a>
@@ -238,7 +238,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
 		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 	    </div>
       </div>
     </a>
@@ -343,7 +343,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
-			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 	    </div>
       </div>
     </a>
@@ -397,7 +397,7 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
         </div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 	    </div>
       </div>
@@ -425,7 +425,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 					<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 					<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
-					<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+					<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 					<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 					 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
@@ -482,7 +482,7 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 			<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
 		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
       </div>
@@ -617,7 +617,7 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 			<span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: #FFFFFF; --weight: bold;">Force</span>
 		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 	    </div>
       </div>
     </a>
@@ -695,7 +695,7 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #ff8fab; --text-color: #FFFFFF; --weight: bold;">Charisme</span>
 		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 	    </div>
 	</div>
     </a>
