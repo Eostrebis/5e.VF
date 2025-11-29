@@ -176,20 +176,24 @@
 /* Structure globale de la carte */
 .flip-card {
   box-sizing: border-box;
-  height: 350px;
+  height: 400px;
+  width: 100%;
   margin-bottom: 40px;
+
+  background-color: transparent;
+  perspective: 1000px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
 }
 
 /* Structure interne de la carte */
 .flip-card-inner {
   position: relative;
-  width: 100%;
   height: 100%;
   margin-bottom: 50px;
   border-radius: 10px;
   box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
-  transition: .6s .1s;
-  transform-style: preserve-3d;
 }
 
 /* Affiche le dégradé de couleur sur la droite de la carte */
