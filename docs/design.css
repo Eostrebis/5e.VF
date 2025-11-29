@@ -156,6 +156,111 @@
   font-weight: bold;
 }
 
+
+
+
+
+
+/* --- 1. La Carte (Conteneur) --- */
+.rpg-card {
+  display: flex;
+  flex-direction: column; /* Empile image puis texte */
+  background: white;
+  border-radius: 12px; /* Coins arrondis modernes */
+  overflow: hidden; /* Pour que l'image respecte les coins */
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Ombre douce */
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%; /* Remplit la grille */
+  border-bottom: 4px solid var(--card-accent); /* Touche de couleur en bas */
+}
+
+/* Effet au survol : la carte "lévite" */
+.rpg-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+}
+
+/* --- 2. L'Image --- */
+.rpg-card-header {
+  height: 200px; /* Hauteur fixe pour l'image */
+  width: 100%;
+  overflow: hidden;
+  background: #f0f0f0;
+}
+
+.rpg-card-header img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* L'image remplit la zone sans être écrasée */
+  object-position: top center; /* On cadre sur le haut (visages) */
+  transition: transform 0.5s ease;
+}
+
+/* Zoom léger de l'image au survol */
+.rpg-card:hover .rpg-card-header img {
+  transform: scale(1.05);
+}
+
+/* --- 3. Le Contenu --- */
+.rpg-card-body {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1; /* Pousse le contenu pour remplir l'espace */
+}
+
+.card-title {
+  font-size: 1.4rem;
+  margin: 0 0 5px 0;
+  color: #2c3e50;
+  font-family: serif; /* Police "Fantasy" si vous avez */
+}
+
+.card-subtitle {
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+  margin-bottom: 15px;
+  min-height: 40px; /* Aligne visuellement les cartes */
+}
+
+/* Zone des tags */
+.card-tags {
+  margin-bottom: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px; /* Espace entre les tags */
+}
+
+/* Description courte */
+.card-excerpt {
+  font-size: 0.95rem;
+  line-height: 1.5;
+  color: #444;
+  margin-top: auto; /* Pousse le texte vers le bas si besoin */
+  
+  /* Astuce pour couper le texte après 3 lignes (Webkit) */
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.read-more {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+  color: var(--card-accent); /* Utilise la couleur de la classe */
+  font-size: 0.9rem;
+}
+
+
+
+
+
+
 /* Style pour la gestion des cartes de classe */
 
 .card-grid {
