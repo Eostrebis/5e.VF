@@ -38,7 +38,7 @@ Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alch
       <img class="flip-card-img" src=../Illustrations/Classes/Artisan.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Artisan
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 	    </div>
         <div class="flip-card-subtitle">Capable de renverser des pays entiers à coup de marteau !</div>
         <div class="flip-card-bar"></div>
@@ -66,7 +66,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	<img class="flip-card-img" src=../Illustrations/Classes/Barbare24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Barbare
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</div>
         <div class="flip-card-bar"></div>
@@ -92,7 +92,7 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
       <img class="flip-card-img" src=../Illustrations/Classes/Barde24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Barde 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</div>
         <div class="flip-card-bar"></div>
@@ -119,7 +119,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
       <img class="flip-card-img" src=../Illustrations/Classes/Capitaine.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Capitaine
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 	    </div>
         <div class="flip-card-subtitle">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</div>
         <div class="flip-card-bar"></div>
@@ -147,7 +147,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
       <img class="flip-card-img" src=../Illustrations/Classes/Clerc24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">🧙‍♂️ Clerc 🛐
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</div>
         <div class="flip-card-bar"></div>
@@ -173,7 +173,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
       <img class="flip-card-img" src=../Illustrations/Classes/Druide24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Druide 🌿
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</div>
         <div class="flip-card-bar"></div>
@@ -199,7 +199,7 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
       <img class="flip-card-img" src=../Illustrations/Classes/Ensorceleur24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">🧙‍♂️ Ensorceleur 🌿
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Porteur d’une magie innée et sauvage, il canalise un pouvoir brut venu de ses origines mystérieuses pour façonner le combat et la réalité.</div>
         <div class="flip-card-bar"></div>
@@ -225,7 +225,7 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
       <img class="flip-card-img" src=../Illustrations/Classes/Fusilier24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Fusilier
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Tireur d’élite maniant armes à feu ou arcanotech, il frappe de loin avec précision, calme et puissance.</div>
         <div class="flip-card-bar"></div>
@@ -250,7 +250,7 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
       <img class="flip-card-img" src=../Illustrations/Classes/Gardien.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Gardien
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Rempart vivant entre ses alliés et le danger, il encaisse les coups, contrôle le champ de bataille et protège ceux qui l’entourent.</div>
         <div class="flip-card-bar"></div>
@@ -279,7 +279,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
       <img class="flip-card-img" src=../Illustrations/Classes/Guerrier24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Guerrier
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Maître d’armes polyvalent, il domine le champ de bataille par sa technique, sa discipline et sa détermination inébranlable.</div>
         <div class="flip-card-bar"></div>
@@ -307,7 +307,7 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
       <img class="flip-card-img" src=../Illustrations/Classes/Investigateur.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Investigateur 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Esprit acéré et œil perçant, il traque la vérité, déjoue les complots et révèle les secrets cachés sous la surface.</div>
         <div class="flip-card-bar"></div>
@@ -333,7 +333,7 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
       <img class="flip-card-img" src=../Illustrations/Classes/Ligateur.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Ligateur 🛐
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 	    </div>
         <div class="flip-card-subtitle">Maîtres des pactes interdits, les ligateurs manipulent des forces occultes enchaînées à leur volonté, tirant pouvoir et savoir d'entités que nul autre n’ose invoquer.</div>
         <div class="flip-card-bar"></div>
@@ -364,7 +364,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
       <img class="flip-card-img" src=../Illustrations/Classes/Mage%20de%20Guerre.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Mage de Guerre 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les mages de guerre mêlent puissance magique et maîtrise martiale, lançant des sorts destructeurs tout en maniant armes et tactiques de combat.</div>
         <div class="flip-card-bar"></div>
@@ -390,7 +390,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
       <img class="flip-card-img" src=../Illustrations/Classes/Magicien24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">🧙‍♂️ Magicien 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les mages maîtrisent l’art des arcanes, lançant des sorts puissants et variés grâce à leur savoir et leur concentration.</div>
         <div class="flip-card-bar"></div>
@@ -418,7 +418,7 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
       <img class="flip-card-img" src=../Illustrations/Classes/Martyr.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Martyr 🛐
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les martyrs sacrifient leur corps et leur vie pour protéger leurs alliés, transformant leur souffrance en force et inspiration sur le champ de bataille.</div>
         <div class="flip-card-bar"></div>
@@ -444,7 +444,7 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
       <img class="flip-card-img" src=../Illustrations/Classes/Moine24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Moine
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</div>
         <div class="flip-card-bar"></div>
@@ -471,7 +471,7 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
       <img class="flip-card-img" src=../Illustrations/Classes/Nécromancien.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">🧙‍♂️ Nécromancien 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 	    </div>
         <div class="flip-card-subtitle">Les nécromanciens manipulent la magie de la mort pour contrôler les morts-vivants et exploiter les forces obscures.</div>
         <div class="flip-card-bar"></div>
@@ -497,7 +497,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
       <img class="flip-card-img" src=../Illustrations/Classes/Occultiste24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Occultiste 🛐
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</div>
         <div class="flip-card-bar"></div>
@@ -524,7 +524,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
       <img class="flip-card-img" src=../Illustrations/Classes/Paladin24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Paladin 🛐
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les paladins sont des guerriers sacrés, incarnant la justice divine et protégeant les innocents avec foi et puissance.</div>
         <div class="flip-card-bar"></div>
@@ -552,7 +552,7 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
       <img class="flip-card-img" src=../Illustrations/Classes/Ranger24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Ranger 🌿
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les rangers sont des éclaireurs et chasseurs experts, maîtrisant la traque, la survie en milieu sauvage, et le combat à distance.</div>
         <div class="flip-card-bar"></div>
@@ -578,7 +578,7 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
       <img class="flip-card-img" src=../Illustrations/Classes/Roublard24.jpeg>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Roublard 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
 		</div>
         <div class="flip-card-subtitle">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</div>
@@ -605,7 +605,7 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
       <img class="flip-card-img" src=../Illustrations/Classes/Sorcière.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">🧙‍♂️ Sorcière 🌿
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les sorcières manipulent une magie ancienne et mystérieuse, tissant des sorts à travers rituels secrets et pactes occultes.</div>
         <div class="flip-card-bar"></div>
@@ -631,7 +631,7 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
       <img class="flip-card-img" src=../Illustrations/Classes/Tisserand.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">💫 Tisserand 📜
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Les tisserands manipulent les fils de la réalité pour créer des sorts complexes et contrôler le destin autour d’eux.</div>
         <div class="flip-card-bar"></div>
