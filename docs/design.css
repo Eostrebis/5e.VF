@@ -220,75 +220,65 @@
   margin: 0 auto;
 }
 
-/* --- 2. La Carte (Design) --- */
+/* --- 2. La Carte (Conteneur global) --- */
 .class-card {
   display: flex;
   flex-direction: column;
-  background: #ffffff;
+  /* Plus de fond blanc ici, car c'est l'image qui fera le fond */
+  background-color: #000; 
   border-radius: 8px;
-  overflow: hidden; /* Important pour cacher ce qui sort du cadre */
+  overflow: hidden;
   text-decoration: none;
   color: #333;
   box-shadow: 0 2px 8px rgba(0,0,0,0.1);
   border-top: 5px solid var(--accent-color);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
   height: 100%;
-  
-  /* NOUVEAU : Nécessaire pour positionner le texte caché */
-  position: relative; 
+  position: relative; /* Référence pour les positions absolues */
 }
 
-/* NOUVEAU : Le texte qui apparaît en fond */
+/* Texte "VOIR LA FICHE" (Centré et stylisé) */
 .class-card::before {
-  content: "Voir la fiche"; /* Le texte à afficher */
-  
-  /* Positionnement : on le place dans la zone du corps */
+  content: "Voir la fiche";
   position: absolute;
-  top: 180px; /* Hauteur de l'image (header) pour commencer juste en dessous */
-  bottom: 0;
-  left: 0;
-  right: 0;
-  
-  /* Centrage du texte */
+  inset: 0; /* Prend toute la place */
   display: flex;
   align-items: center;
   justify-content: center;
   
-  /* Style du texte */
   font-family: 'Roboto', sans-serif;
-  font-size: 1.8rem;
-  font-weight: bold;
+  font-size: 2rem;
+  font-weight: 800;
   text-transform: uppercase;
-  color: var(--accent-color); /* Utilise la couleur de la carte */
-  background-color: transparent; /* Fond transparent demandé */
+  font-style: italic;
   
-  z-index: 0; /* Reste derrière le contenu par défaut */
-  opacity: 0; /* Invisible par défaut */
-  transition: opacity 0.3s ease;
+  /* Le texte prend la couleur d'accentuation */
+  color: #fff; 
+  text-shadow: 0 2px 10px rgba(0,0,0,0.7); /* Ombre pour lisibilité sur l'image */
+  
+  z-index: 1; /* Au-dessus de l'image, mais sous le corps blanc */
+  opacity: 0;
+  transition: opacity 0.3s ease 0.1s; /* Petit délai pour l'apparition */
 }
 
-/* Effet Hover global sur la carte */
 .class-card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 12px 20px rgba(0,0,0,0.15);
+  box-shadow: 0 12px 20px rgba(0,0,0,0.25);
 }
 
-/* NOUVEAU : On fait apparaître le texte au survol */
 .class-card:hover::before {
   opacity: 1;
-  transition-delay: 0.1s;
 }
 
-/* --- 3. L'Image (Header) --- */
-/* ... (Le code de l'image ne change pas, elle reste fixe) ... */
+/* --- 3. L'Image (Devenue le fond global) --- */
 .class-card-header {
-  height: 180px;
+  /* CHANGEMENT MAJEUR : L'image prend toute la carte */
+  position: absolute;
+  top: 0;
+  left: 0;
   width: 100%;
-  overflow: hidden;
+  height: 100%;
+  z-index: 0; /* Tout au fond */
   background-color: #f4f4f4;
-  position: relative;
-  border-bottom: 1px solid #eee;
-  z-index: 2; /* L'image reste au-dessus */
+  border-bottom: none; /* Plus de bordure car elle fait tout le fond */
 }
 
 .class-card-header img {
@@ -296,30 +286,38 @@
   height: 100%;
   object-fit: cover;
   object-position: top center;
-  transition: transform 0.5s ease;
+  transition: transform 0.5s ease, filter 0.3s ease;
 }
 
+/* Au survol, on assombrit légèrement l'image pour que "VOIR LA FICHE" ressorte mieux */
 .class-card:hover .class-card-header img {
   transform: scale(1.1);
+  filter: brightness(0.7); 
 }
 
-/* --- 4. Le Corps (Texte) --- */
+/* --- 4. Le Corps (Le bloc blanc par-dessus) --- */
 .class-card-body {
   padding: 20px;
   flex-grow: 1;
   display: flex;
   flex-direction: column;
   
-  /* NOUVEAU : Gestion du glissement */
-  background-color: #ffffff; /* Fond blanc pour masquer le texte "Voir la fiche" derrière */
+  /* Positionnement pour laisser voir le haut de l'image (le visage) */
+  margin-top: 180px; 
+  
+  /* C'est ce fond blanc qui cache le bas de l'image */
+  background-color: #ffffff; 
+  
   position: relative;
-  z-index: 1; /* Au-dessus du texte caché */
-  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); /* Animation fluide */
+  z-index: 2; /* Au-dessus de l'image et du texte "Voir la fiche" */
+  
+  /* L'animation de glissement */
+  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* NOUVEAU : Au survol, on décale le corps vers la gauche */
+/* Au survol, le bloc blanc part à gauche */
 .class-card:hover .class-card-body {
-  transform: translateX(-100%);
+  transform: translateX(-105%); /* -105% pour être sûr qu'il sort complètement (y compris l'ombre) */
 }
 
 .class-card-title {
@@ -340,7 +338,7 @@
   gap: 8px; 
 }
 
-/* Description tronquée */
+/* Description */
 .class-card-desc {
   font-size: 0.95rem;
   line-height: 1.6;
@@ -352,25 +350,27 @@
   overflow: hidden;
 }
 
-/* --- 5. Le Footer (Bouton) --- */
+/* --- 5. Le Footer --- */
 .class-card-footer {
   padding: 15px 20px;
   border-top: 1px solid #eee;
-  background-color: #fafafa;
-  text-align: right;
   
-  /* NOUVEAU : Le footer doit aussi glisser */
+  /* Fond blanc pour continuer l'illusion du bloc */
+  background-color: #fafafa; 
+  
+  text-align: right;
   position: relative;
-  z-index: 1;
+  z-index: 2; /* Comme le body */
   transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-/* NOUVEAU : Le footer glisse en même temps que le corps */
+/* Le footer suit le mouvement du body */
 .class-card:hover .class-card-footer {
-  transform: translateX(-100%);
+  transform: translateX(-105%);
 }
 
 .dnd-btn {
+  /* Bouton normal quand la carte est au repos */
   display: inline-block;
   font-size: 0.85rem;
   font-weight: bold;
@@ -380,7 +380,6 @@
   color: var(--accent-color);
   border: 1px solid var(--accent-color);
   background: transparent;
-  transition: all 0.2s ease;
 }
 
 /* Quand on survole la CARTE, le bouton se remplit */
