@@ -63,5 +63,5 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-11-29 12:47:39
+Mis à jour pour la dernière fois le 2025-11-29 12:48:34
     
