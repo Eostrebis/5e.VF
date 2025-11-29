@@ -166,6 +166,101 @@
 
 
 
+/* --- 1. La Grille (Conteneur) --- */
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+/* Le lien qui entoure la carte */
+.art-card-link {
+  text-decoration: none;
+  display: block;
+}
+
+/* --- 2. Votre Code "Figure" (Adapté) --- */
+figure {
+  display: grid;
+  border-radius: 1rem;
+  overflow: hidden;
+  cursor: pointer;
+  margin: 0; /* Important : supprime les marges par défaut du navigateur */
+  height: 400px; /* On impose une hauteur pour uniformiser la grille */
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* Ajout d'une petite ombre */
+}
+
+figure > * {
+  grid-area: 1/1;
+  transition: .4s;
+}
+
+/* L'image doit couvrir toute la zone */
+figure img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Coupe l'image si nécessaire pour remplir */
+  display: block;
+}
+
+figure figcaption {
+  display: grid;
+  align-items: end; /* Texte en bas */
+  
+  font-family: sans-serif;
+  font-size: 2.3rem;
+  font-weight: bold;
+  
+  /* --- VOTRE DEMANDE : ITALIQUE --- */
+  font-style: italic; 
+  
+  color: #0000; /* Texte transparent pour le masque */
+  padding: .75rem;
+  
+  /* Utilisation de la variable --c définie dans le HTML */
+  background: var(--c, #0009); 
+  
+  clip-path: inset(0 var(--_i, 100%) 0 0);
+  
+  /* L'effet de découpage du texte */
+  -webkit-mask:
+    linear-gradient(#000 0 0),
+    linear-gradient(#000 0 0);
+  -webkit-mask-composite: xor;
+  -webkit-mask-clip: text, padding-box;
+  
+  margin: -1px;
+}
+
+/* --- Sous-titre optionnel (dans le span) --- */
+figure figcaption span {
+  font-size: 1rem;
+  font-weight: normal;
+  margin-top: 5px;
+  display: block; /* Force le passage à la ligne */
+}
+
+/* --- Les Effets au Survol --- */
+figure:hover figcaption {
+  --_i: 0%; /* Dévoile le bandeau coloré */
+}
+
+figure:hover img {
+  transform: scale(1.2); /* Zoom l'image */
+}
+
+/* Fallback pour les vieux navigateurs */
+@supports not (-webkit-mask-clip: text) {
+  figure figcaption {
+   -webkit-mask: none;
+   color: #fff;
+  }
+}
+
+
 
 
 
