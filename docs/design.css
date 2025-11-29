@@ -315,8 +315,8 @@
 
 /* --- Nouvelle classe pour l'icône --- */
 .title-icon {
-  width: 30px;  /* Ajustez la taille selon vos besoins */
-  height: 30px;
+  width: 100px;  /* Ajustez la taille selon vos besoins */
+  height: 100px;
   object-fit: contain; /* Empêche l'image de se déformer */
 }
 
