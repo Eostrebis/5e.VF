@@ -158,6 +158,21 @@
 
 /* Style pour la gestion des cartes de classe */
 
+.card-grid {
+  display: grid;
+  /* La ligne magique :
+     - Crée autant de colonnes que possible (auto-fill)
+     - Chaque carte fera au minimum 300px de large
+     - Si l'écran est plus large, elles s'étirent (1fr) pour remplir l'espace
+  */
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+	
+  gap: 20px; 
+  padding: 20px;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
 /* Structure globale de la carte */
 .flip-card {
   box-sizing: border-box;
