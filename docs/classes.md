@@ -6,31 +6,53 @@ title: Choix de classe
 Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
-<div class="card-grid">
 
-<a href="page_alchimiste.html" class="rpg-card" style="--card-accent: #1ed10d;">
+<div class="rpg-grid">
+
+<a href="page_alchimiste.html" class="dnd-card" style="--accent-color: #1ed10d;">
   
-  <div class="rpg-card-header">
+  <div class="dnd-card-header">
     <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
+    <div class="class-icon">⚗️</div> 
   </div>
 
-  <div class="rpg-card-body">
+  <div class="dnd-card-body">
+    <h2 class="dnd-card-title">Alchimiste</h2>
     
-    <h3 class="card-title">Alchimiste</h3>
-    <div class="card-subtitle">Combiner des réactifs pour produire des effets détonnants !</div>
-
-    <div class="card-tags">
-       <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFF;">Intelligence</span>
-       <span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
+    <div class="dnd-stats-row">
+      <div class="stat-item">
+        <span class="stat-label">Type</span>
+        <span class="stat-value">Soutien</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Dés de vie</span>
+        <span class="stat-value">d8</span>
+      </div>
+      <div class="stat-item">
+        <span class="stat-label">Difficulté</span>
+        <span class="stat-value medium">Moyenne</span>
+      </div>
     </div>
 
-    <p class="card-excerpt">
-      Un gnome lance des bombes avec enthousiasme, semant le chaos... 
-      <span class="read-more">Voir la fiche &rarr;</span>
-    </p>
+    <div class="dnd-card-tags">
+       <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
+       <span class="flip-card-tag">Artisanat</span>
+    </div>
 
+    <p class="dnd-card-desc">
+      Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis...
+    </p>
+  </div>
+
+  <div class="dnd-card-footer">
+    <span class="dnd-btn">Voir la fiche</span>
   </div>
 </a>
+
+  </div>
+
+
+<div class="card-grid">
 
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #1ed10d;">
