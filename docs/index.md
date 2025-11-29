@@ -9,46 +9,46 @@ search:
 **Classes.** 11/25 ![](https://geps.dev/progress/51)
 
 > [!INFO]- Détails par classe
-> - **Alchimiste.** ![](https://geps.dev/progress/100) 
-> - **Argartiste.** ![](https://geps.dev/progress/0) 
-> - **Artisan.** ![](https://geps.dev/progress/100) 
-> - **Barbare.** ![](https://geps.dev/progress/48) 
-> - **Barde.** ![](https://geps.dev/progress/36) 
-> - **Capitaine.** ![](https://geps.dev/progress/100) 
-> - **Clerc.** ![](https://geps.dev/progress/100) 
 > - **Druide.** ![](https://geps.dev/progress/0) 
+> - **Moine.** ![](https://geps.dev/progress/100) 
+> - **Martyr.** ![](https://geps.dev/progress/100) 
+> - **Capitaine.** ![](https://geps.dev/progress/100) 
+> - **Guerrier.** ![](https://geps.dev/progress/0) 
+> - **Argartiste.** ![](https://geps.dev/progress/0) 
+> - **Occultiste.** ![](https://geps.dev/progress/0) 
+> - **Roublard.** ![](https://geps.dev/progress/0) 
+> - **Ligateur.** ![](https://geps.dev/progress/91) 
+> - **Artisan.** ![](https://geps.dev/progress/100) 
+> - **Sorcière.** ![](https://geps.dev/progress/0) 
+> - **Alchimiste.** ![](https://geps.dev/progress/100) 
+> - **Tisserand.** ![](https://geps.dev/progress/100) 
+> - **Barde.** ![](https://geps.dev/progress/36) 
+> - **Ranger.** ![](https://geps.dev/progress/0) 
+> - **Nécromancien.** ![](https://geps.dev/progress/0) 
 > - **Ensorceleur.** ![](https://geps.dev/progress/0) 
+> - **Magicien.** ![](https://geps.dev/progress/0) 
 > - **Fusilier.** ![](https://geps.dev/progress/100) 
 > - **Gardien.** ![](https://geps.dev/progress/100) 
-> - **Guerrier.** ![](https://geps.dev/progress/0) 
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
-> - **Ligateur.** ![](https://geps.dev/progress/91) 
+> - **Barbare.** ![](https://geps.dev/progress/48) 
 > - **Mage de Guerre.** ![](https://geps.dev/progress/0) 
-> - **Magicien.** ![](https://geps.dev/progress/0) 
-> - **Martyr.** ![](https://geps.dev/progress/100) 
-> - **Moine.** ![](https://geps.dev/progress/100) 
-> - **Nécromancien.** ![](https://geps.dev/progress/0) 
-> - **Occultiste.** ![](https://geps.dev/progress/0) 
+> - **Clerc.** ![](https://geps.dev/progress/100) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
-> - **Ranger.** ![](https://geps.dev/progress/0) 
-> - **Roublard.** ![](https://geps.dev/progress/0) 
-> - **Sorcière.** ![](https://geps.dev/progress/0) 
-> - **Tisserand.** ![](https://geps.dev/progress/100) 
 
 
 **Sorts.** 350/790 ![](https://geps.dev/progress/44)
 
 > [!INFO]- Sorts traduits par niveau
+> - **8.** 8 
+> - **7.** 6 
 > - **1.** 96 
-> - **2.** 53 
+> - **9.** 7 
+> - **6.** 16 
+> - **5.** 22 
+> - **Cantrips.** 75 
 > - **3.** 39 
 > - **4.** 28 
-> - **5.** 22 
-> - **6.** 16 
-> - **7.** 6 
-> - **8.** 8 
-> - **9.** 7 
-> - **Cantrips.** 75 
+> - **2.** 53 
 
 
 **Races.** 1/42 ![](https://geps.dev/progress/2)
@@ -63,5 +63,5 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-11-29 02:32:57
+Mis à jour pour la dernière fois le 2025-11-29 01:40:30
     

@@ -51,7 +51,7 @@ jobs:
         run: git add .
       - name: commit changed files
         if: steps.git-check.outputs.changes == 'true'
-        run: git commit -m "replacing spells.json"
+        run: git commit -m "updating progress in index.md"
       - name: fetch from branch
         if: steps.git-check.outputs.changes == 'true'
         run: git fetch origin ${{ env.BRANCH_NAME }}
