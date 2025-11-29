@@ -761,3 +761,53 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
   </div>
 </div>
 </div>
+
+
+<script>
+  // 1. On sélectionne les éléments
+  const filterType = document.getElementById('filter-type');
+  const filterVie = document.getElementById('filter-vie');
+  const filterDiff = document.getElementById('filter-difficulte');
+  const cards = document.querySelectorAll('.art-card-link');
+
+  // 2. La fonction principale de filtrage
+  function filterCards() {
+    const typeValue = filterType.value;
+    const vieValue = filterVie.value;
+    const diffValue = filterDiff.value;
+
+    cards.forEach(card => {
+      // On récupère les valeurs de la carte actuelle
+      const cardType = card.getAttribute('data-type');
+      const cardVie = card.getAttribute('data-vie');
+      const cardDiff = card.getAttribute('data-difficulte');
+
+      // On vérifie si la carte correspond à CHAQUE filtre
+      // (Si le filtre est sur "all", on considère que c'est bon)
+      const matchType = (typeValue === 'all' || cardType === typeValue);
+      const matchVie = (vieValue === 'all' || cardVie === vieValue);
+      const matchDiff = (diffValue === 'all' || cardDiff === diffValue);
+
+      // Si tout correspond, on affiche, sinon on cache
+      if (matchType && matchVie && matchDiff) {
+        card.classList.remove('hidden');
+      } else {
+        card.classList.add('hidden');
+      }
+    });
+  }
+
+  // 3. On déclenche la fonction à chaque changement
+  filterType.addEventListener('change', filterCards);
+  filterVie.addEventListener('change', filterCards);
+  filterDiff.addEventListener('change', filterCards);
+
+  // 4. Fonction pour le bouton Reset
+  function resetFilters() {
+    filterType.value = 'all';
+    filterVie.value = 'all';
+    filterDiff.value = 'all';
+    filterCards(); // On relance pour tout réafficher
+  }
+</script>
+
