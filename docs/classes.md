@@ -109,7 +109,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For/Dex + Int</span>
+	        <span class="stat-value">Fo/De + Int</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
@@ -231,7 +231,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For/Dex + Cha</span>
+	        <span class="stat-value">Fo/De + Cha</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
@@ -334,33 +334,6 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 
 
 
-
-
-<!-- Carte Druide -->
-<div class="flip-card" style="--card-color: #a0d87c;">
-  <div class="flip-card-inner">
-    <a href=./Druide/Druide/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Druide24.jpeg>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">💫 Druide 🌿
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
-	    </div>
-        <div class="flip-card-subtitle">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Les druides sont les émissaires de la nature elle-même, appelant les tempêtes, la foudre ou le feu pour défendre les terres sauvages contre toute corruption ou intrusion.<br/>
-Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.<br/>
-Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants.
-        </div>
-	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
-		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
 
 <!-- Carte Ensorceleur -->
 <div class="flip-card" style="--card-color: #e5421f;">
