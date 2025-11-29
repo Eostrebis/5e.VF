@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
-Peuple souterrain, les gobelins peuvent être trouvés partout, souvent aux côtés de leurs semblables les [[Gobelours]] et [[Hobgobelin|hobgobelins]]. Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifeys de la Féerie. Les gobelins prospéraient dans son dangereux domaine grâce à un don de sa part : une intuition surnaturelle pour trouver le point faible des ennemis plus grands qu'eux et ainsi se sortir de situations périlleuses. Les gobelins ont conservé ce don avec eux en voyageant à travers le multivers, même s'ils ne souviennent plus du plan féerique dont ils sont originaires. Maintenant, la plupart des gobelins se collent à leur propre destin, esquivant les complots des dieux et des archifeys.
+Peuple souterrain, les gobelins peuvent être trouvés partout, souvent aux côtés de leurs semblables les [[Gobelours]] et [[Hobgobelin|hobgobelins]]. Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifeys de la Féerie. Les gobelins prospéraient dans son dangereux domaine grâce à un don de sa part : une intuition surnaturelle pour trouver le point faible des ennemis plus grands qu'eux et ainsi se sortir de situations périlleuses. Les gobelins ont conservé ce don avec eux en voyageant à travers le multivers, même s'ils ne se souviennent plus du plan féerique dont ils sont originaires. Maintenant, la plupart des gobelins forgent leur propre destin, esquivant les complots des dieux et des archifeys.
 ![[Gobelin.png]]
 ### Culture
 
@@ -27,7 +27,7 @@ Peuple souterrain, les gobelins peuvent être trouvés partout, souvent aux côt
 
 **Ascendance Féérique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme.
 
-**Fureur des Petits.** Lorsque vous infligez des dégâts à une créature avec une attaque ou un sort et que cette créature est d'une taille supérieure à la vôtre, pouvez faire en sorte que l'attaque inflige des dégâts supplémentaires à la créature. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise.
+**Fureur des Petits.** Lorsque vous infligez des dégâts à une créature avec une attaque ou un sort et que cette créature est d'une taille supérieure à la vôtre, vous pouvez faire en sorte que l'attaque inflige des dégâts supplémentaires à la créature. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise.
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long. Vous ne pouvez pas l'utiliser plus d'une fois par tour.
 

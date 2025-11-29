@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
-Les premiers goliaths vivaient sur les plus hautes montagnes — bien au-delà des arbres, là où l'air se fait rare et où les vents froids soufflent. Cousins lointains des géants et infusés de l'essence surnaturelle de leurs ancêtres, les goliaths se tiennent fièrement du haut de leurs 2 mètres et disposent d'une grande variété de teint de peaux ressemblant à différentes pierres.
+Les premiers goliaths vivaient sur les plus hautes montagnes — bien au-delà des arbres, là où l'air se fait rare et où les vents froids soufflent. Cousins lointains des géants et imprégnés de l'essence surnaturelle de leurs ancêtres, les goliaths se tiennent fièrement du haut de leurs 2 mètres et disposent d'une grande variété de teintes de peaux ressemblant à différentes pierres.
 ![[Goliath.png]]
 ### Culture
 
@@ -23,9 +23,9 @@ Les premiers goliaths vivaient sur les plus hautes montagnes — bien au-delà d
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Petit Géant.** Vous maîtrisez la compétence Athlétisme, et vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
+**Petit Géant.** Vous maîtrisez la compétence Athlétisme, et vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de charge ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
-**Né des Montagnes.** Vous êtes résistants aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
+**Né des Montagnes.** Vous êtes résistant aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
 
 **Endurance de la Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
 

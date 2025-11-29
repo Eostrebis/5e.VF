@@ -1,13 +1,13 @@
 ---
 subrace: false
-status: empty
+status: finished
 ---
 
 ### Description
 
-Certains sages pensent que les sauriens hommes-lézard sont des cousins lointains des drakéïdes et des kobolds. Malgré leur ressemblance à ces autres peuples, les hommes-lézard sont bien à part et ont vécu sur le Plan Matériel depuis la création du monde. Dotés par les dieux d'une résistance physique exceptionnelle et d'une connexion mystique avec le monde naturel, les hommes-lézard peuvent survivre par instinct pur là où les autres mourraient. Grâce à cela, beaucoup de légendes d'hommes-lézard énoncent que le peuple a été placé par les dieux sur le Plan Matériel afin de préserver les merveilles naturelles.
+Certains sages pensent que les sauriens hommes-lézard sont des cousins lointains des drakéïdes et des kobolds. Malgré leur ressemblance avec ces autres peuples, les hommes-lézard sont bien à part et ont vécu sur le Plan Matériel depuis la création du monde. Dotés par les dieux d'une résistance physique exceptionnelle et d'une connexion mystique avec le monde naturel, les hommes-lézard peuvent survivre par instinct pur là où les autres mourraient. Grâce à cela, beaucoup de légendes d'hommes-lézard énoncent que le peuple a été placé par les dieux sur le Plan Matériel afin de préserver les merveilles naturelles.
 
-Les hommes-lézard disposent d'écailles colorées et affichent une grande variété de paternes d'écailles. Leurs caractéristiques faciales sont aussi variables que pour les lézards.
+Les hommes-lézard disposent d'écailles colorées et affichent une grande variété de motifs d'écailles. Leurs caractéristiques faciales sont aussi variables que pour les lézards.
 ![[Homme-Lézard.png]]
 ### Culture
 
@@ -23,9 +23,9 @@ Les hommes-lézard disposent d'écailles colorées et affichent une grande vari�
 
 **Âge.** Les hommes-lézard atteignent la maturité autour de 14 ans et ne vivent que rarement au-delà de 60 ans.
 
-**Taille.** Les hommes-lézard sont un peu plus costauds et grands que les humains, et leurs fioritures colorées les font apparaître plus grand encore. Votre taille est Moyenne (M).
+**Taille.** Les hommes-lézard sont un peu plus costauds et grands que les humains, et leurs crêtes colorées les font apparaître plus grand encore. Votre taille est Moyenne (M).
 
-**Vitesse.** Votre vitesse de base est de 30 ft et vous avez une vitesse de nage de 30 ft.
+**Vitesse.** Votre vitesse de base est de 30 ft. et vous avez une vitesse de nage de 30 ft.
 
 **Morsure.** Votre gueule à crocs est une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez, vous infligez un nombre de dégâts tranchants égal à 1d6 + votre modificateur de Force plutôt que les dégâts contondants habituels.
 

@@ -1,17 +1,17 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
-Une maison confortable, voilà le but de la plupart des halfelin : un endroit où se poser en paix et profiter du silence loin des monstres errants et des armées en guerre ; une cheminée crépitante et un repas généreux ; une bonne boisson accompagnée d'une bonne conversation. Même si la plupart des halfelins passent leur vie dans des communautés agricoles quelque peu recluses, certains forment des groupes errants qui voyagent en permanence, attirée par la route et l'inconnu afin de découvrir les merveilles de nouveaux territoires ou de nouvelles cultures. Mais même ces voyageurs adorent la paix, la bonne nourriture, l'amour et leur chez-soi, même si ce foyer peut très bien être une petite roulotte qui suit péniblement un chemin de terre.
+Une maison confortable, voilà le but de la plupart des halfelins : un endroit où se poser en paix et profiter du silence loin des monstres errants et des armées en guerre ; une cheminée crépitante et un repas généreux ; une bonne boisson accompagnée d'une bonne conversation. Même si la plupart des halfelins passent leur vie dans des communautés agricoles quelque peu recluses, certains forment des groupes errants qui voyagent en permanence, attirés par la route et l'inconnu afin de découvrir les merveilles de nouveaux territoires ou de nouvelles cultures. Mais même ces voyageurs adorent la paix, la bonne nourriture, l'amour et leur chez-soi, même si ce foyer peut très bien être une petite roulotte qui suit péniblement un chemin de terre.
 ![[Halfelin.png]]
 #### Petits et Pratiques
 
-Les petits halfelins survivent dans un monde peuplé par des créatures plus grandes en évitant d'attirant l'attention ou, si ce n'est possible, en essayant de ne pas offenser. Mesurant environ 90 cm, ils semblent relativement inoffensifs et ont ainsi pu survivre pendant des siècles dans l'ombre des plus grands empires et en restant à l'abri des guerres et autres conflits politiques. Ils sont plutôt costauds, pesant entre 20 et 25 kg.
+Les petits halfelins survivent dans un monde peuplé par des créatures plus grandes en évitant d'attirer l'attention ou, si ce n'est possible, en essayant de ne pas offenser. Mesurant environ 90 cm, ils semblent relativement inoffensifs et ont ainsi pu survivre pendant des siècles dans l'ombre des plus grands empires et en restant à l'abri des guerres et autres conflits politiques. Ils sont plutôt costauds, pesant entre 20 et 25 kg.
 
 La peau des halfelins va du bronzé au pâle avec un teint vermeil, et leurs cheveux sont généralement bruns ou châtain et ondulé. Ils ont des yeux bruns ou noisettes. Les hommes halfelins affichent de longs favoris, mais la barbe est rare et les moustaches encore plus. Ils apprécient porter de simples et confortables vêtements, favorisant les couleurs vives.
 
-L'aspect pratique des halfelins s'étend au-delà de leurs vêtements. Ils ne soucient que des besoins primaires et des plaisirs simples et n'ont que faire des biens ostentatoires. Même les plus riches de halfelins gardent leurs trésors verrouillés dans un grenier plutôt que de les afficher dans des vitrines. Ils ont un truc pour trouver la solution la plus évidente à un problème, et n'ont pas vraiment de patience pour tergiverser.
+L'aspect pratique des halfelins s'étend au-delà de leurs vêtements. Ils ne se soucient que des besoins primaires et des plaisirs simples et n'ont que faire des biens ostentatoires. Même les plus riches des halfelins gardent leurs trésors verrouillés dans un grenier plutôt que de les afficher dans des vitrines. Ils ont un truc pour trouver la solution la plus évidente à un problème, et n'ont pas vraiment de patience pour tergiverser.
 
 #### Sous-races
 
@@ -29,7 +29,7 @@ Les différentes sous-races de halfelins sont plus comme des familles distantes 
 
 Les halfelins sont un peuple aimable et amical. Ils chérissent les liens familiaux et l'amitié ainsi que le confort du cœur et du foyer, ne portant que peu de rêves d'or et de gloire. Même les aventuriers parmi eux ne font que parcourir le monde pour des raisons de communauté, d'amitié, de soif de découverte ou de curiosité. Ils adorent découvrir de nouvelles choses, même les plus simples, comme une nourriture exotique ou un style vestimentaire nouveau.
 
-Les halfelins sont facilement affectés par la pitié et ils détestent, voire d'autres êtres vivants souffrir. Ils sont généreux, partageant avec plaisir ce qu'ils ont même dans les temps les plus durs.
+Les halfelins sont facilement affectés par la pitié et ils détestent voir d'autres êtres vivants souffrir. Ils sont généreux, partageant avec plaisir ce qu'ils ont même dans les temps les plus durs.
 
 ## Caméléons
 
@@ -44,7 +44,7 @@ La plupart des halfelins vivent dans des petites communautés paisibles avec d'i
 Beaucoup d'halfelins vivent au sein d'autres races, où leur dur labeur et leur loyauté leur octroie de larges récompenses et un confort de vie indéniable. Quelques communautés halfelines ont choisi l'itinérance, conduisant chariots et/ou naviguant de lieux à lieux et ne conservant aucun domicile fixe.
 
 > [!abstract] Aimables et Positifs
-> Les halfelins essayent de bien s'entendre avec tous mais ont la généralisation facile — surtout quand il s'agit de préjugé négatif.
+> Les halfelins essayent de bien s'entendre avec tous mais ont la généralisation facile — surtout quand il s'agit de préjugés négatifs.
 > 
 > ***Nains.*** "Les nains font de bons amis et vous pouvez compter sur eux pour garder leur parole. Mais franchement, ça les tuerait de sourire une fois de temps en temps ?"
 > 
@@ -76,7 +76,7 @@ Un halfelin a un prénom, un nom de famille et parfois un surnom. Les noms de fa
 
 En tant que halfelin pieds-léger, vous pouvez facilement vous cacher sans vous faire remarquer, par exemple en utilisant les autres comme couverture. Vous avez tendance à être aimable et vous entendez bien avec les autres. Ces halfelins sont les plus communs et se sont diffusés dans tout le continent.
 
-Les pieds-léger sont plus enclins à la soif de découverte que les autres halfelins et se mêlent généralement aux autres races ou choisissent un mode de vie nomade. Ils sont occasionnellement appelés les pieds-poilu ou grands-gaillard.
+Les pieds-légers sont plus enclins à la soif de découverte que les autres halfelins et se mêlent généralement aux autres races ou choisissent un mode de vie nomade. Ils sont occasionnellement appelés les pieds-poilu ou grands-gaillard.
 
 ### Mécaniques
 
@@ -104,7 +104,7 @@ Les pieds-léger sont plus enclins à la soif de découverte que les autres half
 
 ### Description
 
-En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes résistance aux différents poisons. Certains disent que les robustes ont du sang nain. Ils sont aussi parfois appelés cœur-vaillant.
+En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes résistant aux différents poisons. Certains disent que les robustes ont du sang nain. Ils sont aussi parfois appelés cœur-vaillant.
 
 ### Mécaniques
 

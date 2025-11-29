@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
@@ -31,8 +31,8 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Bien Membré.** Lorsque vous réalisez une attaque de mêlée pendant votre tour, votre portée est 5 ft. plus grande qu'à la normale.
 
-**Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, tirer, soulever.
+**Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, pousser, tirer, soulever.
 
-**Discret.** Vous maîtrisez la compétence Discrétion. De plus, sans vous presser, vous pouvez vous déplacer et vous arrêter sur un espace trop petit pour vous, mais suffisamment grand pour une créature de taille P.
+**Discret.** Vous maîtrisez la compétence Discrétion. De plus, sans avoir à vous presser, vous pouvez vous déplacer et vous arrêter sur un espace trop petit pour vous, mais suffisamment grand pour une créature de taille P.
 
 **Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature prend 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.
