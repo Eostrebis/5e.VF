@@ -49,7 +49,10 @@ style="--accent-color: #1ed10d;">
     <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" class="card-background" loading="lazy">
 
   <div class="class-card-body">
-    <h2 class="class-card-title">Alchimiste</h2>
+    <h2 class="class-card-title">
+    <img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
+    Alchimiste
+  </h2>
     <div class="dnd-stats-row">
       <div class="stat-item">
 		<span class="stat-label">Archétype</span>
