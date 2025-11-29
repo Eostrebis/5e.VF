@@ -94,7 +94,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	    	<div class="class-card-title-wrapper">
 	   			<img src="../Illustrations/Classes/Artisan.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Alchimiste
+		    		Artisan
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 			 	</div>
 	 		</div>
@@ -113,8 +113,8 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
-			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 	    </div>
 	    <span class="class-card-desc">Capable de renverser des pays entiers à coup de marteau !</span>
 	  </div>
