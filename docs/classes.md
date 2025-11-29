@@ -43,8 +43,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	<a
 	href=./Alchimiste/Alchimiste/
 	class="class-card"
-	data-type="degats"
-	data-type="soutien"
+	data-type="degats soutien"
 	data-vie="d8"
 	data-difficulte="tacticien"
 	data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.
@@ -80,13 +79,11 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	    <span class="class-card-desc">Combiner des réactifs pour produire des effets ... détonnants !</span>
 	  </div>
 	</a>
-  </div>
 	<!-- Carte Artisan -->
 	<a
 	href=./Artisan/Artisan/
 	class="class-card"
-	data-type="degats"
-	data-type="utilitaire"
+	data-type="degats utilitaire"
 	data-vie="d10"
 	data-difficulte="honneur"
 	data-text="Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.
@@ -122,13 +119,13 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	    <span class="class-card-desc">Capable de renverser des pays entiers à coup de marteau !</span>
 	  </div>
 	</a>
-  </div>
 
 
 
 
 
 
+</div>
 
 <div class="card-grid">
 
@@ -763,27 +760,31 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 
   // 2. La fonction principale de filtrage
   function filterCards() {
-    const typeValue = filterType.value;
-    const vieValue = filterVie.value;
-    const diffValue = filterDiff.value;
+    const typeValue = filterType.value.toLowerCase();
+    const vieValue = filterVie.value.toLowerCase();
+    const diffValue = filterDiff.value.toLowerCase();
 
     cards.forEach(card => {
       // On récupère les valeurs de la carte actuelle
-      const cardType = card.getAttribute('data-type');
+      const cardType = (card.getAttribute('data-type') || '').toLowerCase();
       const cardVie = card.getAttribute('data-vie');
       const cardDiff = card.getAttribute('data-difficulte');
 
       // On vérifie si la carte correspond à CHAQUE filtre
       // (Si le filtre est sur "all", on considère que c'est bon)
-      const matchType = (typeValue === 'all' || cardType === typeValue);
+      const matchType = (typeValue === 'all' || cardType.includes(typeValue));
       const matchVie = (vieValue === 'all' || cardVie === vieValue);
       const matchDiff = (diffValue === 'all' || cardDiff === diffValue);
 
       // Si tout correspond, on affiche, sinon on cache
       if (matchType && matchVie && matchDiff) {
         card.classList.remove('hidden');
+		card.style.opacity = '1';
+        card.style.transform = 'scale(1)';
       } else {
         card.classList.add('hidden');
+		card.style.opacity = '0';
+        card.style.transform = 'scale(0.95)';
       }
     });
   }
