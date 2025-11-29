@@ -162,6 +162,7 @@
 
 
 
+/* --- Filtrage des cartes --- */
 .filter-container {
   display: flex;
   justify-content: center;
@@ -208,124 +209,19 @@
 
 
 
-/* --- 1. La Grille (Conteneur) --- */
-.card-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px;
-  padding: 20px;
-  max-width: 1400px;
-  margin: 0 auto;
-}
-
-/* Le lien qui entoure la carte */
-.art-card-link {
-  text-decoration: none;
-  display: block;
-}
-
-/* --- 2. Votre Code "Figure" (Adapté) --- */
-figure {
-  display: grid;
-  border-radius: 1rem;
-  overflow: hidden;
-  cursor: pointer;
-  margin: 0; /* Important : supprime les marges par défaut du navigateur */
-  height: 400px; /* On impose une hauteur pour uniformiser la grille */
-  box-shadow: 0 4px 15px rgba(0,0,0,0.2); /* Ajout d'une petite ombre */
-}
-
-figure > * {
-  grid-area: 1/1;
-  transition: .4s;
-}
-
-/* L'image doit couvrir toute la zone */
-figure img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover; /* Coupe l'image si nécessaire pour remplir */
-  display: block;
-}
-
-figure figcaption {
-  display: grid;
-  align-items: end; /* Texte en bas */
-  
-  font-family: sans-serif;
-  font-size: 2.3rem;
-  font-weight: bold;
-  
-  /* --- VOTRE DEMANDE : ITALIQUE --- */
-  font-style: italic; 
-  
-  color: #0000; /* Texte transparent pour le masque */
-  padding: .75rem;
-  
-  /* Utilisation de la variable --c définie dans le HTML */
-  background: var(--c, #0009); 
-  
-  clip-path: inset(0 var(--_i, 100%) 0 0);
-  
-  /* L'effet de découpage du texte */
-  -webkit-mask:
-    linear-gradient(#000 0 0),
-    linear-gradient(#000 0 0);
-  -webkit-mask-composite: xor;
-  -webkit-mask-clip: text, padding-box;
-  
-  margin: -1px;
-}
-
-/* --- Sous-titre optionnel (dans le span) --- */
-figure figcaption span {
-  font-size: 1rem;
-  font-weight: normal;
-  margin-top: 5px;
-  display: block; /* Force le passage à la ligne */
-}
-
-/* --- Les Effets au Survol --- */
-figure:hover figcaption {
-  --_i: 0%; /* Dévoile le bandeau coloré */
-}
-
-figure:hover img {
-  transform: scale(1.2); /* Zoom l'image */
-}
-
-/* Fallback pour les vieux navigateurs */
-@supports not (-webkit-mask-clip: text) {
-  figure figcaption {
-   -webkit-mask: none;
-   color: #fff;
-  }
-}
-
-
-
-
-
-
-
-
-
-
-
-
 /* --- 1. La Grille (Responsive) --- */
-.rpg-grid {
+.class-grid {
   display: grid;
   /* Crée des colonnes automatiques : minimum 300px de large, max 1 fraction */
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
   gap: 25px;
   padding: 20px;
-  max-width: 1400px;
+  max-width: 2100px;
   margin: 0 auto;
 }
 
 /* --- 2. La Carte (Design) --- */
-.dnd-card {
+.class-card {
   display: flex;
   flex-direction: column;
   background: #ffffff;
@@ -345,13 +241,13 @@ figure:hover img {
 }
 
 /* Effet Hover global sur la carte */
-.dnd-card:hover {
+.class-card:hover {
   transform: translateY(-5px); /* La carte monte légèrement */
   box-shadow: 0 12px 20px rgba(0,0,0,0.15);
 }
 
 /* --- 3. L'Image (Header) --- */
-.dnd-card-header {
+.class-card-header {
   height: 180px; /* Hauteur fixe */
   width: 100%;
   overflow: hidden;
@@ -360,7 +256,7 @@ figure:hover img {
   border-bottom: 1px solid #eee;
 }
 
-.dnd-card-header img {
+.class-card-header img {
   width: 100%;
   height: 100%;
   object-fit: cover; /* Remplit la zone sans déformation */
@@ -369,19 +265,19 @@ figure:hover img {
 }
 
 /* Zoom lent sur l'image au survol */
-.dnd-card:hover .dnd-card-header img {
+.class-card:hover .class-card-header img {
   transform: scale(1.1);
 }
 
 /* --- 4. Le Corps (Texte) --- */
-.dnd-card-body {
+.class-card-body {
   padding: 20px;
   flex-grow: 1; /* Pousse le footer vers le bas */
   display: flex;
   flex-direction: column;
 }
 
-.dnd-card-title {
+.class-card-title {
   font-family: 'Roboto', sans-serif; /* Ou votre police de titre */
   font-size: 1.5rem;
   font-weight: 800;
@@ -392,7 +288,7 @@ figure:hover img {
 }
 
 /* Zone des Tags */
-.dnd-card-tags {
+.class-card-tags {
   margin-bottom: 12px;
   /* Permet aux tags de s'aligner proprement */
   display: flex;
@@ -401,7 +297,7 @@ figure:hover img {
 }
 
 /* Description tronquée */
-.dnd-card-desc {
+.class-card-desc {
   font-size: 0.95rem;
   line-height: 1.6;
   color: #555;
@@ -415,7 +311,7 @@ figure:hover img {
 }
 
 /* --- 5. Le Footer (Bouton) --- */
-.dnd-card-footer {
+.class-card-footer {
   padding: 15px 20px;
   border-top: 1px solid #eee;
   background-color: #fafafa;
@@ -439,20 +335,10 @@ figure:hover img {
 }
 
 /* Quand on survole la CARTE, le bouton se remplit */
-.dnd-card:hover .dnd-btn {
+.class-card:hover .dnd-btn {
   background: var(--accent-color);
   color: white; /* Le texte devient blanc */
 }
-
-/* --- Rappel CSS des Tags (Pour compatibilité) --- */
-/* (Assurez-vous que votre CSS précédent pour .flip-card-tag est présent) */
-.flip-card-tag {
-    /* ... Votre code précédent ... */
-    font-size: 11px; /* Un peu plus petit pour la grille */
-    padding: 0 8px 0 18px; /* Ajustement padding */
-}
-/* Ajustement de la pointe du tag pour la taille réduite */
-.flip-card-tag::after { right: -8px; border-width: 9px; }
 
 
 /* --- La Ligne de Statistiques --- */
@@ -494,31 +380,6 @@ figure:hover img {
   font-weight: bold;
   color: #333;
 }
-
-/* --- Optionnel : Code couleur pour la difficulté --- */
-.stat-value.easy { color: #27ae60; }   /* Facile = Vert */
-.stat-value.medium { color: #d35400; } /* Moyen = Orange */
-.stat-value.hard { color: #c0392b; }   /* Difficile = Rouge */
-
-
-/* --- Petit Bonus Visuel : L'icône flottante sur l'image --- */
-.class-icon {
-  position: absolute;
-  bottom: -15px;
-  right: 20px;
-  background: white;
-  width: 40px;
-  height: 40px;
-  border-radius: 50%;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 20px;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-  border: 2px solid var(--accent-color);
-  z-index: 10;
-}
-
 
 
 
