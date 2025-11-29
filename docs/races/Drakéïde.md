@@ -4,20 +4,20 @@ choices:
   - Drakéïde Chromatique
   - Drakéïde Diamantin
   - Drakéïde Métallique
-status: empty
+status: finished
 ---
 ### Description
 
 Nés des dragons, comme leur nom le proclame, les drakéïdes marchent fièrement à travers un monde qui les accueille avec une incompréhension effrayante. En forme des dieux draconiques ou de dragons eux-mêmes, les drakéïdes naissent éclos à partir d'œufs de dragons comme une race unique, combinant les meilleurs attributs des dragons et des humanoïdes. Certains drakéïdes sont des serviteurs fidèles aux vrais dragons, d'autres forment les rangs des soldats dans les grandes guerres, et d'autres encore se trouvent à la dérive, sans véritable vocation.
 
-Les drakéïdes ressemble beaucoup à des dragons dressés sous forme d'humains, bien qu'ils n'aient pas d'ailes ou de queue. Les premiers drakéïdes avaient des écailles de teintes vibrantes correspondant aux couleurs de leur peau de dragon, mais des générations de croisements ont créé une apparence plus uniforme. Leurs petites écailles fines sont généralement en laiton ou en bronze, parfois allant jusqu'à l'écarlate, à la rouille, à l'or ou au vert cuivré. Ils sont grands et bien bâtis, souvent haut de 1,80 m et pesant 150 kilogrammes ou plus. Leurs mains et leurs pieds sont de puissantes griffes, en forme de serres, avec trois doigts et un pouce sur chaque main.
+Les drakéïdes ressemble beaucoup à des dragons dressés sous forme d'humains, bien qu'ils n'aient pas d'ailes. Les premiers drakéïdes avaient des écailles de teintes vibrantes correspondant aux couleurs de leur peau de dragon, mais des générations de croisements ont créé une apparence plus uniforme. Leurs petites écailles fines sont généralement en laiton ou en bronze, parfois allant jusqu'à l'écarlate, à la rouille, à l'or ou au vert cuivré. Ils sont grands et bien bâtis, souvent haut de 1,80 m et pesant 150 kilogrammes ou plus. Leurs mains et leurs pieds sont de puissantes griffes, en forme de serres, avec trois doigts et un pouce sur chaque main.
 
-Chez certains clans, le sang d'un type particulier de dragon coule toujours fortement dans les veines Ces drakéïdes se vantent souvent d'écailles qui correspondent plus étroitement à celles de leurs ancêtres – rouge vif, vert, bleu ou blanc, noir brillant, ou grisé or, argent, laiton, cuivre ou bronze. On sépare généralement les drakéïdes en trois sous-races : 
+Chez certains clans, le sang d'un type particulier de dragon coule toujours fortement dans les veines. Ces drakéïdes se vantent souvent d'écailles qui correspondent plus étroitement à celles de leurs ancêtres – rouge vif, vert, bleu ou blanc, noir brillant, ou grisé or, argent, laiton, cuivre ou bronze. On sépare généralement les drakéïdes en trois sous-races : 
 
 | Sous-classe                                             | Description                                                      |
 | ------------------------------------------------------- | ---------------------------------------------------------------- |
 | [[Drakéïde#Drakéïde chromatique\|Drakéïde Chromatique]] | Descendant des dragons chromatiques -- liés aux éléments         |
-| [[Drakéïde#Drakéïde diamantin\|Drakéïde Diamatin]]      | Descendant des dragons diamantins -- ont des pouvoirs psychiques |
+| [[Drakéïde#Drakéïde diamantin\|Drakéïde Diamantin]]     | Descendant des dragons diamantins -- ont des pouvoirs psychiques |
 | [[Drakéïde#Drakéïde métallique\|Drakéïde Métallique]]   | Descendant des dragons métalliques -- ont des souffles puissants |
 
 
@@ -47,7 +47,7 @@ Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils
 
 ### Description
 
-Les drakéïdes avec un héritage chromatique revendique le pouvoir élémentaire des dragons chromatiques. Les vibrantes couleurs des dragons noirs, bleus, vert, rouges et blancs se reflètent dans les écailles des drakéïdes et dans l'énergie dangereuse de leur souffle. Ils ont fait leurs les puissances élémentaires des volcans en éruption, des vents arctiques ou encore des orages déchaînés, ainsi que leur discret murmure des marais et des forêts, toxique et corrosif.
+Les drakéïdes avec un héritage chromatique revendiquent le pouvoir élémentaire des dragons chromatiques. Les vibrantes couleurs des dragons noirs, bleus, vert, rouges et blancs se reflètent dans les écailles des drakéïdes et dans l'énergie dangereuse de leur souffle. Ils ont fait leurs les puissances élémentaires des volcans en éruption, des vents arctiques ou encore des orages déchaînés, ainsi que leur discret murmure des marais et des forêts, toxique et corrosif.
 
 ### Mécaniques
 
@@ -156,4 +156,5 @@ Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de ma�
  
  - *Souffle débilitant.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Constitution ou devenir [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
  - *Souffle répulsif.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Force ou être repoussée de 20 ft (6m/4 cases) et tomber à terre.
-Après avoir utilisé votre Souffle Mécanique, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.
+ 
+Après avoir utilisé votre Souffle Métallique, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.

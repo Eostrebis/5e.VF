@@ -8,7 +8,7 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: false
-Matériel:
+Matériel: false
 detailmat:
 Durée: Instantanée
 Incantation: 1 Réaction
