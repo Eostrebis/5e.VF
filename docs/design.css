@@ -592,7 +592,8 @@
   line-height: 26px;
   padding: 0 10px 0 23px;
   position: relative;
-  margin-right: 20px;
+  margin-right: 15px;
+  margin-bottom: 10px;
   cursor: default;
   user-select: none;
   transition: color 0.2s;
