@@ -14,8 +14,8 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
     <option value="degats">Dégâts</option>
     <option value="soutien">Soutien</option>
     <option value="utilitaire">Utilitaire</option>
-	<option value="utilitaire">Contrôle</option>
-	<option value="utilitaire">Social</option>
+	<option value="controle">Contrôle</option>
+	<option value="social">Social</option>
   </select>
 
   <select id="filter-vie" class="filter-select">
@@ -39,7 +39,13 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 <div class="class-grid">
 
-<a href=./Alchimiste/Alchimiste/ class="class-card" data-type="Soutien" style="--accent-color: #1ed10d;">
+<a
+href=./Alchimiste/Alchimiste/
+class="class-card"
+data-type="Soutien"
+data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<br/>
+Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté."
+style="--accent-color: #1ed10d;">
     <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" class="card-background" loading="lazy">
 
   <div class="class-card-body">
