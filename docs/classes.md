@@ -92,7 +92,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	    <img src="../Illustrations/Classes/Artisan_background.png" alt="Artisan" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Artisan.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Artisan24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Artisan
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -241,8 +241,88 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	    <span class="class-card-desc">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</span>
 	  </div>
 	</a>
-
-
+<!-- Carte Clerc -->
+	<a
+	href=./Clerc/Clerc/
+	class="class-card"
+	data-type="tank soutien"
+	data-vie="d8"
+	data-difficulte="equilibre"
+	data-text="Portés par la foi, les clercs canalisent la puissance de leur divinité pour soigner les blessés, repousser les ténèbres et frapper ceux qui s’opposent à leur dogme, qu’ils le fassent par la prière, le chant ou la guerre.
+Qu’ils invoquent des malédictions contre les morts-vivants, illuminent le champ de bataille d’une lumière sacrée ou glorifient les dieux à chaque coup porté, ils agissent comme les instruments vivants de volontés divines.
+Guidés par des croyances aussi diverses que les divinités qu’ils servent, les clercs transcendent le rôle de simples prêtres, incarnant une magie sacrée aussi implacable que bienveillante."
+	style="--accent-color: #8c8c8c;">
+	    <img src="../Illustrations/Classes/Clerc_background.png" alt="Clerc" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Clerc.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Clerc
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">Full caster ⚔️</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d8</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">Sag</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
+	    </div>
+	    <span class="class-card-desc">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</span>
+	  </div>
+	</a>
+<!-- Carte Druide -->
+	<a
+	href=./Druide/Druide/
+	class="class-card"
+	data-type="tank controle"
+	data-vie="d8"
+	data-difficulte="tacticien"
+	data-text="Les druides sont les émissaires de la nature elle-même, appelant les tempêtes, la foudre ou le feu pour défendre les terres sauvages contre toute corruption ou intrusion.
+Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.
+Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants."
+	style="--accent-color: #A267C7;">
+	    <img src="../Illustrations/Classes/Druide_background.png" alt="Druide" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Druide.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Druide
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">½ Caster 🌿</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d8</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">Sag</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
+		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+	    </div>
+	    <span class="class-card-desc">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</span>
+	  </div>
+	</a>
 
 </div>
 
@@ -255,31 +335,6 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 
 
 
-<!-- Carte Clerc -->
-<div class="flip-card" style="--card-color: #8c8c8c;">
-  <div class="flip-card-inner">
-    <a href=./Clerc/Clerc/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Clerc24.jpeg>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">🧙‍♂️ Clerc 🛐
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
-	    </div>
-        <div class="flip-card-subtitle">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Portés par la foi, les clercs canalisent la puissance de leur divinité pour soigner les blessés, repousser les ténèbres et frapper ceux qui s’opposent à leur dogme, qu’ils le fassent par la prière, le chant ou la guerre.<br/>
-Qu’ils invoquent des malédictions contre les morts-vivants, illuminent le champ de bataille d’une lumière sacrée ou glorifient les dieux à chaque coup porté, ils agissent comme les instruments vivants de volontés divines.<br/>
-Guidés par des croyances aussi diverses que les divinités qu’ils servent, les clercs transcendent le rôle de simples prêtres, incarnant une magie sacrée aussi implacable que bienveillante.
-        </div>
-	    <div class="flip-card-tagbox">
-			<span class="flip-card-tag" style="--tag-color: #A267C7; --text-color: #FFFFFF; --weight: bold;">Sagesse</span>
-		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
 
 <!-- Carte Druide -->
 <div class="flip-card" style="--card-color: #a0d87c;">
@@ -564,8 +619,8 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
         <div class="flip-card-subtitle">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Les moines utilisent leur énergie intérieure pour accomplir des exploits extraordinaires, comme dévier des flèches, affronter seuls des ennemis nombreux, ou se déplacer silencieusement dans l’ombre pour frapper avec précision.<br/>
-Leur maîtrise du corps et de l’esprit leur permet de combiner agilité, puissance martiale et furtivité, transcendant les limites physiques ordinaires.<br/>
+Les moines utilisent leur énergie intérieure pour accomplir des exploits extraordinaires, comme dévier des flèches, affronter seuls des ennemis nombreux, ou se déplacer silencieusement dans l’ombre pour frapper avec précision.
+Leur maîtrise du corps et de l’esprit leur permet de combiner agilité, puissance martiale et furtivité, transcendant les limites physiques ordinaires.
 Quelle que soit leur spécialité, ils canalisent cette force magique pour augmenter leur vitesse, leur défense et leur efficacité au combat.
         </div>
 	    <div class="flip-card-tagbox">
@@ -591,8 +646,8 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
         <div class="flip-card-subtitle">Les nécromanciens manipulent la magie de la mort pour contrôler les morts-vivants et exploiter les forces obscures.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Les nécromanciens puisent dans les arcanes interdites de la mort, canalisant des énergies sombres pour manipuler la vie et la non-vie selon leur volonté.<br/>
-Ils commandent des légions de morts-vivants, utilisant ces créatures comme des extensions de leur propre puissance sur le champ de bataille.<br/>
+Les nécromanciens puisent dans les arcanes interdites de la mort, canalisant des énergies sombres pour manipuler la vie et la non-vie selon leur volonté.
+Ils commandent des légions de morts-vivants, utilisant ces créatures comme des extensions de leur propre puissance sur le champ de bataille.
 Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la désolation pour affaiblir leurs ennemis et imposer leur domination.
 	</div>
 	    <div class="flip-card-tagbox">
@@ -617,8 +672,8 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
         <div class="flip-card-subtitle">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Les occultistes sont des chercheurs avides de connaissances cachées dans les méandres du multivers, utilisant des pactes mystérieux avec des entités surnaturelles pour canaliser des pouvoirs magiques uniques et impressionnants.<br/>
-Ils manipulent la magie à travers des influences aussi diverses que les nobles fées, les démons, les diables et d’autres êtres extraplanaires, fusionnant savoir ancien et énergie occulte.<br/>
+Les occultistes sont des chercheurs avides de connaissances cachées dans les méandres du multivers, utilisant des pactes mystérieux avec des entités surnaturelles pour canaliser des pouvoirs magiques uniques et impressionnants.
+Ils manipulent la magie à travers des influences aussi diverses que les nobles fées, les démons, les diables et d’autres êtres extraplanaires, fusionnant savoir ancien et énergie occulte.
 Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance pour contrôler leur environnement et influencer le destin avec subtilité et force.
         </div>
 	    <div class="flip-card-tagbox">
@@ -644,8 +699,8 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
         <div class="flip-card-subtitle">Les paladins sont des guerriers sacrés, incarnant la justice divine et protégeant les innocents avec foi et puissance.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
-Les paladins, vêtus d’armures brillantes malgré les épreuves du voyage, incarnent la guérison divine en restaurant la vie aux blessés par la puissance sacrée de leurs mains.<br/>
-Cachés dans l’ombre, ils agissent avec précision et discrétion pour éliminer les ennemis du mal, usant de leur force et de leur détermination pour protéger les innocents.<br/>
+Les paladins, vêtus d’armures brillantes malgré les épreuves du voyage, incarnent la guérison divine en restaurant la vie aux blessés par la puissance sacrée de leurs mains.
+Cachés dans l’ombre, ils agissent avec précision et discrétion pour éliminer les ennemis du mal, usant de leur force et de leur détermination pour protéger les innocents.
 Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans la solitude face à la mort, forge en eux un pouvoir extraordinaire qui élève ces guerriers en champions bénis, unis par leur lutte contre les ténèbres.
         </div>
 	    <div class="flip-card-tagbox">
