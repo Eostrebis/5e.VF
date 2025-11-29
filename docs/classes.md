@@ -77,10 +77,6 @@ style="--accent-color: #1ed10d;">
       Combiner des réactifs pour produire des effets ... détonnants !
     </p>
   </div>
-
-  <div class="class-card-footer">
-    <span class="dnd-btn">Voir la classe</span>
-  </div>
 </a>
 
   </div>
