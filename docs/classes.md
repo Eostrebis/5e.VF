@@ -39,52 +39,90 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 
 <div class="class-grid">
-
-<a
-href=./Alchimiste/Alchimiste/
-class="class-card"
-data-type="degats"
-data-type="soutien"
-data-vie="d8"
-data-difficulte="tacticien"
-data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.
-Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté."
-style="--accent-color: #1ed10d;">
-    <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
-
-  <div class="class-card-body">
-    <div class="class-card-title-wrapper">
-    <img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
-		<div class="class-card-title">
-	    	Alchimiste
-			<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
-		 </div>
+	<!-- Carte Alchimiste -->
+	<a
+	href=./Alchimiste/Alchimiste/
+	class="class-card"
+	data-type="degats"
+	data-type="soutien"
+	data-vie="d8"
+	data-difficulte="tacticien"
+	data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.
+	Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté."
+	style="--accent-color: #1ed10d;">
+	    <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Alchimiste
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">Martial 🏹</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d8</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">Intelligence</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
+	    </div>
+	    <span class="class-card-desc">Combiner des réactifs pour produire des effets ... détonnants !</span>
+	  </div>
+	</a>
   </div>
-    <div class="dnd-stats-row">
-      <div class="stat-item">
-		<span class="stat-label">Archétype</span>
-        <span class="stat-value">Martial 🏹</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-label">Dés de vie</span>
-        <span class="stat-value">d8</span>
-      </div>
-      <div class="stat-item">
-        <span class="stat-label">Primaire</span>
-        <span class="stat-value">Intelligence</span>
-      </div>
-    </div>
-    <div class="class-card-tags">
-		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-    </div>
-    <span class="class-card-desc">Combiner des réactifs pour produire des effets ... détonnants !</span>
+	<!-- Carte Artisan -->
+	<a
+	href=./Artisan/Artisan/
+	class="class-card"
+	data-type="degats"
+	data-type="utilitaire"
+	data-vie="d10"
+	data-difficulte="honneur"
+	data-text="Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.
+Tous sont des génies créatifs, capables non seulement de fabriquer de l'équipement de maître, mais aussi d’imaginer des inventions originales et redoutables."
+	style="--accent-color: #efd473;">
+	    <img src="../Illustrations/Classes/Artisan_background.png" alt="Artisan" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Artisan.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Alchimiste
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">Martial ⚔️</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d10</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">For/Dex + Int</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
+	    </div>
+	    <span class="class-card-desc">Capable de renverser des pays entiers à coup de marteau !</span>
+	  </div>
+	</a>
   </div>
-</a>
-
-  </div>
-
-
 
 
 
@@ -94,30 +132,7 @@ style="--accent-color: #1ed10d;">
 
 <div class="card-grid">
 
-<!-- Carte Alchimiste -->
-<div class="flip-card" style="--card-color: #1ed10d;">
-  <div class="flip-card-inner">
-    <a href=./Alchimiste/Alchimiste/ class="flip-card-front">
-      <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
-      <div class="flip-card-textbox">
-        <div class="flip-card-title">⚔️ Alchimiste ⚔️
-		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
-	    </div>
-        <div class="flip-card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
-        <div class="flip-card-bar"></div>
-        <div class="flip-card-description">
-Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.<br/>
-Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté.
-        </div>
-	    <div class="flip-card-tagbox">
-		<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
-		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-      </div>
-    </a>
-  </div>
-</div>
+
 
 <!-- Carte Artisan -->
 <div class="flip-card" style="--card-color: #efd473;">
