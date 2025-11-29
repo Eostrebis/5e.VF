@@ -236,37 +236,22 @@
 
 /* Texte "VOIR LA FICHE" (Caché par défaut) */
 .class-card::before {
-  /* Récupère le contenu de l'attribut HTML data-text */
   content: attr(data-text);
-  
-  /* Positionnement et Marges */
   position: absolute;
-  inset: 0;
-  padding: 30px; /* Marges importantes pour ne pas toucher les bords */
-  
-  /* Centrage vertical du bloc de texte */
+  inset: 0; /* Prend tout l'espace */
   display: flex;
-  align-items: center; 
+  align-items: center;
   justify-content: center;
-  
-  /* --- TYPOGRAPHIE ADAPTÉE POUR 100 MOTS --- */
-  font-family: 'Georgia', serif; /* Une police Serif est plus lisible pour les longs textes */
-  font-size: 0.95rem;   /* Taille réduite (~15-16px) */
-  line-height: 1.6;     /* Espace entre les lignes aéré */
-  font-style: italic;   /* VOTRE DEMANDE */
-  font-weight: normal;  /* Texte normal (pas gras) */
-  text-transform: none; /* On autorise les minuscules */
-  text-align: justify;  /* Justifié pour un rendu "page de livre" */
-  
-  /* Couleur et Contraste */
+  font-family: 'Roboto', sans-serif;
+  font-size: 2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  font-style: italic;
   color: #fff;
-  text-shadow: 0 1px 2px rgba(0,0,0,1); /* Ombre noire pour détacher le texte */
-  
-  /* Animation */
+  text-shadow: 0 2px 10px rgba(0,0,0,0.8);
   z-index: 1; 
   opacity: 0;
-  transition: opacity 0.4s ease 0.2s; /* Apparition un peu plus lente */
-  pointer-events: none; /* Permet de cliquer "à travers" le texte */
+  transition: opacity 0.3s ease 0.1s;
 }
 
 .class-card:hover {
@@ -293,7 +278,31 @@
 /* Effet sur l'image au survol */
 .class-card:hover .card-background {
   transform: scale(1.1); /* Zoom léger */
-  filter: brightness(0.4) blur(2px); /* Assombrit pour lire "Voir la fiche" */
+  filter: brightness(0.6); /* Assombrit pour lire "Voir la fiche" */
+}
+
+/* --- Modification du Titre --- */
+.class-card-title {
+  /* On active Flexbox pour mettre l'image et le texte côte à côte */
+  display: flex; 
+  align-items: center; /* Centre verticalement l'icône par rapport au texte */
+  gap: 10px; /* Espace entre l'icône et le texte */
+  
+  /* Vos styles existants conservés */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.4rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  margin: 0 0 10px 0;
+  color: #242424;
+  letter-spacing: 0.5px;
+}
+
+/* --- Nouvelle classe pour l'icône --- */
+.title-icon {
+  width: 30px;  /* Ajustez la taille selon vos besoins */
+  height: 30px;
+  object-fit: contain; /* Empêche l'image de se déformer */
 }
 
 /* --- 3. Le Corps (Bloc Incrusté Asymétrique) --- */
@@ -305,7 +314,7 @@
   
   margin: 15px 200px 0 20px; 
   
-  background-color: #ffffff;
+  background-color: var(--bg);
   border-radius: 8px 8px 0 0; 
   box-shadow: 0 -4px 10px rgba(0,0,0,0.1); 
   
@@ -327,7 +336,7 @@
 .class-card-footer {
   padding: 12px 20px;
   border-top: 1px solid #eee;
-  background-color: #fafafa;
+  background-color: var(--bg);
   text-align: right;
   
   /* --- IMPORTANT : MÊMES MARGES LATÉRALES QUE LE BODY --- */
@@ -370,8 +379,8 @@
 .dnd-stats-row {
   display: flex;
   justify-content: space-between; /* Espace égal entre les 3 éléments */
-  border-top: 1px solid #eee;
-  border-bottom: 1px solid #eee;
+  border-top: 1px solid var(--table);
+  border-bottom: 1px solid var(--table);
   padding: 10px 0;
   margin-bottom: 12px;
   background-color: rgba(0,0,0,0.02); /* Fond très léger pour détacher la zone */
@@ -384,7 +393,7 @@
   flex: 1; /* Chaque item prend la même largeur */
   text-align: center;
   /* Petite ligne de séparation entre les items (sauf le dernier) */
-  border-right: 1px solid #eee; 
+  border-right: 1px solid var(--table); 
 }
 
 .stat-item:last-child {
