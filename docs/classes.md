@@ -52,24 +52,23 @@ style="--accent-color: #1ed10d;">
     <h2 class="class-card-title">
     <img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
     Alchimiste
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
   </h2>
     <div class="dnd-stats-row">
       <div class="stat-item">
 		<span class="stat-label">Archétype</span>
-        <span class="stat-value">Martial ⚔️</span>
+        <span class="stat-value">Martial distance 🏹</span>
       </div>
       <div class="stat-item">
         <span class="stat-label">Dés de vie</span>
         <span class="stat-value">d8</span>
       </div>
       <div class="stat-item">
-        <span class="stat-label">Difficulté</span>
-        <span class="stat-value">★★★☆</span>
+        <span class="stat-label">Carac. primaire</span>
+        <span class="stat-value">Intelligence</span>
       </div>
     </div>
     <div class="class-card-tags">
-       <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
-		</br>
 		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
     </div>
