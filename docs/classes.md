@@ -69,7 +69,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Intelligence</span>
+	        <span class="stat-value">Int</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
@@ -126,7 +126,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	data-type="degats tank"
 	data-vie="d12"
 	data-difficulte="explorateur"
-	data-text="Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.<br/>
+	data-text="Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.
 Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur."
 	style="--accent-color: #810000;">
 	    <img src="../Illustrations/Classes/Barbare_background.png" alt="Barbare" class="card-background" loading="lazy">
@@ -159,7 +159,48 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 	    <span class="class-card-desc">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</span>
 	  </div>
 	</a>
-
+<!-- Carte Barde -->
+	<a
+	href=./Barde/Barde/
+	class="class-card"
+	data-type="controle soutien social utilitaire"
+	data-vie="d8"
+	data-difficulte="equilibre"
+	data-text="Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la musique et les mots, mêlant savoir, inspiration et tromperie pour renforcer leurs alliés, troubler leurs ennemis et tisser la réalité à leur image.
+Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant."
+	style="--accent-color: #6f4774;">
+	    <img src="../Illustrations/Classes/Barde_background.png" alt="Barde" class="card-background" loading="lazy">
+		<div class="class-card-body">
+	    	<div class="class-card-title-wrapper">
+	   			<img src="../Illustrations/Classes/Barde.png" class="title-icon" alt="">
+				<div class="class-card-title">
+		    		Barde
+					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
+			 	</div>
+	 		</div>
+	    <div class="dnd-stats-row">
+	      <div class="stat-item">
+			<span class="stat-label">Archétype</span>
+	        <span class="stat-value">Semi-lanceur 🏹</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Dés de vie</span>
+	        <span class="stat-value">d8</span>
+	      </div>
+	      <div class="stat-item">
+	        <span class="stat-label">Primaire</span>
+	        <span class="stat-value">Cha</span>
+	      </div>
+	    </div>
+	    <div class="class-card-tags">
+			<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+			<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
+			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+	    </div>
+	    <span class="class-card-desc">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</span>
+	  </div>
+	</a>
 
 
 
