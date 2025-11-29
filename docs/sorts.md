@@ -371,7 +371,7 @@ spells: "true"
 | Prismatic Spray                      | [[Rayons Prismatiques]]                   |
 | Prismatic Wall                       | [[Mur Prismatique]]                       |
 | Private Sanctum                      | [[Sanctuaire Privé]]                      |
-| Produce Flame                        | [[Flamme]]                               |
+| Produce Flame                        | [[Flamme]]                                |
 | Programmed Illusion                  | [[Illusion Programmée]]                   |
 | Project Image                        | [[Projection d'Image]]                    |
 | Protection from Energy               | [[Protection contre une Énergie]]         |
@@ -703,7 +703,7 @@ spells: "true"
 | Fallen Soul                          | [[Âme Corrompue]]                         |
 | Falling Spider's Spite               | [[Bond Mortel de l'Araignée]]             |
 | Falling Star                         | [[Étoile Filante]]                        |
-| Fell Onslaught                       | [[Assaut Funeste]]                     |
+| Fell Onslaught                       | [[Assaut Funeste]]                        |
 | Flashing Blades                      | [[Lames Éblouissantes]]                   |
 | Forbidden Obelisk                    | [[Obélisque Interdit]]                    |
 | Forget                               | [[Oubli]]                                 |
