@@ -580,7 +580,6 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
         <div class="flip-card-title">💫 Roublard 📜
 		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 	    </div>
-		</div>
         <div class="flip-card-subtitle">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</div>
         <div class="flip-card-bar"></div>
         <div class="flip-card-description">
@@ -590,8 +589,8 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
       	</div>
 	    <div class="flip-card-tagbox">
 			<span class="flip-card-tag" style="--tag-color: #4F9D74; --text-color: #FFFFFF; --weight: bold;">Dextérité</span>
-		<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-		<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
+			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
+			<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 	    </div>
 	</div>
     </a>
