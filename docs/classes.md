@@ -7,6 +7,41 @@ Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier c
 Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui osent arpenter les sentiers de la destinée.<br/>
 
 
+<div class="card-grid">
+
+  <a href="page_alchimiste.html" class="art-card-link">
+    <figure style="--c: #1ed10d;"> 
+      <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste">
+      <figcaption>
+        Alchimiste
+        <span>Maître des potions</span>
+      </figcaption>
+    </figure>
+  </a>
+
+  <a href="page_barbare.html" class="art-card-link">
+    <figure style="--c: #810000;">
+      <img src="../Illustrations/Classes/Barbare24.jpeg" alt="Barbare">
+      <figcaption>
+        Barbare
+        <span>Rage primitive</span>
+      </figcaption>
+    </figure>
+  </a>
+
+  <a href="page_magicien.html" class="art-card-link">
+    <figure style="--c: #1956ba;">
+      <img src="../Illustrations/Classes/Magicien24.jpeg" alt="Magicien">
+      <figcaption>
+        Magicien
+        <span>Savoir arcanique</span>
+      </figcaption>
+    </figure>
+  </a>
+
+</div>
+
+
 <div class="rpg-grid">
 
 <a href="page_alchimiste.html" class="dnd-card" style="--accent-color: #1ed10d;">
