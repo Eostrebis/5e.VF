@@ -8,29 +8,52 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 <div class="card-grid">
 
-<a href="page_alchimiste.html" class="rpg-card" style="--card-accent: #1ed10d;">
-  
-  <div class="rpg-card-header">
-    <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
-  </div>
+<div class="rpg-grid">
 
-  <div class="rpg-card-body">
+  <a href="page_alchimiste.html" class="dnd-card" style="--accent-color: #1ed10d;">
     
-    <h3 class="card-title">Alchimiste</h3>
-    <div class="card-subtitle">Combiner des réactifs pour produire des effets détonnants !</div>
-
-    <div class="card-tags">
-       <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFF;">Intelligence</span>
-       <span class="flip-card-tag" style="--tag-color: #080705;">⭐⭐⭐</span>
+    <div class="dnd-card-header">
+      <img src="../Illustrations/Classes/Alchimiste.png" alt="Alchimiste" loading="lazy">
     </div>
 
-    <p class="card-excerpt">
-      Un gnome lance des bombes avec enthousiasme, semant le chaos... 
-      <span class="read-more">Voir la fiche &rarr;</span>
-    </p>
+    <div class="dnd-card-body">
+      <h2 class="dnd-card-title">Alchimiste</h2>
+      
+      <div class="dnd-card-tags">
+        <span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: white;">Intelligence</span>
+        <span class="flip-card-tag" style="--tag-color: #333; --text-color: gold; --border-color: gold;">Support</span>
+      </div>
+
+      <p class="dnd-card-desc">
+        Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis...
+      </p>
+    </div>
+
+    <div class="dnd-card-footer">
+      <span class="dnd-btn">Voir la fiche</span>
+    </div>
+  </a>
+
+  <a href="page_barbare.html" class="dnd-card" style="--accent-color: #810000;">
+    <div class="dnd-card-header">
+      <img src="../Illustrations/Classes/Barbare24.jpeg" alt="Barbare">
+    </div>
+    <div class="dnd-card-body">
+      <h2 class="dnd-card-title">Barbare</h2>
+      <div class="dnd-card-tags">
+         <span class="flip-card-tag" style="--tag-color: #D1534A; --text-color: white;">Force</span>
+         <span class="flip-card-tag" style="--tag-color: #810000; --text-color: white;">Tank</span>
+      </div>
+      <p class="dnd-card-desc">
+        Guerrier sauvage animé par la rage, puisant sa force dans l'instinct.
+      </p>
+    </div>
+    <div class="dnd-card-footer">
+      <span class="dnd-btn">Voir la fiche</span>
+    </div>
+  </a>
 
   </div>
-</a>
 
 <!-- Carte Alchimiste -->
 <div class="flip-card" style="--card-color: #1ed10d;">
