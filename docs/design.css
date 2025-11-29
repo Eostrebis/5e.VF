@@ -292,14 +292,19 @@
 }
 
 .flip-card-tag {
-  display: inline-block;
   --tag-color: #E0E0E0; 
   --text-color: #777;
   --border-color: transparent;
+
+  display: inline-block;
+	
   background: var(--tag-color);
   color: var(--text-color);
   font-weight: var(--weight, normal);
-  box-shadow: inset 0 0 0 1px var(--border-color);
+
+  border: 1px solid var(--border-color);
+  border-right: 0;
+	
   border-radius: 3px 0 0 3px;
   line-height: 26px;
   padding: 0 10px 0 23px;
@@ -313,21 +318,40 @@
   content: '';
   position: absolute;
   background: #fff;
-  border-radius: 10px;
+  border-radius: 50%;
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
   height: 6px;
   left: 10px;
   width: 6px;
   top: 10px;
+  z-index: 2;
 }
 .flip-card-tag::after {
   content: '';
   position: absolute;
-  border-bottom: 13px solid transparent;
-  border-left: 10px solid var(--tag-color);
-  border-top: 13px solid transparent;
-  right: -10px;
-  top: 0;
+  
+  /* Dimensions calculées pour correspondre à une hauteur de 26px */
+  height: 18.5px; 
+  width: 18.5px;
+  
+  /* On applique la même couleur de fond que le parent */
+  background: var(--tag-color);
+  
+  /* BORDURES de la pointe : Seulement Haut et Droite */
+  border-top: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  
+  /* Rotation de 45° pour faire une pointe */
+  transform: translateY(-50%) rotate(45deg);
+  
+  /* Positionnement précis */
+  top: 50%;
+  right: -9.5px; /* Ajusté pour que la pointe dépasse */
+  
+  /* Z-index -1 pour qu'il passe SOUS le tag principal 
+     afin de masquer la jointure */
+  z-index: 0; 
+  border-radius: 1px;
 }
 
 .flip-card-link {
