@@ -741,7 +741,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
   const filterType = document.getElementById('filter-type');
   const filterVie = document.getElementById('filter-vie');
   const filterDiff = document.getElementById('filter-difficulte');
-  const cards = document.querySelectorAll('.art-card-link');
+  const cards = document.querySelectorAll('.class-card');
 
   // 2. La fonction principale de filtrage
   function filterCards() {
