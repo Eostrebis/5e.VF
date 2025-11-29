@@ -49,12 +49,12 @@ style="--accent-color: #1ed10d;">
     <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
 
   <div class="class-card-body">
-    <div class="class-card-title">
+    <div class="class-card-title-wrapper">
     <img src="../Illustrations/Classes/Alchimiste.png" class="title-icon" alt="">
-	<div class="class-card-title">
-    Alchimiste
-	<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
-		  </div>
+		<div class="class-card-title">
+	    	Alchimiste
+			<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
+		 </div>
   </div>
     <div class="dnd-stats-row">
       <div class="stat-item">
