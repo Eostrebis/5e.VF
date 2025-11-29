@@ -101,6 +101,27 @@
         ],
         "description": "Vous absorbez l'humidité de toutes les créatures dans un cube de 30 ft. centré sur un point de votre choix dans la portée. Chacune de ces créatures doit réaliser un jet de sauvegarde de Constitution. Les constructions et les morts-vivants ne sont pas concernés, et les plantes et les élémentaires d'eau réalisent ce jet avec désavantage. Une créature prend `dice:12d8|avg` dégâts nécrotiques en cas d'échec, et la moitié en cas de succès.\n\nLes plantes non magiques de la zone concernée qui ne sont pas des créatures, comme des arbres et des buissons, pourrissent et meurent instantanément. \n"
     },
+    "Bagou": {
+        "level": "8",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Glibness",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Occultiste"
+        ],
+        "description": "Jusqu'à la fin du sort, lorsque vous réalisez un jet de Charisme, vous pouvez remplacer le résultat du dé par 15. De plus, peu importe ce que vous dites, toute magie permettant de déterminer si vous mentez indique que vous dites la vérité.\n"
+    },
     "Formes Animales": {
         "level": "8",
         "school": "Transmutation",
@@ -1191,6 +1212,28 @@
         ],
         "description": "Vous touchez une créature consentante qui ne porte pas d'armure et un champ magique protecteur l'entoure jusqu'à ce que le sort ne se termine. La CA de base de la cible passe à 13 + son modificateur de Dextérité. Le sort se termine si la cible met une armure ou si vous dissipez le sort pour une action.\n"
     },
+    "Barbes Argentées": {
+        "level": "1",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Silvery Barbs",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "En tant que réaction lorsqu'une créature que vous pouvez voir à 60 ft. réussit un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez la distraire magiquement et transformer ce doute temporaire en encouragement pour une autre créature. La créature qui a déclenché la réaction doit relancer le d20 et utiliser le plus petit des deux résultats.\n\nVous pouvez ensuite choisir une autre créature que vous pouvez voir à portée (vous y compris). La créature choisie a l'avantage sur son prochain jet d'attaque, de caractéristique ou de sauvegarde qu'elle réalise dans la prochaine minute. Une créature ne peut être bénéficier que d'une seule utilisation de ce sort à la fois.\n"
+    },
     "Détection du Poison et des Maladies": {
         "level": "1",
         "school": "Divination",
@@ -1532,6 +1575,27 @@
             "Martyr"
         ],
         "description": "Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 4d6 dégâts radiants, et le prochain jet d'attaque réalisé contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
+    },
+    "Baiser de l'Araignée": {
+        "level": "1",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "10 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Spider's Kiss",
+        "status": "finished",
+        "available": [
+            "Ensorceleur",
+            "Magicien",
+            "Barde"
+        ],
+        "description": "Lorsque vous lancez ce sort, choisissez une créature que vous pouvez voir à portée. Un voile illusoire vous recouvre, vous donnant l'apparence de l'amant idéal pour la cible. La cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, elle est [[charmé|charmée]] par vous et se déplace pour vous [[saisi|saisir]] pendant son prochain tour. Si elle réussit à vous saisir, vous pouvez utiliser votre réaction pour délivrer un toucher corrosif mortel, ce qui brise l'agrippement, met fin au sort et inflige 2d10 dégâts d'acide à la cible.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts d'acide augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 1.\n"
     },
     "Charge Roulée": {
         "level": "1",
@@ -6950,6 +7014,28 @@
             "Nécromancien"
         ],
         "description": "Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort au corps à corps contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perçants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perçants supplémentaires et la cible est [[sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts perçants de la seconde phase du sort augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.\n"
+    },
+    "Balade Cinétique": {
+        "level": "2",
+        "school": "Transmutation",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Kinetic Jaunt",
+        "status": "finished",
+        "available": [
+            "Artificier",
+            "Barde",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous renforcez magiquement vos mouvements avec des pas de danse, vous conférant les effets suivants pendant la durée du sort :\n\n - Votre vitesse de marche augmente de 10 ft.\n - Vous ne provoquez pas d'attaque d'opportunité.\n - Vous pouvez vous déplacer à travers l'espace d'une autre créature et cela n'est pas considéré comme du terrain difficile. Si vous terminez votre tour dans l'espace d'une autre créature, vous êtes repoussé vers le dernier espace inoccupé que vous avez occupé et subissez 1d8 dégâts de force.\n"
     },
     "Délai": {
         "level": "2",
