@@ -13,7 +13,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
       <img class="flip-card-img" src=../Illustrations/Classes/Alchimiste.png>
       <div class="flip-card-textbox">
         <div class="flip-card-title">⚔️ Alchimiste
-		    <div class="flip-card-tagbox"><span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span></div>
+		    <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 	    </div>
         <div class="flip-card-subtitle">Combiner des réactifs pour produire des effets ... détonnants !</div>
         <div class="flip-card-bar"></div>
