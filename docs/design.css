@@ -293,7 +293,7 @@
 /* Effet sur l'image au survol */
 .class-card:hover .card-background {
   transform: scale(1.1); /* Zoom léger */
-  filter: brightness(0.4) blur(2px); /* Assombrit pour lire "Voir la fiche" */
+  filter: brightness(0.4); /* Assombrit pour lire "Voir la fiche" */
 }
 
 /* --- Modification du Titre --- */
