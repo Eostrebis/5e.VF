@@ -47,10 +47,11 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
   <div class="class-card-body">
     <h2 class="class-card-title">Alchimiste</h2>
+	  	<span class="flip-card-tag" style="--tag-color: #2E5D9F; --text-color: #FFFFFF; --weight: bold;">Intelligence</span>
     <div class="dnd-stats-row">
       <div class="stat-item">
-        <span class="stat-label">Type</span>
-        <span class="stat-value">Soutien</span>
+		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Support</span>
+		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
       </div>
       <div class="stat-item">
         <span class="stat-label">Dés de vie</span>
@@ -58,7 +59,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
       </div>
       <div class="stat-item">
         <span class="stat-label">Difficulté</span>
-        <span class="stat-value medium">Moyenne</span>
+        <span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
       </div>
     </div>
     <div class="class-card-tags">
@@ -66,12 +67,12 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
        <span class="flip-card-tag">Artisanat</span>
     </div>
     <p class="class-card-desc">
-      Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis...
+      Combiner des réactifs pour produire des effets ... détonnants !
     </p>
   </div>
 
   <div class="class-card-footer">
-    <span class="dnd-btn">Voir la fiche</span>
+    <span class="dnd-btn">Voir la classe</span>
   </div>
 </a>
 
