@@ -229,7 +229,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	    <img src="../Illustrations/Classes/Capitaine_background.png" alt="Capitaine" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Capitaine24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Capitaine24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Capitaine
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -438,7 +438,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 	    <img src="../Illustrations/Classes/Gardien_background.png" alt="Gardien" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Gardien24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Gardien24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Gardien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -523,7 +523,7 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
 	    <img src="../Illustrations/Classes/Investigateur_background.png" alt="Investigateur" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Investigateur24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Investigateur24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Investigateur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -565,7 +565,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 	    <img src="../Illustrations/Classes/Ligateur_background.png" alt="Ligateur" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ligateur24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Ligateur24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Ligateur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -611,7 +611,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 	    <img src="../Illustrations/Classes/Mage_de_Guerre_background.png" alt="Mage de Guerre" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Mage_de_Guerre24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Mage_de_Guerre24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Mage de Guerre
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -780,7 +780,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 	    <img src="../Illustrations/Classes/Nécromancien_background.png" alt="Nécromancien" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Nécromancien24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Nécromancien24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Nécromancien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -902,7 +902,7 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	data-difficulte="equilibre"
 	data-text="Un humain au regard sauvage traque silencieusement les orcs dans l’ombre des arbres, détruisant ses ennemis avec une rapidité mortelle grâce à ses deux épées courtes, tandis qu’une elfe agile esquive un souffle glacé de dragon avant de décocher une salve de flèches pour trouver une faille dans ses écailles épaisses.
 Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis et des mots elfiques, utilisant l’oiseau pour distraire un ours-hibou tandis qu’il prépare son tir décisif à l’arc.
-	style="--accent-color: #006839;">
+	style="--accent-color: #228B22;">
 	    <img src="../Illustrations/Classes/Ranger_background.png" alt="Ranger" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
@@ -989,7 +989,7 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 	    <img src="../Illustrations/Classes/Sorcière_background.png" alt="Sorcière" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Sorcière24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Sorcière24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Sorcière
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -1031,7 +1031,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 	    <img src="../Illustrations/Classes/Tisserand_background.png" alt="Tisserand" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Tisserand24.jpeg" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Tisserand24.png" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Tisserand
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
