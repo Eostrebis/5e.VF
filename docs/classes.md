@@ -902,7 +902,6 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	data-difficulte="equilibre"
 	data-text="Un humain au regard sauvage traque silencieusement les orcs dans l’ombre des arbres, détruisant ses ennemis avec une rapidité mortelle grâce à ses deux épées courtes, tandis qu’une elfe agile esquive un souffle glacé de dragon avant de décocher une salve de flèches pour trouver une faille dans ses écailles épaisses.
 Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis et des mots elfiques, utilisant l’oiseau pour distraire un ours-hibou tandis qu’il prépare son tir décisif à l’arc.
-Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les protecteurs silencieux des frontières sauvages, veillant sans relâche loin des villages, dans des forêts denses ou des plaines désolées, prêts à défendre les terres contre toutes les menaces."
 	style="--accent-color: #006839;">
 	    <img src="../Illustrations/Classes/Ranger_background.png" alt="Ranger" class="card-background" loading="lazy">
 		<div class="class-card-body">
