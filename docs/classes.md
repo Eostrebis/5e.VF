@@ -1,6 +1,8 @@
 ---
 search:
   exclude: true
+hide:
+  - toc
 title: Choix de classe
 ---
 Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
