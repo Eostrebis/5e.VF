@@ -52,7 +52,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	    <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Alchimiste24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Alchimiste24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Alchimiste
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -92,7 +92,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	    <img src="../Illustrations/Classes/Artisan_background.png" alt="Artisan" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Artisan24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Artisan24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Artisan
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -132,7 +132,7 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 	    <img src="../Illustrations/Classes/Barbare_background.png" alt="Barbare" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Barbare24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Barbare24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Barbare
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
@@ -172,7 +172,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 	    <img src="../Illustrations/Classes/Barde_background.png" alt="Barde" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Barde24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Barde24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Barde
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -214,7 +214,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	    <img src="../Illustrations/Classes/Capitaine_background.png" alt="Capitaine" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Capitaine24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Capitaine24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Capitaine
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -255,7 +255,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 	    <img src="../Illustrations/Classes/Clerc_background.png" alt="Clerc" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Clerc24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Clerc24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Clerc
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -296,7 +296,7 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 	    <img src="../Illustrations/Classes/Druide_background.png" alt="Druide" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Druide24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Druide24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Druide
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -337,7 +337,7 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
 	    <img src="../Illustrations/Classes/Ensorceleur_background.png" alt="Ensorceleur" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ensorceleur24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Ensorceleur24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Ensorceleur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -378,7 +378,7 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
 	    <img src="../Illustrations/Classes/Fusilier_background.png" alt="Fusilier" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Fusilier24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Fusilier24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Fusilier
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
@@ -418,7 +418,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 	    <img src="../Illustrations/Classes/Gardien_background.png" alt="Gardien" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Gardien24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Gardien24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Gardien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -460,7 +460,7 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 	    <img src="../Illustrations/Classes/Guerrier_background.png" alt="Guerrier" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Guerrier24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Guerrier24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Guerrier
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
@@ -501,7 +501,7 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
 	    <img src="../Illustrations/Classes/Investigateur_background.png" alt="Investigateur" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Investigateur24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Investigateur24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Investigateur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -542,7 +542,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 	    <img src="../Illustrations/Classes/Ligateur_background.png" alt="Ligateur" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ligateur24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Ligateur24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Ligateur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -587,7 +587,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 	    <img src="../Illustrations/Classes/Mage_de_Guerre_background.png" alt="Mage de Guerre" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Mage_de_Guerre24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Mage_de_Guerre24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Mage de Guerre
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -627,7 +627,7 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 	    <img src="../Illustrations/Classes/Magicien_background.png" alt="Magicien" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Magicien24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Magicien24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Magicien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -670,7 +670,7 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
 	    <img src="../Illustrations/Classes/Martyr_background.png" alt="Martyr" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Martyr24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Martyr24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Martyr
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -711,7 +711,7 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 	    <img src="../Illustrations/Classes/Moine_background.png" alt="Moine" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Moine24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Moine24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Moine
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -752,7 +752,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 	    <img src="../Illustrations/Classes/Nécromancien_background.png" alt="Nécromancien" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Nécromancien24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Nécromancien24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Nécromancien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
@@ -793,7 +793,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 	    <img src="../Illustrations/Classes/Occultiste_background.png" alt="Occultiste" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Occultiste24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Occultiste24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Occultiste
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -834,7 +834,7 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	    <img src="../Illustrations/Classes/Paladin_background.png" alt="Paladin" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Paladin24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Paladin24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Paladin
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
@@ -876,7 +876,7 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 	    <img src="../Illustrations/Classes/Ranger_background.png" alt="Ranger" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ranger24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Ranger24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Ranger
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -916,7 +916,7 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
 	    <img src="../Illustrations/Classes/Roublard_background.png" alt="Roublard" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Roublard24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Roublard24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Roublard
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
@@ -957,7 +957,7 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 	    <img src="../Illustrations/Classes/Sorcière_background.png" alt="Sorcière" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Sorcière24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Sorcière24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Sorcière
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
@@ -998,7 +998,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 	    <img src="../Illustrations/Classes/Tisserand_background.png" alt="Tisserand" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Tisserand24.png" class="title-icon" alt="">
+	   			<img src="../Illustrations/Classes/Tisserand24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
 		    		Tisserand
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
