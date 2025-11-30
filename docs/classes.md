@@ -264,7 +264,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Full caster ⚔️</span>
+	        <span class="stat-value">Caster ⚔️</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
@@ -570,7 +570,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 					<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 	    </div>
-	    <span class="class-card-desc">Maîtres des pactes interdits, les ligateurs manipulent des forces occultes enchaînées à leur volonté, tirant pouvoir et savoir d'entités que nul autre n’ose invoquer.</span>
+	    <span class="class-card-desc">Maîtres des pactes interdits, les ligateurs manipulent des forces occultes enchaînées à leur volonté.</span>
 	  </div>
 	</a>
 <!-- Carte Mage de Guerre -->
@@ -636,7 +636,7 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Full Caster 🏹</span>
+	        <span class="stat-value">Caster 🏹</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
@@ -761,7 +761,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Full Caster 🏹</span>
+	        <span class="stat-value">Caster 🏹</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
@@ -966,7 +966,7 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Full Caster 🏹</span>
+	        <span class="stat-value">Caster 🏹</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
