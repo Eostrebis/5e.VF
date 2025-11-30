@@ -1064,7 +1064,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 <!-- Script permettant de filtrer les classes en fonction de 3 critères : Type de classe, dés de vie et difficulté à jouer -->
 <script>
   // 1. On sélectionne les éléments
-  const filterCarac = document.getElementByID('filter-carac');
+  const filterCarac = document.getElementById('filter-carac');
   const filterType = document.getElementById('filter-type');
   const filterVie = document.getElementById('filter-vie');
   const filterDiff = document.getElementById('filter-difficulte');
