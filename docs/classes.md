@@ -1086,7 +1086,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 
       // On vérifie si la carte correspond à CHAQUE filtre
       // (Si le filtre est sur "all", on considère que c'est bon)
-	  const matchCarac = (caracValue === 'all' || cardType.includes(caracValue));
+	  const matchCarac = (caracValue === 'all' || cardCarac.includes(caracValue));
       const matchType = (typeValue === 'all' || cardType.includes(typeValue));
       const matchVie = (vieValue === 'all' || cardVie === vieValue);
       const matchDiff = (diffValue === 'all' || cardDiff === diffValue);
