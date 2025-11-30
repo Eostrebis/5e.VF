@@ -309,6 +309,7 @@
   /* On active Flexbox pour mettre l'image et le texte côte à côte */
   display: flex;
   flex-direction: column; /* Empile le titre et le sous-titre verticalement */
+  align-items: flex-start;
   justify-content: center;
   
   /* Vos styles existants conservés */
