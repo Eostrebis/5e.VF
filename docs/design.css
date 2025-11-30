@@ -310,7 +310,7 @@
   display: flex;
   flex-direction: column; /* Empile le titre et le sous-titre verticalement */
   align-items: flex-start;
-  justify-content: center;
+  text-align: left;
   
   /* Vos styles existants conservés */
   font-family: 'Roboto', sans-serif;
