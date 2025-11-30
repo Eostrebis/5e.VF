@@ -8,6 +8,16 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 
 <div class="filter-container">
+   <select id="filter-carac" class="filter-select">
+    <option value="all">Toutes les caractéristiques</option>
+    <option value="for">Force</option>
+    <option value="dex">Dextérité</option>
+    <option value="con">Constitution</option>
+    <option value="int">Intelligence</option>
+	<option value="sag">Sagesse</option>
+	<option value="cha">Charisme</option>
+  </select>
+	
   <select id="filter-type" class="filter-select">
     <option value="all">Tous les rôles</option>
     <option value="tank">Tank</option>
@@ -43,6 +53,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	<a
 	href=./Alchimiste/Alchimiste/
 	class="class-card"
+	data-carac="int"
 	data-type="degats soutien"
 	data-vie="d8"
 	data-difficulte="tacticien"
@@ -83,6 +94,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	<a
 	href=./Artisan/Artisan/
 	class="class-card"
+	data-carac="for dex int"
 	data-type="degats utilitaire"
 	data-vie="d10"
 	data-difficulte="honneur"
@@ -123,6 +135,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	<a
 	href=./Barbare/Barbare/
 	class="class-card"
+	data-carac="for con"
 	data-type="degats tank"
 	data-vie="d12"
 	data-difficulte="explorateur"
@@ -163,6 +176,7 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 	<a
 	href=./Barde/Barde/
 	class="class-card"
+	data-carac="cha"
 	data-type="controle soutien social utilitaire"
 	data-vie="d8"
 	data-difficulte="equilibre"
@@ -205,6 +219,7 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 	<a
 	href=./Capitaine/Capitaine/
 	class="class-card"
+	data-carac="for dex cha"
 	data-type="social soutien"
 	data-vie="d8"
 	data-difficulte="honneur"
@@ -245,6 +260,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	<a
 	href=./Clerc/Clerc/
 	class="class-card"
+	data-carac="sag"
 	data-type="tank soutien"
 	data-vie="d8"
 	data-difficulte="equilibre"
@@ -286,6 +302,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 	<a
 	href=./Druide/Druide/
 	class="class-card"
+	data-carac="sag"
 	data-type="tank controle"
 	data-vie="d8"
 	data-difficulte="tacticien"
@@ -327,6 +344,7 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 	<a
 	href=./Ensorceleur/Ensorceleur/
 	class="class-card"
+	data-carac="cha"
 	data-type="degats utilitaire"
 	data-vie="d6"
 	data-difficulte="tacticien"
@@ -368,6 +386,7 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
 	<a
 	href=./Fusilier/Fusilier/
 	class="class-card"
+	data-carac="dex"
 	data-type="degats"
 	data-vie="d8"
 	data-difficulte="explorateur"
@@ -408,6 +427,7 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
 	<a
 	href=./Gardien/Gardien/
 	class="class-card"
+	data-carac="for con"
 	data-type="tank controle soutien"
 	data-vie="d10"
 	data-difficulte="equilibre"
@@ -450,6 +470,7 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 	<a
 	href=./Guerrier/Guerrier/
 	class="class-card"
+	data-carac="for dex"
 	data-type="tank degats"
 	data-vie="d10"
 	data-difficulte="explorateur"
@@ -491,6 +512,7 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 	<a
 	href=./Investigateur/Investigateur/
 	class="class-card"
+	data-carac="int"
 	data-type="soutien utilitaire"
 	data-vie="d8"
 	data-difficulte="equilibre"
@@ -532,6 +554,7 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
 	<a
 	href=./Ligateur/Ligateur/
 	class="class-card"
+	data-carac="cha"
 	data-type="degats tank controle social soutien utilitaire"
 	data-vie="d8"
 	data-difficulte="honneur"
@@ -577,6 +600,7 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 	<a
 	href=./Mage_de_Guerre/Mage_de_Guerre/
 	class="class-card"
+	data-carac="int"
 	data-type="degats"
 	data-vie="d8"
 	data-difficulte="equilibre"
@@ -617,6 +641,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 	<a
 	href=./Magicien/Magicien/
 	class="class-card"
+	data-carac="int"
 	data-type="utilitaire controle soutien degats"
 	data-vie="d6"
 	data-difficulte="tacticien"
@@ -660,6 +685,7 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 	<a
 	href=./Martyr/Martyr/
 	class="class-card"
+	data-carac="con"
 	data-type="degats tank"
 	data-vie="d12"
 	data-difficulte="tacticien"
@@ -701,6 +727,7 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
 	<a
 	href=./Moine/Moine/
 	class="class-card"
+	data-carac="dex sag"
 	data-type="degats controle"
 	data-vie="d8"
 	data-difficulte="tacticien"
@@ -742,6 +769,7 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 	<a
 	href=./Nécromancien/Nécromancien/
 	class="class-card"
+	data-carac="int"
 	data-type="degats controle"
 	data-vie="d6"
 	data-difficulte="honneur"
@@ -783,6 +811,7 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 	<a
 	href=./Occultiste/Occultiste/
 	class="class-card"
+	data-carac="cha"
 	data-type="degats controle"
 	data-vie="d8"
 	data-difficulte="equilibre"
@@ -824,6 +853,7 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 	<a
 	href=./Paladin/Paladin/
 	class="class-card"
+	data-carac="for cha"
 	data-type="degats tank soutien"
 	data-vie="d10"
 	data-difficulte="explorateur"
@@ -866,6 +896,7 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	<a
 	href=./Ranger/Ranger/
 	class="class-card"
+	data-carac="dex sag"
 	data-type="degats"
 	data-vie="d10"
 	data-difficulte="equilibre"
@@ -906,6 +937,7 @@ Ces rôdeurs, qu’ils soient chasseurs, éclaireurs ou gardiens, sont les prote
 	<a
 	href=./Roublard/Roublard/
 	class="class-card"
+	data-carac="dex"
 	data-type="social utilitaire"
 	data-vie="d8"
 	data-difficulte="equilibre"
@@ -947,6 +979,7 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
 	<a
 	href=./Sorcière/Sorcière/
 	class="class-card"
+	data-carac="cha"
 	data-type="controle soutien"
 	data-vie="d8"
 	data-difficulte="tacticien"
@@ -988,6 +1021,7 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 	<a
 	href=./Tisserand/Tisserand/
 	class="class-card"
+	data-carac="dex int"
 	data-type="degats"
 	data-vie="d8"
 	data-difficulte="tacticien"
@@ -1031,6 +1065,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 <!-- Script permettant de filtrer les classes en fonction de 3 critères : Type de classe, dés de vie et difficulté à jouer -->
 <script>
   // 1. On sélectionne les éléments
+  const filterCarac = document.getElementByID('filter-carac');
   const filterType = document.getElementById('filter-type');
   const filterVie = document.getElementById('filter-vie');
   const filterDiff = document.getElementById('filter-difficulte');
@@ -1038,24 +1073,27 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 
   // 2. La fonction principale de filtrage
   function filterCards() {
+	const caracValue = filterCarac.value.toLowerCase();
     const typeValue = filterType.value.toLowerCase();
     const vieValue = filterVie.value.toLowerCase();
     const diffValue = filterDiff.value.toLowerCase();
 
     cards.forEach(card => {
       // On récupère les valeurs de la carte actuelle
-      const cardType = (card.getAttribute('data-type') || '').toLowerCase();
+      const cardCarac = (card.getAttribute('data-carac') || '').toLowerCase();
+	  const cardType = (card.getAttribute('data-type') || '').toLowerCase();
       const cardVie = card.getAttribute('data-vie');
       const cardDiff = card.getAttribute('data-difficulte');
 
       // On vérifie si la carte correspond à CHAQUE filtre
       // (Si le filtre est sur "all", on considère que c'est bon)
+	  const matchCarac = (caracValue === 'all' || cardType.includes(caracValue));
       const matchType = (typeValue === 'all' || cardType.includes(typeValue));
       const matchVie = (vieValue === 'all' || cardVie === vieValue);
       const matchDiff = (diffValue === 'all' || cardDiff === diffValue);
 
       // Si tout correspond, on affiche, sinon on cache
-      if (matchType && matchVie && matchDiff) {
+      if (matchCarac && matchType && matchVie && matchDiff) {
         card.classList.remove('hidden');
 		card.style.opacity = '1';
         card.style.transform = 'scale(1)';
@@ -1068,12 +1106,14 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
   }
 
   // 3. On déclenche la fonction à chaque changement
+  filterCarac.addEventListener('change', filterCards);
   filterType.addEventListener('change', filterCards);
   filterVie.addEventListener('change', filterCards);
   filterDiff.addEventListener('change', filterCards);
 
   // 4. Fonction pour le bouton Reset
   function resetFilters() {
+	filterCarac.value = 'all';
     filterType.value = 'all';
     filterVie.value = 'all';
     filterDiff.value = 'all';
