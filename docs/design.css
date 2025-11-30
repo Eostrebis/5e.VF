@@ -190,7 +190,7 @@
 }
 
 .filter-btn {
-  background: rgba(255, 255, 255, 0.1);
+  background: var(--title-accent);
   font-weight: bold;
   transition: background 0.3s;
 }
@@ -204,18 +204,12 @@
   display: none !important;
 }
 
-
-
-
-
-
 /* --- 1. La Grille (Responsive) --- */
 .class-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
   gap: 25px;
   padding: 20px;
-  max-width: 2100px;
   margin: 0 auto;
 }
 
@@ -398,182 +392,6 @@
   color: #333;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* Style pour la gestion des cartes de classe */
-
-.card-grid {
-  display: grid;
-  /* La ligne magique :
-     - Crée autant de colonnes que possible (auto-fill)
-     - Chaque carte fera au minimum 300px de large
-     - Si l'écran est plus large, elles s'étirent (1fr) pour remplir l'espace
-  */
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-	
-  gap: 20px; 
-  padding: 20px;
-  max-width: 1400px;
-  margin: 0 auto;
-}
-
-/* Structure globale de la carte */
-.flip-card {
-  box-sizing: border-box;
-  height: 400px;
-  width: 100%;
-  margin-bottom: 40px;
-
-  background-color: transparent;
-  perspective: 1000px;
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
-/* Structure interne de la carte */
-.flip-card-inner {
-  position: relative;
-  height: 100%;
-  margin-bottom: 50px;
-  border-radius: 10px;
-  box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
-}
-
-/* Affiche le dégradé de couleur sur la droite de la carte */
-.flip-card .flip-card-front::before, .flip-card .flip-card-back::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  background-image: linear-gradient(-70deg, var(--card-color), transparent 50%);
-  opacity: 0.2;
-  pointer-events: none;
-}
-
-.flip-card:nth-child(2n) .flip-card-front::before, .flip-card:nth-child(2n) .flip-card-back::before {
-  background-image: linear-gradient(-250deg, var(--card-color), transparent 50%);
-}
-
-.flip-card-front,
-.flip-card-back {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  backface-visibility: hidden;
-  display: flex;
-  overflow: hidden;
-  align-items: center;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: var(--bg);
-}
-
-.flip-card-front {
-  flex-direction: row;
-}
-
-.flip-card-img {
-  position: absolute;
-  height: 100%;
-  width: 30%;
-}
-
-.flip-card:nth-child(2n) .flip-card-img {
-  left: initial;
-  right: 0;
-}
-
-/* Regroupe le titre, le sous-titre, la barre et la description */
-.flip-card-textbox {
-  position: absolute;
-  padding-top: 1%;
-  left: 32%;
-  width: 65%;
-}
-
-.flip-card:nth-child(2n) .flip-card-textbox {
-  left: initial;
-  right: 32%;
-}
-
-.flip-card-title {
-  font-family: 'Voces', 'Open Sans', arial, sans-serif;
-  font-size: 28px;
-  font-weight: bold;
-  color: var(--title);
-}
-
-.flip-card-subtitle {
-  font-family: 'Voces', 'Open Sans', arial, sans-serif;
-  color: var(--accent);
-}
-
-.flip-card-bar {
-  left: -2px;
-  width: 50px;
-  height: 5px;
-  margin: 10px 0;
-  border-radius: 5px;
-  background-color: var(--card-color);
-  transition: width 0.2s ease;
-}
-
-.flip-card-back .flip-card-bar {
-  width: 100px;
-}
-
-.flip-card-description {
-  font-size: 15px;
-  height: 200px;
-}
-
-.flip-card-linkbox {
-  display: flex;
-  font-size: 15px;
-  width: 100%;
-  justify-content: space-evenly;
-}
-
-.flip-card-linkbox ul {
-  list-style: none;
-}
-
-.flip-card-linkbox li {
-  margin-bottom: 5px;
-}
-
-.flip-card-tagbox {
-  position: absolute;
-  bottom: 3%;
-  font-size: 14px;
-  cursor: default;
-  user-select: none;
-  pointer-events: none;
-}
-
 .flip-card-tag {
   --tag-color: #E0E0E0; 
   --text-color: #777;
@@ -637,31 +455,3 @@
   z-index: -1; 
   border-radius: 1.5px;
 }
-
-.flip-card-link {
-  position: absolute;
-  bottom: 3%;
-  right: 3%;
-  font-size: 14px;
-  font-weight: bold;
-}
-
-.flip-card a {
-   position: relative;
-   text-decoration: none; /* On désactive le soulignement natif */
-}
-
-.flip-card a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -2px;
-  height: 2px; /* Épaisseur du soulignement */
-  width: 0;
-  background-color: var(--card-color); /* Couleur du soulignement */
-  transition: width 0.4s ease; /* Animation fluide */
-}
-
-.flip-card a:hover::after {
-      width: 100%; /* Barre s’étend sur toute la largeur au survol */
-    }
