@@ -109,7 +109,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Fo/De + Int</span>
+	        <span class="stat-value">For/Dex + Int</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
@@ -231,7 +231,7 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Fo/De + Cha</span>
+	        <span class="stat-value">For/Dex + Cha</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
