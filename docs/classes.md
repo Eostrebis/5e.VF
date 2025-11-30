@@ -322,7 +322,7 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🌿</span>
+	        <span class="stat-value">½ Caster 🏹</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
@@ -498,7 +498,7 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For / Dex</span>
+	        <span class="stat-value">For/Dex</span>
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
