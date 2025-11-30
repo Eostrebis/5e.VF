@@ -673,8 +673,8 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 	      </div>
 	    </div>
 	    <div class="class-card-tags">
-			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
+			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
 	    </div>
