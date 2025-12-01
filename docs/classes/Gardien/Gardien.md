@@ -235,38 +235,42 @@ De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse.
 ---
 
 
-## Versions Alternatives
+# Versions Alternatives
 
-### Gardien Champion
+## Gardien Champion
 
 Les champions sont des guerriers toujours à la recherche d'un adversaire à leur hauteur. Pour ce faire, ils défient pratiquement tout le monde en duel, mettant de côté les affaires courantes pour montrer leur résilience et leurs compétences avec l'épée.
 
-#### Challenge du Champion
+### Challenge du Champion
 _Remplace la Saisie du Gardien_
 
 Au niveau 1, pour une action bonus, vous pouvez émettre un challenge à chaque créature à 5 ft. de vous. Seules les créatures hostiles de taille G ou moins qui ont au minimum 5 d'Intelligence peuvent relever ce challenge. Pendant son prochain tour, une créature ayant relevé ce challenge doit réaliser une attaque contre vous si elle réalise une attaque pendant son tour et que vous êtes à portée.
 
 Au niveau 14, la portée de ce challenge s'étend à 10 ft.
 
-#### Marque du Champion
+### Marque du Champion
 _Remplace la Marque du Gardien_
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 15 ft. Vous avez un bonus de +2 à la CA contre les attaques de la créature marquée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
-#### Vigueur du Champion
+### Vigueur du Champion
 _Remplace la Résolution du Gardien_
 
 À partir du niveau 3, les dégâts contondants, perçants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
 
 À partir du niveau 17, pour une réaction, vous pouvez réduire les dégâts que vous prenez d'un montant égal à votre niveau. Une fois que vous avez utilisé cette réaction, vous ne pouvez plus le faire avant d'avoir terminé un repos long.
 
-### Gardien en Chasse
+## Gardien en Chasse
 
 Les gardiens en chasse pratiquent une forme agressive de défense : les ennemis morts, après tout, ne peuvent pas blesser vos alliés. 
 
-#### Piège du Chasseur
+### Piège du Chasseur
 _Remplace la Saisie du Gardien_
 
-Au niveau 1, pour une action bonus, vous pouvez piéger 
+Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité, même s'ils ont utilisé leur action pour se Désengager.
+
+### Marque du Chasseur
+_Remplace la Marque du Gardien_
+
