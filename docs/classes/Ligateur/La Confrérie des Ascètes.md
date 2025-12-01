@@ -20,7 +20,7 @@ Tant que ce vestige est supprimé, aucune de ses compétences ne vous affecte et
 | 3                  | 1d4                            |
 | 7                  | 1d6                            |
 | 10                 | 1d8                            |
-| 14                 | 1d10                           | 
+| 14                 | 1d10                           |
 
 ## Mille Poings
 
