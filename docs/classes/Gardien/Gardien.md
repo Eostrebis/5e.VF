@@ -1,5 +1,5 @@
 ---
-status: wip
+status: finished
 ---
 Une immense armée de goblinoïdes apparaît à l'horizon des murs du château. Dans la faille, un simple chevalier repousse la horde, étripant tous ceux qui osent s'approcher, et ne laissant passer aucun d'entre eux.
 
@@ -274,7 +274,7 @@ Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-
 ### Marque du Chasseur
 _Remplace la Marque du Gardien_
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
@@ -299,7 +299,7 @@ Au niveau 14, cette compétence affecte les créatures à 10 ft. de vous et vous
 ### Marque du Mangeur d'Hommes
 _Remplace la [[#Marque du Gardien]]_
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
@@ -326,7 +326,7 @@ Au niveau 14, cette compétence affecte les créatures amicales à 10 ft. de vou
 ### Marques Jumelles du Parangon
 _Remplace la [[#Marque du Gardien]]_
 
-Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection prend des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mourriez.
+Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection prend des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
 
@@ -336,3 +336,28 @@ _Remplace la [[#Résolution du Gardien]]_
 À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez regagner un nombre de points de vie, jusqu'au maximum restant dans votre réservoir.
 
 À partir du niveau 17, lorsque vous utilisez votre [[#source de vie]], vous pouvez également utiliser votre compétence pour regagner des points de vie sans dépenser d'action.
+
+## Gardien Crépusculaire
+
+Les gardiens crépusculaires sont touchés par des ténèbres primordiales qui se terrent dans les coins de ce monde sans jamais être touchées par le soleil. De tels gardiens canalisent cette obscurité plutôt que le pouvoir né du monde naturel pour se protéger eux-mêmes et envelopper leurs ennemis.
+
+### Ombres Saisissantes
+_Remplace la [[#Saisie du Gardien]]_
+
+Au niveau 1, pour une action bonus, vous pouvez invoquer l'ombre des damnés, créant un nuage de 10 ft. de rayon centré sur vous. La sphère est fortement obscurée depuis l'extérieur. De l'intérieur, cependant, la sphère est de luminosité normale et l'extérieur semble être fortement obscuré. Des mains ombreuses s'étendent des frontières de la sphère et s'accrochent à tous à l'intérieur. Vous et toutes les créatures que vous choisissez de taille G ou moins ne pouvez quitter la sphère sans d'abord utiliser une action pour se Désengager. Les ombres se dispersent au début de votre prochain tour.
+
+Au niveau 14, lorsque vous créez la sphère, vous pouvez choisir d'étendre son rayon à 15 ft.
+
+### Marque des Ombres
+_Remplace la [[#Marque du Gardien]]_
+
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Si la créature est de taille G ou inférieure, vous pouvez l'attirer de 5 ft. vers vous en utilisant de sombres tentacules d'ombre. À chaque fois que la créature marquée s'éloigne volontairement de vous, elle traite la zone dans laquelle elle se déplace comme du terrain difficile. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
+
+Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
+
+### Forme d'Ombre
+_Remplace la [[#Résolution du Gardien]]_
+
+À partir du niveau 3, lorsqu'il vous reste moins de la moitié de vos points de vie, vous disparaissez en un flou de ténèbres fluctuantes, imposant un désavantage à tout jet d'attaque de mêlée contre vous. Un attaquant ne subit pas ce désavantage s'il ne se base pas sur la vue, par exemple avec la vision aveugle ou s'il peut voir à travers les illusions, par exemple avec la vision véritable.
+
+À partir du niveau 17, vous avez également l'avantage aux jets de sauvegarde de Force, Dextérité et Constitution que vous réalisez lorsque vous avez moins de la moitié de vos points de vie.
