@@ -19,7 +19,7 @@ search:
 > - **Druide.** ![](https://geps.dev/progress/0) 
 > - **Ensorceleur.** ![](https://geps.dev/progress/0) 
 > - **Fusilier.** ![](https://geps.dev/progress/100) 
-> - **Gardien.** ![](https://geps.dev/progress/85) 
+> - **Gardien.** ![](https://geps.dev/progress/92) 
 > - **Guerrier.** ![](https://geps.dev/progress/0) 
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
 > - **Ligateur.** ![](https://geps.dev/progress/91) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-12-01 14:52:09
+Mis à jour pour la dernière fois le 2025-12-01 16:33:49
