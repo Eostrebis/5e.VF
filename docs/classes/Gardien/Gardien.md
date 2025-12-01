@@ -304,10 +304,35 @@ Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Soif de Sang du Mangeur d'Hommes
-_Remplace la Résolution du Gardien_
+_Remplace la [[#Résolution du Gardien]]_
 
 Vous avez un réservoir de dégâts temporaires. Lorsque vous prenez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
 
 Lorsque vous infligez des dégâts avec une attaque armée de mêlée à une créature que vous avez marquée, vous pouvez réduire votre réservoir de dégâts temporaires de la moitié des dégâts infligés (arrondi à l'inférieur), jusqu'à un minimum de 1.
 
 À partir du niveau 17, à chaque fois que vous utilisez votre [[#Source de Vie]], votre réservoir de dégâts temporaires est remis à 0 sans être déduit de vos points de vie.
+
+## Parangon de Gardien
+
+Les templiers et les paladins exilés sont les plus enclins à saisir le manteau de parangon, canalisant le pouvoir divin et endurant la dureté des coups des ennemis pour épargner les autres.
+
+### Sauvetage du Parangon
+_Remplace la [[#Saisie du Gardien]]_
+
+Au niveau 1, pour une action bonus, vous donnez à vos alliés un répit au milieu du combat. Chaque créature amicale que vous choisissez à 5 ft. de vous peut immédiatement se déplacer de 10 ft. sans déclencher d'attaque d'opportunité.
+
+Au niveau 14, cette compétence affecte les créatures amicales à 10 ft. de vous et leur permet de se déplacer de 15 ft. sans déclencher d'attaque d'opportunité.
+
+### Marques Jumelles du Parangon
+_Remplace la [[#Marque du Gardien]]_
+
+Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection prend des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mourriez.
+
+Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
+
+### Font du Parangon
+_Remplace la [[#Résolution du Gardien]]_
+
+À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez regagner un nombre de points de vie, jusqu'au maximum restant dans votre réservoir.
+
+À partir du niveau 17, lorsque vous utilisez votre [[#source de vie]], vous pouvez également utiliser votre compétence pour regagner des points de vie sans dépenser d'action.
