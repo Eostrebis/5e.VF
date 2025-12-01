@@ -14,8 +14,19 @@ Les tieflins sont dérivés d'un héritage humain et dans le sens large, ils res
 
 En fonction du pacte établi par leurs ancêtres, les tieflins se distinguent en sous-race :
 
-| Sous-race | Description |
-| --------- | ----------- |
+|**Sous-race**|**Description**|
+|---|---|
+|**[[#Héritier d'Asmodée]]**|La lignée la plus commune, commandant au feu et aux ténèbres.|
+|**[[#Héritier de Belzébuth]]**|Liés au Seigneur des Mouches, capables de corrompre le corps et l'esprit.|
+|**[[#Héritier de Dispater]]**|Des experts de l'espionnage, de la dissimulation et de la détection de pensées.|
+|**[[#Héritier de Fierna]]**|Des manipulateurs nés, maîtres de la magie des émotions et du charme.|
+|**[[#Héritier de Glasya]]**|Héritiers de la princesse criminelle des Enfers, doués pour le vol et l'illusion.|
+|**[[#Héritier de Levistus]]**|Liés à la glace de Stygie, spécialisés dans la survie et la protection magique.|
+|**[[#Héritier de Mammon]]**|Des maîtres de la richesse et de la magie utilitaire et protectrice.|
+|**[[#Héritier de Méphistophélès]]**|Des mages nés, maniant le feu des Enfers et une puissante magie arcanique.|
+|**[[#Héritier de Zariel]]**|Des guerriers féroces dotés d'une force surnaturelle et d'une magie de combat.|
+|**[[#Héritier de Bel]]**|Descendants de l'ancien tyran d'Averne, dotés d'ailes membraneuses pour voler.|
+|**[[#Héritier de Neabaz]]**|Liés au héraut de Belzébuth, dotés d'un charme magique insidieux et moqueur.|
 
 ### Culture
 

@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 
 ### Description
@@ -18,7 +18,7 @@ Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et u
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun]] et le [[Langues#Primordial]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Primordial|Primordial]].
 
 **Âge.** Les tritons deviennent matures à partir de 15 ans et vivent jusqu'à 200 ans.
 
@@ -28,12 +28,12 @@ Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et u
 
 **Amphibien.** Vous pouvez respirer dans l'air et sous l'eau.
 
-**Contrôle de l'Air et de l'Eau.** Vous pouvez lancer le sort [[Brouillard]] avec ce trait. À partir du niveau 3, vous pouvez lancer [[Bourrasque]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[marche sur l'eau]]. Une fois que vous avez lancé ces sorts avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi les lancer en utilisant des emplacements de sort de niveau adapté.
+**Contrôle de l'Air et de l'Eau.** Vous pouvez lancer le sort [[Brouillard]] avec ce trait. À partir du niveau 3, vous pouvez lancer [[Saute de vent]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[marche sur l'eau]]. Une fois que vous avez lancé ces sorts avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi les lancer en utilisant des emplacements de sort de niveau adapté.
 
 L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour lancer ces sorts avec ce trait (à choisir lorsque vous sélectionnez la race).
 
 **Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Émissaire de la Mer.** Vous pouvez communiquer de simples idées à n'importe quelle Bête, Élémentaire ou Monstruosité qui a une vitesse de nage. La créature comprend vos mots mais vous n'avez pas de moyens de la comprendre en retour.
+**Émissaire de la Mer.** Vous pouvez communiquer de simples idées à n'importe quelle Bête, Élémentaire ou Monstruosité qui a une vitesse de nage. La créature comprend vos mots mais vous n'avez pas de moyen de la comprendre en retour.
 
 **Gardien des Profondeurs.** Habitué au climat rude des profondeurs océaniques, vous êtes résistant aux dégâts de froid.

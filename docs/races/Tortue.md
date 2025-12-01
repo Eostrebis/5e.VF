@@ -1,11 +1,11 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
 Les tortues ont un proverbe bien connu : "Nous portons nos maisons sur nos dos." Ce peuple testudien vit sur de nombreux mondes, la plupart voyageant le long des côtes, suivant les rivières ou à travers les mers. Les tortues n'ont pas vraiment de légende sur leur création, mais elles ont toutes une connexion mystique avec la nature. Porter leurs abris sur leurs dos confère aux tortues un sentiment de sécurité où qu'elles soient, même si elles visitent un lointain royaume.
 
-Les tortues exhibent une forte variété de couleurs et de patterns sur leurs carapaces, qu'elles apprécient décorer de multiples façons.
+Les tortues présentent une forte variété de couleurs et de patterns sur leurs carapaces, qu'elles apprécient décorer de multiples façons.
 ![[Tortue.png]]
 ### Culture
 

@@ -165,7 +165,7 @@ def compute_progress():
                       magic_item_done, magic_item_total,
                       back_done, back_total)
 
-    if index_str != read_index_file():
+    if index_str not in read_index_file():
         write_index_file(index_str)
 
     print(f"Avancée des classes :\n\t ◺ Toutes classes : {classe_percentage} %")
