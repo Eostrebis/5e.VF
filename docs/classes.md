@@ -622,7 +622,7 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster ⚔️</span>
+	        <span class="stat-value">Martial ⚔️</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
@@ -1042,7 +1042,7 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 	    <div class="dnd-stats-row">
 	      <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
+	        <span class="stat-value">Martial ⚔️</span>
 	      </div>
 	      <div class="stat-item">
 	        <span class="stat-label">Dés de vie</span>
