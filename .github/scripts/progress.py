@@ -6,58 +6,6 @@ from pathlib import Path
 working_dir = "/home/runner/work/5e.VF/5e.VF/docs/"
 directory = Path(working_dir)
 
-
-file_template = """
----
-search:
-  exclude: true
----
-# Eostrebis
-
-## Avancée de la Traduction
-
-**Classes.** 12/26 ![](https://geps.dev/progress/46)
-
-**Races.** 42/42 ![](https://geps.dev/progress/100) ✨
-
-**Sorts.** 346/786 ![](https://geps.dev/progress/44)
-
-**Conditions.** 16/16 ![](https://geps.dev/progress/100)
-
-**Dons.** 130/130 ![](https://geps.dev/progress/100)
-
-**Objets.** 94/512 ![](https://geps.dev/progress/18)
-
-**Historiques.** 0/62 ![](https://geps.dev/progress/0)
-
-## Avancée de l'Implémentation
-
-**Classes.** 4/26 ![](https://geps.dev/progress/15)
-
-**Races.** 6/44 ![](https://geps.dev/progress/13)
-
-**Sorts.** 138/786 ![](https://geps.dev/progress/17)
-
-**Conditions.** 16/16 ![](https://geps.dev/progress/100)
-
-**Dons.** 52/130 ![](https://geps.dev/progress/40)
-
-**Objets.** 94/512 ![](https://geps.dev/progress/18)
-
-**Historiques.** 0/62 ![](https://geps.dev/progress/0)
-
-# Problèmes Connus
- - ~~Les liens internes à une page ne fonctionnent pas si l'ancre a des accents.~~ (Réparé le 02/07/24)
- - Les noms des actions ne sont pas uniformisés
- - Griffe Draconique n'existe pas !
-
-
-En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
-
-Mis à jour pour la dernière fois le 17/06/2025@11:20
-"""
-
-
 def get_status(file) -> str:
     if file.endswith('.md'):
         with open(file, encoding='utf8') as f:
@@ -187,14 +135,16 @@ search:
 
 **Historiques.** {int(back_done)}/{back_total} ![](https://geps.dev/progress/{int(100*back_done/back_total)})
 
-En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
+En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>"""
 
-Mis à jour pour la dernière fois le {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}
-    """
+def read_index_file():
+    with open(working_dir+'/index.md', 'r', encoding='utf-8') as f:
+        return f.read()
 
 def write_index_file(content):
+    updated_content = content + f"\n\nMis à jour pour la dernière fois le {datetime.today().strftime('%Y-%m-%d %H:%M:%S')}"
     with open(working_dir+'/index.md', 'w', encoding='utf-8') as f:
-        f.write(content)
+        f.write(updated_content)
 
 def compute_progress():
     spell_done, spell_total = get_spell_progress()
@@ -215,7 +165,8 @@ def compute_progress():
                       magic_item_done, magic_item_total,
                       back_done, back_total)
 
-    write_index_file(index_str)
+    if index_str != read_index_file():
+        write_index_file(index_str)
 
     print(f"Avancée des classes :\n\t ◺ Toutes classes : {classe_percentage} %")
     for classe in classe_done:
