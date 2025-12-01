@@ -149,15 +149,18 @@ Lorsque vous atteignez le niveau 3, vous sentez l'attirance inexorable de votre 
 
 Ce choix vous confère des compétences au niveau 3, puis aux niveaux 6, 13 et 20.
 
-| Appels du Champion              | Description                                                              |
-| ------------------------------- | ------------------------------------------------------------------------ |
-| [[Chasseur Nocturne]]           | Allié des mort-vivants, infusé d'énergies nécromantiques                 |
-| [[Défenseur au Cœur de Pierre]] | Protecteur impassable des forteresses montagnardes                       |
-| [[Gardien Enragé]]              | Entre en transe pour canaliser la férocité primale des bêtes             |
-| [[Shaman de l'Âme-Sang]]        | Manipule l'âme pour conjuer la magie des légendes                        |
-| [[Sentinelle des Tempêtes]]     | Canalise la furie des ouragans pour protéger les faibles                 |
-| [[Sentinelle Grise]]            | Un garde entraîné aux manœuvres qui repousse les envahisseurs des villes |
-| [[Protecteur Verdoyant]]        | Infusé avec le pouvoir des fôrets qu'il a juré de protéger               |
+| Appels du Champion              | Description                                                                |
+| ------------------------------- | -------------------------------------------------------------------------- |
+| [[Chasseur Nocturne]]           | Allié des mort-vivants, infusé d'énergies nécromantiques                   |
+| [[Défenseur au Cœur de Pierre]] | Protecteur impassable des forteresses montagnardes                         |
+| [[Gardien Enragé]]              | Entre en transe pour canaliser la férocité primale des bêtes               |
+| [[Shaman de l'Âme-Sang]]        | Manipule l'âme pour conjuer la magie des légendes                          |
+| [[Sentinelle des Tempêtes]]     | Canalise la furie des ouragans pour protéger les faibles                   |
+| [[Sentinelle Grise]]            | Un garde entraîné aux manœuvres qui repousse les envahisseurs des villes   |
+| [[Protecteur Verdoyant]]        | Infusé avec le pouvoir des fôrets qu'il a juré de protéger                 |
+| [[Roi des Charognes]]           | Protecteur de la vermine, entouré de légions de nuisibles                  |
+| [[Pionnier Féérique]]           | Défenseur des Ponts Féériques et guide de la Féérie                        |
+| [[Juré-des-Dieux]]              | Divinement nommé pour protéger les sites sacrés et les prêtres vulnérables |
 
 
 ## Résolution du Gardien
