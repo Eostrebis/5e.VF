@@ -266,11 +266,21 @@ _Remplace la Résolution du Gardien_
 
 Les gardiens en chasse pratiquent une forme agressive de défense : les ennemis morts, après tout, ne peuvent pas blesser vos alliés. 
 
-### Piège du Chasseur
+### Saisie du Chasseur
 _Remplace la Saisie du Gardien_
 
-Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité, même s'ils ont utilisé leur action pour se Désengager.
+Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'il quitte votre portée, même s'ils ont utilisé leur action pour se Désengager.
 
 ### Marque du Chasseur
 _Remplace la Marque du Gardien_
 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
+
+Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
+
+Cette compétence ne se cumule pas avec le sort [[marque du chasseur]].
+
+### Résistance du Chasseur
+_Remplace la Résolution du Gardien_
+
+À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous prenez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre cet effet. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
