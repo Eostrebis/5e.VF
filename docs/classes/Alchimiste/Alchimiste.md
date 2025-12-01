@@ -33,6 +33,8 @@ Soyez sûr de comprendre la place de l'alchimie dans le monde de votre campagne.
 
 Vous pouvez créer un alchimiste rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Dextérité. Choisissez l'historique de votre choix, de préférence un qui aide pour justifier votre histoire avec l'alchimie.
 
+### Table de l'Alchimiste
+
 | Niveau | Bonus de Maîtrise | Formules Connues | Dé de Réactifs | Découvertes Connues | Compétences                                                                                                                |
 | :----: | :---------------: | :--------------: | :------------: | :-----------------: | -------------------------------------------------------------------------------------------------------------------------- |
 |   1    |        +2         |        --        |       --       |         --          | [[Alchimiste#Bombes\|Bombes]], [[Alchimiste#Philosophe Naturel\|Philosophe Naturel]]                                       |
@@ -108,7 +110,7 @@ De plus, lorsque vous lancez une bombe de cette façon, les dégâts augmentent 
 
 À partir du niveau 2, votre recherche vous a permis de mieux comprendre de nouvelles formules alchimiques pour vos bombes. Sélectionnez trois formules de bombes parmi les [[Formules de Bombes]]. Une fois par tour, lorsque vous amorcez une bombe, vous pouvez lui appliquer une formule. Appliquer une formule change tous les dés de dégâts d'une bombe, mais lui confère aussi des effets spéciaux.
 
-Lorsque vous gagnez certains niveaux dans cette classe, vous apprenez des formules supplémentaires, comme montré dans la colonne Formules Connues de la table de l'Alchimiste. De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir une formule que vous connaissez, et la remplacer par une autre.
+Lorsque vous gagnez certains niveaux dans cette classe, vous apprenez des formules supplémentaires, comme montré dans la colonne Formules Connues de la [[#table de l'Alchimiste]]. De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez choisir une formule que vous connaissez, et la remplacer par une autre.
 
 ## Champ d'Études
 
@@ -132,7 +134,7 @@ Une formule conférée par votre champ d'études ne compte pas dans votre limite
 À partir du niveau 3, vous possédez une collection de réactifs alchimiques tous plus puissants les uns que les autres, qui sont représentés par un nombre de dés de réactifs, que vous pouvez dépenser pour concocter des potions ou augmenter le pouvoir de vos explosifs.
 
 ### Dés de Réactifs
-Vous commencez avec trois dés de réactifs, qui sont des d10s, et vous gagnez des dés additionnels quand vous gagnez des niveaux dans cette classe, comme montré dans la colonne Dés de Réactifs de la table de l'Alchimiste. Vous regagnez les dés dépensés lorsque vous terminez un repos long.
+Vous commencez avec trois dés de réactifs, qui sont des d10s, et vous gagnez des dés additionnels quand vous gagnez des niveaux dans cette classe, comme montré dans la colonne Dés de Réactifs de la [[#table de l'Alchimiste]]. Vous regagnez les dés dépensés lorsque vous terminez un repos long.
 
 Quand vous amorcez une bombe, vous pouvez dépenser un nombre de dés réactifs au plus égal à votre bonus de maîtrise, et ajouter ces dés aux jets de dégâts de la bombe.
 
@@ -164,7 +166,7 @@ Lorsque vous finissez un repos court, vous pouvez choisir de récupérer la tota
 
 ## Découvertes
 
-Au cours de vos recherches, vous avez fait un certain nombre de [[Découvertes]] regardant la nature même de l'alchimie. Au niveau 4, vous gagnez deux découvertes de votre choix. Lorsque vous gagnez certains niveaux dans cette classe, vous gagnez des découvertes additionnelles de votre choix, comme montrée dans la colonne Découvertes Connues de la table de l'Alchimiste.
+Au cours de vos recherches, vous avez fait un certain nombre de [[Découvertes]] regardant la nature même de l'alchimie. Au niveau 4, vous gagnez deux découvertes de votre choix. Lorsque vous gagnez certains niveaux dans cette classe, vous gagnez des découvertes additionnelles de votre choix, comme montrée dans la colonne Découvertes Connues de la [[#table de l'Alchimiste]].
 
 De plus, lorsque vous gagnez un niveau dans cette classe, vous pouvez remplacer une des découvertes que vous connaissez avec une autre de votre choix.
 

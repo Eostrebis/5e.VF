@@ -63,7 +63,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
  - Une [[arbalète légère]], 20 [[Carreaux d'Arbalète (20)|carreaux]] et n'importe quelle [[Armes Simples|arme simple]]
  - (a) une armure d'[[écailles]] ou (b) une armure de [[cuir]]
- - 10 morceaux de [[Craie (1 morceau)||craie]] et (a) une [[sacoche à composants]] ou (b) un [[focalisateur arcanique]]
+ - 10 morceaux de [[Craie (1 morceau)|craie]] et (a) une [[sacoche à composants]] ou (b) un [[focalisateur arcanique]]
  - (a) un [[sac d'érudit]] ou (b) un [[sac d'exploration souterraine]]
 
 ## Ligature d'Âme
@@ -101,15 +101,15 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 
 À partir du niveau 3, vous vous alignez avec une secte ésotérique, une organisation secrète de ligateurs liés par des objectifs similaires et un savoir mystique partagé. Choisissez l'une des sectes suivantes. Votre choix de secte vous confère une compétence aux niveaux 3, 7, 10 et 14.
 
-| Secte Ésotérique                   | Description |
-| ---------------------------------- | ----------- |
-| [[L'Église de Gyx]]                |             |
-| [[La Confrérie des Ascètes]]       |             |
-| [[La Loge de la Légion]]           |             |
-| [[Les Avataristes]]                |             |
-| [[Les Fidèles d'Ishtar]]           |             |
-| [[Ordre de la Ligature Cramoisie]] |             |
-| [[Société du Sceau Stygien]]       |             |
+| Secte Ésotérique                   | Description                                                                                                                                               |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[L'Église de Gyx]]                | Rejoignez la première secte de ligateurs pour simuler la magie divine, repousser les morts-vivants et sacrifier vos vestiges pour accomplir des miracles. |
+| [[La Confrérie des Ascètes]]       | Supprimez vos vestiges pour atteindre la perfection physique et mentale, combattant sans armure avec des poings psychiques et une discipline monacale.    |
+| [[La Loge de la Légion]]           |                                                                                                                                                           |
+| [[Les Avataristes]]                | Invoquez une manifestation physique de vos vestiges pour combattre à votre place, partageant vos blessures et vos pouvoirs avec cet esprit protecteur.    |
+| [[Les Fidèles d'Ishtar]]           | Liez-vous éternellement à la déesse jalouse pour manipuler les émotions, charmer les foules et briser psychiquement le cœur de vos ennemis.               |
+| [[Ordre de la Ligature Cramoisie]] |                                                                                                                                                           |
+| [[Société du Sceau Stygien]]       |                                                                                                                                                           |
 
 ## Suppression des Signes
 

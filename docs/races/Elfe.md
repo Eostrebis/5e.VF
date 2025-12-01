@@ -1,15 +1,15 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
-Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux emprunts d'une beauté éthérée,  au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 
+Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux empreints d'une beauté éthérée,  au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 
 
 ![[Elfe.png]]
 
 #### Élancés et Gracieux
 
-Avec leur grâce irréelle et leurs traits fins, les elfes sont merveilleusement beaux pour les humains et les membres de multiples races. Ils sont généralement plus petits que les humains, allant de 1m50 à 1m90. Ils sont cependant bien plus élancés que les humains, ne pesant qu'entre 50 et 70 kg. Les hommes et femmes font à peu près la même taille, et les hommes sont quelque peu plus lourd.
+Avec leur grâce irréelle et leurs traits fins, les elfes sont merveilleusement beaux pour les humains et les membres de multiples races. Ils sont généralement plus petits que les humains, allant de 1m50 à 1m90. Ils sont cependant bien plus élancés que les humains, ne pesant qu'entre 50 et 70 kg. Les hommes et femmes font à peu près la même taille, et les hommes sont quelque peu plus lourds.
 
 La coloration des elfes englobe l'étendue humaine _normale_, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
 
@@ -49,7 +49,7 @@ Les elfes partent à l'aventure par pure quête d'exploration. Puisqu'ils vivent
 
 Les elfes sont considérés comme des enfants jusqu'à ce qu'ils se déclarent adultes, quelque temps après le centième anniversaire, et avant cette période, ils sont appelés par des noms d'enfant.
 
-Lorsqu'il déclare l'âge adulte, un elfe choisit un nom d'adulte, bien que ceux qui le connaissaient comme un enfance puissent continuer à utiliser le nom de l'enfant. Le nom adulte de chaque elfe est une création unique, même s'il peut s'inspirer de noms d'individus respectés ou d'autres membres de la famille. Il n'y a guère de distinction entre les noms masculins et les noms féminins; les groupements ici ne reflètent que des tendances générales. En outre, chaque elfe porte un nom de famille, typiquement une combinaison d'autres mots elfes. Certains elfes voyageant parmi les humains traduisent leurs noms de famille en [[Langues#Commun|Commun]], mais d'autres conservent la version [[Langues#Elfique|Elfique]].
+Lorsqu'il déclare l'âge adulte, un elfe choisit un nom d'adulte, bien que ceux qui le connaissaient comme un enfant puissent continuer à utiliser le nom de l'enfant. Le nom adulte de chaque elfe est une création unique, même s'il peut s'inspirer de noms d'individus respectés ou d'autres membres de la famille. Il n'y a guère de distinction entre les noms masculins et les noms féminins; les groupements ici ne reflètent que des tendances générales. En outre, chaque elfe porte un nom de famille, typiquement une combinaison d'autres mots elfes. Certains elfes voyageant parmi les humains traduisent leurs noms de famille en [[Langues#Commun|Commun]], mais d'autres conservent la version [[Langues#Elfique|Elfique]].
 
 **Nom d'enfants:** Ara, Bryn, Del, Eryn, Faen, Innil, Lael, Mella, Naill, Naeris, Phann, Rael, Rinn, Sai, Syllin, Thia, Vall
 
@@ -67,7 +67,7 @@ Lorsqu'il déclare l'âge adulte, un elfe choisit un nom d'adulte, bien que ceux
 
 En tant que haut-elfe, vous avez un esprit vif et une maîtrise d'au moins les bases de la magie. Il y a deux sortes de haut-elfe. Certains sont hautains et reclus, se croyant supérieurs aux non-elfes et même aux autres elfes. On les appelle les elfes du soleil. Les autres sont plus communs et plus respectueux, et souvent rencontrés parmi les humains et d'autres races. Ceux-là sont connus comme les elfes de la lune.
 
-Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, ou doré. Leurs yeux son d'or, d'argent ou noirs. Les elfes de la lune sont beaucoup plus pâles,  avec une peau albâtre parfois teintée de bleu. Ils ont souvent des cheveux blanc-argentés, mais des chevelures plutôt blondes, châtaines, et même rousses ne sont pas rares. Leurs yeux sont bleus ou verts, parsemés d'or.
+Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, ou doré. Leurs yeux sont d'or, d'argent ou noirs. Les elfes de la lune sont beaucoup plus pâles,  avec une peau albâtre parfois teintée de bleu. Ils ont souvent des cheveux blanc-argentés, mais des chevelures plutôt blondes, châtaines, et même rousses ne sont pas rares. Leurs yeux sont bleus ou verts, parsemés d'or.
 
 ![[high_elf.png]]
 
@@ -103,7 +103,7 @@ Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, o
 
 ### Description
 
-En tant qu'elfe des bois, vous avez des sens aigus et de l'intuition, et vos pieds agiles vous permettent de naviguer rapidement et furtivement à travers vos forêts indigènes. Les elfes de bois (également appelés elfes sauvages, elfes verts ou elfes forestiers) sont reclus et se méfiant des non-elfes.
+En tant qu'elfe des bois, vous avez des sens aigus et de l'intuition, et vos pieds agiles vous permettent de naviguer rapidement et furtivement à travers vos forêts indigènes. Les elfes de bois (également appelés elfes sauvages, elfes verts ou elfes forestiers) sont reclus et méfiants des non-elfes.
 
 La peau des elfes des bois a tendance à être cuivrée en teinte, parfois avec des traces de vert. Leurs cheveux tendent vers les bruns et les noirs, mais ils sont parfois blonds ou de couleur cuivre. Leurs yeux sont verts, bruns ou noisettes.
 
@@ -178,7 +178,7 @@ En tant que Drow, vous êtes infusé de la magie de l'Outre-Terre, un royaume so
 
 Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse et à la magie sans limite. En utilisant cette magie, les eladrins sont capables de se déplacer d'un endroit à un autre en un instant, et en chaque eladrin résonnent les émotions capturées par la Féerie sous la forme de saisons -- des affinités qui agissent sur les humeurs et l'apparence des eladrins. La saison d'un eladrin peut changer, même si certains préfèrent conserver la même à vie. Choisissez votre saison ou tirez dans la table des saisons ci-dessous.
 
-#### Eladrin Seasons
+#### Saisons Eladrin
 
 | d4  | Saison                                                                                           |
 | --- | ------------------------------------------------------------------------------------------------ |
@@ -217,7 +217,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
  - *Automne.* Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.
 
- - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elle doit réussir un jet de sauvegarde de Sagesse ou être effrayée par vous jusqu'au début de votre prochain tour.
+ - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elle doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
  
  - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature volontaire et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft. (9m/6 cases).
   

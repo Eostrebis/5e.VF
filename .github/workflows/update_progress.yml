@@ -1,0 +1,60 @@
+# This generates spells.json
+
+name: Update Progress
+
+# Controls when the action will run. Workflow runs when manually triggered using the UI
+# or API.
+
+on:
+  push:
+    branches:
+    - main
+    - release/*
+    
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  generate:
+    name: Update progress
+    runs-on: ubuntu-latest
+    outputs:
+      changes: ${{ steps.git-check.outputs.changes }}
+    steps:
+      - name: Check out repository to the runner
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: configure git
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git checkout main
+          git fetch origin
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: 3.12
+      - name: Run script
+        run: python3 .github/scripts/progress.py
+      - name: check for changes
+        id: git-check
+        run: |
+          if git diff --quiet; then
+            echo "No changes detected, exiting workflow successfully"
+            exit 0
+          fi
+          echo "changes=true" >> $GITHUB_OUTPUT
+      - name: continue workflow
+        if: steps.git-check.outputs.changes == 'true'
+        run: echo "Changes detected, continuing workflow"
+      - name: stage changed files
+        if: steps.git-check.outputs.changes == 'true'
+        run: git add .
+      - name: commit changed files
+        if: steps.git-check.outputs.changes == 'true'
+        run: git commit -m "updating progress in index.md"
+      - name: fetch from branch
+        if: steps.git-check.outputs.changes == 'true'
+        run: git fetch origin ${{ env.BRANCH_NAME }}
+      - name: push code to branch
+        if: steps.git-check.outputs.changes == 'true'
+        run: git push origin ${{ env.BRANCH_NAME }}

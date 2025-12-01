@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 
 ### Description
@@ -19,7 +19,7 @@ Les humains représentent le peuple le plus adaptable et le plus ambitieux. Ils 
 
 #### Des institutions durables
 
-Là où un seul elfe ou un seul nain suffit à garder un emplacement important ou un secret, les humains fondent des ordres sacrés et des institutions dans ce but. Alors que les clans nains et les aïeuls halfelins passent les traditions aux nouvelles générations, les temples, gouvernements, librairies et lois humaines se chargent de fixer les traditions au sein même de l'histoire. Les humains rêvent d'immortalité, mais (sauf pour ceux qui se rapprochent des pouvoirs nécromanciens ou divins pour échapper à la mort) l'atteignent en s'assurant qu'ils seront souvenus bien après leur disparition.
+Là où un seul elfe ou un seul nain suffit à garder un emplacement important ou un secret, les humains fondent des ordres sacrés et des institutions dans ce but. Alors que les clans nains et les aïeuls halfelins passent les traditions aux nouvelles générations, les temples, gouvernements, librairies et lois humaines se chargent de fixer les traditions au sein même de l'histoire. Les humains rêvent d'immortalité, mais (sauf pour ceux qui se rapprochent des pouvoirs nécromanciens ou divins pour échapper à la mort) l'atteignent en s'assurant que l'on se souviendra d'eux bien après leur disparition.
 
 Même si quelques humains sont xénophobes, leurs sociétés sont généralement inclusives. Les territoires humains hébergent une bien plus grande proportion de non-humains qu'il n'y a d'humains dans les territoires non-humains.
 
@@ -71,7 +71,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 ## Demi-humain
 
-"Bénis" par les Dieux, les Humains peuvent se reproduire avec n'importe quelle autre type de créature. De manière générale, le résultat de cette union possède des traits humains, et de leur race d'origine. Dans cette catégorie rentrent aussi les humains mutés, de quelque manière que ce soit.
+"Bénis" par les Dieux, les Humains peuvent se reproduire avec n'importe quel autre type de créature. De manière générale, le résultat de cette union possède des traits humains, et de leur race d'origine. Dans cette catégorie rentrent aussi les humains mutés, de quelque manière que ce soit.
 
 ### Mécaniques
 
@@ -93,7 +93,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 ##### Progéniture Aberrante
 
-Ou vous avez muté, ou vous avez été créés depuis une aberration, comme un aboleth. Dans tous les cas, vous souffrez d'étranges difformités en conséquence. De par ses changements, vous bénéficiez des traits suivants :
+Ou vous avez muté, ou vous avez été créés depuis une aberration, comme un aboleth. Dans tous les cas, vous souffrez d'étranges difformités en conséquence. De par ces changements, vous bénéficiez des traits suivants :
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -101,7 +101,7 @@ Ou vous avez muté, ou vous avez été créés depuis une aberration, comme un a
 
 **Résistance Psychique.** Vous êtes résistant aux dégâts psychiques.
 
-**Tentacule.** Au moins un de vos membres est musclé, caoutchouteux et souple, agissant comme un tentacule que vous pouvez utiliser pour faire des attaques à mains nues. Quand vous touchez avec, l'attaque, vous infligez 1d6 + STR dégâts contondants, plutôt que les dégâts normaux d'une attaque à mains nues.
+**Tentacule.** Au moins un de vos membres est musclé, caoutchouteux et souple, agissant comme un tentacule que vous pouvez utiliser pour faire des attaques à mains nues. Quand vous touchez avec, l'attaque, vous infligez 1d6 + votre modificateur de Force dégâts contondants, plutôt que les dégâts normaux d'une attaque à mains nues.
 
 ---
 
@@ -119,7 +119,7 @@ Un de vos parents est un habitant sous-marin, ou vous êtes un descendant lointa
 
 ##### Arachné
 
-Tout comme les drows, les humains peuvent être corrompus par la déesse Drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresse drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
+Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresse drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -135,7 +135,7 @@ Avec une courte queue, une fourrure vous couvrant le visage et de longues griffe
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Griffes.** Vous avez des griffes aiguisées que vous pouvez utiliser pour effectuer des attaques à main nue. Quand vous touchez avec elles, vos attaques font `dice:1d6|avg` + votre modificateur de Force dégâts tranchants, plutôt que les dégâts habituels pour une attaque à main nue.
+**Griffes.** Vous avez des griffes aiguisées que vous pouvez utiliser pour effectuer des attaques à main nue. Quand vous touchez avec elles, vos attaques font 1d6 + votre modificateur de Force dégâts tranchants, plutôt que les dégâts habituels pour une attaque à main nue.
 
 **Odorat Aiguisé.** Vous avez l'avantage aux jets de Sagesse (Perception) se reposant sur l'odorat.
 
@@ -143,13 +143,13 @@ Avec une courte queue, une fourrure vous couvrant le visage et de longues griffe
 
 ##### Marqué par les Flammes
 
-Imprégné à la naissance ou marqué plus tard par les pouvoirs du Feu Élémentaire, ces quasi-humains ont une affinité toute particulière pour la magie de feu. Leurs héritages en font de dangereux ennemis en combat, tout comme la nature volatile de leurs pouvoirs innés. Les Marqués par les Flammes sont des humains dans la forme, mais ont une peau d'un rouge flamboyant et des flammes dans le fond des yeux. Ils disposent des traits raciaux suivants : 
+Imprégné à la naissance ou marqué plus tard par les pouvoirs du Feu Élémentaire, ces quasi-humains ont une affinité toute particulière pour la magie de feu. Leur héritage en font de dangereux ennemis en combat, tout comme la nature volatile de leurs pouvoirs innés. Les Marqués par les Flammes sont des humains dans la forme, mais ont une peau d'un rouge flamboyant et des flammes dans le fond des yeux. Ils disposent des traits raciaux suivants : 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
 **Résistance au Feu.** Vous avez la résistance aux dégâts de feu.
 
-**Magie Enflammée.** Vous connaissez le cantrip *Flammes*. À compter du niveau 3, vous pouvez lancer le sort *Mains Brûlantes* avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort *Sphère de Feu* avec ce trait, sans que cela requiert la composante matérielle. Une fois que vous avez lancé *Mains Brûlantes* ou *Sphère de Feu* avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
+**Magie Enflammée.** Vous connaissez le cantrip [[flamme]]. À compter du niveau 3, vous pouvez lancer le sort [[mains brûlantes]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[sphère enflammée]] avec ce trait, sans que cela requiert la composante matérielle. Une fois que vous avez lancé [[mains brûlantes]] ou [[sphère enflammée]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
 ---
 
@@ -161,7 +161,7 @@ Votre peuple métabolise en lézardant au soleil. Aidé par votre robuste peau c
 
 **Armure Naturelle.** Votre peau se comporte comme une armure naturelle. Lorsque vous ne portez pas d'amure, votre CA de base est égale à 12 + votre modificateur de Dextérité. Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous laisserait avec une CA inférieure. Vous bénéficiez toujours des effets d'un bouclier lorsque vous utilisez votre armure naturelle.
 
-**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faîtes pour éviter ou pour terminer un effet d'empoisonnement sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer la condition [[empoisonné]] sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
 
 ---
 
@@ -189,7 +189,7 @@ Un de vos parents est une créature de l'obscurité, par exemple une ombre ou un
 
 **Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pas le réutiliser avant de finir un repos court ou long.
+**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
 
 ---
 
@@ -199,7 +199,7 @@ Les insectoïdes portent une ou deux marques distinctives des insectes, comme de
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision Aveugle.** De par votre antenne, vous avez une vision aveugle dans un rayon de 10 ft. (3m/2 cases). Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglé ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
+**Vision Aveugle.** Grâce à vos antennes, vous avez une vision aveugle dans un rayon de 10 ft. (3m/2 cases). Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglé ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
 
 **Régénération.** Si une partie de votre corps est amputée, et que cette amputation ne vous tue pas, vous pouvez la faire repousser en 24 heures.
 
@@ -213,7 +213,7 @@ D'après les légendes, un humain peut atteindre l'immortalité en remplaçant s
 
 **Éternel.** Vous ne vieillissez pas, même magiquement, et ne souffrez d'aucun désavantage du vieil âge. Vous ne pouvez pas mourir de vieillesse.
 
-**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faîtes pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
 
 ---
 
@@ -247,7 +247,7 @@ Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents 
 
 #### Homme-hibours
 
-Vous êtes un amas de plumes, de chaire et de fourrure ; mi-homme, mi-ours et re-mi-hibou. Personne ne peut vraiment être sûr de ce que vous êtes, si ce n'est le résultat d'un magicien fou s'aventurant dans le domaine des dieux. Vous disposez des traits raciaux suivants : 
+Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et re-mi-hibou. Personne ne peut vraiment être sûr de ce que vous êtes, si ce n'est le résultat d'un magicien fou s'aventurant dans le domaine des dieux. Vous disposez des traits raciaux suivants : 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -323,7 +323,7 @@ Vous venez d'un territoire glacé et désolé, où la température peut chuter d
 
 #### Rochené
 
-Avec une peau craquelée, les rochenés semblent taillés directement dans le granit et ont des personnalités tout aussi rigides que leur apparence. Ces demi-humains sont fiers de leur connection avec le Plan de la Terre et se pensent conquérants, destinés à régner sur toutes les roches. Vous bénéficiez des traits raciaux suivants : 
+Avec une peau craquelée, les rochenés semblent taillés directement dans le granit et ont des personnalités tout aussi rigides que leur apparence. Ces demi-humains sont fiers de leur connexion avec le Plan de la Terre et se pensent conquérants, destinés à régner sur toutes les roches. Vous bénéficiez des traits raciaux suivants : 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -341,7 +341,7 @@ Les descendants des méduses — les sthénos — sont généralement conçus av
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatique ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
+**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
 
 Vous pouvez utiliser votre Regard Immobilisant un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -349,7 +349,7 @@ Vous pouvez utiliser votre Regard Immobilisant un nombre de fois égal à votre 
 
 #### Taurin
 
-Votre large nez, forte mâchoire et large tête révèle assez distinctement votre lointaine nature bovine, mais les cornes de taureau bien visibles sur le haut de votre crâne annonce fièrement que vous êtes demi-minotaure. Les taurins sont plus grands que bien des peuples et peuvent résoudre les labyrinthes avec aisance, mais ne possèdent généralement qu'une once de la puissance de leur parent minotaure. Vous bénéficiez des traits raciaux suivants : 
+Votre large nez, forte mâchoire et large tête révèlent assez distinctement votre lointaine nature bovine, mais les cornes de taureau bien visibles sur le haut de votre crâne annoncent fièrement que vous êtes demi-minotaure. Les taurins sont plus grands que bien des peuples et peuvent résoudre les labyrinthes avec aisance, mais ne possèdent généralement qu'une once de la puissance de leur parent minotaure. Vous bénéficiez des traits raciaux suivants : 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -363,7 +363,7 @@ Votre large nez, forte mâchoire et large tête révèle assez distinctement vot
 
 #### Trolleux
 
-Avec leur peau aux teintes de vert et couverte de furoncles, leurs doigts crochus et leurs dents pointus, peu nombreux sont ceux qui reconnaissent les trolleux comme de demi-humains. Ces humains arborent tous les signes physiques de leur héritage troll et ont de grandes difficultés à s'intégrer dans la société humaine. Vous bénéficiez des traits raciaux suivants :
+Avec leur peau aux teintes de vert et couverte de furoncles, leurs doigts crochus et leurs dents pointues, peu nombreux sont ceux qui reconnaissent les trolleux comme des demi-humains. Ces humains arborent tous les signes physiques de leur héritage troll et ont de grandes difficultés à s'intégrer dans la société humaine. Vous bénéficiez des traits raciaux suivants :
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -385,13 +385,13 @@ Comme les ettins, vous avez deux têtes avec des personnalités différentes qui
 
 #### Parcouru par les Vents
 
-Insoucieux et toujours guidé par la curiosité, les pâles Parcourus par les Vents incarnent leur connexion au Plan de l'Air. Les humains parcours par les vents n'aiment pas dormir dans un même lit deux nuits de suite ; ils sont toujours sur le mouvement, toujours à explorer, et toujours à suivre le vent. Vous êtes plus léger qu'un humain normal, capable de léviter légèrement et avez un peu pouvoir inné sur le vent, ce qui vous confère les traits raciaux suivants : 
+Insoucieux et toujours guidé par la curiosité, les pâles Parcourus par les Vents incarnent leur connexion au Plan de l'Air. Les humains parcourus par les vents n'aiment pas dormir dans un même lit deux nuits de suite ; ils sont toujours en mouvement, toujours à explorer, et toujours à suivre le vent. Vous êtes plus léger qu'un humain normal, capable de léviter légèrement et avez un léger pouvoir inné sur le vent, ce qui vous confère les traits raciaux suivants : 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
 **Résistance à la Foudre.** Vous êtes résistant aux dégâts de foudre.
 
-**Magie Zéphyrienne.** Vous connaissez le cantrip [[Message]]. À partir du niveau 3, vous pouvez lancer [[Feuille Morte]] avec ce trait sans dépenser de composantes matérielles. À partir du niveau 5, vous pouvez également lancer [[Bourrasque]] avec ce trait sans dépenser de composantes matérielles. Une fois que vous avez lancé l'un de ces deux sorts avec ce trait, vous ne pouvez pas le relancer de cette façon jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi lancer ces sorts en utilisant un emplacement de sort du niveau adéquat.
+**Magie Zéphyrienne.** Vous connaissez le cantrip [[Message]]. À partir du niveau 3, vous pouvez lancer [[Feuille Morte]] avec ce trait sans dépenser de composantes matérielles. À partir du niveau 5, vous pouvez également lancer [[saute de vent]] avec ce trait sans dépenser de composantes matérielles. Une fois que vous avez lancé l'un de ces deux sorts avec ce trait, vous ne pouvez pas le relancer de cette façon jusqu'à ce que vous terminiez un repos long. Vous pouvez aussi lancer ces sorts en utilisant un emplacement de sort du niveau adéquat.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (à choisir lorsque vous sélectionnez cette race).
 

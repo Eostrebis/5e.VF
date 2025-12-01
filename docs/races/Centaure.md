@@ -1,6 +1,6 @@
 ---
 subrace: false
-status: empty
+status: finished
 ---
 ### Description
 
@@ -30,11 +30,11 @@ Les centaures galopent à travers le multivers et l'on peut retracer leurs origi
 
 **Carrure Équine.** Vous êtes considéré comme étant d'une taille supérieure à votre taille réelle lorsque vous déterminez le poids que vous pouvez porter/tirer/déplacer.
 
-De plus, escalader en utilisant vos mains et pieds est particulièrement difficile pour vous à cause de vos jambes de cheval. Ainsi, lorsque vous réalisez une telle action, chaque case de mouvement vous coûte 4 cases supplémentaires au lieu de l'unique case supplémentaire habituelle.
+De plus, escalader en utilisant vos mains et pieds est particulièrement difficile pour vous à cause de vos jambes de cheval. Ainsi, lorsque vous réalisez une telle action, chaque case de mouvement vous coûte 20 ft. supplémentaires au lieu des 5 ft. habituels.
 
 **Charge.** Si vous vous déplacez d'au moins 30 ft. en ligne droite vers une cible et la touchez avec une attaque armée de mêlée pendant le même tour, vous pouvez suivre cette attaque par une action bonus pour réaliser une seule attaque supplémentaire contre cette cible en utilisant vos sabots.
 
-**Sabots.** Vous avez des sabots que vous pouvez utiliser pour réaliser des attaques non-armées. Lorsque vous touchez avec, l'attaque inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts habituels d'une attaque non-armée.
+**Sabots.** Vous avez des sabots que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, l'attaque inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts habituels d'une attaque non-armée.
 
 
 

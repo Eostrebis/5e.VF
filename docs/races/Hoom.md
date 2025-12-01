@@ -1,13 +1,13 @@
 ---
 subrace: false
-status: empty
+status: finished
 ---
 
 ### Description
 
-Cousin éloigné des chouettes géantes de la Féerie, les hooms existent de différentes tailles et formes, des plus petits et duveteux à ceux avec une grande envergure et majestueux. Les hooms ont des bras et jambes comme tous les autres Humanoïdes, ainsi que des ailes qui s'étendent de leur dos et leurs épaules.
+Cousins éloignés des chouettes géantes de la Féerie, les hooms existent de différentes tailles et formes, des plus petits et duveteux à ceux avec une grande envergure et majestueux. Les hooms ont des bras et jambes comme tous les autres Humanoïdes, ainsi que des ailes qui s'étendent de leur dos et de leurs épaules.
 
-Comme les chouettes, les hooms possèdent des plumes qui ne font aucun bruit lorsqu'ils volent ou se déplacent, leur facilitant la tâche pour se faufiler la nuit (dans les librairies par exemple)3
+Comme les chouettes, les hooms possèdent des plumes qui ne font aucun bruit lorsqu'ils volent ou se déplacent, leur facilitant la tâche pour se faufiler la nuit (dans les librairies par exemple).
 
 Votre personnage hoom peut être nocturne. Ou peut-être est-il simplement enclin à se lever plus tard, incarnant le surnom d'_oiseau de nuit_.
 ![[Hoom.png]]
@@ -29,8 +29,8 @@ Votre personnage hoom peut être nocturne. Ou peut-être est-il simplement encli
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Vol.** Grâce à vos ailes, vous avez une vitesse de vol égal à votre vitesse de base. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde.
+**Vol.** Grâce à vos ailes, vous avez une vitesse de vol égale à votre vitesse de base. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde.
 
 **Plumes Silencieuses.** Vous maîtrisez la compétence Discrétion.

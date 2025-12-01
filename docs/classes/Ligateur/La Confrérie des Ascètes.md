@@ -1,7 +1,7 @@
 ---
 status: finished
 ---
-À l'opposé des autres ligateurs, la Confrérie des Ascètes pense que la discipline est la seule route vers l'éveil. Se lier à des vestiges n'est pas suffisant : chacun doit avoir un contrôle parfait de sa propre âme pour pouvoir profiter pleinement des opportunités offertes par les esprits errants. Ainsi, les Ascètes se privent des plaisirs terriens et du pouvoir de leurs vestiges pour forger leur volonté et atteindre une sagesse transcendante. 
+À l'opposé des autres ligateurs, la Confrérie des Ascètes pense que la discipline est la seule route vers l'éveil. Se lier à des vestiges n'est pas suffisant : chacun doit avoir un contrôle parfait de sa propre âme pour pouvoir profiter pleinement des opportunités offertes par les esprits errants. Ainsi, les Ascètes se privent des plaisirs terrestres et du pouvoir de leurs vestiges pour forger leur volonté et atteindre une sagesse transcendante. 
 
 ## Suppression du Vestige
 
@@ -24,7 +24,7 @@ Tant que ce vestige est supprimé, aucune de ses compétences ne vous affecte et
 
 ## Mille Poings
 
-À partir du niveau 7, lorsque vous êtes en pleine suppression de vestige, vous pouvez utiliser une action pour manifester une vague de poings psychiques afin de frapper vos ennemis. Vous pouvez réaliser jusqu'à quatre attaques à mains nues contre des créatures à 5 ft. de vous. Vous ne pouvez attaquer une créature plus d'une fois avec cette capacité.
+À partir du niveau 7, lorsque vous êtes en pleine suppression de vestige, vous pouvez utiliser une action pour manifester une vague de poings psychiques afin de frapper vos ennemis. Vous pouvez réaliser jusqu'à quatre attaques à mains nues contre des créatures à 5 ft. de vous. Vous ne pouvez attaquer une créature plus de deux fois avec cette capacité.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
@@ -36,7 +36,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire ava
 
 Au niveau 14, vous atteignez la concentration totale en supprimant tous vos vestiges pour une action bonus. Pour durée allant jusqu'à 1 minute, vous bénéficiez des effets suivants : 
 
- - Votre CA est de 20 si elle était inférieure.
+ - Votre CA est de 20, à moins qu'elle ne soit déjà inférieure.
  - Lorsque vous réalisez un jet d'attaque et que le résultat est inférieur à 15, vous pouvez traiter le résultat comme un 15.
  - Vos attaques à mains nues utilisent un d12 pour les dégâts.
 

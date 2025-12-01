@@ -1,10 +1,10 @@
 ---
-status: empty
+status: finished
 ---
 
 ### Description
 
-Crées par la déesse Bélhorixa, puissante guerrière et cheftaine, les orques reflètent ses qualités en étant aussi solides et tenaces qu'il est possible d'être.
+Créés par la déesse Hekatria, puissante guerrière et cheftaine, les orques reflètent ses qualités en étant aussi solides et tenaces qu'il est possible d'être.
 ![[Orque_Not_Good.png]]
 ![[Orque.png]]
 ### Culture
@@ -27,8 +27,8 @@ Crées par la déesse Bélhorixa, puissante guerrière et cheftaine, les orques 
 
 __Vision dans le Noir.__ Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Montée d'Adrénaline.__ Vous pouvez utiliser votre bonus action pour Courir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
+__Montée d'Adrénaline.__ Vous pouvez utiliser votre action bonus pour Foncer. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
 
-__Carrure Imposante.__ Vous êtes considéré comme d'une catégorie de taille supérieure pour déterminer votre capacité de charge.
+__Carrure Imposante.__ Vous êtes considéré comme d'une catégorie de taille supérieure pour déterminer votre capacité de charge ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
-__Endurance Sans Fin.__ Lorsque vous êtes réduit à 0 point de vie mais ne mourez pas sur le coup, vous pouvez tomber à 1 point de vie à la place. Une fois que vous avez utilisé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+__Endurance Implacable.__ Lorsque vous êtes réduit à 0 point de vie mais ne mourez pas sur le coup, vous pouvez tomber à 1 point de vie à la place. Une fois que vous avez utilisé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -1,11 +1,11 @@
 ---
 status: finished
 ---
-Les barbares qui suivent la voie de la Sérénité embrassent une philosophie zen de restriction et de modération, en contraste total avec leurs frères furieux. Embrassés par les Feys et appelés les "Sereins", ces barbares sont de calmes, tactiques guerriers qui utilisent une riposte rapide en lieu et place d'assauts violents incessants. À leur plus haut, les sereins ne font qu'un avec la nature et eux-mêmes, rentrant en phases où ils se défont de leurs ennemis avec une précision nonchalante. 
+Les barbares qui suivent la voie de la Sérénité embrassent une philosophie zen de restriction et de modération, en contraste total avec leurs frères furieux. Embrassés par le peuple féerique et appelés les "Sereins", ces barbares sont de calmes, tactiques guerriers qui utilisent une riposte rapide en lieu et place d'assauts violents incessants. À leur plus haut, les sereins ne font qu'un avec la nature et eux-mêmes, rentrant en phases où ils se défont de leurs ennemis avec une précision impassible. 
 
 ## Mantra
 
-Lorsque vous choisissez cette voie au niveau 3, utiliser votre action pour Éviter prolonge votre rage comme si vous aviez attaqué une créature hostile.
+Lorsque vous choisissez cette voie au niveau 3, utiliser votre action pour Esquiver prolonge votre rage comme si vous aviez attaqué une créature hostile.
 
 ## Anticipation
 

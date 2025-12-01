@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
@@ -9,7 +9,7 @@ Les giths sont une race humanoïde qui a autrefois été mise en esclavage par l
 
 ### Langue
 
-Tous les giths parlent le Gith, même s'il existe un dialecte githyanki et un dialecte githzerai. Le Gith s'écrit en utilisant des tir'su, qui arrangent les mots en un paterne circulaire.
+Tous les giths parlent le Gith, même s'il existe un dialecte githyanki et un dialecte githzerai. Le Gith s'écrit en utilisant des tir'su, qui arrangent les mots en un motif circulaire.
 
 ## Githyanki
 
@@ -36,7 +36,7 @@ Les githyanki sont élancés avec une peau aux teintes jaunes et marrons, et ils
 
 **Psionie Githyanki.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
 
-À partir du niveau 3, vous lancer le sort [[bond]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[pas brumeux]]. Une fois que vous avez lancé [[bond]] ou [[pas brumeux]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
+À partir du niveau 3, vous pouvez lancer le sort [[bond]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[pas brumeux]]. Une fois que vous avez lancé [[bond]] ou [[pas brumeux]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
 
 La caractéristique d'incantation pour ces sorts est, à votre choix, l'Intelligence, la Sagesse ou le Charisme, et vous la choisissez lorsque vous sélectionnez cette race. Aucun de ces sorts ne requiert de composantes lorsque vous le lancez de cette façon.
 
@@ -45,19 +45,19 @@ La caractéristique d'incantation pour ces sorts est, à votre choix, l'Intellig
 ## Githzerai
 
 ### Description
-À la suite de la guerre civile les ayant opposés aux githyanki, les githzerai ont migré vers le Chaos Instable du Limbo. Le Limbo est une véritable tempête de matière et d'énergie, s'effondrant et se reformant sans but ou direction, jusqu'à ce qu'une créature exprime une volonté de la stabiliser. À de leurs pouvoirs psioniques importants, les githzerai se sont *taillés* un abri, une maison au sein de ce chaos. Avec les années passant, les explorateurs githzerai ont quitté le Limbo pour atteindre d'autres plans et mondes du multivers.
+À la suite de la guerre civile les ayant opposés aux githyanki, les githzerai ont migré vers le Chaos Instable du Limbo. Le Limbo est une véritable tempête de matière et d'énergie, s'effondrant et se reformant sans but ou direction, jusqu'à ce qu'une créature exprime une volonté de la stabiliser. À l'aide de leurs pouvoirs psioniques importants, les githzerai se sont *taillé* un abri, une maison au sein de ce chaos. Avec les années passant, les explorateurs githzerai ont quitté le Limbo pour atteindre d'autres plans et mondes du multivers.
 
-Les githyanki sont élancés avec une peau mouchetée aux teintes jaunes et marrons. Les siècles qu'ils ont passés à cultiver leurs pouvoirs mentaux au sein du chaos sans fin du Limbo ont conféré aux githzerai la capacité de manipuler l'énergie psionique pour se protéger et explorer les esprits.
+Les githzerai sont élancés avec une peau mouchetée aux teintes jaunes et marrons. Les siècles qu'ils ont passés à cultiver leurs pouvoirs mentaux au sein du chaos sans fin du Limbo ont conféré aux githzerai la capacité de manipuler l'énergie psionique pour se protéger et explorer les esprits.
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : INT +2, FOR +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : SAG +2, INT +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
 **Langage.** Vous parlez le Commun et le Gith.
 
-**Âge.** Les githyanki vivent entre 75 et 120 ans, et grandissent au même rythme que les humains. Sur le Plan Astral, un githyanki peut vivre indéfiniment.
+**Âge.** Les githzerai vivent entre 75 et 120 ans, et grandissent au même rythme que les humains. Sur le Plan Astral, un githzerai peut vivre indéfiniment.
 
 **Taille.** Votre taille est Moyenne.
 
@@ -67,7 +67,7 @@ Les githyanki sont élancés avec une peau mouchetée aux teintes jaunes et marr
 
 **Psionie Githyanki.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
 
-À partir du niveau 3, vous lancer le sort [[Bouclier]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[Détection des Pensées]]. Une fois que vous avez lancé [[Bouclier]] ou [[Détection des Pensées]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
+À partir du niveau 3, vous pouvez lancer le sort [[Bouclier]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[Détection des Pensées]]. Une fois que vous avez lancé [[Bouclier]] ou [[Détection des Pensées]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
 
 La caractéristique d'incantation pour ces sorts est, à votre choix, l'Intelligence, la Sagesse ou le Charisme, et vous la choisissez lorsque vous sélectionnez cette race. Aucun de ces sorts ne requiert de composantes lorsque vous le lancez de cette façon.
 

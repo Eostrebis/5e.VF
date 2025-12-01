@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
@@ -31,6 +31,6 @@ Les filelièvres sont bipèdes, avec de longues pattes caractéristiques des lap
 
 **Sens Léporins.** Vous maîtrisez la compétence Perception.
 
-**Jeu de Jambes Chanceux.** Lorsque que vous ratez un jet de sauvegarde de Dextérité, vous pouvez utiliser votre réaction pour lancer un d4 et l'ajouter au jet de sauvegarde, le transformant potentiellement en succès. Vous ne pouvez pas utiliser cette réaction si vous êtes [[au sol]] ou avec une vitesse de 0.
+**Jeu de Jambes Chanceux.** Lorsque vous ratez un jet de sauvegarde de Dextérité, vous pouvez utiliser votre réaction pour lancer un d4 et l'ajouter au jet de sauvegarde, le transformant potentiellement en succès. Vous ne pouvez pas utiliser cette réaction si vous êtes [[au sol]] ou avec une vitesse de 0.
 
-**Bond de Lapin.** Pour une action bonus, vous pouvez sauter un nombre de ft. égal à cinq fois votre bonus de maîtrise, sans provoquer d'attaques d'opportunité. Vous ne pouvez utiliser ce trait que si votre vitesse est non nulle. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations en terminant un repos long.
+**Bond de Lapin.** Pour une action bonus, vous pouvez sauter une distance en pieds (ft.) égale à cinq fois votre bonus de maîtrise, sans provoquer d'attaques d'opportunité. Vous ne pouvez utiliser ce trait que si votre vitesse est non nulle. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations en terminant un repos long.

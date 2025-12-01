@@ -1,9 +1,9 @@
 ---
-status: empty
+status: finished
 ---
 ### Description
 
-Rares sont ceux qui considèrent les autres plans que le plan matériel, et ceux qui le font les considèrent comme de lointains royaumes distants, mais l'influence planaire peut être ressentie à travers le monde. Cela se manifeste parfois sous la forme d'individu qui, par le biais d'accidents ou de naissance, possède un peu de pouvoir planaire dans le sang. Les genasis font partie de ces individus, étant la progéniture entre les génies et les mortels.
+Rares sont ceux qui considèrent les autres plans que le plan matériel, et ceux qui le font les considèrent comme de lointains royaumes distants, mais l'influence planaire peut être ressentie à travers le monde. Cela se manifeste parfois sous la forme d'individus qui, par le biais d'accidents ou de naissance, possèdent un peu de pouvoir planaire dans le sang. Les genasis font partie de ces individus, étant la progéniture entre les génies et les mortels.
 
 Les Plans Élémentaires sont souvent inhabitables pour les natifs du Plan Matériel : une terre sans cesse en mouvement, des flammes ardentes, des ciels sans limites et des océans sans fond rendent même le tourisme de ces endroits extrêmement dangereux. Les puissants génies, en revanche, n'ont pas tant de problèmes pour s'aventurer dans le monde mortel. Ils s'adaptent parfaitement aux éléments mélangés du Plan Matériel, et ils le visitent parfois — de par leur volonté, ou en y étant magiquement forcés. Quelques génies adoptent une apparence humaine et voyagent incognito.
 
@@ -13,17 +13,17 @@ Rarement, un genasi est le résultat d'une exposition trop intense à un pic de 
 ![[Genasi.png]]
 #### Héritiers de Pouvoirs Élémentaires
 
-Les genasis héritent un peu des deux côtés de leur nature. Ils ressemblent à des humains, mais ont une peau d'une couleur inhabituelle (rouge, verte, bleue, ou grise), et il y a quelque chose qui *cloche* avec eux. Le sang élémentaire qui coule dans leurs veines se manifeste différement chez chaque genasi, souvent sous la forme de pouvoir magique.
+Les genasis héritent un peu des deux côtés de leur nature. Ils ressemblent à des humains, mais ont une peau d'une couleur inhabituelle (rouge, verte, bleue, ou grise), et il y a quelque chose qui *cloche* avec eux. Le sang élémentaire qui coule dans leurs veines se manifeste différemment chez chaque genasi, souvent sous la forme de pouvoir magique.
 
 Vu de silhouette uniquement, un genasi pourrait généralement se faire passer pour un humain. Ceux de l'eau ou de la terre sont généralement plus lourds, tandis que ceux du feu ou de l'air sont plus légers. Un genasi possède parfois des caractéristiques particulières qui rappellent son parent mortel (les oreilles pointues d'un elfe, la carrure d'un nain, les petites mains d'un halfelin, les grands yeux d'un gnome...)
 
 Les genasi n'ont quasiment jamais de contact avec leur parent élémentaire. Les génies n'ont que peu d'intérêt pour leurs enfants humains, et les considèrent comme des accidents.
 
-Certains genasis vivent comme des vagabonds, poussés à l'exil de par leur apparence étonnante et leur étrange magie, ou ont pris le contrôle de tribu d'humanoïdes sauvages ou d'étranges cultes en pleine nature. D'autres ont obtenu des positions de grandes influences, particulièrement là où les entités élémentaires sont vénérées. Quelques genasis préfèrent quitter le Plan Matériel pour trouver refuge sur le plan natif de leur parent élémentaire.
+Certains genasis vivent comme des vagabonds, poussés à l'exil de par leur apparence étonnante et leur étrange magie, ou ont pris le contrôle de tribus d'humanoïdes sauvages ou d'étranges cultes en pleine nature. D'autres ont obtenu des positions de grande influence, particulièrement là où les entités élémentaires sont vénérées. Quelques genasis préfèrent quitter le Plan Matériel pour trouver refuge sur le plan natif de leur parent élémentaire.
 
 ### Sauvage, et Confiant
 
-Les genasis ne manque que rarement de confiance en eux, se voyant comme égal à toutes les embûches sur leur chemin. Cela se manifeste comme une confiance en soi gracieuse chez certains, et comme un égo arrogant chez d'autres. Cette confiance en soi peut parfois aveugler les genasis vis-à-vis du risque et leurs plans *géniaux* finissent régulièrement par des problèmes.
+Les genasis ne manquent que rarement de confiance en eux, se voyant comme égal à toutes les embûches sur leur chemin. Cela se manifeste comme une confiance en soi gracieuse chez certains, et comme un égo arrogant chez d'autres. Cette confiance en soi peut parfois aveugler les genasis vis-à-vis du risque et leurs plans *géniaux* finissent régulièrement par des problèmes.
 
 Même pour un genasi fier de lui, les échecs entament cette confiance, et donc ils cherchent sans cesse à se dépasser, à développer leurs talents et compétences.
 
@@ -70,7 +70,7 @@ La peau d'un genasi d'air se trouve dans les teintes du bleu, ou d'une peau huma
 
 **Résistance à la Foudre.** Vous avez la résistance aux dégâts de foudre.
 
-**Danse du Vent.** Vous connaissez le cantrip [[Poigne Électrique]]. À partir du niveau 3, vous pouvez lancer le sort [[Feuille Morte]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lévitation]] de cette manière. Une fois que vous avez lancé [[Feuille Morte]] ou [[lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
+**Danse du Vent.** Vous connaissez le cantrip [[poigne électrique]]. À partir du niveau 3, vous pouvez lancer le sort [[feuille morte]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lévitation]] de cette manière. Une fois que vous avez lancé [[feuille morte]] ou [[lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (choisi à la sélection de cette race).
 
@@ -78,9 +78,9 @@ L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantati
 
 ### Description
 
-Descendants directs des dao, les génies du Plan Élémentaire de la terre, les genasis de terre ont hérité de leur force impressionnante et de leur contrôle de la terre.
+Descendants directs des dao, les génies du Plan Élémentaire de la Terre, les genasis de terre ont hérité de leur force impressionnante et de leur contrôle de la terre.
 
-La peau d'un genasi de terre peut aussi bien être des couleurs de la pierre ou de la terre, que celles d'un humain parsemé de particules telles que de la poussière de gemmes. Parfois, leur peau est marquée par des lignes qui ressemblent à des craquements et qui laissent apparaître des veines de gemme, ou scintillent d'une couleur dorée. Les cheveux d'un genasi de terre peuvent ressembler à de la pierre ou des gemmes sculptées, ou même à des mèches de métal.
+La peau d'un genasi de terre peut avoir toutes les couleurs de la pierre ou de la terre, que celles d'un humain parsemé de particules telles que de la poussière de gemmes. Parfois, leur peau est marquée par des lignes qui ressemblent à des craquements et qui laissent apparaître des veines de gemme, ou scintillent d'une couleur dorée. Les cheveux d'un genasi de terre peuvent ressembler à de la pierre ou des gemmes sculptées, ou même à des mèches de métal.
 
 ### Mécaniques
 
@@ -100,7 +100,7 @@ La peau d'un genasi de terre peut aussi bien être des couleurs de la pierre ou 
 
 **Marche Terrestre.** Vous pouvez vous déplacer sur du terrain difficile sans dépenser de mouvement supplémentaire si vous utilisez votre vitesse de marche sur le sol.
 
-**Fusion avec la Pierre.** Vous connaissez le cantrip [[Protection contre les Armes]]. Vous pouvez le lancer normalement, ou en utilisant une action bonus, un nombre de fois égal à votre bonus de maîtrise par repos long.
+**Fusion avec la Pierre.** Vous connaissez le cantrip [[Protection contre les Armes]]. Vous pouvez le lancer normalement, ou en utilisant une action bonus. Vous ne pouvez le lancer en action bonus qu'un nombre de fois égal à votre bonus de maîtrise par repos long.
 
 À partir du niveau 3, vous pouvez également lancer le sort [[passage sans trace]] de cette manière. Une fois que vous avez lancé le sort avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également le lancer en utilisant des emplacements de sort.
 
@@ -112,7 +112,7 @@ L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantati
 
 Descendants directs des éfrits, les génies du Plan Élémentaire du Feu, les genasis de feu canalisent le pouvoir destructeur et flamboyant des flammes.
 
-Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon à des tons rouges orangé. Certaines peaux ressemblent à des peaux humaines, mais avec des marques ardentes, comme un des lumières tournoyantes sous la peau qui ressemblent à des étincelles ou des lignes rouges scintillantes qui parcourent leur corps comme des craquellements. Leurs cheveux sont généralement des fils de feu, ou un nuage de fumée.
+Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon à des tons rouges orangé. Certaines peaux ressemblent à des peaux humaines, mais avec des marques ardentes, comme des lumières tournoyantes sous la peau qui ressemblent à des étincelles ou des lignes rouges scintillantes qui parcourent leur corps comme des craquellements. Leurs cheveux sont généralement des fils de feu, ou un nuage de fumée.
 
 ### Mécaniques
 
@@ -132,7 +132,7 @@ Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon
 
 **Résistance au Feu.** Vous avez la résistance aux dégâts de feu.
 
-**Embrasement.** Vous connaissez le cantrip [[Flammes]]. À partir du niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lame de feu]] de cette manière. Une fois que vous avez lancé [[Mains Brûlantes]] ou [[lame de feu]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
+**Embrasement.** Vous connaissez le cantrip [[Flamme]]. À partir du niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lame de feu]] de cette manière. Une fois que vous avez lancé [[Mains Brûlantes]] ou [[lame de feu]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour ces sorts lorsque vous les lancez avec ce trait (choisi à la sélection de cette race).
 

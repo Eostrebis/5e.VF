@@ -2,7 +2,6 @@
 search:
   exclude: true
 title: Dons de Prestige
-status: empty
 ---
 | Prestige Feat        | Don de Prestige             |
 | -------------------- | --------------------------- |

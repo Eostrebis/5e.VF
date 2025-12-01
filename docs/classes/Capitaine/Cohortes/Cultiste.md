@@ -44,7 +44,7 @@ _Niveau 6._ _Action :_ __Incantation.__ L'incantation du cultiste s'améliore. I
 _Niveau 10._ _Action :_ __Sinistre Malédiction (1/jour).__ Une créature que le cultiste peut voir à 60 ft. doit réussir un jet de sauvegarde de Sagesse (DD 8 + modificateur de Charisme + bonus de maîtrise) ou être maudite pendant 1 minute. Tant qu'elle est maudite, la créature a un désavantage aux jets d'attaque et de sauvegarde. À la fin de chaque tour, la créature peut retenter le jet de sauvegarde.
 
 _Niveau 14._ _Action :_ __Incantation.__ L'incantation du cultiste s'améliore. Il peut lancer les sorts supplémentaires suivants :
- - À volonté : [[ténèbres]], [[pattes d'araignées]]
+ - À volonté : [[ténèbres]], [[Pattes d'Araignée]]
  - 1/jour : [[peur]]
 
 _Niveau 18._ _Réaction :_ __Représailles Vengeresses.__ Pour une réaction après avoir subi des dégâts d'une créature visible à 60 ft., le cultiste force cette créature à réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 11 (2d10) dégâts de feu, ou la moitié si elle réussit.

@@ -1,5 +1,6 @@
 ---
 status: finished
+title: Fin, le Colosse
 ---
 *Vestige de niveau 2*
 

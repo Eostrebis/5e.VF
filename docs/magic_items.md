@@ -2,7 +2,6 @@
 search:
   exclude: true
 title: Objets Magiques
-status: empty
 ---
 | Magic Item                                     | Objet Magique                                                     | Origine             |
 | ---------------------------------------------- | ----------------------------------------------------------------- | ------------------- |

@@ -2,7 +2,6 @@
 search:
   exclude: true
 title: Équipements
-status: wip
 ---
 
 | Item                        | Objet                                  |

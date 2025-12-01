@@ -32,9 +32,8 @@
   Hack: check whether the content contains a h1 headline. If it doesn't, the
   page title (or respectively site name) is used as the main headline.
 -->
-{% if "\x3ch1" not in page.content %}
-  <h1>{{ page.title | d(config.site_name, true)}} {%if page.meta.Concentration%} <img src="https://www.dndbeyond.com/content/1-0-2784-0/skins/waterdeep/images/icons/core_mechanics/concentration.svg" style="width: 27px; position: relative; top: -8px;"> {%endif%}{%if page.meta.Rituel%} <img src="https://www.dndbeyond.com/content/1-0-2784-0/skins/waterdeep/images/icons/core_mechanics/ritual.svg" style="width: 18px; position: relative; top: -8px;"> {%endif%}</h1>
-{% endif %}
+<h1>{{ page.title | d(config.site_name, true)}} {%if page.meta.Concentration%} <img src="https://www.dndbeyond.com/content/1-0-2784-0/skins/waterdeep/images/icons/core_mechanics/concentration.svg" style="width: 27px; position: relative; top: -8px;"> {%endif%}{%if page.meta.Rituel%} <img src="https://www.dndbeyond.com/content/1-0-2784-0/skins/waterdeep/images/icons/core_mechanics/ritual.svg" style="width: 18px; position: relative; top: -8px;"> {%endif%}</h1>
+
 
 {%if page.meta.school%}
   <h2>({{page.meta.englishname}})</h2>
@@ -87,7 +86,11 @@
     {%if page.meta.creator%}
         {% include "partials/creator.html" %}
     {%else%}
-        {{ page.content }}
+        {%if page.meta.spells%}
+            {% include "partials/spells.html" %}
+        {%else%}
+            {{ page.content }}
+        {%endif%}
     {%endif%}
 {%endif%}
 

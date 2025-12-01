@@ -1,8 +1,8 @@
 ---
 search:
   exclude: true
-title: Sorts
-status: empty
+title: Grimoire des Sorts
+spells: "true"
 ---
 
 | Spell name                           | Nom du sort                               |
@@ -218,7 +218,7 @@ status: empty
 | Gaseous Form                         | [[Forme Gazeuse]]                         |
 | Gate                                 | [[Portail]]                               |
 | Geas                                 | [[Quête]]                                 |
-| Gentle Repose                        | [[docs/sorts/Repos Éternel]]                |
+| Gentle Repose                        | [[docs/sorts/Repos Éternel]]              |
 | Giant Insect                         | [[Insecte Géant]]                         |
 | Gift of Gab                          | [[Don du Bagou]]                          |
 | Glibness                             | [[Bagou]]                                 |
@@ -371,7 +371,7 @@ status: empty
 | Prismatic Spray                      | [[Rayons Prismatiques]]                   |
 | Prismatic Wall                       | [[Mur Prismatique]]                       |
 | Private Sanctum                      | [[Sanctuaire Privé]]                      |
-| Produce Flame                        | [[Flammes]]                               |
+| Produce Flame                        | [[Flamme]]                                |
 | Programmed Illusion                  | [[Illusion Programmée]]                   |
 | Project Image                        | [[Projection d'Image]]                    |
 | Protection from Energy               | [[Protection contre une Énergie]]         |
@@ -423,7 +423,7 @@ status: empty
 | Simulacrum                           | [[Simulacre]]                             |
 | Skill Empowerment                    | [[Amélioration de Compétences]]           |
 | Skywrite                             | [[Libellé Aérien]]                        |
-| Sleep                                | [[Sommeil]]                    |
+| Sleep                                | [[Sommeil]]                               |
 | Slow                                 | [[Lenteur]]                               |
 | Snare                                | [[Collet]]                                |
 | Snilloc's Snowball Swarm             | [[Nuée de Boules de Neige de Snilloc]]    |
@@ -432,7 +432,7 @@ status: empty
 | Speak with Animals                   | [[Communication avec les Animaux]]        |
 | Speak with Dead                      | [[Communication avec les Morts]]          |
 | Speak with Plants                    | [[Communication avec les Plantes]]        |
-| Spider Climb                         | [[Pattes d'Araignées]]                    |
+| Spider Climb                         | [[Pattes d'Araignée]]                     |
 | Spike Growth                         | [[Croissance d'Épines]]                   |
 | Spirit Guardians                     | [[Esprits gardiens]]                      |
 | Spirit Shroud                        | [[Voile Spirituel]]                       |
@@ -703,7 +703,7 @@ status: empty
 | Fallen Soul                          | [[Âme Corrompue]]                         |
 | Falling Spider's Spite               | [[Bond Mortel de l'Araignée]]             |
 | Falling Star                         | [[Étoile Filante]]                        |
-| Fell Onslaught                       | [[Attaque Marquante]]                     |
+| Fell Onslaught                       | [[Assaut Funeste]]                        |
 | Flashing Blades                      | [[Lames Éblouissantes]]                   |
 | Forbidden Obelisk                    | [[Obélisque Interdit]]                    |
 | Forget                               | [[Oubli]]                                 |
@@ -769,7 +769,7 @@ status: empty
 | Touch Infinity                       | [[Touche de l'Infini]]                    |
 | Undertow                             | [[Contre-Courant]]                        |
 | Unseen Claw                          | [[Griffe Invisible]]                      |
-| Unspoken Agreement                   | [[Accord Tacite]]                      |
+| Unspoken Agreement                   | [[Accord Tacite]]                         |
 | Unstoppable Ascent                   | [[Ascension Inarrêtable]]                 |
 | Venom Blast                          | [[Explosion de Venin]]                    |
 | Wall of Ooze                         | [[Mur de Vase]]                           |
@@ -797,5 +797,5 @@ status: empty
 | Temporal Potion Heaven               | [[Refuge Temporel]]                       |
 | Dragon Claw                          | [[Griffe Draconique]]                     |
 | Sleet Storm                          | [[Tempête de neige]]                      |
-| Gahoul's Shrieking Skull             | [[Crâne Hurlant de Gahoul]]                |
+| Gahoul's Shrieking Skull             | [[Crâne Hurlant de Gahoul]]               |
 

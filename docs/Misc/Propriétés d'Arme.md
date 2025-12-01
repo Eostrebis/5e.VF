@@ -1,6 +1,3 @@
----
-status: finished
----
 #### Munitions
 Vous pouvez utiliser une arme qui possède la propriété Munition pour réaliser une attaque à distance si et seulement si vous possédez des munitions pour tirer de cette arme. Chaque fois que vous attaquez avec cette arme, vous dépensez une munition. Une munition utilisée par une arme à feu est détruite. Obtenir une munition d'un carquois ou d'un autre contenant est partie intégrante de l'attaque (vous avez cependant besoin d'une main libre pour charger une arme à une main). À la fin du combat, vous pouvez récupérer la moitié des munitions utilisées non détruites en passant 1 minute à fouiller le champ de bataille. Si vous utilisez une arme qui a la propriété Munition pour réaliser une attaque de mêlée, vous traitez l'arme comme une arme improvisée. Une fronde doit impérativement être chargée pour infliger des dégâts de cette façon.
 

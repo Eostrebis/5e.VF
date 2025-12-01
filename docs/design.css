@@ -59,6 +59,10 @@
   	margin-right: auto !important;
 }
 
+.md-main__inner.md-grid {
+    max-width: initial;
+}
+
 .figure > .admonition-title,
 .figure-right > .admonition-title,
 .figure-left > .admonition-title {
@@ -152,172 +156,273 @@
   font-weight: bold;
 }
 
-/* Style pour la gestion des cartes de classe */
 
-/* Structure globale de la carte */
-.flip-card {
-  box-sizing: border-box;
-  height: 350px;
-  margin-bottom: 40px;
+
+
+
+
+
+/* --- Filtrage des cartes --- */
+.filter-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap; /* Pour que ça passe sur mobile */
 }
 
-/* Structure interne de la carte */
-.flip-card-inner {
-  position: relative;
-  width: 100%;
+.filter-select, .filter-btn {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(0, 0, 0, 0.3); /* Fond sombre transparent */
+  color: white;
+  font-family: sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.filter-select option {
+  background: #333; /* Fond des options */
+  color: white;
+}
+
+.filter-btn {
+  background: var(--title-accent);
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.filter-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Classe utilitaire pour cacher les cartes */
+.hidden {
+  display: none !important;
+}
+
+/* --- 1. La Grille (Responsive) --- */
+.class-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+  gap: 25px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+/* --- 1. La Carte (Conteneur) --- */
+.class-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #000; /* Fond noir par sécurité derrière l'image */
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  border-top: 5px solid var(--accent-color);
   height: 100%;
-  margin-bottom: 50px;
-  border-radius: 10px;
-  box-shadow: 0 4px 21px -12px rgba(0, 0, 0, .66);
-  transition: .6s .1s;
-  transform-style: preserve-3d;
+  position: relative; /* Indispensable pour positionner l'image en absolu */
 }
 
-/* Affiche le dégradé de couleur sur la droite de la carte */
-.flip-card .flip-card-front::before, .flip-card .flip-card-back::before {
-  content: "";
+/* Le texte qui apparaît par-dessus l'image */
+.class-card::before {
+  /* Récupère le contenu de l'attribut HTML data-text */
+  content: attr(data-text);
+  
+  /* Positionnement et Marges */
+  position: absolute;
+  inset: 0;
+  padding: 30px; /* Marges importantes pour ne pas toucher les bords */
+  
+  /* Centrage vertical du bloc de texte */
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  
+  /* --- TYPOGRAPHIE ADAPTÉE POUR 100 MOTS --- */
+  font-family: 'Georgia', serif; 
+  font-size: 0.95rem;   
+  line-height: 1.6;    
+  font-style: italic;   
+  font-weight: normal;  
+  text-transform: none; 
+  text-align: justify;  
+  
+  /* Couleur et Contraste */
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0,0,0,1); /* Ombre noire pour détacher le texte */
+  
+  /* Animation */
+  z-index: 1; 
+  opacity: 0;
+  transition: opacity 0.4s ease 0.2s; /* Apparition un peu plus lente */
+  pointer-events: none; /* Permet de cliquer "à travers" le texte */
+}
+
+.class-card:hover {
+  box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+}
+
+.class-card:hover::before {
+  opacity: 1;
+}
+
+/* --- 2. L'Image de Fond (Nouvelle classe) --- */
+.card-background {
   position: absolute;
   top: 0;
-  right: 0;
-  bottom: 0;
   left: 0;
-  background-image: linear-gradient(-70deg, var(--card-color), transparent 50%);
-  opacity: 0.2;
-  pointer-events: none;
-}
-
-.flip-card:nth-child(2n) .flip-card-front::before, .flip-card:nth-child(2n) .flip-card-back::before {
-  background-image: linear-gradient(-250deg, var(--card-color), transparent 50%);
-}
-
-/* Permet la rotation de la carte lors du survol de la souris */
-.flip-card:hover .flip-card-inner {
-  transform: rotateX(180deg);
-}
-
-.flip-card-front,
-.flip-card-back {
-  position: absolute;
   width: 100%;
   height: 100%;
-  backface-visibility: hidden;
+  object-fit: cover; /* Remplit tout l'espace sans déformer */
+  object-position: top center; /* Focus sur le haut (visage) */
+  z-index: 0; /* Tout au fond */
+  transition: transform 0.5s ease, filter 0.3s ease;
+/* 1. Zoom initial : On agrandit l'image par défaut */
+  transform: scale(1.45);
+  transform-origin: 15% 30px;
+  transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1), 
+              transform-origin 0.6s cubic-bezier(0.25, 0.8, 0.25, 1),
+              filter 0.3s ease;
+}
+
+/* Effet sur l'image au survol */
+.class-card:hover .card-background {
+  transform: scale(1.1); /* Zoom léger */
+  transform-origin: center;
+  filter: brightness(0.4); /* Assombrit pour lire "Voir la fiche" */
+}
+
+/* --- Modification du Titre --- */
+.class-card-title-wrapper {
   display: flex;
-  overflow: hidden;
-  align-items: center;
-  border: 1px solid #ccc;
-  border-radius: 8px;
-  background-color: var(--bg);
+  align-items: center; /* Centre verticalement le logo par rapport au texte */
+  gap: 12px; /* Espace entre le logo et le bloc de texte */
+  margin-bottom: 8px; /* Espace sous l'en-tête avant les tags */
 }
 
-.flip-card-front {
-  flex-direction: row;
+.class-card-title {
+  /* On active Flexbox pour mettre l'image et le texte côte à côte */
+  display: flex;
+  flex-direction: column; /* Empile le titre et le sous-titre verticalement */
+  align-items: flex-start;
+  text-align: left;
+  
+  /* Vos styles existants conservés */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--title);
+  letter-spacing: 0.5px;
 }
 
-.flip-card-back {
-  transform: rotateX(180deg);
-  padding: 20px;
+/* --- Nouvelle classe pour l'icône --- */
+.title-icon {
+  width: 100px;  /* Ajustez la taille selon vos besoins */
+  height: 100px;
+  object-fit: contain; /* Empêche l'image de se déformer */
+  flex-shrink: 0; /* Empêche le logo de s'écraser si le texte est long */
+}
+
+/* --- 3. Le Corps (Bloc Incrusté Asymétrique) --- */
+.class-card-body {
+  padding: 15px;
+  flex-grow: 1;
+  display: flex;
   flex-direction: column;
+  
+  margin: 15px 200px 15px 20px; 
+  
+  background-color: var(--bg);
+  border-radius: 8px 8px 8px 8px; 
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.1); 
+  
+  position: relative;
+  z-index: 2; 
+  
+  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
 }
 
-.flip-card-img {
-  position: absolute;
-  height: 100%;
-  width: 30%;
+/* Au survol, on glisse vers la gauche */
+.class-card:hover .class-card-body {
+  transform: translateX(-150%);
 }
 
-.flip-card:nth-child(2n) .flip-card-img {
-  left: initial;
-  right: 0;
+/* --- La Ligne de Statistiques --- */
+.dnd-stats-row {
+  display: flex;
+  justify-content: space-between; /* Espace égal entre les 3 éléments */
+  border-top: 1px solid var(--table);
+  border-bottom: 1px solid var(--table);
+  padding: 10px 0;
+  margin-bottom: 12px;
+  background-color: rgba(0,0,0,0.02); /* Fond très léger pour détacher la zone */
 }
 
-/* Regroupe le titre, le sous-titre, la barre et la description */
-.flip-card-textbox {
-  position: absolute;
-  padding-top: 1%;
-  left: 32%;
-  width: 65%;
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1; /* Chaque item prend la même largeur */
+  text-align: center;
+  /* Petite ligne de séparation entre les items (sauf le dernier) */
+  border-right: 1px solid var(--table); 
 }
 
-.flip-card:nth-child(2n) .flip-card-textbox {
-  left: initial;
-  right: 32%;
+.stat-item:last-child {
+  border-right: none;
 }
 
-.flip-card-title {
-  font-family: 'Voces', 'Open Sans', arial, sans-serif;
-  font-size: 28px;
+.stat-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: #888;
+  letter-spacing: 0.5px;
+  margin-bottom: 2px;
+  font-weight: 600;
+}
+
+.stat-value {
+  font-size: 0.95rem;
   font-weight: bold;
   color: var(--title);
 }
 
-.flip-card-subtitle {
-  font-family: 'Voces', 'Open Sans', arial, sans-serif;
-  color: var(--accent);
-}
-
-.flip-card-bar {
-  left: -2px;
-  width: 50px;
-  height: 5px;
-  margin: 10px 0;
-  border-radius: 5px;
-  background-color: var(--card-color);
-  transition: width 0.2s ease;
-}
-
-.flip-card-back .flip-card-bar {
-  width: 100px;
-}
-
-.flip-card-description {
-  font-size: 15px;
-  height: 200px;
-}
-
-.flip-card-linkbox {
-  display: flex;
-  font-size: 15px;
-  width: 100%;
-  justify-content: space-evenly;
-}
-
-.flip-card-linkbox ul {
-  list-style: none;
-}
-
-.flip-card-linkbox li {
-  margin-bottom: 5px;
-}
-
-
-
-.flip-card-tagbox {
-  position: absolute;
-  bottom: 3%;
-  font-size: 14px;
-  cursor: default;
-  user-select: none;
-  pointer-events: none;
-}
-
 .flip-card-tag {
+  --tag-color: #E0E0E0; 
+  --text-color: #777;
+  --border-color: transparent;
+
   display: inline-block;
-  background: #E0E0E0;
-  color: #777;
+	
+  background: var(--tag-color);
+  color: var(--text-color);
+  font-weight: var(--weight, normal);
+
+  border: 1px solid var(--border-color);
+  border-right: 0;
+	
   border-radius: 3px 0 0 3px;
   line-height: 26px;
   padding: 0 10px 0 23px;
   position: relative;
-  margin-right: 20px;
+  margin-right: 15px;
+  margin-bottom: 10px;
   cursor: default;
   user-select: none;
   transition: color 0.2s;
+  z-index: 1;
 }
 .flip-card-tag::before {
   content: '';
   position: absolute;
   background: #fff;
-  border-radius: 10px;
+  border-radius: 50%;
   box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
   height: 6px;
   left: 10px;
@@ -327,37 +432,27 @@
 .flip-card-tag::after {
   content: '';
   position: absolute;
-  border-bottom: 13px solid transparent;
-  border-left: 10px solid #E0E0E0;
-  border-top: 13px solid transparent;
-  right: -10px;
-  top: 0;
+  
+  /* Dimensions calculées pour correspondre à une hauteur de 26px */
+  height: 20px; 
+  width: 20px;
+  
+  /* On applique la même couleur de fond que le parent */
+  background: var(--tag-color);
+  
+  /* BORDURES de la pointe : Seulement Haut et Droite */
+  border-top: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  
+  /* Rotation de 45° pour faire une pointe */
+  transform: translateY(-50%) rotate(45deg);
+  
+  /* Positionnement précis */
+  top: 50%;
+  right: -10px; /* Ajusté pour que la pointe dépasse */
+  
+  /* Z-index -1 pour qu'il passe SOUS le tag principal 
+     afin de masquer la jointure */
+  z-index: -1; 
+  border-radius: 1.5px;
 }
-
-.flip-card-link {
-  position: absolute;
-  bottom: 3%;
-  right: 3%;
-  font-size: 14px;
-  font-weight: bold;
-}
-
-.flip-card a {
-   position: relative;
-   text-decoration: none; /* On désactive le soulignement natif */
-}
-
-.flip-card a::after {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -2px;
-  height: 2px; /* Épaisseur du soulignement */
-  width: 0;
-  background-color: var(--card-color); /* Couleur du soulignement */
-  transition: width 0.4s ease; /* Animation fluide */
-}
-
-.flip-card a:hover::after {
-      width: 100%; /* Barre s’étend sur toute la largeur au survol */
-    }
