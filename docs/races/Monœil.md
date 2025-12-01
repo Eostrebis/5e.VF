@@ -10,7 +10,7 @@ L'œil unique d'un monœil est la métaphore parfaite de la tendance myopique de
 
 Les monœils sont souvent confondus avec des aberrations ombreuses du Plan des Ombres connues sous le nom de nothics. Même si les monœils et les nothics partagent une même physiologie bossue à l'œil unique et une soif de connaissance, une observation rapide démontre une différence significative : ces simulacres furtifs laissent derrière eux une trace de décadence et de nécrose partout où ils vont, alors qu'un vrai monœil n'oserait jamais risquer d'abîmer un livre de cette façon.
 
-![[Monœil.webp]]
+![[Monoeil.webp]]
 ### Culture
 
 Les monœils d'un certain âge embarquent généralement pour une Doctrine Obligatoire de Recherche non Athlétique, ou DOCT-O-R-AT. Pendant cette période, ils parcourent le monde, visant à ramener de nouvelles et importantes connaissances dans leur bibliothèque. Pour certains individus, la compulsion naturelle à explorer suffit à les faire quitter le confort de leur foyer. À l'inverse, certains monœils plus réticents ont besoin d'être mis dehors par leur famille, accomplissant ce rite de passage par pur sens du devoir. Les monœils qui font une fixation sur l'acquisition d'artefacts plutôt que sur la joie de les étudier sont vus comme de rares et incroyables éléments par n'importe quelle famille ; les aventuriers monœils sont toujours accueillis chaleureusement dans leur librairie d'origine.
