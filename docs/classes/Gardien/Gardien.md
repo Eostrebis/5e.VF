@@ -269,7 +269,7 @@ Les gardiens en chasse pratiquent une forme agressive de défense : les ennemis 
 ### Saisie du Chasseur
 _Remplace la Saisie du Gardien_
 
-Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'il quitte votre portée, même s'ils ont utilisé leur action pour se Désengager.
+Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'elles quittent votre portée, même si elles ont utilisé leur action pour se Désengager.
 
 ### Marque du Chasseur
 _Remplace la Marque du Gardien_
@@ -283,4 +283,31 @@ Cette compétence ne se cumule pas avec le sort [[marque du chasseur]].
 ### Résistance du Chasseur
 _Remplace la Résolution du Gardien_
 
-À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous prenez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre cet effet. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
+À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous prenez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
+
+## Gardien Anthropophage
+
+Rapides, sans pitié et parfois cannibale, les gardiens prétendument anthropophages préfèrent virevolter autour de leur proie, en arrachant des morceaux avec leurs frappes rapides.
+
+### Hurlement du Mangeur d'Hommes
+_Remplace la [[#Saisie du Gardien]]_
+
+Au niveau 1, pour une action bonus, vous pouvez lâcher un hurlement tonitruant à en glacer le sang. Chaque créature de taille G ou inférieure que vous choisissez à 5 ft. est repoussée de 5 ft. à l'opposé de vous.
+
+Au niveau 14, cette compétence affecte les créatures à 10 ft. de vous et vous les repoussez de 10 ft.
+
+### Marque du Mangeur d'Hommes
+_Remplace la [[#Marque du Gardien]]_
+
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
+
+Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
+
+### Soif de Sang du Mangeur d'Hommes
+_Remplace la Résolution du Gardien_
+
+Vous avez un réservoir de dégâts temporaires. Lorsque vous prenez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
+
+Lorsque vous infligez des dégâts avec une attaque armée de mêlée à une créature que vous avez marquée, vous pouvez réduire votre réservoir de dégâts temporaires de la moitié des dégâts infligés (arrondi à l'inférieur), jusqu'à un minimum de 1.
+
+À partir du niveau 17, à chaque fois que vous utilisez votre [[#Source de Vie]], votre réservoir de dégâts temporaires est remis à 0 sans être déduit de vos points de vie.
