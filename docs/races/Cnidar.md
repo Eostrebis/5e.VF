@@ -17,6 +17,8 @@ Lorsqu'un polype produit un médusozoaire, il peut donner naissance à deux form
 | ------------------ | --------------------------------------------------------------------------------------- |
 | [[#Nématocyste]]   | Adapté à la confrontation, au combat, au conflit et porteur d'un poison toxique.        |
 | [[#Peaubrillante]] | Fait confiance à la diplomatie, à la ruse et aux enchantement pour éviter les conflits. |
+
+
 ![[Cnidarien.webp]]
 ### Culture
 
