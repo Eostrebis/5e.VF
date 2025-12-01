@@ -19,7 +19,7 @@ search:
 > - **Druide.** ![](https://geps.dev/progress/0) 
 > - **Ensorceleur.** ![](https://geps.dev/progress/0) 
 > - **Fusilier.** ![](https://geps.dev/progress/100) 
-> - **Gardien.** ![](https://geps.dev/progress/91) 
+> - **Gardien.** ![](https://geps.dev/progress/85) 
 > - **Guerrier.** ![](https://geps.dev/progress/0) 
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
 > - **Ligateur.** ![](https://geps.dev/progress/91) 
@@ -57,10 +57,10 @@ search:
 
 **Équipements.** 54/510 ![](https://geps.dev/progress/10) 
 
-**Objets Magiques.** 0/123 ![](https://geps.dev/progress/0)
+**Objets Magiques.** 1/123 ![](https://geps.dev/progress/0)
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-12-01 12:57:03
+Mis à jour pour la dernière fois le 2025-12-01 14:52:09
