@@ -1,5 +1,5 @@
 ---
-status: finished
+status: wip
 ---
 Une immense armée de goblinoïdes apparaît à l'horizon des murs du château. Dans la faille, un simple chevalier repousse la horde, étripant tous ceux qui osent s'approcher, et ne laissant passer aucun d'entre eux.
 
@@ -88,6 +88,12 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
  - (a) une [[chemise de mailles]], (b) une armure de [[cuir]] et une [[lance]], ou (c) une [[cotte de mailles]] si maîtrisée
  - (a) deux [[marteau léger|marteaux légers]] ou (b) n'importe quelle [[Armes Simples|arme simple]] de mêlée
  - (a) un [[sac d'exploration souterraine]] ou (b) un [[sac d'explorateur]]
+
+## Gardien Alternatif (Opt.)
+
+Le rôle unique de _tank_ du gardien est basé principalement sur ses trois premières compétences : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois compétences définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
+
+Au niveau 1, vous pouvez choisir l'une des [[#versions alternatives]] pour votre gardien. Si vous le faites, vous utilisez les trois compétences de la variantes à la place de la saisie, de la marque et de la résolution. Si d'autres compétences réfèrent directement celles-ci, vous utilisez les compétences remplaçantes à la place, de façon adéquate et en accord avec le MJ.
 
 ## Posture de Sentinelle
 
@@ -226,6 +232,32 @@ De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse.
 
 
 
+---
 
 
+## Versions Alternatives
 
+## Gardien Champion
+
+Les champions sont des guerriers toujours à la recherche d'un adversaire à leur hauteur. Pour ce faire, ils défient pratiquement tout le monde en duel, mettant de côté les affaires courantes pour montrer leur résilience et leurs compétences avec l'épée.
+
+### Challenge du Champion
+_Remplace la Saisie du Gardien_
+
+Au niveau 1, pour une action bonus, vous pouvez émettre un challenge à chaque créature à 5 ft. de vous. Seules les créatures hostiles de taille G ou moins qui ont au minimum 5 d'Intelligence peuvent relever à ce challenge. Pendant son prochain tour, une créature ayant relevé au challenge doit réaliser une attaque contre vous si elle réalise une attaque pendant son tour et que vous êtes à portée.
+
+Au niveau 14, la portée de ce challenge s'étend à 10 ft.
+
+### Marque du Champion
+_Remplace la Marque du Gardien_
+
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 15 ft. Vous avez un bonus de +2 à la CA contre les attaques de la créature marquée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
+
+Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
+
+### Vigueur du Champion
+_Remplace la Résolution du Gardien._
+
+À partir du niveau 3, les dégâts contondants, perçants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
+
+À partir du niveau 17, pour une réaction, vous pouvez réduire les dégâts que vous prenez d'un montant égal à votre niveau. Une fois que vous avez utilisé cette réaction, vous ne pouvez plus le faire avant d'avoir terminé un repos long.

@@ -154,7 +154,7 @@ Au niveau 2, vous apprenez le sort [[Appel de Familier]] et pouvez le lancer com
  - Votre familier agit juste avant ou après vous dans l'initiative (votre choix).
  - Une fois par tour pour une action ou une action bonus, vous pouvez commander mentalement votre familier afin qu'il utilise sa réaction pour réaliser une attaque.
  - Vous pouvez utiliser le sort [[Appel de Familier]] pour faire passer à travers votre familier des sorts qui n'ont pas une portée de toucher.
- - Lorsque vous lancez le sort, vous choisir une des formes habituelles ou une des formes spéciales suivantes : [[Escargot de la Mort]], [[Livre Volant]], [[homoncule]], [[Smacre]], [[Méduse Lune]], [[Ami Caillou]], [[pseudodragon]], [[Poupée]], [[lutin]], [[soldat d'étain]], [[louveteau d'hiver]] ou [[golem de laine]].
+ - Lorsque vous lancez le sort, vous choisir une des formes habituelles ou une des formes spéciales suivantes : [[Escargot de la Mort]], [[Livre Volant]], [[homoncule]], [[Smacre]], [[Méduse Lune]], [[Ami Caillou]], [[pseudodragon]], [[Poupée]], [[lutin]], [[soldat d'étain]], [[louveteau d'hiver]] ou [[Golem de laine]].
 
 
 		En tant que sorcière, les familiers que vous invoquez sont infusés d'une magie sinistre, et ils bénéficient des effets suivants :
@@ -196,7 +196,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Familier Amélioré
 
-Au niveau 7, les attaques de votre familier sont considérées comme magiques vis-à-vis des résistances et immunités. De plus, vous choisir les formes suivantes pour votre familier : [[wyrmling de dragon de bronze]], [[Fantiot]], [[Grep]], [[diablotin]] ou [[quasit]].
+Au niveau 7, les attaques de votre familier sont considérées comme magiques vis-à-vis des résistances et immunités. De plus, vous choisir les formes suivantes pour votre familier : [[wyrmling de dragon de bronze]], [[Fantiot]], [[Grep]], [[Diablotin]] ou [[quasit]].
 
 ## Agonie Maudite
 

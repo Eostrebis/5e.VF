@@ -1,5 +1,5 @@
 ---
-status: empty
+status: finished
 ---
 
 | Arme                   | Ère          | Coût | Dégâts           | Poids | Propriétés                                                                                   |
