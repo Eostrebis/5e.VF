@@ -337,7 +337,7 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 ### Font du Parangon
 _Remplace la [[#Résolution du Gardien]]_
 
-À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez regagner un nombre de points de vie, jusqu'au maximum restant dans votre réservoir.
+À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez consommer un nombre de points de vie de votre réservoir pour en regagner le même nombre, jusqu'au maximum restant dans votre réservoir.
 
 À partir du niveau 17, lorsque vous utilisez votre [[#source de vie]], vous pouvez également utiliser votre compétence pour regagner des points de vie sans dépenser d'action.
 
