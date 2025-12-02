@@ -161,6 +161,7 @@ Ce choix vous confère des compétences au niveau 3, puis aux niveaux 6, 13 et 2
 | [[Roi des Charognes]]           | Protecteur de la vermine, entouré de légions de nuisibles                  |
 | [[Pionnier Féérique]]           | Défenseur des Ponts Féériques et guide de la Féérie                        |
 | [[Juré-des-Dieux]]              | Divinement nommé pour protéger les sites sacrés et les prêtres vulnérables |
+| [[Geôlier des Enfers]]          | Marqué par l'outre monde et chargé de garder les portes des enfers         |
 
 
 ## Résolution du Gardien
