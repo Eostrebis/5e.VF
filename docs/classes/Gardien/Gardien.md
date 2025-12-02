@@ -149,21 +149,24 @@ Lorsque vous atteignez le niveau 3, vous sentez l'attirance inexorable de votre 
 
 Ce choix vous confère des compétences au niveau 3, puis aux niveaux 6, 13 et 20.
 
-| Appels du Champion              | Description                                                                |
-| ------------------------------- | -------------------------------------------------------------------------- |
-| [[Chasseur Nocturne]]           | Allié des mort-vivants, infusé d'énergies nécromantiques                   |
-| [[Défenseur au Cœur de Pierre]] | Protecteur impassable des forteresses montagnardes                         |
-| [[Gardien Enragé]]              | Entre en transe pour canaliser la férocité primale des bêtes               |
-| [[Shaman de l'Âme-Sang]]        | Manipule l'âme pour conjuer la magie des légendes                          |
-| [[Sentinelle des Tempêtes]]     | Canalise la furie des ouragans pour protéger les faibles                   |
-| [[Sentinelle Grise]]            | Un garde entraîné aux manœuvres qui repousse les envahisseurs des villes   |
-| [[Protecteur Verdoyant]]        | Infusé avec le pouvoir des fôrets qu'il a juré de protéger                 |
-| [[Roi des Charognes]]           | Protecteur de la vermine, entouré de légions de nuisibles                  |
-| [[Pionnier Féérique]]           | Défenseur des Ponts Féériques et guide de la Féérie                        |
-| [[Juré-des-Dieux]]              | Divinement nommé pour protéger les sites sacrés et les prêtres vulnérables |
-| [[Geôlier des Enfers]]          | Marqué par l'outre monde et chargé de garder les portes des enfers         |
-
-
+| Appels du Champion              | Description                                                                                   |
+| ------------------------------- | --------------------------------------------------------------------------------------------- |
+| [[Chasseur Nocturne]]           | Allié des mort-vivants, infusé d'énergies nécromantiques                                      |
+| [[Défenseur au Cœur de Pierre]] | Protecteur impassable des forteresses montagnardes                                            |
+| [[Gardien Enragé]]              | Entre en transe pour canaliser la férocité primale des bêtes                                  |
+| [[Shaman de l'Âme-Sang]]        | Manipule l'âme pour conjuer la magie des légendes                                             |
+| [[Sentinelle des Tempêtes]]     | Canalise la furie des ouragans pour protéger les faibles                                      |
+| [[Sentinelle Grise]]            | Un garde entraîné aux manœuvres qui repousse les envahisseurs des villes                      |
+| [[Protecteur Verdoyant]]        | Infusé avec le pouvoir des fôrets qu'il a juré de protéger                                    |
+| [[Roi des Charognes]]           | Protecteur de la vermine, entouré de légions de nuisibles                                     |
+| [[Pionnier Féérique]]           | Défenseur des Ponts Féériques et guide de la Féérie                                           |
+| [[Juré-des-Dieux]]              | Divinement nommé pour protéger les sites sacrés et les prêtres vulnérables                    |
+| [[Geôlier des Enfers]]          | Marqué par l'outre monde et chargé de garder les portes des enfers                            |
+| [[Bastion au Cœur de Glace]]    | Un avec l'hiver, appelé pour défendre le nord hurlant                                         |
+| [[Porte-Loi]]                   | A juré de faire respecter les contrats extra planaires et les lois du multivers               |
+| [[Scriptor]]                    | Un étudiant et un protecteur des arcanes, appelé pour collecter et protéger les connaissances |
+| [[Chasseur de Sorcière]]        | Tueur de mage, brûleur de sorcière, exterminateur d'occultiste                                |
+ 
 ## Résolution du Gardien
 
 À partir du niveau 3, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous avez la résistance aux dégâts contondants, tranchants et perçants. 
@@ -348,7 +351,7 @@ Les gardiens crépusculaires sont touchés par des ténèbres primordiales qui s
 ### Ombres Saisissantes
 _Remplace la [[#Saisie du Gardien]]_
 
-Au niveau 1, pour une action bonus, vous pouvez invoquer l'ombre des damnés, créant un nuage de 10 ft. de rayon centré sur vous. La sphère est fortement obscurée depuis l'extérieur. De l'intérieur, cependant, la sphère est de luminosité normale et l'extérieur semble être fortement obscuré. Des mains ombreuses s'étendent des frontières de la sphère et s'accrochent à tous à l'intérieur. Vous et toutes les créatures que vous choisissez de taille G ou moins ne pouvez quitter la sphère sans d'abord utiliser une action pour se Désengager. Les ombres se dispersent au début de votre prochain tour.
+Au niveau 1, pour une action bonus, vous pouvez invoquer l'ombre des damnés, créant un nuage de 10 ft. de rayon centré sur vous. La sphère est fortement obscurée depuis l'extérieur. De l'intérieur, cependant, la sphère est de luminosité normale et l'extérieur semble être fortement obscuré. Des mains ombreuses s'étendent des frontières de la sphère et s'accrochent à tous ceux à l'intérieur. Vous et toutes les créatures que vous choisissez de taille G ou moins ne pouvez quitter la sphère sans d'abord utiliser une action pour se Désengager. Les ombres se dispersent au début de votre prochain tour.
 
 Au niveau 14, lorsque vous créez la sphère, vous pouvez choisir d'étendre son rayon à 15 ft.
 
