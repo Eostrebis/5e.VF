@@ -12,7 +12,7 @@ search:
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
 > - **Argartiste.** ![](https://geps.dev/progress/0) 
 > - **Artisan.** ![](https://geps.dev/progress/100) 
-> - **Barbare.** ![](https://geps.dev/progress/48) 
+> - **Barbare.** ![](https://geps.dev/progress/66) 
 > - **Barde.** ![](https://geps.dev/progress/36) 
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-12-01 17:17:29
+Mis à jour pour la dernière fois le 2025-12-03 17:54:59
