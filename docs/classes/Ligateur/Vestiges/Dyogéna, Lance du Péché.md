@@ -23,7 +23,7 @@ Vous êtes tâché par le sang des saints, qui ne part jamais. Immédiatement ap
 Tant que vous êtes lié à ce vestige, vous avez la faille suivante : "Je ressens toujours une culpabilité immense lorsque je dois prendre une vie."
 
 # Condition d'Attachement
-Les ligateurs qui conjure Dyogéna doivent s'adresser à elle par son range. Même après des millénaires dans le Vide, elle reste un soldat avant tout.
+Les ligateurs qui conjure Dyogéna doivent s'adresser à elle par son rang. Même après des millénaires dans le Vide, elle reste un soldat avant tout.
 
 # Légende
 Il y a des millénaires, un puissant empire recouvrait les continents, unifiant tous ses territoires sous une seule et même bannière. Les oracles ont annoncé la chute de cet empire par les faits d'un funeste prophète, un instrument du dédain des dieux pour ce régime. En réponse, l'empereur paranoïaque a demandé à ses gouverneurs d'exécuter tous les hommes de foi qui ne lui prêteraient pas loyauté. Des milliers de prêtres ont été tués et les dieux eux-mêmes ont pleuré ce bain de sang.

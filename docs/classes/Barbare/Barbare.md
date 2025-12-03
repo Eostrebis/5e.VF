@@ -3,13 +3,13 @@ status: wip
 ---
 Un grand humain avance face au blizzard, emmitouflé dans de la fourrure, et traînant sa hache. Il rigole et fonce sur le géant des glaces qui a osé s'aventurer sur le territoire de son clan.
 
-Une demi-orque gronde à l'attention du dernier challenger à défier son pouvoir sur la tribu, prête à briser son coup de ses deux mains comme elle a fait pour les six derniers.
+Une demi-orque gronde à l'attention du dernier challenger à défier son pouvoir sur la tribu, prête à briser son cou de ses deux mains comme elle a fait pour les six derniers.
 
 L'écume à la bouche, un nain balance son casque dans la face d'un drow, puis se retourne et enfonce son coude dans l'estomac d'un autre.
 
 Ces barbares, aussi différents qu'ils puissent être, sont définis par leur rage : une furie sans limites, qui ne peut être ni satisfaite ni raisonnée. Plus qu'une simple émotion, leur colère est comme la férocité d'un prédateur en danger, l'assaut sans répit d'une tempête, le remous incessant de la mer.
 
-Pour certains, la rage vient de la communion avec des esprits d'animaux féroces. Pour d'autres, ils la tirent d'une colère sans fond pour un monde rempli de souffrance. Pour tous les barbares, la rage est un pouvoir qui alimente non pas seulement leurs furies guerrières, mais aussi leurs réflexes impressionnant, leur résilience et leur force surhumaine.
+Pour certains, la rage vient de la communion avec des esprits d'animaux féroces. Pour d'autres, ils la tirent d'une colère sans fond pour un monde rempli de souffrance. Pour tous les barbares, la rage est un pouvoir qui alimente non pas seulement leurs furies guerrières, mais aussi leurs réflexes impressionnants, leur résilience et leur force surhumaine.
 
 ## Instinct Primal
 
@@ -21,7 +21,7 @@ Les barbares existent réellement au milieu du chaos de la bataille. Ils peuvent
 
 Un barbare joue le rôle important de protecteur de son peuple et de chef en temps de guerre. La vie dans les endroits sauvages de ce monde est emplie de péril : les tribus rivales, des eaux dangereuses et des monstres terrifiants. Les barbares mènent la charge vers ces dangers pour que leurs semblables n'aient pas à le faire.
 
-Leur courage en face du danger font des barbares des aventuriers parfaits. Voyager est souvent le style de vie natif de leur tribu et la vie sans racine des aventuriers n'est pas un obstacle pour les barbares. Les liens forts d'une structure familiale manquent à certains barbares, mais cela finit par être remplacé par les liens formés avec leurs camarades d'aventure.
+Leur courage en face du danger fait des barbares des aventuriers parfaits. Voyager est souvent le style de vie natif de leur tribu et la vie sans racine des aventuriers n'est pas un obstacle pour les barbares. Les liens forts d'une structure familiale manquent à certains barbares, mais cela finit par être remplacé par les liens formés avec leurs camarades d'aventure.
 
 ## Créer un Barbare
 
@@ -102,7 +102,7 @@ Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne po
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
 
-Votre rage dure 1 minute. Elle termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
+Votre rage dure 1 minute. Elle se termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
 
 Une fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau.
 
@@ -124,27 +124,38 @@ Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que
 
 Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des compétences aux niveaux 3, 6, 10 et 14.
 
-| Voie                              | Description                                                                               |
-| --------------------------------- | ----------------------------------------------------------------------------------------- |
-| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées            |
-| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.       |
-| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets imprévisibles.<br> |
-| [[Voie de la Magie Très Sauvage]] | Est soumis aux instabilités magiques que lui confère sa rage.                             |
-| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                          |
-| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                 |
-| [[Voie du Berserker]]             |                                                                                           |
-| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                 |
-| [[Voie du Fanatique]]             |                                                                                           |
-| [[Voie du Fléau]]                 |                                                                                           |
-| [[Voie du Fou de Guerre]]         |                                                                                           |
-| [[Voie du Gardien Ancestral]]     |                                                                                           |
-| [[Voie du Guerrier Totémique]]    |                                                                                           |
-| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes   |
-| [[Voie du Héraut des Tempêtes]]   |                                                                                           |
-| [[Voie du Lunatique]]             |                                                                                           |
-| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité   |
-| [[Voie du Maudit]]                |                                                                                           |
-| [[Voie du Tonneau]]               |                                                                                           |
+| Voie                              | Description                                                                                 |
+| --------------------------------- | ------------------------------------------------------------------------------------------- |
+| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées              |
+| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.         |
+| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets imprévisibles.<br>   |
+| [[Voie de la Magie Très Sauvage]] | Est soumis aux instabilités magiques que lui confère sa rage.                               |
+| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                            |
+| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                   |
+| [[Voie du Berserker]]             | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser. |
+| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                   |
+| [[Voie du Fanatique]]             | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort.  |
+| [[Voie du Fléau]]                 | Tire profit de l'influence de forces occultes pour assouvir sa faim                         |
+| [[Voie du Fou de Guerre]]         |                                                                                             |
+| [[Voie du Gardien Ancestral]]     |                                                                                             |
+| [[Voie du Guerrier Totémique]]    |                                                                                             |
+| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes     |
+| [[Voie du Héraut des Tempêtes]]   |                                                                                             |
+| [[Voie du Lunatique]]             |                                                                                             |
+| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité     |
+| [[Voie du Maudit]]                |                                                                                             |
+| [[Voie du Tonneau]]               |                                                                                             |
+| [[Voie des Géants]]               | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance           |
+
+| **Voie**                            | **Description**                                                                                                |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **[[Voie du Fou de Guerre]]**       | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler.  |
+| **[[Voie du Gardien Ancestral]]**   | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires.             |
+| **[[Voie du Guerrier Totémique]]**  | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles.    |
+| **[[Voie du Héraut des Tempêtes]]** | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé.                    |
+| **[[Voie du Lunatique]]**           | Tire sa force des phases de la lune, altérant la gravité et libérant des éclats de lumière argentée.           |
+| **[[Voie du Maudit]]**              | Un guerrier rongé par une malédiction qui utilise l'énergie nécrotique pour affaiblir et terrifier ses proies. |
+| **[[Voie du Tonneau]]**             | Un bagarreur éméché qui utilise l'alcool et des tonneaux robustes comme armes de guerre improvisées.           |
 
 ## Savoir Primitif (Opt.)
 
@@ -156,7 +167,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Attaque Supplémentaire
 
-À partir du niveau 5, vous pouvez attaquer deux fois lorsque vous utiliser votre action pour Attaquer pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois lorsque vous utilisez votre action pour Attaquer pendant votre tour.
 
 ## Déplacement Rapide
 
@@ -180,7 +191,7 @@ Ce dé supplémentaire passe à 2 puis 3 dés aux niveaux 13 et 17.
 
 ## Rage Implacable
 
-À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas de suite, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
+À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
 
 Chaque fois que vous utilisez cette compétence après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
 
