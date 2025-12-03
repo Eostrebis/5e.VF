@@ -266,7 +266,7 @@ title: Équipements
 | Pole (10 foot)              | [[Perche (10 ft.)]]                    |
 | Pony                        | [[Poney]]                              |
 | Pot, Iron                   | [[Pot en Fer]]                         |
-| Potter's Tools              | [[Outil de Potier]]                    |
+| Potter's Tools              | [[Outils de Potier]]                    |
 | Pouch                       | [[Sacoche]]                            |
 | Pride Silk                  | [[Soie]]                               |
 | Pride Silk Outfit           | [[Vêtements, Soie]]                    |
