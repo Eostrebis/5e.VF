@@ -4289,7 +4289,7 @@
             "Artificier",
             "Clerc"
         ],
-        "description": "Vous touchez une créature vivante qui a 0 point de vie. La créature se stabilise. Ce sort n'a aucun effet sur les mort-vivants ou constructions.\n"
+        "description": "Vous touchez une créature vivante qui a 0 point de vie. La créature se stabilise. Ce sort n'a aucun effet sur les morts-vivants ou constructions.\n"
     },
     "Lame Électrifiée": {
         "level": "0",
@@ -4618,7 +4618,7 @@
             "Magicien",
             "MagedeGuerre"
         ],
-        "description": "mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.\n\nSi vous touchez une créature mort-vivante, elle a aussi le désavantage aux jets d'attaque contre vous jusqu'à la fin de votre prochain tour.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).\n"
+        "description": "mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.\n\nSi vous touchez une créature morte-vivante, elle a aussi le désavantage aux jets d'attaque contre vous jusqu'à la fin de votre prochain tour.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).\n"
     },
     "Façonnage de l'Eau": {
         "level": "0",
@@ -4793,7 +4793,7 @@
         "available": [
             "Nécromancien"
         ],
-        "description": "Avec une rapide étincelle d'énergie nécromantique, les morts se relèvent temporairement pour vous assister, même si ce n'est que pour quelques secondes. Choisissez le corps d'une créature de taille TG ou plus petite, qui n'est pas morte depuis plus d'une heure. Lorsque vous lancez ce sort, la créature se redresse et peut se déplacer de jusqu'à 15 ft. et réaliser une attaque de mêlée contre une créature de votre choix à portée, en utilisant votre modificateur d'attaque de sort. Si elle touche, l'attaque inflige des dégâts contondants basés sur la taille du corps : un corps de taille TP inflige 1d4, un corps P inflige 1d6, un corps M inflige 1d8, un corps G inflige 1d10 et un corps TG inflige 1d12.\n\nUne fois que le corps a attaqué, il redevient un tas de chair et d'os. Un corps ciblé par ce sort ne peut devenir une créature Mort-Vivante.\n\nLes dégâts de ce sorts augmentent lorsque vous gagnez des niveaux. Au niveau 5, le corps inflige deux dés de dégâts. Au niveau 11, il inflige trois dés de dégâts et au niveau 17, il en inflige quatre."
+        "description": "Avec une rapide étincelle d'énergie nécromantique, les morts se relèvent temporairement pour vous assister, même si ce n'est que pour quelques secondes. Choisissez le corps d'une créature de taille TG ou plus petite, qui n'est pas morte depuis plus d'une heure. Lorsque vous lancez ce sort, la créature se redresse et peut se déplacer de jusqu'à 15 ft. et réaliser une attaque de mêlée contre une créature de votre choix à portée, en utilisant votre modificateur d'attaque de sort. Si elle touche, l'attaque inflige des dégâts contondants basés sur la taille du corps : un corps de taille TP inflige 1d4, un corps P inflige 1d6, un corps M inflige 1d8, un corps G inflige 1d10 et un corps TG inflige 1d12.\n\nUne fois que le corps a attaqué, il redevient un tas de chair et d'os. Un corps ciblé par ce sort ne peut devenir une créature Morte-Vivante.\n\nLes dégâts de ce sorts augmentent lorsque vous gagnez des niveaux. Au niveau 5, le corps inflige deux dés de dégâts. Au niveau 11, il inflige trois dés de dégâts et au niveau 17, il en inflige quatre."
     },
     "Bourrasque": {
         "level": "0",
