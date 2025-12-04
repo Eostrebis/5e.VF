@@ -1,5 +1,5 @@
 ---
-status: empty
+status: wip
 ---
 Une vieille femme décrépite tend le bras et s'accroche difficilement au poignet d'un chevalier expérimenté. Le chevalier se moque gentiment de l'_agression_ de la vieille avant de s'effondrer quelques minutes plus tard, desséché et mort.
 
@@ -19,7 +19,7 @@ Cependant, accumuler le savoir et élargir leur compréhension n'est qu'un moyen
 
 ## Maîtres de la Non-vie
 
-Les nécromanciens ont appris par l'expérience comment asservir la chair, les os et les esprits des morts, les pliant à leur volonté. Par leur terrible magie, ils commandent aux morts-vivants inférieurs et exigent le respect de ceux qui sont assez puissants pour résister à leur emprise. Tous les nécromanciens partagent la capacité d'animer de simples cadavres, ainsi que la connaissance et la prévoyance nécessaires pour créer de nouvelles et terribles abominations mort-vivantes afin de servir leurs objectifs.
+Les nécromanciens ont appris par l'expérience comment asservir la chair, les os et les esprits des morts, les pliant à leur volonté. Par leur terrible magie, ils commandent aux morts-vivants inférieurs et exigent le respect de ceux qui sont assez puissants pour résister à leur emprise. Tous les nécromanciens partagent la capacité d'animer de simples cadavres, ainsi que la connaissance et la prévoyance nécessaires pour créer de nouvelles et terribles abominations mortes-vivantes afin de servir leurs objectifs.
 
 Au-delà de ce commandement élémentaire des morts-vivants, chaque nécromancien se spécialise dans une méthode pour imposer sa volonté au monde. Certains s'immergent profondément dans les arts nécromants ou se concentrent sur leur capacité à asseoir leur contrôle sur les faibles, tandis que d'autres maîtrisent l'art du combat à la fois martial et magique. Bien que leurs compétences puissent sembler spécialisées, les nécromanciens convenablement préparés peuvent dominer aussi bien sur le champ de bataille qu'à la table de conseil.
 
@@ -32,29 +32,31 @@ Travaillez avec votre MJ pour déterminer comment la nécromancie est perçue da
 
 Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution puis de la Force ou la Dextérité si vous souhaitez sélectionner l'ambition de Chevalier de la Mort. Choisissez l'historique de votre choix. Enfin, choisissez les cantrips [[chair de poule]], [[abracadabra]], [[lumières]] et [[étincelle de vie]] ainsi que les sorts de niveau 1 [[crâne hurlant de gahoul]] et [[armure de mage]].
 
-| **Le Nécromancien** |                   |           |             |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
-| ------------------- | ----------------- | --------- | ----------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveau              | Bonus de Maîtrise | FP. total | Compétences | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| 1                   | +2                | --        |             | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 2                   | +2                | 1/4       |             | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 3                   | +2                | 1/2       |             | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
-| 4                   | +2                | 1/2       |             | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
-| 5                   | +3                | 1         |             | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
-| 6                   | +3                | 1         |             | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
-| 7                   | +3                | 1         |             | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
-| 8                   | +3                | 1         |             | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
-| 9                   | +4                | 2         |             | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
-| 10                  | +4                | 2         |             | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
-| 11                  | +4                | 2         |             | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 12                  | +4                | 2         |             | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 13                  | +5                | 3         |             | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 14                  | +5                | 3         |             | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 15                  | +5                | 3         |             | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 16                  | +5                | 3         |             | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 17                  | +6                | 4         |             | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18                  | +6                | 4         |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19                  | +6                | 4         |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20                  | +6                | 4         |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+### Table du Nécromancien
+
+| **Le Nécromancien** |                   |                      |             |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
+| ------------------- | ----------------- | -------------------- | ----------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Compétences | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| 1                   | +2                | --                   |             | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
+| 2                   | +2                | 1/4                  |             | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
+| 3                   | +2                | 1/2                  |             | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
+| 4                   | +2                | 1/2                  |             | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
+| 5                   | +3                | 1                    |             | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
+| 6                   | +3                | 1                    |             | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
+| 7                   | +3                | 1                    |             | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
+| 8                   | +3                | 1                    |             | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
+| 9                   | +4                | 2                    |             | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
+| 10                  | +4                | 2                    |             | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
+| 11                  | +4                | 2                    |             | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
+| 12                  | +4                | 2                    |             | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
+| 13                  | +5                | 3                    |             | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
+| 14                  | +5                | 3                    |             | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
+| 15                  | +5                | 3                    |             | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
+| 16                  | +5                | 3                    |             | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
+| 17                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Compétences de Classes
 
@@ -66,15 +68,15 @@ En tant que Nécromancien, vous disposez des compétences de classes suivantes.
 
 **Points de Vie au Niveau 1.** 6 + votre modificateur de Constitution
 
-**Points de Vie aux Niveaux Supérieurs.** 1d6(ou 4) + votre modificateur de Constitution par niveau de nécromancien au-delà du niveau 1.
+**Points de Vie aux Niveaux Supérieurs.** 1d6 (ou 4) + votre modificateur de Constitution par niveau de nécromancien au-delà du niveau 1.
 
 ### Maîtrises
 
-**Armure :** --
+**Armure :** —
 
 **Armes :** [[armes simples]]
 
-**Outils :** --
+**Outils :** —
 
 **Jets de Sauvegarde :** Constitution, Intelligence
 
@@ -104,7 +106,7 @@ La table du Nécromancien indique combien d'emplacements de sorts de chaque nive
 
 Vous connaissez deux sorts de niveau 1 de votre choix de la liste de sorts du nécromancien.
 
-Vous apprenez un sort de nécromancien de votre choix supplémentaire à tous les niveaux sauf aux niveau 12, 14, 16, 18, 19 et 20. Chacun de ces nouveaux sorts doit être d'un niveau pour lequel vous disposez d'emplacement. 
+Vous apprenez un sort de nécromancien de votre choix supplémentaire à tous les niveaux sauf aux niveaux 12, 14, 16, 18, 19 et 20. Chacun de ces nouveaux sorts doit être d'un niveau pour lequel vous disposez d'emplacement. 
 
 De plus, lorsque vous obtenez un niveau dans cette classe, vous pouvez remplacer un sort de nécromancien que vous connaissez avec un autre sort de nécromancien que vous pourriez apprendre.
 
@@ -122,8 +124,42 @@ Vous pouvez lancer un sort de nécromancien comme un rituel s'il possède l'iden
 
 ### Focalisateur d'incantation
 
-Vous pouvez utiliser un [[focalisateur arcanique]] comme focalisateur d'incantation pour vos sorts de nécromancien. Pour un nécromancien, ceux-ci sont généralement des objets avec une valeur sentimentale, comme un loquet, un jouet d'enfance, un menotte de prison ou une alliance, qui sont ensuite modifiés avec des matériaux magiquement conducteurs.
+Vous pouvez utiliser un [[focalisateur arcanique]] comme focalisateur d'incantation pour vos sorts de nécromancien. Pour un nécromancien, ceux-ci sont généralement des objets avec une valeur sentimentale, comme un médaillon, un jouet d'enfance, une menotte de prison ou une alliance, qui sont ensuite modifiés avec des matériaux magiquement conducteurs.
 
-## Touché Charnel
+## Toucher Charnel
 
-Votre connexion avec le plan des énergies négatives vous confère un noyaux intérieur de 
+Votre connexion avec le plan des énergies négatives vous confère un noyau intérieur de pouvoirs dangereux, prêts à être déchaînés à tout moment. À partir du niveau 1, vous disposez d'un réservoir de Toucher Charnel égal à 5 fois votre niveau de nécromancien qui se renouvelle lorsque vous terminez un repos long.
+
+Pour une action, annoncez le nombre de points de ce réservoir que vous souhaitez dépenser, jusqu'à un maximum de 5 fois votre bonus de maîtrise et réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, vous dépensez le nombre de points que vous avez annoncé et infligez des dégâts nécrotiques supplémentaires égaux aux points dépensés. Si l'attaque rate, vous ne dépensez aucun point. Les dégâts infligés par votre Toucher Charnel sont doublés lorsque vous infligez un coup critique sans dépenser de points supplémentaires.
+
+Cette attaque n'inflige aucun dégât aux Constructions et soigne plutôt les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à réaliser de jet d'attaque de sort.
+
+## Thralls
+
+Si les lanceurs de sort moins adeptes ne peuvent animer la chair et les os que de façon rudimentaire et doivent dépenser une précieuse énergie pour maintenir la loyauté de leurs morts-vivants, les véritables nécromanciens peuvent fournir à leurs morts-vivants une portion de leur propre force vitale, assurant ainsi une obéissance à long terme. À partir du niveau 2, vous apprenez un rituel ancien et puissant vous permettant de rappeler et commander votre propre armée de morts-vivants.
+
+### Animation de Thralls
+
+En passant 10 minutes non interrompues à réaliser ce rituel avec un [[focalisateur arcanique]] ou une [[sacoche à composants]], vous pouvez relever les restes d'un ou plusieurs humanoïdes de taille P ou M à 30 ft. de vous en créatures mortes-vivantes. Les Morts-Vivants créés de cette façon deviennent vos thralls. Vous gardez le contrôle sur vos thralls indéfiniment. Les blocs de statistiques des squelettes, zombies et autres thralls peuvent être trouvés [[thralls|ici]].
+
+### Contrôle de Thralls
+
+Vous pouvez mentalement contrôler tous vos thralls tant que vous êtes conscient sans utiliser d'action. Si vous êtes [[inconscient]], vos thralls se déplacent afin de protéger votre corps du danger, mais n'attaquent pas.
+
+En combat, vos thralls prennent leurs tours immédiatement avant ou après votre tour chaque tour (votre choix). Tous vos thralls partagent collectivement une réaction et une action bonus, qu'un seul thrall peut utiliser par tour.
+
+Les thralls utilisent votre modificateur d'attaque de sort pour réaliser leurs attaques.
+
+### Maximum de Thralls
+
+Vous pouvez animer et contrôler un thrall de FP 1/4. Vous gagnez la capacité d'animer et de contrôler plus de thralls lorsque vous obtenez des niveaux dans cette classe. Le FP combiné de tous vos thralls ne peut excéder le nombre présent dans la colonne FP Total des Thralls de la [[#Table du Nécromancien]], et le nombre total de thralls que vous contrôlez ne peut excéder votre bonus de maîtrise.
+
+À n'importe quel moment, vous pouvez utiliser votre action pour rompre votre connexion à un ou plusieurs de vos thralls, les libérant. Les Morts-Vivants corporels s'effondrent en tas tandis que les Morts-Vivants incorporels fuient vers le Plan Éthéré.
+
+### Animation des Morts
+
+À partir du niveau 5, un nécromancien peut apprendre le sort [[animation des morts]], une des bases de l'école de la nécromancie. Les nécromanciens peuvent lancer ce sort pour une action plutôt que 1 minute.
+
+Tous les Morts-Vivants créés par le sort [[animation des morts]] (ainsi que par n'importe quelle autre magie, comme [[création de mort-vivant]]) sont considérés comme vos thralls et peuvent être dirigés tout comme. Si les nouveaux thralls conférés par un sort vous font dépasser votre FP total ou votre nombre de thralls, vous pouvez immédiatement rompre la connexion à n'importe quel nombre de thralls existants pour respecter à nouveau les limites. Vos thralls ne peuvent jamais commander ou créer d'autres Morts-Vivants.
+
+Comme toujours, vous ne pouvez pas réanimer un Mort-Vivant dont les points de vie ont été réduits à 0. Votre rituel d'Animation de Thralls, le sort [[animation des morts]] et toutes les magiques similaires n'affectent que les corps Humanoïdes, là où vos thralls sont des créatures Mortes-Vivantes.

@@ -5,7 +5,7 @@ Les bras levés vers le ciel, le regard porté sur le soleil, et prononçant une
 
 Scandant une chanson de gloire, un nain envoie sa hache à droite et à gauche pour se frayer un chemin à travers une horde d'orques lui courant dessus, louant la puissance des dieux à chaque ennemi mis à terre.
 
-Invoquant une malédiction sur les forces mort-vivantes en face de lui, un humain lève son symbole sacré alors que la lumière l'envahit et repousse les zombies qui l'encerclaient, lui et ses compagnons.
+Invoquant une malédiction sur les forces mortes-vivantes en face de lui, un humain lève son symbole sacré alors que la lumière l'envahit et repousse les zombies qui l'encerclaient, lui et ses compagnons.
 
 Les clercs sont les intermédiaires entre le monde des mortels et les plans lointains des dieux. Aussi variés que sont les dieux qu'ils servent, les clercs sont en pratique les petites mains de leur déité. Plus qu'un prêtre ordinaire, un clerc est insufflé de magie divine.
 

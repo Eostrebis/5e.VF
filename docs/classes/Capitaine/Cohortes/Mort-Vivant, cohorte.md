@@ -23,7 +23,7 @@ status: finished
 > 
 > __Vigueur des Morts-Vivants.__ Si le mort-vivant tombe à 0 point de vie suite à des dégâts, il doit réaliser un jet de sauvegarde de Constitution DD 5 + le montant de dégât pris, sauf si les dégâts sont radiants ou issus d'un coup critique. En cas de réussite, le mort-vivant tombe à 1 point de vie à la place.
 > 
-> __Nature Mort-Vivante.__ Le mort-vivant n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
+> __Nature Morte-Vivante.__ Le mort-vivant n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
 >___
 >
 >### Actions
@@ -41,4 +41,4 @@ _Niveau 10._ __Régénération.__ Le mort-vivant regagne 1 point de vie au débu
 
 _Niveau 14._ __Morsure Nécrosante Améliorée.__ Les dégâts nécrotiques de la morsure du mort-vivant augmentent de 7 (2d6) et le mort-vivant un nombre de points de vie égal aux dégâts nécrotiques infligés.
 
-_Niveau 18._ __Horde de Mort-Vivants.__ Un humanoïde tué par une morsure de mort-vivant se relève 24h après comme un zombie sous le contrôle du capitaine, sauf si l'humanoïde est ramené à la vie ou si son corps est détruit. Le capitaine ne peut pas avoir plus de six zombies sous son contrôle à la fois. Les zombies restent sous le contrôle du capitaine pendant 24h, après quoi le capitaine doit lancer [[Animation des Morts]] ou utiliser une magie similaire pour les réasservir.
+_Niveau 18._ __Horde de Morts-Vivants.__ Un humanoïde tué par une morsure de mort-vivant se relève 24h après comme un zombie sous le contrôle du capitaine, sauf si l'humanoïde est ramené à la vie ou si son corps est détruit. Le capitaine ne peut pas avoir plus de six zombies sous son contrôle à la fois. Les zombies restent sous le contrôle du capitaine pendant 24h, après quoi le capitaine doit lancer [[Animation des Morts]] ou utiliser une magie similaire pour les réasservir.

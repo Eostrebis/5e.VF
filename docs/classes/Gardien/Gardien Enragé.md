@@ -32,6 +32,6 @@ Au niveau 20, pour une action, vous pouvez vous transformer en un amas de fourru
 
  - Vous bénéficiez des effets de la Transe Férale.
  - Vous gagnez 40 points de vie temporaires.
- - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez lui infliger une blessure saignante. Les Constructions, Vases et Mort-Vivants ne peuvent pas avoir de blessure saignante. Une créature perd 1d8 points de vie au début de chacun de ses tours pour chaque blessure saignante, sauf si elle utilise une action pour arrêter le saignement de toutes ses blessures. Tant qu'une cible saigne, elle ne peut pas regagner de points de vie. Une créature peut avoir un nombre maximum de blessures saignantes égal à votre bonus de maîtrise.
+ - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez lui infliger une blessure saignante. Les Constructions, Vases et Morts-Vivants ne peuvent pas avoir de blessure saignante. Une créature perd 1d8 points de vie au début de chacun de ses tours pour chaque blessure saignante, sauf si elle utilise une action pour arrêter le saignement de toutes ses blessures. Tant qu'une cible saigne, elle ne peut pas regagner de points de vie. Une créature peut avoir un nombre maximum de blessures saignantes égal à votre bonus de maîtrise.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.

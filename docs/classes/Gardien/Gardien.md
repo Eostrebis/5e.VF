@@ -151,7 +151,7 @@ Ce choix vous confère des compétences au niveau 3, puis aux niveaux 6, 13 et 2
 
 | Appels du Champion              | Description                                                                                   |
 | ------------------------------- | --------------------------------------------------------------------------------------------- |
-| [[Chasseur Nocturne]]           | Allié des mort-vivants, infusé d'énergies nécromantiques                                      |
+| [[Chasseur Nocturne]]           | Allié des morts-vivants, infusé d'énergies nécromantiques                                     |
 | [[Défenseur au Cœur de Pierre]] | Protecteur impassable des forteresses montagnardes                                            |
 | [[Gardien Enragé]]              | Entre en transe pour canaliser la férocité primale des bêtes                                  |
 | [[Shaman de l'Âme-Sang]]        | Manipule l'âme pour conjuer la magie des légendes                                             |
