@@ -3302,31 +3302,6 @@
         ],
         "description": "Au moment où vous lancez ce sort, un crochet à viande spectral et une chaîne sont lancés vers une créature de votre choix. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible prend 1d8 dégâts perçants alors que le crochet pénètre son corps. Jusqu'au début de votre prochain tour, la cible doit réussir un jet de sauvegarde de Force pour se déplacer à plus de 30 ft. de vous. Sur un échec, elle ne peut plus se déplacer jusqu'au début de votre tour. Cet effet se termine si vous êtes à plus de 30 ft. de la cible.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).\n"
     },
-    "Lumières": {
-        "level": "0",
-        "school": "Évocation",
-        "Verbal": "true",
-        "Somatique": "false",
-        "Matériel": "true",
-        "detailmat": "Une luciole ou de la mousse phosphorescente",
-        "Durée": "1 Heure",
-        "Incantation": "1 Action",
-        "Portée": "Touché (20 ft.)",
-        "Concentration": "false",
-        "Rituel": "false",
-        "englishname": "Light",
-        "status": "empty",
-        "available": [
-            "Nécromancien",
-            "Barde",
-            "Clerc",
-            "Ensorceleur",
-            "Magicien",
-            "Artificier",
-            "MagedeGuerre"
-        ],
-        "description": "Vous touchez un objet qui ne fait pas plus de 10 ft. dans toutes ses dimensions. Jusqu'à la fin de ce sort, l'objet émet une lumière vive dans un rayon de 20 ft. et une lumière faible sur 20 ft. supplémentaires. La lumière peut être de la couleur que vous souhaitez. Complètement recouvrir l'objet bloque la lumière. Le sort se termine si vous le relancez ou si vous le dissipez avec une action.\n\nSi la cible est un objet porté ou manié par une créature hostile, cette créature doit réussir un jet de sauvegarde de Dextérité pour éviter le sort.\n"
-    },
     "Triche": {
         "level": "0",
         "school": "Divination",
@@ -3888,6 +3863,31 @@
             "Clerc"
         ],
         "description": "Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou prendre 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.\n"
+    },
+    "Lumière": {
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "true",
+        "detailmat": "Une luciole ou de la mousse phosphorescente",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Touché (20 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Light",
+        "status": "empty",
+        "available": [
+            "Nécromancien",
+            "Barde",
+            "Clerc",
+            "Ensorceleur",
+            "Magicien",
+            "Artificier",
+            "MagedeGuerre"
+        ],
+        "description": "Vous touchez un objet qui ne fait pas plus de 10 ft. dans toutes ses dimensions. Jusqu'à la fin de ce sort, l'objet émet une lumière vive dans un rayon de 20 ft. et une lumière faible sur 20 ft. supplémentaires. La lumière peut être de la couleur que vous souhaitez. Complètement recouvrir l'objet bloque la lumière. Le sort se termine si vous le relancez ou si vous le dissipez avec une action.\n\nSi la cible est un objet porté ou manié par une créature hostile, cette créature doit réussir un jet de sauvegarde de Dextérité pour éviter le sort.\n"
     },
     "Contrôle des Flammes": {
         "level": "0",
