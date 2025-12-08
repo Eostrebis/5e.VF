@@ -19,9 +19,9 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le cantrip [[Lumièr
 
 ## Lueur Protectrice
 
-Également au niveau 1, vous pouvez interposer une lumière divine entre vous et un ennemi qui vous attaque. Lorsque vous êtes attaqué par une créature à 30 ft. que vous pouvez voir, vous pouvez utiliser votre réaction pour lui imposer le désavantage sur son jet d'attaque, faisant une lumière devant l'attaquant avant qu'il ne touche ou ne rate. Un attaquant qui ne peut pas être [[aveuglé]] être immunisé contre cette compétence.
+Également au niveau 1, vous pouvez interposer une lumière divine entre vous et un ennemi qui vous attaque. Lorsque vous êtes attaqué par une créature à 30 ft. que vous pouvez voir, vous pouvez utiliser votre réaction pour lui imposer le désavantage sur son jet d'attaque, faisant une lumière devant l'attaquant avant qu'il ne touche ou ne rate. Un attaquant qui ne peut pas être [[aveuglé]] être immunisé contre cette aptitude.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse (minimum de 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum de 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Canal Divin : Radiance de l'Aube
 

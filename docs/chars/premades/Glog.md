@@ -69,9 +69,9 @@ Loin des peaux de bêtes et des armures de plaques grossières, sa tenue est cel
 Mais ce qui le définit vraiment, c'est la manifestation de son étrange pouvoir. Il tient souvent à la main un lourd grimoire, dont les pages, lorsqu'il les consulte, brillent d'une lumière éthérée. De ce livre et parfois de l'air autour de lui, des vrilles d'une substance noire, visqueuse et gélatineuse semblent suinter dans la réalité. Cette émanation de la Convocation Gélatineuse ondule et flotte autour de lui, formant des silhouettes amorphes et changeantes, véritable incarnation de sa soif de souvenirs.
 
 ![[Glog.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Vision dans le Noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
@@ -80,7 +80,7 @@ Mais ce qui le définit vraiment, c'est la manifestation de son étrange pouvoir
 **Carrure Imposante.** Vous êtes considéré comme d'une catégorie de taille supérieure pour déterminer votre capacité de charge.
 
 **Endurance Sans Fin.** Lorsque vous êtes réduit à 0 point de vie mais ne mourez pas sur le coup, vous pouvez tomber à 1 point de vie à la place. Une fois que vous avez utilisé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Patron d'un Autre Monde
 
@@ -98,7 +98,7 @@ Vous apprenez à dissoudre le corps des morts et à apprendre de leurs vies. Pou
 
 Une fois que ce processus a terminé, vous pouvez réabsorber l'acide pour accéder aux souvenirs de la créature. Vous gagnez accès aux informations sur les 48 dernières heures de vie de la créature et le souvenir le plus important de sa dernière année de vie.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
 
 ##### Amis Joyeux
 
@@ -169,7 +169,7 @@ Depuis, la vie de Glog est un équilibre précaire. Il doit continuer ses étude
 
 Il a compris qu'il ne pourrait pas obtenir son diplôme en restant assis sur un banc d'école. Pour satisfaire la faim de son patron et obtenir les pouvoirs nécessaires pour survivre, il doit vivre des choses. Il est donc devenu un aventurier, chaque quête étant un nouveau chapitre de "recherche sur le terrain" pour sa thèse, et un nouveau repas pour la Convocation Gélatineuse.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Vous avez étudié un peu de théorie magique et avez appris quelques sorts liés à l'académie des Arts Mystiques.
 

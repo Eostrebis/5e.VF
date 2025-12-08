@@ -16,7 +16,7 @@ Tant que vous êtes en transe, vous pouvez sentir une connexion à un être sup�
 
 Cette transe dure 1 minute. Elle se termine prématurément si vous êtes [[inconscient]] ou si vous terminez votre tour sans avoir attaqué une créature hostile ou prit de dégât depuis votre dernier tour. Vous pouvez également terminer votre transe en utilisant une action bonus.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
 ## Odorat du Prédateur
 
@@ -34,4 +34,4 @@ Au niveau 20, pour une action, vous pouvez vous transformer en un amas de fourru
  - Vous gagnez 40 points de vie temporaires.
  - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez lui infliger une blessure saignante. Les Constructions, Vases et Morts-Vivants ne peuvent pas avoir de blessure saignante. Une créature perd 1d8 points de vie au début de chacun de ses tours pour chaque blessure saignante, sauf si elle utilise une action pour arrêter le saignement de toutes ses blessures. Tant qu'une cible saigne, elle ne peut pas regagner de points de vie. Une créature peut avoir un nombre maximum de blessures saignantes égal à votre bonus de maîtrise.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.

@@ -4,7 +4,7 @@ status: finished
 *Vestige de niveau 7*
 
 Premier ange déchu, Sarakiel a essayé, et échoué, de détruire le multivers en guise de pitié pour ses habitants. En punition, il confie à ses ligateurs ses ailes ainsi que sa lame, autrefois sacrée.
-# Compétences
+# Aptitudes
 
 ## Auréole Brisée
 Lorsque vous ratez un jet de sauvegarde, lancez un d6. Sur un 6, le jet réussit.
@@ -13,7 +13,7 @@ Lorsque vous ratez un jet de sauvegarde, lancez un d6. Sur un 6, le jet réussit
 Lorsque vous réalisez une attaque de mêlée contre une créature tout en volant, vous ne provoquez pas d'attaque d'opportunité contre cette créature pour le reste de votre tour, que vous ayez touché ou non.
 
 ## Jugement
-Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez choisir d'infliger 6d8 dégâts supplémentaires, nécrotiques ou radieux. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
+Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez choisir d'infliger 6d8 dégâts supplémentaires, nécrotiques ou radieux. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Ailes Angéliques
 Tant que vous êtes lié à Sarakiel, il vous pousse de grandes ailes de plumes dans le dos, vous conférant une vitesse de vol de 60 ft.

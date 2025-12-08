@@ -5,7 +5,7 @@ status: finished
 
 M. Ludovic était un marionnettiste célèbre qui a atteint la déité. Ceux qui se lient à lui peuvent utiliser ses ficelles pour manipuler les autres aussi aisément qu'il manipulait les marionnettes.
 
-# Compétences
+# Aptitude
 
 ## Sans Attache
 Tant que vous êtes lié à M. Ludovic, vous ne pouvez être charmé ou possédé.

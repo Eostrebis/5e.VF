@@ -25,7 +25,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Également au niveau 1, votre magie est renforcée par votre connaissance de la fin des temps. Lorsque vous lancez un sort de martyr qui inflige des dégâts, vous pouvez choisir de relancer n'importe quel nombre de dés de dégâts, et devez utiliser les nouveaux résultats.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Sorts Sacrosaints
 
@@ -39,4 +39,4 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 À compter du niveau 18, les dieux vont ont béni avec une maîtrise du temps pour empêcher les catastrophes. À la fin de votre tour, vous pouvez choisir d'immédiatement avoir un tour supplémentaire.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.

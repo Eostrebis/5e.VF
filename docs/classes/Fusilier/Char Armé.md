@@ -29,4 +29,4 @@ Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour
 
  Votre rage flingueuse se termine si vous vous mettez à couvert, terminez votre tour sans attaquer ou utiliser votre action bonus pour la terminer prématurément.
 
- Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.
+ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.

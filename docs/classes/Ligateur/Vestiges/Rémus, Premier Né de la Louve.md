@@ -5,7 +5,7 @@ status: finished
 
 Jumeau aigri qui a failli former un empire, Rémus confère à ses ligateurs un avant-goût de sa furie barbare.
 
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Rémus, vous maîtrisez les [[hache d'armes|haches d'armes]], les [[hache à deux mains|haches à deux mains]], les [[maillet|maillets]] et les [[marteau de guerre|marteaux de guerre]].
@@ -21,7 +21,7 @@ Pendant votre tour, vous pouvez utiliser votre action bonus pour faire appel à 
  - Vous êtes résistant aux dégâts contondants, tranchants et perçants.
  - Lorsque vous réduisez une créature hostile à 0 point de vie avec une attaque armée de mêlée, vous pouvez vous déplacer de jusqu'à 10 ft. et réaliser une attaque armée supplémentaire.
 
-Vous pouvez terminer cet effet prématurément pour une action bonus. Une fois que vous avez utilisé cette compétence, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos.
+Vous pouvez terminer cet effet prématurément pour une action bonus. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Soif de Sang du Loup
 Tant que vous êtes lié à Rémus, vous adoptez l'aspect sauvage et violent d'un lycanthrope : une fourrure rêche recouvre votre corps, votre nez s'allonge, vos ongles deviennent des griffes et vos dents s'aiguisent. Lorsque vous prenez des dégâts d'une créature à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.

@@ -34,14 +34,14 @@ Vous pouvez créer un paladin rapidement en suivant ces suggestions. Commencez p
 
 | **Le Paladin** |                   |                                                                                  |                   |                   |                   |                   |                   |
 | -------------- | ----------------- | -------------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| Niveau         | Bonus de Maîtrise | Compétences                                                                      | Sorts de niveau 1 | Sorts de niveau 2 | Sorts de niveau 3 | Sorts de niveau 4 | Sorts de niveau 5 |
+| Niveau         | Bonus de Maîtrise | Aptitudes                                                                        | Sorts de niveau 1 | Sorts de niveau 2 | Sorts de niveau 3 | Sorts de niveau 4 | Sorts de niveau 5 |
 | 1              | +2                | [[#Instinct Divin]], [[#Imposition des Mains]]                                   | —                 | —                 | —                 | —                 | —                 |
 | 2              | +2                | [[#Style de Combat]], [[#Incantation]], [[#Châtiment Divin]]                     | 2                 | —                 | —                 | —                 | —                 |
 | 3              | +2                | [[#Santé Divine]], [[#Serment Sacré]], [[#Exploitation de Pouvoir Divin (Opt.)]] | 3                 | —                 | —                 | —                 | —                 |
 | 4              | +2                | [[#Augmentation de Caractéristiques]]                                            | 3                 | —                 | —                 | —                 | —                 |
 | 5              | +3                | [[#Attaque Supplémentaire]]                                                      | 4                 | 2                 | —                 | —                 | —                 |
 | 6              | +3                | [[#Aura de Protection]]                                                          | 4                 | 2                 | —                 | —                 | —                 |
-| 7              | +3                | Compétence de [[#Serment Sacré]]                                                 | 4                 | 3                 | —                 | —                 | —                 |
+| 7              | +3                | Aptitude de [[#Serment Sacré]]                                                   | 4                 | 3                 | —                 | —                 | —                 |
 | 8              | +3                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | —                 | —                 | —                 |
 | 9              | +4                | —                                                                                | 4                 | 3                 | 2                 | —                 | —                 |
 | 10             | +4                | [[#Aura de Courage]]                                                             | 4                 | 3                 | 2                 | —                 | —                 |
@@ -49,16 +49,16 @@ Vous pouvez créer un paladin rapidement en suivant ces suggestions. Commencez p
 | 12             | +4                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | 3                 | —                 | —                 |
 | 13             | +5                | —                                                                                | 4                 | 3                 | 3                 | 1                 | —                 |
 | 14             | +5                | [[#Contact Purifiant]]                                                           | 4                 | 3                 | 3                 | 1                 | —                 |
-| 15             | +5                | Compétence de [[#Serment Sacré]]                                                 | 4                 | 3                 | 3                 | 2                 | —                 |
+| 15             | +5                | Aptitude de [[#Serment Sacré]]                                                   | 4                 | 3                 | 3                 | 2                 | —                 |
 | 16             | +5                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | 3                 | 2                 | —                 |
 | 17             | +6                | —                                                                                | 4                 | 3                 | 3                 | 3                 | 1                 |
 | 18             | +6                | Amélioration des Auras                                                           | 4                 | 3                 | 3                 | 3                 | 1                 |
 | 19             | +6                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | 3                 | 3                 | 2                 |
-| 20             | +6                | Compétence de [[#Serment Sacré]]                                                 | 4                 | 3                 | 3                 | 3                 | 2                 |
+| 20             | +6                | Aptitude de [[#Serment Sacré]]                                                   | 4                 | 3                 | 3                 | 3                 | 2                 |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que paladin, vous disposez des compétences de classes suivantes.
+En tant que paladin, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -93,7 +93,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 Au niveau 1, la présence de grands maux pèse sur vos sens comme une odeur désagréable, et le bien résonne comme de la musique paradisiaque pour vos oreilles. Pour une action, vous pouvez vous ouvrir à la détection de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez la localisation de n'importe quel céleste, fiélon ou mort-vivant à 60 ft. qui n'est pas derrière une couverture totale. Vous connaissez le type de chacune des présences que vous détectez, mais pas son identité. Dans ce même rayon, vous détectez également la présence de tout endroit ou objet qui aurait été consacré ou désacralisé, comme avec le sort [[sanctification]].
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à 1 + votre modificateur de Charisme. Lorsque vous terminez un repos long, vous regagnez toutes les utilisations dépensées.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de Charisme. Lorsque vous terminez un repos long, vous regagnez toutes les utilisations dépensées.
 
 ## Imposition des Mains
 
@@ -103,7 +103,7 @@ Pour une action, vous pouvez toucher une créature et extraire du pouvoir de ce 
 
 Vous pouvez également dépenser 5 points du réservoir pour soigner une maladie ou un poison chez une créature. Vous pouvez soigner plusieurs maladies ou neutraliser plusieurs poisons avec une seule utilisation en dépensant bien 5 points par maladie et/ou poison.
 
-Cette compétence n'a aucun effet sur les Constructions.
+Cette aptitude n'a aucun effet sur les Constructions.
 
 ## Style de Combat
 
@@ -116,7 +116,7 @@ Tant que vous portez une armure, vous gagnez un bonus de +1 à la CA.
 Tant que vous maniez une arme de mêlée à une main et aucune autre arme, vous bénéficiez d'un bonus de +2 aux jets de dégâts avec cette arme.
 
 ### Combat à Deux Mains
-Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette compétence.
+Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette aptitude.
 
 ### Protection
 Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 ft., vous pouvez utiliser votre réaction pour imposer le désavantage au jet d'attaque. Vous devez manier une arme ou un bouclier.
@@ -192,7 +192,7 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment du Soleil]]            | Incarnez la dualité de l'astre solaire en apportant sa lumière sacrée dans les ténèbres tout en protégeant les innocents de sa chaleur impitoyable.                  |
 
 
-Votre choix vous confère des compétences aux niveaux 3, 7, 15 et 20.
+Votre choix vous confère des aptitudes aux niveaux 3, 7, 15 et 20.
 
 ### Sorts de Serment
 
@@ -211,7 +211,7 @@ Certains effets de Canal Divin nécessitent des jets de sauvegarde. Quand vous u
 
 ## Exploitation de Pouvoir Divin (Opt.)
 
-À partir du niveau 3, vous pouvez dépenser l'utilisation de votre Canal Divin pour alimenter vos sorts. Pour une action bonus, vous touchez votre symbole sacré, prononcez une prière et regagnez un emplacement de sort dépensé, d'un niveau inférieur à la moitié de votre bonus de maîtrise (arrondi au supérieur). Le nombre de fois que vous pouvez utiliser cette compétence est dépendante du niveau que vous avez dans cette classe : 1 fois au niveau 3, 2 au niveau 7 et 3 au niveau 15. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+À partir du niveau 3, vous pouvez dépenser l'utilisation de votre Canal Divin pour alimenter vos sorts. Pour une action bonus, vous touchez votre symbole sacré, prononcez une prière et regagnez un emplacement de sort dépensé, d'un niveau inférieur à la moitié de votre bonus de maîtrise (arrondi au supérieur). Le nombre de fois que vous pouvez utiliser cette aptitude est dépendante du niveau que vous avez dans cette classe : 1 fois au niveau 3, 2 au niveau 7 et 3 au niveau 15. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 
 ## Augmentation de Caractéristiques
@@ -244,4 +244,4 @@ Au niveau 11, vous êtes tellement imprégné de vertus que toutes vos armes de 
 
 À partir du niveau 14, vous pouvez utiliser votre action pour terminer un sort sur vous ou une créature consentante que vous touchez.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme. Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme. Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.

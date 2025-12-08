@@ -33,13 +33,13 @@ Vous pouvez créer un Martyr rapidement en suivant ces suggestions. Commencez pa
 
 | **Le Martyr** |                   |                                                                                                                                           |                     |                      |
 | ------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------- |
-| Niveau        | Bonus de Maîtrise | Compétences                                                                                                                               | Niveau de Sort Max. | Utilisation de Sorts |
+| Niveau        | Bonus de Maîtrise | Aptitudes                                                                                                                                 | Niveau de Sort Max. | Utilisation de Sorts |
 | 1             | +2                | [[Martyr#Fardeau Mortel\|Fardeau Mortel]], [[Martyr#Mort Ordinée\|Mort Ordinée]]                                                          | --                  | --                   |
 | 2             | +2                | [[Martyr#Marque du Héraut\|Marque du Héraut]], [[Martyr#Incantation\|Incantation]], [[Martyr#Représailles Saintes\|Représailles Saintes]] | 1                   | 2                    |
 | 3             | +2                | [[Martyr#Soin Divin\|Soin Divin]], [[Martyr#Tourment\|Tourment]]                                                                          | 1                   | 3                    |
 | 4             | +2                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 1                   | 3                    |
 | 5             | +3                | [[Martyr#Attaque Supplémentaire\|Attaque Supplémentaire]]                                                                                 | 2                   | 6                    |
-| 6             | +3                | Compétence de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                   | 2                   | 6                    |
+| 6             | +3                | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                     | 2                   | 6                    |
 | 7             | +3                | [[Martyr#Répit\|Répit]]                                                                                                                   | 2                   | 7                    |
 | 8             | +3                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 2                   | 7                    |
 | 9             | +4                | --                                                                                                                                        | 3                   | 9                    |
@@ -47,17 +47,17 @@ Vous pouvez créer un Martyr rapidement en suivant ces suggestions. Commencez pa
 | 11            | +4                | Amélioration de [[Martyr#Tourment\|Tourment]]                                                                                             | 3                   | 10                   |
 | 12            | +4                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 3                   | 10                   |
 | 13            | +5                | --                                                                                                                                        | 4                   | 11                   |
-| 14            | +5                | Compétence de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                   | 4                   | 11                   |
+| 14            | +5                | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                     | 4                   | 11                   |
 | 15            | +5                | [[Martyr#Marche vers le Destin\|Marche vers le Destin]]                                                                                   | 4                   | 12                   |
 | 16            | +5                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 4                   | 12                   |
 | 17            | +6                | --                                                                                                                                        | 5                   | 14                   |
-| 18            | +6                | Compétence de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                   | 5                   | 14                   |
+| 18            | +6                | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                     | 5                   | 14                   |
 | 19            | +6                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 5                   | 15                   |
 | 20            | +6                | [[Martyr#Véritable Martyr\|Véritable Martyr]]                                                                                             | 5                   | 15                   |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que Martyr, vous disposez des compétences de classes suivantes.
+En tant que Martyr, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -91,7 +91,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Fardeau Mortel
 
-Dès le niveau 1, vous êtes destinés à périr au nom d'un idéal qui vous dépasse, gravant votre nom au côté de ceux qui ont fait de même. Choisissez un Fardeau Mortel, qui vous confère des compétences au niveau 2, 6, 10, et 18.
+Dès le niveau 1, vous êtes destinés à périr au nom d'un idéal qui vous dépasse, gravant votre nom au côté de ceux qui ont fait de même. Choisissez un Fardeau Mortel, qui vous confère des aptitudes au niveau 2, 6, 10, et 18.
 
 | Fardeau                    | Description                                                                   |
 | -------------------------- | ----------------------------------------------------------------------------- |
@@ -164,7 +164,7 @@ Ces dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le nive
 
 ## Soin Divin
 
-À partir du niveau 3, vous pouvez formuler une prière pour la pitié des dieux. Pour une action, vous pouvez dépenser des Dés de Vie et regagnez des points de vie comme si vous veniez de finir un repos court. Lorsque vous utilisez cette compétence, vous pouvez dépenser un nombre de Dés de Vie égal à votre modificateur de maîtrise.
+À partir du niveau 3, vous pouvez formuler une prière pour la pitié des dieux. Pour une action, vous pouvez dépenser des Dés de Vie et regagnez des points de vie comme si vous veniez de finir un repos court. Lorsque vous utilisez cette aptitude, vous pouvez dépenser un nombre de Dés de Vie égal à votre modificateur de maîtrise.
 
 ## Tourment
 
@@ -186,7 +186,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Conviction Immortelle
 
-À partir du niveau 10, lorsque vous tombez à 0 point de vie et n'êtes pas tué sur le coup, vous pouvez décider de tomber à 1 point de vie plutôt. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.
+À partir du niveau 10, lorsque vous tombez à 0 point de vie et n'êtes pas tué sur le coup, vous pouvez décider de tomber à 1 point de vie plutôt. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.
 
 ## Marche vers le Destin
 

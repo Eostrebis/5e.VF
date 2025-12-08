@@ -19,7 +19,7 @@ __Immunités aux Conditions :__ Aveuglé, charmé, assourdi, apeuré, paralysé,
 
 __Sens__ : Vision aveugle 120 ft. (aveugle au-delà)
 
-## Compétences
+## Aptitudes
 
 ### Passifs
 

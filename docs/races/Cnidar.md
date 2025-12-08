@@ -55,7 +55,7 @@ __Nématocyste.__ Vous possédez un long membre épineux, une arme naturelle que
 
 __Neurotoxines.__ Pour une action bonus, vous pouvez secréter une toxine et l'appliquer à une arme ou une munition. La toxine ainsi appliquée persiste une heure. La première fois que vous touchez une créature avec cette arme ou cette munition, la créature doit réussir un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou être [[paralysé|paralysée]] jusqu'au début de son prochain tour. Vous pouvez également utiliser une action bonus pour injecter la toxine dans une créature que vous touchez avec votre nématocyste.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 __Adaptation Toxique.__ Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous êtes résistant aux dégâts de poison.
 
@@ -78,7 +78,7 @@ Les diplomates et marchants d'un récif cnidarien sont souvent de la forme peaub
 
 __Amphibie.__ Vous pouvez respirer dans l'air et dans l'eau.
 
-**Peaubrillante.** Pour une action bonus, vous pouvez faire briller votre peau d'une multitude de couleurs plaisantes pendant 10 minutes. Pendant cette durée, vous avez l'avantage à tous vos jets de Charisme. Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+**Peaubrillante.** Pour une action bonus, vous pouvez faire briller votre peau d'une multitude de couleurs plaisantes pendant 10 minutes. Pendant cette durée, vous avez l'avantage à tous vos jets de Charisme. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
 __Phosphorescence Hypnotique.__ Vous connaissez le cantrip [[illusion mineure]]. À partir du niveau 3, vous pouvez lancer le sort [[charme-personne]] une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. À partir du niveau 5, vous pouvez lancer le sort [[suggestion]] une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort de niveau adéquat.
 

@@ -55,4 +55,4 @@ Au niveau 20, pour une action, vous pouvez émaner un champ de magie pétillante
  - Lorsqu'une créature vous touche avec une attaque de mêlée, cette créature prend un nombre de dégâts de force égal à votre modificateur de Charisme alors que l'énergie magique même se déchaîne contre elle.
  - Lorsque vous dépensez un emplacement de sort de niveau 1 ou plus, les créatures alliées dans votre champ de magie regagnent un nombre de points de vie égal à votre modificateur de Charisme tandis que les créatures hostiles prennent le même nombre de dégâts de force.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

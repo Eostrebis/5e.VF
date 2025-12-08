@@ -5,7 +5,7 @@ Non surprenamment, les vases, les gelées et les slimes sont un sujet d'études 
 
 ## Empathie Slimesque
 
-Dès que vous choisissez ce champ d'études au niveau 2, vous développez un mélange de phéromones qui attendrit les slimes envers vous. À chaque fois qu'une Vase essaye de vous attaquer, elle doit réussir un jet de sauvegarde de Sagesse contre votre jet de sauvegarde de bombe. Sur un échec, l'attaque rate. Sur un succès, la Vase est immunisée à cette compétence pour les prochaines 24 heures.
+Dès que vous choisissez ce champ d'études au niveau 2, vous développez un mélange de phéromones qui attendrit les slimes envers vous. À chaque fois qu'une Vase essaye de vous attaquer, elle doit réussir un jet de sauvegarde de Sagesse contre votre jet de sauvegarde de bombe. Sur un échec, l'attaque rate. Sur un succès, la Vase est immunisée à cette aptitude pour les prochaines 24 heures.
 
 ## Formule : Bombe de Slime
 

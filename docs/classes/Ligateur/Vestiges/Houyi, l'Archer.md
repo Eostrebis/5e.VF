@@ -5,7 +5,7 @@ status: finished
 
 Archer légendaire qui a battu plusieurs soleils, Houyi confère à ses ligateurs une vision d'aigle et le savoir du maniement de l'arc.
 
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Houyi, vous maîtrisez la [[sarbacane]], l'[[arbalète de poing]], l'[[arbalète lourde]], l'[[arc long]] et le [[filet]].

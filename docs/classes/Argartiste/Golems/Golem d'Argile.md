@@ -65,9 +65,9 @@ Ambre porte une cotte d'écailles d'une matière inconnue. Chaque écaille, de l
 Il se déplace avec une lenteur délibérée, s'appuyant souvent sur un simple bâton de bois, et donne toujours cette impression d'un être incroyablement ancien et puissant, piégé dans un corps physiquement faible, dont la seule vigueur semble s'être concentrée dans sa barbe indomptable.
 
 ![[Ambre.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Magie Firbolg.** Vous pouvez lancer les sort [[Détection de la Magie]] et [[Déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[Déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
 
@@ -77,7 +77,7 @@ Il se déplace avec une lenteur délibérée, s'appuyant souvent sur un simple b
 
 **Dialogue de la Bête et de la Feuille.** Vous avez la capacité de communiquer légèrement avec les Bêtes, Plantes et la végétation. Ils peuvent comprendre le sens de vos mots, même si vous n'avez pas de disposition particulière à les comprendre en retour. Vous avez l'avantage à tous les jets de Charisme que vous réalisez pour les influencer.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Mort Ordinée
 
@@ -91,4 +91,4 @@ En tant que Martyr, vous avez été prédestiné par les dieux à périr pour un
 
 Vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer la condition [[aveuglé]], [[assourdi]] ou [[empoisonné]] d'une créature consentante que vous touchez.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.

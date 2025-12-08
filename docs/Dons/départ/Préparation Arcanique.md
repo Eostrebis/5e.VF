@@ -1,6 +1,6 @@
 ---
 englishname: Arcane Preparation
-requis: Compétence d'Incantation de la classe Clerc, Druide ou Magicien
+requis: Aptitude d'Incantation de la classe Clerc, Druide ou Magicien
 status: finished
 ---
 

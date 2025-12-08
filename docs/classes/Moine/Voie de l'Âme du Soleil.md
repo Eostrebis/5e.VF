@@ -11,7 +11,7 @@ Vous gagnez une nouvelle option d'attaque que vous pouvez utiliser lorsque vous 
 
 Lorsque vous prenez l'action d'attaquer pendant votre tour et que vous utilisez cette attaque spéciale, vous pouvez utiliser 1 point de ki pour réaliser deux fois cette attaque spéciale pour une action bonus.
 
-Lorsque vous gagnez la compétence d'[[Moine#Attaque Supplémentaire|attaque supplémentaire]], cette attaque spéciale peut-être utilisée pour n'importe laquelle des attaques que vous réalisez.
+Lorsque vous gagnez la aptitude d'[[Moine#Attaque Supplémentaire|attaque supplémentaire]], cette attaque spéciale peut-être utilisée pour n'importe laquelle des attaques que vous réalisez.
 
 ## Frappe d'Arc Brûlant
 

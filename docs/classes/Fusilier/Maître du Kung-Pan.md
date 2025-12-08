@@ -15,7 +15,7 @@ De plus, lorsque vous réalisez une attaque armée à distance avec une arme à 
 
 ## Désarmement Éclair
 
-À partir du niveau 7, si une créature à moins de 5 ft. de vous manie une arme à feu, vous pouvez utiliser votre action bonus et dépenser un dé de risque pour essayer de la désarmer. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de Fait. Si elle rate, vous lui prenez l'arme des mains après une rapide série de mouvements. Vous devez avoir au moins une main libre pour utiliser cette compétence.
+À partir du niveau 7, si une créature à moins de 5 ft. de vous manie une arme à feu, vous pouvez utiliser votre action bonus et dépenser un dé de risque pour essayer de la désarmer. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de Fait. Si elle rate, vous lui prenez l'arme des mains après une rapide série de mouvements. Vous devez avoir au moins une main libre pour utiliser cette aptitude.
 
 ## Attrape-Balle
 
@@ -29,4 +29,4 @@ Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles
 
 Au niveau 14, vous avez maîtrisé les techniques les plus avancées du Kung-Pan. Vous pouvez utiliser votre action bonus pour réaliser deux attaques armées de mêlée et une attaque armée à distance avec une arme à feu contre des cibles à 15 ft. de vous.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.

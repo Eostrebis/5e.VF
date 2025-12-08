@@ -44,4 +44,4 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraien
  - Lorsque vous touchez une créature que vous avez marquée avec une attaque, vous regagnez un dé de bataille.
  - Vous pouvez prendre une réaction supplémentaire par tour de combat. Vous êtes toujours limité à une réaction par tour.
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos long pour pouvoir le faire à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour pouvoir le faire à nouveau.

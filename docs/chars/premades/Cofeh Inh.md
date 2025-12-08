@@ -71,9 +71,9 @@ Elle se bat avec l'équipement classique du protecteur. Dans une main, elle tien
 En somme, Cofeh ressemble exactement à ce qu'elle est : un chevalier en armure étincelante, un phare de bonté et de force, aussi simple et directe dans son apparence que dans son cœur.
 
 ![[Cofeh.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 #### Maître des Armures Lourdes
 
@@ -81,13 +81,13 @@ Vous savez utiliser votre armure pour dévier les coups qui vous seraient létha
 
  - Tant que vous portez une armure lourde, les dégâts contondants, perçants et tranchants que vous prenez de sources non magiques sont réduits de 3.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Instinct Divin
 
  La présence de grands maux pèse sur vos sens comme une odeur désagréable, et le bien raisonne comme de la musique paradisiaque pour vos oreilles. Pour une action, vous pouvez vous ouvrir à la détection de telles forces. Jusqu'à la fin de votre prochain tour, vous connaissez la localisation de n'importe quel céleste, fiélon ou mort-vivant à 60 ft. qui n'est pas derrière une couverture totale. Vous connaissez le type de chacune des présences que vous détectez, mais pas son identité. Dans ce même rayon, vous détectez également la présence de tout endroit ou objet qui aurait été consacré ou désacralisé, comme avec le sort [[sanctification]].
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à 1 + votre modificateur de Charisme. Lorsque vous terminez un repos long, vous regagnez toutes les utilisations dépensées.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à 1 + votre modificateur de Charisme. Lorsque vous terminez un repos long, vous regagnez toutes les utilisations dépensées.
 
 #### Imposition des Mains
 
@@ -97,7 +97,7 @@ Pour une action, vous pouvez toucher une créature et extraire du pouvoir de ce 
 
 Vous pouvez également dépenser 5 points du réservoir pour soigner une maladie ou un poison chez une créature. Vous pouvez soigner plusieurs maladies ou neutraliser plusieurs poisons avec une seule utilisation en dépensant bien 5 points par maladie et/ou poison.
 
-Cette compétence n'a aucun effet sur les Constructions.
+Cette aptitude n'a aucun effet sur les Constructions.
 ### Équipement
 
  - Une [[épée longue]] et un [[Bouclier]]
@@ -129,7 +129,7 @@ Le Père Elric, voyant que son énergie et sa lumière étaient trop grandes pou
 
 Avec la bénédiction de son mentor, un vieil écu, une épée et le sourire le plus radieux que le monde ait jamais vu, Cofeh se mit en route. Elle ne partait pas en quête de gloire ou de richesses, mais pour une mission bien plus simple : trouver des gens à aider, et des méchants à qui faire regretter de s'être levés ce matin-là.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 La détermination de Cofeh à se jeter dans la mêlée pour protéger les autres est sans égale. Lorsqu'elle utilise son action pour Foncer (Dash), elle peut se déplacer de 10 pieds supplémentaires. De plus, si elle termine ce mouvement à 5 pieds ou moins d'une créature alliée, cette dernière est inspirée par son arrivée héroïque et gagne un nombre de points de vie temporaires égal à son modificateur de Charisme.
 

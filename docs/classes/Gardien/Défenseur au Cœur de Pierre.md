@@ -13,7 +13,7 @@ De plus, jusqu'à ce que vous vous déplaciez, vous ne pouvez pas être déplac�
 
 À partir du niveau 6, vous pouvez choisir d'utiliser la Saisie du Gardien pour une action plutôt qu'une action bonus. Lorsque vous le faites, chaque créature affectée doit réussir un jet de sauvegarde de Force (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[au sol]].
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Force (minimum de 1), et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Force (minimum de 1), et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trempe
 
@@ -24,8 +24,8 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous son
 Au niveau 20, vous pouvez invoquer la puissance de la terre pour une action, vous protégeant dans une armure de pierre. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
  - Les dégâts contondants, perçants et tranchants que vous prenez sont réduits de 5.
- - Vous gagnez les effets de votre compétence Racines Rocheuses pour toute la durée de votre transformation.
+ - Vous gagnez les effets de votre aptitude [[#Racines Rocheuses]] pour toute la durée de votre transformation.
  - Lorsque vous bougez, vous pouvez choisir de remuer la terre sous vos pieds, laissant derrière vous une trace large de 5 ft. de terrain difficile.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.
 

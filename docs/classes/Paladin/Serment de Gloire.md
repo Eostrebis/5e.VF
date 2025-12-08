@@ -44,7 +44,7 @@ Au niveau 18, la portée de cette aura augmente de 5 ft. pour passer à 10 ft.
 
 Au niveau 15, vous pouvez transformer un mouvement défensif en une frappe soudaine. Lorsque vous ou une autre créature que vous pouvez voir à 10 ft. de vous est touché par un jet d'attaque, vous pouvez utiliser votre réaction pour conférer à la cible un bonus à la CA pour cette attaque. Ce bonus est égal à votre modificateur de Charisme (minimum de +1). Si l'attaque échoue, vous pouvez réaliser une attaque armée contre l'attaquant comme partie de cette réaction, à condition qu'il soit à portée.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
 ## Légende Vivante
 
 Au niveau 20, vous pouvez vous enorgueillir des légendes — qu'elles soient vraies ou exagérées — de vos exploits. Pour une action bonus, vous bénéficiez des effets suivants pendant une minute :
@@ -53,4 +53,4 @@ Au niveau 20, vous pouvez vous enorgueillir des légendes — qu'elles soient vr
  - Une fois à chacun de vos tours, lorsque vous réalisez une attaque armée et ratez, vous pouvez choisir qu'elle touche à la place.
  - Si vous échouez un jet de sauvegarde, vous pouvez utiliser votre réaction pour le relancer. Vous devez utiliser le nouveau jet.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous dépensez un emplacement de sort de niveau 5 pour le faire.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous dépensez un emplacement de sort de niveau 5 pour le faire.

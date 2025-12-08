@@ -10,10 +10,10 @@ Cet avatar n'a pas de points de vie, mais vous prenez les dégâts qu'il devrait
 
 Pendant votre tour, vous pouvez ordonner à l'avatar de voler jusqu'à 30 ft. Vous pouvez réaliser une ou plusieurs de vos attaques à travers l'avatar lorsque vous utilisez votre action pour attaquer. L'avatar invoque alors une réplique spectrale de toute arme que vous seriez en train de tenir et utilise votre bonus aux jets d'attaques et de dégâts et les dégâts de l'arme originelle. Vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec votre avatar lorsqu'une créature sort de sa portée.
 
-Votre avatar bénéficie de tous les vestiges auxquels vous êtes lié. Lorsque vous lancez un sort ou utilisez une compétence de vestige, vous pouvez choisir de la faire passer par votre avatar, comme s'il était l'origine de l'effet.
+Votre avatar bénéficie de tous les vestiges auxquels vous êtes lié. Lorsque vous lancez un sort ou utilisez une aptitude de vestige, vous pouvez choisir de la faire passer par votre avatar, comme s'il était l'origine de l'effet.
 
 ## Transposition d'Esprit
-Au niveau 7, vous pouvez utiliser votre action bonus pour échanger de place avec votre avatar. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
+Au niveau 7, vous pouvez utiliser votre action bonus pour échanger de place avec votre avatar. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Rituel du Titan
 À partir du niveau 10, vous pouvez réaliser un rituel spécial pendant 10 minutes, qui renforce votre avatar. Lorsque vous invoquez votre avatar, sa taille est G, il ne peut se déplacer que de 20 ft. par tour et il peut ajouter la moitié de votre niveau de ligateur à ses jets de dégâts. Ces changements persistent jusqu'à ce que vous terminiez un repos long ou que vous les dissipiez avec une action.
@@ -21,4 +21,4 @@ Au niveau 7, vous pouvez utiliser votre action bonus pour échanger de place ave
 ## Véritable Avatar
 À partir du niveau 14, pour une action, vous pouvez échanger de rôle avec votre avatar, devenant ainsi l'esprit tandis que lui devient tangible. Pendant la prochaine minute, vous vous fondez avec le plan éthéré, comme dans le sort [[forme éthérée]] et vous y commandez votre avatar plutôt que votre corps. À la fin de cette durée ou lorsque vous la terminez avec une action, vous revenez à l'emplacement que vous avez quitté ou vers l'espace inoccupé le plus proche, si celui-ci est occupé.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.

@@ -1,6 +1,6 @@
 *Vestige de niveau 1*
 
-# Compétences
+# Aptitudes
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, 

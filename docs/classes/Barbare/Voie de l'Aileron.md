@@ -13,7 +13,7 @@ Des communautés tribales existent dans tous les royaumes, dans tous les types d
 
 À partir du niveau 6, votre morsure est considérée magique vis-à-vis des résistances et immunités aux dégâts non magiques. 
 
-Lorsque vous touchez une créature à 5 ft. avec une attaque de mêlée, vous pouvez utiliser votre action bonus pour réaliser une attaque de morsure contre cette créature. Cette attaque a l'avantage si la cible a moins de la moitié de ses points de vie. Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Constitution (au minimum 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Lorsque vous touchez une créature à 5 ft. avec une attaque de mêlée, vous pouvez utiliser votre action bonus pour réaliser une attaque de morsure contre cette créature. Cette attaque a l'avantage si la cible a moins de la moitié de ses points de vie. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Constitution (au minimum 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Sens Sanguin
 

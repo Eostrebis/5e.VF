@@ -71,9 +71,9 @@ Mais c'est là que s'arrête la façade. Pour un œil non averti, il est l'image
 Ce sont les signes des vestiges qui se pressent contre les parois de son âme, des pouvoirs anciens qu'il lutte constamment pour dissimuler sous son masque de stoïcisme. Hempé est un homme impeccable dont l'âme est fissurée, et ces fissures menacent parfois de laisser entrevoir les entités terrifiantes qu'il abrite.
 
 ![[Hempé IV.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Étincelle Astrale.** Votre connexion psychique au Plan Astral vous permet de mystérieusement accéder à une étincelle de pouvoir divin, que vous pouvez canaliser dans vos armes. Lorsque vous touchez une cible avec une arme simple ou martiale, vous pouvez lui infliger des dégâts de force supplémentaires égaux à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, mais pas plus d'une fois par tour. Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -81,7 +81,7 @@ Ce sont les signes des vestiges qui se pressent contre les parois de son âme, d
 
 **Carrure d'Hippo.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Force. De plus, vous êtes considéré comme d'une taille supplémentaire pour déterminer votre capacité de charge.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Ligature d'Âme
 
@@ -123,7 +123,7 @@ Une nuit, dans la crypte oubliée sous le palais, Hempé a tracé son premier sc
 
 Désormais, sa vie a un but secret. Il a convaincu son père et la guilde de le laisser entreprendre une "mission diplomatique", un prétexte pour parfaire son éducation selon les standards modernes. En réalité, son voyage est un pèlerinage. Il part en quête de savoir, à la recherche de nouveaux vestiges à lier à son âme. Il quitte sa cage dorée non pas en prince, mais en arme, et il compte bien revenir un jour pour réclamer son trône, non pas avec de l'or ou des traités, mais avec le pouvoir des âmes qu'il aura asservies à sa volonté.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 En quittant son royaume, Hempé a réussi à récupérer un ancien sceptre stocké dans la bibliothèque royale. Ce sceptre est fin, visiblement ancien et en ivoire gravé de sceaux de ligature à peine visibles. Un gros cristal est enchâssé à son sommet, semblant absorber la lumière.
 

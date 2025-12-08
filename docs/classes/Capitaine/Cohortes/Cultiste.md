@@ -31,7 +31,7 @@ status: finished
 > - _À volonté :_ [[Lumières Dansantes]], [[Main de Mage]], [[Illusion Mineure]]
 > - _1/jour chacun :_ [[Charme-personne]], [[Détection de la Magie]]
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le cultiste obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

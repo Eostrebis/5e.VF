@@ -37,31 +37,31 @@ Vous pouvez créer un Moine rapidement en suivant ces suggestions. Commencez par
 
 | **Le Moine** |                   |               |     |                       |                                                                                                                                                                  |
 | ------------ | ----------------- | ------------- | --- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Niveau       | Bonus de Maîtrise | Arts Martiaux | Ki  | Mouvement sans armure | Compétences                                                                                                                                                      |
+| Niveau       | Bonus de Maîtrise | Arts Martiaux | Ki  | Mouvement sans armure | Aptitudes                                                                                                                                                        |
 | 1            | +2                | 1d4           | --  | --                    | [[Moine#Défense sans armure\|Défense sans armure]], [[Moine#Arts Martiaux\|Arts Martiaux]]                                                                       |
 | 2            | +2                | 1d4           | 2   | +10 ft.               | [[Moine#Ki\|Ki]], [[Moine#Déplacement sans armure\|Déplacement sans armure]] ([[Moine#Arme Dédiée (Opt.)\|Arme Dédiée]])                                         |
 | 3            | +2                | 1d4           | 3   | +10 ft.               | [[Moine#Tradition Monastique\|Tradition Monastique]], [[Moine#Parade de Projectiles\|Parade de Projectiles]] ([[Moine#Attaques de Ki (Opt.)\|Attaques de Ki]])   |
 | 4            | +2                | 1d4           | 4   | +10 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]], [[Moine#Chute Lente\|Chute Lente]] ([[Moine#Soin Accéléré (Opt.)\|Soin Accéléré]]) |
 | 5            | +3                | 1d6           | 5   | +10 ft.               | [[Moine#Attaque Supplémentaire\|Attaque Supplémentaire]], [[Moine#Frappe Étourdissante\|Frappe Étourdissante]] ([[Moine#Focus\|Focus]])                          |
-| 6            | +3                | 1d6           | 6   | +15 ft.               | [[Moine#Frappes de Ki\|Frappes de Ki]], Compétence de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                       |
+| 6            | +3                | 1d6           | 6   | +15 ft.               | [[Moine#Frappes de Ki\|Frappes de Ki]], aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                         |
 | 7            | +3                | 1d6           | 7   | +15 ft.               | [[Moine#Évasion\|Évasion]], [[Moine#Sérénité\|Sérénité]]                                                                                                         |
 | 8            | +3                | 1d6           | 8   | +15 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
 | 9            | +4                | 1d6           | 9   | +15 ft.               | [[Moine#Amélioration du Déplacement sans armure\|Amélioration du Déplacement sans armure]]                                                                       |
 | 10           | +4                | 1d6           | 10  | +20 ft.               | [[Moine#Pureté du Corps\|Pureté du Corps]]                                                                                                                       |
-| 11           | +4                | 1d8           | 11  | +20 ft.               | Compétence de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                                                               |
+| 11           | +4                | 1d8           | 11  | +20 ft.               | Aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                                                                 |
 | 12           | +4                | 1d8           | 12  | +20 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
 | 13           | +5                | 1d8           | 13  | +20 ft.               | [[Moine#Langue du Soleil et de la Lune\|Langue du Soleil et de la Lune]]                                                                                         |
 | 14           | +5                | 1d8           | 14  | +25 ft.               | [[Moine#Âme Diamantine\|Âme Diamantine]]                                                                                                                         |
-| 15           | +5                | 1d8           | 15  | +25 ft.               | [[Moine#Jeunesse Éternelle\|Jeunesse Éternelle]]                                                                                                                                                                 |
+| 15           | +5                | 1d8           | 15  | +25 ft.               | [[Moine#Jeunesse Éternelle\|Jeunesse Éternelle]]                                                                                                                 |
 | 16           | +5                | 1d8           | 16  | +25 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
-| 17           | +6                | 1d10          | 17  | +25 ft.               | Compétence de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                                                               |
-| 18           | +6                | 1d10          | 18  | +30 ft.               | [[Moine#Désertion de l'Âme\|Désertion de l'Âme]]                                                                                                                                                                 |
+| 17           | +6                | 1d10          | 17  | +25 ft.               | Aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                                                                 |
+| 18           | +6                | 1d10          | 18  | +30 ft.               | [[Moine#Désertion de l'Âme\|Désertion de l'Âme]]                                                                                                                 |
 | 19           | +6                | 1d10          | 19  | +30 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
-| 20           | +6                | 1d10          | 20  | +30 ft.               | [[Moine#Perfection de l'Être\|Perfection de l'Être]]                                                                                                                                                                 |
+| 20           | +6                | 1d10          | 20  | +30 ft.               | [[Moine#Perfection de l'Être\|Perfection de l'Être]]                                                                                                             |
 
-# Compétences de Classes
+# Aptitude de Classes
 
-En tant que Moine, vous disposez des compétences de classes suivantes. Les compétences marquées comme (Opt.) sont optionnelles, et sont à confirmer au cas par cas avec le MJ.
+En tant que Moine, vous disposez des aptitudes de classes suivantes. Les aptitudes marquées comme (Opt.) sont optionnelles, et sont à confirmer au cas par cas avec le MJ.
 
 ### Points de Vie
 
@@ -108,11 +108,11 @@ Certains monastères utilisent des formes spécialisées d'armes monastiques. Pa
 
 À partir du niveau 2, votre entraînement vous permet de contrôler la mystérieuse énergie qu'est le ki. Votre accès à cette énergie est représenté par un nombre de points de ki. Votre niveau de moine détermine le nombre de points que vous avez, comme montré dans la colonne "Ki" de la table du Moine.
 
-Vous pouvez dépenser ces points pour utiliser certaines compétences de ki. Vous commencez avec trois de ces compétences : [[Moine#Ruée de Coups|Ruée de Coups]], [[Moine#Défense Patiente|Défense Patiente]] et [[Moine#Pas du Vent|Pas du Vent]]. Vous gagnez de nouvelles compétences de ki en gagnant des niveaux de cette classe.
+Vous pouvez dépenser ces points pour utiliser certaines aptitudes de ki. Vous commencez avec trois de ces aptitudes : [[Moine#Ruée de Coups|Ruée de Coups]], [[Moine#Défense Patiente|Défense Patiente]] et [[Moine#Pas du Vent|Pas du Vent]]. Vous gagnez de nouvelles aptitudes de ki en gagnant des niveaux de cette classe.
 
 Lorsque vous dépensez un point de ki, il n'est plus disponible jusqu'à que vous finissiez un repos court ou long, à la fin duquel vous récupérez tous les points de ki que vous avez dépensés. Vous devez passer au moins 30 minutes pendant le repos à méditer pour regagner vos points de ki.
 
-Certaines de vos compétences de ki demandent à la cible de réaliser un jet de sauvegarde pour résister à leurs effets. Le DD de ce jet de sauvegarde est calculé comme suit :
+Certaines de vos aptitudes de ki demandent à la cible de réaliser un jet de sauvegarde pour résister à leurs effets. Le DD de ce jet de sauvegarde est calculé comme suit :
 
 <p style="text-align:center"><b>DD de Sauvegarde du ki</b> = 8 + bonus de maîtrise + modificateur de Sagesse</p>
 
@@ -135,7 +135,7 @@ Vous pouvez dépenser 1 point de ki pour prendre l'action de se désengager ou d
 
 ## Arme Dédiée (Opt.)
 
-Vous vous êtes entrainé à traiter multitude d'armes comme des armes monastiques, et pas seulement les épées courtes ou les armes courantes. Lorsque vous finissez un repos court ou long, vous pouvez toucher une arme, concentrer votre ki, et considérer cette arme comme une arme monastique jusqu'à ce que vous utilisiez à nouveau cette compétence.
+Vous vous êtes entrainé à traiter multitude d'armes comme des armes monastiques, et pas seulement les épées courtes ou les armes courantes. Lorsque vous finissez un repos court ou long, vous pouvez toucher une arme, concentrer votre ki, et considérer cette arme comme une arme monastique jusqu'à ce que vous utilisiez à nouveau cette aptitude.
 
 L'arme choisie doit respecter ces trois critères : 
  + L'arme doit être simple ou martiale.
@@ -144,7 +144,7 @@ L'arme choisie doit respecter ces trois critères :
 
 ## Tradition Monastique
 
-Lorsque vous atteignez le niveau 3, vous vous dédiez à une tradition monastique. Votre tradition vous confère des compétences aux niveaux 3, 6, 11 et 17.
+Lorsque vous atteignez le niveau 3, vous vous dédiez à une tradition monastique. Votre tradition vous confère des aptitudes aux niveaux 3, 6, 11 et 17.
 
 | Tradition                    | Description                                                                            |
 | ---------------------------- | -------------------------------------------------------------------------------------- |

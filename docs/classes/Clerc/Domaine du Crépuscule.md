@@ -21,10 +21,10 @@ Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les [[Armures Lo
 ## Yeux de la Nuit
 Également au niveau 1, vous pouvez voir à partir de la moindre lueur. Vous possédez une vision dans le noir à une portée de 300 ft. Dans ce rayon, vous pouvez voir dans la lumière faible comme si c'était une lumière vive, et dans l'obscurité comme si c'était une lumière faible.
 
-Pour une action, vous pouvez magiquement partager votre vision dans le noir de cette compétence avec des créatures consentantes que vous pouvez voir à 10 ft., jusqu'à un nombre de créatures égal à votre modificateur de Sagesse (au minimum 1). Cette vision dans le noir partagée dure 1 heure. Une fois que vous l'avez partagée, vous ne pouvez pas le refaire avant d'avoir terminé un repos long, sauf si vous dépensez un emplacement de sort, de n'importe quel niveau.
+Pour une action, vous pouvez magiquement partager votre vision dans le noir de cette aptitude avec des créatures consentantes que vous pouvez voir à 10 ft., jusqu'à un nombre de créatures égal à votre modificateur de Sagesse (au minimum 1). Cette vision dans le noir partagée dure 1 heure. Une fois que vous l'avez partagée, vous ne pouvez pas le refaire avant d'avoir terminé un repos long, sauf si vous dépensez un emplacement de sort, de n'importe quel niveau.
 
 ## Bénédiction du Vigilant
-Toujours au niveau 1, la nuit vous a appris à être vigilant. Pour une action, vous conférez à une créature que vous touchez l'avantage à son prochain jet d'initiative. Cet effet se termine dès que le jet a été tiré ou lorsque vous utilisez à nouveau cette compétence.
+Toujours au niveau 1, la nuit vous a appris à être vigilant. Pour une action, vous conférez à une créature que vous touchez l'avantage à son prochain jet d'initiative. Cet effet se termine dès que le jet a été tiré ou lorsque vous utilisez à nouveau cette aptitude.
 
 ## Canal Divin : Sanctuaire du Crépuscule
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour rafraîchir vos alliés dans un crépuscule apaisant.

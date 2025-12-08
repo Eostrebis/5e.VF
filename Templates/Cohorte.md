@@ -27,7 +27,7 @@
 > ### Actions Bonus
 > ### Réactions
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le %nom% obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

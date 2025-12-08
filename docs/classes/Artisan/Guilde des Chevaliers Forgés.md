@@ -27,7 +27,7 @@ La première fois qu'une arme chauffée touche une cible, elle inflige 1d6 dég�
 
 À partir du niveau 14, vous pouvez libérer la chaleur de votre forge portative en une déflagration colossale. Tant que vous portez votre forge, vous pouvez lancer le sort [[boule de feu]], centré sur vous-même, sans utiliser d'emplacement de sort ou de composantes, en utilisant votre DD de sauvegarde de chef-d'œuvre. Vous ne prenez aucun dégâts de ce sort.
 
-Une fois que vous avez utilisé votre compétence, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos.
+Une fois que vous avez utilisé votre aptitude, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos.
 
 ## Propriété Légendaire
 

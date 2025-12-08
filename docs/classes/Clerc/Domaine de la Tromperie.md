@@ -15,7 +15,7 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 
 ## Bénédiction du Farceur
 
-À partir du moment où vous choisissez ce domaine au niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante autre que vous pour lui conférer l'avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure 1 heure ou jusqu'à ce que vous utilisiez cette compétence à nouveau
+À partir du moment où vous choisissez ce domaine au niveau 1, vous pouvez utiliser votre action pour toucher une créature consentante autre que vous pour lui conférer l'avantage aux jets de Dextérité (Discrétion). Cette bénédiction dure 1 heure ou jusqu'à ce que vous utilisiez cette aptitude à nouveau
 
 ## Canal Divin : Ubiquité
 

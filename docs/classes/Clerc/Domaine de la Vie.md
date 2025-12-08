@@ -22,7 +22,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les armures lour
 ## Canal Divin : Préservation de la Vie
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour soigner les blessés graves.
 
-Pour une action, vous affichez votre symbole sacré et incantez une énergie de soin qui restaure un nombre de points de vie égal à 5 fois votre niveau de clerc. Choisissez n'importe quel nombre de créatures à 30 ft. et répartissez ces points de vie parmi ces créatures. Cette compétence ne peut pas rendre à une créature plus de la moitié de ses points de vie. Vous ne pouvez pas utiliser cette compétence sur une Construction ou un Mort-vivant.
+Pour une action, vous affichez votre symbole sacré et incantez une énergie de soin qui restaure un nombre de points de vie égal à 5 fois votre niveau de clerc. Choisissez n'importe quel nombre de créatures à 30 ft. et répartissez ces points de vie parmi ces créatures. Cette aptitude ne peut pas rendre à une créature plus de la moitié de ses points de vie. Vous ne pouvez pas utiliser cette aptitude sur une Construction ou un Mort-vivant.
 
 ## Soigneur Béni
 À partir du niveau 6, les sorts de soin que vous lancez sur les autres vous soignent également. Lorsque vous lancez un sort de niveau 1 ou plus qui rend des points de vie à une créature autre que vous, vous regagnez 2 + le niveau du sort points de vie.

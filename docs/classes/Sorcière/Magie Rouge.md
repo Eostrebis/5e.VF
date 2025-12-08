@@ -25,8 +25,8 @@ Au niveau 6, lorsque vous lancez un sort qui inflige des dégâts d'acide, de fr
 
 À partir du niveau 10, lorsqu'un attaquant que vous voyez vous touche avec une attaque, vous pouvez utiliser votre réaction pour devenir quasiment invulnérable. Les dégâts que vous prenez de cette attaque sont réduits de 50.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 
 ## Annihilation Élémentaire
 
-À partir du niveau 14, lorsque vous lancez un sort de sorcière qui inflige des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez dépenser un autre emplacement d'au moins le même niveau pour maximiser les dégâts infligés. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
+À partir du niveau 14, lorsque vous lancez un sort de sorcière qui inflige des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez dépenser un autre emplacement d'au moins le même niveau pour maximiser les dégâts infligés. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.

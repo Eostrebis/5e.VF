@@ -4,7 +4,7 @@ status: finished
 *Vestige de niveau 8*
 
 De son vivant, Carthin était un mage qui abandonna tout arcane, sauf celles qui pouvaient servir à faire tomber les archimages qui l'ont trahi. Il confère à ses ligateurs des moyens de repousser la magie ainsi que ses yeux inquisiteurs.
-# Compétences
+# Aptitudes
 
 ## Lame de l'Inquisition
 Vous pouvez lancer le sort [[Arme Magique]] à volonté en tant que sort de niveau 4 sans dépenser d'emplacement de sorts ou de composantes matérielles. Votre concentration sur le sort se brise si l'arme quitte votre main.
@@ -16,7 +16,7 @@ Tant que vous êtes lié à Carthin, vous pouvez lancer les sorts suivants sans 
 
 *1/jour chacun :* [[Champ Antimagie]], [[vision suprême]]
 
-Lancer [[Champ Antimagie]] de cette façon ne désactive pas vos compétences de vestige, si ce n'est les incantations et objets magiques. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Lancer [[Champ Antimagie]] de cette façon ne désactive pas vos aptitudes de vestige, si ce n'est les incantations et objets magiques. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Œil de la Magie Morte
 Tant que vous êtes lié à Carthin, vos yeux deviennent des orbites vacantes avec deux charbons incandescents à l'intérieur, vous conférant une version qui perce l'arcane. Vous êtes constamment sous les effets de [[Détection de la Magie]], qui ne requiert pas votre concentration. De plus, vous pouvez utiliser votre action pour vous concentrer sur une créature que vous pouvez voir à 30 ft. Vous pouvez déterminer si cette créature a lancé un sort pendant les dernières 24 heures, et de quelle école.

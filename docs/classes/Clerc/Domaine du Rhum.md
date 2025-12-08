@@ -38,4 +38,4 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 ## Tournée Générale !
 Au niveau 17, vous pouvez faire appel au pouvoir des dieux pour apporter à vos alliés une tournée de shots. Pour une action, choisissez jusqu'à 6 créatures alliées que vous pouvez voir à 60 ft. Pendant la prochaine minute, vous ainsi que chaque créature que vous avez choisie avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme et pouvez soustraire votre modificateur de Sagesse à tous les dégâts contondants, perçants ou tranchants que vous prenez.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.

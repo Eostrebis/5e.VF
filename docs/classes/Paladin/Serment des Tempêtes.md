@@ -55,4 +55,4 @@ Au niveau 20, pour une action, vous pouvez vous recouvrir des pouvoirs d'une dé
  - Vous obtenez une vitesse de vol de 60 ft.
  - Vous pouvez lancer le sort [[appel de la foudre]] pour une action bonus pendant votre tour comme sort de niveau 5 sans utiliser d'emplacement de sort ni de composantes, et vous pouvez utiliser votre action bonus pour appeler la foudre en utilisant ce sort pendant vos prochains tours.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -33,7 +33,7 @@ status: finished
 > - _À volonté :_ [[Main de Mage]], [[Prestidigitation]]
 > - _1/jour :_ [[Disque Flottant]], [[Graisse]], [[Armure de Mage]]
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le mage obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

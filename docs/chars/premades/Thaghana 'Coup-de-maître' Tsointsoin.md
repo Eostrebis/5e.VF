@@ -71,9 +71,9 @@ Dénué d'armure, son torse nu ne craint ni le froid ni les coups, protégé par
 
 ![[Thaghana.jpg]]
 
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 __Petit Géant.__ Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
@@ -83,7 +83,7 @@ __Endurance de Pierre.__ Vous pouvez tirer parti du pouvoir de la pierre pour ig
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Rage
 
@@ -132,9 +132,9 @@ Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'
 
 Aujourd'hui, Thaghana ne s'identifie plus comme Skannak, il a appris à s'accepter, à utiliser ses connaissances pour être meilleur. Chassé de son village, il a dû faire tant bien que mal pour survivre, et suit désormais une voie qui lui permettra d'assouvir ses envies de curiosité : la voie d'aventurier.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
-Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider de réaliser un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette compétence un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
+Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider de réaliser un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette aptitude un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
 
 ### Traits de Personnalité
 

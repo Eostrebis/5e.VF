@@ -5,7 +5,7 @@ status: finished
 
 Autrefois le plus grand épéiste au monde, Orzi confie à ses ligateurs une vitesse incroyable ainsi qu'un maniement hors pair des lames à une main.
 
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Orzi, vous maîtrisez l'[[arbalète de poing]], la [[rapière]], le [[cimeterre]], l'[[épée courte]] et le [[fouet]].

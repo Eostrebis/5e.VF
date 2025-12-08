@@ -23,7 +23,7 @@ De plus, vous apprenez le cantrip [[Stabilisation]], qui ne compte pas dans la l
 
 Au niveau 1, vous gagnez la capacité de parfois sentir la présence de morts-vivants, dont l'existence est une insulte au cycle naturel de la vie. Pour une action, vous pouvez vous ouvrir à la détection magique de morts-vivants. Jusqu'à la fin de votre prochain tour, vous connaissez la localisation de tout mort-vivant à 60 ft. qui n'est pas derrière une couverture totale et qui n'est pas protégé contre la magie divinatoire. Ce sens ne vous dit rien à propos de la créature.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Canal Divin : Chemin de la Tombe
 
@@ -35,7 +35,7 @@ Pour une action, vous pouvez choisir une créature que vous pouvoir voir à 30 f
 
 Au niveau 6, vous devenez capable de ralentir la progression de la mort. Comme réaction lorsque vous ou une créature que vous pouvez voir à 30 ft. est victime d'un coup critique, vous pouvez le transformer en coup normal. Tout effet déclenché par le coup critique est annulé.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Incantation Puissante
 
@@ -43,4 +43,4 @@ Vous pouvez utiliser cette compétence un nombre de fois égal à votre modifica
 
 ## Gardien des Âmes
 
-À partir du niveau 17, vous pouvez saisir le peu de vitalité qu'il reste dans une âme et vous en servir pour soigner les vivants. Lorsqu'un ennemi que vous pouvez voir meurt à 60 ft., vous ou une créature de votre choix que vous pouvez voir à 60 ft. regagne des points de vie d'un montant égal au nombre de dés de vie de la créature décédée. Vous ne pouvez pas utiliser cette compétence si vous êtes [[incapacité]]. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'au début de votre prochain tour.
+À partir du niveau 17, vous pouvez saisir le peu de vitalité qu'il reste dans une âme et vous en servir pour soigner les vivants. Lorsqu'un ennemi que vous pouvez voir meurt à 60 ft., vous ou une créature de votre choix que vous pouvez voir à 60 ft. regagne des points de vie d'un montant égal au nombre de dés de vie de la créature décédée. Vous ne pouvez pas utiliser cette aptitude si vous êtes [[incapacité]]. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'au début de votre prochain tour.

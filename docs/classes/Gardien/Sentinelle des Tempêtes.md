@@ -30,4 +30,4 @@ De plus, vous pouvez utiliser votre action pour invoquer un éclair qui vous tou
  - Votre vitesse de vol est doublée.
  - Vous pouvez lancer le sort [[Appel de la Foudre]] pour une action bonus (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Constitution) sans dépenser d'emplacement de sort. Lorsque vous lancez un sort de cette façon, vous pouvez appeler un éclair à chacun de vos prochains tours pour une action bonus.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos long.

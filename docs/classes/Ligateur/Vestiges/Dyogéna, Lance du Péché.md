@@ -5,7 +5,7 @@ status: finished
 
 Guerrière entrainée d'un empire oublié, Dyogéna confère à ses ligateurs des compétences à l'épée, la lance et au bouclier.
 
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Dyogéna, vous maîtrisez les [[Bouclier, Équipement||boucliers]] ainsi que les [[hache d'armes|haches d'armes]], les [[épée longue|épées longues]], les [[lance|lances]], les [[trident|tridents]] et les [[marteau de guerre|marteaux de guerre]].
@@ -14,7 +14,7 @@ Tant que vous êtes lié à Dyogéna, vous maîtrisez les [[Bouclier, Équipemen
 Tant que vous maniez un bouclier dans une main et une arme *polyvalente* dans l'autre, vous pouvez utiliser le dé de dégâts de l'arme comme si vous la maniiez à deux mains.
 
 ## Coup de Grâce
-Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez utiliser votre action bonus pour réaliser une attaque armée de mêlée supplémentaire. Si vous touchez, cette attaque inflige un nombre de dégâts supplémentaires égal à votre niveau de ligateur. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez utiliser votre action bonus pour réaliser une attaque armée de mêlée supplémentaire. Si vous touchez, cette attaque inflige un nombre de dégâts supplémentaires égal à votre niveau de ligateur. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Trait : Tâché de Sang
 Vous êtes tâché par le sang des saints, qui ne part jamais. Immédiatement après avoir pris des dégâts d'une attaque de mêlée, vous pouvez utiliser votre réaction pour obtenir 5 points de vie temporaires, qui durent jusqu'à la fin de votre prochain tour. Le montant de ces points de vie temporaires augmente de 5 pour chaque vestige autre que Dyogéna auquel vous êtes lié.

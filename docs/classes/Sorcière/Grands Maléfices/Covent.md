@@ -1,7 +1,7 @@
 ---
 status: empty
 ---
-Vous pouvez embrigader les autres dans votre sinistre covent. En réalisant un rituel spécial sur 8 heures, qui peut être fait pendant un repos long, vous pouvez infiltrer votre magie maudite dans une créature consentante qui a la compétence Incantation ou Magie de Pacte. Cette créature entre dans votre covent. Vous pouvez avoir jusqu'à deux créatures autres que vous dans votre covent.
+Vous pouvez embrigader les autres dans votre sinistre covent. En réalisant un rituel spécial sur 8 heures, qui peut être fait pendant un repos long, vous pouvez infiltrer votre magie maudite dans une créature consentante qui a l'aptitude Incantation ou Magie de Pacte. Cette créature entre dans votre covent. Vous pouvez avoir jusqu'à deux créatures autres que vous dans votre covent.
 
 Tant que deux ou plus membres de votre covent se trouvent à 30 ft. l'un de l'autre, ils gagnent la capacité de lancer des sorts supplémentaires. De plus, les membres de votre covent ont accès à un pot d'emplacements de sort partagés -- un pour chaque niveau du 1er au 5ème -- qu'ils peuvent utiliser pour lancer des sorts normalement. Les emplacements de sorts dépensés sont récupérés lorsque tous les membres du covent finissent un repos long.
 

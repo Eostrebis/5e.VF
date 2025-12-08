@@ -5,7 +5,7 @@ status: finished
 
 Archiviste d'innombrables trésors dans le Coffre de Venagoth, Döpple partage l'histoire des plus grands artefacts avec ses ligateurs.
 
-# Compétences
+# Aptitudes
 
 ## Relique Mineure
 Lorsque vous vous liez à Döpple, un objet magique apparaît en votre possession. Cet objet disparaît lorsque vous n'êtes plus lié à Döpple.

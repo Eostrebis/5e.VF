@@ -19,13 +19,13 @@ Pour une action bonus, vous pouvez dépenser un dé de bataille pour Esquiver. V
 
 Au niveau 7, lorsque vous êtes caché et qu'une créature vous découvre en réussissant un jet de Sagesse (Perception), vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Si vous réussissez, vous vous replacez silencieusement et la créature ne vous remarque pas.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
 
 ## Qui Frappe en Premier Frappe en Dernier
 
 À partir du niveau 13, vous pouvez intervenir juste avant qu'un ennemi ne frappe. Comme réaction lorsqu'une créature hostile que vous pouvez voir attaque, vous pouvez vous déplacer de jusqu'à votre vitesse vers la créature et réaliser une attaque contre elle. Ce mouvement ne provoque pas d'attaque d'opportunité. Réalisez cette attaque avant de résoudre celles de la créature.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
 
 ## Guérilla
 

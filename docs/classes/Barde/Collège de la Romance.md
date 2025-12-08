@@ -13,7 +13,7 @@ Si vous charmez une créature qui ne vous est pas hostile, il vous considère vo
 
 Également au niveau 3, vous pouvez convertir d'autres créatures par votre personnalité. Pour une action, vous pouvez dépenser une Inspiration Bardique et choisir une créature que vous pouvez voir à 30 ft. qui peut vous voir ou vous entendre afin qu'elle réalise un jet de sauvegarde de Sagesse. Si elle échoue, la créature est [[charmé|charmée]] par vous pour un nombre de tours égal au résultat du dé d'Inspiration Bardique.
 
-Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature prend des dégâts de vous ou vos alliés ou si vous réutilisez cette compétence.
+Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature prend des dégâts de vous ou vos alliés ou si vous réutilisez cette aptitude.
 
 ## Ennemi de mon Ennemi
 
@@ -21,6 +21,6 @@ Au niveau 6, lorsque vous utilisez votre action pour attaquer, vous pouvez utili
 
 ## Embéguinement
 
-À partir du niveau 14, vous pouvez faire de vous la cible de l'affection des autres créatures. Vous pouvez utiliser votre action pour toucher un Humanoïde [[incapacité]]. Cette créature devient [[charmé|charmée]] par vous jusqu'à ce qu'un sort de [[délivrance des malédictions]] lui soit lancé, que la condition [[charmé]] lui soit retirée ou que vous utilisez à nouveau cette compétence.
+À partir du niveau 14, vous pouvez faire de vous la cible de l'affection des autres créatures. Vous pouvez utiliser votre action pour toucher un Humanoïde [[incapacité]]. Cette créature devient [[charmé|charmée]] par vous jusqu'à ce qu'un sort de [[délivrance des malédictions]] lui soit lancé, que la condition [[charmé]] lui soit retirée ou que vous utilisez à nouveau cette aptitude.
 
-Lorsque vous utilisez cette compétence, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
+Lorsque vous utilisez cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.

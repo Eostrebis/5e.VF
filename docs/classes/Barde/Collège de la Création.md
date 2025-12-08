@@ -17,9 +17,9 @@ __Jet de Sauvegarde.__ Immédiatement après que la créature a lancé son dé d
 
 Egalement au niveau 3, pour une action, vous pouvez canaliser la magie de la Chanson de la Création pour créer un objet non magique de votre choix dans un espace inoccupé à 10 ft. de vous. L'objet doit apparaître sur une surface ou dans un liquide qui peut le supporter. La valeur en PO de l'objet ne peut pas être de plus de 20 fois votre niveau de barde, et l'objet doit être de taille Moyenne ou plus petit. L'objet scintille légèrement et toute créature qui le touche entend une douce musique. L'objet créé disparaît après un nombre d'heures égal à votre bonus de maîtrise. 
 
-Une fois que vous avez créé un objet avec cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous dépensez un emplacement de sort de niveau 2 ou plus pour le faire. Vous ne pouvez avoir qu'un seul objet créé par cette compétence à la fois ; si vous utilisez cette compétence alors qu'il existe déjà un objet créé de cette manière, le premier objet disparaît instantanément. 
+Une fois que vous avez créé un objet avec cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous dépensez un emplacement de sort de niveau 2 ou plus pour le faire. Vous ne pouvez avoir qu'un seul objet créé par cette aptitude à la fois ; si vous utilisez cette aptitude alors qu'il existe déjà un objet créé de cette manière, le premier objet disparaît instantanément. 
 
-La taille de l'objet que vous pouvez créer avec cette compétence augmente d'une catégorie de taille lorsque vous atteignez le niveau 6 (Grand) et 14 (Très Grand).
+La taille de l'objet que vous pouvez créer avec cette aptitude augmente d'une catégorie de taille lorsque vous atteignez le niveau 6 (Grand) et 14 (Très Grand).
 
 ## Représentation Animante
 

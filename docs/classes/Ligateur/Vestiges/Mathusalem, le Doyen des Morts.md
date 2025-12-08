@@ -5,7 +5,7 @@ status: finished
 
 Humain qui a vécu si longtemps qu'il a fini par glisser entre la vie et la mort, Mathusalem confère à ses ligateurs un pouvoir sur les morts-vivants ainsi que son étrange déconnexion avec la mortalité
 
-# Compétences
+# Aptitudes
 
 ## Empathie Tombale
 Les morts-vivants ressentent instinctivement votre proximité avec ceux de leur espèce. À chaque fois qu'un mort-vivant essaye de vous attaquer, il doit réussir un jet de sauvegarde de Sagesse. S'il rate, l'attaque échoue. S'il réussit, il est immunisé contre cet effet pour 24 heures.

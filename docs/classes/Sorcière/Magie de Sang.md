@@ -25,7 +25,7 @@ Lorsque vous choisissez cet art au niveau 3, vous pouvez marquer une créature d
 
 Toujours au niveau 3, vous pouvez teinter votre magie de votre propre sang. Lorsque vous lancez un sort qui a un temps d'incantation de 1 action, vous pouvez choisir de perdre 5 points de vie pour l'incanter en 1 bonus action plutôt.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au minimum 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au minimum 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Chercheur de la Mort
 
@@ -35,7 +35,7 @@ De plus, vous avez l'avantage aux jets de caractéristiques que vous réalisez p
 
 ## Récupération Hématomantique
 
-À partir du niveau 10, vous pouvez réaliser un rituel de sang pour renforcer votre magie. Une fois par jour lorsque vous terminez un repos court, vous pouvez dépenser des Dés de Vie pour récupérer des emplacements de sorts dépensés. Le coût pour chaque emplacement est détaillé ci-dessous. Vous ne pouvez pas utiliser cette compétence pour récupérer un emplacement de sort de niveau 6 ou plus.
+À partir du niveau 10, vous pouvez réaliser un rituel de sang pour renforcer votre magie. Une fois par jour lorsque vous terminez un repos court, vous pouvez dépenser des Dés de Vie pour récupérer des emplacements de sorts dépensés. Le coût pour chaque emplacement est détaillé ci-dessous. Vous ne pouvez pas utiliser cette aptitude pour récupérer un emplacement de sort de niveau 6 ou plus.
 
 | Niveau de Sort | Dés de Vie |
 | -------------- | ---------- |
@@ -47,4 +47,4 @@ De plus, vous avez l'avantage aux jets de caractéristiques que vous réalisez p
 
 ## Sanguine
 
-Au niveau 14, vous avez appris à manier votre propre sang comme un fouet. Une fois par tour, lorsque vous lancez un sort qui inflige des dégâts à une créature sous les effets de l'un de vos maléfices, vous pouvez choisir de perdre des points de vie pour augmenter le montant de dégâts infligés. Pour chaque 5 points de vie que vous perdez, vous pouvez infliger 2d8 dégâts nécrotiques supplémentaires, jusqu'à un maximum de 6d8 dégâts supplémentaires. Cette compétence ne peut s'utiliser que contre une créature qui est l'unique cible d'un de vos maléfices.
+Au niveau 14, vous avez appris à manier votre propre sang comme un fouet. Une fois par tour, lorsque vous lancez un sort qui inflige des dégâts à une créature sous les effets de l'un de vos maléfices, vous pouvez choisir de perdre des points de vie pour augmenter le montant de dégâts infligés. Pour chaque 5 points de vie que vous perdez, vous pouvez infliger 2d8 dégâts nécrotiques supplémentaires, jusqu'à un maximum de 6d8 dégâts supplémentaires. Cette aptitude ne peut s'utiliser que contre une créature qui est l'unique cible d'un de vos maléfices.

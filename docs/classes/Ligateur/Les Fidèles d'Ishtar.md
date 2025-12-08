@@ -12,9 +12,9 @@ Si les ligateurs des Fidèles d'Ishtar se dévouent complètement à leur déess
 
 ## Étreinte d'Ishtar
 
-À partir du niveau 3, vous êtes lié à [[Ishtar, la Jalouse]] et ne pouvez vous en délier. Ishtar ne compte pas comme un vestige lié et ne compte donc pas non plus dans votre limite de lien ou de niveaux de vestiges liés. Vous ne pouvez utiliser que ses compétences d'Étreinte et de Marque d'Ishtar.
+À partir du niveau 3, vous êtes lié à [[Ishtar, la Jalouse]] et ne pouvez vous en délier. Ishtar ne compte pas comme un vestige lié et ne compte donc pas non plus dans votre limite de lien ou de niveaux de vestiges liés. Vous ne pouvez utiliser que ses aptitudes d'[[Ishtar, la Jalouse#Étreinte|Étreinte]] et de [[Ishtar, la Jalouse#Marque d'Ishtar|Marque d'Ishtar]].
 
-Au niveau 7, vous obtenez la compétence Énamourement, puis son trait Bras d'Étreinte au niveau 14.
+Au niveau 7, vous obtenez l'aptitude [[Ishtar, la Jalouse#Énamourement|Énamourement]], puis son trait [[Ishtar, la Jalouse#Trait Bras d'Étreinte|Bras d'Étreinte]] au niveau 14.
 
 ## Rituel d'Idolâtrie
 

@@ -25,8 +25,8 @@ Au niveau 6, vous pouvez choisir d'augmenter la taille et la puissance de votre 
 
 ## Corps Galactique
 
-Au niveau 10, votre tapisserie vous protège des étranges espaces existants au-delà même le monde. Vous n'avez plus besoin de respirer, vous devenez résistant aux dégâts nécrotiques et radiants et vous ne pouvez plus être [[empoisonné]]. Vos ponts et escaliers de votre compétence de Renaissance Régulière peuvent maintenant être suffisamment larges pour laisser passer des créatures de taille TG ou moins.
+Au niveau 10, votre tapisserie vous protège des étranges espaces existants au-delà même le monde. Vous n'avez plus besoin de respirer, vous devenez résistant aux dégâts nécrotiques et radiants et vous ne pouvez plus être [[empoisonné]]. Vos ponts et escaliers de votre aptitude de [[Tisserand#Renaissance Régulière|Renaissance Régulière]] peuvent maintenant être suffisamment larges pour laisser passer des créatures de taille TG ou moins.
 
 ## Perceur des Cieux
 
-Au niveau 14, vous terminez enfin votre tapisserie et débloquez sa forme ultime. Lorsque vous utilisez votre compétence de Machine Massive, vous pouvez choisir de devenir de taille TG au lieu de G. Tant que vous êtes de taille TG ou plus, la portée de toutes vos armes de mêlée augmente de 5 ft., et vous pouvez réduire tous les dégâts que vous prenez d'un montant égal à 2 + votre modificateur d'Intelligence (minimum 3).
+Au niveau 14, vous terminez enfin votre tapisserie et débloquez sa forme ultime. Lorsque vous utilisez votre aptitude de [[#Machine Massive]], vous pouvez choisir de devenir de taille TG au lieu de G. Tant que vous êtes de taille TG ou plus, la portée de toutes vos armes de mêlée augmente de 5 ft., et vous pouvez réduire tous les dégâts que vous prenez d'un montant égal à 2 + votre modificateur d'Intelligence (minimum 3).

@@ -1,4 +1,4 @@
 ---
 status: finished
 ---
-En remplaçant le contenu explosif de votre bombe par une pierre philosophale, vous pouvez en faire une bombe nucléaire. Une bombe nucléaire inflige 10d10+100 dégâts de force plutôt que les dégâts de feu normaux, a un rayon d'explosion de 5 000 ft., et détruit complètement la pierre philosophale. De plus, chaque créature dans le rayon d'explosion qui rate son jet de sauvegarde prend les dégâts totaux de la bombe ou la moitié si elle réussit. Les créatures à moins de 60 ft. de la bombe ne profitent pas de compétences telles qu'Évasion.
+En remplaçant le contenu explosif de votre bombe par une pierre philosophale, vous pouvez en faire une bombe nucléaire. Une bombe nucléaire inflige 10d10+100 dégâts de force plutôt que les dégâts de feu normaux, a un rayon d'explosion de 5 000 ft., et détruit complètement la pierre philosophale. De plus, chaque créature dans le rayon d'explosion qui rate son jet de sauvegarde prend les dégâts totaux de la bombe ou la moitié si elle réussit. Les créatures à moins de 60 ft. de la bombe ne profitent pas d'aptitudes telles qu'Évasion.

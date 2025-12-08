@@ -67,9 +67,9 @@ Là où devrait se trouver son bras gauche, il y a une coupure nette en dessous 
 Il porte des vêtements de voyageur pratiques et usés, sans fioritures. Plusieurs cartouchières et sacoches sont attachées à sa ceinture, contenant des munitions, de la poudre noire, et les outils nécessaires à l'entretien de son fusil et de sa prothèse. Son long fusil, sombre et huilé, est presque toujours en sa possession, porté en bandoulière ou tenu dans sa main droite, le canon pointé vers le sol, comme une extension de sa propre volonté. 
 
 ![[Awahp.png]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 __Pieds Dextres.__ Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
 
@@ -77,7 +77,7 @@ __Pieds Dextres.__ Pour une action bonus, vous pouvez utiliser vos pieds pour ma
 
 **Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Œil de Lynx
 
@@ -119,9 +119,9 @@ Il se réveilla des jours plus tard, dans la hutte d'un vieil herboriste qui l'a
 Aujourd'hui, Awahp n'est plus seulement un survivant ; il est un rescapé fragmenté. Le mercenaire est mort cette nuit-là, laissant place à un aventurier dont le cynisme n'a d'égal que la détermination. Son bras manquant est un rappel constant de son échec. À sa place se trouve désormais une prothèse mécanique complexe, une merveille d'acier et de laiton qu'il a obtenue au prix de ses dernières économies et qu'il passe son temps à améliorer. Le cliquetis métallique de ses doigts articulés est devenu la bande-son de sa vie.
 
 Chaque rechargement de son fusil est un défi, une manœuvre apprise dans la douleur, où les doigts froids de sa main mécanique viennent assister sa main de chair. Sa quête de vengeance contre le Baron Grisefer n'est plus seulement une affaire d'honneur, c'est une nécessité pour donner un sens à sa propre survie. Chaque pièce qu'il gagne est investie soit dans l'entretien de son corps et de son arme, soit dans la recherche d'informations sur ses tortionnaires. L'homme qui visait avec une précision parfaite a été brisé, et de ses morceaux, il a reconstruit un être plus dangereux encore, car il n'a littéralement plus rien à perdre.
-### Compétence d'Historique
+### Aptitude d'Historique
 
-Grâce à, ou plutôt à cause de, sa blessure, Awahp est désormais équipé d'un bras bionique. Chargé magiquement, ce bras lui permet de délivrer une charge d'énergie directement dans son fusil. Lorsqu'Awahp tire avec une arme à feu avec la propriété Chargement, il peut décider de doubler la portée pour cette attaque. Awahp peut utiliser cette compétence un nombre de fois égal à son bonus de maîtrise, et il récupère toutes les charges dépensées lorsqu'il termine un repos long.
+Grâce à, ou plutôt à cause de, sa blessure, Awahp est désormais équipé d'un bras bionique. Chargé magiquement, ce bras lui permet de délivrer une charge d'énergie directement dans son fusil. Lorsqu'Awahp tire avec une arme à feu avec la propriété Chargement, il peut décider de doubler la portée pour cette attaque. Awahp peut utiliser cette aptitude un nombre de fois égal à son bonus de maîtrise, et il récupère toutes les charges dépensées lorsqu'il termine un repos long.
 
 ### Traits de Personnalité
 

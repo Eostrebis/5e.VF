@@ -13,7 +13,7 @@ Au niveau 6, vous apprenez à adapter votre corps aux mouvements des techniques 
 
 ## Yeux de l'Impératrice
 
-Au niveau 11, votre ki reptilien a infusé vos yeux, augmentant votre vision et transformant vos pupilles qui ressemblent désormais à des pupilles de serpents. Vous voyez dans le noir à 60 ft., et cette vision n'est pas gênée par l'obscurité magique. Pour une action, vous pouvez tenter fixer des yeux une cible qui peut vous voir, surchargeant ses sens avec votre influence mentale. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle rate, elle est charmée jusqu'au début de votre prochain tour. Vous pouvez utiliser cette compétence sur une créature qui a échoué ce jet pour une action bonus à votre prochain tour. Une créature qui réussit est immunisée contre cet effet pendant 1 minute.
+Au niveau 11, votre ki reptilien a infusé vos yeux, augmentant votre vision et transformant vos pupilles qui ressemblent désormais à des pupilles de serpents. Vous voyez dans le noir à 60 ft., et cette vision n'est pas gênée par l'obscurité magique. Pour une action, vous pouvez tenter fixer des yeux une cible qui peut vous voir, surchargeant ses sens avec votre influence mentale. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle rate, elle est charmée jusqu'au début de votre prochain tour. Vous pouvez utiliser cette aptitude sur une créature qui a échoué ce jet pour une action bonus à votre prochain tour. Une créature qui réussit est immunisée contre cet effet pendant 1 minute.
 
 ## Venin de la Basilic
 

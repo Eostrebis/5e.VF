@@ -5,7 +5,7 @@ status: finished
 
 Vieux sage et premier dieu de l'écriture, Lexicon confère à ses ligateurs une variété de sorts et une maîtrise du langage.
 
-# Compétences
+# Aptitudes
 
 ## Mots de Pouvoir
 Tant que vous êtes lié à Lexicon, vous apprenez deux cantrips de votre choix parmi la liste de sorts du Barde, de l'Ensorceleur et du Magicien, plus un cantrip additionnel pour chaque vestige autre que Lexicon auquel vous êtes lié. Vous utilisez le Charisme comme caractéristique d'incantation pour ces cantrips.

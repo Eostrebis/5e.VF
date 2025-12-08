@@ -23,9 +23,9 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Maxime de Vérité
 
-Également au niveau 1, votre force de personnalité encourage les autres à l'honnêteté. Vous pouvez utiliser une action bonus pour lancer le sort [[Zone de Vérité]], centré sur vous-même. Lorsque vous lancez le sort en utilisant cette compétence, la zone a un rayon de 5 ft. et une durée de 1 minute. La caractéristique d'incantation pour ce sort est la Sagesse.
+Également au niveau 1, votre force de personnalité encourage les autres à l'honnêteté. Vous pouvez utiliser une action bonus pour lancer le sort [[Zone de Vérité]], centré sur vous-même. Lorsque vous lancez le sort en utilisant cette aptitude, la zone a un rayon de 5 ft. et une durée de 1 minute. La caractéristique d'incantation pour ce sort est la Sagesse.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Sorts Sacrosaints
 
@@ -39,4 +39,4 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 Au niveau 18, vous vous voyez confié des bribes du futur, vous permettant de remplacer le résultat d'un de vos jets d'attaque, de compétence ou de sauvegarde avec un 20.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.

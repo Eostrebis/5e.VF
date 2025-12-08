@@ -27,7 +27,7 @@ Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets 
 Au niveau 20, vous pouvez utiliser votre action pour inviter l'énergie nécrotique environnante dans votre corps, vous séparant de toute vie pendant 1 minute et bénéficiant des effets suivants : 
 
  - Vous êtes immunisé contre les dégâts de poison et la condition [[empoisonné]].
- - Vous pouvez utiliser votre compétence Immortel jusqu'à trois fois sans consommer de charge de la compétence.
+ - Vous pouvez utiliser votre aptitude [[Gardien#Immortel|Immortel]] jusqu'à trois fois sans consommer de charge de l'aptitude.
  - Une fois par tour, lorsque vous infligez des dégâts à une créature hostile avec une attaque armée de mêlée, vous pouvez infliger 4d6 dégâts nécrotiques supplémentaires, et vous gagnez autant de points de vie temporaires que de dégâts infligés, jusqu'au début de votre prochain tour.
 
- - Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.
+ - Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos long.

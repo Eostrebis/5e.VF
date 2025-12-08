@@ -52,4 +52,4 @@ Au niveau 20, vous apprenez à canaliser les esprits des capitaines des légende
  - Vous pouvez Courir ou vous Désengager pour une action bonus.
  - Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Dextérité contre les effets que vous pouvez voir.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -27,7 +27,7 @@ status: finished
 >***Hache à Deux Mains.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 8 (1d12 + 2) dégâts tranchants.
 >
 >***Hachette.*** *Attaque Armée de Mêlée ou à Distance :* +4 pour toucher, portée 5 ft. ou 20/60 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts tranchants.
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le berserker obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

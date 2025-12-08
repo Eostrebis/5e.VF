@@ -17,7 +17,7 @@ Au niveau 7, vous êtes aussi doués pour vous sortir du pétrin que pour vous y
 
 ## Dévieur Habile
 
-À partir du niveau 10, lorsqu'une créature que vous pouvez voir réalise une attaque armée à distance contre vous, vous pouvez essayer de dévier le projectile en lui tirant dessus dans les airs. En tant que réaction, réalisez une attaque à distance avec une arme à feu. Si le résultat de votre jet est supérieur au résultat de l'attaquant, l'attaque vous ciblant a le désavantage. Vous pouvez choisir d'utiliser cette compétence après que la créature a réalisé son jet, mais avant que le MJ ne détermine si l'attaque touche.
+À partir du niveau 10, lorsqu'une créature que vous pouvez voir réalise une attaque armée à distance contre vous, vous pouvez essayer de dévier le projectile en lui tirant dessus dans les airs. En tant que réaction, réalisez une attaque à distance avec une arme à feu. Si le résultat de votre jet est supérieur au résultat de l'attaquant, l'attaque vous ciblant a le désavantage. Vous pouvez choisir d'utiliser cette aptitude après que la créature a réalisé son jet, mais avant que le MJ ne détermine si l'attaque touche.
 
 ## Tir de Pinball
 

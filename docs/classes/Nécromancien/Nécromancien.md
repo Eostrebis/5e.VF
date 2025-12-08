@@ -34,33 +34,33 @@ Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Comme
 
 ### Table du Nécromancien
 
-| **Le Nécromancien** |                   |                      |             |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
-| ------------------- | ----------------- | -------------------- | ----------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Compétences | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| 1                   | +2                | --                   |             | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 2                   | +2                | 1/4                  |             | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 3                   | +2                | 1/2                  |             | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
-| 4                   | +2                | 1/2                  |             | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
-| 5                   | +3                | 1                    |             | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
-| 6                   | +3                | 1                    |             | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
-| 7                   | +3                | 1                    |             | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
-| 8                   | +3                | 1                    |             | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
-| 9                   | +4                | 2                    |             | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
-| 10                  | +4                | 2                    |             | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
-| 11                  | +4                | 2                    |             | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 12                  | +4                | 2                    |             | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 13                  | +5                | 3                    |             | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 14                  | +5                | 3                    |             | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 15                  | +5                | 3                    |             | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 16                  | +5                | 3                    |             | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 17                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20                  | +6                | 4                    |             | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| **Le Nécromancien** |                   |                      |           |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
+| ------------------- | ----------------- | -------------------- | --------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Aptitudes | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| 1                   | +2                | --                   |           | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
+| 2                   | +2                | 1/4                  |           | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
+| 3                   | +2                | 1/2                  |           | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
+| 4                   | +2                | 1/2                  |           | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
+| 5                   | +3                | 1                    |           | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
+| 6                   | +3                | 1                    |           | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
+| 7                   | +3                | 1                    |           | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
+| 8                   | +3                | 1                    |           | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
+| 9                   | +4                | 2                    |           | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
+| 10                  | +4                | 2                    |           | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
+| 11                  | +4                | 2                    |           | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
+| 12                  | +4                | 2                    |           | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
+| 13                  | +5                | 3                    |           | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
+| 14                  | +5                | 3                    |           | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
+| 15                  | +5                | 3                    |           | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
+| 16                  | +5                | 3                    |           | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
+| 17                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que Nécromancien, vous disposez des compétences de classes suivantes.
+En tant que Nécromancien, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -163,3 +163,63 @@ Vous pouvez animer et contrôler un thrall de FP 1/4. Vous gagnez la capacité d
 Tous les Morts-Vivants créés par le sort [[animation des morts]] (ainsi que par n'importe quelle autre magie, comme [[création de mort-vivant]]) sont considérés comme vos thralls et peuvent être dirigés tout comme. Si les nouveaux thralls conférés par un sort vous font dépasser votre FP total ou votre nombre de thralls, vous pouvez immédiatement rompre la connexion à n'importe quel nombre de thralls existants pour respecter à nouveau les limites. Vos thralls ne peuvent jamais commander ou créer d'autres Morts-Vivants.
 
 Comme toujours, vous ne pouvez pas réanimer un Mort-Vivant dont les points de vie ont été réduits à 0. Votre rituel d'Animation de Thralls, le sort [[animation des morts]] et toutes les magiques similaires n'affectent que les corps Humanoïdes, là où vos thralls sont des créatures Mortes-Vivantes.
+
+## Sac d'Os
+
+Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un _sac d'os_. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces à 5 ft.
+
+Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau _sac d'os_. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous ne créiez un nouveau sac et ne le déversiez. 
+
+## Ambition Tombale
+
+Lorsque vous atteignez le niveau 3, vous choisissez un stratégie de recherche des arts sombres afin d'entrevoir une route vers votre objectif ultime. Choisissez une ambition tombale. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 20.
+
+| Ambition Tombale         | Description                                                                                           |
+| ------------------------ | ----------------------------------------------------------------------------------------------------- |
+| [[Descendant du Sang]]   | Au pouvoir de sang vampirique, sans la myriade de faiblesses vampiriques                              |
+| [[Chevalier de la Mort]] | Protégé dans son armure, un terrible guerrier brandissant les énergies sombres et les armes martiales |
+| [[Seigneur Suprême]]     | Un manipulateur sinistre soutenu par de puissants alliés                                              |
+| [[Maître Pâle]]          | Porte importance à la forme la plus pure de nécromancie et brandit des sorts dévastateurs             |
+| [[Pharaon]]              | Un souvenir des anciens dieux-rois, autant un prêtre qu'un nécromancien                               |
+| [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs                        |
+| [[Réanimateur]]          | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants                  |
+| [[Faucheur]]             | Un ombre furtive de mort, qui annonce et apporte les disparitions                                     |
+## Arcane Noire
+
+Également au niveau 3, pour une action bonus, vous pouvez dépenser un emplacement de sort pour remplir votre réservoir de Toucher Charnel. Votre réservoir regagne 1d8 points dépensés plus 1d8 pour chaque niveau de l'emplacement de sort dépensé, jusqu'à un maximum du total possible du réservoir.
+
+## Augmentation de Caractéristiques
+
+Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière
+
+## Incantation Critique
+
+Au niveau 5, vos puissants pouvoir nécromants punissent vos ennemis au premier signe de faiblesse. Lorsqu'une créature obtient un 1 au dé pour son jet de sauvegarde contre l'un de vos sorts, elle échoue automatiquement le sort et vous pouvez tirer l'ensemble des dés de dégâts du sort une seconde fois et ajouter les résultats aux dégâts initiaux du sort contre cette créature. Les dégâts supplémentaires ne s'appliquent qu'à la créature ayant obtenu un 1.
+
+De plus, vos jets d'attaque de sort infligent des coup critique sur un 19 ou un 20.
+
+À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et prend des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
+
+## Présence Captivante
+
+Au niveau 7, l'énergie négative qui coule en vous renforce vos thralls contre ceux qui chercheraient à les détruire ou à les contrôler. Vos thralls et autres Morts-Vivants que vous contrôlez sont immunisés aux effets qui renvoi les Morts-Vivants et ne peuvent être forcés à obéir par une autre créature tant que vous êtes conscient.
+
+## Servitude Immortelle
+
+Lorsque vous atteignez le niveau 18, votre connexion à vos thralls peut les rappeler d'une destruction imminente. Lorsqu'un thrall sous votre contrôle est réduit à 0 point mais détruit sur le coup, vous pouvez utiliser votre réaction pour lui rendre la moitié de ses points de vie maximum. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
+
+## Liche
+
+Au niveau 20, vous avez réussi l'exploit de toutes les prouesses nécromantiques, grâce à laquelle vous allez pouvoir conquérir la mort elle-même : le Rite de Lichage. Lorsque vous atteignez ce niveau, vous avez déjà complété votre phylactère et être prêt à accomplir le rite. Pour ce faire, vous vous coupez du monde extérieur pendant 30 jours dans endroit isolé de votre choix, et vous en émergez comme une liche immortel, un mort-vivant au pouvoir inégalé. Une fois le rite complété, vous obtenez les effets suivants en plus de ceux indiqués par votre Ambition tombale.
+
+### Phylactère
+
+Un phylactère est un objet qui héberge l'âme d'une liche, protégeant son immortalité. Si vous tombez à 0 point de vie, votre corps se réduit en poussière mais votre âme s'échappe vers le phylactère. Après 1d4 + 1 jours, un nouveau corps apparaît au plus près possible du phylactère et vous revenez à la vie (enfin, à la non-vie). Lorsque votre corps se reforme, vous bénéficiez des effets d'un repos long. Le nouveau corps est identique en tout point à celui qui a été détruit.
+
+### Résilience Morte-Vivante
+
+Vous avez l'immunité contre les dégâts nécrotiques et de poison ainsi qu'à la condition [[empoisonné]].
+
+### Traits Morts-Vivants
+
+Vous êtes immunisé contre les effets de l'[[épuisement]] et vous n'avez pas besoin de manger, boire, dormir ou respirer. Vous devez tout de même vous reposer pendant 4 heures pour bénéficier d'un repos long. Même si votre type reste Humanoïde, les sorts et effets qui affectent spécifiquement les Morts-Vivants vous affectent également. Vous êtes immunisé contre tous les effets qui renvoient les Morts-Vivants.

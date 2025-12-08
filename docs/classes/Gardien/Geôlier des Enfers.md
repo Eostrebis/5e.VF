@@ -26,4 +26,4 @@ Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets 
 
 Au niveau 20, pour une action, vous pouvez vous transformer en la forme fiélonne d'un véritable diable. Pendant la prochaine minute, vos attaques armées de mêlée infligent 2d8 dégâts supplémentaires lorsqu'elles touchent. De plus, les dégâts de feu que vous infligez ignorent les résistances et immunités. Une fois pendant cette durée, si vous ratez un jet de sauvegarde, vous pouvez choisir de le réussir à la place.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

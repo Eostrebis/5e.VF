@@ -25,7 +25,7 @@ La plupart des Bêtes et Plantes n'ont pas l'intelligence pour énoncer ou compr
 
 ## Familier Jumeau
 
-Au niveau 6, lorsque vous invoquez votre familier, vous pouvez diviser son esprit en deux corps. Lorsqu'il est invoqué de cette manière, votre familier est deux créatures identiques, qui partagent un seul montant de points de vie. Vos familiers jumeaux agissent l'un après l'autre dans l'initiative. Vous pouvez utiliser votre action bonus pour ordonner à l'un d'attaquer et votre action pour ordonner à l'autre. Un sort ou une compétence qui cible l'un de vos familiers affecte les deux.
+Au niveau 6, lorsque vous invoquez votre familier, vous pouvez diviser son esprit en deux corps. Lorsqu'il est invoqué de cette manière, votre familier est deux créatures identiques, qui partagent un seul montant de points de vie. Vos familiers jumeaux agissent l'un après l'autre dans l'initiative. Vous pouvez utiliser votre action bonus pour ordonner à l'un d'attaquer et votre action pour ordonner à l'autre. Un sort ou une aptitude qui cible l'un de vos familiers affecte les deux.
 
 ## Alimentation Vitale
 
@@ -37,4 +37,4 @@ De plus, choisissez jusqu'à 6 créatures que vous pouvez voir à la fin de vos 
 
 Au niveau 14, à chaque fois que vous êtes ciblé par une attaque tandis que votre familier est à 5 ft., vous pouvez utiliser votre réaction pour ordonner à votre familier de plonger devant l'attaque et qu'il en devienne la cible. 
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez toutes les utilisation dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez toutes les utilisation dépensées lorsque vous terminez un repos long.

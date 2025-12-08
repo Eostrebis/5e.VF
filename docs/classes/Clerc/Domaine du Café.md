@@ -15,7 +15,7 @@ Les herbalistes ont depuis longtemps concoctés thés et autres remèdes pour ap
 
 ## Incantation Subite
 
-Grâce à la magie du café qui parcourt vos nerfs, vous vous sentez capable d'exécuter certaines actions plus rapidement qu'à l'accoutumée. À partir du moment où vous choisissez ce domaine au niveau 1, lorsque vous lancez un sort qui a un temps d'incantation d'une action, vous pouvez changer ce temps d'incantation à une action bonus pour cette incantation. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
+Grâce à la magie du café qui parcourt vos nerfs, vous vous sentez capable d'exécuter certaines actions plus rapidement qu'à l'accoutumée. À partir du moment où vous choisissez ce domaine au niveau 1, lorsque vous lancez un sort qui a un temps d'incantation d'une action, vous pouvez changer ce temps d'incantation à une action bonus pour cette incantation. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
 
 ## Insomniaque
 

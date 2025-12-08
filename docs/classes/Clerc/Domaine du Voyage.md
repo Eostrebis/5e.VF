@@ -21,7 +21,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quat
 
 À partir du niveau 1, votre dieu accélère vos foulées et vous souffle dans le dos. Vous pouvez utiliser votre action bonus pour vous déplacer de 10 ft. sans provoquer d'attaque d'opportunité.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse. Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse. Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Canal Divin : Transposition Divine
 

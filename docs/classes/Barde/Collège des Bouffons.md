@@ -17,4 +17,4 @@ Au niveau 6, vous êtes reconnu comme un jongleur hors pair. Vous pouvez utilise
 
 ## Bouquet Final
 
-À partir du niveau 14, vous pouvez réaliser une acrobatie extraordinaire pour conclure un discours captivant ou terminer une chanson avec brio. Lorsque vous utilisez cette compétence, vous pouvez prendre une action supplémentaire. Vous ne pouvez pas utiliser cette compétence pendant le premier tour d'un combat. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas prendre d'action ou d'action bonus pendant votre prochain tour
+À partir du niveau 14, vous pouvez réaliser une acrobatie extraordinaire pour conclure un discours captivant ou terminer une chanson avec brio. Lorsque vous utilisez cette aptitude, vous pouvez prendre une action supplémentaire. Vous ne pouvez pas utiliser cette aptitude pendant le premier tour d'un combat. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas prendre d'action ou d'action bonus pendant votre prochain tour

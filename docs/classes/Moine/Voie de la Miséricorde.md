@@ -9,7 +9,7 @@ Les pratiquants de cette voie portent généralement des robes avec des capuchon
 
 ## Instruments de Miséricorde
 
-Au niveau 3, vous maîtrisez les compétences Perspicacité et Médecine ainsi que le [[kit d'herboriste]]. Vous obtenez également un masque spécial, que vous portez généralement lorsque vous utilisez les compétences de cette sous-classe. Vous déterminez son apparence ou tirez aléatoirement dans la table ci-dessous.
+Au niveau 3, vous maîtrisez les compétences Perspicacité et Médecine ainsi que le [[kit d'herboriste]]. Vous obtenez également un masque spécial, que vous portez généralement lorsque vous utilisez les aptitudes de cette sous-classe. Vous déterminez son apparence ou tirez aléatoirement dans la table ci-dessous.
 
 | d6  | Apparence du Masque |
 | --- | ------------------- |
@@ -26,15 +26,15 @@ Au niveau 3, vous maîtrisez les compétences Perspicacité et Médecine ainsi q
 
 ## Main de Douleur
 
-Toujours au niveau 3, vous pouvez utiliser votre ki pour infliger des blessures. Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour lui infliger un nombre de dégâts nécrotiques supplémentaires égal à un lancer de votre dé d'Arts Martiaux + votre modificateur de Sagesse. Vous ne pouvez utiliser cette compétence qu'une fois par tour.
+Toujours au niveau 3, vous pouvez utiliser votre ki pour infliger des blessures. Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour lui infliger un nombre de dégâts nécrotiques supplémentaires égal à un lancer de votre dé d'Arts Martiaux + votre modificateur de Sagesse. Vous ne pouvez utiliser cette aptitude qu'une fois par tour.
 
 ## Toucher du Médecin
 
 Au niveau 6, vous pouvez administrer d'encore plus grands remèdes par un simple toucher, et si vous le pensez nécessaire, vous pouvez utiliser cette connaissance pour provoquer de la souffrance.
 
-Lorsque vous utilisez votre compétence Main de Soin sur une créature, vous pouvez également terminer une maladie ou l'une des conditions suivantes qui l'affecterait : [[aveuglé]], [[assourdi]], [[paralysé]], [[empoisonné]] ou [[assourdi]].
+Lorsque vous utilisez votre aptitude [[#Main de Soin]] sur une créature, vous pouvez également terminer une maladie ou l'une des conditions suivantes qui l'affecterait : [[aveuglé]], [[assourdi]], [[paralysé]], [[empoisonné]] ou [[assourdi]].
 
-Lorsque vous utilisez votre compétence Main de Douleur sur une créature, vous pouvez rendre la créature [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
+Lorsque vous utilisez votre aptitude [[#Main de Douleur]] sur une créature, vous pouvez rendre la créature [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
 
 ## Ruée de Soin et de Douleur
 
@@ -46,4 +46,4 @@ De plus, lorsque vous réalisez une attaque à mains nues avec Ruée de Coups, v
 
 Au niveau 17, votre maîtrise de l'énergie vitale vous ouvre les portes de l'ultime miséricorde. Pour une action, vous pouvez toucher le corps d'une créature décédée dans les 24 dernières heures et dépenser 5 points de ki. La créature revient à la vie, regagnant un nombre de points de vie égal à 4d10 + votre modificateur de Sagesse. Si cette créature est morte en étant affectée par l'une des conditions traitées par le Toucher du Médecin, elle revient sans la condition.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.

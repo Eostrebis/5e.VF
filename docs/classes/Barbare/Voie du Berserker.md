@@ -15,7 +15,7 @@ Pour certains barbares, la rage n'est qu'un moyen pour atteindre leur objectif �
 
 À partir du niveau 10, vous pouvez utiliser votre action pour effrayer quelqu'un de par votre figure menaçante. Lorsque vous le faites, choisissez une créature que vous pouvez voir à 30 ft. Si la créature peut vous voir ou vous entendre, elle doit réussir un jet de sauvegarde de Sagesse (DD de 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être [[apeuré|apeurée]] par vous jusqu'à la fin de votre prochain tour. Pendant les tours suivants, vous pouvez utiliser votre action pour étendre la durée de l'effet sur la créature apeurée jusqu'à la fin de votre prochain tour. Cet effet se termine si la créature termine son tour hors de votre vue ou à plus de 60 ft. de vous.
 
-Si la créature réussit son jet de sauvegarde, vous ne pouvez pas utiliser cette compétence contre cette créature pendant 24 heures.
+Si la créature réussit son jet de sauvegarde, vous ne pouvez pas utiliser cette aptitude contre cette créature pendant 24 heures.
 
 ## Rétribution
 

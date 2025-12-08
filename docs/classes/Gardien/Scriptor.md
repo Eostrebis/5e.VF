@@ -56,7 +56,7 @@ Au niveau 3, toute créature qui est marquée par vous soustrait 1d4 des jets de
 
 À partir du niveau 6, lorsque vous placez votre [[Gardien#Marque du Gardien|Marque du Gardien]] sur une créature, vous pouvez téléporter cette créature vers un espace inoccupé à 5 ft. de vous.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
 ## Résistance aux Sorts
 
@@ -70,4 +70,4 @@ Au niveau 20, pour une action, vous pouvez canaliser le pouvoir des connaissance
  - Lorsque vous lancez un cantrip qui a un temps d'incantation de 1 action, vous pouvez le lancer pour une action bonus à la place.
  - Une créature marquée par vous a le désavantage aux jets de sauvegarde contre les sorts que vous lancez.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -13,11 +13,11 @@ Au niveau 2, vous avez appris comment réanimer des membres morts, et les rattac
 
 ## Attaque Chirurgicale
 
-À partir du niveau 6, à chaque que vous prenez l'action d'Attaquer, ou amorcez et lancez une bombe pendant votre tour, vous pouvez réaliser une attaque non armée pendant cette action. Vous ne pouvez utiliser cette compétence que si vos attaques non armées sont améliorées par une greffe.
+À partir du niveau 6, à chaque que vous prenez l'action d'Attaquer, ou amorcez et lancez une bombe pendant votre tour, vous pouvez réaliser une attaque non armée pendant cette action. Vous ne pouvez utiliser cette aptitude que si vos attaques non armées sont améliorées par une greffe.
 
 ## Organes Nécromantiques
 
-Au niveau 10, vous avez appris comment bidouiller votre propre biologie avec de la nécromancie à l'aide d'organes réanimés qui persisteront après votre mort. Si vous êtes réduits à 0 point de vie mais pas tué directement, vous êtes à 1 point de vie plutôt. Une fois que vous avez utilisé cette compétence, vous devez attendre un repos long pour pouvoir le refaire.
+Au niveau 10, vous avez appris comment bidouiller votre propre biologie avec de la nécromancie à l'aide d'organes réanimés qui persisteront après votre mort. Si vous êtes réduits à 0 point de vie mais pas tué directement, vous êtes à 1 point de vie plutôt. Une fois que vous avez utilisé cette aptitude, vous devez attendre un repos long pour pouvoir le refaire.
 
 ## Le Monstre est Vivant !
 

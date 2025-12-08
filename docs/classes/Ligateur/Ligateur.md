@@ -11,21 +11,21 @@ Vous pouvez créer un ligateur rapidement en suivant ces suggestions. Commencez 
 
 | **Le Ligateur** |                   |                                                    |                   |               |
 | --------------- | ----------------- | -------------------------------------------------- | ----------------- | ------------- |
-| Niveau          | Bonus de Maîtrise | Compétences                                        | Niveau de Vestige | Vestiges Liés |
+| Niveau          | Bonus de Maîtrise | Aptitudes                                          | Niveau de Vestige | Vestiges Liés |
 | 1               | +2                | [[#Ligature d'Âme]]                                | 1                 | 1             |
 | 2               | +2                | [[#Esprits Mineurs]], [[#Recyclage]]               | 1                 | 1             |
 | 3               | +2                | [[#Secte Ésotérique]], [[#Suppression des Signes]] | 2                 | 1             |
 | 4               | +2                | [[#Augmentation de Caractéristiques]]              | 2                 | 1             |
 | 5               | +3                | [[#Esprits Mineurs]] (3)                           | 3                 | 2             |
 | 6               | +3                | [[#Augmentation de Caractéristiques]]              | 3                 | 2             |
-| 7               | +3                | Compétence de [[#Secte Ésotérique]]                | 4                 | 2             |
+| 7               | +3                | Aptitude de [[#Secte Ésotérique]]                  | 4                 | 2             |
 | 8               | +3                | [[#Augmentation de Caractéristiques]]              | 4                 | 2             |
 | 9               | +4                | [[#Esprit Inflexible]]                             | 5                 | 2             |
-| 10              | +4                | Compétence de [[#Secte Ésotérique]]                | 5                 | 2             |
+| 10              | +4                | Aptitude de [[#Secte Ésotérique]]                  | 5                 | 2             |
 | 11              | +4                | --                                                 | 6                 | 3             |
 | 12              | +4                | [[#Augmentation de Caractéristiques]]              | 6                 | 3             |
 | 13              | +5                | [[Esprits Mineurs]] (4)                            | 7                 | 3             |
-| 14              | +5                | Compétence de [[#Secte Ésotérique]]                | 7                 | 3             |
+| 14              | +5                | Aptitude de [[#Secte Ésotérique]]                  | 7                 | 3             |
 | 15              | +5                | Amélioration de [[#Recyclage]]                     | 8                 | 3             |
 | 16              | +5                | [[#Augmentation de Caractéristiques]]              | 8                 | 3             |
 | 17              | +6                | --                                                 | 9                 | 4             |
@@ -33,9 +33,9 @@ Vous pouvez créer un ligateur rapidement en suivant ces suggestions. Commencez 
 | 19              | +6                | [[#Augmentation de Caractéristiques]]              | 9                 | 4             |
 | 20              | +6                | [[#Âme du Vide]]                                   | 9                 | 4             |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que ligateur, vous disposez des compétences de classes suivantes.
+En tant que ligateur, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -80,7 +80,7 @@ Les vestiges vous restent liés jusqu'à ce que vous terminiez un repos long. Un
 
 ### Caractéristique d'Incantation
 
-Le Charisme est votre caractéristique d'incantation pour tous les sorts et pouvoirs qui vous sont conférés par vos vestiges, puisque vous les contrôlez avec votre propre âme. Utilisez votre score de Charisme à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, utilisez votre modificateur de Charisme pour définir le degré de difficulté de vos sorts ou compétences conférés par vos vestiges.
+Le Charisme est votre caractéristique d'incantation pour tous les sorts et pouvoirs qui vous sont conférés par vos vestiges, puisque vous les contrôlez avec votre propre âme. Utilisez votre score de Charisme à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, utilisez votre modificateur de Charisme pour définir le degré de difficulté de vos sorts ou aptitudes conférés par vos vestiges.
 
 <p style="text-align:center"><b>DD de Sauvegarde de Vestige</b> = 8 + bonus de maîtrise + modificateur de Charisme</p>
 <p style="text-align:center"><b>Modificateur aux attaques avec un sort</b> = bonus de maîtrise + modificateur de Charisme</p>
@@ -95,11 +95,11 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 
 À partir du niveau 2, vous pouvez utiliser votre action pour réaliser une version modifiée du rituel d'attachement, vous permettant d'exclure un vestige lié et de vous lier à un autre vestige d'un niveau inférieur ou égal. Tout effet créé par le vestige exclut s'arrête immédiatement. Une fois que vous avez utilisé cette capacité, vous devez terminer un repos long avant de pouvoir le refaire.
 
-À partir du niveau 15, vous pouvez recycler deux vestiges plutôt qu'un lorsque vous utilisez cette compétence.
+À partir du niveau 15, vous pouvez recycler deux vestiges plutôt qu'un lorsque vous utilisez cette aptitude.
 
 ## Secte Ésotérique
 
-À partir du niveau 3, vous vous alignez avec une secte ésotérique, une organisation secrète de ligateurs liés par des objectifs similaires et un savoir mystique partagé. Choisissez l'une des sectes suivantes. Votre choix de secte vous confère une compétence aux niveaux 3, 7, 10 et 14.
+À partir du niveau 3, vous vous alignez avec une secte ésotérique, une organisation secrète de ligateurs liés par des objectifs similaires et un savoir mystique partagé. Choisissez l'une des sectes suivantes. Votre choix de secte vous confère une aptitude aux niveaux 3, 7, 10 et 14.
 
 | Secte Ésotérique                   | Description                                                                                                                                               |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -113,7 +113,7 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 
 ## Suppression des Signes
 
-Également au niveau 3, vous pouvez utiliser votre action pour dissimuler toutes les compétences *Trait* qui vous sont conférées par vos vestiges. Tous les signes physiques créés par ces traits disparaissent, mais vous ne pouvez plus utiliser ces compétences *Trait* jusqu'à ce que vous utilisiez votre action pour révéler les traits de vos vestiges.
+Également au niveau 3, vous pouvez utiliser votre action pour dissimuler toutes les aptitudes *Trait* qui vous sont conférées par vos vestiges. Tous les signes physiques créés par ces traits disparaissent, mais vous ne pouvez plus utiliser ces aptitudes *Trait* jusqu'à ce que vous utilisiez votre action pour révéler les traits de vos vestiges.
 
 ## Augmentation de Caractéristiques
 
@@ -129,4 +129,4 @@ De plus, si vous réussissez votre jet contre l'un de ces effets causé par une 
 
 Au niveau 20, votre âme est si fissurée par les vestiges qui y habitent que vous pouvez vous abandonner au Vide pour un temps. Pour une action bonus, vous pouvez vous lier à un vestige supplémentaire d'un niveau inférieur à 3 pendant 1 minute. Ce vestige ne compte pas dans le nombre de vestiges auxquels vous pouvez vous lier.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.

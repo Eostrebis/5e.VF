@@ -38,7 +38,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 ## Aura du Gardien
 
-À partir du niveau 7, vous pouvez protéger les autres de la souffrance au prix de votre propre santé. Lorsqu'une créature à 10 ft. de vous prend des dégâts, vous pouvez utiliser votre réaction pour prendre magiquement ces dégâts à la place de la créature ciblée. Cette compétence ne transfère pas les effets qui pourraient accompagner les dégâts et les dégâts ainsi reçus ne peuvent être réduits d'aucune façon.
+À partir du niveau 7, vous pouvez protéger les autres de la souffrance au prix de votre propre santé. Lorsqu'une créature à 10 ft. de vous prend des dégâts, vous pouvez utiliser votre réaction pour prendre magiquement ces dégâts à la place de la créature ciblée. Cette aptitude ne transfère pas les effets qui pourraient accompagner les dégâts et les dégâts ainsi reçus ne peuvent être réduits d'aucune façon.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
@@ -52,4 +52,4 @@ Au niveau 20, vous devenez un avatar de paix, ce qui vous confère deux effets :
  - Vous devenez résistant à tous les dégâts infligés par d'autres créatures.
  - Lorsqu'une créature vous touche avec une attaque, elle prend un nombre de dégâts radiants égal à la moitié des dégâts qu'elle vous inflige par cette attaque.
 
-Si vous attaquez une créature, lui lancez un sort ou lui infligez des dégâts de quelque façon que ce soit autre que cette compétence, aucun de ces effets ne fonctionne contre cette créature jusqu'à ce que vous terminiez un repos long
+Si vous attaquez une créature, lui lancez un sort ou lui infligez des dégâts de quelque façon que ce soit autre que cette aptitude, aucun de ces effets ne fonctionne contre cette créature jusqu'à ce que vous terminiez un repos long

@@ -23,4 +23,4 @@ Enfin, vous pouvez forcer une attaque contre votre monture de vous cibler vous �
 
 À partir du niveau 17, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature. Si vous touchez, vous pouvez ajouter la moitié de votre niveau au jet de dégâts.
 
-Vous pouvez utiliser cette compétence trois fois, et vous regagnez les utilisations dépensées lorsque vous terminez un repos.
+Vous pouvez utiliser cette aptitude trois fois, et vous regagnez les utilisations dépensées lorsque vous terminez un repos.

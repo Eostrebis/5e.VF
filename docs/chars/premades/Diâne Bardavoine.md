@@ -72,9 +72,9 @@ Son visage est l'image même de l'innocence. Une cascade de cheveux roux et sauv
 En somme, Diâne ressemble moins à une aventurière qu'à un esprit de la nature qui se serait égaré en ville. Elle est une créature d'une puissance physique évidente, mais toute en elle – de son regard confiant à sa posture ouverte – invite à la confiance et respire une naïveté chaleureuse et absolument charmante.
 
 ![[Diâne.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Carrure Équine.** Vous êtes considéré comme étant d'une taille supérieure à votre taille réelle lorsque vous déterminez le poids que vous pouvez porter/tirer/déplacer.
 
@@ -84,7 +84,7 @@ De plus, escalader en utilisant vos mains et pieds est particulièrement diffici
 
 **Sabots.** Vous avez des sabots que vous pouvez utiliser pour réaliser des attaques non-armées. Lorsque vous touchez avec, l'attaque inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts habituels d'une attaque non-armée.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Incantation
 
@@ -110,7 +110,7 @@ Vous pouvez inspirer les autres à travers des mots bien choisis. Pour ce faire,
 
 Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle réalise. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 ### Équipement
 
  - Une [[rapière]]
@@ -140,7 +140,7 @@ Diâne écouta leurs craintes avec une patience affectueuse, puis leur répondit
 
 Elle quitta la Prairie Chantante au petit matin, sans carte, sans argent, et sans la moindre once de peur ou de doute. Son cœur battait au rythme d'une nouvelle mélodie, celle de l'aventure. Elle trottait joyeusement, s'émerveillant de la forme amusante d'un rocher ou tentant de chanter en duo avec un écureuil grincheux, totalement et merveilleusement inconsciente qu'elle galopait tout droit vers un monde qui n'était absolument pas préparé à sa candeur… et inversement.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Chanteuse née, adorée de la nature et des vivants, Diâne peut apaiser par le simple son de sa voix. Lorsqu'un allié tombe à 0 points de vie à 30 ft. d'elle, Diâne peut utiliser sa réaction pour lui chantonner une comptine apaisante afin qu'il ne tombe qu'à 1 point de vie à la place. Une fois qu'elle a utilisé cette réaction, Diâne ne peut le refaire avant d'avoir terminé un repos long.
 

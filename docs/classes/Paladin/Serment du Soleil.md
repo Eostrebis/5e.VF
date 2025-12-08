@@ -50,4 +50,4 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 Au niveau 20, pour une action pendant votre tour, vous pouvez vous emplir de la fureur brillante du soleil. Vous pouvez lancer le sort [[rayon de soleil]] sans utiliser d'emplacement. De plus, au début de chacun de vos tours pendant la durée du sort, vous regagnez un nombre de points de vie égal à votre modificateur de Charisme si vous avez moins de la moitié de vos points de vie.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

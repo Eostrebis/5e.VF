@@ -15,7 +15,7 @@ Lorsque vous choisissez cette secte au niveau 3, vous obtenez la maîtrise de la
 
 ## Bénédiction du Panthéon Vestigial
 
-Au niveau 7, vous recevez la bénédiction des dieux oubliés à travers vos vestiges. Comme réaction lorsque vous réalisez un jet de sauvegarde, vous pouvez ajouter la moitié de votre niveau de ligateur (arrondi à l'inférieur) à votre jet. Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant de terminer un repos long.
+Au niveau 7, vous recevez la bénédiction des dieux oubliés à travers vos vestiges. Comme réaction lorsque vous réalisez un jet de sauvegarde, vous pouvez ajouter la moitié de votre niveau de ligateur (arrondi à l'inférieur) à votre jet. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant de terminer un repos long.
 
 ## Rituel de Renvoi
 
@@ -23,4 +23,4 @@ Au niveau 7, vous recevez la bénédiction des dieux oubliés à travers vos ves
 
 ## Sacrifice au Vide
 
-Au niveau 14, vous pouvez lancer vos vestiges liés dans le Vide pour causer des miracles. À votre tour, vous pouvez expulser un vestige auquel vous êtes lié pour lancer un sort de la liste de sorts du clerc sans dépenser d'emplacement de sort. Ce sort doit être d'un niveau inférieur ou égal à celui du vestige expulsé. Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Au niveau 14, vous pouvez lancer vos vestiges liés dans le Vide pour causer des miracles. À votre tour, vous pouvez expulser un vestige auquel vous êtes lié pour lancer un sort de la liste de sorts du clerc sans dépenser d'emplacement de sort. Ce sort doit être d'un niveau inférieur ou égal à celui du vestige expulsé. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

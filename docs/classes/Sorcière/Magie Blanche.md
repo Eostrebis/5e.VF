@@ -28,7 +28,7 @@ Lorsqu'une créature qui porte le talisman réalise un jet de sauvegarde, elle p
 
 Au niveau 10, lorsque vous, votre familier ou un allié que vous pouvez voir à 30 ft. prend des dégâts, vous pouvez utiliser votre réaction afin que cette créature regagne un nombre de points de vie égal à 1d10 + votre modificateur de Charisme.
 
-Une fois que vous avez utilisé cette compétence, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
 
 ## Cadeau de la Sorcière
 

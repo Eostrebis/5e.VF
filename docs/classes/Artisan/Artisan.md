@@ -31,31 +31,31 @@ Vous pouvez créer un artisan rapidement en suivant ces suggestions. Commencez p
 
 | **L'Artisan** |                   |                                                                        |                      |
 | ------------- | ----------------- | ---------------------------------------------------------------------- | -------------------- |
-| Niveau        | Bonus de Maîtrise | Compétences                                                            | Artisanat Actif (PO) |
+| Niveau        | Bonus de Maîtrise | Aptitudes                                                              | Artisanat Actif (PO) |
 | 1             | +2                | [[#Maîtrises Exotiques]], [[#Artisanat Actif]]                         | 25                   |
 | 2             | +2                | [[#Chefs-d'œuvre]] (propriétés Apprenti), [[#Ceinture à Outils]]       | 25                   |
 | 3             | +2                | [[#Guilde d'Artisan]]                                                  | 50                   |
 | 4             | +2                | [[#Augmentation de Caractéristiques]]                                  | 75                   |
 | 5             | +3                | [[#Attaque Supplémentaire]], [[#Chefs-d'œuvre]] (propriétés Compagnon) | 100                  |
 | 6             | +3                | [[#Acier de Damas]]                                                    | 125                  |
-| 7             | +3                | Compétence de [[#Guilde d'Artisan]]                                    | 150                  |
+| 7             | +3                | Aptitude de [[#Guilde d'Artisan]]                                      | 150                  |
 | 8             | +3                | [[#Augmentation de Caractéristiques]]                                  | 175                  |
 | 9             | +4                | [[#Œil pour la Qualité]]                                               | 200                  |
-| 10            | +4                | Compétence de [[#Guilde d'Artisan]]                                    | 225                  |
+| 10            | +4                | Aptitude de [[#Guilde d'Artisan]]                                      | 225                  |
 | 11            | +4                | [[#Chefs-d'œuvre]] (propriétés Maître)                                 | 250                  |
 | 12            | +4                | [[#Augmentation de Caractéristiques]]                                  | 275                  |
 | 13            | +5                | [[#Construction Sans-Faille]]                                          | 300                  |
-| 14            | +5                | Compétence de [[#Guilde d'Artisan]]                                    | 325                  |
+| 14            | +5                | Aptitude de [[#Guilde d'Artisan]]                                      | 325                  |
 | 15            | +5                | [[#Drôle de Ceinture à Outils]]                                        | 350                  |
 | 16            | +5                | [[#Augmentation de Caractéristiques]]                                  | 375                  |
 | 17            | +6                | [[#Chefs-d'œuvre]] (propriétés Légendaire)                             | 400                  |
-| 18            | +6                | Compétence de [[#Guilde d'Artisan]]                                    | 425                  |
+| 18            | +6                | Aptitude de [[#Guilde d'Artisan]]                                      | 425                  |
 | 19            | +6                | [[#Augmentation de Caractéristiques]]                                  | 450                  |
 | 20            | +6                | [[#Magnum Opus]]                                                       | 500                  |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant qu'artisan, vous disposez des compétences de classes suivantes.
+En tant qu'artisan, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -119,7 +119,7 @@ Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'œuvre, seul
 
 ### Modifier l'Équipement
 
-En utilisant votre compétence d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de :
+En utilisant votre aptitude d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de :
 
 __Améliorer l'Équipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
 
@@ -146,13 +146,13 @@ L'Intelligence est votre caractéristique primaire lorsqu'il s'agit de fabriquer
 
 ## Ceinture à Outils
 
-Au niveau 2, vous avez toujours le bon outil sous la main. Vous pouvez utiliser votre action pour récupérer un objet non magique de votre ceinture, sac ou n'importe où vous gardez vos outils, même si vous ne l'aviez pas dans votre inventaire avant. Le coût de l'objet ne peut excéder 50 PO. Vous ne pouvez pas utiliser cette compétence pour produire une arme, une armure, un bouclier ou une potion. Un objet obtenu d'une telle façon se perd dans votre inventaire et disparaît lorsque vous terminez un repos long.
+Au niveau 2, vous avez toujours le bon outil sous la main. Vous pouvez utiliser votre action pour récupérer un objet non magique de votre ceinture, sac ou n'importe où vous gardez vos outils, même si vous ne l'aviez pas dans votre inventaire avant. Le coût de l'objet ne peut excéder 50 PO. Vous ne pouvez pas utiliser cette aptitude pour produire une arme, une armure, un bouclier ou une potion. Un objet obtenu d'une telle façon se perd dans votre inventaire et disparaît lorsque vous terminez un repos long.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur d'Intelligence (minimum d'une fois) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur d'Intelligence (minimum d'une fois) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Guilde d'Artisan
 
-Au niveau 3, vous rejoignez une guilde d'artisan. Sélectionnez une guilde parmi celles listées ci-dessous ; vous obtenez la compétence de niveau 3 de cette guilde. Vous obtenez des compétences de Guilde supplémentaires aux niveaux 7, 10, 114 et 18.
+Au niveau 3, vous rejoignez une guilde d'artisan. Sélectionnez une guilde parmi celles listées ci-dessous ; vous obtenez l'aptitude de niveau 3 de cette guilde. Vous obtenez des aptitudes de Guilde supplémentaires aux niveaux 7, 10, 114 et 18.
 
 | Nom de Guilde                          | Description                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
@@ -189,7 +189,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 Au niveau 15, vous avez le truc pour trouver même l'objet le mieux caché au fond de votre sac. Vous pouvez produire un seul objet magique de rareté commune ou peu commune de votre ceinture à outils. Cet objet se perd dans votre inventaire et disparaît lorsque vous terminez un repos long.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos long.
 
 ## Magnum Opus
 

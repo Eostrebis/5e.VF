@@ -13,11 +13,11 @@ Au niveau 3, vous avez l'avantage aux jets de caractéristique que vous réalise
 
 ## Mandat
 
-Au niveau 6, vous pouvez lancer le sort [[injonction]] une fois sans utiliser d'emplacement de sort. Ce sort cible chaque créature de votre choix à 30 ft. en utilisant le même ordre pour chaque cible. Le jet de sauvegarde pour ce sort est 8 + votre bonus de maîtrise + votre modificateur de Constitution. Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos.
+Au niveau 6, vous pouvez lancer le sort [[injonction]] une fois sans utiliser d'emplacement de sort. Ce sort cible chaque créature de votre choix à 30 ft. en utilisant le même ordre pour chaque cible. Le jet de sauvegarde pour ce sort est 8 + votre bonus de maîtrise + votre modificateur de Constitution. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
 ## Esprit Mécanique
 
-À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une compétence qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur prend 4d6 dégâts psychiques.
+À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur prend 4d6 dégâts psychiques.
 
 ## Axiome Universel
 
@@ -25,6 +25,6 @@ Au niveau 20, pour une action, vous pouvez vous transformer en l'incarnation de 
 
  - Vous ne pouvez être [[épuisement|épuisé]], [[apeuré]], [[saisi]], [[incapacité]], [[paralysé]], [[pétrifié]], [[empoisonné]], [[au sol]], [[retenu]] ou [[sonné]].
  - Vous avez l'avantage à tous les jets de sauvegarde.
- - Vous pouvez utiliser votre compétence [[#Mandat]] à volonté.
+ - Vous pouvez utiliser votre aptitude [[#Mandat]] à volonté.
 
- Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos.
+ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.

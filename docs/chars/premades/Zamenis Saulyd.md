@@ -72,9 +72,9 @@ Elle ne porte pas les robes de soie et les pièces d'armure en mitral ciselé de
 Mais son bien le plus important, toujours à portée de main dans une sacoche de cuir à son flanc, est son lourd grimoire. Sa couverture est usée par des milliers de consultations, ses pages remplies de son écriture précise et anguleuse. C'est cet objet, plus que son épée, qui est le véritable symbole de sa puissance. Zamenis est une force de la nature, un esprit brillant dans le corps d'une briseuse de boucliers.
 
 ![[Zamenis.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
@@ -84,7 +84,7 @@ Mais son bien le plus important, toujours à portée de main dans une sacoche de
 
 **Magie Drow.** Vous connaissez le cantrip [[Lumières Dansantes]].
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Ritualiste
 
@@ -127,7 +127,7 @@ Pour cet exploit, et pour la faire taire, elle fut "récompensée". On loua publ
 
 Pour Zamenis, cependant, ce fut une confirmation. Ses méthodes, son savoir et sa force étaient efficaces. Le monde de la surface, avec ses propres monstres et ses mystères, n'est qu'une nouvelle archive à étudier, un nouveau problème à résoudre. Elle part, non pas comme une victime, mais comme une investigatrice qui a prouvé sa valeur et qui est maintenant libre de pratiquer son art sans le jugement de ceux qu'elle a laissés derrière elle.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Zamenis est capable de canaliser sa puissance physique pour surmonter les obstacles de manière directe et efficace. Elle bénéficie des effets suivants :
 

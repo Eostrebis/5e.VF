@@ -9,7 +9,7 @@ Lorsque vous choisissez ce crédo au niveau 3, vous maîtrisez désormais tous l
 
 ## Tapis
 
-Également au niveau 3, pour une action bonus lorsque vous réalisez un jet d'attaque ou de caractéristique, ou pour une réaction lorsque vous réalisez un jet de sauvegarde, vous pouvez dépenser un dé de risque, et l'ajouter au résultat. Vous choisissez d'utiliser cette compétence après avoir tiré le d20 mais avant que le MJ ne détermine si le jet est un succès ou un échec. Si vous obtenez un 1 sur votre dé de risque, vous ratez le jet, peu importe le total.
+Également au niveau 3, pour une action bonus lorsque vous réalisez un jet d'attaque ou de caractéristique, ou pour une réaction lorsque vous réalisez un jet de sauvegarde, vous pouvez dépenser un dé de risque, et l'ajouter au résultat. Vous choisissez d'utiliser cette aptitude après avoir tiré le d20 mais avant que le MJ ne détermine si le jet est un succès ou un échec. Si vous obtenez un 1 sur votre dé de risque, vous ratez le jet, peu importe le total.
 
 ## Dés de Menteur
 

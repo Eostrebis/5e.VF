@@ -19,9 +19,9 @@ Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez l'une des compé
 
 ## Lien Encourageant
 
-Également au niveau 1, vous pouvez créer un fort lien entre des gens en paix entre eux. Pour une action, choisissez un nombre de créatures à 30 ft. (vous y compris) égal à votre bonus de maîtrise. Vous créez un lien magique entre elles pour 10 minutes ou jusqu'à ce que vous utilisiez cette compétence. Tant que n'importe quelle créature liée est à 30 ft. d'une autre, la créature peut lancer un d4 et ajouter le résultat à un jet d'attaque, de caractéristique ou de sauvegarde. Chaque créature ne peut ajouter qu'un d4 par tour.
+Également au niveau 1, vous pouvez créer un fort lien entre des gens en paix entre eux. Pour une action, choisissez un nombre de créatures à 30 ft. (vous y compris) égal à votre bonus de maîtrise. Vous créez un lien magique entre elles pour 10 minutes ou jusqu'à ce que vous utilisiez cette aptitude. Tant que n'importe quelle créature liée est à 30 ft. d'une autre, la créature peut lancer un d4 et ajouter le résultat à un jet d'attaque, de caractéristique ou de sauvegarde. Chaque créature ne peut ajouter qu'un d4 par tour.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Canal Divin : Baume de Paix
 

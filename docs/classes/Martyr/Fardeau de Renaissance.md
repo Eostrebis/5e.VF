@@ -23,7 +23,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Également au niveau 1, vous pouvez lancer le sort [[communication avec les animaux]] sans avoir à perdre des points de vie pour le lancer. Lorsque vous le faites, vous avez l'avantage aux jets de Charisme dirigé sur les Bêtes pour la durée du sort.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Sorts Sacrosaints
 
@@ -33,7 +33,7 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 À partir du niveau 14, pour une action bonus pendant votre tour, vous pouvez entrer dans un état de régénération naturelle. Lorsque vous le faites, et à nouveau au début de votre tour pendant 1 minute, vous regagnez un nombre de points de vie égal à votre modificateur de Sagesse. Aussi, pendant cette durée, vous avez la résistance aux dégâts contondants, perçants et tranchants, et vous ne pouvez pas lancer de sorts de martyr. Vous pouvez utiliser votre action bonus pour terminer cet effet prématurément.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Tourner la roue
 

@@ -23,7 +23,7 @@ status: empty
 ---
 Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pour la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
 
-Tant que vous êtes sur le Plan Éthéré, vous ne pouvez affecter et n'être affecté que par des créatures sur ce plan. Les créatures qui ne sont pas sur le Plan Éthéré ne vous perçoivent pas et ne peuvent pas interagir avec vous, sauf si une compétence ou une magie particulière leur en donne la compétence.
+Tant que vous êtes sur le Plan Éthéré, vous ne pouvez affecter et n'être affecté que par des créatures sur ce plan. Les créatures qui ne sont pas sur le Plan Éthéré ne vous perçoivent pas et ne peuvent pas interagir avec vous, sauf si une aptitude ou une magie particulière leur en donne la compétence.
 
 Vous ignorez tous les objets et effets qui ne sont pas sur le Plan Éthéré, ce qui vous permet de traverser les objets que vous voyez sur votre plan d'origine.
 

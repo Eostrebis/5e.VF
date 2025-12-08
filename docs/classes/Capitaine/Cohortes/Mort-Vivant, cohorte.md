@@ -29,7 +29,7 @@ status: finished
 >### Actions
 >***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le mort-vivant obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
@@ -37,7 +37,7 @@ _Niveau 2._ __Résistance au Renvoi.__ Le mort-vivant a l'avantage aux jets de s
 
 _Niveau 6._ __Morsure Nécrosante.__ La morsure du mort-vivant inflige 1d6 dégâts nécrotiques supplémentaires. 
 
-_Niveau 10._ __Régénération.__ Le mort-vivant regagne 1 point de vie au début de chacun de ses tours. Si le mort-vivant subit des dégâts de feu ou radiants, cette compétence ne fonctionne pas au début du prochain tour du mort-vivant. Le mort-vivant ne meurt que s'il commence son tour à 0 point de vie sans régénérer.
+_Niveau 10._ __Régénération.__ Le mort-vivant regagne 1 point de vie au début de chacun de ses tours. Si le mort-vivant subit des dégâts de feu ou radiants, cette aptitude ne fonctionne pas au début du prochain tour du mort-vivant. Le mort-vivant ne meurt que s'il commence son tour à 0 point de vie sans régénérer.
 
 _Niveau 14._ __Morsure Nécrosante Améliorée.__ Les dégâts nécrotiques de la morsure du mort-vivant augmentent de 7 (2d6) et le mort-vivant un nombre de points de vie égal aux dégâts nécrotiques infligés.
 

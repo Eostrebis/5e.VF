@@ -47,7 +47,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Sentinelle Immortelle
 
-Au niveau 15, lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez choisir de tomber à 1 point de vie plutôt. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
+Au niveau 15, lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez choisir de tomber à 1 point de vie plutôt. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
 
 De plus, vous ne souffrez d'aucun inconvénient lié au grand âge et ne pouvez pas vieillir magiquement.
 ## Champion des Aînés
@@ -60,4 +60,4 @@ En utilisant votre action, vous vous transformez. Pendant 1 minute, vous bénéf
  - À chaque fois que vous lancez un sort de paladin avec un temps d'incantation de 1 action, vous pouvez le lancer comme une action bonus à la place.
  - Les créatures ennemies à 10 ft. de vous ont le désavantage aux jets de sauvegarde contre vos sorts de paladin et vos utilisations de Canal Divin.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

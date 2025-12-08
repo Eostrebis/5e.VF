@@ -75,9 +75,9 @@ Ses deux armes de prédilection, qu'il manie avec une aisance déconcertante, ne
 Chaque détail de son apparence, de la couleur de sa peau à la forme de ses lames, renforce son image de champion d'un monde aquatique : à la fois beau, exotique, et manifestement dangereux.
 
 ![[Aymer.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
@@ -88,7 +88,7 @@ Chaque détail de son apparence, de la couleur de sa peau à la forme de ses lam
 **Enfant de la Mer.** Vous pouvez respirer dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
 
 **Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
-### Compétences de Classe
+### Aptitudes de Classe
 
 #TODO 
 
@@ -127,7 +127,7 @@ Le conseil d'Aqualys a compris que la source du mal était hors de leur portée.
 
 Aymer a accepté la mission sans hésiter, le cœur lourd de quitter son foyer mais animé par le devoir. Il a fait ses adieux à son peuple, a nagé une dernière fois dans les courants d'Aqualys, et a émergé à la surface, pour la première fois, sous la lumière crue et aveuglante du soleil. Il est maintenant un ambassadeur et un justicier, un poisson hors de l'eau qui doit apprendre les coutumes étranges de la terre ferme pour trouver et éradiquer le poison qui tue son monde.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 ### Traits de Personnalité
 

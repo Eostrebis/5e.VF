@@ -33,33 +33,33 @@ Vous devriez également penser à de précédentes victoires ou défaites qui on
 
 Vous pouvez créer un capitaine rapidement en suivant ces suggestions. Commencez par faire de la Force ou de la Dextérité votre caractéristique principale, suivie du Charisme. Ensuite, choisissez l'Histoire et la Persuasion comme compétences et prenez le style de combat Duel. Enfin, choisissez un historique qui reflète votre expérience de management.
 
-| **Le capitaine** |                   |                                         |                 |                       |
-| ---------------- | ----------------- | --------------------------------------- | --------------- | --------------------- |
-| Niveau           | Bonus de Maîtrise | Compétences                             | Dés de Bataille | Compétence de Cohorte |
-| 1                | +2                | [[#Leader Né]], [[#Style de Combat]]    | —               | —                     |
-| 2                | +2                | [[#Cohorte]]                            | —               | ☑                     |
-| 3                | +2                | [[#Étendard]], [[#Tactiques de Guerre]] | 2d8             | ✖                     |
-| 4                | +2                | [[#Augmentation de Caractéristiques]]   | 2d8             | ✖                     |
-| 5                | +3                | [[#Blitz]]                              | 2d8             | ✖                     |
-| 6                | +3                | —                                       | 3d8             | ☑                     |
-| 7                | +3                | Compétence d'[[#Étendard]]              | 3d8             | ✖                     |
-| 8                | +3                | [[#Augmentation de Caractéristiques]]   | 3d8             | ✖                     |
-| 9                | +4                | [[#Tactiques Avancées]]                 | 3d8             | ✖                     |
-| 10               | +4                | —                                       | 3d10            | ☑                     |
-| 11               | +4                | [[#Frappe Coordonnée]]                  | 3d10            | ✖                     |
-| 12               | +4                | [[#Augmentation de Caractéristiques]]   | 3d10            | ✖                     |
-| 13               | +5                | Compétence d'[[#Étendard]]              | 3d10            | ✖                     |
-| 14               | +5                | —                                       | 4d10            | ☑                     |
-| 15               | +5                | [[#Par l'Exemple]]                      | 4d10            | ✖                     |
-| 16               | +5                | [[#Augmentation de Caractéristiques]]   | 4d10            | ✖                     |
-| 17               | +6                | Compétence d'[[#Étendard]]              | 4d10            | ✖                     |
-| 18               | +6                | —                                       | 4d12            | ☑                     |
-| 19               | +6                | [[#Augmentation de Caractéristiques]]   | 4d12            | ✖                     |
-| 20               | +6                | [[#Commandant Légendaire]]              | 4d12            | ✖                     |
+| **Le capitaine** |                   |                                         |                 |                     |
+| ---------------- | ----------------- | --------------------------------------- | --------------- | ------------------- |
+| Niveau           | Bonus de Maîtrise | Aptitudes                               | Dés de Bataille | Aptitude de Cohorte |
+| 1                | +2                | [[#Leader Né]], [[#Style de Combat]]    | —               | —                   |
+| 2                | +2                | [[#Cohorte]]                            | —               | ☑                   |
+| 3                | +2                | [[#Étendard]], [[#Tactiques de Guerre]] | 2d8             | ✖                   |
+| 4                | +2                | [[#Augmentation de Caractéristiques]]   | 2d8             | ✖                   |
+| 5                | +3                | [[#Blitz]]                              | 2d8             | ✖                   |
+| 6                | +3                | —                                       | 3d8             | ☑                   |
+| 7                | +3                | Aptitude d'[[#Étendard]]                | 3d8             | ✖                   |
+| 8                | +3                | [[#Augmentation de Caractéristiques]]   | 3d8             | ✖                   |
+| 9                | +4                | [[#Tactiques Avancées]]                 | 3d8             | ✖                   |
+| 10               | +4                | —                                       | 3d10            | ☑                   |
+| 11               | +4                | [[#Frappe Coordonnée]]                  | 3d10            | ✖                   |
+| 12               | +4                | [[#Augmentation de Caractéristiques]]   | 3d10            | ✖                   |
+| 13               | +5                | Aptitude d'[[#Étendard]]                | 3d10            | ✖                   |
+| 14               | +5                | —                                       | 4d10            | ☑                   |
+| 15               | +5                | [[#Par l'Exemple]]                      | 4d10            | ✖                   |
+| 16               | +5                | [[#Augmentation de Caractéristiques]]   | 4d10            | ✖                   |
+| 17               | +6                | Aptitude d'[[#Étendard]]                | 4d10            | ✖                   |
+| 18               | +6                | —                                       | 4d12            | ☑                   |
+| 19               | +6                | [[#Augmentation de Caractéristiques]]   | 4d12            | ✖                   |
+| 20               | +6                | [[#Commandant Légendaire]]              | 4d12            | ✖                   |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que capitaine, vous disposez des compétences de classes suivantes.
+En tant que capitaine, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -93,7 +93,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 ## Leader Né
 
 
-Au niveau 1, vos compétences et votre personnalité magnétique vous confère un truc pour le management. Les masses se réfèrent à vous pour votre autorité et votre influence, surtout en temps de crise. Ainsi, vous avez l'avantage aux jets de Charisme (Persuasion) que vous réalisez pour convaincre quelqu'un de vous laisser prendre les commandes ou pour donner des ordres pendant une situation périlleuse.
+Au niveau 1, vos compétences et votre personnalité magnétique vous confère un talent pour le management. Les masses se réfèrent à vous pour votre autorité et votre influence, surtout en temps de crise. Ainsi, vous avez l'avantage aux jets de Charisme (Persuasion) que vous réalisez pour convaincre quelqu'un de vous laisser prendre les commandes ou pour donner des ordres pendant une situation périlleuse.
 
 De plus, vous pouvez utiliser votre modificateur de Charisme au lieu de votre modificateur d'Intelligence pour tous les jets de caractéristique que vous réalisez en lien avec la planification, la stratégie ou la tactique.
 
@@ -125,13 +125,13 @@ Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 
 
 Choisissez un compagnon parmi les [[cohortes]] disponible ; après une initiation de 8h, cette créature devient votre cohorte. Vous ne pouvez avoir qu'une cohorte à la fois.
 
-Si votre cohorte est vaincue, vous pouvez la relever des morts avec les méthodes usuelles, comme un [[rappel à la vie]], ou vous pouvez passer 8 heures à initier une nouvelle cohorte. Si vous le faites, votre cohorte actuelle perd toutes ses capacités liées par cette compétence, même si elle revient plus tard à la vie.
+Si votre cohorte est vaincue, vous pouvez la relever des morts avec les méthodes usuelles, comme un [[rappel à la vie]], ou vous pouvez passer 8 heures à initier une nouvelle cohorte. Si vous le faites, votre cohorte actuelle perd toutes ses capacités liées par cette aptitude, même si elle revient plus tard à la vie.
 
 Votre cohorte suit votre ordre du mieux qu'elle peut. Votre cohorte prend son tour immédiatement avant ou après vous (votre choix), et vous déterminez ses actions, décisions, attitudes et tout le reste. Si vous êtes [[incapacité]] ou absent, votre compagnon agit de lui-même.
 
-#### Compétences de Cohorte
+#### Aptitudes de Cohorte
 
-Aux niveaux 2, 6, 10, 14 et 18, votre cohorte gagne de nouvelles compétences basées sur son archétype.
+Aux niveaux 2, 6, 10, 14 et 18, votre cohorte gagne de nouvelles aptitudes basées sur son archétype.
 
 #### Points de Vie
 
@@ -139,7 +139,7 @@ Pour chaque niveau de capitaine que vous gagnez après le niveau 2, votre cohort
 
 #### Scores de Caractéristiques
 
-Lorsque vous obtenez la compétence d'Augmentation des Caractéristiques, les caractéristiques de votre cohorte augmentent également. Vous augmentez une caractéristique de votre cohorte de votre choix par 2, ou deux de ses caractéristiques par 1. Comme d'habitude, votre compagnon ne peut augmenter une de ses caractéristiques au-delà de 20 de cette manière.
+Lorsque vous obtenez la aptitude d'[[#Augmentation de Caractéristiques]], les caractéristiques de votre cohorte augmentent également. Vous augmentez une caractéristique de votre cohorte de votre choix par 2, ou deux de ses caractéristiques par 1. Comme d'habitude, votre compagnon ne peut augmenter une de ses caractéristiques au-delà de 20 de cette manière.
 
 #### Maîtrises
 
@@ -153,7 +153,7 @@ L'alignement de votre cohorte se trouve à un pas du vôtre et possède des trai
 
 ## Étendard
 
-À partir du niveau 3, vous adoptez un étendard que vous arborez au combat, que vous blasonnez sur votre armure et que vous accrochez à votre sceau. Vous pouvez sélectionner votre étendard parmi ceux présentés ci-dessous. Votre choix vous confère des compétences aux niveaux 3, 7, 13 et 17.
+À partir du niveau 3, vous adoptez un étendard que vous arborez au combat, que vous blasonnez sur votre armure et que vous accrochez à votre sceau. Vous pouvez sélectionner votre étendard parmi ceux présentés ci-dessous. Votre choix vous confère des aptitudes aux niveaux 3, 7, 13 et 17.
 
 | Étendard                    | Description                                                                                                  |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------ |

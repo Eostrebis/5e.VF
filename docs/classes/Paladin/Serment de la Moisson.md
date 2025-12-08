@@ -58,7 +58,7 @@ Au niveau 15, en y passant 1 heure (qui peut être pendant un repos court), vous
  - La créature est immunisée contre la condition [[apeuré]].
  - La créature gagne 2d10 points de vie temporaires.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 ## Avatar de la Nutrition
 
 Au niveau 20, pour une action bonus, vous devenez l'incarnation même de la force vitale, bénéficiant des effets suivant pendant 1 minute :
@@ -67,4 +67,4 @@ Au niveau 20, pour une action bonus, vous devenez l'incarnation même de la forc
  - Pour une action bonus, vous pouvez lancer le sort [[retour à la vie]] même sans l'avoir préparé et sans dépenser d'emplacement de sort (les composantes sont néanmoins toujours requises).
  - À chaque fois qu'une créature à 30 ft. de vous prend des dégâts, vous pouvez utiliser votre réaction pour lui conférer la résistance à ces dégâts.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

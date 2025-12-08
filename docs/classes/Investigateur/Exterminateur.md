@@ -19,7 +19,7 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 ## Tueur de Monstres
 
-À partir du niveau 6, lorsque vous utilisez votre action pour Attaquer, vous pouvez réaliser une attaque armée comme action bonus. Vous pouvez utiliser une compétence un nombre de fois égal à votre modificateur d'Intelligence (au moins 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos.
+À partir du niveau 6, lorsque vous utilisez votre action pour Attaquer, vous pouvez réaliser une attaque armée comme action bonus. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur d'Intelligence (au moins 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos.
 
 ## Lame Argentée
 
@@ -27,5 +27,5 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 ## Instinct de Tueur
 
-À partir du niveau 14, vous pouvez votre compétence [[Investigateur#Exploitation des Faiblesses|Exploitation des Faiblesses]] deux fois pendant votre tour, mais vous ne pouvez pas l'utiliser plus d'une fois sur une seule cible.
+À partir du niveau 14, vous pouvez utiliser votre aptitude [[Investigateur#Exploitation des Faiblesses|Exploitation des Faiblesses]] deux fois pendant votre tour, mais vous ne pouvez pas l'utiliser plus d'une fois sur une seule cible.
 

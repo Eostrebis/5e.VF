@@ -53,4 +53,4 @@ Au niveau 20, vous pouvez prendre la forme d'un chasseur ténébreux, puisant un
  - Pour une action bonus, vous pouvez vous téléporter de jusqu'à 60 ft. vers un espace inoccupé que vous pouvez voir et qui se trouve également dans une lumière faible ou l'obscurité.
  - Une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez lui infliger 4d8 dégâts nécrotiques supplémentaires.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

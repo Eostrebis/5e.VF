@@ -5,7 +5,7 @@ Bien que la plupart des lanceurs de sorts n'enchantent qu'une poignée d'objets 
 
 ## Fabrication d'Objets Magiques
 
-Lorsque vous rejoignez cette guilde au niveau 3, vous débloquez les secrets de la création d'objets embués d'énergie magique. Le détail des objets magiques que vous pouvez créer à quel niveau et pour quel prix se trouve ci-dessous. Vous pouvez fabriquer un objet magique en passant plusieurs jours à travailler dessus, en utilisant votre compétence Artisanat Actif.
+Lorsque vous rejoignez cette guilde au niveau 3, vous débloquez les secrets de la création d'objets embués d'énergie magique. Le détail des objets magiques que vous pouvez créer à quel niveau et pour quel prix se trouve ci-dessous. Vous pouvez fabriquer un objet magique en passant plusieurs jours à travailler dessus, en utilisant votre aptitude [[Artisan#Artisanat Actif|Artisanat Actif]].
 
 Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magiques. Vous pouvez fabriquer 3 parmi ceux disponibles au 7, 3 parmi ceux du niveau 10 et 2 parmi ceux du niveau 14. En créant un nouvel objet magique, vous pouvez en détruire un précédemment créer pour en construire un nouveau de la même catégorie.
 
@@ -75,7 +75,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 
 ## Lien Instantané
 
-À partir du niveau 7, votre expérience dans la fabrication d'objets magiques vous permet de vous y lier rapidement. Vous pouvez utiliser votre action pour vous lier à un objet, et vous pouvez terminer votre lien avec un objet pendant la même action. Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur d'Intelligence, et vous regagnez les utilisations dépensées lorsque vous terminez un repos.
+À partir du niveau 7, votre expérience dans la fabrication d'objets magiques vous permet de vous y lier rapidement. Vous pouvez utiliser votre action pour vous lier à un objet, et vous pouvez terminer votre lien avec un objet pendant la même action. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur d'Intelligence, et vous regagnez les utilisations dépensées lorsque vous terminez un repos.
 
 ## Enchantement Éphémère
 
@@ -83,7 +83,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 
 ## Couper la Connexion
 
-Au niveau 14, vous pouvez casser la connexion qui vous lie à vos objets magiques et rediriger la magie pour vous protéger. Comme réaction lorsque qu'une créature que vous voyez vous cible avec une attaque ou lorsque vous réalisez un jet de sauvegarde, vous pouvez terminer votre lien avec un objet magique. Jusqu'au début de votre prochain tour, vous gagnez un bonus à votre CA et vos jets de sauvegarde égal à votre modificateur d'Intelligence. Le nombre total d'objets magiques auxquels vous pouvez vous lier est réduit de 1 jusqu'à ce que vous terminiez un repos. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
+Au niveau 14, vous pouvez casser la connexion qui vous lie à vos objets magiques et rediriger la magie pour vous protéger. Comme réaction lorsque qu'une créature que vous voyez vous cible avec une attaque ou lorsque vous réalisez un jet de sauvegarde, vous pouvez terminer votre lien avec un objet magique. Jusqu'au début de votre prochain tour, vous gagnez un bonus à votre CA et vos jets de sauvegarde égal à votre modificateur d'Intelligence. Le nombre total d'objets magiques auxquels vous pouvez vous lier est réduit de 1 jusqu'à ce que vous terminiez un repos. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Propriété Légendaire
 

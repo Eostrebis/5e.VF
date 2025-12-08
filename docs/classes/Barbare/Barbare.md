@@ -34,33 +34,33 @@ Qu'est-ce qui vous a amené à l'aventure ? Avez-vous été tenté par les terre
 
 Vous pouvez créer un barbare rapidement en suivant ces suggestions. Commencez par faire de la Force votre caractéristique principale, suivie de la Constitution. Choisissez l'historique [[vagabond]].
 
-| **Le Barbare** |                   |                                                                |            |                |
-| -------------- | ----------------- | -------------------------------------------------------------- | ---------- | -------------- |
-| Niveau         | Bonus de Maîtrise | Compétences                                                    | Rages      | Dégâts de Rage |
-| 1              | +2                | [[#Rage]], [[#Défense Sans Armure]]                            | 2          | +2             |
-| 2              | +2                | [[#Attaque Téméraire]], [[#Sixième Sens]]                      | 2          | +2             |
-| 3              | +2                | [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]]               | 3          | +2             |
-| 4              | +2                | [[#Augmentation de Caractéristiques]]                          | 3          | +2             |
-| 5              | +3                | [[#Attaque Supplémentaire]], [[#Déplacement Rapide]]           | 3<br>      | +2             |
-| 6              | +3                | Compétence de [[#Voie Primitive]]                              | 4          | +2             |
-| 7              | +3                | [[#Instinct Féral]], [[#Bond Instinctif (Opt.)]]               | 4          | +2             |
-| 8              | +3                | [[#Augmentation de Caractéristiques]]                          | 4          | +2             |
-| 9              | +4                | [[#Critique Brutal]] (1 dé)                                    | 4          | +3             |
-| 10             | +4                | Compétence de [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]] | 4          | +3             |
-| 11             | +4                | [[#Rage Implacable]]                                           | 4          | +3             |
-| 12             | +4                | [[#Augmentation de Caractéristiques]]                          | 5          | +3             |
-| 13             | +5                | [[#Critique Brutal]] (2 dés)                                   | 5          | +3             |
-| 14             | +5                | Compétence de [[#Voie Primitive]]                              | 5          | +3             |
-| 15             | +5                | [[#Rage Persistante]]                                          | 5          | +3             |
-| 16             | +5                | [[#Augmentation de Caractéristiques]]                          | 5          | +4             |
-| 17             | +6                | [[#Critique Brutal]] (3 dés)                                   | 6          | +4             |
-| 18             | +6                | [[#Puissance Indomptable]]                                     | 6          | +4             |
-| 19             | +6                | [[#Augmentation de Caractéristiques]]                          | 6          | +4             |
-| 20             | +6                | [[#Champion Primal]]                                           | Illimitées | +4             |
+| **Le Barbare** |                   |                                                              |            |                |
+| -------------- | ----------------- | ------------------------------------------------------------ | ---------- | -------------- |
+| Niveau         | Bonus de Maîtrise | Aptitudes                                                    | Rages      | Dégâts de Rage |
+| 1              | +2                | [[#Rage]], [[#Défense Sans Armure]]                          | 2          | +2             |
+| 2              | +2                | [[#Attaque Téméraire]], [[#Sixième Sens]]                    | 2          | +2             |
+| 3              | +2                | [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]]             | 3          | +2             |
+| 4              | +2                | [[#Augmentation de Caractéristiques]]                        | 3          | +2             |
+| 5              | +3                | [[#Attaque Supplémentaire]], [[#Déplacement Rapide]]         | 3<br>      | +2             |
+| 6              | +3                | Aptitude de [[#Voie Primitive]]                              | 4          | +2             |
+| 7              | +3                | [[#Instinct Féral]], [[#Bond Instinctif (Opt.)]]             | 4          | +2             |
+| 8              | +3                | [[#Augmentation de Caractéristiques]]                        | 4          | +2             |
+| 9              | +4                | [[#Critique Brutal]] (1 dé)                                  | 4          | +3             |
+| 10             | +4                | Aptitude de [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]] | 4          | +3             |
+| 11             | +4                | [[#Rage Implacable]]                                         | 4          | +3             |
+| 12             | +4                | [[#Augmentation de Caractéristiques]]                        | 5          | +3             |
+| 13             | +5                | [[#Critique Brutal]] (2 dés)                                 | 5          | +3             |
+| 14             | +5                | Aptitude de [[#Voie Primitive]]                              | 5          | +3             |
+| 15             | +5                | [[#Rage Persistante]]                                        | 5          | +3             |
+| 16             | +5                | [[#Augmentation de Caractéristiques]]                        | 5          | +4             |
+| 17             | +6                | [[#Critique Brutal]] (3 dés)                                 | 6          | +4             |
+| 18             | +6                | [[#Puissance Indomptable]]                                   | 6          | +4             |
+| 19             | +6                | [[#Augmentation de Caractéristiques]]                        | 6          | +4             |
+| 20             | +6                | [[#Champion Primal]]                                         | Illimitées | +4             |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que barbare, vous disposez des compétences de classes suivantes. Les compétences marquées comme (Opt.) sont optionnelles, et sont à confirmer au cas par cas avec le MJ.
+En tant que barbare, vous disposez des aptitudes de classes suivantes. Les aptitudes marquées comme (Opt.) sont optionnelles, et sont à confirmer au cas par cas avec le MJ.
 
 ### Points de Vie
 
@@ -122,7 +122,7 @@ Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que
 
 ## Voie Primitive
 
-Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des compétences aux niveaux 3, 6, 10 et 14.
+Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
 | Voie                              | Description                                                                                 |
 | --------------------------------- | ------------------------------------------------------------------------------------------- |
@@ -193,7 +193,7 @@ Ce dé supplémentaire passe à 2 puis 3 dés aux niveaux 13 et 17.
 
 À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
 
-Chaque fois que vous utilisez cette compétence après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
+Chaque fois que vous utilisez cette aptitude après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
 
 ## Rage Persistante
 

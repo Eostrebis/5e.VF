@@ -71,7 +71,7 @@ Au niveau 3, vous pouvez utiliser les [[Faits]] avec les attaques du sort [[Doig
 
 À partir du niveau 10, lorsque vous réalisez une attaque à distance avec une arme à feu, vous pouvez utiliser une action bonus pour enrober la balle d'un sort de [[Projectiles Magiques]]. Ne réalisez pas de jet d'attaque : l'attaque touche automatiquement et inflige 3d4+3 dégâts de force supplémentaires à la cible.
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos long pour l'utiliser à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour l'utiliser à nouveau.
 
 ## Tir Ensorcelé Amélioré
 

@@ -26,7 +26,7 @@ Au niveau 6, votre tapisserie vous permet de fissurer votre forme en illusions. 
 
 ## Évasion Illusoire
 
-Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certains évènements, comme le souffle enflammé d'un dragon rouge ou une [[boule de feu]]. Lorsque vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous prenez à la place 0 dégâts si vous réussissez le jet et la moitié si vous ratez. Vous pouvez également décider que vos ponts et escaliers de votre compétence Renaissance Régulière soient illusoires ou illusoires pour tous sauf pour vous.
+Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certains évènements, comme le souffle enflammé d'un dragon rouge ou une [[boule de feu]]. Lorsque vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous prenez à la place 0 dégâts si vous réussissez le jet et la moitié si vous ratez. Vous pouvez également décider que vos ponts et escaliers de votre aptitude [[Tisserand#Renaissance Régulière|Renaissance Régulière]] soient illusoires ou illusoires pour tous sauf pour vous.
 
 ## Gloire Éternelle
 

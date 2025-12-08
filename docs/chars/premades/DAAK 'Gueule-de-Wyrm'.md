@@ -36,7 +36,7 @@ __Vitesse :__ 30 ft.
 >**Objectif pour la session :**
 >En tant que Chevalier, votre devoir est d'aider ceux qui en ont besoin et de combattre le mal. Votre mission personnelle est de prouver que la discipline et le courage d'une meute bien soudée, peu importe sa taille ou sa composition, sont la plus grande force qui soit.
 >
->**Parlez comme un Sergent Draconique :** Votre voix est un aboiement puissant et vos phrases sont des ordres courts et directs. Utilisez votre compétence "Hurlement Draconique" aussi souvent que possible, non seulement pour son effet mécanique, mais pour le roleplay. Vous êtes le leader tactique, même si vous êtes le plus petit.
+>**Parlez comme un Sergent Draconique :** Votre voix est un aboiement puissant et vos phrases sont des ordres courts et directs. Utilisez votre aptitude "Hurlement Draconique" aussi souvent que possible, non seulement pour son effet mécanique, mais pour le roleplay. Vous êtes le leader tactique, même si vous êtes le plus petit.
 >
 >**La Meute avant Tout :** Votre style de combat "Interception" définit votre rôle. Vous êtes là pour protéger vos compagnons plus grands mais (à vos yeux) plus fragiles. Mettez-vous physiquement devant eux, prenez les coups, et utilisez vos compétences pour assurer la survie du groupe. Chaque compagnon est un "écaille-frère".
 >
@@ -71,9 +71,9 @@ Son équipement, un bric-à-brac de trophées et de nécessité, raconte sa prop
 Le reste de son armure est composé de pièces de cuir durci et de peaux cousues ensemble, protégeant ses points vitaux sans entraver sa vitesse. Chaque élément de son apparence, du visage de dragon qu'il porte à la pointe de sa lance, crie la même chose : Daak n'est pas un serviteur rampant. Il est le héraut d'un esprit draconique, un survivant qui a appris à porter la majesté et la fureur de ses idoles comme une seconde peau.
 
 ![[DAAK.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
@@ -81,7 +81,7 @@ Le reste de son armure est composé de pièces de cuir durci et de peaux cousues
 
 __Défiance.__ Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Interception
 
@@ -91,7 +91,7 @@ Lorsqu'une créature que vous pouvez voir touche une cible, autre que vous, à 5
 
 Vous possédez une endurance plus élevée que la moyenne, ce qui vous permet de vous protéger de la douleur. Pendant votre tour, vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à 1d10 + votre niveau de guerrier.
 
-Une fois que vous avez utilisé cette compétence, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
 
 ### Équipement
 
@@ -127,7 +127,7 @@ Il a commencé à s'entraîner. Chaque jour, dans les tunnels vides, il s'exerç
 
 Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit, mais celle du courage qu'on inspire. En attendant, il a rejoint la confrérie des Chevaliers de Solamnia.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 L'entraînement de Daak en tant que Chevalier de Solamnia lui confère les effets suivants :
 

@@ -4,7 +4,7 @@ status: finished
 *Vestige de niveau 2*
 
 Père de toutes les médecines, Asclépios et son serpent confèrent à ses ligateurs un pouvoir de guérison surnaturelle et une connaissance inégalée de la médecine
-# Compétences
+# Aptitudes
 
 ## Triage
 Tant que vous êtes lié à Asclépios, vous savez si une créature que vous pouvez voir possède tous ses points de vie, plus de la moitié, moins de la moitié ou moins de 10. Vous savez également si une créature que vous voyez est maudite, empoisonnée ou malade.
@@ -13,7 +13,7 @@ Tant que vous êtes lié à Asclépios, vous savez si une créature que vous pou
 Malgré toute la sagesse du Praticien, ses méthodes sont parfois brutales. Une fois à chacun de vos tours, lorsque vous infligez des dégâts contondants, perçants ou tranchants à une créature, vous pouvez ajouter un d4 aux dés de dégâts.
 
 ## Baume du Praticien
-Tant que vous êtes lié à Asclépios, vous pouvez utiliser votre action pour toucher un humanoïde, qui regagne un nombre de points de vie égal à votre niveau de ligateur + votre modificateur de Charisme. Vous pouvez également mettre fin à une maladie qui affecte la créature, ou retirer la condition [[aveuglé]], [[assourdi]], ou [[empoisonné]]. Vous pouvez utiliser cette compétence trois fois et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Tant que vous êtes lié à Asclépios, vous pouvez utiliser votre action pour toucher un humanoïde, qui regagne un nombre de points de vie égal à votre niveau de ligateur + votre modificateur de Charisme. Vous pouvez également mettre fin à une maladie qui affecte la créature, ou retirer la condition [[aveuglé]], [[assourdi]], ou [[empoisonné]]. Vous pouvez utiliser cette aptitude trois fois et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Bâton d'Esculape
 Tant que vous êtes lié à ce vestige, son serpent se matérialise et s'enroule autre de votre bras ou sur un bâton, un outil ou une arme que vous maniez, et vous murmure des conseils médicaux. Si vous réalisez un jet de Sagesse (Médecine) tant que vous êtes lié à ce vestige, vous pouvez traiter le résultat comme un 10 ou comme votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.

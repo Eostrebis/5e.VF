@@ -25,12 +25,12 @@ Au niveau 6, vous cherchez toujours à tuer votre cible en un coup. Lorsque vous
 
 À partir du niveau 10, votre sourire malicieux vous confère une grande marge de manœuvre. Lorsque vous ratez un jet de Charisme (Tromperie) ou Charisme (Persuasion), vous pouvez relancer le jet et devez utiliser le nouveau résultat.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Sosie
 
 Au niveau 14, vous pouvez rapidement échanger d'identité avec un cadavre. Lorsque vous réduisez un Humanoïde à 0 point de vie, vous pouvez utiliser votre réaction pour imiter son apparence, comme avec le sort [[Déguisement]]. Lorsque vous faites ainsi, le corps de la créature, ainsi que son sang, ses vêtements et toutes autres preuves physiques de sa mort deviennent magiquement invisibles pendant 8 heures. Vous pouvez également utiliser cette capacité pour une action lorsque vous touchez le corps d'un Humanoïde qui n'est pas mort depuis plus de 24 heures, imitant son apparence et le rendant invisible, comme au-dessus.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 
 

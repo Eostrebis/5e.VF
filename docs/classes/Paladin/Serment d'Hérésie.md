@@ -49,7 +49,7 @@ Au niveau 15, vous pouvez relancer avec avantage les jets de sauvegarde que vous
 
 Au niveau 20, enfin divorcé de la volonté des dieux, vous pouvez utiliser votre action pour prendre la forme même de votre blasphème, une sorte d'anti-apothéose. Vous bénéficiez des effets suivants pendant 1 minute :
 
- - Vous pouvez utiliser votre option de Canal Divin de Blasphème pour une action bonus sans avoir à utiliser votre Canal Divin. Lorsque vous utilisez cette compétence de cette façon, elle inflige 4d6 dégâts psychiques en cas d'échec, et la moitié en cas de réussite.
+ - Vous pouvez utiliser votre option de Canal Divin de Blasphème pour une action bonus sans avoir à utiliser votre Canal Divin. Lorsque vous utilisez cette aptitude de cette façon, elle inflige 4d6 dégâts psychiques en cas d'échec, et la moitié en cas de réussite.
  - Vous gagnez 20 points de vie temporaires au début de chacun de vos tours.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

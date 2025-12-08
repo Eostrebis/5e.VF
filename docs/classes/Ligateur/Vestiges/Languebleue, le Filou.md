@@ -6,7 +6,7 @@ status: finished
 Métamorphe trompeur, Languebleue offre ses mots habiles et ses pouvoirs de métamorphose à ceux qui se lient avec lui.
 
 ![[Languebleue, le Filou-20240630095940221.webp]]
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Languebleue, vous maîtrisez les compétences Persuasion et Tromperie. De plus, Languebleue vole le pouvoir d'autres vestiges, vous conférant la maîtrise d'une compétence supplémentaire ou d'un outil de votre choix pour chaque autre vestige auquel vous êtes lié.

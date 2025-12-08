@@ -25,4 +25,4 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous son
  - Vos attaques de mêlée ont une portée de 10 ft.
  - Vous pouvez utiliser votre Saisie du Gardien pour une action au lieu d'une action bonus. Si vous le faites, vous pouvez réaliser une attaque contre chaque créature affectée, avec un jet d'attaque différent pour chaque créature.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.

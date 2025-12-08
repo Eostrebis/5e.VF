@@ -24,8 +24,8 @@ Au niveau 6, votre cape peut dissimuler vos mouvements et modifier votre voix. V
 
 ## Obscurité Saisie
 
-Au niveau 10, votre tapisserie s'accroche à l'environnement qui vous entoure, vous soulevant quelque peu. Vous obtenez une vitesse d'escalade égale à votre vitesse de marche, et vous pouvez vous déplacer le long des murs et plafonds sans avoir à utiliser vos mains. Les ponts et escaliers que vous créez avec votre compétence de Renaissance Régulière peuvent être invisibles.
+Au niveau 10, votre tapisserie s'accroche à l'environnement qui vous entoure, vous soulevant quelque peu. Vous obtenez une vitesse d'escalade égale à votre vitesse de marche, et vous pouvez vous déplacer le long des murs et plafonds sans avoir à utiliser vos mains. Les ponts et escaliers que vous créez avec votre aptitude de [[Tisserand#Renaissance Régulière|Renaissance Régulière]] peuvent être invisibles.
 
 ## Dance des Ombres
 
-Au niveau 14, les lames de votre cape déchirent la fabrique de la réalité-même, ouvrant par là des portails dans lesquels vous pouvez vous faufiler. Après avoir réalisé une Finition, vous pouvez vous téléporter de 15 ft. vers un emplacement que vous voyez. De plus, lorsque vous utilisez votre action pour Esquiver et qu'une créature rate une attaque vous ciblant, ou quand une créature que vous pouvez voir termine son tour, vous pouvez utiliser votre réaction pour vous téléporter de 15 ft. vers un emplacement que vous pouvez voir.
+Au niveau 14, les lames de votre cape déchirent la fabrique de la réalité même, ouvrant par là des portails dans lesquels vous pouvez vous faufiler. Après avoir réalisé une Finition, vous pouvez vous téléporter de 15 ft. vers un emplacement que vous voyez. De plus, lorsque vous utilisez votre action pour Esquiver et qu'une créature rate une attaque vous ciblant, ou quand une créature que vous pouvez voir termine son tour, vous pouvez utiliser votre réaction pour vous téléporter de 15 ft. vers un emplacement que vous pouvez voir.

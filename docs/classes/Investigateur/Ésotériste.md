@@ -52,7 +52,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts d'occulti
 
 ## Ruine Occulte
 
-À partir du niveau 6, vous pouvez utiliser votre ruse magique pour déchirer vos ennemis. Lorsque vous utilisez votre compétence [[Investigateur#Exploitation des Faiblesses|Exploitation des Faiblesses]], vous pouvez lancer un cantrip pour une action bonus plutôt que d'infliger des dégâts supplémentaires.
+À partir du niveau 6, vous pouvez utiliser votre ruse magique pour déchirer vos ennemis. Lorsque vous utilisez votre aptitude [[Investigateur#Exploitation des Faiblesses|Exploitation des Faiblesses]], vous pouvez lancer un cantrip pour une action bonus plutôt que d'infliger des dégâts supplémentaires.
 
 ## Yeux d'un Autre Monde
 
@@ -60,6 +60,6 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts d'occulti
 
 ## Maleficarum
 
-À partir du niveau 14, lorsque vous utilisez votre compétence [[Investigateur#Exploitation des Faiblesses|Exploitation des Faiblesses]] contre une créature, vous pouvez lancer le sort [[Malédiction Persistante]] contre cette même créature pour une action bonus, sans dépenser d'emplacement de sort ou de composantes matérielles ; la créature ciblée le désavantage pour son jet de sauvegarde contre ce sort.
+À partir du niveau 14, lorsque vous utilisez votre aptitude [[Investigateur#Exploitation des Faiblesses|Exploitation des Faiblesses]] contre une créature, vous pouvez lancer le sort [[Malédiction Persistante]] contre cette même créature pour une action bonus, sans dépenser d'emplacement de sort ou de composantes matérielles ; la créature ciblée le désavantage pour son jet de sauvegarde contre ce sort.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.

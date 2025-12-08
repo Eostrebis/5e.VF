@@ -29,4 +29,4 @@ Au niveau 10, vous vous dévouez totalement à votre musique. Lorsque vous réal
 
 Au niveau 14, vous avez enfin compris que la meilleure façon de terminer un combat (ainsi qu'une représentation) est de fracasser complètement l'une de vos armes-instrument. Lorsque vous touchez une créature avec une arme-instrument tout en rageant, vous pouvez fracasser l'arme sur la cible, lui infligeant 4d12 dégâts supplémentaires. Une arme-instrument non magique est absolument détruite, tandis qu'une arme-instrument magique perd simplement sa capacité musicale et redevient une arme simple. 
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant de terminer un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant de terminer un repos.

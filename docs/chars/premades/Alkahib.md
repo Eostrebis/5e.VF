@@ -57,11 +57,11 @@ C'est dans son mouvement que sa nature paradoxale se révèle. Lorsqu'il est imm
 Il est drapé dans des robes d'érudit simples, de couleur claire, qui portent çà et là de discrètes traces de roussi sur les bords, souvenirs de sorts qui ont démarré un peu trop près de lui. Ses serres, bien que puissantes, sont celles d'un penseur, souvent posées sur un vieux livre ou tapotant son bec dans un geste de profonde réflexion. En somme, il a toute l'aura d'un grand sage, mais avec la coordination physique d'un poulain qui vient de naître.
 
 ![[Alkahib.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 ### Équipement
 
@@ -82,9 +82,9 @@ Il était devenu une anomalie, une tempête dans une bibliothèque. Avec une pro
 
 Hoom prit son envol une dernière fois, non pas comme un exilé, mais comme un pèlerin. Il partit à la recherche de réponses, cherchant à comprendre l'impact de ses émotions sur sa magie. Il est un philosophe à la recherche de la plus grande des vérités : la connaissance de soi. Il parcourt le monde, offrant sa sagesse profonde à ceux qu'il rencontre, tout en s'excusant poliment pour les explosions occasionnelles. Il est Maître Alkahib, une énigme volante, une tempête silencieuse cherchant à transformer le rugissement de son pouvoir en une chanson harmonieuse.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
-Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Quand vous échouez à un jet de sauvegarde de Dextérité, vous pouvez utiliser votre réaction pour libérer une vague d'énergie émotionnelle brute. Chaque créature dans un rayon de 10 pieds autour de vous (y compris vous-même et vos alliés) doit faire un jet de sauvegarde de Force contre le DD de sauvegarde de vos sorts. En cas d'échec, une créature subit des dégâts de force (force damage) égaux à votre niveau d'ensorceleur et est repoussée de 10 pieds loin de vous. En cas de succès, elle ne subit que la moitié des dégâts et n'est pas repoussée. Si vous échouez ce jet de sauvegarde, vous êtes mis [[au sol]] par la déflagration. Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations après un repos long.
+Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Quand vous échouez à un jet de sauvegarde de Dextérité, vous pouvez utiliser votre réaction pour libérer une vague d'énergie émotionnelle brute. Chaque créature dans un rayon de 10 pieds autour de vous (y compris vous-même et vos alliés) doit faire un jet de sauvegarde de Force contre le DD de sauvegarde de vos sorts. En cas d'échec, une créature subit des dégâts de force (force damage) égaux à votre niveau d'ensorceleur et est repoussée de 10 pieds loin de vous. En cas de succès, elle ne subit que la moitié des dégâts et n'est pas repoussée. Si vous échouez ce jet de sauvegarde, vous êtes mis [[au sol]] par la déflagration. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations après un repos long.
 
 ### Traits de Personnalité
 

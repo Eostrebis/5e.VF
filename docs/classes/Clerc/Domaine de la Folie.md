@@ -52,4 +52,4 @@ Au niveau 17, vous pouvez faire de votre vision tordue du monde la réalité, fo
 
 **À Travers la Loupe.** Au début de tour de chaque créature, lancez un dé. Si le résultat est pair, la créature double en taille, comme d'après l'effet Agrandissement du sort [[Agrandissement ou Rapetissement]] ; si le résultat est impair, la taille de la créature est divisée par deux, comme selon l'effet Rapetissement.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos long.

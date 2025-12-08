@@ -25,7 +25,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Également au niveau 1, vous pouvez aviver les flammes du chaos avec votre épée. Lorsque vous frappez une créature hostile avec une attaque armée de mêlée, vous pouvez tirer dans la table ci-dessous pour provoquer un effet supplémentaire.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 | d10 | Effet                                                                                                                                                                                         |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -42,7 +42,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutil
 
 ## Sursis Sanguinaire
 
-À compter du niveau 6, lorsque vous utilisez votre compétence Tourment contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de la compétence.
+À compter du niveau 6, lorsque vous utilisez votre aptitude [[Martyr#Tourment|Tourment]] contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de la aptitude.
 
 ## Pièce Chaotique
 
@@ -50,6 +50,6 @@ Au niveau 14, vous obtenez une pièce bénie par les fluctuations du chaos. Lors
 
 ## Pandémonium
 
-Au niveau 18, vous pouvez utiliser votre compétence Chaos ! à chaque fois que vous réalisez un jet d'attaque ou lancez un sort ciblant une créature hostile, et n'avez pas besoin de vous reposer entre chaque utilisation.
+Au niveau 18, vous pouvez utiliser votre aptitude [[#Chaos !]] à chaque fois que vous réalisez un jet d'attaque ou lancez un sort ciblant une créature hostile, et n'avez pas besoin de vous reposer entre chaque utilisation.
 
 

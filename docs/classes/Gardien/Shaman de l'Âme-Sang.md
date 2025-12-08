@@ -62,7 +62,7 @@ La Sagesse est votre caractéristique d'incantation pour vos sorts de druide. En
 
 ## Murmures de l'Au-Delà
 
-Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque vous avez besoin d'aide. Si vous passez 1 minute en contemplation lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez consulter ces esprits pour gagner l'avantage au jet. Vous ne pouvez pas utiliser cette compétence lorsque vos ancêtres n'auraient pas la connaissance appropriée, par exemple si vous cherchez à vous renseigner sur l'alchimie de pointe.
+Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque vous avez besoin d'aide. Si vous passez 1 minute en contemplation lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez consulter ces esprits pour gagner l'avantage au jet. Vous ne pouvez pas utiliser cette aptitude lorsque vos ancêtres n'auraient pas la connaissance appropriée, par exemple si vous cherchez à vous renseigner sur l'alchimie de pointe.
 
 ## Résistance aux Sorts
 
@@ -73,8 +73,8 @@ Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque v
 Au niveau 20, pour une action, vous pouvez abandonner votre forme mortelle un court instant pour devenir spirituel et immatériel, un observateur éthéré. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
  - Pour une action bonus, vous pouvez devenir éthéré, comme d'après le sort [[Forme Éthérée]].
- - Vous pouvez utiliser votre action bonus pour revenir de cette forme éthérée lorsque vous utilisez vos compétences Marque du Gardien ou Saisie du Gardien. Vous pouvez utiliser votre action bonus pour revenir de cette forme lorsque vous lancez un sort pendant votre tour.
+ - Vous pouvez utiliser votre action bonus pour revenir de cette forme éthérée lorsque vous utilisez vos aptitudes [[Gardien#Marque du Gardien|Marque du Gardien]] ou [[Gardien#Saisie du Gardien|Saisie du Gardien]]. Vous pouvez utiliser votre action bonus pour revenir de cette forme lorsque vous lancez un sort pendant votre tour.
  - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. prend 4d6 dégâts de force, se sentant attiré par les deux plans.
  - Vous pouvez lancer les sorts de druides que vous connaissez de niveau 1 et 2 sans dépenser d'emplacements de sorts.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.

@@ -25,11 +25,11 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Également au niveau 1, vous pouvez utiliser une action bonus pour gagner un nombre de points de vie temporaires égal à 1d12 + votre niveau de martyr, pour 1 heure.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Sursis Sanguinaire
 
-À compter du niveau 6, lorsque vous utilisez votre compétence Tourment contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de la compétence.
+À compter du niveau 6, lorsque vous utilisez votre aptitude [[Martyr#Tourment|Tourment]] contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de la aptitude.
 
 ## Étendard Inflexible
 

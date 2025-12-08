@@ -27,7 +27,7 @@ Au niveau 6, vous avez mis la main sur quelques précieuses reliques avec de rar
 **Bobine Mortelle.** Vous pouvez lancer le sort [[Animation des Morts]] ou [[retour à la vie]] une fois sans dépenser d'emplacement de sort ou de composantes. Lancer [[Animation des Morts]] en utilisant cette relique cause le retour à l'état naturel de toutes les créatures Mortes-Vivantes créées par une précédente utilisation du sort.
 
 ## Collection d'Objets Magiques
-À partir du niveau 10, vous entretenez un coffre d'objets magiques, stocké dans un espace extradimensionnel et protégé par un mécanisme de serrure poussé. Lorsque vous terminez un repos long, vous pouvez produire l'un des objets ci-dessous, qui reste en votre possession jusqu'à ce que vous utilisiez cette compétence pour choisir un objet différent : 
+À partir du niveau 10, vous entretenez un coffre d'objets magiques, stocké dans un espace extra dimensionnel et protégé par un mécanisme de serrure poussé. Lorsque vous terminez un repos long, vous pouvez produire l'un des objets ci-dessous, qui reste en votre possession jusqu'à ce que vous utilisiez cette aptitude pour choisir un objet différent : 
 [[tapis volant]], [[cape de chauve-souris]], [[épée ardente]], [[gantelets de pouvoir d'ogre]], [[forteresse instantanée]], [[anneau de régénération]], [[anneau de télékinésie]], [[épée solaire]] ou un [[baguette merveilleuse]].
 
 ## Phylactère

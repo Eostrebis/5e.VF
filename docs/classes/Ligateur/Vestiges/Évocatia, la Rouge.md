@@ -5,7 +5,7 @@ status: finished
 
 Légendaire lanceuse de sort d'après laquelle l'école de l'Évocation est nommée, elle confère à ses ligateurs un arcane sauvage et ardente.
 
-# Compétences
+# Aptitudes
 
 ## Héritage de la Flamme
 Tant que vous êtes lié à Évocatia, vous connaissez le cantrip [[Trait de Feu]]. De plus, vous pouvez ajouter votre modificateur de Charisme aux jets de dégâts que vous réalisez pour des sorts qui infligent des dégâts de feu.

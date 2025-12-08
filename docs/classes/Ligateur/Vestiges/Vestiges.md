@@ -1,7 +1,7 @@
 ---
 status: wip
 ---
-| Niveau | Nom du Vestige                     | Rôle : Compétences                                                 |
+| Niveau | Nom du Vestige                     | Rôle : Aptitudes                                                   |
 | ------ | ---------------------------------- | ------------------------------------------------------------------ |
 | 1      | [[Languebleue, le Filou]]          | **Social** : Maîtrises supplémentaires, sac sans fond, déguisement |
 | 1      | [[Dyogéna, Lance du Péché]]        |                                                                    |

@@ -5,4 +5,4 @@ Pour une action, vous pouvez renforcer votre familier. Pendant 1 minute, ses poi
 
 Vous pouvez lancer d'autres maléfices pendant que celui-ci est actif. Une fois que vous avez lancé ce maléfice, vous ne pouvez pas le refaire tant que votre familier n'a pas été renvoyé, ou que la durée n'a pas expirée.
 
-Vous devez avoir la compétence Familier pour sélectionner ce maléfice.
+Vous devez avoir l'aptitude Familier pour sélectionner ce maléfice.

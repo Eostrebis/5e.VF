@@ -8,7 +8,7 @@ Lorsque vous réalisez une attaque avec cette arme pendant votre tour, vous pouv
 Lorsqu'elle est rangée, vous avez l'avantage aux jets de Dextérité (Discrétion) réalisés pour cacher cette arme.
 
 #### Double
-Cette arme a deux extrémités dangereuses. Lorsque vous utilisez votre action pour attaquer avec cette arme, vous pouvez utiliser votre action bonus pour réaliser une attaque supplémentaire avec celle-ci ; vous n'ajoutez pas votre modificateur de compétence au jet de dégât de cette attaque bonus.
+Cette arme a deux extrémités dangereuses. Lorsque vous utilisez votre action pour attaquer avec cette arme, vous pouvez utiliser votre action bonus pour réaliser une attaque supplémentaire avec celle-ci ; vous n'ajoutez pas votre modificateur de caractéristique au jet de dégât de cette attaque bonus.
 
 #### Sèche
 Si cette arme est submergée ou arrosée de suffisamment d'eau, elle s'enraille. Une arme enraillée ne peut pas être utilisée pour réaliser une attaque jusqu'à ce qu'une créature utilise son action pour réparer le malfonctionnement.

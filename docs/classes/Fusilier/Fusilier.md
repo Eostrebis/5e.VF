@@ -32,21 +32,21 @@ Vous pouvez créer un fusilier rapidement en suivant ces suggestions. Commencez 
 
 | **Le Fusilier** |                   |               |                                                        |
 | --------------- | ----------------- | ------------- | ------------------------------------------------------ |
-| Niveau          | Bonus de Maîtrise | Dés de Risque | Compétences                                            |
+| Niveau          | Bonus de Maîtrise | Dés de Risque | Aptitudes                                              |
 | 1               | +2                | --            | [[#Style de Combat]], [[#Dégaine Rapide]]              |
 | 2               | +2                | 4d8           | [[#Tir Critique]], [[#Visage Impassible]], [[#Risque]] |
 | 3               | +2                | 4d8           | [[#Crédo du Fusilier]]                                 |
 | 4               | +2                | 4d8           | [[#Augmentation de Caractéristiques]]                  |
 | 5               | +3                | 4d8           | [[#Attaque Supplémentaire]]                            |
 | 6               | +3                | 5d8           | [[#Tir Handicapant]]                                   |
-| 7               | +3                | 5d8           | Compétence de [[#Crédo du Fusilier]], [[#Évasion]]     |
+| 7               | +3                | 5d8           | Aptitude de [[#Crédo du Fusilier]], [[#Évasion]]       |
 | 8               | +3                | 5d8           | [[#Augmentation de Caractéristiques]]                  |
 | 9               | +4                | 5d8           | Amélioration de [[#Tir Critique]]                      |
-| 10              | +4                | 5d10          | Compétence de [[#Crédo du Fusilier]]                   |
+| 10              | +4                | 5d10          | Aptitude de [[#Crédo du Fusilier]]                     |
 | 11              | +4                | 5d10          | [[#Meurtrier]]                                         |
 | 12              | +4                | 5d10          | [[#Augmentation de Caractéristiques]]                  |
 | 13              | +5                | 5d10          | [[#Pari Fou]]                                          |
-| 14              | +5                | 6d10          | Compétence de [[#Crédo du Fusilier]]                   |
+| 14              | +5                | 6d10          | Aptitude de [[#Crédo du Fusilier]]                     |
 | 15              | +5                | 6d10          | [[#Trompe-la-mort]]                                    |
 | 16              | +5                | 6d10          | [[#Augmentation de Caractéristiques]]                  |
 | 17              | +6                | 6d10          | Amélioration de [[#Tir Critique]]                      |
@@ -54,9 +54,9 @@ Vous pouvez créer un fusilier rapidement en suivant ces suggestions. Commencez 
 | 19              | +6                | 6d12          | [[#Augmentation de Caractéristiques]]                  |
 | 20              | +6                | 6d12          | [[#Tir dans la Tête]]                                  |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que fusilier, vous disposez des compétences de classes suivantes.
+En tant que fusilier, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -141,7 +141,7 @@ Certains faits nécessitent que la cible réalise un jet de sauvegarde pour rés
 
 ## Crédo du Fusilier
 
-Lorsque les fusiliers atteignent le niveau 3, ils choisissent un style de vie : leur crédo. Ce crédo guide leur jugement et représente l'unicité de leur maniement des armes à feu. Votre choix vous confère des compétences au niveau 3, et à nouveau aux niveaux 7, 10 et 14.
+Lorsque les fusiliers atteignent le niveau 3, ils choisissent un style de vie : leur crédo. Ce crédo guide leur jugement et représente l'unicité de leur maniement des armes à feu. Votre choix vous confère des aptitudes au niveau 3, et à nouveau aux niveaux 7, 10 et 14.
 
 | Crédos                 | Description                                                                    |
 | ---------------------- | ------------------------------------------------------------------------------ |
@@ -165,7 +165,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Tir Handicapant
 
-À partir du niveau 6, à chaque fois que vous infligez un coup critique à une créature de taille G ou inférieure, la balle se loge dans la cible. Jusqu'à ce que la cible utilise son action pour la déloger, elle ne dispose que de la moitié de sa vitesse et a le désavantage à ses jets d'attaque et de caractéristique. Les Élémentaires, les Vases et les Morts-Vivants ne sont pas affectés par cette compétence.
+À partir du niveau 6, à chaque fois que vous infligez un coup critique à une créature de taille G ou inférieure, la balle se loge dans la cible. Jusqu'à ce que la cible utilise son action pour la déloger, elle ne dispose que de la moitié de sa vitesse et a le désavantage à ses jets d'attaque et de caractéristique. Les Élémentaires, les Vases et les Morts-Vivants ne sont pas affectés par cette aptitude.
 
 ## Évasion
 
@@ -183,7 +183,7 @@ Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets d
 
 Au niveau 15, vous avez un talent pour échapper à la mort. Lorsque vous tombez à 0 point de vie et ne mourez pas de suite, vous pouvez utiliser votre réaction et dépenser un dé de risque pour rester debout. Vous tombez plutôt à un nombre de points de vie égal au résultat du dé.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Maverick
 
@@ -191,9 +191,9 @@ Au niveau 18, vous êtes imperturbable. Vous avez l'avantage aux jets de Constit
 
 ## Tir dans la Tête
 
-Au niveau 20, lorsque vous infligez un coup critique contre une créature avec une arme à feu, vous pouvez choisir de faire de ce tir un tir dans la tête. Si la créature a moins de 100 points de vie, elle meurt. Sinon, elle prend 10d10 dégâts supplémentaires. Les Élémentaires, Vases et Morts-Vivants ainsi que les créatures qui n'ont pas de système nerveux ou d'organes vitaux ne prennent pas de dégâts supplémentaires de cette compétence.
+Au niveau 20, lorsque vous infligez un coup critique contre une créature avec une arme à feu, vous pouvez choisir de faire de ce tir un tir dans la tête. Si la créature a moins de 100 points de vie, elle meurt. Sinon, elle prend 10d10 dégâts supplémentaires. Les Élémentaires, Vases et Morts-Vivants ainsi que les créatures qui n'ont pas de système nerveux ou d'organes vitaux ne prennent pas de dégâts supplémentaires de cette aptitude.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
 
 

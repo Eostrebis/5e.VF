@@ -5,7 +5,7 @@ status: finished
 
 Trahi par ses amis et ses ennemis, Nezaré le vengeur offre à ses ligateurs sa chair meurtrie et son sang bouillant
 
-# Compétences
+# Aptitudes
 
 ## Voie du Martyr
 Tant que vous êtes lié à Nezare, votre maximum de points de vie augmente de votre niveau de ligateur + votre modificateur de Charisme.
@@ -14,7 +14,7 @@ Tant que vous êtes lié à Nezare, votre maximum de points de vie augmente de v
 Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez verser votre propre sang bouillant pour infliger des dégâts supplémentaires à la cible. Lorsque vous le faites, choisissez un nombre de d8s inférieur à votre modificateur de Charisme. Vous ajoutez autant de d8s de dégâts radiants à votre jet de dégâts. Vous perdez 3 points de vie pour chaque dé supplémentaire.
 
 ## Pitié
-Vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à votre niveau de ligateur. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
+Vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à votre niveau de ligateur. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Chair Épineuse
 Tant que vous êtes lié à Nezaré, votre chair se durcit et laisse pousser de longues épines aiguisées. Lorsqu'une créature à 5 ft. vous touche avec une attaque armée de mêlée, elle prend un nombre de dégâts perçants égal à votre modificateur de Charisme.

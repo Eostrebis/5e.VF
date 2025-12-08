@@ -5,7 +5,7 @@ status: finished
 
 Chercheuse planaire renommée qui a découvert la véritable nature du Vide, Korine offre à ses ligateurs le pouvoir de défier la physique, principalement par la téléportation.
 
-# Compétences
+# Aptitudes
 
 ## Faible Gravité
 Tant que vous êtes lié à Korine, la distance de votre saut en longueur et la hauteur de votre saut en hauteur sont doublées, et vous ne prenez que la moitié des dégâts de chute.

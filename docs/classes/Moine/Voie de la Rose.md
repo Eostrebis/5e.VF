@@ -17,7 +17,7 @@ Au niveau 6, vous pouvez réaliser une technique spéciale qui vous permet de di
 
 ## Couleurs de l'Amour
 
-Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d'une faible aura. Lorsque vous terminez un repos long, choisissez l'une des auras suivantes, qui dure jusqu'à ce que vous utilisiez cette compétence pour en choisir une autre. Cette aura fait effet 5 ft. autour de vous.
+Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d'une faible aura. Lorsque vous terminez un repos long, choisissez l'une des auras suivantes, qui dure jusqu'à ce que vous utilisiez cette aptitude pour en choisir une autre. Cette aura fait effet 5 ft. autour de vous.
 
 **Rose.** La couleur de la gratitude, se lier à la rose rose transforme les bonnes actions en récompenses. Vous pouvez utiliser votre action bonus pour aider un allié dans votre aura.
 

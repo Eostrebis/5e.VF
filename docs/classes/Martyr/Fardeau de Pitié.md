@@ -23,7 +23,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Également au niveau 1, vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer la condition [[aveuglé]], [[assourdi]], [[empoisonné]] d'une créature consentante que vous touchez.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Sorts Sacrosaints
 
@@ -35,4 +35,4 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 ## Oint Soigneur
 
-Au niveau 18, votre statut de soigneur divin est reconnu par la canonisation. Lorsque vous rendez des points de vie à une créature, vous pouvez ajouter votre niveau de martyr au nombre de points de vie rendus. Une créature ne peut bénéficier de cette compétence qu'une fois pour chacun de vos repos longs. 
+Au niveau 18, votre statut de soigneur divin est reconnu par la canonisation. Lorsque vous rendez des points de vie à une créature, vous pouvez ajouter votre niveau de martyr au nombre de points de vie rendus. Une créature ne peut bénéficier de cette aptitude qu'une fois pour chacun de vos repos longs. 

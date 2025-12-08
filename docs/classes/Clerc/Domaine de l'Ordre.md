@@ -37,7 +37,7 @@ Au niveau 6, vous êtes devenu remarquablement habile à canaliser votre énergi
 
 Si vous lancez un sort de l'école d'enchantement en utilisant un emplacement de sort de niveau 1 ou plus, vous pouvez changer le temps d'incantation du sort de 1 action à 1 action bonus, pour cette incantation.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse (minimum 1), et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1), et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Frappe Divine
 

@@ -21,7 +21,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les [[Armures Lo
 
 Au niveau 1, vous devenez capable d'infuser une arme ou une armure d'un peu de magie. À la fin d'un repos long, vous pouvez toucher un objet non magique qui est une armure ou une arme simple ou martiale. Jusqu'à la fin de votre prochain repos long ou jusqu'à ce que vous mouriez, cet objet devient magique, conférant un bonus de +1 à la CA si c'est une armure ou +1 aux jets d'attaque et de dégâts si c'est une arme.
 
-Une fois que vous avez utilisé cette compétence, vous ne pas l'utiliser à nouveau avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pas l'utiliser à nouveau avant d'avoir terminé un repos long.
 
 ## Canal Divin : Bénédiction de l'Artisan
 

@@ -49,4 +49,4 @@ Au niveau 20, votre présence sur le champ de bataille est une inspiration pour 
  - Vos alliés ont l'avantage aux jets de sauvegarde contre la mort tant qu'ils se trouvent à 30 ft. de vous.
  - Vous avez l'avantage aux jets de sauvegarde de Sagesse, ainsi que vos alliés à 30 ft. de vous.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

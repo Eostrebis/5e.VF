@@ -55,5 +55,5 @@ Lorsqu'une créature ennemie commence son tour dans la lumière vive, elle prend
 
 De plus, pendant cette durée, vous avez l'avantage aux jets de sauvegarde contre les sorts lancés par les fiélons ou les morts-vivants.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
   

@@ -21,9 +21,9 @@ Si vous êtes capable de lancer des sorts, vous ne pouvez ni les lancer ni vous 
 
 Votre Métamorphose Occulte dure 1 minute. Elle se termine prématurément si vous tombez [[inconscient]] ou si votre tour se termine et que vous n'avez pas attaqué une créature hostile depuis votre dernier tour ou subi de dégâts depuis lors. Vous pouvez également mettre fin à votre Métamorphose Occulte pendant votre tour par une action bonus.
 
-Une fois que vous avez été en rage (ou subi une Métamorphose Occulte) le nombre de fois indiqué pour votre niveau de barbare dans la colonne Rages de la table du Barbare, vous devez terminer un repos long avant de pouvoir utiliser ces compétences à nouveau.
+Une fois que vous avez été en rage (ou subi une Métamorphose Occulte) le nombre de fois indiqué pour votre niveau de barbare dans la colonne Rages de la table du Barbare, vous devez terminer un repos long avant de pouvoir utiliser ces aptitudes à nouveau.
 
-De plus, toute compétence de classe de Barbare qui s'applique à votre Rage (comme _Rage Persistante_) s'applique également à la Métamorphose Occulte, sauf indication contraire.
+De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme _Rage Persistante_) s'applique également à la Métamorphose Occulte, sauf indication contraire.
 
 ## Chant des Profondeurs
 
@@ -43,4 +43,4 @@ De plus, se déplacer dans un terrain difficile ne vous coûte pas de mouvement 
 
 À partir du niveau 14, votre puissance d'outre-monde et vos instincts sauvages vous permettent de fendre vos ennemis avec une férocité inédite. Lorsque vous êtes sous les effets de la Métamorphose Occulte et que vous touchez une créature avec une attaque de mêlée, vous pouvez utiliser votre réaction pour infliger un coup critique comme si vous aviez obtenu 20 au jet d'attaque.
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos court ou long avant de pouvoir l'utiliser à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos court ou long avant de pouvoir l'utiliser à nouveau.

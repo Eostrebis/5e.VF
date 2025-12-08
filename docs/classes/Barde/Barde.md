@@ -19,7 +19,7 @@ La plus grande force des bardes, et de loin, est leur versatilité. La plupart d
 
 Les vrais bardes ne sont pas communs dans le monde. Ce n'est pas le premier ménestrel venu chantant dans une taverne ou le bouffon du roi qui peut se prétendre barde. Découvrir la magie cachée dans la musique demande de longues études et un peu de talent naturel que la plupart des troubadours n'ont pas. Il peut être difficile de différencier ces artistes et de vrais bardes, cependant. La vie d'un barde est passée à voyager à travers les terres pour recueillir histoires et savoir, raconter des contes, et vivre de la gratitude de son audience, comme tout autre artiste. Mais une profondeur de la connaissance, une compétence en musique et un tantinet de magie séparent les bardes des autres.
 
-Il est rare qu'un barde ne s'installe à un endroit pour trop longtemps, et leur désir naturel de voyager — pour trouver de nouvelles histoires, de nouvelles compétences et de nouvelles découvertes — rend la carrière d'aventurier une évidence pour les bardes. Chaque aventure est une opportunité pour apprendre, s'entraîner à tout un tas de compétence, entrer dans des tombes oubliées de tous, découvrir des ouvrages de magie oubliés, déchiffrer de vieux tomes, voyager à d'étranges endroits ou rencontrer d'exotiques créatures. Les bardes adorent accompagner les héros pour assister à leurs exploits de leurs propres yeux. Un barde qui peut conter une formidable histoire d'après sa propre expérience gagne une renommée immense auprès des autres bardes.
+Il est rare qu'un barde ne s'installe à un endroit pour trop longtemps, et leur désir naturel de voyager — pour trouver de nouvelles histoires, de nouvelles compétences et de nouvelles découvertes — rend la carrière d'aventurier une évidence pour les bardes. Chaque aventure est une opportunité pour apprendre, s'entraîner à tout un tas de compétences, entrer dans des tombes oubliées de tous, découvrir des ouvrages de magie oubliés, déchiffrer de vieux tomes, voyager à d'étranges endroits ou rencontrer d'exotiques créatures. Les bardes adorent accompagner les héros pour assister à leurs exploits de leurs propres yeux. Un barde qui peut conter une formidable histoire d'après sa propre expérience gagne une renommée immense auprès des autres bardes.
 
 ## Créer un Barde
 
@@ -31,33 +31,33 @@ Avez-vous été un apprenti, étudiant auprès d'un maître, suivant un barde pl
 
 Vous pouvez créer un barde rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Dextérité. Choisissez l'historique [[comique]]. Enfin, choisissez les cantrips [[Fou Rire]] et [[Lumières Dansantes]], ainsi que les sorts de niveau 1 [[Charme-personne]], [[Détection de la Magie]] et [[Vague Tonnante]].
 
-| **Le barde** |                   |             |
-| ------------ | ----------------- | ----------- |
-| Niveau       | Bonus de Maîtrise | Compétences |
-| 1            | +2                |             |
-| 2            | +2                |             |
-| 3            | +2                |             |
-| 4            | +2                |             |
-| 5            | +3                |             |
-| 6            | +3                |             |
-| 7            | +3                |             |
-| 8            | +3                |             |
-| 9            | +4                |             |
-| 10           | +4                |             |
-| 11           | +4                |             |
-| 12           | +4                |             |
-| 13           | +5                |             |
-| 14           | +5                |             |
-| 15           | +5                |             |
-| 16           | +5                |             |
-| 17           | +6                |             |
-| 18           | +6                |             |
-| 19           | +6                |             |
-| 20           | +6                |             |
+| **Le barde** |                   |           |
+| ------------ | ----------------- | --------- |
+| Niveau       | Bonus de Maîtrise | Aptitudes |
+| 1            | +2                |           |
+| 2            | +2                |           |
+| 3            | +2                |           |
+| 4            | +2                |           |
+| 5            | +3                |           |
+| 6            | +3                |           |
+| 7            | +3                |           |
+| 8            | +3                |           |
+| 9            | +4                |           |
+| 10           | +4                |           |
+| 11           | +4                |           |
+| 12           | +4                |           |
+| 13           | +5                |           |
+| 14           | +5                |           |
+| 15           | +5                |           |
+| 16           | +5                |           |
+| 17           | +6                |           |
+| 18           | +6                |           |
+| 19           | +6                |           |
+| 20           | +6                |           |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que barde, vous disposez des compétences de classes suivantes.
+En tant que barde, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -130,7 +130,7 @@ Vous pouvez inspirer les autres à travers des mots ou une musique bien choisis.
 
 Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle réalise. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 Votre dé d'Inspiration Bardique change lorsque vous atteignez certains niveaux dans cette classe. Il devient un d8 au niveau 5, un d10 au niveau 10 et un d12 au niveau 15.
 
@@ -150,7 +150,7 @@ Au niveau 2, si une créature possède un dé d'Inspiration Bardique de votre pa
 
 ## Collège de Barde
 
-Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde de votre choix. Votre choix vous confère des compétences aux niveaux 3, 6 et 14.
+Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde de votre choix. Votre choix vous confère des aptitudes aux niveaux 3, 6 et 14.
 
 | Collège de Barde | Description |
 | ---------------- | ----------- |
@@ -182,7 +182,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 De plus, en tant que barde, vous pouvez réaliser l'une des actions suivantes : 
 
- - Changer une des compétences affectées par la compétence [[#Expertise]].
+ - Changer une des compétences affectées par l'aptitude [[#Expertise]].
  - Remplacer un cantrip de barde que vous connaissez par un autre cantrip de barde.
 
 ## Source d'Inspiration

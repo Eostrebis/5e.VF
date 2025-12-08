@@ -29,7 +29,7 @@ status: finished
 >### Actions
 >***Frappe.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d8 + 2) dégâts contondants.
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'elle suit les ordres de son capitaine, la construction obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

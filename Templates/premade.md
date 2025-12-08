@@ -46,18 +46,18 @@ __Âge :__ XX ans
 __Taille :__ X,XX m
 
 __Poids :__ XX kg
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 ### Equipement
 
  - 
 ## Historique
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 ### Traits de Personnalité
 

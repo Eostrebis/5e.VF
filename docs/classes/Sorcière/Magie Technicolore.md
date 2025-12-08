@@ -30,10 +30,10 @@ Au niveau 3, vous avez l'avantage aux jets de Sagesse (Dressage) que vous faites
 
 À partir du niveau 10, vous pouvez utiliser vos liens d'amitié pour vous protéger. Lorsqu'un attaquant que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour gagner un bonus à votre CA égal au nombre de créatures amicales à 5 ft. (+10 maximum).
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos pour l'utiliser à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos pour l'utiliser à nouveau.
 
 ## Arc de Rédemption
 
 À partir du niveau 14, vous pouvez pardonner vos ennemis plutôt que de les achever. Lorsqu'une créature hostile que vous voyez tombe à 0 points de vie, vous pouvez utiliser votre réaction pour protéger la créature de souffrances supplémentaires. La créature est stable mais inconsciente jusqu'à ce qu'elle regagne des points de vie. Lorsque la créature se réveille, tous les effets qui la charmaient, la maudissaient, l'effrayaient ou la possédaient se terminent. De plus, la créature perd un de ses liens ou défauts qui la rendaient hostile par rapport à vous.
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos long pour le refaire.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour le refaire.

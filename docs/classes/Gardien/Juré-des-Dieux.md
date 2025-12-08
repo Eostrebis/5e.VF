@@ -15,7 +15,7 @@ Au niveau 3, vous pouvez utiliser votre [[Gardien#Marque du Gardien|Marque du Ga
 
 Au niveau 6, les esprits des saints et martyrs se lèvent pour vous protéger. Vous pouvez utiliser votre action pour lancer le sort [[esprits gardiens]] (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Force) sans utiliser d'emplacement de sort.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
 ## Trempe
 
@@ -25,4 +25,4 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous son
 
 Au niveau 20, vous pouvez utiliser votre action bonus pour vous recouvrir d'une protection divine, une faible lueur et un halo à peine visible représentant le manteau sacré. Pendant la prochaine minute, tant que vous êtes conscient, vous regagnez 5 points de vie au début de chacun de vos tours. Si vous avez moins de la moitié de vos points de vie au début de votre tour, vous en regagnez 10 à la place.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

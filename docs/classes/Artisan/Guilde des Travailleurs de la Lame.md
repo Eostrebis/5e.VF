@@ -11,7 +11,7 @@ Lame et arc, hache et masse : voilà les outils avec lesquels les Travailleurs d
 Tant que vous maniez une arme de mêlée à une main et aucune autre arme, vous bénéficiez d'un bonus de +2 aux jets de dégâts avec cette arme.
 
 ### Combat à Deux Mains
-Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette compétence.
+Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette aptitude.
 
 ### Une main et demie
 Tant que vous maniez une arme polyvalente à deux mains, vous gagnez un bonus de +1 aux jets d'attaque et de dégâts avec cette arme.
@@ -37,7 +37,7 @@ __Aiguisée.__ Cette arme inflige 1d8 dégâts supplémentaires lorsqu'elle touc
 
 ## Maître Polyvalent des Armes
 
-Au niveau 14, vous pouvez manier toute sorte d'armes en rapide succession. Une fois à chacun de vos tours lorsque vous attaquez avec une arme, vous pouvez gagner l'avantage au jet d'attaque. Vous pouvez utiliser cette compétence 4 fois : une fois pour réaliser une attaque armée à distance avec une arme avec la propriété Munition, une pour réaliser une attaque armée de mêlée avec une arme à deux mains, une pour réaliser une attaque armée de mêlée avec une arme à une main et une pour réaliser une attaque armée à distance avec une arme de jet. Chaque utilisation doit être réalisée avec une arme différente, et vous regagnez chaque utilisation de cette compétence au bout de 1 minute. Vous ne pouvez pas utiliser cette compétence si vous avez le désavantage au jet d'attaque ou si vous ne pouvez pas voir la cible.
+Au niveau 14, vous pouvez manier toute sorte d'armes en rapide succession. Une fois à chacun de vos tours lorsque vous attaquez avec une arme, vous pouvez gagner l'avantage au jet d'attaque. Vous pouvez utiliser cette aptitude 4 fois : une fois pour réaliser une attaque armée à distance avec une arme avec la propriété Munition, une pour réaliser une attaque armée de mêlée avec une arme à deux mains, une pour réaliser une attaque armée de mêlée avec une arme à une main et une pour réaliser une attaque armée à distance avec une arme de jet. Chaque utilisation doit être réalisée avec une arme différente, et vous regagnez chaque utilisation de cette aptitude au bout de 1 minute. Vous ne pouvez pas utiliser cette aptitude si vous avez le désavantage au jet d'attaque ou si vous ne pouvez pas voir la cible.
 
 ## Propriété Légendaire
 

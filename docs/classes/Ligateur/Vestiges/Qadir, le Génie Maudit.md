@@ -5,7 +5,7 @@ status: finished
 
 Génie au destin tragique qui abandonna celui qui l'invoqua, Qadir offre à ses ligateurs un seul vœu afin de les abandonner à leurs tours.
 
-# Compétences
+# Aptitudes
 
 ## Vœu Fatal
 Tant que vous êtes lié à Qadir, vous pouvez lancer le sort [[souhait]], sans dépenser d'emplacement de sort ou de composantes matérielles, pour dupliquer l'effet d'un sort de niveau 8 ou moins. Une fois que vous avez lancé ce sort, Qadir est expulsé et remplacé par un vestige de votre choix de niveau 3 ou moins. Vous ne pouvez vous relier à Qadir avant de terminer un repos long.

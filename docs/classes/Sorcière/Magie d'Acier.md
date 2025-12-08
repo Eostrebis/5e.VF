@@ -38,4 +38,4 @@ Au niveau 6, lorsque vous utilisez votre Ricanement, vous pouvez attaquer deux f
 
 À partir du niveau 14, votre magie maudite s'est infiltrée dans votre arme. Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez réaliser un coup hurlant. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez les utilisations dépensées lorsque vous terminez un repos long.

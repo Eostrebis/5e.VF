@@ -19,25 +19,17 @@ Lorsque que vous faites face à un obstacle, votre premier instinct est de lui f
 
 ## Botte Secrète
 
-Au niveau 6, vous maîtrisez une technique spéciale qui devient rapidement synonyme de vos exploits. Choisissez l'une des compétences qui suit. Ces compétences ont des noms suggérés, mais vous pouvez le changer. Imaginez un nom qui sonnerait bien scandé par la foule ou que vous hurleriez en le réalisant.
+Au niveau 6, vous maîtrisez une technique spéciale qui devient rapidement synonyme de vos exploits. Choisissez l'une des aptitudes qui suit. Ces aptitudes ont des noms suggérés, mais vous pouvez le changer. Imaginez un nom qui sonnerait bien scandé par la foule ou que vous hurleriez en le réalisant.
 
 **Objet Étranger.** Vous maîtrisez les armes improvisées, que vous traitez comme des armes monastiques. À chacun de vos tours, vous pouvez dépenser 1 point de ki pour ajouter la moitié de votre niveau de moine aux dégâts d'une arme improvisée.
 
 **Coup de Boule de la Justice.** Une fois à chacun de vos tours lorsque vous ratez avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour enchaîner avec un rapide coup de boule. Réalisez une seconde attaque à mains nues contre la même cible. Le dé de dégâts de cette attaque est un d8.
 
-<<<<<<< HEAD
 **Suplex de l'Infini.** Tant que vous êtes en lutte avec une autre créature, vous pouvez utiliser votre action bonus et dépenser 1 point de ki pour terminer la lutte en envoyant votre adversaire par-dessus votre épaule et en l'étalant au sol. Réalisez un jet d'attaque contre la créature que vous avez saisie. Si vous touchez, la créature prend des dégâts contondants égal à 2d10 + votre modificateur de Force et est mise [[au sol]]. La lutte se termine ensuite.
 
 ## Sur la Corde
 
 Au niveau 11, une fois par tour lorsque vous tombez de 5 ft. ou plus avant de réaliser une attaque à mains nues, vous pouvez choisir d'en faire une frappe étourdissante sans dépenser de ki, ou de mettre la cible [[au sol]] et d'automatiquement la saisir si vous touchez.
-=======
-**Suplex de l'Infini.** Tant que vous êtes en lutte avec une autre créature, vous pouvez utiliser votre action bonus et dépenser 1 point de ki pour terminer la lutte en envoyant votre adversaire par-dessus votre épaule et en l'étalant au sol. Réalisez un jet d'attaque contre la créature que vous avez saisie. Si vous touchez, la créature prend des dégâts contondants égaux à 2d10 + votre modificateur de Force et est mise [[au sol]]. La lutte se termine ensuite.
-
-## Sur la Corde
-
-Au niveau 11, une fois par tour, lorsque vous tombez de 5 ft. ou plus avant de réaliser une attaque à mains nues, vous pouvez choisir d'en faire une frappe étourdissante sans dépenser de ki, ou de mettre la cible [[au sol]] et d'automatiquement la saisir si vous touchez.
->>>>>>> origin/main
 
 ## Étranglement
 

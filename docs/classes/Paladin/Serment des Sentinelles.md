@@ -52,6 +52,6 @@ Au niveau 20, vous manifestez une étincelle de pouvoir divin dans votre défens
 
  - Vous obtenez la [[vision totale]] sur une portée de 120 ft.
  - Vous avez l'avantage aux jets d'attaque contre les aberrations, les célestes, les élémentaires, les feys et les fiélons.
- - Lorsque vous touchez une créature avec un jet d'attaque et lui infligez des dégâts, vous pouvez également la forcer à réaliser un jet de sauvegarde de Charisme. Si elle échoue, la créature est magiquement bannie vers son plan natif si elle ne s'y trouve pas déjà. Si elle réussit, elle ne peut être bannie par cette compétence pendant 24 heures.
+ - Lorsque vous touchez une créature avec un jet d'attaque et lui infligez des dégâts, vous pouvez également la forcer à réaliser un jet de sauvegarde de Charisme. Si elle échoue, la créature est magiquement bannie vers son plan natif si elle ne s'y trouve pas déjà. Si elle réussit, elle ne peut être bannie par cette aptitude pendant 24 heures.
  - 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous utilisez un emplacement de sort de niveau 5.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous utilisez un emplacement de sort de niveau 5.

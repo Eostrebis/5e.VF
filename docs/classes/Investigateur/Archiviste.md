@@ -50,7 +50,7 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 
 Au niveau 6, vous avez maîtrisé la délicate théorie de la propagation arcanique. Lorsque vous lancez un sort qui force une créature à réaliser un jet de sauvegarde pour résister aux effets, vous pouvez donner à une cible du sort le désavantage à son premier jet de sauvegarde contre le sort.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
 
 ## Expertise Encyclopédique
 
@@ -60,6 +60,6 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutil
 
 Au niveau 14, vous pouvez reproduire sans difficulté tous les sorts que vous voyez. Vous pouvez recopier n'importe quel sort de rituel que vous voyez être lancé dans votre grimoire.
 
-De plus, vous pouvez précisément reproduire les mouvements utilisés lors de l'incantation d'un sort pour reproduire ses effets. Lorsque vous voyez un sort de niveau 5 ou inférieur être lancé, vous pouvez utiliser votre action et dépenser 1 utilisation de votre Incantation Pressée pour lancer le même sort vous-même, sans dépenser d'emplacement de sort. Pour utiliser cette compétence, le sort doit avoir un temps d'incantation de 1 action, doit avoir été lancé dans la dernière minute et ne doit pas nécessiter de composantes matérielles coûteuses.
+De plus, vous pouvez précisément reproduire les mouvements utilisés lors de l'incantation d'un sort pour reproduire ses effets. Lorsque vous voyez un sort de niveau 5 ou inférieur être lancé, vous pouvez utiliser votre action et dépenser 1 utilisation de votre Incantation Pressée pour lancer le même sort vous-même, sans dépenser d'emplacement de sort. Pour utiliser cette aptitude, le sort doit avoir un temps d'incantation de 1 action, doit avoir été lancé dans la dernière minute et ne doit pas nécessiter de composantes matérielles coûteuses.
 
 Une fois que vous avez reproduit un sort ainsi, vous ne pouvez le refaire avant de terminer un repos long.

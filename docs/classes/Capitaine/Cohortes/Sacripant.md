@@ -29,7 +29,7 @@ status: finished
 >
 >***Arc Court.*** *Attaque Armée à Distance :* +4 pour toucher, portée 80/320 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts perçants.
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le sacripant obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

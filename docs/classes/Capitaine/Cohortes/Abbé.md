@@ -32,7 +32,7 @@ status: finished
 > ### Actions Bonus
 > ***Coup Traçant (1/Jour).*** Lorsque l'abbé touche une créature avec une attaque armée, il peut entourer la cible de lumière divine. Le prochain jet d'attaque réalisé contre la cible avant la fin du prochain tour de l'abbé a l'avantage.
 
-### Compétences de Cohorte
+### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, l'abbé obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 

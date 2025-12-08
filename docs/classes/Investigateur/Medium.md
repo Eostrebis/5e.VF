@@ -21,18 +21,18 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 ## Présence Rassurante
 
-Au niveau 6, les esprits des morts guident votre main quand vous tremblez. Vous pouvez relancer n'importe quel jet d'attaque, de caractéristique ou de sauvegarde que vous réalisez, et vous devez utiliser le nouveau jet. Vous pouvez choisir d'utiliser cette compétence après avoir réalisé le jet, mais avant que le MJ n'annonce le résultat.
+Au niveau 6, les esprits des morts guident votre main quand vous tremblez. Vous pouvez relancer n'importe quel jet d'attaque, de caractéristique ou de sauvegarde que vous réalisez, et vous devez utiliser le nouveau jet. Vous pouvez choisir d'utiliser cette aptitude après avoir réalisé le jet, mais avant que le MJ n'annonce le résultat.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Murmures de l'Au-Delà
 
 À partir du niveau 10, pour une action, vous pouvez ouvrir votre perception pour recevoir un indice de derrière le voile. Le MJ répond avec un indice d'un mot lié à votre meilleur plan d'action, une piste d'enquête fructueuse ou toute autre direction.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
 
 ## Troisième Œil
 
 Au niveau 14, votre connexion avec l'au-delà vous permet de tout voir. Vous pouvez utiliser votre action bonus pour lancer le sort [[vision suprême]] sans dépenser d'emplacement de sort ou de composantes. 
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.

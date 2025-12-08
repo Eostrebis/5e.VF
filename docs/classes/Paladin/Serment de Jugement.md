@@ -62,4 +62,4 @@ Au niveau 20, vous comprenez enfin que le Guerrier-Saint était autrefois un pal
  - Si vous deviez être affecté par un sort de niveau 5 ou moins, qui inflige des dégâts, vous pouvez utiliser votre réaction pour lancer ce même sort sans avoir à dépenser d'emplacement. 
  - Lorsque vous vous déplacez, vous pouvez choisir de vous téléporter à la place. 
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

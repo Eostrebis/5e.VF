@@ -59,9 +59,9 @@ Elle porte des vêtements sombres et fonctionnels, souvent en cuir usé, choisis
 %% Presque toujours, son diablotin familier est perché sur son épaule, une petite créature de soufre et de méchanceté. C'est lui qui observe le monde avec une curiosité malveillante, ses petits yeux jaunes brillant là où ceux de Pahna restent vides. Souvent, c'est le léger ricanement ou le battement d'ailes impatient du diablotin qui annonce ses intentions, bien avant que la marionnette de chair qui lui sert de maîtresse ne daigne bouger.
  %%
 ![[Pahna.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
@@ -69,7 +69,7 @@ Elle porte des vêtements sombres et fonctionnels, souvent en cuir usé, choisis
 
 **Héritage de Minauros.** Vous connaissez le cantrip [[Main de Mage]].
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Incantation
 
@@ -128,7 +128,7 @@ C'est ainsi que la Sorcière est née. L'automutilation devint sa méditation, c
 
 Aujourd'hui, Pahna n'erre plus sans but. Elle a un objectif, aussi simple que vital : sentir. Elle est une collectionneuse de sensations fortes, une artiste dont la toile est la chair et l'encre, le sang. Guidée par la faim insatiable de son âme, elle parcourt le monde, une marionnette à la recherche de la prochaine symphonie de la souffrance qui, pour un instant, lui permettra de tirer ses propres ficelles.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Sorcière sanguine, Pahna peut faciliter sa récupération magique par le sacrifice de son propre sang. En se taillant le bras et en se concentrant pendant une minute, Pahna peut récupérer un emplacement de sort de niveau n en dépensant 10\*n points de vie. Une fois qu'elle a utilisé cette capacité, Pahna ne peut pas la réutiliser avant d'avoir terminé un repos long.
 

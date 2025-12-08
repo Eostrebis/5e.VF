@@ -197,7 +197,7 @@ Au début de chaque combat, vous lancez l'initiative en faisant un jet de Dexté
 La Constitution détermine la santé, l'endurance et la force vitale.
 
 #### Jets de Constitution
-Les jets de Constitution sont rares, et aucune compétence n'applique à un jet de Constitution, car l'endurance que cette caractéristique représente est généralement passive et n'implique pas un effort particulier de la part d'un personnage ou monstre. Un jet de Constitution peut toutefois modéliser votre tentative d'aller au-delà de vos limites normales. Le MJ peut demander un jet de Constitution lorsque vous essayez d'accomplir des tâches comme :
+Les jets de Constitution sont rares, et aucune compétence ne s'applique à un jet de Constitution, car l'endurance que cette caractéristique représente est généralement passive et n'implique pas un effort particulier de la part d'un personnage ou monstre. Un jet de Constitution peut toutefois modéliser votre tentative d'aller au-delà de vos limites normales. Le MJ peut demander un jet de Constitution lorsque vous essayez d'accomplir des tâches comme :
 - Retenir votre souffle
 - Marcher ou travailler pendant des heures sans repos
 - Ne pas dormir

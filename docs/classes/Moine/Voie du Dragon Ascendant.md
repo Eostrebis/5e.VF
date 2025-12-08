@@ -19,7 +19,7 @@ En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vou
 
 À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez canaliser le pouvoir draconique pour augmenter votre présence et insuffler vos attaques à mains nues avec l'essence d'un souffle de dragon. Vous gagnez les effets suivants : 
 
-**Présence Draconique.** Si vous ratez un jet de Charisme (Intimidation) ou Charisme (Persuasion), vous pouvez utiliser votre réaction pour retirer le jet, en puisant dans l'immense présence des dragons. Une fois que cette compétence transforme un échec en succès, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+**Présence Draconique.** Si vous ratez un jet de Charisme (Intimidation) ou Charisme (Persuasion), vous pouvez utiliser votre réaction pour retirer le jet, en puisant dans l'immense présence des dragons. Une fois que cette aptitude transforme un échec en succès, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
 
 **Coup Draconique.** Lorsque vous infligez des dégâts à une cible avec une attaque à mains nues, vous changez le type de dégâts pour acide, froid, feu, foudre ou poison.
 
@@ -31,13 +31,13 @@ En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vou
 
 Au niveau 11, les dégâts augmentent à 3 lancers de votre dé d'arts martiaux.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long. Tant qu'il ne vous reste plus d'utilisations disponibles, vous pouvez dépenser 2 points de ki pour utiliser cette compétence.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long. Tant qu'il ne vous reste plus d'utilisations disponibles, vous pouvez dépenser 2 points de ki pour utiliser cette aptitude.
 
 ## Ailes Déployées
 
 Au niveau 6, lorsque vous utilisez votre Pas du Vent, vous pouvez déployer des ailes draconiques spectrales dans votre dos qui disparaissent à la fin de votre tour. Tant que ces ailes existent, vous possédez une vitesse de vol égale à votre vitesse de marche.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Aspect de Wyrm
 

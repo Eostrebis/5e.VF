@@ -59,9 +59,9 @@ Ces dagues sont ses outils et sa fierté. Elles sont simples, sans fioritures, a
 Il se déplace avec une grâce furtive, longeant les murs et restant dans les ombres par pure habitude. Il a un calme et une immobilité qui peuvent être déconcertants, capable de rester parfaitement immobile pendant de longues minutes, observant et analysant, avant de bouger avec une rapidité fulgurante. Il est l'incarnation de sa philosophie : un être petit, précis et potentiellement dévastateur.
 
 ![[Pagé.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Compression.** Vous ne souffrez d'aucune pénalité pour vous faufiler dans un espace qui n'est suffisamment grand que pour une créature d'une (1) taille inférieure à la vôtre.
 
@@ -71,7 +71,7 @@ __Pas de Côté du Sourilin.__ Lorsqu'une créature que vous pouvez voir réali
 
 **Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #TODO
 
@@ -115,7 +115,7 @@ Il fit ses adieux à Borr, non pas avec des mots, mais en montrant sa plus petit
 
 Pagé parcourt désormais le monde, non pas comme un simple roublard, mais comme un sculpteur de destins. Il cherche les "titans" – les tyrans, les monstres, les organisations oppressives – non pas pour les affronter de front, mais pour étudier leur structure, trouver leur ligne de faille, et y planter ses ciseaux d'acier avec une précision mortelle.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Vous avez absorbé de la magie primitive, ce qui vous confère un écho de la puissance des géants. 
 

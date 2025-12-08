@@ -26,14 +26,14 @@ Au niveau 11, votre ki est complètement consommé par le vide entre les étoile
 
 ## Techniques sans Soleil
 
-Également au niveau 11, votre dévotion aux ténèbres au-delà du ciel vous permet d'invoquer de plus grands pouvoirs encore. Vous pouvez dépenser 3 points de ki pour lancer [[Ténèbres Rampantes]], [[croc du renard]], [[Abri d'Ombre]] ou [[poison d'ombre]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 3 points de ki pour lancer les sorts conférés par les autres compétences de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 3.
+Également au niveau 11, votre dévotion aux ténèbres au-delà du ciel vous permet d'invoquer de plus grands pouvoirs encore. Vous pouvez dépenser 3 points de ki pour lancer [[Ténèbres Rampantes]], [[croc du renard]], [[Abri d'Ombre]] ou [[poison d'ombre]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 3 points de ki pour lancer les sorts conférés par les autres aptitudes de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 3.
 
 ## Connaissance d'un Autre Monde
 
-Au niveau 17, votre voyage spirituel vous a amené à scruter directement au cœur noir des étoiles elles-mêmes, où toute la lumière finit par disparaître, et ce cœur vous a scruté, vous conférant la sagesse collective de l'univers. Pour une action, vous pouvez ouvrir votre esprit à cette connaissance pendant 10 minutes. Pendant ce temps, vous maîtrisez toutes les compétences et tous les outils, et vous pouvez utiliser votre modificateur de Sagesse plutôt que n'importe quel autre modificateur, pour n'importe quel jet de compétence.
+Au niveau 17, votre voyage spirituel vous a amené à scruter directement au cœur noir des étoiles elles-mêmes, où toute la lumière finit par disparaître, et ce cœur vous a scruté, vous conférant la sagesse collective de l'univers. Pour une action, vous pouvez ouvrir votre esprit à cette connaissance pendant 10 minutes. Pendant ce temps, vous maîtrisez toutes les compétences et tous les outils, et vous pouvez utiliser votre modificateur de Sagesse plutôt que n'importe quel autre modificateur, pour n'importe quel jet de aptitude.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Techniques de l'Eclipse
 
-Également au niveau 17, vous avez terminé votre exploration de votre lame du vide, et vous avez enfin aperçu la vérité derrière les ténèbres. Vous pouvez dépenser 4 points de ki pour lancer [[promesse d'assassin]], [[cape pourpre]], [[lames éblouissantes]] ou [[griffe invisible]] sans avoir à consommer de composantes matérielles. Enfin, vous pouvez dépenser 4 points de ki pour lancer les sorts conférés par les autres compétences de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 4.
+Également au niveau 17, vous avez terminé votre exploration de votre lame du vide, et vous avez enfin aperçu la vérité derrière les ténèbres. Vous pouvez dépenser 4 points de ki pour lancer [[promesse d'assassin]], [[cape pourpre]], [[lames éblouissantes]] ou [[griffe invisible]] sans avoir à consommer de composantes matérielles. Enfin, vous pouvez dépenser 4 points de ki pour lancer les sorts conférés par les autres aptitudes de la Voie de l'Étoile Noire comme s'ils étaient lancés avec un emplacement de sort de niveau 4.

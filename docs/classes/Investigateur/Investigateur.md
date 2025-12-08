@@ -33,33 +33,33 @@ Est-ce que vous avez appris auprès d'un chasseur de monstres expérimentés, ap
 
 Vous pouvez créer un Investigateur rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Dextérité ou de la Force. Ensuite, choisissez les rituels [[Indice]], [[Compréhension des Langues]], [[Détection de la Magie]] et [[Rempart Éphémère]]. Choisissez l'historique de votre choix.
 
-| **Le Investigateur** |                   |                                                           |                  |
-| -------------------- | ----------------- | --------------------------------------------------------- | ---------------- |
-| Niveau               | Bonus de Maîtrise | Compétences                                               | Niveau de Rituel |
-| 1                    | +2                | [[#Expertise]], [[#Ritualiste]]                           | 1                |
-| 2                    | +2                | [[#Mythes et Légendes]], [[#Incantation Pressée]]         | 1                |
-| 3                    | +2                | [[#Spécialisation Occulte]]                               | 2                |
-| 4                    | +2                | [[#Augmentation de Caractéristiques]]                     | 2                |
-| 5                    | +3                | [[#Exploitation des Faiblesses]]                          | 3                |
-| 6                    | +3                | [[#Expertise]], Compétence de [[#Spécialisation Occulte]] | 3                |
-| 7                    | +3                | [[#Piété Opportuniste]]                                   | 4                |
-| 8                    | +3                | [[#Augmentation de Caractéristiques]]                     | 4                |
-| 9                    | +4                | [[#Motivation Surnaturelle]]                              | 5                |
-| 10                   | +4                | Compétence de [[#Spécialisation Occulte]]                 | 5                |
-| 11                   | +4                | [[#Bourreau]]                                             | 6                |
-| 12                   | +4                | [[#Augmentation de Caractéristiques]]                     | 6                |
-| 13                   | +5                | [[#Énigme Arcanique]]                                     | 6                |
-| 14                   | +5                | Compétence de [[#Spécialisation Occulte]]                 | 6                |
-| 15                   | +5                | Amélioration de [[#Énigme Arcanique]]                     | 6                |
-| 16                   | +5                | [[#Augmentation de Caractéristiques]]                     | 6                |
-| 17                   | +6                | Amélioration de [[#Énigme Arcanique]]                     | 6                |
-| 18                   | +6                | [[#Exorciste]]                                            | 6                |
-| 19                   | +6                | [[#Augmentation de Caractéristiques]]                     | 6                |
-| 20                   | +6                | [[#Ligateur de sort]]                                     | 6                |
+| **Le Investigateur** |                   |                                                         |                  |
+| -------------------- | ----------------- | ------------------------------------------------------- | ---------------- |
+| Niveau               | Bonus de Maîtrise | Aptitudes                                               | Niveau de Rituel |
+| 1                    | +2                | [[#Expertise]], [[#Ritualiste]]                         | 1                |
+| 2                    | +2                | [[#Mythes et Légendes]], [[#Incantation Pressée]]       | 1                |
+| 3                    | +2                | [[#Spécialisation Occulte]]                             | 2                |
+| 4                    | +2                | [[#Augmentation de Caractéristiques]]                   | 2                |
+| 5                    | +3                | [[#Exploitation des Faiblesses]]                        | 3                |
+| 6                    | +3                | [[#Expertise]], aptitude de [[#Spécialisation Occulte]] | 3                |
+| 7                    | +3                | [[#Piété Opportuniste]]                                 | 4                |
+| 8                    | +3                | [[#Augmentation de Caractéristiques]]                   | 4                |
+| 9                    | +4                | [[#Motivation Surnaturelle]]                            | 5                |
+| 10                   | +4                | Aptitude de [[#Spécialisation Occulte]]                 | 5                |
+| 11                   | +4                | [[#Bourreau]]                                           | 6                |
+| 12                   | +4                | [[#Augmentation de Caractéristiques]]                   | 6                |
+| 13                   | +5                | [[#Énigme Arcanique]]                                   | 6                |
+| 14                   | +5                | Aptitude de [[#Spécialisation Occulte]]                 | 6                |
+| 15                   | +5                | Amélioration de [[#Énigme Arcanique]]                   | 6                |
+| 16                   | +5                | [[#Augmentation de Caractéristiques]]                   | 6                |
+| 17                   | +6                | Amélioration de [[#Énigme Arcanique]]                   | 6                |
+| 18                   | +6                | [[#Exorciste]]                                          | 6                |
+| 19                   | +6                | [[#Augmentation de Caractéristiques]]                   | 6                |
+| 20                   | +6                | [[#Ligateur de sort]]                                   | 6                |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant qu'Investigateur, vous disposez des compétences de classes suivantes.
+En tant qu'Investigateur, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -113,7 +113,7 @@ En tant qu'investigateur, vous pouvez considérer que certains sorts ont le tag 
 
 ### Caractéristique d'Incantation
 
-L'Intelligence est votre caractéristique d'incantation pour vos sorts rituels, puisque vous maîtrisez vos sorts par la déduction. En outre, vous utilisez votre modificateur d'Intelligence pour définir le DD du jet de sauvegarde d'un sort lancé par une des compétences de cette classe que vous lancez ainsi que pour le jet d'attaque de celui-ci.
+L'Intelligence est votre caractéristique d'incantation pour vos sorts rituels, puisque vous maîtrisez vos sorts par la déduction. En outre, vous utilisez votre modificateur d'Intelligence pour définir le DD du jet de sauvegarde d'un sort lancé par une des aptitudes de cette classe que vous lancez ainsi que pour le jet d'attaque de celui-ci.
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
 
@@ -123,13 +123,13 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts rituels, 
 Au niveau 2, vous êtes parfaitement adeptes à découvrir des savoirs liés aux menaces occultes et aux légendes oubliées. Vous avez l'avantage aux jets d'Intelligence lié à la recherche liée aux créatures, aux sorts ou à des légendes secrètes ou anciennes.
 
 ## Incantation Pressée
-À partir du niveau 2, vous pouvez rapidement lancer n'importe quel sort de rituel de votre grimoire qui a un temps d'incantation de 1 action ou 1 action bonus, terminant le rituel en une action bonus. Si le sort requiert des composantes matérielles valant 100 PO ou moins, vous pouvez le lancer sans produire ces composantes. Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur d'Intelligence (minimum de 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+À partir du niveau 2, vous pouvez rapidement lancer n'importe quel sort de rituel de votre grimoire qui a un temps d'incantation de 1 action ou 1 action bonus, terminant le rituel en une action bonus. Si le sort requiert des composantes matérielles valant 100 PO ou moins, vous pouvez le lancer sans produire ces composantes. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur d'Intelligence (minimum de 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-En montant de niveau dans cette classe, vous pouvez utiliser cette compétence plus de fois. Vous pouvez l'utiliser une fois supplémentaire au niveau 5, 9, 13 et 17, jusqu'à (modificateur d'Intelligence + 4).
+En montant de niveau dans cette classe, vous pouvez utiliser cette aptitude plus de fois. Vous pouvez l'utiliser une fois supplémentaire au niveau 5, 9, 13 et 17, jusqu'à (modificateur d'Intelligence + 4).
 
 ## Spécialisation Occulte
 
-Au niveau 3, vous choisissez une spécialisation, un domaine d'expertise pour gérer les menaces occultes. Votre spécialisation vous confère des compétences aux niveaux 3, 6, 10 et 14.
+Au niveau 3, vous choisissez une spécialisation, un domaine d'expertise pour gérer les menaces occultes. Votre spécialisation vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
 | Spécialisation | Description |
 | -------------- | ----------- |
@@ -151,7 +151,7 @@ En montant de niveau dans cette classe, vous pouvez utiliser vos babioles une fo
 Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière.
 
 ## Exploitation des Faiblesses
-La plupart des créatures surnaturelles ont une forme de faiblesse, un trou dans leur armure qui permet de les vaincre. À partir du niveau 5, une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque armée, la cible est considérée avoir la faiblesse face aux dégâts de l'arme. La vulnérabilité de cette compétence ne double que le jet de dégâts de l'arme ainsi que votre modificateur de caractéristique ; vous n'infligez de dégâts doublés de sources comme les sorts (comme [[marque du chasseur]]), les objets magiques (comme les dégâts de feu d'une [[épée ardente]]), les dons ou les compétences de classe (comme l'[[Roublard#attaque\ sournoise|attaque sournoise]]).
+La plupart des créatures surnaturelles ont une forme de faiblesse, un trou dans leur armure qui permet de les vaincre. À partir du niveau 5, une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque armée, la cible est considérée avoir la faiblesse face aux dégâts de l'arme. La vulnérabilité de cette aptitude ne double que le jet de dégâts de l'arme ainsi que votre modificateur de caractéristique ; vous n'infligez de dégâts doublés de sources comme les sorts (comme [[marque du chasseur]]), les objets magiques (comme les dégâts de feu d'une [[épée ardente]]), les dons ou les aptitudes de classe (comme l'[[Roublard#attaque\ sournoise|attaque sournoise]]).
 
 De plus, l'attaque, ainsi que les autres attaques réalisées contre cette cible jusqu'au début de votre prochain tour, sont considérées comme magique vis-à-vis des résistances et immunités.
 
@@ -161,7 +161,7 @@ Au niveau 7, vous gardez toujours une vaste variété de symboles et d'objets sa
 
 **Bannissement.** Vous lancez le sort [[Bannissement]] sans dépenser d'emplacement de sort. Si la cible est un Fey, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle prend également un montant de dégâts radiants égal à votre niveau.
 
-**Soin Miraculeux.** Pour une action, une main divine émane de vos mains pour apaiser les blessures d'une créature consentante que vous touchez. Cette créature regagne un nombre de points de vie égal au double de votre niveau d'investigateur. Cette compétence n'a aucun effet sur les Morts-Vivants ou les Constructions.
+**Soin Miraculeux.** Pour une action, une main divine émane de vos mains pour apaiser les blessures d'une créature consentante que vous touchez. Cette créature regagne un nombre de points de vie égal au double de votre niveau d'investigateur. Cette aptitude n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
 **Protection.** Pour une action, vous dessinez un symbole sacré sur une créature à 5 ft. de vous, la protégeant contre le danger. Pendant la prochaine minute, les Monstruosités, les Célestes, les Élémentaires, les Feys, les Fiélons et les Morts-Vivants qui touchent la créature protégée ou la touchent avec une attaque de mêlée prennent 1d12 dégâts radiants.
 

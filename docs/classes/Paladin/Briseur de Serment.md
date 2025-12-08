@@ -3,7 +3,7 @@ status: finished
 ---
 Un Briseur de Serment est un paladin qui a brisé une ou plusieurs de ses promesses de serments pour poursuivre une ambition sombre ou pour servir un pouvoir du mal. Toute lumière qui illuminait le cœur du paladin est éteinte ; seules persistent les ténèbres. 
 
-Un paladin doit être mauvais et au moins de niveau 3 pour devenir un Briseur de Serment. Le paladin remplace les compétences conférées par son serment par les suivantes.
+Un paladin doit être mauvais et au moins de niveau 3 pour devenir un Briseur de Serment. Le paladin remplace les aptitudes conférées par son serment par les suivantes.
 
 ## Sorts du Briseur de Serment
 
@@ -27,7 +27,7 @@ Un paladin Briseur de Serment de niveau 3 ou plus obtient les deux options de Ca
 
 ## Aura de Haine
 
-À partir du niveau 7, le paladin, ainsi que tous fiélons ou morts-vivants à 10 ft. de lui, gagnent un bonus à leurs jet de dégâts d'attaques armées de mêlée égal au modificateur de Charisme du paladin (minimum de +1). Une créature ne peut bénéficier de cette compétence que d'un paladin à la fois.
+À partir du niveau 7, le paladin, ainsi que tous fiélons ou morts-vivants à 10 ft. de lui, gagnent un bonus à leurs jet de dégâts d'attaques armées de mêlée égal au modificateur de Charisme du paladin (minimum de +1). Une créature ne peut bénéficier de cette aptitude que d'un paladin à la fois.
 
 Au niveau 18, la portée de cette aura passe à 30 ft.
 

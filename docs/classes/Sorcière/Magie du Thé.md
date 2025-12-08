@@ -29,10 +29,10 @@ Au niveau 6, vous voyez des aperçus plus profonds du futur à travers vos feuil
 
 Au niveau 10, vous pouvez lancer le sort [[restauration supérieure]] sans dépenser d'emplacement de sort ou de composantes matérielles.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos.
 
 ## Revigorant
 
 Au niveau 14, pour une action bonus, vous pouvez donner à vous ou une créature alliée à 5 ft. une explosion d'énergie temporaire en buvant une tasse de thé énergisant. Pendant le prochain tour de la cible, elle pourra prendre une action supplémentaire.
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos long avant de pouvoir le refaire.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long avant de pouvoir le refaire.

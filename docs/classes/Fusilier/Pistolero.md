@@ -9,7 +9,7 @@ Les balles sont le pouvoir, et vous avez longtemps pensé que plus de balles sig
 
 ## Caresser le Chien
 
-Au niveau 3, lorsque vous utilisez votre action pour attaquer pendant votre tour avec une arme à feu, vous pouvez dépenser un dé de risque et une action bonus afin de réaliser deux attaques à distance supplémentaires avec la même arme. Ces attaques supplémentaires ont toujours le désavantage, quelles que soient les circonstances. Cette arme ne peut pas posséder les propriétés 'Automatique' ou 'À deux mains', et vous devez avoir une main libre pour utiliser cette compétence.
+Au niveau 3, lorsque vous utilisez votre action pour attaquer pendant votre tour avec une arme à feu, vous pouvez dépenser un dé de risque et une action bonus afin de réaliser deux attaques à distance supplémentaires avec la même arme. Ces attaques supplémentaires ont toujours le désavantage, quelles que soient les circonstances. Cette arme ne peut pas posséder les propriétés 'Automatique' ou 'À deux mains', et vous devez avoir une main libre pour utiliser cette aptitude.
 
 Au niveau 14, vous pouvez faire trois attaques supplémentaires plutôt que deux.
 
@@ -21,7 +21,7 @@ Au niveau 14, vous pouvez faire trois attaques supplémentaires plutôt que deux
 
 Au niveau 10, lorsque vous réalisez une attaque à distance avec une arme à feu à une main, vous pouvez utiliser votre action bonus pour gagner l'avantage au jet d'attaque.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser à nouveau jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser à nouveau jusqu'à ce que vous terminiez un repos.
 
 ## Vengeance Rapide
 

@@ -26,7 +26,7 @@ Vous êtes considéré comme ayant l'expertise à chacune de ces compétences qu
 
 Au niveau 6, vous pouvez utiliser votre Canal Divin pour lire les pensées d'une créature. Vous pouvez alors utiliser votre accès à l'esprit de la créature pour la diriger.
 
-Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Sagesse. Si elle réussit, vous ne pouvez pas utiliser cette compétence sur elle à nouveau jusqu'à ce que vous terminiez un repos long.
+Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Sagesse. Si elle réussit, vous ne pouvez pas utiliser cette aptitude sur elle à nouveau jusqu'à ce que vous terminiez un repos long.
 
 Si la créature rate son jet, vous pouvez lire ses pensées de surface (celles le plus en avant dans son esprit, qui reflètent ses émotions et ce à quoi elle est en train de penser) lorsqu'elle se trouve à 60 ft. Cet effet dure 1 minute.
 
@@ -40,7 +40,7 @@ Pendant ce temps, vous pouvez utiliser votre action pour terminer cet effet et l
 
 À partir du niveau 17, vous pouvez faire appel à des visions du passé relatives à un objet que vous tenez ou à votre environnement. Vous passez au moins 1 minute à méditer et prier, et vous recevez des bribes ombragées de récents évènements. Vous pouvez méditer de cette façon un nombre de minutes égal à votre score de Sagesse et vous devez maintenir votre concentration pendant ce temps, comme si vous lanciez un sort.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser à nouveau avant d'avoir terminé un repos.
 
 **Lecture d'Objet.** En tenant un objet pendant que vous méditez, vous pouvez voir des visions de l'ancien propriétaire de cet objet. Après avoir médité pendant 1 minute, vous apprenez comment ce propriétaire était rentré en possession de l'objet, comment il l'a perdu, ainsi que l'évènement le plus récent faisant intervenir et l'objet et le propriétaire. Si l'objet a été possédé par une autre créature dans un passé récent (dans un nombre de jours égal à votre score de Sagesse), vous pouvez méditer 1 minute de plus pour chaque propriétaire pour apprendre les mêmes informations.
 

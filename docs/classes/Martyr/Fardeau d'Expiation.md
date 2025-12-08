@@ -23,11 +23,11 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Également au niveau 1, vous pouvez plonger sur la trajectoire d'une attaque. Lorsqu'une créature alliée à 5 ft. est la cible d'une attaque alors que vous êtes à portée de l'attaque, vous pouvez utiliser votre réaction pour plutôt être la cible de cette attaque.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous finissiez un repos court ou long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 ## Sursis Sanguinaire
 
-À compter du niveau 6, lorsque vous utilisez votre compétence Tourment contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de la compétence.
+À compter du niveau 6, lorsque vous utilisez votre aptitude [[Martyr#Tourment|Tourment]] contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de l'aptitude.
 
 ## Provocation
 
@@ -43,5 +43,5 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser
  - Un effet qui réduit les points de vie maximum de la cible
  - La condition [[aveuglé]], [[charmé]], [[assourdi]], [[paralysé]], [[pétrifié]] ou [[empoisonné]]
 
-L'effet choisi se termine pour la créature et vous cible comme si vous étiez la cible originale, avec sa durée originale. Vous pouvez transférer plusieurs effets négatifs du même type sur vous-même, ceux-ci ne vous affectant qu'une seule fois à chaque utilisation de cette compétence.
+L'effet choisi se termine pour la créature et vous cible comme si vous étiez la cible originale, avec sa durée originale. Vous pouvez transférer plusieurs effets négatifs du même type sur vous-même, ceux-ci ne vous affectant qu'une seule fois à chaque utilisation de cette aptitude.
 

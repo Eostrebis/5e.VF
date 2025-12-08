@@ -5,7 +5,7 @@ status: finished
 
 La gentille et courageuse Tyché a volé la Chance même et l'offre en retour à ses ligateurs.
 
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Tyché, vous maîtrisez tous les sets de jeu. De plus, vous pouvez relancer n'importe quel jet de caractéristique que vous réalisez pour jouer à des jeux non magiques faisant appel à des compétences (i.e. pas des jeux de chance).
@@ -14,7 +14,7 @@ Tant que vous êtes lié à Tyché, vous maîtrisez tous les sets de jeu. De plu
 Une fois à chacun de vos tours lorsque vous infligez des dégâts, vous pouvez relancer un dé de dégâts et devez utiliser le nouveau résultat.
 
 ## Chance Volée
-Lorsque vous vous liez à Tyché, lancez un d20 et enregistrez son résultat. Ceci est votre lancer de chance volée. Une fois par tour, vous pouvez échanger votre lancer de chance volée avec un jet d'attaque, de caractéristique ou de sauvegarde que vous ou une créature que vous pouvez voir réalise. Votre lancer de chance volée devient le résultat du lancer, et le résultat initial devient votre nouveau lancer de chance volée. Vous pouvez utiliser cette compétence trois fois, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long.
+Lorsque vous vous liez à Tyché, lancez un d20 et enregistrez son résultat. Ceci est votre lancer de chance volée. Une fois par tour, vous pouvez échanger votre lancer de chance volée avec un jet d'attaque, de caractéristique ou de sauvegarde que vous ou une créature que vous pouvez voir réalise. Votre lancer de chance volée devient le résultat du lancer, et le résultat initial devient votre nouveau lancer de chance volée. Vous pouvez utiliser cette aptitude trois fois, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Troisièmes Chances
 Tant que vous êtes lié à Tyché, trois petits sceaux (associés à un jeu de chance avec lequel vous êtes familier) flottent devant votre front. Vous pouvez éteindre un de ces sceaux pour ajouter 1d8 à un jet d'attaque, de caractéristique ou de sauvegarde. Cependant, lorsque vous éteignez les trois, vous retirez deux de tous vos jets à venir tant que vous êtes lié à Tyché.

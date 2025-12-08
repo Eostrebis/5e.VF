@@ -47,9 +47,9 @@ Au niveau 18, la portée de cette aura augmente de 10 ft. pour passer à 15 ft.
 
 Au niveau 15, lorsque vous ou une créature alliée à 30 ft. de vous réalisez un jet de caractéristique ou de sauvegarde sans le désavantage, vous pouvez conférer l'avantage.
 
-Vous pouvez utiliser cette compétence trois fois, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude trois fois, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 ## Bête de Scène
 
 Au niveau 20, vous pouvez utiliser votre action pour vous transformer en l'incarnation même de la fête. Vous vous voyez pousser des cornes tel un satyre et émaner une aura de gaieté sur 30 ft. Pendant la prochaine minute, vous et vos alliés dans l'aura ne pouvez être [[aveuglé|aveuglés]], [[assourdi|assourdis]], [[épuisement|épuisés]] ou [[empoisonné|empoisonnés]]. De plus, au début de chacun de vos tours, vous et vos alliés non [[incapacité|incapacités]] dans l'aura regagnez 10 points de vie.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

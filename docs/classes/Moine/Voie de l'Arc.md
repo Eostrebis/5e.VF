@@ -9,7 +9,7 @@ Les moines qui suivent la Voie de l'Arc trouvent la paix intérieure dans la tra
 
 ## Arts Archers
 
-Au niveau 3, vous maîtrisez les arcs longs et courts, que vous traitez comme des armes monastiques. N'importe quelle attaque armée à distance que vous réalisez à 5 ft. d'une créature hostile n'a pas le désavantage. Aussi, vous pouvez dépenser des points de ki pour utiliser les compétences Volée de Flèches et Flèche d'Âme.
+Au niveau 3, vous maîtrisez les arcs longs et courts, que vous traitez comme des armes monastiques. N'importe quelle attaque armée à distance que vous réalisez à 5 ft. d'une créature hostile n'a pas le désavantage. Aussi, vous pouvez dépenser des points de ki pour utiliser les aptitudes [[#Volée de Flèches]] et [[#Flèche d'Âme]].
 
 Au niveau 6, vous pouvez réaliser une attaque armée à distance pour infliger une Frappe Étourdissante.
 

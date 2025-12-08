@@ -19,4 +19,4 @@ Au niveau 6, lorsque vous réussissez un jet de sauvegarde contre un sort, vous 
 
 Au niveau 20, vous pouvez utiliser votre action bonus pour vous transformer en un prévôt des lanceurs de sorts, un briseur de manges, enveloppé d'antimagie. Pendant la prochaine minute, vous avez l'avantage au premier jet d'attaque que vous réalisez à chacun de vos tours. De plus, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du Gardien]], la zone affectée devient un [[champ antimagie]], comme d'après le sort. Vous pouvez tordre le champ autour des créatures que vous choisissez dans son rayon, créant des poches où la magie fonctionne toujours, même si la magie qui y prend origine ne peut s'étendre au reste du champ.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

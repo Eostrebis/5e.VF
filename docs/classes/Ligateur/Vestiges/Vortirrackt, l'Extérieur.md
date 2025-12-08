@@ -5,10 +5,10 @@ status: finished
 
 Créature d'au-delà le multivers, Vortirrackt englobe ses ligateurs d'une réflexion de son étrange anatomie.
 
-# Compétences
+# Aptitudes
 
 ## Réflexes Éclairs
-Tant que vous êtes lié à Vortirrackt, vous pouvez réaliser une attaque d'opportunité sans dépenser de réaction. Vous avez l'avantage à ce jet d'attaque. Une fois que vous utilisez cette compétence, vous ne pouvez pas l'utiliser à nouveau jusqu'à ce que vous terminiez un repos.
+Tant que vous êtes lié à Vortirrackt, vous pouvez réaliser une attaque d'opportunité sans dépenser de réaction. Vous avez l'avantage à ce jet d'attaque. Une fois que vous utilisez cette aptitude, vous ne pouvez pas l'utiliser à nouveau jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Spider-Créature
 Lorsque vous vous liez à Vortirrackt, votre peau devient pâle et bizarrement adhésive. Vous pouvez vous déplacer librement sur une surface verticale et à l'envers au plafond en conservant l'usage de vos mains. Vous gagnez également une vitesse d'escalade égale à votre vitesse de marche.

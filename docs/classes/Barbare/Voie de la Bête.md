@@ -45,10 +45,10 @@ Vous pouvez également modifier votre forme pour mieux vous adapter à votre env
  - La cible doit utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous pouvez voir.
  - La cible prend 2d12 dégâts psychiques.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Chasse à Courre
 
-Au niveau 14, la bête en vous devient si puissante que vous pouvez étendre votre férocité aux autres et profiter de leurs participations à la chasse. Lorsque vous entrez en rage, vous pouvez choisir un nombre de créatures consentantes que vous pouvez voir à 30 ft. égal à votre modificateur de Constitution. Vous gagnez 5 points de vie temporaires par créature qui accepte cette compétence. Jusqu'à ce que la rage se termine, les créatures choisies peuvent chacune utiliser l'effet suivant une fois par tour : lorsque la créature touche une cible avec un jet d'attaque et lui inflige des dégâts, la créature peut lancer un d6 et gagner un bonus aux dégâts égal au résultat obtenu.
+Au niveau 14, la bête en vous devient si puissante que vous pouvez étendre votre férocité aux autres et profiter de leurs participations à la chasse. Lorsque vous entrez en rage, vous pouvez choisir un nombre de créatures consentantes que vous pouvez voir à 30 ft. égal à votre modificateur de Constitution. Vous gagnez 5 points de vie temporaires par créature qui accepte cette aptitude. Jusqu'à ce que la rage se termine, les créatures choisies peuvent chacune utiliser l'effet suivant une fois par tour : lorsque la créature touche une cible avec un jet d'attaque et lui inflige des dégâts, la créature peut lancer un d6 et gagner un bonus aux dégâts égal au résultat obtenu.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

@@ -9,33 +9,33 @@ status: wip
 
 Vous pouvez créer un argartiste rapidement en suivant ces suggestions. Commencez par faire de la %stat1 votre caractéristique principale, suivie %stat2. Choisissez l'historique de votre choix.
 
-| **L'Argartiste** |                   |             |
-| ---------------- | ----------------- | ----------- |
-| Niveau           | Bonus de Maîtrise | Compétences |
-| 1                | +2                |             |
-| 2                | +2                |             |
-| 3                | +2                |             |
-| 4                | +2                |             |
-| 5                | +3                |             |
-| 6                | +3                |             |
-| 7                | +3                |             |
-| 8                | +3                |             |
-| 9                | +4                |             |
-| 10               | +4                |             |
-| 11               | +4                |             |
-| 12               | +4                |             |
-| 13               | +5                |             |
-| 14               | +5                |             |
-| 15               | +5                |             |
-| 16               | +5                |             |
-| 17               | +6                |             |
-| 18               | +6                |             |
-| 19               | +6                |             |
-| 20               | +6                |             |
+| **L'Argartiste** |                   |           |
+| ---------------- | ----------------- | --------- |
+| Niveau           | Bonus de Maîtrise | Aptitudes |
+| 1                | +2                |           |
+| 2                | +2                |           |
+| 3                | +2                |           |
+| 4                | +2                |           |
+| 5                | +3                |           |
+| 6                | +3                |           |
+| 7                | +3                |           |
+| 8                | +3                |           |
+| 9                | +4                |           |
+| 10               | +4                |           |
+| 11               | +4                |           |
+| 12               | +4                |           |
+| 13               | +5                |           |
+| 14               | +5                |           |
+| 15               | +5                |           |
+| 16               | +5                |           |
+| 17               | +6                |           |
+| 18               | +6                |           |
+| 19               | +6                |           |
+| 20               | +6                |           |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant qu'Argartiste, vous disposez des compétences de classes suivantes.
+En tant qu'Argartiste, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -77,13 +77,13 @@ Le golem agit pen
 
 Choisissez un compagnon parmi les [[cohortes]] disponible ; après une initiation de 8h, cette créature devient votre cohorte. Vous ne pouvez avoir qu'une cohorte à la fois.
 
-Si votre cohorte est vaincue, vous pouvez la relever des morts avec les méthodes usuelles, comme un [[rappel à la vie]], ou vous pouvez passer 8 heures à initier une nouvelle cohorte. Si vous le faites, votre cohorte actuelle perd toutes ses capacités liées par cette compétence, même si elle revient plus tard à la vie.
+Si votre cohorte est vaincue, vous pouvez la relever des morts avec les méthodes usuelles, comme un [[rappel à la vie]], ou vous pouvez passer 8 heures à initier une nouvelle cohorte. Si vous le faites, votre cohorte actuelle perd toutes ses capacités liées par cette aptitude, même si elle revient plus tard à la vie.
 
 Votre cohorte suit votre ordre du mieux qu'elle peut. Votre cohorte prend son tour immédiatement avant ou après vous (votre choix), et vous déterminez ses actions, décisions, attitudes et tout le reste. Si vous êtes [[incapacité]] ou absent, votre compagnon agit de lui-même.
 
-#### Compétences de Cohorte
+#### Aptitudes de Cohorte
 
-Aux niveaux 2, 6, 10, 14 et 18, votre cohorte gagne de nouvelles compétences basées sur son archétype.
+Aux niveaux 2, 6, 10, 14 et 18, votre cohorte gagne de nouvelles aptitudes basées sur son archétype.
 
 #### Points de Vie
 

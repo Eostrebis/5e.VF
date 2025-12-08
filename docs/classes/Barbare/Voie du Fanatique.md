@@ -5,7 +5,7 @@ Certaines déités inspirent leurs croyants à s'élancer dans une féroce furie
 
 ## Furie Divine
 
-À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée prend un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette compétence.
+À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée prend un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
 
 ## Guerrier des Dieux
 
@@ -13,13 +13,13 @@ Au niveau 3, votre âme est marquée pour le combat éternel. Si un sort, comme 
 
 ## Focus Fanatique
 
-À partir du niveau 6, le pouvoir divin qui alimente votre rage peut vous protéger. Si vous échouez un jet de sauvegarde tout en rageant, vous pouvez le relancer et devez utiliser le nouveau résultat. Vous ne pouvez utiliser cette compétence qu'une seule fois par rage.
+À partir du niveau 6, le pouvoir divin qui alimente votre rage peut vous protéger. Si vous échouez un jet de sauvegarde tout en rageant, vous pouvez le relancer et devez utiliser le nouveau résultat. Vous ne pouvez utiliser cette aptitude qu'une seule fois par rage.
 
 ## Présence Zélée
 
 Au niveau 10, vous apprenez à canaliser votre pouvoir divin pour inspirer le fanatisme chez les autres. Pour une action bonus, vous libérez un cri de guerre imprégné d'énergie divine. Jusqu'à 10 autres créatures de votre choix à 60 ft. qui peuvent vous entendre ont l'avantage aux jets d'attaque et de sauvegarde jusqu'au début de votre prochain tour.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
 ## Rage de l'Au-Delà
 

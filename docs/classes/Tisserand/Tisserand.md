@@ -38,21 +38,21 @@ Vous pouvez créer un Tisserand rapidement en suivant ces suggestions. Commencez
 
 | **Le Tisserand** |                   |                                                          |                    |
 | ---------------- | ----------------- | -------------------------------------------------------- | ------------------ |
-| Niveau           | Bonus de Maîtrise | Compétences                                              | Échelon de Tissage |
+| Niveau           | Bonus de Maîtrise | Aptitudes                                                | Échelon de Tissage |
 | 1                | +2                | [[#Lamefil]], [[#Infusion]], [[#Coupe du Tisserand]]     | -                  |
 | 2                | +2                | [[#Finition]], [[#Découpe-Ruban]]                        | 1                  |
 | 3                | +2                | [[#Tapisserie du Tisserand]], [[#Renaissance Régulière]] | 1                  |
 | 4                | +2                | [[#Augmentation de Caractéristiques]]                    | 2                  |
 | 5                | +3                | [[#Cisaillement]]                                        | 2                  |
-| 6                | +3                | Compétence de [[#Tapisserie du Tisserand\|Tapisserie]]   | 2                  |
+| 6                | +3                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 2                  |
 | 7                | +3                | [[#Navette]], amélioration de [[#Renaissance Régulière]] | 3                  |
 | 8                | +3                | [[#Augmentation de Caractéristiques]]                    | 3                  |
 | 9                | +4                | [[#Tissage Cyclique]]                                    | 3                  |
-| 10               | +4                | Compétence de [[#Tapisserie du Tisserand\|Tapisserie]]   | 4                  |
+| 10               | +4                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 4                  |
 | 11               | +4                | [[#Lame Rusée]]                                          | 4                  |
 | 12               | +4                | [[#Augmentation de Caractéristiques]]                    | 4                  |
 | 13               | +5                | [[#Indivisible]]                                         | 5                  |
-| 14               | +5                | Compétence de [[#Tapisserie du Tisserand\|Tapisserie]]   | 5                  |
+| 14               | +5                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 5                  |
 | 15               | +5                | [[#Ciseaux à Ruban]]                                     | 5                  |
 | 16               | +5                | [[#Augmentation de Caractéristiques]]                    | 6                  |
 | 17               | +6                | [[#Infusion Parfaite]]                                   | 6                  |
@@ -60,9 +60,9 @@ Vous pouvez créer un Tisserand rapidement en suivant ces suggestions. Commencez
 | 19               | +6                | [[#Augmentation de Caractéristiques]]                    | 7                  |
 | 20               | +6                | [[#Touche FInale]]                                       | 7                  |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que Tisserand, vous disposez des compétences de classes suivantes.
+En tant que Tisserand, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -98,7 +98,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 Vous maîtrisez votre lamefil et vous utilisez votre modificateur de Dextérité plutôt que de Force pour vos jets d'attaque et de dégâts avec votre lamefil. Vous ne pouvez manier une autre arme ou vous équiper d'un bouclier lorsque vous maniez votre lamefil. Les lamefils ne possèdent pas les propriétés usuelles des autres armes, peu importe leur apparence, mais sont considérées comme des armes martiales.
 
-Votre lamefil est une arme unique avec une apparence de votre propre design, mais elle appartient nécessairement à l'une des catégories suivantes. Lorsque vous obtenez cette compétence, choisissez l'un des types de lamefil suivants. Vous pouvez changer votre type de lamefil à chaque fois que vous gagnez un niveau dans cette classe.
+Votre lamefil est une arme unique avec une apparence de votre propre design, mais elle appartient nécessairement à l'une des catégories suivantes. Lorsque vous obtenez cette aptitude, choisissez l'un des types de lamefil suivants. Vous pouvez changer votre type de lamefil à chaque fois que vous gagnez un niveau dans cette classe.
 
 ### Bristanclaque
 
@@ -142,7 +142,7 @@ Vous apprenez deux nouvelles finitions aux niveaux 6, 9 et 15. Vous pouvez écha
 
 ### Caractéristique d'Incantation
 
-L'Intelligence est votre caractéristique d'incantation pour vos finitions et vos sorts de tisserands, puisque votre contrôle de la magie vient d'études et d'entraînements minutieux. En outre, vous utilisez votre modificateur d'Intelligence pour définir le DD du jet de sauvegarde d'un sort de tisserand que vous lancez, pour le jet d'attaque de celui-ci, lorsqu'une compétence de tisserand demande un jet de sauvegarde ou lorsqu'une compétence appelle un jet d'attaque de sort :
+L'Intelligence est votre caractéristique d'incantation pour vos finitions et vos sorts de tisserands, puisque votre contrôle de la magie vient d'études et d'entraînements minutieux. En outre, vous utilisez votre modificateur d'Intelligence pour définir le DD du jet de sauvegarde d'un sort de tisserand que vous lancez, pour le jet d'attaque de celui-ci, lorsqu'une aptitude de tisserand demande un jet de sauvegarde ou lorsqu'une aptitude appelle un jet d'attaque de sort :
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts et finitions</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
 
@@ -154,7 +154,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 ## Tapisserie du Tisserand
 
-Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canaliser plus facilement votre pouvoir arcanique. Choisissez parmi la liste des tapisseries disponibles. Votre tapisserie vous confère des compétences au niveau 3, puis aux niveaux 6, 10 et 14.
+Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canaliser plus facilement votre pouvoir arcanique. Choisissez parmi la liste des tapisseries disponibles. Votre tapisserie vous confère des aptitudes au niveau 3, puis aux niveaux 6, 10 et 14.
 
 | Tapisserie                        | Description                                                                                             |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------- |
@@ -165,13 +165,13 @@ Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canal
 
 ## Renaissance Régulière
 
-Au niveau 3, vous apprenez le cantrip [[réparation]]. Vous pouvez utiliser votre action pour appeler et former votre fil arcanique en des objets utiles qui pèsent moins de 10 lbs. et coûtent moins de 10 po. Certaines choses sont au-delà de vos capacités, en fonction de leur complexité, et tous les objets que vous créez avec cette compétence sont visiblement magiques.
+Au niveau 3, vous apprenez le cantrip [[réparation]]. Vous pouvez utiliser votre action pour appeler et former votre fil arcanique en des objets utiles qui pèsent moins de 10 lbs. et coûtent moins de 10 po. Certaines choses sont au-delà de vos capacités, en fonction de leur complexité, et tous les objets que vous créez avec cette aptitude sont visiblement magiques.
 
 Vous pouvez également tisser votre fil arcanique en une corde de 100 ft. avec un grappin, une échelle de 10 ft., une longue-vue ou une table avec des chaises. Ces objets disparaissent si vous en invoquez un autre ou après 1 minute sans les toucher.
 
-De plus, vous obtenez la maîtrise de trois outils et vous pouvez créer n'importe quel outil que vous maîtrisez en utilisant cette compétence.
+De plus, vous obtenez la maîtrise de trois outils et vous pouvez créer n'importe quel outil que vous maîtrisez en utilisant cette aptitude.
 
-Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette compétence. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de prendre les dégâts à la place ou de les laisser disparaître.
+Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de prendre les dégâts à la place ou de les laisser disparaître.
 
 ## Augmentation de Caractéristiques
 
@@ -215,4 +215,4 @@ Lorsque vous terminez un repos court, vous pouvez remplacer la finition choisie 
 
 Au niveau 20, vous apprenez à aller au-delà des dernières limites de votre pouvoir arcanique. Vous pouvez utiliser votre action pour tisser une fraction de votre âme en fil arcanique. Pendant 1 minute, vos attaques avec votre lamefil et votre arme accessoire de tapisserie ne peuvent pas rater.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

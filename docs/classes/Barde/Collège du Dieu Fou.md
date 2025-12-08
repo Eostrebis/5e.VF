@@ -11,7 +11,7 @@ Lorsque vous choisissez ce collège au niveau 3, vous gagnez la maîtrise d'une 
 
 ## Cacophonie
 
-Au niveau 3, les sons discordants de votre instrument rendent fou les autres. Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre un de vos sorts de bardes ou compétences tandis que vous tenez un instrument de musique, vous pouvez dépenser une utilisation d'Inspiration Bardique pour jouer un bruit cacophonique. Une créature [[assourdi|assourdie]] est immunisée à cet effet. Choisissez l'un des effets suivants : 
+Au niveau 3, les sons discordants de votre instrument rendent fou les autres. Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre un de vos sorts de bardes ou aptitudes tandis que vous tenez un instrument de musique, vous pouvez dépenser une utilisation d'Inspiration Bardique pour jouer un bruit cacophonique. Une créature [[assourdi|assourdie]] est immunisée à cet effet. Choisissez l'un des effets suivants : 
  
  - La créature prend un nombre de dégâts psychique égal au résultat de votre dé d'Inspiration Bardique.
  - La créature est [[assourdi|assourdie]] et ne peut plus parler jusqu'à la fin de son prochain tour.

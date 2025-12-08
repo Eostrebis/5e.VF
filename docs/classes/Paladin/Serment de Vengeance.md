@@ -53,4 +53,4 @@ Au niveau 20, vous pouvez prendre la forme d'un ange vengeur. En utilisant votre
  - Des ailes poussent sur votre dos et vous confèrent une vitesse de vol de 60 ft.
  - Vous émanez une aura de menace de 30 ft. La première fois qu'une créature entre dans cette aura ou qu'elle y commence son tour pendant un combat, la créature doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] de vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Les jets d'attaque contre une créature [[apeuré|apeurée]] de cette façon ont l'avantage.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -23,7 +23,7 @@ Au niveau 6, pour une action, vous pouvez vous entourer d'un aura illusoire. Tou
 
 Pour discerner que vous êtes déguisé, une créature doit utiliser son action pour inspecter votre apparence, et doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Transposition Sournoise
 
@@ -33,7 +33,7 @@ Une créature peut utiliser son action pour examiner une créature déguisée ma
 
 L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires prend des dégâts ou intéragit physiquement avec son environnement.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Cauchemar Déchaîné
 
@@ -41,4 +41,4 @@ Au niveau 14, vous pouvez transformer tout ce qu'une créature voit en un enfer 
 
 Une créature déchaînée perd la capactié de distinguer ennemi et ami, voyant toutes les créatures comme des dangers potentiels. Tant qu'elle est déchaînée, la créduire choisit la cible de ces actions aléatoirement parmi toutes les créatures à portée et doit réaliser une attaque d'opportunité si elle le peut.
 
-Cet effet termine après 1 minute. Une fois que vous avez utilisé cette compétence, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos long.
+Cet effet termine après 1 minute. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos long.

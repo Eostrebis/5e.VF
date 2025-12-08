@@ -5,7 +5,7 @@ L'étude de l'alchimie est fondamentalement l'étude de la transformation. Tous 
 
 ## Maîtrises Supplémentaires
 
-Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise de la compétence que vous choisissez entre Acrobatie et Athlétisme, et des boucliers.
+Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise d'une compétence que vous choisissez entre Acrobatie et Athlétisme, et des boucliers.
 
 ## Mutagène
 

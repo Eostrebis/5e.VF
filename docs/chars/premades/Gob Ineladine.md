@@ -69,11 +69,11 @@ Pratiquement en permanence, un énorme cigare, souvent à moitié mâchouillé, 
 Il porte des vêtements de pirate dépareillés et beaucoup trop grands pour lui, principalement une longue veste de marin en lambeaux dont les multiples poches débordent d'un fatras de fioles cliquetantes, de sachets de poudres, de mèches, et de divers objets métalliques non identifiés.
 
 Avec ses 31 kg, il est tout en os et en nerfs. Chaque mouvement est une aventure, une lutte contre sa propre maladresse (sa Dextérité de 5). Il trébuche souvent, fait tomber ses outils, et se rattrape avec un glapissement de surprise suivi d'un grand sourire édenté. Il est un laboratoire ambulant, instable et hautement inflammable, et il n'y a rien qu'il aime plus au monde.
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 ### Équipement
 
@@ -96,7 +96,7 @@ C'est ainsi qu'il est devenu Gob "le Boulet". Sa nouvelle fonction est la meille
 
 Actuellement, le "Kraken Rieur" est à quai à Misancte pour quelques jours de repos. Avec une bourse pleine et une ville pleine de nouvelles substances à "étudier", Gob est au paradis, prêt à profiter des festivités et, si l'occasion se présente, à découvrir de nouvelles et passionnantes façons de faire "BOUM !".
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Gob a développé une tolérance remarquable aux impacts violents et aux explosions à bout portant. Il bénéficie des effets suivants :
 

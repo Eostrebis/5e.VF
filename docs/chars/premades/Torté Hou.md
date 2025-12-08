@@ -38,7 +38,7 @@ __Vitesse :__ 30 ft.
 >  
 > **Parlez comme une Joueuse :** Votre vision du monde est celle d'une partie de cartes. Utilisez constamment des métaphores de jeu ("Il bluffe", "Quelle est la cote ?", "On ne fait pas tapis tout de suite"). Parlez lentement, avec une voix grave, et analysez tout le monde comme si vous cherchiez leurs "tics" à une table de jeu.
 > 
-> **La Forteresse de la Rédemption :** Vous êtes un roc. En combat, votre place est devant. Utilisez votre "Saisie du Gardien" pour bloquer les ennemis et votre compétence "Double-Mise Protectrice" pour prendre les coups à la place des autres. Chaque blessure que vous subissez est une pénitence que vous acceptez avec une détermination stoïque.
+> **La Forteresse de la Rédemption :** Vous êtes un roc. En combat, votre place est devant. Utilisez votre "Saisie du Gardien" pour bloquer les ennemis et votre aptitude "Double-Mise Protectrice" pour prendre les coups à la place des autres. Chaque blessure que vous subissez est une pénitence que vous acceptez avec une détermination stoïque.
 > 
 > **La Lutte Intérieure :** Votre addiction n'est jamais loin. Jouez cette tension. Vos mains peuvent "mélanger" des cartes fantômes. Face à un jeu de hasard, montrez un mélange d'envie et de dégoût. Votre défaut ("Je suis un grand joueur... mauvais en maths") est une façade : vous êtes excellente au jeu, mais vous vous mentez à vous-même pour ne pas replonger.
 
@@ -72,9 +72,9 @@ Par-dessus sa carapace naturelle, Torté s'est chargée d'un équipement lourd e
 Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'elle porte non seulement pour se protéger, mais comme un acte de pénitence constant. Elle a troqué la légèreté d'un jeu de cartes contre le poids de l'acier, et elle est devenue le rempart qu'elle aurait toujours dû être.
 
 ![[Torté.jpg]]
-## Compétences
+## Aptitudes
 
-### Compétences de Race
+### Aptitudes de Race
 
 **Griffes.** Vous possédez des griffes que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez en les utilisant, vos attaques infligent 1d6 + votre modificateur de Force dégâts tranchants plutôt que les dégâts contondants habituels.
 
@@ -84,7 +84,7 @@ Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'ell
 
 **Défense Ostéodermique.** Vous pouvez vous retirer dans votre carapace pour une action. Jusqu'à ce que vous en sortiez, vous gagnez un bonus de +4 à la CA et vous avez l'avantage à vos jets de sauvegarde de Force et de Constitution. Tant que vous êtes dans votre carapace, vous êtes [[au sol]], votre vitesse est de 0 et ne peut pas être augmentée, vous avez le désavantage aux jets de sauvegarde de Dextérité, vous ne pouvez pas prendre de réaction, et la seule action que vous pouvez prendre est une action bonus pour sortir de votre carapace.
 
-### Compétences de Classe
+### Aptitudes de Classe
 
 #### Saisie du Gardien
 
@@ -116,7 +116,7 @@ La nouvelle de sa mort fut la carte qui mit fin à la partie de Torté. Devant l
 
 Ce jour-là, Torté "Double-Mise" est morte, et Torté la Gardienne est née. Elle a troqué le frisson du jeu contre le poids d'un bouclier. Elle a juré sur la tombe de son mentor de passer le reste de sa longue vie à honorer sa mémoire, non pas en attendant patiemment, mais en se dressant activement entre le danger et ceux qui sont trop fragiles pour se défendre. Chaque vie qu'elle protège est une tentative de racheter celle qu'elle a indirectement prise, chaque coup qu'elle encaisse est une pénitence pour le risque qu'elle n'aurait jamais dû prendre.
 
-### Compétence d'Historique
+### Aptitude d'Historique
 
 Lorsque qu'un allié se trouvant à 5 pieds de vous est touché par une attaque, vous pouvez utiliser votre réaction pour subir les dégâts à sa place. Lorsque vous le faites, vous pouvez choisir de "doubler la mise" sur votre propre résilience. Lancez un d6 :
 
@@ -125,7 +125,7 @@ Lorsque qu'un allié se trouvant à 5 pieds de vous est touché par une attaque,
 - **Sur un 3-5 :** Vous avez la résistance à cette instance de dégâts.
 - **Sur un 6 :** Votre détermination vous a rendu le cuir plus dur que l'acier. Vous ne subissez aucun dégât.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées après un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées après un repos long.
 
 ### Traits de Personnalité
 

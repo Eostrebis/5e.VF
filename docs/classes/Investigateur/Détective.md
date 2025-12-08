@@ -29,4 +29,4 @@ Au niveau 10, vous êtes si habitué à démêler le vrai du faux que vous pouve
 
 À partir du niveau 14, vous pouvez utiliser votre action pour examiner une créature que vous pouvez voir à 30 ft., remarquant tous les menus détails qui la concerne et réalisant une suite impressionnante de déduction logique. Pendant la prochaine minute, vous avez l'avantage aux jets d'Intelligence et de Charisme que vous réalisez pour interagir avec cette créature, et vous avez l'avantage aux jets d'attaque contre elle.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.

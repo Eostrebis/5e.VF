@@ -21,7 +21,7 @@ Au niveau 1, vous maîtrisez les [[Armes Martiales]] et les [[Armures Lourdes]].
 
 À partir du niveau 1, votre dieu vous délivre des éclairs d'inspiration lorsque vous êtes en combat. Lorsque vous utilisez votre action pour attaquer, vous pouvez réaliser une attaque armée pour une action bonus.
 
-Vous pouvez utiliser cette compétence un nombre de fois égal à votre modificateur de Sagesse (minimum 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum 1) et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Canal Divin : Frappe Guidée
 

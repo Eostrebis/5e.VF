@@ -19,7 +19,7 @@ Au niveau 6, votre connexion avec la Féerie vous permet de _clignoter_ de lieu 
 
 Au niveau 20, pour une action, vous pouvez canaliser la majesté de l'archifée qui règne sur les cours féériques, devenant une incarnation de la grâce et de la beauté surnaturelle pendant la prochaine minute. Vous bénéficiez des effets suivants : 
 
- - Lorsqu'une créature essaye de vous attaquer, elle doit d'abord réussir un jet de sauvegarde de Sagesse (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou rater son attaque. Si elle réussit ce jet, la créature est immunisée contre cette compétence pendant 24 heures.
+ - Lorsqu'une créature essaye de vous attaquer, elle doit d'abord réussir un jet de sauvegarde de Sagesse (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou rater son attaque. Si elle réussit ce jet, la créature est immunisée contre cette aptitude pendant 24 heures.
  - Pour une action bonus, vous pouvez vous téléporter de jusqu'à 30 ft. vers un espace inoccupé que vous pouvez voir.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

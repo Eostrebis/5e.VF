@@ -54,5 +54,5 @@ Au niveau 20, vous gagnez la capacité de manier d'extraordinaires pouvoirs mart
  - Lorsque vous utilisez votre action pour Attaquer durant votre tour, vous pouvez réaliser une attaque supplémentaire comme partie de cette action.
  - Vos attaques armées de mêlée infligent des coups critiques sur un jet de 19 ou 20 sur le dé.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
   

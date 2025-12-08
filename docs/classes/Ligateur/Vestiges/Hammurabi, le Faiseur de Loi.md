@@ -5,7 +5,7 @@ status: finished
 
 Un des premiers grands rois de l'humanité, Hammurabi a mis en place les premières lois mortelles sur un obélisque de pierre. Aujourd'hui, son vestige confère à ses ligateurs l'autorité de juger les autres par ces lois et de les punir en conséquence.
 
-# Compétences
+# Aptitudes
 
 ## Punition Méritée
 Lorsque vous infligez des dégâts à une créature, cette créature ne peut pas récupérer de points de vie avant le début de votre prochain tour.
@@ -14,7 +14,7 @@ Lorsque vous infligez des dégâts à une créature, cette créature ne peut pas
 Lorsqu'une créature que vous pouvez voir vous touche avec une attaque armée de mêlée, vous avez l'avantage à la prochaine attaque que vous réalisez contre cette créature pendant votre prochain tour.
 
 ## Interdiction
-Si une créature hostile que vous pouvez voir utilise son action pour attaquer ou utilise une action légendaire ou une action de repère, vous pouvez utiliser votre réaction pour empêcher l'action de s'accomplir. Une fois que vous avez utilisé cette compétence, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
+Si une créature hostile que vous pouvez voir utilise son action pour attaquer ou utilise une action légendaire ou une action de repère, vous pouvez utiliser votre réaction pour empêcher l'action de s'accomplir. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
 
 ## Trait : Amputé
 Tant que vous êtes lié à Hammurabi, il vous manque plusieurs doigts, plusieurs dents ainsi qu'un œil — tous extraits comme punition pour vos précédents crimes. Vous êtes immunisé contre les conditions suivantes : [[aveuglé]], [[assourdi]], [[épuisement]], [[paralysé]], [[empoisonné]] et [[assourdi]]. Si une créature essaye de vous imposer l'une de ces conditions, vous pouvez utiliser votre réaction pour lui imposer la condition plutôt.

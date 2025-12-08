@@ -34,31 +34,31 @@ Vous pouvez créer un gardien rapidement en suivant ces suggestions. Commencez p
 
 | **Le Gardien** |                   |                                                           |
 | -------------- | ----------------- | --------------------------------------------------------- |
-| Niveau         | Bonus de Maîtrise | Compétences                                               |
+| Niveau         | Bonus de Maîtrise | Aptitudes                                                 |
 | 1              | +2                | [[#Posture de Sentinelle]], [[#Saisie du Gardien]]        |
 | 2              | +2                | [[#Style de Combat]], [[#Marque du Gardien]]              |
 | 3              | +2                | [[#Appel du Champion]], [[#Résolution du Gardien]]        |
 | 4              | +2                | [[#Augmentation de Caractéristiques]], [[#Source de Vie]] |
 | 5              | +3                | [[#Attaque Supplémentaire]]                               |
-| 6              | +3                | Compétence d'[[#Appel du Champion]]                       |
+| 6              | +3                | Aptitude d'[[#Appel du Champion]]                         |
 | 7              | +3                | [[#Marche de la Sentinelle]]                              |
 | 8              | +3                | [[#Augmentation de Caractéristiques]]                     |
 | 9              | +4                | [[#Immortel]]                                             |
 | 10             | +4                | [[#Interruption]]                                         |
 | 11             | +4                | Amélioration de la [[#Marque du Gardien]]                 |
 | 12             | +4                | [[#Augmentation de Caractéristiques]]                     |
-| 13             | +5                | Compétence d'[[#Appel du Champion]]                       |
+| 13             | +5                | Aptitude d'[[#Appel du Champion]]                         |
 | 14             | +5                | Amélioration de la [[#Saisie du Gardien]]                 |
 | 15             | +5                | Amélioration de la [[#Source de Vie]]                     |
 | 16             | +5                | [[#Augmentation de Caractéristiques]]                     |
 | 17             | +6                | Amélioration de la [[#Résolution du Gardien]]             |
 | 18             | +6                | [[#Âme de la Sentinelle]]                                 |
 | 19             | +6                | [[#Augmentation de Caractéristiques]]                     |
-| 20             | +6                | Compétence d'[[#Appel du Champion]]                       |
+| 20             | +6                | Aptitude d'[[#Appel du Champion]]                         |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que gardien, vous disposez des compétences de classes suivantes.
+En tant que gardien, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -91,13 +91,13 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Gardien Alternatif (Opt.)
 
-Le rôle unique de _tank_ du gardien est basé principalement sur ses trois premières compétences : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois compétences définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
+Le rôle unique de _tank_ du gardien est basé principalement sur ses trois premières aptitudes : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois aptitudes définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
 
-Au niveau 1, vous pouvez choisir l'une des [[#versions alternatives]] pour votre gardien. Si vous le faites, vous utilisez les trois compétences de la variantes à la place de la saisie, de la marque et de la résolution. Si d'autres compétences réfèrent directement celles-ci, vous utilisez les compétences remplaçantes à la place, de façon adéquate et en accord avec le MJ.
+Au niveau 1, vous pouvez choisir l'une des [[#versions alternatives]] pour votre gardien. Si vous le faites, vous utilisez les trois aptitudes de la variantes à la place de la saisie, de la marque et de la résolution. Si d'autres aptitudes réfèrent directement celles-ci, vous utilisez les aptitudes remplaçantes à la place, de façon adéquate et en accord avec le MJ.
 
 ## Posture de Sentinelle
 
-Les gardiens sont comme des tours qu'il n'est pas facile de faire tomber. Au niveau 1, choisissez l'une des compétences suivantes : 
+Les gardiens sont comme des tours qu'il n'est pas facile de faire tomber. Au niveau 1, choisissez l'une des aptitudes suivantes : 
 
 ### Maîtrise d'Armure
 
@@ -115,7 +115,7 @@ Vous maîtrisez un jet de sauvegarde de votre choix.
 
 Au niveau 1, pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour se désengager.
 
-Au niveau 14, la portée de cette compétence passe à 10 ft.
+Au niveau 14, la portée de cette aptitude passe à 10 ft.
 
 ## Style de Combat
 
@@ -127,7 +127,7 @@ Lorsque vous touchez une créature avec une attaque armée de mêlée, sa vitess
 
 ### Combat à Deux Mains
 
-Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette compétence.
+Lorsque vous faites un 1 ou un 2 sur un dé de dégâts pour une attaque que vous réalisez avec une arme de mêlée que vous tenez à deux mains, vous pouvez relancer le dé et devez utiliser le nouveau résultat. L'arme doit avoir la propriété 'Polyvalente' ou 'À deux mains' pour que vous puissiez utiliser cette aptitude.
 
 ### Protection
 
@@ -147,7 +147,7 @@ Au niveau 11, à chaque fois que vous utilisez votre action pour attaquer pendan
 
 Lorsque vous atteignez le niveau 3, vous sentez l'attirance inexorable de votre devoir ou d'une tâche important que vous devez maintenant adopter comme le vôtre. Aucune force extérieure ne force votre choix ou surveille votre comportement  ; si vous échouez votre *charge*, vous serez seul responsable.
 
-Ce choix vous confère des compétences au niveau 3, puis aux niveaux 6, 13 et 20.
+Ce choix vous confère des aptitudes au niveau 3, puis aux niveaux 6, 13 et 20.
 
 | Appels du Champion              | Description                                                                                   |
 | ------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -179,9 +179,9 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Source de Vie
 
-Au niveau 4, vous pouvez utiliser votre action pour terminer une maladie ou une condition qui vous affecte. La condition peut être [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]], [[paralysé]] ou [[empoisonné]]. Vous pouvez utiliser cette action même si la condition que vous voulez terminer devrait l'empêcher. Une fois que vous avez utilisé cette compétence, vous devez terminer un repos avant de pouvoir le faire à nouveau.
+Au niveau 4, vous pouvez utiliser votre action pour terminer une maladie ou une condition qui vous affecte. La condition peut être [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]], [[paralysé]] ou [[empoisonné]]. Vous pouvez utiliser cette action même si la condition que vous voulez terminer devrait l'empêcher. Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos avant de pouvoir le faire à nouveau.
 
-À partir du niveau 15, lorsque vous utilisez cette compétence, vous pouvez choisir de remettre vos points de vie à la moitié de votre maximum, s'ils étaient inférieurs. Une fois que vous avez regagné des points de vie de cette manière, vous devez terminer un repos long pour le faire à nouveau.
+À partir du niveau 15, lorsque vous utilisez cette aptitude, vous pouvez choisir de remettre vos points de vie à la moitié de votre maximum, s'ils étaient inférieurs. Une fois que vous avez regagné des points de vie de cette manière, vous devez terminer un repos long pour le faire à nouveau.
 
 ## Attaque Supplémentaire
 
@@ -189,7 +189,7 @@ Au niveau 4, vous pouvez utiliser votre action pour terminer une maladie ou une 
 
 ## Marche de la Sentinelle
 
-Les gardiens sont d'excellents traqueurs qui naviguent les terres dangereuses sans problème. Au niveau 7, choisissez l'une des compétences suivantes : 
+Les gardiens sont d'excellents traqueurs qui naviguent les terres dangereuses sans problème. Au niveau 7, choisissez l'une des aptitudes suivantes : 
 
 ### Force de la Terre
 
@@ -207,7 +207,7 @@ Vos réflexes ont été améliorés par les obstacles que vous avez rencontrés.
 
 Au niveau 9, lorsque vous êtes réduit à 0 points de vie sans être tué immédiatement, vous pouvez choisir de tomber à 1 point de vie à la place.
 
-Une fois que vous avez utilisé cette compétence, vous devez terminer un repos long pour pouvoir le faire à nouveau.
+Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour pouvoir le faire à nouveau.
 
 ## Interruption
 
@@ -215,7 +215,7 @@ Une fois que vous avez utilisé cette compétence, vous devez terminer un repos 
 
 ## Âme de la Sentinelle
 
-Les gardiens sont imperturbables. Au niveau 18, choisissez l'une des compétences suivantes : 
+Les gardiens sont imperturbables. Au niveau 18, choisissez l'une des aptitudes suivantes : 
 
 ### Gardien Sans Âge
 
@@ -285,7 +285,7 @@ Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
-Cette compétence ne se cumule pas avec le sort [[marque du chasseur]].
+Cette aptitude ne se cumule pas avec le sort [[marque du chasseur]].
 
 ### Résistance du Chasseur
 _Remplace la Résolution du Gardien_
@@ -301,7 +301,7 @@ _Remplace la [[#Saisie du Gardien]]_
 
 Au niveau 1, pour une action bonus, vous pouvez lâcher un hurlement tonitruant à en glacer le sang. Chaque créature de taille G ou inférieure que vous choisissez à 5 ft. est repoussée de 5 ft. à l'opposé de vous.
 
-Au niveau 14, cette compétence affecte les créatures à 10 ft. de vous et vous les repoussez de 10 ft.
+Au niveau 14, cette aptitude affecte les créatures à 10 ft. de vous et vous les repoussez de 10 ft.
 
 ### Marque du Mangeur d'Hommes
 _Remplace la [[#Marque du Gardien]]_
@@ -328,7 +328,7 @@ _Remplace la [[#Saisie du Gardien]]_
 
 Au niveau 1, pour une action bonus, vous donnez à vos alliés un répit au milieu du combat. Chaque créature amicale que vous choisissez à 5 ft. de vous peut immédiatement se déplacer de 10 ft. sans déclencher d'attaque d'opportunité.
 
-Au niveau 14, cette compétence affecte les créatures amicales à 10 ft. de vous et leur permet de se déplacer de 15 ft. sans déclencher d'attaque d'opportunité.
+Au niveau 14, cette aptitude affecte les créatures amicales à 10 ft. de vous et leur permet de se déplacer de 15 ft. sans déclencher d'attaque d'opportunité.
 
 ### Marques Jumelles du Parangon
 _Remplace la [[#Marque du Gardien]]_
@@ -342,7 +342,7 @@ _Remplace la [[#Résolution du Gardien]]_
 
 À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez consommer un nombre de points de vie de votre réservoir pour en regagner le même nombre, jusqu'au maximum restant dans votre réservoir.
 
-À partir du niveau 17, lorsque vous utilisez votre [[#source de vie]], vous pouvez également utiliser votre compétence pour regagner des points de vie sans dépenser d'action.
+À partir du niveau 17, lorsque vous utilisez votre [[#source de vie]], vous pouvez également utiliser votre aptitude pour regagner des points de vie sans dépenser d'action.
 
 ## Gardien Crépusculaire
 

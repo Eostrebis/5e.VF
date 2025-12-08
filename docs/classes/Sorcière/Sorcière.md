@@ -35,21 +35,21 @@ Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commence
 
 | **La Sorcière |                   |                                                                                                                                         |                  |                 |              |     |      |      |      |      |      |      |      |      |
 | ------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ------------ | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Niveau        | Bonus de Maîtrise | Compétences                                                                                                                             | Maléfices Connus | Cantrips Connus | Sorts Connus | 1er | 2eme | 3eme | 4eme | 5eme | 6eme | 7eme | 8eme | 9eme |
+| Niveau        | Bonus de Maîtrise | Aptitudes                                                                                                                               | Maléfices Connus | Cantrips Connus | Sorts Connus | 1er | 2eme | 3eme | 4eme | 5eme | 6eme | 7eme | 8eme | 9eme |
 | 1             | +2                | [[Sorcière#Incantation\|Incantation]], [[Sorcière#Malédiction de Sorcière\|Malédiction de Sorcière]], [[Sorcière#Maléfices\|Maléfices]] | 2                | 4               | 2            | 2   | --   | --   | --   | --   | --   | --   | --   | --   |
 | 2             | +2                | [[Sorcière#Ricanement\|Ricanement]], [[Sorcière#Familier\|Familier]]                                                                    | 3                | 4               | 3            | 3   | --   | --   | --   | --   | --   | --   | --   | --   |
 | 3             | +2                | [[Sorcière#Arts de la Sorcière\|Arts de la Sorcière]]                                                                                   | 3                | 4               | 4            | 4   | 2    | --   | --   | --   | --   | --   | --   | --   |
 | 4             | +2                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 3                | 5               | 5            | 4   | 3    | --   | --   | --   | --   | --   | --   | --   |
 | 5             | +3                | [[Sorcière#Sort Pernicieux\|Sort Pernicieux]]                                                                                           | 4                | 5               | 6            | 4   | 3    | 2    | --   | --   | --   | --   | --   | --   |
-| 6             | +3                | Compétence d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                       | 4                | 5               | 7            | 4   | 3    | 3    | --   | --   | --   | --   | --   | --   |
+| 6             | +3                | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                         | 4                | 5               | 7            | 4   | 3    | 3    | --   | --   | --   | --   | --   | --   |
 | 7             | +3                | [[Sorcière#Familier Amélioré\|Familier Amélioré]]                                                                                       | 4                | 5               | 8            | 4   | 3    | 3    | 1    | --   | --   | --   | --   | --   |
 | 8             | +3                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 4                | 5               | 9            | 4   | 3    | 3    | 2    | --   | --   | --   | --   | --   |
 | 9             | +4                | [[Sorcière#Agonie Maudite\|Agonie Maudite]]                                                                                             | 5                | 5               | 10           | 4   | 3    | 3    | 3    | 1    | --   | --   | --   | --   |
-| 10            | +4                | Compétence d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                       | 5                | 6               | 11           | 4   | 3    | 3    | 3    | 2    | --   | --   | --   | --   |
+| 10            | +4                | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                         | 5                | 6               | 11           | 4   | 3    | 3    | 3    | 2    | --   | --   | --   | --   |
 | 11            | +4                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 5                | 6               | 12           | 4   | 3    | 3    | 3    | 2    | 1    | --   | --   | --   |
 | 12            | +4                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 5                | 6               | 12           | 4   | 3    | 3    | 3    | 2    | 1    | --   | --   | --   |
 | 13            | +5                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 6                | 6               | 13           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | --   | --   |
-| 14            | +5                | Compétence d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                       | 6                | 6               | 13           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | --   | --   |
+| 14            | +5                | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                         | 6                | 6               | 13           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | --   | --   |
 | 15            | +5                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 6                | 6               | 14           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | 1    | --   |
 | 16            | +5                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 6                | 6               | 14           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | 1    | --   |
 | 17            | +6                | --                                                                                                                                      | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | 1    | 1    |
@@ -57,9 +57,9 @@ Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commence
 | 19            | +6                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 3    | 2    | 1    | 1    | 1    |
 | 20            | +6                | [[Sorcière#Maître des Maléfices\|Maître des Maléfices]]                                                                                 | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 3    | 2    | 2    | 1    | 1    |
 
-# Compétences de Classes
+# Aptitudes de Classes
 
-En tant que sorcière, vous disposez des compétences de classes suivantes.
+En tant que sorcière, vous disposez des aptitudes de classes suivantes.
 
 ### Points de Vie
 
@@ -165,7 +165,7 @@ Au niveau 2, vous apprenez le sort [[Appel de Familier]] et pouvez le lancer com
 
 ##  Arts de la Sorcière
 
-Votre compétence en magie a culminé en l'apprentissage d'un art, une variété de magie innée qui existe en dehors des écoles de magie. Lorsque vous atteignez le niveau 3, choisissez un art de sorcière. Ce choix vous confère des compétences aux niveaux 3, 6, 10 et 14.
+Votre compétence en magie a culminé en l'apprentissage d'un art, une variété de magie innée qui existe en dehors des écoles de magie. Lorsque vous atteignez le niveau 3, choisissez un art de sorcière. Ce choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
 Si votre art vous confère un maléfice, il ne compte pas dans le nombre de maléfices que vous connaissez.
 
@@ -192,7 +192,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Sort Pernicieux
 
-À partir du niveau 5, lorsque vous lancez un sort de sorcière qui affecte une créature sous les effets d'un de vos maléfices, cette créature a le désavantage au premier jet de sauvegarde qu'elle réalise contre ce sort. Cette compétence ne s'applique que si la créature hostile est la seule cible de votre maléfice.
+À partir du niveau 5, lorsque vous lancez un sort de sorcière qui affecte une créature sous les effets d'un de vos maléfices, cette créature a le désavantage au premier jet de sauvegarde qu'elle réalise contre ce sort. Cette aptitude ne s'applique que si la créature hostile est la seule cible de votre maléfice.
 
 ## Familier Amélioré
 
@@ -202,7 +202,7 @@ Au niveau 7, les attaques de votre familier sont considérées comme magiques vi
 
 À partir du niveau 9, lorsque qu'une créature vous réduit à 0 point de vie sans vous tuer immédiatement, vous pouvez lui infliger une puissante malédiction. La créature est maudite pendant jusqu'à 24 heures. Tant qu'elle est maudite, la créature a le désavantage à ses jets d'attaque, de caractéristique et de sauvegarde. Si vous reprenez conscience, ou si la créature est ciblée par une [[délivrance des malédictions]], la malédiction se termine à la fin du prochain tour de la créature.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.
 
 ## Grand Maléfice
 

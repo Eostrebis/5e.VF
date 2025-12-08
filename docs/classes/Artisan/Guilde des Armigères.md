@@ -30,7 +30,7 @@ __Bandée.__ Une créature portant cette armure gagne un bonus de +1 à sa CA.
 
 À partir du niveau 14, pour une action bonus, vous pouvez gagner la résistance à tous les dégâts jusqu'à la fin de votre prochain tour.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Propriété Légendaire
 

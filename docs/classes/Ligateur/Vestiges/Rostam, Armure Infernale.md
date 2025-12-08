@@ -5,7 +5,7 @@ status: finished
 
 Armure mythique incarnant le mal même, Rostam apparaît autour de ses ligateurs et les protège.
 
-# Compétences
+# Aptitudes
 
 ## Maîtrises Supplémentaires
 Tant que vous êtes lié à Rostam, vous maîtrisez le [[Fléau]], le [[morgenstern]] ainsi que les [[armures lourdes]].
@@ -16,7 +16,7 @@ Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais 
 ## Résilience Infernale
 Lorsque vous prenez des dégâts contondants, perçants ou tranchants en portant une armure lourde, vous pouvez utiliser votre réaction pour réduire les dégâts que vous prenez de 1d12. Vous pouvez réduire les dégâts de 1d12 supplémentaire pour chaque vestige autre que Rostam auquel vous êtes lié.
 
-Une fois que vous avez utilisé cette compétence, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Armure Hideuse
 Tant que vous êtes lié à Rostam, vous pouvez utiliser votre action pour invoquer son hideuse armure infernale autour de vous, ainsi que n'importe quelle arme de mêlée que vous maîtrisez. L'armure est un [[harnois]] qui ne peut être détruit et que vous pouvez porter sans pénalité quel que soit votre score de Force. Cet équipement disparaît lorsque vous le dissipez pour une action ou lorsque vous n'êtes plus lié à Rostam.

@@ -4,10 +4,10 @@ status: finished
 *Vestige de niveau 9*
 
 Seuls les ligateurs se rappellent des légendes ésotériques d'Érèbe, l'initiateur de tous les vestiges, l'entité que même les dieux craignent.
-# Compétences
+# Aptitudes
 
 ## Oblivio
-Ce que vous touchez, vous défaites. Pour une action, vous pouvez toucher un objet ou une créature, qui doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la cible prend 10d10 + 50 dégâts nécrotiques, ou la moitié si elle réussit. Si cela réduit les points de vie de la cible à 0, elle est complètement *défaite*. Une créature défaite et tout ce qu'elle porte ou manie, sauf les objets magiques, sont annihilés de l'existence, ne laissant rien derrière, même pas de la poussière. Cette créature ne peut pas être ramenée à la vie par des moyens plus qu'une [[résurrection suprême]] ou un [[souhait]]. Vous pouvez utiliser cette compétence une fois, et vous récupérer la capacité de le faire lorsque vous terminez un repos long.
+Ce que vous touchez, vous défaites. Pour une action, vous pouvez toucher un objet ou une créature, qui doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la cible prend 10d10 + 50 dégâts nécrotiques, ou la moitié si elle réussit. Si cela réduit les points de vie de la cible à 0, elle est complètement *défaite*. Une créature défaite et tout ce qu'elle porte ou manie, sauf les objets magiques, sont annihilés de l'existence, ne laissant rien derrière, même pas de la poussière. Cette créature ne peut pas être ramenée à la vie par des moyens plus qu'une [[résurrection suprême]] ou un [[souhait]]. Vous pouvez utiliser cette aptitude une fois, et vous récupérer la capacité de le faire lorsque vous terminez un repos long.
 
 ## Trait : Vestigial
 Tant que vous êtes lié à Érèbe, vous êtes divorcé de la réalité, comme les vestiges eux-mêmes, vous faisant apparaître flou et indistinct, puisque votre réalité est étirée entre le Plan Matériel et le Vide. Vous êtes résistants à tous les dégâts. De plus, vous pouvez vous déplacer à travers d'autres créatures et objets comme dans du terrain difficile. Vous prenez 4d10 dégâts de force si vous terminez votre tour à l'intérieur d'une créature ou d'un objet, et vous êtes éjecté vers l'emplacement inoccupé le plus proche.
