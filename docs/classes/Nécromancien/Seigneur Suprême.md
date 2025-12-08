@@ -1,7 +1,7 @@
 ---
-status: wip
+status: finished
 ---
-Peu d'ambitions ne s'accaparent autant l'imagination que celle d'obtenir le pouvoir de régner. Certains nécromanciens, connus comme des Seigneurs Suprêmes, voient leur magie comme un moyen pour contrôler les autres comme ils contrôlent leurs minions morts-vivants. Cherchant le contrôle à la fois dans et hors du champs de bataille, les seigneurs suprêmes mettent à profit leur sombre magie pour renforcer leurs alliés et manipuler les autres. 
+Peu d'ambitions accaparent autant l'imagination que celle d'obtenir le pouvoir de régner. Certains nécromanciens, connus comme des Seigneurs Suprêmes, voient leur magie comme un moyen pour contrôler les autres comme ils contrôlent leurs sbires morts-vivants. Cherchant le contrôle à la fois dans et hors du champ de bataille, les seigneurs suprêmes mettent à profit leur sombre magie pour renforcer leurs alliés et manipuler les autres. 
 
 ## Sorts de Seigneur Suprême
 
@@ -23,7 +23,7 @@ Au niveau 3, vous pouvez conférer une "bénédiction" à vos minions en leur pr
 
 Lorsque vous atteignez le niveau 6, votre magie noire vous confère une véritable langue de serpent, que vous pouvez utiliser pour manipuler ceux autour de vous. Vous obtenez la maîtrise dans l'une des compétences de votre choix parmi Tromperie, Intimidation ou Persuasion. 
 
-De plus, vous pouvez utiliser votre modificateur d'Intelligence de Charisme pour vos jets de Charisme (Tromperie), Charisme (Intimidation) et Charisme (Persuasion).
+De plus, vous pouvez utiliser votre modificateur d'Intelligence au lieu de celui de Charisme pour vos jets de Charisme (Tromperie), Charisme (Intimidation) et Charisme (Persuasion).
 
 ## Thralls Sacrificiels
 
@@ -31,3 +31,14 @@ Au niveau 10, vous pouvez forcer vos thralls à se sacrifier pour garantir votre
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
+## Lichage : Tyran 
+
+Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Votre désir de contrôle vous a métamorphosé en liche tyran. Votre chair et vos os se détériorent rapidement, ne laissant de vous que deux orbes scintillants sous votre capuche. Vous bénéficiez des aptitudes suivantes en plus de l'aptitude de [[Nécromancien#Liche|Liche]] de la classe de Nécromancien : 
+
+**Règne Immortel.** Si vous tombez à 0 point de vie, vous pouvez choisir de posséder un corps proche plutôt que d'entamer le processus de reformation près de votre phylactère. Lorsque vous le faites, choisissez un Humanoïde [[inconscient]] ou le corps d'un Humanoïde mort dans la dernière minute à 120 ft. de vous (une créature protégée par un sort de [[protection contre le mal et le bien]] ou par un [[cercle magique]] ne peut pas être possédée).
+
+Une fois que vous possédez un corps, vous le contrôlez. Vos statistiques de jeu sont remplacées par celle de la créature, mais vous conservez votre alignement ainsi que vos scores d'Intelligence, de Sagesse et de Charisme. Si le corps a 0 point de vie lorsque vous le possédez, son type devient Mort-Vivant et il regagne 50 points de vie, jusqu'à son maximum de points de vie. Vous conservez les effets de vos aptitudes de classe. Si la cible possède des niveaux de classe, vous ne pouvez pas utiliser ses aptitudes de classe.
+
+Si vous possédez le corps d'une créature inconsciente, la créature réalise un jet de sauvegarde de Charisme toutes les 8 heures jusqu'à ce que l'effet se termine. Sur une réussite, vous êtes éjecté du corps et entamez la reformation à proximité de votre phylactère. Vous êtes également éjecté si le corps meurt ou si vous choisissez de le quitter pour une action. Une fois que vous avez possédé une créature de cette façon, vous ne pouvez pas le refaire sur la même créature en utilisant cette aptitude.
+
+__Influence du Tyran.__ Vous pouvez dépenser 25 points de votre réservoir de Toucher Charnel pour lancer le sort [[domination de bête]] sans dépenser d'emplacement de sort. Vous pouvez également dépenser 30 points pour lancer [[domination de personne]] ou 60 points pour lancer [[domination de monstre]] sans utiliser d'emplacement. 
