@@ -173,7 +173,7 @@ Il a compris qu'il ne pourrait pas obtenir son diplôme en restant assis sur un 
 
 Vous avez étudié un peu de théorie magique et avez appris quelques sorts liés à l'académie des Arts Mystiques.
 
-Vous connaissez les cantrips [[Lumières]] et [[Thaumaturgie]] ainsi que le sort [[Mémorisation]].
+Vous connaissez les cantrips [[Lumière]] et [[Thaumaturgie]] ainsi que le sort [[Mémorisation]].
 
 Vous pouvez lancer [[Mémorisation]] sans dépenser d'emplacement de sort, une fois par repos long. Vous pouvez également le lancer en utilisant vos emplacements de sort.
 

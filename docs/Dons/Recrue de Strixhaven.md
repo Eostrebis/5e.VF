@@ -9,7 +9,7 @@ Choisissez l'un des collèges de Strixhaven : Forsapience, Prismari, Quandrix, P
 
 | École        | Cantrips                                                                           | Sort de Niveau 1                                                         |
 | ------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| Forsapience  | Choisissez deux parmi [[Lumières]], [[Flamme Sacrée]] et [[Thaumaturgie]]          | Choisissez un sort de niveau 1 de clerc ou de magicien                   |
+| Forsapience  | Choisissez deux parmi [[Lumière]], [[Flamme Sacrée]] et [[Thaumaturgie]]          | Choisissez un sort de niveau 1 de clerc ou de magicien                   |
 | Prismari     | Choisissez deux parmi [[Trait de Feu]], [[Prestidigitation]] et [[Rayon de Givre]] | Choisissez un sort de niveau 1 de Barde ou d'Ensorceleur                 |
 | Quandrix     | Choisissez deux parmi [[Druidisme]], [[Assistance]] et [[Main de Mage]]            | Choisissez un sort de niveau 1 de Druide, de Sorcière ou de Magicien     |
 | Plumargent   | Choisissez deux parmi [[Flamme Sacrée]], [[Thaumaturgie]] et [[Fou Rire]]          | Choisissez un sort de niveau 1 de Barde ou de Clerc                      |

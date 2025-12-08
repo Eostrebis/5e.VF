@@ -24,7 +24,7 @@ Vous gagnez les sorts de serment suivants :
 | ----------------- | ----------------------------------------------------------- |
 | 3                 | [[Sanctuaire]], [[sommeil]]                                 |
 | 5                 | [[Apaisement des émotions]], [[immobilisation de personne]] |
-| 9                 | [[Contresort]], [[motif hypnotique]]                        |
+| 9                 | [[Contresort]], [[Trame Hypnotique]]                        |
 | 13                | [[Sphère résiliente]], [[peau de pierre]]                   |
 | 17                | [[Immobilisation de monstre]], [[mur de force]]             |
 

@@ -257,7 +257,7 @@ spells: "true"
 | Holy Weapon                          | [[Arme Sacrée]]                           |
 | Hunger of Hadar                      | [[Faim d'Hadar]]                          |
 | Hunter's Mark                        | [[Marque du Chasseur]]                    |
-| Hypnotic Pattern                     | [[Motif Hypnotique]]                      |
+| Hypnotic Pattern                     | [[Trame Hypnotique]]                      |
 | Ice Knife                            | [[Couteau de Glace]]                      |
 | Ice Storm                            | [[Tempête de Grêle]]                      |
 | Identify                             | [[Identification]]                        |
@@ -290,7 +290,7 @@ spells: "true"
 | Lesser Restoration                   | [[Restauration Partielle]]                |
 | Levitate                             | [[Lévitation]]                            |
 | Life Transference                    | [[Transfert de Vie]]                      |
-| Light                                | [[Lumières]]                              |
+| Light                                | [[Lumière]]                              |
 | Lightning Arrow                      | [[Flèche de Foudre]]                      |
 | Lightning Bolt                       | [[Éclair]]                                |
 | Lightning Lure                       | [[Ferrage Foudroyant]]                    |
@@ -495,7 +495,7 @@ spells: "true"
 | True Strike                          | [[Coup au But]]                           |
 | Tsunami                              | [[Tsunami]]                               |
 | Unseen Servant                       | [[Serviteur Invisible]]                   |
-| Vampiric Touch                       | [[Touche Vampirique]]                     |
+| Vampiric Touch                       | [[Vampirisme]]                     |
 | Vicious Mockery                      | [[Moquerie Cruelle]]                      |
 | Vitriolic Sphere                     | [[Sphère de Vitriol]]                     |
 | Vortex Warp                          | [[Distorsion Vortexielle]]                |

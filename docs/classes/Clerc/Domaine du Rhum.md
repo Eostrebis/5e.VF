@@ -9,7 +9,7 @@ Là où le rhum coule à flot, les dieux de l'amusement accourent. Les clercs du
 | --------------- | ----------------------------------------------------------- |
 | 1               | [[Charme-personne]], [[Sommeil]]                            |
 | 3               | [[Apaisement des émotions]], [[Gueule de Bois]]             |
-| 5               | [[Motif hypnotique]], [[lenteur]]                           |
+| 5               | [[Trame Hypnotique]], [[lenteur]]                           |
 | 7               | [[Confusion]], [[protection contre la mort]]                |
 | 9               | [[Restauration supérieure]], [[modification de la mémoire]] |
 

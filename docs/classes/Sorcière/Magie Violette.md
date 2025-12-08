@@ -9,7 +9,7 @@ La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchan
 | -------------- | ----- |
 | 1 | [[Charme-personne]], [[Image Silencieuse]] |
 | 2 | [[Discours Captivant]], [[Invisibilité]] |
-| 3 | [[Motif Hypnotique]], [[Image Majeure]] |
+| 3 | [[Trame Hypnotique]], [[Image Majeure]] |
 | 4 | [[Confusion]], [[Sanctuaire Privé]] |
 | 5 | [[Modification de la Mémoire]], [[Apparence Trompeuse]] |
 

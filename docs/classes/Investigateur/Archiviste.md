@@ -35,7 +35,7 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 | -------------- | ------------------------------------------ |
 | 1              | [[Fléau]], [[Simulacre de Vie]]            |
 | 2              | [[Cécité ou Surdité]], [[ténèbres]]        |
-| 3              | [[Retour à la vie]], [[touche vampirique]] |
+| 3              | [[Retour à la vie]], [[Vampirisme]] |
 
 ### Regis
 
@@ -44,7 +44,7 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 | -------------- | ----- |
 | 1 | [[Charme-personne]], [[Fou Rire]] |
 | 2 | [[Discours captivant]], [[suggestion]] |
-| 3 | [[Dissipation de la Magie]], [[motif hypnotique]] |
+| 3 | [[Dissipation de la Magie]], [[Trame Hypnotique]] |
 
 ## Docteur ès Sorts
 

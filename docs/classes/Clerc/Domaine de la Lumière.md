@@ -15,7 +15,7 @@ Les dieux de la Lumière encouragent la renaissance et le renouveau, la vérité
 
 ## Cantrip Supplémentaire
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le cantrip [[Lumières]] si vous ne le connaissez pas déjà. Ce cantrip ne compte pas dans le nombre de cantrips que vous connaissez.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez le cantrip [[Lumière]] si vous ne le connaissez pas déjà. Ce cantrip ne compte pas dans le nombre de cantrips que vous connaissez.
 
 ## Lueur Protectrice
 

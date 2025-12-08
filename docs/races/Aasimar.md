@@ -44,7 +44,7 @@ Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possèd
 
 **Mains Soignantes.** Pour une action, vous pouvez toucher une créature et lancez un nombre de d4s égal à votre modificateur de maîtrise. La créature regagne un nombre de points de vie égal au total obtenu. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir fini un repos long.
 
-**Porteur de Lumière.** Vous connaissez le cantrip [[Lumières]]. Vous utilisez le charisme comme caractéristique d'incantation pour ce sort.
+**Porteur de Lumière.** Vous connaissez le cantrip [[Lumière]]. Vous utilisez le charisme comme caractéristique d'incantation pour ce sort.
 
 **Révélation Céleste.** Lorsque vous atteignez le niveau 3, choisissez l'une des révélations ci-dessous. Après cela, vous pourrez utiliser une action bonus pour libérer l'énergie céleste en vous, gagnant les bonus de cette révélation. Cette transformation dure 1 minute ou jusqu'à ce que vous la terminiez pour une action bonus. Une fois que vous vous êtes transformé en utilisant une révélation, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long.
 

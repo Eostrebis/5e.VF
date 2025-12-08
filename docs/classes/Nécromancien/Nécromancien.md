@@ -1,7 +1,7 @@
 ---
-status: wip
+status: finished
 ---
-Une vieille femme décrépite tend le bras et s'accroche difficilement au poignet d'un chevalier expérimenté. Le chevalier se moque gentiment de l'_agression_ de la vieille avant de s'effondrer quelques minutes plus tard, desséché et mort.
+Une vieille femme décrépite tend le bras et s'accroche difficilement au poignet d'un chevalier expérimenté. Le chevalier se moque gentiment de l'_assaut_ de la vieille avant de s'effondrer quelques minutes plus tard, desséché et mort.
 
 Une guerrière balafrée et aguerrie, vêtue d'une cuirasse, mène une charge à travers un détachement de soldats, abattant sur ses ennemis un glaive nimbé d'énergies ténébreuses. Une avant-garde titubante de morts-vivants suit ses pas, et ses ennemis abattus se relèvent pour rejoindre leurs rangs.
 
@@ -30,7 +30,7 @@ Lorsque vous créez votre nécromancien, l'élément le plus important à prendr
 Travaillez avec votre MJ pour déterminer comment la nécromancie est perçue dans le monde. Est-ce juste une autre méthode d'incantation, ou est-ce un outil abominable, utilisé uniquement par les lanceurs de sorts les plus abhorrés ? Comment les gens du commun réagissent-ils en vous voyant ? Devez-vous cacher vos serviteurs aux yeux du public et, si oui, comment ? De plus, les autres personnages joueurs connaissent-ils votre sinistre magie et, si c'est le cas, comment ont-ils réagi en voyant vos cadavres asservis ? Discutez avec les autres joueurs, en particulier ceux qui incarnent des clercs et des paladins, pour trouver des raisons valables qui justifient votre collaboration.
 ### Création Rapide
 
-Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution puis de la Force ou la Dextérité si vous souhaitez sélectionner l'ambition de Chevalier de la Mort. Choisissez l'historique de votre choix. Enfin, choisissez les cantrips [[chair de poule]], [[abracadabra]], [[lumières]] et [[étincelle de vie]] ainsi que les sorts de niveau 1 [[crâne hurlant de gahoul]] et [[armure de mage]].
+Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution puis de la Force ou la Dextérité si vous souhaitez sélectionner l'ambition de Chevalier de la Mort. Choisissez l'historique de votre choix. Enfin, choisissez les cantrips [[chair de poule]], [[abracadabra]], [[Lumière]] et [[étincelle de vie]] ainsi que les sorts de niveau 1 [[crâne hurlant de gahoul]] et [[armure de mage]].
 
 ### Table du Nécromancien
 
@@ -100,7 +100,7 @@ Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts 
 
 ### Incantation de Sorts
 
-La table du Nécromancien indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts de nécromancien. Pour lancer un sort de nécromancien de niveau 1 ou supérieur, vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements utilisés lorsque vous terminez un repos long.
+La table du Nécromancien indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts de nécromancien. Pour lancer un sort de nécromancien de niveau 1 ou supérieur, vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements dépensés lorsque vous terminez un repos long.
 
 ### Sorts Connus de Niveau 1 et Supérieurs
 
@@ -166,7 +166,7 @@ Comme toujours, vous ne pouvez pas réanimer un Mort-Vivant dont les points de v
 
 ## Sac d'Os
 
-Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un _sac d'os_. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces à 5 ft.
+Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un _sac d'os_. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces inoccupés à 5 ft.
 
 Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau _sac d'os_. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous ne créiez un nouveau sac et ne le déversiez. 
 
@@ -194,7 +194,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Incantation Critique
 
-Au niveau 5, vos puissants pouvoir nécromants punissent vos ennemis au premier signe de faiblesse. Lorsqu'une créature obtient un 1 au dé pour son jet de sauvegarde contre l'un de vos sorts, elle échoue automatiquement le sort et vous pouvez tirer l'ensemble des dés de dégâts du sort une seconde fois et ajouter les résultats aux dégâts initiaux du sort contre cette créature. Les dégâts supplémentaires ne s'appliquent qu'à la créature ayant obtenu un 1.
+Au niveau 5, vos puissants pouvoir nécromants punissent vos ennemis au premier signe de faiblesse. Lorsqu'une créature obtient un 1 naturel sur le d20 pour son jet de sauvegarde contre l'un de vos sorts, elle échoue automatiquement son jet de sauvegarde et vous pouvez tirer l'ensemble des dés de dégâts du sort une seconde fois et ajouter les résultats aux dégâts initiaux du sort contre cette créature. Les dégâts supplémentaires ne s'appliquent qu'à la créature ayant obtenu un 1.
 
 De plus, vos jets d'attaque de sort infligent des coup critique sur un 19 ou un 20.
 

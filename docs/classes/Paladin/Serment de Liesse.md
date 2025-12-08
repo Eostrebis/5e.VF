@@ -21,7 +21,7 @@ Vous gagnez les sorts de serment suivants :
 | ----------------- | ----------------------------------------------------------------- |
 | 3                 | [[Charme-personne]], [[fou rire]]                                 |
 | 5                 | [[Apaisement des émotions]], [[amélioration de caractéristiques]] |
-| 9                 | [[Création de nourriture et d'eau]], [[motif hypnotique]]         |
+| 9                 | [[Création de nourriture et d'eau]], [[Trame Hypnotique]]         |
 | 13                | [[Compulsion]], [[liberté de mouvement]]                          |
 | 17                | [[Quête]], [[lien télépathique]]                                  |
 
