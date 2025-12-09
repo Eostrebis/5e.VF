@@ -4909,7 +4909,7 @@
             "MagedeGuerre",
             "Nécromancien"
         ],
-        "description": "Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé _brin de pensée_ qui persiste pour la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.\n\nSi vous lancez ce sort pendant que vous vous concentrez sur un sort ou une aptitude qui vous permet de lire ou manipuler les pensées des autres (comme [[Détection des Pensées]] ou [[modification de la mémoire]]), vous pouvez transformer la mémoire que vous détectez en brin de pensée plutôt.\n\nLancer ce sort tout en tenant un brin de pensée vous permet de recevoir instantanément la mémoire, l'idée ou le message contenu par le brin de pensée. (Lancer [[Détection des Pensées]] sur le brin a le même effet)."
+        "description": "Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé _brin de pensée_ qui persiste pour la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.\n\nSi vous lancez ce sort pendant que vous vous concentrez sur un sort ou une aptitude qui vous permet de lire ou manipuler les pensées des autres (comme [[Détection des Pensées]] ou [[Modification de Mémoire]]), vous pouvez transformer la mémoire que vous détectez en brin de pensée plutôt.\n\nLancer ce sort tout en tenant un brin de pensée vous permet de recevoir instantanément la mémoire, l'idée ou le message contenu par le brin de pensée. (Lancer [[Détection des Pensées]] sur le brin a le même effet)."
     },
     "Bouffée de Poison": {
         "level": "0",
@@ -6236,6 +6236,26 @@
         ],
         "description": "Ce sort intensifie la gravité dans un cylindre d'un rayon de 50 ft. et haut de 100 ft. centré sur un point à portée. Chaque créature dans la zone doit dépenser deux pieds de mouvement par pied bougé, y compris pour des mouvements de vol, de saut et d'escalade. Cela peut être combiné avec un terrain difficile pour un déplacement au quart de la vitesse initiale. Si une créature [[au sol]] souhaite se relever, elle doit réussir un jet de Force. Si elle rate, elle ne peut pas se déplacer ce tour.\n\nLes objets dans la zone, y compris ceux portés ou maniés, voient leurs poids doubler, ce qui peut rendre certaines créatures encombrées ou faire échouer des sorts comme [[lévitation]]. Toute attaque armée à distance qui passe à travers la zone a le désavantage et tous les dégâts de chute sont doublés.\n"
     },
+    "Tentacules Noirs": {
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un morceau de tentacule d'une pieuvre ou d'un poulpe géant",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Black Tentacles",
+        "status": "empty",
+        "available": [
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.\n\nLorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou prendre 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules prend 3d6 dégâts contondants.\n\nUne créature [[retenu|retenue]] par les tentacules peut utiliser son action pour réaliser une jet de Force ou Dextérité (au choix) contre le DC de sauvegarde de sort. Si elle réussit, elle se libère.\n\n\n"
+    },
     "Assassin Imaginaire": {
         "level": "4",
         "school": "Illusion",
@@ -6337,26 +6357,6 @@
             "Paladin"
         ],
         "description": "Vous invoquez un esprit qui prend la forme d'une loyale et majestueuse monture. Apparaissant dans un espace non occupé à portée, le destrier prend la forme de votre choix : un griffon, un pégase, un péritio, un loup géant, un rhinocéros ou un tigre aux dents de sabre . Votre MJ peut exceptionnellement autoriser d'autres animaux comme montures. Le destrier a les statistiques de la forme choisie, mais c'est un céleste, un fey ou un fiélon (votre choix) à la place de son type normal. De plus, si votre destrier a une Intelligence de 5 ou moins, son Intelligence passe à 6 et il devient capable de comprendre une langue de votre choix que vous parlez. \n\nVotre destrier vous sert de monture, en combat comme en dehors, et vous avez un lien instinctif qui vous permet de combattre comme un seul homme. Tant que vous utilisez votre destrier comme monture, vous pouvez faire en sorte que n'importe quel sort que vous lancez qui ne vous cible que vous cible aussi votre destrier.\n\nLorsque le destrier tombe à 0 point de vie, il disparaît et ne laisse derrière aucune forme physique. Vous pouvez également renvoyer votre destrier lorsque vous le souhaitez pour une action, le faisant disparaître. Dans tous les cas, relancer ce sort invoque le même destrier à nouveau et lui restaure ces points de vie au maximum. \n\nTant que votre destrier se trouve à moins de 2 kilomètres de vous, vous pouvez communiquer l'un avec l'autre télépathiquement. Vous ne pouvez pas avoir plus d'un destrier lié par ce sort ou par [[appel de destrier]] à la fois. Pour une action, vous pouvez libérer ce destrier de son lien à n'importe quel moment, le faisant disparaître. "
-    },
-    "Tentacules Noires": {
-        "level": "4",
-        "school": "Conjuration",
-        "Verbal": "true",
-        "Somatique": "true",
-        "Matériel": "true",
-        "detailmat": "Un morceau de tentacule d'une pieuvre ou d'un poulpe géant",
-        "Durée": "1 Minute",
-        "Incantation": "1 Action",
-        "Portée": "90 ft.",
-        "Concentration": "true",
-        "Rituel": "false",
-        "englishname": "Black Tentacles",
-        "status": "empty",
-        "available": [
-            "Magicien",
-            "Sorcière"
-        ],
-        "description": "De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.\n\nLorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou prendre 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules prend 3d6 dégâts contondants.\n\nUne créature [[retenu|retenue]] par les tentacules peut utiliser son action pour réaliser une jet de Force ou Dextérité (au choix) contre le DC de sauvegarde de sort. Si elle réussit, elle se libère.\n\n\n"
     },
     "Aura de Vie": {
         "level": "4",
