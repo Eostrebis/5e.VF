@@ -34,29 +34,29 @@ Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Comme
 
 ### Table du Nécromancien
 
-| **Le Nécromancien** |                   |                      |           |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
-| ------------------- | ----------------- | -------------------- | --------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Aptitudes | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| 1                   | +2                | --                   |           | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 2                   | +2                | 1/4                  |           | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 3                   | +2                | 1/2                  |           | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
-| 4                   | +2                | 1/2                  |           | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
-| 5                   | +3                | 1                    |           | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
-| 6                   | +3                | 1                    |           | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
-| 7                   | +3                | 1                    |           | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
-| 8                   | +3                | 1                    |           | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
-| 9                   | +4                | 2                    |           | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
-| 10                  | +4                | 2                    |           | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
-| 11                  | +4                | 2                    |           | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 12                  | +4                | 2                    |           | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 13                  | +5                | 3                    |           | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 14                  | +5                | 3                    |           | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 15                  | +5                | 3                    |           | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 16                  | +5                | 3                    |           | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 17                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20                  | +6                | 4                    |           | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| **Le Nécromancien** |                   |                      |                                           |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
+| ------------------- | ----------------- | -------------------- | ----------------------------------------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Aptitudes                                 | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
+| 1                   | +2                | --                   | [[#Incantation]], [[#Toucher Charnel]]    | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
+| 2                   | +2                | 1/4                  | [[#Thralls]], [[#Sac d'Os]]               | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
+| 3                   | +2                | 1/2                  | [[#Ambition Tombale]], [[#Arcane Noire]]  | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
+| 4                   | +2                | 1/2                  | [[#Augmentation de Caractéristiques]]     | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
+| 5                   | +3                | 1                    | [[#Incantation Critique]]                 | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
+| 6                   | +3                | 1                    | Aptitude de [[#Ambition Tombale]]         | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
+| 7                   | +3                | 1                    | [[#Présence Captivante]]                  | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
+| 8                   | +3                | 1                    | [[#Augmentation de Caractéristiques]]     | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
+| 9                   | +4                | 2                    | --                                        | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
+| 10                  | +4                | 2                    | Compétence de [[#Ambition Tombale]]       | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
+| 11                  | +4                | 2                    | --                                        | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
+| 12                  | +4                | 2                    | [[#Augmentation de Caractéristiques]]     | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
+| 13                  | +5                | 3                    | --                                        | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
+| 14                  | +5                | 3                    | Amélioration de [[#Incantation Critique]] | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
+| 15                  | +5                | 3                    | --                                        | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
+| 16                  | +5                | 3                    | [[#Augmentation de Caractéristiques]]     | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
+| 17                  | +6                | 4                    | --                                        | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
+| 18                  | +6                | 4                    | [[#Servitude Immortelle]]                 | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
+| 19                  | +6                | 4                    | [[#Augmentation de Caractéristiques]]     | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
+| 20                  | +6                | 4                    | [[#Liche]]                                | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
 
 # Aptitudes de Classes
 
@@ -96,11 +96,11 @@ Votre connexion avec le plan des énergies négatives vous permet de lancer de p
 
 ### Cantrips (Sorts de niveau 0)
 
-Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du nécromancien. Aux niveaux supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la table du Nécromancien.
+Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du nécromancien. Aux niveaux supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la [[#table du Nécromancien]].
 
 ### Incantation de Sorts
 
-La table du Nécromancien indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts de nécromancien. Pour lancer un sort de nécromancien de niveau 1 ou supérieur, vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements dépensés lorsque vous terminez un repos long.
+La [[#table du Nécromancien]] indique combien d'emplacements de sorts de chaque niveau vous possédez pour lancer des sorts de nécromancien. Pour lancer un sort de nécromancien de niveau 1 ou supérieur, vous devez dépenser un emplacement d'un niveau au moins égal à celui du sort. Vous récupérez tous les emplacements dépensés lorsque vous terminez un repos long.
 
 ### Sorts Connus de Niveau 1 et Supérieurs
 
@@ -130,9 +130,9 @@ Vous pouvez utiliser un [[focalisateur arcanique]] comme focalisateur d'incantat
 
 Votre connexion avec le plan des énergies négatives vous confère un noyau intérieur de pouvoirs dangereux, prêts à être déchaînés à tout moment. À partir du niveau 1, vous disposez d'un réservoir de Toucher Charnel égal à 5 fois votre niveau de nécromancien qui se renouvelle lorsque vous terminez un repos long.
 
-Pour une action, annoncez le nombre de points de ce réservoir que vous souhaitez dépenser, jusqu'à un maximum de 5 fois votre bonus de maîtrise et réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, vous dépensez le nombre de points que vous avez annoncé et infligez des dégâts nécrotiques supplémentaires égaux aux points dépensés. Si l'attaque rate, vous ne dépensez aucun point. Les dégâts infligés par votre Toucher Charnel sont doublés lorsque vous infligez un coup critique sans dépenser de points supplémentaires.
+Pour une action, annoncez le nombre de points de ce réservoir que vous souhaitez dépenser, jusqu'à un maximum de 5 fois votre bonus de maîtrise et réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, vous dépensez le nombre de points que vous avez annoncé et infligez des dégâts nécrotiques égaux aux points dépensés. Si l'attaque rate, vous ne dépensez aucun point. Les dégâts infligés par votre Toucher Charnel sont doublés lorsque vous infligez un coup critique sans dépenser de points supplémentaires.
 
-Cette attaque n'inflige aucun dégât aux Constructions et soigne plutôt les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à réaliser de jet d'attaque de sort.
+Cette attaque n'inflige aucun dégât aux Constructions et soigne les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à réaliser de jet d'attaque de sort.
 
 ## Thralls
 

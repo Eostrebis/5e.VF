@@ -9,7 +9,7 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 >
 >- **Classe d'Armure** 17 (armure naturelle)
 >- **Points de Vie** 40 (9d8)
->- **Vitesse** 25 ft.,, vol 25 ft. (stationnaire)
+>- **Vitesse** 25 ft.,, vol 25 ft. (flottaison)
 >___
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|

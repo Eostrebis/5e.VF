@@ -9,7 +9,7 @@ Un esprit est l'écho à peine tangible d'un humanoïde, une âme liée au domai
 >
 >- **Classe d'Armure** 15 (armure naturelle)
 >- **Points de Vie** 7 (2d8 - 2)
->- **Vitesse** 25 ft.,, vol 25 ft. (stationnaire)
+>- **Vitesse** 25 ft.,, vol 25 ft. (flottaison)
 >___
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
