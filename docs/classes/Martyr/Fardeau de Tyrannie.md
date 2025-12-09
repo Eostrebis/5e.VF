@@ -12,7 +12,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 | ---------------- | ----------------------------------------------------- |
 | 3                | [[Fléau]], [[Injonction]]                             |
 | 5                | [[Appel de destrier]], [[Immobilisation de Personne]] |
-| 9                | [[Malédiction Persistante]], [[peur]]                 |
+| 9                | [[Malédiction Persistante]], [[Terreur]]                 |
 | 13               | [[Bannissement]], [[Domination de bête]]              |
 | 17               | [[Domination de personne]], [[quête]]                 |
 

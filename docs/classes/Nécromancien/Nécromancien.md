@@ -120,7 +120,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts de nécro
 
 ### Incantation Rituelle
 
-Vous pouvez lancer un sort de nécromancien comme un rituel s'il possède l'identifiant `rituel`.
+Vous pouvez lancer un sort de nécromancien comme un rituel s'il possède l'étiquette `rituel`.
 
 ### Focalisateur d'incantation
 
@@ -168,11 +168,11 @@ Comme toujours, vous ne pouvez pas réanimer un Mort-Vivant dont les points de v
 
 Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un _sac d'os_. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces inoccupés à 5 ft.
 
-Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau _sac d'os_. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous ne créiez un nouveau sac et ne le déversiez. 
+Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau _sac d'os_. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous créiez un nouveau sac et ne le déversiez. 
 
 ## Ambition Tombale
 
-Lorsque vous atteignez le niveau 3, vous choisissez un stratégie de recherche des arts sombres afin d'entrevoir une route vers votre objectif ultime. Choisissez une ambition tombale. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 20.
+Lorsque vous atteignez le niveau 3, vous choisissez un plan de recherche des arts sombres afin d'entrevoir une route vers votre objectif ultime. Choisissez une ambition tombale. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 20.
 
 | Ambition Tombale         | Description                                                                                           |
 | ------------------------ | ----------------------------------------------------------------------------------------------------- |
@@ -183,26 +183,26 @@ Lorsque vous atteignez le niveau 3, vous choisissez un stratégie de recherche d
 | [[Pharaon]]              | Un souvenir des anciens dieux-rois, autant un prêtre qu'un nécromancien                               |
 | [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs                        |
 | [[Réanimateur]]          | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants                  |
-| [[Faucheur]]             | Un ombre furtive de mort, qui annonce et apporte les disparitions                                     |
+| [[Faucheur]]             | Une ombre furtive de mort, qui annonce et apporte les disparitions                                    |
 ## Arcane Noire
 
 Également au niveau 3, pour une action bonus, vous pouvez dépenser un emplacement de sort pour remplir votre réservoir de Toucher Charnel. Votre réservoir regagne 1d8 points dépensés plus 1d8 pour chaque niveau de l'emplacement de sort dépensé, jusqu'à un maximum du total possible du réservoir.
 
 ## Augmentation de Caractéristiques
 
-Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière
+Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière.
 
 ## Incantation Critique
 
-Au niveau 5, vos puissants pouvoir nécromants punissent vos ennemis au premier signe de faiblesse. Lorsqu'une créature obtient un 1 naturel sur le d20 pour son jet de sauvegarde contre l'un de vos sorts, elle échoue automatiquement son jet de sauvegarde et vous pouvez tirer l'ensemble des dés de dégâts du sort une seconde fois et ajouter les résultats aux dégâts initiaux du sort contre cette créature. Les dégâts supplémentaires ne s'appliquent qu'à la créature ayant obtenu un 1.
+Au niveau 5, vos puissants pouvoirs nécromants punissent vos ennemis au premier signe de faiblesse. Lorsqu'une créature obtient un 1 naturel sur le d20 pour son jet de sauvegarde contre l'un de vos sorts, elle échoue automatiquement son jet de sauvegarde et vous pouvez tirer l'ensemble des dés de dégâts du sort une seconde fois et ajouter les résultats aux dégâts initiaux du sort contre cette créature. Les dégâts supplémentaires ne s'appliquent qu'à la créature ayant obtenu un 1.
 
-De plus, vos jets d'attaque de sort infligent des coup critique sur un 19 ou un 20.
+De plus, vos jets d'attaque de sort infligent des coups critiques sur un 19 ou un 20.
 
 À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et prend des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
 
 ## Présence Captivante
 
-Au niveau 7, l'énergie négative qui coule en vous renforce vos thralls contre ceux qui chercheraient à les détruire ou à les contrôler. Vos thralls et autres Morts-Vivants que vous contrôlez sont immunisés aux effets qui renvoi les Morts-Vivants et ne peuvent être forcés à obéir par une autre créature tant que vous êtes conscient.
+Au niveau 7, l'énergie négative qui coule en vous renforce vos thralls contre ceux qui chercheraient à les détruire ou à les contrôler. Vos thralls et autres Morts-Vivants que vous contrôlez sont immunisés aux effets qui renvoient les Morts-Vivants et ne peuvent être forcés à obéir par une autre créature tant que vous êtes conscient.
 
 ## Servitude Immortelle
 
@@ -210,7 +210,7 @@ Lorsque vous atteignez le niveau 18, votre connexion à vos thralls peut les rap
 
 ## Liche
 
-Au niveau 20, vous avez réussi l'exploit de toutes les prouesses nécromantiques, grâce à laquelle vous allez pouvoir conquérir la mort elle-même : le Rite de Lichage. Lorsque vous atteignez ce niveau, vous avez déjà complété votre phylactère et être prêt à accomplir le rite. Pour ce faire, vous vous coupez du monde extérieur pendant 30 jours dans endroit isolé de votre choix, et vous en émergez comme une liche immortel, un mort-vivant au pouvoir inégalé. Une fois le rite complété, vous obtenez les effets suivants en plus de ceux indiqués par votre Ambition tombale.
+Au niveau 20, vous avez réussi l'exploit de toutes les prouesses nécromantiques, grâce à laquelle vous allez pouvoir conquérir la mort elle-même : le Rite de Lichéité. Lorsque vous atteignez ce niveau, vous avez déjà complété votre phylactère et êtes prêt à accomplir le rite. Pour ce faire, vous vous coupez du monde extérieur pendant 30 jours dans endroit isolé de votre choix, et vous en émergez comme une liche immortelle, un mort-vivant au pouvoir inégalé. Une fois le rite complété, vous obtenez les effets suivants en plus de ceux indiqués par votre Ambition tombale.
 
 ### Phylactère
 

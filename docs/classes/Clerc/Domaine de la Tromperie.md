@@ -11,7 +11,7 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 | 3               | [[Image miroir]], [[passage sans trace]]                   |
 | 5               | [[Clignotement]], [[Dissipation de la Magie]]              |
 | 7               | [[Porte dimensionnelle]], [[métamorphose]]                 |
-| 9               | [[Domination de personne]], [[modification de la mémoire]] |
+| 9               | [[Domination de personne]], [[Modification de Mémoire]] |
 
 ## Bénédiction du Farceur
 

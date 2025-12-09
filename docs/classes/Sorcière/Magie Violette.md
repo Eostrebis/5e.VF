@@ -11,7 +11,7 @@ La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchan
 | 2 | [[Discours Captivant]], [[Invisibilité]] |
 | 3 | [[Trame Hypnotique]], [[Image Majeure]] |
 | 4 | [[Confusion]], [[Sanctuaire Privé]] |
-| 5 | [[Modification de la Mémoire]], [[Apparence Trompeuse]] |
+| 5 | [[Modification de Mémoire]], [[Apparence Trompeuse]] |
 
 ## Maléfice : Hallucination
 

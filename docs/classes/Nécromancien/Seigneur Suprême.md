@@ -5,7 +5,7 @@ Peu d'ambitions accaparent autant l'imagination que celle d'obtenir le pouvoir d
 
 ## Sorts de Seigneur Suprême
 
-Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ses sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
+Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
 | Niveau de Sort | Sorts                                                     |
 | -------------- | --------------------------------------------------------- |
@@ -31,7 +31,7 @@ Au niveau 10, vous pouvez forcer vos thralls à se sacrifier pour garantir votre
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
-## Lichage : Tyran 
+## Lichéité : Tyran 
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Votre désir de contrôle vous a métamorphosé en liche tyran. Votre chair et vos os se détériorent rapidement, ne laissant de vous que deux orbes scintillants sous votre capuche. Vous bénéficiez des aptitudes suivantes en plus de l'aptitude de [[Nécromancien#Liche|Liche]] de la classe de Nécromancien : 
 

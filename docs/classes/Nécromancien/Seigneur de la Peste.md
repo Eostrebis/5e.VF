@@ -19,7 +19,7 @@ Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez av
 
 Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, une créature prend 4d6 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
 
-## Lichage : Liche Corpulente
+## Lichéité : Liche Corpulente
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Votre obsession pour la maladie et la pourriture a affecté votre transformation : votre corps enfle, comme un cadavre abandonné dans l'eau, et votre peau devient d'un ton vert maladif. Vous bénéficiez des aptitudes suivantes en plus de l'aptitude de [[Nécromancien#Liche|Liche]] de la classe de Nécromancien : 
 

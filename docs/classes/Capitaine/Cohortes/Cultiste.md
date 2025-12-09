@@ -45,6 +45,6 @@ _Niveau 10._ _Action :_ __Sinistre Malédiction (1/jour).__ Une créature que le
 
 _Niveau 14._ _Action :_ __Incantation.__ L'incantation du cultiste s'améliore. Il peut lancer les sorts supplémentaires suivants :
  - À volonté : [[ténèbres]], [[Pattes d'Araignée]]
- - 1/jour : [[peur]]
+ - 1/jour : [[Terreur]]
 
 _Niveau 18._ _Réaction :_ __Représailles Vengeresses.__ Pour une réaction après avoir subi des dégâts d'une créature visible à 60 ft., le cultiste force cette créature à réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 11 (2d10) dégâts de feu, ou la moitié si elle réussit.

@@ -13,7 +13,7 @@ Les clercs qui servent ces déités prodiguent confort et protection à ceux qui
 | 3               | [[Rayon lunaire]], [[vision de l'invisible]]      |
 | 5               | [[Aura de Vitalité]], [[petite hutte de Leomund]] |
 | 7               | [[Aura de Vie]], [[invisibilité supérieure]]      |
-| 9               | [[Cercle de pouvoir]], [[double illusoire]]       |
+| 9               | [[Cercle de pouvoir]], [[Double Illusoire]]       |
 
 ## Maîtrises Supplémentaires
 Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les [[Armures Lourdes]] et les [[Armes Martiales]].

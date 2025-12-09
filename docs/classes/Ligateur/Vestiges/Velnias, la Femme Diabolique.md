@@ -20,7 +20,7 @@ Tant que vous êtes lié à Velnias, vous pouvez lancer les sorts suivants sans 
 
 *2/jour chacun :* [[Fléau]], [[ténèbres]]
 
-*1/jour chacun :* [[peur]], [[assassin imaginaire]]
+*1/jour chacun :* [[Terreur]], [[assassin imaginaire]]
 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

@@ -37,7 +37,7 @@ Vous pouvez appliquer les sutures suivantes.
 
 **Suture Voltaïque.** Lorsque le thrall touche une créature avec une attaque, il inflige 3d6 dégâts nécrotiques ou de foudre supplémentaires (votre choix).
 
-## Lichage : Golem Recomposé
+## Lichéité : Golem Recomposé
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Grâce à d'abominables travaux d'alchimie et de chirurgie, vous vous êtes construit un corps artificiel afin de servir de contenant pour votre âme.
 

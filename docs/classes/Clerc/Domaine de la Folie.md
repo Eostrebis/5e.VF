@@ -11,7 +11,7 @@ Vos pouvoirs divins viennent d'un dieu fou, un être de paranoïa, de chaos et d
 | 3               | [[Cécité ou Surdité]], [[Détection des Pensées]] |
 | 5               | [[Clairvoyance]], [[Trame Hypnotique]]           |
 | 7               | [[Confusion]], [[terrain hallucinatoire]]        |
-| 9               | [[Songe]], [[modification de la mémoire]]        |
+| 9               | [[Songe]], [[Modification de Mémoire]]        |
 
 ## Apprenti Dérangé
 

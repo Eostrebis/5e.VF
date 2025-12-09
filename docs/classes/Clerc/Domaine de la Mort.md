@@ -9,7 +9,7 @@ Le domaine de la Mort s'intéresse aux forces qui provoquent la mort, ainsi qu'�
 | --------------- | ------------------------------------------------ |
 | 1               | [[Simulacre de Vie]], [[rayon empoisonné]]       |
 | 3               | [[Cécité ou Surdité]], [[rayon affaiblissant]]   |
-| 5               | [[Animation des Morts]], [[Vampirisme]]   |
+| 5               | [[Animation des Morts]], [[Toucher du Vampire]]   |
 | 7               | [[Flétrissement]], [[protection contre la mort]] |
 | 9               | [[Coquille Antivie]], [[brume mortelle]]         |
 

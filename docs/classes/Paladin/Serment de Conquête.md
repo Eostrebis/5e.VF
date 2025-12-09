@@ -22,7 +22,7 @@ Vous gagnez les sorts de serment suivants :
 | ----------------- | ---------------------------------------------------- |
 | 3                 | [[Armure d'Agathys]], [[injonction]]                 |
 | 5                 | [[Immobilisation de personne]], [[arme spirituelle]] |
-| 9                 | [[Malédiction persistante]], [[peur]]                |
+| 9                 | [[Malédiction persistante]], [[Terreur]]                |
 | 13                | [[Domination de bête]], [[peau de pierre]]           |
 | 17                | [[Brume mortelle]], [[domination de personne]]       |
 

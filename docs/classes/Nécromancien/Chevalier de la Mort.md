@@ -1,7 +1,7 @@
 ---
 status: finished
 ---
-Certains nécromanciens sont heureux de poser leurs affaires dans de vieilles tombes avec des tomes poussiéreux, sortant occasionnellement sur un champ de bataille pour récupérer ingrédients frais et nouveaux compagnons. À l'inverse, les chevaliers de la mort sont des prédateurs parmi les charognards, atteignant leurs objectifs par un savant mélange de magie et de combat plus traditionnel. Alimentés par les énergies sombres et une puissante armure, les chevaliers de la mort à la fois la première ligne et le général de leurs forces mortes-vivantes, jamais effrayé de devoir se salir les mains au besoin.
+Certains nécromanciens sont heureux de poser leurs affaires dans de vieilles tombes avec des tomes poussiéreux, sortant occasionnellement sur un champ de bataille pour récupérer ingrédients frais et nouveaux compagnons. À l'inverse, les chevaliers de la mort sont des prédateurs parmi les charognards, atteignant leurs objectifs par un savant mélange de magie et de combat plus traditionnel. Alimentés par les énergies sombres et une puissante armure, les chevaliers de la mort sont à la fois la première ligne et le général de leurs forces mortes-vivantes, jamais effrayés de devoir se salir les mains au besoin.
 
 ## Recherche Intensive en Combat
 
@@ -23,10 +23,10 @@ De plus, vos attaques armées de mêlée infligent des coups critiques sur un je
 
 Au niveau 10, votre noyau interne d'énergie sombre se diffuse à vos thralls, les transformant en réservoirs personnels d'énergie si le besoin s'en fait sentir. À chaque fois qu'un de vos thralls meurt ou que vous le libérez, votre réservoir de Toucher Charnel regagne un nombre de points égal à votre niveau de nécromancien.
 
-## Lichage : Imperator
+## Lichéité : Imperator
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. De par vos capacités martiales et votre puissant pouvoir nécromant, vous vous êtes transformé en liche imperator — une créature Morte-Vivante inégalée en arts arcaniques comme martiaux. Vous bénéficiez des effets suivants :
 
-**Recherche en Combat Terminée.** Vous obtenez la maîtrise des [[armures lourdes]] si vous ne l'avez pas déjà et devenez résistant aux dégâts contondants, perçants et tranchants. 
+**Recherche en Combat Parachevée.** Vous obtenez la maîtrise des [[armures lourdes]] si vous ne l'avez pas déjà et devenez résistant aux dégâts contondants, perçants et tranchants. 
 
 **Frappe Charnelle Sans Égale.** Les dégâts nécrotiques infligés par votre Toucher Charnel ignorent la résistance et l'immunité aux dégâts nécrotiques. De plus, il n'y a plus de limite au nombre de points de vie temporaires que votre Frappe Charnelle vous confère.

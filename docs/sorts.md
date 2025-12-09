@@ -48,7 +48,7 @@ spells: "true"
 | Beast Sense                          | [[Sens animal]]                           |
 | Bestow Curse                         | [[Malédiction Persistante]]               |
 | Bigby's Hand                         | [[Main de Bigby]]                         |
-| Black Tentacles                      | [[Tentacules Noires]]                     |
+| Black Tentacles                      | [[Tentacules Noirs]]                     |
 | Blade Barrier                        | [[Barrière de Lames]]                     |
 | Blade Ward                           | [[Protection contre les Armes]]           |
 | Blade of Disaster                    | [[Lame du Désastre]]                      |
@@ -172,7 +172,7 @@ spells: "true"
 | Enthrall                             | [[Discours Captivant]]                    |
 | Erupting Earth                       | [[Éruption de Terre]]                     |
 | Etherealness                         | [[Forme Éthérée]]                         |
-| Evard's Black Tentacles              | [[Tentacules noires d'Evard]]             |
+| Evard's Black Tentacles              | [[Tentacules noirs d'Evard]]             |
 | Expeditious Retreat                  | [[Repli Expéditif]]                       |
 | Eyebite                              | [[Œil Tyrannique]]                        |
 | Fabricate                            | [[Fabrication]]                           |
@@ -181,7 +181,7 @@ spells: "true"
 | False Life                           | [[Simulacre de Vie]]                      |
 | Far Step                             | [[Foulée Dimensionnelle]]                 |
 | Fast Friends                         | [[Amitié Rapide]]                         |
-| Fear                                 | [[Peur]]                                  |
+| Fear                                 | [[Terreur]]                                  |
 | Feather Fall                         | [[Feuille Morte]]                         |
 | Feeblemind                           | [[Esprit Faible]]                         |
 | Feign Death                          | [[Tromper la Mort]]                       |
@@ -333,7 +333,7 @@ spells: "true"
 | Mirror Image                         | [[Image Miroir]]                          |
 | Mislead                              | [[Double Illusoire]]                      |
 | Misty Step                           | [[Pas Brumeux]]                           |
-| Modify Memory                        | [[Modification de la Mémoire]]            |
+| Modify Memory                        | [[Modification de Mémoire]]            |
 | Mold Earth                           | [[Façonnage de la Terre]]                 |
 | Moonbeam                             | [[Rayon Lunaire]]                         |
 | Mordenkainen's Faithful Hound        | [[Fidèle Molosse de Mordenkainen]]        |
@@ -495,7 +495,7 @@ spells: "true"
 | True Strike                          | [[Coup au But]]                           |
 | Tsunami                              | [[Tsunami]]                               |
 | Unseen Servant                       | [[Serviteur Invisible]]                   |
-| Vampiric Touch                       | [[Vampirisme]]                     |
+| Vampiric Touch                       | [[Toucher du Vampire]]                     |
 | Vicious Mockery                      | [[Moquerie Cruelle]]                      |
 | Vitriolic Sphere                     | [[Sphère de Vitriol]]                     |
 | Vortex Warp                          | [[Distorsion Vortexielle]]                |

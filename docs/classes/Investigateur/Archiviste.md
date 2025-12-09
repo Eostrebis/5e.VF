@@ -35,7 +35,7 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 | -------------- | ------------------------------------------ |
 | 1              | [[Fléau]], [[Simulacre de Vie]]            |
 | 2              | [[Cécité ou Surdité]], [[ténèbres]]        |
-| 3              | [[Retour à la vie]], [[Vampirisme]] |
+| 3              | [[Retour à la vie]], [[Toucher du Vampire]] |
 
 ### Regis
 

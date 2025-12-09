@@ -12,7 +12,7 @@ Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vo
 | 3      | [[Charme-personne]]     |
 | 4      | [[Invisibilité]]        |
 | 7      | [[Image majeure]]       |
-| 10     | [[Tentacules noires]]   |
+| 10     | [[Tentacules Noirs]]   |
 | 13     | [[Apparence trompeuse]] |
 ## Cape de Lames
 
