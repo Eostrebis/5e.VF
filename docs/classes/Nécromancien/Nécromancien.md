@@ -184,6 +184,7 @@ Lorsque vous atteignez le niveau 3, vous choisissez un plan de recherche des art
 | [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs                        |
 | [[Réanimateur]]          | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants                  |
 | [[Faucheur]]             | Une ombre furtive de mort, qui annonce et apporte les disparitions                                    |
+
 ## Arcane Noire
 
 Également au niveau 3, pour une action bonus, vous pouvez dépenser un emplacement de sort pour remplir votre réservoir de Toucher Charnel. Votre réservoir regagne 1d8 points dépensés plus 1d8 pour chaque niveau de l'emplacement de sort dépensé, jusqu'à un maximum du total possible du réservoir.
