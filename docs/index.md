@@ -27,7 +27,7 @@ search:
 > - **Magicien.** ![](https://geps.dev/progress/0) 
 > - **Martyr.** ![](https://geps.dev/progress/100) 
 > - **Moine.** ![](https://geps.dev/progress/100) 
-> - **Nécromancien.** ![](https://geps.dev/progress/32) 
+> - **Nécromancien.** ![](https://geps.dev/progress/29) 
 > - **Occultiste.** ![](https://geps.dev/progress/0) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
 > - **Ranger.** ![](https://geps.dev/progress/0) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-12-08 16:19:00
+Mis à jour pour la dernière fois le 2025-12-08 23:34:41
