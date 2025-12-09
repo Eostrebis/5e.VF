@@ -1,7 +1,7 @@
 ---
 status: finished
 ---
-Une vieille femme décrépite tend le bras et s'accroche difficilement au poignet d'un chevalier expérimenté. Le chevalier se moque gentiment de l'_assaut_ de la vieille avant de s'effondrer quelques minutes plus tard, desséché et mort.
+Une vieille femme décrépite tend le bras et s'accroche difficilement au poignet d'un chevalier expérimenté. Le chevalier se moque gentiment de l'assaut de la vieille avant de s'effondrer quelques minutes plus tard, desséché et mort.
 
 Une guerrière balafrée et aguerrie, vêtue d'une cuirasse, mène une charge à travers un détachement de soldats, abattant sur ses ennemis un glaive nimbé d'énergies ténébreuses. Une avant-garde titubante de morts-vivants suit ses pas, et ses ennemis abattus se relèvent pour rejoindre leurs rangs.
 
@@ -15,7 +15,7 @@ Les nécromanciens doivent associer leur grand intellect à une absence de scrup
 
 Quels que soient leurs moyens, chaque nécromancien est mû par une fascination profonde pour les arts sombres et le pouvoir que la nécromancie peut leur conférer. La plupart se considèrent comme des parias de l'élite académique, s'aventurant dans de nouveaux territoires de la magie que les autres lanceurs de sorts sont trop couards pour explorer.
 
-Cependant, accumuler le savoir et élargir leur compréhension n'est qu'un moyen pour la plupart des nécromanciens ; ils sont presque toujours animés par une impulsion plus profonde et plus sombre, un objectif qui les pousse jusqu'aux plus extrêmes limites. Il peut s'agir de l'idéal déformé d'un _plus grand bien_ ou de l'objectif de réparer l'injustice de la mortalité. Dans tous les cas, la nécromancie est un sinistre instrument au service de l'œuvre de leur vie.
+Cependant, accumuler le savoir et élargir leur compréhension n'est qu'un moyen pour la plupart des nécromanciens ; ils sont presque toujours animés par une impulsion plus profonde et plus sombre, un objectif qui les pousse jusqu'aux plus extrêmes limites. Cela peut s'agir de l'idéal déformé d'un plus grand bien ou de l'objectif de réparer l'injustice de la mortalité. Dans tous les cas, la nécromancie est un sinistre instrument au service de l'œuvre de leur vie.
 
 ## Maîtres de la Non-vie
 

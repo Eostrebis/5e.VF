@@ -9,7 +9,7 @@ Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez av
 
 ## Vile Congrégation
 
-À partir du niveau 3, des légions de vermines s'accrochent à votre peau et s'accumulent autour des autres créatuures proches de vous. À chaque fois qu'une créature hostile à 5 ft. de vous réalise un jet d'attaque ou de sauvegarde, vous pouvez lancer un d4 et soustraire ce résultat au résultat du jet d'attaque ou de sauvegarde. Cette aptitude n'a aucun effet sur les Constructions ou les Morts-Vivants. 
+À partir du niveau 3, des légions de vermines s'accrochent à votre peau et s'accumulent autour des autres créatures proches de vous. À chaque fois qu'une créature hostile à 5 ft. de vous réalise un jet d'attaque ou de sauvegarde, vous pouvez lancer un d4 et soustraire ce résultat au résultat du jet d'attaque ou de sauvegarde. Cette aptitude n'a aucun effet sur les Constructions ou les Morts-Vivants. 
 
 ## Crachat de Projectile
 
@@ -33,4 +33,4 @@ Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes tran
  - La cible perd 1d6 points de vie supplémentaires à chaque fois qu'elle subit des dégâts.
  - La cible ne peut parler que dans une langue incompréhensible et ne peut pas réaliser les composantes verbales de ses sorts.
 
-À la fin de chacun de ses tours, la cible réalise un jet de sauvegarde de Constitution pour mettre fin à l'effet de malédiction et la condition [[empoisonné]].
+À la fin de chacun de ses tours, la cible réalise un jet de sauvegarde de Constitution pour mettre fin à l'effet de malédiction et à la condition [[empoisonné]].
