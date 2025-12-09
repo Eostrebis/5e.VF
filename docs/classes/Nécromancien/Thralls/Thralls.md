@@ -7,8 +7,8 @@ Un corps peut devenir un égorgeur, une goule ou un zombie. Un tas d'os peut dev
 
 | Nom                      | CR  | CA  | PV  | Mouvement                         | Traits                                   |
 | ------------------------ | --- | --- | --- | --------------------------------- | ---------------------------------------- |
-| [[Bête d'Os]]            | 1   | 14  | 277 | 40 ft.                            | Odorat Aiguisé, Tactique de Groupe       |
-| [[Égorgeur]]             | 1   | 8   | 36  | 30 ft.                            | Echolocation                             |
+| [[Bête d'Os]]            | 1   | 14  | 277 | 40 ft.                            | Odorat Aiguisé, Tactiques de Groupe      |
+| [[Égorgeur]]             | 1   | 8   | 36  | 30 ft.                            | Écholocalisation                         |
 | [[Esprit]]               | 1/4 | 15  | 7   | 25 ft., vol 25 ft. (stationnaire) | Mouvement Incorporel                     |
 | [[Goule Née-des-Tombes]] | 2   | 12  | 63  | 30 ft.                            | Régénération                             |
 | [[Squelette]]            | 1/4 | 13  | 13  | 30 ft.                            | --                                       |
