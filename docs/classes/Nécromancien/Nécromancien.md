@@ -207,11 +207,11 @@ Au niveau 7, l'énergie négative qui coule en vous renforce vos thralls contre 
 
 ## Servitude Immortelle
 
-Lorsque vous atteignez le niveau 18, votre connexion à vos thralls peut les rappeler d'une destruction imminente. Lorsqu'un thrall sous votre contrôle est réduit à 0 point mais détruit sur le coup, vous pouvez utiliser votre réaction pour lui rendre la moitié de ses points de vie maximum. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
+Lorsque vous atteignez le niveau 18, votre connexion à vos thralls peut les rappeler d'une destruction imminente. Lorsqu'un thrall sous votre contrôle est réduit à 0 point mais pas détruit sur le coup, vous pouvez utiliser votre réaction pour lui rendre la moitié de ses points de vie maximum. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
 
 ## Liche
 
-Au niveau 20, vous avez réussi l'exploit de toutes les prouesses nécromantiques, grâce à laquelle vous allez pouvoir conquérir la mort elle-même : le Rite de Lichéité. Lorsque vous atteignez ce niveau, vous avez déjà complété votre phylactère et êtes prêt à accomplir le rite. Pour ce faire, vous vous coupez du monde extérieur pendant 30 jours dans endroit isolé de votre choix, et vous en émergez comme une liche immortelle, un mort-vivant au pouvoir inégalé. Une fois le rite complété, vous obtenez les effets suivants en plus de ceux indiqués par votre Ambition tombale.
+Au niveau 20, vous avez réussi l'exploit de toutes les prouesses nécromantiques, grâce à laquelle vous allez pouvoir conquérir la mort elle-même : le Rite de Lichéité. Lorsque vous atteignez ce niveau, vous avez déjà complété votre phylactère et êtes prêt à accomplir le rite. Pour ce faire, vous vous coupez du monde extérieur pendant 30 jours dans un endroit isolé de votre choix, et vous en émergez comme une liche immortelle, un mort-vivant au pouvoir inégalé. Une fois le rite complété, vous obtenez les effets suivants en plus de ceux indiqués par votre [[#Ambition Tombale]].
 
 ### Phylactère
 

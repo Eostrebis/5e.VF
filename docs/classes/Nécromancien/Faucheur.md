@@ -35,7 +35,7 @@ Vous pouvez terminer l'effet pour une action bonus ou lorsque vous démarrez vot
 
 À partir du niveau 10, les esprits que vous dirigez se déplacent à d'incroyables vitesses. La vitesse de vol de vos thralls est doublée. De plus, lorsque l'un de vos thralls vole en dehors de la portée d'un ennemi, les attaques d'opportunité contre lui sont réalisées avec le désavantage. 
 
-## Liche : Grande Faucheuse
+## Lichéité : Grande Faucheuse
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Vous êtes devenu l'incarnation de la Mort elle-même, un présage de la fin ultime. Enveloppé d'ombres, vous ressemblez à une sinistre présence squelettique dissimulée dans une large robe, une vision que tout homme craint.
 
