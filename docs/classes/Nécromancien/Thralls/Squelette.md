@@ -25,6 +25,7 @@ Restes réanimés d'humanoïdes morts depuis bien longtemps, les squelettes ne s
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 >___
+>
 >### Actions
 >***Épée Courte.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
 >

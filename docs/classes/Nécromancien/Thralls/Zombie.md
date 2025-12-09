@@ -24,6 +24,7 @@ Un zombie est l'assemblage des restes en décomposition d'un être autrefois viv
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 >___
+>
 >__Résilience Morte-Vivante.__ Si des dégâts réduisent le zombie à 0 point de vie, il doit réaliser un jet de sauvegarde de Constitution d'un DD égal à 5 + les dégâts pris, sauf si les dégâts sont radiants ou émanent d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie à la place.
 >
 >### Actions
