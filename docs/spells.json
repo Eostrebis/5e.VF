@@ -1576,6 +1576,26 @@
         ],
         "description": "Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 4d6 dégâts radiants, et le prochain jet d'attaque réalisé contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
     },
+    "Bond Mortel de l'Araignée": {
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portée": "Touché",
+        "Concentration": "",
+        "Rituel": "",
+        "englishname": "Falling Spider's Spite",
+        "status": "finished",
+        "available": [
+            "Ranger",
+            "Nécromancien"
+        ],
+        "description": "Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre portée, vous pouvez instantanément bondir vers la créature et réaliser une unique attaque armée de mêlée. Si vous touchez, la vitesse de la cible est réduite de 10 ft. jusqu'à la fin de son prochain tour et elle doit réussir un jet de sauvegarde Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.\n"
+    },
     "Baiser de l'Araignée": {
         "level": "1",
         "school": "Illusion",
@@ -1881,6 +1901,27 @@
         ],
         "description": "La prochaine fois que vous touchez une créature avec une attaque armée à distance en utilisant une arme à feu pendant la durée du sort, votre balle regorge d'énergie élémentaire. L'attaque inflige 2d4 dégâts supplémentaires à la cible. Vous choisissez si ces dégâts supplémentaires sont des dégâts d'acide, de froid, de feu, de foudre, de poison ou de tonnerre et vous pouvez choisir de changer les dégâts de votre arme à feu pour un de ceux-ci. Vous n'êtes pas obligé de choisir les même dégâts pour les deux.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.\n"
     },
+    "Blessure": {
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Inflict Wounds",
+        "status": "finished",
+        "available": [
+            "Martyr",
+            "Nécromancien",
+            "Clerc"
+        ],
+        "description": "Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 3d10 dégâts nécrotiques. \n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 1.\n"
+    },
     "Serviteur Invisible": {
         "level": "1",
         "school": "Conjuration",
@@ -2131,6 +2172,29 @@
             "Magicien"
         ],
         "description": "Vous propagez magiquement une rumeur de 10 mots ou moins. Toute créature qui se trouve à portée et qui se trouve proche de 3 ou plus autres créatures qui parlent la même langue est persuadée d'avoir entendu la rumeur être répétée par quelqu'un de proche. Différentes créatures entendent la rumeur de différentes personnes, donc une origine concrète est impossible à discerner. Généralement, les créatures ne deviennent pas hostiles juste après avoir entendu une rumeur, même des plus vicieuses, mais cela peut facilement affecter leur inclinaison.\n"
+    },
+    "Bond": {
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "La patte arrière d'une sauterelle",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Jump",
+        "status": "finished",
+        "available": [
+            "Artificier",
+            "Druide",
+            "Ranger",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous touchez une créature. La distance de saut de cette créature est triplée jusqu'à ce que le sort ne se termine.\n"
     },
     "Anomalie Arcanique": {
         "level": "1",
@@ -2713,6 +2777,25 @@
             "Nécromancien"
         ],
         "description": "Vous invoquez une faux phantasmagorique de mort dans une main libre et la faite tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque dans la zone tant que la faux bouge doit réaliser un jet de sauvegarde de Dextérité ou prendre 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.\n\nSi vous êtes à 120 ft. de la faux au début de votre prochain tour, elle vous revient en suivant une ligne large de 10 ft., forçant les créatures sur la trajectoire à réaliser un jet de sauvegarde contre les dégâts.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 6.\n"
+    },
+    "Bosquet des Druides": {
+        "level": "6",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Du gui, que le sort consomme et qui a été recueilli à l'aide d'une serpe dorée sous la lumière d'une pleine lune",
+        "Durée": "24 Heures",
+        "Incantation": "10 Minutes",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Druid Grove",
+        "status": "finished",
+        "available": [
+            "Druide"
+        ],
+        "description": "Vous appelez les esprits de la nature pour protéger une zone à l'extérieur ou sous terre. Cette zone peut aller d'un cube de 30 ft. de côté à un cube de 90 ft. de côté. Les bâtiments et autres structures sont exclus de la zone affectée. Si vous lancez ce sort sur la même zone tous les jours pendant un an, le sort persiste jusqu'à ce qu'il soit dissipé. Le sort crée les effets suivants à l'intérieur de la zone. Lorsque vous lancez ce sort, vous pouvez spécifier certaines créatures comme amies et qui sont immunisées aux effets. Vous pouvez également préciser un mot de passe qui, lorsqu'il est prononcé à voix haute, rend celui l'ayant prononcé immunisé aux effets. L'intégralité de la zone protégée irradie de magie. Un sort de [[dissipation de la magie]] lancé sur la zone, s'il réussit, ne retire que l'un des effets suivants et pas la protection entière sur la zone. Le lanceur du sort de dissipation choisit quel effet se termine. Ce n'est que lorsque tous les effets sont terminés que le sort est dissipé.\n\n**Brouillard Solide.** Vous pouvez remplir n'importe quel nombre de carrés au sol de 5 ft. de côté d'épais brouillard, les rendant fortement obscuré. Le brouillard s'élève sur 10 ft. De plus, chaque déplacement passant à travers le brouillard coûte le triple. Une créature immunisée à cet effet voit à travers le brouillard comme dans la brume, si ce n'est les quelques petites lueurs vertes scintillantes et flottantes à l'intérieur.\n\n**Sous-Bois Saisissant.** Vous pouvez remplir n'importe quel nombre de carrés au sol de 5 ft. de côté qui ne sont pas remplis de brouillard de lianes et de ronces, comme d'après le sort [[enchevêtrement]]. Une créature immunisée à cet effet perçoit les ronces et lianes comme douces et peut les remodeler à sa guise pour s'en servir de fauteuil ou de lit temporaire. \n\n**Gardiens du Bosquet.** Vous pouvez animer jusqu'à 4 arbres dans la zone, les faisant se déraciner du sol. Ces arbres utilisent les statistiques d'un [arbre éveillé](https://www.dndbeyond.com/monsters/16792-awakened-tree), sauf qu'ils ne peuvent pas parler et que leur écorce est recouverte de symboles druidiques. Si une créature non immunisée à cet effet pénètre dans la zone protégée, les gardiens du bosquet se battent jusqu'à ce qu'ils soient défaits ou qu'ils aient éliminé les intrus. Les gardiens du bosquet obéissent toujours aux ordres verbaux (aucune action requise pour vous) que vous émettez tout en étant dans la zone. Si vous ne leur donnez pas d'ordre et qu'il n'y a aucun intrus dans la zone, les gardiens du bosquet ne font rien. Les gardiens du bosquet ne peuvent pas quitter la zone protégée. Lorsque le sort se termine, la magie qui les anime disparaît et les arbres reprennent racine si possible.\n\n**Effets Magiques Supplémentaires.** Vous pouvez placer l'un des effets de votre choix sur la zone protégée : \n\n - Un effet constant de [[saute de vent]] à deux endroits de votre choix.\n - Une [[croissance d'épines]] à un endroit de votre choix.\n - Un [[mur de vent]] à deux endroits de votre choix.\n\nPour une créature immunisée à cet effet, les vents ne sont que d'agréables brises et les épines sont inoffensives. "
     },
     "Demande": {
         "level": "6",
@@ -5597,11 +5680,11 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Eldritch Barrier",
-        "status": "empty",
+        "status": "finished",
         "available": [
             "Occultiste"
         ],
-        "description": "\n"
+        "description": "Lorsque vous lancez ce sort, vous vous protégez des énergies contre-nature. Vous avez l'avantage aux jets de sauvegarde contre les états [[charmé]] et [[apeuré]]. Vous gagnez la résistance aux dégâts de force et aux dégâts psychiques. De plus, chaque fois que vous subissez des dégâts provenant d'une attaque infligeant des dégâts de force ou psychiques, vous pouvez utiliser votre réaction pour infliger 1d8 dégâts de force à votre attaquant.\n\n**Aux niveaux supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts de force infligés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.\n"
     },
     "Antagonisation": {
         "level": "3",
@@ -5799,6 +5882,25 @@
             "Nécromancien"
         ],
         "description": "Vous invoquez un fantôme éthéré aux allures de spectre, armé d'une lame mortelle, en un point à portée pour abattre vos ennemis. Lorsque vous lancez ce sort, et par une action lors de chacun de vos tours suivants jusqu'à ce que le sort se termine, vous pouvez ordonner au fantôme de voler jusqu'à 30 ft. et d'attaquer une créature à 5 ft. de lui avec sa lame. La cible doit réussir un jet de sauvegarde de Dextérité. Une cible [[apeuré|apeurée]] effectue ce jet de sauvegarde avec un désavantage. En cas d'échec, le fantôme la frappe, infligeant 3d10 dégâts tranchants.\n\n**Aux niveaux supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts tranchants augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.\n"
+    },
+    "Blasphème": {
+        "level": "3",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 60 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Blasphemy",
+        "status": "finished",
+        "available": [
+            "Barde"
+        ],
+        "description": "Vous lancez une imprécation et repoussez par votre volonté les magies curatives de la nature et des dieux. Chaque fois qu'une créature à 60 ft. devrait regagner des points de vie grâce à un sort, elle doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle ne regagne pas de points de vie et prend à la place 1d6 dégâts psychiques. Vous pouvez terminer ce sort prématurément pour une action.\n"
     },
     "Tentacules Aquatiques": {
         "level": "4",
