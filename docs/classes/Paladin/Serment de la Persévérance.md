@@ -34,7 +34,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Mauvais Tour.** Pour une action, vous pouvez utiliser votre Canal Divin pour tisser une illusion sur vous-même et jusqu'à deux créatures consentantes à moins de 30 ft. Cette illusion agit comme le sort [[déguisement]]. Pendant que l'illusion est active, vous et les créatures ciblées avez l'avantage aux jets de Charisme (Tromperie) et Charisme (Persuasion) que vous réalisez.
 
-**Plan Génial.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour obtenir la résistance à un type de dégâts parmi acide, froid, feu, foudre, poison ett tonnerre pendant la prochaine heure. En contrepartie, le MJ tire dans la table ci-dessous un type de dégâts contre lequel vous serez faible pendant cette durée. Si le type de dégâts obtenu sur la table est le même que celui que vous avez choisi, vous n'avez pas de faiblesse.
+**Plan Génial.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour obtenir la résistance à un type de dégâts parmi acide, froid, feu, foudre, poison et tonnerre pendant la prochaine heure. En contrepartie, le MJ tire dans la table ci-dessous un type de dégâts contre lequel vous serez faible pendant cette durée. Si le type de dégâts obtenu sur la table est le même que celui que vous avez choisi, vous n'avez pas de faiblesse.
 
 | d6  | Type de Dégâts |
 | --- | -------------- |
