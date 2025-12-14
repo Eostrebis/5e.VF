@@ -184,12 +184,13 @@ Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant qu
 | [[Serment de la Nuit Éternelle]] | Incarnez un justicier de l'ombre qui renonce à l'honneur chevaleresque pour dispenser une justice expéditive par l'assassinat et le subterfuge.                      |
 | [[Serment de Liesse]]            | Devenez l'âme de la fête et l'antithèse des croisés rigides, jurant de célébrer jour et nuit et de transformer chaque combat en une joyeuse bacchanale.              |
 | [[Serment de Rédemption]]        | Incarnez un guerrier saint qui croit en la rédemption de tous, ne recourant à la violence qu'en dernier ressort pour protéger les innocents.                         |
-| [[Serment de Vengeance]]          | Devenez un instrument de vengeance implacable, sacrifiant votre propre pureté morale pour traquer et exterminer les auteurs de crimes abominables.                   |
+| [[Serment de Vengeance]]         | Devenez un instrument de vengeance implacable, sacrifiant votre propre pureté morale pour traquer et exterminer les auteurs de crimes abominables.                   |
 | [[Serment des Anciens]]          | Incarnez un chevalier vert voué à la lumière et à la nature, protégeant la beauté du monde par une magie aussi ancienne que les druides.                             |
 | [[Serment des Buveurs de Sorts]] | Traquez les mages renégats et absorbez leur magie pour protéger l'équilibre entre le monde ordinaire et les forces occultes.                                         |
 | [[Serment des Sentinelles]]      | Devenez le rempart ultime contre les menaces extraplanaires, affûtant votre esprit et votre corps pour déceler et bannir les intrus cosmiques.                       |
 | [[Serment des Tempêtes]]         | Devenez un croisé errant des mers, guidé par les vents et les marées, adoptant la neutralité impassible et la fureur vengeresse de la tempête.                       |
-| [[Serment du Soleil]]            | Incarnez la dualité de l'astre solaire en apportant sa lumière sacrée dans les ténèbres tout en protégeant les innocents de sa chaleur impitoyable.                  |
+| [[Serment du Soleil]]            | Incarnez la dualité de l'astre solaire en apportant sa lumière sacrée dans les ténèbres tout en protégeant les innocents de sa chaleur impitoyable.<br>              |
+| [[Serment de la Persévérance]]   | Les maîtres du panache et de la nuisance, spécialistes de l'entrée en scène fracassante et de la fuite stratégique.                                                  |
 
 
 Votre choix vous confère des aptitudes aux niveaux 3, 7, 15 et 20.
