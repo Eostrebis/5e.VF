@@ -19,6 +19,6 @@ Un outil vous aide à réaliser quelque chose que vous ne seriez sinon pas capab
 | [[Matériel de Peintre]]          | 10   | 5     |
 | [[Outils de Potier]]              | 10   | 3     |
 | [[Outils de Forgeron]]           | 20   | 8     |
-| [[Outils de Bricoleurs]]         | 50   | 10    |
+| [[Outils de Bricoleur]]         | 50   | 10    |
 | [[Outils de Tisserand]]          | 1    | 5     |
 | [[Outils de Menuisier]]          | 1    | 5     |

@@ -349,7 +349,7 @@ title: Équipements
 | Three-Dragon Ante Set       | [[Jeu des Dragons]]                    |
 | Tiger Eye                   | [[Œil de Tigre]]                       |
 | Tinderbox                   | [[Boîte d'Allume-Feu]]                 |
-| Tinker's Tools              | [[Outils de Bricoleurs]]               |
+| Tinker's Tools              | [[Outils de Bricoleur]]               |
 | Topaz                       | [[Topaze]]                             |
 | Torch                       | [[docs/objets/équipement/Torche]]                             |
 | Torpor (Ingested)           | [[Torpeur (Ingestion)]]                |
