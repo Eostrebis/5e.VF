@@ -3240,6 +3240,27 @@
         ],
         "description": "Vous faites apparaître de larges ailes de brume, de fumée et d'ombre qui s'attachent à votre dos et suivent votre commandement, vous conférant une vitesse de vol de 60 ft. et vous obscurcissant légèrement. Pour une action tant que vous avez ces ailes, vous pouvez choisir de libérer leur pouvoir, terminant le sort et déchaînant une vague d'énergie cauchemardesque. Les créatures à 30 ft. de vous doit réaliser un jet de sauvegarde de Charisme. Si une créature échoue, elle prend 6d10 dégâts psychiques et est [[apeuré|apeurée]] jusqu'à la fin de votre prochain tour. Elle ne prend que la moitié des dégâts et n'est pas apeurée si elle réussit le jet.\n"
     },
+    "Brume Mortelle": {
+        "level": "5",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Cloudkill",
+        "status": "finished",
+        "available": [
+            "Nécromancien",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pour la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.\n\nLorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit réaliser un jet de sauvegarde de Constitution. La créature prend 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.\n\nLe brouillard s'éloigne de vous de 101 ft. au début de chacun de vos tours, suivant la surface du sol. Les vapeurs, plus lourdes que l'air, _coulent_ et se déversent dans les ouvertures.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.\n\n\n"
+    },
     "Apparence Trompeuse": {
         "level": "5",
         "school": "Illusion",
@@ -3904,6 +3925,31 @@
             "Barde"
         ],
         "description": "Vous vous déchaînez dans une série d'insultes subtilement enchevêtrées d'enchantements vers une créature que vous pouvez voir à portée. Si la cible peut vous entendre, elle doit réussir un jet de sauvegarde de Sagesse ou prendre 1d4 dégâts psychiques et avoir le désavantage à son prochain jet d'attaque qu'elle réalise avant la fin de son prochain tour.\n\nLes dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5, 11 ou 17.\n"
+    },
+    "Brûlure": {
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Scorch",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Ensorceleur",
+            "MagedeGuerre",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous claquez des doigts, essayant de mettre feu à un objet libre à portée. Si vous ciblez un objet inflammable, l'objet s'embrase immédiatement. Choisissez jusqu'à deux créatures à 5 ft. de l'objet. Chacune doit réaliser un jet de sauvegarde de Dextérité. Si une créature échoue, elle prend 1d8 dégâts de feu.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).\n"
     },
     "Thaumaturgie": {
         "level": "0",
@@ -5506,6 +5552,31 @@
             "Martyr"
         ],
         "description": "Vous lancez un [[bâton]] au sol, qui se tord et grandit en un serpent constricteur géant sous votre contrôle, qui agit selon sa propre initiative. Ce serpent est amical envers vous et vos alliés. Le serpent obéit toute commande verbale que vous lui donnez. Si vous ne lui donnez pas de commande, il se défend des créatures hostiles mais ne prend sinon aucune action. Si le serpent est réduit à 0 point de vie, il meurt et se transforme en un bâton brisé.\n"
+    },
+    "Bûcher de Funérailles": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Les cendres d'un corps crémé",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "",
+        "englishname": "Funeral Pyre",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Martyr",
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous faites surgir du sol des pointes de bois enflammées autour de la cible de votre choix à portée, essayant de la piéger. La cible doit réaliser un jet de sauvegarde de Dextérité. Les créatures de taille TG ou plus ont l'avantage à ce jet de sauvegarde. Si la créature échoue, elle est empalée par les pointes et [[retenu|retenue]] jusqu'au début de votre prochain tour, prenant 2d8 dégâts de feu et 3d8 dégâts perçants. Si elle réussit, la créature subit la moitié des dégâts et n'est pas [[retenu|retenue]]. Les pointes redeviennent cendres au début de votre prochain tour. Si la cible est tuée par ce sort, les pointes ne disparaissent pas mais deviennent persistantes et résistantes à une [[dissipation de la magie]].\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de feu ou perçants (votre choix) augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3. \n"
     },
     "Poussière Scintillante": {
         "level": "3",
