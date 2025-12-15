@@ -195,7 +195,7 @@ spells: "true"
 | Fire Shield                          | [[Bouclier de Feu]]                       |
 | Fire Storm                           | [[Tempête de Feu]]                        |
 | Fireball                             | [[Boule de Feu]]                          |
-| Fizban's Platinum Shield             | [[Bouclier en Platine de Fizban]]         |
+| Fizban's Platinum Shield             | [[Bouclier en Platine]]         |
 | Flame Arrows                         | [[Flèches Enflammées]]                    |
 | Flame Blade                          | [[Lame de Feu]]                           |
 | Flame Strike                         | [[Frappe de Flamme]]                      |
