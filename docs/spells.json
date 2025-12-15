@@ -60,6 +60,25 @@
         ],
         "description": "Vous créez un feu magique qui emplit dix cubes de 5 ft. de côté, que vous arrangez comme vous le souhaitez à portée. Chaque cube que vous placez doit avoir une face en commun avec un autre cube. A chacun de vos tours après avoir lancé ce sort, vous pouvez utiliser une action bonus pour étendre la zone de feu de jusqu'à 10 cubes de feu suivant les même règles. Le feu endommage les objets dans la zone et met le feu aux objets inflammables qui ne sont ni portés ni maniés.\n\nLorsqu'une créature entre dans la zone de feu pour la première fois ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle prend 8d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.\n"
     },
+    "Carnage": {
+        "level": "8",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une arme martiale",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Carnage",
+        "status": "finished",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "Lorsque vous lancez ce sort, vous vous téléportez de 120 ft. et réalisez une attaque armée de mêlée contre toutes les créatures à portée. Effectuez une seule attaque pour toutes les cibles. Si vous touchez une créature, elle prend 6d12 dégâts de force supplémentaires. Pendant vos prochains tours, vous pouvez utiliser votre action pour continuer votre assaut mortel. Chaque fois que vous utilisez cette action, elle a un effet différent :\n\n - **2ᵉ Utilisation.** Vous vous téléportez de jusqu'à 60 ft. et réalisez une attaque armée de mêlée contre toutes les créatures dans un cône de 20 ft. Chaque créature que vous touchez est mise [[au sol]] et subit 6d12 dégâts de force supplémentaires.\n - **3ᵉ Utilisation.** Vous vous téléportez de jusqu'à 30 ft. et réalisez une unique attaque armée de mêlée contre une créature à portée. Si la créature a plus de la moitié de ses points de vie, cette attaque inflige 6d12 dégâts de force supplémentaires. Si vous touchez, la créature est [[paralysé|paralysée]] jusqu'à la fin de votre prochain tour.\n - **4ᵉ Utilisation.** Vous vous téléportez de jusqu'à 60 ft. dans les airs et retombez, frappant le sol en un point de votre choix que vous pouvez voir à 120 ft. de votre point de départ. Vous ne subissez aucun dégât de chute, mais chaque créature à 30 ft. de vous doit réaliser un jet de sauvegarde de Constitution ou prendre 6d12 dégâts de force. Vous réalisez ensuite une attaque armée de mêlée contre une créature à portée. Si vous touchez, la cible prend 8d12 dégâts de force supplémentaires. \n"
+    },
     "Gothique Glorieux de Gahoul": {
         "level": "8",
         "school": "Conjuration",
@@ -2744,6 +2763,28 @@
             "Clerc"
         ],
         "description": "Vous suppliez une entité d'outre-monde pour son aide. L'entité doit vous être connue : un dieu, un primordial, un prince démon ou un autre être au pouvoir cosmique. L'entité envoie un Céleste, un Élémentaire ou un Fiélon qui lui est loyal pour vous aider, la faisant apparaître sur un emplacement non occupé à portée. Si vous connaissez le nom exact d'une créature, vous pouvez prononcer son nom lorsque vous lancez le sort pour solliciter cette créature, bien que cela ne garantisse rien.\n\nLorsque la créature apparaît, elle n'est sous aucune obligation particulière de comportement. Vous pouvez demander à la créature de vous rendre un service contre paiement, mais rien ne l'y oblige. La tâche demandée peut aller du simple (vous transporter par delà le ravin ou aider dans une bataille) au complexe (espionner des ennemis ou vous protéger pendant une excursion en donjon). Vous devez être capable de communiquer avec la créature pour négocier ses services.\n\nLe paiement peut prendre une multitude de formes. Un céleste pourrait requérir un large don en or ou objets magiques à un temple allié, tandis qu'un fiélon demanderait plutôt un sacrifice vivant ou une offrande de trésor. Certaines créatures échangent leurs services contre des quêtes qu'elles vous confient.\n\nEn règle générale, une tâche qui peut être effectuée en minutes demande un paiement d'environ 100 po la minute. Une tâche qui nécessite plusieurs heures requiert 1 000 po de l'heure. Enfin, une tâche qui s'étale sur plusieurs jours (jusqu'à 10 jours) exige 10 000 po par jour. Le MJ peut ajuster ces paiements en fonction des circonstances dans lesquelles vous lancez le sort. Si la tâche est alignée avec l'ethos de la créature, le paiement peut se voir diviser par deux ou même annuler. Les tâches non dangereuses ne demandent généralement que la moitié du montant de paiement suggéré, tandis que celles particulièrement dangereuses demandent de bien plus grandes offrandes. Les créatures n'acceptent que rarement les tâches qui semblent suicidaires.\n\nAprès que la créature a complété la tâche, ou lorsque la durée agrée du service expire, la créature retourne sur son plan d'origine après vous avoir fait un rapport, si cela est approprié pour la tâche et possible. Si vous n'arrivez pas à un accord sur le prix du service avec la créature, elle retourne immédiatement sur son plan d'origine.\n\nUne créature recrutée pour rejoindre votre groupe compte comme membre à part entière, recevant sa part des points d'expérience reçus.\n"
+    },
+    "Cage des Âmes": {
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une petite cage en argent d'une valeur de 100 po",
+        "Durée": "8 Heures",
+        "Incantation": "1 Réaction",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Soul Cage",
+        "status": "finished",
+        "available": [
+            "Occultiste",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Comme réaction alors qu'un humanoïde que vous pouvez voir à 60 ft. meurt, ce sort arrache l'âme d'un humanoïde au moment de sa mort et la piège dans la petite cage que vous utilisez comme composante matérielle. Une âme volée reste dans la cage jusqu'à ce que le sort se termine ou que vous ne détruisiez la cage, ce qui termine le sort. Tant que vous avez une âme dans la cage, vous pouvez l'exploiter des façons ci-après. Vous pouvez utiliser une âme piégée jusqu'à six fois. Une fois que vous avez exploité une âme pour la sixième fois, elle est libérée et le sort se termine. Tant qu'une âme est piégée, l'humanoïde mort dont elle provient ne peut être ramené à la vie.\n\n**Vol de Vie.** Vous pouvez utiliser une action bonus pour absorber la vigueur de l'âme et regagner 2d8 points de vie.\n\n**Questionnement de l'Âme.** Vous posez une question à l'âme (aucune action requise) et recevez une brève réponse télépathique, que vous pouvez comprendre peu importe la langue utilisée. L'âme ne sait que ce qu'elle savait de son vivant, mais elle doit vous répondre honnêtement et au mieux de ses capacités. La réponse n'est pas plus longue qu'une phrase ou deux et peut être cryptique.\n\n**Emprunt d'Expérience.** Vous pouvez utiliser une action bonus pour vous renforcer par l'expérience de vie de l'âme, vous conférant l'avantage à votre prochain jet d'attaque, de caractéristique ou de sauvegarde. Si vous n'utilisez pas cet effet avant le début de votre prochain tour, il est perdu.\n\n**Yeux des Morts.** Vous pouvez utiliser votre action pour nommer un endroit que l'humanoïde a vu de son vivant, ce qui y crée un capteur invisible si l'endroit est sur le même plan d'existence que vous. Le capteur persiste aussi longtemps que vous vous concentrez dessus, jusqu'à un maximum de 10 minutes. Vous recevez les informations visuelles et auditives du senseur comme si vous vous trouviez à son emplacement et utilisiez vos sens.\n\nUne créature qui peut voir le senseur (comme en utilisant [[vision de l'invisible]]) voit l'image translucide de l'humanoïde tourmenté dont vous avez volé l'âme.\n"
     },
     "Malédiction Élémentaire": {
         "level": "6",
@@ -6507,6 +6548,26 @@
             "Artificier"
         ],
         "description": "Vous touchez une créature consentante. Pendant la durée du sort, les mouvement de la cible ne sont pas affectés par le terrain difficile, et les sorts et autres effet magiques ne peuvent ni réduire sa vitesse, ni la rendre [[paralysé|paralysée]] ou [[retenu|retenue]].\n\nLa cible peut aussi dépenser 5 pieds de mouvement pour se libérer automatique de restreintes non magiques, comme des menottes ou une lutte par une autre créature. Enfin, être sous l'eau n'impose aucune pénalité aux mouvements ou attaque de la cible.\n"
+    },
+    "Cape Pourpre": {
+        "level": "4",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une cape valant au moins 10 po",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Crimson Cloak",
+        "status": "finished",
+        "available": [
+            "Occultiste",
+            "Nécromancien"
+        ],
+        "description": "Vous attirez le sang des plaies ouvertes de ceux autour de vous et en imprégnez votre cape à l'aide de la magie stygienne. À chaque fois que vous ou une créature à 151 ft. de vous perdez des points de vie, votre cape obtient une valeur sanguine égale au montant des points de vie perdus jusqu'à un total maximum de 30. Lorsque vous devriez subir des dégâts d'un sort alors que votre cape a atteint sa valeur sanguine maximale, vous pouvez utiliser votre réaction pour gagner la résistance aux dégâts du sort. Lorsque vous le faites, la valeur sanguine de la cape retombe à 0.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le maximum diminue de 5 par niveau de sort au-delà du niveau 4.\n"
     },
     "Bouclier de Feu": {
         "level": "4",
