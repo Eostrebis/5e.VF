@@ -221,6 +221,27 @@
         ],
         "description": "Ce sort vous permet d'augmenter la mobilité de n'importe quel nombre de créatures consentante que vous voyez à portée. Vous motivez chacune de ces créatures, leur permettant de se déplacer avec aisance dans les lignes ennemies. Pendant la durée du sort, la vitesse de chaque créature est augmentée de 15 ft., n'est pas affectée par les terrains difficiles non magiques et les créatures ciblées ne provoquent pas d'attaques d'opportunité.\n"
     },
+    "Cage de Force": {
+        "level": "7",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "De la poussière de rubis d'une valeur de 1500 po",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "100 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Forcecage",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Une prison faite de force magique de la forme d'un cube, invisible et immobile, apparaît autour d'une zone de votre choix à portée. La prison peut être une cage ou une boîte solide, au choix.\n\nUne prison de la forme d'une cage peut faire jusqu'à 20 ft. de côté et est faite de barres de 1,5 cm de diamètre espacées de 1,5 cm chacune.\n\nUne prison de la forme d'une boîte peut faire jusqu'à 10 ft. de côté, créant une barrière solide empêchant toute matière de passer et bloquant tous les sorts en direction ou émanant de la zone.\n\nLorsque vous lancez ce sort, toute créature entièrement dans la zone de la cage est piégée. Les créatures qui ne sont que partiellement dans la zone ou qui sont trop volumineuses  pour y tenir sont repoussées vers l'extérieur de la zone jusqu'à ce qu'elles y soient complètement.\n\nUne créature à l'intérieur de la cage ne peut pas la quitter par des moyens non magiques. Si la créatures essaye d'utiliser la téléportation ou le voyage interplanaire, elle doit d'abord réussir un jet de sauvegarde de Charisme. Si elle réussit, la créature peut utiliser cette magie pour quitter la cage. Sinon, la créature ne peut pas quitter la cage et gaspille l'utilisation du sort ou de l'effet. La cage s'étend également sur le Plan Éthéré.\n\nCe sort ne peut être dissipé par une [[dissipation de la magie]]."
+    },
     "Forme Éthérée": {
         "level": "7",
         "school": "Transmutation",
@@ -6672,6 +6693,26 @@
             "Clerc"
         ],
         "description": "Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.\n"
+    },
+    "Cage d'Épines": {
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un petit panier tissé",
+        "Durée": "8 Heures",
+        "Incantation": "1 Minute",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Cage of Briars",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Ranger"
+        ],
+        "description": "En lançant ce sort, vous créez une cage de ronces épineuses qui englobe un cube de 10 ft. de côté à portée. Les ronces sont épaisses et ne laissent passer qu'une petite fraction de la lumière et de l'air environnant. Ainsi, elles prodiguent une couverture de trois quarts aux créatures à l'intérieur de la cage et une couverture totale aux créatures à l'extérieur. Vous, ainsi que toutes les autres créatures de votre choix, pouvez passer à travers les parois de la cage sans difficulté. La cage d'épines a une CA de 10, 200 points de vie et une faiblesse au feu. Une créature qui frappe la cage avec une attaque à mains nues ou une arme naturelle, comme une morsure ou une griffe, subit 1d4 dégâts perçants.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les points de vie de la cage augmentent de 20 par niveau d'emplacement au-delà du niveau 4.\n"
     },
     "Détection des Pensées": {
         "level": "2",
