@@ -5946,6 +5946,27 @@
         ],
         "description": "Vous touchez une créature en prononçant le nom exact d'un sort dont vous connaissez la signature magique (au bon vouloir du MJ). La créature est totalement immunisée au sort cité pendant la durée du sort. "
     },
+    "Célérité": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un copeau de racine de réglisse",
+        "Durée": "1 Minute",
+        "Incantation": "",
+        "Portée": "",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Haste",
+        "status": "finished",
+        "available": [
+            "Artificier",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Choisissez une créature consentante que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, la vitesse de la cible est doublée, elle gagne un bonus de +2 à la CA, a l'avantage aux jets de sauvegarde de Dextérité et peut utiliser une action supplémentaire à chacun de ses tours. Cette action ne peut être utilisée que pour Attaquer (une unique attaque armée), Foncer, Se Désengager, Se Cacher ou Utiliser un Objet.\n\nLorsque le sort se termine, la cible ne peut ni se déplacer ni prendre d'actions jusqu'à la fin de son prochain tour, alors qu'une vague de léthargie l'envahit.\n"
+    },
     "Barrière Occulte": {
         "level": "3",
         "school": "Abjuration",
