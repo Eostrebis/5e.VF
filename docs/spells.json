@@ -201,6 +201,27 @@
         ],
         "description": "Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de s'attarder et de se condenser en une perle luisante sur le point choisi pendant la durée du sort. Lorsque le sort se termine, que ce soit à cause d'une rupture de la concentration ou parce que vous décidez d'y mettre fin, la perle se transforme en une explosion de flammes qui contournent les angles dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit réaliser un jet de sauvegarde de Dextérité. Une cible prend un nombre de dégâts de feu égal aux dégâts accumulés si elle échoue son jet ou la moitié en cas de réussite.\n\nLes dégâts de base du sort sont de 12d6. Si à la fin de votre tour la perle n'a pas encore été détonée, les dégâts augmentent de 1d6.\n\nSi la perle luisante est touchée avant qu'elle n'explose, la créature la touchant doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, le sort se termine instantanément et la perle s'embrase. Si elle réussit, la créature peut jeter la perle à jusqu'à 40 ft. Lorsque la perle frappe une créature ou un objet solide, le sort se termine et la perle explose.\n\nLes flammes contournent les angles et enflamment les objets inflammables dans la zone qui ne sont ni portés ni maniés.\n"
     },
+    "Cauchemar Contagieux": {
+        "level": "7",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "8 Heures",
+        "Incantation": "1 Minute",
+        "Portée": "2 kilomètres",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Spreading Nightmare",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Druide",
+            "Occultiste"
+        ],
+        "description": "Lorsque vous lancez ce sort, choisissez une créature que vous avez vue ou que vous connaissez en train de dormir à portée. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle se réveille et est [[apeuré|apeurée]] de toutes les autres créatures qu'elle peut voir. Si une autre créature la voit alors qu'elle est [[apeuré|apeurée]], l'autre créature doit réussir un jet de sauvegarde de Sagesse ou devenir [[apeuré|apeurée]]. Cette procédure se répète indéfiniment. Si une créature affectée passe 10 minutes sans voir d'autres créatures, ou si elle prend des dégâts, elle n'est plus [[apeuré|apeurée]] et ne peut plus être affectée. \n"
+    },
     "Malédiction Liante": {
         "level": "7",
         "school": "Enchantement",
@@ -3031,6 +3052,31 @@
         ],
         "description": "Vous créez un champ de lumière argenté qui enveloppe une créature de votre choix à portée. Le champ émet une lumière faible sur 5 ft. Tant qu'elle est enveloppée par le champ, la créature bénéficie des effets suivants : \n\n - La créature profite d'une couverture de moitié.\n - La créature est résistante aux dégâts d'acide, de froid, de feu, de foudre et de poison.\n - Si la créature est sujette à un effet qui lui autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, elle ne prend plutôt aucun dégât si elle réussit le jet et la moitié sinon.\n\nPour une action bonus pendant les tours suivants, vous pouvez déplacer le champ vers une autre créature à 60 ft. du champ.\n"
     },
+    "Cartographie Sanglante": {
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un corps ou une fiole de sang et un parchemin",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Blood Cartography",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Clerc",
+            "Druide",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous prélevez le sang de la fiole ou du corps et le projetez sur le parchemin. Les gouttes de sang se rassemblent afin de former une carte claire des endroits que le précédent propriétaire du sang a exploré le mois dernier. Le chemin parcouru par la créature est mis en avant et le temps passé dans chaque lieu est indiqué par l'épaisseur de la goutte de sang. La carte-sang sèche en une minute et devient permanente et impossible à dissiper.\n"
+    },
     "Contrat": {
         "level": "5",
         "school": "Abjuration",
@@ -3074,6 +3120,25 @@
             "Martyr"
         ],
         "description": "La lumière de l'aube s'abat sur un point que vous spécifiez à portée. Jusqu'à ce que le sort se termine, un cylindre d'un rayon de 30 ft. et haut de 40 ft. de lumière vive y luit. La lumière est solaire. Lorsque le cylindre apparaît, chaque créature à l'intérieur doit réaliser un jet de sauvegarde de Constitution, prenant 4d10 dégâts radiants en cas d'échec ou la moitié en cas de réussite. Une créature doit également refaire ce jet de sauvegarde lorsqu'elle termine son tour dans le cylindre. Si vous vous trouvez à 60 ft. du cylindre, vous pouvez le déplacer jusqu'à 60 ft. pour une action bonus pendant votre tour.\n"
+    },
+    "Carquois Magique": {
+        "level": "5",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un carquois contenant au moins une munition",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Swift Quiver",
+        "status": "finished",
+        "available": [
+            "Ranger"
+        ],
+        "description": "Vous transformez votre carquois afin qu'il produise sans cesse des munitions non magiques, qui semblent _sauter_ dans votre main lorsque vous la tendez pour la saisir. \n\nÀ chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action bonus pour réaliser deux attaques avec une arme qui utilise les munitions du carquois. Chaque fois que vous réalisez une telle attaque à distance, votre carquois remplace magiquement la munition utilisée par une munition non magique similaire. Les munitions créées par ce sort se désintègre lorsque le sort se termine. Si le carquois quitte votre possession, le sort se termine.\n"
     },
     "Évasivité": {
         "level": "5",
