@@ -10,8 +10,8 @@ Somatique: true
 Matériel: true
 detailmat: Un copeau de racine de réglisse
 Durée: 1 Minute
-Incantation:
-Portée:
+Incantation: 1 Action
+Portée: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Haste
