@@ -2766,6 +2766,28 @@
         ],
         "description": "Vous canalisez une vague d'énergie arcanique au bout de vos doigts, recyclant le surplus d'énergie en un nouvel emplacement de sort. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 5d10 dégâts de force. Que vous touchiez ou ratiez, vous regagnez un emplacement de sort dépensé de niveau 1.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, vous regagnez à la place un emplacement de niveau 2. Si vous le lancez avec un emplacement de niveau 9, vous regagnez un emplacement de niveau 3.\n"
     },
+    "Cercle de Mort": {
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "De la poudre d'une perle noire brisée d'une valeur d'au moins 500 po",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "150 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Circle of Death",
+        "status": "finished",
+        "available": [
+            "Nécromancien",
+            "Ensorceleur",
+            "Magicien",
+            "Occultiste"
+        ],
+        "description": "De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. autour d'un point à portée. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Sagesse. Une cible prend 8d6 dégâts nécrotiques si elle échoue le jet et la moitié sinon.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 2d6 par niveau d'emplacement au-delà du niveau 6.\n"
+    },
     "Allié Planaire": {
         "level": "6",
         "school": "Conjuration",
@@ -3010,6 +3032,26 @@
             "Ranger"
         ],
         "description": "Une magie chronomancienne vous insuffle, vous plaçant sur un plan temporel différent. Pendant 1 minute, vous êtes immunisés contre tous les dégâts, mais la seule action que vous pouvez entreprendre est de consommer des potions."
+    },
+    "Chaîne d'éclairs": {
+        "level": "6",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un peu de fourrure ; un morceau d'ambre, de verre ou un bâton en cristal ; et trois aiguilles en argent",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "150 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Chain Lightning",
+        "status": "finished",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous créez un éclair de foudre qui se dirige vers une cible de votre choix que vous pouvez voir à portée. Trois éclairs éruptent alors de la cible pour cibler eux-mêmes jusqu'à 3 cibles, chacune à 30 ft. de la première cible. Une cible peut être une créature ou un objet et chacune ne peut être la cible que d'un de ces éclairs.\n\nUne cible doit réaliser un jet de sauvegarde de Dextérité. La cible prend 10d8 dégâts de foudre si elle échoue, et la moitié sinon.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, un rayon supplémentaire érupte de la première cible pour cibler une autre cible par niveau d'emplacement au-delà du niveau 6.\n"
     },
     "Aura Infernale": {
         "level": "6",
@@ -3305,6 +3347,25 @@
             "Magicien"
         ],
         "description": "Vous prononcez une sombre incantation et invoquez un diable des Neuf Enfers. Vous choisissez le type du diable, qui doit être de FP inférieur à 6, comme un diable barbu ou un diable barbelé. Le diable apparaît sur un espace inoccupé que vous pouvez voir à portée. Le diable disparaît lorsqu'il tombe à 0 point de vie ou que le sort se termine.\n\nLe diable est inamical envers vous et vos compagnons. Lancez l'initiative pour le diable, qui a ses propres tours. Il est sous le contrôle du Maître du Jeu et agit conformément à sa nature à chacun de ses tours, ce qui peut le conduire à vous attaquer s'il pense l'emporter ou à tenter de vous convaincre de réaliser un acte mauvais en échange de quelques services. Le MJ a les caractéristiques de la créature.\n\nUne fois à chacun de vos tours, vous pouvez essayer de donner un ordre verbal au diable (aucune action requise). Il y obéit si l'issue la plus probable est en adéquation avec ses désirs, et plus particulièrement si cela vous rapproche du mal. Sinon, vous devez réaliser un jet de Charisme (Tromperie, Intimidation ou Persuasion) contre son jet de Sagesse (Perspicacité). Vous réalisez le jet avec avantage si vous prononcez le véritable nom du diable. Si votre jet échoue, le diable devient immunisé à vos ordres verbaux pendant la durée du sort, mais peut tout de même choisir de les suivre. Si votre jet réussit, le diable accomplit votre ordre — comme \"attaque mes ennemis\", \"explore la salle suivante\" ou \"apporte ce message à la reine\" — jusqu'à ce qu'il ait terminé, après quoi il vient vous le rapporter.\n\nSi votre concentration se termine avant que le sort n'atteigne sa durée totale, le diable ne disparaît pas s'il est devenu immunisé contre vos ordres verbaux. À la place, il agit à sa guise pendant 3d6 minutes, puis disparaît.\n\nSi vous possédez le talisman d'un diable, vous pouvez l'invoquer si son FP est inférieur ou égal au FP approprié + 1, et il obéit à tous vos ordres, sans jet de Charisme requis.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, le FP augmente de 1 par niveau d'emplacement au-delà du niveau 5.\n"
+    },
+    "Cercle de Pouvoir": {
+        "level": "5",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 30 ft.)",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Circle of Power",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "De l'énergie divine irradie de vous, distordant et diffusant l'énergie magique à 30 ft. de vous. Jusqu'à ce que le sort se termine, la sphère se déplace avec vous, toujours centrée sur vous. Pendant la durée, chaque créature alliée dans la zone a l'avantage à ses jets de sauvegarde contre les sorts et autres effets magiques.\n\nDe plus, lorsqu'une créature affectée réussit un jet de sauvegarde contre un sort ou un effet magique qui permet un jet de sauvegarde pour ne prendre que la moitié des dégâts, elle n'en prend aucun à la place.\n"
     },
     "Malédiction du Pharaon": {
         "level": "5",
