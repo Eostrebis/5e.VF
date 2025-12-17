@@ -1,5 +1,5 @@
 ---
-status: completed
+status: finished
 ---
 L'Ordre de la Ligature Cramoisie interprète la nature de l'âme d'une façon pas si différente de celle du Vide lui-même : inconnue, fractale, et finalement creuse. Avec leurs accessoires de rituel et leur encre à base magnétite, ils sont capable de former des sceaux rouges spéciaux leur permettant de piéger les vestiges plus profondément dans leur âme, capturant ainsi une plus grande portion de l'essence du vestige et leur permettant un plus grand contrôle de la ligature dans son ensemble.
 

@@ -1,5 +1,5 @@
 ---
-status: completed
+status: finished
 ---
 Les initiés de la Société du Sceau Stygien apprennent l'histoire d'[[Érèbe, l'Ombre Sans Fin]], un vestige d'une ancienneté singulière, aux implications profondes et de terrible augure. Elle est un vestige inextricablement lié à la création et à la destruction du multivers ; cette dernière devant être annoncée, selon la prophétie, par l'apparition de son signe, le Sceau Stygien, figé dans le ciel pendant quarante jours et quarante nuits avant que le multivers ne soit défait.
 

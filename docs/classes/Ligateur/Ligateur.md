@@ -1,6 +1,8 @@
 ---
-status: wip
+status: finished
 ---
+
+> [!Quote] Légende du Ligateur
 >Lorsqu’il finit par parler, ce fut avec les voix de plusieurs êtres à la fois, se superposant en une harmonie contre-nature. Mais la voix dominante était bourrue et assurée, celle-là même qu'il utilisait pour endormir la méfiance de ses cibles quelques secondes avant de les frapper d'une dague dissimulée. Le lendemain matin, la voix bourrue et indépendante s'était tue, remplacée par une profonde mélancolie. Il se débarrassa également des dagues au profit d'une lance robuste et d'une armure imposante. Le jour suivant, il affichait une rage erratique et abandonna toute arme pour manier la flamme occulte. Chaque matin, il se réveillait changé, possédé par un nouvel esprit infernal, un dieu mort ou un pécheur oublié.
 
 Les ligateurs sont des étudiants de la magie des âmes, un art ancien et interdit qui leur permet d'invoquer des entités vivant au-delà des plans connus, dans les interstices entre les mondes, les attirant au sein de leur propre âme pour voler leur pouvoir — bien que cela ne soit pas toujours sans contrepartie.
@@ -128,7 +130,7 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 | [[Les Avataristes]]                | Invoquez une manifestation physique de vos vestiges pour combattre à votre place, partageant vos blessures et vos pouvoirs avec cet esprit protecteur.     |
 | [[Les Fidèles d'Ishtar]]           | Liez-vous éternellement à la déesse jalouse pour manipuler les émotions, charmer les foules et briser psychiquement le cœur de vos ennemis.                |
 | [[Ordre de la Ligature Cramoisie]] | Utilisez des sceaux d'encre cramoisie pour piéger les vestiges au plus profond de votre âme, vous offrant une maîtrise inégalée du processus de ligature.  |
-| [[Société du Sceau Stygien]]       |                                                                                                                                                            |
+| [[Société du Sceau Stygien]]       | Hâtez la fin du multivers en manipulant la matière du Vide pour créer un monde parfait sous le patronage d'Érèbe.                                          |
 
 ## Suppression des Signes
 

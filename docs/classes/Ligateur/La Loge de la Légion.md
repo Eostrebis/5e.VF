@@ -1,5 +1,5 @@
 ---
-status: completed
+status: finished
 ---
 Les ligateurs de la légion emplissent leurs âmes avec une multitude d'esprits, devenant des ruches de fantômes errants et de voix murmurant depuis l'autre côté. Avec chaque nouvel esprit lié, ils développent un pouvoir plus grand encore, puisque le pouvoir de l'ensemble est plus important que la somme des pouvoirs. À leur apogée, ces ligateurs parlent avec la voix de douzaines à l'unisson et déchaînent des attaques d'un essaim d'esprits qui flottent autour d'eux.
 
