@@ -1,7 +1,13 @@
 ---
 status: wip
 ---
+>Lorsqu’il finit par parler, ce fut avec les voix de plusieurs êtres à la fois, se superposant en une harmonie contre-nature. Mais la voix dominante était bourrue et assurée, celle-là même qu'il utilisait pour endormir la méfiance de ses cibles quelques secondes avant de les frapper d'une dague dissimulée. Le lendemain matin, la voix bourrue et indépendante s'était tue, remplacée par une profonde mélancolie. Il se débarrassa également des dagues au profit d'une lance robuste et d'une armure imposante. Le jour suivant, il affichait une rage erratique et abandonna toute arme pour manier la flamme occulte. Chaque matin, il se réveillait changé, possédé par un nouvel esprit infernal, un dieu mort ou un pécheur oublié.
 
+Les ligateurs sont des étudiants de la magie des âmes, un art ancien et interdit qui leur permet d'invoquer des entités vivant au-delà des plans connus, dans les interstices entre les mondes, les attirant au sein de leur propre âme pour voler leur pouvoir — bien que cela ne soit pas toujours sans contrepartie.
+
+## Au-Delà de la Réalité
+
+Les ligateurs apprenent à projeter leur esprit dans le Vide entre les plans, afin de parcourir les abysses s'y trouvant à la recherche d'êtres qui répondraient à leur appel. 
 ## Créer un Ligateur
 
 

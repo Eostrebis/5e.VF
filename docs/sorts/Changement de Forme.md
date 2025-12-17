@@ -1,5 +1,5 @@
 ---
-available: []
+available:
 level:
 school:
 Verbal: false
