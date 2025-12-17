@@ -36,7 +36,7 @@ search:
 > - **Tisserand.** ![](https://geps.dev/progress/100) 
 
 
-**Sorts.** 374/790 ![](https://geps.dev/progress/47)
+**Sorts.** 377/790 ![](https://geps.dev/progress/47)
 
 > [!INFO]- Sorts traduits par niveau
 > - **Cantrips.** 76 
@@ -44,8 +44,8 @@ search:
 > - **2.** 54 
 > - **3.** 44 
 > - **4.** 31 
-> - **5.** 24 
-> - **6.** 20 
+> - **5.** 25 
+> - **6.** 22 
 > - **7.** 9 
 > - **8.** 9 
 > - **9.** 7 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2025-12-16 20:02:13
+Mis à jour pour la dernière fois le 2025-12-17 11:53:48
