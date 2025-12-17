@@ -7,9 +7,22 @@ Les ligateurs sont des étudiants de la magie des âmes, un art ancien et interd
 
 ## Au-Delà de la Réalité
 
-Les ligateurs apprenent à projeter leur esprit dans le Vide entre les plans, afin de parcourir les abysses s'y trouvant à la recherche d'êtres qui répondraient à leur appel. 
+Les ligateurs apprennent à projeter leur esprit dans le Vide entre les plans, afin de parcourir les abysses s'y trouvant à la recherche d'êtres qui répondraient à leur appel. Ces êtres -- appelés vestiges -- sont les réminiscences d'anciens puissants esprits qui résident dans le néant à l'extérieur de notre réalité, qui est né de la rencontre entre les derniers échos de la création du monde et de l'énergie s'échappant des plans.
+
+Les vestiges sont nés de dieux morts et de héros tragiques, mais leur forme, leur personnalité et leurs motivations sont modelées par les mémoires qu'ils laissent. Les esprits bons mais que la légende dépeint comme les méchants se voient développer un aspect fiéleux et un ton sinistre, tandis que ceux qui sont oubliés finissent par se mélanger au bruit du Vide. Heureusement, des érudits ligateurs enregistrent et préservent les légendes originelles, bien que souvent apocryphes, des vestiges, leur permettant de subsister plus longtemps dans le Vide.
+
+Puisque les vestiges sont dénués de toute sensation dans le Vide, ils ne souhaitent que de goûter à nouveau à la réalité, et répondront volontiers à l'appel de tout ligateur suffisamment puissant pour les invoquer. Les ligateurs peuvent fusionner une partie de leur âme avec un vestige en échange de quelques-uns des pouvoirs que ce vestige manipulait de son vivant.
+
+## Une Âme Brisée
+
+Afin de pouvoir accueillir un vestige, un ligateur doit diviser sa propre âme et en offrir une partie au vestige qu'il puisse s'y installer. Partager son âme de cette façon laisse de profondes marques alors que le vestige se rapproche de la réalité : cela influence la personnalité du ligateur et déforme même souvent son corps pour qu'il corresponde plus à la forme ésotérique du vestige. Dernier point, mais non des moindres, l'âme elle-même est brisée à jamais, ce qui pourrait avoir des conséquences imprévues sur la vie dans l'au-delà. C'est pour cette raison que la magie de ligature est généralement interdite.
+
+Les ligateurs doués apprennent à séparer leur âme en fragments de plus en plus petits afin d'accueillir un plus grand nombre de vestiges plus puissants encore. À son apogée, un ligateur peut manipuler la magie d'anciens dieux oubliés tout en maniant les épées de héros légendaires, mais sa voix devient silencieuse parmi le vacarme d'esprits tous différents et son âme se retrouve reléguée à n'être qu'une infime partie de sa personnalité.
 ## Créer un Ligateur
 
+Au moment de créer votre ligateur, prenez le temps de réfléchir à votre relation avec vos vestiges et à quel point vous les laissez influencer votre personnalité. Comment avez-vous découvert l'existence de ces mystérieux vestiges, et entretenez-vous une relation particulière avec l'un d'entre eux ? Qu'est-ce qui vous a poussé à réaliser votre première invocation ? Quelle vision avez-vous de votre propre âme, sachant que vous permettez à d'autres esprits d'y résider ?
+
+Travaillez avec votre MJ pour déterminer le rôle que joueront les vestiges et les autres ligateurs dans votre campagne. En tant que ligateur, vous pouvez redéfinir votre rôle au sein du groupe d'aventuriers, et ce chaque jour si vous le souhaitez. Il est aussi possible que votre apparence et votre personnalité même fluctuent selon les vestiges qui exercent leur emprise sur votre âme. Comment votre groupe et vous-même gérez-vous cela, et comment traitez-vous les traits physiques manifestés par vos vestiges ? Dissimulez-vous ces signes par crainte de la vindicte populaire, ou les affichez-vous ostensiblement, embrassant ainsi le pouvoir qu'ils vous confèrent ?
 
 ### Création Rapide
 
@@ -107,15 +120,15 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 
 À partir du niveau 3, vous vous alignez avec une secte ésotérique, une organisation secrète de ligateurs liés par des objectifs similaires et un savoir mystique partagé. Choisissez l'une des sectes suivantes. Votre choix de secte vous confère une aptitude aux niveaux 3, 7, 10 et 14.
 
-| Secte Ésotérique                   | Description                                                                                                                                               |
-| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[L'Église de Gyx]]                | Rejoignez la première secte de ligateurs pour simuler la magie divine, repousser les morts-vivants et sacrifier vos vestiges pour accomplir des miracles. |
-| [[La Confrérie des Ascètes]]       | Supprimez vos vestiges pour atteindre la perfection physique et mentale, combattant sans armure avec des poings psychiques et une discipline monacale.    |
-| [[La Loge de la Légion]]           |                                                                                                                                                           |
-| [[Les Avataristes]]                | Invoquez une manifestation physique de vos vestiges pour combattre à votre place, partageant vos blessures et vos pouvoirs avec cet esprit protecteur.    |
-| [[Les Fidèles d'Ishtar]]           | Liez-vous éternellement à la déesse jalouse pour manipuler les émotions, charmer les foules et briser psychiquement le cœur de vos ennemis.               |
-| [[Ordre de la Ligature Cramoisie]] |                                                                                                                                                           |
-| [[Société du Sceau Stygien]]       |                                                                                                                                                           |
+| Secte Ésotérique                   | Description                                                                                                                                                |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[L'Église de Gyx]]                | Rejoignez la première secte de ligateurs pour simuler la magie divine, repousser les morts-vivants et sacrifier vos vestiges pour accomplir des miracles.  |
+| [[La Confrérie des Ascètes]]       | Supprimez vos vestiges pour atteindre la perfection physique et mentale, combattant sans armure avec des poings psychiques et une discipline monacale.     |
+| [[La Loge de la Légion]]           | Devenez une ruche d'âmes errantes en liant une multitude d'esprits mineurs, submergeant vos ennemis sous les assauts magiques de votre horde fantomatique. |
+| [[Les Avataristes]]                | Invoquez une manifestation physique de vos vestiges pour combattre à votre place, partageant vos blessures et vos pouvoirs avec cet esprit protecteur.     |
+| [[Les Fidèles d'Ishtar]]           | Liez-vous éternellement à la déesse jalouse pour manipuler les émotions, charmer les foules et briser psychiquement le cœur de vos ennemis.                |
+| [[Ordre de la Ligature Cramoisie]] | Utilisez des sceaux d'encre cramoisie pour piéger les vestiges au plus profond de votre âme, vous offrant une maîtrise inégalée du processus de ligature.  |
+| [[Société du Sceau Stygien]]       |                                                                                                                                                            |
 
 ## Suppression des Signes
 

@@ -14,4 +14,4 @@ status: finished
 |     [[Pierre]]     | 1d8 contondats  |  Attaque de Mêlée  |
 |    [[Pleurote]]    |  1d8 de poison  |  JdS Constitution  |
 |    [[Torchage]]    |   1d6 de feu    | Attaque à Distance |
-|  [[Totem]]  |  1d8 perçants   |  Attaque de Mêlée  |
+|     [[Totem]]      |  1d8 perçants   |  Attaque de Mêlée  |
