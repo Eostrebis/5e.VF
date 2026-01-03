@@ -261,6 +261,31 @@
         ],
         "description": "Ce sort vous permet d'augmenter la mobilité de n'importe quel nombre de créatures consentante que vous voyez à portée. Vous motivez chacune de ces créatures, leur permettant de se déplacer avec aisance dans les lignes ennemies. Pendant la durée du sort, la vitesse de chaque créature est augmentée de 15 ft., n'est pas affectée par les terrains difficiles non magiques et les créatures ciblées ne provoquent pas d'attaques d'opportunité.\n"
     },
+    "Changement de Plan": {
+        "level": "7",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une tige de métal en fourchette d'une valeur d'au moins 250 po, accordée avec un plan d'existence particulier",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Plane Shift",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous et jusqu'à 8 créatures consentantes aux mains liées en cercle êtes transportées vers un plan d'existence différent. Vous pouvez préciser la destination cible en termes généraux, comme la Cité de Bronze du Plan Élémentaire du Feu ou le Palace de Dispater au second niveau des Neufs Enfers, et vous apparaissez dans ou proche de la destination, à la discrétion du MJ.\n\nAlternativement, si vous connaissez la séquence de sigils d'un [[cercle de téléportation]] d'un autre plan d'existence, ce sort vous téléporte vers ce cercle. Si le cercle de téléportation est trop petit pour contenir toutes les créatures transportées, elles apparaissent dans l'espace inoccupé le plus proche du cercle.\n\nVous pouvez utiliser ce sort pour bannir une créature non consentante vers un autre plan. Choisissez une créature à portée et réaliser une attaque de sort de mêlée. Si vous touchez, la créature doit réaliser un jet de sauvegarde de Charisme. Si la créature échoue, elle est transportée vers une localisation aléatoire d'un plan d'existence que vous spécifiez.\n"
+    },
     "Cage de Force": {
         "level": "7",
         "school": "Évocation",
@@ -2640,6 +2665,26 @@
             "Occultiste"
         ],
         "description": "Vous incantez une série d'ordres, faisant appel à la moindre faveur et à la moindre force que vous pouvez mobiliser, vous préparant à briser la réalité. Vous ne pouvez pas vous déplacer pendant que vous lancez ce sort. Chaque créature à portée sait que vous lancez ce sort, est consciente des conséquences et connaît votre position exacte pendant toute la durée de l'incantation.\n\nChoisissez un point que vous pouvez voir à portée. Une sphère de 2 kilomètres de rayon centrée sur ce point éclate en une explosion unique d'un feu indicible. Toute créature, y compris vous, qui peut voir ce point au moment où le sort est lancé est définitivement [[aveuglé|aveuglée]]. Les structures et objets non magiques dans le rayon sont détruits instantanément. Les créatures dans la zone sont mises [[au sol]] et subissent 10d10 dégâts de force, 10d10 dégâts radiants et 10d10 dégâts de feu. Si elles meurent, elles sont réduites en cendres.\n\nUn cratère massif est creusé dans le sol, continuant de brûler d'une énergie malsaine. Toute créature qui commence son tour dans le cratère subit 2d10 dégâts radiants et 1d10 dégâts de feu. Le cratère brûle pendant un mois. Vous subissez immédiatement 5 niveaux d'[[épuisement]] après avoir lancé ce sort, et si cela vous tue, vous ne pouvez être ressuscité par aucun moyen.\n"
+    },
+    "Changement de Forme": {
+        "level": "9",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un diadème de jade d'une valeur d'au moins 1500 po, que vous devez placer sur votre tête avant que vous ne lanciez ce sort",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Shapechange",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Magicien"
+        ],
+        "description": "Vous prenez la forme d'une créature différente pendant la durée du sort. La nouvelle forme peut être celle d'une créature d'un FD égal ou inférieur à votre niveau. La créature ne peut être une Construction ou un Mort-Vivant, et vous devez déjà en avoir vu un individu au moins une fois. Vous vous transformez en un exemplaire _moyen_ de l'individu, un sans aucun niveau de classe ou de trait d'Incantation.\n\nVos statistiques en jeu sont remplacées par celles de la créature, même si vous conservez votre alignement, votre Intelligence, votre Sagesse et votre Charisme. Vous conservez également toutes vos maîtrises de compétence et de jet de sauvegarde, en plus d'obtenir ceux de la créature. Si la créature a une maîtrise identique à vous et que le bonus listé dans ses statistiques est supérieur au vôtre, vous utilisez le bonus de la créature à la place. Vous ne pouvez pas utiliser d'action légendaire ni d'action de repaire lorsque vous êtes dans cette nouvelle forme.\n\nVous utilisez les points de vie et Dés de Vie de la nouvelle forme. Lorsque vous revenez à la normale, vous revenez aux points de vie que vous aviez avant de vous transformer. Si vous revenez à la normale du fait de tomber à 0 point de vie, tous les dégâts restants sont transférés à votre forme normale. Tant que les dégâts restants ne réduisent pas votre forme normale à 0 point de vie, vous ne tombez pas [[inconscient]].\n\nVous conservez les effets de toutes les aptitudes de votre classe, votre race ou de toute autre source et vous pouvez les utiliser, si tant est que votre nouvelle forme soit physiquement capable de le faire. Vous ne pouvez utiliser aucun des sens spéciaux (par exemple, vision dans le noir) que vous possédez sauf si votre nouvelle forme le possède aussi. Vous ne pouvez parler que si la créature parle en temps normal.\n\nLorsque vous vous transformez, vous choisissez si votre équipement tombe au sol, se fusionne à votre nouvelle forme ou est porté par celle-ci. L'équipement porté fonctionne normalement. Le MJ détermine si cela est pratiquement faisable que la nouvelle forme porte une pièce d'équipement. Votre équipement ne change pas de forme ou de taille pour s'accommoder à votre nouvelle forme et tout équipement que votre nouvelle forme ne peut porter doit ou tomber au sol ou se fusionner dans celle-ci. Les équipements fusionnés n'ont aucun effet tant qu'ils sont dans cet état. \n\nPendant la durée du sort, vous pouvez utiliser une action pour prendre une forme différente suivant les mêmes restrictions et règles que la première forme, avec une exception : si la nouvelle forme a plus de points de vie que la forme actuelle, vos points de vie restent à la valeur actuelle.\n\n\n"
     },
     "Arrêt du Temps": {
         "level": "9",
@@ -5154,6 +5199,32 @@
         ],
         "description": "Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :\n\n - Vous causez toutes les bougies, torches et autres flammes à s'assombrir et vaciller.\n - Vous créez un faible son qui vient d'un point de votre choix à portée, comme de sinistres murmures, le bourdonnement d'un insecte ou un bruit de pleurs.\n - Vous créez jusqu'à quatre orbes spectraux et brillants, de la taille d'une torche, qui flottent à portée. Ces orbes ne créent pas de lumière si ce n'est un très léger scintillement.\n - Vous pouvez refroidir ou réchauffer de 5° l'air dans un cube de 10 ft. de côté.\n - Vous pouvez faire en sort que de petits objets au sol se mettent à trembler ou légèrement léviter.\n\nSI vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois de ces effets actifs en même temps, et vous pouvez terminer l'un de ces effets avec une action.\n"
     },
+    "Chanson d'Encouragement": {
+        "level": "0",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Cheerful Song",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous chantez un petit air joyeux, remontant le moral de jusqu'à trois créatures que vous pouvez voir à portée. Les créatures affectées gagnent 1 point de vie temporaire et peuvent ajouter un bonus de +1 à leur prochain jet d'attaque, de sauvegarde ou de caractéristique qu'elles réalisent avant le début de votre prochain tour.\n"
+    },
     "Étincelle de Vie": {
         "level": "0",
         "school": "Nécromancie",
@@ -6737,6 +6808,25 @@
         ],
         "description": "De fines et crépitantes flammes enveloppent votre corps pendant la durée du sort, émettant une lumière vive sur 10 ft. et une lumière faible sur 10 ft. supplémentaire. Vous pouvez terminer le sort prématurément en utilisant une action pour le dissiper.\n\nLes flammes vous prodiguent, au choix, un bouclier de chaleur ou de frisson. Le bouclier de chaleur vous confère la résistance aux dégâts de froid tandis que le bouclier de frisson vous confère la résistance aux dégâts de feu.\n\nDe plus, lorsqu'une créature à 5 ft. de vous est touchée par une attaque de mêlée, le bouclier s'embrase. L'attaquant prend 2d8 dégâts de feu d'un bouclier de chaleur ou 2d8 dégâts de froid d'un bouclier de frisson."
     },
+    "Chanson Discordante": {
+        "level": "4",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Shattersong",
+        "status": "finished",
+        "available": [
+            "Barde"
+        ],
+        "description": "Vous chantez une chanson discordante imprégnée de pouvoir magique. Lorsque vous lancez ce sort, les vibrations que vous causez commencent à déformer la réalité dans un rayon de 10 ft. centré sur vous. Les créatures que vous choisissez ainsi que les objets sans surveillance dans la zone prennent 2d6 dégâts de tonnerre et les créatures doivent réaliser un jet de sauvegarde de Force. En cas d'échec, elles tombent [[au sol]].\n\nPour une action à chacun de vos tours tant que vous maintenez la concentration sur ce sort, vous pouvez renforcer votre chanson, répétant les effets tout en augmentant le rayon de 10 ft. et les dégâts de 2d6 à chaque itération. La distance affectée et les dégâts infligés ne peuvent excéder un rayon de 30 ft. et 6d6 dégâts de tonnerre.\n"
+    },
     "Intensification de la Gravité": {
         "level": "4",
         "school": "Transmutation",
@@ -6901,6 +6991,30 @@
             "Clerc"
         ],
         "description": "Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.\n"
+    },
+    "Charme-monstre": {
+        "level": "4",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Charm Monster",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit réaliser un jet de sauvegarde de Sagesse, qu'elle réalise avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[charmé|charmée]] par vous jusqu'à ce que le sort ne termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature charmée est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement supplémentaire au-delà du niveau 4. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.\n"
     },
     "Cage d'Épines": {
         "level": "4",
