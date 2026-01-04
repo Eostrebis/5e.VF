@@ -435,6 +435,25 @@
         ],
         "description": "Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste un fey ou un fiélon.\n\nVotre familier agit indépendamment de vous, mais obéit toujours à vos ordres. En combat, il lance sa propre initiative et agit pendant son tour. Un familier ne peut attaquer, mais peut utiliser les autres actions normalement.\n\nLorsque votre familier tombe à 0 point de vie, il disparaît, ne laissant aucune forme physique derrière lui. Il réapparaît lorsque vous lancez à nouveau ce sort. Pour une action, vous pouvez renvoyer temporairement votre familier vers une dimension de poche. Vous pouvez également le renvoyer définitivement. Pour une action alors qu'il est temporairement renvoyé, vous pouvez le faire réapparaître sur n'importe quel emplacement inoccupé à 30 ft. de vous. Lorsque le familier tombe à 0 point de vie ou disparaît vers la dimension de poche, il laisse tomber au sol tout ce qu'il portait.\n\nTant que votre familier se trouve à 100 ft. de vous, vous pouvez communiquer avec lui télépathiquement. De plus, pour une action, vous pouvez voir à travers ses yeux et entendre ce qu'il entend jusqu'au début de votre prochain tour, bénéficiant ainsi des sens spéciaux de votre familier. Pendant ce temps, vous êtes aveugle et sourd par rapport à vos sens.\n\nVous ne pouvez pas avoir plus d'un familier à la fois. Si vous relancez le sort alors que vous avez déjà un familier, vous le faites simplement changer de forme. Choisissez l'une des formes ci-dessus. Votre familier se transforme en la forme choisie.\n\nEnfin, lorsque vous lancez un sort avec une portée de toucher, votre familier peut délivrer le sort comme s'il l'avait lancé. Votre familier doit être à moins de 100 ft. de vous et il doit utiliser sa réaction pour délivrer le sort lorsque vous le lancez. Si le sort requiert un jet d'attaque, **vous** lancez ce jet en utilisant votre modificateur.\n\n\n"
     },
+    "Châtiment Courroucé": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Wrathful Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit réaliser un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'à ce que le sort se termine. Pour une action, la créature peut réaliser un jet de sauvegarde de Sagesse pour renforcer sa volonté et terminer ce sort.\n"
+    },
     "Crâne Hurlant de Gahoul": {
         "level": "1",
         "school": "Nécromancie",
@@ -979,6 +998,26 @@
             "Martyr"
         ],
         "description": "Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit réaliser un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle réalise contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.\n\nLe sort se termine si vous attaquez une autre créature, si vous lancez un sort qui cible une créature hostile autre que la cible, si une créature alliée inflige des dégâts à la cible ou lui lance un sort malfaisant, ou si vous terminez votre tour à plus de 30 ft. de la cible.\n"
+    },
+    "Châtiment Calcinant": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Searing Smite",
+        "status": "finished",
+        "available": [
+            "Paladin",
+            "Ranger"
+        ],
+        "description": "La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme reluit d'une chaleur de l'acier blanc, et l'attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'embrase.\n\nAu début de chacun de ses tours avant que le sort ne termine, la cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle prend 1d6 dégâts de feu. Si elle réussit, le sort se termine. Si la cible ou une créature à 5 ft. de celle-ci utilise son action pour éteindre les flammes, ou si un autre effet les éteint (comme la cible étant plongée dans l'eau), le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
     },
     "Reconstruction Hasardeuse": {
         "level": "1",
@@ -6634,6 +6673,25 @@
             "Magicien"
         ],
         "description": "Vous purgez les effets d'invisibilité magique dans un rayon de 120 ft. autour de vous. Toute créature, objet, emplacement ou effet à 120 ft. de vous qui est caché par une invisibilité magique est révélé et l'invisibilité est dissipée.\n\nCe sort s'applique aux capacités innées qui sont magiques par nature, comme l'Invisibilité d'un diablotin, mais il n'affecte pas les créatures sur d'autres plans de l'existence, comme sur le Plan Ethéré. Il ne révèle également pas les créatures qui sont naturellement invisibles. Les objets qui confère l'invisibilité voient leurs effets étouffés pendant 1 minute.\n"
+    },
+    "Châtiment Débilitant": {
+        "level": "4",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Staggering Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme pénètre le corps comme l'esprit, et l'attaque inflige 4d6 dégâts psychiques supplémentaires à la cible. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle a le désavantage aux jets d'attaque et de caractéristique ainsi que l'incapacité de prendre des réactions, jusqu'à la fin de son prochain tour.\n"
     },
     "Abri d'Ombre": {
         "level": "4",
