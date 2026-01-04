@@ -1,4 +1,24 @@
 {
+    "Clone": {
+        "level": "8",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un diamant d'une valeur d'au moins 1000 po et au moins 20 cm3 de chair de la créature à cloner, que le sort consomme. Un récipient d'une valeur d'au moins 2000 po au couvercle scellable et suffisamment large pour contenir la créature clonée, comme une immense urne, un cercueil, un kyste dans le sol ou un contenant de cristal empli d'eau de mer",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Clone",
+        "status": "finished",
+        "available": [
+            "Nécromancien",
+            "Magicien"
+        ],
+        "description": "Le sort fait _pousser_ une copie inerte d'une créature vivante comme moyen de prévention de la mort. Ce clone se crée à l'intérieur du récipient utilisant dans l'incantation du sort et atteint sa taille et sa maturité finale après 120 jours ; vous pouvez également choisir de faire du clone une version plus jeune de la même créature. Il reste inerte indéfiniment, tant que le récipient reste intact.\n\nÀ n'importe quel moment après que le clone a atteint sa maturité finale, si la créature originale meurt, son âme se transfère dans le clone, en supposant que l'âme soit libre et consentante à revenir. Le clone est physiquement identique à l'original et a la même personnalité, ainsi que ses souvenirs et ses compétences. Aucun équipement n'est cependant transféré. Le corps de la créature originale persiste, s'il existe, et devient inerte et ne peut être ramené à la vie, puisque l'âme de la créature est ailleurs.\n"
+    },
     "Aversion ou Attirance": {
         "level": "8",
         "school": "Enchantement",
@@ -2335,6 +2355,25 @@
             "Artificier"
         ],
         "description": "Vous invoquer une chaîne et un crochet faits de force magique, que vous projetez vers une créature ou un espace inoccupé à portée. Lorsque vous ciblez un espace ou une créature de taille TG ou plus, le grapin vous attire vers la cible en ligne droite. Vous provoquez normalement les attaques d'opportunité pour ce déplacement. Lorsque vous ciblez une créature de taille G ou plus petite, vous attirez la cible de jusqu'à 10 ft. vers vous. Une créature peut réaliser un jet de sauvegarde de Force pour résister à ce mouvement.\n"
+    },
+    "Châtiment Tonitruant": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Punishing Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre arme résonne comme un tonnerre audible à 300 ft. et l'attaque inflige 2d6 dégâts de tonnerre supplémentaire à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 de ft. et tomber [[au sol]].\n"
     },
     "Rumeur": {
         "level": "1",
@@ -6429,6 +6468,27 @@
             "Barde"
         ],
         "description": "Vous lancez une imprécation et repoussez par votre volonté les magies curatives de la nature et des dieux. Chaque fois qu'une créature à 60 ft. devrait regagner des points de vie grâce à un sort, elle doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle ne regagne pas de points de vie et prend à la place 1d6 dégâts psychiques. Vous pouvez terminer ce sort prématurément pour une action.\n"
+    },
+    "Clairvoyance": {
+        "level": "3",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un focalisateur valant au moins 100 po, soit une corne d'ouïe en joyaux  soit un œil de verre",
+        "Durée": "10 Minutes",
+        "Incantation": "10 Minutes",
+        "Portée": "2 kilomètres",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Clairvoyance",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué ou interagit avec.\n\nLorsque vous lancez ce sort, vous choisissez la vue ou l'ouïe. Vous pouvez utiliser le sens choisi à travers le senseur comme si vous vous trouviez dans son espace. Pour une action, vous pouvez choisir entre la vue et l'ouïe. Une créature qui peut voir le senseur (comme une créature bénéficiant d'un sort de [[vision de l'invisible]] ou d'une vraie vision) peut voir un orbe lumineux et intangible d'à peu près la taille de votre poing.\n"
     },
     "Tentacules Aquatiques": {
         "level": "4",
