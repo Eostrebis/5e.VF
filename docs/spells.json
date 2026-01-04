@@ -2112,6 +2112,25 @@
         ],
         "description": "Ce sort crée une force invisible, sans forme particulière et sans conscience de taille Moyenne qui réalise de simples tâches à votre demande jusqu'à ce que le sort termine. Le servant surgit dans un espace inoccupé au sol à portée. Il a une CA de 10, 1 point de vie et une force de 2, et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort termine.\n\nUne fois à chacun de vos tours pour une action bonus, vous pouvez mentalement ordonner au servant de se déplacer de 15 ft. et d'interagir avec un objet. Le servant peut réaliser des tâches simples qu'un servant humain peut effectuer, comme récupérer des choses, nettoyer, réparer ou plier des linges, allumer un feu, servir la nourriture ou le vin. Une fois que vous avez donné cet ordre, le servant réalise la tâche du mieux qu'il peut jusqu'à ce qu'elle soit complétée, puis attend votre prochain ordre.\n\nSi vous ordonnez au servant une tâche qui lui demanderait de se déplacer à plus de 60 ft. de vous, le sort se termine.\n"
     },
+    "Châtiment Défiant": {
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Defiant Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, une énergie vengeresse s'échappe de votre arme. L'attaque inflige 1d6 dégâts supplémentaires de force à la cible. De plus, si la cible est une créature, sa capacité à attaquer est réduite. Jusqu'à ce que le sort ne termine, la créature doit réaliser un jet de sauvegarde de Charisme au début de chacun de ses tours. Si elle échoue, la première fois qu'elle touche avec une attaque avant la fin de son tour, elle tombe [[au sol]].\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts de force augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
+    },
     "Malédiction des Chaînes": {
         "level": "1",
         "school": "Enchantement",
