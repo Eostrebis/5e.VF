@@ -6276,6 +6276,30 @@
         ],
         "description": "Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle prend 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle réalise avant le début de son prochain tour. Sur un jet réussi, la cible ne prend que la moitié des dégâts.\n\n**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, les dégâts augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.\n"
     },
+    "Cœur Noirci": {
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Blackened Heart",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous tendez la main vers une créature vivante que vous pouvez voir. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, son corps s'emplit d'un vil poison et elle subit 10d6 dégâts de poison au début de son prochain tour. Si la cible est réduite à 0 points de vie avant le début de son prochain tour, le poison explose et érupte en une douche de bile. Les créatures dans un rayon de 10 ft. de la cible doivent réaliser un jet de sauvegarde de Dextérité. Si elle échoue, une créature subit 10d6 dégâts de poison, ou la moitié en cas de jet réussit.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de chaque phase du sort augmentent de 2d6 par niveau d'emplacement au-delà du niveau 3.\n"
+    },
     "Châtiment Aveuglant": {
         "level": "3",
         "school": "Évocation",
