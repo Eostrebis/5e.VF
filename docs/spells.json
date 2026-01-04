@@ -7443,6 +7443,25 @@
         ],
         "description": "Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dragon, en retournant des cartes ornées ou en usant d'autres outils divinatoires, vous recevez un présage de la part d'une entité surnaturelle à propos du résultat des actions que vous planifiez d'entreprendre au cours des 30 prochaines minutes. Le MJ choisit de répondre à l'aide des présages suivants :  \n\n• **Fortune,** l'action a de bonnes chances d'être bénéfique\n• **Péril,** l'action aura des répercussions néfastes\n• **Péril et fortune,** les deux sont possibles\n• **Rien,** dans le cas où l'action ne devrait pas avoir de conséquences favorables ou néfastes\n\nLe sort ne considère pas les circonstances qui pourraient changer l'issue de la divination, comme l'incantation additionnelle de sorts ou la perte ou le gain d'un nouveau compagnon.  \nSi vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25% de recevoir une réponse aléatoire, et ce, à chaque incantation après la première. Le MJ fait ce jet en secret.\n"
     },
+    "Chasse Diabolique": {
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un tout petit trident en argent",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Devilish Hunt",
+        "status": "finished",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perçants et doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.\n\nTant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, prenant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perçants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.\n"
+    },
     "Bouclier Répulsif": {
         "level": "2",
         "school": "Abjuration",
