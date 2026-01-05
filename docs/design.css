@@ -487,11 +487,16 @@
   /* 4. SUPPRESSION DES IMAGES */
   .card-background { display: none; } /* Supprime la grande image de fond */    
   .title-icon { display: none; } /* Supprime le logo/icône */
-  .class-card-title-wrapper { margin-bottom: 0px; /* Espace sous l'en-tête avant les tags */ }
+  .class-card-title-wrapper { 
+    position: block;
+    width: 100%;
+    margin-bottom: 0px; /* Espace sous l'en-tête avant les tags */ 
+  }
 
   /* 5. CORPS DE TEXTE : Réagencement compact */
   .class-card-body {
     /* On annule les marges complexes du mode PC */
+    position: relative;
     margin: 0; 
     padding: 2px 15px 5px 15px; /* Padding réduit */
     
@@ -505,17 +510,37 @@
 
   .stat-value { font-size: 0.75rem; }
 
-  .card-header-wrapper { margin-bottom: 5px; } /* Comme le logo est caché, le texte prend toute la place */
+  .card-header-wrapper {
+    /* On force le conteneur du titre à prendre toute la largeur... */
+    width: 100%;
+  }
+  
+  .card-header-text {
+    display: flex;
+    flex-direction: row; /* Aligne horizontalement */
+    justify-content: space-between; /* Pousse le Titre à gauche et le Tag à droite */
+    align-items: center; /* Centre verticalement */
+    width: 100%; /* Prend toute la largeur de la carte */
+  }
   
   .class-card-title {
-    display: inline;
-    font-size: 0.9rem; /* Titre plus petit */
+    margin: 0; /* Plus de marge en bas */
+    font-size: 0.9rem;
+    text-align: left;
+    
+    /* Sécurité : si le titre est très long, il ne doit pas écraser le tag */
+    max-width: 65%; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
   }
   
   .dnd-stats-row { padding: 5px 0; }
 
   /* Tags plus compacts */
-  .class-card-tags { margin-bottom: 5px; }
+  .class-card-tags {
+    margin-bottom: 5px;
+  }
   
   /* On réduit la taille des tags eux-mêmes */
   .flip-card-tag {
