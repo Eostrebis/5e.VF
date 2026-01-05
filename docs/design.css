@@ -471,11 +471,44 @@
   .class-card {
     height: auto; /* La hauteur s'adapte au contenu (très important pour réduire la taille) */
     min-height: 0; /* Sécurité */
-    background-color: #fff; /* Fond blanc simple (puisqu'on enlève l'image) */
+    background-color: var(--bg); /* Fond blanc simple (puisqu'on enlève l'image) */
     border: 1px solid #e0e0e0; /* Légère bordure pour délimiter */
     
     /* On garde la bordure colorée en haut pour l'identité */
     border-top: 4px solid var(--accent-color); 
+    position: relative; 
+    overflow: hidden;
+  }
+  
+  .class-card::after {
+    content: '';
+    position: absolute;
+    /* Prend tout l'espace de la carte */
+    inset: 0; 
+    
+    /* Utilise l'image définie dans le HTML */
+    background-image: var(--bg-image);
+    
+    /* Centrage */
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+    /* TAILLE : Ajustez ici selon le rendu souhaité.
+       - 'contain' : L'image entière rentre dans la carte (peut laisser des vides sur les côtés)
+       - 'cover' : L'image remplit tout (peut être coupée)
+       - '50%' ou '150px' : Taille fixe
+    */
+    background-size: contain; 
+    
+    /* TRANSPARENCE : C'est ici que vous réglez l'intensité (entre 0.05 et 0.2 conseillé) */
+    opacity: 0.1; 
+    
+    /* Place l'image DERRIÈRE le texte */
+    z-index: 0;
+    /* Empêche l'image de bloquer les clics */
+    pointer-events: none; 
+    /* Optionnel : un petit flou pour que le texte ressorte mieux */
+    filter: grayscale(100%) blur(1px); 
   }
 
   /* 3. DÉSACTIVATION DES EFFETS (Hover, Slide, Texte caché) */
