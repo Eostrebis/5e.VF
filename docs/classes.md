@@ -143,7 +143,7 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	data-difficulte="★☆☆☆"
 	data-text="Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.
 Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur."
-	style="--accent-color: #95826B;">
+	style="--accent-color: #95826B; --bg-image: url('../Illustrations/Classes/BarbareInverted.png');">
 	    <img src="../Illustrations/Classes/Barbare_background.png" alt="Barbare" class="card-background" loading="lazy">
 		<div class="class-card-body">
 	    	<div class="class-card-title-wrapper">
