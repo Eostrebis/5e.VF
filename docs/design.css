@@ -412,7 +412,7 @@
   padding: 0 10px 0 23px;
   position: relative;
   margin-right: 15px;
-  margin-bottom: 10px;
+  margin-bottom: 0px;
   cursor: default;
   user-select: none;
   transition: color 0.2s;
@@ -455,4 +455,99 @@
      afin de masquer la jointure */
   z-index: -1; 
   border-radius: 1.5px;
+}
+
+/* --- VERSION MOBILE (Smartphones < 672px) --- */
+@media screen and (max-width: 672px) {
+
+  /* 1. GRILLE : Une seule colonne */
+  .class-grid {
+    grid-template-columns: 1fr;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  /* 2. CARTE : Version compacte et statique */
+  .class-card {
+    height: auto; /* La hauteur s'adapte au contenu (très important pour réduire la taille) */
+    min-height: 0; /* Sécurité */
+    background-color: #fff; /* Fond blanc simple (puisqu'on enlève l'image) */
+    border: 1px solid #e0e0e0; /* Légère bordure pour délimiter */
+    
+    /* On garde la bordure colorée en haut pour l'identité */
+    border-top: 4px solid var(--accent-color); 
+  }
+
+  /* 3. DÉSACTIVATION DES EFFETS (Hover, Slide, Texte caché) */
+  .class-card::before { display: none; } /* Cache le texte "VOIR LA FICHE" */
+  .class-card:hover .class-card-body,
+  .class-card:hover .class-card-footer { transform: none; } /* Bloque le glissement */
+  .class-card:hover { box-shadow: 0 2px 5px rgba(0,0,0,0.1); transform: none; }
+
+  /* 4. SUPPRESSION DES IMAGES */
+  .card-background { display: none; } /* Supprime la grande image de fond */    
+  .title-icon { display: none; } /* Supprime le logo/icône */
+  .class-card-title-wrapper { margin-bottom: 0px; /* Espace sous l'en-tête avant les tags */ }
+
+  /* 5. CORPS DE TEXTE : Réagencement compact */
+  .class-card-body {
+    /* On annule les marges complexes du mode PC */
+    margin: 0; 
+    padding: 5px 15px 5px 15px; /* Padding réduit */
+    
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+  }
+
+  /* 6. TYPOGRAPHIE & REAGENCEMENT */
+  .stat-label { font-size: 0.5rem; }
+
+  .stat-value { font-size: 0.75rem; }
+
+  .card-header-wrapper { margin-bottom: 5px; } /* Comme le logo est caché, le texte prend toute la place */
+  
+  .class-card-title {
+    display: inline;
+    font-size: 0.9rem; /* Titre plus petit */
+  }
+  
+  .dnd-stats-row { padding: 5px 0; }
+
+  /* Tags plus compacts */
+  .class-card-tags { margin-bottom: 5px; }
+  
+  /* On réduit la taille des tags eux-mêmes */
+  .flip-card-tag {
+    font-size: 13px;
+    line-height: 22px;
+    top: -2.5px;
+  }
+  .flip-card-tag::before { top: 8px; } /* Ajustement du petit rond */
+  .flip-card-tag::after { height: 16px; width: 16px; right: -8px; } /* Ajustement de la pointe */
+
+  /* Description : Très courte */
+  .class-card-desc {
+    font-size: 0.6rem;
+    line-height: 1.4;
+    -webkit-line-clamp: 2; /* On coupe après 2 lignes seulement */
+    margin-bottom: 5px;
+  }
+
+  /* 7. FOOTER : Minimaliste */
+  .class-card-footer {
+    margin: 0; /* Collé au body */
+    padding: 8px 15px 12px 15px;
+    background: transparent;
+    border-top: none;
+    border-radius: 0;
+    box-shadow: none;
+    text-align: left; /* Alignement à gauche ou droite selon préférence */
+  }
+
+  /* Bouton plus petit */
+  .dnd-btn {
+    font-size: 0.75rem;
+    padding: 4px 10px;
+  }
 }
