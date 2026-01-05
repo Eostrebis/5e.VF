@@ -67,7 +67,7 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	    	<div class="class-card-title-wrapper">
 	   			<img src="../Illustrations/Classes/Alchimiste24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Alchimiste
+		    		<span>Alchimiste</span>
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
