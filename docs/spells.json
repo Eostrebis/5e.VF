@@ -801,6 +801,26 @@
         ],
         "description": "Ce sort fait tomber des créatures en un sommeil profond. Lancez 5d8 ; le total correspond à combien de points de vie totaux ce sort peut affecter. Les créatures à 20 ft. de l'emplacement que vous choisissez à portée sont affectées par ordre croissant de leurs points de vie (ignorant les créatures [[inconscient|inconscientes]]).\n\nÀ partir de la créature qui a le moins de points de vie, chaque créature affectée par ce sort tombe [[inconscient|inconsciente]] jusqu'à ce que le sort se termine, que la créature prenne des dégâts ou que quelqu'un utilise son action pour la secouer ou la baffer. Retirez les points de vie de chaque créature affectée du total avant de passer à la créature suivante avec le moins de points de vie. Les points de vie d'une créature doivent être inférieurs ou égaux au total restant pour que cette créature soit affectée.\n\nLes morts-vivants et créatures qui ne peuvent être [[charmé|charmées]] ne sont pas touchés par ce sort.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous lancez 2d8 supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.\n"
     },
+    "Collet": {
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "25 ft. de corde, que le sort consomme",
+        "Durée": "8 Heures",
+        "Incantation": "1 Minute",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Snare",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Sorcière"
+        ],
+        "description": "En lançant ce sort, vous utilisez la corde pour réaliser un cercle de 5 ft. de rayon au sol. Lorsque vous avez terminé l'incantation, la corde disparaît et le cercle devient un piège magique.\n\nLe piège est presque invisible, demandant un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort pour être discerné.\n\nLe piège se déclenche lorsqu'une créature de taille P, M ou G se déplace au sol à l'intérieur du rayon du sort. La créature doit réussir un jet de sauvegarde de Dextérité ou être magiquement tirée dans les airs, et pendue par les pieds 3 ft. au-dessus du sol. La créature est [[retenu|retenue]] jusqu'à ce que le sort se termine.\n\nUne créature retenue peut réaliser un jet de sauvegarde de Dextérité à la fin de chacun de ses tours, terminant l'effet en cas de succès. Autrement, la créature ou une autre qui peut l'atteindre peut utiliser une action pour réaliser un jet d'Intelligence (Arcane) contre votre DD de sauvegarde de sort. Si elle réussit, l'effet de retenue se termine.\n\nAprès que le piège s'est déclenché, le sort se termine lorsque aucune créature n'est [[retenu|retenue]] par lui.\n"
+    },
     "Aura de Stabilité": {
         "level": "1",
         "school": "Abjuration",
@@ -1295,6 +1315,29 @@
             "Barde"
         ],
         "description": "Vous murmurez une mélodie dissonante que seulement une créature de votre choix à portée peut entendre, ce qui lui provoque d'intenses douleurs. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle prend 3d6 dégâts psychiques et doit immédiatement utiliser sa réaction, si elle est disponible, pour se déplacer aussi loin que possible de vous. La créature ne se déplace vers ce qui serait un danger évident, comme un feu ou un trou. Si elle réussit, elle prend la moitié des dégâts et n'a pas à se déplacer. Une créature [[assourdi|assourdie]] réussit automatiquement le jet.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
+    },
+    "Communication avec les Animaux": {
+        "level": "1",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Speak with Animals",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Vous obtenez la capacité de comprendre et de communiquer verbalement avec les Bêtes pendant la durée du sort. Le savoir et la conscience de beaucoup de bêtes sont limités par leur intelligence, mais, à minima, les bêtes peuvent vous fournir des informations sur les alentours et les monstres environnants, y compris ce qu'elles peuvent percevoir ou ont pu percevoir jusqu'à la veille. Vous pouvez être capable de convaincre une bête de réaliser une petite tâche pour vous, à la discrétion du MJ.\n"
     },
     "Couleurs Dansantes": {
         "level": "1",
@@ -5885,6 +5928,29 @@
         ],
         "description": "Lorsque vous lancez ce sort, choisissez un humanoïde à portée qui peut vous voir, vous entendre et vous comprendre. La créature doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] par vous pendant la durée du sort. Tant que la créature est [[charmé|charmée]] de cette façon, elle essaye d'accomplir tout service ou tâche que vous lui demandez de réaliser de façon amicale, au mieux de ses capacités.\n\nVous pouvez assigner de nouvelles tâches à la créature lorsque les précédentes sont terminées ou si vous décidez de mettre fin à la tâche en cours. Si le service ou l'activité est susceptible de nuire à  la créature ou rentre en conflit avec ses activités habituelles ou ses désirs, la créature peut réaliser un nouveau jet de sauvegarde de Sagesse pour essayer de mettre fin à l'effet. Ce jet est réalisé avec avantage si vous ou vos compagnons êtes en train de vous battre contre la créature. Si l'activité n'a pas d'autres issues que la mort pour la créature, le sort se termine.\n\nLorsque le sort se termine, la créature sait qu'elle a été charmée par vous.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 3."
     },
+    "Communication avec les Plantes": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (rayon de 30 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Speak with Plants",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Druide",
+            "Magicien"
+        ],
+        "description": "Vous imprégnez les plantes dans un rayon de 30 ft. autour de vous avec une conscience limitée et les animez, leur conférant la capacité de communiquer avec vous et de suivre des ordres simples. Vous pouvez interroger les plantes sur les évènements qui se sont déroulés dans la zone du sort pendant le dernier jour, obtenant des informations sur les créatures qui y sont passées, la météo ou d'autres circonstances.\n\nVous pouvez aussi transformer le terrain rendu difficile par la croissance des plantes (comme les bosquets et les fourrés) en terrain ordinaire pendant la durée du sort. Inversement, vous pouvez transformer du terrain ordinaire où des plantes sont présentes en terrain difficile pour la durée du sort, faisant en sort que les lianes, ronces et branches se mettent en travers de la route de poursuivant, par exemple.\n\nLes plantes peuvent être capables de réaliser d'autres tâches pour vous, à la discrétion du MJ. Ce sort ne permet pas aux plantes de se déraciner et se déplacer, mais elles peuvent bouger librement leurs branches, racines et autres appendices.\n\nSi une créature Plante est dans la zone, vous pouvez communiquer avec elle comme si vous possédiez une langue en commun, mais vous n'obtenez aucun moyen de l'influencer magiquement.\n\nCe sort peut faire relâcher une créature [[retenu|retenue]] aux plantes créées par le sort [[Enchevêtrement]].\n"
+    },
     "Discernement Géomantique": {
         "level": "3",
         "school": "Divination",
@@ -6122,6 +6188,30 @@
             "Paladin"
         ],
         "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, des ombres cruelles se déversent de votre arme vers les blessures de la cible. L'attaque inflige 3d6 dégâts nécrotiques à la cible. De plus, si la cible est une créature, sa chair nécrose et refuse de se réparer. Jusqu'à ce que le sort ne termine, la cible ne peut pas regagner de points de vie.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts nécrotiques augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.\n"
+    },
+    "Communication avec les Morts": {
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "De l'encens",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "10 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Speak with Dead",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Nécromancien",
+            "Martyr",
+            "Barde",
+            "Clerc",
+            "Magicien"
+        ],
+        "description": "Vous conférez à un corps de votre choix à portée un simulacre de vie et d'intelligence, lui permettant de répondre aux questions que vous lui posez. Le corps doit toujours posséder une bouche et ne pas être Mort-Vivant. Le sort échoue si le corps a déjà été la cible de ce jour dans les 10 derniers jours.\n\nJusqu'à ce que le sort se termine, vous pouvez poser au corps jusqu'à cinq questions. Le corps ne sait que ce qu'il connaissait de son vivant, y compris les langues parlées. Les réponses sont généralement brèves, cryptiques ou répétitives, et le corps n'est sous aucune obligation de répondre honnêtement, particulièrement si vous êtes hostile envers lui ou qu'il vous reconnait comme un ennemi. Ce sort ne renvoie pas l'âme de la créature à son corps, seulement son esprit. Ainsi, le corps ne peut apprendre de nouvelles informations, ne comprend aucun évènement s'étant déroulé après sa mort, et ne peut pas spéculer sur de futurs évènements.\n"
     },
     "Séance": {
         "level": "3",
@@ -6513,6 +6603,29 @@
             "Sorcière"
         ],
         "description": "Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué ou interagit avec.\n\nLorsque vous lancez ce sort, vous choisissez la vue ou l'ouïe. Vous pouvez utiliser le sens choisi à travers le senseur comme si vous vous trouviez dans son espace. Pour une action, vous pouvez choisir entre la vue et l'ouïe. Une créature qui peut voir le senseur (comme une créature bénéficiant d'un sort de [[vision de l'invisible]] ou d'une vraie vision) peut voir un orbe lumineux et intangible d'à peu près la taille de votre poing.\n"
+    },
+    "Communication à Distance": {
+        "level": "3",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un petit morceau de fil de cuivre",
+        "Durée": "1 Tour",
+        "Incantation": "1 Action",
+        "Portée": "Illimitée",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Sending",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Sorcière",
+            "Barde",
+            "Clerc",
+            "Magicien"
+        ],
+        "description": "Vous envoyez un petit message d'au plus 25 mots à une créature qui vous est familière. La créature entend le message dans son esprit, vous reconnaît comme l'expéditeur du message si elle vous connaît, et peut répondre par le même moyen immédiatement. Le sort permet à des créatures d'une Intelligence d'au moins 1 de comprendre le sens du message.\n\nVous pouvez envoyer le message à n'importe quelle distance et même sur d'autres plans d'existence. Cependant, si la cible se trouve sur un plan que vous, il y a 5% de chance que le message n'arrive pas à destination.\n"
     },
     "Tentacules Aquatiques": {
         "level": "4",
