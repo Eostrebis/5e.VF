@@ -3327,6 +3327,27 @@
         ],
         "description": "Avec ce sort, vous tentez de soumettre un céleste, un élémentaire, un fey ou un fiélon. La créature doit se trouver à portée pendant l'entièreté de l'incantation du sort. Généralement, la créature est invoquée au centre d'un [[Cercle Magique]] inversé pour la garder piégée le temps de l'incantation. Après la finalisation de l'incantation, la cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle vous est liée et obligée de vous servir pendant la durée du sort. Si la créature est invoquée ou créée par un autre sort, la durée du sort est étendue pour correspondre à la durée de celui-ci.\n\nUne créature soumise doit suivre vos instructions au mieux de ses capacités. Vous pouvez lui ordonner de vous accompagner à l'aventure, de garder un emplacement ou de délivrer un message. La créature suit vos instructions **à la lettre.** Si la créature termine vos instructions avant que le sort ne termine, elle voyage vers vous pour vous faire un rapport si vous vous trouvez sur le même plan. Sinon, elle retourne à l'endroit de l'incantation de ce sort et vous y attend.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort d'un niveau supérieur à 5, la durée passe à 10 jours avec un emplacement de niveau 6, 30 jours avec un emplacement de niveau 7, 180 jours avec un emplacement de niveau 8, et un an et un jour avec un emplacement de niveau 9.\n"
     },
+    "Communion": {
+        "level": "5",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "De l'encens et une fiole d'eau bénite ou impie",
+        "Durée": "1 Minute",
+        "Incantation": "1 Minute",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Commune",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Martyr",
+            "Clerc"
+        ],
+        "description": "Vous contactez votre déité ou un proxy divin et lui posez jusqu'à trois questions qui peuvent être répondues par \"oui\" ou \"non\". Vous devez poser vos questions avant que le sort se termine. Vous obtenez une réponse juste à chacune de vos questions.\n\nLes entités divines ne sont pas nécessairement omniscientes, donc il se peut que vous receviez \"inconnu\" comme réponse si la question porte sur des informations au-delà du savoir de la déité. Dans le cas où une réponse en un seul mot serait encline à mauvaise compréhension ou irait contre les intérêts de la déité, le MJ peut choisir de répondre avec une courte phrase à la place.\n\nSi vous lancez ce sort deux fois ou plus avant de terminer votre prochain repos long, il y a une chance cumulative de 25% à chaque incantation que vous n'obteniez aucune réponse. Le MJ réalise ce jet en secret."
+    },
     "Aube": {
         "level": "5",
         "school": "Évocation",
@@ -3697,6 +3718,27 @@
             "Ensorceleur"
         ],
         "description": "Vous scellez magiquement une zone centrée sur vous et d'un rayon de 30 ft. Tant que le sceau est actif, aucun voyage planaire ou éthéré ne peut se passer dans ou depuis la zone."
+    },
+    "Communion avec la Nature": {
+        "level": "5",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Minute",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Commune with Nature",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Vous ne faites brièvement plus qu'un avec la nature et récoltez des informations sur les territoires alentours. À l'extérieur, ce sort vous confère la connaissance du terrain dans un rayon de 5 km autour. Dans des grottes et d'autres habitats souterrains, le rayon est limité à 300 ft. Ce sort ne fonctionne pas lorsque la nature fait place à la construction, comme les donjons ou les villes.\n\nVous connaissez instantanément jusqu'à trois informations de votre choix parmi les sujets suivants : \n\n - terrains et plans d'eau\n - plantes, minéraux, animaux ou peuples courants\n - célestes, feys, fiélons, élémentaires ou morts-vivants puissants\n - influence d'autres plans d'existence\n - bâtiments\n\nPar exemple, vous pourriez déterminer la localisation d'un puissant Mort-Vivant dans la zone, l'emplacement des sources principales d'eau potable et la localisation des villes proches.\n"
     },
     "Fontaine Dansante": {
         "level": "5",
@@ -7201,6 +7243,26 @@
             "Sorcière"
         ],
         "description": "Vous explorez les cauchemars d'une créature que vous pouvez voir à portée et créez une manifestation illusoire de ses peurs les plus profondes, visible seulement par cette créature.\n\nLa cible doit réaliser un jet de sauvegarde de Sagesse. En cas d'échec, la cible est [[apeuré|apeurée]] pendant la durée du sort. À la fin de chacun de ses tours avant que le sort ne se termine, la cible doit réussir un jet de sauvegarde de Sagesse ou prendre 4d10 dégâts psychiques. Si elle réussit, le sort se termine.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 4.\n"
+    },
+    "Compulsion": {
+        "level": "4",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Compulsion",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Barde"
+        ],
+        "description": "Les créatures de votre choix que vous pouvez voir à portée et qui peuvent vous entendre doivent réaliser un jet de sauvegarde de Sagesse. Une cible réussit automatiquement ce jet de sauvegarde si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, une cible est affectée par ce sort. Jusqu'à ce que le sort termine, vous pouvez utiliser votre action bonus à chaque tour pour désigner une direction qui vous est horizontale. Toutes les créatures affectées doivent utiliser autant de mouvement que possible pour se déplacer dans cette direction à leur prochain tour. Une créature affectée peut utiliser son action avant de se déplacer. Après s'être déplacé de cette façon, elle peut réaliser un nouveau jet de sauvegarde de Sagesse pour essayer de terminer l'effet.\n\nUne cible n'est pas forcée à se déplacer dans un danger mortel, comme un bûcher, mais elle provoque des attaques d'opportunité pendant son déplacement.\n"
     },
     "Bouc Émissaire de Gahoul": {
         "level": "4",
