@@ -307,7 +307,7 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 	data-carac="sag"
 	data-type="tank controle"
 	data-vie="d8"
-	data-difficulte="★★★★"
+	data-difficulte="★★★☆"
 	data-text="Les druides sont les émissaires de la nature elle-même, appelant les tempêtes, la foudre ou le feu pour défendre les terres sauvages contre toute corruption ou intrusion.
 Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.
 Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants."

@@ -1,4 +1,24 @@
 {
+    "Clone": {
+        "level": "8",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un diamant d'une valeur d'au moins 1000 po et au moins 20 cm3 de chair de la créature à cloner, que le sort consomme. Un récipient d'une valeur d'au moins 2000 po au couvercle scellable et suffisamment large pour contenir la créature clonée, comme une immense urne, un cercueil, un kyste dans le sol ou un contenant de cristal empli d'eau de mer",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Clone",
+        "status": "finished",
+        "available": [
+            "Nécromancien",
+            "Magicien"
+        ],
+        "description": "Le sort fait _pousser_ une copie inerte d'une créature vivante comme moyen de prévention de la mort. Ce clone se crée à l'intérieur du récipient utilisant dans l'incantation du sort et atteint sa taille et sa maturité finale après 120 jours ; vous pouvez également choisir de faire du clone une version plus jeune de la même créature. Il reste inerte indéfiniment, tant que le récipient reste intact.\n\nÀ n'importe quel moment après que le clone a atteint sa maturité finale, si la créature originale meurt, son âme se transfère dans le clone, en supposant que l'âme soit libre et consentante à revenir. Le clone est physiquement identique à l'original et a la même personnalité, ainsi que ses souvenirs et ses compétences. Aucun équipement n'est cependant transféré. Le corps de la créature originale persiste, s'il existe, et devient inerte et ne peut être ramené à la vie, puisque l'âme de la créature est ailleurs.\n"
+    },
     "Aversion ou Attirance": {
         "level": "8",
         "school": "Enchantement",
@@ -261,6 +281,31 @@
         ],
         "description": "Ce sort vous permet d'augmenter la mobilité de n'importe quel nombre de créatures consentante que vous voyez à portée. Vous motivez chacune de ces créatures, leur permettant de se déplacer avec aisance dans les lignes ennemies. Pendant la durée du sort, la vitesse de chaque créature est augmentée de 15 ft., n'est pas affectée par les terrains difficiles non magiques et les créatures ciblées ne provoquent pas d'attaques d'opportunité.\n"
     },
+    "Changement de Plan": {
+        "level": "7",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une tige de métal en fourchette d'une valeur d'au moins 250 po, accordée avec un plan d'existence particulier",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Plane Shift",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous et jusqu'à 8 créatures consentantes aux mains liées en cercle êtes transportées vers un plan d'existence différent. Vous pouvez préciser la destination cible en termes généraux, comme la Cité de Bronze du Plan Élémentaire du Feu ou le Palace de Dispater au second niveau des Neufs Enfers, et vous apparaissez dans ou proche de la destination, à la discrétion du MJ.\n\nAlternativement, si vous connaissez la séquence de sigils d'un [[cercle de téléportation]] d'un autre plan d'existence, ce sort vous téléporte vers ce cercle. Si le cercle de téléportation est trop petit pour contenir toutes les créatures transportées, elles apparaissent dans l'espace inoccupé le plus proche du cercle.\n\nVous pouvez utiliser ce sort pour bannir une créature non consentante vers un autre plan. Choisissez une créature à portée et réaliser une attaque de sort de mêlée. Si vous touchez, la créature doit réaliser un jet de sauvegarde de Charisme. Si la créature échoue, elle est transportée vers une localisation aléatoire d'un plan d'existence que vous spécifiez.\n"
+    },
     "Cage de Force": {
         "level": "7",
         "school": "Évocation",
@@ -409,6 +454,25 @@
             "Magicien"
         ],
         "description": "Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste un fey ou un fiélon.\n\nVotre familier agit indépendamment de vous, mais obéit toujours à vos ordres. En combat, il lance sa propre initiative et agit pendant son tour. Un familier ne peut attaquer, mais peut utiliser les autres actions normalement.\n\nLorsque votre familier tombe à 0 point de vie, il disparaît, ne laissant aucune forme physique derrière lui. Il réapparaît lorsque vous lancez à nouveau ce sort. Pour une action, vous pouvez renvoyer temporairement votre familier vers une dimension de poche. Vous pouvez également le renvoyer définitivement. Pour une action alors qu'il est temporairement renvoyé, vous pouvez le faire réapparaître sur n'importe quel emplacement inoccupé à 30 ft. de vous. Lorsque le familier tombe à 0 point de vie ou disparaît vers la dimension de poche, il laisse tomber au sol tout ce qu'il portait.\n\nTant que votre familier se trouve à 100 ft. de vous, vous pouvez communiquer avec lui télépathiquement. De plus, pour une action, vous pouvez voir à travers ses yeux et entendre ce qu'il entend jusqu'au début de votre prochain tour, bénéficiant ainsi des sens spéciaux de votre familier. Pendant ce temps, vous êtes aveugle et sourd par rapport à vos sens.\n\nVous ne pouvez pas avoir plus d'un familier à la fois. Si vous relancez le sort alors que vous avez déjà un familier, vous le faites simplement changer de forme. Choisissez l'une des formes ci-dessus. Votre familier se transforme en la forme choisie.\n\nEnfin, lorsque vous lancez un sort avec une portée de toucher, votre familier peut délivrer le sort comme s'il l'avait lancé. Votre familier doit être à moins de 100 ft. de vous et il doit utiliser sa réaction pour délivrer le sort lorsque vous le lancez. Si le sort requiert un jet d'attaque, **vous** lancez ce jet en utilisant votre modificateur.\n\n\n"
+    },
+    "Châtiment Courroucé": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Wrathful Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit réaliser un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'à ce que le sort se termine. Pour une action, la créature peut réaliser un jet de sauvegarde de Sagesse pour renforcer sa volonté et terminer ce sort.\n"
     },
     "Crâne Hurlant de Gahoul": {
         "level": "1",
@@ -954,6 +1018,26 @@
             "Martyr"
         ],
         "description": "Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit réaliser un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle réalise contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.\n\nLe sort se termine si vous attaquez une autre créature, si vous lancez un sort qui cible une créature hostile autre que la cible, si une créature alliée inflige des dégâts à la cible ou lui lance un sort malfaisant, ou si vous terminez votre tour à plus de 30 ft. de la cible.\n"
+    },
+    "Châtiment Calcinant": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Searing Smite",
+        "status": "finished",
+        "available": [
+            "Paladin",
+            "Ranger"
+        ],
+        "description": "La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme reluit d'une chaleur de l'acier blanc, et l'attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'embrase.\n\nAu début de chacun de ses tours avant que le sort ne termine, la cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle prend 1d6 dégâts de feu. Si elle réussit, le sort se termine. Si la cible ou une créature à 5 ft. de celle-ci utilise son action pour éteindre les flammes, ou si un autre effet les éteint (comme la cible étant plongée dans l'eau), le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
     },
     "Reconstruction Hasardeuse": {
         "level": "1",
@@ -2048,6 +2132,25 @@
         ],
         "description": "Ce sort crée une force invisible, sans forme particulière et sans conscience de taille Moyenne qui réalise de simples tâches à votre demande jusqu'à ce que le sort termine. Le servant surgit dans un espace inoccupé au sol à portée. Il a une CA de 10, 1 point de vie et une force de 2, et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort termine.\n\nUne fois à chacun de vos tours pour une action bonus, vous pouvez mentalement ordonner au servant de se déplacer de 15 ft. et d'interagir avec un objet. Le servant peut réaliser des tâches simples qu'un servant humain peut effectuer, comme récupérer des choses, nettoyer, réparer ou plier des linges, allumer un feu, servir la nourriture ou le vin. Une fois que vous avez donné cet ordre, le servant réalise la tâche du mieux qu'il peut jusqu'à ce qu'elle soit complétée, puis attend votre prochain ordre.\n\nSi vous ordonnez au servant une tâche qui lui demanderait de se déplacer à plus de 60 ft. de vous, le sort se termine.\n"
     },
+    "Châtiment Défiant": {
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Defiant Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, une énergie vengeresse s'échappe de votre arme. L'attaque inflige 1d6 dégâts supplémentaires de force à la cible. De plus, si la cible est une créature, sa capacité à attaquer est réduite. Jusqu'à ce que le sort ne termine, la créature doit réaliser un jet de sauvegarde de Charisme au début de chacun de ses tours. Si elle échoue, la première fois qu'elle touche avec une attaque avant la fin de son tour, elle tombe [[au sol]].\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts de force augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n"
+    },
     "Malédiction des Chaînes": {
         "level": "1",
         "school": "Enchantement",
@@ -2252,6 +2355,25 @@
             "Artificier"
         ],
         "description": "Vous invoquer une chaîne et un crochet faits de force magique, que vous projetez vers une créature ou un espace inoccupé à portée. Lorsque vous ciblez un espace ou une créature de taille TG ou plus, le grapin vous attire vers la cible en ligne droite. Vous provoquez normalement les attaques d'opportunité pour ce déplacement. Lorsque vous ciblez une créature de taille G ou plus petite, vous attirez la cible de jusqu'à 10 ft. vers vous. Une créature peut réaliser un jet de sauvegarde de Force pour résister à ce mouvement.\n"
+    },
+    "Châtiment Tonitruant": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Punishing Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre arme résonne comme un tonnerre audible à 300 ft. et l'attaque inflige 2d6 dégâts de tonnerre supplémentaire à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 de ft. et tomber [[au sol]].\n"
     },
     "Rumeur": {
         "level": "1",
@@ -2640,6 +2762,26 @@
             "Occultiste"
         ],
         "description": "Vous incantez une série d'ordres, faisant appel à la moindre faveur et à la moindre force que vous pouvez mobiliser, vous préparant à briser la réalité. Vous ne pouvez pas vous déplacer pendant que vous lancez ce sort. Chaque créature à portée sait que vous lancez ce sort, est consciente des conséquences et connaît votre position exacte pendant toute la durée de l'incantation.\n\nChoisissez un point que vous pouvez voir à portée. Une sphère de 2 kilomètres de rayon centrée sur ce point éclate en une explosion unique d'un feu indicible. Toute créature, y compris vous, qui peut voir ce point au moment où le sort est lancé est définitivement [[aveuglé|aveuglée]]. Les structures et objets non magiques dans le rayon sont détruits instantanément. Les créatures dans la zone sont mises [[au sol]] et subissent 10d10 dégâts de force, 10d10 dégâts radiants et 10d10 dégâts de feu. Si elles meurent, elles sont réduites en cendres.\n\nUn cratère massif est creusé dans le sol, continuant de brûler d'une énergie malsaine. Toute créature qui commence son tour dans le cratère subit 2d10 dégâts radiants et 1d10 dégâts de feu. Le cratère brûle pendant un mois. Vous subissez immédiatement 5 niveaux d'[[épuisement]] après avoir lancé ce sort, et si cela vous tue, vous ne pouvez être ressuscité par aucun moyen.\n"
+    },
+    "Changement de Forme": {
+        "level": "9",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un diadème de jade d'une valeur d'au moins 1500 po, que vous devez placer sur votre tête avant que vous ne lanciez ce sort",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Shapechange",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Magicien"
+        ],
+        "description": "Vous prenez la forme d'une créature différente pendant la durée du sort. La nouvelle forme peut être celle d'une créature d'un FD égal ou inférieur à votre niveau. La créature ne peut être une Construction ou un Mort-Vivant, et vous devez déjà en avoir vu un individu au moins une fois. Vous vous transformez en un exemplaire _moyen_ de l'individu, un sans aucun niveau de classe ou de trait d'Incantation.\n\nVos statistiques en jeu sont remplacées par celles de la créature, même si vous conservez votre alignement, votre Intelligence, votre Sagesse et votre Charisme. Vous conservez également toutes vos maîtrises de compétence et de jet de sauvegarde, en plus d'obtenir ceux de la créature. Si la créature a une maîtrise identique à vous et que le bonus listé dans ses statistiques est supérieur au vôtre, vous utilisez le bonus de la créature à la place. Vous ne pouvez pas utiliser d'action légendaire ni d'action de repaire lorsque vous êtes dans cette nouvelle forme.\n\nVous utilisez les points de vie et Dés de Vie de la nouvelle forme. Lorsque vous revenez à la normale, vous revenez aux points de vie que vous aviez avant de vous transformer. Si vous revenez à la normale du fait de tomber à 0 point de vie, tous les dégâts restants sont transférés à votre forme normale. Tant que les dégâts restants ne réduisent pas votre forme normale à 0 point de vie, vous ne tombez pas [[inconscient]].\n\nVous conservez les effets de toutes les aptitudes de votre classe, votre race ou de toute autre source et vous pouvez les utiliser, si tant est que votre nouvelle forme soit physiquement capable de le faire. Vous ne pouvez utiliser aucun des sens spéciaux (par exemple, vision dans le noir) que vous possédez sauf si votre nouvelle forme le possède aussi. Vous ne pouvez parler que si la créature parle en temps normal.\n\nLorsque vous vous transformez, vous choisissez si votre équipement tombe au sol, se fusionne à votre nouvelle forme ou est porté par celle-ci. L'équipement porté fonctionne normalement. Le MJ détermine si cela est pratiquement faisable que la nouvelle forme porte une pièce d'équipement. Votre équipement ne change pas de forme ou de taille pour s'accommoder à votre nouvelle forme et tout équipement que votre nouvelle forme ne peut porter doit ou tomber au sol ou se fusionner dans celle-ci. Les équipements fusionnés n'ont aucun effet tant qu'ils sont dans cet état. \n\nPendant la durée du sort, vous pouvez utiliser une action pour prendre une forme différente suivant les mêmes restrictions et règles que la première forme, avec une exception : si la nouvelle forme a plus de points de vie que la forme actuelle, vos points de vie restent à la valeur actuelle.\n\n\n"
     },
     "Arrêt du Temps": {
         "level": "9",
@@ -3576,6 +3718,25 @@
             "Sorcière"
         ],
         "description": "Les vents enveloppent votre corps, tirant sur vos cheveux et vos vêtements et vous soulevant du sol. Vous obtenez une vitesse de vol de 60 ft. De plus, vous avez l'avantage aux jets de caractéristique pour éviter d'être [[saisi]] et aux jets de sauvegarde pour éviter d'être [[retenu]] ou [[paralysé]].\n\nLorsque vous êtes la cible d'un sort ou d'une attaque alors que ce sort fait effet, vous pouvez utiliser votre réaction pour vous téléporter de jusqu'à 60 ft. vers un espace inoccupé que vous pouvez voir. Si ce mouvement vous met hors de portée du sort ou de l'attaque, vous n'êtes pas affecté par ce dernier. Ce sort se termine lorsque vous réapparaissez. "
+    },
+    "Châtiment Punitif": {
+        "level": "5",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Punishing Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée de ce sort, un feu radieux et des ténèbres glaçantes apparaissent à deux côtés opposés de votre arme. L'attaque inflige 2d10 dégâts nécrotiques ainsi que 2 10 dégâts radiants supplémentaires à la cible. De plus, si la cible est une créature, un jugement s'abat sur eux, la laissant vulnérable aux attaques. À chaque fois que la cible subit des dégâts d'une attaque avant la fin du sort, elle subit 1d10 dégâts supplémentaires de force.\n"
     },
     "Verrou Mystique": {
         "level": "5",
@@ -5154,6 +5315,32 @@
         ],
         "description": "Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :\n\n - Vous causez toutes les bougies, torches et autres flammes à s'assombrir et vaciller.\n - Vous créez un faible son qui vient d'un point de votre choix à portée, comme de sinistres murmures, le bourdonnement d'un insecte ou un bruit de pleurs.\n - Vous créez jusqu'à quatre orbes spectraux et brillants, de la taille d'une torche, qui flottent à portée. Ces orbes ne créent pas de lumière si ce n'est un très léger scintillement.\n - Vous pouvez refroidir ou réchauffer de 5° l'air dans un cube de 10 ft. de côté.\n - Vous pouvez faire en sort que de petits objets au sol se mettent à trembler ou légèrement léviter.\n\nSI vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois de ces effets actifs en même temps, et vous pouvez terminer l'un de ces effets avec une action.\n"
     },
+    "Chanson d'Encouragement": {
+        "level": "0",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Cheerful Song",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous chantez un petit air joyeux, remontant le moral de jusqu'à trois créatures que vous pouvez voir à portée. Les créatures affectées gagnent 1 point de vie temporaire et peuvent ajouter un bonus de +1 à leur prochain jet d'attaque, de sauvegarde ou de caractéristique qu'elles réalisent avant le début de votre prochain tour.\n"
+    },
     "Étincelle de Vie": {
         "level": "0",
         "school": "Nécromancie",
@@ -5917,6 +6104,25 @@
         ],
         "description": "Lancez un d2 à la fin de chacun de vos tours pour la durée du sort. Sur un résultat de 11 ou supérieur, vous disparaissez de votre plan de l'existence actuel et apparaissez sur le Plan Éthéré (le sort échoue et l'incantation est perdue si vous êtes déjà sur ce plan). Au début de votre prochain tour, et si le sort se termine lorsque vous vous trouvez sur le Plan Éthéré, vous revenez à un espace inoccupé de votre choix que vous pouvez voir à moins de  10 ft. de l'endroit d'où vous avez disparu. Si aucun emplacement n'est disponible à portée, vous réapparaissez dans l'espace le plus proche (déterminé au hasard si plusieurs sont équidistants). Vous pouvez dissiper ce sort avec une action.\n\nTant que vous êtes sur le Plan Éthéré, vous pouvez voir et entendre le plan d'où vous venez, en nuances de gris, et vous ne pouvez voir à plus de 60 ft. de vous. Vous ne pouvez affecter et n'être affecté que par d'autres créatures sur le Plan Éthéré. Les créatures qui n'y sont pas ne peuvent ni vous percevoir, ni interagir avec vous, sauf si elles en ont les capacités.\n"
     },
+    "Châtiment Permanent": {
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Irreversible Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, des ombres cruelles se déversent de votre arme vers les blessures de la cible. L'attaque inflige 3d6 dégâts nécrotiques à la cible. De plus, si la cible est une créature, sa chair nécrose et refuse de se réparer. Jusqu'à ce que le sort ne termine, la cible ne peut pas regagner de points de vie.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts nécrotiques augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.\n"
+    },
     "Séance": {
         "level": "3",
         "school": "Nécromancie",
@@ -6069,6 +6275,30 @@
             "Magicien"
         ],
         "description": "Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle prend 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle réalise avant le début de son prochain tour. Sur un jet réussi, la cible ne prend que la moitié des dégâts.\n\n**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, les dégâts augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.\n"
+    },
+    "Cœur Noirci": {
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Blackened Heart",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous tendez la main vers une créature vivante que vous pouvez voir. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, son corps s'emplit d'un vil poison et elle subit 10d6 dégâts de poison au début de son prochain tour. Si la cible est réduite à 0 points de vie avant le début de son prochain tour, le poison explose et érupte en une douche de bile. Les créatures dans un rayon de 10 ft. de la cible doivent réaliser un jet de sauvegarde de Dextérité. Si elle échoue, une créature subit 10d6 dégâts de poison, ou la moitié en cas de jet réussit.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de chaque phase du sort augmentent de 2d6 par niveau d'emplacement au-delà du niveau 3.\n"
     },
     "Châtiment Aveuglant": {
         "level": "3",
@@ -6262,6 +6492,27 @@
             "Barde"
         ],
         "description": "Vous lancez une imprécation et repoussez par votre volonté les magies curatives de la nature et des dieux. Chaque fois qu'une créature à 60 ft. devrait regagner des points de vie grâce à un sort, elle doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle ne regagne pas de points de vie et prend à la place 1d6 dégâts psychiques. Vous pouvez terminer ce sort prématurément pour une action.\n"
+    },
+    "Clairvoyance": {
+        "level": "3",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un focalisateur valant au moins 100 po, soit une corne d'ouïe en joyaux  soit un œil de verre",
+        "Durée": "10 Minutes",
+        "Incantation": "10 Minutes",
+        "Portée": "2 kilomètres",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Clairvoyance",
+        "status": "finished",
+        "available": [
+            "Investigateur",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué ou interagit avec.\n\nLorsque vous lancez ce sort, vous choisissez la vue ou l'ouïe. Vous pouvez utiliser le sens choisi à travers le senseur comme si vous vous trouviez dans son espace. Pour une action, vous pouvez choisir entre la vue et l'ouïe. Une créature qui peut voir le senseur (comme une créature bénéficiant d'un sort de [[vision de l'invisible]] ou d'une vraie vision) peut voir un orbe lumineux et intangible d'à peu près la taille de votre poing.\n"
     },
     "Tentacules Aquatiques": {
         "level": "4",
@@ -6564,6 +6815,25 @@
         ],
         "description": "Vous purgez les effets d'invisibilité magique dans un rayon de 120 ft. autour de vous. Toute créature, objet, emplacement ou effet à 120 ft. de vous qui est caché par une invisibilité magique est révélé et l'invisibilité est dissipée.\n\nCe sort s'applique aux capacités innées qui sont magiques par nature, comme l'Invisibilité d'un diablotin, mais il n'affecte pas les créatures sur d'autres plans de l'existence, comme sur le Plan Ethéré. Il ne révèle également pas les créatures qui sont naturellement invisibles. Les objets qui confère l'invisibilité voient leurs effets étouffés pendant 1 minute.\n"
     },
+    "Châtiment Débilitant": {
+        "level": "4",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Staggering Smite",
+        "status": "finished",
+        "available": [
+            "Paladin"
+        ],
+        "description": "La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme pénètre le corps comme l'esprit, et l'attaque inflige 4d6 dégâts psychiques supplémentaires à la cible. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle a le désavantage aux jets d'attaque et de caractéristique ainsi que l'incapacité de prendre des réactions, jusqu'à la fin de son prochain tour.\n"
+    },
     "Abri d'Ombre": {
         "level": "4",
         "school": "Illusion",
@@ -6737,6 +7007,25 @@
         ],
         "description": "De fines et crépitantes flammes enveloppent votre corps pendant la durée du sort, émettant une lumière vive sur 10 ft. et une lumière faible sur 10 ft. supplémentaire. Vous pouvez terminer le sort prématurément en utilisant une action pour le dissiper.\n\nLes flammes vous prodiguent, au choix, un bouclier de chaleur ou de frisson. Le bouclier de chaleur vous confère la résistance aux dégâts de froid tandis que le bouclier de frisson vous confère la résistance aux dégâts de feu.\n\nDe plus, lorsqu'une créature à 5 ft. de vous est touchée par une attaque de mêlée, le bouclier s'embrase. L'attaquant prend 2d8 dégâts de feu d'un bouclier de chaleur ou 2d8 dégâts de froid d'un bouclier de frisson."
     },
+    "Chanson Discordante": {
+        "level": "4",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Shattersong",
+        "status": "finished",
+        "available": [
+            "Barde"
+        ],
+        "description": "Vous chantez une chanson discordante imprégnée de pouvoir magique. Lorsque vous lancez ce sort, les vibrations que vous causez commencent à déformer la réalité dans un rayon de 10 ft. centré sur vous. Les créatures que vous choisissez ainsi que les objets sans surveillance dans la zone prennent 2d6 dégâts de tonnerre et les créatures doivent réaliser un jet de sauvegarde de Force. En cas d'échec, elles tombent [[au sol]].\n\nPour une action à chacun de vos tours tant que vous maintenez la concentration sur ce sort, vous pouvez renforcer votre chanson, répétant les effets tout en augmentant le rayon de 10 ft. et les dégâts de 2d6 à chaque itération. La distance affectée et les dégâts infligés ne peuvent excéder un rayon de 30 ft. et 6d6 dégâts de tonnerre.\n"
+    },
     "Intensification de la Gravité": {
         "level": "4",
         "school": "Transmutation",
@@ -6901,6 +7190,30 @@
             "Clerc"
         ],
         "description": "Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.\n"
+    },
+    "Charme-monstre": {
+        "level": "4",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Charm Monster",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Druide",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit réaliser un jet de sauvegarde de Sagesse, qu'elle réalise avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[charmé|charmée]] par vous jusqu'à ce que le sort ne termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature charmée est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement supplémentaire au-delà du niveau 4. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.\n"
     },
     "Cage d'Épines": {
         "level": "4",
@@ -7328,6 +7641,25 @@
             "Martyr"
         ],
         "description": "Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dragon, en retournant des cartes ornées ou en usant d'autres outils divinatoires, vous recevez un présage de la part d'une entité surnaturelle à propos du résultat des actions que vous planifiez d'entreprendre au cours des 30 prochaines minutes. Le MJ choisit de répondre à l'aide des présages suivants :  \n\n• **Fortune,** l'action a de bonnes chances d'être bénéfique\n• **Péril,** l'action aura des répercussions néfastes\n• **Péril et fortune,** les deux sont possibles\n• **Rien,** dans le cas où l'action ne devrait pas avoir de conséquences favorables ou néfastes\n\nLe sort ne considère pas les circonstances qui pourraient changer l'issue de la divination, comme l'incantation additionnelle de sorts ou la perte ou le gain d'un nouveau compagnon.  \nSi vous incantez le sort plus d'une fois avant la fin de votre prochain repos long, il y a une probabilité cumulative de 25% de recevoir une réponse aléatoire, et ce, à chaque incantation après la première. Le MJ fait ce jet en secret.\n"
+    },
+    "Chasse Diabolique": {
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un tout petit trident en argent",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Devilish Hunt",
+        "status": "finished",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perçants et doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.\n\nTant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, prenant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perçants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.\n"
     },
     "Bouclier Répulsif": {
         "level": "2",
