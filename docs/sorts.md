@@ -727,7 +727,7 @@ spells: "true"
 | Lightning Shard                      | [[Éclat d'Éclair]]                        |
 | Luring Light                         | [[Lumière Séduisante]]                    |
 | Malice of Arachia                    | [[Malice de l'Araignée]]                  |
-| Masterful Focus                      | [[Concentration Surhumaine]]              |
+| Masterful Focus                      | [[Hyperfocus]]              |
 | Mark of Objection                    | [[Marque de Prévention]]                  |
 | Mend Flesh                           | [[Réparation de la Chair]]                |
 | Nemesis                              | [[Némésis]]                               |

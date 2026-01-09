@@ -10,7 +10,7 @@ Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une é
 
 ## Techniques du Clair de Lune
 
-Également au niveau 3, vos méditations vous ont permis de débloquer les pouvoirs de votre lame du vide, et vous pouvez canaliser votre ki pour les activer. Vous pouvez dépenser 1 point de ki pour lancer [[assaut du lotus noir]], [[pas discret]], [[bond mortel de l'araignée]] ou [[concentration surhumaine]] sans avoir à dépenser de composantes matérielles.
+Également au niveau 3, vos méditations vous ont permis de débloquer les pouvoirs de votre lame du vide, et vous pouvez canaliser votre ki pour les activer. Vous pouvez dépenser 1 point de ki pour lancer [[assaut du lotus noir]], [[pas discret]], [[bond mortel de l'araignée]] ou [[Hyperfocus]] sans avoir à dépenser de composantes matérielles.
 
 ## Acolyte du Soleil Perdu
 
