@@ -80,6 +80,27 @@
         ],
         "description": "Vous créez un feu magique qui emplit dix cubes de 5 ft. de côté, que vous arrangez comme vous le souhaitez à portée. Chaque cube que vous placez doit avoir une face en commun avec un autre cube. A chacun de vos tours après avoir lancé ce sort, vous pouvez utiliser une action bonus pour étendre la zone de feu de jusqu'à 10 cubes de feu suivant les même règles. Le feu endommage les objets dans la zone et met le feu aux objets inflammables qui ne sont ni portés ni maniés.\n\nLorsqu'une créature entre dans la zone de feu pour la première fois ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle prend 8d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.\n"
     },
+    "Contre-Courant": {
+        "level": "8",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Undertow",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Occultiste"
+        ],
+        "description": "Vous ouvrez un portail vers les abysses océaniques sous les pieds d'une créature que vous pouvez voir à portée, qui essaye de s'emparer de la cible avant de se refermer aussitôt. La cible doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle tombe dans le portail et est immédiatement tirée de 60 ft. vers le bas par un fort courant. Elle commence à se noyer, et doit réaliser un jet de sauvegarde de Constitution au début de chacun de ses tours. Chaque tour où elle rate le jet, la créature obtient un niveau d'[[épuisement]]. Une créature ne peut pas se déplacer normalement tant qu'elle se trouve dans ces abysses. À la place, elle doit utiliser son action pour essayer de remonter. La créature doit réaliser un jet de Force (Athlétisme) contre votre DD de sauvegarde de sort. Si elle réussit, elle nage de 20 ft. vers la surface. Si elle atteint la surface ou que vous perdez la concentration sur ce sort, le sort se termine et la créature se fait éjecter vers le point dont elle a disparu, sur lequel elle arrive [[au sol]]. Si la créature meurt, son corps ne remonte pas.\n"
+    },
     "Carnage": {
         "level": "8",
         "school": "Évocation",
@@ -3325,6 +3346,26 @@
             "Nécromancien"
         ],
         "description": "Vous prélevez le sang de la fiole ou du corps et le projetez sur le parchemin. Les gouttes de sang se rassemblent afin de former une carte claire des endroits que le précédent propriétaire du sang a exploré le mois dernier. Le chemin parcouru par la créature est mis en avant et le temps passé dans chaque lieu est indiqué par l'épaisseur de la goutte de sang. La carte-sang sèche en une minute et devient permanente et impossible à dissiper.\n"
+    },
+    "Contamination": {
+        "level": "6",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Harm",
+        "status": "finished",
+        "available": [
+            "Nécromancien",
+            "Clerc"
+        ],
+        "description": "Vous libérez une maladie virulente sur une créature que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle prend 14d6 dégâts nécrotiques, et la moitié en cas de succès. Les dégâts ne peuvent pas réduire les points de vie de la créature en dessous de 1. Si la cible échoue le jet de sauvegarde, ses points de vie maximums sont réduits du montant de dégâts infligés pendant 1 heure. N'importe quel effet qui retire une maladie retourne le maximum de points de vie à la normale avant que l'heure ne s'écoule.\n"
     },
     "Contrat": {
         "level": "5",
