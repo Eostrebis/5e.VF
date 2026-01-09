@@ -6795,6 +6795,27 @@
         ],
         "description": "Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué ou interagit avec.\n\nLorsque vous lancez ce sort, vous choisissez la vue ou l'ouïe. Vous pouvez utiliser le sens choisi à travers le senseur comme si vous vous trouviez dans son espace. Pour une action, vous pouvez choisir entre la vue et l'ouïe. Une créature qui peut voir le senseur (comme une créature bénéficiant d'un sort de [[vision de l'invisible]] ou d'une vraie vision) peut voir un orbe lumineux et intangible d'à peu près la taille de votre poing.\n"
     },
+    "Contresort": {
+        "level": "3",
+        "school": "Abjuration",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portée": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Counterspell",
+        "status": "finished",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Comme réaction lorsqu'une créature que vous pouvez voir à 60 ft. lance un sort, vous pouvez essayer d'interrompre le processus d'incantation de la créature. Si la créature lance un sort de niveau 3 ou moins, le sort échoue et n'a aucun effet. Si elle lance un sort un de niveau 4 ou plus, réalisez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et n'a aucun effet.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal au niveau de l'emplacement que vous avez utilisé.\n"
+    },
     "Communication à Distance": {
         "level": "3",
         "school": "Évocation",
