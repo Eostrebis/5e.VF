@@ -3474,6 +3474,26 @@
         ],
         "description": "Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit réaliser un jet de sauvegarde de Constitution. Une créature prend 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.\n"
     },
+    "Contact avec un Autre Plan": {
+        "level": "5",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Minute",
+        "Portée": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Contact Other Plane",
+        "status": "finished",
+        "available": [
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous contactez mentalement un demi-dieu, l'esprit d'un sage depuis longtemps disparu ou toute autre entité mystérieuse d'un autre plan. Contacter cette intelligence extraplanaire peut épuiser, voire même briser votre esprit. Lorsque vous lancez ce sort, réalisez un jet de sauvegarde d'Intelligence DD 15. Si vous échouez, vous prenez 6d6 dégâts psychiques et êtes fou jusqu'à ce que vous terminiez un repos long. Tant que vous êtes fou, vous ne pouvez pas prendre d'action, ne pouvez pas comprendre ce que les autres créatures vous disent, ne pouvez pas lire et ne pouvez parler qu'en charabia. Un sort de [[restauration supérieure]] lancé sur vous permet de terminer cet effet.\n\nSi vous réussissez le jet, vous pouvez demander à l'entité jusqu'à cinq questions. Vous devez poser les questions avant que le sort ne se termine. Le MJ répond à chacune des questions avec un seul mot, comme \"oui\", \"non\", \"peut-être\", \"jamais\", \"inapplicable\", \"ambigu\" (si l'entité ne connaît pas la réponse à la question). Si une réponse en un seul mot serait encline au quiproquo, le MJ peut décider de fournir une phrase court comme réponse à la place.\n"
+    },
     "Coquille Antivie": {
         "level": "5",
         "school": "Abjuration",
@@ -3720,6 +3740,28 @@
             "Magicien"
         ],
         "description": "Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pour la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.\n\nLorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit réaliser un jet de sauvegarde de Constitution. La créature prend 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.\n\nLe brouillard s'éloigne de vous de 101 ft. au début de chacun de vos tours, suivant la surface du sol. Les vapeurs, plus lourdes que l'air, _coulent_ et se déversent dans les ouvertures.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.\n\n\n"
+    },
+    "Contagion": {
+        "level": "5",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "7 Jours",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Contagion",
+        "status": "finished",
+        "available": [
+            "Sorcière",
+            "Nécromancien",
+            "Clerc",
+            "Druide"
+        ],
+        "description": "Votre toucher inflige une maladie. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible est [[empoisonné|empoisonnée]].\n\nÀ la fin de chacun des tours de la créature empoisonnée, la cible doit réaliser un jet de sauvegarde de Constitution. Si elle réussit trois de ces jets, elle n'est plus [[empoisonné|empoisonnée]] et le sort se termine. Si la cible échoue trois de ces jets, la cible n'est plus [[empoisonné|empoisonnée]], mais vous choisissez l'une des maladies ci-dessous. La cible contracte la maladie choisie pour la durée du sort.\n\nPuisque ce sort inflige une maladie naturelle à sa cible, tout effet qui permet de retirer une maladie ou d'empirer les effets d'une maladie s'applique ici.\n\n - __Maladie Aveuglante.__ Une douleur se saisit de l'esprit de la créature et ses yeux deviennent d'un blanc vitreux. La créature a le désavantage à ses jets de caractéristique et de sauvegarde de Sagesse et est [[aveuglé|aveuglée]].\n - __Sale Fièvre.__ Une fièvre brûlante s'empare du corps de la créature. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Force.\n - **Pourrissement de la Chair.** La chair de la créature commence à nécroser. La créature a le désavantage aux jets de Charisme et est vulnérable à tous les dégâts.\n - **Brûle-Esprit.** L'esprit de la créature devient fiévreux. La créature a le désavantage aux jets de caractéristique et de sauvegarde d'Intelligence, et la créature agit comme si elle était sous l'effet du sort [[confusion]] pendant les combats.\n - **Convulsion.** La créature est prise de tremblements. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Dextérité.\n - **Destin Visqueux.** La créature commence à saigner abondamment. La créature a le désavantage aux jets de caractéristique et de sauvegarde de Constitution. De plus, à chaque fois que la créature subit des dégâts, elle est [[sonné|sonnée]] jusqu'à la fin de son prochain tour.\n"
     },
     "Apparence Trompeuse": {
         "level": "5",
