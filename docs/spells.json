@@ -1635,6 +1635,28 @@
         ],
         "description": "Vous prononcez une prière pour guider votre projectile, faisant courber sa trajectoire pour qu'il touche sa cible. La prochaine attaque armée à distance que vous réalisez avant que le sort ne termine a l'avantage et voit sa portée doubler.\n"
     },
+    "Hyperfocus": {
+        "level": "1",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Matériel": "true",
+        "detailmat": "Un grain de riz Thalynn d'une valeur de 1 pa, que le sort consomme",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Masterful Focus",
+        "status": "finished",
+        "available": [
+            "Ranger",
+            "Ensorceleur",
+            "Magicien",
+            "Investigateur"
+        ],
+        "description": "Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. Jusqu'à ce que le sort termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, l'intervalle dans lequel vous infligez un coup critique croît de 1 (17-20, 16-20, et ainsi de suite) par niveau d'emplacement au-delà du niveau 1.\n"
+    },
     "Bond Temporel": {
         "level": "1",
         "school": "Conjuration",
@@ -3431,6 +3453,27 @@
         ],
         "description": "Votre magie vient approfondir chez une créature la compréhension de son propre talent. Vous touchez une créature consentante et lui conférez l'expertise dans une compétence de votre choix ; jusqu'à ce que le sort ne termine, la créature double son bonus de maîtrise pour les jets de caractéristique qu'elle réalise en utilisant la compétence choisie.\n\nVous devez choisir une compétence que la cible maîtrise et pour laquelle elle ne bénéficie pas déjà d'un effet, comme Expertise, qui double son bonus de maîtrise.\n"
     },
+    "Cône de Froid": {
+        "level": "5",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Un petit cône en cristal ou en verre",
+        "Durée": "Instantanée",
+        "Incantation": "1 Action",
+        "Portée": "Personnelle (cône de 60 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Cone of Cold",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit réaliser un jet de sauvegarde de Constitution. Une créature prend 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.\n"
+    },
     "Coquille Antivie": {
         "level": "5",
         "school": "Abjuration",
@@ -3614,6 +3657,29 @@
             "Nécromancien"
         ],
         "description": "Pour lancer ce sort, vous dessinez un cercle de 10 ft. de diamètre au sol inscrit avec des sigils qui lient votre localisation avec celle d'un cercle de téléportation permanent de votre choix dont vous connaissez la séquence de sigils et qui se trouve sur le même plan. Un portail vibrant s'ouvre à l'intérieur du cercle que vous avez dessiné et reste ouvert jusqu'à la fin de votre prochain tour. N'importe quelle créature qui passe au travers du portail réapparait instantanément à 5 ft. du cercle d'arrivée ou sur l'emplacement inoccupé le plus proche.\n\nLa plupart des temples et guildes majeurs ainsi que les endroits importants disposent de cercles de téléportation permanents quelque part dans leurs prémices. Chacun de ces cercles dispose d'une séquence de sigils unique — une série de runes magiques arrangées suivant un ordre particulier. Lorsque vous gagnez la capacité de lancer ce sort, vous apprenez la séquence de sigils de deux destinations sur le Plan Matériel, choisies par le MJ. Vous pouvez apprendre d'autres séquences de sigils pendant votre aventure. Vous pouvez vous souvenir d'une séquence après l'avoir étudiée durant 1 minute.\n\nVous pouvez créer un cercle de téléportation permanent en lançant ce sort au même emplacement tous les jours pendant un an. Vous ne devez pas utiliser le cercle pour vous téléporter lorsque vous essayez de créer un cercle de téléportation permanent de cette manière.\n"
+    },
+    "Constriction": {
+        "level": "5",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "Touché",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Constriction",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Ranger",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Votre corps devient étrangement ophidien et vous frappez devant vous, essayant de saisir une créature à portée. Réalisez une attaque de sort de mêlée. Si vous touchez, vous saisissez votre cible en utilisant le membre que vous avez utilisé pour attaquer et la serrez, lui infligeant 5d10 dégâts contondants. Jusqu'à ce que le sort se termine, la créature saisie est également [[retenu|retenue]]. Pour une action bonus à chacun de vos tours suivants, tant que vous retenez la créature, vous pouvez continuer de l'écraser. La créature doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle subit 5d10 dégâts contondants supplémentaires. Si la cible échappe la saisie, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, chaque instance de dégâts contondants augmente de 1d10 par niveau d'emplacement utilisé au-delà du niveau 5.\n"
     },
     "Ailes de la Nuit": {
         "level": "5",
@@ -7120,6 +7186,29 @@
             "Artificier"
         ],
         "description": "Vous touchez une créature consentante. Pendant la durée du sort, les mouvement de la cible ne sont pas affectés par le terrain difficile, et les sorts et autres effet magiques ne peuvent ni réduire sa vitesse, ni la rendre [[paralysé|paralysée]] ou [[retenu|retenue]].\n\nLa cible peut aussi dépenser 5 pieds de mouvement pour se libérer automatique de restreintes non magiques, comme des menottes ou une lutte par une autre créature. Enfin, être sous l'eau n'impose aucune pénalité aux mouvements ou attaque de la cible.\n"
+    },
+    "Confusion": {
+        "level": "4",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Trois coquilles de noix",
+        "Durée": "1 Minute",
+        "Incantation": "1 Action",
+        "Portée": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Confusion",
+        "status": "finished",
+        "available": [
+            "Barde",
+            "Druide",
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Ce sort agresse et perturbe les esprits des créatures, faisant apparaître hallucinations et provoquant des actions incontrôlées. Chaque créature dans un rayon de 10 ft. autour d'un point que vous choisissez à portée doit réussir un jet de sauvegarde de Sagesse ou être affectée par ce sort.\n\nUne créature affectée ne peut pas prendre de réactions et doit lancer un d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.\n\n| d10  | Comportement                                                                                                                                                                                                                |\n| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 1    | La créature utilise tout son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer la direction, lancez un d8 et assignez une direction à chaque face du dé. La créature ne prend aucune action ce tour. |\n| 2-6  | La créature ni ne bouge ni prend d'action ce tour.                                                                                                                                                                          |\n| 7-8  | La créature utilise son action pour réaliser une attaque de mêlée contre une créature aléatoire à portée. S'il n'y a aucune créature à portée, la créature ne fait rien ce tour.                                            |\n| 9-10 | La créature agit et se déplace normalement.                                                                                                                                                                                 |\nÀ la fin de chacun de ses tours, une créature affectée peut réaliser un jet de sauvegarde de Sagesse. Si elle réussit, l'effet se termine pour cette cible. \n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le rayon de la sphère augmente de 5 ft. par niveau d'emplacement utilisé au-delà du niveau 4."
     },
     "Cape Pourpre": {
         "level": "4",
