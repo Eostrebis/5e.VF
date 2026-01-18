@@ -3761,6 +3761,27 @@
         ],
         "description": "Vous faites apparaître de larges ailes de brume, de fumée et d'ombre qui s'attachent à votre dos et suivent votre commandement, vous conférant une vitesse de vol de 60 ft. et vous obscurcissant légèrement. Pour une action tant que vous avez ces ailes, vous pouvez choisir de libérer leur pouvoir, terminant le sort et déchaînant une vague d'énergie cauchemardesque. Les créatures à 30 ft. de vous doit réaliser un jet de sauvegarde de Charisme. Si une créature échoue, elle prend 6d10 dégâts psychiques et est [[apeuré|apeurée]] jusqu'à la fin de votre prochain tour. Elle ne prend que la moitié des dégâts et n'est pas apeurée si elle réussit le jet.\n"
     },
+    "Contrôle des Vents": {
+        "level": "5",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "false",
+        "detailmat": "",
+        "Durée": "1 Heure",
+        "Incantation": "1 Action",
+        "Portée": "300 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Control Winds",
+        "status": "finished",
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous prenez contrôles sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pour la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.\n\n**Bourrasques.** Le vent se lève dans le cube, soufflant continuellement dans une direction horizontale de votre choix. Vous pouvez choisir l'intensité des bourrasques : calmes, modérées ou intenses. Si les vents sont modérés ou intenses, les attaques armées à distance qui traversent la zone ou sont réalisées contre des cibles dans le cube ont le désavantage à leurs jets d'attaque. Si le vent est intense, toute créature se déplaçant contre le vent doit dépenser une case de mouvement supplémentaire par case déplacée.\n\n**Courant Descendant.** Vous provoquez un appel d'air persistant du haut vers le bas du cube. Les attaques armées à distance qui traversent le cube ou sont réalisées contre des cibles ont le désavantage à leurs jets d'attaque. Une créature qui vole dans le cube pour la première fois pendant un tour ou y commence son tour doit réaliser un jet de sauvegarde de Force. Si elle échoue, la créature est mise [[au sol]].\n\n**Courant Ascendant.** Vous provoquez un appel d'air chaud à l'intérieur du cube, s'élevant depuis la paroi inférieure du cube. Les créatures qui terminent une chute dans le cube ne prennent que la moitié des dégâts de la chute. Lorsqu'une créature dans le cube réalise un saut vertical, la créature saute 10 ft. plus haut que d'ordinaire.\n"
+    },
     "Brume Mortelle": {
         "level": "5",
         "school": "Conjuration",
@@ -7094,6 +7115,27 @@
             "Nécromancien"
         ],
         "description": "De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit réaliser un jet de sauvegarde de Constitution. La cible prend 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.\n\nSi la cible est une créature botanique ou une plante magique, elle réalise le jet de sauvegarde avec désavantage, et le sort lui inflige les dégâts maximaux.\n\nSi vous ciblez une plante non magique qui n'est pas une créature, comme un arbre ou un buisson, elle ne réalise pas de jet de sauvegarde, elle fane et meurt.\n\n**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement de sort au delà du niveau 4.\n"
+    },
+    "Contrôle de l'Eau": {
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Matériel": "true",
+        "detailmat": "Une goutte d'eau et une pincée de poussière",
+        "Durée": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portée": "300 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Control Water",
+        "status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Magicien"
+        ],
+        "description": "Jusqu'à ce que le sort se termine, vous contrôlez l'eau libre de son mouvement dans une zone que vous choisissez qui est un cube de 100 ft. de côté. Vous pouvez choisir n'importe lequel des effets suivants lorsque vous lancez ce sort. Pour une action pendant votre tour, vous pouvez répéter cet effet ou en choisir un autre.\n\n**Inondation.** Vous faites monter le niveau de l'eau stagnante dans la zone de jusqu'à 20 ft. Si la zone inclut une rive, l'inondation se déverse sur la terre. Si vous choisissez une zone comprise dans un large plan d'eau, vous pouvez à la place créer des vagues hautes de 20 ft. qui voyagent d'un côté à l'autre du cube avant de s'écraser. Tout véhicule de taille TG ou inférieure sur la route d'une vague se fait transporter avec jusqu'à l'autre côté. Tout véhicule de taille TG ou inférieure frappé par une vague a 25 % de chance de se renverser. Le niveau de l'eau reste élevé jusqu'à ce que le sort se termine ou que vous choisissiez un autre effet. Si cet effet a produit une vague, la vague se répète au début de chacun de vos tours tant que l'effet d'inondation persiste.\n\n**Séparation des Eaux.** Vous faites se déplacer les eaux de la zone et créez une tranchée. La tranchée traverse la zone du sort et les quantités d'eau séparées créent des murs de chaque côté. La tranchée persiste jusqu'à la fin du sort ou que vous choisissiez un effet différent. L'eau se déverse alors lentement dans la tranchée au cours du prochain tour jusqu'à ce que le niveau d'eau revienne à la normale.\n\n**Redirection du Courant.** Vous redirigez le courant et l'eau mouvante dans la direction de votre choix, même si l'eau doit couler par-dessus des obstacles, au-dessus de murs ou dans d'autres directions improbables. L'eau dans la zone se déplace comme vous lui ordonnez, mais une fois qu'elle sort de la zone, elle reprend un courant logique en fonction des conditions environnantes. L'eau continue à se déplacer dans la direction que vous choisissez jusqu'à ce que le sort se termine ou que vous choisissiez un autre effet.\n\n**Tourbillon.** Cet effet requiert un plan d'eau d'au moins 50 ft.² (5 m²) et profond d'au moins 25 ft. Vous faites apparaître un tourbillon au centre de la zone. Le tourbillon forme un vortex large de 5 ft. à sa base, de jusqu'à 50 ft. à son apogée et haut de 25 ft. Toute créature ou objet dans l'eau et à 25 ft. du vortex est attirée de 10 ft. dans sa direction. Une créature peut nager pour s'éloigner du vortex en réaliser un jet de Force (Athlétisme) contre votre DD de sauvegarde de sort.\n\nLorsqu'une créature entre dans le vortex pour la première fois pendant un tour ou qu'elle y commence son tour, elle doit réaliser un jet de sauvegarde de Force. Si elle échoue, la cible prend 2d8 dégâts contondants et est coincée dans le vortex jusqu'à ce que le sort termine. Si elle réussit, la créature subit la moitié des dégâts et n'est pas coincée dans le vortex. Une créature coincée dans le vortex peut utiliser son action pour nager et s'éloigner du vortex, mais a le désavantage à son jet de Force (Athlétisme) pour ce faire.\n\nLa première fois chaque tour qu'un objet entre dans le vortex, l'objet prend 2d8 dégâts contondants. Ces dégâts se répètent à chaque tour où l'objet reste dans le vortex."
     },
     "Œil Magique": {
         "level": "4",
