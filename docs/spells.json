@@ -1880,8 +1880,8 @@
         "Duree": "Instantanée",
         "Incantation": "1 Réaction",
         "Portee": "Touché",
-        "Concentration": "",
-        "Rituel": "",
+        "Concentration": "false",
+        "Rituel": "false",
         "englishname": "Falling Spider's Spite",
         "writing_status": "finished",
         "available": [
@@ -6239,7 +6239,7 @@
         "Incantation": "1 Action",
         "Portee": "60 ft.",
         "Concentration": "false",
-        "Rituel": "",
+        "Rituel": "false",
         "englishname": "Funeral Pyre",
         "writing_status": "finished",
         "available": [
@@ -6941,6 +6941,29 @@
             "Magicien"
         ],
         "description": "Choisissez une créature de taille au plus G au sol à portée. La terre s'ouvre sous cette créature et essaye de l'avaler. La cible doit réaliser un jet de sauvegarde de Force ou être [[retenu|retenue]] pendant la durée du sort. De plus, si la cible échoue le jet, elle commence à couler dans le sol.\n\nUne cible retenue, ou n'importe quelle créature à 5 ft., peut essayer de libérer la cible en utilisant une action pour réaliser un jet de Force contre votre DD de sauvegarde de sort. La cible a le désavantage à ce jet de Force. Le sort se termine lorsque la cible est libérée.\n\nA la fin du tour de la cible, elle s'enfonce plus profondément dans le sol. Une créature de taille P ou plus petite coule complètement au bout de 2 tours, tandis qu'une créature de taille M met 3 tours et une créature de taille G en met 4. Si la cible est complètement sous le sol, elle commence à suffoquer.\n"
+    },
+    "Convocation d'Élémentaire": {
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "De l'air, un gravier, des cendres et de l'eau dans un fiole plaquée d'or d'une valeur d'au moins 400 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Elemental",
+        "writing_status": "finished",
+        "tags": "",
+        "available": [
+            "Sorcière",
+            "Druide",
+            "Magicien",
+            "Ranger"
+        ],
+        "description": "Vous appelez un esprit élémentaire. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Élémentaire]]. Lorsque vous lancez ce sort, choisissez un élément : Air, Terre, Feu ou Eau. La créature prend une forme bipède, enveloppée de l'élément choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Éviter et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n\n\n"
     },
     "Accord Tacite": {
         "level": "4",
