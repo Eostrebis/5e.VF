@@ -5,25 +5,21 @@ on:
     types:
       - completed
 permissions:
-  contents: read
-  pages: write
-  id-token: write
+  contents: write
 jobs:
   deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/configure-pages@v5
-      - uses: actions/checkout@v5
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v4.1.1
+      - uses: actions/setup-python@v5.0.0
         with:
           python-version: 3.x
-      - run: pip install zensical
-      - run: zensical build --clean 
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/cache@v4
         with:
-          path: site
-      - uses: actions/deploy-pages@v4
-        id: deployment
+          key: ${{ github.ref }}
+          path: .cache
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-roamlinks-eostrebis-plugin
+      - run: pip install mkdocs-callouts
+      # - run: pip install mkdocs-mermaid2-plugin
+      - run: mkdocs gh-deploy --force
