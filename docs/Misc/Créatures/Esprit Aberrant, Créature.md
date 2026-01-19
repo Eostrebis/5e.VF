@@ -11,7 +11,7 @@ ___
 ___
 **Immunités aux dégâts** psychique  
 **Sens** vision dans le noir 60 ft., Perception passive 10  
-**Langues** commun  
+**Langues** Profond, comprend les langues que vous parlez
 **Bonus de maîtrise** Égal au vôtre
 ___
 ***Régénération (Slaad seulement)***. L'aberration regagne 5 points de vie au début de son tour si elle a au moins 1 point de vie.  

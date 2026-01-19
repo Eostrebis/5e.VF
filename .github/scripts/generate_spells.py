@@ -16,7 +16,7 @@ def read_spell(spell, verbose=False):
         value = line[line.index(':') + 2:] if ":" in line else None
         if property and property != "available":
             if verbose and not value and (property != "detailmat" or
-                              (property == 'detailmat' and json_spell['Materiel'] == "true")):
+                              (property == 'detailmat' and json_spell['Materiel'] == "true")) and property != "tags":
                 print(f'WARNING -- spell {s[:-3]} has an empty property : {property}', file=sys.stderr)
             json_spell[property] = value
     available_start = spell.index("available:") + len("available")

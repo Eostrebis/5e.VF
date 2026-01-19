@@ -11,8 +11,8 @@ detailmat:
 Duree: Instantanée
 Incantation: 1 Réaction
 Portee: Touché
-Concentration:
-Rituel:
+Concentration: false
+Rituel: false
 englishname: Falling Spider's Spite
 writing_status: finished
 ---

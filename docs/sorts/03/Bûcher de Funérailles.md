@@ -17,7 +17,7 @@ Duree: Instantanée
 Incantation: 1 Action
 Portee: 60 ft.
 Concentration: false
-Rituel:
+Rituel: false
 englishname: Funeral Pyre
 writing_status: finished
 ---
