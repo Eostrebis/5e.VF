@@ -7,15 +7,15 @@ level: 2
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Calm Emotions
-status: finished
+writing_status: finished
 ---
 Vous tentez de supprimer les émotions fortes d'un groupe de personnes. Chaque humanoïde dans une sphère d'un rayon de 20 ft. centrée sur un point que vous choisissez à portée doit réaliser un jet de sauvegarde de Charisme ; une créature peut choisir d'échouer ce jet si elle le souhaite. Si une créature échoue à ce jet de sauvegarde, choisissez l'un des deux effets suivants : 
 

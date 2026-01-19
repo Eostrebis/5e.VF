@@ -1,7 +1,7 @@
 ---
 englishname: Master Thrower
 requis: Dextérité 13
-status: empty
+writing_status: empty
 ---
 Vous êtes un expert en ce qui concerne les armes de jet. Vous bénéficiez des effets suivants : 
 

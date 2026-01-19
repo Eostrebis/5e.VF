@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 15
+cout: 15
 poids: 4
 englishname: Morningstar
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés |

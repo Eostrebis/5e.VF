@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 175
+cout: 175
 poids: 10
 englishname: Mukset
-Ère: Renaissance
-status: empty
+Ere: Renaissance
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                                         |

@@ -9,15 +9,15 @@ level: 3
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit morceau de fil de cuivre
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: Illimitée
+Portee: Illimitée
 Concentration: false
 Rituel: false
 englishname: Sending
-status: finished
+writing_status: finished
 ---
 Vous envoyez un petit message d'au plus 25 mots à une créature qui vous est familière. La créature entend le message dans son esprit, vous reconnaît comme l'expéditeur du message si elle vous connaît, et peut répondre par le même moyen immédiatement. Le sort permet à des créatures d'une Intelligence d'au moins 1 de comprendre le sens du message.
 

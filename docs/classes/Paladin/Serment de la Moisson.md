@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de la Moisson attire les paladins qui souhaitent nourrir et guérir le monde. On les trouve souvent en mission de secours dans des terres déchirées par la guerre ; ces paladins ne recourent à la violence que pour prévenir de plus grandes souffrances.
 

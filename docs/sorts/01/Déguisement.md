@@ -10,15 +10,15 @@ level: 1
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Disguise Self
-status: empty
+writing_status: empty
 ---
 Vous changez d'apparence jusqu'à ce que le sort ne se termine ou que vous utilisiez une action pour le dissiper. Le changement inclut vos vêtements, votre armure, vos armes et les autres objets que vous portez. Vous pouvez paraître 30 cm plus grand ou plus petit, plus mince ou plus obèse. Vous ne pouvez pas modifier votre type morphologique. Vous devez donc prendre une forme qui présente un arrangement similaire des membres. Par ailleurs, l'ampleur de l'illusion ne tient qu'à vous.  
 

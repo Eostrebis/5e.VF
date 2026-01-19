@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Lame et arc, hache et masse : voilà les outils avec lesquels les Travailleurs de la Lame essayent de changer le monde. Ils pensent que la bonne lame dans la bonne main peut rendre un guerrier inarrêtable.
 

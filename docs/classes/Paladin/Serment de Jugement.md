@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Vous avez juré d'équilibrer la balance cosmique de l'univers, marchant sur les traces du Guerrier-Saint, un justicier immortel qui combat pour maintenir l'ordre et l'équilibre entre les plans infinis. Ceux qui prêtent ce serment sont liés à jamais par le devoir de combattre et d'abattre les créatures qui transgressent l'ordre du cosmos, tels les fiélons cherchant à détruire les cieux, ou les anges assoiffés de purifier les enfers.
 

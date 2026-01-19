@@ -6,15 +6,15 @@ level: 4
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un morceau de tentacule d'une pieuvre ou d'un poulpe géant
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 90 ft.
+Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Black Tentacles
-status: empty
+writing_status: empty
 ---
 De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.
 

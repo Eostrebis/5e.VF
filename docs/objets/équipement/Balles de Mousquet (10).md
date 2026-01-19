@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 1
+cout: 1
 poids: 2
 englishname: Musket Balls
-status: empty
+writing_status: empty
 ---

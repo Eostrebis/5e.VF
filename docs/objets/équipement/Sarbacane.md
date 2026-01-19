@@ -1,9 +1,9 @@
 ---
 type: Arme Martiale à Distance
-coût: 10
+cout: 10
 poids: 1
 englishname: Blowgun
-status: finished
+writing_status: finished
 ---
 
 | Dégâts     | Propriétés                    |

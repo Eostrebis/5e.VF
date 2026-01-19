@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Tous les artisans ne sont pas étrangers aux tourelles, bombes et autres mécanismes subtils, mais les artisans de la Guilde des Piégeurs en font tout un art. Avec suffisamment de temps et de ressources, un piégeur peut couvrir une pièce d'installations, mettant en scène une demi-douzaine de façons unique de donner la mort à un intrus. Tandis que les piège font le sale boulot, le piégeur peut rêvasser au loin, profitant de sa bière et réfléchissant déjà à son prochain design des plus mortels.
 

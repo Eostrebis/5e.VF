@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les dieux de la Tombe observent la frontière entre la vie et la mort. Pour ces déités, la mort et l'après-vie sont des fondations du multivers. Profaner la paix des morts est une abomination. Les croyants de ces déités cherchent à calmer les esprits errants, détruire les morts-vivants et apaiser les souffrances des mourants. Leur magie leur permet aussi de repousser la mort un temps, particulièrement pour une personne qui a encore beaucoup à accomplir. Ce n'est cependant qu'un retardement de la mort, puisque celle-ci survient toujours.
 

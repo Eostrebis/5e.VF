@@ -6,15 +6,15 @@ level: 5
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une coquille d’œuf et un gant en peau de serpent
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Hand
-status: empty
+writing_status: empty
 ---
 Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pour la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
 

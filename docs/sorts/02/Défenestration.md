@@ -5,15 +5,15 @@ level: 2
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Defenestration
-status: empty
+writing_status: empty
 ---
 Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible prend 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne prend aucun dégâts.
 

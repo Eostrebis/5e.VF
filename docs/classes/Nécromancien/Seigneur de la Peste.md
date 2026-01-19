@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 À travers l'histoire, des épidémies incontrôlées ont renversé des royaumes et fait s'effondrer des empires. Les nécromanciens qui prennent conscience du potentiel existant dans les maladies deviennent des Seigneurs de la Peste, commandant de la vermine comme des maladies. Armé d'un toucher virulent et d'une armée de vermines infectées ainsi que de ses thralls, un seigneur de la peste propage la saleté dans le moindre recoin du monde. Les fièvres, frissons et pustules qu'ils diffusent créent de nouveaux corps pour la horde, servant ainsi de réservoir sans fond de morts-vivants.
 

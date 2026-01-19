@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 
 ## Créer un Ranger

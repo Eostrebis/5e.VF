@@ -11,15 +11,15 @@ level: 7
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 8 Heures
+Duree: 8 Heures
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Etherealness
-status: empty
+writing_status: empty
 ---
 Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pour la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
 

@@ -6,15 +6,15 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un projectile physique pesant moins de 500 g
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: true
 englishname: Time's Arrow
-status: empty
+writing_status: empty
 ---
 Ce sort enchante un projectile de tel sort qu'il se gèle dans l'espace-temps. Vous pouvez repositionner le projectile dans l'action permettant de lancer le sort. 
 

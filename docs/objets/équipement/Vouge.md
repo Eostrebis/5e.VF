@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 20
+cout: 20
 poids: 6
 englishname: Glaive
-status: finished
+writing_status: finished
 ---
 
 | Dégâts          | Propriétés                   |

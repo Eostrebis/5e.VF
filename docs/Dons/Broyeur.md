@@ -1,7 +1,7 @@
 ---
 englishname: Crusher
 requis:
-status: empty
+writing_status: empty
 ---
 Vous vous êtes perfectionné dans l'art d'écrabouiller vos ennemis, obtenant les bénéfices suivants :
 

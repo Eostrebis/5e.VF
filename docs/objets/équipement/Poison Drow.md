@@ -1,9 +1,9 @@
 ---
 type: Poison
-coût: 200
+cout: 200
 poids: 0.5
 englishname: Drow Poison
-status: empty
+writing_status: empty
 ---
 Ce poison n'est généralement fabriqué que par les drows, et seulement dans l'obscurité la plus totale. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 1 heure. Si la créature rate le jet de 5 ou plus, elle tombe [[Inconscient|inconsciente]] tant qu'elle est empoisonnée de cette manière. La créature se réveille si elle prend des dégâts ou si une autre créature utilise son action pour la réveiller. 
 

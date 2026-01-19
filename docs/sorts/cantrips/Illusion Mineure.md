@@ -10,15 +10,15 @@ level: 0
 school: Illusion
 Verbal: false
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un peu de toison
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Minor Illusion
-status: empty
+writing_status: empty
 ---
 Vous créez un son ou l'image d'un objet à portée qui persiste pour la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
 

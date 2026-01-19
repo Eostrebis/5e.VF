@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 75
+cout: 75
 poids: 6
 englishname: Flintlock
-Ère: Renaissance
-status: empty
+Ere: Renaissance
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                                  |

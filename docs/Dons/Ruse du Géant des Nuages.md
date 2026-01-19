@@ -1,7 +1,7 @@
 ---
 englishname: Guile of the Stone Giant
 requis: Niveau 4, Frappe des Géants (Frappe des Nuages)
-status: empty
+writing_status: empty
 ---
 Vous avez manifesté en vous la magie envoûtante des géants de nuage, vous conférant les effets suivants : 
 

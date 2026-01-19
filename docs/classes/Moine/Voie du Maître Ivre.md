@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La voie du maître ivre apprend à ses étudiants comment se déplacer avec les mouvements imprévisibles et par à-coup caractéristiques d'un soûlard. Un maître ivre titube, basculant d'un pied à l'autre, pour se faire passer pour un combattant inexpérimenté qui se révèle être une plaie à affronter. Les mouvements erratiques du maître ivre cache une dance parfaitement exécutée de parades, d'avancées, d'attaques et de retraites.
 

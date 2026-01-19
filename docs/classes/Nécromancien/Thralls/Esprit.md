@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un esprit est l'écho à peine tangible d'un humanoïde, une âme liée au domaine des mortels par de la magie nécromantique.
 

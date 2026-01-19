@@ -10,15 +10,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Deux morceaux de fil de cuivre
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Personnelle (rayon de 5 ft.)
+Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Lightning Surge
-status: empty
+writing_status: empty
 ---
 Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de foudre.
 

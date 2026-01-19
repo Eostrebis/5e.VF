@@ -1,8 +1,8 @@
 ---
 type: Équipement d'Aventure
-coût:
+cout:
 poids:
 englishname: Censer
-status: empty
+writing_status: empty
 ---
 Un encensoir, généralement trouvé dans un sac d'ecclésiastique.

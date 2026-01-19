@@ -9,15 +9,15 @@ level: 0
 school: Évocation
 Verbal: false
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une arme de mêlée d'une valeur d'au moins 1pa
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Green-Flame Blade
-status: empty
+writing_status: empty
 ---
 Vous brandissez l'arme que vous avez utilisée pendant l'incantation du sort et réalisez une attaque de mêlée avec contre une créature à 5 ft. Si vous touchez, la cible subit les effets normaux de l'attaque, et vous pouvez faire en sorte que des flammes vertes se propagent de la cible vers une autre créature de votre choix que vous pouvez voir à 5 ft. La seconde créature prend des dégâts de feu égal à votre modificateur de caractéristique d'incantation.
 

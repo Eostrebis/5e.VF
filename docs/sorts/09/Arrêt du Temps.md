@@ -6,15 +6,15 @@ level: 9
 school: Transmutation
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Time Stop
-status: finished
+writing_status: finished
 ---
 Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous prenez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.
 

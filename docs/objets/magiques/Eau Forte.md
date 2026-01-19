@@ -1,9 +1,9 @@
 ---
 type: Potion
-rareté: Rare
+rarete: Rare
 attunement: false
 attdet:
-status: empty
+writing_status: empty
 ---
 Cet acide transparent frémit constamment à l'intérieur de sa fiole scellée. Pour une action, vous pouvez jeter la fiole vers un espace à 20 ft., où elle explose à l'impact. Réalisez une attaque à distance, traitant la fiole comme une arme improvisée.
 

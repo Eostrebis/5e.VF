@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un Briseur de Serment est un paladin qui a brisé une ou plusieurs de ses promesses de serments pour poursuivre une ambition sombre ou pour servir un pouvoir du mal. Toute lumière qui illuminait le cœur du paladin est éteinte ; seules persistent les ténèbres. 
 

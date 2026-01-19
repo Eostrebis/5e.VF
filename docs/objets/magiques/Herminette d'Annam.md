@@ -1,9 +1,9 @@
 ---
 type: Arme (Hache à deux mains)
-rareté: Artefact
+rarete: Artefact
 attunement: true
 attdet:
-status: empty
+writing_status: empty
 ---
 On raconte que cette herminette massive a été maniée par le Père-de-Tout Annam, non pas comme une arme, mais comme l'outil qu'il a utilisé pour façonner les différents mondes du Plan Matériel il y a des éternités.
 

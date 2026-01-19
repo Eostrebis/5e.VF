@@ -5,15 +5,15 @@ level: 2
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Spiritual Weapon
-status: finished
+writing_status: finished
 ---
 Vous créez à portée une arme spectrale flottante qui persiste pour la durée du sort ou jusqu'à ce que vous le relanciez.
 

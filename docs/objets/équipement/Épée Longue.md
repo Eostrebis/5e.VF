@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 15
+cout: 15
 poids: 3
 englishname: Longsword
-status: finished
+writing_status: finished
 ---
 
 | Dégâts         | Propriétés        |

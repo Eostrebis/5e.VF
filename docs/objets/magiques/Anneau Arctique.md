@@ -1,9 +1,9 @@
 ---
 type: Anneau
-rareté: Très Rare
+rarete: Très Rare
 attunement: true
 attdet:
-status: empty
+writing_status: empty
 ---
 Tant que vous portez cet anneau magique, vous avez l'immunité aux dégâts de froid, et le terrain difficile composé de neige et de glace ne vous coûte pas de mouvement supplémentaire.
 

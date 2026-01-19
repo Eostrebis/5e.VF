@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les paladins qui prêtent le Serment de Liesse font le vœu solennel de festoyer jour et nuit jusqu'à ce que leur cœur lâche. Antithèse des croisés guindés et loyaux, ces émissaires de la fête parcourent les terres, s'invitant dans les célébrations et semant la pagaille partout où ils lèvent leur verre. Les autorités se hérissent à leur arrivée, mais la jeunesse les acclame, car un Paladin de la Fête est toujours accompagné de bons moments.
 

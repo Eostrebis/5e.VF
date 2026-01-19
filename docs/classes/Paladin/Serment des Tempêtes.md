@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment des Tempêtes appelle les paladins vers les embruns salés et les mers démontées, autels de la tempête déchaînée. Les paladins qui prêtent ce serment adoptent la neutralité impassible de la mer et ne suivent que peu de principes fondamentaux.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Vous avez entendu l'appel des parchemins en décomposition et des artefacts antédiluviens, seuls restes d'une sagesse aujourd'hui disparue. En tant que Scriptor, vous découvrez et protégez d'anciennes reliques, que celles-ci soient de simples parchemins ou de puissants objets magiques, afin qu'elles puissent être archivées pour les générations futures. Certains Scriptors sont appelés pour défendre les lieux d'apprentissage, des halls de sagesse aux plus grandes bibliothèques, tandis que d'autres sont chargés de protéger de dangereux secrets qui pourraient causer les plus grand maux s'ils tombaient entre de mauvaises mains. Néanmoins, tous les Scriptors sont étudiants de ce qu'ils protègent, cultivant leurs arts arcaniques autant qu'ils aiguisent leurs talents pour l'escrime.
 

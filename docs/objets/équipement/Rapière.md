@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 25
+cout: 25
 poids: 2
 englishname: Rapier
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés |

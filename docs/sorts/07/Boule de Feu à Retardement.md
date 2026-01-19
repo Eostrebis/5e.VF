@@ -6,15 +6,15 @@ level: 7
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une petite boule de guano et de souffre
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 150 ft.
+Portee: 150 ft.
 Concentration: true
 Rituel: false
 englishname: Delayed Blast Fireball
-status: finished
+writing_status: finished
 ---
 Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de s'attarder et de se condenser en une perle luisante sur le point choisi pendant la durée du sort. Lorsque le sort se termine, que ce soit à cause d'une rupture de la concentration ou parce que vous décidez d'y mettre fin, la perle se transforme en une explosion de flammes qui contournent les angles dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit réaliser un jet de sauvegarde de Dextérité. Une cible prend un nombre de dégâts de feu égal aux dégâts accumulés si elle échoue son jet ou la moitié en cas de réussite.
 

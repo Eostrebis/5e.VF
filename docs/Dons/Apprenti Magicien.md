@@ -1,7 +1,7 @@
 ---
 englishname: Magic Initiate
 requis:
-status: empty
+writing_status: empty
 ---
 Choisissez une classe de lanceur de sorts. Vous apprenez deux cantrips de votre choix de cette classe.
 

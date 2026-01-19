@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Pour certains barbares, la rage n'est qu'un moyen pour atteindre leur objectif — généralement la violence. La Voie du Berserker est une voie qui laisse libre cours à la furie et assouvit les envies de sang. Lorsque vous entrez en rage du berserker, vous ne vivez qu'au sein du chaos du combat, lorsque vous ne vous souciez ni de votre santé ni de votre confort.
 

@@ -8,15 +8,15 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une épingle et un fil
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Flawed Reconstruction
-status: empty
+writing_status: empty
 ---
 Vous rattachez comme vous pouvez les plaies d'une créature consentante que vous touchez, qui regagne 4d6 points de vie. Cependant, la réparation est imparfaite, et les points de vie maximums de la cible sont réduits du même montant jusqu'à ce qu'elle termine un repos long. Une créature qui regagne des points de vie de cette façon garde de vilaines cicatrices.
 

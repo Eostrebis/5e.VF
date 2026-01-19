@@ -9,15 +9,15 @@ level: 1
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une arme de mêlée d'une valeur d'au moins 1 pa
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: Spéciale
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Black Lotus Assault
-status: finished
+writing_status: finished
 ---
 La première fois que vous utilisez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour invoquer un tourbillon de pétales de lotus noir autour de votre arme, distrayant vos ennemis et vous permettant de frapper avec une grande puissance. Chaque fois que vous touchez avec cette arme avant que le sort ne se termine, la cible doit effectuer un jet de sauvegarde de Sagesse ou subir un nouvel effet. Une fois que vous avez effectué trois attaques avec une arme, le sort se termine.
 

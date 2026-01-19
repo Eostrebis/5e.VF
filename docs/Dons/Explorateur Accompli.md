@@ -1,7 +1,7 @@
 ---
 englishname: Dungeon Delver
 requis:
-status: empty
+writing_status: empty
 ---
 Conscient des pièges cachés et autres portes secrètes trouvés dans les donjons, vous bénéficiez des effets suivants : 
 

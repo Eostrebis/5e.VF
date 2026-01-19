@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 200
+cout: 200
 poids: 6
 englishname: Submachine gun
-Ère: Moderne
-status: empty
+Ere: Moderne
+writing_status: empty
 ---
 | Dégâts       | Propriétés                                                                     |
 | ------------ | ------------------------------------------------------------------------------ |

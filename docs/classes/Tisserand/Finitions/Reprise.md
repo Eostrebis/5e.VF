@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 *1 fil arcanique - (toujours connu)*
 

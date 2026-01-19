@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Vous êtes différent des autres tisserands. Vous voyez votre lamefil comme l'accessoire ultime, et vous cherchez donc à maîtriser toutes les formes qu'elle peut prendre. Vous emmagasinez les résultats de votre recherche dans un tome illusoire qui flotte au niveau de votre épaule, ayant ainsi les innombrables variétés de lamefil que vous connaissez à disposition. Votre quête est sans fin, puisque se vêtir d'armes de guerre, c'est devenir la guerre elle-même. Gloire à la mortalité, car tout ce qui vit est destiné à prendre fin.
 

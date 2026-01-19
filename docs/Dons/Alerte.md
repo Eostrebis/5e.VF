@@ -1,7 +1,7 @@
 ---
 englishname: Alert
 requis:
-status: empty
+writing_status: empty
 ---
 Toujours à l'affut des dangers, vous bénéficiez des effets suivants : 
 

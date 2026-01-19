@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Votre tapisserie est beaucoup plus proche de sa dénomination que les autres, se manifestant sous la forme d'une cape brodée de lames tranchantes et embuée d'une puissante magie d'illusion. Celle-ci se déplace selon vos ordres, contractant, saisissant et coupant à votre guise. Vous n'êtes pas tout à fait sûr de si elle obéit à vos pensées conscientes ou à votre inconscient, mais dans tous les cas, elle est toujours là pour vous protéger. Levez votre capuche, ou levez vos lames.
 

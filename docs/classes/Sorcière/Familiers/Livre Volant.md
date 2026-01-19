@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Il y a peu de chose à dire sur le livre volant qui ne soit pas évident. Même s'il est indistinguable d'un grimoire d'arcaniste lorsqu'il est immobile, ce tome arcanique animé peut s'envoler à tout moment, utilisant sa couverture comme des ailes rudimentaires. Les livres volants sont particulièrement joueur et apprécient qu'on leur écrive dedans.
 ___

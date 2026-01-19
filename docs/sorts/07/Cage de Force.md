@@ -7,15 +7,15 @@ level: 7
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: De la poussière de rubis d'une valeur de 1500 po
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: 100 ft.
+Portee: 100 ft.
 Concentration: false
 Rituel: false
 englishname: Forcecage
-status: finished
+writing_status: finished
 ---
 Une prison faite de force magique de la forme d'un cube, invisible et immobile, apparaît autour d'une zone de votre choix à portée. La prison peut être une cage ou une boîte solide, au choix.
 

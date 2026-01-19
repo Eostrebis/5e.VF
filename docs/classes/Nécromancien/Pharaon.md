@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les dieux-rois des anciens royaumes pratiquaient un style unique de nécromancie, oublié avec le temps. Par l'extraction d'organes, la dessication de la chair et d'innombrables enchantements, ces anciens rois étaient capables de régner sur leurs sujets en tant qu'êtres divins morts-vivants, bien longtemps après leur "mort" de mortel. Même si ces royaumes ont été perdus dans les sables mouvants et les jungles sauvages de ce monde, leurs méthodes ont été conservées dans les gravures d'immenses temples et redécouvertes par des nécromanciens modernes, qui prennent l'apparence des antiques pharaons. Leur magie est un hybride entre divin et arcanique, l'héritage des dieux-rois d'un âge oublié.
 

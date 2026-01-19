@@ -10,15 +10,15 @@ level: 3
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: De l'eau bénite ou de la poudre d'argent et fer d'une valeur de 100 PO, que le sort consomme
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Minute
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Magic Circle
-status: empty
+writing_status: empty
 ---
 Vous créez une zone cylindrique d'énergie magique centrée sur un point de votre choix à portée que vous pouvez voir, d'un rayon de 10 ft. et haut de 20 ft. Des runes scintillantes apparaissent à l'intersection entre le cylindre et le sol ou n'importe quelle autre surface.
 

@@ -1,6 +1,6 @@
 ---
-type: 
-rareté: 
-attunement: 
+type:
+rarete:
+attunement:
 attdet:
 ---

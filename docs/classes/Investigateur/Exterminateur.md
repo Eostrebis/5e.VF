@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un exterminateur ne peut souffrir qu'un monstre vive. Entraîné à abattre Monstruosités, Fiélons et Morts-Vivants, vous pouvez résister contre le mal là où les autres abandonneraient et dégainez votre arme avant même que les autres ne perçoivent la menace. Les plans compliqués et autres machinations sont moins importantes que la revanche contre les monstres qui errent la nuit, et votre soif de vengeance est intarissable. Il y a toujours un autre loup-garou à tuer, un autre vampire à empaler, un autre démon à bannir. Le peuple ne vous remercie que rarement, mais vous trouvez satisfaction dans le travail bien fait.
 

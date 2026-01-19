@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 À l'opposé des autres ligateurs, la Confrérie des Ascètes pense que la discipline est la seule route vers l'éveil. Se lier à des vestiges n'est pas suffisant : chacun doit avoir un contrôle parfait de sa propre âme pour pouvoir profiter pleinement des opportunités offertes par les esprits errants. Ainsi, les Ascètes se privent des plaisirs terrestres et du pouvoir de leurs vestiges pour forger leur volonté et atteindre une sagesse transcendante. 
 

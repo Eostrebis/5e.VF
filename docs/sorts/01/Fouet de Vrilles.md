@@ -5,15 +5,15 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Le bout d'un tentacule de pieuvre
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Lashing Tendrils
-status: empty
+writing_status: empty
 ---
 Vous faites pousser de grotesques vrilles qui fouettent automatiquement toutes les créatures proches. Lorsqu'une créature se déplace à 5 ft. de vous ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle prend 1d6 dégâts contondants en cas d'échec, et la moitié en cas de réussite.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de la Haute-Mer appelle les guerriers navigateurs, les marins de cape et d'épée et les gardiens itinérants en quête du frisson d'un horizon illimité. Mus par la soif d'aventure et de mystère sur et sous les étendues océaniques infinies, les paladins qui prêtent ce serment s'opposent à ceux qui voudraient priver de liberté les voyageurs, extirpant la tyrannie et la corruption partout où elles se trouvent.
 

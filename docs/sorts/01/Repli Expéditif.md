@@ -10,14 +10,14 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Expeditious Retreat
-status: empty
+writing_status: empty
 ---
 Ce sort vous permet de vous déplacer à une vitesse incroyable. Lorsque vous lancez ce sort, puis pour une action bonus à chacun de vos tours jusqu'à ce que le sort termine, vous pouvez prendre l'action de Course.

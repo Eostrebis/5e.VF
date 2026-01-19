@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de la Persévérance est pris par ces paladins pour qui l'échec n'est qu'un prélude dramatique à une réussite future. Souvent affiliés à de vastes organisations criminelles ou à des cabales secrètes, ces chevaliers de l'ombre préfèrent paradoxalement la lumière des projecteurs à la discrétion.
 

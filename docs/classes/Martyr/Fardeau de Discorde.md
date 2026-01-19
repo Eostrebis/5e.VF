@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les martyrs de la Discorde sont choisis au hasard pour créer du chaos et alimenter le mal partout où ils vont. Ils mettent le feu, commettent des délits, et même tuent lorsque l'envie leur prend. N'obéissant qu'à leurs envies, les martyrs de la discorde ne se rassemblent que sous la bannière du dérangement du statu quo, autant que possible.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Votre tapisserie est tissée de la lumière des étoiles directement et forme autour de vous une armure. Celle-ci est étrangement mécanique, mais pour autant douce et confortable. Alimentée par votre volonté et votre énergie arcanique resplendissante, elle agit comme une extension de votre infusion, vous permettant de parcourir les champs de batailles comme porteur et d'espoir et de destruction. Écoutez les étoiles, et perforez le paradis.
 

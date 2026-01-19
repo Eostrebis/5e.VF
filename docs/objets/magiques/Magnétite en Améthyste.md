@@ -1,9 +1,9 @@
 ---
 type: Objet Merveilleux
-rareté: Très Rare
+rarete: Très Rare
 attunement: true
 attdet:
-status: empty
+writing_status: empty
 ---
 
 Ce morceau d'améthyste de la taille d'un poing est infusé avec la capacité d'un dragon d'améthyste de manipuler les forces gravitationnelles. Tant que vous portez cette magnétite, vous avez l'avantage à vos jets de sauvegarde de Force.

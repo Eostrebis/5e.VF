@@ -1,9 +1,9 @@
 ---
 type: Poison
-coût: 1500
+cout: 1500
 poids: 0.5
 englishname: Midnight Tears
-status: empty
+writing_status: empty
 ---
 Une créature qui ingère ce poison ne souffre d'aucun effet jusqu'à minuit. Si le poison n'est pas neutralisé d'ici là, la créature doit réussir un jet de sauvegarde de Constitution DD 17 ou prendre 31 (9d6) dégâts de poison. Si la créature réussit le jet, elle ne prend que la moitié des dégâts.
 

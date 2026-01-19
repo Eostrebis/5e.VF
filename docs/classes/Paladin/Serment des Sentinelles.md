@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment des Sentinelles lie les paladins à la protection des royaumes mortels contre les prédations des créatures extraplanaires, dont beaucoup sont capables d'anéantir des soldats mortels. Ainsi, les Sentinelles affûtent leur esprit, leur âme et leur corps pour devenir les armes ultimes contre de telles menaces.
 

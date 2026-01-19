@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 ## Propriétés "Apprenti"
 ### Propriétés "Apprenti" d'Arme

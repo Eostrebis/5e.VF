@@ -7,15 +7,15 @@ level: 5
 school: Divination
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: De l'encens et une fiole d'eau bénite ou impie
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Minute
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Commune
-status: finished
+writing_status: finished
 ---
 Vous contactez votre déité ou un proxy divin et lui posez jusqu'à trois questions qui peuvent être répondues par "oui" ou "non". Vous devez poser vos questions avant que le sort se termine. Vous obtenez une réponse juste à chacune de vos questions.
 

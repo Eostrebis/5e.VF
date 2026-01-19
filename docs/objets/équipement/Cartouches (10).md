@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 5
+cout: 5
 poids: 2
 englishname: Shell
-status: empty
+writing_status: empty
 ---

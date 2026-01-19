@@ -7,15 +7,15 @@ level: 1
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Spider's Kiss
-status: finished
+writing_status: finished
 ---
 Lorsque vous lancez ce sort, choisissez une créature que vous pouvez voir à portée. Un voile illusoire vous recouvre, vous donnant l'apparence de l'amant idéal pour la cible. La cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, elle est [[charmé|charmée]] par vous et se déplace pour vous [[saisi|saisir]] pendant son prochain tour. Si elle réussit à vous saisir, vous pouvez utiliser votre réaction pour délivrer un toucher corrosif mortel, ce qui brise l'agrippement, met fin au sort et inflige 2d10 dégâts d'acide à la cible.
 

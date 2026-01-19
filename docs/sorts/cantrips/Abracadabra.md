@@ -7,15 +7,15 @@ level: 0
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Hocuspocus
-status: empty
+writing_status: empty
 ---
 Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui représentent un trouble constant à l'ordre établi par les dieux et les mortels. Ils sont les patrons des voleurs, des canailles, des parieurs, des rebelles et des révolutionnaires. Leurs clercs représentent une force disruptive du monde, blessant les fiertés, moquant les tyrans, volant les riches, libérant les prisonniers et bafouant les traditions. Ils préfèrent le subterfuge, la blague, la tromperie ou le vol plutôt que l'affrontement direct.
 

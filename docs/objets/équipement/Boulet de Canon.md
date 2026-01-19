@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 5
+cout: 5
 poids: 10
 englishname: Cannonball
-status: empty
+writing_status: empty
 ---

@@ -1,9 +1,9 @@
 ---
 type: Potion
-rareté: Peu commun
+rarete: Peu commun
 attunement: false
 attdet:
-status: empty
+writing_status: empty
 ---
 Vous pouvez respirer dans l'eau pendant 1 heure après avoir bu cette potion. Ce fluide d'un vert vaporeux a une odeur de mer et a une bulle ressemblant à une méduse qui flotte au milieu de la fiole.
 

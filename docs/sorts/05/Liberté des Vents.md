@@ -8,11 +8,11 @@ level: 5
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un morceau de toile à voile
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Freedom of the Winds

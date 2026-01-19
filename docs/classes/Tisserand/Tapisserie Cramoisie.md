@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Votre tapisserie se manifeste comme un œil de fil vivant et d'intelligence arcanique, lié à votre infusion. Ce dernier est sentient et peut communiquer avec vous, même s'il n'est qu'une réflexion des connaissances de votre propre subconscient. Vous versez votre propre sang dans votre tapisserie en plein combat, et elle vous confère vitesse, force et détermination sans faille. Combattez à l'unisson et trouvez votre chemin !
 

@@ -5,15 +5,15 @@ level: 6
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 10 Minutes
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Planar Ally
-status: finished
+writing_status: finished
 ---
 Vous suppliez une entité d'outre-monde pour son aide. L'entité doit vous être connue : un dieu, un primordial, un prince démon ou un autre être au pouvoir cosmique. L'entité envoie un Céleste, un Élémentaire ou un Fiélon qui lui est loyal pour vous aider, la faisant apparaître sur un emplacement non occupé à portée. Si vous connaissez le nom exact d'une créature, vous pouvez prononcer son nom lorsque vous lancez le sort pour solliciter cette créature, bien que cela ne garantisse rien.
 

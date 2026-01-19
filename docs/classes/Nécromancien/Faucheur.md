@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 L'oubli inexorable causé par la mort est la source de la nécromancie, un abysse ténébreux que tous les nécromanciens contemplent. Les rares nécromanciens qui jouent avec leurs propres âmes sont les faucheurs, des figures de l'ombre qui attirent les autres vers leur chute et l'au-delà. Afin de réaliser ces tâches, ils renforcent leur connexion avec le vide lointain, jusqu'à ce qu'il ne reste que des ombres ténébreuses, messagères d'une fin inévitable. 
 

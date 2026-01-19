@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 75
+cout: 75
 poids: 2
 englishname: Parlor Gun
-Ère: Industrielle
-status: empty
+Ere: Industrielle
+writing_status: empty
 ---
 | Dégâts       | Propriétés                                                       |
 | ------------ | ---------------------------------------------------------------- |

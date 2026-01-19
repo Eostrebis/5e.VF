@@ -1,7 +1,7 @@
 ---
 englishname: Bountiful Luck
 requis: Halfelin
-status: empty
+writing_status: empty
 ---
 Votre peuple a une chance extraordinaire, que vous avez appris à *confier* à vos compagnons lorsque vous les voyez faiblir. Vous n'êtes pas sûr de comment le faire, vous le souhaitez simplement et ça arrive. Probablement encore un signe de votre bonne chance !
 

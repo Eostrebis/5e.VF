@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les barbares de la voie du Heavy Metal ne font pas les choses à moitié. Ils affrontent toujours l'ennemi le plus imposant, manient les haches les plus lourdes et, surtout, jouent leur musique le plus fort ! Ainsi, tous les combats auxquels ils participent tendent à devenir… bruyants, bordéliques, mais courts.
 

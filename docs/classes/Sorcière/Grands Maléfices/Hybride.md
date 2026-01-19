@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action bonus, si votre familier se trouve à moins de 5 ft. de vous, vous pouvez fusionner avec lui, vous transformant en un hybride magique. Pendant la prochaine minute, vous bénéficiez des effets suivants : 
 

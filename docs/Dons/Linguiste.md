@@ -1,7 +1,7 @@
 ---
 englishname: Linguist
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez étudié les langues et les codes, vous conférant les effets suivants : 
 

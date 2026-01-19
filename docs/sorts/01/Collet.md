@@ -6,15 +6,15 @@ level: 1
 school: Abjuration
 Verbal: false
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: 25 ft. de corde, que le sort consomme
-Durée: 8 Heures
+Duree: 8 Heures
 Incantation: 1 Minute
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Snare
-status: finished
+writing_status: finished
 ---
 En lançant ce sort, vous utilisez la corde pour réaliser un cercle de 5 ft. de rayon au sol. Lorsque vous avez terminé l'incantation, la corde disparaît et le cercle devient un piège magique.
 

@@ -1,9 +1,9 @@
 ---
 type: Équipement d'Aventure
-coût:
+cout:
 poids: 1
 englishname: Holy Water (flask)
-status: empty
+writing_status: empty
 ---
 Pour une action, vous pouvez vider le contenu de cette fiole sur une créature à 5 ft. de vous ou la jeter jusqu'à 20 ft., où elle explose à l'impact. Dans tous les cas, réalisez une attaque à distance contre la créature cible, traitant l'eau bénite comme une arme improvisée. Si la cible est un fiélon ou un mort-vivant, elle prend 2d6 dégâts radiants.
 

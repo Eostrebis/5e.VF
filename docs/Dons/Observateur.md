@@ -1,7 +1,7 @@
 ---
 englishname: Observant
 requis:
-status: empty
+writing_status: empty
 ---
 Il vous est facile de remarquer les détails de votre environmment, et vous bénéficiez des effets suivants : 
 

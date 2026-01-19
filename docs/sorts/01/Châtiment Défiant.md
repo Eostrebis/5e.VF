@@ -5,15 +5,15 @@ level: 1
 school: Abjuration
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Defiant Smite
-status: finished
+writing_status: finished
 ---
 La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, une énergie vengeresse s'échappe de votre arme. L'attaque inflige 1d6 dégâts supplémentaires de force à la cible. De plus, si la cible est une créature, sa capacité à attaquer est réduite. Jusqu'à ce que le sort ne termine, la créature doit réaliser un jet de sauvegarde de Charisme au début de chacun de ses tours. Si elle échoue, la première fois qu'elle touche avec une attaque avant la fin de son tour, elle tombe [[au sol]].
 

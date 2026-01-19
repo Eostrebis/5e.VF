@@ -9,15 +9,15 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une figurine de canard
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action Bonus
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: true
 Rituel: true
 englishname: Conjure Cover
-status: empty
+writing_status: empty
 ---
 Vous invoquez un petit mur en pierre le long du sol, parfaite couverture, à point que vous pouvez voir à distance. Le mur est épais de 50 cm et composé de trois segments hauts de 3 ft. et long de 5 ft. Chaque segment doit être contigu avec au moins un autre segment.
 

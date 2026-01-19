@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les goules nées-des-tombes, qui sont imprégnées de terribles énergies nécromantiques, manifestent de multiples déformations sur leur corps de mort-vivant. Malgré le fait d'être des Morts-Vivants, leur chair se recoud d'elle-même presque aussi rapidement que celle d'un troll, avec la force qui va avec.
 

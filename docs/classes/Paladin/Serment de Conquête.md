@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de Conquête appelle à lui les paladins qui recherchent la gloire au combat et l’assujettissement de leurs ennemis. Il ne suffit pas à ces paladins d’établir l’ordre ; ils doivent écraser les forces du chaos. Parfois appelés chevaliers tyrans ou despotes de fer, ceux qui prêtent ce serment se rassemblent au sein d'ordres sinistres servant des dieux ou des philosophies de guerre et de puissance disciplinée.
 

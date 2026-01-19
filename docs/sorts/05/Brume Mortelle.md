@@ -7,15 +7,15 @@ level: 5
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Cloudkill
-status: finished
+writing_status: finished
 ---
 Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pour la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
 

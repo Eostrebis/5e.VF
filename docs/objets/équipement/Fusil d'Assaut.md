@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 350
+cout: 350
 poids: 7
 englishname: Assault Rifle
-Ère: Moderne
-status: empty
+Ere: Moderne
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                                              |

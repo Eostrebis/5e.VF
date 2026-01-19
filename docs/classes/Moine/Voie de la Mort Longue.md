@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les moines de la Voie de la Mort Longue sont obsédés par le sens et le fonctionnement de la mort. Ils capturent des créatures puis élaborent de complexes expériences pour enregistrer, renseigner et comprendre leur trépas. Ils utilisent ensuite cette connaissance pour guider leurs arts martiaux, cherchant toujours un style plus meurtrier encore.
 

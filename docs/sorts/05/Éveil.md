@@ -6,15 +6,15 @@ level: 5
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une agate d'une valeur d'au moins 1000 PO, que le sort consomme
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 8 Heures
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Awaken
-status: empty
+writing_status: empty
 ---
 Après avoir passé le temps d'incantation à tracer des chemins magiques à l'intérieur d'une précieuse gemme, vous touchez une bête ou plante de taille G ou inférieure. La cible ne doit pas avoir de score d'Intelligence, ou un inférieur à 3. La cible gagne une Intelligence de 10. La cible gagne aussi la capacité de parler une langue que vous parlez. Si la cible est une plante, elle gagne la possibilité de déplacer ses membres, racines, lianes ou autres, et elle gagne des sens similaires à un humain. Le MJ décide des caractéristiques appropriées pour la plante éveillée, comme celles d'un [buisson éveillé](https://www.dndbeyond.com/monsters/16791-awakened-shrub) ou d'un [arbre éveillé](https://www.dndbeyond.com/monsters/16792-awakened-tree).
 

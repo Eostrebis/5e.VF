@@ -5,15 +5,15 @@ level: 4
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une main rapetissée
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Grasp of the Grave
-status: empty
+writing_status: empty
 ---
 Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les artisans de la guilde des Piégeurs peuvent construire les pièges suivants :
 

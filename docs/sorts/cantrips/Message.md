@@ -9,15 +9,15 @@ level: 0
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit bout de fil de cuivre
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Message
-status: empty
+writing_status: empty
 ---
 Vous pointez du doigt une créature à portée et lui murmurez un message. La cible (et seulement la cible) entend ce message et peut répondre par un murmure que vous êtes seul à entendre.
 

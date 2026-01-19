@@ -1,4 +1,4 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Charisme ou ne peut pas prendre de réactions jusqu'à la fin de son prochain tour.

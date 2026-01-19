@@ -6,15 +6,15 @@ level: 9
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un diadème de jade d'une valeur d'au moins 1500 po, que vous devez placer sur votre tête avant que vous ne lanciez ce sort
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Shapechange
-status: finished
+writing_status: finished
 ---
 Vous prenez la forme d'une créature différente pendant la durée du sort. La nouvelle forme peut être celle d'une créature d'un FD égal ou inférieur à votre niveau. La créature ne peut être une Construction ou un Mort-Vivant, et vous devez déjà en avoir vu un individu au moins une fois. Vous vous transformez en un exemplaire _moyen_ de l'individu, un sans aucun niveau de classe ou de trait d'Incantation.
 

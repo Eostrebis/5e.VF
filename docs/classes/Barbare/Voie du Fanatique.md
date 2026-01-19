@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Certaines déités inspirent leurs croyants à s'élancer dans une féroce furie martiale. Ces barbares sont des fanatiques -- des guerriers qui canalisent leur rage en une formidable démonstration de pouvoir divin.
 

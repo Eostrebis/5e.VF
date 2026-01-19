@@ -1,4 +1,4 @@
 ---
-status: finished
+writing_status: finished
 ---
 En ajoutant une simple goutte de puanide, un produit chimique bien trop invraisemblable pour s'étaler dessus, au contenu explosif de votre bombe, vous pouvez en faire une bombe puante. Une bombe puante inflige des dégâts de poison, ses dés de dégâts sont des d8s, et elle requiert un jet de sauvegarde de Constitution plutôt que de Dextérité. De plus, la cible, ainsi que toutes les créatures dans le rayon d'explosion qui ratent leur jet de sauvegarde, ont le désavantage aux jets de compétences qu'ils réalisent jusqu'à la fin de leur prochain tour.

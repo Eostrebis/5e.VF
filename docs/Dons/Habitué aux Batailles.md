@@ -1,7 +1,7 @@
 ---
 englishname: Battle Adept
 requis:
-status: empty
+writing_status: empty
 ---
 Un entraîenemnt intensif et de l'expérience sur le terrain vous permettent de maîtriser des manoeuvres de combat. Vous bénéficiez des effets suivants :
 

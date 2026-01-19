@@ -1,9 +1,9 @@
 ---
 type: Arme Martiale à Distance
-coût: 50
+cout: 50
 poids: 2
 englishname: Longbow
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés                               |

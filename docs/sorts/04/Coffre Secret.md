@@ -6,15 +6,15 @@ level: 4
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un coffre majestueux, 3 ft. x 2 ft. x 2 ft., construits de matériaux rares valant au moins 5000 PO, et une Très Petite réplique faite des mêmes matériaux valant au moins 50 PO
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Secret Chest
-status: empty
+writing_status: empty
 ---
 Vous cachez un coffre, ainsi que tout son contenu, sur le Plan Éthéré. Vous devez toucher le coffre et la réplique miniature qui servent de composantes matérielles pour le sort. Le coffre peut contenir jusqu'à 12 ft$^3$. de matériel non vivant (3 ft. par 2 ft. par 2 ft.).
 

@@ -16,15 +16,15 @@ level: 1
 school: Divination
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: Personnelle (rayon de 30 ft.)
+Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: true
 englishname: Detect Magic
-status: empty
+writing_status: empty
 ---
 Pendant la durée du sort, vous pouvez ressentir la présence de magie à 30 ft. de vous. Si vous percevez de la magie de cette façon, vous pouvez utiliser votre action pour apercevoir une faible aura autour de n'importe quel objet ou créature que vous pouvez voir qui est magique, et vous apprenez l'école de cette magie, s'il y en a.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Là où il y a magie, il y a du mal. Les sorcières se terrent dans les ombres avec les guenaudes et les occultistes, n'attendant juste que votre garde se baisse, afin de pouvoir déchaîner leurs maléfices contre des innocents. Heureusement, votre lame toujours vigilante est prête pour elles, prête à défendre le peuple non magique des mauvais lanceurs de sorts de ce monde. Vous terrassez vampires, mages noirs, diables et feys de la même façon avec impunité, puisque quiconque ose souiller ce monde par la magie doit être chassé et mis au bûcher.
 

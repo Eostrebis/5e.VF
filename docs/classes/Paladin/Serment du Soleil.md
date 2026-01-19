@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Dans les terres désolées, le soleil est une arme à double tranchant : bien qu'il apporte lumière, chaleur et subsistance à la maigre végétation du désert, il brûle, aveugle et peut détruire ceux qui ne le respectent pas. Les paladins qui prêtent le Serment du Soleil comprennent cette nature duelle et s'efforcent à la fois d'apporter sa lumière aux confins les plus obscurs du monde et de protéger ceux qui sont victimes des rayons du soleil par hasard ou par malheur.
 

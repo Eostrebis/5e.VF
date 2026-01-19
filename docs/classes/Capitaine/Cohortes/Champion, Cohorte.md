@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 >## Champion
 >*Moyen Humanoïde (n'importe quelle race), Tout alignement*

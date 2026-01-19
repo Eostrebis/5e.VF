@@ -8,15 +8,15 @@ level: 2
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une pincée de poudre de fer
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Enlarge/Reduce
-status: empty
+writing_status: empty
 ---
 Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pour la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut réaliser un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
 

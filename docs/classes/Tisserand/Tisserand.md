@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Une elfe incante dans une ancienne bibliothèque, écoutant les murmures des pierres emplies d'histoire autour d'elle. Des rubans d'énergie arcanique se forment autour de ses lames à chaque fois qu'elle déchire les airs, rassemblant ses forces pour ce qui doit être fait.
 

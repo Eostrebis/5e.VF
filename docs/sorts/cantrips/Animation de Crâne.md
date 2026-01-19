@@ -11,15 +11,15 @@ level: 0
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un crâne
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Animate Skull
-status: finished
+writing_status: finished
 ---
 Vous imprégnez un crâne de magie nécromantique, lui conférant un semblant de vie inquiétant. Lorsque vous lancez ce sort, vous pouvez prononcer une phrase de 10 mots ou moins. Chaque fois qu'une créature touche le crâne ou pénètre dans un espace à moins de 5 ft. de lui, le crâne prononce la phrase.
 

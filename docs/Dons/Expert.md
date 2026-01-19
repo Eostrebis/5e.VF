@@ -1,7 +1,7 @@
 ---
 englishname: Skill Expert
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez perfectionné votre maîtrise de certaines compétences, et bénéficiez des effets suivants : 
 

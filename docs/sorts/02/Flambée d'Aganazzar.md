@@ -6,15 +6,15 @@ level: 2
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une écaille de dragon rouge
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 30 ft. (30 ft. en ligne)
+Portee: 30 ft. (30 ft. en ligne)
 Concentration: false
 Rituel: false
 englishname: Aganazzar's Scorcher
-status: empty
+writing_status: empty
 ---
 Une ligne de flammes rugissantes  de 30 ft. (9m/6 cases) de long et 5 ft. (1.5m/1 case) de large émane de vous dans une direction que vous choisissez. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité, subissant `dice:3d8|avg` dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 

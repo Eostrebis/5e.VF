@@ -1,5 +1,5 @@
 ---
-status: completed
+writing_status: completed
 ---
 Certains barbares font partie de cultures qui vénèrent par dessus tout leurs ancêtres. Ces tribus enseignent que les guerriers du passé persistent dans ce monde comme de puissants esprits, qui guident et protègent les vivants. Lorsqu'un barbare qui suit cette voie entre en rage, le barbare entre en contact avec le monde spirituel et appelle ces puissants esprits à l'aide.
 

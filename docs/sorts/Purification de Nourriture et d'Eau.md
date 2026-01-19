@@ -4,14 +4,14 @@ level:
 school:
 Verbal: false
 Somatique: false
-Matériel:
+Materiel:
 detailmat:
-Durée:
+Duree:
 Incantation:
-Portée:
+Portee:
 Concentration:
 Rituel:
 englishname: Purify Food and Drink
-status: empty
+writing_status: empty
 ---
 

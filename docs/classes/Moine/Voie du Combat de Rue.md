@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La voie du combat de rue est une discipline urbaine fondée par nécessité, dont le style d'art martial a été perfectionné dans une allée sombre et à des tournois clandestins. Les moines qui adoptent cette nouvelle technique ne placent que peu de valeur dans l'éveil spirituel et la balance karmique ; l'adrénaline procurée par la saisie du timing parfait, d'une série de combo et par le KO décisif les poussent à devenir les meilleurs combattants de ce monde.
 

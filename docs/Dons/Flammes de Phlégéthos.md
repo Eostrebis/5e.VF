@@ -2,7 +2,7 @@
 englishname: Flames of Phlegethos
 requis:
   - Tieflin
-status: empty
+writing_status: empty
 ---
 Vous apprenez à faire appel aux flammes de l'enfer pour vous servir. Vous bénéficiez des effets suivants : 
 

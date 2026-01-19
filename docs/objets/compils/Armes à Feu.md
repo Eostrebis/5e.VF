@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La poudre noire représente un changement de paradigme dans l'art de la guerre, alimentant de la plus simple des armes du soldat jusqu'aux outils de destruction massive utilisés pour les sièges. Dans beaucoup de campagnes, les armes à feu surpassent en efficacité et en fréquence les armes plus traditionnelles. Voyez avec votre MJ la fréquence des armes à feu dans son monde !
 

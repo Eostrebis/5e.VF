@@ -8,15 +8,15 @@ level: 3
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Curse of Blades
-status: empty
+writing_status: empty
 ---
 Des bandes d'énergie noire occulte lient une créature à son arme. Choisissez une créature que vous pouvez voir à portée qui tient une arme. La cible doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Une cible maudite ne peut pas volontairement ranger ou lâcher son arme. De plus, lorsqu'elle utilise son action pour attaquer pendant son tour, elle doit réaliser une attaque supplémentaire contre elle-même en utilisant son arme. Cette attaque utilise sa propre CA et les dégâts normaux.
 

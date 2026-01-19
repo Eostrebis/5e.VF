@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Lorsque vous avez entendu cet appel, c'était sous la forme de vents hurlants chargés de neige, vous invitant à vous rendre dans les étendues glacées, arides et majestueuses du nord. Il vous incombe de repousser les horreurs qui prospèrent dans ce froid absolu, ainsi que les incursions de terres plus clémentes, afin de protéger les braves gens et les nobles animaux qui peuplent ces froides terres. Peu importe où vous voyagez, la glace des terres du nord vit dans votre cœur et, de fait, vous pouvez l'invoquer dans vos mains grâce aux vents glacés qui soufflent des sommets septentrionaux. 
 

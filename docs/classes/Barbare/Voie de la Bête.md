@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les barbares qui suivent la Voie de la Bête puisent leur rage dans une étincelle bestiale qui brûle au fond de leur âme. Cette bête jaillit au cœur de la rage, transformant physiquement le barbare.
 

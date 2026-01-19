@@ -5,15 +5,15 @@ level: 4
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 10 Minutes
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Find Greater Steed
-status: finished
+writing_status: finished
 ---
 Vous invoquez un esprit qui prend la forme d'une loyale et majestueuse monture. Apparaissant dans un espace non occupé à portée, le destrier prend la forme de votre choix : un griffon, un pégase, un péritio, un loup géant, un rhinocéros ou un tigre aux dents de sabre . Votre MJ peut exceptionnellement autoriser d'autres animaux comme montures. Le destrier a les statistiques de la forme choisie, mais c'est un céleste, un fey ou un fiélon (votre choix) à la place de son type normal. De plus, si votre destrier a une Intelligence de 5 ou moins, son Intelligence passe à 6 et il devient capable de comprendre une langue de votre choix que vous parlez. 
 

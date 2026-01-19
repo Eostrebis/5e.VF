@@ -1,7 +1,7 @@
 ---
 englishname: Polearm Master
 requis:
-status: empty
+writing_status: empty
 ---
 Vous bénéficiez des effets suivants : 
 

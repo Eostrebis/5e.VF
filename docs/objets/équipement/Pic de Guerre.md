@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 5
+cout: 5
 poids: 2
 englishname: War Pick
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés |

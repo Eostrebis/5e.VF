@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Lorsque vous buvez cette potion, votre score de Force change pour 1 heure. Le type du géant détermine le nouveau score. La potion n'a aucun effet sur vous si votre Force est déjà supérieure ou égale au score.
 

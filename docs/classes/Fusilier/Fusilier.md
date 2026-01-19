@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un verre tombe, s'éclatant en mille morceaux en touchant le sol, et la taverne se tait. Un nain à l'air renfrogné, la barbe gouttant d'une bière fraîchement renversée, zyeute un orque ivre tout proche, et cherche de ses doigts un revolver fixé à sa hanche.
 

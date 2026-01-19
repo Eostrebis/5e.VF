@@ -8,15 +8,15 @@ level: 1
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit peu d'alcool ou de liqueur
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: False Life
-status: empty
+writing_status: empty
 ---
 Vous remontant avec un facsimilé nécromantique de vie, vous gagnez 1d4 + 4 points de vie temporaires pendant la durée du sort.
 

@@ -1,7 +1,7 @@
 ---
 type:
-rareté:
+rarete:
 attunement:
 attdet:
-status: empty
+writing_status: empty
 ---

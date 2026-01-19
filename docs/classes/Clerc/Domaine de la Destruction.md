@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Certains dieux ne se délectent que de l'effondrement des murs et l'incendie des villes. Ces dieux de la destruction, cruciaux homologues aux dieux de la création et de la pitié, ne sont pas nécessairement mauvais, mais tendent souvent vers le chaos et embrassent le cycle éternel de la mort et du renouveau. Les clercs qui suivent de telles déités ont souvent une connexion personnelle profonde avec leur dieu. Dans certains cas, ils ont été épargnés d'une destruction pour mieux la propager dans le monde ; dans d'autres, ils ont négocié leurs pouvoirs auprès du dieu pour éradiquer un ennemi ; d'autres encore vénèrent le dieu par peur de son courroux.
 

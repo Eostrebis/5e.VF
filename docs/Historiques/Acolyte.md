@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Vous avez passé votre vie au service du temple d'un dieu spécifique ou d'un panthéon de dieux. Vous agissez comme intermédiaire entre les royaumes des cieux et le monde des mortels, exécutant des rites sacrés et offrant des sacrifices pour conduire les fidèles face aux divins. Vous n'êtes pas nécessairement un clerc, car exécuter des rites sacrés religieux n'est pas la même chose que de canaliser la puissance divine.
 

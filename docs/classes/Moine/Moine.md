@@ -1,6 +1,6 @@
 ---
 Title: Moine
-status: finished
+writing_status: finished
 ---
 Ses poings se percevant à peine alors qu'ils parent une volée de flèches, une demie-elfe saute au-dessus d'une barricade et se jette dans la mêlée de hobgobelins de l'autre côté. Elle danse presque au milieu d'eux, repoussant gracieusement leurs coups, et les envoyant voler, jusqu'à ce qu'il ne reste plus qu'elle.
 

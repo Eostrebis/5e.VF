@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Au milieu de la nuit, vous entendez de la musique. Ça commence toujours pareil, d'abord un léger bourdonnement puis une cacophonie assourdissante. Ce bruit est à en devenir fou. Lorsque vous êtes éveillé, vos doigts apprennent à imiter cette mélodie et à faire connaître aux autres votre folie.
 

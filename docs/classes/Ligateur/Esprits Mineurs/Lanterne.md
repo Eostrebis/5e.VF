@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Esprit mineur divin créé de pure bonté, une lanterne se manifeste en une boule de lumière de la taille d'un poing. Pour une action bonus, vous pouvez forcer une créature à 30 ft. à réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts radiants.
 

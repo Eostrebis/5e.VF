@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Une demie-elfe, couvertes des rubans et médailles d'un haut-commandant, est en selle d'un cheval en armure. À sa droite, un orque bien bâti, dans une tenue plus commune, chevauche sa propre monture, une hache à deux mains dans le dos. Ils avancent sur la route ensemble, annoncés par trompettes et percussions.
 

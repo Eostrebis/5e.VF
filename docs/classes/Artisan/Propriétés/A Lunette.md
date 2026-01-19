@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#A Dispersion|A Dispersion]]

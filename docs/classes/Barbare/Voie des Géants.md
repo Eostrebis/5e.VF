@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les barbares qui empruntent la Voie des Géants tirent leur force des mêmes pouvoirs primaux que les géants. Lorsqu'ils ragent, ces barbares débordent de pouvoir élémentaire et gagnent en taille, prenant des formes qui évoquent la gloire des géants. Certains barbares ressemblent ainsi à des versions exagérées d'eux-mêmes, parfois avec un soupçon d'énergie élémentaire luisant dans leurs yeux et autour de leur arme. D'autres se transforment plus dramatiquement, prenant l'apparence d'un véritable géant ou adoptant une forme similaire à un Élémentaire, enveloppé dans le feu, le froid ou la foudre.
 

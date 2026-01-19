@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de Vengeance est un engagement solennel à punir ceux qui ont commis des péchés abominables. Lorsque les forces du mal massacrent des villageois sans défense, lorsqu'un peuple entier se détourne de la volonté des dieux, lorsqu'une guilde de voleurs devient trop violente et puissante, ou lorsqu'un dragon ravage les campagnes — c'est en ces temps que des paladins se dressent et prêtent le Serment de Vengeance pour redresser les torts. Pour ces paladins — parfois appelés vengeurs ou chevaliers noirs — leur propre pureté importe moins que l'exécution de la justice.
 

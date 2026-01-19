@@ -4,14 +4,14 @@ level:
 school:
 Verbal: false
 Somatique: false
-Matériel:
+Materiel:
 detailmat:
-Durée:
+Duree:
 Incantation:
-Portée:
+Portee:
 Concentration:
 Rituel:
 englishname: Motivational Speech
-status: empty
+writing_status: empty
 ---
 

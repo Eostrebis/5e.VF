@@ -7,15 +7,15 @@ level: 3
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une griffe en crystal
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Ice Claw Prison
-status: empty
+writing_status: empty
 ---
 Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pour la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
 

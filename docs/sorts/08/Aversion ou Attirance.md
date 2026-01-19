@@ -7,15 +7,15 @@ level: 8
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un bout d'alun trempé dans du vinaigre pour l'aversion, ou une goutte de miel pour l'attirance
-Durée: 10 Jours
+Duree: 10 Jours
 Incantation: 1 Heure
-Portée: 60 ft. (200 ft.)
+Portee: 60 ft. (200 ft.)
 Concentration: false
 Rituel: false
 englishname: Antipathy/Sympathy
-status: empty
+writing_status: empty
 ---
 Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pour la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.
 

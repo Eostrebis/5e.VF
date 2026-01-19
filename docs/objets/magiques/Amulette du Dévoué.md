@@ -1,9 +1,9 @@
 ---
 type: Objet Merveilleux
-rareté: Variable
+rarete: Variable
 attunement: true
 attdet: par un clerc, un martyr ou un paladin
-status: empty
+writing_status: empty
 ---
 
 Cette amulette porte le symbole d'une déité brodé de pierres et métaux précieux. Tant que vous portez ce symbole sacré, vous gagnez un bonus aux jets d'attaque de vos sorts ainsi qu'au DD de sauvegarde de vos sorts. Ce bonus est déterminé par la rareté de l'amulette.

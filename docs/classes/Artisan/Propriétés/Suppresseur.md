@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 _Propriété d'Arme Apprenti_
 __Composantes :__ Une arme martiale à distance chef-d'œuvre avec la propriété Arme à Feu

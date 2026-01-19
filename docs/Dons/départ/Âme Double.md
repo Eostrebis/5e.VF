@@ -1,7 +1,7 @@
 ---
 englishname: Dual-Soul
 requis:
-status: finished
+writing_status: finished
 ---
 
 Deux âmes occupent votre corps, en constante querelle pour le contrôle et l'influence. Vous maintenez deux différentes personnalités avec leurs traits, leurs idéaux, leurs liens et leurs défauts. Vos âmes ont deux noms différents. Vos âmes communiquent télépathiquement l'une avec l'autre, mais seulement une peut être en contrôle du corps. L'âme qui n'est pas en contrôle du corps peut voir et entendre ce que perçoit le corps comme si elle le contrôlait.

@@ -1,7 +1,7 @@
 ---
 donneur: N'importe quelle créature avec le trait Régénération
 emplacement: Interne
-status: finished
+writing_status: finished
 ---
 Vous avez remplacé votre moelle épinière par celle d'une créature régénératrice. Pendant votre tour, vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à 1d10 + votre modificateur de Constitution.
 

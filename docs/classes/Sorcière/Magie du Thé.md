@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Les sorcières du thé sont parmi les plus calmes et amicales des sorcières, partageant chaleur et compassion malgré leurs visages hideux et leurs âmes vides. À leur pire, elles sont bougonnes (par exemple si forcées de boire leur thé à la va-vite) ou agitées (après trop de thé), mais même là, elles ont tendance à chercher des solutions pacifiques à leurs problèmes.
 

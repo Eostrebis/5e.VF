@@ -1,7 +1,7 @@
 ---
 englishname: Slasher
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez appris où trancher pour obtenir les meilleurs résultats, et vous bénéficiez des effets suivants : 
 

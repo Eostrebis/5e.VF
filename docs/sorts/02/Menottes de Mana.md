@@ -6,15 +6,15 @@ level: 2
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 8 Heures
+Duree: 8 Heures
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Mana Shackle
-status: empty
+writing_status: empty
 ---
 Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dissipé prématurément, vous prenez 1d4 dégâts psychiques.
 

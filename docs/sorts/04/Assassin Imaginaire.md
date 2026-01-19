@@ -7,15 +7,15 @@ level: 4
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Phantasmal Killer
-status: finished
+writing_status: finished
 ---
 Vous explorez les cauchemars d'une créature que vous pouvez voir à portée et créez une manifestation illusoire de ses peurs les plus profondes, visible seulement par cette créature.
 

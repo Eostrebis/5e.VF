@@ -1,8 +1,8 @@
 ---
 type: Potion
-rareté: Peu commun
+rarete: Peu commun
 attunement: false
 attdet:
-status: empty
+writing_status: empty
 ---
 Vous regagnez 4d4 + 4 points de vie lorsque vous buvez cette potion.

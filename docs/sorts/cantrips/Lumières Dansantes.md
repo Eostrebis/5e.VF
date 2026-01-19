@@ -10,15 +10,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un peu de phosphore ou un ver luisant
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Dancing Lights
-status: empty
+writing_status: empty
 ---
 Vous créez jusqu'à quatre flammes de la taille d'une torche, et vous pouvez les faire apparaître comme des torches, des lanternes ou des orbes lumineux qui lévitent pour la durée du sort. Vous pouvez également combiner ces quatre lumières en une forme vaguement humanoïde de taille M. Quoi que vous choisissiez, chaque lumière émet une lumière faible sur 10 ft.
 

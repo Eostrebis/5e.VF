@@ -7,15 +7,15 @@ level: 5
 school: Divination
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Minute
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Commune with Nature
-status: finished
+writing_status: finished
 ---
 Vous ne faites brièvement plus qu'un avec la nature et récoltez des informations sur les territoires alentours. À l'extérieur, ce sort vous confère la connaissance du terrain dans un rayon de 5 km autour. Dans des grottes et d'autres habitats souterrains, le rayon est limité à 300 ft. Ce sort ne fonctionne pas lorsque la nature fait place à la construction, comme les donjons ou les villes.
 

@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
  - Agilité des courts-sur-pattes
  - Alerte

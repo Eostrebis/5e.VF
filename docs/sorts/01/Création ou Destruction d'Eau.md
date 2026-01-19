@@ -6,15 +6,15 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une goutte d'eau pour créer de l'eau ou quelques grains de sable pour en détruire
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Create or Destroy Water
-status: empty
+writing_status: empty
 ---
 Vous pouvez créer ou détruire de l'eau.
 

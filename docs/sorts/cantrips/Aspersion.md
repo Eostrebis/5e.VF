@@ -11,15 +11,15 @@ level: 0
 school: Conjuration
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Douse
-status: finished
+writing_status: finished
 ---
 Vous faites un geste, invoquant une gerbe d'eau salée qui s'abat sur une créature ou un objet à portée. Les flammes sont instantanément éteintes, et les objets ciblés par ce sort ne peuvent pas être enflammés pendant au moins une minute. Si vous ciblez une créature, vous pouvez choisir de rendre l'eau salée glaciale. La cible doit alors effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle subit 1d8 dégâts de froid.
 

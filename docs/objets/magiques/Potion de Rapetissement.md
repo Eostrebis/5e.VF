@@ -1,8 +1,8 @@
 ---
 type: Potion
-rareté: Rare
+rarete: Rare
 attunement: false
 attdet:
-status: empty
+writing_status: empty
 ---
 Lorsque vous buvez cette potion, vous gagnez l'effet de rapetissement du sort [[Agrandissement ou Rapetissement]] pour 1d4 heures (pas de concentration requise). La couleur rouge dans le liquide de la potion se contracte et décontracte périodiquement en une perle au centre de la fiole. Secouer la bouteille n'interrompt pas ce processus.

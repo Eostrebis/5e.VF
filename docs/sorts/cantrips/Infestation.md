@@ -11,15 +11,15 @@ level: 0
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une puce vivante
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Infestation
-status: empty
+writing_status: empty
 ---
 Vous faites apparaître momentanément un nuage de mites, de puces et de parasites en tout genre sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts de poison et se déplacer de 5 ft. dans une direction aléatoire si elle peut se déplacer et que sa vitesse est d'au moins 5 ft. Ce mouvement ne provoque pas d'attaque d'opportunité.
 

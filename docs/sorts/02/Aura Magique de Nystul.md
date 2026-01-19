@@ -6,15 +6,15 @@ level: 2
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit carré de soie
-Durée: 24 Heures
+Duree: 24 Heures
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Nystul's Magic Aura
-status: empty
+writing_status: empty
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son sujet. La cible peut être une créature consentante ou un objet qui n'est ni porté ni manié par une autre créature.
 

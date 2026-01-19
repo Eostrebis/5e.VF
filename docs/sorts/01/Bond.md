@@ -9,14 +9,14 @@ level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: La patte arrière d'une sauterelle
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Jump
-status: finished
+writing_status: finished
 ---
 Vous touchez une créature. La distance de saut de cette créature est triplée jusqu'à ce que le sort ne se termine.

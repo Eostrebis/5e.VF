@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 100
+cout: 100
 poids: 3
 englishname: Revolver
-Ère: Industrielle
-status: empty
+Ere: Industrielle
+writing_status: empty
 ---
 | Dégâts       | Propriétés                                  |
 | ------------ | ------------------------------------------- |

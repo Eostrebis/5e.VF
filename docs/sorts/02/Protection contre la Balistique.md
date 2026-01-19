@@ -12,14 +12,14 @@ level: 2
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: false
 englishname: Protection from Ballistics
-status: empty
+writing_status: empty
 ---
 Un bouclier d'énergie scintillant enveloppe une créature que vous touchez. Pendant la durée du sort, les attaques à distance réalisées avec des armes à feu ont le désavantage contre la cible, et la cible est résistante aux dégâts infligés par des armes à feu.

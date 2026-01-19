@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 20
+cout: 20
 poids: 6
 englishname: Rocket
-status: empty
+writing_status: empty
 ---

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un outil vous aide à réaliser quelque chose que vous ne seriez sinon pas capable de faire, comme créer ou réparer un objet, fausser un document ou crocheter une serrure. Votre race, classe, historique ou un don peuvent vous conférer la maîtrise d'outils. La maîtrise d'un outil vous permet d'ajouter votre bonus de maîtrise à tout jet de caractéristique utilisant cet outil.
 

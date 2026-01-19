@@ -9,15 +9,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Finger Guns
-status: empty
+writing_status: empty
 ---
 Vous refermez le poing, pointez votre index et levez le pouce, imitant dangereusement un pistolet. Pendant la durée du sort, vous pouvez utiliser votre action pour réaliser une attaque de sort à distance contre une créature que vous pouvez voir à 60 ft., infligeant 1d8 dégâts de force si vous touchez.
 

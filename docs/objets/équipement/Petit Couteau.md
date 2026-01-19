@@ -1,8 +1,8 @@
 ---
 type: Équipement d'Aventure
-coût:
+cout:
 poids:
 englishname: Small Knife
-status: empty
+writing_status: empty
 ---
 Un petit couteau, généralement trouvé dans les sacs d'érudit.

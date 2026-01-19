@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Traverser un pont féerique pour rejoindre la Féerie enchantée peut s'avérer un voyage périlleux, exposant les voyageurs à une magie sauvage dangereuse, aux tours des fées et à de terrifiantes bêtes magiques. Vous, cependant, avez entendu l'appel insouciant de la magie en ces lieux rares où la Féerie croise le plan mortel, et avez affiné vos talents pour guider les voyageurs à travers les périls féeriques. En retour, la Féerie a laissé son empreinte sur vous, imprégnant votre marque d'une magie capricieuse et vous permettant de voyager aisément entre les plans.
 

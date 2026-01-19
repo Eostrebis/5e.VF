@@ -5,15 +5,15 @@ level: 6
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Du gui, que le sort consomme et qui a été recueilli à l'aide d'une serpe dorée sous la lumière d'une pleine lune
-Durée: 24 Heures
+Duree: 24 Heures
 Incantation: 10 Minutes
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Druid Grove
-status: finished
+writing_status: finished
 ---
 Vous appelez les esprits de la nature pour protéger une zone à l'extérieur ou sous terre. Cette zone peut aller d'un cube de 30 ft. de côté à un cube de 90 ft. de côté. Les bâtiments et autres structures sont exclus de la zone affectée. Si vous lancez ce sort sur la même zone tous les jours pendant un an, le sort persiste jusqu'à ce qu'il soit dissipé. Le sort crée les effets suivants à l'intérieur de la zone. Lorsque vous lancez ce sort, vous pouvez spécifier certaines créatures comme amies et qui sont immunisées aux effets. Vous pouvez également préciser un mot de passe qui, lorsqu'il est prononcé à voix haute, rend celui l'ayant prononcé immunisé aux effets. L'intégralité de la zone protégée irradie de magie. Un sort de [[dissipation de la magie]] lancé sur la zone, s'il réussit, ne retire que l'un des effets suivants et pas la protection entière sur la zone. Le lanceur du sort de dissipation choisit quel effet se termine. Ce n'est que lorsque tous les effets sont terminés que le sort est dissipé.
 

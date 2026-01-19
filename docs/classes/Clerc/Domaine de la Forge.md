@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les dieux de la forge sont les patrons des artisans qui travaillent le métal, du simple forgeron qui alimente le village en fer à cheval et en bêches au formidable artisan elfe dont les flèches en mitral et à pointes de diamant font tomber les seigneurs démons. Les dieux de la forge enseignent que, avec de la patience et de la persévérance, même le plus récalcitrant des métaux peut être transformé d'un bout de minerai en un somptueux objet. Les clercs de ces déités cherchent des objets perdus, libèrent des mines envahies par des orques, et découvrent de rares et merveilleux matériaux nécessaires à la création de puissants objets magiques. Les croyants de ces dieux placent une grande fierté dans leurs travaux, et sont prêts à forger et utiliser des armures lourdes et des armes puissantes pour les protéger.
 

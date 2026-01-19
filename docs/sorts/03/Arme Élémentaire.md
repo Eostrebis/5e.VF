@@ -8,15 +8,15 @@ level: 3
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: false
 englishname: Elemental Weapon
-status: finished
+writing_status: finished
 ---
 Une arme non magique que vous touchez devient une arme magique. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre et tonnerre. Pendant la durée du sort, l'arme a un bonus de +1 aux jets d'attaque et inflige 1d4 dégâts supplémentaires du type choisi lorsqu'elle touche.
 

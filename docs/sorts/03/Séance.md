@@ -7,15 +7,15 @@ level: 3
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une boule de cristal, un jeu de tarot ou une planche de ouija
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 10 Minutes
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Séance
-status: empty
+writing_status: empty
 ---
 Vous et au moins trois créatures consentantes vous donnez les mains pendant un moment de méditation pour conjurer un esprit d'au-delà la mort pour répondre à vos questions. Décrivez ou appelez une créature qui vous est familière. Si l'âme de la créature est libre et consentante, elle se manifeste devant vous en un spectre fantomatique. Ce sort échoue si l'esprit était déjà la cible de ce sort il y a moins de 10 jours.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les herbalistes ont depuis longtemps concoctés thés et autres remèdes pour apaiser le corps et aiguiser l'esprit, mais remèdes de grand-mère ne font que pâle figure devant la boisson préférée de beaucoup : le café. Le café est une boisson avec de forts effets alchimiques : repousse le sommeil, augmente la concentration, et provoque une sensation d'éveil et d'inspiration. Du plus communs des paysans à l'archimage royal, tous profitent de la chaleur acide de cette concoction, et il n'est pas surprenant que certains dieux aient adopté le café comme domaine. Cependant, certains clercs se tournent vers ce domaine sans vénérer une déité associée, mais simplement parce qu'ils en sont dépendants.
 

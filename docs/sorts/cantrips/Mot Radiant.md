@@ -5,15 +5,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: false
-Matériel: true
+Materiel: true
 detailmat: Un symbole sacré
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 5 ft.
+Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Word of Radiance
-status: empty
+writing_status: empty
 ---
 Vous prononcez un mot divin, et une radiance brûlante s'abat sur vous. Chaque créature de votre choix que vous pouvez voir à portée doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts radiants.
 

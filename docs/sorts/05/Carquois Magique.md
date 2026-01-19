@@ -5,15 +5,15 @@ level: 5
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un carquois contenant au moins une munition
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: false
 englishname: Swift Quiver
-status: finished
+writing_status: finished
 ---
 Vous transformez votre carquois afin qu'il produise sans cesse des munitions non magiques, qui semblent _sauter_ dans votre main lorsque vous la tendez pour la saisir. 
 

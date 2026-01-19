@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Équipés de babioles magiques des quatre coins du monde, les antiquaires ont un outil pour toutes les occasions : des flèches d'argent pour les lycanthropes, des pieux de bois pour les vampires, des reliques sacrées pour les fiélons et ainsi de suite. En développant leur collection de tas de babioles à véritable musée, ils deviennent de compétents arcanistes et historiens, familier avec l'histoire de chacun des objets magiques en leur possession ainsi qu'avec toutes leurs utilisations.
 

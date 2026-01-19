@@ -7,15 +7,15 @@ level: 9
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un cœur de verre brisé, souillé par le sang d'un humanoïde innocent
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Heure
-Portée: 8 Kilomètres
+Portee: 8 Kilomètres
 Concentration: false
 Rituel: false
 englishname: Armageddon
-status: finished
+writing_status: finished
 ---
 Vous incantez une série d'ordres, faisant appel à la moindre faveur et à la moindre force que vous pouvez mobiliser, vous préparant à briser la réalité. Vous ne pouvez pas vous déplacer pendant que vous lancez ce sort. Chaque créature à portée sait que vous lancez ce sort, est consciente des conséquences et connaît votre position exacte pendant toute la durée de l'incantation.
 

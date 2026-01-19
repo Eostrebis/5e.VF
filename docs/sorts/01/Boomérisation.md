@@ -8,15 +8,15 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Boomering
-status: empty
+writing_status: empty
 ---
 Un anneau d'étincelles est projeté de votre main et vous revient quelques instants plus tard. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, vous infligez 3d6 dégâts radiants. Si vous ratez, vous pouvez retenter le jet d'attaque contre la même cible une fois.
 

@@ -6,15 +6,15 @@ level: 3
 school: Évocation
 Verbal: true
 Somatique: false
-Matériel: true
+Materiel: true
 detailmat: N'importe quelle arme valant au moins 1 pa
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 5 ft.
+Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Almighty Assault
-status: finished
+writing_status: finished
 ---
 Dans le cadre de l'action utilisée pour lancer ce sort, vous devez effectuer une attaque d'arme au corps à corps contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
 

@@ -8,15 +8,15 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Réaction
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Silvery Barbs
-status: finished
+writing_status: finished
 ---
 En tant que réaction lorsqu'une créature que vous pouvez voir à 60 ft. réussit un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez la distraire magiquement et transformer ce doute temporaire en encouragement pour une autre créature. La créature qui a déclenché la réaction doit relancer le d20 et utiliser le plus petit des deux résultats.
 

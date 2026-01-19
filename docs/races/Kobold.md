@@ -1,6 +1,6 @@
 ---
 subrace: true
-status: finished
+writing_status: finished
 ---
 
 ### Description

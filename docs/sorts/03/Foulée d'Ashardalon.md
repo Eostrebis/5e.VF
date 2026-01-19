@@ -9,15 +9,15 @@ level: 3
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Ashardalon's Stride
-status: empty
+writing_status: empty
 ---
 Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 

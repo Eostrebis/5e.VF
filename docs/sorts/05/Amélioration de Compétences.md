@@ -9,15 +9,15 @@ level: 5
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: false
 englishname: Skill Empowerment
-status: finished
+writing_status: finished
 ---
 Votre magie vient approfondir chez une créature la compréhension de son propre talent. Vous touchez une créature consentante et lui conférez l'expertise dans une compétence de votre choix ; jusqu'à ce que le sort ne termine, la créature double son bonus de maîtrise pour les jets de caractéristique qu'elle réalise en utilisant la compétence choisie.
 

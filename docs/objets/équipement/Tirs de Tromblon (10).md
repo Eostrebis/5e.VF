@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 1
+cout: 1
 poids: 2
 englishname: Blunderbuss Shot
-status: empty
+writing_status: empty
 ---

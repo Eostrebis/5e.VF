@@ -8,15 +8,15 @@ level: 2
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une plume d'oiseau de proie
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action Bonus
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Aerial Alacrity
-status: empty
+writing_status: empty
 ---
 Ciblez une créature consentante que vous pouvez voir à portée qui possède une vitesse de vol. Cette créature bénéficie des effets suivants pendant la durée du sort : 
 

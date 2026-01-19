@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Une naine baraquée abat son marteau sur un morceau d'acier rougeoyant, faisant s'envoler une pluie d'étincelles dans les airs. La pièce résonne avec le bruit du métal entrechoquant du métal, tandis que le bout d'acier, chaud et brillant, commence à prendre forme entre ses pinces.
 

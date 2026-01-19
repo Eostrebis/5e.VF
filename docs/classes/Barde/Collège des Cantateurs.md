@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Les cantateurs sont un groupe de barde qui guident les croyants par la prière et le dévouement aux dieux. Leur musique est directement orientée vers les cieux, leur instrument généralement lié au dieu qu'ils vénèrent. Les cantateurs sont grandement appréciés dans leurs communautés et il est dur d'en trouver un qui reste bien longtemps au même endroit, tant la demande pour leur voix apaisante est forte.
 

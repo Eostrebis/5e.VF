@@ -11,15 +11,15 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Cure Wounds
-status: empty
+writing_status: empty
 ---
 Une créature que vous touchez regagne un nombre de points de vie égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les constructions.
 

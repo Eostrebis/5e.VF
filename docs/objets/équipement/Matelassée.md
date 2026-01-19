@@ -1,9 +1,9 @@
 ---
 type: Armure Légère
-coût: 5
+cout: 5
 poids: 8
 englishname: Padded
-status: finished
+writing_status: finished
 ---
 Une armure matelassée consiste en de multiples niveaux de tissus et de ouate.
 

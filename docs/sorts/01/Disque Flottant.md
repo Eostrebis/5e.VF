@@ -6,15 +6,15 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une goutte de mercure
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: true
 englishname: Floating Disk
-status: empty
+writing_status: empty
 ---
 Ce sort crée un plan de force horizontal et circulaire de 3 ft. de diamètre et épais de quelques centimètres qui flotte 3 ft. au-dessus du sol d'un espace inoccupé de votre choix que vous pouvez voir à portée. Le disque persiste pour la durée du sort, et peut soutenir jusqu'à 250 kg. Si un poids supérieur est placé sur le disque, le sort se termine et tout ce qui se trouve sur le disque tombe au sol.
 

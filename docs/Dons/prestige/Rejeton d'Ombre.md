@@ -1,5 +1,5 @@
 ---
 englishname:
 requis:
-status: empty
+writing_status: empty
 ---

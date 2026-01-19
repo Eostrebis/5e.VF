@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La guerre se manifeste de multiples façons. Elle peut transformer des peuples ordinaires en héros. Elle peut être désespérée et horrible, où les actes de cruauté et de couardise éclipsent ceux d'excellence et de courage. Dans tous les cas, les dieux de la guerre observent les guerriers et les récompensent pour leurs exploits. Les clercs de ces dieux excellent au combat, inspirant les autres à rejoindre le combat ou offrant des actes d'une rare violence en guise de prière. Les dieux de la guerre incluent aussi bien les champions de l'honneur et de la chevalerie que les dieux de la destruction et du pillage et ceux de la conquête et de la domination. D'autres dieux de la guerre ont une posture neutre, encourageant la guerre sous toutes ses formes et récompensant tous les guerriers.
 

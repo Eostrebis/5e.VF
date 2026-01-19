@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 2
+cout: 2
 poids: 2
 englishname: Bullets
-status: empty
+writing_status: empty
 ---

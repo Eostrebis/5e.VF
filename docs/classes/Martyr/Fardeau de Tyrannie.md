@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 
 Lorsque les dieux aux mauvaises intentions trouvent le monde trop pacifié et passif, ils envoient un martyr de tyrannie pour conquérir des royaumes, assujettir les faibles, et propager la misère de leur lame. Une fois lancés, ces martyrs ne s'arrêtent pas tant qu'ils n'ont pas établi un empire qu'ils peuvent diriger d'une main de fer. Ils réclament le sang de leurs ennemis et la loyauté sans faille de leurs alliés, prenant plaisir à chaque acquisition de pouvoir et à chaque entourloupe. Ce n'est pas assez de diriger : ils doivent être craints, et toute résistance doit se cacher dans les ombres. Seulement alors les dieux les laisseront mourir, probablement frappé dans le dos par un individu plus cruel encore.

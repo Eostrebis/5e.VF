@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les dieux de la connaissance valorisent l'apprentissage et la compréhension au-dessus de toute autre chose. Certains enseignent que le savoir doit être rassemblé et partagé dans les bibliothèques et universités, ou promeuvent l'application pratique de la connaissance à travers l'artisanat et l'invention. D'autres déités préfèrent emmagasiner cette connaissance en en gardant les secrets pour eux seuls. Enfin, d'autres promesses à leurs croyants qu'ils gagneront un immense pouvoir s'ils découvrent les secrets du multivers. Les croyants de ces dieux étudient des légendes ésotériques, collectionnent de vieux livres, s'aventurent au plus profond de la terre et apprennent tout ce qu'ils peuvent.
 

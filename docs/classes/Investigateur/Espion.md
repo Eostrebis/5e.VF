@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Infiltration, déguisement et mensonge tel un arracheur de dents, voilà les principales qualités d'un espion. Un espion talentueux n'a que rarement besoin de dégainer sa dague pour se débarrasser d'un témoin, puisque leurs mots doux et autres dispositions sont tout ce dont ils ont besoin pour extirper les secrets. Bien sûr, lorsqu'ils frappent, c'est fait décisivement et sans prévenir. Ces qualités sont d'une extrême valeur pour les gouvernements et organisations de toutes sortes, pour récupérer des informations confidentielles, saboter, surveiller des personnalités d'intérêts et tout ce qui pourrait se trouver au milieu de tout cela.
 

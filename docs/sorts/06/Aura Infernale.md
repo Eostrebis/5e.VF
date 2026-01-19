@@ -7,15 +7,15 @@ level: 6
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un talisman d'obsidienne valant au moins 100 po
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Hellish Halo
-status: finished
+writing_status: finished
 ---
 Vous invoquez une immense auréole de flammes qui vous entoure, embrasant l'air autour de votre corps et vous imprégnant d'une vitalité brûlante. Lorsqu'une créature pénètre dans un espace à moins de 10 ft. de vous pour la première fois lors d'un tour ou y commence son tour, la cible subit 5d10 dégâts de feu.
 

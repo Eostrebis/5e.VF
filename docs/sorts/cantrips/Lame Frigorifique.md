@@ -5,15 +5,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: false
-Matériel: true
+Materiel: true
 detailmat: Une arme de mêlée d'une valeur d'au moins 1pa
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: Personnelle (rayon de 5 ft.)
+Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Frigid Blade
-status: empty
+writing_status: empty
 ---
 Dans la même action que celle utilisée pour lancer ce sort, vous devez réalisez une attaque de mêlée avec une arme contre une créature à portée, ou le sort échoue. Si vous touchez, l'attaque inflige les dégâts normalement, si ce n'est que ce sont des dégâts de froid. De plus, la cible est couverte d'un léger givre jusqu'au début de votre prochain tour. Si la cible bouge volontairement d'ici là, vous pouvez utiliser votre réaction pour lui infliger 1d8 dégâts de froid, terminant le sort.
 

@@ -1,7 +1,7 @@
 ---
 englishname: Gun-Mage Adept
 requis: Incantation ou Magie de Pacte
-status: empty
+writing_status: empty
 ---
 Vous avez appris à fusionner la subtilité des arcanes avec la brutalité des armes à feu, bénéficiant ainsi des effets suivants : 
 

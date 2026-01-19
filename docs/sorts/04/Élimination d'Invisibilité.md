@@ -9,15 +9,15 @@ level: 4
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une poudre d'argent valant au moins 100 PO
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Personnelle (rayon de 120 ft.)
+Portee: Personnelle (rayon de 120 ft.)
 Concentration: false
 Rituel: false
 englishname: Invisibility Purge
-status: empty
+writing_status: empty
 ---
 Vous purgez les effets d'invisibilité magique dans un rayon de 120 ft. autour de vous. Toute créature, objet, emplacement ou effet à 120 ft. de vous qui est caché par une invisibilité magique est révélé et l'invisibilité est dissipée.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de Dévotion lie un paladin aux idéaux les plus nobles de justice, de vertu et d'ordre. Parfois appelés cavaliers, chevaliers blancs ou guerriers saints, ces paladins incarnent l'idéal du chevalier en armure étincelante, agissant avec honneur dans la poursuite de la justice et du bien commun. Ils s'imposent les standards de conduite les plus élevés, et certains, pour le meilleur comme pour le pire, attendent du reste du monde qu'il respecte ces mêmes standards. Beaucoup de ceux qui prêtent ce serment sont dévoués aux dieux de la Loi et du Bien et utilisent les principes de leurs dieux comme mesure de leur dévotion. Ils considèrent les anges — les parfaits serviteurs du bien — comme leurs idéaux, et incorporent des images d'ailes angéliques sur leurs heaumes ou leurs blasons.
 

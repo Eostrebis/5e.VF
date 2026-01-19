@@ -1,5 +1,5 @@
 ---
-status: wip
+writing_status: wip
 ---
 Un grand humain avance face au blizzard, emmitouflé dans de la fourrure, et traînant sa hache. Il rigole et fonce sur le géant des glaces qui a osé s'aventurer sur le territoire de son clan.
 

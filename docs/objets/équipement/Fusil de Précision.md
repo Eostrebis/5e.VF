@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 500
+cout: 500
 poids: 8
 englishname: Sniper Rifle
-Ère: Moderne
-status: empty
+Ere: Moderne
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                                                   |

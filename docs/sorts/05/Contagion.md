@@ -8,15 +8,15 @@ level: 5
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 7 Jours
+Duree: 7 Jours
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Contagion
-status: finished
+writing_status: finished
 ---
 Votre toucher inflige une maladie. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible est [[empoisonné|empoisonnée]].
 

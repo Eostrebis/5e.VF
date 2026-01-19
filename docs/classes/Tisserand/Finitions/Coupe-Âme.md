@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 10*
 

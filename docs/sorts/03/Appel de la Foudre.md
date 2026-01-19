@@ -6,15 +6,15 @@ level: 3
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Call Lightning
-status: empty
+writing_status: empty
 ---
 Un nuage tempêtueux apparaît sous la forme d'un cylindre haut de 10 ft. et d'un rayon de 60 ft., centré sur un point que vous pouvez voir à portée directement au-dessus de vous. Le sort échoue si vous ne voyez pas un point en l'air où le nuage pourrait apparaître.
 

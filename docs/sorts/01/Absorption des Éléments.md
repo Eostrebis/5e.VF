@@ -10,16 +10,16 @@ level: 1
 school: Abjuration
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Réaction
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 reaction: Quand vous prenez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
 englishname: Absorb Elements
-status: completed
+writing_status: completed
 ---
 Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous avez la résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible prend 1d6 dégâts supplémentaires du type correspondant, et le sort se termine.
 

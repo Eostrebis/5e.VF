@@ -1,9 +1,9 @@
 ---
 type: Utilitaire
-coût: 50
+cout: 50
 poids: 8
 englishname: Alchemist's Supplies
-status: finished
+writing_status: finished
 ---
 Le matériel d'Alchimiste vous permet de concocter des potions utiles, comme de l'[[Acide (fiole)|acide]] ou du [[Feu Grégeois (flasque)|feu grégeois]].
 

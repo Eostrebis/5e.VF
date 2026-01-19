@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un zombie est l'assemblage des restes en décomposition d'un être autrefois vivant, tenu et dirigé par la magie noire.
 

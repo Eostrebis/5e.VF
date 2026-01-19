@@ -10,15 +10,15 @@ level: 0
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Acid Splash
-status: finished
+writing_status: finished
 ---
 Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir dans la portée. Si vous en choisissez deux, elles doivent être à 5 ft. l'une de l'autre. Une cible doit réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts d'acide.
 

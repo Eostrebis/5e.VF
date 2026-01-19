@@ -6,15 +6,15 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Searing Smite
-status: finished
+writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme reluit d'une chaleur de l'acier blanc, et l'attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'embrase.
 

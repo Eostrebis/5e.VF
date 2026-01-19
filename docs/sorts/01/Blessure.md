@@ -7,15 +7,15 @@ level: 1
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Inflict Wounds
-status: finished
+writing_status: finished
 ---
 Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 3d10 dégâts nécrotiques. 
 

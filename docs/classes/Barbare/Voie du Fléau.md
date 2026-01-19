@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le survivant naufragé d'une tempête de Changement tente de soigner ses blessures, sachant pertinemment qu'il risque de bientôt se perdre au profit du monstre qui bourgeonne en lui. Le champion d'une tribu de diables des récifs communie avec des voix émanant d'au-delà du voile, considérant sa transformation comme un sacrement sacré avec Xuexuetque. Un explorateur intrépide touche une relique de trop et devient le récipiendaire d'une bénédiction macabre, chevauchant la ligne entre folie et contrôle.
 

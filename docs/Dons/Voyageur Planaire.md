@@ -1,7 +1,7 @@
 ---
 englishname: Planar Wanderer
 requis: Niveau 4, Rejeton des Plans Extérieurs
-status: empty
+writing_status: empty
 ---
 Vous pouvez puiser dans les forces du multivers afin de survivre aux extrêmes cosmiques et pour traverser d'immenses royaumes. Vous bénéficiez des effets suivants :
 

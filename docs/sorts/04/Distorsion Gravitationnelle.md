@@ -9,15 +9,15 @@ level: 4
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un gyroscope
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: true
 englishname: Distort Gravity
-status: empty
+writing_status: empty
 ---
 Ce sort manipule la direction de la gravité sur une surface non horizontale que vous touchez, la faisant attirer les créatures objets à 15 ft. comme si c'était le sol. La surface doit avoir une surface inférieure à 60 ft.² et peut s'"enrouler" autour d'une structure, si la géométrie le permet. Une créature peut marcher sur cette surface comme si c'était le sol, même si cette surface est perpendiculaire au sol ou à l'envers.
 

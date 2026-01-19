@@ -8,15 +8,15 @@ level: 5
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Animate Objects
-status: empty
+writing_status: empty
 ---
 Les objets prennent vie à votre demande. Choisissez jusqu'à dix objets non magiques à portée qui ne sont pas portés. Les objets de taille M comptent pour deux, ceux de taille G pour quatre, et les objets de taille TG comptent pour huit. Vous ne pouvez pas animer des objets plus grands que TG. Chaque cible s'anime et devient une créature sous votre contrôle jusqu'à ce que le sort finisse, ou qu'elle soit réduite à 0 point de vie.
 

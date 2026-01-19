@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Pendant des siècles, le pinacle des véhicules mécanisés était la [[machine du crabe]], un objet singulier capable d'explorer les environnements inhospitaliers, des fonds de mer aux champs volcaniques. Cependant, les artisans ambitieux de la guilde des Mécanautes ont pensé un nouveau véhicule, plus impressionnant et plus customisable que l'ancienne machine. Cet appareil est une forteresse mobile, équipé de poings sauvages, de jambes solides et d'améliorer pour contrôler le climat — un véhicule pour surpasser les autres, un véritable exploit d'ingénierie.
 

@@ -1,7 +1,7 @@
 ---
 englishname: Heavily Armored
 requis:
-status: empty
+writing_status: empty
 ---
 
 Vous vous êtes entraîné afin de maîtriser l'utilisation des armures lourdes, et vous bénéficiez des effets suivants : 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les Porte-Loi entendent l'appel stable et implacable de la loi universelle et y répondent sans douter. Cet ensemble de consignes invisibles organise l'univers en son état actuel, mais toute déviation risque de déstabiliser l'ensemble de la création. Des changements de réalités imprudents, le voyage dans le temps et l'immortalité sont toutes des violations de cette loi et doivent être punis. Les Porte-Loi sont appelés pour faire respecter les lois magiques et sociétales, et pour délivrer des sanctions lorsque cela s'avère nécessaire. 
 

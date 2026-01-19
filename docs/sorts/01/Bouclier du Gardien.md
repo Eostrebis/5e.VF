@@ -9,14 +9,14 @@ level: 1
 school: Abjuration
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Réaction
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Shield
-status: empty
+writing_status: empty
 ---
 Lorsqu'une créature non hostile à portée (ou vous) se fait attaquer, vous pouvez utiliser une réaction pour la protéger magiquement, lui conférant un bonus de +2 à la CA contre cette attaque.

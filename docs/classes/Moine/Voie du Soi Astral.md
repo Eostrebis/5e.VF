@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Un moine qui suit la voie du soi astral pense que son corps n'est qu'illusion. Ils voient leur ki comme une représentation de leur vraie forme, un soi astral. Ce soi astral a la capacité d'être une force d'ordre ou de chaos, avec certains monastères qui entraînent leurs étudiants à utiliser leur pouvoir pour protéger les faibles et d'autres qui enseignent aux aspirants comme manifester son véritable soi pour mieux servir les puissants.
 

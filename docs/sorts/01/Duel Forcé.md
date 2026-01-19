@@ -6,15 +6,15 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Compelled Duel
-status: empty
+writing_status: empty
 ---
 Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit réaliser un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle réalise contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.
 

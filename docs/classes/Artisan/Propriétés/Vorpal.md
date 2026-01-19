@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme exotique chef-d'œuvre qui inflige des dégâts tranchants

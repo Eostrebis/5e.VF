@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 850
+cout: 850
 poids: 10
 englishname: Grenade Launcher
-Ère: Moderne
-status: empty
+Ere: Moderne
+writing_status: empty
 ---
 
 | Dégâts     | Propriétés                                                    |

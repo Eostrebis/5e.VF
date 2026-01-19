@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Simple
-coût: 1
+cout: 1
 poids: 2
 englishname: Sickle
-status: finished
+writing_status: finished
 ---
 
 | Dégâts         | Propriétés |

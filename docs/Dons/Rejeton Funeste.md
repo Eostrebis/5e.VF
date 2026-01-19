@@ -1,7 +1,7 @@
 ---
 englishname: Baleful Scion
 requis: Niveau 4, Rejeton des Plans Extérieurs (Plan Extérieur Mauvais)
-status: empty
+writing_status: empty
 ---
 Vous pouvez canaliser les forces cosmiques du mal pour gagner les effets suivants : 
 

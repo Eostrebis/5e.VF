@@ -1,7 +1,7 @@
 ---
 englishname: Rune Carver
 requis: Incantation ou historique de Graveur de Runes
-status: empty
+writing_status: empty
 ---
 Vous avez étudié la magie des runes de Géants, et bénéficiez des effets suivants : 
 

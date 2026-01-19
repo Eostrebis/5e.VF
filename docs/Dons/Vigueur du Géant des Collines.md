@@ -1,7 +1,7 @@
 ---
 englishname: Vigor of the Hill Giant
 requis: Niveau 4, Frappe des Géants (Frappe des Collines)
-status: empty
+writing_status: empty
 ---
 Vous avez manifesté en vous la résilience emblématique des géants de nuage, vous conférant les effets suivants : 
 

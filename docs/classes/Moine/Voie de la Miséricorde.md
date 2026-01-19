@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les moines qui suivent la voie de la miséricorde ont appris à manipuler la force vitale des autres pour apporter de l'aide à ceux qui en ont besoin. Ce sont des médecins itinérants auprès des pauvres et des blessés. Cependant, pour ceux dont le sort est scellé, ils apportent une fin rapide en guise de miséricorde.
 

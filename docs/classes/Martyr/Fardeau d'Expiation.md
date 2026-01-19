@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Pour tous les torts que vous avez pu causer dans votre vie, les dieux ont daigné vous offrir une seconde chance. Votre fardeau est de réparer vos erreurs, de défaire tout le mal que vous avez réalisé, et de chercher à obtenir la rédemption de la part des dieux. Comment vous réalisez ceci est laissé à votre discrétion, tant que vous retirez toutes les traces sombres que vous avez laissées derrière vous. Finalement, votre dernière action peut être un grand acte, prévenant un grand désastre ou bannissant une force maléfique, ou cela peut être aussi simple que remettre une mauvaise personne sur le droit chemin, et la conduire à chercher la rédemption, passant le flambeau à un nouveau martyr de l'expiation.
 

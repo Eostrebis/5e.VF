@@ -4,7 +4,7 @@ choices:
   - Drakéïde Chromatique
   - Drakéïde Diamantin
   - Drakéïde Métallique
-status: finished
+writing_status: finished
 ---
 ### Description
 

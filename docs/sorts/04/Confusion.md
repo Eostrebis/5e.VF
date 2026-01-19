@@ -9,15 +9,15 @@ level: 4
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Trois coquilles de noix
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 90 ft.
+Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Confusion
-status: finished
+writing_status: finished
 ---
 Ce sort agresse et perturbe les esprits des créatures, faisant apparaître hallucinations et provoquant des actions incontrôlées. Chaque créature dans un rayon de 10 ft. autour d'un point que vous choisissez à portée doit réussir un jet de sauvegarde de Sagesse ou être affectée par ce sort.
 

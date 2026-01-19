@@ -11,15 +11,15 @@ level: 4
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un objet désagréable pour la cible
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Banishment
-status: empty
+writing_status: empty
 ---
 Vous tentez d'envoyer dans un autre plan d'existence une créature à portée que vous pouvez voir. La cible doit réussir un jet de sauvegarde de Charisme sous peine d'être bannie.  
 

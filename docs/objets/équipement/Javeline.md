@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Simple
-coût: 0.5
+cout: 0.5
 poids: 2
 englishname: Javelin
-status: finished
+writing_status: finished
 ---
 | Dégâts       | Propriétés   |
 | ------------ | ------------ |

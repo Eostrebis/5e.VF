@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les buveurs de sang, morts-vivants et autres créatures de la nuit sont souvent craints et chassés, et peu se place comme leur défenseur ; excepté, bien sûr, les sinistres et terribles chasseurs nocturnes. Les histoires de ces chasseurs sont racontées dans les contes pour enfant, les représentant comme des choses à craindre : chasseurs de clercs et exterminateurs de bons vampires. Leur présence ne présage rien de bon, généralement de longues nuits et une recrudescence du nombre de morts-vivants.
 

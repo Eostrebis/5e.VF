@@ -5,15 +5,15 @@ level: 3
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une goutte d'huile de lanterne et une pincée de souffre
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Pillar of Salt
-status: empty
+writing_status: empty
 ---
 Vous déchaînez une portion de colère divine sur un point que vous pouvez voir à portée. Chaque créature que vous choisissez dans une sphère de 10 ft. autour de ce point doit réaliser un jet de sauvegarde de Constitution. Sur un échec, une créature prend 7d6 dégâts nécrotiques, ou la moitié en cas de réussite. Si les dégâts réduisent une cible ayant échoué son jet à 0 point de vie, elle est transformée en pilier de sel.
 

@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 1250
+cout: 1250
 poids: 20
 englishname: Rocket Launcher
-Ère: Moderne
-status: empty
+Ere: Moderne
+writing_status: empty
 ---
 
 | Dégâts      | Propriétés                                                                            |

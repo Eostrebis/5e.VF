@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action, choisissez un objet non magique que vous voyez à 30 ft. Vous ne pouvez pas cibler un objet qui pèse plus de 5 kg, ni un qui est porté en tant que vêtement ou armure. Néanmoins, vous pouvez cibler certains objets qui sont portés, tant qu'ils ne sont pas enroulés autour du corps ou tenus en main. Par exemple, vous ne pouvez pas cibler un casque ou une épée maniée, mais vous pouvez cibler la bourse accrochée à la ceinture ou une dague qui est dans son fourreau sur le flanc.
 

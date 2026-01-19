@@ -7,15 +7,15 @@ level: 3
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une pincée de poussière et quelques gouttes d'eau
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 150 ft.
+Portee: 150 ft.
 Concentration: true
 Rituel: false
 englishname: Sleet Storm
-status: finished
+writing_status: finished
 ---
 Jusqu'à ce que le sort termine, une pluie gelée et du grésil tombent dans un cylindre d'un rayon de 40 ft. et haut de 20 ft. centré sur un point que vous choisissez à portée. La zone est fortement obscurée et les flammes exposées dans la zone sont éteintes.
 

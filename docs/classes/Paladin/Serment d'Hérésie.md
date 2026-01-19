@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les hérétiques existent sous toutes les formes, mais ceux qui jurent un Serment d'Hérésie ont été témoins d'une grande révélation : les prophètes de l'histoire sont faux et leurs clercs ont été égarés, car les dieux ont trompé le monde entier. Les hérétiques jurent de répandre leur vérité à quiconque veut l'entendre, rejetant les hommes saints et les inquisiteurs qui manquent de discernement pour prendre part à leur révolution. Naturellement, les hérétiques terminent leurs croisades de deux manières : canonisés pour avoir révolutionné la foi, ou brûlés sur le bûcher pour leurs transgressions.
 

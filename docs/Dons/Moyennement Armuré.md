@@ -1,7 +1,7 @@
 ---
 englishname: Moderately Armored
 requis: Maîtrise des armures légères.
-status: empty
+writing_status: empty
 ---
 Vous vous êtes entraînés pour pouvoir utiliser une armure moyenne et un bouclier, et vous bénéficiez des effets suivants : 
 

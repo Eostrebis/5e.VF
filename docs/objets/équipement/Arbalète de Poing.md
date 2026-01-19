@@ -1,9 +1,9 @@
 ---
 type: Arme Martiale à Distance
-coût: 75
+cout: 75
 poids: 3
 englishname: Crossbow, Hand
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés                           |

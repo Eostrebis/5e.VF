@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de l'Hiver était à l'origine un pacte conclu avec une ancienne entité de glace, le Père Hiver. Par ce traité, un paladin jure de se dresser en rempart contre le froid, protégeant les innocents des ravages du gel hivernal et des horreurs du nord impitoyable. Bien que le Père Hiver ait sombré dans l'oubli au fil des siècles, l'ordre des paladins ayant prêté ce serment a perduré, leur accord et leur devoir demeurant éternels.
 

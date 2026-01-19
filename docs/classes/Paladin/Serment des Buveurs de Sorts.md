@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment des Buveurs de Sorts est voué à débarrasser le monde des mages renégats, tels que les liches ou les occultistes, afin de protéger les sans-défense contre les forces de la magie maléfique. Les paladins qui prêtent ce serment croient au maintien de l'équilibre des pouvoirs entre l'ordinaire et l'extraordinaire, eux-mêmes inclus.
 

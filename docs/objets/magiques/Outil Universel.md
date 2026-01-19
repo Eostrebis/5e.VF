@@ -1,9 +1,9 @@
 ---
 type: Objet Merveilleux
-rareté: Variable
+rarete: Variable
 attunement: true
 attdet: par un artificier
-status: empty
+writing_status: empty
 ---
 Ce simple tournevis peut se transformer en une grande variété d'outils ; pour une action, vous pouvez toucher l'objet et le transformer en n'importe quel outil d'artisan de votre choix. Quelle que soit la forme que l'objet prend, vous le maîtrisez.
 

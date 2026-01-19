@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l'âme persistante d'un humanoïde décédé. Leur désir ardent pour la vie qu'ils ont pu vivre les attache au domaine mortel et rend fou ceux qui ont le malheur d'apercevoir leur visage.
 

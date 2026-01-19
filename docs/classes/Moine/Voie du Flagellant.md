@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La voie du flagellant enseigne une vue de l'ascétisme extrême, proche de l'hérésie : la paix intérieure vient de la souffrance, la pureté par la douleur. Ces pratiquants abandonnent tout confort et embrasse leur souffrance pour maîtriser leur ki, s'isolant du monde matériel. Ainsi, ces moines manient souvent d'énormes fléaux ainsi que des fouets, aussi bien sur les autres que sur eux-mêmes. Leur douleur est une pénitence et une façon de se concentrer, leur permettant de bloquer tout le reste et de se concentrer pour parfaitement manipuler leur ki
 

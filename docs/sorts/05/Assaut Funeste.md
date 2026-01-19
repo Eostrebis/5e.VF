@@ -5,15 +5,15 @@ level: 5
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une arme de mêlée martiale d'une valeur d'au moins 1 pa
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: Spéciale
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Fell Onslaught
-status: finished
+writing_status: finished
 ---
 La première fois que vous prenez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour faire luire votre arme d'une puissance occulte et fendre le tissu de la réalité à chaque coup. La première fois que vous touchez pendant ce tour, votre attaque inflige 2d10 dégâts de force supplémentaires, et la cible est affligée d'une malédiction maligne.
 

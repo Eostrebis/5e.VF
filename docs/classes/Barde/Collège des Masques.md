@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les bardes du collège des masques (souvent appelés _maîtres des masques_) sont des comédiens hors pair qui s'entraînent à devenir leur personnage plutôt que de simplement l'imiter. Les bardes qui rejoignent ce collège viennent à penser que tout n'est que jeu et qu'il suffit de métaphoriquement se masquer pour devenir acteur de la Grande Pièce qu'est la vie. Pour être au niveau du drame quotidien, un maître des masques possède sur lui multitudes de masques, chacun un puissant artefact magique représentant un archétype.
 

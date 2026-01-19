@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 175
+cout: 175
 poids: 8
 englishname: Hunting Rifle
-Ère: Industrielle
-status: empty
+Ere: Industrielle
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                                |

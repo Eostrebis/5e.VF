@@ -12,15 +12,15 @@ level: 2
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit bout de fer droit
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Hold Person
-status: empty
+writing_status: empty
 ---
 Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.
 

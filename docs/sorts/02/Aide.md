@@ -10,15 +10,15 @@ level: 2
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit morceau de tissu blanc
-Durée: 8 Heures
+Duree: 8 Heures
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Aid
-status: empty
+writing_status: empty
 ---
 Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de point de vie et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort.
 

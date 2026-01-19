@@ -11,15 +11,15 @@ level: 7
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une tige de métal en fourchette d'une valeur d'au moins 250 po, accordée avec un plan d'existence particulier
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Plane Shift
-status: finished
+writing_status: finished
 ---
 Vous et jusqu'à 8 créatures consentantes aux mains liées en cercle êtes transportées vers un plan d'existence différent. Vous pouvez préciser la destination cible en termes généraux, comme la Cité de Bronze du Plan Élémentaire du Feu ou le Palace de Dispater au second niveau des Neufs Enfers, et vous apparaissez dans ou proche de la destination, à la discrétion du MJ.
 

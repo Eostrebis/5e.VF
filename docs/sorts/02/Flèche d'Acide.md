@@ -6,15 +6,15 @@ level: 2
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une feuille de rubarbe en poudre, et un estomac de vipère
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 90 ft.
+Portee: 90 ft.
 Concentration: false
 Rituel: false
 englishname: Acid Arrow
-status: empty
+writing_status: empty
 ---
 Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible prend `dice:4d4|avg` dégâts d'acide immédiatement, et `dice:2d4|avg` à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
 

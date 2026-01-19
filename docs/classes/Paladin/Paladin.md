@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Vêtue d'une armure de plaques étincelant sous le soleil malgré la poussière et la crasse d'un long voyage, une humaine dépose son épée et son bouclier pour apposer ses mains sur un homme mortellement blessé. Une lueur divine émane de ses paumes, les plaies de l'homme se referment, et il ouvre de grands yeux stupéfaits.
 

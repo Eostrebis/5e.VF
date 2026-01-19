@@ -10,15 +10,15 @@ level: 4
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Charm Monster
-status: finished
+writing_status: finished
 ---
 Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit réaliser un jet de sauvegarde de Sagesse, qu'elle réalise avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[charmé|charmée]] par vous jusqu'à ce que le sort ne termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature charmée est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 

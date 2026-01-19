@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Domaine de l'Ordre représente la discipline, ainsi que la dévotion aux lois qui gouvernent la société, une institution ou une philosophie. Les Clercs de l'Ordre méditent sur la logique et la justice tout en servant leurs dieux.
 

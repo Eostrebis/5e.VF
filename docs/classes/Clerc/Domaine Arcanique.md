@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La magie est une énergie qui infuse le multivers et qui alimente à la fois la création et la destruction. Les dieux du Domaine Arcanique ne connaissent que trop bien les secrets et le potentiel de la magie. Pour certains de ces dieux, la connaissance magique est une grande responsabilité qui vient avec une compréhension toute particulière de la nature de la réalité. Pour d'autres, la magie est un simple pouvoir, qui doit être utilisé comme bon le semble à son détenteur.
 

@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 5
+cout: 5
 poids: 3
 englishname: Grenade
-status: empty
+writing_status: empty
 ---

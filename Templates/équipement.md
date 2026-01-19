@@ -1,6 +1,6 @@
 ---
-type: 
-coût: 
-poids: 
+type:
+cout:
+poids:
 englishname:
 ---

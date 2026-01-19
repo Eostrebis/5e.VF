@@ -1,7 +1,7 @@
 ---
 type: Arme
-coût: 
-poids: 
+cout:
+poids:
 englishname:
 ---
 

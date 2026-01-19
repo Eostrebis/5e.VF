@@ -6,15 +6,15 @@ level: 5
 school: Divination
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Minute
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Contact Other Plane
-status: finished
+writing_status: finished
 ---
 Vous contactez mentalement un demi-dieu, l'esprit d'un sage depuis longtemps disparu ou toute autre entité mystérieuse d'un autre plan. Contacter cette intelligence extraplanaire peut épuiser, voire même briser votre esprit. Lorsque vous lancez ce sort, réalisez un jet de sauvegarde d'Intelligence DD 15. Si vous échouez, vous prenez 6d6 dégâts psychiques et êtes fou jusqu'à ce que vous terminiez un repos long. Tant que vous êtes fou, vous ne pouvez pas prendre d'action, ne pouvez pas comprendre ce que les autres créatures vous disent, ne pouvez pas lire et ne pouvez parler qu'en charabia. Un sort de [[restauration supérieure]] lancé sur vous permet de terminer cet effet.
 

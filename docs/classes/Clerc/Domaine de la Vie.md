@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le domaine de la vie se concentre sur l'énergie positive — une des forces fondamentales de l'univers — qui maintient la vie. Les dieux de la vie encouragent la vitalité et la santé en soignant malades et blessés, en aidant ceux dans le besoin, et en repoussant les forces de la mort et les morts-vivants. Presque toutes les déités qui ne sont pas mauvaises peuvent prétendre à une influence sur ce domaine, en particulier celles liées à l'agriculture, le soleil, la santé et l'endurance ou la maison et les communautés.
 

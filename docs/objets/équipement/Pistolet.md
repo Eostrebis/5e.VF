@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 100
+cout: 100
 poids: 3
 englishname: Handgun
-Ère: Moderne
-status: empty
+Ere: Moderne
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                   |

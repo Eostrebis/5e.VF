@@ -1,9 +1,9 @@
 ---
 type: Équipement d'Aventure
-coût: 2
+cout: 2
 poids: 5
 englishname: Backpack
-status: empty
+writing_status: empty
 ---
 Un sac à dos est un sac de cuir porté sur le dos, généralement avec des sangles pour l'attacher. Un sac à dos peut contenir environ 30 litres ou 30 livres d'équipement.
 

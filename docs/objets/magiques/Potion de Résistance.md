@@ -1,9 +1,9 @@
 ---
 type: Potion
-rareté: Peu commun
+rarete: Peu commun
 attunement: false
 attdet:
-status: empty
+writing_status: empty
 ---
 Lorsque vous buvez cette potion, vous gagnez la résistance à un type de dégâts pendant 1 heure. Le MJ choisit le type ou le détermine aléatoirement parmi les options ci-dessous.
 

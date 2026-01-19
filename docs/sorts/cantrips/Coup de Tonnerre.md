@@ -12,15 +12,15 @@ level: 0
 school: Évocation
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 5 ft.
+Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Thunderclap
-status: empty
+writing_status: empty
 ---
 Vous créez un éclat de son tonitruant qui peut être entendu jusqu'à 100 ft. Chaque créature à portée autre que vous doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts de tonnerre.
 

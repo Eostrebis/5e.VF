@@ -11,14 +11,14 @@ level:
 school:
 Verbal: false
 Somatique: false
-Matériel:
+Materiel:
 detailmat:
-Durée:
+Duree:
 Incantation:
-Portée:
+Portee:
 Concentration:
 Rituel:
 englishname: Cryptogram
-status: empty
+writing_status: empty
 ---
 

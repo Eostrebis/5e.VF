@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les paladins qui prêtent le Serment de la Nuit Éternelle renoncent aux nobles standards de conduite et aux armures étincelantes de leurs compatriotes : à la place, ils revêtent une armure noircie et perpètrent des assassinats, usent de subterfuges et dispensent une justice expéditive sous le couvert de la nuit.
 

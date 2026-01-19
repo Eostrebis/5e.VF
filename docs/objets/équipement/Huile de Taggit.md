@@ -1,9 +1,9 @@
 ---
 type: Poison
-coût: 400
+cout: 400
 poids: 0.5
 englishname: Oil of Taggit
-status: empty
+writing_status: empty
 ---
 Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 24 heures. La créature empoisonnée est [[inconscient|inconsciente]]. La créature se réveille si elle prend des dégâts.
 

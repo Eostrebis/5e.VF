@@ -11,15 +11,15 @@ level: 2
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: De la fourrure ou la plume d'une bête
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: false
 englishname: Enhance Ability
-status: finished
+writing_status: finished
 ---
 Vous touchez une créature et lui conférez une amélioration magique. Choisissez l'un des effets suivants ; la cible bénéficie de l'effet jusqu'à ce que le sort se termine.
 

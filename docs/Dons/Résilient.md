@@ -1,7 +1,7 @@
 ---
 englishname: Resilient
 requis:
-status: empty
+writing_status: empty
 ---
 Choisissez une caractéristique. Vous bénéficiez des effets suivants : 
 

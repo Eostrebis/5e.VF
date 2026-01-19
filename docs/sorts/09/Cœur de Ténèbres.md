@@ -5,15 +5,15 @@ level: 9
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un cœur d'Humanoïde préparé avec de l'onyx et des diamants d'une valeur d'au moins 10000 PO
-Durée: Jusqu'à dissipation
+Duree: Jusqu'à dissipation
 Incantation: 1 Heure
-Portée: Personnelle (rayon de 2 km)
+Portee: Personnelle (rayon de 2 km)
 Concentration: false
 Rituel: false
 englishname: Heart of Darkness
-status: empty
+writing_status: empty
 ---
 Lorsque vous lancez ce sort, vous poignardez un cœur noir préparé ritualistiquement. L'ichor du cœur infecte le sol avec de nauséabondes énergies nécromantiques, causant jusqu'à cent piles d'os ou corps d'Humanoïdes de taille P ou M dans les 2 km à la ronde à se relever de la mort, devenant des squelettes ou des zombies. Les morts-vivants creusent leur chemin hors des tombes, fracassent les mausolées et brisent les portes des cimetières. 
 

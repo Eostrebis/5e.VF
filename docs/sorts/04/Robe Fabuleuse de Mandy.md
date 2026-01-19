@@ -5,15 +5,15 @@ level: 4
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une pantoufle de verre valant au moins 100 PO
-Durée: Spéciale
+Duree: Spéciale
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: true
 Rituel: false
 englishname: Mandy's Marvelous Dress
-status: empty
+writing_status: empty
 ---
 Une créature consentante que vous touchez est immédiatement habillée d'une magnifique robe de bal, parfaitement taillée et complétée par un ensemble de bijoux. Vous pouvez choisir de placer la robe par dessus les vêtements de la créature (dont son armure) ou de les remplacer. La créature ne peut retirer la robe jusqu'à ce que le sort termine; de même, les bijoux disparaissent lorsqu'ils sont dissociés de la robe. Jusqu'à ce que le sort termine, lorsque le porteur réalise un jet de Charisme, il peut traiter le résultat obtenu comme un 10.
 

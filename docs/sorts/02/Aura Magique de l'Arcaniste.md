@@ -6,15 +6,15 @@ level: 2
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un petit carré d'encre
-Durée: 24 Heures
+Duree: 24 Heures
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Arcanist's Magic Aura
-status: empty
+writing_status: empty
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son propos. La cible peut être une créature consentante ou un objet qui n'est pas porté par une autre créature.
 

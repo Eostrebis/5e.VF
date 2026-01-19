@@ -1,8 +1,8 @@
 ---
 type: Équipement d'Aventure
-coût:
+cout:
 poids:
 englishname: Vestments
-status: empty
+writing_status: empty
 ---
 Des vêtements religieux, généralement trouvés dans un sac d'ecclésiastique.

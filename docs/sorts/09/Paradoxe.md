@@ -7,15 +7,15 @@ level: 9
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Paradox
-status: empty
+writing_status: empty
 ---
 En faisant des nœuds avec le flux du temps, vous faites en sorte qu'une action de votre choix prise à portée pendant le dernier round n'ait en fait pas eu lieu. La réalité se réarrange, tremblant des dégâts subis par la suppression d'un évènement de la frise temporelle. Les effets directs de cette action, comme les dégâts infligés par une attaque ou un sort, sont défaits, mais les effets indirects, comme les créatures choisissant de se déplacer, ne le sont pas.
 

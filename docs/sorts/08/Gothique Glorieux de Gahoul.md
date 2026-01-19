@@ -5,15 +5,15 @@ level: 8
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un miniature de manoir gothique valant au moins 1000 PO
-Durée: 7 Jours
+Duree: 7 Jours
 Incantation: 1 Heure
-Portée: 2 kilomètres
+Portee: 2 kilomètres
 Concentration: false
 Rituel: false
 englishname: Gahoul's Glorious Gothic
-status: empty
+writing_status: empty
 ---
 Une faille s'ouvre, crachant des tonnes de briques et autres maçonneries qui s'assemblent pour former un large domaine gothique. La bâtisse comporte un manoir avec un coffre, une immense cour de 200 ft. par 200 ft. et une imposante barrière en fer de 10 ft. autour du périmètre. Toute les créatures à l'intérieur du domaine se voit escortée par des spectres inoffensifs mais puissants.
 

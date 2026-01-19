@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Toujours vigilant et sans jamais abandonner votre devoir, vous êtes un gardien des royaumes des hommes, appelé à surveiller une forteresse ou une muraille. En tant que sentinelle grise, entraîné dans les arts du combat, vous avez perfectionné vos compétences afin de repousser les envahisseurs qui voudraient s'emparer de votre territoire. Vous ne gardez pas nécessairement le même château toute votre vie, mais où que vous alliez, vous vous retrouvez à protéger des terres des armées étrangères, des monstres errants, et des autres menaces extérieures.
 

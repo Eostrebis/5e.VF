@@ -10,15 +10,15 @@ level: 3
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: De l'encens
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Speak with Dead
-status: finished
+writing_status: finished
 ---
 Vous conférez à un corps de votre choix à portée un simulacre de vie et d'intelligence, lui permettant de répondre aux questions que vous lui posez. Le corps doit toujours posséder une bouche et ne pas être Mort-Vivant. Le sort échoue si le corps a déjà été la cible de ce jour dans les 10 derniers jours.
 

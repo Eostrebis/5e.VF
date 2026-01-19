@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Construire par un assemblage sommaire d'os humanoïdes, une bête d'os ne ressemble en rien à un humain. Se déplaçant sur ses quatre pattes et avec de larges crocs osseux, la bête peut courir aussi vite qu'un ours et frapper aussi férocement qu'un lion.
 

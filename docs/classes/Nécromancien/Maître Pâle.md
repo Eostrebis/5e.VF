@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Lorsque c'est un besoin de supériorité qui guide un nécromancien, son ambition n'a aucune limite. De tels nécromanciens, appelés maîtres pâles, travaillent sans relâche pour maîtriser le moindre recoin de la magie nécromantique, moins par désir de s'améliorer, mais plus pour être meilleur que leurs rivaux. 
 

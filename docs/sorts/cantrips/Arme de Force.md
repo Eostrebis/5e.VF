@@ -5,15 +5,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un gant spécialement préparé valant 5 PO
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: 5 ft.
+Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Force Weapon
-status: empty
+writing_status: empty
 ---
 Vous invoquez une lame d'énergie magique dans les airs qui se déchaîne sur vos ennemis. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 1d10 dégâts de force. La lame persiste pour un court temps, jusqu'au début de votre prochain tour, vous pouvez réaliser un coup avec cette lame mystique comme attaque d'opportunité.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Amas abominable de chair, l'égorgeur ressemble encore vaguement à un humain de profil, si ce n'est pour la mâchoire béante présente au centre de son torse. Ses dents colossales ne sont rien d'autre que des côtes aiguisées, mais une de ses monstrueuses morsures suffit à décapiter.
 

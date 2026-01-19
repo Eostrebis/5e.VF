@@ -1,7 +1,7 @@
 ---
 englishname: Lucky
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez une chance inexpliquée qui semble toujours apparaître au moment opportun.
 

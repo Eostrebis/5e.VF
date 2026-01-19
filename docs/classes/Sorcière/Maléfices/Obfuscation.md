@@ -1,4 +1,4 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action, vous créez du brouillard dans une sphère de 20 ft. de rayon centrée sur vous. La sphère se propage autour des angles, et la zone devient fortement assombrie. Cet effet dure jusqu'à la fin de prochain tour ou qu'un vent modéré ou puissant ne vienne le disperser.

@@ -5,15 +5,15 @@ level: 2
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un tout petit trident en argent
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Devilish Hunt
-status: finished
+writing_status: finished
 ---
 Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perçants et doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.
 

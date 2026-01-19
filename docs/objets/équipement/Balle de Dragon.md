@@ -1,7 +1,7 @@
 ---
 type: Munition
-coût: 1
+cout: 1
 poids:
 englishname: Dragon Bullet
-status: empty
+writing_status: empty
 ---

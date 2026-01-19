@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 _Propriété d'Arme Légendaire_
 __Composantes :__ Arme à distance exotique chef-d'œuvre

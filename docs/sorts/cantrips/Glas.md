@@ -10,15 +10,15 @@ level: 0
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Toll the Dead
-status: empty
+writing_status: empty
 ---
 Vous pointez une créature que vous pouvez voir à portée, et le son d'une cloche funeste remplit l'aire autour d'elle pour un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou prendre 1d8 dégâts nécrotiques. S'il manque des points de vie à la cible, elle prend plutôt 1d12 dégâts nécrotiques.
 

@@ -1,4 +1,4 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Charisme ou, jusqu'à la fin de votre prochain tour, devenir indifférente vis-à-vis d'une créature envers laquelle elle était hostile. Cette indifférence se termine si la cible est attaquée ou blessée par la créature à laquelle elle est indifférente. Lorsque le maléfice se termine, la créature redevient hostile, sauf si le MJ en décide autrement.

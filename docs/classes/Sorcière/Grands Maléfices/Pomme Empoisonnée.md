@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action, vous pouvez produire une pomme magique de nulle part. Cette pomme a l'apparence de votre choix, que ce soit de cristal, d'or ou d'un rouge flamboyant. Pendant votre tour, vous pouvez utiliser votre action pour manger la pomme, et bénéficier des effets suivants : 
 

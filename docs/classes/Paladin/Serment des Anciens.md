@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment des Anciens est aussi ancien que la race des elfes et les rituels des druides. Parfois appelés chevaliers féeriques, chevaliers verts ou chevaliers cornus, les paladins qui prêtent ce serment se rangent du côté de la lumière dans la lutte cosmique contre les ténèbres car ils chérissent les choses belles et vivifiantes de ce monde, et pas nécessairement par croyance en des principes d'honneur, de courage et de justice. Ils ornent leurs armures et vêtements de motifs naturels — feuilles, bois de cerfs ou fleurs — pour refléter leur engagement à préserver la vie et la lumière dans le monde.
 

@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Vous regagnez des points de vie lorsque vous buvez cette potion. Le nombre de points de vie dépend de la rareté de la potion. Quelle que soit sa puissance, le liquide rouge de la potion scintille lorsqu'il est secoué.
 

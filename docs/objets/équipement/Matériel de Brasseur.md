@@ -1,9 +1,9 @@
 ---
 type: Utilitaire
-coût: 20
+cout: 20
 poids: 9
 englishname: Brewer's Supplies
-status: finished
+writing_status: finished
 ---
 Non seulement la bière est une boisson alcoolisée, mais la brasserie revient avant tout à purifier l'eau. Créer de la bière demande des semaines de fermentation, mais seulement quelques heures de travail.
 

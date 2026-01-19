@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Une vieille femme décrépite tend le bras et s'accroche difficilement au poignet d'un chevalier expérimenté. Le chevalier se moque gentiment de l'assaut de la vieille avant de s'effondrer quelques minutes plus tard, desséché et mort.
 

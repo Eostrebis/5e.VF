@@ -11,7 +11,7 @@ def get_status(file) -> str:
         with open(file, encoding='utf8') as f:
             lines = f.readlines()
             for line in lines:
-                if line.startswith('status'):
+                if line.startswith('writing_status'):
                     return line[7:].strip()
 
 def evaluate_status(status) -> float:

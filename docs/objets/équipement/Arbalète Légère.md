@@ -1,9 +1,9 @@
 ---
 type: Arme Simple à Distance
-coût: 25
+cout: 25
 poids: 5
 englishname: Light Crossbow
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés                                  |

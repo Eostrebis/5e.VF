@@ -1,4 +1,4 @@
 ---
-status: empty
+writing_status: empty
 ---
 ![[Porkoa.jpg]]

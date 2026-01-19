@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les moines suivant la Voie de la Paume sont les maîtres ultimes des arts martiaux, armés ou non. Ils apprennent des techniques pour repousser et faire tomber leurs adversaires, ainsi qu'à manipuler le ki pour soigner les dégâts infligés à leur corps, et suivent des pratiques de méditation poussées qui les protègent.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 À travers les éprouvettes bouillonnantes et les électrodes étincelantes, vous avez aperçu le véritable cœur de la nécromancie : la science, mais pas la science d'un esprit sain, non, la science folle. Vous avez expérimenté dans tous les domaines de la chirurgie, l'alchimie et la physique, utilisant vos sbires animés comme de vulgaires sujets de test et comme des mannequins de chirurgie. Plus important encore, vous avez découvert que la foudre peut insuffler un semblant de vie à toute chose, du plus petit muscle sectionné aux plus grands et sans âme des golems. 
 

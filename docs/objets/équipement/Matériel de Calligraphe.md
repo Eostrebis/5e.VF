@@ -1,7 +1,7 @@
 ---
 type: Utilitaire
-coût: 10
+cout: 10
 poids: 5
 englishname: Calligrapher's Supplies
-status: empty
+writing_status: empty
 ---

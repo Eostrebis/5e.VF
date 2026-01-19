@@ -1,9 +1,9 @@
 ---
 type: Poison
-coût: 250
+cout: 250
 poids: 0.5
 englishname: Pale Tincture
-status: empty
+writing_status: empty
 ---
 Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 16 ou prendre 3 (1d6) dégâts de poison et être [[empoisonné|empoisonnée]]. La créature empoisonnée doit répéter ce jet de sauvegarde toutes les 24 heures, prenant 3 (1d6) dégâts de poison en cas d'échec. Jusqu'à ce que le poison ne termine, les dégâts qu'il inflige ne peuvent être soignés. Après sept réussites, les effets se terminent et la cible peut se soigner.
 

@@ -1,7 +1,7 @@
 ---
 englishname: Mobile
 requis:
-status: empty
+writing_status: empty
 ---
 Vous êtes particulièrement agile. Vous bénéficiez des effets suivants : 
 

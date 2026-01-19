@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Restes réanimés d'humanoïdes morts depuis bien longtemps, les squelettes ne sont que des marionnettes d'os forcés à rester debout par des fils de magie. 
 

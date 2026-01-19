@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Les plantes, la nature et les bêtes sauvages sont le domaine de la magie verte. Normalement une arcane maîtrisée par les druides, quelques sorcières ont un lien privilégié avec les pouvoir de la magie verte et peuvent convaincre plantes et animaux de réaliser leurs tâches.
 

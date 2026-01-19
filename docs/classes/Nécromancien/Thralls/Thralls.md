@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les nécromanciens utilisent les créatures suivantes comme thralls : bête d'os, égorgeur, esprit, goule née-des-tombes, squelette, visage et zombie. Sauf si cela est précisé, aucune autre créature Morte-Vivante ne peut être animée comme un thrall. Un Humanoïde de taille M ou P peut être animé en n'importe lequel de ces Morts-Vivants. 
 

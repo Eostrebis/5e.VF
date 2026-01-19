@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 *Requis : Niveau 7, Forgeron de Venin*
 

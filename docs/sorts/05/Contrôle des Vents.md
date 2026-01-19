@@ -7,15 +7,15 @@ level: 5
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: 300 ft.
+Portee: 300 ft.
 Concentration: true
 Rituel: false
 englishname: Control Winds
-status: finished
+writing_status: finished
 ---
 Vous prenez contrôles sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pour la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.
 

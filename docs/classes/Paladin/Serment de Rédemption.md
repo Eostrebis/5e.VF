@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de Rédemption engage le paladin sur une voie difficile, exigeant de ce guerrier saint qu'il ne recoure à la violence qu'en dernier ressort. Les paladins qui se vouent à ce serment croient que toute personne peut être rachetée et que la voie de la bienveillance et de la justice est ouverte à tous. Ces paladins affrontent les créatures maléfiques dans l'espoir de tourner leurs ennemis vers la lumière, et ne les abattent que lorsque cet acte sauvera manifestement d'autres vies. Les paladins qui suivent cette voie sont appelés rédempteurs.
 

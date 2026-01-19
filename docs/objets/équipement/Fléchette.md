@@ -1,9 +1,9 @@
 ---
 type: Arme Simple à Distance
-coût: 0.05
+cout: 0.05
 poids: 0.25
 englishname: Dart
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés           |

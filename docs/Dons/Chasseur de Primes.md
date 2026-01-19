@@ -1,7 +1,7 @@
 ---
 englishname: Bounty Hunter
 requis:
-status: empty
+writing_status: empty
 ---
 Lorsqu'une tête est mise à prix, il vous la faut. Vous bénéficiez des effets suivants :
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Votre mouvement pendant une finition ne provoque pas d'attaque d'opportunité et vous devenez immunisé aux dégâts de chute jusqu'à la fin de votre tour lorsque vous en réalisez une. Les attaques réalisées dans le cadre d'une finition ne génèrent pas de fils arcaniques.
 

@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Les sorcières technicolores tiennent leur pouvoir des amitiés qu'elles forment autour d'elles. Elles ont un penchant pour la collection de petits animaux trop mignons de toutes formes et tailles, qu'elles ne mettront jamais en danger, quelle que soit la situation. Par dessus tout, ces sorcières sont définies par leur positivisme sans bornes, qui renforce leurs arcanes et déteint sur leurs alliés.
 

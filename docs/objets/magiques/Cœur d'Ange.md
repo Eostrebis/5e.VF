@@ -1,9 +1,9 @@
 ---
 type: Objet Merveilleux
-rareté: Très Rare
+rarete: Très Rare
 attunement: true
 attdet:
-status: empty
+writing_status: empty
 ---
 Cette amulette magique possède 7 charges, et regagne toutes les charges dépensées le matin. Pour une action, vous pouvez dépenser des charges pour lancer un des sorts suivants : *[[Détection du Mal et du Bien]]* (1 charge), *[[Divination]]* (4 charges), *[[Bouclier de Foi]]* (1 charge), *[[Don des Langues]]* (3 charges), et *[[Vision Suprême]]* (6 charges).
 

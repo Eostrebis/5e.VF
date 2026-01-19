@@ -3,7 +3,7 @@ subrace: true
 choices:
   - Sourilin
   - Ratelin
-status: finished
+writing_status: finished
 ---
 
 ### Description

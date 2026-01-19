@@ -1,7 +1,7 @@
 ---
 englishname: Iron Hero
 requis:
-status: empty
+writing_status: empty
 ---
 Vous vous êtes résolu à devoir sauver le monde lorsque tout semble perdu. Vous bénéficiez des effets suivants : 
 

@@ -7,15 +7,15 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un saupoudrage d'eau bénite
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Bless
-status: empty
+writing_status: empty
 ---
 Vous bénissez jusqu'à trois créatures de votre choix à portée. À chaque fois qu'une de ces créatures réalise un jet d'attaque ou de sauvegarde avant la fin du sort, elle peut lancer un d4 et ajouter le résultat obtenu à son jet.
 

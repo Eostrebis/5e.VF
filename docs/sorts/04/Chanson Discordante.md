@@ -5,15 +5,15 @@ level: 4
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Shattersong
-status: finished
+writing_status: finished
 ---
 Vous chantez une chanson discordante imprégnée de pouvoir magique. Lorsque vous lancez ce sort, les vibrations que vous causez commencent à déformer la réalité dans un rayon de 10 ft. centré sur vous. Les créatures que vous choisissez ainsi que les objets sans surveillance dans la zone prennent 2d6 dégâts de tonnerre et les créatures doivent réaliser un jet de sauvegarde de Force. En cas d'échec, elles tombent [[au sol]].
 

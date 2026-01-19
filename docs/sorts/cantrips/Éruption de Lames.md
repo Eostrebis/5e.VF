@@ -9,15 +9,15 @@ level: 0
 school: Conjuration
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Sword Burst
-status: empty
+writing_status: empty
 ---
 Vous créez un cercle temporaire de lames spectrales autour de vous. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de force.
 

@@ -8,15 +8,15 @@ level: 9
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Pour chaque créature affectée par le sort, vous devez fournir une jacinthe qui vaut au moins 1000 PO et une barre d'argent sculptée d'une valeur d'au moins 100 PO, que le sort consomme.
-Durée: Spéciale
+Duree: Spéciale
 Incantation: 1 Heure
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Astral Projection
-status: empty
+writing_status: empty
 ---
 Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astraux dans le Plan Astral (le sort rate et l'incantation est gâchée si vous vous trouvez déjà sur ce plan). Votre corps matériel reste derrière et est [[inconscient]] et dans un état d'animation suspendue; il n'a pas besoin de nourriture ou d'air, et ne vieillit pas.
 

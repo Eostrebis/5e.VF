@@ -6,7 +6,7 @@ requis:
   - Gardien
   - Capitaine
   - ou Historique de Chevalier de Solamnia
-status: empty
+writing_status: empty
 ---
 Votre entraînement en tant que Chevalier de Solamnia vous confère les effets suivants : 
 

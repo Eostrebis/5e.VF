@@ -1,7 +1,7 @@
 ---
 englishname: Spellblade
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez appris à infuser vos coups d'étincelles de magie arcanique, et vous bénéficiez des effets suivants : 
 

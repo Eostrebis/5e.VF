@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 10
+cout: 10
 poids: 4
 englishname: Battleaxe
-status: finished
+writing_status: finished
 ---
 
 | Dégâts         | Propriétés        |

@@ -5,15 +5,15 @@ level: 5
 school: Évocation
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Unstoppable Ascent
-status: finished
+writing_status: finished
 ---
 Vous tentez de projeter une créature dans les airs, la faisant passer partiellement dans le plan éthéré. Effectuez une attaque de sort au corps à corps contre une créature à portée. Si vous touchez, vous saisissez la cible et la projetez jusqu'à 150 ft. directement vers le haut. La créature traverse les obstacles sans être gênée et sans subir de dégâts.
 

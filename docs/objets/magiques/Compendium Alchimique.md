@@ -1,9 +1,9 @@
 ---
 type: Objet Merveilleux
-rareté: Rare
+rarete: Rare
 attunement: true
 attdet: par un magicien
-status: empty
+writing_status: empty
 ---
 Des odeurs âcres s'accrochent à ce lourd tome tâché. Les ornures métalliques de ce livre sont faites de cuivre, de fer, de plomb, d'argent et d'or, certains comme figés dans le temps en pleine transition de l'un à l'autre. Quand il est trouvé, le livre contient les sorts suivants : [[Agrandissement ou Rapetissement]], [[Feuille Morte]], [[pétrification]], [[forme gazeuse]], [[Arme Magique]], [[métamorphose]]. Il fonctionne comme un grimoire pour vous.
 

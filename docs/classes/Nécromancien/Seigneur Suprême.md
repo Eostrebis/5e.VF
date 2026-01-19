@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Peu d'ambitions accaparent autant l'imagination que celle d'obtenir le pouvoir de régner. Certains nécromanciens, connus comme des Seigneurs Suprêmes, voient leur magie comme un moyen pour contrôler les autres comme ils contrôlent leurs sbires morts-vivants. Cherchant le contrôle à la fois dans et hors du champ de bataille, les seigneurs suprêmes mettent à profit leur sombre magie pour renforcer leurs alliés et manipuler les autres. 
 

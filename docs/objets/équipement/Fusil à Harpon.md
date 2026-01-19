@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 250
+cout: 250
 poids: 10
 englishname: Harpoon Rifle
-Ère: Industrielle
-status: empty
+Ere: Industrielle
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                     |

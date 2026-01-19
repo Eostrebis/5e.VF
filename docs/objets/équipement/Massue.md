@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Simple
-coût: 0.2
+cout: 0.2
 poids: 10
 englishname: Greatclub
-status: finished
+writing_status: finished
 ---
 | Dégâts          | Propriétés   |
 | --------------- | ------------ |

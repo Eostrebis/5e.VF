@@ -1,7 +1,7 @@
 ---
 type:
-coût:
+cout:
 poids:
 englishname:
-status: empty
+writing_status: empty
 ---

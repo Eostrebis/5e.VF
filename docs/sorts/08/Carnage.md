@@ -5,15 +5,15 @@ level: 8
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une arme martiale
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Carnage
-status: finished
+writing_status: finished
 ---
 Lorsque vous lancez ce sort, vous vous téléportez de 120 ft. et réalisez une attaque armée de mêlée contre toutes les créatures à portée. Effectuez une seule attaque pour toutes les cibles. Si vous touchez une créature, elle prend 6d12 dégâts de force supplémentaires. Pendant vos prochains tours, vous pouvez utiliser votre action pour continuer votre assaut mortel. Chaque fois que vous utilisez cette action, elle a un effet différent :
 

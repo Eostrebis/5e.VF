@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Certains gardiens entendent un appel de flammes et de cris tourmentés venant directement des entrailles de la terre. Ces rares individus deviennent des Gardiens des Enfers, chargés par les diables de surveiller les portes de l'outre monde, empêchant les innocents de s'y aventurer et empêchant les damnés de s'en échapper. Certains Gardiens des Enfers pensent que c'est un travail des plus miséricordieux : ils protègent les mortels des cruautés innommables des diables. D'autres savent pertinemment les implications de leur appel et se complaisent dans l'aspect mauvais de leurs actions.
 

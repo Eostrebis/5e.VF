@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les paladins qui prêtent le Serment de Gloire croient qu'eux et leurs compagnons sont destinés à atteindre la gloire par des actes d'héroïsme. Ils s'entraînent assidûment et encouragent leurs compagnons afin que tous soient prêts lorsque le destin les appellera.
 

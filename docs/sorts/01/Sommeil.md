@@ -9,15 +9,15 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une pincée de sable, des pétales de rose ou des criquets
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 90 ft. (20 ft.)
+Portee: 90 ft. (20 ft.)
 Concentration: false
 Rituel: false
 englishname: Sleep
-status: empty
+writing_status: empty
 ---
 Ce sort fait tomber des créatures en un sommeil profond. Lancez 5d8 ; le total correspond à combien de points de vie totaux ce sort peut affecter. Les créatures à 20 ft. de l'emplacement que vous choisissez à portée sont affectées par ordre croissant de leurs points de vie (ignorant les créatures [[inconscient|inconscientes]]).
 

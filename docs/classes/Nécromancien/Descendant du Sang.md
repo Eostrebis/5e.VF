@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La puissance nécromantique se décline en bien des façons, mais sa source la plus ancienne est sans aucun doute la malédiction sanguine du vampirisme. Même si elle promet beaucoup — immortalité, agilité, charme — elle apporte à son porteur nombre d'inconvénients insidieux, des brûlures cuisantes du soleil à la soif perpétuelle de sang. Les nécromanciens qui souhaitent obtenir une portion de ce pouvoir sans en souffrir les innombrables conséquences réalisent un rituel spécial en utilisant du sang vampirique pour devenir des Descendants du Sang. Ce faisant, ils deviennent affreusement pâles et perdent leur reflet dans le miroir, mais apprennent petit à petit à profiter des pouvoirs vampiriques sans succomber à la malédiction.
 

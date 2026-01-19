@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les murmures des dieux, le tintement des cloches et l'harmonie des hymnes vous ont appelé, vous poussant à prêter un serment de protection. Avec votre lame, vous défendrez les temples et les sites sacrés tandis qu'avec votre bouclier, vous protégerez les pèlerins alors qu'ils réalisent leur grand voyage. Avec votre marque, vous surveillerez les prêtres sans défense et vous assurerez que leur message convainc cœurs comme esprits, même dans les lieux les plus dangereux. Vous savez que votre but est plus grand que juste une vie, et vous avez hâte de voir le dessein que les dieux ont prévu pour vous.
 

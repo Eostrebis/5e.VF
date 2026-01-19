@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Pour chaque alchimiste qui a dévoué sa vie à aider les malades et les infirmes, il y en a un autre, avec une vocation plus sombre. Souvent appelé les empoisonneurs ou les forgerons de venin, ces alchimistes sont maîtres dans l'art de la création de poisons mortels et/ou incapacitants. Qu'ils soient employés par une guilde d'assassins ou en freelance, la présence d'un forgeron de venin est généralement accompagnée d'une mort.
 

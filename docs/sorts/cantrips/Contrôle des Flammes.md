@@ -9,15 +9,15 @@ level: 0
 school: Transmutation
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Control Flames
-status: empty
+writing_status: empty
 ---
 Vous choisissez des flammes non magiques que vous pouvez voir et qui tiennent dans un cube de 5 ft. de côté. Vous leur appliquez l'un des effets suivants : 
 

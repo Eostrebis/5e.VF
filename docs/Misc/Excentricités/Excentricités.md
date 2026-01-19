@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l'une des excentricités suivantes : 
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Le Serment de la Couronne est prêté aux idéaux de la civilisation, qu'il s'agisse de l'esprit d'une nation, de l'allégeance à un souverain ou du service d'une divinité de la loi et de la souveraineté. Les paladins qui prêtent ce serment se consacrent au service de la société et, en particulier, aux lois justes qui en assurent la cohésion. Ces paladins sont les gardiens vigilants sur les remparts, se dressant contre les marées chaotiques de la barbarie qui menacent d'abattre tout ce que la civilisation a bâti, et sont communément appelés gardiens, modèles ou sentinelles. Souvent, les paladins qui prêtent ce serment sont membres d'un ordre de chevalerie au service d'une nation ou d'un souverain, et prononcent leurs vœux dans le cadre de leur admission dans les rangs de l'ordre.
 

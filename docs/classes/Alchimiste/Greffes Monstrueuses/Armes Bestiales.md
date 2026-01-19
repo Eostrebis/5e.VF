@@ -1,7 +1,7 @@
 ---
 donneur: Une Bête, un Dragon ou une Monstruosité avec une attaque de Morsure ou de Griffes
 emplacement: Bras ou Tête
-status: finished
+writing_status: finished
 ---
 Vous vous implantez chirurgicalement ou les crocs ou les griffes d'un monstre sur vous-même, qui sont une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. En récoltant d'une seconde créature, vous pouvez améliorer cette greffe pour bénéficier et des crocs, et des griffes. 
 

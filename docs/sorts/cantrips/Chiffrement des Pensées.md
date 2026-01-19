@@ -7,15 +7,15 @@ level: 0
 school: Enchantement
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 8 Heures
+Duree: 8 Heures
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Encode Thoughts
-status: empty
+writing_status: empty
 ---
 Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé _brin de pensée_ qui persiste pour la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
 

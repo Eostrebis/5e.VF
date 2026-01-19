@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Simple
-coût: 200
+cout: 200
 poids: 8
 englishname: "Double-Barrel \rShotgun"
-Ère: Industrielle
-status: empty
+Ere: Industrielle
+writing_status: empty
 ---
 | Dégâts       | Propriétés                                                                 |
 | ------------ | -------------------------------------------------------------------------- |

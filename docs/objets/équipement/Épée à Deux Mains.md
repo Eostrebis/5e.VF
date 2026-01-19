@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Martiale
-coût: 50
+cout: 50
 poids: 6
 englishname: Greatsword
-status: finished
+writing_status: finished
 ---
 
 | Dégâts         | Propriétés           |

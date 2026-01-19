@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La richesse représente la disponibilité des biens et des services ; elle est donc une manifestation à la fois de pouvoir et d'opportunité. Un riche bienfaiteur peut sauver une civilisation, tandis qu'un riche tyran peut bouleverser l'ordre mondial. Vous avez juré de ne rien laisser s'interposer entre vous et l'accumulation de richesses, car le moindre de vos caprices peut être réalisé par l'usage prudent d'une puissance financière écrasante.
 

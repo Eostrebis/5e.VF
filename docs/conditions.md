@@ -2,7 +2,7 @@
 search:
   exclude: true
 title: Conditions
-status: finished
+writing_status: finished
 ---
 | Condition (EN) | Condition (FR)  | Logo                                    |
 | -------------- | --------------- | --------------------------------------- |

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les bombes sont des armes à distance exotiques avec les statistiques suivantes : 
 

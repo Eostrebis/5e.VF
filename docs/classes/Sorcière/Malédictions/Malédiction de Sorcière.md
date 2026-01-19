@@ -1,7 +1,7 @@
 ---
 search:
   exclude: true
-status: empty
+writing_status: empty
 ---
 
 | Malédiction    |

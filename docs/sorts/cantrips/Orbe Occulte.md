@@ -7,15 +7,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eldricht Orb
-status: empty
+writing_status: empty
 ---
 Vous lancez une boule d'énergie occulte à une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d8 dégâts de force et toute créature à 5 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre la moitié des dégâts.
 

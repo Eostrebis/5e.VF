@@ -1,9 +1,9 @@
 ---
 type: Arme de Mêlée Simple
-coût: 5
+cout: 5
 poids: 2
 englishname: Handaxe
-status: finished
+writing_status: finished
 ---
 
 | Dégâts         | Propriétés         |

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les moines de la voie du Kensei s'entraînent sans relâche avec leurs armes, jusqu'à ce que ces mêmes armes deviennent des extensions de leurs corps. Fondée dans un monastère dédié à l'escrime, cette tradition s'est étendue afin inclure une multitude d'armes.
 

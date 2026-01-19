@@ -6,15 +6,15 @@ level: 3
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une petite réplique de canon
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 600 ft.
+Portee: 600 ft.
 Concentration: false
 Rituel: false
 englishname: Conjure Cannonball
-status: empty
+writing_status: empty
 ---
 Vous conjurez un boulet de canon en plein vol et à pleine vitesse, qui explose à l'impact. Réalisez une attaque de sort à distance contre une cible que vous pouvez voir à portée. Si vous touchez, la cible prend 4d10 dégâts contondants et toutes les créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre la moitié des dégâts.
 

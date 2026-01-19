@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 3000
+cout: 3000
 poids: 125
 englishname: Gatling Gun
-Ère: Industrielle
-status: empty
+Ere: Industrielle
+writing_status: empty
 ---
 
 | Dégâts       | Propriétés                                                                            |

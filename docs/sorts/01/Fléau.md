@@ -8,15 +8,15 @@ level: 1
 school: Enchantement
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une goutte de sang
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Bane
-status: empty
+writing_status: empty
 ---
 Jusqu'à trois créatures que vous pouvez voir à portée doivent réaliser un jet de sauvegarde de Charisme. Chaque fois qu'une cible qui a raté ce jet de sauvegarde réalise un jet d'attaque ou de sauvegarde avant que le sort ne termine, la cible doit lancer un d4 et retirer le résultat à son jet d'attaque ou de sauvegarde.
 

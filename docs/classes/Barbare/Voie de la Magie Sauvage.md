@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 De nombreux lieux du multivers regorgent de beauté, d'émotions intenses et de magie sauvage ; la Féerie, les Plans Supérieurs et d'autres royaumes de puissance surnaturelle irradient de telles forces et peuvent profondément influencer les individus. En tant qu'êtres aux émotions profondes, les barbares sont particulièrement sensibles à ces influences sauvages, certains se trouvant même transformés par cette magie.
 

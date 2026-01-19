@@ -7,15 +7,15 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: false
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action Bonus
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Healing Word
-status: empty
+writing_status: empty
 ---
 Une créature de votre choix que vous pouvez voir à portée regagne un nombre de points de vie égal à 1d4 + votre modificateur d'incantation. Ce sort n'a aucun effet sur les morts-vivants ou les constructions.
 

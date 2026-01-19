@@ -1,9 +1,9 @@
 ---
 type: Arme Simple à Distance
-coût: 25
+cout: 25
 poids: 2
 englishname: Shortbow
-status: finished
+writing_status: finished
 ---
 
 | Dégâts       | Propriétés                      |

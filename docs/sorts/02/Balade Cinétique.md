@@ -8,15 +8,15 @@ level: 2
 school: Transmutation
 Verbal: false
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Kinetic Jaunt
-status: finished
+writing_status: finished
 ---
 Vous renforcez magiquement vos mouvements avec des pas de danse, vous conférant les effets suivants pendant la durée du sort :
 

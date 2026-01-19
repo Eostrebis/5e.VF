@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 _Propriété d'Armure Maître_
 __Composantes :__ Armure légère exotique chef-d'œuvre

@@ -6,15 +6,15 @@ level: 1
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une pincée de poudre ou de sable teintée de rouge, de jaune et de bleu
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: Personnelle (rayon de 15 ft.)
+Portee: Personnelle (rayon de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Color Spray
-status: empty
+writing_status: empty
 ---
 Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total étant combien de points de vie de créatures vous pouvez affecter avec ce sort. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
 

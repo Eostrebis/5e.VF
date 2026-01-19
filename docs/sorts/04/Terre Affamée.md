@@ -6,15 +6,15 @@ level: 4
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Hunger of the Earth
-status: empty
+writing_status: empty
 ---
 Choisissez une créature de taille au plus G au sol à portée. La terre s'ouvre sous cette créature et essaye de l'avaler. La cible doit réaliser un jet de sauvegarde de Force ou être [[retenu|retenue]] pendant la durée du sort. De plus, si la cible échoue le jet, elle commence à couler dans le sol.
 

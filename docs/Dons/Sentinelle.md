@@ -1,7 +1,7 @@
 ---
 englishname: Sentinel
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez maîtrisé des techniques afin de prendre avantage de tous les trous dans la garde de vos adversaires. Vous bénéficiez des effets suivants : 
 

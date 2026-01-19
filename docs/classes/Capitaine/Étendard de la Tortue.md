@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Les défenses fortifiées des capitaines qui arborent l'étendard de la Tortue font parties des légendes. Les tactiques de la Tortue favorisent l'endurance et la survie, puisque des soldats bien protégés ne gagnent pas les batailles, ils gagnent la guerre. Penser à long terme est la clé pour toute stratégie défensive, puisque les capitaines de la Tortue savent bien que la question n'est pas de savoir s'il faut ou comment contrattaquer, mais quand !
 

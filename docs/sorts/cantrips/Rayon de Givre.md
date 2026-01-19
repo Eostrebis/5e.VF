@@ -8,15 +8,15 @@ level: 0
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Ray of Frost
-status: empty
+writing_status: empty
 ---
 Un rayon frigorifique rayonnant d'une lumière bleu-blanche est propulsé vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, elle prend 1d8 dégâts de froid et sa vitesse est réduite de 10 ft. jusqu'au début de votre prochain tour.
 

@@ -8,15 +8,15 @@ level: 4
 school: Divination
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un peu de fourrure de chauve-souris
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Eye
-status: empty
+writing_status: empty
 ---
 Vous créez un œil magique invisible dans la portée qui flotte dans les airs pour la durée du sort.
 

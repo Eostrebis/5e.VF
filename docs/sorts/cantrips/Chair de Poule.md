@@ -10,15 +10,15 @@ level: 0
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Chill Touch
-status: empty
+writing_status: empty
 ---
 mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.
 

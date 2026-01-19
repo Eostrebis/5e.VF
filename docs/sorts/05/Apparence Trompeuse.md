@@ -8,15 +8,15 @@ level: 5
 school: Illusion
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 8 Heures
+Duree: 8 Heures
 Incantation: 1 Action
-Portée: 30 ft.
+Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Seeming
-status: finished
+writing_status: finished
 ---
 Ce sort vous permet d'altérer l'apparence de n'importe quel nombre de créatures que vous voyez à portée. Vous donnez à chaque créature une nouvelle apparence illusoire. Une créature récalcitrante peut réaliser un jet de sauvegarde de Charisme et, si elle réussit, être inaffectée par le sort.
 

@@ -5,15 +5,15 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: 120 ft.
+Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Chaos Bolt
-status: empty
+writing_status: empty
 ---
 Vous projetez une masse ondulante et tremblante d'énergie chaotique sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 2d8 + 1d6 dégâts. Choisissez l'un des d8s. Le résultat de ce d8 détermine le type de dégâts de l'attaque.
 

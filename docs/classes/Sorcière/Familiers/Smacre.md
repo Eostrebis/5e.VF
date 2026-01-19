@@ -1,5 +1,5 @@
 ---
-status: empty
+writing_status: empty
 ---
 Cousin éloigné des mimiques, le smacre est un très petit changelin qui imite de petits objets de valeur pour attirer ses victimes. Dans le désert, un smacre pourrait prendre la forme d'une gourde d'eau et dans un donjon, prendre la forme d'une belle pierre précieuse ou d'une pièce d'or. Si un aventurier se fait surprendre par un smacre, ce dernier est aussi dangereux que son cousin, puisqu'il peut se camoufler de façon moins suspecte.
 

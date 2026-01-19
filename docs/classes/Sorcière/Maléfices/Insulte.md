@@ -1,4 +1,4 @@
 ---
-status: empty
+writing_status: empty
 ---
 Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Charisme ou ne peut pas parler de manière cohérente jusqu'à la fin de votre prochain tour. Si la créature essaye de lancer un sort qui a une composante verbale, elle doit lancer un d20. Si le résultat est impair, l'incantation échoue.

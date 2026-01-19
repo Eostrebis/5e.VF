@@ -9,15 +9,15 @@ level: 2
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Aberrate
-status: empty
+writing_status: empty
 ---
 Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne prenez pas de dégâts supplémentaires des dégâts critiques.
 

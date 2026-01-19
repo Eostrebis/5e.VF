@@ -6,15 +6,15 @@ level: 6
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Une écaille de dragon plaquée de platine, d'une valeur d'au moins 500 po
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portée: 60 ft.
+Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Platinum Shield
-status: finished
+writing_status: finished
 ---
 Vous créez un champ de lumière argenté qui enveloppe une créature de votre choix à portée. Le champ émet une lumière faible sur 5 ft. Tant qu'elle est enveloppée par le champ, la créature bénéficie des effets suivants : 
 

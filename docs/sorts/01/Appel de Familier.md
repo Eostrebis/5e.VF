@@ -6,15 +6,15 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: 10 PO de charbon, d'encens et d'herbe qui sont consommés par le feu dans un chaudron en bronze.
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Heure
-Portée: 10 ft.
+Portee: 10 ft.
 Concentration: false
 Rituel: true
 englishname: Find Familiar
-status: empty
+writing_status: empty
 ---
 Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste un fey ou un fiélon.
 

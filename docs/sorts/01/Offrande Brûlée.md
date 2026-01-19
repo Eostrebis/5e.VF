@@ -5,15 +5,15 @@ level: 1
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un bûcher et un animal mort
-Durée: 24 Heures
+Duree: 24 Heures
 Incantation: 10 Minutes
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Burnt Offering
-status: empty
+writing_status: empty
 ---
 En construisant un bûcher et en brulant le corps d'un animal, vous attirez la faveur des dieux. Pendant la durée du sort, tant que vous portez une armure, vous pouvez décider d'ajouter votre modificateur de Sagesse au lieu de votre modificateur de Dextérité à votre classe d'armure.
 

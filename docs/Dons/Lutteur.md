@@ -1,7 +1,7 @@
 ---
 englishname: Grappler
 requis: Force 13
-status: empty
+writing_status: empty
 ---
 
 Vous avez développé les compétences nécessaires afin de tenir dans une lutte au contact. Vous bénéficiez des effets suivants : 

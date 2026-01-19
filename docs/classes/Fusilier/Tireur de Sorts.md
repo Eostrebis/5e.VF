@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 La magie et les flingues, c'est pas si différent. Si le pouvoir arcanique est comme de la poudre et qu'un sort est comme une balle, vous êtes comme un fusil vous-même, dirigeant vos sorts avec précision contre les pauvres cibles. Vous mélangez les disciplines de l'arme à feu et de la magie, parfois chargeant d'arcane vos tirs et envoyant des traînées de foudre, de gel ou de flammes derrière votre balle.
 

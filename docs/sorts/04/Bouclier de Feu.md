@@ -7,15 +7,15 @@ level: 4
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un peu de phosphore ou un ver luisant
-Durée: 10 Minutes
+Duree: 10 Minutes
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Fire Shield
-status: finished
+writing_status: finished
 ---
 De fines et crépitantes flammes enveloppent votre corps pendant la durée du sort, émettant une lumière vive sur 10 ft. et une lumière faible sur 10 ft. supplémentaire. Vous pouvez terminer le sort prématurément en utilisant une action pour le dissiper.
 

@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 *2 fils arcaniques*
 

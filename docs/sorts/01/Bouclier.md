@@ -6,14 +6,14 @@ level: 1
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Tour
+Duree: 1 Tour
 Incantation: 1 Réaction
-Portée: Personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Shield
-status: empty
+writing_status: empty
 ---
 Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne prenez aucun dégâts de [[Projectiles Magiques]].

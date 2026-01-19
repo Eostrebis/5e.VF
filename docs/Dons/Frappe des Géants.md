@@ -1,7 +1,7 @@
 ---
 englishname: Strike of the Giants
 requis: Maîtrise des armes martiales ou historique de Descendant des Géants
-status: empty
+writing_status: empty
 ---
 Vous avez absorbé de la magie primitive, ce qui vous confère un écho de la puissance des géants. Lorsque vous prenez ce don, choisissez l'un des effets suivants. Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée ou une attaque à distance avec une arme de jet, vous pouvez infuser l'attaque d'un effet supplémentaire en fonction de votre choix : 
 

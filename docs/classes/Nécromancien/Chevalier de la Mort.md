@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Certains nécromanciens sont heureux de poser leurs affaires dans de vieilles tombes avec des tomes poussiéreux, sortant occasionnellement sur un champ de bataille pour récupérer ingrédients frais et nouveaux compagnons. À l'inverse, les chevaliers de la mort sont des prédateurs parmi les charognards, atteignant leurs objectifs par un savant mélange de magie et de combat plus traditionnel. Alimentés par les énergies sombres et une puissante armure, les chevaliers de la mort sont à la fois la première ligne et le général de leurs forces mortes-vivantes, jamais effrayés de devoir se salir les mains au besoin.
 

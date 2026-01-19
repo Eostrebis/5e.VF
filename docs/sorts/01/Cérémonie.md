@@ -8,15 +8,15 @@ level: 1
 school: Abjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: 25 PO de poussière d'argent, que le sort consomme
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Heure
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: true
 englishname: Ceremony
-status: empty
+writing_status: empty
 ---
 Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, les cibles duquel doivent se trouver à 10 ft. de vous pendant l'incantation.
 

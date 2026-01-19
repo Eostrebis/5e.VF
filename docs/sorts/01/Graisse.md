@@ -7,15 +7,15 @@ level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un peu de couenne ou du beurre
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: 60 ft. (10 ft.)
+Portee: 60 ft. (10 ft.)
 Concentration: false
 Rituel: false
 englishname: Grease
-status: empty
+writing_status: empty
 ---
 De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pour la durée du sort.
 

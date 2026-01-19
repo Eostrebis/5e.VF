@@ -1,10 +1,10 @@
 ---
 type: Arme à Feu Martiale
-coût: 180
+cout: 180
 poids: 8
 englishname: Blunderbuss
-Ère: Renaissance
-status: empty
+Ere: Renaissance
+writing_status: empty
 ---
 | Dégâts       | Propriétés                                                                                  |
 | ------------ | ------------------------------------------------------------------------------------------- |

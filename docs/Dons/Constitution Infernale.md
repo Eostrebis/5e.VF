@@ -1,7 +1,7 @@
 ---
 englishname: Infernal Constitution
 requis: Tieflin
-status: empty
+writing_status: empty
 ---
 Le sang impie coule dans vos veines, vous permettant de faire preuve d'une résilience propre aux fiélons. Vous bénéficiez des effets suivants :
 

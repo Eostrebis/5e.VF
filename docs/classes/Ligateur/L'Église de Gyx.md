@@ -1,5 +1,5 @@
 ---
-status: finished
+writing_status: finished
 ---
 Gyx fut la première ligatrice connue, et la première à établir une Secte Ésotérique. À l'époque, la nature des vestiges, le Vide et les effets de la magie ligatrice sur l'âme n'étaient pas encore compris, et les suivants fanatiques de Gyx pensaient être membre d'une nouvelle religion, pas d'une secte. De multiples inquisitions ont depuis vues l'église tomber dans l'ombre, ses pratiques et crédo étouffés, mais jamais éradiquée.
 

@@ -9,15 +9,15 @@ level: 4
 school: Transmutation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: 1 Minute
+Duree: 1 Minute
 Incantation: 1 Action
-Portée: Personnelle
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Dark Empowerment
-status: finished
+writing_status: finished
 ---
 Vous canalisez de l'énergie ténébreuse dans votre corps, déformant votre apparence et vous rendant terrifiant à contempler. Votre taille devient Grande si elle était inférieure, et votre équipement s'agrandit pour s'adapter à votre nouvelle forme. S'il n'y a pas suffisamment d'espace, vous grandissez autant que possible sans danger.
 

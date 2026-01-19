@@ -1,9 +1,9 @@
 ---
 type: Objet Merveilleux (tatouage)
-rareté: Très Rare
+rarete: Très Rare
 attunement: true
 attdet:
-status: empty
+writing_status: empty
 ---
 Produit par une aiguille spéciale, ce tatouage magique représente une œuvre mettant en avant une couleur.
 

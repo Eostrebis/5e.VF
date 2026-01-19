@@ -7,14 +7,14 @@ level: 0
 school: Nécromancie
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Touché
+Portee: Touché
 Concentration: false
 Rituel: false
 englishname: Spare the Dying
-status: empty
+writing_status: empty
 ---
 Vous touchez une créature vivante qui a 0 point de vie. La créature se stabilise. Ce sort n'a aucun effet sur les morts-vivants ou constructions.

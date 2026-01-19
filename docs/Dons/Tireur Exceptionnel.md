@@ -1,7 +1,7 @@
 ---
 englishname: Sharpshooter
 requis:
-status: empty
+writing_status: empty
 ---
 Vous avez maîtrisé les armes à distance, et pouvez réaliser des tirs que d'autres trouveraient impossible. Vous bénéficiez des effets suivants : 
 

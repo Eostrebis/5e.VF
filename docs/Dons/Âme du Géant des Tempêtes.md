@@ -1,7 +1,7 @@
 ---
 englishname: Soul of the Storm Giant
 requis: Niveau 4, Frappe des Géants (Frappe des Tempêtes)
-status: empty
+writing_status: empty
 ---
 Vous avez manifesté en vous la magie fougueuse emblématique des géants des tempêtes, vous conférant les effets suivants : 
 

@@ -1,7 +1,7 @@
 ---
 englishname: Spell Sniper
 requis: La capacité de lancer au moins 1 sort
-status: empty
+writing_status: empty
 ---
 
 Vous avez appris des techniques pour améliorer vos attaques avec certains types de sorts, et bénéficiez des effets suivants : 

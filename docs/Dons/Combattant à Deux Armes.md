@@ -1,7 +1,7 @@
 ---
 englishname: Dual Wielder
 requis:
-status: empty
+writing_status: empty
 ---
 Vous êtes devenu maître dans l'art du combat à deux armes. Vous bénéficiez des effets suivants : 
 

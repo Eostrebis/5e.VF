@@ -5,15 +5,15 @@ level: 1
 school: Évocation
 Verbal: true
 Somatique: true
-Matériel: false
+Materiel: false
 detailmat:
-Durée: Instantanée
+Duree: Instantanée
 Incantation: 1 Action
-Portée: Personnelle (cône de 15 ft.)
+Portee: Personnelle (cône de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Frost Fingers
-status: empty
+writing_status: empty
 ---
 Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Constitution et prendre 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
 

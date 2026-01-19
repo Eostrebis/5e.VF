@@ -6,15 +6,15 @@ level: 5
 school: Conjuration
 Verbal: true
 Somatique: true
-Matériel: true
+Materiel: true
 detailmat: Un rubis valant au moins 999 po
-Durée: 1 Heure
+Duree: 1 Heure
 Incantation: 1 Minute
-Portée: 90 ft.
+Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Infernal Calling
-status: finished
+writing_status: finished
 ---
 Vous prononcez une sombre incantation et invoquez un diable des Neuf Enfers. Vous choisissez le type du diable, qui doit être de FP inférieur à 6, comme un diable barbu ou un diable barbelé. Le diable apparaît sur un espace inoccupé que vous pouvez voir à portée. Le diable disparaît lorsqu'il tombe à 0 point de vie ou que le sort se termine.
 

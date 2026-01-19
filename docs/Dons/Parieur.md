@@ -1,7 +1,7 @@
 ---
 englishname: Gambler
 requis:
-status: empty
+writing_status: empty
 ---
 Toujours enclin aux probabilités et au risque, vous confiez souvent votre sécurité et votre fortune aux mains du hasard. Vous bénéficiez des effets suivants : 
 
