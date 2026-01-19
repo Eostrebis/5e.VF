@@ -12,7 +12,7 @@ def get_status(file) -> str:
             lines = f.readlines()
             for line in lines:
                 if line.startswith('writing_status'):
-                    return line[(1+len('writing_status'):].strip()
+                    return line[(1+len('writing_status')):].strip()
 
 def evaluate_status(status) -> float:
     match status:
