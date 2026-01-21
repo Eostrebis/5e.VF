@@ -1,7 +1,6 @@
 ---
-subrace: false
+writing_status: empty
 ---
-
 ### Description
 
 ### Culture
