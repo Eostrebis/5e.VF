@@ -1,7 +1,7 @@
 ---
 englishname: Healer
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Vous êtes un médecin capable, et vous pouvez panser plus rapidement les blessures de vos alliés pour qu'ils retournent au combat. Vous bénéficiez des effets suivants :
 

@@ -1,7 +1,7 @@
 ---
 englishname: Cohort of Chaos
 requis: Rejeton des Plans Extérieurs (Plan Extérieur Chaotique)
-writing_status: empty
+writing_status: finished
 ---
 Vous pouvez canaliser les forces cosmiques du chaos pour gagner les effets suivants :
 

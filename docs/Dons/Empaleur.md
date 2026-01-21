@@ -1,7 +1,7 @@
 ---
 englishname: Piercer
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Vous avez atteint une précision pénétrante en combat, obtenant les bénéfices suivants :
 

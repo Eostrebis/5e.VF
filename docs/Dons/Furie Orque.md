@@ -1,7 +1,7 @@
 ---
 englishname: Orcish Fury
 requis: Demi-Orque ou Orque
-writing_status: empty
+writing_status: finished
 ---
 Votre furie intérieure ne cesse de brûler. Vous bénéficiez des effets suivants : 
 

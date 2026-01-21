@@ -36,7 +36,7 @@ Un personnage peut gagner de nouvelles maîtrises de la liste de compétences de
 |17|+3|
 
 ### 1.5 Je connais un gars !
-À la création de votre personnage, il vous est remis une enveloppe scellée (ou autre objet avec la même intention). Une fois par campagne, vous pouvez dire "Je connais un gars", et vous inventer un lien avec un PNJ quelconque pour vous sortir d'une mauvaise passe. Ce PNJ peut être aussi bien un chercheur en sciences occultes qu'un revendeur du marché noir qui saurait où trouver ce mystérieux artefact que vous cherchez tant... Lorsque vous le faîtes, le MJ inclut ce PNJ à la trame scénaristique, et vous ouvrez votre enveloppe. Cette enveloppe contient un *lien* que vous avez avec le PNJ qui vient d'être crée. Par exemple, peut-être lui aviez vous promis de le venger d'une humiliation, ou encore vous doit-il un service. En tout cas, il vous appartient de prendre en compte son contenu pour adapter votre historique.
+À la création de votre personnage, il vous est remis une enveloppe scellée (ou autre objet avec la même intention). Une fois par campagne, vous pouvez dire "Je connais un gars", et vous inventer un lien avec un PNJ quelconque pour vous sortir d'une mauvaise passe. Ce PNJ peut être aussi bien un chercheur en sciences occultes qu'un revendeur du marché noir qui saurait où trouver ce mystérieux artefact que vous cherchez tant... Lorsque vous le faites, le MJ inclut ce PNJ à la trame scénaristique, et vous ouvrez votre enveloppe. Cette enveloppe contient un *lien* que vous avez avec le PNJ qui vient d'être crée. Par exemple, peut-être lui aviez vous promis de le venger d'une humiliation, ou encore vous doit-il un service. En tout cas, il vous appartient de prendre en compte son contenu pour adapter votre historique.
 
 ### 1.6 Rumeurs
 À la création de votre personnage, écrivez 4 rumeurs (vraies ou fausses) sur votre personnage. Le MJ se chargera ou de les redistribuer aux autres joueurs, ou de les utiliser pour déterminer le comportement du monde vis-à-vis de votre personnage.
@@ -47,7 +47,7 @@ Un personnage peut gagner de nouvelles maîtrises de la liste de compétences de
 Les montées en niveau ne sont pas immédiates. Jusqu'au niveau 5, vous devez compléter un repos long pour que la montée fasse effet. À partir du niveau 6, vous devez passer n jours à vous entraîner, où n est le niveau cible.
 
 ### 2.2 Gain de PdV
-Lorsque vous montez en niveau, vous gagnez un nombre de points de vie maximum déterminé par le dé de vie de votre classe. Vous pouvez prendre la valeur moyenne, ou lancez pour déterminer votre gain. Si vous lancez et que vous faîtes 1, considérez le comme un 2.
+Lorsque vous montez en niveau, vous gagnez un nombre de points de vie maximum déterminé par le dé de vie de votre classe. Vous pouvez prendre la valeur moyenne, ou lancez pour déterminer votre gain. Si vous lancez et que vous faites 1, considérez le comme un 2.
 
 ## 3. Aventure
 

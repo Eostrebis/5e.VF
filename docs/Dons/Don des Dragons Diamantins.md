@@ -1,7 +1,7 @@
 ---
 englishname: Gift of the Gem Dragon
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Vous avez manifesté une portion du pouvoir des dragons diamantins, ce qui vous confère les effets suivants :
 

@@ -1,9 +1,9 @@
 ---
 englishname: Strixhaven Initiate
 requis:
-writing_status: empty
+writing_status: finished
 ---
-Vous étudié un peu de théorie magique et avez appris quelques sorts liés à l'Académie de Strixhaven.
+Vous avez étudié un peu de théorie magique et avez appris quelques sorts liés à l'Académie de Strixhaven.
 
 Choisissez l'un des collèges de Strixhaven : Forsapience, Prismari, Quandrix, Plumargent ou Flestrefleur. Vous apprenez deux cantrips et un sort de niveau 1 en fonction du collège que vous avez choisi.
 

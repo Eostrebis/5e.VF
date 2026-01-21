@@ -17,7 +17,7 @@ Lorsque vous atteignez certains niveaux dans cette classe, vous pour réduire le
 
 ## Consultation des Esprits
 
-Au niveau 10, vous obtenez la capacité de consulter vos ancêtres spirituels. Lorsque vous le faîtes, vous pouvez lancer le sort [[augure]] ou [[clairvoyance]] sans dépenser d'emplacement ou de composantes matérielles. Plutôt que de créer un capteur sphérique, cette utilisation de clairvoyance invoque un de vos esprits ancestraux, invisible, à l'emplacement choisie. La Sagesse est votre caractéristique d'incantation pour ces sorts.
+Au niveau 10, vous obtenez la capacité de consulter vos ancêtres spirituels. Lorsque vous le faites, vous pouvez lancer le sort [[augure]] ou [[clairvoyance]] sans dépenser d'emplacement ou de composantes matérielles. Plutôt que de créer un capteur sphérique, cette utilisation de clairvoyance invoque un de vos esprits ancestraux, invisible, à l'emplacement choisie. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
 Après avoir lancé un de ces deux sorts de cette façon vous ne pouvez le refaire avant d'avoir terminé un repos.
 

@@ -1,12 +1,7 @@
 ---
 englishname: Squire of Solamnia
-requis:
-  - Guerrier
-  - Paladin
-  - Gardien
-  - Capitaine
-  - ou Historique de Chevalier de Solamnia
-writing_status: empty
+requis: Guerrier, Paladin, Gardien, Capitaine ou Historique de Chevalier de Solamnia
+writing_status: finished
 ---
 Votre entraînement en tant que Chevalier de Solamnia vous confère les effets suivants : 
 

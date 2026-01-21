@@ -1,7 +1,7 @@
 ---
 englishname: Knight of the Sword
 requis: Niveau 4, Écuyer de Solamnia
-writing_status: empty
+writing_status: finished
 ---
 Vous êtes un Chevalier de Solamnia, suivant l'Ordre de l'Épée, un groupe dévoué à l'héroïsme et au courage. La bravoure emplit votre esprit, vous conférant les effets suivants :
 

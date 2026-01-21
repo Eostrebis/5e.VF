@@ -1,7 +1,7 @@
 ---
 englishname: Scion of the Outer Planes
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Votre connexion aux Plans Extérieurs vous infuse de leur énergie. Choisissez un type de plan dans la table ci-dessous. Ce choix vous confère la résistance à un certain type de dégâts ainsi que la capacité de lancer un cantrip. Vous pouvez lancer ce cantrip sans composantes matérielles, et votre caractéristique d'incantation est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 

@@ -1,7 +1,7 @@
 ---
 englishname: Showman
 requis:
-writing_status: empty
+writing_status: finished
 ---
 La forme est au moins aussi importante que le style, si ce n'est plus. Après tout, pourquoi faire quoi que ce soit si ce n'est pour impressionner. Vous bénéficiez des effets suivants :
 

@@ -1,7 +1,7 @@
 ---
 englishname: Prodigy
 requis: Humain
-writing_status: empty
+writing_status: finished
 ---
 Vous avez un truc pour l'apprentissage. Vous bénéficiez des effets suivants : 
 

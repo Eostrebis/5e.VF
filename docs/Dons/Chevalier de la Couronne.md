@@ -1,7 +1,7 @@
 ---
 englishname: Knight of the Crown
 requis: Niveau 4, Écuyer de Solamnia
-writing_status: empty
+writing_status: finished
 ---
 Vous êtes un Chevalier de Solamnia, suivant l'Ordre de la Couronne, un groupe qui encourage la coopération, la loyauté et l'obéissance. Vous excellez dans les combats de groupes, et bénéficiez des effets suivants :
 

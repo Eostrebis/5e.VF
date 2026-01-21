@@ -1,7 +1,7 @@
 ---
 englishname: Weapon Master
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Vous vous êtes entraînés avec une multitude d'armes, et bénéficiez des effets suivants : 
 

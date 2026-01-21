@@ -9,7 +9,7 @@ Tous les artisans ne sont pas étrangers aux tourelles, bombes et autres mécani
 
 ## Pièges
 
-Vous êtes expert dans la conception de pièges aussi léthaux qu'ingénieux. À partir du niveau 3, vous pouvez fabriquer des [[pièges]] pensés pour un déploiement rapide.
+Vous êtes expert dans la conception de pièges aussi létaux qu'ingénieux. À partir du niveau 3, vous pouvez fabriquer des [[pièges]] pensés pour un déploiement rapide.
 
 Lorsque vous utilisez votre action pour attaquer, vous pouvez abandonner une ou plusieurs de vos attaques pour déployer un piège. Vous pouvez déployer un nombre de pièges égal à votre modificateur d'Intelligence (minimum 1) et regagner tous les déploiements utilisés lorsque vous terminez un repos. Vous pouvez utiliser votre action pour désarmer et récupérer un de vos pièges qui n'a pas encore été déclenché.
 

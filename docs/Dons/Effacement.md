@@ -1,7 +1,7 @@
 ---
 englishname: Fade Away
 requis: Gnome
-writing_status: empty
+writing_status: finished
 ---
 Votre peuple est malin, avec une appétence pour la magie d'illusion. Vous avez appris une astuce magique pour disparaître lorsque vous souffrez. Vous bénéficiez des effets suivants : 
 

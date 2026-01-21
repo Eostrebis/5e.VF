@@ -1,7 +1,7 @@
 ---
 englishname: Dragon Fear
 requis: Drakéïde
-writing_status: empty
+writing_status: finished
 ---
 Lorsque vous êtes énervés, vous avez une aura effrayante. Vous bénéficiez des effets suivants : 
 

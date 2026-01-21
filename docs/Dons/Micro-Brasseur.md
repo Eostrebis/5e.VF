@@ -1,7 +1,7 @@
 ---
 englishname: Homebrewer
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Vous maîtrisez les outils d'alchimiste. En utilisant les outils d'alchimiste pendant 10 minutes, vous pouvez concocter des potions. Vous gagnez un nombre de dés de réaction (d10) égal à votre bonus de maîtrise. Vous regagnez les dés dépensés lorsque vous terminez un repos long.
 

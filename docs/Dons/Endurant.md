@@ -1,7 +1,7 @@
 ---
 englishname: Durable
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Solide et résistant, vous bénéficiez des effets suivants : 
 

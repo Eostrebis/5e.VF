@@ -1,9 +1,9 @@
 ---
-englishname:
+englishname: Tavern Brawler
 requis:
-writing_status: empty
+writing_status: finished
 ---
-Habitué aux bagarres fouillies et crues où tout peut servir d'armes, vous bénéficiez des effets suivants : 
+Habitué aux bagarres fouillis et crues où tout peut servir d'armes, vous bénéficiez des effets suivants : 
 
  - Augmentez votre Force ou votre Constitution de 1, jusqu'à un maximum de 20.
  - Vous maîtrisez les armes improvisées.

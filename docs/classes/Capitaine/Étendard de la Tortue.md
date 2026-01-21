@@ -23,4 +23,4 @@ Au niveau 13, vous pouvez abriter les autres derrière votre armure. Vous êtes 
 
 ## Incassable
 
-À partir du niveau 17, vous pouvez ignorer des attaques qui devraient vous toucher. Vous disposez d'un réservoir de 20 points d'armure. Comme réaction lorsque vous vous faîtes toucher par une attaque, vous pouvez dépenser n'importe quel nombre de points d'armure et les ajouter à votre Classe d'Armure contre cette attaque. Vous regagnez tous vos points d'armure lorsque vous terminez un repos long.
+À partir du niveau 17, vous pouvez ignorer des attaques qui devraient vous toucher. Vous disposez d'un réservoir de 20 points d'armure. Comme réaction lorsque vous vous faites toucher par une attaque, vous pouvez dépenser n'importe quel nombre de points d'armure et les ajouter à votre Classe d'Armure contre cette attaque. Vous regagnez tous vos points d'armure lorsque vous terminez un repos long.

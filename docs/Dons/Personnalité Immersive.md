@@ -1,7 +1,7 @@
 ---
 englishname: Persona Immersion
 requis: Changelin
-writing_status: empty
+writing_status: finished
 ---
 Vous savez parfaitement vous adapter à l'identité que vous endossez.
 

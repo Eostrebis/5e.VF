@@ -1,7 +1,7 @@
 ---
 englishname: Chronomancy Initiate
 requis: Incantation ou Magie de Pacte
-writing_status: empty
+writing_status: finished
 ---
 Après avoir découvert les secrets de la magie du temps, qu'on appelle la chronomancie, vous avez appris à séparer les secondes et les réorganiser pour gagner des minutes entières. Vous bénéficiez des effets suivants : 
 

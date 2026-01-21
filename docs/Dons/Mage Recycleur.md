@@ -1,7 +1,7 @@
 ---
 englishname: Downcaster
 requis: Incantation ou Magie du Pacte
-writing_status: empty
+writing_status: finished
 ---
 Grâce aux études ou à une introspection approfondie, vous avez acquis une compréhension des principes fondamentaux de votre magie, et vous bénéficiez des effets suivants : 
 

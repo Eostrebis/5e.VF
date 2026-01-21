@@ -1,7 +1,7 @@
 ---
 englishname: Ember of the Fire Giant
 requis: Niveau 4, Frappe des Géants (Frappe de Feu)
-writing_status: empty
+writing_status: finished
 ---
 Vous avez manifesté en vous l'ardent esprit combatif emblématique des géants de pierre, vous conférant les effets suivants : 
 

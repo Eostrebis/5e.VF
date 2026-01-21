@@ -15,7 +15,7 @@ Rituel: false
 englishname: Dead Mist Lash
 writing_status: empty
 ---
-Vous conjurez un tentacule blanc et luisant formé de la sinistre Brume Morte qui se déchaîne contre un ennemi que vous pouvez voir à portée. Lorsque vous lancez ce sort, vous pouvez l'alimenter avec votre propre essence vitale en perdant 5, 10 ou 15 points de vie lorsque vous le lancez. Si vous le faîtes, considérez l'emplacement utilisé pour lancer le sort comme un emplacement d'un niveau supérieur par tranche de 5 points de vie perdus, jusqu'à un maximum de niveau 9.
+Vous conjurez un tentacule blanc et luisant formé de la sinistre Brume Morte qui se déchaîne contre un ennemi que vous pouvez voir à portée. Lorsque vous lancez ce sort, vous pouvez l'alimenter avec votre propre essence vitale en perdant 5, 10 ou 15 points de vie lorsque vous le lancez. Si vous le faites, considérez l'emplacement utilisé pour lancer le sort comme un emplacement d'un niveau supérieur par tranche de 5 points de vie perdus, jusqu'à un maximum de niveau 9.
 
 Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la créature prend 3d8 dégâts nécrotiques.
 

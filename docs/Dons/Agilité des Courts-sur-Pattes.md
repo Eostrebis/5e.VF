@@ -1,7 +1,7 @@
 ---
 englishname: Squat Nimbleness
 requis: Taille Petite
-writing_status: empty
+writing_status: finished
 ---
 Vous êtes incroyablement agile pour votre race, vous bénéficiez des effets suivants :
 

@@ -1,7 +1,7 @@
 ---
 englishname: Knight of the Rose
 requis: Niveau 4, Écuyer de Solamnia
-writing_status: empty
+writing_status: finished
 ---
 Vous êtes un Chevalier de Solamnia, suivant l'Ordre de la Rose, un groupe connu pour leur direction, justice et sagesse. Votre volonté vous confère les effets suivants :
 

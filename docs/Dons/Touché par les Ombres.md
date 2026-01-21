@@ -1,7 +1,7 @@
 ---
 englishname: Shadow Touched
 requis:
-writing_status: empty
+writing_status: finished
 ---
 Votre exposition à la magie de la Gisombre vous a changé, et vous bénéficiez des effets suivants : 
 
