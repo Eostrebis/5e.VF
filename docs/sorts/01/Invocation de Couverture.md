@@ -17,7 +17,9 @@ Portee: 10 ft.
 Concentration: true
 Rituel: true
 englishname: Conjure Cover
-writing_status: empty
+writing_status: finished
+tags:
+  - renaissance
 ---
 Vous invoquez un petit mur en pierre le long du sol, parfaite couverture, à point que vous pouvez voir à distance. Le mur est épais de 50 cm et composé de trois segments hauts de 3 ft. et long de 5 ft. Chaque segment doit être contigu avec au moins un autre segment.
 

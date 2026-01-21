@@ -17,7 +17,9 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Finger Guns
-writing_status: empty
+writing_status: finished
+tags:
+  - renaissance
 ---
 Vous refermez le poing, pointez votre index et levez le pouce, imitant dangereusement un pistolet. Pendant la durée du sort, vous pouvez utiliser votre action pour réaliser une attaque de sort à distance contre une créature que vous pouvez voir à 60 ft., infligeant 1d8 dégâts de force si vous touchez.
 

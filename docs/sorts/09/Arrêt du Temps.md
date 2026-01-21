@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Time Stop
 writing_status: finished
+tags:
+  - chronomancie
 ---
 Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous prenez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.
 

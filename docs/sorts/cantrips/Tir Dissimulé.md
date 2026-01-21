@@ -17,7 +17,9 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Concealed Shot
-writing_status: empty
+writing_status: finished
+tags:
+  - renaissance
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque avec une arme à distance, sinon le sort échoue. Le projectile de cette attaque est invisible tant qu'il est en vol, et l'arme elle-même est silencieuse. Si l'arme est une arme à feu, le sort dissimule la fumée et la lumière que le tir produit, rendant impossible de détecter l'origine du projectile.
 

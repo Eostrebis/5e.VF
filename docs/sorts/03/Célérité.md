@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Haste
 writing_status: finished
+tags:
+  - chronomancie
 ---
 Choisissez une créature consentante que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, la vitesse de la cible est doublée, elle gagne un bonus de +2 à la CA, a l'avantage aux jets de sauvegarde de Dextérité et peut utiliser une action supplémentaire à chacun de ses tours. Cette action ne peut être utilisée que pour Attaquer (une unique attaque armée), Foncer, Se Désengager, Se Cacher ou Utiliser un Objet.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Slow
 writing_status: empty
+tags:
+  - chronomancie
 ---
 
