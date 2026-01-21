@@ -451,12 +451,13 @@
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Impressions of the Past",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Barde",
             "Magicien"
         ],
-        "description": "Vous projetez vos sens dans le temps pour percevoir votre emplacement actuel tel qu'il était dans le passé, y compris les évènement qui s'y déroulaient. Vous devez spécifier le moment exact que vous souhaitez voir, qui ne peut être il y a plus de 100 ans. Lorsque vous regardez le passé, celui-ci semble éthéré et assombri, mais vous êtes capable de discerner les détails et d'entendre les conversations normalement. De plus, les sens spéciaux (comme vision dans le noir) que vous possédez fonctionnent normalement\n\nTant que vos percevez le passé, vous pouvez regarder dans n'importe quelle direction, mais vous ne pouvez pas vous déplacer ou parler, et n'avez aucune conscience de votre environnement présent.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancer ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez partager ce sort avec une autre créature que vous touchez. Une créature réfractaire peut réaliser un jet de sauvegarde de Sagesse pour éviter l'effet.\n"
+        "description": "Vous projetez vos sens dans le temps pour percevoir votre emplacement actuel tel qu'il était dans le passé, y compris les évènements qui s'y déroulaient. Vous devez spécifier le moment exact que vous souhaitez voir, qui ne peut être il y a plus de 100 ans. Lorsque vous regardez le passé, celui-ci semble éthéré et assombri, mais vous êtes capable de discerner les détails et d'entendre les conversations normalement. De plus, les sens spéciaux (comme vision dans le noir) que vous possédez fonctionnent normalement\n\nTant que vous percevez le passé, vous pouvez regarder dans n'importe quelle direction, mais vous ne pouvez pas vous déplacer ou parler, et n'avez aucune conscience de votre environnement présent.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez partager ce sort avec une autre créature que vous touchez. Une créature réfractaire peut réaliser un jet de sauvegarde de Sagesse pour éviter l'effet.\n"
     },
     "Création ou Destruction d'Eau": {
         "level": "1",
@@ -699,7 +700,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Instant Replay",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Ranger",
             "Paladin",
@@ -1055,12 +1057,13 @@
         "Concentration": "false",
         "Rituel": "true",
         "englishname": "Time's Arrow",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Magicien",
             "Ranger"
         ],
-        "description": "Ce sort enchante un projectile de tel sort qu'il se gèle dans l'espace-temps. Vous pouvez repositionner le projectile dans l'action permettant de lancer le sort. \n\nLe projectile reste figé en place jusqu'à ce qu'une créature passe devant à moins de 120 ft., que quelque chose le touche, que l'effet soit dissipé ou que le sort soit terminé. A cet instant, le projectile se déplace soudainement, comme s'il venait d'être tiré ou lancé sur une portée de 120 ft. Si une créature se trouve dans la ligne de feu, le projectile réalise une attaque en utilisant votre modificateur d'attaque de sort. S'il touche, il inflige les dégâts normaux + votre modificateur de caractéristique d'incantation.\n"
+        "description": "Ce sort enchante un projectile de tel sort qu'il se gèle dans l'espace-temps. Vous pouvez repositionner le projectile dans l'action permettant de lancer le sort. \n\nLe projectile reste figé en place jusqu'à ce qu'une créature passe devant à moins de 120 ft., que quelque chose le touche, que l'effet soit dissipé ou que le sort soit terminé. À cet instant, le projectile se déplace soudainement, comme s'il venait d'être tiré ou lancé sur une portée de 120 ft. Si une créature se trouve dans la ligne de feu, le projectile réalise une attaque en utilisant votre modificateur d'attaque de sort. S'il touche, il inflige les dégâts normaux + votre modificateur de caractéristique d'incantation.\n"
     },
     "Duel Forcé": {
         "level": "1",
@@ -1713,12 +1716,13 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Time Hop",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Ensorceleur",
             "Magicien"
         ],
-        "description": "Vous vous projetez quelques secondes dans le futur. Choisissez une durée : 1 tour, 2 tours ou 3 tours. Vous disparaissez, et réapparaissez après la durée au début de votre tour dans l'espace inoccupé le plus proche de celui que vous avez quitté. Tant que vous êtes disparu, vous êtes en dehors du temps; vous ne pouvez pas prendre d'action ou de réaction, le temps ne passe pas pour vous, les effets de vos sorts sont suspendus, et vous ne pouvez être affecté par des attaques ou des effets.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez choisir une durée de 1 minute. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez choisir une durée de 1 heure.\n"
+        "description": "Vous vous projetez quelques secondes dans le futur. Choisissez une durée : 1 tour, 2 tours ou 3 tours. Vous disparaissez, et réapparaissez après la durée au début de votre tour dans l'espace inoccupé le plus proche de celui que vous avez quitté. Tant que vous êtes disparu, vous êtes en dehors du temps ; vous ne pouvez pas prendre d'action ou de réaction, le temps ne passe pas pour vous, les effets de vos sorts sont suspendus, et vous ne pouvez être affecté par des attaques ou des effets.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez choisir une durée de 1 minute. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez choisir une durée de 1 heure.\n"
     },
     "Bouclier de Foi": {
         "level": "1",
@@ -1968,6 +1972,7 @@
         "Rituel": "false",
         "englishname": "Accelerate/Decelerate",
         "writing_status": "empty",
+        "tags": "",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -2052,7 +2057,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Action",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Sorcière",
             "Barde",
@@ -2188,12 +2194,13 @@
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Chromatic Bullet",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Paladin",
             "Ranger"
         ],
-        "description": "La prochaine fois que vous touchez une créature avec une attaque armée à distance en utilisant une arme à feu pendant la durée du sort, votre balle regorge d'énergie élémentaire. L'attaque inflige 2d4 dégâts supplémentaires à la cible. Vous choisissez si ces dégâts supplémentaires sont des dégâts d'acide, de froid, de feu, de foudre, de poison ou de tonnerre et vous pouvez choisir de changer les dégâts de votre arme à feu pour un de ceux-ci. Vous n'êtes pas obligé de choisir les même dégâts pour les deux.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.\n"
+        "description": "La prochaine fois que vous touchez une créature avec une attaque armée à distance en utilisant une arme à feu pendant la durée du sort, votre balle regorge d'énergie élémentaire. L'attaque inflige 2d4 dégâts supplémentaires à la cible. Vous choisissez si ces dégâts supplémentaires sont des dégâts d'acide, de froid, de feu, de foudre, de poison ou de tonnerre et vous pouvez choisir de changer les dégâts de votre arme à feu pour un de ceux-ci. Vous n'êtes pas obligé de choisir les mêmes dégâts pour les deux.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.\n"
     },
     "Blessure": {
         "level": "1",
@@ -2314,7 +2321,8 @@
         "Concentration": "true",
         "Rituel": "true",
         "englishname": "Conjure Cover",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Investigateur",
             "Druide",
@@ -2761,7 +2769,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Paradox",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -2905,6 +2914,7 @@
         "Rituel": "false",
         "englishname": "Time Stop",
         "writing_status": "finished",
+        "tags": "",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -2925,6 +2935,7 @@
         "Rituel": "false",
         "englishname": "Antiballistics Field",
         "writing_status": "empty",
+        "tags": "",
         "available": [
             "Magicien",
             "Clerc",
@@ -3486,7 +3497,8 @@
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Evasiveness",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -4154,7 +4166,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Concealed Shot",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Barde",
             "Druide",
@@ -5471,7 +5484,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Moment to Think",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "MagedeGuerre",
             "Clerc",
@@ -5479,7 +5493,7 @@
             "Magicien",
             "Artificier"
         ],
-        "description": "Lorsque vous lancez ce sort, vous arrêtez brièvement le temps pour tout le monde sauf vous. Vous pouvez prendre une actions supplémentaire et vous déplacer dans votre espace tandis que le temps ne passe pas pour les autres créatures. Cette action peut être utilisée seulement pour prendre l'action de Recherche ou d'Utilisation d'un Objet, ou pour réaliser un jet d'Intelligence.\n\nDe plus, vous ne pouvez affecter ou infliger des dégâts à une autre créature ou aux objets autres que ceux que vous portez ou maniez. Si un objet quitte votre main, il est également figé dans le temps.\n"
+        "description": "Lorsque vous lancez ce sort, vous arrêtez brièvement le temps pour tout le monde sauf vous. Vous pouvez prendre une action supplémentaire et vous déplacer dans votre espace tandis que le temps ne passe pas pour les autres créatures. Cette action peut être utilisée seulement pour prendre l'action de Recherche ou d'Utilisation d'un Objet, ou pour réaliser un jet d'Intelligence.\n\nDe plus, vous ne pouvez affecter ou infliger des dégâts à une autre créature ou aux objets autres que ceux que vous portez ou maniez. Si un objet quitte votre main, il est également figé dans le temps.\n"
     },
     "Orbe Occulte": {
         "level": "0",
@@ -5698,7 +5712,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Finger Guns",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Artificier",
             "Barde",
@@ -5961,7 +5976,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Conjure Cannonball",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Magicien",
             "Ensorceleur"
@@ -6551,6 +6567,7 @@
         "Rituel": "false",
         "englishname": "Haste",
         "writing_status": "finished",
+        "tags": "",
         "available": [
             "Artificier",
             "Ensorceleur",
@@ -7003,14 +7020,15 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Dire Warning",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Investigateur",
             "Nécromancien",
             "Clerc",
             "Magicien"
         ],
-        "description": "Vous recevez un message de 6 mots ou moins de votre vous futur, vous avertissant d'une menace cruciale ou vous pointant un chemin fructueux. A un moment dans le futur, une fois que vous avez appris pourquoi vous avez envoyé le message, vous devez réaliser un rituel de 10 minutes pour envoyer le message à votre vous du passé. Une fois que vous avez lancé ce sort, vous ne pouvez pas le relancer jusqu'à ce que vous réalisiez le rituel ou une semaine plus tard si vous n'avez pas découvert cette information.\n"
+        "description": "Vous recevez un message de 6 mots ou moins de votre vous futur, vous avertissant d'une menace cruciale ou vous pointant un chemin fructueux. À un moment dans le futur, une fois que vous avez appris pourquoi vous avez envoyé le message, vous devez réaliser un rituel de 10 minutes pour envoyer le message à votre vous du passé. Une fois que vous avez lancé ce sort, vous ne pouvez pas le relancer jusqu'à ce que vous réalisiez le rituel ou une semaine plus tard si vous n'avez pas découvert cette information.\n"
     },
     "Emprise des Tombes": {
         "level": "4",
@@ -7851,7 +7869,8 @@
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Perforating Smite",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Paladin"
         ],
@@ -8047,7 +8066,8 @@
         "Concentration": "false",
         "Rituel": "true",
         "englishname": "Jethro's Instant Reload",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Investigateur",
             "Barde",
@@ -8089,12 +8109,13 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Recall",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Ensorceleur",
             "Magicien"
         ],
-        "description": "Notez où vous vous trouvez lorsque vous lancez ce sort. Jusqu'à la fin de votre prochain tour, vous pouvez utiliser votre réaction pour vous téléportez à cet emplacement, ou à l'espace inoccupé le plus proche. Si vous utilisez votre réaction en réponse à une attaque, un sort, un effet magique ou tout autre effet infligeant des dégâts, résolvez l'effet avant de vous téléporter.\n"
+        "description": "Notez où vous vous trouvez lorsque vous lancez ce sort. Jusqu'à la fin de votre prochain tour, vous pouvez utiliser votre réaction pour vous téléporter à cet emplacement, ou à l'espace inoccupé le plus proche. Si vous utilisez votre réaction en réponse à une attaque, un sort, un effet magique ou tout autre effet infligeant des dégâts, résolvez l'effet avant de vous téléporter.\n"
     },
     "Augure": {
         "level": "2",
@@ -8422,7 +8443,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Delay",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -8643,7 +8665,8 @@
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Jam Weapon",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Magicien",
             "Barde",
@@ -8894,7 +8917,8 @@
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Protection from Ballistics",
-        "writing_status": "empty",
+        "writing_status": "finished",
+        "tags": "",
         "available": [
             "Magicien",
             "Occultiste",
