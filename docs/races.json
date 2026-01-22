@@ -73,6 +73,23 @@
 			"description":"Les centaures sont généralement originaires de la Féerie et résonnent magiquement avec le monde naturel."
 		},
 		{
+			"name": "Cnidar",
+			"size": ["M"],
+			"img-type": "webp",
+			"subrace": true,
+			"vanilla": false,
+			"description": "Les cnidars sont un peuple de créatures passant par une phase polype avant d'atteindre la maturité."
+		},
+		{
+			"name": "Dhampir",
+			"size": ["S", "M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"lineage": true,
+			"description": "Union entre un vampire et un mortel, le dhampir est sujet à une Faim permanente, le poussant à chasser."
+		},
+		{
 			"name":"Changelin",
 			"size":["M"],
 			"img-type":"png",
