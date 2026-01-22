@@ -8,6 +8,7 @@ ___
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 15 (+2) | 17 (+3) | 4 (-3) | 10 (+0) | 16 (+3) |
+
 ___
 **Résistances aux dégâts** acide (Eau seulement) ; foudre et tonnerre (Air seulement) ; perçant et tranchant (Terre seulement)  
 **Immunités aux dégâts** poison ; feu (Feu seulement)  
