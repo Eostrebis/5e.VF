@@ -15,7 +15,7 @@ Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Summon Beast
-writing_status: empty
+writing_status: finished
 ---
 Vous appelez un esprit bestial. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Bestial]]. Lorsque vous lancez ce sort, choisissez un environnement : Air, Terre ou Eau. La créature prend la forme d'un animal de votre choix natif à l'environnement que vous avez choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 
