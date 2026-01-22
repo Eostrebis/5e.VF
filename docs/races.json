@@ -57,6 +57,14 @@
 			"description":"Les autognomes sont des êtres mécaniques construits par des gnomes des roches et devenus conscients."
 		},
 		{
+			"name":"Aven",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Humanoïdes à tête de faucon ou d'ibis, les Aven ne jurent que par le mérite"
+		},
+		{
 			"name":"Centaure",
 			"size":["M"],
 			"img-type":"png",
