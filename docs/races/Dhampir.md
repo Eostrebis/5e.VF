@@ -21,6 +21,7 @@ Ceux qui se laissent trop aller à cette faim risquent de perdre le contrôle et
 | 4   | Énergie psychique         |
 | 5   | Rêves                     |
 | 6   | Énergie vitale            |
+
 #### Origine des Dhampirs
 
 Les dhampirs sont souvent issus de rencontres avec des vampires, mais toutes sortes de pactes macabres, d'influences nécromantiques et de rencontres avec de mystérieux immortels ont pu transformer votre personnage. La table ci-dessous propose des pistes sur la façon dont votre personnage a acquis son lignage.
@@ -68,6 +69,8 @@ Si vous ne possédez aucun de ces éléments de par votre race ou que vous chois
 **Morsure Vampirique.** Votre morsure canine est une arme naturelle, considérée comme une arme simple de mêlée que vous maîtrisez. Vous ajoutez votre modificateur de Constitution au lieu de votre modificateur de Force aux jets d'attaque et de dégâts que vous réalisez avec cette morsure. Elle inflige 1d4 dégâts perçants si vous touchez. Lorsqu'il vous manque au moins la moitié de vos points de vie, vous avez l'avantage aux jets d'attaque que vous réalisez avec cette morsure.
 
 Lorsque vous attaquez avec cette morsure et touchez une créature qui n'est pas un Mort-Vivant ou une Construction, vous vous renforcez de l'une des façons ci-après : 
+
  - Vous regagnez un nombre de points de vie égal aux dégâts perçants infligés par la morsure.
  - Vous obtenez un bonus à votre prochain jet de caractéristique ou d'attaque que vous réalisez ; ce bonus est égal aux dégâts perçants infligés par la morsure.
+ 
 Vous pouvez vous renforcer de cette façon avec votre morsure un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
