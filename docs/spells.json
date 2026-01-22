@@ -4029,6 +4029,27 @@
         ],
         "description": "Les vents enveloppent votre corps, tirant sur vos cheveux et vos vêtements et vous soulevant du sol. Vous obtenez une vitesse de vol de 60 ft. De plus, vous avez l'avantage aux jets de caractéristique pour éviter d'être [[saisi]] et aux jets de sauvegarde pour éviter d'être [[retenu]] ou [[paralysé]].\n\nLorsque vous êtes la cible d'un sort ou d'une attaque alors que ce sort fait effet, vous pouvez utiliser votre réaction pour vous téléporter de jusqu'à 60 ft. vers un espace inoccupé que vous pouvez voir. Si ce mouvement vous met hors de portée du sort ou de l'attaque, vous n'êtes pas affecté par ce dernier. Ce sort se termine lorsque vous réapparaissez. "
     },
+    "Convocation de Céleste": {
+        "level": "5",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un reliquaire doré d'une valeur d'au moins 500 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Celestial",
+        "writing_status": "finished",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Martyr"
+        ],
+        "description": "Vous appelez un esprit céleste. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Céleste]]. Lorsque vous lancez ce sort, choisissez Vengeur ou Défenseur. Votre choix détermine l'attaque de la créature dans son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Éviter et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n\n\n"
+    },
     "Châtiment Punitif": {
         "level": "5",
         "school": "Évocation",
@@ -8130,7 +8151,7 @@
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Summon Beast",
-        "writing_status": "empty",
+        "writing_status": "finished",
         "available": [
             "Sorcière",
             "Druide",
