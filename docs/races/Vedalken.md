@@ -5,7 +5,9 @@ writing_status: finished
 
 Les vedalkens sont des humanoïdes à la peau variant du bleu azur au gris ardoise, généralement sveltes et dépourvus de pilosité. Ils dégagent une impression de calme imperturbable, leurs mouvements étant précis et dénués de toute agitation inutile. Là où d'autres races voient des émotions ou du chaos, les vedalkens voient des schémas, des probabilités et des opportunités d'amélioration.
 
-Pour un vedalken, la perfection n'est pas une destination, mais un processus éternel. Ils ne sont pas froids par cruauté, mais par pragmatisme : ils considèrent que les émotions sont des variables instables qui obscurcissent le jugement. Ils sont capables de passer des décennies à perfectionner un seul rouage ou une seule ligne de loi. ![[Vedalken.png]]
+Pour un vedalken, la perfection n'est pas une destination, mais un processus éternel. Ils ne sont pas froids par cruauté, mais par pragmatisme : ils considèrent que les émotions sont des variables instables qui obscurcissent le jugement. Ils sont capables de passer des décennies à perfectionner un seul rouage ou une seule ligne de loi.
+
+![[Vedalken.png]]
 
 ### Culture
 

@@ -10,7 +10,7 @@ Bien que de nombreux sang-exaltés acquièrent leur lignage après avoir passé 
 ![[Sang-Exalté.png]]
 #### Héritier des guenaudes
 
-L'une des méthodes utilisées par les guenaudes pour perpétuer leur espèce est la création de sang-exaltés. Chaque sang-exalté présente des caractéristiques rappelant la guenaude dont la magie a inspiré ses pouvoirs. Cela inclut une couronne inhabituelle, souvent appelée **croix d'aînée** ou tour de sorcière. Cette partie vivante du corps du sang-exalté, semblable à une guirlande, s'étend de ses tempes pour s'enrouler derrière la tête, servant de marque visible du pacte conclu entre la guenaude et le sang-exalté, d'une dette contractée ou d'une transformation à venir.
+L'une des méthodes utilisées par les guenaudes pour perpétuer leur espèce est la création de sang-exaltés. Chaque sang-exalté présente des caractéristiques rappelant la guenaude dont la magie a inspiré ses pouvoirs. Cela inclut une couronne inhabituelle, souvent appelée croix d'aînée ou tour de sorcière. Cette partie vivante du corps du sang-exalté, semblable à une guirlande, s'étend de ses tempes pour s'enrouler derrière la tête, servant de marque visible du pacte conclu entre la guenaude et le sang-exalté, d'une dette contractée ou d'une transformation à venir.
 #### Origines des sang-exaltés
 
 Un pacte avec une guenaude ou d'autres forces étranges a transformé votre personnage en un être magique. Lancez un dé ou choisissez une option dans la table ci-dessous pour déterminer comment votre personnage a acquis son lignage.
