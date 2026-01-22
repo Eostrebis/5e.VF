@@ -59,7 +59,7 @@ if __name__ == '__main__':
         for s in spells:
             with open(s, encoding="utf8") as f:
                 spells_json[s[:-3]] = read_spell(f.read(), verbose=True)
-    with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
-        f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
+    #with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
+    #    f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
     if '' in levels:
         levels.pop('')
