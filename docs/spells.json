@@ -6989,7 +6989,7 @@
         "detailmat": "De l'air, un gravier, des cendres et de l'eau dans un fiole plaquée d'or d'une valeur d'au moins 400 po",
         "Duree": "1 Heure",
         "Incantation": "1 Action",
-        "Portee": "",
+        "Portee": "90 ft.",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Summon Elemental",
@@ -8116,6 +8116,27 @@
             "Ranger"
         ],
         "description": "Vous touchez une créature consentante. Jusqu'à ce que le sort se termine, la peau de la cible a une apparence rude, comme de l'écorce, et sa CA ne peut être inférieure à 16, peu importe son armure."
+    },
+    "Convocation de Bête": {
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une plume, une touffe de fourrure et une queue de poisson à l'intérieur d'un gland plaqué d'une valeur d'au moins 200 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Beast",
+        "writing_status": "empty",
+        "available": [
+            "Sorcière",
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Vous appelez un esprit bestial. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Bestial]]. Lorsque vous lancez ce sort, choisissez un environnement : Air, Terre ou Eau. La créature prend la forme d'un animal de votre choix natif à l'environnement que vous avez choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Éviter et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques."
     },
     "Retour Arrière": {
         "level": "2",
