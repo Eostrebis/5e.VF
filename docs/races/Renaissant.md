@@ -7,7 +7,7 @@ Les renaissants sont des individus qui sont morts mais qui, pour une raison myst
 
 Leur apparence varie grandement : certains ont la peau pâle et froide parsemée de cicatrices de suture, d'autres dégagent une légère odeur de formol ou de terre battue, tandis que d'autres encore semblent parfaitement humains, à l'exception d'un regard vide et d'un cœur qui ne bat plus. Le trait commun à tous les renaissants est la perte de mémoire : leur vie passée n'est plus qu'un puzzle de souvenirs fragmentés et flous.
 
-![[Réincarné.png]]
+![[Renaissant.png]]
 
 #### Souvenirs estompés
 

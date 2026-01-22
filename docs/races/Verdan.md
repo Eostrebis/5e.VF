@@ -5,7 +5,10 @@ writing_status: finished
 
 Les Verdans sont un peuple en perpétuelle mutation, nés d'un chaos magique imprévu. Apparus récemment dans le monde suite à l'influence d'une entité mystérieuse nommée Celui-Qui-Perdure, ils ne possèdent pas de cités anciennes ni de légendes millénaires. Pour un Verdan, l'existence est une découverte quotidienne. Leur corps et leur esprit sont dans un état de flux constant, ce qui leur donne une peau d'un vert jade éclatant et des oreilles expressives qui ne cessent de grandir.
 
-Parce qu'ils n'ont pas de passé pour les définir, les Verdans abordent le monde avec une curiosité enfantine et une absence totale de préjugés, cherchant toujours à comprendre les cultures qu'ils croisent sur leur chemin. ![[Verdan.png]]
+Parce qu'ils n'ont pas de passé pour les définir, les Verdans abordent le monde avec une curiosité enfantine et une absence totale de préjugés, cherchant toujours à comprendre les cultures qu'ils croisent sur leur chemin.
+
+![[Verdan.png]]
+
 ### Culture
 
 La culture verdane est celle de l'itinérance et de l'intégration. Sans patrie propre, ils se sont dispersés à travers les royaumes, s'installant souvent dans des communautés cosmopolites où leur nature empathique est appréciée. Ils accordent une grande importance à l'expérience personnelle et aux relations sociales. Pour eux, le changement n'est pas une source de peur, mais une opportunité de croissance.

@@ -7,7 +7,7 @@ Là où les souhaits échouent, la magie ancienne peut exaucer les désirs du c�
 
 Bien que de nombreux sang-exaltés acquièrent leur lignage après avoir passé un accord avec une guenaude, d'autres révèlent leur nature en vieillissant — particulièrement si une guenaude les a influencés tôt dans leur vie, voire avant leur naissance. Beaucoup de sang-exaltés se tournent vers une vie d'aventure, cherchant à découvrir les mystères de leur magie, à tisser un lien avec leur nature féerique ou à fuir une guenaude qui se montre obsédée par eux.
 
-![[Sang-Sorcier.png]]
+![[Sang-Exalté.png]]
 #### Héritier des guenaudes
 
 L'une des méthodes utilisées par les guenaudes pour perpétuer leur espèce est la création de sang-exaltés. Chaque sang-exalté présente des caractéristiques rappelant la guenaude dont la magie a inspiré ses pouvoirs. Cela inclut une couronne inhabituelle, souvent appelée **croix d'aînée** ou tour de sorcière. Cette partie vivante du corps du sang-exalté, semblable à une guirlande, s'étend de ses tempes pour s'enrouler derrière la tête, servant de marque visible du pacte conclu entre la guenaude et le sang-exalté, d'une dette contractée ou d'une transformation à venir.
