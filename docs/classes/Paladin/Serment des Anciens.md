@@ -33,7 +33,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Colère Naturelle.** Vous pouvez utiliser votre Canal Divin pour faire appel aux forces primordiales afin de piéger un adversaire. Pour une action, vous pouvez faire apparaître des lianes spectrales à proximité d'une créature que vous pouvez voir à 10 ft. La créature doit réussir un jet de sauvegarde de Force ou Dextérité (son choix) ou être [[retenu|retenue]]. Tant qu'elle est [[retenu|retenue]] par les lianes, la créature répète le jet de sauvegarde à la fin de chacun de ses tours et se libère sur un succès. Lorsque la créature se libère, les lianes disparaissent. 
 
-**Renvoi des Sans-Foi.** Pour une action, vous pouvez utiliser votre Canal Divin pour prononcer des mots anciens douloureux pour les Feys et les Fiélons. Chaque Fey ou Fiélon à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature est renvoyée pendant 1 minute.
+**Renvoi des Sans-Foi.** Pour une action, vous pouvez utiliser votre Canal Divin pour prononcer des mots anciens douloureux pour les Fées et les Fiélons. Chaque Fée ou Fiélon à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature est renvoyée pendant 1 minute.
 
 Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que courir ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 

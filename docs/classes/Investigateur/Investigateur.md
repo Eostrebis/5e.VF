@@ -159,11 +159,11 @@ De plus, l'attaque, ainsi que les autres attaques réalisées contre cette cible
 
 Au niveau 7, vous gardez toujours une vaste variété de symboles et d'objets sacrés sur vous, même si vous n'êtes pas particulièrement pieux. Lorsque vous utilisez votre Piété Opportuniste, vous choisissez un effet à créer parmi la liste ci-dessous. Vous devez alors terminer un repos avant de pouvoir réutiliser votre Piété Opportuniste.
 
-**Bannissement.** Vous lancez le sort [[Bannissement]] sans dépenser d'emplacement de sort. Si la cible est un Fey, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle prend également un montant de dégâts radiants égal à votre niveau.
+**Bannissement.** Vous lancez le sort [[Bannissement]] sans dépenser d'emplacement de sort. Si la cible est une Fée, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle prend également un montant de dégâts radiants égal à votre niveau.
 
 **Soin Miraculeux.** Pour une action, une main divine émane de vos mains pour apaiser les blessures d'une créature consentante que vous touchez. Cette créature regagne un nombre de points de vie égal au double de votre niveau d'investigateur. Cette aptitude n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
-**Protection.** Pour une action, vous dessinez un symbole sacré sur une créature à 5 ft. de vous, la protégeant contre le danger. Pendant la prochaine minute, les Monstruosités, les Célestes, les Élémentaires, les Feys, les Fiélons et les Morts-Vivants qui touchent la créature protégée ou la touchent avec une attaque de mêlée prennent 1d12 dégâts radiants.
+**Protection.** Pour une action, vous dessinez un symbole sacré sur une créature à 5 ft. de vous, la protégeant contre le danger. Pendant la prochaine minute, les Monstruosités, les Célestes, les Élémentaires, les Fées, les Fiélons et les Morts-Vivants qui touchent la créature protégée ou la touchent avec une attaque de mêlée prennent 1d12 dégâts radiants.
 
 ## Motivation Surnaturelle
 Au niveau 9, vous devenez résilient aux attaques et effets des créatures que vous investiguez régulièrement. Vous ne pouvez être possédé ou [[charmé]] et vous êtes résistants aux dégâts nécrotiques et psychiques.

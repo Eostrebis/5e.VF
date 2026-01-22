@@ -20,7 +20,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de la c
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour abjurer des créatures venant d'autres mondes.
 
-Pour une action, vous dressez votre symbole sacré et un Céleste, Élémentaire, Fey ou Fiélon de votre choix qui se trouve à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse, à condition que la créature puisse vous voir ou vous entendre. Si al créature échoue ce jet, elle est renvoyée pour 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
+Pour une action, vous dressez votre symbole sacré et un Céleste, Élémentaire, Fée ou Fiélon de votre choix qui se trouve à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse, à condition que la créature puisse vous voir ou vous entendre. Si al créature échoue ce jet, elle est renvoyée pour 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 
 Après que vous avez atteint le niveau 5, lorsqu'une créature échoue son jet contre votre Abjuration Arcanique, la créature est bannie pour 1 minute (comme d'après le sort [[Bannissement]], sans concentration) si elle ne se trouve pas dans son plan d'origine et si son FD est en dessous d'un certain seuil.
 

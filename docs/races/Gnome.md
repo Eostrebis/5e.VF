@@ -89,7 +89,7 @@ Votre caractéristique d'incantation pour ces sorts est, au choix, l'Intelligenc
 
 ### Description
 
-Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une vitesse et une discrétion innée. Généralement, les gnomes des forêts sont rares et plutôt discrets. Ils se concentrent dans des communautés cachées dans les forêts sylvaines, en utilisant l'illusion et la malice pour se camoufler des menaces ou pour couvrir leur fuite lorsqu'ils sont détectés. Les gnomes des forêts ont tendance à être amicaux avec les habitants bien intentionnés des bois, et ils considèrent les elfes et les bons feys comme leurs plus grands alliés. Ces gnomes peuvent également se lier d'amitié avec des petits animaux de la forêt et compter sur eux pour la récolte d'informations à propos des menaces qui pèsent sur leurs terres.
+Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une vitesse et une discrétion innée. Généralement, les gnomes des forêts sont rares et plutôt discrets. Ils se concentrent dans des communautés cachées dans les forêts sylvaines, en utilisant l'illusion et la malice pour se camoufler des menaces ou pour couvrir leur fuite lorsqu'ils sont détectés. Les gnomes des forêts ont tendance à être amicaux avec les habitants bien intentionnés des bois, et ils considèrent les elfes et les bons fées comme leurs plus grands alliés. Ces gnomes peuvent également se lier d'amitié avec des petits animaux de la forêt et compter sur eux pour la récolte d'informations à propos des menaces qui pèsent sur leurs terres.
 
 ### Mécaniques
 

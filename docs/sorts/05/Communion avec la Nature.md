@@ -23,7 +23,7 @@ Vous connaissez instantanément jusqu'à trois informations de votre choix parmi
 
  - terrains et plans d'eau
  - plantes, minéraux, animaux ou peuples courants
- - célestes, feys, fiélons, élémentaires ou morts-vivants puissants
+ - célestes, fées, fiélons, élémentaires ou morts-vivants puissants
  - influence d'autres plans d'existence
  - bâtiments
 
