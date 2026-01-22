@@ -7770,6 +7770,26 @@
         ],
         "description": "En lançant ce sort, vous créez une cage de ronces épineuses qui englobe un cube de 10 ft. de côté à portée. Les ronces sont épaisses et ne laissent passer qu'une petite fraction de la lumière et de l'air environnant. Ainsi, elles prodiguent une couverture de trois quarts aux créatures à l'intérieur de la cage et une couverture totale aux créatures à l'extérieur. Vous, ainsi que toutes les autres créatures de votre choix, pouvez passer à travers les parois de la cage sans difficulté. La cage d'épines a une CA de 10, 200 points de vie et une faiblesse au feu. Une créature qui frappe la cage avec une attaque à mains nues ou une arme naturelle, comme une morsure ou une griffe, subit 1d4 dégâts perçants.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les points de vie de la cage augmentent de 20 par niveau d'emplacement au-delà du niveau 4.\n"
     },
+    "Convocation de Construction": {
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une pierre ornée et une caisse en métal valant au moins 400 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Construct",
+        "writing_status": "finished",
+        "available": [
+            "Artificier",
+            "Magicien"
+        ],
+        "description": "Vous appelez l'esprit d'une construction. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Construit]]. Lorsque vous lancez ce sort, choisissez un matériau : Argile, Métal ou Pierre. La créature prend la forme d'un golem ou d'un modron fait du matériau choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Éviter et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n\n\n"
+    },
     "Détection des Pensées": {
         "level": "2",
         "school": "Divination",
