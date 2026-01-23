@@ -80,6 +80,14 @@
 			"vanilla": false,
 			"description": "Les cnidars sont un peuple de créatures passant par une phase polype avant d'atteindre la maturité."
 		},
+        {
+          "name": "Cobboq",
+          "size": ["S"],
+          "img-type": "webp",
+          "subrace": false,
+          "vanilla": false,
+          "description": "Petit peuple à plumé qui se démarque par sa lâcheté, les cobboqs vivent cachés mais heureux."
+        },
 		{
 			"name": "Dhampir",
 			"size": ["S", "M"],
