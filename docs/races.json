@@ -83,7 +83,7 @@
         {
           "name": "Cobboq",
           "size": ["S"],
-          "img-type": "webp",
+          "img-type": "png",
           "subrace": false,
           "vanilla": false,
           "description": "Petit peuple à plumé qui se démarque par sa lâcheté, les cobboqs vivent cachés mais heureux."
