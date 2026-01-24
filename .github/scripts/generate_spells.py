@@ -50,7 +50,7 @@ if __name__ == '__main__':
         with open(s, encoding="utf8") as f:
             js_spell = read_spell(f.read())
             if js_spell['englishname'] is not None:
-                translation[js_spell['englishname']] = s[:-3]
+                translation[js_spell['englishname']] = s[:-3].lower().replace(" ", "_")
             if js_spell['level'] is not None and js_spell['level'] != '':
                 print(f"Moving spell {s}")
                 to_move = True
@@ -63,10 +63,11 @@ if __name__ == '__main__':
             with open(s, encoding="utf8") as f:
                 js_spell = read_spell(f.read(), verbose=True)
                 spells_json[s[:-3]] = js_spell
-                translation[js_spell["englishname"]] = s[:-3]
+                translation[js_spell["englishname"]] = s[:-3].lower().replace(" ", "_")
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
         f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells_translation.json", "w", encoding="utf8") as f:
         f.write(json.dumps(translation, ensure_ascii=False, indent=4))
     if '' in levels:
+
         levels.pop('')
