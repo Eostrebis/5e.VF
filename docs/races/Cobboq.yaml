@@ -46,7 +46,7 @@ features:
       type: "action"
       activation_type: "bonus_action"
       condition: "melee_hit"
-      effect: "disengage"
+      result: "disengage"
   - id: "feathered"
     name: "Plumé"
     description: "Vos os légers et votre panache de plumes réduit l'impact de la gravité ; vous ne prenez que la moitié des dégâts de chute."

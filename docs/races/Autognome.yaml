@@ -31,10 +31,11 @@ features:
     description: "Vous pouvez ajouter un d4 à un jet d'attaque, un test de caractéristique ou un jet de sauvegarde que vous réalisez, après avoir vu le lancer, mais avant d'en connaître les effets. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez les utilisations dépensées lorsque vous finissez un repos long."
     short_description: "+ 1d4 à un jet, {PB} fois par jour"
     logic:
-      type: "buff"
+      type: "action"
+      activation_type: "free_action"
       uses: "{PB}"
       recharge: "long_rest"
-      value: "1d4"
+      roll: "1d4"
   - id: "specialized_design"
     name: "Design Spécialisé"
     description: "Vous gagnez la maîtrise de deux outils de votre choix."
@@ -51,11 +52,11 @@ features:
       type: "multiple"
       effects:
         - type: "damage_resistance"
-          damage_type: [ "poison" ]
+          resistance_type: [ "poison" ]
         - type: "save_advantage"
-          condition: ["poisoned", "paralyzed"]
+          conditions: ["poisoned", "paralyzed"]
         - type: "immunity"
-          condition: ["disease"]
+          conditions: ["disease"]
   - id: "sentry_rest"
     name: "Repos de la Tourelle"
     description: "Lorsque vous prenez un repos long, vous passez au moins 6 heures dans un état végétatif, sans bouger, plutôt que de dormir. Dans cet état, vous apparaissez inerte, mais restez conscient."
@@ -66,6 +67,7 @@ features:
     short_description: "Profite des soins comme un Humanoïde et peut se soigner avec Réparation en utilisant un Dé de Vie."
     logic:
       type: "action"
+      activation_type: "free_action"
       name: "Réparation (Soin)"
       cost: "hit_die" # Coût en ressource
       heal: "1d{hit_die} + {CON.mod}" # Formule dynamique (d6/d8/d10 selon la classe)

@@ -24,7 +24,7 @@ features:
     short_description: "Résistance aux dégâts nécrotiques et radiants"
     logic:
       type: "damage_resistance"
-      damage_type: ["necrotic", "radiant"]
+      resistance_type: ["necrotic", "radiant"]
 
   - id: "darkvision"
     name: "Vision dans le Noir"
@@ -61,16 +61,17 @@ features:
     options:
       - id: "necrotic_shroud"
         name: "Nuage Nécrotique"
+        description: "Vos yeux deviennent brièvement des puits sombres, et de petites ailes fantomatiques apparaissent temporairement dans votre dos. Les créatures autres que vos alliés à moins de 10 ft. de vous doivent réussir un jet de sauvegarde de Charisme (DD 8 + bonus de maîtrise + modificateur de Charisme) ou être [[apeuré|apeurées]] jusqu'à la fin de votre prochain tour. Jusqu'à ce que la transformation ne se termine, une fois à chacun de vos tours, vous pouvez infliger des dégâts supplémentaires nécrotiques à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
         features:
           - id: "necrotic_shroud_action"
             name: "Transformation (Nuage)"
-            description: "Vos yeux deviennent brièvement des puits sombres, et de petites ailes fantomatiques apparaissent temporairement dans votre dos. Les créatures autres que vos alliés à moins de 10 ft. de vous doivent réussir un jet de sauvegarde de Charisme (DD 8 + bonus de maîtrise + modificateur de Charisme) ou être [[apeuré|apeurées]] jusqu'à la fin de votre prochain tour. Jusqu'à ce que la transformation ne se termine, une fois à chacun de vos tours, vous pouvez infliger des dégâts supplémentaires nécrotiques à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
             short_description: "Transformation ténébreuses apeurant les ennemis à 10 vs. jet de Charisme et {PB} dégâts supplémentaires"
             logic:
-              type: "bonus_action"
+              type: "action"
+              activation_type: "bonus_action"
               recharge: "long_rest"
               duration: "1 minute"
-              effect:
+              effects:
                 - type: "aoe"
                   range: "10ft"
                   condition: "frightened"
@@ -82,16 +83,17 @@ features:
                   damage_bonus_value: "{PB}"
       - id: "radiant_consumption"
         name: "Consommation Radieuse"
+        description: "Une lumière éblouissante s'échappe de vos yeux ainsi que de votre bouche. Pour la durée, vous produisez une lumière vive dans un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires et, une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
         features:
           - id: "radiant_consumption_action"
             name: "Transformation (Consommation)"
-            description: "Une lumière éblouissante s'échappe de vos yeux ainsi que de votre bouche. Pour la durée, vous produisez une lumière vive dans un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires et, une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
             short_description: "Émission de lumière (10/10) et {PB} dégâts supplémentaires"
             logic:
-              type: "bonus_action"
+              type: "action"
+              activation_type: "bonus_action"
               recharge: "long_rest"
               duration: "1 minute"
-              effect:
+              effects:
                 - type: "emit_light"
                   bright: 10
                   dim: 10
@@ -101,16 +103,17 @@ features:
                   damage_bonus_value: "{PB}"
       - id: "radiant_soul"
         name: "Âme Radieuse"
+        description: "Deux ailes lumineuses et spectrales bourgeonnent temporairement de votre dos. Jusqu'à ce que la transformation ne se termine, vous possédez une vitesse de vol égale à votre vitesse de marche, et une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
         features:
           - id: "radiant_soul_action"
             name: "Transformation (Ailes)"
-            description: "Deux ailes lumineuses et spectrales bourgeonnent temporairement de votre dos. Jusqu'à ce que la transformation ne se termine, vous possédez une vitesse de vol égale à votre vitesse de marche, et une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise."
             short_description: "Apparition d'ailes, vitesse de vol et {PB} dégâts supplémentaires"
             logic:
-              type: "bonus_action"
+              type: "action"
+              activation_type: "bonus_action"
               recharge: "long_rest"
               duration: "1 minute"
-              effect:
+              effects:
                 - type: "speed_grant"
                   target: "fly"
                   value: "{speed.walk}"

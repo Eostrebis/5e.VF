@@ -42,12 +42,15 @@ if __name__ == '__main__':
     os.chdir(spell_dir)
     levels = {}
     spells_json = {}
+    translation = {}
     spell_dirs = [d for d in os.listdir() if os.path.isdir(d)]
     spell_unsorted = [s for s in os.listdir() if os.path.isfile(s) and not os.path.isdir(s)]
     for s in spell_unsorted:
         to_move = False
         with open(s, encoding="utf8") as f:
             js_spell = read_spell(f.read())
+            if js_spell['englishname'] is not None:
+                translation[js_spell['englishname']] = s[:-3]
             if js_spell['level'] is not None and js_spell['level'] != '':
                 print(f"Moving spell {s}")
                 to_move = True
@@ -58,8 +61,12 @@ if __name__ == '__main__':
         spells = [f for f in os.listdir() if os.path.isfile(f)]
         for s in spells:
             with open(s, encoding="utf8") as f:
-                spells_json[s[:-3]] = read_spell(f.read(), verbose=True)
+                js_spell = read_spell(f.read(), verbose=True)
+                spells_json[s[:-3]] = js_spell
+                translation[js_spell["englishname"]] = s[:-3]
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:
         f.write(json.dumps(spells_json, ensure_ascii=False, indent=4))
+    with open("/home/runner/work/5e.VF/5e.VF/docs/spells_translation.json", "w", encoding="utf8") as f:
+        f.write(json.dumps(translation, ensure_ascii=False, indent=4))
     if '' in levels:
         levels.pop('')

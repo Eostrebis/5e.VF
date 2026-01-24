@@ -43,9 +43,9 @@ features:
               type: "multiple"
               effects:
                 - type: "damage_resistance"
-                  damage_type: ["poison"]
+                  resistance_type: ["poison"]
                 - type: "save_advantage"
-                  condition: ["poisoned"]
+                  conditions: ["poisoned"]
           - id: "nematocyst_limb"
             name: "Nématocyste"
             description: "Vous possédez un long membre épineux, une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec cette arme finesse, vous pouvez infliger un nombre de dégâts perçants égal à 1d4 + votre modificateur de Force ou de Dextérité (votre choix) au lieu des dégâts contondants normaux d'une attaque à mains nues."
@@ -67,7 +67,7 @@ features:
               recharge: "long_rest"
               save: "con"
               save_dc: "8 + {PB} + {CON.mod}"
-              effect: "paralyzed"
+              condition: "paralyzed"
       - id: "brightskin"
         name: "Peaubrillante"
         description: "Fait confiance à la diplomatie, à la ruse et aux enchantement pour éviter les conflits."
@@ -81,11 +81,11 @@ features:
               activation_type: "bonus_action"
               recharge: "long_rest"
               duration: "10 minutes"
-              effect:
-                type: "stat_bonus_conditional"
-                target: "skill_checks"
-                attribute: "cha"
-                value: "advantage"
+              effects:
+                - type: "stat_bonus_conditional"
+                  target: "skill_checks"
+                  attribute: "cha"
+                  value: "advantage"
           - id: "hypnotic_phosphorescence"
             name: "Phosphorescence Hypnotique"
             description: "Vous connaissez le cantrip illusion mineure. À partir du niveau 3, vous pouvez lancer le sort charme-personne une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. À partir du niveau 5, vous pouvez lancer le sort suggestion une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort de niveau adéquat.\n\nLe Charisme est votre caractéristique d'incantation pour ces sorts. Lorsque vous les lancez avec ce trait, vous n'avez pas besoin de composantes matérielles ou somatiques."

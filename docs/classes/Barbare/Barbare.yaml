@@ -1,0 +1,284 @@
+id: "class_barbarian"
+name: "Barbare"
+hit_die: 12
+primary_ability: "str"
+saves: ["str", "con"]
+
+# MAÎTRISES (Niveau 1)
+proficiencies:
+  armor: ["light", "medium", "shields"] #
+  weapons: ["simple", "martial"]       #
+  tools: []                            #
+  skills:
+    choose: 2
+    from: ["animal_handling", "athletics", "intimidation", "nature", "perception", "survival"] #
+
+# ÉQUIPEMENT DE DÉPART
+starting_equipment:
+  - choice_a: ["greataxe"]             #
+    choice_b: [{type: "martial_weapon"}]
+  - choice_a: ["handaxe", "handaxe"]   #
+    choice_b: [{type: "simple_weapon"}]
+  - items: ["explorers_pack", "javelin:4"] #
+
+# TABLE DE PROGRESSION
+levels:
+  1:
+    pb: 2
+    features: ["rage", "unarmored_defense"]
+    class_specific:
+      rages_count: 2      #
+      rage_damage: 2      #
+  2:
+    pb: 2
+    features: ["reckless_attack", "danger_sense"]
+    class_specific:
+      rages_count: 2
+      rage_damage: 2
+  3:
+    pb: 2
+    features: ["primal_path", "primal_knowledge_opt"]
+    class_specific:
+      rages_count: 3
+      rage_damage: 2
+  4:
+    pb: 2
+    features: ["asi"]
+    class_specific:
+      rages_count: 3
+      rage_damage: 2
+  5:
+    pb: 3
+    features: ["extra_attack", "fast_movement"]
+    class_specific:
+      rages_count: 3
+      rage_damage: 2
+  6:
+    pb: 3
+    features: ["primal_path_feature"]
+    class_specific:
+      rages_count: 4
+      rage_damage: 2
+  7:
+    pb: 3
+    features: ["feral_instinct", "instinctive_pounce_opt"]
+    class_specific:
+      rages_count: 4
+      rage_damage: 2
+  8:
+    pb: 3
+    features: ["asi"]
+    class_specific:
+      rages_count: 4
+      rage_damage: 2
+  9:
+    pb: 4
+    features: ["brutal_critical_1"]
+    class_specific:
+      rages_count: 4
+      rage_damage: 3
+  10:
+    pb: 4
+    features: ["primal_path_feature", "primal_knowledge_opt"]
+    class_specific:
+      rages_count: 4
+      rage_damage: 3
+  11:
+    pb: 4
+    features: ["relentless_rage"]
+    class_specific:
+      rages_count: 4
+      rage_damage: 3
+  12:
+    pb: 4
+    features: ["asi"]
+    class_specific:
+      rages_count: 5
+      rage_damage: 3
+  13:
+    pb: 5
+    features: ["brutal_critical_2"]
+    class_specific:
+      rages_count: 5
+      rage_damage: 3
+  14:
+    pb: 5
+    features: ["primal_path_feature"]
+    class_specific:
+      rages_count: 5
+      rage_damage: 3
+  15:
+    pb: 5
+    features: ["persistent_rage"]
+    class_specific:
+      rages_count: 5
+      rage_damage: 3
+  16:
+    pb: 5
+    features: ["asi"]
+    class_specific:
+      rages_count: 5
+      rage_damage: 4
+  17:
+    pb: 6
+    features: ["brutal_critical_3"]
+    class_specific:
+      rages_count: 6
+      rage_damage: 4
+  18:
+    pb: 6
+    features: ["indomitable_might"]
+    class_specific:
+      rages_count: 6
+      rage_damage: 4
+  19:
+    pb: 6
+    features: ["asi"]
+    class_specific:
+      rages_count: 6
+      rage_damage: 4
+  20:
+    pb: 6
+    features: ["primal_champion"]
+    class_specific:
+      rages_count: -1
+      rage_damage: 4
+
+features:
+  - id: "rage"
+    name: "Rage"
+    description: "Vous savez vous battre en faisant appel à votre férocité primaire. Pendant votre tour, vous pouvez vous enrager pour une action bonus.\n\nTant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne portez pas d'armure lourde :\n\n - Vous avez l'avantage aux jets et jets de sauvegarde de Force.\n - Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus aux dégâts en fonction de votre niveau de barbare, tel que renseigné dans la table.\n - Vous êtes résistant aux dégâts contondants, perçants et tranchants.\n\nSi vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.\n\nVotre rage dure 1 minute. Elle se termine prématurément si vous êtes inconscient ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.\n\nUne fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau."
+    short_description: "Action Bonus. Adv. FOR. Résistances physiques. Dégâts +{rage_damage}. Pas d'incantation ou d'armure lourde. {rages_count}/jour"
+    logic:
+      type: "resource"
+      name: "Rages"
+      max: "{rages_count}"
+      reset: long_rest
+  - id: "unarmored_defense"
+    name: "Défense sans Armure"
+    description: "Tant que vous ne portez aucune armure, votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Constitution. Vous pouvez utiliser un bouclier et profiter de cet effet."
+    short_description: "Sans armure, CA = 10 + DEX + CON."
+    logic:
+      type: "alternative_ac"
+      value: "10 + {DEX.mod} + {CON.mod}"
+      condition: "armor == 'none'"
+  - id: "reckless_attack"
+    name: "Attaque Téméraire"
+    description: "À partir du niveau 2, vous pouvez vous débarrasser de toute préoccupation vis-à-vis de la défense et attaquer de tout votre cœur. Lorsque vous réalisez la première attaque de votre tour, vous pouvez décider d'attaquer avec témérité. Le faire vous confère l'avantage aux attaques armées de mêlée qui utilisent la Force pendant ce tour, mais les jets d'attaque contre vous ont l'avantage jusqu'à votre prochain tour."
+    short_description: "Adv. aux attaques armées de mêlée. Adv. aux attaques contre vous."
+    logic:
+      type: "action"
+  - id: "danger_sense"
+    name: "Sixième Sens"
+    description: "Au niveau 2, vous obtenez un instinct sur le danger qui vous entoure, vous donnant un avantage pour l'éviter ou vous y préparer.\n\nVous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Vous ne bénéficiez pas de cet effet si vous êtes aveuglé, assourdi ou incapacité."
+    short_description: "Adv. aux JdS de Dex contre visible si pas aveuglé, assourdi ou incapacité"
+    logic:
+      type: "save_advantage"
+      save: "dex"
+      condition: "visible_effect"
+  - id: "primal_path"
+    name: "Voie Primitive"
+    description: "Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14."
+    type: "selection"
+    category: "subclass"
+  - id: "primal_knowledge_opt"
+    name: "Savoir Primitif (Opt.)"
+    optional: true
+    description: "Lorsque vous atteignez le niveau 3 et le niveau 10, vous gagnez la maîtrise d'une des compétences de votre choix parmi celles disponibles au barbare au niveau 1."
+    logic:
+      type: "choice"
+      result: "proficiency"
+      pool: "class_skills"
+      count: 1
+  - id: "extra_attack"
+    name: "Attaque Supplémentaire"
+    description: "À partir du niveau 5, vous pouvez attaquer deux fois lorsque vous utilisez votre action pour Attaquer pendant votre tour."
+    short_description: "Deux attaques par action d'Attaquer"
+  - id: "fast_movement"
+    name: "Déplacement Rapide"
+    description: "À partir du niveau 5, votre vitesse augmente de 10 ft. lorsque vous ne portez pas d'armure lourde."
+    short_description: "Vitesse +10 ft."
+    logic:
+      type: "speed_bonus"
+      target: "speed.walk"
+      value: 10
+      condition: "armor_type != 'heavy'"
+  - id: "feral_instinct"
+    name: "Instinct Féral"
+    description: "Au niveau 7, vos instincts sont si aiguisés que vous avez l'avantage aux jets d'initiative.\n\n De plus, si vous êtes surpris au début d'un combat sans être incapacité, vous pouvez agir normalement pendant votre tour, mais seulement si vous commencez votre tour par entrer en rage."
+    short_description: "Adv. aux jets d'init. Si surpris, agir normalement si rage"
+    logic:
+      type: "stat_bonus"
+      target: "initiative"
+      value: "advantage"
+  - id: "instinctive_pounce_opt"
+    name: "Bond Instinctif (Opt.)"
+    optional: true
+    description: "Au niveau 7, pendant l'action bonus que vous utilisez pour enrager, vous pouvez vous déplacer de la moitié de votre vitesse."
+    short_description: "Lorsque rage, déplacement de moitié de vitesse"
+  - id: "brutal_critical_1"
+    name: "Critique Brutal (1 dé)"
+    description: "À partir du niveau 9, vous pouvez lancer un dé de dégâts supplémentaire lorsque vous déterminez les dégâts supplémentaires d'un coup critique d'une attaque armée de mêlée."
+    short_description: "+1 dé de dégâts pour coup critique"
+    logic:
+      type: "critical_bonus_dice"
+      value: 1
+  - id: "brutal_critical_2"
+    name: "Critique Brutal (2 dés)"
+    replace: "brutal_critical_1"
+    description: "À partir du niveau 13, vous pouvez lancer deux dés de dégâts supplémentaire lorsque vous déterminez les dégâts supplémentaires d'un coup critique d'une attaque armée de mêlée."
+    short_description: "+2 dés de dégâts pour coup critique"
+    logic:
+     type: "critical_bonus_dice"
+     value: 2
+  - id: "brutal_critical_3"
+    name: "Critique Brutal (3 dés)"
+    replace: "brutal_critical_2"
+    description: "À partir du niveau 17, vous pouvez lancer trois dés de dégâts supplémentaire lorsque vous déterminez les dégâts supplémentaires d'un coup critique d'une attaque armée de mêlée."
+    short_description: "+3 dés de dégâts pour coup critique"
+    logic:
+      type: "critical_bonus_dice"
+      value: 3
+  - id: "relentless_rage"
+    name: "Rage Implacable"
+    description: "À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.\n\nChaque fois que vous utilisez cette aptitude après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10."
+    short_description: "Si 0 PV pendant rage, DD 10 CON pour 1 PV. DD +5 à chaque utilisation. Reset en repos"
+    logic:
+      type: "resource"
+      name: "DD de Rage Implacable"
+      value: 10
+      recharge: "rest"
+  - id: "persistent_rage"
+    name: "Rage Persistante"
+    description: "À partir du niveau 15, votre rage est si forte qu'elle ne termine que si vous tombez inconscient ou choisissez de la terminer."
+    short_description: "Rage ne termine que si choix ou inconscient"
+  - id: "indomitable_might"
+    name: "Puissance Indomptable"
+    description: "À partir du niveau 18, si le total obtenu pour un jet de Force est inférieur à votre score de Force, vous pouvez utiliser votre score à la place."
+    short_description: "Si jet de FOR < FOR, FOR à la place"
+  - id: "primal_champion"
+    name: "Champion Primal"
+    description: "Au niveau 20, vous êtes l'incarnation même de la puissance sauvage. Votre Force et votre Constitution augmentent de 4. Votre maximum pour ces scores est maintenant de 24."
+    short_description: "FOR, CON +4"
+    logic:
+      type: "multiple"
+      effects:
+        - type: "stat_bonus"
+          stats: ["str", "con"]
+          value: 4
+        - type: "stat_cap_increase"
+          stats: ["str", "con"]
+          new_cap: 24
+  - id: "asi"
+    name: "Augmentation de Caractéristiques"
+    description: "Lorsque vous atteignez le niveau 4, puis 8, 12, 16 et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière."
+    short_description: "+2 à une stat OU +1 à deux stats (Max 20)."
+    logic:
+      type: "asi_choice"
+      amount: 2
+      cap: 20
+
+  - id: "primal_path_feature"
+    name: "Aptitude de Voie Primitive"
+    description: "Vous gagnez une nouvelle aptitude déterminée par la Voie Primitive que vous avez choisie au niveau 3."
+    short_description: "Aptitude de sous-classe"
