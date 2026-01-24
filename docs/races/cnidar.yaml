@@ -1,0 +1,111 @@
+id: "race_cnidar"
+name: "Cnidar"
+type: "humanoid"
+size: "medium"
+
+speed:
+  walk: 30
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["CON","CHA"]]
+
+languages: ["common", "aquan"]
+weapons: []
+armors: []
+skills: []
+
+
+features:
+  - id: "amphibious_cnidar"
+    name: "Amphibie"
+    description: "Vous pouvez respirer dans l'air et dans l'eau."
+    short_description: "Respiration dans air et eau"
+    logic:
+      type: "speed_set"
+      target: "swim"
+      value: "{speed.walk}"
+  - id: "subrace_cnidar"
+    name: "Forme Cnidarienne"
+    type: "selection"
+    options:
+      - id: "nematocyst"
+        name: "Nématocyste"
+        description: "Adapté à la confrontation, au combat, au conflit et porteur d'un poison toxique."
+        features:
+          - id: "toxic_adaptation"
+            name: "Adaptation Toxique"
+            description: "Vous avez l'avantage aux jets de sauvegarde pour éviter d'être empoisonné et vous êtes résistant aux dégâts de poison."
+            short_description: "Résistance Poison + Avantage JdS Empoisonné"
+            logic:
+              type: "multiple"
+              effects:
+                - type: "damage_resistance"
+                  damage_type: ["poison"]
+                - type: "save_advantage"
+                  condition: ["poisoned"]
+          - id: "nematocyst_limb"
+            name: "Nématocyste"
+            description: "Vous possédez un long membre épineux, une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec cette arme finesse, vous pouvez infliger un nombre de dégâts perçants égal à 1d4 + votre modificateur de Force ou de Dextérité (votre choix) au lieu des dégâts contondants normaux d'une attaque à mains nues."
+            short_description: "Arme naturelle (Finesse) : 1d4 perçants"
+            logic:
+              type: "natural_weapon"
+              damage: "1d4"
+              damage_type: "piercing"
+              properties: ["finesse"]
+              stat_choice: ["str", "dex"]
+          - id: "neurotoxins"
+            name: "Neurotoxines"
+            description: "Pour une action bonus, vous pouvez secréter une toxine et l'appliquer à une arme ou une munition. La toxine ainsi appliquée persiste une heure. La première fois que vous touchez une créature avec cette arme ou cette munition, la créature doit réussir un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou être paralysée jusqu'au début de son prochain tour. Vous pouvez également utiliser une action bonus pour injecter la toxine dans une créature que vous touchez avec votre nématocyste.\n\nVous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long."
+            short_description: "Action Bonus : Enduire arme (1h). Touche -> JdS CON ou Paralysie. ({PB}/Long Rest)"
+            logic:
+              type: "action"
+              activation_type: "bonus_action"
+              uses: "{PB}"
+              recharge: "long_rest"
+              save: "con"
+              save_dc: "8 + {PB} + {CON.mod}"
+              effect: "paralyzed"
+      - id: "brightskin"
+        name: "Peaubrillante"
+        description: "Fait confiance à la diplomatie, à la ruse et aux enchantement pour éviter les conflits."
+        features:
+          - id: "brightskin_glow"
+            name: "Peaubrillante"
+            description: "Pour une action bonus, vous pouvez faire briller votre peau d'une multitude de couleurs plaisantes pendant 10 minutes. Pendant cette durée, vous avez l'avantage à tous vos jets de Charisme. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long."
+            short_description: "Action bonus : peau qui brille (10 minutes) et avantage pour jets de Charisme"
+            logic:
+              type: "action"
+              activation_type: "bonus_action"
+              recharge: "long_rest"
+              duration: "10 minutes"
+              effect:
+                type: "stat_bonus_conditional"
+                target: "skill_checks"
+                attribute: "cha"
+                value: "advantage"
+          - id: "hypnotic_phosphorescence"
+            name: "Phosphorescence Hypnotique"
+            description: "Vous connaissez le cantrip illusion mineure. À partir du niveau 3, vous pouvez lancer le sort charme-personne une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. À partir du niveau 5, vous pouvez lancer le sort suggestion une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort de niveau adéquat.\n\nLe Charisme est votre caractéristique d'incantation pour ces sorts. Lorsque vous les lancez avec ce trait, vous n'avez pas besoin de composantes matérielles ou somatiques."
+            short_description: "Illusion Mineure. Niv 3. Charme-Personne. Niv 5. Suggestion. Sans composantes matérielles ou somatiques"
+            logic:
+              type: "multiple"
+              effects:
+                - type: "grant_spell"
+                  spell_id: "minor_illusion"
+                  spellcasting_ability: ["CHA"]
+                  components_removed: ["M", "S"]
+                - type: "grant_spell"
+                  spell_id: "charm_person"
+                  level_required: 3
+                  recharge: "long_rest"
+                  spellcasting_ability: [ "CHA" ]
+                  components_removed: [ "M", "S" ]
+                - type: "grant_spell"
+                  spell_id: "suggestion"
+                  level_required: 5
+                  recharge: "long_rest"
+                  spellcasting_ability: [ "CHA" ]
+                  components_removed: [ "M", "S" ]

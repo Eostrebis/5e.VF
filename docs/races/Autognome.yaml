@@ -1,0 +1,72 @@
+id: "race_autognome"
+name: "Autognome"
+type: "construct"
+size: "small"
+
+speed:
+  walk: 30
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["CON","INT"]]
+
+languages: ["common", "gnome"]
+weapons: []
+armors: []
+skills: []
+
+features:
+  - id: "armoring"
+    name: "Blindage"
+    description: "Vous êtes enrobé d'un fin métal, ou de tout autre matériau durable. Tant que vous ne portez pas d'armure, votre CA de base est de 13 + votre modificateur de Dextérité."
+    short_description: "CA égale à 13 + DEX.mod"
+    logic:
+      type: "alternative_ac"
+      value: "13 + {DEX.mod}"
+      condition: "armor_type == 'none'"
+  - id: "built_to_succeed"
+    name: "Construit pour Réussir"
+    description: "Vous pouvez ajouter un d4 à un jet d'attaque, un test de caractéristique ou un jet de sauvegarde que vous réalisez, après avoir vu le lancer, mais avant d'en connaître les effets. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez les utilisations dépensées lorsque vous finissez un repos long."
+    short_description: "+ 1d4 à un jet, {PB} fois par jour"
+    logic:
+      type: "buff"
+      uses: "{PB}"
+      recharge: "long_rest"
+      value: "1d4"
+  - id: "specialized_design"
+    name: "Design Spécialisé"
+    description: "Vous gagnez la maîtrise de deux outils de votre choix."
+    logic:
+      type: "choice"
+      result: "proficiency"
+      pool: "tools"
+      count: 2
+  - id: "construct_nature"
+    name: "Nature Mécanique"
+    description: "Vous êtes résistant aux dégâts de poison et êtes immunisés aux maladies. Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[paralysé]] ou [[empoisonné]]. Vous n'avez pas besoin de manger, de boire, ou de respirer."
+    short_description: "Résistance au poison et maladie. Avantage contre paralysie et poison. Pas besoin de manger, boire ou respirer"
+    logic:
+      type: "multiple"
+      effects:
+        - type: "damage_resistance"
+          damage_type: [ "poison" ]
+        - type: "save_advantage"
+          condition: ["poisoned", "paralyzed"]
+        - type: "immunity"
+          condition: ["disease"]
+  - id: "sentry_rest"
+    name: "Repos de la Tourelle"
+    description: "Lorsque vous prenez un repos long, vous passez au moins 6 heures dans un état végétatif, sans bouger, plutôt que de dormir. Dans cet état, vous apparaissez inerte, mais restez conscient."
+    short_description: "Repos long en 6h et conscient"
+  - id: "artificial_heal"
+    name: "Soins Mécaniques"
+    description: "Si le sort [[Réparation]] est incanté sur vous, vous pouvez dépenser un Dé de Vie, le lancer, et regagner un nombre de points de vie égal à ce lancer + votre modificateur de Constitution.\n\n De plus, votre créateur vous a pensé pour que vous puissiez profiter de certains sorts censés préserver la vie qui ne fonctionnent habituellement pas sur les Constructions, comme [[Soins]], [[soins de groupe]], [[Mot de Soin]], [[mot de soin de groupe]] ou [[Stabilisation]]."
+    short_description: "Profite des soins comme un Humanoïde et peut se soigner avec Réparation en utilisant un Dé de Vie."
+    logic:
+      type: "action"
+      name: "Réparation (Soin)"
+      cost: "hit_die" # Coût en ressource
+      heal: "1d{hit_die} + {CON.mod}" # Formule dynamique (d6/d8/d10 selon la classe)
+      condition: "spell_mending_cast_on_self"

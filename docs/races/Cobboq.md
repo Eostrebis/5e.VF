@@ -29,7 +29,7 @@ Les cobboqs vénèrent les autres oiseaux. Plus l'oiseau est gros, plus il est s
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et une autre langue adaptée de votre choix.
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et une autre langue adaptée de votre choix. De plus, vous comprenez l'[[Langues#Aviaire|Aviaire]] mais votre accent et votre parler vous rendent difficilement compréhensible par les autres races.
 
 **Âge.** Les cobboqs grandissent rapidement et meurent vite. Ils peuvent marcher quelques heures seulement après leur éclosion, atteignent l'âge adulte à 7 ans et vivent environ 30 ans.
 
