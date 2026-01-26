@@ -1,0 +1,52 @@
+id: "race_aarakocra"
+name: "Aarakocra"
+type: "humanoid"
+size: "medium"
+
+speed:
+  walk: 30
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["DEX","WIS"]]
+
+languages: ["common", "avian"]
+weapons: []
+armors: []
+skills: []
+
+features:
+  - id: "flight_light_armor_aarakocra"
+    name: "Vol"
+    description: "Grâce à vos ailes, vous avez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde."
+    short_description: "Vitesse de vol égale à la vitesse de marche si pas d'armure moyenne ou lourde."
+    logic:
+      type: "speed_grant"
+      target: "fly"
+      value: "{speed.walk}"
+      condition: "armor_type != 'medium' AND armor_type != 'heavy'"
+
+  - id: "talons_aarakocra"
+    name: "Serres"
+    description: "Vous avez des serres que vous pouvez utiliser pour réaliser des attaques à main nues. Lorsque vous touchez avec, vos attaques infligent 1d6 + votre modificateur de Force dégâts tranchants, plutôt que les dégâts contondants normaux pour ce type d'attaque."
+    logic:
+      type: "natural_weapon"
+      damage: "1d6"
+      damage_type: "slashing"
+      stat: "str"
+
+  - id: "wind_caller"
+    name: "Invocateur de Vent"
+    description: "À partir du niveau 3, vous pouvez lancer le sort [[Saute de Vent]] de par ce trait, sans avoir besoin de composante matérielle. Une fois que vous avez lancé le sort avec ce trait, vous ne pouvez pas le refaire jusqu'à ce que vous ayez fini un repos long. Vous pouvez également lancer ce sort en utilisant un emplacement de sort de niveau 2 ou plus que vous possédez. La caractéristique d'incantation pour lancer [[Saute de Vent]] avec ce trait est, au choix, l'Intelligence, la Sagesse ou le Charisme (que vous choisissez lorsque vous sélectionnez cette race)."
+    short_description: "Au niveau 3, un lancement de Saute de Vent par repos long"
+    level_required: 3
+    logic:
+      type: "grant_spell"
+      spell_name: "gust_of_wind"
+      recharge: "long_rest"
+      free_cast: true
+      can_upcast: true
+      choose_ability: true
+      options: ["INT", "WIS", "CHA"]
