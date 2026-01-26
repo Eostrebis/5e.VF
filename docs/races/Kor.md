@@ -22,7 +22,7 @@ La culture Kor est profondément nomade et minimaliste. Ils ne construisent pas 
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] ainsi que la langue silencieuse des Kors, parlée par signes gestuels
+**Langage.** Vous parlez le [[Langues#Commun|Commun]], une langue de votre choix ainsi que la langue silencieuse des Kors, parlée par signes gestuels
 
 **Âge.** Les Kors mûrissent à la même vitesse que les humains et vivent environ 80 ans.
 

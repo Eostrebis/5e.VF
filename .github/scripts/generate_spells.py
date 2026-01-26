@@ -4,7 +4,6 @@ import sys
 
 spell_dir = "/home/runner/work/5e.VF/5e.VF/docs/sorts/"
 
-
 def read_spell(spell, verbose=False):
     json_spell = {}
     first_sep = spell.index('---') + 4
@@ -62,6 +61,8 @@ if __name__ == '__main__':
         for s in spells:
             with open(s, encoding="utf8") as f:
                 js_spell = read_spell(f.read(), verbose=True)
+                js_spell['path'] = d+"/"+s
+                print(js_spell['path'])
                 spells_json[s[:-3]] = js_spell
                 translation[js_spell["englishname"].lower().replace(" ", "_")] = s[:-3]
     with open("/home/runner/work/5e.VF/5e.VF/docs/spells.json", "w", encoding="utf8") as f:

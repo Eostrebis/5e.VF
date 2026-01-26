@@ -20,7 +20,7 @@ Leurs épais cheveux prennent attache jusqu'au bas de leur dos et certains ont d
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Minotaure|Minotaure]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et une langue de votre choix.
 
 **Âge.** Les minotaures grandissent et vieillissent à peu près au même rythme que les humains.
 
