@@ -1,5 +1,6 @@
 ---
-available: []
+available:
+  - Magicien
 level:
 school:
 Verbal: false

@@ -48,7 +48,7 @@ spells: "true"
 | Beast Sense                          | [[Sens animal]]                           |
 | Bestow Curse                         | [[Malédiction Persistante]]               |
 | Bigby's Hand                         | [[Main de Bigby]]                         |
-| Black Tentacles                      | [[Tentacules Noirs]]                     |
+| Black Tentacles                      | [[Tentacules Noirs]]                      |
 | Blade Barrier                        | [[Barrière de Lames]]                     |
 | Blade Ward                           | [[Protection contre les Armes]]           |
 | Blade of Disaster                    | [[Lame du Désastre]]                      |
@@ -172,7 +172,7 @@ spells: "true"
 | Enthrall                             | [[Discours Captivant]]                    |
 | Erupting Earth                       | [[Éruption de Terre]]                     |
 | Etherealness                         | [[Forme Éthérée]]                         |
-| Evard's Black Tentacles              | [[Tentacules noirs d'Evard]]             |
+| Evard's Black Tentacles              | [[Tentacules noirs d'Evard]]              |
 | Expeditious Retreat                  | [[Repli Expéditif]]                       |
 | Eyebite                              | [[Œil Tyrannique]]                        |
 | Fabricate                            | [[Fabrication]]                           |
@@ -181,7 +181,7 @@ spells: "true"
 | False Life                           | [[Simulacre de Vie]]                      |
 | Far Step                             | [[Foulée Dimensionnelle]]                 |
 | Fast Friends                         | [[Amitié Rapide]]                         |
-| Fear                                 | [[Terreur]]                                  |
+| Fear                                 | [[Terreur]]                               |
 | Feather Fall                         | [[Feuille Morte]]                         |
 | Feeblemind                           | [[Esprit Faible]]                         |
 | Feign Death                          | [[Tromper la Mort]]                       |
@@ -195,7 +195,7 @@ spells: "true"
 | Fire Shield                          | [[Bouclier de Feu]]                       |
 | Fire Storm                           | [[Tempête de Feu]]                        |
 | Fireball                             | [[Boule de Feu]]                          |
-| Fizban's Platinum Shield             | [[Bouclier en Platine]]         |
+| Fizban's Platinum Shield             | [[Bouclier en Platine]]                   |
 | Flame Arrows                         | [[Flèches Enflammées]]                    |
 | Flame Blade                          | [[Lame de Feu]]                           |
 | Flame Strike                         | [[Frappe de Flamme]]                      |
@@ -249,7 +249,7 @@ spells: "true"
 | Hellish Rebuke                       | [[Représailles Infernales]]               |
 | Heorism                              | [[Héroïsme]]                              |
 | Heroes' Feast                        | [[Festin des Héros]]                      |
-| Hex                                  | [[Malédiction Persistante]]               |
+| Hex                                  | [[Maléfice]]                              |
 | Hideous Laughter                     | [[Fou Rire]]                              |
 | Hold Monster                         | [[Immobilisation de Monstre]]             |
 | Hold Person                          | [[Immobilisation de Personne]]            |
@@ -290,7 +290,7 @@ spells: "true"
 | Lesser Restoration                   | [[Restauration Partielle]]                |
 | Levitate                             | [[Lévitation]]                            |
 | Life Transference                    | [[Transfert de Vie]]                      |
-| Light                                | [[Lumière]]                              |
+| Light                                | [[Lumière]]                               |
 | Lightning Arrow                      | [[Flèche de Foudre]]                      |
 | Lightning Bolt                       | [[Éclair]]                                |
 | Lightning Lure                       | [[Ferrage Foudroyant]]                    |
@@ -333,7 +333,7 @@ spells: "true"
 | Mirror Image                         | [[Image Miroir]]                          |
 | Mislead                              | [[Double Illusoire]]                      |
 | Misty Step                           | [[Pas Brumeux]]                           |
-| Modify Memory                        | [[Modification de Mémoire]]            |
+| Modify Memory                        | [[Modification de Mémoire]]               |
 | Mold Earth                           | [[Façonnage de la Terre]]                 |
 | Moonbeam                             | [[Rayon Lunaire]]                         |
 | Mordenkainen's Faithful Hound        | [[Fidèle Molosse de Mordenkainen]]        |
@@ -495,7 +495,7 @@ spells: "true"
 | True Strike                          | [[Coup au But]]                           |
 | Tsunami                              | [[Tsunami]]                               |
 | Unseen Servant                       | [[Serviteur Invisible]]                   |
-| Vampiric Touch                       | [[Toucher du Vampire]]                     |
+| Vampiric Touch                       | [[Toucher du Vampire]]                    |
 | Vicious Mockery                      | [[Moquerie Cruelle]]                      |
 | Vitriolic Sphere                     | [[Sphère de Vitriol]]                     |
 | Vortex Warp                          | [[Distorsion Vortexielle]]                |
@@ -727,7 +727,7 @@ spells: "true"
 | Lightning Shard                      | [[Éclat d'Éclair]]                        |
 | Luring Light                         | [[Lumière Séduisante]]                    |
 | Malice of Arachia                    | [[Malice de l'Araignée]]                  |
-| Masterful Focus                      | [[Hyperfocus]]              |
+| Masterful Focus                      | [[Hyperfocus]]                            |
 | Mark of Objection                    | [[Marque de Prévention]]                  |
 | Mend Flesh                           | [[Réparation de la Chair]]                |
 | Nemesis                              | [[Némésis]]                               |

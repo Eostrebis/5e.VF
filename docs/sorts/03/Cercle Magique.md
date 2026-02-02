@@ -22,7 +22,7 @@ writing_status: empty
 ---
 Vous créez une zone cylindrique d'énergie magique centrée sur un point de votre choix à portée que vous pouvez voir, d'un rayon de 10 ft. et haut de 20 ft. Des runes scintillantes apparaissent à l'intersection entre le cylindre et le sol ou n'importe quelle autre surface.
 
-Choisissez un ou plusieurs types de créatures parmi : célestes, élémentaires, feys, fiélons ou morts-vivants. Le cercle affecte les créatures d'un type choisi des façons suivantes : 
+Choisissez un ou plusieurs types de créatures parmi : célestes, élémentaires, fées, fiélons ou morts-vivants. Le cercle affecte les créatures d'un type choisi des façons suivantes : 
 
 La créature ne peut pas pénétrer volontairement dans le cylindre par des moyens non magiques. Si la créature essaye de se téléporter ou d'utiliser le voyage inter-planaire pour rentrer dans le cylindre, elle doit d'abord réussir un jet de sauvegarde de Charisme.
 

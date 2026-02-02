@@ -12,7 +12,7 @@ Materiel: true
 detailmat: De l'air, un gravier, des cendres et de l'eau dans un fiole plaquée d'or d'une valeur d'au moins 400 po
 Duree: 1 Heure
 Incantation: 1 Action
-Portee:
+Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Summon Elemental

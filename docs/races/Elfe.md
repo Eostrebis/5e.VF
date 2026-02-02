@@ -262,7 +262,7 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 Les shadars-kai sont des elfes de la Gisombre, attiré sur ce plan par la Reine Corbeau. À travers les siècles, certains la servent toujours, tandis que d'autres se sont aventurés sur le Plan Matériel pour forger leurs propres destinées. 
 
-Les shadars-kai étaient auparavant des Fey comme le reste des elfes, mais n'existent désormais que dans un état entre la vie et la mort, ayant été transformés par l'énergie sombre de la Gisombre.
+Les shadars-kai étaient auparavant des Fées comme le reste des elfes, mais n'existent désormais que dans un état entre la vie et la mort, ayant été transformés par l'énergie sombre de la Gisombre.
 
 Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi _flétri_, reflétant la nature sombre de ce sinistre plan.
 

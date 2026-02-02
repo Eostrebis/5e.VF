@@ -20,9 +20,9 @@ Une identité peut être partagée par plusieurs personnes. Par exemple, une com
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : FOR +2, CHA +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, DEX +1*)
 
-**Type de Créature.** Vous êtes un Fey.
+**Type de Créature.** Vous êtes une Fée.
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et une langue de votre choix. 
 

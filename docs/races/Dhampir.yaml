@@ -1,0 +1,74 @@
+id: "race_dhampir"
+name: "Dhampir"
+type: "humanoid"
+size: ["medium","small"]
+
+speed:
+  walk: 35
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["CON","CHA"]]
+
+languages: ["common", "vampire"]
+weapons: []
+armors: []
+skills: []
+
+
+features:
+  - id: "ancestral_legacy"
+    name: "Héritage Ancestral"
+    description: "Vous obtenez deux maîtrises de compétences de votre choix."
+    logic:
+      type: "choice"
+      result: "proficiency"
+      count: 2
+      pool: "skills"
+  - id: "darkvision"
+    name: "Vision dans le Noir"
+    description: "Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18 m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris."
+    short_description: "60 ft. (nuances de gris)"
+    logic:
+      type: "grant_sense"
+      set: "darkvision"
+      value: 60
+  - id: "deathless_nature"
+    name: "Nature Immortelle"
+    description: "Vous n'avez pas besoin de respirer."
+    short_description: "Pas besoin de respirer."
+    logic:
+      type: "immunity"
+      conditions: ["suffocation"]
+  - id: "spider_climb"
+    name: "Pattes d'Araignée"
+    description: "Vous possédez une vitesse d'escalade égale à votre vitesse de marche. À partir du niveau 3, vous pouvez vous déplacer sur les surfaces verticales et aux plafonds tout en gardant vos mains libres."
+    short_description: "Vitesse d'escalade. Niv 3. Mains libres même lorsque sur murs et plafonds."
+    logic:
+      type: "speed_grant"
+      target: "climb"
+      value: "{speed.walk}"
+  - id: "vampiric_bite"
+    name: "Morsure Vampirique"
+    description: "Votre morsure canine est une arme naturelle, considérée comme une arme simple de mêlée que vous maîtrisez. Vous ajoutez votre modificateur de Constitution au lieu de votre modificateur de Force aux jets d'attaque et de dégâts que vous réalisez avec cette morsure. Elle inflige 1d4 dégâts perçants si vous touchez. Lorsqu'il vous manque au moins la moitié de vos points de vie, vous avez l'avantage aux jets d'attaque que vous réalisez avec cette morsure.\n\nLorsque vous attaquez avec cette morsure et touchez une créature qui n'est pas un Mort-Vivant ou une Construction, vous vous renforcez de l'une des façons ci-après :\n\n
+ - Vous regagnez un nombre de points de vie égal aux dégâts perçants infligés par la morsure.\n- Vous obtenez un bonus à votre prochain jet de caractéristique ou d'attaque que vous réalisez ; ce bonus est égal aux dégâts perçants infligés par la morsure.\n\nVous pouvez vous renforcer de cette façon avec votre morsure un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long."
+    short_description: "Arme Nat. (CON, 1d4). Avantage si PV < 50%. Renforcement {PB}/LR"
+    logic:
+      type: "multiple"
+      effects:
+        - type: "natural_weapon"
+          damage: "1d4"
+          damage_type: "piercing"
+          stat: "con"
+          properties: ["simple"]
+        - type: "attack_advantage"
+          condition: "hp < max_hp / 2"
+          restriction: "vampiric_bite_only"
+        - type: "action"
+          name: "Renforcement Vampirique"
+          activation_type: "on_hit"
+          uses: "{PB}"
+          recharge: "long_rest"
+          description: "Soin du nombre de dégâts ou bonus pour prochain jet d'attaque ou de caractéristique."

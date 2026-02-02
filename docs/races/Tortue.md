@@ -17,7 +17,7 @@ Les tortues présentent une forte variété de couleurs et de patterns sur leurs
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le Commun et le Reptilien ou l'Aquatique.
+**Langage.** Vous parlez le Commun et le Draconique ou l'Aquatique.
 
 **Âge.** Les tortues grandissent à une vitesse proche des [[Humain|humains]], mais peuvent vivre jusqu'à 250 ans.
 

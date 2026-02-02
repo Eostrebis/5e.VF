@@ -12,7 +12,7 @@ search:
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
 > - **Argartiste.** ![](https://geps.dev/progress/7) 
 > - **Artisan.** ![](https://geps.dev/progress/100) 
-> - **Barbare.** ![](https://geps.dev/progress/66) 
+> - **Barbare.** ![](https://geps.dev/progress/60) 
 > - **Barde.** ![](https://geps.dev/progress/36) 
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
@@ -36,22 +36,22 @@ search:
 > - **Tisserand.** ![](https://geps.dev/progress/100) 
 
 
-**Sorts.** 415/790 ![](https://geps.dev/progress/52)
+**Sorts.** 419/791 ![](https://geps.dev/progress/52)
 
 > [!INFO]- Sorts traduits par niveau
 > - **Cantrips.** 77 
 > - **1.** 107 
-> - **2.** 55 
+> - **2.** 56 
 > - **3.** 51 
-> - **4.** 39 
-> - **5.** 33 
+> - **4.** 40 
+> - **5.** 35 
 > - **6.** 23 
 > - **7.** 10 
 > - **8.** 12 
 > - **9.** 8 
 
 
-**Races.** 51/51 ![](https://geps.dev/progress/100)
+**Races.** 61/62 ![](https://geps.dev/progress/98)
 
 **Dons.** 127/127 ![](https://geps.dev/progress/100)
 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-01-21 14:29:48
+Mis à jour pour la dernière fois le 2026-01-24 21:40:50

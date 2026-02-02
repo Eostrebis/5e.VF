@@ -30,6 +30,7 @@ La culture forgelière est une culture en devenir. N'ayant ni enfance, ni parent
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
 **Résilience du Forgé.** Votre conception vous confère les avantages suivants : 
+
  - Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous avez la résistance aux dégâts de poison.
  - Vous n'avez pas besoin de manger, de boire ou de respirer.
  - Vous êtes immunisé contre les maladies.

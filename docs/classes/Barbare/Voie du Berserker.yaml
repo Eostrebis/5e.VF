@@ -1,0 +1,49 @@
+id: "subclass_barbarien_berserker"
+name: "Voie du Berserker"
+description: "Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser."
+type: "subclass"
+parent_class: "class_barbarian"
+parent_feature_id: "primal_path"
+
+features:
+  - id: "frenzy"
+    name: "Frénésie"
+    level_required: 3
+    description: "À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez rentrer en frénésie lorsque vous ragez. Si vous le faites, pendant la durée de votre rage, vous pouvez réaliser une seule attaque armée de mêlée comme action bonus à chacun de vos tours après celui-ci. Lorsque votre rage se termine, vous souffrez d'un niveau d'épuisement."
+    short_description: "Attaque en Action Bonus pendant Rage, mais épuisement à la fin"
+    logic:
+      type: "action"
+      activation_type: "bonus_action"
+      result: "attack"
+      condition: "raging"
+      side_effect: "exhaustion_on_end"
+  - id: "mindless_rage"
+    name: "Rage Aveugle"
+    level_required: 6
+    description: "À partir du niveau 6, vous ne pouvez pas être charmé ou apeuré lorsque vous ragez. Si vous êtes charmé ou apeuré lorsque vous entrez en rage, l'effet est suspendu pour la durée de la rage."
+    short_description: "Immunité Charmé/Effrayé pendant la Rage"
+    logic:
+      type: "immunity"
+      conditions: ["charmed", "frightened"]
+      restriction: "while_raging"
+  - id: "intimidating_presence"
+    name: "Présence Intimidante"
+    level_required: 10
+    description: "À partir du niveau 10, vous pouvez utiliser votre action pour effrayer quelqu'un de par votre figure menaçante. Lorsque vous le faites, choisissez une créature que vous pouvez voir à 30 ft. Si la créature peut vous voir ou vous entendre, elle doit réussir un jet de sauvegarde de Sagesse (DD de 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être apeuré|apeurée par vous jusqu'à la fin de votre prochain tour. Pendant les tours suivants, vous pouvez utiliser votre action pour étendre la durée de l'effet sur la créature apeurée jusqu'à la fin de votre prochain tour. Cet effet se termine si la créature termine son tour hors de votre vue ou à plus de 60 ft. de vous.\n\nSi la créature réussit son jet de sauvegarde, vous ne pouvez pas utiliser cette aptitude contre cette créature pendant 24 heures."
+    short_description: "Action pour intimider : DD 8 + PB + CHA ou apeuré. Action pour prolonger"
+    logic:
+      type: "action"
+      activation_type: "action"
+      save: "wis"
+      save_dc: "8 + {PB} + {CHA.mod}"
+      result: "frightened"
+  - id: "retaliation"
+    name: "Rétribution"
+    level_required: 14
+    description: "À partir du niveau 14, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature."
+    short_description: "Réaction lorsque dégâts subis de 5 ft. : attaque armée de mêlée"
+    logic:
+      type: "action"
+      activation_type: "reaction"
+      trigger: "take_damage_melee"
+      effect: "melee_attack"

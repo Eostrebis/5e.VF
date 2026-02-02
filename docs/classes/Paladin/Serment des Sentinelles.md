@@ -33,7 +33,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Volonté de la Sentinelle.** Vous pouvez utiliser votre Canal Divin pour investir votre présence du pouvoir protecteur de votre foi. Pour une action, vous pouvez choisir un nombre de créatures que vous pouvez voir à 30 ft. égal à votre modificateur de Charisme (au moins 1). Pendant 1 minute, vous et les créatures choisies avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.
 
-**Abjuration de l'Extraplanaire.** Pour une action, vous pouvez utiliser votre Canal Divin pour réprimander les créatures d'outre-monde. Chaque Fey, Céleste, Élémentaire, Fiélon ou Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature est renvoyée pendant 1 minute.
+**Abjuration de l'Extraplanaire.** Pour une action, vous pouvez utiliser votre Canal Divin pour réprimander les créatures d'outre-monde. Chaque Fée, Céleste, Élémentaire, Fiélon ou Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature est renvoyée pendant 1 minute.
 
 Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que courir ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 
@@ -51,7 +51,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 Au niveau 20, vous manifestez une étincelle de pouvoir divin dans votre défense des royaumes mortels. Pour une action bonus, vous bénéficiez des effets suivants pendant 1 minute :
 
  - Vous obtenez la [[vision totale]] sur une portée de 120 ft.
- - Vous avez l'avantage aux jets d'attaque contre les aberrations, les célestes, les élémentaires, les feys et les fiélons.
+ - Vous avez l'avantage aux jets d'attaque contre les aberrations, les célestes, les élémentaires, les fées et les fiélons.
  - Lorsque vous touchez une créature avec un jet d'attaque et lui infligez des dégâts, vous pouvez également la forcer à réaliser un jet de sauvegarde de Charisme. Si elle échoue, la créature est magiquement bannie vers son plan natif si elle ne s'y trouve pas déjà. Si elle réussit, elle ne peut être bannie par cette aptitude pendant 24 heures.
  - 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long, sauf si vous utilisez un emplacement de sort de niveau 5.

@@ -36,6 +36,7 @@ La société grung est régie par un système de castes extrêmement rigide, bas
 **Amphibie.** Vous pouvez respirer dans l'air et sous l'eau.
 
 **Peau Empoisonnée.** Lorsqu'une créature vous agrippe ou entre en contact direct avec votre peau, elle doit réussir un jet de Constitution DD 12 ou être [[empoisonné|empoisonnée]] pendant 1 minute. Une créature empoisonnée qui n'est plus en contact direct avec vous peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
+
  - Vous pouvez également appliquer ce poison à n'importe quelle arme perçante pendant une attaque avec cette arme, auquel cas le poison réagit différemment. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution DD 12 ou subir 2d4 dégâts de poison.
 
 **Saut de Grenouille.** Votre distance de saut en longueur est de 25 ft. et votre saut en hauteur est de 15 ft., avec ou sans élan.

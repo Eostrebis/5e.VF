@@ -246,7 +246,7 @@ title: Objets Magiques
 | Fate Dealer's Deck                             | [[Deck des Outils du Destin]]                                     | Book of Many Things |
 | Feather Token                                  | [[Symbole de Plume]]                                              | Basic Rules         |
 | Feywild Shard                                  | [[Éclat de la Féerie]]                                            | Tasha's             |
-| Freywrought Armor                              | [[Armure Forgée par les Feys]]                                    | Book of Many Things |
+| Freywrought Armor                              | [[Armure Forgée par les Fées]]                                    | Book of Many Things |
 | Figurine of Wondrous Power                     | [[Figurine au Pouvoir Merveilleux]]                               | Basic Rules         |
 | Flail of Tiamat                                | [[Fléau de Tiamat]]                                               | Fizban's            |
 | Flame Tongue                                   | [[Épée Ardente]]                                                  | Basic Rules         |

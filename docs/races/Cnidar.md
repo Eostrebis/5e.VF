@@ -19,7 +19,7 @@ Lorsqu'un polype produit un médusozoaire, il peut donner naissance à deux form
 | [[#Peaubrillante]] | Fait confiance à la diplomatie, à la ruse et aux enchantement pour éviter les conflits. |
 
 
-![[Cnidarien.webp]]
+![[Cnidar.webp]]
 ### Culture
 
 Les cnidars vivent en communauté. Grâce ou à cause des pratiques de reproduction de masse et de dispersion aléatoirisée, aucun médusozoaire ne peut identifier ses véritables parents. En effet, les concepts mêmes de parenté, de titres héréditaires et d'héritage sont inconnus de la plupart des cnidars.

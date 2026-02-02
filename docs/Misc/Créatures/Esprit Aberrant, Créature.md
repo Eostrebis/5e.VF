@@ -8,6 +8,7 @@ ___
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 15 (+2) | 16 (+3) | 10 (+0) | 6 (-2) |
+
 ___
 **Immunités aux dégâts** psychique  
 **Sens** vision dans le noir 60 ft., Perception passive 10  

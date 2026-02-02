@@ -3,8 +3,13 @@ import os
 import sys
 from pathlib import Path
 
-working_dir = "/home/runner/work/5e.VF/5e.VF/docs/"
-working_dir = "C:\\Users\\User\\Documents\\Gautier\\5e.VF\\5e\\docs\\"
+DEBUG = False
+
+if DEBUG:
+	working_dir = "C:\\Users\\User\\Documents\\Gautier\\5e.VF\\5e\\docs\\"
+else:
+	working_dir = "/home/runner/work/5e.VF/5e.VF/docs/"
+
 directory = Path(working_dir)
 
 def get_status(file) -> str:
