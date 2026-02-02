@@ -33,4 +33,4 @@ Dans la plupart des sociétés où ils résident, les Avens occupent des rôles 
 **Bénédiction des Dieux.** En fonction de votre lignée, rapace ou ibis, les dieux vous bénissent différemment. Choisissez l'une des deux lignées ci-dessous : 
 
  - **Lignée du Faucon.** Vous maîtrisez la compétence Perception. De plus, attaquer à longue portée ne vous impose pas le désavantage. 
- - **Lignée de l'Ibis.** Vous pouvez ajouter la moitié de votre bonus de maîtrise, arrondi à l'inférieur, à tous les tests d'Intelligence que vous effectuez qui n'incluent pas déjà votre bonus de maîtrise.
+ - **Lignée de l'Ibis.** Vous pouvez ajouter la moitié de votre bonus de maîtrise, arrondi à l'inférieur, à tous les tests d'Intelligence que vous effectuez qui n'incluent pas déjà votre bonus de maîtrise. De plus, vous apprenez le cantrip [[message]].

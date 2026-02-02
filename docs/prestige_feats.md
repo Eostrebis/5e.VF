@@ -19,4 +19,4 @@ title: Dons de Prestige
 | Fledging Vampire     | [[Vampire en Construction]] |
 | Neophyte Vampire     | [[Vampire Néophyte]]        |
 | Vampire Scion        | [[Rejeton de Vampire]]      |
-| Vampire              | [[Vampire]]                 |
+| Vampire              | [[5e/docs/Dons/prestige/Vampire]]                 |
