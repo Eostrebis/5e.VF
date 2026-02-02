@@ -31,6 +31,6 @@ Les giffs ont un débat de société important sur la façon dont leur nom doit 
 
 **Étincelle Astrale.** Votre connexion psychique au Plan Astral vous permet de mystérieusement accéder à une étincelle de pouvoir divin, que vous pouvez canaliser dans vos armes. Lorsque vous touchez une cible avec une arme simple ou martiale, vous pouvez lui infliger des dégâts de force supplémentaires égaux à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, mais pas plus d'une fois par tour. Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété _Chargement_ de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
+**Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété [[Propriétés d'Arme#Chargement|Chargement]] de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
 
 **Carrure d'Hippo.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Force. De plus, vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de charge.

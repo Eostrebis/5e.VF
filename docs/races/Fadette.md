@@ -30,7 +30,7 @@ Imprégnées avec la magie de la Féerie, les fadettes ressemblent à de petits 
 
 **Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, DEX +1*)
 
-**Type de Créature.** Vous êtes un Fey.
+**Type de Créature.** Vous êtes une Fée.
 
 **Langage.** Vous parlez le Commun et le Sylvain.
 
