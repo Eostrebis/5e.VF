@@ -51,11 +51,11 @@ search:
 > - **9.** 8 
 
 
-**Races.** 61/62 ![](https://geps.dev/progress/98)
+**Races.** 63/65 ![](https://geps.dev/progress/96)
 
 **Dons.** 127/127 ![](https://geps.dev/progress/100)
 
-**Équipements.** 54/510 ![](https://geps.dev/progress/10) 
+**Équipements.** 55/511 ![](https://geps.dev/progress/10) 
 
 **Objets Magiques.** 1/123 ![](https://geps.dev/progress/0)
 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-01-24 21:40:50
+Mis à jour pour la dernière fois le 2026-02-02 10:36:52
