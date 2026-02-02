@@ -18,7 +18,7 @@ Les tritons ont des mains et pieds palmés, des nageoires sur leurs mollets et u
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Aquatique|Aquatiquel]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Primordial|Primordial]].
 
 **Âge.** Les tritons deviennent matures à partir de 15 ans et vivent jusqu'à 200 ans.
 

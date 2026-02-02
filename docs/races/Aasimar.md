@@ -42,7 +42,7 @@ Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possèd
 
 **Vision dans le noir.** Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18 m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Mains Soignantes.** Pour une action, vous pouvez toucher une créature et lancez un nombre de d4s égal à votre bonus de maîtrise. La créature regagne un nombre de points de vie égal au total obtenu. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir fini un repos long.
+**Mains Soignantes.** Pour une action, vous pouvez toucher une créature et lancez un nombre de d4s égal à votre modificateur de maîtrise. La créature regagne un nombre de points de vie égal au total obtenu. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant d'avoir fini un repos long.
 
 **Porteur de Lumière.** Vous connaissez le cantrip [[Lumière]]. Vous utilisez le charisme comme caractéristique d'incantation pour ce sort.
 

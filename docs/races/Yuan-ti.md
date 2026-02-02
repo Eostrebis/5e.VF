@@ -18,7 +18,7 @@ Bénis avec la résistance aux effets magiques et de poison grâce à leur ritue
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Abyssal|Abyssal]] ou le [[Langues#Draconique|Draconique]].
+**Langage.** Vous parlez le [[Langues#Commun|Commun]]] et le [[Langues#Abyssal|Abyssal]] ou le [[Langues#Draconique|Draconique]].
 
 **Âge.** Les yuan-tis de sang pur grandissent au même rythme que les humains et ont la même espérance de vie.
 

@@ -3,7 +3,7 @@ writing_status: finished
 ---
 ### Description
 
-Peuple souterrain, les gobelins peuvent être trouvés partout, souvent aux côtés de leurs semblables les [[Gobelours]] et [[Hobgobelin|hobgobelins]]. Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifées de la Féerie. Les gobelins prospéraient dans son dangereux domaine grâce à un don de sa part : une intuition surnaturelle pour trouver le point faible des ennemis plus grands qu'eux et ainsi se sortir de situations périlleuses. Les gobelins ont conservé ce don avec eux en voyageant à travers le multivers, même s'ils ne se souviennent plus du plan féerique dont ils sont originaires. Maintenant, la plupart des gobelins forgent leur propre destin, esquivant les complots des dieux et des archifées.
+Peuple souterrain, les gobelins peuvent être trouvés partout, souvent aux côtés de leurs semblables les [[Gobelours]] et [[Hobgobelin|hobgobelins]]. Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifeys de la Féerie. Les gobelins prospéraient dans son dangereux domaine grâce à un don de sa part : une intuition surnaturelle pour trouver le point faible des ennemis plus grands qu'eux et ainsi se sortir de situations périlleuses. Les gobelins ont conservé ce don avec eux en voyageant à travers le multivers, même s'ils ne se souviennent plus du plan féerique dont ils sont originaires. Maintenant, la plupart des gobelins forgent leur propre destin, esquivant les complots des dieux et des archifeys.
 ![[Gobelin.png]]
 ### Culture
 

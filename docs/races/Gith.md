@@ -65,7 +65,7 @@ Les githzerai sont élancés avec une peau mouchetée aux teintes jaunes et marr
 
 **Discipline Mentale.** Votre défense psychique innée vous confère l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[charmé]] et [[apeuré]] sur vous-même.
 
-**Psionie Githzerai.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
+**Psionie Githyanki.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
 
 À partir du niveau 3, vous pouvez lancer le sort [[Bouclier]] avec ce trait. À partir du niveau 5, vous pouvez lancer le sort [[Détection des Pensées]]. Une fois que vous avez lancé [[Bouclier]] ou [[Détection des Pensées]] avec ce trait, vous ne pouvez pas le relancer de cette façon tant que vous n'avez pas terminé un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort adaptés.
 
