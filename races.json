@@ -1,0 +1,528 @@
+{
+	"settings" : {
+		"display": "grid",
+		"grid-width": 3
+	},
+	"sort": [
+		{
+			"name":"size",
+			"type":"choice",
+			"possibles":["M","S"],
+			"button":true,
+			"texts": ["Toutes Tailles", "Taille M", "Taille S"],
+			"icons":["Misc/size_M_icon.png", "Misc/size_S_icon.png"]
+		},
+		{
+			"name":"img-type",
+			"type":"string",
+			"button":false
+		},
+		{
+			"name":"subrace",
+			"type":"bool",
+			"button":true,
+			"text": "Sous-race",
+			"icon": "Misc/subrace_icon.png"
+		},
+		{
+			"name":"vanilla",
+			"type":"bool",
+			"button":true,
+			"text": "Classique"
+		}
+	],
+	"options": [
+		{
+			"name":"Aarakocra",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent."
+		},
+		{
+			"name":"Aasimar",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Héritiers de pouvoirs célestes, les aasimars portent en eux une étincelle des Plans Supérieurs."
+		},
+		{
+			"name":"Autognome",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les autognomes sont des êtres mécaniques construits par des gnomes des roches et devenus conscients."
+		},
+		{
+			"name":"Aven",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Humanoïdes à tête de faucon ou d'ibis, les Aven ne jurent que par le mérite"
+		},
+		{
+			"name":"Centaure",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les centaures sont généralement originaires de la Féerie et résonnent magiquement avec le monde naturel."
+		},
+		{
+			"name": "Cnidar",
+			"size": ["M"],
+			"img-type": "webp",
+			"subrace": true,
+			"vanilla": false,
+			"description": "Les cnidars sont un peuple de créatures passant par une phase polype avant d'atteindre la maturité."
+		},
+        {
+          "name": "Cobboq",
+          "size": ["S"],
+          "img-type": "png",
+          "subrace": false,
+          "vanilla": false,
+          "description": "Petit peuple à plumé qui se démarque par sa lâcheté, les cobboqs vivent cachés mais heureux."
+        },
+		{
+			"name": "Dhampir",
+			"size": ["S", "M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"lineage": true,
+			"description": "Union entre un vampire et un mortel, le dhampir est sujet à une Faim permanente, le poussant à chasser."
+		},
+		{
+			"name":"Changelin",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Avec leurs apparences changeantes, les changelins sont insérés dans de nombreuses sociétés."
+		},
+		{
+			"name":"Drakéïde",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Nés des dragons, les drakéïdes marchent fièrement à travers un monde qui les accueille avec une incompréhension effrayante."
+		},
+		{
+			"name":"Elfe",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie."
+		},
+		{
+			"name": "Éthérien",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Effets secondaires du raffinage de l'éther, les éthériens ont une durée de vie très courte."
+		},
+		{
+			"name":"Fadette",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les fadettes, originaire de la Féerie, sont un peuple petit mais pas autant que leurs cousins lutins ou pixies."
+		},
+		{
+			"name":"Filelièvre",
+			"size":["S","M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les filelièvres, êtres lagomorphes, sont originaires de la Féerie et incarnent la volonté de liberté et de voyager."
+		},
+		{
+			"name":"Firbolg",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Cousins lointains des géants, les premiers firbolgs parcouraient les forêts primitives du multivers."
+		},
+		{
+			"name": "Forgelier",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Humanoïdes artificiels, les forgeliers sont pensés pour répondre à un besoin unique."
+		},
+		{
+			"name":"Genasi",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Les genasis sont la progéniture entre les génies et les mortels et héritent de pouvoirs élémentaires."
+		},
+		{
+			"name":"Gepettain",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Véritables joies pour les enfants, les gepettains ressemblent à des jouets vivants faits en bois, en tissus, ou en porcelaine."
+		},
+		{
+			"name":"Gith",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Les giths sont une race humanoïde qui a autrefois été mise en esclavage par les illithides. Nul ne sait vraiment s'ils descendent des humains."
+		},
+		{
+			"name":"Gnome",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Pour les gnomes, être en vie est la meilleure chose qui soit, et ils tirent tout le plaisir possible de leurs trois à cinq siècles de vie."
+		},
+		{
+			"name":"Gobelin",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Avant que ceux-ci ne soient envahis, les gobelins servaient dans la cour de la Reine des Airs et des Ténèbres, l'une des archifey de la Féerie."
+		},
+		{
+			"name":"Gobelours",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Absolument pas des ours, les gobelours sont les cousins bourrins des gobelins et des hobgobelins."
+		},
+		{
+			"name":"Goliath",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Cousins lointains des géants et infusés de l'essence surnaturelle de leurs ancêtres, les goliaths atteignent les 2 mètres."
+		},
+		{
+			"name": "Grung",
+			"size": ["P"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Petites grenouilles des jungles, les grungs sont de vicieux chasseurs à la société rigide."
+		},
+		{
+			"name":"Giff",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les giffs sont un peuple de grand et larges individus avec des caractéristiques d'hippopotame."
+		},
+		{
+			"name":"Halfelin",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Les halfelins sont un peuple aimable et amical. Ils chérissent les liens familiaux et l'amitié."
+		},
+		{
+			"name":"Hobgobelin",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"On peut remonter les origines des hobgobelins jusqu'aux anciennes cours de la Féerie, où ils sont d'abord apparus avec les gobelins et gobelours."
+		},
+		{
+			"name":"Homme-Lézard",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Certains sages pensent que les sauriens hommes-lézard sont des cousins lointains des drakéïdes et des kobolds."
+		},
+		{
+			"name":"Homme-Souris",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"À ne jamais mépriser, les petits et peu menaçants hommes-souris sont bien trop bienveillants et sont plus braves que bien des géants."
+		},
+		{
+			"name":"Hoom",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Cousin éloigné des chouettes géantes de la Féerie, les hooms existent de différentes tailles et formes."
+		},
+		{
+			"name":"Hôtesprit",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les hôtesprits sont d'étranges résidents spectraux de la Frontière Éthérée. Souvent confondu avec des fantômes, les hôtesprits sont bel et bien vivants"
+		},
+		{
+			"name":"Humain",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Les humains sont parmi les peuples les plus versatiles et les plus ambitieux qui arpentent le monde."
+		},
+		{
+			"name": "Hybride",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Créés pour protéger l'écosystème, les hybrides sont renforcés par des caractéristiques animales."
+		},
+		{
+			"name": "Kalashtar",
+			"size":["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Symbiote entre un humain et un esprit des rêves, un kalashtar possède de puissants pouvoirs psychiques."
+		},
+		{
+			"name":"Kender",
+			"size":["S"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Originaire du monde de Krynn, les Kenders sont des petits humanoïdes qui ressemblent à des humains avec des oreilles pointues."
+		},
+		{
+			"name":"Kenku",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Peuple emplumé qui ressemble à des corbeaux, les kenkus sont dotés d'un sens de l'observation hors du commun et du mémoire incroyablement précise."
+		},
+		{
+			"name":"Kobold",
+			"size":["S"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":false,
+			"description":"Parmi les plus petites créatures draconiques du multivers, les kobolds varient dans les couleurs de leurs écailles."
+		},
+		{
+			"name": "Kor",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Les kors sont connus pour leur habilité avec les cordes et les grappins, ainsi que pour leur fort lien avec la nature."
+		},
+		{
+			"name": "Léonin",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Peuple indépendant à l'allure de félins imposants, les léonins se démarquent par leur rejet des divinités."
+		},
+		{
+			"name": "Locathah",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Survivants de siècles d'esclavage et de soumission, les Locathath se veulent maintenant protecteurs des plans d'eau"
+		},
+		{
+			"name": "Loxodon",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Peuple calme et orienté sur l'artisanat calme, les Loxodons sont néanmoins capable d'une rage destructrice."
+		},
+		{
+			"name":"Mandragore",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Si laissées pousser pendant une année et une journée, les mandragores deviennent de puissants arbres."
+		},
+		{
+			"name":"Minotaure",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les minotaures sont des humanoïdes à la poitrine large avec des têtes ressemblant à celles des taureaux."
+		},
+		{
+			"name": "Monoeil",
+			"size": ["M"],
+			"img-type": "webp",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Véritables maniaques de la connaissance, les monœils peuvent se nourrir de la découverte."
+		},
+		{
+			"name":"Nain",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Audacieux et robustes, les nains sont connus pour leurs talents de guerriers et d'artisans."
+		},
+		{
+			"name":"Orque",
+			"size":["M"],
+			"img-type":"png",
+			"over-img":"Orque_Ana.png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les orques, bénis par Bélhorixa, font des alliés et des protecteurs de taille."
+		},
+		{
+			"name":"Plasmoïde",
+			"size":["S","M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les plasmoïdes sont des êtres amorphes sans forme d'origine qui se nourrissent de la même façon que les amibes."
+		},
+		{
+			"name": "Renaissant",
+			"size": ["S","M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"lineage": true,
+			"description": "Individus ayant résistés à la mort, les renaissant ne gardent que peu de souvenirs de leur vie passée."
+		},
+		{
+			"name": "Sang-Exalté",
+			"size": ["S","M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"lineage": true,
+			"description": "Les Sang-Exaltés sont des êtres corrompus par le pouvoir impie des Guenaudes, qu'ils apprennent à utiliser."
+		},
+		{
+			"name":"Satyre",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Originaires de la Féerie, les satyres se régalent de l'énergie de la joie et de la gaieté."
+		},
+		{
+			"name":"Shifter",
+			"size":["M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Humanoïdes à l'aspect bestial, les shifters ne peuvent totalement changer de forme mais adoptent des traits animaux."
+		},
+		{
+			"name": "Sirène",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Êtres d'une beauté sans aucune mesure, les sirènes survolent les mers à la recherche de navires perdus."
+		},
+		{
+			"name":"Tabaxi",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Créés par un être divin d'un Plan Supérieur, les tabaxis combinent les qualités des humanoïdes et des chats."
+		},
+		{
+			"name":"Thri-keen",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les Thri-kreens ont des traits insectiformes et deux paires de bras. Leur corps est enveloppé d'une chitine protectrice."
+		},
+		{
+			"name":"Tieflin",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":true,
+			"vanilla":true,
+			"description":"Souvent discriminés de par leurs origines, les tieflins sont originaires ou descendants des Plans Inférieurs."
+		},
+		{
+			"name":"Tortue",
+			"size":["S","M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les tortues ont un proverbe bien connu : \"Nous portons nos maisons sur nos dos.\""
+		},
+		{
+			"name":"Triton",
+			"size":["M"],
+			"img-type":"png",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Originaires du Plan Élémentaire de l'Eau, les tritons sont entrés sur le Plan Matériel par crainte des élémentaires."
+		},
+		{
+			"name": "Vedalken",
+			"size": ["M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Individus à la recherche de la perfection, les Vedalkens profitent de leur longue vie pour sans cesse optimiser."
+		},
+		{
+			"name": "Verdan",
+			"size": ["P","M"],
+			"img-type": "png",
+			"subrace": false,
+			"vanilla": false,
+			"description": "Mutés à partir des gobelinoÏdes, les Verdans sont un peuple nouveau bénéficiant de capacités télépathiques."
+		},
+		{
+			"name":"Volanzée",
+			"size":["S","M"],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Chassés par d'immenses prédateurs, les Volanzées se sont adaptés par l'apparition d'une membrane leur permettant de planer."
+		},
+		{
+			"name":"Yuan-ti",
+			"size":[],
+			"img-type":"webp",
+			"subrace":false,
+			"vanilla":false,
+			"description":"Les Yuan-tis étaient auparavant des humains ayant pris des traits serpentins à la suite d'antiques rituels."
+		}
+	]
+}
