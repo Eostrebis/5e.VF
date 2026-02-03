@@ -51,7 +51,7 @@ search:
 > - **9.** 8 
 
 
-**Races.** 63/65 ![](https://geps.dev/progress/96)
+**Races.** 64/65 ![](https://geps.dev/progress/98)
 
 **Dons.** 127/127 ![](https://geps.dev/progress/100)
 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-02-02 10:36:52
+Mis à jour pour la dernière fois le 2026-02-03 09:59:37
