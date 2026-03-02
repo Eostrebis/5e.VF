@@ -17,11 +17,11 @@ L'aspect pratique des halfelins s'étend au-delà de leurs vêtements. Ils ne se
 
 Les différentes sous-races de halfelins sont plus comme des familles distantes que de véritables sous-races. On en compte trois : 
 
-| Sous-race                 | Description                                                |
-| ------------------------- | ---------------------------------------------------------- |
-| [[#Halfelin pied-léger]]  | Halfelins habiles et charismatiques, les plus répandus     |
-| [[#Halfelin robuste]]     | Halfelins à la constitution solide, un peu moins répandus  |
-| [[#Halfelin sagespectre]] | Halfelins appartenant à des familles isolées, plutôt rares |
+| Sous-race                  | Description                                                |
+| -------------------------- | ---------------------------------------------------------- |
+| [[#Halfelin pieds-légers]] | Halfelins habiles et charismatiques, les plus répandus     |
+| [[#Halfelin robuste]]      | Halfelins à la constitution solide, un peu moins répandus  |
+| [[#Halfelin sagespectre]]  | Halfelins appartenant à des familles isolées, plutôt rares |
 
 ### Culture
 

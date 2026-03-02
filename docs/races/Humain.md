@@ -75,7 +75,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez deux caractéristiques différentes par 1. (*Conseillé : DEX +2, CON +1*)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez deux caractéristiques différentes par 1. (*Conseillé : DEX +1, CON +1*)
 
 **Type de Créature.** Vous êtes un humanoïde.
 
@@ -125,7 +125,7 @@ Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([
 
 **Vision dans le Noir.** Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Magie Arachnide.** Vous connaissez le cantrip _Bouffée de Poison_. À partir du niveau 3, vous pouvez lancer le sort _Fléau_ avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort _Pattes d'Araignée_ avec ce trait. Une fois que vous avez lancé _Fléau_ ou _Pattes d'Araignée_ avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
+**Magie Arachnide.** Vous connaissez le cantrip [[Bouffée de Poison]]. À partir du niveau 3, vous pouvez lancer le sort [[Fléau]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[Pattes d'Araignée]] avec ce trait. Une fois que vous avez lancé [[Fléau]] ou [[Pattes d'Araignée]] avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
 ---
 
@@ -247,7 +247,7 @@ Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents 
 
 #### Homme-hibours
 
-Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et re-mi-hibou. Personne ne peut vraiment être sûr de ce que vous êtes, si ce n'est le résultat d'un magicien fou s'aventurant dans le domaine des dieux. Vous disposez des traits raciaux suivants : 
+Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et re-mi-hibou derrière. Personne ne peut vraiment être sûr de ce que vous êtes, si ce n'est le résultat d'un magicien fou s'aventurant dans le domaine des dieux. Vous disposez des traits raciaux suivants : 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 

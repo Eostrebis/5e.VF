@@ -2,7 +2,6 @@
 subrace: false
 writing_status: finished
 ---
-
 ### Description
 
 Certains sages pensent que les sauriens hommes-lézard sont des cousins lointains des drakéïdes et des kobolds. Malgré leur ressemblance avec ces autres peuples, les hommes-lézard sont bien à part et ont vécu sur le Plan Matériel depuis la création du monde. Dotés par les dieux d'une résistance physique exceptionnelle et d'une connexion mystique avec le monde naturel, les hommes-lézard peuvent survivre par instinct pur là où les autres mourraient. Grâce à cela, beaucoup de légendes d'hommes-lézard énoncent que le peuple a été placé par les dieux sur le Plan Matériel afin de préserver les merveilles naturelles.
