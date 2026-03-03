@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Défenseurs des forêts et champions des arbres, les druides qui joignent le Cercle du Poing prennent leur charge de protecteur naturel très au sérieux. Traditionnellement, tous les cercles de druide visent à protéger le royaume naturel et à maintenir l'équilibre du monde, mais seuls les druides de ce cercle protègent les terres sauvages avec la vigilance et la ferveur d'une bête territoriale. Les Poings de la Forêt, comme ils sont parfois appelés, repoussent les intrus de leurs terres grâce à des ruées de coups à mains nues, renforcés par les pouvoirs du monde naturels, avant de disparaître parmi les cimes des arbres. À leur apogée, ces druides se battent plus comme les bêtes des forêts qu'ils protègent que comme les hommes, et en sont bien plus dangereux.
 
