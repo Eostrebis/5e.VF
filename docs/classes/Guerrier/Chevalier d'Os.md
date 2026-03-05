@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Un chevalier d'os, ou un médullier, est un guerrier qui a subi un douloureux rituel de transmutation, lui conférant le pouvoir de manipuler librement ses os. Bien que ce pouvoir cause une défiguration sans pareille de son porteur, il lui permet de faire grandir des protrusions osseuses pour servir d'arme ou d'armure et de changer la taille et la forme de son squelette comme bon lui souhaite. Maîtriser ces aptitudes demande un exploit d'endurance comme de créativité, créant un guerrier dont la meilleure arme n'est pas cachée dans son fourreau, mais bien sur son corps.
 
