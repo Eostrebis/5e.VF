@@ -1,0 +1,61 @@
+id: "race_aven"
+name: "Aven"
+type: "humanoid"
+size: "medium"
+
+speed:
+  walk: 25
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["DEX","WIS"]]
+
+languages: ["common", "avian"]
+weapons: []
+armors: []
+skills: []
+
+features:
+  - id: "flight_light_armor_aven"
+    name: "Vol"
+    description: "Grâce à vos ailes, vous avez une vitesse de vol de 30 ft. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde."
+    short_description: "Vitesse de vol 30 ft. si pas d'armure moyenne ou lourde."
+    logic:
+      type: "speed_grant"
+      target: "fly"
+      value: 30
+      condition: "armor_type != 'medium' AND armor_type != 'heavy'"
+
+  - id: "talons_aven"
+    name: "Serres"
+    description: "Vous avez des serres que vous pouvez utiliser pour réaliser des attaques à main nues. Lorsque vous touchez avec, vos attaques infligent 1d6 + votre modificateur de Force dégâts tranchants, plutôt que les dégâts contondants normaux pour ce type d'attaque."
+    logic:
+      type: "natural_weapon"
+      damage: "1d6"
+      damage_type: "slashing"
+      stat: "str"
+
+  - id: "divine_blessing"
+    name: "Bénédiction des Dieux"
+    description: "En fonction de votre lignée, rapace ou ibis, les dieux vous bénissent différemment. Choisissez l'une des deux lignées ci-dessous :"
+    type: "selection"
+    options:
+      - id: "hawk_lineage"
+        name: "Lignée du Faucon"
+        description: "Vous maîtrisez la compétence Perception. De plus, attaquer à longue portée ne vous impose pas le désavantage."
+        short_description: "Pas de désavantage aux attaques à longues portée"
+        logic:
+          type: "grant_proficiency"
+          skill: "perception"
+      - id: "ibis_lineage"
+        name: "Lignée de l'Ibis"
+        description: "Vous pouvez ajouter la moitié de votre bonus de maîtrise, arrondi à l'inférieur, à tous les tests d'Intelligence que vous effectuez qui n'incluent pas déjà votre bonus de maîtrise."
+        short_description: "Demi bonus de maîtrise aux jets d'INT non maîtrisés"
+        logic:
+          type: "stat_bonus_conditional"
+          target: "checks"
+          attribute: "int"
+          value: "floor({PB}/2)"
+          condition: "is_proficient == false"
