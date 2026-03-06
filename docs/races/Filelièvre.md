@@ -27,7 +27,7 @@ Les filelièvres sont bipèdes, avec de longues pattes caractéristiques des lap
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Lever un Lièvre.** Vous pouvez ajouter votre bonus de maîtrise à vos jets d'initiative.
+**Levé du Lièvre.** Vous pouvez ajouter votre bonus de maîtrise à vos jets d'initiative.
 
 **Sens Léporins.** Vous maîtrisez la compétence Perception.
 

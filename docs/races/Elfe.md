@@ -237,7 +237,7 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 **Type de Créature.** Vous êtes un humanoïde.
 
-**Langage.** Vous parlez l'Aquatique et l'[[Langues#Elfique|Elfique]]. L'[[Langues#Elfique|Elfique]] est fluide, avec de subtiles intonations et une grammaire complexe. La littérature elfique est riche et variée, et leurs chansons et poèmes sont connus même des autres races. Beaucoup de bardes apprennent ce langage afin de pouvoir ajouter les ballades elfes à leur répertoire.
+**Langage.** Vous parlez le Commun, l'Aquatique et l'[[Langues#Elfique|Elfique]]. L'[[Langues#Elfique|Elfique]] est fluide, avec de subtiles intonations et une grammaire complexe. La littérature elfique est riche et variée, et leurs chansons et poèmes sont connus même des autres races. Beaucoup de bardes apprennent ce langage afin de pouvoir ajouter les ballades elfes à leur répertoire.
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
