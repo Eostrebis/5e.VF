@@ -6,7 +6,7 @@ search:
 
 ## Avancée de la Traduction
 
-**Classes.** 12/25 ![](https://geps.dev/progress/58)
+**Classes.** 12/25 ![](https://geps.dev/progress/59)
 
 > [!INFO]- Détails par classe
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
@@ -20,7 +20,7 @@ search:
 > - **Ensorceleur.** ![](https://geps.dev/progress/0) 
 > - **Fusilier.** ![](https://geps.dev/progress/100) 
 > - **Gardien.** ![](https://geps.dev/progress/100) 
-> - **Guerrier.** ![](https://geps.dev/progress/21) 
+> - **Guerrier.** ![](https://geps.dev/progress/26) 
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
 > - **Ligateur.** ![](https://geps.dev/progress/98) 
 > - **Mage de Guerre.** ![](https://geps.dev/progress/2) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-03-06 09:55:21
+Mis à jour pour la dernière fois le 2026-03-06 11:24:14
