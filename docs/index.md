@@ -6,7 +6,7 @@ search:
 
 ## Avancée de la Traduction
 
-**Classes.** 12/25 ![](https://geps.dev/progress/59)
+**Classes.** 12/25 ![](https://geps.dev/progress/60)
 
 > [!INFO]- Détails par classe
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
@@ -30,7 +30,7 @@ search:
 > - **Nécromancien.** ![](https://geps.dev/progress/100) 
 > - **Occultiste.** ![](https://geps.dev/progress/0) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
-> - **Ranger.** ![](https://geps.dev/progress/11) 
+> - **Ranger.** ![](https://geps.dev/progress/16) 
 > - **Roublard.** ![](https://geps.dev/progress/0) 
 > - **Sorcière.** ![](https://geps.dev/progress/0) 
 > - **Tisserand.** ![](https://geps.dev/progress/100) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-03-06 20:58:23
+Mis à jour pour la dernière fois le 2026-03-06 21:14:08
