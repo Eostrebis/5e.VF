@@ -30,7 +30,7 @@ search:
 > - **Nécromancien.** ![](https://geps.dev/progress/100) 
 > - **Occultiste.** ![](https://geps.dev/progress/0) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
-> - **Ranger.** ![](https://geps.dev/progress/27) 
+> - **Ranger.** ![](https://geps.dev/progress/33) 
 > - **Roublard.** ![](https://geps.dev/progress/0) 
 > - **Sorcière.** ![](https://geps.dev/progress/0) 
 > - **Tisserand.** ![](https://geps.dev/progress/100) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-03-07 22:59:37
+Mis à jour pour la dernière fois le 2026-03-07 23:20:52
