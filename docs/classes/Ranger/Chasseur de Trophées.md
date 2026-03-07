@@ -5,7 +5,7 @@ Beaucoup de rangers s'aventurent dans la nature sauvage afin d'abattre les bête
 
 ## Attaque Viscérale
 
-À partir du moment où vous choisissez cet archétype au niveau 3, vous pouvez optimiser une frappe unique. Lorsque vous infligez des dégâts avec une attaque armée, vous pouvez choisir d'infliger le maximum de dégâts avec le dé de dégâts de l'arme. Cette aptitude ne s'applique pas aux sources additionnelles de dégâts, comme avec l'Attaque Sournoise du rôdeur ou le sort [[marque du chasseur]].
+À partir du moment où vous choisissez cet archétype au niveau 3, vous pouvez optimiser une frappe unique. Lorsque vous infligez des dégâts avec une attaque armée, vous pouvez choisir d'infliger le maximum de dégâts avec le dé de dégâts de l'arme. Cette aptitude ne s'applique pas aux sources additionnelles de dégâts, comme avec l'Attaque Sournoise du roublard ou le sort [[marque du chasseur]].
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos.
 
