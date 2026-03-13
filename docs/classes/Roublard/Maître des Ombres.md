@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Les roublards qui souhaitent rejoindre l'Ordre secret des Maîtres des Ombres doivent accomplir douze travaux, s'entraîner sans relâche et subir le Rite Ombral, un rituel ténébreux qui sépare leur ombre de leurs talons. En retour, ils palissent et n'affichent que des orbites vides pour yeux, mais peuvent manipuler leur ombre comme une marionnette. Ils peuvent invoquer une obscurité d'encre et voir à travers mêmes les nuits les plus impénétrables, tandis que leur ombre longe les murs et sols, accomplissant jusqu'aux plus basses des tâches.
 
