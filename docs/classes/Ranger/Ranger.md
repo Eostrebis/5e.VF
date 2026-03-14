@@ -60,3 +60,16 @@ En tant que Ranger, vous disposez des aptitudes de classes suivantes.
 ### Équipement
 
 Vous commencez avec l'équipement suivant, en plus de l'équipement offert par votre historique : 
+
+
+[[Bandit de Grands Chemins]]
+
+[[Casseur de Sorts]]
+
+[[Chasseur de Trophées]]
+
+[[Coureur]]
+
+[[Né des Bêtes]]
+
+[[Vigilante]]

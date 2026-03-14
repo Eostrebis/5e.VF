@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 La magie arcanique liée à la maîtrise des éléments est aussi connue comme la magie rouge, et peut-être très dangereuse. Les sorcières qui se spécialisent dans cet art sont parmi les lanceurs de sorts les plus létaux qui soient, canalisant leur malédiction dans des déchaînements arcaniques sans précédent.
 

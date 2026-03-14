@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 La magie noir est souvent associée avec les maléfices qui causent douleur et souffrance, ainsi qu'aux sorts qui rappellent les morts. Maîtriser un tel art confère un grand pouvoir, mais a inévitablement un coût. Les ténèbres ne peuvent pas être retenues, après tout ; elles suintent toujours de leur contenant.
 

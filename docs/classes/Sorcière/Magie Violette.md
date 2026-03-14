@@ -1,7 +1,7 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
-La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchantement qui s'acappare l'esprit des gens, ainsi que de tout ce qui n'est pas ce qu'il semble être. Les pratiquants de cet art sont des ventriloques, façonnant la réalité apparente de ceux autour d'eux pour gagner l'avantage.
+La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchantement qui s'accappare l'esprit des gens, ainsi que de tout ce qui n'est pas ce qu'il semble être. Les pratiquants de cet art sont des ventriloques, façonnant la réalité apparente de ceux autour d'eux pour gagner l'avantage.
 
 **Sorts de Magie Violette.**
 
