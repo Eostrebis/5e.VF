@@ -1,8 +1,9 @@
 ---
 search:
   exclude: true
-writing_status: empty
+writing_status: finished
 ---
+
 | Maléfice                    | Description                                                 |
 | --------------------------- | ----------------------------------------------------------- |
 | [[Affreux Familier]]        | Boost votre familier                                        |

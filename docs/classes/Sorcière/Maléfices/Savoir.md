@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Pour une action, vous ouvrez votre troisième œil et devenez intuitivement conscient de votre entourage. Vous avez l'avantage aux jets de Sagesse (Perspicacité) jusqu'à la fin de votre prochain tour.
 

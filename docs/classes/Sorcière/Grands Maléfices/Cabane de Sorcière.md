@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Vous réalisez un rituel de 24 heures pour enchanter une structure qui peut tenir dans un cube de 15 ft., l'animant comme un objet Immense, comme d'après le sort [[Animation d'Objets]]. La structure se dresse sur une paire de jambe magique et suit vos ordres.
 
