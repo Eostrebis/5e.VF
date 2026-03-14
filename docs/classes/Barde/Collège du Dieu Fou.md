@@ -32,8 +32,8 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire ava
 Lorsque vous utilisez votre action pour jouer la mélodie, une créature qui peut entendre la mélodie doit réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, elle prend des dégâts psychiques et subit un effet supplémentaire en fonction du nombre de tours consécutifs que vous avez passé à jouer la mélodie. Après quatre tours consécutifs, ou si aucune créature n'entend la mélodie pendant un tour, la mélodie recommence au premier tour.
 
 | Tour | Dégâts Psychiques | Effet                                                                       |
-| ---- | ----------------- | --------------------------------------------------------------------------- | 
-| 1er  | 4d8               | La cible est [[assourdi\|assourdie]]                                   |
-| 2eme | 7d8               | La cible ne peut pas parler et a le désavantage aux jets de caractéristique |                                               
-| 3eme | 4d8               | La cible est [[charmé\|charmée]] par vous jusqu'à la fin de son tour |
-| 4eme | 9d8               | --                                                                          |                                               
+| ---- | ----------------- | --------------------------------------------------------------------------- |
+| 1er  | 4d8               | La cible est [[assourdi\|assourdie]]                                        |
+| 2eme | 7d8               | La cible ne peut pas parler et a le désavantage aux jets de caractéristique |
+| 3eme | 4d8               | La cible est [[charmé\|charmée]] par vous jusqu'à la fin de son tour        |
+| 4eme | 9d8               | --                                                                          |

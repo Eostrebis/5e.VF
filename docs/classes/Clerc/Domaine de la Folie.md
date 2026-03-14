@@ -25,12 +25,12 @@ Au niveau 1, à chaque fois que vous réalisez un jet de caractéristique qui n'
 
 À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle prend des dégâts.
 
-| d20   | Effet |
-|:-----:| ----- |
-| 1-5   | **Aphasie.** La créature ne peut pas parler et est incapable de lancer des sorts ou de comprendre les autres.|
-| 6-10  | **Delusion.** La créature souffre d'hallucinations réalistes. Lorsque qu'elle attaque ou cible une créature avec un sort ou un effet, lancez un d20. Si le résultat est impair, l'attaque rate, ou le sort ou l'effet échoue.|
-| 11-15 | **Frénésie.** La créature devient frénétique. Une créature frénétique perd sa capacité de distinguer ennemis et alliés. Tant qu'elle est frénétique, une créature choisit la cible de ses effets parmi toutes celles à portée, et elle doit réaliser une attaque d'opportunité si une créature en déclenche une.|
-| 16-20 | **Vertige.** La créature tombe [[au sol]] au début de chacun de ses tours si elle ne se tient pas à quelque chose.|
+| d20   | Effet                                                                                                                                                                                                                                                                                                           |
+| :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1-5   | **Aphasie.** La créature ne peut pas parler et est incapable de lancer des sorts ou de comprendre les autres.                                                                                                                                                                                                   |
+| 6-10  | **Delusion.** La créature souffre d'hallucinations réalistes. Lorsque qu'elle attaque ou cible une créature avec un sort ou un effet, lancez un d20. Si le résultat est impair, l'attaque rate, ou le sort ou l'effet échoue.                                                                                   |
+| 11-15 | **Frénésie.** La créature devient frénétique. Une créature frénétique perd sa capacité de distinguer ennemis et alliés. Tant qu'elle est frénétique, la créature choisit la cible de ses effets parmi toutes celles à portée, et elle doit réaliser une attaque d'opportunité si une créature en déclenche une. |
+| 16-20 | **Vertige.** La créature tombe [[au sol]] au début de chacun de ses tours si elle ne se tient pas à quelque chose.                                                                                                                                                                                              |
 
 ## Esprit Fragmenté
 

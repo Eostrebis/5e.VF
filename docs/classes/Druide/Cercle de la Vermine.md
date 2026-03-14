@@ -14,11 +14,10 @@ Tant que l'essaim se trouve sur votre emplacement, vous avez un bonus de +2 à l
 À partir du niveau 6, vous pouvez invoquer un essaim de chauve-souris, d'insectes ou de corbeaux plutôt que de rats, et au niveau 14, vous pouvez aussi choisir d'invoquer un essaim de serpents venimeux.
 ## Infesté
 
-Au niveau 2, des insectes et des rongeurs vivent dans les moindres recoins de vos vêtements et votre équipement. Lorsqu'une créature à 5 ft. de vous vous touche avec une attaque, la vermine répond et inflige 1d6 dégâts perçants à l'attaquant. De plus, à chaque attaque suivante que la créature réalise avant la fin de son tour, elle doit retirer 1d4 du jet d'attaque.
-
+Au niveau 2, des insectes et des rongeurs vivent dans les moindres recoins de vos vêtements et votre équipement. Lorsqu'une créature à 5 ft. vous touche avec une attaque, la vermine répond et inflige 1d6 dégâts perçants à l'attaquant. De plus, la créature retire 1d4 du jet d'attaque à chaque attaque suivante qu'elle réalise avant la fin de son tour.
 ## Vibromètre
 
-Au niveau 6, les vibrations dans le sol résonnent à travers les fourmis et les vers de terre et, par extension, par vous. Vous obtenez la perception des vibrations, la capacité de détecter et de localiser les vibrations, sur une portée de 10 ft. Pour utiliser ce sens, vous et la source des vibrations devez être en contact avec le même sol. Ce sens ne peut pas être utilisé pour détecter les créatures incorporelles ou volantes. 
+Au niveau 6, les vibrations dans le sol, et par extension par vous, résonnent à travers les fourmis et les vers de terre. Vous obtenez la perception des vibrations, la capacité de détecter et de localiser les vibrations, sur une portée de 10 ft. Pour utiliser ce sens, vous et la source des vibrations devez être en contact avec le même sol. Ce sens ne peut pas être utilisé pour détecter les créatures incorporelles ou volantes. 
 
 ## Porteur de Peste
 

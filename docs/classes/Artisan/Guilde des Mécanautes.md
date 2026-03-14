@@ -15,7 +15,7 @@ __Réparer l'Appareil.__ Lorsque l'appareil tombe à 0 point de vie, il ne peut 
 
 Vous pouvez réparer votre appareil à la fin d'un repos cours en dépensant vos dés de vie, pour qu'il regagne des points de vie comme s'il finissait un repos court. Lorsque vous terminez un repos long, vous pouvez réparer votre appareil, le faisant regagner tous ses points de vie. Vous avez toujours suffisamment de matériaux sur vous pour réparer votre appareil. Si vous perdez votre appareil, vous pouvez en fabriquer un nouveau pour 400 PO.
 
-__Entrer et Quitter l'Appareil.__ Une créature peut entrer ou quitter l'appareil en utilisant la moitié de son mouvement. Tant qu'elle est dans l'appareil, une créature a la couverture totale aux effets venant de l'extérieur. Vos propriétés d'armure n'ont aucun effet lorsque vous êtes dans l'appareil. Une seule créature de taille M ou P peut être dans l'appareil à la fois.
+__Entrer et Quitter l'Appareil.__ Une créature peut entrer ou quitter l'appareil en utilisant la moitié de son mouvement. Tant qu'elle est dans l'appareil, la créature a la couverture totale aux effets venant de l'extérieur. Vos propriétés d'armure n'ont aucun effet lorsque vous êtes dans l'appareil. Une seule créature de taille M ou P peut être dans l'appareil à la fois.
 
 __Piloter l'Appareil.__ Une créature qui est dans l'Appareil peut le piloter ; l'appareil agit pendant le tour du pilote. Toute créature pilotant l'appareil peut lui ordonner de se déplacer (aucune action). Lorsque vous pilotez l'appareil, vous pouvez utiliser votre action pour lui ordonner d'utiliser son action pour Attaquer, Courir, se Désengager, se Cacher ou Utiliser un objet. Vous pouvez également lui ordonner d'utiliser une réaction, en utilisant la vôtre pour ce faire.
 

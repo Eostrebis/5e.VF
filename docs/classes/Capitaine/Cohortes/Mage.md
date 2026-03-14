@@ -43,7 +43,7 @@ _Niveau 6._ _Action :_ __Incantation.__ L'incantation du mage s'améliore. Il pe
  - À volonté : [[Message]]
  - 1/jour : [[Immobilisation de Personne]], [[invisibilité]]
 
-_Niveau 10._ _Action :_ __Explosion Élémentaire.__ Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, une créature prend 8d6 dégâts du type choisi, et la moitié en cas de réussite.
+_Niveau 10._ _Action :_ __Explosion Élémentaire.__ Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, la créature prend 8d6 dégâts du type choisi, et la moitié en cas de réussite.
 
 _Niveau 14._ _Action_ __Incantation.__ L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
  - 1/jour : [[porte dimensionnelle]], [[métamorphose]]

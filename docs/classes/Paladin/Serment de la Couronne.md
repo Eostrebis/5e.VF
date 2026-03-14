@@ -30,7 +30,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Défi du Champion.** Pour une action bonus en utilisant votre Canal Divin, vous formulez un défi qui appelle les autres créatures à vous combattre. Toutes les créatures de votre choix que vous pouvez voir à 30 ft. doivent réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature ne peut volontairement se déplacer à plus de 30 ft. de vous. L'effet se termine si vous êtes [[incapacité]], si vous mourez ou si la créature se trouve à plus de 30 ft. de vous.
+**Défi du Champion.** Pour une action bonus en utilisant votre Canal Divin, vous formulez un défi qui appelle les autres créatures à vous combattre. Toutes les créatures de votre choix que vous pouvez voir à 30 ft. doivent réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature ne peut volontairement se déplacer à plus de 30 ft. de vous. L'effet se termine si vous êtes [[incapacité]], si vous mourez ou si la créature se trouve à plus de 30 ft. de vous.
 
 **Revirement.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour revigorer des créatures blessées. Chaque créature de votre choix qui peut vous entendre à 30 ft. regagne 1d6 + votre modificateur de Charisme (minimum 1) points de vie, à condition qu'elle n'ait pas plus de la moitié de ses points de vie.
 ## Allégeance Divine

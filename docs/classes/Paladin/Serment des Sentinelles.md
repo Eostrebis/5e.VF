@@ -33,7 +33,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Volonté de la Sentinelle.** Vous pouvez utiliser votre Canal Divin pour investir votre présence du pouvoir protecteur de votre foi. Pour une action, vous pouvez choisir un nombre de créatures que vous pouvez voir à 30 ft. égal à votre modificateur de Charisme (au moins 1). Pendant 1 minute, vous et les créatures choisies avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.
 
-**Abjuration de l'Extraplanaire.** Pour une action, vous pouvez utiliser votre Canal Divin pour réprimander les créatures d'outre-monde. Chaque Fée, Céleste, Élémentaire, Fiélon ou Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature est renvoyée pendant 1 minute.
+**Abjuration de l'Extraplanaire.** Pour une action, vous pouvez utiliser votre Canal Divin pour réprimander les créatures d'outre-monde. Chaque Fée, Céleste, Élémentaire, Fiélon ou Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
 
 Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que courir ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 

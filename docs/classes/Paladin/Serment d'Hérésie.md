@@ -30,7 +30,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Blasphème.** Pour une action en utilisant votre Canal Divin, vous prononcez une série de mots profondément hérétiques qui font trembler la pièce. Chaque créature que vous choisissez à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, une créature prend 2d6 dégâts psychiques par point de votre bonus de maîtrise et est [[assourdi|assourdie]] pendant 1 minute. Si elle réussit, la créature ne prend que la moitié des dégâts et n'est pas assourdie.
+**Blasphème.** Pour une action en utilisant votre Canal Divin, vous prononcez une série de mots profondément hérétiques qui font trembler la pièce. Chaque créature que vous choisissez à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature prend 2d6 dégâts psychiques par point de votre bonus de maîtrise et est [[assourdi|assourdie]] pendant 1 minute. Si elle réussit, la créature ne prend que la moitié des dégâts et n'est pas assourdie.
 
 **Renvoi du Sacré.** Pour une action en utilisant votre Canal Divin, vous censurez les Célestes et autres hommes de foi. Chaque Céleste que vous pouvez voir ou entendre à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse. Chaque Humanoïde à portée qui peut lancer des sorts de niveau 1 ou plus en utilisant la Sagesse comme caractéristique d'incantation doit également réaliser un jet de sauvegarde de Sagesse. Si une créature échoue son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 

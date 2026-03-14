@@ -12,7 +12,7 @@ Les druides qui rejoignent le Cercle de la Vouivre tiennent les dragons en plus 
 
 Au niveau 2, vous obtenez l'aptitude d'utiliser votre Forme Sauvage pendant votre tour pour une action bonus plutôt qu'une action. De plus, votre forme bestiale ressemble à un hybride draconique, recouvert d'écailles et de griffes, et vous bénéficiez des traits suivants lorsque vous êtes transformé : 
 
- - **Arme de Souffle.** Vous pouvez utiliser votre action et dépenser un emplacement de sort pour expirer de l'énergie draconique de votre bouche. Choisissez un type de dégâts : acide, froid, feu, foudre ou poison. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Si elle échoue, une créature subit 2d10 dégâts du type choisi, plus 1d10 par niveau d'emplacement au-delà du niveau 1. Si elle réussit, une créature ne subit que la moitié de ces dégâts.
+ - **Arme de Souffle.** Vous pouvez utiliser votre action et dépenser un emplacement de sort pour expirer de l'énergie draconique de votre bouche. Choisissez un type de dégâts : acide, froid, feu, foudre ou poison. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Si elle échoue, la créature subit 2d10 dégâts du type choisi, plus 1d10 par niveau d'emplacement au-delà du niveau 1. Si elle réussit, la créature ne subit que la moitié de ces dégâts.
  - **Résistance.** Vous êtes résistant aux dégâts contondants, perçants et tranchants des attaques non magiques.
 
 ## Crocs et Vol
