@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchantement qui s'accappare l'esprit des gens, ainsi que de tout ce qui n'est pas ce qu'il semble être. Les pratiquants de cet art sont des ventriloques, façonnant la réalité apparente de ceux autour d'eux pour gagner l'avantage.
+La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchantement qui s'accapare l'esprit des gens, ainsi que de tout ce qui n'est pas ce qu'il semble être. Les pratiquants de cet art sont des ventriloques, façonnant la réalité apparente de ceux autour d'eux pour gagner l'avantage.
 
 **Sorts de Magie Violette.**
 
@@ -19,7 +19,7 @@ Lorsque vous choisissez cet art au niveau 3, vous pouvez infecter l'esprit d'aut
 
 ## Fausse Autorité
 
-Au niveau 6, pour une action, vous pouvez vous entourer d'un aura illusoire. Toute créature qui vous voit vous perçoit comme une figure d'autorité. Un forgeron vous verrait comme un maître de guilde, un soldat comme un capitaine... Le changement perçu par une créature ne persiste pas en cas de contact physique. L'illusion dure pour une heure, ou jusqu'à ce que vous la terminiez pendant votre tour (pas d'action requise).
+Au niveau 6, pour une action, vous pouvez vous entourer d'une aura illusoire. Toute créature qui vous voit vous perçoit comme une figure d'autorité. Un forgeron vous verrait comme un maître de guilde, un soldat comme un capitaine... Le changement perçu par une créature ne persiste pas en cas de contact physique. L'illusion dure pour une heure, ou jusqu'à ce que vous la terminiez pendant votre tour (pas d'action requise).
 
 Pour discerner que vous êtes déguisé, une créature doit utiliser son action pour inspecter votre apparence, et doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort.
 
@@ -31,7 +31,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire j
 
 Une créature peut utiliser son action pour examiner une créature déguisée magiquement et doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort. Si elle réussit, elle identifie chaque créature pour ce qu'elle est réellement.
 
-L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires prend des dégâts ou intéragit physiquement avec son environnement.
+L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires prend des dégâts ou interagit physiquement avec son environnement.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
 
@@ -39,6 +39,6 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire j
 
 Au niveau 14, vous pouvez transformer tout ce qu'une créature voit en un enfer rempli de créatures belliqueuses. Lorsqu'une créature rate son jet de sauvegarde contre votre maléfice d'Hallucination, vous pouvez encore plus tordre son esprit, la déchaînant.
 
-Une créature déchaînée perd la capactié de distinguer ennemi et ami, voyant toutes les créatures comme des dangers potentiels. Tant qu'elle est déchaînée, la créduire choisit la cible de ces actions aléatoirement parmi toutes les créatures à portée et doit réaliser une attaque d'opportunité si elle le peut.
+Une créature déchaînée perd la capacité de distinguer ennemi et ami, voyant toutes les créatures comme des dangers potentiels. Tant qu'elle est déchaînée, la créature choisit la cible de ces actions aléatoirement parmi toutes les créatures à portée et doit réaliser une attaque d'opportunité si elle le peut.
 
 Cet effet termine après 1 minute. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos long.

@@ -1,5 +1,5 @@
 ---
-writing_status: completed
+writing_status: finished
 ---
 
 Trois vieilles groagez se penchent au-dessus d'un chaudron bouillant, rempli de toutes choses plus étranges les unes que les autres, où se forment des bulles aux couleurs étranges laissant échapper des fumées toxiques. Dans la fumée et la vapeur au-dessus du pot, le trio discerne des formes et figurent de la plus haute importance, et une ricane bruyamment à la vue de ces résultats.
@@ -12,7 +12,7 @@ Les sorcières (masc. sorceor) sont frappées par une magie si sombre qu'elle la
 
 ## Maudite
 
-Tandis que les autre sont bénis par la magie, les sorcières sont maudites. Sujettes à une arcane maléfique, accidentellement ou volontairement, les sorcières sont soumises à une torture quotidienne. Avec d'importants efforts, elles peuvent tordre ce pouvoir en sorts pour affliger les autres du même mal dont elles souffrent.
+Tandis que les autre sont bénis par la magie, les sorcières sont maudites. Sujettes à un arcane maléfique, accidentellement ou volontairement, les sorcières sont soumises à une torture quotidienne. Avec d'importants efforts, elles peuvent tordre ce pouvoir en sorts pour affliger les autres du même mal dont elles souffrent.
 
 ## Parias et Exilés
 
@@ -139,7 +139,7 @@ Au niveau 1, vous gagnez deux [[Maléfices]] de votre choix. Lorsque vous atteig
 
 Sauf mention du contraire, si un maléfice requiert un jet d'attaque ou de sauvegarde, il utilise votre modificateur aux attaques avec un sort et votre DD de sauvegarde des sorts. Chaque maléfice nécessite une composante verbale ou somatique (votre choix).
 
-Sauf mention du contraire, si un maléfice persiste pour une durée donnée, vous vous concentrez dessus comme vous le feriez sur un sort. Vous perdez votre concentration sur un maléfice si vous en lancez un autre, mais vous pouvez vous concentrer à la fois sur un maléfice et un sort. En ce cas, vous ne réalise qu'un seul jet de sauvegarde de Constitution pour maintenir votre concentration sur les deux.
+Sauf mention du contraire, si un maléfice persiste pour une durée donnée, vous vous concentrez dessus comme vous le feriez sur un sort. Vous perdez votre concentration sur un maléfice si vous en lancez un autre, mais vous pouvez vous concentrer à la fois sur un maléfice et un sort. En ce cas, vous ne réalisez qu'un seul jet de sauvegarde de Constitution pour maintenir votre concentration sur les deux.
 
 ## Ricanement
 

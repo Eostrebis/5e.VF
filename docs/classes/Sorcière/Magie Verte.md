@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Les plantes, la nature et les bêtes sauvages sont le domaine de la magie verte. Normalement une arcane maîtrisée par les druides, quelques sorcières ont un lien privilégié avec les pouvoir de la magie verte et peuvent convaincre plantes et animaux de réaliser leurs tâches.
+Les plantes, la nature et les bêtes sauvages sont le domaine de la magie verte. Normalement un arcane maîtrisé par les druides, quelques sorcières ont un lien privilégié avec les pouvoir de la magie verte et peuvent convaincre plantes et animaux de réaliser leurs tâches.
 
 **Sorts de Magie Verte.**
 
@@ -21,7 +21,7 @@ La plupart des Bêtes et Plantes n'ont pas l'intelligence pour énoncer ou compr
 
 ## Allié Primal
 
-Également au niveau 3, lorsque vous invoquez votre familier, vous pouvez le rendre plus solide qu'à la normal. Ajouter trois fois votre niveau de sorcière, plutôt que deux fois, à ses points de vie maximums.
+Également au niveau 3, lorsque vous invoquez votre familier, vous pouvez le rendre plus solide qu'à la normale. Ajouter trois fois votre niveau de sorcière, plutôt que deux fois, à ses points de vie maximums.
 
 ## Familier Jumeau
 
@@ -37,4 +37,4 @@ De plus, choisissez jusqu'à 6 créatures que vous pouvez voir à la fin de vos 
 
 Au niveau 14, à chaque fois que vous êtes ciblé par une attaque tandis que votre familier est à 5 ft., vous pouvez utiliser votre réaction pour ordonner à votre familier de plonger devant l'attaque et qu'il en devienne la cible. 
 
-Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez toutes les utilisation dépensées lorsque vous terminez un repos long.
+Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
