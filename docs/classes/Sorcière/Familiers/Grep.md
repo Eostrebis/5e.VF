@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Un grep est un charognard souterrain, connu pour utiliser sa vision aiguisée, son ouïe fine et son vol silencieux pour tromper et voler les voyageurs, amassant ses possessions dans des butins bien cachés. Les arcanistes utilisent les greps comme des messagers et des éclaireurs, mais ils excellent en tant que récupérateurs ; un grep peut se voir donner le nom d'un objet important, être envoyé à sa recherche, et revenir peu de temps après avec l'objet demandé.
 
