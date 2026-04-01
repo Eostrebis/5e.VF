@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Votre magie innée prend source dans votre long héritage familial de sang tinté de vase. Pendant des générations, les étranges traits des slimes ont marqué votre famille, affectant certains dès la naissance tout en épargnant d'autres. Cette affliction semble avoir pour origine un ancêtre aussi bien documenté que mystérieux. L'expérience ayant conduit à l'introduction de vase dans son corps n'est pas claire, mais certains de ses descendants naissent aujourd'hui avec une magie innée et des caractéristiques physiques que l'on ne peut vraiment qualifier autrement que bizarres.
 
