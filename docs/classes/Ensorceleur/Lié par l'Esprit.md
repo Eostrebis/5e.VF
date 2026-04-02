@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 Votre magie ne vient pas de votre sang mais des conditions de votre naissance. Né à un moment spécifique ou d'après une certaine prophétie, vos naissances a été annoncée par la naissance d'un animal albinos proche de votre famille. Cet animal, un esprit puissant dans sa forme physique, est lié à votre âme directement, vous permettant d'user d'une magie puissante. Comme votre esprit lié, votre peau et vos cheveux sont d'une couleur différente que celles usuelles pour votre race, devant généralement d'un blanc frappant et plus rarement couleur ambre ou dorée. 
 
