@@ -17,7 +17,7 @@ search:
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
 > - **Druide.** ![](https://geps.dev/progress/40) 
-> - **Ensorceleur.** ![](https://geps.dev/progress/15) 
+> - **Ensorceleur.** ![](https://geps.dev/progress/21) 
 > - **Fusilier.** ![](https://geps.dev/progress/100) 
 > - **Gardien.** ![](https://geps.dev/progress/100) 
 > - **Guerrier.** ![](https://geps.dev/progress/31) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-01 18:58:29
+Mis à jour pour la dernière fois le 2026-04-02 09:09:37
