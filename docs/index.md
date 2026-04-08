@@ -17,7 +17,7 @@ search:
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
 > - **Druide.** ![](https://geps.dev/progress/40) 
-> - **Ensorceleur.** ![](https://geps.dev/progress/30) 
+> - **Ensorceleur.** ![](https://geps.dev/progress/31) 
 > - **Fusilier.** ![](https://geps.dev/progress/100) 
 > - **Gardien.** ![](https://geps.dev/progress/100) 
 > - **Guerrier.** ![](https://geps.dev/progress/31) 
@@ -28,7 +28,7 @@ search:
 > - **Martyr.** ![](https://geps.dev/progress/100) 
 > - **Moine.** ![](https://geps.dev/progress/100) 
 > - **Nécromancien.** ![](https://geps.dev/progress/100) 
-> - **Occultiste.** ![](https://geps.dev/progress/0) 
+> - **Occultiste.** ![](https://geps.dev/progress/2) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
 > - **Ranger.** ![](https://geps.dev/progress/33) 
 > - **Roublard.** ![](https://geps.dev/progress/33) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-03 09:14:36
+Mis à jour pour la dernière fois le 2026-04-03 15:21:20
