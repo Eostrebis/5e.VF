@@ -56,7 +56,7 @@ Au niveau 10, l'Archive vous autorise à prêter une fraction de son génie à v
 
 De plus, lorsqu'une créature liée doit effectuer un jet de compétence de Sagesse ou d'Intelligence, elle peut utiliser votre modificateur de compétence (caractéristique + maîtrise) au lieu du sien.
 
-Vous pouvez cette aptitude une fois par repos long.
+Vous pouvez utiliser cette aptitude une fois par repos long.
 
 ## Révélation de l'Absolu
 
