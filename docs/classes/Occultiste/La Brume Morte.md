@@ -24,3 +24,12 @@ De par la nature consommatrice d'âme de la Brume Morte, vous ne pouvez pas rega
 
 ## Nutrition de l'Âme
 
+À partir du niveau 6, votre corps commence à fusionner avec la Brume Morte, vous permettant de soigner votre forme mortelle en consommant de l'énergie occulte. Pour une action pendant votre tour, vous pouvez consommer l'un de vos emplacements de Magie de Pacte disponible pour récupérer 1d8 points de vie par niveau de l'emplacement consommé. Ce montant de soin ne peut être augmenté ou maximisé.
+
+## Forme Brumeuse
+
+Au niveau 10, vous apprenez à vous immerger complètement dans la Brume Morte, vous transformant en une réflexion brumeuse et floue de votre véritable vous. Pour une action, vous pouvez lancer le sort [[forme gazeuse]], ne vous ciblant que vous, sans utiliser d'emplacement de sort ni de composantes.
+
+## Maître des Brumes
+
+À partir du niveau 14, une fois à chacun de vos tours lorsque vous infligez des dégâts nécrotiques à une créature hostile par un sort d'occultiste, vous absorbez un peu de l'essence vitale de la cible avec la Brume Morte. Vous regagnez un nombre de points de vie égal à 1d8 + votre modificateur de Charisme, jusqu'à un maximum égal aux dégâts infligés.
