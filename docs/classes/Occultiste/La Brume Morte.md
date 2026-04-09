@@ -1,5 +1,5 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
 L'étendue stellaire du Plan Astral contient des horreurs, grandes comme petites, mais aucune ne rivalise avec la masse de brouillard astral plus communément connue comme la Brume Morte. Fumée visqueuse qui s'enroule et dérive le long du plan, elle est connue pour faire sienne tout voyageur imprudent qui s'aventurerait dans son embrassade brumeuse. Mais la Brume Morte n'est pas qu'un simple danger astral : elle possède une intelligence macabre, une conscience et un puit sans fin d'énergie nécromantique. 
 
