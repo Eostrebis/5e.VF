@@ -14,7 +14,7 @@ Incantation: 1 Action
 Portee: 60 ft.
 Concentration: false
 Rituel: false
-englishname: Eldricht Orb
+englishname: Eldritch Orb
 writing_status: empty
 ---
 Vous lancez une boule d'énergie occulte à une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d8 dégâts de force et toute créature à 5 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre la moitié des dégâts.

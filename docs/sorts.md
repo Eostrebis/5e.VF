@@ -565,7 +565,7 @@ spells: "true"
 | Dire Charm                           | [[Charme Funeste]]                        |
 | Dire Warning                         | [[Funeste Avertissement]]                 |
 | Distort Gravity                      | [[Distorsion Gravitationnelle]]           |
-| Eldricht Orb                         | [[Orbe Occulte]]                          |
+| Eldritch Orb                         | [[Orbe Occulte]]                          |
 | Elemental Curse                      | [[Malédiction Élémentaire]]               |
 | Evasiveness                          | [[Évasivité]]                             |
 | Exhume                               | [[Exhumation]]                            |
