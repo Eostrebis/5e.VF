@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Les druides qui maintiennent et protègent les terres seraient bien dupes de penser que leur domaine recouvre l'entièreté du monde naturel, puisqu'ils n'en gardent qu'une minuscule fraction ; bien plus grandes et plus sauvages sont les profondeurs. Les Druides des Profondeurs sont peu nombreux, mais aux responsabilités plus élargies, prêtant serment de protéger les océans, les mers, les lacs et les rivières ainsi que leurs habitants contre les insouciants qui parcourent la surface.
+Les druides qui maintiennent et protègent les terres seraient bien dupes de penser que leur domaine recouvre l'entièreté du monde naturel, puisqu'ils n'en gardent qu'une minuscule fraction ; bien plus grandes et sauvages sont les profondeurs. Les Druides des Profondeurs sont peu nombreux, mais aux responsabilités plus élargies, prêtant serment de protéger les océans, les mers, les lacs et les rivières ainsi que leurs habitants contre les insouciants qui parcourent la surface.
 
 La pression des profondeurs a endurci ces druides et leur a appris à se battre avec toutes les armes disponibles en deçà des vagues. Après tout, l'océan est un environnement sans répit ; vous ne pouvez pas y survivre simplement en parlant aux poissons.
 

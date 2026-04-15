@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Les druides du Cercle de la Vermine, parfois appelés Seigneurs des Vermines, puisent leur pouvoir des plus petites des créatures : insectes, rats, araignées et autres pestes. Impossible à rater, votre arrivée est annoncée par le brouhaha de petites griffures et le croassement des corbeaux. Vous possédez légion de ces créatures sous votre commande, prêtes à envahir, mordre et griffer et vous pouvez devenir l'une d'entre elles, marchant parmi vos enfants.
+Les druides du Cercle de la Vermine, parfois appelés seigneurs des vermines, puisent leur pouvoir des plus petites des créatures : insectes, rats, araignées et autres pestes. Impossible à rater, votre arrivée est annoncée par le brouhaha de petites griffures et le croassement des corbeaux. Vous possédez légion de ces créatures sous votre commande, prêtes à envahir, mordre et griffer et vous pouvez devenir l'une d'entre elles, marchant parmi vos enfants.
 
 ## Seigneur des Bas-Fonds
 
