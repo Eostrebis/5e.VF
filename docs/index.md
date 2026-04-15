@@ -28,7 +28,7 @@ search:
 > - **Martyr.** ![](https://geps.dev/progress/100) 
 > - **Moine.** ![](https://geps.dev/progress/100) 
 > - **Nécromancien.** ![](https://geps.dev/progress/100) 
-> - **Occultiste.** ![](https://geps.dev/progress/42) 
+> - **Occultiste.** ![](https://geps.dev/progress/46) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
 > - **Ranger.** ![](https://geps.dev/progress/33) 
 > - **Roublard.** ![](https://geps.dev/progress/33) 
@@ -63,4 +63,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-15 17:30:21
+Mis à jour pour la dernière fois le 2026-04-15 17:53:17
