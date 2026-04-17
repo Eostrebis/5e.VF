@@ -44,3 +44,7 @@ __Hippocampe.__ Vous ajoutez votre bonus de maîtrise aux jets que vous réalise
 __Araignée.__ Vous avez une vitesse d'escalade de 30 ft.
 
 __Belette.__ Vous faufiler ne vous demande pas de mouvement supplémentaire, et vous pouvez vous relever du [[au sol|sol]] pour seulement 5 ft. de mouvement.
+
+## Amélioration de Familier
+
+À partir du niveau 10, vous pouvez 
