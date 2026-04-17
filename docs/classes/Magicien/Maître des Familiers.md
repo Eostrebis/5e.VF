@@ -1,7 +1,7 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
-Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les apprentis magiciens, puisque le sort confère un utile, bien que limité, serviteur magique. Cependant, une petit école de magiciens connus comme les "maîtres des familiers" ou "évolutionnistes" pensent que sous cet humble sort se cache d'immenses pouvoirs. Ainsi, leurs études ont permis de débloquer le potentiel caché de ce sort : la capacité d'évoluer un familier et d'altérer sa forme.
+Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les apprentis magiciens, puisque le sort confère un utile, bien que limité, serviteur magique. Cependant, une petite école de magiciens connus comme les "maîtres des familiers" ou "évolutionnistes" pensent que sous cet humble sort se cache d'immenses pouvoirs. Ainsi, leurs études ont permis de débloquer le potentiel caché de ce sort : la capacité d'évoluer un familier et d'altérer sa forme.
 
 ## Familier Amélioré
 
@@ -39,7 +39,7 @@ __Rat.__ Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour év
 
 __Corbeau.__ Vous ajoutez votre bonus de maîtrise à vos jets de sauvegarde contre la mort et vous connaissez le cantrip [[stabilisation]], qui ne compte pas parmi le nombre de cantrips que vous connaissez. L'Intelligence est votre caractéristique d'incantation pour ce sort.
 
-__Hippocampe.__ Vous ajoutez votre bonus de maîtrise aux jets que vous réalisez afin de contrôler une créature comme monture, et vous êtes considéré comme d'une taille plus petit afin de déterminer les créatures que vous pouvez monter. 
+__Hippocampe.__ Vous ajoutez votre bonus de maîtrise aux jets que vous réalisez afin de contrôler une créature comme monture, et vous êtes considéré comme d'une taille plus petite afin de déterminer les créatures que vous pouvez monter. 
 
 __Araignée.__ Vous avez une vitesse d'escalade de 30 ft.
 
@@ -47,4 +47,24 @@ __Belette.__ Vous faufiler ne vous demande pas de mouvement supplémentaire, et 
 
 ## Amélioration de Familier
 
-À partir du niveau 10, vous pouvez 
+À partir du niveau 10, vous pouvez utiliser une action bonus pour conférer à votre familier un nombre de points de vie temporaires égal au double de votre niveau dans cette classe. Lorsque vous le faites, vous pouvez également changer son type de créature et la forme qu'il assume. 
+
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos. 
+
+## Don Supérieur du Serviteur
+
+Au niveau 14, tant que vous avez un familier, vous bénéficiez d'un effet en fonction de son type de créature.
+
+__Aberration.__ Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ses dégâts pour des dégâts psychiques. De plus, vous êtes résistant aux dégâts psychiques.
+
+__Céleste.__ Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez choisir une créature à 30 ft. afin qu'elle regagne un nombre de points de vie égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts radiants.
+
+__Construction.__ Les coups critiques réalisés contre vous par des attaques non magiques sont des coups normaux. De plus, vous avez un bonus de +1 à la CA.
+
+__Élémentaire.__ Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ces dégâts pour être acide, froid, feu, foudre ou tonnerre. De plus, vous pouvez parler, lire et écrire le Primordial. 
+
+__Fée.__ Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[apeuré]] ou [[charmé]] sur vous-même.
+
+__Fiélon.__ Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution arcanique, vous pouvez choisir une créature à 30 ft. pour lui infliger un nombre de dégâts de froid, feu ou nécrotique (votre choix) égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts de feu.
+
+__Mort-Vivant.__ Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ses dégâts pour des dégâts nécrotiques. De plus, vous êtes résistant aux dégâts nécrotiques.

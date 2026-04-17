@@ -1,3 +1,0 @@
----
-writing_status: empty
----
