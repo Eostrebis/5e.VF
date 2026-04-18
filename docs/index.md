@@ -24,7 +24,7 @@ search:
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
 > - **Ligateur.** ![](https://geps.dev/progress/98) 
 > - **Mage de Guerre.** ![](https://geps.dev/progress/2) 
-> - **Magicien.** ![](https://geps.dev/progress/23) 
+> - **Magicien.** ![](https://geps.dev/progress/28) 
 > - **Martyr.** ![](https://geps.dev/progress/100) 
 > - **Moine.** ![](https://geps.dev/progress/100) 
 > - **Nécromancien.** ![](https://geps.dev/progress/100) 
@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 378045 (soit ~ 1512 pages) (soit ~ 0.79 Seigneur des Anneaux)
+**Nombre Total de Mots.** 378565 (soit ~ 1514 pages) (soit ~ 0.79 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-17 20:46:37
+Mis à jour pour la dernière fois le 2026-04-18 22:46:25
