@@ -419,7 +419,7 @@ spells: "true"
 | Sickening Radiance                   | [[Rayonnement Écœurant]]                  |
 | Silence                              | [[Silence]]                               |
 | Silent Image                         | [[Image Silencieuse]]                     |
-| Silvery Barbs                        | [[Barbes Argentées]]                      |
+| Silvery Barbs                        | [[Railleries Argentées]]                      |
 | Simulacrum                           | [[Simulacre]]                             |
 | Skill Empowerment                    | [[Amélioration de Compétences]]           |
 | Skywrite                             | [[Libellé Aérien]]                        |
