@@ -3,15 +3,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ Hoom
+**Race :** Hoom
 
-__Classe :__ Ensorceleur
+**Classe :** Ensorceleur
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 8
+**Points de vie :** 8
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : | ◎ Investigation (_Int_) : ±0 |
-| ◎ Arcanes (_Int_) : ±0 | ◉ Médecine (_Sag_) : ±0 |
-| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : ±0<br> |
-| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : ±0 |
-| ◎ Dressage (_Sag_) : ±0 | ◎ Persuasion (_Cha_) : ±0 |
-| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : ±0 |
-| ◉ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : ±0<br> |
+| ◎ Acrobaties (*Dex*) : | ◎ Investigation (*Int*) : ±0 |
+| ◎ Arcanes (*Int*) : ±0 | ◉ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : ±0 | ◎ Nature (*Int*) : ±0<br> |
+| ◎ Discrétion (*Dex*) : ±0 | ◎ Perception (*Sag*) : ±0 |
+| ◎ Dressage (*Sag*) : ±0 | ◎ Persuasion (*Cha*) : ±0 |
+| ◎ Escamotage (*Dex*) : ±0 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : ±0 |
+| ◎ Intimidation (*Cha*) : ±0 | ◎ Survie (*Sag*) : ±0 |
+| ◉ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : ±0<br> |
 
 #### Maîtrises
 
@@ -38,15 +38,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** 
 
-__Langues__ : Commun, 
+**Langues** : Commun, 
 
 ### Description
 
-__Âge :__ 32 ans
+**Âge :** 32 ans
 
-__Taille :__ 1,80 m
+**Taille :** 1,80 m
 
-__Poids :__ 55 kg
+**Poids :** 55 kg
 
 Maître Alkahib est une figure de contradictions majestueuses. C'est un Hoom de grande taille, dont l'envergure, lorsqu'il déploie ses ailes, est véritablement impressionnante. Son plumage, doux et épais, rappelle celui d'un grand-duc, avec des teintes de gris ardoise et de blanc. Cependant, un détail étrange trahit sa nature profonde : les extrémités de ses plumes, particulièrement sur le bord de ses ailes et de sa queue, ont des reflets cuivrés et iridescents, comme si elles avaient été en permanence léchées par une flamme intérieure qui ne s'éteint jamais.
 
@@ -88,14 +88,14 @@ Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Q
 
 ### Traits de Personnalité
 
-__Traits :__ 
+**Traits :** 
 
-__Idéal :__ 
+**Idéal :** 
 
-__Lien :__ 
+**Lien :** 
 
-__Défaut :__ 
+**Défaut :** 
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseils de jeu

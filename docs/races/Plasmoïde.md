@@ -23,16 +23,16 @@ Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et s
 
 **Âge.** Les plasmoïdes n'ont pas de maturation à proprement parler. Ils deviennent adultes à partir de 2 ans et peuvent vivre jusqu'à 150 ans.
 
-**Taille.** Les plasmoïdes peuvent mesurer de 60 cm à 1,80 m. Ils sont plutôt légers pour leur taille. Vous êtes de taille _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les plasmoïdes peuvent mesurer de 60 cm à 1,80 m. Ils sont plutôt légers pour leur taille. Vous êtes de taille *Petite (P)* ou *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Amorphe.__ Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
+**Amorphe.** Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Apnée.__ Vous pouvez retenir votre respiration pendant 1 heure.
+**Apnée.** Vous pouvez retenir votre respiration pendant 1 heure.
 
-__Résilience Naturelle.__ Vous êtes résistant aux dégâts de poison et d'acide, et vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]].
+**Résilience Naturelle.** Vous êtes résistant aux dégâts de poison et d'acide, et vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]].
 
-__Réarrangement.__ Pour une action, vous pouvez changer la forme de votre corps pour vous conférer une tête, un ou deux bras, une ou deux jambes ainsi que des mains et pieds improvisés, ou pour revenir sous la forme d'un blob. Lorsque vous avez une forme humanoïde, vous pouvez porter vêtements et armures réalisés pour un Humanoïde de votre taille. Pour une action bonus, vous pouvez extruder un pseudopode qui fait moins de 20 cm de large et 3 m de long ou le réabsorber dans votre corps. Pendant cette même action bonus, vous pouvez utiliser ce pseudopode pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou lever ou poser un objet Très Petit. Le pseudopode ne possède pas d'organe sensoriel et ne peut attaquer, activer un objet magique ou porter plus de 5 kg.
+**Réarrangement.** Pour une action, vous pouvez changer la forme de votre corps pour vous conférer une tête, un ou deux bras, une ou deux jambes ainsi que des mains et pieds improvisés, ou pour revenir sous la forme d'un blob. Lorsque vous avez une forme humanoïde, vous pouvez porter vêtements et armures réalisés pour un Humanoïde de votre taille. Pour une action bonus, vous pouvez extruder un pseudopode qui fait moins de 20 cm de large et 3 m de long ou le réabsorber dans votre corps. Pendant cette même action bonus, vous pouvez utiliser ce pseudopode pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou lever ou poser un objet Très Petit. Le pseudopode ne possède pas d'organe sensoriel et ne peut attaquer, activer un objet magique ou porter plus de 5 kg.

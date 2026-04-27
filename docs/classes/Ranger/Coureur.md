@@ -11,11 +11,11 @@ Un coureur se sent chez lui dans une ville ou parmi les cimes d'une grande forê
 
 De plus, vous avez maîtrisé un certain nombre de techniques. Vous pouvez utiliser vos techniques de parkour un nombre de fois égal à votre modificateur de Dextérité, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos. Tant que vous vous trouvez dans votre terrain préférentiel, utiliser une technique ne consomme pas d'utilisation.
 
-__Glissade.__ Pour une action bonus, vous pouvez vous déplacer de 10 ft. sans dépenser de mouvement à travers l'espace d'une autre créature ou vous faufiler de 10 ft. dans un espace plus petit.
+**Glissade.** Pour une action bonus, vous pouvez vous déplacer de 10 ft. sans dépenser de mouvement à travers l'espace d'une autre créature ou vous faufiler de 10 ft. dans un espace plus petit.
 
-__Roulade.__ Pour une action bonus, vous pouvez habilement sauter, plonger ou rouler de jusqu'à 10 ft. sur une ligne droite sans dépenser de mouvement. Pendant ce mouvement, les attaques d'opportunité réalisée contre vous ont le désavantage.
+**Roulade.** Pour une action bonus, vous pouvez habilement sauter, plonger ou rouler de jusqu'à 10 ft. sur une ligne droite sans dépenser de mouvement. Pendant ce mouvement, les attaques d'opportunité réalisée contre vous ont le désavantage.
 
-__Passe-muraille.__ Pour une action bonus, vous pouvez choisir de courir le long d'une surface verticale comme partie de votre mouvement. Jusqu'à la fin de votre tour, vous gagnez une vitesse d'escalade égale à votre vitesse de marche. Si vous sautez tout en courant le long d'un mur, vous pouvez compléter la distance de votre saut, même si le faire reviendrait à excéder votre vitesse.
+**Passe-muraille.** Pour une action bonus, vous pouvez choisir de courir le long d'une surface verticale comme partie de votre mouvement. Jusqu'à la fin de votre tour, vous gagnez une vitesse d'escalade égale à votre vitesse de marche. Si vous sautez tout en courant le long d'un mur, vous pouvez compléter la distance de votre saut, même si le faire reviendrait à excéder votre vitesse.
 
 ## Inertie
 

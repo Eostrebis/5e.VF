@@ -5,7 +5,7 @@ Que ce soit par une morsure infectée ou par une malédiction vicieuse, votre sa
 
 ## Changeforme
 
-À partir du moment où vous choisissez cet archétype au niveau 3, votre corps est corrompu par une malédiction lycanthropique qui lutte pour s'échapper de vous en tout temps. Vous obtenez le sous-type _changeforme_ ; votre forme véritable est celle d'un hybride fantomatique entre bête et homme. De plus, vous obtenez les traits suivants : 
+À partir du moment où vous choisissez cet archétype au niveau 3, votre corps est corrompu par une malédiction lycanthropique qui lutte pour s'échapper de vous en tout temps. Vous obtenez le sous-type *changeforme* ; votre forme véritable est celle d'un hybride fantomatique entre bête et homme. De plus, vous obtenez les traits suivants : 
 
 **Vision dans le Noir.** Vous pouvez voir dans la lumière faible à 60 ft. comme si vous étiez en lumière vive, et dans l'obscurité comme si vous étiez en lumière faible. Vous ne pouvez discerner les couleurs dans l'obscurité, seulement les nuances de gris. Si vous possédez déjà une vision dans le noir de par votre race, celle-ci augmente de 30 ft.
 

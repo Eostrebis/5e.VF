@@ -3,15 +3,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Tortue
+**Race :** Tortue
 
-__Classe :__ Gardien
+**Classe :** Gardien
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 13
+**Points de vie :** 13
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +3 | ◎ Investigation (_Int_) : +1 |
-| ◎ Arcanes (_Int_) : +1 | ◉ Médecine (_Sag_) : +6 |
-| ◎ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : +1<br> |
-| ◎ Discrétion (_Dex_) : +3 | ◉ Perception (_Sag_) : +6 |
-| ◎ Dressage (_Sag_) : +4 | ◎ Persuasion (_Cha_) : +2 |
-| ◎ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : +1 |
-| ◎ Histoire (_Int_) : +1 | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +6 |
-| ◉ Intuition (_Sag_) : +6 | ◉ Tromperie (_Cha_) : +4<br> |
+| ◎ Acrobaties (*Dex*) : +3 | ◎ Investigation (*Int*) : +1 |
+| ◎ Arcanes (*Int*) : +1 | ◉ Médecine (*Sag*) : +6 |
+| ◎ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : +1<br> |
+| ◎ Discrétion (*Dex*) : +3 | ◉ Perception (*Sag*) : +6 |
+| ◎ Dressage (*Sag*) : +4 | ◎ Persuasion (*Cha*) : +2 |
+| ◎ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : +1 |
+| ◎ Histoire (*Int*) : +1 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◉ Survie (*Sag*) : +6 |
+| ◉ Intuition (*Sag*) : +6 | ◉ Tromperie (*Cha*) : +4<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Torté, une ancienne joueuse de cartes compulsive dont l'addiction a causé une tragédie, et qui dévoue désormais le reste de sa longue vie à être un rempart inébranlable pour les autres, chaque coup encaissé étant un acte de rédemption.
@@ -51,15 +51,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Un [[jeu de cartes]] (expert de Jeanoir)
 
-__Langues__ : Commun, Reptilien, Gnome
+**Langues** : Commun, Reptilien, Gnome
 
 ### Description
 
-__Âge :__ 65 ans
+**Âge :** 65 ans
 
-__Taille :__ 1,80 m
+**Taille :** 1,80 m
 
-__Poids :__ 230 kg 
+**Poids :** 230 kg 
 
 Torté est une montagne de patience et de regret qui a pris la forme d'une tortue. Sa stature est massive et sa présence, immuable. Elle se déplace avec une lenteur et une économie de mouvement qui ne sont pas de la paresse, mais le fruit d'une force délibérée, comme un glacier qui avance inexorablement. Quand elle prend position, elle semble aussi enracinée dans le sol que le plus vieux des chênes.
 
@@ -121,7 +121,7 @@ Ce jour-là, Torté "Double-Mise" est morte, et Torté la Gardienne est née. El
 Lorsque qu'un allié se trouvant à 5 pieds de vous est touché par une attaque, vous pouvez utiliser votre réaction pour subir les dégâts à sa place. Lorsque vous le faites, vous pouvez choisir de "doubler la mise" sur votre propre résilience. Lancez un d6 :
 
 - **Sur un 1 :** Vous subissez le double des dégâts. Le pari est totalement perdu.
-- __Sur un 2 :__ Vous subissez les dégâts normalement.
+- **Sur un 2 :** Vous subissez les dégâts normalement.
 - **Sur un 3-5 :** Vous avez la résistance à cette instance de dégâts.
 - **Sur un 6 :** Votre détermination vous a rendu le cuir plus dur que l'acier. Vous ne subissez aucun dégât.
 
@@ -129,15 +129,15 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de ma
 
 ### Traits de Personnalité
 
-__Traits :__ J'ai vaincu mon addiction, mais je ne suis qu'un à petit instant près de retomber dedans. Je planifie toutes les situations possibles. Il ne faut rien laisser à la chance
+**Traits :** J'ai vaincu mon addiction, mais je ne suis qu'un à petit instant près de retomber dedans. Je planifie toutes les situations possibles. Il ne faut rien laisser à la chance
 
-__Idéal :__ Quand j'étais dans le besoin, j'ai pu me reposer sur les autres. Maintenant, je veux être celle sur laquelle les autres se reposent.
+**Idéal :** Quand j'étais dans le besoin, j'ai pu me reposer sur les autres. Maintenant, je veux être celle sur laquelle les autres se reposent.
 
-__Lien :__ La personne qui m'a sauvé de mon addiction est la raison pour laquelle je suis toujours en vie.
+**Lien :** La personne qui m'a sauvé de mon addiction est la raison pour laquelle je suis toujours en vie.
 
-__Défaut :__ Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
+**Défaut :** Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
 
-__Alignement :__ Loyal Bon
+**Alignement :** Loyal Bon
 
 ## Conseils de Jeu
 

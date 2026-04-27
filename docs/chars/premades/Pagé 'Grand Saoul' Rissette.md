@@ -3,15 +3,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Homme-Souris]]
+**Race :** [[Homme-Souris]]
 
-__Classe :__ [[Roublard]]
+**Classe :** [[Roublard]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 7
+**Points de vie :** 7
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :----: | :-----: | :-----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +4 | ⬤ Investigation (_Int_) : +4 |
-| ◎ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : ±0 |
-| ◎ Athlétisme (_For_) : +1 | ◎ Nature (_Int_) : ±0<br> |
-| ◉ Discrétion (_Dex_) : +6 | ⬤ Perception (_Sag_) : +4 |
-| ◎ Dressage (_Sag_) : ±0 | ◎ Persuasion (_Cha_) : +2 |
-| ◉ Escamotage (_Dex_) : +6 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : +2 |
-| ◉ Intimidation (_Cha_) : +4 | ◉ Survie (_Sag_) : ±0 |
-| ◎ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : +2<br> |
+| ◉ Acrobaties (*Dex*) : +4 | ⬤ Investigation (*Int*) : +4 |
+| ◎ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : +1 | ◎ Nature (*Int*) : ±0<br> |
+| ◉ Discrétion (*Dex*) : +6 | ⬤ Perception (*Sag*) : +4 |
+| ◎ Dressage (*Sag*) : ±0 | ◎ Persuasion (*Cha*) : +2 |
+| ◉ Escamotage (*Dex*) : +6 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : +2 |
+| ◉ Intimidation (*Cha*) : +4 | ◉ Survie (*Sag*) : ±0 |
+| ◎ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : +2<br> |
 
 #### Maîtrises
 
@@ -38,15 +38,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Outils de Voleur]], [[Outils de Maçon]]
 
-__Langues__ : Commun, Rodentien, Géant, Parlé de Voleur
+**Langues** : Commun, Rodentien, Géant, Parlé de Voleur
 
 ### Description
 
-__Âge :__ 16 ans
+**Âge :** 16 ans
 
-__Taille :__ 0.62 m (P)
+**Taille :** 0.62 m (P)
 
-__Poids :__ 12 kg
+**Poids :** 12 kg
 
 Pagé est une créature d'une petitesse et d'une discrétion qui contrastent violemment avec la grandeur du monde dans lequel il a été élevé. C'est un homme-souris, mesurant à peine plus de deux pieds de haut, avec une fourrure douce et grise qui rappelle la poussière de granit de l'atelier de son père. Ses membres sont fins mais nerveux, et tout son corps est un faisceau de muscles agiles, taillé pour l'escalade, l'esquive et le mouvement silencieux.
 
@@ -65,7 +65,7 @@ Il se déplace avec une grâce furtive, longeant les murs et restant dans les om
 
 **Compression.** Vous ne souffrez d'aucune pénalité pour vous faufiler dans un espace qui n'est suffisamment grand que pour une créature d'une (1) taille inférieure à la vôtre.
 
-__Pas de Côté du Sourilin.__ Lorsqu'une créature que vous pouvez voir réalise une attaque d'opportunité contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage à son jet d'attaque. Vous ne pouvez pas utiliser ce trait si vous portez une armure moyenne ou lourde.
+**Pas de Côté du Sourilin.** Lorsqu'une créature que vous pouvez voir réalise une attaque d'opportunité contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage à son jet d'attaque. Vous ne pouvez pas utiliser ce trait si vous portez une armure moyenne ou lourde.
 
 **Précipitation.** Vous pouvez vous déplacer à travers un espace occupé par une créature hostile comme si c'était du terrain difficile.
 
@@ -129,15 +129,15 @@ Vous pouvez utiliser ce don un nombre de fois égal à votre bonus de maîtrise,
 
 ### Traits de Personnalité
 
-__Traits :__ Toutes les avalanches commencent par un simple gravier. Je profite de mon petit gabarit. Il m'aide à rester inaperçu, et sous-estimé.
+**Traits :** Toutes les avalanches commencent par un simple gravier. Je profite de mon petit gabarit. Il m'aide à rester inaperçu, et sous-estimé.
 
-__Idéal :__ Aucune structure n'est parfaite. La force brute est une illusion ; la véritable puissance réside dans la capacité à trouver la faiblesse et à l'exploiter avec une précision parfaite. C'est la seule vérité qui régit le monde.
+**Idéal :** Aucune structure n'est parfaite. La force brute est une illusion ; la véritable puissance réside dans la capacité à trouver la faiblesse et à l'exploiter avec une précision parfaite. C'est la seule vérité qui régit le monde.
 
-__Lien :__ Ma véritable famille est le clan de géants de pierre qui m'a recueilli. Mes actions visent à les protéger et à honorer les leçons de Borr, mon père. Leur montagne est le seul foyer que j'aie jamais connu, et je ne laisserai aucune menace l'atteindre.
+**Lien :** Ma véritable famille est le clan de géants de pierre qui m'a recueilli. Mes actions visent à les protéger et à honorer les leçons de Borr, mon père. Leur montagne est le seul foyer que j'aie jamais connu, et je ne laisserai aucune menace l'atteindre.
 
-__Défaut :__ Secrètement, je suis fier de mon surnom et j'essaie parfois de prouver que je le mérite, en oubliant que la moindre goutte d'alcool suffit à me transformer.
+**Défaut :** Secrètement, je suis fier de mon surnom et j'essaie parfois de prouver que je le mérite, en oubliant que la moindre goutte d'alcool suffit à me transformer.
 
-__Alignement :__ Loyal Neutre
+**Alignement :** Loyal Neutre
 
 ## Conseils de jeu
 

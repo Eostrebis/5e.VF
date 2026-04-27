@@ -121,9 +121,9 @@ Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'œuvre, seul
 
 En utilisant votre aptitude d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de :
 
-__Améliorer l'Équipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
+**Améliorer l'Équipement.** Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
 
-__Ajouter des Propriétés de Chef-d'Œuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
+**Ajouter des Propriétés de Chef-d'Œuvre.** Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
 
 | Propriété | Niveau d'Artisan | Coût |
 | ---------- | ---------------- | ---- |
@@ -136,7 +136,7 @@ Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'œuvre �
 
 Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
 
-__Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
+**Retirer des Propriétés.** Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
 
 ### Caractéristique d'Artisanat
 
@@ -193,4 +193,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 ## Magnum Opus
 
-Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un _Magnum Opus_.
+Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un *Magnum Opus*.

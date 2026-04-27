@@ -33,7 +33,7 @@ Aujourd'hui, les mandragores sont rares et fondent leur foyer dans les forêts a
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Primordial|Primordial]].
 
-**Âge.** Les mandragores grandissent pendant une décennie et vivent des siècles, devenant plus massif et plus _écorceux_ avec l'âge.
+**Âge.** Les mandragores grandissent pendant une décennie et vivent des siècles, devenant plus massif et plus *écorceux* avec l'âge.
 
 **Taille.** Les mandragores font entre 1,50 m et 2,00 m et pèsent entre 100 et 200 kg. Votre taille est Moyenne (M).
 

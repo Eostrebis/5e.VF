@@ -91,7 +91,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Gardien Alternatif (Opt.)
 
-Le rôle unique de _tank_ du gardien est basé principalement sur ses trois premières aptitudes : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois aptitudes définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
+Le rôle unique de *tank* du gardien est basé principalement sur ses trois premières aptitudes : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois aptitudes définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
 
 Au niveau 1, vous pouvez choisir l'une des [[#versions alternatives]] pour votre gardien. Si vous le faites, vous utilisez les trois aptitudes de la variantes à la place de la saisie, de la marque et de la résolution. Si d'autres aptitudes réfèrent directement celles-ci, vous utilisez les aptitudes remplaçantes à la place, de façon adéquate et en accord avec le MJ.
 
@@ -249,21 +249,21 @@ De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse.
 Les champions sont des guerriers toujours à la recherche d'un adversaire à leur hauteur. Pour ce faire, ils défient pratiquement tout le monde en duel, mettant de côté les affaires courantes pour montrer leur résilience et leurs compétences avec l'épée.
 
 ### Challenge du Champion
-_Remplace la Saisie du Gardien_
+*Remplace la Saisie du Gardien*
 
 Au niveau 1, pour une action bonus, vous pouvez émettre un challenge à chaque créature à 5 ft. de vous. Seules les créatures hostiles de taille G ou moins qui ont au minimum 5 d'Intelligence peuvent relever ce challenge. Pendant son prochain tour, une créature ayant relevé ce challenge doit réaliser une attaque contre vous si elle réalise une attaque pendant son tour et que vous êtes à portée.
 
 Au niveau 14, la portée de ce challenge s'étend à 10 ft.
 
 ### Marque du Champion
-_Remplace la Marque du Gardien_
+*Remplace la Marque du Gardien*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 15 ft. Vous avez un bonus de +2 à la CA contre les attaques de la créature marquée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Vigueur du Champion
-_Remplace la Résolution du Gardien_
+*Remplace la Résolution du Gardien*
 
 À partir du niveau 3, les dégâts contondants, perçants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
 
@@ -274,12 +274,12 @@ _Remplace la Résolution du Gardien_
 Les gardiens en chasse pratiquent une forme agressive de défense : les ennemis morts, après tout, ne peuvent pas blesser vos alliés. 
 
 ### Saisie du Chasseur
-_Remplace la Saisie du Gardien_
+*Remplace la Saisie du Gardien*
 
 Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'elles quittent votre portée, même si elles ont utilisé leur action pour se Désengager.
 
 ### Marque du Chasseur
-_Remplace la Marque du Gardien_
+*Remplace la Marque du Gardien*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
@@ -288,7 +288,7 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 Cette aptitude ne se cumule pas avec le sort [[marque du chasseur]].
 
 ### Résistance du Chasseur
-_Remplace la Résolution du Gardien_
+*Remplace la Résolution du Gardien*
 
 À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous prenez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
 
@@ -297,21 +297,21 @@ _Remplace la Résolution du Gardien_
 Rapides, sans pitié et parfois cannibale, les gardiens prétendument anthropophages préfèrent virevolter autour de leur proie, en arrachant des morceaux avec leurs frappes rapides.
 
 ### Hurlement du Mangeur d'Hommes
-_Remplace la [[#Saisie du Gardien]]_
+*Remplace la [[#Saisie du Gardien]]*
 
 Au niveau 1, pour une action bonus, vous pouvez lâcher un hurlement tonitruant à en glacer le sang. Chaque créature de taille G ou inférieure que vous choisissez à 5 ft. est repoussée de 5 ft. à l'opposé de vous.
 
 Au niveau 14, cette aptitude affecte les créatures à 10 ft. de vous et vous les repoussez de 10 ft.
 
 ### Marque du Mangeur d'Hommes
-_Remplace la [[#Marque du Gardien]]_
+*Remplace la [[#Marque du Gardien]]*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Soif de Sang du Mangeur d'Hommes
-_Remplace la [[#Résolution du Gardien]]_
+*Remplace la [[#Résolution du Gardien]]*
 
 Vous avez un réservoir de dégâts temporaires. Lorsque vous prenez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
 
@@ -324,21 +324,21 @@ Lorsque vous infligez des dégâts avec une attaque armée de mêlée à une cr�
 Les templiers et les paladins exilés sont les plus enclins à saisir le manteau de parangon, canalisant le pouvoir divin et endurant la dureté des coups des ennemis pour épargner les autres.
 
 ### Sauvetage du Parangon
-_Remplace la [[#Saisie du Gardien]]_
+*Remplace la [[#Saisie du Gardien]]*
 
 Au niveau 1, pour une action bonus, vous donnez à vos alliés un répit au milieu du combat. Chaque créature amicale que vous choisissez à 5 ft. de vous peut immédiatement se déplacer de 10 ft. sans déclencher d'attaque d'opportunité.
 
 Au niveau 14, cette aptitude affecte les créatures amicales à 10 ft. de vous et leur permet de se déplacer de 15 ft. sans déclencher d'attaque d'opportunité.
 
 ### Marques Jumelles du Parangon
-_Remplace la [[#Marque du Gardien]]_
+*Remplace la [[#Marque du Gardien]]*
 
 Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection prend des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
 
 ### Font du Parangon
-_Remplace la [[#Résolution du Gardien]]_
+*Remplace la [[#Résolution du Gardien]]*
 
 À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez consommer un nombre de points de vie de votre réservoir pour en regagner le même nombre, jusqu'au maximum restant dans votre réservoir.
 
@@ -349,21 +349,21 @@ _Remplace la [[#Résolution du Gardien]]_
 Les gardiens crépusculaires sont touchés par des ténèbres primordiales qui se terrent dans les coins de ce monde sans jamais être touchées par le soleil. De tels gardiens canalisent cette obscurité plutôt que le pouvoir né du monde naturel pour se protéger eux-mêmes et envelopper leurs ennemis.
 
 ### Ombres Saisissantes
-_Remplace la [[#Saisie du Gardien]]_
+*Remplace la [[#Saisie du Gardien]]*
 
 Au niveau 1, pour une action bonus, vous pouvez invoquer l'ombre des damnés, créant un nuage de 10 ft. de rayon centré sur vous. La sphère est fortement obscurée depuis l'extérieur. De l'intérieur, cependant, la sphère est de luminosité normale et l'extérieur semble être fortement obscuré. Des mains ombreuses s'étendent des frontières de la sphère et s'accrochent à tous ceux à l'intérieur. Vous et toutes les créatures que vous choisissez de taille G ou moins ne pouvez quitter la sphère sans d'abord utiliser une action pour se Désengager. Les ombres se dispersent au début de votre prochain tour.
 
 Au niveau 14, lorsque vous créez la sphère, vous pouvez choisir d'étendre son rayon à 15 ft.
 
 ### Marque des Ombres
-_Remplace la [[#Marque du Gardien]]_
+*Remplace la [[#Marque du Gardien]]*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Si la créature est de taille G ou inférieure, vous pouvez l'attirer de 5 ft. vers vous en utilisant de sombres tentacules d'ombre. À chaque fois que la créature marquée s'éloigne volontairement de vous, elle traite la zone dans laquelle elle se déplace comme du terrain difficile. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Forme d'Ombre
-_Remplace la [[#Résolution du Gardien]]_
+*Remplace la [[#Résolution du Gardien]]*
 
 À partir du niveau 3, lorsqu'il vous reste moins de la moitié de vos points de vie, vous disparaissez en un flou de ténèbres fluctuantes, imposant un désavantage à tout jet d'attaque de mêlée contre vous. Un attaquant ne subit pas ce désavantage s'il ne se base pas sur la vue, par exemple avec la vision aveugle ou s'il peut voir à travers les illusions, par exemple avec la vision véritable.
 

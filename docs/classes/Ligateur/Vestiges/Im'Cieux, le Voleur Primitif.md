@@ -10,7 +10,7 @@ Un voleur mythique qui a dérobé le pouvoir des puissants dragons, Im'Cieux off
 Tant que vous êtes lié à Im'Cieux, vous maîtrisez les [[cimeterre|cimeterres]], les [[épée courte|épées courtes]] et les [[outils de voleur]].
 
 ## Attaque Sournoise
-Tant que vous êtes lié à Im'Cieux, une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous touchez avec une attaque si vous avez l'avantage au jet d'attaque. L'attaque doit utiliser une arme avec la propriété _finesse_ ou à distance. Vous n'avez pas besoin de l'avantage au jet d'attaque si un autre ennemi de la cible se trouve à 5 ft. d'elle, que cet ennemi n'est pas [[incapacité]] et que vous n'avez pas le désavantage à votre jet.
+Tant que vous êtes lié à Im'Cieux, une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous touchez avec une attaque si vous avez l'avantage au jet d'attaque. L'attaque doit utiliser une arme avec la propriété *finesse* ou à distance. Vous n'avez pas besoin de l'avantage au jet d'attaque si un autre ennemi de la cible se trouve à 5 ft. d'elle, que cet ennemi n'est pas [[incapacité]] et que vous n'avez pas le désavantage à votre jet.
 
 Le montant des dégâts supplémentaires que vous infligez augmente de 1d6 par vestige autre que Im'Cieux auquel vous êtes lié. Si vous possédez déjà l'aptitude de classe Attaque Sournoise, vous ajoutez ces dégâts à vos dégâts d'Attaque Sournoise.
 

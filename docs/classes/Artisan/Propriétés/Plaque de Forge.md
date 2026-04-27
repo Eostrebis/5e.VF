@@ -1,8 +1,8 @@
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure lourde chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure lourde chef-d'œuvre
 
 Vous construisez un four miniature dans cette armure, ainsi que plusieurs couches de dissipation thermique. Tant que vous portez cette armure, vous avez l'immunité aux dégâts de feu.
 

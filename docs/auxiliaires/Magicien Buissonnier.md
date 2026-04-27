@@ -1,12 +1,12 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Incantation ou Magie de Pacte_
+*Prérequis : Incantation ou Magie de Pacte*
 
 À la différence des magiciens ordinaires qui apprennent leur discipline par le biais d'études longues et fastidieuses et par une formation formelle, vous avez découvert les sciences arcaniques de vous-même, lisant ce que vous pouviez trouver et découvrant des magies toujours plus puissantes par expérimentation. L'auto-formation n'est pas sans bénéfice, cependant, puisque vous êtes devenu particulièrement adepte de la plus simple forme de magie : les cantrips.
 
-__Dés de Vie :__ 1d6
-__Points de Vie :__ 1d6 (4) + votre modificateur de Constitution
+**Dés de Vie :** 1d6
+**Points de Vie :** 1d6 (4) + votre modificateur de Constitution
 
 ## Incantation
 

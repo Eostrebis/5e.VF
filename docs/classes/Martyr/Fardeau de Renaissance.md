@@ -39,4 +39,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 À compter du niveau 18, vous pouvez lancer le sort [[réincarnation]] sans avoir à dépenser de composantes matérielles ou perdre des points de vie. Lorsque que vous le faites, vous pouvez choisir la race dans laquelle la cible se réincarnera plutôt que de laisser le MJ la déterminer.
 
-Si vous mourez sans utiliser votre _Véritable Martyr_, vous revenez à la vie 24 heures après votre mort comme si vous étiez la cible du sort [[réincarnation]]. Vous pouvez choisir la race dans laquelle vous vous réincarnez plutôt que de laisser le MJ la déterminer. Une fois que vous êtes revenu à la vie de cette manière, vous ne pouvez pas le refaire pendant 10 jours.
+Si vous mourez sans utiliser votre *Véritable Martyr*, vous revenez à la vie 24 heures après votre mort comme si vous étiez la cible du sort [[réincarnation]]. Vous pouvez choisir la race dans laquelle vous vous réincarnez plutôt que de laisser le MJ la déterminer. Une fois que vous êtes revenu à la vie de cette manière, vous ne pouvez pas le refaire pendant 10 jours.

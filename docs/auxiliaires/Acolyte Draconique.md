@@ -1,12 +1,12 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Allié avec un dragon ou un aspect d'un dieu dragon_
+*Prérequis : Allié avec un dragon ou un aspect d'un dieu dragon*
 
 Les dragons inspirent l'admiration et la peur chez les mortels qui les aperçoivent. Beaucoup s'enfuient de terreur, mais quelques-uns s'effondrent sur leurs genoux et mains afin de se dévouer à leurs nouveaux maîtres draconiques. De tels acolytes draconiques cherchent à émuler ces immenses êtres et à éventuellement capturer une semblance de cette grandeur draconique.
 
-__Dés de Vie :__ 1d10
-__Points de Vie :__ 1d10 (6) + votre modificateur de Constitution.
+**Dés de Vie :** 1d10
+**Points de Vie :** 1d10 (6) + votre modificateur de Constitution.
 
 ## Alliance Draconique
 

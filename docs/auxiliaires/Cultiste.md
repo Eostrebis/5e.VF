@@ -1,15 +1,15 @@
 ---
 writing_status: finished
 ---
-_Prérequis : A rejoint un culte ou possède au moins un trait de Folie_
+*Prérequis : A rejoint un culte ou possède au moins un trait de Folie*
 
 Un pacte sombre, un grimoire noir relié de cuir, et vos camarades acolytes encapuchonnés : voilà vos souvenirs les plus nets de votre endoctrinement dans le culte, afin que votre esprit ne commence à s'éroder. Peu importe l'être terrible auquel votre société secrète est dévouée, ses enseignements vous ont révélé les énigmes de l'univers et ont contaminé chaque parcelle de votre esprit et chacune de vos pensées de paranoïa.
 
-__Dés de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dés de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Langues :__ Une choisie par le MJ
-__Compétences :__ Arcanes
+**Langues :** Une choisie par le MJ
+**Compétences :** Arcanes
 
 ## Incantation
 
@@ -25,4 +25,4 @@ Vous avez l'avantage aux jets de sauvegarde que vous réalisez afin d'éviter ou
 
 ## Intuition du Lunatique
 
-Lorsque vous réalisez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre intuition _unique_ vous permet de faire des liens, qui existent ou non, entre certains faits ou observations. Si le résultat du d20 pour le jet est pair, vous pouvez ajouter votre bonus de maîtrise au jet.
+Lorsque vous réalisez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre intuition *unique* vous permet de faire des liens, qui existent ou non, entre certains faits ou observations. Si le résultat du d20 pour le jet est pair, vous pouvez ajouter votre bonus de maîtrise au jet.

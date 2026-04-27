@@ -33,7 +33,7 @@ Une envie perpétuelle d'amélioration reflète l'auto-suffisance de cette race.
 Même si tous les drakéïdes visent à être auto-suffisant, ils reconnaissent que de l'aide est parfois nécessaire. Néanmoins, le meilleur endroit pour se faire aider n'est autre que le clan. Si le clan lui-même a besoin d'aide, il se tourne vers d'autres clans avant d'aller quérir d'autres races ou les dieux.
 ### Langue
 
-Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils placent leur nom de clan d'abord comme marque d'honneur. Un surnom, ou _nom d'enfance_, est souvent utilisé par les membres d'une même famille. Ce nom peut rappeler un évènement ou être basé sur une habitude.
+Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils placent leur nom de clan d'abord comme marque d'honneur. Un surnom, ou *nom d'enfance*, est souvent utilisé par les membres d'une même famille. Ce nom peut rappeler un évènement ou être basé sur une habitude.
 
 **Noms masculins :** Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
 

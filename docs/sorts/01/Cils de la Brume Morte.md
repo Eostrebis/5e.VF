@@ -19,4 +19,4 @@ Vous conjurez un tentacule blanc et luisant formé de la sinistre Brume Morte qu
 
 Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la créature prend 3d8 dégâts nécrotiques.
 
-__Aux Niveaux Supérieurs.__ Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.

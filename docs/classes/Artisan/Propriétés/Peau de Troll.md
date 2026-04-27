@@ -1,8 +1,8 @@
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure moyenne exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure moyenne exotique chef-d'œuvre
 
 Cette armure est recouverte de peau de troll. Tant que vous portez cette armure, vous pouvez utiliser une action bonus pour récupérer un nombre de points de vie égal à 1d10 + votre niveau d'artisan.
 

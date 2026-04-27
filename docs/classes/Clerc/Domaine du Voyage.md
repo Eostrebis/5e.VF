@@ -15,7 +15,7 @@ Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du
 
 ## Grand Voyageur
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quatre armes à distance ou avec la propriété _finesse_. De plus, vous apprenez deux langues de votre choix.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quatre armes à distance ou avec la propriété *finesse*. De plus, vous apprenez deux langues de votre choix.
 
 ## Balade
 

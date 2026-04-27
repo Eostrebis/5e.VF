@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme inflige des coups critiques sur un jet de 18-20.

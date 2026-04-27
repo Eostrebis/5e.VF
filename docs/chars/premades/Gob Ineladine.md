@@ -3,15 +3,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Gobelin]]
+**Race :** [[Gobelin]]
 
-__Classe :__ [[Alchimiste]]
+**Classe :** [[Alchimiste]]
 
-__Niveau :__ 3 (BM +2)
+**Niveau :** 3 (BM +2)
 
-__Points de vie :__ 
+**Points de vie :** 
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :----: | :-----: | :-----: | :----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : -3 | ◎ Investigation (_Int_) : +4 |
-| ◉ Arcanes (_Int_) : +6 | ◎ Médecine (_Sag_) : -1 |
-| ◉ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : +4<br> |
-| ◎ Discrétion (_Dex_) : -3 | ◉ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : +2 |
-| ◉ Escamotage (_Dex_) : -1 | ◎ Religion (_Int_) : +4 |
-| ◎ Histoire (_Int_) : +4 | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◎ Survie (_Sag_) : -1 |
-| ◎ Intuition (_Sag_) : -1 | ◎ Tromperie (_Cha_) : +2<br> |
+| ◎ Acrobaties (*Dex*) : -3 | ◎ Investigation (*Int*) : +4 |
+| ◉ Arcanes (*Int*) : +6 | ◎ Médecine (*Sag*) : -1 |
+| ◉ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : +4<br> |
+| ◎ Discrétion (*Dex*) : -3 | ◉ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : -1 | ◎ Persuasion (*Cha*) : +2 |
+| ◉ Escamotage (*Dex*) : -1 | ◎ Religion (*Int*) : +4 |
+| ◎ Histoire (*Int*) : +4 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◎ Survie (*Sag*) : -1 |
+| ◎ Intuition (*Sag*) : -1 | ◎ Tromperie (*Cha*) : +2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Gob, un gobelin pirate, alchimiste de génie et expert en explosifs, dont la maladresse chronique et l'amour du "BOUM !" sont si légendaires que votre équipage vous utilise désormais comme un boulet de canon vivant.
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Matériel d'Alchimiste]], [[Kit d'Herboriste]], [[Outils de Navigateur]], Véhicules aquatiques
 
-__Langues__ : Commun, Gobelin
+**Langues** : Commun, Gobelin
 
 ### Description
 
-__Âge :__ 15 ans
+**Âge :** 15 ans
 
-__Taille :__ 1,15 m
+**Taille :** 1,15 m
 
-__Poids :__ 31 kg
+**Poids :** 31 kg
 
 Gob est une aberration, même pour un gobelin. Avec son mètre quinze, il est étonnamment grand et dégingandé pour sa race, tout en membres longs et fins qui semblent toujours sur le point de s'emmêler les uns dans les autres. Sa peau n'est pas du vert ou du brun terreux habituel de son peuple, mais d'un bleu cobalt vibrant et totalement artificiel, résultat permanent d'une expérience alchimique qui a "parfaitement réussi", selon lui. Cette peau bleue est invariablement maculée de taches de suie, de brûlures mineures et de résidus de potions de couleurs variées.
 
@@ -106,25 +106,25 @@ Gob a développé une tolérance remarquable aux impacts violents et aux explosi
 
 ### Traits de Personnalité
 
-__Traits :__ Je ne refuse jamais un pari amical ! Mon parlé est aussi crade qu'un nid d'autruche.
+**Traits :** Je ne refuse jamais un pari amical ! Mon parlé est aussi crade qu'un nid d'autruche.
 
-__Idéal :__ La mer est liberté -- liberté d'aller où bon me semble et de faire ce que je veux.
+**Idéal :** La mer est liberté -- liberté d'aller où bon me semble et de faire ce que je veux.
 
-__Lien :__ Je me rappellerai toujours mon premier bateau.
+**Lien :** Je me rappellerai toujours mon premier bateau.
 
-__Défaut :__ Une fois que quelqu'un a douté de mon courage, je ne recule devant rien, peu importe le danger.
+**Défaut :** Une fois que quelqu'un a douté de mon courage, je ne recule devant rien, peu importe le danger.
 
-__Alignement :__ Chaotique Neutre
+**Alignement :** Chaotique Neutre
 
 ## Conseils de jeu
 
 Il mélange son argot de pirate avec un vocabulaire d'alchimiste très technique et précis, ce qui crée un décalage comique.
 
-> _"Mille sabords ! Si on augmente la concentration molaire de ce solvant nitrique, on devrait obtenir une détonation bien plus... juteuse ! Hé ho, et une bouteille de rhum !"_
+> *"Mille sabords ! Si on augmente la concentration molaire de ce solvant nitrique, on devrait obtenir une détonation bien plus... juteuse ! Hé ho, et une bouteille de rhum !"*
 
 Quand il a une idée pour une nouvelle mixture ou une nouvelle explosion, il se met à parler très, très vite. Son débit s'accélère, sa voix monte dans les aigus, et il est presque impossible de l'interrompre avant qu'il n'ait fini d'exposer son plan (souvent dangereux).
 
-C'est le cœur de son roleplay physique. Il fait constamment tomber des choses. Ses fioles lui glissent des mains, il trébuche sur ses propres pieds, il se cogne aux meubles. Ne décrivez jamais une action délicate comme étant réussie simplement. Même une réussite est une quasi catastrophe : _"Gob réussit à attraper la fiole juste avant qu'elle ne touche le sol, mais dans le processus, il renverse une pile de livres et donne un coup de tête dans la table."_
+C'est le cœur de son roleplay physique. Il fait constamment tomber des choses. Ses fioles lui glissent des mains, il trébuche sur ses propres pieds, il se cogne aux meubles. Ne décrivez jamais une action délicate comme étant réussie simplement. Même une réussite est une quasi catastrophe : *"Gob réussit à attraper la fiole juste avant qu'elle ne touche le sol, mais dans le processus, il renverse une pile de livres et donne un coup de tête dans la table."*
 
 Il a un besoin compulsif de toucher et de goûter. Il voit un champignon bizarre ? Il le lèche. Un liquide étrange dans une flasque ? Il en met une goutte sur sa langue. "Faut bien savoir quel goût ça a pour la science, hein ?".
 

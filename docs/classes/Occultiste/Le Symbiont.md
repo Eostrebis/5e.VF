@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Même si la plupart des occultistes forment des pactes avec des entités distantes et intangibles, votre patron à vous est un être bien physique au pouvoir incommensurable ; un être qui vit au sein même de votre corps. Cet _arrangement_ s'est fait dans l'esprit de la symbiose : votre patron, qui ressemble à un ichor musculaire, nécessite un hôte mortel et vous profitez en retour de sa magie. Vous pouvez même extirper votre patron de sa résidence dans votre sang pour qu'il revête votre peau, vous transformant en un monstre hybride aux griffes et dents acérées. 
+Même si la plupart des occultistes forment des pactes avec des entités distantes et intangibles, votre patron à vous est un être bien physique au pouvoir incommensurable ; un être qui vit au sein même de votre corps. Cet *arrangement* s'est fait dans l'esprit de la symbiose : votre patron, qui ressemble à un ichor musculaire, nécessite un hôte mortel et vous profitez en retour de sa magie. Vous pouvez même extirper votre patron de sa résidence dans votre sang pour qu'il revête votre peau, vous transformant en un monstre hybride aux griffes et dents acérées. 
 
 ## Liste de Sorts Étendue 
 
@@ -19,9 +19,9 @@ Le Symbiont vous laisse choisir parmi une liste de sorts étendue lorsque vous a
 
 À partir du moment où vous choisissez ce patron au niveau 1, vous pouvez extirper votre Symbiont afin qu'il recouvre votre corps d'un exosquelette vivant et visqueux. Vous pouvez subir cette transformation ou l'inverser en une action bonus pendant votre tour. Tant que vous êtes transformé, vous ne pouvez pas lancer de sorts, mais se transformer ne rompt pas la concentration et ne vous empêche pas de prendre des actions qui vous sont conférées par un sort que vous avez déjà lancé. Tant que vous êtes transformé, vous bénéficiez des effets suivants :
 
- - __La Chair.__ Tant que vous ne portez pas d'armure, votre CA de base est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme. Vous pouvez utiliser La Chair pour déterminer votre CA si la CA de votre armure est inférieure. L'effet d'un bouclier s'applique normalement lorsque vous utilisez La Chair.
- - __Les Griffes.__ Vous vous voyez pousser une paire d'immondes griffes, que vous pouvez utiliser comme armes naturelles de mêlée. Vous maîtrisez vos attaques de griffes et pouvez utiliser votre modificateur de Charisme plutôt que de Force pour vos jets d'attaque et de dégâts. Si vous touchez, vos griffes infligent 1d8 dégâts tranchants, qui sont considérées comme magiques vis-à-vis de la résistance et de l'immunité aux attaques et dégâts non magiques. Si vous obtenez plutôt l'aptitude du Pacte de la Lame, vos griffes sont considérées comme des armes de pactes.
- - __Attaque Supplémentaire.__ Au niveau 5, vous pouvez attaquer deux fois plutôt qu'une avec vos griffes lorsque vous utiliser votre action pour Attaquer pendant votre tour.
+ - **La Chair.** Tant que vous ne portez pas d'armure, votre CA de base est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme. Vous pouvez utiliser La Chair pour déterminer votre CA si la CA de votre armure est inférieure. L'effet d'un bouclier s'applique normalement lorsque vous utilisez La Chair.
+ - **Les Griffes.** Vous vous voyez pousser une paire d'immondes griffes, que vous pouvez utiliser comme armes naturelles de mêlée. Vous maîtrisez vos attaques de griffes et pouvez utiliser votre modificateur de Charisme plutôt que de Force pour vos jets d'attaque et de dégâts. Si vous touchez, vos griffes infligent 1d8 dégâts tranchants, qui sont considérées comme magiques vis-à-vis de la résistance et de l'immunité aux attaques et dégâts non magiques. Si vous obtenez plutôt l'aptitude du Pacte de la Lame, vos griffes sont considérées comme des armes de pactes.
+ - **Attaque Supplémentaire.** Au niveau 5, vous pouvez attaquer deux fois plutôt qu'une avec vos griffes lorsque vous utiliser votre action pour Attaquer pendant votre tour.
 
 ## Déchirure Traumatique
 

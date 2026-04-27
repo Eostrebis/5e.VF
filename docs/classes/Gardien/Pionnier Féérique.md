@@ -9,7 +9,7 @@ Traverser un pont féerique pour rejoindre la Féerie enchantée peut s'avérer 
 
 ## Balade Brumeuse
 
-Au niveau 6, votre connexion avec la Féerie vous permet de _clignoter_ de lieu en lieu. Vous pouvez dépenser la totalité de votre mouvement pour vous téléporter de la moitié de celui-ci.
+Au niveau 6, votre connexion avec la Féerie vous permet de *clignoter* de lieu en lieu. Vous pouvez dépenser la totalité de votre mouvement pour vous téléporter de la moitié de celui-ci.
 
 ## Résistance aux Sorts
 

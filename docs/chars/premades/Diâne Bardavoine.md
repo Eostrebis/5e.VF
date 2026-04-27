@@ -3,15 +3,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Centaure
+**Race :** Centaure
 
-__Classe :__ Barde
+**Classe :** Barde
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 10
+**Points de vie :** 10
 
-__Vitesse :__ 40 ft.
+**Vitesse :** 40 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :----: | :-----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 40 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : -2 | ◉ Nature (_Int_) : ±0<br> |
-| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : +1 |
-| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : -2 |
-| ◎ Histoire (_Int_) : -2 | ◉ Représentation (_Cha_) : +5 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +1 |
-| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3<br> |
+| ◉ Acrobaties (*Dex*) : +2 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : -2 | ◉ Nature (*Int*) : ±0<br> |
+| ◎ Discrétion (*Dex*) : ±0 | ◎ Perception (*Sag*) : +1 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : ±0 | ◎ Religion (*Int*) : -2 |
+| ◎ Histoire (*Int*) : -2 | ◉ Représentation (*Cha*) : +5 |
+| ◎ Intimidation (*Cha*) : +3 | ◉ Survie (*Sag*) : +1 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Diâne, une centaure cantatrice à la voix divine et à l'esprit simple, qui a quitté sa vallée isolée pour un voyage optimiste (et très naïf) vers la grande ville afin de devenir une star de l'opéra.
@@ -49,15 +49,15 @@ __Vitesse :__ 40 ft.
 
 **Outils :** [[Luth]], [[Viol]], [[Flûte]], [[Clarinette]], [[Kit de Déguisement]]
 
-__Langues__ : Commun, Sylvain
+**Langues** : Commun, Sylvain
 
 ### Description
 
-__Âge :__ 2O ans
+**Âge :** 2O ans
 
-__Taille :__ 2,20 m
+**Taille :** 2,20 m
 
-__Poids :__ 420 kg
+**Poids :** 420 kg
 
 Voir Diâne pour la première fois, c'est assister à la rencontre entre la puissance de la terre et la grâce d'une chanson d'été. C'est une centaure majestueuse, dont la présence impose le respect non par l'intimidation, mais par une force tranquille et une beauté naturelle.
 
@@ -146,15 +146,15 @@ Chanteuse née, adorée de la nature et des vivants, Diâne peut apaiser par le 
 
 ### Traits de Personnalité
 
-__Traits :__ Je suis une romantique absolue, toujours à la recherche **du bon**. Je change d'humeur ou d'idée aussi vite que je change de note en chantant.
+**Traits :** Je suis une romantique absolue, toujours à la recherche **du bon**. Je change d'humeur ou d'idée aussi vite que je change de note en chantant.
 
-__Idéal :__ Le monde a besoin de nouvelles idées et d'actions chocs.
+**Idéal :** Le monde a besoin de nouvelles idées et d'actions chocs.
 
-__Lien :__ J'idolâtre un héros de vieilles légendes et je veux me comparer à lui.
+**Lien :** J'idolâtre un héros de vieilles légendes et je veux me comparer à lui.
 
-__Défaut :__ J'ai du mal à garder mes sentiments cachés, ma langue me trahit.
+**Défaut :** J'ai du mal à garder mes sentiments cachés, ma langue me trahit.
 
-__Alignement :__ Chaotique Bon
+**Alignement :** Chaotique Bon
 
 ## Conseil de Jeu
 

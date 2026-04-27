@@ -142,7 +142,7 @@ Vous préparez une liste de sorts que vous pourrez lancer, en choisissant parmi 
 
 ### Sorts de soin
 
-Puisque votre pouvoir est directement lié à votre souffrance en tant que mortel, vous ne regagnez pas de points de vie des sorts que __vous__ lancez.
+Puisque votre pouvoir est directement lié à votre souffrance en tant que mortel, vous ne regagnez pas de points de vie des sorts que **vous** lancez.
 
 ### Caractéristique d'Incantation
 

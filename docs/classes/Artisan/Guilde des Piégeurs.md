@@ -21,7 +21,7 @@ Lorsque vous utilisez votre action pour attaquer, vous pouvez abandonner une ou 
 
 À partir du niveau 10, vous pouvez passer 10 minutes à modifier une arme à distance, ou passer un repos à en modifier jusqu'à 6. Chaque arme modifiée gagne la propriété suivante : 
 
-__État d'Alerte.__ Cette arme a l'avantage à la première attaque qu'elle réalise en utilisant une action préparée.
+**État d'Alerte.** Cette arme a l'avantage à la première attaque qu'elle réalise en utilisant une action préparée.
 
 ## Mise en Place Rapide
 

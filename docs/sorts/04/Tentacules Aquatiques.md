@@ -23,4 +23,4 @@ Vous pouvez saisir autant de créatures que vous avez de tentacules. Vous pouvez
 
 Vous pouvez également utiliser les tentacules pour manipuler les objets comme action ou action bonus. Chaque tentacule peut soulever jusqu'à 50 kg et vous pouvez ordonner à plusieurs tentacules de travailler ensemble pour soulever un même objet. Les tentacules ne sont pas capables de contrôles précis -- par exemple, ils ne peuvent pas ouvrir un coffre. Les objets en train de brûler sont éteints lorsqu'un tentacule les saisit.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous gagnez un tentacule supplémentaire par niveau d'emplacement au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous gagnez un tentacule supplémentaire par niveau d'emplacement au-delà du niveau 4.

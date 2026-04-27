@@ -19,4 +19,4 @@ Vous invoquez une faux phantasmagorique de mort dans une main libre et la faite 
 
 Si vous êtes à 120 ft. de la faux au début de votre prochain tour, elle vous revient en suivant une ligne large de 10 ft., forçant les créatures sur la trajectoire à réaliser un jet de sauvegarde contre les dégâts.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 6.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 6.

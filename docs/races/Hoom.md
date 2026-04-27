@@ -9,7 +9,7 @@ Cousins éloignés des chouettes géantes de la Féerie, les hooms existent de d
 
 Comme les chouettes, les hooms possèdent des plumes qui ne font aucun bruit lorsqu'ils volent ou se déplacent, leur facilitant la tâche pour se faufiler la nuit (dans les librairies par exemple).
 
-Votre personnage hoom peut être nocturne. Ou peut-être est-il simplement enclin à se lever plus tard, incarnant le surnom d'_oiseau de nuit_.
+Votre personnage hoom peut être nocturne. Ou peut-être est-il simplement enclin à se lever plus tard, incarnant le surnom d'*oiseau de nuit*.
 ![[Hoom.png]]
 ### Culture
 

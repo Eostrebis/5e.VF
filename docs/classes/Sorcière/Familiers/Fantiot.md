@@ -4,20 +4,20 @@ writing_status: finished
 Les hantises peuvent souvent être attribuées aux suspects spectraux habituels : les fantômes, spectres, ombres et autres poltergeists. Mais les hantises inoffensives, où un esprit agité ne fait que jouer des tours aux vivants, sont généralement causées par un fantiot. Ces esprits tendent à être des reliquats d'enfants ou de comédien, s'accrochant à la vie pour avoir de la compagnie et de l'attention, et cherchent avant tout à s'amuser. Ils ne blessent jamais volontairement les autres lorsqu'ils hantent une maison, et servent tout maître qui les invoquerait, ne serait-ce que pour être inclus.
 
 
-___
+*_*
 >## Fantiot
 >Petit Mort-Vivant, typiquement chaotique neutre*
 >![[Fantiot-20240519095901316.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 12
 >- **Points de Vie** 21 (6d6)
 >- **Vitesse** 0 ft., vol 40 ft. (plane)
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|10 (+0)|10 (+0)|9 (-1)|14 (+2)|
 >
->___
+>*_*
 >- **Résistances aux Dégâts** acide, froid, feu, foudre, nécrotique, tonnerre ; contondants, perçants et tranchants d'armes non magiques
 >- **Immunités aux Dégâts** poison
 >- **Immunités aux Conditions** charmé, épuisement, saisi, paralysé, pétrifié, empoisonné, au sol, retenu, inconscient
@@ -25,7 +25,7 @@ ___
 >- **Langues** comprend toutes les langues que la créature parlait de son vivant ; ne peut pas parler
 >- **Difficulté** 1 (200 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > **Mouvement Incorporel.** Le fantiot peut se déplacer à travers d'autres créatures ou objets comme s'ils étaient du terrain difficile. Il prend 5 (1d10) dégâts de force s'il termine son tour dans un objet.
 >
 >### Actions

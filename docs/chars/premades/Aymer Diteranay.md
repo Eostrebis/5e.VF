@@ -3,15 +3,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Elfe#Elfe des mers|Elfe des mers]]
+**Race :** [[Elfe#Elfe des mers|Elfe des mers]]
 
-__Classe :__ [[Ranger]]
+**Classe :** [[Ranger]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 12
+**Points de vie :** 12
 
-__Vitesse :__ 30 ft., Nage 30 ft.
+**Vitesse :** 30 ft., Nage 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +5 | ◎ Investigation (_Int_) : +1 |
-| ◎ Arcanes (_Int_) : +1 | ◎ Médecine (_Sag_) : +1 |
-| ◎ Athlétisme (_For_) : -1 | ⬤ Nature (_Int_) : +5<br> |
-| ◉ Discrétion (_Dex_) : +7 | ◉ Perception (_Sag_) : +3 |
-| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : +5 | ◎ Religion (_Int_) : +1 |
-| ◉ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +3 |
-| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3<br> |
+| ◎ Acrobaties (*Dex*) : +5 | ◎ Investigation (*Int*) : +1 |
+| ◎ Arcanes (*Int*) : +1 | ◎ Médecine (*Sag*) : +1 |
+| ◎ Athlétisme (*For*) : -1 | ⬤ Nature (*Int*) : +5<br> |
+| ◉ Discrétion (*Dex*) : +7 | ◉ Perception (*Sag*) : +3 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +5 | ◎ Religion (*Int*) : +1 |
+| ◉ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : +3 |
+| ◎ Intimidation (*Cha*) : +3 | ◉ Survie (*Sag*) : +3 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3<br> |
 
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
@@ -52,15 +52,15 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 
 **Outils :** —
 
-__Langues__ : Commun, Aquatique, Elfique, Reptilien, Astral
+**Langues** : Commun, Aquatique, Elfique, Reptilien, Astral
 
 ### Description
 
-__Âge :__ 1140 ans
+**Âge :** 1140 ans
 
-__Taille :__ 11,88 m
+**Taille :** 11,88 m
 
-__Poids :__ 78 kg
+**Poids :** 78 kg
 
 Aymer a la beauté surnaturelle et la présence assurée d'un prince guerrier d'un autre monde. Sa silhouette est élancée et athlétique, un équilibre parfait entre la grâce elfique et la puissance d'un prédateur endurci. Chaque muscle est dessiné, non pas avec la lourdeur d'un combattant de la surface, mais avec la fluidité d'un corps habitué à se mouvoir dans les trois dimensions de l'océan.
 
@@ -131,24 +131,24 @@ Aymer a accepté la mission sans hésiter, le cœur lourd de quitter son foyer m
 
 ### Traits de Personnalité
 
-__Traits :__ Je travaille dur ; la nature ne fait pas de cadeau. Je ne suis pas perturbé par les colères de la nature.
+**Traits :** Je travaille dur ; la nature ne fait pas de cadeau. Je ne suis pas perturbé par les colères de la nature.
 
-__Idéal :__ Contiens ton avarice, et la nature te récompensera.
+**Idéal :** Contiens ton avarice, et la nature te récompensera.
 
-__Lien :__ L'océan n'est pas juste mon foyer, il est le sang qui coule dans mes veines. Je ressens chaque blessure qu'on lui inflige comme la mienne, et je traquerai sans relâche ceux qui l'empoisonnent.
+**Lien :** L'océan n'est pas juste mon foyer, il est le sang qui coule dans mes veines. Je ressens chaque blessure qu'on lui inflige comme la mienne, et je traquerai sans relâche ceux qui l'empoisonnent.
 
-__Défaut :__ Je deviens anxieux et déprimé si je suis loin de la mer trop longtemps.
+**Défaut :** Je deviens anxieux et déprimé si je suis loin de la mer trop longtemps.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseils de jeu
 
 Sa voix est calme et posée, avec une musicalité naturelle, comme le bruit des vagues qui viennent mourir sur la plage. Son ton est naturellement persuasif et agréable, ce qui explique en partie son charisme.
 
 Il pense et parle en termes marins. C'est sa vision du monde.
-- Un plan compliqué est _"plus emmêlé qu'un champ d'algues"_.
-- Une personne de confiance est _"aussi fiable que la marée"_.
-- Pour dire "allons-y", il dira _"Suivons le courant"_.
-- Une mauvaise situation est une _"marée contraire"_.
+- Un plan compliqué est *"plus emmêlé qu'un champ d'algues"*.
+- Une personne de confiance est *"aussi fiable que la marée"*.
+- Pour dire "allons-y", il dira *"Suivons le courant"*.
+- Une mauvaise situation est une *"marée contraire"*.
 
 Il n'est jamais parfaitement immobile. Même debout, il a un très léger balancement, un mouvement fluide et presque imperceptible, comme s'il était encore bercé par les courants de l'océan. Il se sent physiquement et mentalement mal à l'aise s'il reste "au sec" trop longtemps. Il a des tics liés à l'eau : il cherchera instinctivement la moindre fontaine pour y tremper ses mains, passera souvent une main humide dans ses cheveux, ou prendra un malin plaisir à marcher sous la pluie.

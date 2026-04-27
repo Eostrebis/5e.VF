@@ -46,7 +46,7 @@ Curieux et impulsifs, les gnomes peuvent choisir l'aventure comme moyen de voir 
 
 #### Noms de Gnomes
 
-Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La mère, le père, le chef de clan ainsi que les oncles et tantes donnent chacun au gnome un nom, et plusieurs surnoms peuvent apparaître avec le temps. Les noms des gnomes sont généralement des variantes des noms de leurs ancêtres ou de familles éloignées, même si certains sont des inventions de toutes pièces. Lorsqu'ils traitent avec les humains ou d'autres qui sont _coincés_ avec les noms, les gnomes apprennent rapidement à ne pas utiliser plus de trois noms : un nom personnel, un nom de clan et un surnom, choisissant généralement les plus rigolos à dire dans chaque catégorie.
+Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La mère, le père, le chef de clan ainsi que les oncles et tantes donnent chacun au gnome un nom, et plusieurs surnoms peuvent apparaître avec le temps. Les noms des gnomes sont généralement des variantes des noms de leurs ancêtres ou de familles éloignées, même si certains sont des inventions de toutes pièces. Lorsqu'ils traitent avec les humains ou d'autres qui sont *coincés* avec les noms, les gnomes apprennent rapidement à ne pas utiliser plus de trois noms : un nom personnel, un nom de clan et un surnom, choisissant généralement les plus rigolos à dire dans chaque catégorie.
 
 **Noms Masculins :** Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
 
@@ -71,7 +71,7 @@ Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et son
 
 **Âge.** Les svirfneblins vivent peu longtemps pour des gnomes. Ils grandissent à la même vitesse que les humains, et sont considérés adultes à l'âge de 25 ans. Ils vivent entre 200 et 250 ans, même si les dangers et le travail incessant de l'Outre-Terre les emportent généralement plus tôt.
 
-**Taille.** Les svirfneblins mesurent entre 90 cm et 1.20 m, et pèsent entre 35 et 60 kg. Votre taille est _Petite (P)_.
+**Taille.** Les svirfneblins mesurent entre 90 cm et 1.20 m, et pèsent entre 35 et 60 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. . 
 
@@ -101,7 +101,7 @@ Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une 
 
 **Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
 
-**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -129,7 +129,7 @@ Les gnomes des roches disposent d'une ingéniosité naturelle et d'une solidité
 
 **Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
 
-**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 

@@ -23,4 +23,4 @@ Lorsqu'une créature pénètre la zone pour la première fois pendant son tour o
 
 De plus, lorsqu'une créature essaye de quitter la sphère de brume, vous pouvez faire en sorte que la brume saisisse la créature avec des tentacules brumeux. La créature doit réussir un jet de sauvegarde de Force ou ne peut bouger.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts infligés augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts infligés augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.

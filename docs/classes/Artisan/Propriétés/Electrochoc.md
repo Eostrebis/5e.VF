@@ -1,8 +1,8 @@
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Lorsque vous touchez une créature avec cette arme, vous pouvez décharger la cellule d'énergie interne à l'arme pour choquer la cible. Elle doit réussir un jet de sauvegarde de Constitution ou être [[sonné|sonnée]] jusqu'à la fin de votre prochain tour.
 

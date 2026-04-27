@@ -3,12 +3,12 @@ writing_status: finished
 ---
 Les recherches et l'entraînement sans relâche ont porté leurs fruits. Après des mois d'efforts, vous avez appris un nouvel artisanat, aiguisé vos compétences, vous êtes entraîné au combat et peut-être même avez eu la chance d'étudier.
 
-__Dé de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dé de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Outils :__ Un [[Outils d'Artisan|outil d'artisan]]
-__Langues :__ Une de votre choix
-__Compétences :__ Deux de votre choix
+**Outils :** Un [[Outils d'Artisan|outil d'artisan]]
+**Langues :** Une de votre choix
+**Compétences :** Deux de votre choix
 
 ## Incantation
 

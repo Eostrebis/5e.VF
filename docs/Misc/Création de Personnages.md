@@ -20,7 +20,7 @@ Ce trait indique l'âge à partir duquel un membre de la race est considéré co
 Afin de déterminer l'âge de départ de votre personnage, chaque classe contient une indication du temps de formation nécessaire afin d'y gagner un niveau. Il suffit de le rajouter à l'âge indiqué pour la race pour être considéré comme un adulte.
 
 ### Taille
-Les personnages de la majorité des races sont de taille *Moyenne (M)*, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille _Petite (P)_ (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre Équipements.
+Les personnages de la majorité des races sont de taille *Moyenne (M)*, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille *Petite (P)* (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre Équipements.
 
 ### Vitesse
 Votre vitesse détermine la distance que vous pouvez parcourir lors des Déplacements et lors des Combats.

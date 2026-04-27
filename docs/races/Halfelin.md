@@ -39,7 +39,7 @@ Les halfelins collaborent bien volontiers et ils sont loyaux envers leurs amis, 
 
 ## Plaisirs Pastoraux
 
-La plupart des halfelins vivent dans des petites communautés paisibles avec d'immenses fermes et des bosquets bien entretenus. Ils ne constituent que rarement leur propre royaume ou ne possèdent de terres au-delà de leurs comtés. Ils ne reconnaissent pas vraiment de _noblesse_ halfeline ou de royauté, se tournant plutôt vers les doyens de la famille pour les guider. Les familles conservent leurs traditions malgré les successions d'empires.
+La plupart des halfelins vivent dans des petites communautés paisibles avec d'immenses fermes et des bosquets bien entretenus. Ils ne constituent que rarement leur propre royaume ou ne possèdent de terres au-delà de leurs comtés. Ils ne reconnaissent pas vraiment de *noblesse* halfeline ou de royauté, se tournant plutôt vers les doyens de la famille pour les guider. Les familles conservent leurs traditions malgré les successions d'empires.
 
 Beaucoup d'halfelins vivent au sein d'autres races, où leur dur labeur et leur loyauté leur octroie de larges récompenses et un confort de vie indéniable. Quelques communautés halfelines ont choisi l'itinérance, conduisant chariots et/ou naviguant de lieux à lieux et ne conservant aucun domicile fixe.
 
@@ -62,7 +62,7 @@ L'[[Langues#Halfelin|Halfelin]] n'est pas secret, mais les halfelins sont rétic
 
 #### Noms Halfelins
 
-Un halfelin a un prénom, un nom de famille et parfois un surnom. Les noms de famille sont souvent les surnoms des anciens qui sont restés et ont été transmis de générations en générations.
+Un halfelin a un prénom, un nom de famille et parfois un surnom. Les noms de famille sont souvent les surnoms des anciens qui sont restés et ont été transmis de génération en génération.
 
 **Noms Masculins :** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
 
@@ -88,7 +88,7 @@ Les pieds-légers sont plus enclins à la soif de découverte que les autres hal
 
 **Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
 
-**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -116,7 +116,7 @@ En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes ré
 
 **Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
 
-**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -148,7 +148,7 @@ Beaucoup de ces halfelins sont renfermés sur leur clan et méfiant des étrange
 
 **Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
 
-**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -158,4 +158,4 @@ Beaucoup de ces halfelins sont renfermés sur leur clan et méfiant des étrange
 
 **Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
 
-**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.
+**Communication silencieuse.** Vous pouvez communiquer par télépathie avec n'importe quelle créature à moins de 30 ft. La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.

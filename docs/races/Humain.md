@@ -44,7 +44,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
@@ -61,7 +61,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
@@ -83,7 +83,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
@@ -119,7 +119,7 @@ Un de vos parents est un habitant sous-marin, ou vous êtes un descendant lointa
 
 ##### Arachné
 
-Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresse drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
+Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresses drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 

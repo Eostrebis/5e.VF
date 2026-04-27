@@ -1,9 +1,9 @@
 ---
 writing_status: wip
 ---
-__Points de vie :__ 16
+**Points de vie :** 16
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 > [!figure-right] ![[Golem.png]]
 
@@ -14,15 +14,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : ±0 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : -2 | ◎ Nature (_Int_) : -2<br> |
-| ◎ Discrétion (_Dex_) : -1 | ◎ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : +1 | ◎ Persuasion (_Cha_) : -2 |
-| ◎ Escamotage (_Dex_) : -1 | ◉ Religion (_Int_) : ±0 |
-| ◉ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : -2 |
-| ◎ Intimidation (_Cha_) : -2 | ◎ Survie (_Sag_) : +1 |
-| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : -2<br> |
+| ◎ Acrobaties (*Dex*) : ±0 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : -2 | ◎ Nature (*Int*) : -2<br> |
+| ◎ Discrétion (*Dex*) : -1 | ◎ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : +1 | ◎ Persuasion (*Cha*) : -2 |
+| ◎ Escamotage (*Dex*) : -1 | ◉ Religion (*Int*) : ±0 |
+| ◉ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : -2 |
+| ◎ Intimidation (*Cha*) : -2 | ◎ Survie (*Sag*) : +1 |
+| ◉ Intuition (*Sag*) : +3 | ◎ Tromperie (*Cha*) : -2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Ambre, un ancien firbolg quasi-immortel venu du Plan Astral, dont le corps incroyablement résistant mais physiquement faible a servi de réceptacle à la souffrance d'un dieu mort pendant des siècles, et qui cherche maintenant une nouvelle "cause" pour laquelle souffrir dans le monde matériel.
@@ -44,15 +44,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** —
 
-__Langues__ : Commun, Primordial, Céleste, Nain
+**Langues** : Commun, Primordial, Céleste, Nain
 
 ### Description
 
-__Âge :__ ?? ans (Apparence de 35 ans)
+**Âge :** ?? ans (Apparence de 35 ans)
 
-__Taille :__ 2,10 m
+**Taille :** 2,10 m
 
-__Poids :__ 110 kg
+**Poids :** 110 kg
 
 Ambre est une silhouette à la fois imposante et paradoxale. Bien qu'il soit d'une taille spectaculaire, même pour un firbolg, il n'a rien de la carrure massive que l'on attendrait. Il est élancé, presque fragile, avec de longs membres fins qui semblent mal à l'aise avec la lourdeur de la gravité.
 

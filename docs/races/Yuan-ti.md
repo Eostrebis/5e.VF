@@ -22,7 +22,7 @@ Bénis avec la résistance aux effets magiques et de poison grâce à leur ritue
 
 **Âge.** Les yuan-tis de sang pur grandissent au même rythme que les humains et ont la même espérance de vie.
 
-**Taille.** Les yuan-tis de sang pur sont d'une carrure similaire aux humains. Les yuan-tis _bâtards_ peuvent être plus petits. Votre taille est Moyenne (M) ou Petite (P).
+**Taille.** Les yuan-tis de sang pur sont d'une carrure similaire aux humains. Les yuan-tis *bâtards* peuvent être plus petits. Votre taille est Moyenne (M) ou Petite (P).
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

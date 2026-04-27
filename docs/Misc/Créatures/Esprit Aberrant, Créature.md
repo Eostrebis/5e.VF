@@ -1,20 +1,20 @@
 ## Esprit Aberrant
 *Aberration de taille M, tout alignement*
-___
+*_*
 **Classe d'armure** 11 + le niveau du sort (armure naturelle) 
 **Points de vie** 40 + 10 pour chaque niveau de sort au-delà de 4 
 **Vitesse** 30 ft., vol 30 ft. (flottement) (Tyrannoeil seulement) 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 15 (+2) | 16 (+3) | 10 (+0) | 6 (-2) |
 
-___
+*_*
 **Immunités aux dégâts** psychique 
 **Sens** vision dans le noir 60 ft., Perception passive 10 
 **Langues** Profond, comprend les langues que vous parlez
 **Bonus de maîtrise** Égal au vôtre
-___
+*_*
 ***Régénération (Slaad seulement)***. L'aberration regagne 5 points de vie au début de son tour si elle a au moins 1 point de vie. 
 
 ***Aura Murmurante (Rejeton Stellaire seulement)***. Au début de chacun des tours de l'aberration, toutes les créatures à 5 ft. de celle-ci doivent réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort ou prendre 2d6 dégâts psychiques, en supposant que l'aberration ne soit pas [[incapacité|incapacitée]].
@@ -30,5 +30,5 @@ ___
 ***Frappe Psychique (Rejeton Stellaire uniquement)***. *Attaque de sort de mêlée* : Toucher : votre modificateur d'attaque de sort, portée 150 ft., une créature. *Touché* : 1d8 + 3 + le niveau du sort dégâts psychiques. 
 
 
-___
+*_*
 

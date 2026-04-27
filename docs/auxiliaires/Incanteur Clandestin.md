@@ -1,14 +1,14 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Incantation ou Magie de Pacte_
+*Prérequis : Incantation ou Magie de Pacte*
 
 La discrétion représente le pinacle à la fois de la bravoure et de la puissance arcanique. Grâce à quelques ruses ingénieuses, vous avez appris à cacher votre magie à la vue de tous, afin de passer pour un guerrier puissant, mais banal avant de prendre le dessus.
 
-__Dés de Vie :__ 1d6
-__Points de Vie :__ 1d6 (4) + votre modificateur de Constitution
+**Dés de Vie :** 1d6
+**Points de Vie :** 1d6 (4) + votre modificateur de Constitution
 
-__Compétences :__ Arcanes ou Tromperie
+**Compétences :** Arcanes ou Tromperie
 
 ## Incantation
 

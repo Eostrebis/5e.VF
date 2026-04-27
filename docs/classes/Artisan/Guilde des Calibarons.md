@@ -31,9 +31,9 @@ Lorsque vous touchez avec une attaque armée à distance utilisant une arme à f
 
 À partir du niveau 10, vous pouvez passer 10 minutes pour calibrer et renforcer une arme à distance, ou vous pouvez calibrer jusqu'à 6 armes à feu pendant un repos. L'arme conserve sa calibration jusqu'à ce qu'elle touche, après quoi elle n'est plus calibrée. Les armes calibrées gagnent l'une des propriétés suivantes, au choix :
 
-__Balistique.__ Cette arme inflige un dé supplémentaire de dégâts lorsqu'elle touche.
+**Balistique.** Cette arme inflige un dé supplémentaire de dégâts lorsqu'elle touche.
 
-__Calibrée.__ Cette arme inflige des coups critiques sur un jet d'attaque de 18-20.
+**Calibrée.** Cette arme inflige des coups critiques sur un jet d'attaque de 18-20.
 
 ## Lance-Grenade Attaché
 

@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Votre patron n'est autre que vous, dans plusieurs décennies. Peut-être que le vous du futur a trouvé un artefact si puissant qu'il relie vos deux temporalités et force votre alter ego à vous conduire à sa découverte. Peut-être que les arts mystiques ont été transmis il y a fort longtemps par leur version du futur, et que le cycle continue par votre apprentissage et continuera par votre enseignement. Votre vous du futur a oublié la majorité des détails qu'il considère `inutile` et refuse simplement de vous parler des choses que vous ne pouvez _pas encore savoir_. Il vous offre néanmoins une assistance et des opinions sur les évènements à venir. Vous n'êtes pas bien sûr de ce que cette entité du futur peut avoir de planifié pour votre futur (et son passé), mais une chose est sûre : elle a besoin de vous en vie.
+Votre patron n'est autre que vous, dans plusieurs décennies. Peut-être que le vous du futur a trouvé un artefact si puissant qu'il relie vos deux temporalités et force votre alter ego à vous conduire à sa découverte. Peut-être que les arts mystiques ont été transmis il y a fort longtemps par leur version du futur, et que le cycle continue par votre apprentissage et continuera par votre enseignement. Votre vous du futur a oublié la majorité des détails qu'il considère `inutile` et refuse simplement de vous parler des choses que vous ne pouvez *pas encore savoir*. Il vous offre néanmoins une assistance et des opinions sur les évènements à venir. Vous n'êtes pas bien sûr de ce que cette entité du futur peut avoir de planifié pour votre futur (et son passé), mais une chose est sûre : elle a besoin de vous en vie.
 
 ## Particularités de Futur Vous
 

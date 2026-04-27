@@ -22,4 +22,4 @@ Lorsque vous lancez ce sort, choisissez un point que vous pouvez voir sous le nu
 
 Si vous êtes en extérieurs dans des conditions orageuses lorsque vous lancez ce sort, le sort vous donne le contrôle des tempêtes existantes plutôt que d'en créer une. Dans de telles conditions, les dégâts du sort augmentent de 1d10.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 3.

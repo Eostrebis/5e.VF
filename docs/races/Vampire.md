@@ -44,7 +44,7 @@ Leur société est hiérarchisée et centrée sur la foi. Ils sont portés par u
 
 **Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
 
-__Canines de Vampire.__ Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+**Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
 
 **Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perçant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
 
@@ -82,6 +82,6 @@ Leur culture est un mélange de décadence raffinée et de survie brutale. Ils v
 
 **Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
 
-__Canines de Vampire.__ Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+**Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
 
 **Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perçant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0. Un humanoïde tué par cet effet devient un Néanti. Le Néanti est un [[zombie]] sous votre contrôle mental. Vous ne pouvez avoir qu'un seul Néanti à la fois sous vos ordres ; si vous en créez un nouveau, le précédent tombe en poussière.

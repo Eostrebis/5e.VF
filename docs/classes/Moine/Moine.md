@@ -12,7 +12,7 @@ Quelle que soit leur spécialité, les moines sont unis par leur capacité à ma
 
 ## La Magie du Ki
 
-Les moines étudient avec attention une énergie magique que la plupart des traditions monastiques appellent _ki_. Cette énergie est partie de la magie qui infuse le multivers -- plus spécifiquement la composante qui circule à travers les corps vivants. Les moines utilisent le pouvoir à l'intérieur d'eux-mêmes pour créer des effets magiques et dépasser les limites physiques de leur corps, et certaines de leurs attaques peuvent même déranger la circulation du ki de leurs adversaires. En utilisant cette énergie, les moines canalisent une vitesse surhumaine et leur force à travers leurs attaques à mains nues. En gagnant de l'expérience, leur entraînement martial et leur maîtrise du ki leur confèrent encore plus de contrôle sur leurs capacités physiques et sur le corps de leurs ennemis.
+Les moines étudient avec attention une énergie magique que la plupart des traditions monastiques appellent *ki*. Cette énergie est partie de la magie qui infuse le multivers -- plus spécifiquement la composante qui circule à travers les corps vivants. Les moines utilisent le pouvoir à l'intérieur d'eux-mêmes pour créer des effets magiques et dépasser les limites physiques de leur corps, et certaines de leurs attaques peuvent même déranger la circulation du ki de leurs adversaires. En utilisant cette énergie, les moines canalisent une vitesse surhumaine et leur force à travers leurs attaques à mains nues. En gagnant de l'expérience, leur entraînement martial et leur maîtrise du ki leur confèrent encore plus de contrôle sur leurs capacités physiques et sur le corps de leurs ennemis.
 
 ## Entraînement et Ascétisme
 

@@ -33,9 +33,9 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 Lorsque vous atteignez le niveau 10, vous apprenez à modifier votre lancement de sorts de multiples façons, pour le dissimuler de votre audience comme pour élargir votre répertoire magique. Lorsque vous lancez un sort d'occultiste de niveau 1 ou plus en utilisant un emplacement de sort d'occultiste, vous pouvez le manipuler de l'une des deux façons suivantes : 
 
-__Dissimulation.__ Vous lancez le sort sans utiliser de composantes en réussissant un jet de Dextérité (Escamotage). Le DD pour ce jet est égal à 8 + le niveau du sort. Si vous échouez, le sort échoue et l'emplacement est gâché. Vous ne pouvez pas utiliser cette aptitude pour un sort avec une composante matérielle possédant un coût.
+**Dissimulation.** Vous lancez le sort sans utiliser de composantes en réussissant un jet de Dextérité (Escamotage). Le DD pour ce jet est égal à 8 + le niveau du sort. Si vous échouez, le sort échoue et l'emplacement est gâché. Vous ne pouvez pas utiliser cette aptitude pour un sort avec une composante matérielle possédant un coût.
 
-__Transmutation__. Vous pouvez essayer de lancer un autre sort de la liste de sort du magicien qui doit être du même niveau ou d'un niveau inférieur au sort que vous lancez. Lorsque vous le faites, vous devez réussir un jet de Charisme de DD 12 + le niveau du sort. Sinon, le sort échoue et l'emplacement est gâché.
+**Transmutation**. Vous pouvez essayer de lancer un autre sort de la liste de sort du magicien qui doit être du même niveau ou d'un niveau inférieur au sort que vous lancez. Lorsque vous le faites, vous devez réussir un jet de Charisme de DD 12 + le niveau du sort. Sinon, le sort échoue et l'emplacement est gâché.
 
 ## Maître des Illusions
 

@@ -181,11 +181,11 @@ Si l'une de vos manœuvres demande un jet de sauvegarde pour résister à ses ef
 
 Vous pouvez dépenser vos dés de bataille dans les manœuvres suivantes : 
 
-__Préparation.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
+**Préparation.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
 
-__Ralliement.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
+**Ralliement.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
 
-__Frappe Stupéfiante.__ Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
+**Frappe Stupéfiante.** Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
 
 ## Augmentation de Caractéristiques
 
@@ -201,11 +201,11 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 Au niveau 9, vos manœuvres évoluent : 
 
-__Préparation.__ Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils réalisent avant le début de votre prochain tour.
+**Préparation.** Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils réalisent avant le début de votre prochain tour.
 
-__Ralliement.__ Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
+**Ralliement.** Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
 
-__Frappe Stupéfiante.__ Lorsque vous touchez avec une frappe stupéfiante, vous ajoutez le dé de bataille au jet de dégâts.
+**Frappe Stupéfiante.** Lorsque vous touchez avec une frappe stupéfiante, vous ajoutez le dé de bataille au jet de dégâts.
 
 ## Frappe Coordonnée
 

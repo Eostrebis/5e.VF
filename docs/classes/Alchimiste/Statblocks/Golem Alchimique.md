@@ -1,19 +1,19 @@
 ---
 writing_status: finished
 ---
-___
+*_*
 >## Golem Alchimique
 >*Moyenne Construction, neutre*
->![[Golem Alchimique.webp]]___
+>![[Golem Alchimique.webp]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >
->___
+>*_*
 >- **Résistances aux Dégâts** contondants, perçants et tranchants d'attaque non magiques qui ne sont pas en adamantine
 >- **Immunités aux Dégâts** foudre
 >- **Immunisées** charmé, exhaustion, apeuré, paralysé, pétrifié, empoisonné
@@ -21,7 +21,7 @@ ___
 >- **Langues** comprend les langues de son créateur, mais ne peut pas parler
 >- **Difficulté** 5 (1,800 PX)
 >- **Bonus de Maîtrise** +3
->___
+>*_*
 >***Aversion au Feu.*** Si le golem alchimique prend des dégâts de feu, il a le désavantage aux jets de caractéristiques et aux jets d'attaque jusqu'à la fin de son prochain tour.
 >
 >***Forme Immuable.*** Le golem alchimique est immunisé aux sorts ou effets qui modifieraient sa forme.

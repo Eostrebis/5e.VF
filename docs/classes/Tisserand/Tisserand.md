@@ -94,7 +94,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Lamefil
 
-À partir du niveau 1, vous apprenez à créer une arme magique unique et iconique, connue sous le nom de lamefil, en la _tricotant_ instantanément. Vous pouvez le faire lorsque vous tirez l'initiative ou au début de votre tour. Lorsque vous en invoquez une deuxième, la première disparaît.
+À partir du niveau 1, vous apprenez à créer une arme magique unique et iconique, connue sous le nom de lamefil, en la *tricotant* instantanément. Vous pouvez le faire lorsque vous tirez l'initiative ou au début de votre tour. Lorsque vous en invoquez une deuxième, la première disparaît.
 
 Vous maîtrisez votre lamefil et vous utilisez votre modificateur de Dextérité plutôt que de Force pour vos jets d'attaque et de dégâts avec votre lamefil. Vous ne pouvez manier une autre arme ou vous équiper d'un bouclier lorsque vous maniez votre lamefil. Les lamefils ne possèdent pas les propriétés usuelles des autres armes, peu importe leur apparence, mais sont considérées comme des armes martiales.
 

@@ -3,15 +3,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Humain
+**Race :** Humain
 
-__Classe :__ Paladin
+**Classe :** Paladin
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 12
+**Points de vie :** 12
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :----: | :-----: | :-----: |
@@ -20,27 +20,27 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : +2 | ◎ Nature (_Int_) : -2<br> |
-| ◎ Discrétion (_Dex_) : +2 | ◎ Perception (_Sag_) : +1 |
-| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +2 |
-| ◎ Escamotage (_Dex_) : +2 | ◉ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : -2 | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +3 |
-| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : +2<br> |
+| ◎ Acrobaties (*Dex*) : +2 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : +2 | ◎ Nature (*Int*) : -2<br> |
+| ◎ Discrétion (*Dex*) : +2 | ◎ Perception (*Sag*) : +1 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +2 |
+| ◎ Escamotage (*Dex*) : +2 | ◉ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : -2 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◉ Survie (*Sag*) : +3 |
+| ◉ Intuition (*Sag*) : +3 | ◎ Tromperie (*Cha*) : +2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Cofeh, une paladine à la foi simple et inébranlable, dont la force et l'optimisme sont aussi éclatants que son armure, et dont la solution à la plupart des problèmes est de foncer tête baissée pour protéger les innocents.
 > 
->__Objectif pour la session__ :
+>**Objectif pour la session** :
 >Votre mentor, le Père Elric, vous a envoyé dans le monde pour "être le bouclier des faibles". Votre objectif est donc très simple : trouver des gens qui ont des ennuis, identifier le "méchant" de l'histoire, et le punir très fort pour que les gens n'aient plus d'ennuis.
 >
->__Parlez Simplement, Agissez Directement :__ Utilisez des phrases courtes et des mots simples. Votre personnage ne comprend pas la subtilité. Face à un problème, votre premier réflexe n'est pas de réfléchir, mais d'agir. Foncez, posez les questions (souvent très naïves) après. "Pourquoi est-il méchant ? On devrait lui demander. Après l'avoir arrêté."
+>**Parlez Simplement, Agissez Directement :** Utilisez des phrases courtes et des mots simples. Votre personnage ne comprend pas la subtilité. Face à un problème, votre premier réflexe n'est pas de réfléchir, mais d'agir. Foncez, posez les questions (souvent très naïves) après. "Pourquoi est-il méchant ? On devrait lui demander. Après l'avoir arrêté."
 >
->__Le Bulldozer du Bien :__ Vous êtes un torrent d'énergie positive et de protection. Adoptez une posture héroïque, donnez des grandes tapes dans le dos de vos amis, et soyez toujours la première volontaire pour une tâche difficile ou dangereuse. Votre enthousiasme est votre plus grande force.
+>**Le Bulldozer du Bien :** Vous êtes un torrent d'énergie positive et de protection. Adoptez une posture héroïque, donnez des grandes tapes dans le dos de vos amis, et soyez toujours la première volontaire pour une tâche difficile ou dangereuse. Votre enthousiasme est votre plus grande force.
 >
->__L'Armure est l'Âme :__ Votre armure est le symbole de votre pureté. Passez du temps à la polir. Votre bouclier est une extension de vos émotions : brandissez-le fièrement, cachez-vous un peu derrière quand vous êtes perplexe. Rappelez-vous votre défaut : vous préférez "manger votre armure" plutôt que d'admettre que vous avez eu tort.
+>**L'Armure est l'Âme :** Votre armure est le symbole de votre pureté. Passez du temps à la polir. Votre bouclier est une extension de vos émotions : brandissez-le fièrement, cachez-vous un peu derrière quand vous êtes perplexe. Rappelez-vous votre défaut : vous préférez "manger votre armure" plutôt que d'admettre que vous avez eu tort.
 
 #### Maîtrises
 
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Ustensiles de Cuisinier]], Véhicules Terrestres
 
-__Langues__ : Commun, Céleste
+**Langues** : Commun, Céleste
 
 ### Description
 
-__Âge :__ 21 ans
+**Âge :** 21 ans
 
-__Taille :__ 1,78 m
+**Taille :** 1,78 m
 
-__Poids :__ 76 kg
+**Poids :** 76 kg
 
 Cofeh est une vision de détermination et de ferveur incarnée. Solidement bâtie, avec des épaules larges et une carrure forgée par l'entraînement et une vie de labeur, elle a la présence physique d'un véritable rempart. Pourtant, elle ne dégage pas l'aura d'une noble guerrière distante ou d'un juge austère, mais plutôt celle d'une sœur aînée protectrice, incroyablement enthousiaste et toujours prête à l'action.
 
@@ -135,15 +135,15 @@ La détermination de Cofeh à se jeter dans la mêlée pour protéger les autres
 
 ### Traits de Personnalité
 
-__Traits :__ Si je vois quelqu'un en difficulté, je me dois de l'aider. Réfléchir c'est pour les autres, quand est-ce qu'on s'y met ?
+**Traits :** Si je vois quelqu'un en difficulté, je me dois de l'aider. Réfléchir c'est pour les autres, quand est-ce qu'on s'y met ?
 
-__Idéal :__ Tout le monde mérite d'être traité avec dignité et respect.
+**Idéal :** Tout le monde mérite d'être traité avec dignité et respect.
 
-__Lien :__ Je protège ceux qui ne peuvent se protéger.
+**Lien :** Je protège ceux qui ne peuvent se protéger.
 
-__Défaut :__ Je préférerais manger mon armure que d'admettre que j'ai tort.
+**Défaut :** Je préférerais manger mon armure que d'admettre que j'ai tort.
 
-__Alignement :__ Loyal Bon
+**Alignement :** Loyal Bon
 
 ## Conseils de jeu
 

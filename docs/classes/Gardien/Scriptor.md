@@ -7,11 +7,11 @@ Vous avez entendu l'appel des parchemins en décomposition et des artefacts ant�
 
 À partir du moment où vous entendez cet appel au niveau 3, vous avez appris à appliquer votre connaissance archivistique à l'incantation.
 
-__Cantrips.__ Vous apprenez deux cantrips de votre choix de la liste de sort du magicien. Vous apprenez un cantrip de magicien supplémentaire lorsque vous atteignez le niveau 10.
+**Cantrips.** Vous apprenez deux cantrips de votre choix de la liste de sort du magicien. Vous apprenez un cantrip de magicien supplémentaire lorsque vous atteignez le niveau 10.
 
-__Emplacements de Sort.__ La table d'[[#Incantation du Scriptor]] indique combien d'emplacement de sort vous possédez pour lancer vos sorts de magicien de niveau 1 et plus. Pour lancer un de ces sorts, vous devez dépenser un emplacement de sort de son niveau ou d'un niveau supérieur. Vous regagnez vos emplacements de sort dépensés lorsque vous terminez un repos long.
+**Emplacements de Sort.** La table d'[[#Incantation du Scriptor]] indique combien d'emplacement de sort vous possédez pour lancer vos sorts de magicien de niveau 1 et plus. Pour lancer un de ces sorts, vous devez dépenser un emplacement de sort de son niveau ou d'un niveau supérieur. Vous regagnez vos emplacements de sort dépensés lorsque vous terminez un repos long.
 
-__Sorts Connus de Niveau 1 et Supérieur.__ Vous connaissez trois sorts de magicien de niveau 1 de votre choix, parmi lesquels deux doivent être choisis de l'école de l'abjuration ou de celle de l'évocation.
+**Sorts Connus de Niveau 1 et Supérieur.** Vous connaissez trois sorts de magicien de niveau 1 de votre choix, parmi lesquels deux doivent être choisis de l'école de l'abjuration ou de celle de l'évocation.
 
 La colonne Sorts Connus de la table d'[[#Incantation du Scriptor]] vous indique quand est-ce que vous apprenez d'autres sorts de magicien. Chacun de ces sorts doit être un sort d'abjuration ou d'évocation de votre choix et doit être d'un niveau pour lequel vous avez des emplacements de sort.
 
@@ -19,7 +19,7 @@ Les sorts que vous apprenez aux niveaux 8, 14 et 20 peuvent être de n'importe q
 
 Lorsque vous obtenez un niveau dans cette classe, vous pouvez remplacer l'un de vos sorts de magicien avec un autre de votre choix parmi la liste de sorts du magicien. Ce nouveau sort doit être d'un niveau pour lequel vous avez des emplacements de sorts, et il doit être de l'école de l'abjuration ou de l'évocation, sauf si vous remplacez un sort gagné aux niveaux 3, 8, 14 ou 20 qui est d'une autre école.
 
-__Caractéristique d'Incantation.__ L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, puisque vous apprenez vos sorts par la recherche et la déduction. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD de sauvegarde des sorts de magicien que vous lancez ainsi que lorsque vous réalisez un jet d'attaque avec l'un d'entre eux.
+**Caractéristique d'Incantation.** L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, puisque vous apprenez vos sorts par la recherche et la déduction. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD de sauvegarde des sorts de magicien que vous lancez ainsi que lorsque vous réalisez un jet d'attaque avec l'un d'entre eux.
 
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>

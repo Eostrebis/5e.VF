@@ -12,7 +12,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [!tip] Objets Magiques
 > La liste suivante indique quels objets magiques vous pouvez créer, à quel niveau et le coût en PO requis.
 > 
-> __Niveau 3 — 100 PO__
+> **Niveau 3 — 100 PO**
 > [[Amulette de santé]]
 > [[Baguette des secrets]]
 > [[Bateau pliable]]
@@ -26,7 +26,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Sceptre inamovible]]
 > [[Yeux de minutie]]
 > 
-> __Niveau 7 — 250 PO__
+> **Niveau 7 — 250 PO**
 > [[Anneau de marche sur l'eau]]
 > [[Anneau de saut]]
 > [[Baguette de projectiles magiques]]
@@ -39,7 +39,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Trou portatif]]
 > [[Yeux de charme]]
 > 
-> __Niveau 10 — 500 PO__
+> **Niveau 10 — 500 PO**
 > [[Amulette de cicatrisation]]
 > [[Amulette de protection contre le poison]]
 > [[Anneau de feuille morte]]
@@ -53,7 +53,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Gants d'interception]]
 > [[Yeux de faucon]]
 > 
-> __Niveau 14 — 1000 PO__
+> **Niveau 14 — 1000 PO**
 > [[Anneau d'action gratuite]]
 > [[Anneau de vision aux rayons X]]
 > [[Anneau du bélier]]

@@ -42,11 +42,11 @@ Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et êtr
 
 Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certains, le nom choisi est une noble quête. Pour d'autres, une sombre destinée. 
 
-__Noms Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+**Noms Infernaux Masculins :** Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
 
-__Noms Infernaux Féminins :__ Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+**Noms Infernaux Féminins :** Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
 
-__Noms de "Vertu" :__ Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
+**Noms de "Vertu" :** Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
 
 ## Héritier d'Asmodée
 
@@ -63,15 +63,15 @@ Les tieflins liés à Nessus commandent le feu et les ténèbres, guidés par un
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage Infernal.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage Infernal.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Belzébuth
 
@@ -88,15 +88,15 @@ Le royaume en ruine de Maladomini est dirigé par Belzébuth, qui excelle dans l
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Maladomini.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Maladomini.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Dispater
 
@@ -113,15 +113,15 @@ La grande cité de Dis occupe la majorité du deuxième niveau des Enfers. C'est
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Dis.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Détection des Pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Dis.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Détection des Pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Fierna
 
@@ -138,15 +138,15 @@ Maître manipulatrice, Fierna confère à ses tieflins de puissantes personnalit
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Phlegethos.__ Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Phlegethos.** Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Glasya
 
@@ -163,15 +163,15 @@ Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utile po
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Malbolge.__ Vous connaissez le cantrip [[Illusion Mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Malbolge.** Vous connaissez le cantrip [[Illusion Mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Levistus
 
@@ -188,15 +188,15 @@ La Stygie gelée est dirigée par Levistus, archidiable connu pour offrir des ma
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Stygie.__ Vous connaissez le cantrip [[Rayon de Givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Armure d'Agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Stygie.** Vous connaissez le cantrip [[Rayon de Givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Armure d'Agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Mammon
 
@@ -213,15 +213,15 @@ Le grand avare Mammon adore l'or par-dessus tout. Les tieflins qui lui sont lié
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Minauros.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Minauros.** Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Méphistophélès
 
@@ -238,15 +238,15 @@ Dans le royaume gelé de Cania, Méphistophélès offre un pouvoir arcanique à 
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Cania.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Cania.** Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Zariel
 
@@ -263,15 +263,15 @@ Les tieflins liés à Zariel sont plus forts que le tieflin typique et reçoiven
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage d'Averne.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Châtiment Révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage d'Averne.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Châtiment Révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Bel
 
@@ -288,15 +288,15 @@ Ancien dirigeant d'Averne, Bel confère à ses tieflins la capacité de voler.
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de l'Ancienne Averne.__ Vous avez des ailes semblables à celles des chauves-souris. Vous avez une vitesse de vol de 30 ft. tant que vous ne portez pas d'armure lourde.
+**Héritage de l'Ancienne Averne.** Vous avez des ailes semblables à celles des chauves-souris. Vous avez une vitesse de vol de 30 ft. tant que vous ne portez pas d'armure lourde.
 
 ## Héritier de Neabaz
 
@@ -313,12 +313,12 @@ Habile manipulateur des mots et serviteur de Belzébuth, Neabaz confère à ses 
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage Infernal.__ Vous connaissez le cantrip [[Moquerie Cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage Infernal.** Vous connaissez le cantrip [[Moquerie Cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.

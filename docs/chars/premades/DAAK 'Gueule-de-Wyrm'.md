@@ -3,15 +3,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Kobold draconique
+**Race :** Kobold draconique
 
-__Classe :__ Guerrier
+**Classe :** Guerrier
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 13
+**Points de vie :** 13
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1 | ◉ Investigation (_Int_) : +2 |
-| ◎ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : -1 |
-| ◎ Athlétisme (_For_) : +4 | ◎ Nature (_Int_) : ±0 |
-| ◎ Discrétion (_Dex_) : +1 | ◎ Perception (_Sag_) : -1 |
-| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : +1 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : +3 |
-| ◉ Intimidation (_Cha_) : +5 | ◉ Survie (_Sag_) : +1 |
-| ◉ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3 |
+| ◎ Acrobaties (*Dex*) : +1 | ◉ Investigation (*Int*) : +2 |
+| ◎ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : -1 |
+| ◎ Athlétisme (*For*) : +4 | ◎ Nature (*Int*) : ±0 |
+| ◎ Discrétion (*Dex*) : +1 | ◎ Perception (*Sag*) : -1 |
+| ◎ Dressage (*Sag*) : -1 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +1 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : +3 |
+| ◉ Intimidation (*Cha*) : +5 | ◉ Survie (*Sag*) : +1 |
+| ◉ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3 |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Daak, un surprenant kobold Chevalier de Solamnia, qui a transformé la peur de son peuple en une discipline de fer et dont les rugissements tactiques transforment le chaos du combat en une symphonie de victoire pour sa "meute".
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Aucun
 
-__Langues__ : Commun, Draconique, Gnome, Infernal
+**Langues** : Commun, Draconique, Gnome, Infernal
 
 ### Description
 
-__Âge :__ 13 ans
+**Âge :** 13 ans
 
-__Taille :__ 85 cm (taille P)
+**Taille :** 85 cm (taille P)
 
-__Poids :__ 15 kg
+**Poids :** 15 kg
 
 Malgré sa petite taille de kobold, Daak projette une silhouette étonnamment féroce, une mosaïque de dévotion draconique et de ressources tirées d'un monde hostile. Son corps est couvert d'écailles robustes d'un brun-rouille, et ses muscles sont noueux, définis par une agilité et une endurance constantes. Ses yeux, deux billes d'un jaune brillant, brûlent d'une intensité qui dément la couardise habituelle de son espèce.
 
@@ -79,7 +79,7 @@ Le reste de son armure est composé de pièces de cuir durci et de peaux cousues
 
 **Hurlement Draconique.** Pour une action bonus, vous laissez s'échapper un grondement à vos ennemis à 10 ft. Jusqu'au début de votre prochain tour, vous et vos alliés avez l'avantage à vos jets d'attaque contre les ennemis qui ont pu vous entendre. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges utilisées lorsque vous utilisez un repos long.
 
-__Défiance.__ Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
+**Défiance.** Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
 
 ### Aptitudes de Classe
 
@@ -137,15 +137,15 @@ L'entraînement de Daak en tant que Chevalier de Solamnia lui confère les effet
 
 ### Traits de Personnalité
 
-__Traits :__ Je n'ai aucune confiance dans les entités divines. J'aime lire et apprendre de la poésie. Cela m'aide à rester calme et me procure quelques rares instants de bonheur.
+**Traits :** Je n'ai aucune confiance dans les entités divines. J'aime lire et apprendre de la poésie. Cela m'aide à rester calme et me procure quelques rares instants de bonheur.
 
-__Idéal :__ J'aide ceux qui en ont besoin, quoi qu'il m'en coûte.
+**Idéal :** J'aide ceux qui en ont besoin, quoi qu'il m'en coûte.
 
-__Lien :__ Je conserve mes pensées et mes découvertes dans un journal. Ce journal est mon héritage
+**Lien :** Je conserve mes pensées et mes découvertes dans un journal. Ce journal est mon héritage
 
-__Défaut :__ Je parle à des esprits que je suis le seul à voir.
+**Défaut :** Je parle à des esprits que je suis le seul à voir.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseil de Jeu
 

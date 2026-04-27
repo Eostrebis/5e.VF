@@ -23,7 +23,7 @@ Votre Métamorphose Occulte dure 1 minute. Elle se termine prématurément si vo
 
 Une fois que vous avez été en rage (ou subi une Métamorphose Occulte) le nombre de fois indiqué pour votre niveau de barbare dans la colonne Rages de la table du Barbare, vous devez terminer un repos long avant de pouvoir utiliser ces aptitudes à nouveau.
 
-De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme _Rage Persistante_) s'applique également à la Métamorphose Occulte, sauf indication contraire.
+De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme *Rage Persistante*) s'applique également à la Métamorphose Occulte, sauf indication contraire.
 
 ## Chant des Profondeurs
 

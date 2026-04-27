@@ -3,10 +3,10 @@ writing_status: finished
 ---
 Les gens s'imaginent que vous n'êtes pas parmi les plus brillants. Bien sûr, vous tombez parfois et vous perdez vos mots, mais vous n'êtes pas stupide ! Peu importe ce que ces crânes d'œufs disent. Lorsque rien d'autre ne fonctionne, vous avez toujours la bonne remarque ou l'insulte appropriée à balancer, et vous avez toujours le dernier mot. 
 
-__Dé de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dé de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Outils :__ Un instrument de musique de votre choix
+**Outils :** Un instrument de musique de votre choix
 
 ## Cantrips Supplémentaires
 

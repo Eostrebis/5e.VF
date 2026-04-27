@@ -11,7 +11,7 @@ Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans c
 
 Avec leur grâce irréelle et leurs traits fins, les elfes sont merveilleusement beaux pour les humains et les membres de multiples races. Ils sont généralement plus petits que les humains, allant de 1m50 à 1m90. Ils sont cependant bien plus élancés que les humains, ne pesant qu'entre 50 et 70 kg. Les hommes et femmes font à peu près la même taille, et les hommes sont quelque peu plus lourds.
 
-La coloration des elfes englobe l'étendue humaine _normale_, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
+La coloration des elfes englobe l'étendue humaine *normale*, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
 
 #### Une perspective intemporelle
 
@@ -25,10 +25,10 @@ De par différents conflits et/ou décisions passées, le peuple elfe est divis�
 
 | Sous-race | Description |
 | ------------------------------------- | ---------------------------------------------------------- |
-| [[Elfe#Haut-elfe\|Haut-Elfe]] | _Noblesse_ elfe, habiles en magie |
-| [[Elfe#Elfe des bois\|Elfe des bois]] | _Plèbe_ elfe, voyageurs et en communion avec la nature |
+| [[Elfe#Haut-elfe\|Haut-Elfe]] | *Noblesse* elfe, habiles en magie |
+| [[Elfe#Elfe des bois\|Elfe des bois]] | *Plèbe* elfe, voyageurs et en communion avec la nature |
 | [[Elfe#Drow\|Drow]] | Elfes noirs, habitants de l'Outreterre |
-| [[Elfe#Eladrin\|Eladrin]] | Elfes _féériques_, originairse de la Féerie |
+| [[Elfe#Eladrin\|Eladrin]] | Elfes *féériques*, originairse de la Féerie |
 | [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt |
 | [[Elfe#Shadar-kai\|Shadar-kai]] | Elfes des ombres |
 | [[Elfe#Elfe Astral\|Elfe Astral]] | Elfes ayant quitté les plans matériels pour le Plan Astral |
@@ -81,7 +81,7 @@ Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, o
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -119,7 +119,7 @@ La peau des elfes des bois a tendance à être cuivrée en teinte, parfois avec 
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 35 ft..
 
@@ -154,7 +154,7 @@ En tant que Drow, vous êtes infusé de la magie de l'Outre-Terre, un royaume so
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -200,7 +200,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -241,7 +241,7 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. Vous avez une vitesse de nage égale à votre vitesse de base.
 
@@ -264,7 +264,7 @@ Les shadars-kai sont des elfes de la Gisombre, attiré sur ce plan par la Reine 
 
 Les shadars-kai étaient auparavant des Fées comme le reste des elfes, mais n'existent désormais que dans un état entre la vie et la mort, ayant été transformés par l'énergie sombre de la Gisombre.
 
-Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi _flétri_, reflétant la nature sombre de ce sinistre plan.
+Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi *flétri*, reflétant la nature sombre de ce sinistre plan.
 
 
 ![[shadar_kai.png]]
@@ -279,7 +279,7 @@ Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Giso
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -315,7 +315,7 @@ Puisque rien ne vieillit dans le Plan Astral, les elfes astraux qui habitent ce 
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes astraux mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes astraux mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

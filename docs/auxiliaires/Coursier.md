@@ -1,15 +1,15 @@
 ---
 writing_status: finished
 ---
-_Prérequis : A été employé comme coursier, messager, contrebandier..._
+*Prérequis : A été employé comme coursier, messager, contrebandier...*
 
 Commerçant, contrebandier ou simplement messager, vous avez été chargé de voyager inlassablement pour délivrer colis ou lettres et vous en êtes devenu coutumier. Vous êtes vif d'esprit comme de corps et vous avez un sixième sens pour la navigation qui n'est égalé que par les marins et les vendeurs de boussoles. Ainsi, vous savez mettre à profit vos expériences pendant vos aventures.
 
-__Dés de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dés de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Langues :__ Une de votre choix
-__Outils :__ [[Outils de cartographe]], [[outils de navigateur]], un instrument de musique de votre choix
+**Langues :** Une de votre choix
+**Outils :** [[Outils de cartographe]], [[outils de navigateur]], un instrument de musique de votre choix
 
 ## Navigateur Compétent
 

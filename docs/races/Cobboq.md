@@ -43,7 +43,7 @@ Les cobboqs vénèrent les autres oiseaux. Plus l'oiseau est gros, plus il est s
 
 **Plumé.** Vos os légers et votre panache de plumes réduit l'impact de la gravité ; vous ne prenez que la moitié des dégâts de chute.
 
-**Gallus Domesticus.** Vous pouvez lancer le sort [[métamorphose]] sur vous-même avec ce trait, en utilisant le Charisme comme caractéristique d'incantation. Lorsque vous utilisez cette version du sort, vous prenez toujours la forme d'un Très Petit [[Poulet]]. Une fois que vous avez lancé ce sort, vous ne pouvez le relancer avec ce trait avant d'avoir terminé un repos long.
+**Gallus Domesticus.** Vous pouvez lancer le sort [[métamorphose]] sur vous-même avec ce trait, en utilisant le Charisme comme caractéristique d'incantation. Lorsque vous utilisez cette version du sort, vous prenez toujours la forme d'un [[Poulet]] de taille TP. Une fois que vous avez lancé ce sort, vous ne pouvez le relancer avec ce trait avant d'avoir terminé un repos long.
 
 **Poulet Sans-Tête.** Lorsque vous tombez à 0 point de vie, mais pas tué sur le coup, vous ne tombez pas immédiatement [[inconscient]]. À la place, vous pouvez immédiatement vous déplacer de jusqu'à votre vitesse sans provoquer d'attaque d'opportunité. Vous tombez alors [[inconscient]] comme si vous aviez été réduit à 0 point de vie dans l'espace où vous avez fini votre déplacement.
 

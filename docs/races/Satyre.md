@@ -20,14 +20,14 @@ Originaires de la Féerie — une terre d'émotion pure —, les satyres prospè
 
 **Âge.** Les satyres grandissent et vieillissent au même rythme que les humains.
 
-**Taille.** Les satyres font entre 1,45 m et 1,80 m et sont généralement plutôt fins. Votre taille est _Moyenne (M)_.
+**Taille.** Les satyres font entre 1,45 m et 1,80 m et sont généralement plutôt fins. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 35 ft.
 
-__Charge.__ Vous pouvez utiliser votre tête et vos cornes afin de réaliser des attaques à mains nues. Lorsque vous touchez, le coup inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts normaux pour une attaque à mains nues.
+**Charge.** Vous pouvez utiliser votre tête et vos cornes afin de réaliser des attaques à mains nues. Lorsque vous touchez, le coup inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts normaux pour une attaque à mains nues.
 
-__Résistance Magique.__ Vous avez l'avantage aux jets de sauvegarde contre les sorts.
+**Résistance Magique.** Vous avez l'avantage aux jets de sauvegarde contre les sorts.
 
-__Sauts Heureux.__ Lorsque vous réalisez un saut en longueur ou en hauteur, vous pouvez lancer un d8 et ajouter le résultat obtenu au nombre de pieds que vous parcourez, même lorsque vous réalisez un saut sans élan. Cette distance supplémentaire coûte du mouvement comme normalement.
+**Sauts Heureux.** Lorsque vous réalisez un saut en longueur ou en hauteur, vous pouvez lancer un d8 et ajouter le résultat obtenu au nombre de pieds que vous parcourez, même lorsque vous réalisez un saut sans élan. Cette distance supplémentaire coûte du mouvement comme normalement.
 
-__Fêtard.__ Fidèle représentant de l'esprit joyeux, vous maîtrisez les compétences Persuasion et Représentation, ainsi qu'un instrument de musique de votre choix.
+**Fêtard.** Fidèle représentant de l'esprit joyeux, vous maîtrisez les compétences Persuasion et Représentation, ainsi qu'un instrument de musique de votre choix.

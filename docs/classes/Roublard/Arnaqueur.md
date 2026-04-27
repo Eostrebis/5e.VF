@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Escrocs, tricheurs et surtout arnaqueurs peuplent les alentours des tavernes, là où les passants ont parfois une plus forte tendance à _perdre_ leurs pièces. L'arnaqueur typique sait bien qu'avec les bons mots et le bon plan, vous pouvez soustraire n'importe qui de leur argent, et parfois même le faire paraître juste ! Les arnaqueurs sont les maîtres des escroqueries, grandes comme petites, du comptage de cartes et dés pipés aux systèmes pyramidaux et autres fraudes.
+Escrocs, tricheurs et surtout arnaqueurs peuplent les alentours des tavernes, là où les passants ont parfois une plus forte tendance à *perdre* leurs pièces. L'arnaqueur typique sait bien qu'avec les bons mots et le bon plan, vous pouvez soustraire n'importe qui de leur argent, et parfois même le faire paraître juste ! Les arnaqueurs sont les maîtres des escroqueries, grandes comme petites, du comptage de cartes et dés pipés aux systèmes pyramidaux et autres fraudes.
 
 ## Escroquerie
 

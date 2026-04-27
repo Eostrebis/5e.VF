@@ -3,27 +3,27 @@ writing_status: finished
 ---
 Un grep est un charognard souterrain, connu pour utiliser sa vision aiguisée, son ouïe fine et son vol silencieux pour tromper et voler les voyageurs, amassant ses possessions dans des butins bien cachés. Les arcanistes utilisent les greps comme des messagers et des éclaireurs, mais ils excellent en tant que récupérateurs ; un grep peut se voir donner le nom d'un objet important, être envoyé à sa recherche, et revenir peu de temps après avec l'objet demandé.
 
-___
+*_*
 >## Grep
 >*Minuscule Monstruosité, typiquement neutre*
 >![[Grep-20240519105103313.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 15 (armure naturelle)
 >- **Points de Vie** 19 (6d4 + 4)
 >- **Vitesse** 15 ft., vol 15 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|18 (+4)|13 (+1)|13 (+1)|15 (+2)|10 (+0)|
 >
->___
+>*_*
 >- **Compétences** Perception +4, Escamotage +6, Discrétion +6
 >- **Immunités aux Conditions** empoisonné
 >- **Sens.** Vision dans le Noir 60 ft., Perception Passive 12
 >- **Langues** Comprends le Commun et l'Outre-Commun, mais ne peut pas parler
 >- **Difficulté** 1 (200 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > **Embuscade.** Le grep a l'avantage aux jets d'attaque contre une créature surprise.
 >
 > **Odorat et Ouïe Aiguisés.** Le grep a l'avantage aux jets de Sagesse (Perception) se reposant sur l'odorat ou l'ouïe.

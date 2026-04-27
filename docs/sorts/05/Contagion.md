@@ -24,8 +24,8 @@ Votre toucher inflige une maladie. Réalisez une attaque de sort de mêlée cont
 
 Puisque ce sort inflige une maladie naturelle à sa cible, tout effet qui permet de retirer une maladie ou d'empirer les effets d'une maladie s'applique ici.
 
- - __Maladie Aveuglante.__ Une douleur se saisit de l'esprit de la créature et ses yeux deviennent d'un blanc vitreux. La créature a le désavantage à ses jets de caractéristique et de sauvegarde de Sagesse et est [[aveuglé|aveuglée]].
- - __Sale Fièvre.__ Une fièvre brûlante s'empare du corps de la créature. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Force.
+ - **Maladie Aveuglante.** Une douleur se saisit de l'esprit de la créature et ses yeux deviennent d'un blanc vitreux. La créature a le désavantage à ses jets de caractéristique et de sauvegarde de Sagesse et est [[aveuglé|aveuglée]].
+ - **Sale Fièvre.** Une fièvre brûlante s'empare du corps de la créature. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Force.
  - **Pourrissement de la Chair.** La chair de la créature commence à nécroser. La créature a le désavantage aux jets de Charisme et est vulnérable à tous les dégâts.
  - **Brûle-Esprit.** L'esprit de la créature devient fiévreux. La créature a le désavantage aux jets de caractéristique et de sauvegarde d'Intelligence, et la créature agit comme si elle était sous l'effet du sort [[confusion]] pendant les combats.
  - **Convulsion.** La créature est prise de tremblements. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Dextérité.

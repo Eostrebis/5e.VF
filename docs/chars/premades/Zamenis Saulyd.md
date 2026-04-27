@@ -3,15 +3,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Drow
+**Race :** Drow
 
-__Classe :__ Investigateur
+**Classe :** Investigateur
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :----: |
@@ -20,15 +20,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1 | ⬤ Investigation (_Int_) : +7 |
-| ◉ Arcanes (_Int_) : +5 | ◎ Médecine (_Sag_) : +3 |
-| ⬤ Athlétisme (_For_) : +9 | ◎ Nature (_Int_) : +3<br> |
-| ◎ Discrétion (_Dex_) : +1 | ◉ Perception (_Sag_) : +5 |
-| ◎ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : -3 |
-| ◉ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : +3 |
-| ◎ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : -3 |
-| ◎ Intimidation (_Cha_) : -3 | ◎ Survie (_Sag_) : +3 |
-| ◉ Intuition (_Sag_) : +5 | ◎ Tromperie (_Cha_) : -3<br> |
+| ◎ Acrobaties (*Dex*) : +1 | ⬤ Investigation (*Int*) : +7 |
+| ◉ Arcanes (*Int*) : +5 | ◎ Médecine (*Sag*) : +3 |
+| ⬤ Athlétisme (*For*) : +9 | ◎ Nature (*Int*) : +3<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◉ Perception (*Sag*) : +5 |
+| ◎ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : -3 |
+| ◉ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : +3 |
+| ◎ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : -3 |
+| ◎ Intimidation (*Cha*) : -3 | ◎ Survie (*Sag*) : +3 |
+| ◉ Intuition (*Sag*) : +5 | ◎ Tromperie (*Cha*) : -3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Zamenis, une Drow érudite et anormalement forte, exilée de votre société matriarcale après avoir résolu une crise surnaturelle par la logique et la force brute, prouvant ainsi que les méthodes "grossières" sont parfois les plus efficaces.
@@ -51,15 +51,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Set de Dé]], [[Kit d'Empoisonneur]]
 
-__Langues__ : Commun, Elfique, Profond
+**Langues** : Commun, Elfique, Profond
 
 ### Description
 
-__Âge :__ 114 ans
+**Âge :** 114 ans
 
-__Taille :__ 1,70 m
+**Taille :** 1,70 m
 
-__Poids :__ 77 kg
+**Poids :** 77 kg
 
 Zamenis a la silhouette et les traits indubitables d'une elfe noire, mais quelque chose en elle contredit immédiatement les stéréotypes de sa race. Là où l'on s'attendrait à voir une silhouette svelte et gracieuse, on trouve une carrure robuste et une musculature dense, presque surprenante. Elle n'est pas taillée pour l'escrime agile et les ballets mortels, mais pour la force brute et l'endurance. Ses épaules sont larges, et ses bras, habitués à manier des armes lourdes et à maîtriser des créatures récalcitrantes, sont puissants.
 
@@ -136,15 +136,15 @@ Zamenis est capable de canaliser sa puissance physique pour surmonter les obstac
 
 ### Traits de Personnalité
 
-__Traits :__ Je commence et termine mes journées par des rituels qui ne sont familiers à ceux autour de moi. Je ne peux m'empêcher de me questionner sur comment les choses et les personnes fonctionnent.
+**Traits :** Je commence et termine mes journées par des rituels qui ne sont familiers à ceux autour de moi. Je ne peux m'empêcher de me questionner sur comment les choses et les personnes fonctionnent.
 
-__Idéal :__ Tout est nouveau, mais j'ai soif de connaissances.
+**Idéal :** Tout est nouveau, mais j'ai soif de connaissances.
 
-__Lien :__ Ma liberté est la plus importante de mes possessions, et je ne laisserai personne me la voler.
+**Lien :** Ma liberté est la plus importante de mes possessions, et je ne laisserai personne me la voler.
 
-__Défaut :__ J'ai une faiblesse pour les habitants du monde de la surface.
+**Défaut :** J'ai une faiblesse pour les habitants du monde de la surface.
 
-__Alignement :__ Neutre
+**Alignement :** Neutre
 
 ## Conseils de Jeu
 
