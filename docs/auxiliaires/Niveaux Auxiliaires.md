@@ -20,16 +20,16 @@ Un niveau auxiliaire spécifie s'il vous confère des maîtrises ou langues lors
 
 | Niveau Auxiliaire                          | Niveau Prérequis | Incantation |                    Prérequis Narratif                    |
 | ------------------------------------------ | :--------------: | :---------: | :------------------------------------------------------: |
-| [[Maître Animalier]]                       |        3         |      ❌      |                           :x:                            |
+| [[Acolyte Draconique]]                     |       :x:        |     :x:     |    Allié avec un dragon ou un aspect d'un dieu dragon    |
 | [[Bouffon]]                                |       :x:        |     :x:     |                           :x:                            |
-| [[Incanteur Clandestin]]                   |       :x:        |      ✔      |                           :x:                            |
 | [[Coursier]]                               |       :x:        |     :x:     |    Employé comme coursier, messager, contrebandier...    |
 | [[5e/docs/auxiliaires/Cultiste\|Cultiste]] |       :x:        |     :x:     | A rejoint un culte ou possède au moins un trait de Folie |
-| [[Acolyte Draconique]]                     |       :x:        |     :x:     |    Allié avec un dragon ou un aspect d'un dieu dragon    |
 | [[5e/docs/auxiliaires/Expert\|Expert]]     |       :x:        |     :x:     |                           :x:                            |
+| [[Gardien de Relique]]                     |       :x:        |     :x:     |                           :x:                            |
+| [[Incanteur Clandestin]]                   |       :x:        |      ✔      |                           :x:                            |
 | [[Magicien Buissonier]]                    |       :x:        |      ✔      |                           :x:                            |
+| [[Maître Animalier]]                       |        3         |      ❌      |                           :x:                            |
+| [[Mercenaire]]                             |       :x:        |     :x:     |      A complété au moins un contrat de mercenariat       |
 | [[Prêtre]]                                 |       :x:        |     :x:     |                   Ordonné par une foi                    |
 | [[Pugiliste]]                              |       :x:        |     :x:     |                           :x:                            |
-| [[Gardien de Relique]]                     |       :x:        |     :x:     |                           :x:                            |
-| [[Mercenaire]]                             |       :x:        |     :x:     |      A complété au moins un contrat de mercenariat       |
 | [[Voyou]]                                  |       :x:        |     :x:     |           Membre d'une organisation criminelle           |
