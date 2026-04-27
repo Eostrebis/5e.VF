@@ -17,7 +17,7 @@ Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vo
 
 ## Figure de Guerre
 
-Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous prodigue de puissantes attaques à distance pour compléter votre lamefil. Vous pouvez utiliser cet accessoire comme une arme pour réaliser des attaques de sort à distance d'une portée de 120 ft. qui infligent 1d10 + votre modificateur d'Intelligence dégâts de Force, en projetant des projectiles explosifs et perçants depuis les différents mécanismes arcaniques qui recouvrent l'armure. Cette attaque n'est pas réalisée avec désavantage si votre cible est [[au sol]] et inflige le double de dégâts si votre cible est de taille TG ou plus grande encore.
+Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous prodigue de puissantes attaques à distance pour compléter votre lamefil. Vous pouvez utiliser cet accessoire comme une arme pour réaliser des attaques de sort à distance d'une portée de 120 ft. qui infligent 1d10 + votre modificateur d'Intelligence dégâts de force, en projetant des projectiles explosifs et perçants depuis les différents mécanismes arcaniques qui recouvrent l'armure. Cette attaque n'est pas réalisée avec désavantage si votre cible est [[au sol]] et inflige le double de dégâts si votre cible est de taille TG ou plus grande encore.
 
 ## Machine Massive
 
