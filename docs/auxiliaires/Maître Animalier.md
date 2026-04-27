@@ -1,5 +1,5 @@
 ---
-writing_status: wip
+writing_status: finished
 ---
 _Prérequis : Niveau 3_
 
@@ -17,3 +17,5 @@ Choisissez une Bête d'une taille au plus M et avec un FD inférieur ou égal à
 La Bête obéit à vos ordres de la meilleure façon qu'elle puisse. Pendant votre tour, vous pouvez verbalement lui ordonner un déplacement (aucune action requise). Vous pouvez utiliser votre action pour verbalement lui ordonner d'utiliser son action pour Attaquer, Courir, se Désengager ou Aider. Si vous ne lui donnez aucun ordre, la Bête utilise son action pour Esquiver. Si vous obtenez l'aptitude Attaque Supplémentaire ou une autre attitude qui vous permet d'attaquer plus d'une fois pendant votre action d'Attaquer, vous pouvez abandonner l'une de ces attaques pour ordonner à votre Bête d'attaquer.
 
 Si vous êtes [[incapacité]] ou absent, la Bête agit naturellement, se concentrant sur votre protection ainsi que la sienne. La Bête n'a jamais besoin de votre commande pour utiliser une réaction, par exemple pour réaliser une attaque d'opportunité.
+
+Si la Bête meurt, vous obtenez obtenir un nouveau compagnon en passant 8 heures à entraîner et vous lier avec une Bête qui ne vous est pas hostile et qui remplit les critères.
