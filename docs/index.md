@@ -1,6 +1,6 @@
 ---
 search:
- exclude: true
+  exclude: true
 ---
 # Eostrebis
 
@@ -65,4 +65,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-27 17:02:06
+Mis à jour pour la dernière fois le 2026-04-27 17:05:08
