@@ -20,7 +20,7 @@ Au niveau 2, votre cape se déplace pour vous défendre et frapper vos ennemis. 
 
 ## Objectif Dissimulé
 
-Au niveau 6, votre cape peut dissimuler vos mouvements et modifier votre voix. Vous pouvez choisir de rendre votre discours incohérent à toutes les créatures autres que celles que vous choisissez. Lorsque vous utilisez votre action pour Courir, vous bénéficiez également de l'effet de l'action de Désengagement.
+Au niveau 6, votre cape peut dissimuler vos mouvements et modifier votre voix. Vous pouvez choisir de rendre votre discours incohérent à toutes les créatures autres que celles que vous choisissez. Lorsque vous utilisez votre action pour Foncer, vous bénéficiez également de l'effet de l'action de Désengagement.
 
 ## Obscurité Saisie
 

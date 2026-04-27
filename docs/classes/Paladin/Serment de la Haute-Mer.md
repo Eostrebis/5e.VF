@@ -49,7 +49,7 @@ Au niveau 20, vous apprenez à canaliser les esprits des capitaines des légende
 
  - Vous avez l'avantage aux jets de Force (Athlétisme) et vous obtenez une vitesse d'escalade égale à votre vitesse de marche. Si vous avez déjà une vitesse d'escalade, celle-ci est doublée.
  - Si vous êtes à 5 ft. d'une créature et qu'aucune autre créature n'est à 5 ft. de vous, vous avez l'avantage aux jets d'attaque contre cette créature.
- - Vous pouvez Courir ou vous Désengager pour une action bonus.
+ - Vous pouvez Foncer ou vous Désengager pour une action bonus.
  - Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Dextérité contre les effets que vous pouvez voir.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

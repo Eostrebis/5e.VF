@@ -9,7 +9,7 @@ Une des traditions monastiques concentrées sur les fleurs et présente principa
 
 ## Éclosion
 
-Au niveau 3, une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour créer une éruption florale qui cache la vision de la cible. Jusqu'à la fin de son prochain tour, la cible est aveugle au-delà de 5 ft. Les pétales suivent la créature si elle bouge, sauf si elle utilise son action pour courir ou se déplace de plus de 40 ft. pendant son tour.
+Au niveau 3, une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour créer une éruption florale qui cache la vision de la cible. Jusqu'à la fin de son prochain tour, la cible est aveugle au-delà de 5 ft. Les pétales suivent la créature si elle bouge, sauf si elle utilise son action pour Foncer ou se déplace de plus de 40 ft. pendant son tour.
 
 ## Ruée de Pétales Flottants
 

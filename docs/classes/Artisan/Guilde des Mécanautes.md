@@ -17,7 +17,7 @@ Vous pouvez réparer votre appareil à la fin d'un repos cours en dépensant vos
 
 __Entrer et Quitter l'Appareil.__ Une créature peut entrer ou quitter l'appareil en utilisant la moitié de son mouvement. Tant qu'elle est dans l'appareil, la créature a la couverture totale aux effets venant de l'extérieur. Vos propriétés d'armure n'ont aucun effet lorsque vous êtes dans l'appareil. Une seule créature de taille M ou P peut être dans l'appareil à la fois.
 
-__Piloter l'Appareil.__ Une créature qui est dans l'Appareil peut le piloter ; l'appareil agit pendant le tour du pilote. Toute créature pilotant l'appareil peut lui ordonner de se déplacer (aucune action). Lorsque vous pilotez l'appareil, vous pouvez utiliser votre action pour lui ordonner d'utiliser son action pour Attaquer, Courir, se Désengager, se Cacher ou Utiliser un objet. Vous pouvez également lui ordonner d'utiliser une réaction, en utilisant la vôtre pour ce faire.
+__Piloter l'Appareil.__ Une créature qui est dans l'Appareil peut le piloter ; l'appareil agit pendant le tour du pilote. Toute créature pilotant l'appareil peut lui ordonner de se déplacer (aucune action). Lorsque vous pilotez l'appareil, vous pouvez utiliser votre action pour lui ordonner d'utiliser son action pour Attaquer, Foncer, se Désengager, se Cacher ou Utiliser un objet. Vous pouvez également lui ordonner d'utiliser une réaction, en utilisant la vôtre pour ce faire.
 
 Une seule créature peut piloter l'appareil à la fois. Le pilote prend la moitié des dégâts que l'appareil prend.
 

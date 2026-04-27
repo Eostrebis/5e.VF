@@ -79,7 +79,7 @@ title: Dons
 | Shadow Touched               | [[Touché par les Ombres]]          |
 | Sharpshooter                 | [[Tireur Exceptionnel]]            |
 | Shield Master                | [[Maître des Boucliers]]           |
-| Skill Expert                 | [[Expert]]                         |
+| Skill Expert                 | [[5e/docs/Dons/Expert]]                         |
 | Skilled                      | [[Talentueux]]                     |
 | Skulker                      | [[Discret]]                        |
 | Slasher                      | [[Pourfendeur]]                    |

@@ -20,7 +20,7 @@ writing_status: empty
 ---
 Ciblez une créature consentante que vous pouvez voir à portée qui possède une vitesse de vol. Cette créature bénéficie des effets suivants pendant la durée du sort : 
 
- - La cible peut utiliser son action bonus pour Courir.
+ - La cible peut utiliser son action bonus pour Foncer.
  - La cible peut réaliser du vol stationnaire.
  - La cible a l'avantage aux jets de Dextérité (Acrobatie).
  - La cible ne provoque pas d'attaques d'opportunité lorsqu'elle sort de la portée d'un ennemi en volant.

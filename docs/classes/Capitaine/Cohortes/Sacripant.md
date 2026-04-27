@@ -35,7 +35,7 @@ Tant qu'il suit les ordres de son capitaine, le sacripant obtient les capacités
 
 _Niveau 2._ __Entraînement de Roublard.__ Les dégâts supplémentaires de l'attaque sournoise augmentent de 3 (1d6) lorsque le capitaine atteint le niveau 6 (2d6), 10 (3d6), 14 (4d6) et 18 (5d6). 
 
-_Niveau 6._ _Action Bonus :_ __Ruse.__ Le sacripant peut Courir, se Désengager ou se Cacher pour une action bonus. 
+_Niveau 6._ _Action Bonus :_ __Ruse.__ Le sacripant peut Foncer, se Désengager ou se Cacher pour une action bonus. 
 
 _Niveau 10._ _Réaction :_ __Esquive Instinctive.__ Le sacripant réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Le sacripant doit être capable de voir cette attaque pour utiliser cette réaction.
 

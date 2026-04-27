@@ -34,7 +34,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Renvoi du Sacré.** Pour une action en utilisant votre Canal Divin, vous censurez les Célestes et autres hommes de foi. Chaque Céleste que vous pouvez voir ou entendre à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse. Chaque Humanoïde à portée qui peut lancer des sorts de niveau 1 ou plus en utilisant la Sagesse comme caractéristique d'incantation doit également réaliser un jet de sauvegarde de Sagesse. Si une créature échoue son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 
-Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que courir ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
+Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que Foncer ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 
 ## Aura de Non Divinité
 

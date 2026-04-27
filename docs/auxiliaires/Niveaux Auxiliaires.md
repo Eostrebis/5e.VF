@@ -22,7 +22,7 @@ Un niveau auxiliaire spécifie s'il vous confère des maîtrises ou langues lors
 | ------------------------------------------ | :--------------: | :---------: | :------------------------------------------------------: |
 | [[Acolyte Draconique]]                     |       :x:        |     :x:     |    Allié avec un dragon ou un aspect d'un dieu dragon    |
 | [[Bouffon]]                                |       :x:        |     :x:     |                           :x:                            |
-| [[Coursier]]                               |       :x:        |     :x:     |    Employé comme coursier, messager, contrebandier...    |
+| [[Coursier]]                               |       :x:        |     :x:     | A été employé comme coursier, messager, contrebandier... |
 | [[5e/docs/auxiliaires/Cultiste\|Cultiste]] |       :x:        |     :x:     | A rejoint un culte ou possède au moins un trait de Folie |
 | [[5e/docs/auxiliaires/Expert\|Expert]]     |       :x:        |     :x:     |                           :x:                            |
 | [[Gardien de Relique]]                     |       :x:        |     :x:     |                           :x:                            |

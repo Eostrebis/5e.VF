@@ -21,7 +21,7 @@ Au niveau 3, vous créez votre tapisserie et commencez à la nourrir de votre sa
 
 ## Paire Inarrêtable
 
-Au niveau 6, votre connexion à votre tapisserie vous permet de réaliser des exploits autrement impossibles. Vous obtenez un bonus à vos jets de caractéristique et sauvegarde de Force égal à votre Échelon de Tisserand, et lorsque vous utilisez votre action pour Courir, votre distance et hauteur de saut augmentent pour devenir égales à votre vitesse de marche.
+Au niveau 6, votre connexion à votre tapisserie vous permet de réaliser des exploits autrement impossibles. Vous obtenez un bonus à vos jets de caractéristique et sauvegarde de Force égal à votre Échelon de Tisserand, et lorsque vous utilisez votre action pour Foncer, votre distance et hauteur de saut augmentent pour devenir égales à votre vitesse de marche.
 
 ## Ne Pas Monter Tout Seul…
 
