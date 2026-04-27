@@ -27,7 +27,7 @@ Un niveau auxiliaire spécifie s'il vous confère des maîtrises ou langues lors
 | [[5e/docs/auxiliaires/Expert\|Expert]]     |       :x:        |     :x:     |                           :x:                            |
 | [[Gardien de Relique]]                     |       :x:        |     :x:     |                           :x:                            |
 | [[Incanteur Clandestin]]                   |       :x:        |      ✔      |                           :x:                            |
-| [[Magicien Buissonier]]                    |       :x:        |      ✔      |                           :x:                            |
+| [[Magicien Buissonnier]]                    |       :x:        |      ✔      |                           :x:                            |
 | [[Maître Animalier]]                       |        3         |      ❌      |                           :x:                            |
 | [[Mercenaire]]                             |       :x:        |     :x:     |      A complété au moins un contrat de mercenariat       |
 | [[Prêtre]]                                 |       :x:        |     :x:     |                   Ordonné par une foi                    |
