@@ -65,7 +65,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 **Vitesse.** Votre vitesse de base est de 25 ft. Votre vitesse n'est pas réduite lorsque vous portez une [[armures lourdes|armure lourde]].
 
-**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Résistance Naine.** Vous avez l'avantage aux jets de sauvegarde contre le poison, et vous êtes résistant aux dégâts de poison.
 
@@ -97,7 +97,7 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 **Vitesse.** Votre vitesse de base est de 25 ft. Votre vitesse n'est pas réduite lorsque vous portez une [[armures lourdes|armure lourde]].
 
-**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Résistance Naine.** Vous avez l'avantage aux jets de sauvegarde contre le poison, et vous êtes résistant aux dégâts de poison.
 

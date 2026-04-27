@@ -97,7 +97,7 @@ Vous avez appris à saisir et modeler la magie qui vous maudit en sorts.
 
 ### Cantrips (Sorts de niveau 0)
 
-Au niveau 1, vous connaissez quatre cantrips de votre choix de la liste de sorts de la sorcière. Aux niveaux supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la table de la Sorcière.
+Au niveau 1, vous connaissez quatre cantrips de votre choix de la liste de sorts de la sorcière. Aux Niveaux Supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la table de la Sorcière.
 
 ### Emplacements de sorts
 

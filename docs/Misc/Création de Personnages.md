@@ -140,7 +140,7 @@ Un jet de Force peut modéliser toute tentative de soulever, pousser, tirer ou c
  - S'accrocher à un chariot pour se faire traîner
 
 #### Jets d'attaque et de dégâts
-Vous ajoutez votre modificateur de Force à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de corps à corps comme une masse, une hache d'armes ou une javeline. Les armes de corps à corps sont utilisées pour faire des attaques au corps à corps, et certaines d'entre elles peuvent être jetées pour effectuer une attaque à distance.
+Vous ajoutez votre modificateur de Force à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de mêlée comme une masse, une hache d'armes ou une javeline. Les armes de mêlée sont utilisées pour faire des attaques de mêlée, et certaines d'entre elles peuvent être jetées pour effectuer une attaque à distance.
 
 #### Poids
 Votre Force détermine le poids que vous pouvez porter. Les termes suivants définissent ce que vous pouvez soulever ou transporter.
@@ -185,7 +185,7 @@ Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement
 > **Que pouvez-vous voir ?** Pour déterminer si vous pouvez voir une créature ou un objet caché, il est important de savoir quelle est la visibilité dans la zone, qui peut être réduite ou nulle.
 
 #### Jets d'attaque et de dégâts
-Vous ajoutez votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme à distance, comme une fronde ou un arc. Vous pouvez également ajouter votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de corps à corps qui a la propriété finesse, comme une dague ou une rapière.
+Vous ajoutez votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme à distance, comme une fronde ou un arc. Vous pouvez également ajouter votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de mêlée qui a la propriété finesse, comme une dague ou une rapière.
 
 #### Classe d'Armure
 Selon l'armure que vous portez, vous pouvez ajouter tout ou partie de votre modificateur de Dextérité à votre classe d'armure.

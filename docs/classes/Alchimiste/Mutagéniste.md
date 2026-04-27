@@ -19,7 +19,7 @@ Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise
 
 ## Mutagène Partagé
 
-Au niveau 6, vous avez créé un mutagène exprimé de façon suffisamment générale pour pouvoir être injecté de manière sûre aux autres. Vous pouvez utiliser votre action et un dépenser un dé de réactifs pour injecter une créature volontaire à moins de 5 ft. de vous avec un mutagène de votre choix. Une créature ne peut être sous l'effet que d'un mutagène à la fois. Une fois que vous avez injecté une autre créature avec un mutagène, vous ne pouvez pas le refaire tant que l'original n'a pas terminé.
+Au niveau 6, vous avez créé un mutagène exprimé de façon suffisamment générale pour pouvoir être injecté de manière sûre aux autres. Vous pouvez utiliser votre action et un dépenser un dé de réactifs pour injecter une créature consentante à moins de 5 ft. de vous avec un mutagène de votre choix. Une créature ne peut être sous l'effet que d'un mutagène à la fois. Une fois que vous avez injecté une autre créature avec un mutagène, vous ne pouvez pas le refaire tant que l'original n'a pas terminé.
 
 ## Mutation Avancée
 

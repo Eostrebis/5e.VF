@@ -2,13 +2,13 @@
 | ---------------------------- | -------------------------------- |
 | Acolyte                      | [[Acolyte]]                      |
 | Baldurian                    | [[Baldurien]]                    |
-| Antrhopologist               | [[Antrhopologue]]                |
+| Anthropologist               | [[Anthropologue]]                |
 | Archaeologist                | [[Archéologue]]                  |
 | Astral Drifter               | [[Voyageur Astral]]              |
 | Athlete                      | [[Athlète]]                      |
-| Celebrity Adventurer's Scion | [[Rejon d'Aventurier Célèbre]]   |
+| Celebrity Adventurer's Scion | [[Rejeton d'Aventurier Célèbre]] |
 | Charlatan                    | [[Charlatan]]                    |
-| Citi Watch / Investigator    | [[Gardien de la Paix]]           |
+| City Watch / Investigator    | [[Gardien de la Paix]]           |
 | Clan Crafter                 | [[Artisan de Clan]]              |
 | Cloisterd Scholar            | [[Érudit Reclus]]                |
 | Courtier                     | [[Courtisan]]                    |
@@ -16,12 +16,12 @@
 | Entertainer                  | [[Artiste]]                      |
 | Faceless                     | [[Sans-Visage]]                  |
 | Faction Agent                | [[Agent de Faction]]             |
-| Failed Merchant              | [[Marchant Raté]]                |
+| Failed Merchant              | [[Marchand Raté]]                |
 | Far Traveler                 | [[Voyageur venu de Loin]]        |
 | Feylost                      | [[Égaré en Féerie]]              |
 | Fisher                       | [[Pêcheur]]                      |
-| Folk Hero                    | [[Héro Local]]                   |
-| Gambleur                     | [[Joueur]]                       |
+| Folk Hero                    | [[Héros Local]]                  |
+| Gambler                      | [[Joueur]]                       |
 | Gate Warden                  | [[Gardien des Portails]]         |
 | Giant Foundling              | [[Élevé par les Géants]]         |
 | Gladiator                    | [[Gladiateur]]                   |
@@ -55,7 +55,7 @@
 | Soldier                      | [[Soldat]]                       |
 | Urban Bounty Hunter          | [[Chasseur de Primes Urbain]]    |
 | Urchin                       | [[Enfant des Rues]]              |
-| Uthgardt Tribe Membre        | [[Membre de la Tribu Uthgardt]]  |
+| Uthgardt Tribe Member        | [[Membre de la Tribu Uthgardt]]  |
 | Wildspacer                   | [[Natif de l'Espace]]            |
 | Witchlight Hand              | [[Forain]]                       |
 | Witherbloom Student          | [[Étudiant de Flestrefleur]]     |

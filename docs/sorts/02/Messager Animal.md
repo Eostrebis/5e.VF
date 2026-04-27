@@ -23,4 +23,4 @@ De par ce sort, vous pouvez utiliser un animal pour délivrer un message. Choisi
 
 Lorsque le messager arrive à destination, il délivre votre message à la créature que vous avez décrit, répliquant le son de votre voix. Le messager ne parle qu'à une créature qui correspond à votre description. Si le message n'arrive pas à destination avant la fin du sort, le message est perdu, et la bête fait demi-tour vers là où vous avez lancé le sort.
 
-**Aux Prochains Niveaux.** Si vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, la durée du sort augmente de 48 heures par niveau d'emplacement au delà du niveau 2.
+**Aux Niveaux Supérieurs.** Si vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, la durée du sort augmente de 48 heures par niveau d'emplacement au delà du niveau 2.

@@ -13,7 +13,7 @@ Lorsque vous choisissez ce champ d'études au niveau, vous gagnez la maîtrise d
 
 ## Lancer de Potion
 
-À partir du niveau 6, vous avez développé un mécanisme chimique qui vous permet de délivrer des potions plus efficacement à des alliés distants. Vous pouvez utiliser votre action pour lancer une potion à une créature volontaire ou inconsciente à moins de 20 ft. de vous. La cible gagne les effets de la potion comme si elle l'avait consommé normalement.
+À partir du niveau 6, vous avez développé un mécanisme chimique qui vous permet de délivrer des potions plus efficacement à des alliés distants. Vous pouvez utiliser votre action pour lancer une potion à une créature consentante ou inconsciente à moins de 20 ft. de vous. La cible gagne les effets de la potion comme si elle l'avait consommé normalement.
 
 ## Automédication
 

@@ -35,4 +35,4 @@ Vous touchez une créature et lui conférez une amélioration magique. Choisisse
 
 **Sagesse de la Chouette.** La cible a l'avantage aux jets de Sagesse.
 
-**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez cibler une créature de plus pour chaque niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez cibler une créature de plus pour chaque niveau d'emplacement au-delà du niveau 2.

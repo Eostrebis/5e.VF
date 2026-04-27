@@ -10,7 +10,7 @@ __Outils :__ Un instrument de musique de votre choix
 
 ## Cantrips Supplémentaires
 
-Vous apprenez le cantrip [[moquerie cruelle]] ainsi qu'une autre cantrip de votre choix de la liste de sorts du Barde. Le Charisme est votre caractéristique d'incantation pour ces sorts. 
+Vous apprenez le cantrip [[moquerie cruelle]] ainsi qu'un autre cantrip de votre choix de la liste de sorts du Barde. Le Charisme est votre caractéristique d'incantation pour ces sorts. 
 
 ## Provocation
 

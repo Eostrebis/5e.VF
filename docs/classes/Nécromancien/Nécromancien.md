@@ -96,7 +96,7 @@ Votre connexion avec le plan des énergies négatives vous permet de lancer de p
 
 ### Cantrips (Sorts de niveau 0)
 
-Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du nécromancien. Aux niveaux supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la [[#table du Nécromancien]].
+Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du nécromancien. Aux Niveaux Supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la [[#table du Nécromancien]].
 
 ### Incantation de Sorts
 

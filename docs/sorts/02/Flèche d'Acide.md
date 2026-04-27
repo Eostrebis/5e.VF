@@ -16,6 +16,6 @@ Rituel: false
 englishname: Acid Arrow
 writing_status: empty
 ---
-Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible prend `dice:4d4|avg` dégâts d'acide immédiatement, et `dice:2d4|avg` à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
+Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible prend 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
 
-**Aux niveaux supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, les dégâts (aussi bien instantanés que différés) augmentent de `dice:1d4|avg` pour chaque niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, les dégâts (aussi bien instantanés que différés) augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 1.

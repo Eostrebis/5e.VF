@@ -46,7 +46,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft. .
 
 
 ## Humain Variant
@@ -63,7 +63,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft. .
 
 **Compétences.** Vous maîtrisez une compétence de votre choix.
 
@@ -85,7 +85,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft. .
 
 **Compétences.** Vous maîtrisez une compétence de votre choix.
 
@@ -123,7 +123,7 @@ Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le Noir.** Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Magie Arachnide.** Vous connaissez le cantrip [[Bouffée de Poison]]. À partir du niveau 3, vous pouvez lancer le sort [[Fléau]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[Pattes d'Araignée]] avec ce trait. Une fois que vous avez lancé [[Fléau]] ou [[Pattes d'Araignée]] avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
@@ -173,7 +173,7 @@ Les enfants de gobelins, hobgobelins et gobelours avec des humains sont connus c
 
 **Taille.** À la différence des autres humains, vous êtes de taille Petite ou Moyenne, en fonction de votre héritage.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
 
@@ -187,7 +187,7 @@ Un de vos parents est une créature de l'obscurité, par exemple une ombre ou un
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft.  de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
 
@@ -199,7 +199,7 @@ Les insectoïdes portent une ou deux marques distinctives des insectes, comme de
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision Aveugle.** Grâce à vos antennes, vous avez une vision aveugle dans un rayon de 10 ft. (3m/2 cases). Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglé ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
+**Vision Aveugle.** Grâce à vos antennes, vous avez une vision aveugle dans un rayon de 10 ft. Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglé ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
 
 **Régénération.** Si une partie de votre corps est amputée, et que cette amputation ne vous tue pas, vous pouvez la faire repousser en 24 heures.
 
@@ -223,7 +223,7 @@ Un de vos parents est un humain, tandis que l'autre est un nain. Ce couple est h
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. s verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Acclimatation aux Armures.** Votre vitesse n'est pas réduite lorsque vous portez une armure lourde et vous n'avez jamais le désavantage à vos jets de Dextérité (Discrétion) à cause d'une armure lourde.
 
@@ -237,7 +237,7 @@ Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Force Monstrueuse.** Vous gagnez la maîtrise en Athlétisme. De plus, lorsque vous faites un jet de Force (Athlétisme), vous pouvez traiter le résultat comme un 10, ou comme votre modificateur de force + votre niveau, lequel est le plus haut.
 
@@ -277,7 +277,7 @@ La plupart des humains possèdent un potentiel psionique négligeable, mais ceux
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Empathie.** Vous pouvez utiliser votre action pour sonder les émotions superficielles d'une créature. Vous devez être capable de voir la créature, et elle doit se situer dans un rayon de 30 ft. (9m/6 cases) ainsi qu'avoir un score d'Intelligence d'au moins 3. Vous apprenez l'état émotionnel de la créature et, au bon vouloir du MJ, un de ses Liens.
+**Empathie.** Vous pouvez utiliser votre action pour sonder les émotions superficielles d'une créature. Vous devez être capable de voir la créature, et elle doit se situer dans un rayon de 30 ft.  ainsi qu'avoir un score d'Intelligence d'au moins 3. Vous apprenez l'état émotionnel de la créature et, au bon vouloir du MJ, un de ses Liens.
 
 **Psionisme.** Vous connaissez le cantrip [[Main de Mage]], et la main est invisible lorsque vous lancez le cantrip avec ce trait. À partir du niveau 3, vous pouvez lancer le sort [[Serviteur Invisible]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[Lévitation]] avec ce trait. Une fois que vous avez lancé [[Serviteur Invisible]] ou [[Lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 

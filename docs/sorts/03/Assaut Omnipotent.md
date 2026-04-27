@@ -16,7 +16,7 @@ Rituel: false
 englishname: Almighty Assault
 writing_status: finished
 ---
-Dans le cadre de l'action utilisée pour lancer ce sort, vous devez effectuer une attaque d'arme au corps à corps contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
+Dans le cadre de l'action utilisée pour lancer ce sort, vous devez effectuer une attaque d'arme de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
 
 - **Tranchants.** Un croissant d'énergie jaillit de l'attaque, et chaque créature dans un cône de 20 ft. dans la direction de la cible doit effectuer un jet de sauvegarde de Dextérité.
 

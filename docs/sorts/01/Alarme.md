@@ -19,7 +19,7 @@ Rituel: true
 englishname: Alarm
 writing_status: empty
 ---
-Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arrête de 20 ft. (6m/4 cases). Jusqu'à ce que le sort termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
+Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arrête de 20 ft. Jusqu'à ce que le sort termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
 
 Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1.5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi.
 

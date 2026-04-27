@@ -99,7 +99,7 @@ En tant que conducteur du pouvoir divin, vous pouvez lancer des sorts de clerc.
 
 ### Cantrips (Sorts de niveau 0)
 
-Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du clerc. Aux niveaux supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la table du Clerc.
+Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du clerc. Aux Niveaux Supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la table du Clerc.
 
 ### Préparation et Incantation de Sorts
 
@@ -169,7 +169,7 @@ Lorsque vous utilisez votre Canal Divin, vous choisissez l'effet créé. Vous de
 
 Pour une action, vous présentez votre symbole sacré et prononcez une prière bannissant les morts-vivants. Chaque Mort-Vivant qui peut vous voir ou vous entendre à 30 ft. doit réussir un jet de sauvegarde de Sagesse ou être renvoyé pendant 1 minute ou jusqu'à ce qu'il prenne des dégâts.
 
-Une créature renvoyée doit passer son tour à essayer de s'éloigner le plus possible de vous qu'elle le peut, et elle ne peut se déplacer consciemment vers un emplacement à 30 ft. de vous. Elle ne peut également pas prendre de réactions. Pour son action, elle ne peut prendre que l'action de Course ou essayer de s'échapper d'un effet qui l'empêcherait de se déplacer. S'il n'y a aucun endroit où se déplacer, la créature peut utiliser l'action d'Esquive.
+Une créature renvoyée doit passer son tour à essayer de s'éloigner le plus possible de vous qu'elle le peut, et elle ne peut se déplacer consciemment vers un emplacement à 30 ft. de vous. Elle ne peut également pas prendre de réactions. Pour son action, elle ne peut prendre que l'action de Foncer ou essayer de s'échapper d'un effet qui l'empêcherait de se déplacer. S'il n'y a aucun endroit où se déplacer, la créature peut utiliser l'action d'Esquive.
 
 ## Emploi du Pouvoir Divin (Opt.)
 

@@ -25,4 +25,4 @@ Si la cible est une créature botanique ou une plante magique, elle réalise le 
 
 Si vous ciblez une plante non magique qui n'est pas une créature, comme un arbre ou un buisson, elle ne réalise pas de jet de sauvegarde, elle fane et meurt.
 
-**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement de sort au delà du niveau 4.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement de sort au delà du niveau 4.

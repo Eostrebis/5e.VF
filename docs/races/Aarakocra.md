@@ -26,7 +26,7 @@ Vu d'en dessous, les aarakocras ressemblent à de larges oiseaux et sont souvent
 
 **Taille.** Les aarakocras font environ 1,50 m. Ils ont des corps fins, légers, qui pèsent entre 40 et 50 kilogrammes. Votre taille est Moyenne.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
 **Vol.** Grâce à vos ailes, vous avez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde.
 

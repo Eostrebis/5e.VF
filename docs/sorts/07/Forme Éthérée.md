@@ -31,4 +31,4 @@ Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origi
 
 Le sort n'a aucun effet si vous le lancez tant que vous êtes sur le Plan Éthéré ou sur un plan qui ne lui est pas frontalier, comme un des Plans Extérieurs.
 
-**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez cibler jusqu'à 3 créatures consentantes (dont vous) par niveau d'emplacement de sort au delà du niveau 7. Ces créatures doivent être à 10 ft. de vous lorsque vous lancez le sort.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez cibler jusqu'à 3 créatures consentantes (dont vous) par niveau d'emplacement de sort au delà du niveau 7. Ces créatures doivent être à 10 ft. de vous lorsque vous lancez le sort.

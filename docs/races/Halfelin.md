@@ -90,7 +90,7 @@ Les pieds-légers sont plus enclins à la soif de découverte que les autres hal
 
 **Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
 
-**Vitesse.** Votre vitesse de base est de 25 ft. (7.5 m/5 cases).
+**Vitesse.** Votre vitesse de base est de 25 ft. .
 
 **Chanceux.** Quand vous faites un 1 sur un d20 pour un jet d'attaque, jet de compétence ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
 
@@ -118,7 +118,7 @@ En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes ré
 
 **Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
 
-**Vitesse.** Votre vitesse de base est de 25 ft. (7.5 m/5 cases).
+**Vitesse.** Votre vitesse de base est de 25 ft. .
 
 **Chanceux.** Quand vous faites un 1 sur un d20 pour un jet d'attaque, jet de compétence ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
 
@@ -150,7 +150,7 @@ Beaucoup de ces halfelins sont renfermés sur leur clan et méfiant des étrange
 
 **Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
 
-**Vitesse.** Votre vitesse de base est de 25 ft. (7.5 m/5 cases).
+**Vitesse.** Votre vitesse de base est de 25 ft. .
 
 **Chanceux.** Quand vous faites un 1 sur un d20 pour un jet d'attaque, jet de compétence ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
 
@@ -158,4 +158,4 @@ Beaucoup de ces halfelins sont renfermés sur leur clan et méfiant des étrange
 
 **Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
 
-**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. (18m/6 cases). La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.
+**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.

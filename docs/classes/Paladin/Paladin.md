@@ -239,7 +239,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Châtiment Divin Amélioré
 
-Au niveau 11, vous êtes tellement imprégné de vertus que toutes vos armes de corps à corps portent la puissance divine en elles. Lorsque vous touchez avec une arme de corps à corps, la créature cible subit 1d8 dégâts radiants supplémentaires.
+Au niveau 11, vous êtes tellement imprégné de vertus que toutes vos armes de mêlée portent la puissance divine en elles. Lorsque vous touchez avec une arme de mêlée, la créature cible subit 1d8 dégâts radiants supplémentaires.
 
 ## Contact Purifiant
 
