@@ -9,7 +9,7 @@ Les druides du Cercle de la Vermine, parfois appelés seigneurs des vermines, pu
 
 L'essaim invoqué est amical envers vous et vos compagnons. Tirez l'initiative pour l'essaim invoqué, qui joue à son propre tour. Il obéit à tous les ordres verbaux que vous lui donnez (aucune action requise par vous). Si vous ne lui donnez aucun ordre, il se défend contre les créatures hostiles et ne prend aucune autre action.
 
-Tant que l'essaim se trouve sur votre emplacement, vous avez un bonus de +2 à la CA et, lorsque vous prenez des subissez des dégâtsez choisir que l'essaim les prenne à votre place.
+Tant que l'essaim se trouve sur votre emplacement, vous avez un bonus de +2 à la CA et, lorsque vous subissez des dégâts, vous pouvez choisir que l'essaim les prenne à votre place.
 
 À partir du niveau 6, vous pouvez invoquer un essaim de chauve-souris, d'insectes ou de corbeaux plutôt que de rats, et au niveau 14, vous pouvez aussi choisir d'invoquer un essaim de serpents venimeux.
 ## Infesté

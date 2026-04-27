@@ -23,7 +23,7 @@ Au niveau 6, lorsque vous lancez un sort qui inflige des dégâts d'acide, de fr
 
 ## Invulnérabilité
 
-À partir du niveau 10, lorsqu'un attaquant que vous voyez vous touche avec une attaque, vous pouvez utiliser votre réaction pour devenir quasiment invulnérable. Les dégâts que vous prenez de cette attaque sont réduits de 50.
+À partir du niveau 10, lorsqu'un attaquant que vous voyez vous touche avec une attaque, vous pouvez utiliser votre réaction pour devenir quasiment invulnérable. Les dégâts que vous subissez cette attaque sont réduits de 50.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 

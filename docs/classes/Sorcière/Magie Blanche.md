@@ -25,7 +25,7 @@ Au niveau 6, vous pouvez fabriquer un talisman magique qui éloigne tout danger.
 Lorsqu'une créature qui porte le talisman réalise un jet de sauvegarde, elle peut ajouter 1d4 à son jet.
 
 ## Explosion Bienveillante
-Au niveau 10, lorsque vous, votre familier ou un allié que vous pouvez voir à 30 ft. prend des dégâts, vous pouvez utiliser votre réaction afin que cette créature regagne un nombre de points de vie égal à 1d10 + votre modificateur de Charisme.
+Au niveau 10, lorsque vous, votre familier ou un allié que vous pouvez voir à 30 ft. subit des dégâts, vous pouvez utiliser votre réaction afin que cette créature regagne un nombre de points de vie égal à 1d10 + votre modificateur de Charisme.
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
 

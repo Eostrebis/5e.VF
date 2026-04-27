@@ -33,7 +33,7 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le templier obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-*Niveau 2.* *Action Bonus :* **Châtiment (1/jour).** Lorsque le templier touche avec une attaque armée de mêlée, la cible prend 9 (2d8) dégâts radiants supplémentaires. Le templier peut utiliser son châtiment une fois de plus lorsque le capitaine atteint le niveau 5 (2), 11 (3) et 17 (4/jour). 
+*Niveau 2.* *Action Bonus :* **Châtiment (1/jour).** Lorsque le templier touche avec une attaque armée de mêlée, la cible subit 9 (2d8) dégâts radiants supplémentaires. Le templier peut utiliser son châtiment une fois de plus lorsque le capitaine atteint le niveau 5 (2), 11 (3) et 17 (4/jour). 
 
 *Niveau 6.* *Réaction :* **Parade.** Le templier ajoute 2 à sa CA contre une attaque de mêlée qui le toucherait. Le templier doit voir l'attaquant et manier une arme de mêlée pour utiliser cette réaction. 
 

@@ -16,7 +16,7 @@ Lorsque vous vous liez à Vortirrackt, votre peau devient pâle et bizarrement a
 ## Trait : Membres Abominables
 Lorsque vous vous liez à Vortirrackt, des griffes poussent de vos mains, que vous pouvez utiliser pour réaliser des attaques à mains nues. Les griffes infligent 1d4 dégâts tranchants, et vous pouvez utiliser le Charisme plutôt que la Force pour les jets d'attaque et de dégâts. Les griffes sont considérées magiques vis-à-vis des résistances et immunités.
 
-Lorsque vous utilisez votre action pour attaquer, vous pouvez réaliser une attaque à mains nues avec les griffes pour une action bonus. De plus, lorsque vous utilisez vos griffes pour toucher une créature que vous avez déjà touchée avec vos griffes ce tour-ci, elle prend 2d6 dégâts tranchants supplémentaires.
+Lorsque vous utilisez votre action pour attaquer, vous pouvez réaliser une attaque à mains nues avec les griffes pour une action bonus. De plus, lorsque vous utilisez vos griffes pour toucher une créature que vous avez déjà touchée avec vos griffes ce tour-ci, elle subit 2d6 dégâts tranchants supplémentaires.
 
 ## Trait : Articulations Extérieures
 Lorsque vous vous liez à Vortirrackt, vos bras et jambes se déforment, s'allongeant et craquant jusqu'à ce qu'ils contiennent chacun une articulation supplémentaire. La portée de toutes vos attaques de mêlée, ainsi que de la portée de vos attaques d'opportunité, passe à 10 ft. De plus, vous pouvez réaliser une attaque d'opportunité lorsqu'une créature se déplace à l'intérieur de votre portée.

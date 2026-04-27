@@ -19,7 +19,7 @@ De plus, lorsque vous réalisez une attaque armée à distance avec une arme à 
 
 ## Attrape-Balle
 
-Également au niveau 7, vous pouvez utiliser votre réaction pour dévier ou attraper le projectile lorsque vous êtes touché par une attaque armée à distance. Lorsque vous le faites, les dégâts que vous prenez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre bonus de maîtrise.
+Également au niveau 7, vous pouvez utiliser votre réaction pour dévier ou attraper le projectile lorsque vous êtes touché par une attaque armée à distance. Lorsque vous le faites, les dégâts que vous subissez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre bonus de maîtrise.
 
 ## Esquive Prédictive
 
