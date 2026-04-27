@@ -33,6 +33,6 @@ Au niveau 6, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Excommunication
 
-Au niveau 14, pour une action, vous pouvez marquer une créature que vous pouvez voir à 60 ft. d'un symbole de condamnation religieuse. La cible doit réussir un jet de sauvegarde de Constitution ou Sagesse (votre choix) ou être marqué pendant 1 minute. Tant qu'elle est marquée, la créature ne peut regagner de points de vie ou avoir l'avantage à n'importe quel jet d'attaque ou jet de caractéristique. De plus, lorsque la créature utilise une action, elle prend 2d6 dégâts radiants alors que la marque se met à briller.
+Au niveau 14, pour une action, vous pouvez marquer une créature que vous pouvez voir à 60 ft. d'un symbole de condamnation religieuse. La cible doit réussir un jet de sauvegarde de Constitution ou Sagesse (votre choix) ou être marqué pendant 1 minute. Tant qu'elle est marquée, la créature ne peut regagner de points de vie ou avoir l'avantage à n'importe quel jet d'attaque ou jet de caractéristique. De plus, lorsque la créature utilise une action, elle subit 2d6 dégâts radiants alors que la marque se met à briller.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos.

@@ -6,7 +6,7 @@ Tous les ligateurs font appel aux vestiges depuis le Vide, mais seuls les avatar
 ## Invocation d'Avatar
 À partir du moment où vous rejoignez cette secte au niveau 3, vous pouvez utiliser votre action bonus pour manifester un avatar de vos vestiges, un esprit tangible qui apparaît à 5 ft. de vous et vous est lié par un cordon spectral. L'avatar est un mort-vivant de taille M avec des caractéristiques égales aux vôtres et une CA égale à 10 + votre modificateur de Charisme + votre modificateur de Dextérité. Il a l'apparence d'un amalgame de tous les vestiges auxquels vous êtes lié.
 
-Cet avatar n'a pas de points de vie, mais vous prenez les dégâts qu'il devrait prendre comme si vous aviez la résistance à tous les dégâts. Il disparaît si vous tombez [[inconscient]] ou si vous le dissipez pour une action bonus. Il réapparaît instantanément à vos côtés si vous vous trouvez à plus de 60 ft. de lui.
+Cet avatar n'a pas de points de vie, mais vous prenez les dégâts qu'il devrait subir comme si vous aviez la résistance à tous les dégâts. Il disparaît si vous tombez [[inconscient]] ou si vous le dissipez pour une action bonus. Il réapparaît instantanément à vos côtés si vous vous trouvez à plus de 60 ft. de lui.
 
 Pendant votre tour, vous pouvez ordonner à l'avatar de voler jusqu'à 30 ft. Vous pouvez réaliser une ou plusieurs de vos attaques à travers l'avatar lorsque vous utilisez votre action pour attaquer. L'avatar invoque alors une réplique spectrale de toute arme que vous seriez en train de tenir et utilise votre bonus aux jets d'attaques et de dégâts et les dégâts de l'arme originelle. Vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec votre avatar lorsqu'une créature sort de sa portée.
 

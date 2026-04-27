@@ -21,5 +21,5 @@ Au niveau 10, en ingérant régulièrement de petites doses de divers poisons et
 
 ## Récompense Toxique
 
-À partir du niveau 18, à chaque fois qu'une créature à moins de 5 ft. de vous vous touche avec une attaque de mêlée, vous pouvez utiliser votre réaction pour libérer un spray de vapeurs empoisonnées. L'attaquant doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de bombes ou être empoisonné pendant 1 minute. Tant qu'elle est empoisonnée, la créature prend 1d10 dégâts de poison à chaque début de tour. Une créature empoisonnée peut répéter ce jet de sauvegarde à la fin de son tour, terminant l'effet sur elle-même en cas de succès.
+À partir du niveau 18, à chaque fois qu'une créature à moins de 5 ft. de vous vous touche avec une attaque de mêlée, vous pouvez utiliser votre réaction pour libérer un spray de vapeurs empoisonnées. L'attaquant doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de bombes ou être empoisonné pendant 1 minute. Tant qu'elle est empoisonnée, la créature subit 1d10 dégâts de poison à chaque début de tour. Une créature empoisonnée peut répéter ce jet de sauvegarde à la fin de son tour, terminant l'effet sur elle-même en cas de succès.
 

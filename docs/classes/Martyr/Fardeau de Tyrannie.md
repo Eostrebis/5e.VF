@@ -38,6 +38,6 @@ Au niveau 14, vos coups absorbent la vitalité des autres. Une fois par tour, à
 
 Au niveau 18, vous pouvez exiger une fidélité totale même de vos pires ennemis. Vous pouvez lancer le sort [[domination de personne]] une fois sans dépenser de points de vie et sans qu'il compte dans le nombre maximum de sorts de martyr que vous pouvez incanter. 
 
-Lorsque vous lancez [[domination de personne]], la cible a le désavantage à son jet de sauvegarde et ne réalise pas de nouveau jet de sauvegarde lorsqu'elle prend des dégâts.
+Lorsque vous lancez [[domination de personne]], la cible a le désavantage à son jet de sauvegarde et ne réalise pas de nouveau jet de sauvegarde lorsqu'elle subit des dégâts.
 
 Une fois que vous avez lancé le sort sans dépenser de points de vie, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long.

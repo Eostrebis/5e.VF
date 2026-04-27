@@ -17,7 +17,7 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 **Monocle Heptagonal.** Pour une action bonus, vous pouvez lancer le sort [[invisibilité]] une fois en vous ciblant, sans dépenser d'emplacement de sort ou de composantes. 
 
-**Miroir Lucent.** Vous pouvez utiliser votre action bonus pour activer cette babiole, vous transposant partiellement dans le Plan Éthéré pendant 1 minute. Pendant cette durée, vous pouvez vous déplacer à travers d'autres créatures et objets comme si c'était du terrain difficile, mais vous prenez 1d10 dégâts de force si vous terminez votre tour dans une créature ou un objet. De plus, vous êtes résistant à tous les dégâts. Cet effet se termine prématurément si vous prenez des dégâts.
+**Miroir Lucent.** Vous pouvez utiliser votre action bonus pour activer cette babiole, vous transposant partiellement dans le Plan Éthéré pendant 1 minute. Pendant cette durée, vous pouvez vous déplacer à travers d'autres créatures et objets comme si c'était du terrain difficile, mais vous subissez 1d10 dégâts de force si vous terminez votre tour dans une créature ou un objet. De plus, vous êtes résistant à tous les dégâts. Cet effet se termine prématurément si vous subissez des dégâts.
 
 ## Présence Rassurante
 

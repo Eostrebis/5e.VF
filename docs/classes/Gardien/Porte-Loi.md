@@ -17,7 +17,7 @@ Au niveau 6, vous pouvez lancer le sort [[injonction]] une fois sans utiliser d'
 
 ## Esprit Mécanique
 
-À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur prend 4d6 dégâts psychiques.
+À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur subit 4d6 dégâts psychiques.
 
 ## Axiome Universel
 

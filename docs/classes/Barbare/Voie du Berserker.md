@@ -19,4 +19,4 @@ Si la créature réussit son jet de sauvegarde, vous ne pouvez pas utiliser cett
 
 ## Rétribution
 
-À partir du niveau 14, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+À partir du niveau 14, lorsque vous subissez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.

@@ -19,7 +19,7 @@ Vous pouvez réparer votre appareil à la fin d'un repos cours en dépensant vos
 
 **Piloter l'Appareil.** Une créature qui est dans l'Appareil peut le piloter ; l'appareil agit pendant le tour du pilote. Toute créature pilotant l'appareil peut lui ordonner de se déplacer (aucune action). Lorsque vous pilotez l'appareil, vous pouvez utiliser votre action pour lui ordonner d'utiliser son action pour Attaquer, Foncer, se Désengager, se Cacher ou Utiliser un objet. Vous pouvez également lui ordonner d'utiliser une réaction, en utilisant la vôtre pour ce faire.
 
-Une seule créature peut piloter l'appareil à la fois. Le pilote prend la moitié des dégâts que l'appareil prend.
+Une seule créature peut piloter l'appareil à la fois. Le pilote subit la moitié des dégâts que l'appareil prend.
 
 Lorsque vous êtes hors de l'appareil, vous pouvez lui ordonner de vous suivre ou de vous attendre. Lorsqu'il vous suit, il se déplace pendant ses tours pour être à 30 ft. de vous.
 
@@ -41,7 +41,7 @@ Au niveau 7, vous avez redessiné les jambes de votre appareil pour obtenir une 
 
 **Jambes Arachnotrones.** L'appareil peut se déplacer le long des surfaces verticales et des plafonds et il gagne une vitesse d'escalade égale à sa vitesse de marche.
 
-**Suspensions Hydrauliques.** La distance de saut de l'appareil triple et il ne prend plus de dégâts de chute de moins de 100 ft.
+**Suspensions Hydrauliques.** La distance de saut de l'appareil triple et il ne subit plus de dégâts de chute de moins de 100 ft.
 
 **Structure Télescopique.** Lorsque l'appareil n'est pas habité, vous pouvez utiliser votre action bonus pour lui ordonner de se réduire à une taille M ou revenir à sa taille originale. Tant qu'il est réduit ainsi, l'appareil ne peut pas être habité.
 
@@ -53,7 +53,7 @@ Au niveau 7, vous avez redessiné les jambes de votre appareil pour obtenir une 
 
 A parti du niveau 14, vous avez installé des attachements extérieurs à votre appareil. Choisissez l'une des améliorations suivantes. Une fois que vous avez utilisé l'amélioration installée, vous devez terminer un repos avant de pouvoir l'utiliser à nouveau.
 
-**Canon de Baliste.** Pour une action, vous pouvez tirer depuis la baliste lourde intégrée à votre appareil. Ce tir affecte une ligne large de 5 ft., longue de 60 ft. Toute créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Une telle créature prend 5d10 dégâts perçants en cas d'échec, et la moitié en cas de réussite.
+**Canon de Baliste.** Pour une action, vous pouvez tirer depuis la baliste lourde intégrée à votre appareil. Ce tir affecte une ligne large de 5 ft., longue de 60 ft. Toute créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Une telle créature subit 5d10 dégâts perçants en cas d'échec, et la moitié en cas de réussite.
 
 **Gyro-Module.** Vous pouvez utiliser votre action pour faire rapidement tourner votre appareil sur lui-même, lui permettant de réaliser une attaque de mêlée contre toute créature à 5 ft. de lui, avec un jet d'attaque distinct pour chaque créature. Vous ne pouvez pas vous déplacer pendant ces attaques.
 

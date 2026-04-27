@@ -19,6 +19,6 @@ Vous éruptez jusqu'à six piliers de pierre du sol à des points que vous pouve
 
 Si le pilier est créé sous une créature, elle doit réussir un jet de sauvegarde de Dextérité ou être soulevée par le pilier.
 
-Si un pilier ne peut atteindre sa hauteur maximale à cause d'un plafond ou d'un obstacle, une créature sur le pilier prend 6d6 dégâts contondants et est [[retenu|retenue]]. La créature retenue peut utiliser son action pour réaliser un jet de Force ou Dextérité contre le DD de sauvegarde du sort. Si elle réussit, la créature n'est plus retenue et doit quitter le pilier, quitte à en tomber.
+Si un pilier ne peut atteindre sa hauteur maximale à cause d'un plafond ou d'un obstacle, une créature sur le pilier subit 6d6 dégâts contondants et est [[retenu|retenue]]. La créature retenue peut utiliser son action pour réaliser un jet de Force ou Dextérité contre le DD de sauvegarde du sort. Si elle réussit, la créature n'est plus retenue et doit quitter le pilier, quitte à en tomber.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, vous pouvez créer deux piliers supplémentaires par niveau d'emplacement au-delà du niveau 6.

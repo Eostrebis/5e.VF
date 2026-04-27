@@ -29,7 +29,7 @@ Pour une action, vous présentez votre symbole sacré et appelez le nom de votre
 
 ## Affaiblissement des Éléments
 
-À partir du niveau 6, lorsque vous ou une créature à 30 ft. prend des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour lui conférer la résistance contre ces dégâts.
+À partir du niveau 6, lorsque vous ou une créature à 30 ft. subit des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour lui conférer la résistance contre ces dégâts.
 
 ## Frappe Divine
 

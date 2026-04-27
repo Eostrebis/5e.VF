@@ -10,7 +10,7 @@ La magie arcanique liée à la maîtrise des éléments est aussi connue comme l
 | 1 | [[Mains Brûlantes]], [[Projectiles Magiques]] |
 | 2 | [[Flèche d'Acide]], [[Rayon Ardent]] |
 | 3 | [[Boule de Feu]], [[Protection contre une Énergie]] |
-| 4 | [[Tempête de Grêle]], [[ Mur de Feu]] |
+| 4 | [[Tempête de Glace]], [[ Mur de Feu]] |
 | 5 | [[Cône de Froid]], [[Télékinésie]] |
 
 ## Maléfice : Exposition

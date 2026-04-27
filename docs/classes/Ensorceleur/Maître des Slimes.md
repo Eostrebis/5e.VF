@@ -19,7 +19,7 @@ Vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux
 
 ## Réformation
 
-À partir du moment où vous choisissez cette origine au niveau 1, votre chair vaguement gélatineuse peut se réparer lorsque vous êtes blessé. Lorsque vous prenez des dégâts contondants, perçants ou tranchants d'une attaque non magique et que vous ne tombez pas à 0 point de vie, vous pouvez utiliser votre réaction pour regagner immédiatement 1d4 points de vie, jusqu'à un montant maximum égal aux dégâts subis. 
+À partir du moment où vous choisissez cette origine au niveau 1, votre chair vaguement gélatineuse peut se réparer lorsque vous êtes blessé. Lorsque vous subissez des dégâts contondants, perçants ou tranchants d'une attaque non magique et que vous ne tombez pas à 0 point de vie, vous pouvez utiliser votre réaction pour regagner immédiatement 1d4 points de vie, jusqu'à un montant maximum égal aux dégâts subis.
 
 Ce soin augmente de 1d4 lorsque vous atteignez les niveaux 5 (2d4), 11 (3d4) et 17 (4d4).
 

@@ -34,7 +34,7 @@ Au niveau 6, votre expérience dans les fortifications et autres blocages vous o
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
 
 ## Sentinelle Invincible
 

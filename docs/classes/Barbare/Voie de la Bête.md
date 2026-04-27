@@ -43,7 +43,7 @@ Vous pouvez également modifier votre forme pour mieux vous adapter à votre env
 À partir du niveau 10, lorsque vous touchez une créature avec vos armes naturelles en étant enragé, la bête en vous peut maudire votre cible avec une fureur enragée. La cible doit réussir un jet de sauvegarde de Sagesse (DD de 8 + votre modificateur de Constitution + votre bonus de maîtrise) ou souffrir de l'un des effets suivants (votre choix) :
 
  - La cible doit utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous pouvez voir.
- - La cible prend 2d12 dégâts psychiques.
+ - La cible subit 2d12 dégâts psychiques.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

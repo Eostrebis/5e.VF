@@ -17,7 +17,7 @@ Si cette arme est submergée ou arrosée de suffisamment d'eau, elle s'enraille.
 Cette arme requiert des compétences hors pair pour être maniée. Vous devez avoir un score de Dextérité de 16 ou plus pour manier une arme élégante.
 
 #### Explosive
-Lorsqu'un projectile de cette arme touche une cible, il explose en une sphère d'un diamètre de 15 ft. Ce projectile peut cibler n'importe quel emplacement inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (pour une créature de taille M ou P, toutes les créatures à 5 ft.) doit réussir un jet de sauvegarde de Dextérité DD 14 ou prendre la moitié des dégâts obtenus lors du jet de dégâts.
+Lorsqu'un projectile de cette arme touche une cible, il explose en une sphère d'un diamètre de 15 ft. Ce projectile peut cibler n'importe quel emplacement inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (pour une créature de taille M ou P, toutes les créatures à 5 ft.) doit réussir un jet de sauvegarde de Dextérité DD 14 ou subir la moitié des dégâts obtenus lors du jet de dégâts.
 
 #### Finesse
 Lorsque vous réalisez une attaque avec une arme de finesse, vous pouvez utiliser au choix la Force ou la Dextérité pour vos jets d'attaque et de dégâts. Vous devez utiliser la même caractéristique pour les deux jets.
@@ -95,7 +95,7 @@ Une arme polyvalente peut être utilisée avec une ou deux mains. Les dégâts e
 Vous pouvez essayer de pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous réalisez pour pousser une créature avec cette arme.
 
 #### Précision
-Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible prend 1d6 dégâts supplémentaires.
+Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible subit 1d6 dégâts supplémentaires.
 
 #### Tirs Jumeaux
 Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à portée de cette arme.

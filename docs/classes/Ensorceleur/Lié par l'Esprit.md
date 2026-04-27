@@ -44,4 +44,4 @@ Au niveau 14, vous pouvez utiliser votre action bonus et dépenser 1 ou plus poi
 
 ## Esprit Gardien
 
-Au niveau 18, le lien que forme votre esprit avec vous est suffisant pour vous protéger des dangers. Lorsque vous prenez des dégâts, votre esprit peut utiliser sa réaction pour prévenir la moitié de ses dégâts en en subissant lui-même la moitié.
+Au niveau 18, le lien que forme votre esprit avec vous est suffisant pour vous protéger des dangers. Lorsque vous subissez des dégâts, votre esprit peut utiliser sa réaction pour prévenir la moitié de ses dégâts en en subissant lui-même la moitié.

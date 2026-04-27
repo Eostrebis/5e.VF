@@ -169,7 +169,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Évasion
 
-Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Meurtrier
 
@@ -191,7 +191,7 @@ Au niveau 18, vous êtes imperturbable. Vous avez l'avantage aux jets de Constit
 
 ## Tir dans la Tête
 
-Au niveau 20, lorsque vous infligez un coup critique contre une créature avec une arme à feu, vous pouvez choisir de faire de ce tir un tir dans la tête. Si la créature a moins de 100 points de vie, elle meurt. Sinon, elle prend 10d10 dégâts supplémentaires. Les Élémentaires, Vases et Morts-Vivants ainsi que les créatures qui n'ont pas de système nerveux ou d'organes vitaux ne prennent pas de dégâts supplémentaires de cette aptitude.
+Au niveau 20, lorsque vous infligez un coup critique contre une créature avec une arme à feu, vous pouvez choisir de faire de ce tir un tir dans la tête. Si la créature a moins de 100 points de vie, elle meurt. Sinon, elle subit 10d10 dégâts supplémentaires. Les Élémentaires, Vases et Morts-Vivants ainsi que les créatures qui n'ont pas de système nerveux ou d'organes vitaux ne prennent pas de dégâts supplémentaires de cette aptitude.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 

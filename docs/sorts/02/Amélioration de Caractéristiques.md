@@ -27,7 +27,7 @@ Vous touchez une créature et lui conférez une amélioration magique. Choisisse
 
 **Force du Taureau.** La cible a l'avantage aux jets de Force et sa capacité de charge est doublée.
 
-**Grâce du Chat.** La cible a l'avantage aux jets de Dextérité. Elle ne prend également pas de dégâts lorsqu'elle chute de 20 ft. ou moins et qu'elle n'est pas [[incapacité|incapacitée]].
+**Grâce du Chat.** La cible a l'avantage aux jets de Dextérité. Elle ne subit également pas de dégâts lorsqu'elle chute de 20 ft. ou moins et qu'elle n'est pas [[incapacité|incapacitée]].
 
 **Splendeur de l'Aigle.** La cible a l'avantage aux jets de Charisme.
 

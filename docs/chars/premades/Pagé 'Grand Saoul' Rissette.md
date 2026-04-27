@@ -121,7 +121,7 @@ Vous avez absorbé de la magie primitive, ce qui vous confère un écho de la pu
 
 Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée ou une attaque à distance avec une arme de jet, vous pouvez infuser l'attaque d'un effet supplémentaire en fonction de votre choix : 
 
-**Frappe de Pierre.** La cible prend 1d6 dégâts supplémentaires de force. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. en ligne droite.
+**Frappe de Pierre.** La cible subit 1d6 dégâts supplémentaires de force. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. en ligne droite.
 
 Le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Force (11).
 

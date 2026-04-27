@@ -259,7 +259,7 @@ spells: "true"
 | Hunter's Mark | [[Marque du Chasseur]] |
 | Hypnotic Pattern | [[Trame Hypnotique]] |
 | Ice Knife | [[Couteau de Glace]] |
-| Ice Storm | [[Tempête de Grêle]] |
+| Ice Storm | [[Tempête de Glace]] |
 | Identify | [[Identification]] |
 | Illusory Dragon | [[Dragon Illusoire]] |
 | Illusory Script | [[Écriture Illusoire]] |
@@ -786,7 +786,7 @@ spells: "true"
 | Sanctify Ground | [[Terres Sacrées]] |
 | Rune of Fortification | [[Rune Fortifiante]] |
 | Mana Shackle | [[Menottes de Mana]] |
-| Ward of Energy Absorption | [[Défense Magique]] |
+| Ward of Energy Absorption | [[Protection d'Absorption]] |
 | Resolve's Mantle of Spell Resistance | [[Protection Calculée]] |
 | Enchanter's Lockdown | [[Confinement de l'Enchanteur]] |
 | Warding Gust | [[Bourrasque Défensive]] |
@@ -796,6 +796,6 @@ spells: "true"
 | Mystic Lock | [[Verrou Mystique]] |
 | Temporal Potion Heaven | [[Refuge Temporel]] |
 | Dragon Claw | [[Griffe Draconique]] |
-| Sleet Storm | [[Tempête de neige]] |
+| Sleet Storm | [[5e/docs/sorts/03/Tempête de Grêle]] |
 | Gahoul's Shrieking Skull | [[Crâne Hurlant de Gahoul]] |
 

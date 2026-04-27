@@ -85,7 +85,7 @@ Le reste de son armure est composé de pièces de cuir durci et de peaux cousues
 
 #### Interception
 
-Lorsqu'une créature que vous pouvez voir touche une cible, autre que vous, à 5 ft. de vous avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts que prend la cible de 1d10 + votre bonus de maîtrise dégâts. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
+Lorsqu'une créature que vous pouvez voir touche une cible, autre que vous, à 5 ft. de vous avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts que subit la cible de 1d10 + votre bonus de maîtrise dégâts. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
 
 #### Second Souffle
 
@@ -125,7 +125,7 @@ Ce jour-là, Daak a compris. La peur était une maladie, et le "Yip !" en était
 
 Il a commencé à s'entraîner. Chaque jour, dans les tunnels vides, il s'exerçait à transformer le glapissement de ses poumons en quelque chose de nouveau. Sa gorge était à vif, sa voix se brisait, mais il persévéra. Le "Yip !" devint un aboiement. L'aboiement devint un grondement. Et un jour, un véritable rugissement, bref mais puissant, jaillit de sa petite poitrine, faisant vibrer les stalactites. Ce jour-là, il se baptisa "Gueule-de-Wyrm".
 
-Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit, mais celle du courage qu'on inspire. En attendant, il a rejoint la confrérie des Chevaliers de Solamnia.
+Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit , mais celle du courage qu'on inspire. En attendant, il a rejoint la confrérie des Chevaliers de Solamnia.
 
 ### Aptitude d'Historique
 

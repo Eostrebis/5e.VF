@@ -13,7 +13,7 @@ Lorsque vous choisissez cette tradition au niveau 3, vos arts martiaux particuli
 
 **Parade Habile.** Si vous réalisez une attaque à mains nues comme élément de votre action d'attaque pendant votre tour et que vous maniez une arme kensei, vous pouvez l'utiliser pour vous défendre, si c'est une arme de mêlée. Vous gagnez un bonus de +2 à la CA jusqu'au début de votre prochain tour, tant que vous maniez l'arme et n'êtes pas [[incapacité]].
 
-**Tir Kensei.** Vous pouvez utiliser votre action bonus pendant votre pour rendre une attaque à distance avec une arme kensei plus léthale encore. Lorsque vous le faites, toute cible que vous toucheriez avec une attaque à distance utilisant une arme kensei prend 1d4 dégâts supplémentaires du type de dégâts de l'arme. Vous conservez cet effet jusqu'à la fin de votre tour.
+**Tir Kensei.** Vous pouvez utiliser votre action bonus pendant votre pour rendre une attaque à distance avec une arme kensei plus léthale encore. Lorsque vous le faites, toute cible que vous toucheriez avec une attaque à distance utilisant une arme kensei subit 1d4 dégâts supplémentaires du type de dégâts de l'arme. Vous conservez cet effet jusqu'à la fin de votre tour.
 
 **Voie du Pinceau.** Vous maîtrisez les outils de calligraphes ou de peintre (au choix).
 

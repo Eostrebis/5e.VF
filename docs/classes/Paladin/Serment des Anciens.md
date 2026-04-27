@@ -24,7 +24,7 @@ Vous gagnez les sorts de serment suivants :
 | 3 | [[Frappe piégeuse]], [[communication avec les animaux]] |
 | 5 | [[Pas brumeux]], [[rayon lunaire]] |
 | 9 | [[Croissance végétale]], [[protection contre une énergie]] |
-| 13 | [[Tempête de grêle]], [[peau de pierre]] |
+| 13 | [[Tempête de Glace]], [[peau de pierre]] |
 | 17 | [[Communion avec la nature]], [[passage par les arbres]] |
 
 ## Canal Divin

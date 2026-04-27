@@ -22,11 +22,11 @@ writing_status: finished
 >- **Difficulté** 5 (1,800 PX)
 >- **Bonus de Maîtrise** +3
 >*_*
->***Aversion au Feu.*** Si le golem alchimique prend des dégâts de feu, il a le désavantage aux jets de caractéristiques et aux jets d'attaque jusqu'à la fin de son prochain tour.
+>***Aversion au Feu.*** Si le golem alchimique subit des dégâts de feu, il a le désavantage aux jets de caractéristiques et aux jets d'attaque jusqu'à la fin de son prochain tour.
 >
 >***Forme Immuable.*** Le golem alchimique est immunisé aux sorts ou effets qui modifieraient sa forme.
 >
->***Absorption d'Éclair.*** À chaque fois que le golem alchimique est la cible de dégâts de foudre, il ne prend aucun dégât et se soigne à la place d'un montant égal à la moitié des dégâts de foudre.
+>***Absorption d'Éclair.*** À chaque fois que le golem alchimique est la cible de dégâts de foudre, il ne subit aucun dégât et se soigne à la place d'un montant égal à la moitié des dégâts de foudre.
 >
 >***Résistance Magique.*** Le golem alchimique a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques. 
 >

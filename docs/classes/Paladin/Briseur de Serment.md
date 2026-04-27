@@ -37,7 +37,7 @@ Au niveau 15, le paladin devient résistant aux dégâts contondants, perçants 
 
 ## Seigneur de l'Effroi
 
-Au niveau 20, le paladin peut, pour une action, s'envelopper d'une aura de désespoir qui persiste pendant 1 minute. L'aura réduit toute lumière vive dans un rayon de 30 ft. autour du paladin vers de la lumière faible. Lorsqu'un ennemi [[apeuré]] par le paladin commence son tour dans l'aura, il prend 4d10 dégâts psychiques. De plus, le paladin et les créatures qu'il choisit sont enveloppés dans des ombres encore plus profondes. Les créatures qui se reposent sur la vue ont le désavantage aux jets d'attaque contre les créatures drapées dans cette ombre.
+Au niveau 20, le paladin peut, pour une action, s'envelopper d'une aura de désespoir qui persiste pendant 1 minute. L'aura réduit toute lumière vive dans un rayon de 30 ft. autour du paladin vers de la lumière faible. Lorsqu'un ennemi [[apeuré]] par le paladin commence son tour dans l'aura, il subit 4d10 dégâts psychiques. De plus, le paladin et les créatures qu'il choisit sont enveloppés dans des ombres encore plus profondes. Les créatures qui se reposent sur la vue ont le désavantage aux jets d'attaque contre les créatures drapées dans cette ombre.
 
 Tant que cette aura existe, le paladin peut utiliser son action bonus pendant son tour pour faire attaquer les ombres. Le paladin réalise une attaque de sort de mêlée contre une cible dans l'aura. Si l'attaque touche, elle inflige 3d10 + le modificateur de Charisme du paladin dégâts nécrotiques.
 

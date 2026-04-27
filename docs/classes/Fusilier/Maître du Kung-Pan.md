@@ -23,7 +23,7 @@ De plus, lorsque vous réalisez une attaque armée à distance avec une arme à 
 
 ## Esquive Prédictive
 
-Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles à venir. Vous pouvez utiliser votre action bonus pour choisir une créature que vous pouvez voir à 30 ft. Vous bénéficiez des effets de l'action Esquive contre les attaques à distance et effets de cette cible jusqu'au début de votre prochain tour. Vous perdez cet effet si vous prenez des dégâts de la cible.
+Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles à venir. Vous pouvez utiliser votre action bonus pour choisir une créature que vous pouvez voir à 30 ft. Vous bénéficiez des effets de l'action Esquive contre les attaques à distance et effets de cette cible jusqu'au début de votre prochain tour. Vous perdez cet effet si vous subissez des dégâts de la cible.
 
 ## Coup Mitrailleurs
 

@@ -29,4 +29,4 @@ Au niveau 15, vous échapperez au bras armé de la justice ou mourrez en essayan
  - Vous pouvez utiliser l'action Utiliser un Objet.
  - Vous pouvez réaliser une attaque armée contre une créature que vous pouvez voir.
  - Vous pouvez essayer de pousser une créature.
- - Vous prenez des dégâts de chute réduits de moitié et votre distance de saut double jusqu'au début de votre prochain tour.
+ - Vous subissez des dégâts de chute réd subissez des dégâtsvotre distance de saut double jusqu'au début de votre prochain tour.

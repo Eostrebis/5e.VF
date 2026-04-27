@@ -144,7 +144,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 Au niveau 9, l'expérience du partage de votre âme avec des entités supranaturelles vous a appris à protéger vos pensées et punir ceux qui osent les influencer. Vous avez l'avantage aux jets de sauvegarde pour ne pas être [[charmé]], [[apeuré]] ou possédé, et aux jets de sauvegarde pour contrer les effets qui détecteraient vos émotions ou liraient dans vos pensées.
 
-De plus, si vous réussissez votre jet contre l'un de ces effets causé par une créature, la créature qui a créé l'effet prend votre niveau de ligateur + votre modificateur de Charisme dégâts psychiques.
+De plus, si vous réussissez votre jet contre l'un de ces effets causé par une créature, la créature qui a créé l'effet subit votre niveau de ligateur + votre modificateur de Charisme dégâts psychiques.
 
 ## Âme du Vide
 

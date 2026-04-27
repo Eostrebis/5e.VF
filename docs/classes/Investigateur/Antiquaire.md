@@ -41,4 +41,4 @@ Cet objet magique vous est toujours lié et ne compte pas dans le nombre d'objet
 
 *2 charges :* pour une réaction lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez tomber à 1 point de vie à la place.
 
-*3 charges :* réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 5d6 dégâts nécrotiques et vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés.
+*3 charges :* réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 5d6 dégâts nécrotiques et vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés.

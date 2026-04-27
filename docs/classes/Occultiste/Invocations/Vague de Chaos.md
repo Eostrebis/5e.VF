@@ -11,7 +11,7 @@ Pour une action, vous pouvez allumer une étincelle de magie incontrôlée pour 
 | 2 | **Conjuration.** [[Toile]], [[convocation de bête]], [[porte dimensionnelle]], [[brume mortelle]] |
 | 3 | **Divination.** [[Détection des pensées]], [[discernement géomantique]], [[divination]], [[examen d'un adversaire]] |
 | 4 | **Enchantement.** [[Suggestion]], [[malédiction de l'épée]], [[confusion]], [[immobilisation de monstre]] |
-| 5 | **Évocation**. [[Saute de vent]], [[boule de feu]], [[tempête de grêle]], [[mur de force]] |
+| 5 | **Évocation**. [[Saute de vent]], [[boule de feu]], [[Tempête de Glace]], [[mur de force]] |
 | 6 | **Illusion.** [[Image miroir]], [[image majeure]], [[invisibilité supérieure]], [[apparence trompeuse]] |
 | 7 | **Nécromancie.** [[Rayon affaiblissant]], [[malédiction persistante]], [[flétrissement]], [[contagion]] |
 | 8 | **Transmutation.** [[Métal brûlant]], [[célérité]], [[métamorphose]], [[animation d'objets]] |

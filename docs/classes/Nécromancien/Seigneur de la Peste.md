@@ -17,7 +17,7 @@ Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez av
 
 ## Thralls Ballonnés
 
-Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 4d6 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
+Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
 
 ## Lichéité : Liche Corpulente
 

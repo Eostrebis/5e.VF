@@ -23,7 +23,7 @@ Vous pouvez dépenser des points de ki supplémentaires pour incanter [[Mains Br
 
 Au niveau 11, vous gagnez la capacité de créer un orbe de lumière qui se déchire en une dévastatrice explosion. Pour une action, vous pouvez créer magiquement un orbe et le lancer sur un point que vous choisissez à moins de 150 ft., où il se déchire en une sphère de lumière radieuse pendant un court instant.
 
-Chaque créature dans un rayon de 20 ft. doit réussir un jet de sauvegarde de Constitution ou prendre 2d6 dégâts radieux. Une créature n'a pas besoin de réaliser ce jet si elle se trouve en couverture totale derrière un objet opaque.
+Chaque créature dans un rayon de 20 ft. doit réussir un jet de sauvegarde de Constitution ou subir 2d6 dégâts radieux. Une créature n'a pas besoin de réaliser ce jet si elle se trouve en couverture totale derrière un objet opaque.
 
 Vous pouvez augmenter les dégâts de la sphère en dépensant des points de ki. Chaque point que vous dépensez, au plus 3, augmente les dégâts de 2d6.
 

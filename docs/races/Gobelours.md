@@ -35,4 +35,4 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Discret.** Vous maîtrisez la compétence Discrétion. De plus, sans avoir à vous presser, vous pouvez vous déplacer et vous arrêter sur un espace trop petit pour vous, mais suffisamment grand pour une créature de taille P.
 
-**Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature prend 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.
+**Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature subit 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.

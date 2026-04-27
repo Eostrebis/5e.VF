@@ -24,7 +24,7 @@ Produit par une aiguille spéciale, ce tatouage magique représente une œuvre m
 | 9 | Radiant | Or |
 | 10 | Tonnerre | Orange |
 
-**Absorption des dégâts.** Quand vous prenez des dégâts du type choisi, vous pouvez utiliser votre réaction pour gagner l'immunité à cette instance de dégâts, et vous regagnez un nombre de points de vie égal à la moitié des dégâts que vous auriez dû prendre. Une fois que cette réaction a été utilisée, vous devez attendre la prochaine aube pour pouvoir l'utiliser à nouveau.
+**Absorption des dégâts.** Quand vous subissez des dégâts du type choisi, vous pouvez utiliser votre réaction pour gagner l'immunité à cette instance de dégâts, et vous regagnez un nombre de points de vie égal à la moitié des dégâts que vous auriez dû subir. Une fois que cette réaction a été utilisée, vous devez attendre la prochaine aube pour pouvoir l'utiliser à nouveau.
 
 ## Couverture d'un tatouage magique
 

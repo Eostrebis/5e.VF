@@ -9,7 +9,7 @@ Certains gardiens entendent un appel de flammes et de cris tourmentés venant di
 
 ## Saisie Infernale
 
-Au niveau 3, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du Gardien]], chaque créature affectée prend 1d6 dégâts de feu. Au niveau 14, ces dégâts passent à 2d6.
+Au niveau 3, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du Gardien]], chaque créature affectée subit 1d6 dégâts de feu. Au niveau 14, ces dégâts passent à 2d6.
 
 ## Résilience Cruelle
 
@@ -17,10 +17,10 @@ Au niveau 6, votre chair noircit et se durcit pour ressembler à celle d'un fié
 
 ## Marque Malveillante
 
-Au niveau 6, lorsque vous marquez une créature avec la [[Gardien#Marque du Gardien|Marque du Gardien]], la cible prend 1d6 dégâts de feu. Au niveau 11, ces dégâts passent à 2d6.
+Au niveau 6, lorsque vous marquez une créature avec la [[Gardien#Marque du Gardien|Marque du Gardien]], la cible subit 1d6 dégâts de feu. Au niveau 11, ces dégâts passent à 2d6.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Volonté d'Enfer
 

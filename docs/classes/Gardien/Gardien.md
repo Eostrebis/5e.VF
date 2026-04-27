@@ -290,7 +290,7 @@ Cette aptitude ne se cumule pas avec le sort [[marque du chasseur]].
 ### Résistance du Chasseur
 *Remplace la Résolution du Gardien*
 
-À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous prenez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
+À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous subissez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
 
 ## Gardien Anthropophage
 
@@ -313,7 +313,7 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 ### Soif de Sang du Mangeur d'Hommes
 *Remplace la [[#Résolution du Gardien]]*
 
-Vous avez un réservoir de dégâts temporaires. Lorsque vous prenez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
+Vous avez un réservoir de dégâts temporaires. Lorsque vous subissez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
 
 Lorsque vous infligez des dégâts avec une attaque armée de mêlée à une créature que vous avez marquée, vous pouvez réduire votre réservoir de dégâts temporaires de la moitié des dégâts infligés (arrondi à l'inférieur), jusqu'à un minimum de 1.
 
@@ -333,7 +333,7 @@ Au niveau 14, cette aptitude affecte les créatures amicales à 10 ft. de vous e
 ### Marques Jumelles du Parangon
 *Remplace la [[#Marque du Gardien]]*
 
-Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection prend des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
+Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection subit des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
 

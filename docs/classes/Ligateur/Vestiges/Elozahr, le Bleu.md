@@ -16,8 +16,8 @@ Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, 
 ## Incantation : Cryomancie
 Tant que vous êtes lié à Elozahr, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :
 
-*2/jour chacun :* [[tempête de neige]]
-*1/jour chacun :* [[tempête de grêle]], [[cône de froid]]
+*2/jour chacun :* [[5e/docs/sorts/03/Tempête de Grêle]]
+*1/jour chacun :* [[Tempête de Glace]], [[cône de froid]]
 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -35,7 +35,7 @@ Tous les magiciens connaissent l'histoire de Évocatia et Elozahr, les mages au 
 
 Avant les écoles de magie, les lanceurs de sorts projetaient de l'énergie arcanique pure et difforme sous la forme de proto-sorts, dont les effets variaient du tout au tout. Avec le temps, les lanceurs de sorts les plus malins ont appris à dompter la magie, la canalisant dans des sorts avec un effet voulu et conscient.
 
-Évocatia la Rouge était l'une de ces lanceurs de sorts. Patient et réfléchi, Elozahr sculpta ses sorts dans la glace, créant d'abord le cantrip [[Rayon de Givre]] puis le sort [[tempête de grêle]]. Après des décennies de travail et l'assistance de son apprentie, Évocatia la Rouge, il perfectionna son œuvre, un sort si puissant que peu de mages pouvaient ne serait-ce que l'approcher : [[cône de froid]]. Il voyagea vers la tour brûlante de son apprentie afin de l'impressionner avec ce nouveau sort, mais découvrit aussitôt arrivé que le familier d'Évocatia n'était autre qu'un fiélon qui l'avait tentée avec le secret de la magie infernale. Choqué, Elozahr gela la tour et la réduisit en morceaux.
+Évocatia la Rouge était l'une de ces lanceurs de sorts. Patient et réfléchi, Elozahr sculpta ses sorts dans la glace, créant d'abord le cantrip [[Rayon de Givre]] puis le sort [[Tempête de Glace]]. Après des décennies de travail et l'assistance de son apprentie, Évocatia la Rouge, il perfectionna son œuvre, un sort si puissant que peu de mages pouvaient ne serait-ce que l'approcher : [[cône de froid]]. Il voyagea vers la tour brûlante de son apprentie afin de l'impressionner avec ce nouveau sort, mais découvrit aussitôt arrivé que le familier d'Évocatia n'était autre qu'un fiélon qui l'avait tentée avec le secret de la magie infernale. Choqué, Elozahr gela la tour et la réduisit en morceaux.
 
 Les deux magiciens travaillèrent alors en secret pour surpasser l'autre, chacun fondant ainsi les bases de son école de magie. Enfin, Elozahr et Évocatia se virent sur la plaine d'Armistal pour résoudre leurs différends. Mais Elozahr, voyant que son apprentie avait avec elle une [[épée ardente]] afin de l'éliminer une bonne fois pour toutes, frappa en premier avec une projection glacée.
 

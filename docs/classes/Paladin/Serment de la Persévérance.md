@@ -58,7 +58,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Vers d'Autres Cieux
 
-Au niveau 15, vous avez appris de vos précédentes escarmouches comment toujours s'en sortir indemne. Lorsque vous tombez à 0 point de vie mais que vous n'êtes pas tué sur le coup, vous pouvez choisir de tomber à 1 point de vie à la place. Si vous le faites, vous ou vous et vos alliés bénéficiant de votre aura de vitesse êtes immédiatement projetés dans les airs dans une explosion de fumée et atterrissez 5d100 ft. plus loin dans la direction de votre choix (ou dans l'espace vide le plus proche si la direction est bloquée, à la discrétion du MJ). Vous ne prenez aucun dégâts de chute suite à ce déplacement et il ne provoque pas d'attaque d'opportunité.
+Au niveau 15, vous avez appris de vos précédentes escarmouches comment toujours s'en sortir indemne. Lorsque vous tombez à 0 point de vie mais que vous n'êtes pas tué sur le coup, vous pouvez choisir de tomber à 1 point de vie à la place. Si vous le faites, vous ou vous et vos alliés bénéficiant de votre aura de vitesse êtes immédiatement projetés dans les airs dans une explosion de fumée et atterrissez 5d100 ft. plus loin dans la direction de votre choix (ou dans l'espace vide le plus proche si la direction est bloquée, à la discrétion du MJ). Vous ne subissez aucun dégâts de chute suite à ce déplacement et il ne provoque pas d'attaque d'opportunité.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 

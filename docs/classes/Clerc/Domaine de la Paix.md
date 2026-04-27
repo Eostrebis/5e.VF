@@ -29,7 +29,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de ma
 
 ## Lien Protecteur
 
-Le lien que vous forgez entre les gens les aide aussi à se protéger. Lorsqu'une créature affectée par votre Lien Encourageant est sur le point de prendre des dégâts, une autre créature liée à 30 ft. peut utiliser sa réaction pour se téléporter vers un espace inoccupé à 5 ft. La seconde créature prend tous les dégâts à la place de la première.
+Le lien que vous forgez entre les gens les aide aussi à se protéger. Lorsqu'une créature affectée par votre Lien Encourageant est sur le point de subir des dégâts, une autre créature liée à 30 ft. peut utiliser sa réaction pour se téléporter vers un espace inoccupé à 5 ft. La seconde créature subit tous les dégâts à la place de la première.
 
 ## Incantation Puissante
 
@@ -37,4 +37,4 @@ Le lien que vous forgez entre les gens les aide aussi à se protéger. Lorsqu'un
 
 ## Lien Distant
 
-Les bénéfices de vos liens s'appliquent désormais aux créatures qui sont à 60 ft. l'une de l'autre. De plus, lorsqu'une créature utilise le Lien Protecteur pour prendre les dégâts d'un autre, elle a la résistance à ces dégâts.
+Les bénéfices de vos liens s'appliquent désormais aux créatures qui sont à 60 ft. l'une de l'autre. De plus, lorsqu'une créature utilise le Lien Protecteur pour subir les dégâts d'un autre, elle a la résistance à ces dégâts.

@@ -14,7 +14,7 @@ Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une é
 
 ## Acolyte du Soleil Perdu
 
-Au niveau 6, votre ki commence à se manifester autour de votre corps sous la forme de petites particules d'ombre qui cherchent à préserver la vie même lorsqu'elle est prise. À chaque fois que vous lancez un sort en dépensant des points de ki, vous pouvez utiliser votre action bonus pour rentrer dans une position défensive jusqu'au début de votre prochain tour. La première fois que vous prenez des dégâts tant que vous êtes dans cette position, vous pouvez réduire ces dégâts par trois fois le nombre de points de ki que vous avez dépensé pour lancer le sort.
+Au niveau 6, votre ki commence à se manifester autour de votre corps sous la forme de petites particules d'ombre qui cherchent à préserver la vie même lorsqu'elle est prise. À chaque fois que vous lancez un sort en dépensant des points de ki, vous pouvez utiliser votre action bonus pour rentrer dans une position défensive jusqu'au début de votre prochain tour. La première fois que vous subissez des dégâts tant que vous êtes dans cette position, vous pouvez réduire ces dégâts par trois fois le nombre de points de ki que vous avez dépensé pour lancer le sort.
 
 ## Techniques Solaires
 

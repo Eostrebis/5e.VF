@@ -199,7 +199,7 @@ Au niveau 5, vos puissants pouvoirs nécromants punissent vos ennemis au premier
 
 De plus, vos jets d'attaque de sort infligent des coups critiques sur un 19 ou un 20.
 
-À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et prend des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
+À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et subit des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
 
 ## Présence Captivante
 

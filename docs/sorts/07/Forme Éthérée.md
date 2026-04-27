@@ -27,7 +27,7 @@ Tant que vous êtes sur le Plan Éthéré, vous ne pouvez affecter et n'être af
 
 Vous ignorez tous les objets et effets qui ne sont pas sur le Plan Éthéré, ce qui vous permet de traverser les objets que vous voyez sur votre plan d'origine.
 
-Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origine, à l'emplacement que vous occupez. Si vous occupez le même emplacement qu'un objet solide ou qu'une créature lorsque cela arrive, vous êtes immédiatement déplacé à l'emplacement libre le proche que vous pouvez occuper et prenez des dégâts de force égaux au double de nombre de pieds que vous avez dû traverser.
+Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origine, à l'emplacement que vous occupez. Si vous occupez le même emplacement qu'un objet solide ou qu'une créature lorsque cela arrive, vous êtes immédiatement déplacé à l'emplacement libre le proche que vous pouvez occuper et subissez des dégâts de force égaux au double de nombre de pieds que vous avez dû traverser.
 
 Le sort n'a aucun effet si vous le lancez tant que vous êtes sur le Plan Éthéré ou sur un plan qui ne lui est pas frontalier, comme un des Plans Extérieurs.
 

@@ -47,7 +47,7 @@ Les gepettains biscuits sont une sorte de poupée de porcelaine, fabriqués à p
 
 **Apparence Trompeuse.** Tant que vous êtes immobile, vous êtes indistinguable d'une véritable poupée de porcelaine.
 
-**Coup Soudain.** Lorsque vous infligez des dégâts à une créature avec une attaque armée pendant le premier tour d'un combat, cette créature prend un nombre de dégâts supplémentaires égal à votre bonus de maîtrise.
+**Coup Soudain.** Lorsque vous infligez des dégâts à une créature avec une attaque armée pendant le premier tour d'un combat, cette créature subit un nombre de dégâts supplémentaires égal à votre bonus de maîtrise.
 
 **Dérangeant.** Vous maîtrisez la compétence Intimidation, et vous avez l'avantage aux jets de Charisme (Intimidation) contre les créatures qui ne vous ont jamais vu bouger.
 
@@ -105,4 +105,4 @@ Les gepettains peluches sont n'importe quelle forme de gepettain doux ou fourré
 
 **Adorable.** Vous maîtrisez la compétence Persuasion, et vous avez l'avantage aux jets de Charisme (Persuasion) sur les enfants ou autres humanoïdes adorateurs de mignonneries.
 
-**Tout Moelleux.** Lorsque vous prenez des dégâts contondants, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts, et être repoussé de 5 ft. par rapport à la source de ces dégâts. Vous ne pouvez pas utiliser cette réaction si vous ne pouvez pas être repoussé de la sorte.
+**Tout Moelleux.** Lorsque vous subissez des dégâts contondants, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts, et être repoussé de 5 ft. par rapport à la source de ces dégâts. Vous ne pouvez pas utiliser cette réaction si vous ne pouvez pas être repoussé de la sorte.

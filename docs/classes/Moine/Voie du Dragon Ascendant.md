@@ -27,7 +27,7 @@ En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vou
 
 ## Souffle du Dragon
 
-Également au niveau 3, vous pouvez créer de destructrices vagues d'énergie, comme celles créées par les dragons que vous imitez. Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par une exhalation d'énergie draconique dans un cube de 20 ft. ou une ligne de 30 ft. large de 5 ft. (votre choix). Choisissez un type de dégâts parmi acide, froid, feu, foudre et poison. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité ou prendre un nombre de dégâts du type choisi égal à deux lancers de votre dé d'arts martiaux. Si la créature réussit, elle ne prend que la moitié de ces dégâts.
+Également au niveau 3, vous pouvez créer de destructrices vagues d'énergie, comme celles créées par les dragons que vous imitez. Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par une exhalation d'énergie draconique dans un cube de 20 ft. ou une ligne de 30 ft. large de 5 ft. (votre choix). Choisissez un type de dégâts parmi acide, froid, feu, foudre et poison. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité ou subir un nombre de dégâts du type choisi égal à deux lancers de votre dé d'arts martiaux. Si la créature réussit, elle ne subit que la moitié de ces dégâts.
 
 Au niveau 11, les dégâts augmentent à 3 lancers de votre dé d'arts martiaux.
 
@@ -57,4 +57,4 @@ Au niveau 17, votre esprit draconique est à son paroxysme, vous bénéficiez de
 
 **Vision Aveugle.** Vous gagnez la [[vision aveugle]] sur une portée de 10 ft. Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglés ou dans les ténèbres. De plus, vous pouvez voir une créature invisible dans cette portée, sauf si elle réussit à se cacher de vous.
 
-**Furie Explosive.** Lorsque vous activez votre Aspect de Wyrm, une furie draconique explose en vous. Choisissez n'importe quel nombre de créatures que vous pouvez voir dans votre aura. Chacune de ces créatures doit réussir un jet de sauvegarde de Dextérité ou prendre 3d10 dégâts d'acide, de froid, de feu, de foudre ou de poison.
+**Furie Explosive.** Lorsque vous activez votre Aspect de Wyrm, une furie draconique explose en vous. Choisissez n'importe quel nombre de créatures que vous pouvez voir dans votre aura. Chacune de ces créatures doit réussir un jet de sauvegarde de Dextérité ou subir 3d10 dégâts d'acide, de froid, de feu, de foudre ou de poison.

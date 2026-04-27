@@ -25,7 +25,7 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 > | 2 (450 EXP) | +2 |
 >*_*
 >
-> **Mouvement Incorporel.** Le visage peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. Le visage prend 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
+> **Mouvement Incorporel.** Le visage peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. Le visage subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
 >
 > **Résistance Magique.** Le visage a l'avantage aux jets de sauvegarde qu'il réalise pour résister aux sorts et effets magiques.
 >

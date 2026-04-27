@@ -221,7 +221,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
  
  - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature consentante et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft.
  
- - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. de vous prend des dégâts de feu égaux à votre bonus de maîtrise. 
+ - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. de vous subit des dégâts de feu égaux à votre bonus de maîtrise. 
 
 ## Elfe des mers
 

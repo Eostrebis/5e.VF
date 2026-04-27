@@ -45,4 +45,4 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Colère de l'Ordre
 
-À partir du niveau 17, les ennemis que vous désignez comme des cibles tremblent devant les efforts combinés de vous et vos alliés. Si vous infligez des dégâts avec votre Frappe Divine à une créature pendant votre tour, vous pouvez maudire cette créature jusqu'au début de votre prochain tour. La prochaine fois qu'un de vos alliés touche la créature avec une attaque, la cible prend également 2d8 dégâts psychiques, et la malédiction se termine. Vous ne pouvez maudire qu'une seule créature par tour de cette façon.
+À partir du niveau 17, les ennemis que vous désignez comme des cibles tremblent devant les efforts combinés de vous et vos alliés. Si vous infligez des dégâts avec votre Frappe Divine à une créature pendant votre tour, vous pouvez maudire cette créature jusqu'au début de votre prochain tour. La prochaine fois qu'un de vos alliés touche la créature avec une attaque, la cible subit également 2d8 dégâts psychiques, et la malédiction se termine. Vous ne pouvez maudire qu'une seule créature par tour de cette façon.

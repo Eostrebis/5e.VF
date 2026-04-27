@@ -13,7 +13,7 @@ Si vous charmez une créature qui ne vous est pas hostile, il vous considère vo
 
 Également au niveau 3, vous pouvez convertir d'autres créatures par votre personnalité. Pour une action, vous pouvez dépenser une Inspiration Bardique et choisir une créature que vous pouvez voir à 30 ft. qui peut vous voir ou vous entendre afin qu'elle réalise un jet de sauvegarde de Sagesse. Si elle échoue, la créature est [[charmé|charmée]] par vous pour un nombre de tours égal au résultat du dé d'Inspiration Bardique.
 
-Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature prend des dégâts de vous ou vos alliés ou si vous réutilisez cette aptitude.
+Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature subit des dégâts de vous ou vos alliés ou si vous réutilisez cette aptitude.
 
 ## Ennemi de mon Ennemi
 

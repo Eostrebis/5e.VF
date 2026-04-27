@@ -66,7 +66,7 @@ Pour aider un autre personnage, votre personnage doit soit maîtriser la compét
 Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous réalisez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework
 
 ### 3.4 Chute
-Si une créature prend des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature prend des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
+Si une créature subit des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature subit des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
 
 ### 3.5 Faire 10
 Lorsque vous n'êtes pas sous pression ou en danger immédiat, vous pouvez *faire 10*. Plutôt que de lancer un d20 pour un jet de compétence, vous utilisez votre score passif pour cette compétence. Pour rappel, le score passif est 10 + modificateurs habituels du jet, avec un bonus de 5 si le jet est réalisé avec avantage et -5 s'il est réalisé avec désavantage. Faire 10 prend 10 fois le temps nécessaire pour réaliser l'action standard, donc environ 1 minute. L'éligibilité d'une action à cette règle est au bon vouloir du MJ.
@@ -93,7 +93,7 @@ Généralement, les aventuriers gardent leurs potions à portée de mains (par e
 Lorsqu'une description fait état d'une résistance aux attaques non-magiques, la résistance est considérée comme étant aux dégâts non-magiques (par ex. un piège qui tire des flèches).
 
 #### 4.3.2 Immunité aux dégâts contondants
-Une créature immunisée aux dégâts contondants prend la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
+Une créature immunisée aux dégâts contondants subit la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
 
 ### 4.4 Initiative
 

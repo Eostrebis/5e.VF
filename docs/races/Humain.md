@@ -301,7 +301,7 @@ Vous possédez la peau abrasive, les yeux en fentes et la langue fourchue des re
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Crachat d'Acide.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un jet d'acide de votre bouche. C'est une attaque spéciale à distance avec une portée de 30 ft. Vous la maîtrisez et ajoutez votre modificateur de Dextérité à son jet d'attaque et ses jets de dégât. Si vous touchez, la cible prend 1d10 dégâts d'acide. Ces dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
+**Crachat d'Acide.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un jet d'acide de votre bouche. C'est une attaque spéciale à distance avec une portée de 30 ft. Vous la maîtrisez et ajoutez votre modificateur de Dextérité à son jet d'attaque et ses jets de dégât. Si vous touchez, la cible subit 1d10 dégâts d'acide. Ces dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
 
 Vous pouvez utiliser votre Crachat d'Acide un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

@@ -35,7 +35,7 @@ Cette aptitude persiste pendant 1 minute. Après ce temps, tous les composants e
 
 ## Souffle de Smog
 
-À partir du niveau 10, vous pouvez expirer une sphère de 10 ft. de fumée toxique, centrée sur vous-même, comme réaction lorsque vous prenez des dégâts. Cette zone est fortement obscurée. Si une créature autre que vous se trouve complètement dans le smog au début de son tour, elle doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou être [[empoisonné|empoisonnée]] jusqu'au début de son prochain tour, toussant sans relâche.
+À partir du niveau 10, vous pouvez expirer une sphère de 10 ft. de fumée toxique, centrée sur vous-même, comme réaction lorsque vous subissez des dégâts. Cette zone est fo subissez des dégâtsSi une créature autre que vous se trouve complètement dans le smog au début de son tour, elle doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou être [[empoisonné|empoisonnée]] jusqu'au début de son prochain tour, toussant sans relâche.
 
 Le smog disparaît après 1 minute. Un vent modéré (au moins 15 km/h) disperse le nuage après 4 tours. Un vent fort (au moins 30 km/h) le disperse après 1 tour.
 

@@ -11,7 +11,7 @@ Chercheuse planaire renommée qui a découvert la véritable nature du Vide, Kor
 Tant que vous êtes lié à Korine, la distance de votre saut en longueur et la hauteur de votre saut en hauteur sont doublées, et vous ne prenez que la moitié des dégâts de chute.
 
 ## Téléfrag
-Lorsque vous lancez un sort qui vous téléporte, vous pouvez choisir de vous téléporter dans un espace occupé par une créature. Lorsque vous le faites, la créature prend 1d4 dégâts de force pour chaque 10 ft. que vous avez parcouru avec la téléportation, jusqu'à un maximum de 5d4. De plus, si vous et la créature êtes à moins de 2 tailles l'une de l'autre, elle se déplace vers un espace inoccupé adjacent de son choix.
+Lorsque vous lancez un sort qui vous téléporte, vous pouvez choisir de vous téléporter dans un espace occupé par une créature. Lorsque vous le faites, la créature subit 1d4 dégâts de force pour chaque 10 ft. que vous avez parcouru avec la téléportation, jusqu'à un maximum de 5d4. De plus, si vous et la créature êtes à moins de 2 tailles l'une de l'autre, elle se déplace vers un espace inoccupé adjacent de son choix.
 
 ## Incantation : Clignotement
 Tant que vous êtes lié à Korine, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :

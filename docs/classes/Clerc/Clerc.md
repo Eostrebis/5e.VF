@@ -195,7 +195,7 @@ De plus, vous pouvez remplacer l'un des cantrips que vous avez appris par cette 
 
 ## Frappes Bénites (Repl. aptitude de niveau 8)
 
-À partir du niveau 8, vous avez été bénie avec une puissance divine en combat. Lorsqu'une créature prend des dégâts par une de vos attaques armées ou un de vos cantrips, vous pouvez également lui infliger 1d8 dégâts radiants. Une fois que vous avez infligé ces dégâts, vous ne pouvez plus utiliser cette aptitude jusqu'au début de votre prochain tour.
+À partir du niveau 8, vous avez été bénie avec une puissance divine en combat. Lorsqu'une créature subit des dégâts par une de vos attaques armées ou un de vos cantrips, vous pouvez également lui infliger 1d8 dégâts radiants. Une fois que vous avez infligé ces dégâts, vous ne pouvez plus utiliser cette aptitude jusqu'au début de votre prochain tour.
 ## Intervention Divine
 
 À partir du niveau 10, vous pouvez appeler à l'intervention de votre déité si vous êtes dans le besoin.

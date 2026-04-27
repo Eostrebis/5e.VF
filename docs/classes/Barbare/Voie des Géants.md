@@ -26,7 +26,7 @@ Tant que vous ragez et que vous tenez l'arme imprégnée, vous pouvez utiliser v
 
 Au niveau 10, votre connexion avec la force des géants vous permet de propulser alliés comme ennemis à travers le champ de bataille. Pour une action bonus alors que vous ragez, vous pouvez choisir une créature de taille M ou inférieure dans votre portée et la déplacer vers un espace inoccupé que vous pouvez voir à 30 ft. Une créature non consentante doit réussir un jet de sauvegarde de Force (8 + votre bonus de maîtrise + votre modificateur de Force) pour l'éviter.
 
-Si, à la fin de ce mouvement, la créature lancée n'est pas sur une surface ou un liquide qui peut supporter son poids, la créature tombe, prend des dégâts de chute comme à la normale et atterrit [[au sol]]
+Si, à la fin de ce mouvement, la créature lancée n'est pas sur une surface ou un liquide qui peut supporter son poids, la créature tombe, subit des dégâts de chute comme à la normale et atterrit [[au sol]]
 
 ## Colosse Démiurge
 

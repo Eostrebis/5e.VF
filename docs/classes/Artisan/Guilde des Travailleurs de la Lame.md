@@ -25,7 +25,7 @@ Lorsque vous pratiquez le combat à deux armes, vous pouvez ajouter votre modifi
 
 **Désarmement.** Vous essayez de désarmer une cible à portée. La cible réalise un jet de sauvegarde de Force contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, elle lâche un objet de votre choix qu'elle porte ou manie. Cet objet tombe à ses pieds.
 
-**Fracassement.** Vous essayer d'écraser les défenses d'une cible à portée qui porte une armure ou manie un bouclier. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, l'armure ou le bouclier de la cible prend un malus permanent et cumulatif de -1 à la CA qu'il offre. Les armures réduites à une CA de 10 ou un bouclier qui tombe à +0+ de bonus est détruit. Si une armure ou un bouclier est endommagé mais pas détruit, une créature peut le réparer au cours d'un repos.
+**Fracassement.** Vous essayer d'écraser les défenses d'une cible à portée qui porte une armure ou manie un bouclier. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, l'armure ou le bouclier de la cible subit un malus permanent et cumulatif de -1 à la CA qu'il offre. Les armures réduites à une CA de 10 ou un bouclier qui tombe à +0+ de bonus est détruit. Si une armure ou un bouclier est endommagé mais pas détruit, une créature peut le réparer au cours d'un repos.
 
 ## Armes Aiguisées
 

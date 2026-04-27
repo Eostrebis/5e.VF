@@ -74,7 +74,7 @@ Au niveau 20, pour une action, vous pouvez abandonner votre forme mortelle un co
 
  - Pour une action bonus, vous pouvez devenir éthéré, comme d'après le sort [[Forme Éthérée]].
  - Vous pouvez utiliser votre action bonus pour revenir de cette forme éthérée lorsque vous utilisez vos aptitudes [[Gardien#Marque du Gardien|Marque du Gardien]] ou [[Gardien#Saisie du Gardien|Saisie du Gardien]]. Vous pouvez utiliser votre action bonus pour revenir de cette forme lorsque vous lancez un sort pendant votre tour.
- - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. prend 4d6 dégâts de force, se sentant attiré par les deux plans.
+ - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. subit 4d6 dégâts de force, se sentant attiré par les deux plans.
  - Vous pouvez lancer les sorts de druides que vous connaissez de niveau 1 et 2 sans dépenser d'emplacements de sorts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.

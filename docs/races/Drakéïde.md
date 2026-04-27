@@ -73,7 +73,7 @@ Les drakéïdes avec un héritage chromatique revendiquent le pouvoir élémenta
 | Rouge | Feu |
 | Vert | Poison |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance chromatique.
@@ -109,7 +109,7 @@ Les drakéïdes diamantins sont héritiers des dragons diamantins, et se revendi
 | Topaze | Nécrotique |
 | Émeraude | Psychique |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance diamantine.
@@ -147,7 +147,7 @@ Les drakéïdes avec un héritage métallique profitent de la ténacité des dra
 | Laiton | Feu |
 | Or | Feu |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance métallique.

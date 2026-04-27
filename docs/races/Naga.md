@@ -30,7 +30,7 @@ Les nagas sont connus pour leur dévouement envers l'excellence mentale et physi
 
 **Armes Naturelles.** Votre gueule à crocs acérés ainsi que votre corps serpentin sont de formidables armes naturelles, que vous pouvez utiliser pour réaliser des attaques à mains nues. 
 
-Si vous touchez avec votre morsure, vous infligez 1d4 + votre modificateur de Force dégâts perçants et votre cible doit réaliser un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution). Si elle échoue, la cible prend 1d4 dégâts de poison.
+Si vous touchez avec votre morsure, vous infligez 1d4 + votre modificateur de Force dégâts perçants et votre cible doit réaliser un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution). Si elle échoue, la cible subit 1d4 dégâts de poison.
 
 Si vous touchez avec votre attaque de constriction, vous infligez 1d6 + votre modificateur de Force dégâts contondants et votre cible est [[saisi|saisie]] (DD d'échappement 8 + votre bonus de maîtrise + votre modificateur de Force). Jusqu'à ce que la saisie se termine, la cible est [[retenu|retenue]] et vous ne pouvez pas compresser une autre créature.
 

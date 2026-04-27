@@ -17,7 +17,7 @@
 *_*
 ***Régénération (Slaad seulement)***. L'aberration regagne 5 points de vie au début de son tour si elle a au moins 1 point de vie. 
 
-***Aura Murmurante (Rejeton Stellaire seulement)***. Au début de chacun des tours de l'aberration, toutes les créatures à 5 ft. de celle-ci doivent réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort ou prendre 2d6 dégâts psychiques, en supposant que l'aberration ne soit pas [[incapacité|incapacitée]].
+***Aura Murmurante (Rejeton Stellaire seulement)***. Au début de chacun des tours de l'aberration, toutes les créatures à 5 ft. de celle-ci doivent réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort ou subir 2d6 dégâts psychiques, en supposant que l'aberration ne soit pas [[incapacité|incapacitée]].
 
 
 ### ACTIONS

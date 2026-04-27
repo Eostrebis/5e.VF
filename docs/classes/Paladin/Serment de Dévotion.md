@@ -51,7 +51,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 Au niveau 20, pour une action, vous pouvez émaner une aura de lumière solaire. Pendant 1 minute, une lumière vive émane de vous sur un rayon de 30 ft. et une lumière faible sur 30 ft. supplémentaire.
 
-Lorsqu'une créature ennemie commence son tour dans la lumière vive, elle prend 10 dégâts radiants.
+Lorsqu'une créature ennemie commence son tour dans la lumière vive, elle subit 10 dégâts radiants.
 
 De plus, pendant cette durée, vous avez l'avantage aux jets de sauvegarde contre les sorts lancés par les fiélons ou les morts-vivants.
 

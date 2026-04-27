@@ -22,7 +22,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de vot
 
 ## Onde de Choc
 
-Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une fois à chacun de vos tours, lorsque vous lancez un sort de clerc de niveau 1 ou plus qui inflige des dégâts de feu, de force, de foudre, radiant ou de tonnerre, vous pouvez émettre une onde de choc qui fait trembler l'environnement autour d'une créature qui prend des dégâts du sort. L'onde de choc est une sphère de 5 ft. centrée sur la créature qui n'inflige des dégâts qu'aux objets qui ne sont pas portés ou maniés. Chaque objet dans la zone prend le double des dégâts que vous avez infligés à la créature, ignorant les seuils de dégâts de l'objet.
+Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une fois à chacun de vos tours, lorsque vous lancez un sort de clerc de niveau 1 ou plus qui inflige des dégâts de feu, de force, de foudre, radiant ou de tonnerre, vous pouvez émettre une onde de choc qui fait trembler l'environnement autour d'une créature qui subit des dégâts du sort. L'onde de choc est une sphère de 5 ft. centrée sur la créature qui n'inflige des dégâts qu'aux objets qui ne sont pas portés ou maniés. Chaque objet dans la zone subit le double des dégâts que vous avez infligés à la créature, ignorant les seuils de dégâts de l'objet.
 
 ## Incantation Puissante
 

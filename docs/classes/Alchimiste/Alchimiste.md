@@ -182,7 +182,7 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 ## Évasion
 
-À partir du niveau 11, quand vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégâts si vous réussissez le jet de sauvegarde, et la moitié sinon.
+À partir du niveau 11, quand vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégâts si vous réussissez le jet de sauvegarde, et la moitié sinon.
 
 ## Protection contre les Explosions
 

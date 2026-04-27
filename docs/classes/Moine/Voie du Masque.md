@@ -25,7 +25,7 @@ Au niveau 6, vous maîtrisez une technique spéciale qui devient rapidement syno
 
 **Coup de Boule de la Justice.** Une fois à chacun de vos tours lorsque vous ratez avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour enchaîner avec un rapide coup de boule. Réalisez une seconde attaque à mains nues contre la même cible. Le dé de dégâts de cette attaque est un d8.
 
-**Suplex de l'Infini.** Tant que vous êtes en lutte avec une autre créature, vous pouvez utiliser votre action bonus et dépenser 1 point de ki pour terminer la lutte en envoyant votre adversaire par-dessus votre épaule et en l'étalant au sol. Réalisez un jet d'attaque contre la créature que vous avez saisie. Si vous touchez, la créature prend des dégâts contondants égal à 2d10 + votre modificateur de Force et est mise [[au sol]]. La lutte se termine ensuite.
+**Suplex de l'Infini.** Tant que vous êtes en lutte avec une autre créature, vous pouvez utiliser votre action bonus et dépenser 1 point de ki pour terminer la lutte en envoyant votre adversaire par-dessus votre épaule et en l'étalant au sol. Réalisez un jet d'attaque contre la créature que vous avez saisie. Si vous touchez, la créature subit des dégâts contondants égal à 2d10 + votre modificateur de Force et est mise [[au sol]]. La lutte se termine ensuite.
 
 ## Sur la Corde
 

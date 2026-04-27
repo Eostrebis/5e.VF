@@ -13,7 +13,7 @@ Au niveau 3, vous pouvez passer 10 minutes à installer une [[greffes monstrueus
 
 ## Voltage Charnel
 
-Au niveau 3, vous supplémentez votre énergie nécromantique d'arcs électriques. Vous pouvez choisir d'infliger des dégâts de foudre plutôt que nécrotiques avec votre Toucher Charnel. Lorsque vous touchez avec une attaque de Toucher Charnel qui inflige des dégâts de foudre et dépensez au moins 5 points de votre réservoir, vous pouvez faire en sorte que l'énergie nécromantique crée un arc vers une seconde créature à 5 ft. de la première. La seconde créature doit réussir un jet de sauvegarde de Dextérité ou prendre un montant de dégâts de foudre égal à la moitié du nombre de points de Toucher Charnel dépensés.
+Au niveau 3, vous supplémentez votre énergie nécromantique d'arcs électriques. Vous pouvez choisir d'infliger des dégâts de foudre plutôt que nécrotiques avec votre Toucher Charnel. Lorsque vous touchez avec une attaque de Toucher Charnel qui inflige des dégâts de foudre et dépensez au moins 5 points de votre réservoir, vous pouvez faire en sorte que l'énergie nécromantique crée un arc vers une seconde créature à 5 ft. de la première. La seconde créature doit réussir un jet de sauvegarde de Dextérité ou subir un montant de dégâts de foudre égal à la moitié du nombre de points de Toucher Charnel dépensés.
 
 ## Décharge de Lazare
 

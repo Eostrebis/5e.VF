@@ -21,4 +21,4 @@ Au niveau 10, vous pouvez entonner des vers calmants pour charmer, libérer et p
 
 ## État Zen 
 
-Au niveau 14, lorsqu'une créature vous rate avec une attaque de mêlée, vous gagnez un bonus de +2 à votre Classe d'Armure, jusqu'à un bonus de +6. Ce bonus se réinitialise à 0 lorsque vous prenez des dégâts ou au début de votre tour.
+Au niveau 14, lorsqu'une créature vous rate avec une attaque de mêlée, vous gagnez un bonus de +2 à votre Classe d'Armure, jusqu'à un bonus de +6. Ce bonus se réinitialise à 0 lorsque vous subissez des dégâts ou au début de votre tour.

@@ -51,7 +51,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 **Protection Arcanique.** Lorsque vous lancez un sort de niveau 1 ou plus, vous pouvez dépenser et lancer un dé de bataille pour gagner un nombre de points de vie temporaires égal au niveau de sort de l'emplacement dépensé pour lancer le sort + le résultat du dé de bataille. Vous perdez ces points de vie temporaires après 10 minutes.
 
-**Égide Occulte.** Lorsque vous ou une créature que vous voyez à 30 ft. prenez des dégâts d'un sort, vous pouvez utiliser votre réaction et lancer un dé de bataille afin de réduire les dégâts subis d'un montant égal au résultat du dé + votre modificateur d'Intelligence.
+**Égide Occulte.** Lorsque vous ou une créature que vous voyez à 30 ft. subit des dégâts d'un sort, vous pouvez utiliser votre réaction et un dé de bataille afin de réduire les dégâts subis d'un montant égal au résultat du dé + votre modificateur d'Intelligence.
 
 **Éclair de Génie.** Lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez dépenser un dé de bataille pour l'ajouter au jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
 

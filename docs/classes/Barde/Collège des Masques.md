@@ -39,16 +39,16 @@ Les masques suivants sont listés alphabétiquement
 | --------------- | ---------------------------------------------- |
 | 3 | [[Saute de Vent]], [[rayon ardent]] |
 | 5 | [[éclair]], [[protection contre une énergie]] |
-| 7 | [[porte dimensionnelle]], [[tempête de grêle]] |
+| 7 | [[porte dimensionnelle]], [[Tempête de Glace]] |
 | 9 | [[Scrutation]], [[mur de pierre]] |
 
 ### Diable
 
-Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et les cornes d'un magnifique fiélon. Pour une réaction lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser une utilisation d'Inspiration Bardique pour infliger à la créature un nombre de dégâts de feu égal à deux lancers du dé d'Inspiration Bardique.
+Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et les cornes d'un magnifique fiélon. Pour une réaction lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser une utilisation d'Inspiration Bardique pour infliger à la créature un nombre de dégâts de feu égal à deux lancers du dé d'Inspiration Bardique.
 
 ### Dragon
 
-Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature prend des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
+Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
 
 ### Sans-Visage
 

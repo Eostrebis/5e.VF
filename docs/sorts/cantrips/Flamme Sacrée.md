@@ -15,6 +15,6 @@ Rituel: false
 englishname: Sacred Flame
 writing_status: empty
 ---
-Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou prendre 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.
+Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.

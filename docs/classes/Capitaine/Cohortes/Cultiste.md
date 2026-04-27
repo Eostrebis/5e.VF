@@ -47,4 +47,4 @@ Tant qu'il suit les ordres de son capitaine, le cultiste obtient les capacités 
  - À volonté : [[ténèbres]], [[Pattes d'Araignée]]
  - 1/jour : [[Terreur]]
 
-*Niveau 18.* *Réaction :* **Représailles Vengeresses.** Pour une réaction après avoir subi des dégâts d'une créature visible à 60 ft., le cultiste force cette créature à réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 11 (2d10) dégâts de feu, ou la moitié si elle réussit.
+*Niveau 18.* *Réaction :* **Représailles Vengeresses.** Pour une réaction après avoir subi des dégâts d'une créature visible à 60 ft., le cultiste force cette créature à réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 11 (2d10) dégâts de feu, ou la moitié si elle réussit.

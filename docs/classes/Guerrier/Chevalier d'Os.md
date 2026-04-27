@@ -9,7 +9,7 @@ Beaucoup de guerriers s'imaginent que le rituel de médullerie n'est qu'une simp
 
 À partir du moment où vous choisissez cet archétype au niveau 3, vous pouvez vous faire pousser des plaques osseuses sur la peau. Tant que vous ne portez pas d'armure, cette armure naturelle vous prodigue une CA de base de 17 (votre modificateur de Dextérité n'affecte pas ce nombre). Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous confère une CA inférieure. Les bénéfices d'un bouclier s'appliquent normalement lorsque vous utilisez votre armure naturelle.
 
-De plus, lorsque vous prenez des dégâts contondants, perçants ou tranchants, vous pouvez utiliser votre réaction pour vous protéger du coup. Dépensez un Dé de Vie, lancez-le et réduisez les dégâts subis par le résultat obtenu.
+De plus, lorsque vous prenez des subissez des dégâtss, perçants ou tranchants, vous pouvez utiliser votre réaction pour vous protéger du coup. Dépensez un Dé de Vie, lancez-le et réduisez les dégâts subis par le résultat obtenu.
 
 | Niveau de Guerrier | Classe d'Armure |
 | ------------------ | --------------- |

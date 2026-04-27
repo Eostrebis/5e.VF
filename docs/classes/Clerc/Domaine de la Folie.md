@@ -23,7 +23,7 @@ Au niveau 1, à chaque fois que vous réalisez un jet de caractéristique qui n'
 
 ## Canal Divin : Folie Temporaire
 
-À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle prend des dégâts.
+À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle subit des dégâts.
 
 | d20 | Effet |
 | :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

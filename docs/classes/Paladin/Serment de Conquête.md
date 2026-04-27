@@ -38,13 +38,13 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 À partir du niveau 7, vous émanez constamment une aura menaçante, à condition que vous ne soyez pas [[incapacité]]. L'aura s'étend de 10 ft. autour de vous dans toutes les directions, mais pas à travers les couvertures totales.
 
-Si est une créature est [[apeuré|apeurée]] par vous, sa vitesse est réduite à 0 tant qu'elle se trouve dans l'aura et la créature prend un nombre de dégâts psychiques égal à la moitié de votre niveau de paladin lorsqu'elle y commence son tour.
+Si est une créature est [[apeuré|apeurée]] par vous, sa vitesse est réduite à 0 tant qu'elle se trouve dans l'aura et la créature subit un nombre de dégâts psychiques égal à la moitié de votre niveau de paladin lorsqu'elle y commence son tour.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Représailles Méprisantes
 
-À partir du niveau 15, ceux qui osent vous frapper se trouvent psychiquement punis pour leur audace. Lorsqu'une créature vous touche avec une attaque, elle prend un nombre de dégâts psychiques égal à votre modificateur de Charisme (minimum de 1), tant que vous n'êtes pas [[incapacité]].
+À partir du niveau 15, ceux qui osent vous frapper se trouvent psychiquement punis pour leur audace. Lorsqu'une créature vous touche avec une attaque, elle subit un nombre de dégâts psychiques égal à votre modificateur de Charisme (minimum de 1), tant que vous n'êtes pas [[incapacité]].
 
 ## Conquérant Invincible
 

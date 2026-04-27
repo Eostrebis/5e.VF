@@ -26,7 +26,7 @@ Les hantises peuvent souvent être attribuées aux suspects spectraux habituels 
 >- **Difficulté** 1 (200 PX)
 >- **Bonus de Maîtrise** +2
 >*_*
-> **Mouvement Incorporel.** Le fantiot peut se déplacer à travers d'autres créatures ou objets comme s'ils étaient du terrain difficile. Il prend 5 (1d10) dégâts de force s'il termine son tour dans un objet.
+> **Mouvement Incorporel.** Le fantiot peut se déplacer à travers d'autres créatures ou objets comme s'ils étaient du terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour dans un objet.
 >
 >### Actions
 >

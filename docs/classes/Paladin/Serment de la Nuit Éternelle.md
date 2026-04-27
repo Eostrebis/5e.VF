@@ -44,7 +44,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Voile Nocturne
 
-Au niveau 15, pour une réaction lorsque vous prenez des dégâts, vous pouvez relâcher de petits flocons de ténèbres qui tournoient brièvement autour de vous avant de disparaître. La prochaine attaque réalisée contre vous avant le début de votre prochain tour a le désavantage.
+Au niveau 15, pour une réaction lorsque vous subissez des dégâts, vous pouvez relâcher de petits flocons de ténèbres qui tournoient brièvement autour de vous avant de disparaître. La prochaine attaque réalisée contre vous avant le début de votre prochain tour a le désavantage.
 ## Forme d'Ombres
 
 Au niveau 20, vous pouvez prendre la forme d'un chasseur ténébreux, puisant un pouvoir incroyable de l'obscurité autour de vous. En utilisant votre action, vous pouvez vous transformer et profiter des effets suivants tant que vous êtes dans une lumière faible ou l'obscurité pendant la prochaine heure : 

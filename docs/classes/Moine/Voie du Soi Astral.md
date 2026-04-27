@@ -10,7 +10,7 @@ Un moine qui suit la voie du soi astral pense que son corps n'est qu'illusion. I
 
 ## Bras du Soi Astral
 
-Lorsque vous choisissez cette tradition au niveau 3, votre maîtrise du ki vous permet d'invoquer une partie de votre soi astral. Pour une action bonus, vous pouvez dépenser 1 point de ki pour invoquer les bras de votre soi astral. Lorsque vous le faites, chaque créature de votre choix que vous pouvez voir à 10 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre un nombre de dégâts de force égal à deux de vos dés d'Arts Martiaux.
+Lorsque vous choisissez cette tradition au niveau 3, votre maîtrise du ki vous permet d'invoquer une partie de votre soi astral. Pour une action bonus, vous pouvez dépenser 1 point de ki pour invoquer les bras de votre soi astral. Lorsque vous le faites, chaque créature de votre choix que vous pouvez voir à 10 ft. doit réussir un jet de sauvegarde de Dextérité ou subir un nombre de dégâts de force égal à deux de vos dés d'Arts Martiaux.
 
 Pendant 10 minutes, ces bras spectraux flottent au-dessus de vos épaules ou entourent vos bras (votre choix). Vous déterminez l'apparence de ces bras, et ils disparaissent si vous êtes [[incapacité]] ou mourez. Tant que ces bras spectraux sont présents, vous bénéficiez des effets suivants : 
 
@@ -39,7 +39,7 @@ Au niveau 11, lorsque vous avez et les bras et le visage du soi astral invoqués
 
 Tant que ce corps spectral est présent, vous bénéficiez des effets suivants : 
 
-**Redirection d'Énergie.** Lorsque vous prenez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour la rediriger. Lorsque vous le faites, les dégâts que vous prenez sont réduits de 1d10 + votre modificateur de Sagesse (minimum de 1).
+**Redirection d'Énergie.** Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour la rediriger. Lorsque vous le faites, les dégâts que vous prenez sont réduits de 1d10 + votre modificateur de Sagesse (minimum de 1).
 
 **Bras Renforcés.** Une fois à chacun de vos tours lorsque vous touchez une créature avec vos Bras du Soi Astral, vous pouvez infliger un nombre de dégâts supplémentaire à la cible égal à votre dé d'Arts Martiaux.
 

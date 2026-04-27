@@ -11,7 +11,7 @@ De plus, vous pouvez choisir des dégâts tranchants plutôt que contondants ave
 
 ## Coup de Fouet du Pénitent
 
-Également au niveau 3, lorsque vous commencez votre tour, vous pouvez améliorer votre concentration en dépensant 1 point de ki et en vous frappant avec un fléau rituel. Vous pouvez choisir de prendre un ou plus d4 dégâts tranchants. Pour chacun de ces d4 dégâts tranchants que vous prenez, vous gagnez l'avantage à une attaque que vous réalisez avant la fin de votre tour. Chaque attaque doit utiliser une arme monastique ou être à mains nues. Cette aptitude n'a aucun effet si vous réduisez ou annulez les dégâts tranchants.
+Également au niveau 3, lorsque vous commencez votre tour, vous pouvez améliorer votre concentration en dépensant 1 point de ki et en vous frappant avec un fléau rituel. Vous pouvez choisir de subir un ou plus d4 dégâts tranchants. Pour chacun de ces d4 dégâts tranchants que vous prenez, vous gagnez l'avantage à une attaque que vous réalisez avant la fin de votre tour. Chaque attaque doit utiliser une arme monastique ou être à mains nues. Cette aptitude n'a aucun effet si vous réduisez ou annulez les dégâts tranchants.
 
 ## Art de la Punition
 
@@ -25,8 +25,8 @@ Au niveau 6, votre expertise de la discipline de la douleur vous confère de nou
 
 ## Pureté par la Douleur
 
-À partir du niveau 11, vous entrez dans une furie calme à chaque fois que vous êtes blessé. Lorsque vous prenez des dégâts supérieurs à votre niveau, vous pouvez utiliser votre réaction pour regagner 1d4 points de ki. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+À partir du niveau 11, vous entrez dans une furie calme à chaque fois que vous êtes blessé. Lorsque vous subissez des dégâts supérieurs à votre niveau, vous pouvez utiliser votre réaction pour regagner 1d4 points de ki. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Exsanguination
 
-À partir du niveau 17, lorsque vous utilisez votre Coup de Fouet du Pénitent et prenez 6d4 ou plus dégâts tranchants, vos attaques à mains nues infligent 1d4 dégâts tranchants supplémentaires jusqu'à la fin du tour.
+À partir du niveau 17, lorsque vous utilisez votre Coup de Fouet du Pénitent et subissez 6d4 ou plus dégâts tranchants, vos attaques à mains nues infligent 1d4 dégâts tranchants supplémentaires jusqu'à la fin du tour.

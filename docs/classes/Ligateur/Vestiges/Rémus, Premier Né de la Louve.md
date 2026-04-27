@@ -24,7 +24,7 @@ Pendant votre tour, vous pouvez utiliser votre action bonus pour faire appel à 
 Vous pouvez terminer cet effet prématurément pour une action bonus. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Soif de Sang du Loup
-Tant que vous êtes lié à Rémus, vous adoptez l'aspect sauvage et violent d'un lycanthrope : une fourrure rêche recouvre votre corps, votre nez s'allonge, vos ongles deviennent des griffes et vos dents s'aiguisent. Lorsque vous prenez des dégâts d'une créature à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+Tant que vous êtes lié à Rémus, vous adoptez l'aspect sauvage et violent d'un lycanthrope : une fourrure rêche recouvre votre corps, votre nez s'allonge, vos ongles deviennent des griffes et vos dents s'aiguisent. Lorsque vous subissez des dégâts d'une créature à 5ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 
 ## Faille

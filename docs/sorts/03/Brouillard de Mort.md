@@ -19,7 +19,7 @@ Un sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point q
 
 Lorsque vous lancez ce sort, vous pouvez l'alimenter de votre propre essence vitale en perdant 10, 15 ou 20 points de vie lorsque vous lancez. Si vous le faites, considérez l'emplacement de sort utilisé comme étant d'un niveau supérieur si vous avez perdu 10 points de vie, deux niveaux supérieurs si vous avez 15 points de vie et trois niveaux supérieurs pour 20 points de vie, jusqu'à un maximum de niveau 9.
 
-Lorsqu'une créature pénètre la zone pour la première fois pendant son tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou prendre 3d8 dégâts nécrotiques.
+Lorsqu'une créature pénètre la zone pour la première fois pendant son tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou subir 3d8 dégâts nécrotiques.
 
 De plus, lorsqu'une créature essaye de quitter la sphère de brume, vous pouvez faire en sorte que la brume saisisse la créature avec des tentacules brumeux. La créature doit réussir un jet de sauvegarde de Force ou ne peut bouger.
 

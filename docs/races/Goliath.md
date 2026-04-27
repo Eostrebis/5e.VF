@@ -27,6 +27,6 @@ Les premiers goliaths vivaient sur les plus hautes montagnes — bien au-delà d
 
 **Né des Montagnes.** Vous êtes résistant aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
 
-**Endurance de la Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
+**Endurance de la Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

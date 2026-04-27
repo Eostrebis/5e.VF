@@ -21,7 +21,7 @@ Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous 
 
 ## Machine Massive
 
-Au niveau 6, vous pouvez choisir d'augmenter la taille et la puissance de votre tapisserie. Vous pouvez utiliser votre action pour devenir Grand (G) pendant 1 minute ou pour revenir à taille normale. Tant que vous êtes de taille G ou supérieure, vous avez l'avantage à vos jets de caractéristique et sauvegarde de Force et, à chaque fois que vous prenez des dégâts, vous pouvez réduire ces dégâts de 2, après application des résistances.
+Au niveau 6, vous pouvez choisir d'augmenter la taille et la puissance de votre tapisserie. Vous pouvez utiliser votre action pour devenir Grand (G) pendant 1 minute ou pour revenir à taille normale. Tant que vous êtes de taille G ou supérieure, vous avez l'avantage à vos jets de caractéristique et sauvegarde de Force et, à chaque fois que vous subissez des dégâts, vous pouvez réduire ces dégâts de 2, après application des résistances.
 
 ## Corps Galactique
 

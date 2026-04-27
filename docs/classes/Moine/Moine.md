@@ -208,7 +208,7 @@ Lorsque vous ratez un jet d'attaque, vous pouvez dépenser entre 1 et 3 points d
 
 ## Évasion
 
-Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Sérénité
 

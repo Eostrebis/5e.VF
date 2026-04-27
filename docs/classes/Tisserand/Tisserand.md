@@ -150,7 +150,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 ## Découpe-Ruban
 
-À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible prend un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
+À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible subit un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
 
 ## Tapisserie du Tisserand
 
@@ -171,7 +171,7 @@ Vous pouvez également tisser votre fil arcanique en une corde de 100 ft. avec u
 
 De plus, vous obtenez la maîtrise de trois outils et vous pouvez créer n'importe quel outil que vous maîtrisez en utilisant cette aptitude.
 
-Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de prendre les dégâts à la place ou de les laisser disparaître.
+Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de subir les dégâts à la place ou de les laisser disparaître.
 
 ## Augmentation de Caractéristiques
 

@@ -16,7 +16,7 @@ Rituel: false
 englishname: Burning Hands
 writing_status: empty
 ---
-En tenant vos mains de telle sorte que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre 3d6 dégâts de feu. En cas de réussite, elle ne prend que la moitié des dégâts.
+En tenant vos mains de telle sorte que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts de feu. En cas de réussite, elle ne subit que la moitié des dégâts.
 
 Le feu embrase tout objet inflammable dans la zone d'effet qui n'est pas porté.
 

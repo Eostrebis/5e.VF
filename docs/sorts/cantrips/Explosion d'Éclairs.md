@@ -20,6 +20,6 @@ Rituel: false
 englishname: Lightning Surge
 writing_status: empty
 ---
-Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de foudre.
+Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de foudre.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (3d6).

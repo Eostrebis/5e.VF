@@ -17,7 +17,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Montagne Immortelle
 

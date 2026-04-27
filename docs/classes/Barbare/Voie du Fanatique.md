@@ -5,7 +5,7 @@ Certaines déités inspirent leurs croyants à s'élancer dans une féroce furie
 
 ## Furie Divine
 
-À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée prend un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
+À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée subit un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
 
 ## Guerrier des Dieux
 
