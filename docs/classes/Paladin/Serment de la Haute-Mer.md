@@ -19,13 +19,13 @@ Ces gardiens croient en la beauté naturelle de la mer, faisant souvent des offr
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                  |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------ |
-| 3                 | [[Création ou destruction d'eau]], [[repli expéditif]] |
-| 5                 | [[Augure]], [[pas brumeux]]                            |
-| 9                 | [[Appel de la foudre]], [[Liberté des Vagues]]         |
-| 13                | [[Contrôle de l'eau]], [[liberté de mouvement]]        |
-| 17                | [[Communion avec la nature]], [[Liberté des Vents]]    |
+| 3 | [[Création ou destruction d'eau]], [[repli expéditif]] |
+| 5 | [[Augure]], [[pas brumeux]] |
+| 9 | [[Appel de la foudre]], [[Liberté des Vagues]] |
+| 13 | [[Contrôle de l'eau]], [[liberté de mouvement]] |
+| 17 | [[Communion avec la nature]], [[Liberté des Vents]] |
 
 ## Canal Divin
 

@@ -36,29 +36,29 @@ Lorsque vous créez un tisserand, imaginez comment vous en êtes venu à maîtri
 
 Vous pouvez créer un Tisserand rapidement en suivant ces suggestions. Commencez par faire de la Dextérité votre caractéristique principale, suivie de l'Intelligence, puisque celle-ci vous est essentielle pour utiliser vos patterns et lancer vos sorts. Ensuite, choisissez la Ciselame. Enfin, choisissez un historique qui vous aurait donné l'opportunité d'étudier les arts arcaniques.
 
-| **Le Tisserand** |                   |                                                          |                    |
+| **Le Tisserand** | | | |
 | ---------------- | ----------------- | -------------------------------------------------------- | ------------------ |
-| Niveau           | Bonus de Maîtrise | Aptitudes                                                | Échelon de Tissage |
-| 1                | +2                | [[#Lamefil]], [[#Infusion]], [[#Coupe du Tisserand]]     | -                  |
-| 2                | +2                | [[#Finition]], [[#Découpe-Ruban]]                        | 1                  |
-| 3                | +2                | [[#Tapisserie du Tisserand]], [[#Renaissance Régulière]] | 1                  |
-| 4                | +2                | [[#Augmentation de Caractéristiques]]                    | 2                  |
-| 5                | +3                | [[#Cisaillement]]                                        | 2                  |
-| 6                | +3                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 2                  |
-| 7                | +3                | [[#Navette]], amélioration de [[#Renaissance Régulière]] | 3                  |
-| 8                | +3                | [[#Augmentation de Caractéristiques]]                    | 3                  |
-| 9                | +4                | [[#Tissage Cyclique]]                                    | 3                  |
-| 10               | +4                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 4                  |
-| 11               | +4                | [[#Lame Rusée]]                                          | 4                  |
-| 12               | +4                | [[#Augmentation de Caractéristiques]]                    | 4                  |
-| 13               | +5                | [[#Indivisible]]                                         | 5                  |
-| 14               | +5                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 5                  |
-| 15               | +5                | [[#Ciseaux à Ruban]]                                     | 5                  |
-| 16               | +5                | [[#Augmentation de Caractéristiques]]                    | 6                  |
-| 17               | +6                | [[#Infusion Parfaite]]                                   | 6                  |
-| 18               | +6                | [[#Âme Tissée]]                                          | 6                  |
-| 19               | +6                | [[#Augmentation de Caractéristiques]]                    | 7                  |
-| 20               | +6                | [[#Touche FInale]]                                       | 7                  |
+| Niveau | Bonus de Maîtrise | Aptitudes | Échelon de Tissage |
+| 1 | +2 | [[#Lamefil]], [[#Infusion]], [[#Coupe du Tisserand]] | - |
+| 2 | +2 | [[#Finition]], [[#Découpe-Ruban]] | 1 |
+| 3 | +2 | [[#Tapisserie du Tisserand]], [[#Renaissance Régulière]] | 1 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 2 |
+| 5 | +3 | [[#Cisaillement]] | 2 |
+| 6 | +3 | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]] | 2 |
+| 7 | +3 | [[#Navette]], amélioration de [[#Renaissance Régulière]] | 3 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 3 |
+| 9 | +4 | [[#Tissage Cyclique]] | 3 |
+| 10 | +4 | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]] | 4 |
+| 11 | +4 | [[#Lame Rusée]] | 4 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 4 |
+| 13 | +5 | [[#Indivisible]] | 5 |
+| 14 | +5 | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]] | 5 |
+| 15 | +5 | [[#Ciseaux à Ruban]] | 5 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 6 |
+| 17 | +6 | [[#Infusion Parfaite]] | 6 |
+| 18 | +6 | [[#Âme Tissée]] | 6 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 7 |
+| 20 | +6 | [[#Touche FInale]] | 7 |
 
 # Aptitudes de Classes
 
@@ -156,12 +156,12 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canaliser plus facilement votre pouvoir arcanique. Choisissez parmi la liste des tapisseries disponibles. Votre tapisserie vous confère des aptitudes au niveau 3, puis aux niveaux 6, 10 et 14.
 
-| Tapisserie                        | Description                                                                                             |
+| Tapisserie | Description |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [[Tapisserie Cramoisie]]          | Tissez un œil de sang vivant pour une mobilité féroce et une détermination inarrêtable.                 |
-| [[Tapisserie de Soie d'Ombre]]    | Tissez une cape de lames d'ombre pour frapper à distance, vous dissimuler et vous téléporter.           |
-| [[Tapisserie de Spirale Étoilée]] | Tissez une armure d'étoiles mécanique pour devenir un colosse de combat dévastateur.                    |
-| [[Tapisserie Mortelle]]           | Tissez un tome illusoire pour maîtriser toutes les lamefils et vous défendre par la ruse et l'illusion. |
+| [[Tapisserie Cramoisie]] | Tissez un œil de sang vivant pour une mobilité féroce et une détermination inarrêtable. |
+| [[Tapisserie de Soie d'Ombre]] | Tissez une cape de lames d'ombre pour frapper à distance, vous dissimuler et vous téléporter. |
+| [[Tapisserie de Spirale Étoilée]] | Tissez une armure d'étoiles mécanique pour devenir un colosse de combat dévastateur. |
+| [[Tapisserie Mortelle]] | Tissez un tome illusoire pour maîtriser toutes les lamefils et vous défendre par la ruse et l'illusion. |
 
 ## Renaissance Régulière
 

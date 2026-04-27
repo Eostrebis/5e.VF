@@ -4,11 +4,11 @@
 ### 1.1 Caractéristiques de départ
 Les caractéristiques d'un personnage sont déterminées par l'une des méthodes suivantes : 
 
-  - Série standard : \[16, 14, 13, 12, 11, 8\], ou en utilisant une série standard tirée *collectivement*.
-  - Achat par point : 33 points disponibles.
-  - Tirage :
-    - En tirant 6 fois 4d6 et en retirant la valeur la plus petite, et en affectant chaque résultat à un score au choix.
-    - En tirant 6 fois 1d20 et en affectant les résultats **dans l'ordre**.
+ - Série standard : \[16, 14, 13, 12, 11, 8\], ou en utilisant une série standard tirée *collectivement*.
+ - Achat par point : 33 points disponibles.
+ - Tirage :
+ - En tirant 6 fois 4d6 et en retirant la valeur la plus petite, et en affectant chaque résultat à un score au choix.
+ - En tirant 6 fois 1d20 et en affectant les résultats **dans l'ordre**.
 
 ### 1.2 Compétence Bonus
 Chaque personnage dispose d'un loisir et/ou d'un intérêt qui se traduit par l'ajout d'une compétence bonus. Cette compétence est à votre choix (par ex. `bière naine` ou `art elfe`) et doit être validée par le MJ. Elle est liée à votre Intelligence, et vous en avez l'expertise.
@@ -54,10 +54,10 @@ Lorsque vous montez en niveau, vous gagnez un nombre de points de vie maximum d�
 ### 3.1 P'tite Pause
 En plus des repos courts et longs, vos personnages peuvent prendre une *p'tite pause*. Celle-ci dure 10 minutes, et fonctionne comme ceci : 
 
-  - À la fin d'une p'tite pause, vous pouvez dépenser **1** dé de vie.
-  - N'importe quelle tâche non triviale ou de combat interrompt la p'tite pause.
-  - Six p'tites pauses à la suite correspondent à un repos court.
-  - Si les personnages sont pressés par le temps, il peuvent profiter d'un repos court en seulement 10 minutes, à la condition que tous les PJs puissent dépenser au moins 1 dé de vie. Une fois qu'ils ont réalisé un repos court de cette manière, ils ne peuvent plus le refaire tant qu'ils n'ont pas terminé un repos long.
+ - À la fin d'une p'tite pause, vous pouvez dépenser **1** dé de vie.
+ - N'importe quelle tâche non triviale ou de combat interrompt la p'tite pause.
+ - Six p'tites pauses à la suite correspondent à un repos court.
+ - Si les personnages sont pressés par le temps, il peuvent profiter d'un repos court en seulement 10 minutes, à la condition que tous les PJs puissent dépenser au moins 1 dé de vie. Une fois qu'ils ont réalisé un repos court de cette manière, ils ne peuvent plus le refaire tant qu'ils n'ont pas terminé un repos long.
 
 ### 3.2 Aide
 Pour aider un autre personnage, votre personnage doit soit maîtriser la compétence utilisée, soit posséder un score de caractéristique plus élevé que l'aidé. L'aide doit être signalée avant que le jet soit lancé.

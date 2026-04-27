@@ -1,9 +1,9 @@
 ---
 available:
-  - Ranger
-  - Paladin
-  - Barde
-  - Martyr
+ - Ranger
+ - Paladin
+ - Barde
+ - Martyr
 level: 1
 school: Transmutation
 Verbal: true
@@ -18,6 +18,6 @@ Rituel: false
 englishname: Instant Replay
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 ---
 La prochaine fois que vous ratez une créature avec une attaque avant que ce sort ne termine, vous pouvez instantanément vous réinitialiser au moment juste avant l'attaque et la répéter contre la même cible.

@@ -13,11 +13,11 @@ Vos dés de bataille changent et plus de dés deviennent disponibles lorsque vou
 
 | Niveau de Magicien | Dés de Bataille |
 | ------------------ | --------------- |
-| 2                  | 2d6             |
-| 3                  | 2d8             |
-| 7                  | 3d8             |
-| 13                 | 3d10            |
-| 19                 | 4d10            |
+| 2 | 2d6 |
+| 3 | 2d8 |
+| 7 | 3d8 |
+| 13 | 3d10 |
+| 19 | 4d10 |
 
 __Utiliser les Dés de Bataille.__ Une fois par tour, vous pouvez dépenser un dé de bataille pour utiliser un stratagème de votre choix. Vos options de stratagème sont décrites à la fin de cette tradition.
 

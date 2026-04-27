@@ -17,8 +17,8 @@ __Persuasion.__ Une boisson fort peut réchauffer même le plus froid des cœurs
 
 __Eau Potable.__ Vos connaissances sur la brasserie vous permettent de purifier l'eau non potable. Pendant un repos long, vous pouvez purifier jusqu'à 20 L d'eau, ou 3 L pendant un repos court.
 
-| Activité                                           | DC  |
+| Activité | DC |
 | -------------------------------------------------- | --- |
-| Détecter du poison ou autre impureté dans un verre | 10  |
-| Identifier un alcool                               | 15  |
-| Ignorer les effets de l'alcool                     | 20  |
+| Détecter du poison ou autre impureté dans un verre | 10 |
+| Identifier un alcool | 15 |
+| Ignorer les effets de l'alcool | 20 |

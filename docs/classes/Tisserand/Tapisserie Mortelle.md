@@ -7,13 +7,13 @@ Vous êtes différent des autres tisserands. Vous voyez votre lamefil comme l'ac
 
 Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vous pouvez lancer chacun de ces sorts une fois, et vous regagnez la capacité de le faire lorsque vous terminez un repos long.
 
-| Niveau | Sorts                           |
+| Niveau | Sorts |
 | ------ | ------------------------------- |
-| 3      | [[Détection du mal et du bien]] |
-| 4      | [[Lévitation]]                  |
-| 7      | [[Communication à distance]]    |
-| 10     | [[Œil magique]]                 |
-| 13     | [[Cercle de téléportation]]     |
+| 3 | [[Détection du mal et du bien]] |
+| 4 | [[Lévitation]] |
+| 7 | [[Communication à distance]] |
+| 10 | [[Œil magique]] |
+| 13 | [[Cercle de téléportation]] |
 
 ## Tome de Lames
 

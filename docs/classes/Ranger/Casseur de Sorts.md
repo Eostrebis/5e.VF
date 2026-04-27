@@ -9,13 +9,13 @@ Pour cette seule raison, un magicien en cavale a de bonnes raisons de surveiller
 
 À partir du niveau 3, vous apprenez de nouveaux sorts lorsque vous atteignez certains niveaux dans cette classe, comme montré dans la table ci-dessous. Le sort est considéré comme un sort de ranger pour vous mais ne compte pas dans le nombre de sorts de ranger que vous connaissez.
 
-| Niveau de Ranger | Sort                      |
+| Niveau de Ranger | Sort |
 | ---------------- | ------------------------- |
-| 3                | [[Détection de la magie]] |
-| 5                | [[Vision de l'invisible]] |
-| 9                | [[Contresort]]            |
-| 13               | [[Liberté de mouvement]]  |
-| 17               | [[Scrutation]]            |
+| 3 | [[Détection de la magie]] |
+| 5 | [[Vision de l'invisible]] |
+| 9 | [[Contresort]] |
+| 13 | [[Liberté de mouvement]] |
+| 17 | [[Scrutation]] |
 
 ## Frappe Antimagique
 

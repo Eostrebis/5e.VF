@@ -6,14 +6,14 @@ Le dieu dragon [[TODO bahamut]] est connu pour arpenter le Plan Matériel dégui
 
 En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vous avez libéré le pouvoir des dragons en vous. La table ci-dessous offre quelques possibilités :
 
-| d6  | Origine                                                                                                                                                                |
+| d6 | Origine |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Vous avez perfectionné vos compétences en alignant votre esprit avec le pouvoir immense d'un dragon.                                                                  |
-| 2   | Un dragon a eu un rôle important pour modeler votre énergie intérieure.                                                                                               |
-| 3   | Vous avez étudié dans un monastère dont les enseignements sont transférés depuis des siècles, si ce n'est plus, et viennent directement des instructions d'un dragon. |
-| 4   | Vous avez passé de longues promenades à méditer autour d'un ancien repaire de dragon, absorbant l'énergie latente de la région.                                       |
-| 5   | Vous avez trouvé un parchemin écrit en Draconique contenant d'innovantes nouvelles techniques.                                                                        |
-| 6   | Après un rêve avec un drakéïde à cinq bras, vous vous réveillez avec le mythique souffle des dragons.                                                                 |
+| 1 | Vous avez perfectionné vos compétences en alignant votre esprit avec le pouvoir immense d'un dragon. |
+| 2 | Un dragon a eu un rôle important pour modeler votre énergie intérieure. |
+| 3 | Vous avez étudié dans un monastère dont les enseignements sont transférés depuis des siècles, si ce n'est plus, et viennent directement des instructions d'un dragon. |
+| 4 | Vous avez passé de longues promenades à méditer autour d'un ancien repaire de dragon, absorbant l'énergie latente de la région. |
+| 5 | Vous avez trouvé un parchemin écrit en Draconique contenant d'innovantes nouvelles techniques. |
+| 6 | Après un rêve avec un drakéïde à cinq bras, vous vous réveillez avec le mythique souffle des dragons. |
 
 ## Disciple Draconique
 

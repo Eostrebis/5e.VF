@@ -6,6 +6,6 @@ englishname: Warhammer
 writing_status: finished
 ---
 
-| Dégâts          | Propriétés        |
+| Dégâts | Propriétés |
 | --------------- | ----------------- |
 | 1d8 contondants | Polyvalent (1d10) |

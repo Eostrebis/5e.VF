@@ -1,8 +1,8 @@
 ---
 available:
-  - Druide
-  - Artificier
-  - Occultiste
+ - Druide
+ - Artificier
+ - Occultiste
 level: 0
 school: Transmutation
 Verbal: true

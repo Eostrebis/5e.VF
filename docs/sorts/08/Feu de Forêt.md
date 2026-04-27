@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Druide
+ - Magicien
+ - Ensorceleur
+ - Druide
 level: 8
 school: Évocation
 Verbal: true

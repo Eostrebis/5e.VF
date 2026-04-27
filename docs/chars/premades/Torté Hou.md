@@ -13,29 +13,29 @@ __Points de vie :__ 13
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 16 (+3) | 16 (+3) | 16 (+3) | 11 (+1) | 18 (+4) | 14 (+2) |
-|  ◉ +5   |  ◎ +3   |  ◉ +5   |  ◎ +1   |  ◎ +4   |  ◉ +4   |
+| ◉ +5 | ◎ +3 | ◉ +5 | ◎ +1 | ◎ +4 | ◉ +4 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +3   | ◎ Investigation (_Int_) : +1  |
-| ◎ Arcanes (_Int_) : +1      | ◉ Médecine (_Sag_) : +6       |
-| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : +1<br>     |
-| ◎ Discrétion (_Dex_) : +3   | ◉ Perception (_Sag_) : +6     |
-| ◎ Dressage (_Sag_) : +4     | ◎ Persuasion (_Cha_) : +2     |
-| ◎ Escamotage (_Dex_) : +3   | ◎ Religion (_Int_) : +1       |
-| ◎ Histoire (_Int_) : +1     | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +6         |
-| ◉ Intuition (_Sag_) : +6    | ◉ Tromperie (_Cha_) : +4<br>  |
+| ◎ Acrobaties (_Dex_) : +3 | ◎ Investigation (_Int_) : +1 |
+| ◎ Arcanes (_Int_) : +1 | ◉ Médecine (_Sag_) : +6 |
+| ◎ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : +1<br> |
+| ◎ Discrétion (_Dex_) : +3 | ◉ Perception (_Sag_) : +6 |
+| ◎ Dressage (_Sag_) : +4 | ◎ Persuasion (_Cha_) : +2 |
+| ◎ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : +1 |
+| ◎ Histoire (_Int_) : +1 | ◎ Représentation (_Cha_) : +2 |
+| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +6 |
+| ◉ Intuition (_Sag_) : +6 | ◉ Tromperie (_Cha_) : +4<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Torté, une ancienne joueuse de cartes compulsive dont l'addiction a causé une tragédie, et qui dévoue désormais le reste de sa longue vie à être un rempart inébranlable pour les autres, chaque coup encaissé étant un acte de rédemption.
 > 
 > **Objectif pour la session :**
 > Votre vœu est de protéger ceux qui ne peuvent se protéger. Votre objectif est simple : identifier la personne ou le groupe le plus vulnérable dans la situation actuelle et vous assurer qu'il ne leur arrive aucun mal, quitte à vous transformer en un mur de carapace et d'acier entre eux et le danger.
->  
+> 
 > **Parlez comme une Joueuse :** Votre vision du monde est celle d'une partie de cartes. Utilisez constamment des métaphores de jeu ("Il bluffe", "Quelle est la cote ?", "On ne fait pas tapis tout de suite"). Parlez lentement, avec une voix grave, et analysez tout le monde comme si vous cherchiez leurs "tics" à une table de jeu.
 > 
 > **La Forteresse de la Rédemption :** Vous êtes un roc. En combat, votre place est devant. Utilisez votre "Saisie du Gardien" pour bloquer les ennemis et votre aptitude "Double-Mise Protectrice" pour prendre les coups à la place des autres. Chaque blessure que vous subissez est une pénitence que vous acceptez avec une détermination stoïque.
@@ -67,7 +67,7 @@ Sa carapace est immense et ancienne, une coupole de kératine sombre et usée. E
 
 Son visage est celui d'une créature qui a tout vu, et surtout le pire en elle-même. Ses yeux, petits et sombres, sont enfoncés dans des orbites profondes. Ils portent une double lueur : d'un côté, une tristesse infinie, le poids permanent de son échec passé ; de l'autre, la vigilance perçante et infatigable d'une joueuse de cartes qui n'a jamais cessé d'analyser les "tics" de ses adversaires – sauf que maintenant, ses adversaires sont les dangers du monde. Son bec corné est puissant, sa bouche habituellement fermée en une ligne dure et résolue. Elle ne sourit jamais.
 
-Par-dessus sa carapace naturelle, Torté s'est chargée d'un équipement lourd et fonctionnel, sans le moindre ornement. Dans une main, elle porte un immense bouclier-tour en acier, si grand qu'il pourrait servir de porte. La surface est martelée par d'innombrables impacts, chaque bosse étant le souvenir d'un coup qui n'a pas atteint l'un de ses compagnons. À sa ceinture pendent deux marteaux légers à la tête massive, tandis que sa main brandit une longe épée bâtarde d'un acier noir,  une arme faite non pour la finesse, mais pour briser les os et stopper net une charge ennemie.
+Par-dessus sa carapace naturelle, Torté s'est chargée d'un équipement lourd et fonctionnel, sans le moindre ornement. Dans une main, elle porte un immense bouclier-tour en acier, si grand qu'il pourrait servir de porte. La surface est martelée par d'innombrables impacts, chaque bosse étant le souvenir d'un coup qui n'a pas atteint l'un de ses compagnons. À sa ceinture pendent deux marteaux légers à la tête massive, tandis que sa main brandit une longe épée bâtarde d'un acier noir, une arme faite non pour la finesse, mais pour briser les os et stopper net une charge ennemie.
 
 Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'elle porte non seulement pour se protéger, mais comme un acte de pénitence constant. Elle a troqué la légèreté d'un jeu de cartes contre le poids de l'acier, et elle est devenue le rempart qu'elle aurait toujours dû être.
 

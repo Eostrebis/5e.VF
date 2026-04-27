@@ -13,31 +13,31 @@ Cette chirurgie est intensive et nécessite un temps de récupération. Lorsque 
 
 **Coût.** Toutes les greffes ne peuvent pas être obtenues facilement, mais lorsque les greffes peuvent être achetées, les prix suggérés sont indiqués dans le tableau du Coût des Greffes ci-dessous. La plupart d'entre elles peuvent être acquises à des tarifs encore plus bas si l'on est prêt à dénicher un établissement mal famé spécialisé dans le commerce de greffes et à accepter les risques inhérents à une opération insalubre.
 
-| Greffe                                               | Emplacement | Coût     |
+| Greffe | Emplacement | Coût |
 | ---------------------------------------------------- | ----------- | -------- |
-| [[Adaptation Amphibie]]                              |             | 400 po   |
-| [[Synapses Arcaniques]]                              |             | 1 000 po |
-| [[Peau de Bête]]                                     |             | 250 po   |
-| [[Armes Bestiales]]                                  |             | 200 po   |
-| [[Sabots de Charge]]                                 |             | 350 po   |
-| [[Appareil d'Escalade]]                              |             | 1 250 po |
-| [[Vision dans le noir, Greffe\|Vision dans le noir]] |             | 300 po   |
-| [[Sang de Doppelgänger]]                             |             | 1 000 po |
-| [[Fondement Draconique]]                             |             | 1 000 po |
-| [[Écailles de Dragon]]                               |             | 2 250 po |
-| [[Suture Énergétique]]                               |             | 500 po   |
-| [[Peau de Fiélon]]                                   |             | 1 500 po |
-| [[Cœur d'Acier]]                                     |             | 2 250 po |
-| [[Cornes]]                                           |             | 350 po   |
-| [[Anatomie Indiscernable]]                           |             | 1 250 po |
-| [[Jambes Sauteuses]]                                 |             | 400 po   |
-| [[Implants Olfactifs]]                               |             | 200 po   |
-| [[Bras Surdimensionnés]]                             |             | 1 500 po |
-| [[Queue Préhensile]]                                 |             | 350 po   |
-| [[Moelle Régénératrice]]                             |             | 500 po   |
-| [[Remplacement]]                                     |             | 400 po   |
-| [[Puanteur]]                                         |             | 400 po   |
-| [[Tentacules]]                                       |             | 500 po   |
-| [[Glande à Venin]]                                   |             | 350 po   |
-| [[Boîte Vocale]]                                     |             | 150 po   |
-| [[Appareil Tisseur de Toiles]]                       |             | 500 po   |
+| [[Adaptation Amphibie]] | | 400 po |
+| [[Synapses Arcaniques]] | | 1 000 po |
+| [[Peau de Bête]] | | 250 po |
+| [[Armes Bestiales]] | | 200 po |
+| [[Sabots de Charge]] | | 350 po |
+| [[Appareil d'Escalade]] | | 1 250 po |
+| [[Vision dans le noir, Greffe\|Vision dans le noir]] | | 300 po |
+| [[Sang de Doppelgänger]] | | 1 000 po |
+| [[Fondement Draconique]] | | 1 000 po |
+| [[Écailles de Dragon]] | | 2 250 po |
+| [[Suture Énergétique]] | | 500 po |
+| [[Peau de Fiélon]] | | 1 500 po |
+| [[Cœur d'Acier]] | | 2 250 po |
+| [[Cornes]] | | 350 po |
+| [[Anatomie Indiscernable]] | | 1 250 po |
+| [[Jambes Sauteuses]] | | 400 po |
+| [[Implants Olfactifs]] | | 200 po |
+| [[Bras Surdimensionnés]] | | 1 500 po |
+| [[Queue Préhensile]] | | 350 po |
+| [[Moelle Régénératrice]] | | 500 po |
+| [[Remplacement]] | | 400 po |
+| [[Puanteur]] | | 400 po |
+| [[Tentacules]] | | 500 po |
+| [[Glande à Venin]] | | 350 po |
+| [[Boîte Vocale]] | | 150 po |
+| [[Appareil Tisseur de Toiles]] | | 500 po |

@@ -1,11 +1,11 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Ensorceleur
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Barde
+ - Clerc
+ - Ensorceleur
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 2
 school: Nécromancie
 Verbal: true

@@ -8,13 +8,13 @@ Lorsque les dieux aux mauvaises intentions trouvent le monde trop pacifié et pa
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                 |
+| Niveau de Martyr | Sorts |
 | ---------------- | ----------------------------------------------------- |
-| 3                | [[Fléau]], [[Injonction]]                             |
-| 5                | [[Appel de destrier]], [[Immobilisation de Personne]] |
-| 9                | [[Malédiction Persistante]], [[Terreur]]                 |
-| 13               | [[Bannissement]], [[Domination de bête]]              |
-| 17               | [[Domination de personne]], [[quête]]                 |
+| 3 | [[Fléau]], [[Injonction]] |
+| 5 | [[Appel de destrier]], [[Immobilisation de Personne]] |
+| 9 | [[Malédiction Persistante]], [[Terreur]] |
+| 13 | [[Bannissement]], [[Domination de bête]] |
+| 17 | [[Domination de personne]], [[quête]] |
 
 ## Maîtrise supplémentaire
 

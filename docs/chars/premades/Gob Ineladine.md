@@ -13,22 +13,22 @@ __Points de vie :__
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |  DEX   |   CON   |   INT   |  SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :----: | :-----: | :-----: | :----: | :-----: |
 | 12 (+1) | 5 (-3) | 16 (+3) | 18 (+4) | 8 (-1) | 14 (+2) |
-|  ◎ +1   |  ◉ -1  |  ◎ +3   |  ◉ +6   |  ◎ -1  |  ◎ +2   |
+| ◎ +1 | ◉ -1 | ◎ +3 | ◉ +6 | ◎ -1 | ◎ +2 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : -3   | ◎ Investigation (_Int_) : +4  |
-| ◉ Arcanes (_Int_) : +6      | ◎ Médecine (_Sag_) : -1       |
-| ◉ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : +4<br>     |
-| ◎ Discrétion (_Dex_) : -3   | ◉ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : +2     |
-| ◉ Escamotage (_Dex_) : -1   | ◎ Religion (_Int_) : +4       |
-| ◎ Histoire (_Int_) : +4     | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◎ Survie (_Sag_) : -1         |
-| ◎ Intuition (_Sag_) : -1    | ◎ Tromperie (_Cha_) : +2<br>  |
+| ◎ Acrobaties (_Dex_) : -3 | ◎ Investigation (_Int_) : +4 |
+| ◉ Arcanes (_Int_) : +6 | ◎ Médecine (_Sag_) : -1 |
+| ◉ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : +4<br> |
+| ◎ Discrétion (_Dex_) : -3 | ◉ Perception (_Sag_) : +1 |
+| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : +2 |
+| ◉ Escamotage (_Dex_) : -1 | ◎ Religion (_Int_) : +4 |
+| ◎ Histoire (_Int_) : +4 | ◎ Représentation (_Cha_) : +2 |
+| ◎ Intimidation (_Cha_) : +2 | ◎ Survie (_Sag_) : -1 |
+| ◎ Intuition (_Sag_) : -1 | ◎ Tromperie (_Cha_) : +2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Gob, un gobelin pirate, alchimiste de génie et expert en explosifs, dont la maladresse chronique et l'amour du "BOUM !" sont si légendaires que votre équipage vous utilise désormais comme un boulet de canon vivant.

@@ -1,10 +1,10 @@
 ---
 available:
-  - Paladin
-  - Barde
-  - Clerc
-  - Sorcière
-  - Magicien
+ - Paladin
+ - Barde
+ - Clerc
+ - Sorcière
+ - Magicien
 level: 1
 school: Abjuration
 Verbal: false

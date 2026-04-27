@@ -31,12 +31,12 @@ Même pour un genasi fier de lui, les échecs entament cette confiance, et donc 
 
 Chaque genasi appartient à l'un des types de genasis :
 
-| Sous-race                                   |
+| Sous-race |
 | ------------------------------------------- |
-| [[Genasi#Genasi d'Air\|Genasi d'Air]]       |
+| [[Genasi#Genasi d'Air\|Genasi d'Air]] |
 | [[Genasi#Genasi de Terre\|Genasi de Terre]] |
-| [[Genasi#Genasi de Feu\|Genasi de Feu]]     |
-| [[Genasi#Genasi d'Eau\|Genasi d'Eau]]       |
+| [[Genasi#Genasi de Feu\|Genasi de Feu]] |
+| [[Genasi#Genasi d'Eau\|Genasi d'Eau]] |
 
 ### Culture
 

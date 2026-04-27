@@ -5,10 +5,10 @@ writing_status: finished
 
 Loin des prédateurs solitaires tapis dans les châteaux en ruine, le peuple appelé vampire forme des civilisations organisées, complexes et bien souvent en haut de la pyramide de leurs environnements. Ces êtres ne sont pas de simples morts-vivants condamnés à l'errance, mais des humanoïdes dont la nature a été transcendée par des rituels sacrés ou des corruptions planaires anciennes. Marqués par une élégance prédatrice et une peau d'une pâleur surnaturelle, chaque vampire est habité par une soif d'essence vitale qui définit son rapport au monde et aux autres races. Qu'ils perçoivent leur état comme une bénédiction divine ou un héritage de puissance, ils naviguent entre leurs instincts de chasseurs et leur propre sens de l'honneur. Selon leur monde d'origine, cette condition prend des formes radicalement différentes, oscillant entre la ferveur religieuse et la survie tribale.
 
-| Nom de la Lignée          | Monde d'Origine | Description                                        |
+| Nom de la Lignée | Monde d'Origine | Description |
 | ------------------------- | --------------- | -------------------------------------------------- |
-| [[#Légion du Crépuscule]] | Ixalan          | Des conquérants fanatiques se soignant par le sang |
-| [[#Maisons de Sang]]      | Zendikar        | Une tribu à forte hiérarchie, habitués à la survie |
+| [[#Légion du Crépuscule]] | Ixalan | Des conquérants fanatiques se soignant par le sang |
+| [[#Maisons de Sang]] | Zendikar | Une tribu à forte hiérarchie, habitués à la survie |
 
 ### Culture
 

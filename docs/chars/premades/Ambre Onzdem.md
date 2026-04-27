@@ -13,22 +13,22 @@ __Points de vie :__ 16
 
 __Vitesse :__ 30 ft.
 
-|  FOR   |  DEX   |   CON   |  INT   |   SAG   |  CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :----: | :-----: | :----: | :-----: | :----: |
 | 6 (-2) | 9 (-1) | 18 (+4) | 7 (-2) | 12 (+1) | 6 (-2) |
-|  ◉ ±0  | ◎ (-1) |  ◎ +4   |  ◎ -2  |  ◉ +3   |  ◎ -2  |
+| ◉ ±0 | ◎ (-1) | ◎ +4 | ◎ -2 | ◉ +3 | ◎ -2 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : -1   | ◎ Investigation (_Int_) : -2  |
-| ◎ Arcanes (_Int_) : -2      | ◉ Médecine (_Sag_) : +3       |
-| ◎ Athlétisme (_For_) : -2   | ◎ Nature (_Int_) : -2<br>     |
-| ◎ Discrétion (_Dex_) : -1   | ◎ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : +1     | ◎ Persuasion (_Cha_) : -2     |
-| ◎ Escamotage (_Dex_) : -1   | ◉ Religion (_Int_) : ±0       |
-| ◉ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : -2 |
-| ◎ Intimidation (_Cha_) : -2 | ◎ Survie (_Sag_) : +1         |
-| ◉ Intuition (_Sag_) : +3    | ◎ Tromperie (_Cha_) : -2<br>  |
+| ◎ Acrobaties (_Dex_) : -1 | ◎ Investigation (_Int_) : -2 |
+| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
+| ◎ Athlétisme (_For_) : -2 | ◎ Nature (_Int_) : -2<br> |
+| ◎ Discrétion (_Dex_) : -1 | ◎ Perception (_Sag_) : +1 |
+| ◎ Dressage (_Sag_) : +1 | ◎ Persuasion (_Cha_) : -2 |
+| ◎ Escamotage (_Dex_) : -1 | ◉ Religion (_Int_) : ±0 |
+| ◉ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : -2 |
+| ◎ Intimidation (_Cha_) : -2 | ◎ Survie (_Sag_) : +1 |
+| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : -2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Ambre, un ancien firbolg quasi-immortel venu du Plan Astral, dont le corps incroyablement résistant mais physiquement faible a servi de réceptacle à la souffrance d'un dieu mort pendant des siècles, et qui cherche maintenant une nouvelle "cause" pour laquelle souffrir dans le monde matériel.
@@ -93,7 +93,7 @@ En tant que Martyr, vous avez été prédestiné par les dieux à périr pour un
 
 À partir du niveau 1, votre mission divine vous octroie une once de magie divine. Ainsi, vous apprenez les cantrips [[Stabilisation]] et [[Thaumaturgie]] et [[Breuvage Légendaire]]. Vous ne perdez pas de points de vie lorsque vous lancez ces sorts. La Sagesse est votre caractéristique d'incantation pour ces sorts.
 
-####  Baume
+#### Baume
 
 Vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer la condition [[aveuglé]], [[assourdi]] ou [[empoisonné]] d'une créature consentante que vous touchez.
 

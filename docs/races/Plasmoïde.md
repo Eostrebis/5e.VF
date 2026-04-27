@@ -29,7 +29,7 @@ Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et s
 
 __Amorphe.__ Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Apnée.__ Vous pouvez retenir votre respiration pendant 1 heure.
 

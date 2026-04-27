@@ -1,6 +1,6 @@
 ---
 available:
-  - Clerc
+ - Clerc
 level: 0
 school: Évocation
 Verbal: true

@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Barde
-  - Clerc
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Barde
+ - Clerc
+ - Magicien
 level: 1
 school: Enchantement
 Verbal: true

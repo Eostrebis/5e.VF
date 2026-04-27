@@ -7,13 +7,13 @@ L'oubli inexorable causé par la mort est la source de la nécromancie, un abyss
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                                |
+| Niveau de Sort | Sorts |
 | -------------- | ---------------------------------------------------- |
-| 1              | [[Simulacre de vie]], [[blessure]]                   |
-| 2              | [[Invisibilité]], [[silence]]                        |
-| 3              | [[Terreur]], [[communication avec les morts]]           |
-| 4              | [[Invisibilité supérieure]], [[assassin imaginaire]] |
-| 5              | [[Double Illusoire]], [[passe-muraille]]             |
+| 1 | [[Simulacre de vie]], [[blessure]] |
+| 2 | [[Invisibilité]], [[silence]] |
+| 3 | [[Terreur]], [[communication avec les morts]] |
+| 4 | [[Invisibilité supérieure]], [[assassin imaginaire]] |
+| 5 | [[Double Illusoire]], [[passe-muraille]] |
 
 ## Voile Charnel
 

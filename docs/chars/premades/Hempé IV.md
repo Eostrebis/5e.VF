@@ -13,22 +13,22 @@ __Points de vie :__ 11
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 16 (+3) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 16 (+3) |
-|  ◎ +3   |  ◎ +1   |  ◎ +3   |  ◎ +1   |  ◉ +4   |  ◉ +5   |
+| ◎ +3 | ◎ +1 | ◎ +3 | ◎ +1 | ◉ +4 | ◉ +5 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) :      | ◎ Investigation (_Int_) : ±0  |
-| ◉ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : ±0   | ◎ Nature (_Int_) : ±0<br>     |
-| ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : ±0     |
-| ◎ Dressage (_Sag_) : ±0     | ◉ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : ±0       |
-| ◉ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◉ Survie (_Sag_) : ±0         |
-| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◎ Acrobaties (_Dex_) : | ◎ Investigation (_Int_) : ±0 |
+| ◉ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : ±0 |
+| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : ±0<br> |
+| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : ±0 |
+| ◎ Dressage (_Sag_) : ±0 | ◉ Persuasion (_Cha_) : ±0 |
+| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : ±0 |
+| ◉ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : ±0 |
+| ◎ Intimidation (_Cha_) : ±0 | ◉ Survie (_Sag_) : ±0 |
+| ◎ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : ±0<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes le Prince Hempé IV, héritier d'un trône Giff sans pouvoir, qui utilise en secret une magie interdite de liaison d'esprits pour préparer une révolution et reconquérir la souveraineté de votre île colonisée par une guilde marchande.

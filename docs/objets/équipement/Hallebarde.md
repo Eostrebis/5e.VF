@@ -6,6 +6,6 @@ englishname: Hallberd
 writing_status: finished
 ---
 
-| Dégâts          | Propriétés                   |
+| Dégâts | Propriétés |
 | --------------- | ---------------------------- |
 | 1d10 tranchants | Lourde, Portée, À deux mains |

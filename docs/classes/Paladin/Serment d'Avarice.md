@@ -18,13 +18,13 @@ La richesse représente la disponibilité des biens et des services ; elle est d
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                            |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------ |
-| 3                 | [[Alarme]], [[charme-personne]]                  |
-| 5                 | [[Toc-toc]], [[menace sinistre]]                 |
-| 9                 | [[Cœur noirci]], [[détection des interférences]] |
-| 13                | [[Invitation]], [[Accord tacite]]                |
-| 17                | [[Némésis]], [[surcharge émotionnelle]]          |
+| 3 | [[Alarme]], [[charme-personne]] |
+| 5 | [[Toc-toc]], [[menace sinistre]] |
+| 9 | [[Cœur noirci]], [[détection des interférences]] |
+| 13 | [[Invitation]], [[Accord tacite]] |
+| 17 | [[Némésis]], [[surcharge émotionnelle]] |
 
 ## Canal Divin
 

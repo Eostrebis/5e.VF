@@ -6,6 +6,6 @@ englishname: Maul
 writing_status: finished
 ---
 
-| Dégâts          | Propriétés           |
+| Dégâts | Propriétés |
 | --------------- | -------------------- |
 | 2d6 contondants | Lourde, À deux mains |

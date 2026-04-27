@@ -1,10 +1,10 @@
 ---
 available:
-  - Nécromancien
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Magicien
+ - Nécromancien
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Conjuration
 Verbal: true

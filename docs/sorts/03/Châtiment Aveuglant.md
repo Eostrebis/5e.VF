@@ -1,7 +1,7 @@
 ---
 available:
-  - Paladin
-  - Martyr
+ - Paladin
+ - Martyr
 level: 3
 school: Évocation
 Verbal: true

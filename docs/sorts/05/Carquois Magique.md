@@ -1,6 +1,6 @@
 ---
 available:
-  - Ranger
+ - Ranger
 level: 5
 school: Transmutation
 Verbal: true

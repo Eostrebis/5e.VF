@@ -9,13 +9,13 @@ Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supp
 
 De plus, vous apprenez le cantrip [[thaumaturgie]], qui est considéré comme un sort de nécromancien mais sans compter dans le nombre de cantrips que vous connaissez. 
 
-| Niveau de Sort | Sorts                                             |
+| Niveau de Sort | Sorts |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Bénédiction]], [[rayon traçant]]                |
-| 2              | [[Aura de feu]], [[restauration partielle]]       |
-| 3              | [[Retour à la vie]], [[serpentin]]                |
-| 4              | [[Protection contre la mort]], [[divination]]     |
-| 5              | [[Restauration supérieure]], [[fléau d'insectes]] |
+| 1 | [[Bénédiction]], [[rayon traçant]] |
+| 2 | [[Aura de feu]], [[restauration partielle]] |
+| 3 | [[Retour à la vie]], [[serpentin]] |
+| 4 | [[Protection contre la mort]], [[divination]] |
+| 5 | [[Restauration supérieure]], [[fléau d'insectes]] |
 
 ## Symbole Sacré
 

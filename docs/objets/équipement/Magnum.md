@@ -7,6 +7,6 @@ Ere: Moderne
 writing_status: empty
 ---
 
-| Dégâts       | Propriétés                                         |
+| Dégâts | Propriétés |
 | ------------ | -------------------------------------------------- |
 | 2d8 perçants | Munitions (Portée 50/200), Lourd, Rechargement (6) |

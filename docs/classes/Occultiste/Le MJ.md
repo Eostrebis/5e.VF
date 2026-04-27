@@ -9,13 +9,13 @@ Le MJ n'est pas une seule créature. Ça peut être un mâle, une femelle ou ni 
 
 Le Mystérieux MJ vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                             |
+| Niveau de Sort | Sorts |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Détection de la magie]], [[identification]]     |
-| 2              | [[Augure]], [[localisation d'objet]]              |
-| 3              | [[Clairvoyance]], [[délivrance des malédictions]] |
-| 4              | [[Divination]], [[localisation de créature]]      |
-| 5              | [[Communion]], [[mythes et légendes]]             |
+| 1 | [[Détection de la magie]], [[identification]] |
+| 2 | [[Augure]], [[localisation d'objet]] |
+| 3 | [[Clairvoyance]], [[délivrance des malédictions]] |
+| 4 | [[Divination]], [[localisation de créature]] |
+| 5 | [[Communion]], [[mythes et légendes]] |
 
 ## Personnage Jouable
 

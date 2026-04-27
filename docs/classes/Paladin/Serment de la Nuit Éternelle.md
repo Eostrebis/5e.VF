@@ -18,13 +18,13 @@ Ces paladins, souvent appelés corbeaux, se lient à des idéaux de justice sup�
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                              |
+| Niveau de Paladin | Sorts |
 | ----------------- | -------------------------------------------------- |
-| 3                 | [[Feuille morte]], [[grandes foulées]]             |
-| 5                 | [[Pas brumeux]], [[passage sans trace]]            |
-| 9                 | [[Vol]], [[célérité]]                              |
-| 13                | [[Porte dimensionnelle]], [[liberté de mouvement]] |
-| 17                | [[Passe-muraille]], [[cercle de téléportation]]    |
+| 3 | [[Feuille morte]], [[grandes foulées]] |
+| 5 | [[Pas brumeux]], [[passage sans trace]] |
+| 9 | [[Vol]], [[célérité]] |
+| 13 | [[Porte dimensionnelle]], [[liberté de mouvement]] |
+| 17 | [[Passe-muraille]], [[cercle de téléportation]] |
 
 ## Canal Divin
 

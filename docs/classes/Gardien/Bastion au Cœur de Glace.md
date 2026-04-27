@@ -23,6 +23,6 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous son
 
 ## Forme de l'Ancien Givre
 
-Au niveau 20, vous pouvez utiliser votre action pour vous transformer en une créature d'un froid profond, une sentinelle de l'ancien givre. Pendant une minute, vous êtes entouré d'un vortex d'énergie frigide d'un rayon de  15 ft. qui éteint toutes les flammes non magiques dans la zone. Cette zone est du terrain difficile. Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle prend 8d6 dégâts de froid. Vous pouvez choisir des créatures qui seront immunisées contre la zone.
+Au niveau 20, vous pouvez utiliser votre action pour vous transformer en une créature d'un froid profond, une sentinelle de l'ancien givre. Pendant une minute, vous êtes entouré d'un vortex d'énergie frigide d'un rayon de 15 ft. qui éteint toutes les flammes non magiques dans la zone. Cette zone est du terrain difficile. Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle prend 8d6 dégâts de froid. Vous pouvez choisir des créatures qui seront immunisées contre la zone.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

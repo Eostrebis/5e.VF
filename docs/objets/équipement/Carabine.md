@@ -7,6 +7,6 @@ Ere: Industrielle
 writing_status: empty
 ---
 
-| Dégâts       | Propriétés                                                |
+| Dégâts | Propriétés |
 | ------------ | --------------------------------------------------------- |
 | 2d6 perçants | Munitions (portée 80/320), Rechargement (5), À deux mains |

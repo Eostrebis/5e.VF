@@ -1,11 +1,11 @@
 ---
 available:
-  - Sorcière
-  - Artificier
-  - Magicien
-  - Occultiste
-  - Ensorceleur
-  - Ranger
+ - Sorcière
+ - Artificier
+ - Magicien
+ - Occultiste
+ - Ensorceleur
+ - Ranger
 level: 6
 school: Abjuration
 Verbal: true

@@ -7,13 +7,13 @@ Votre tapisserie est beaucoup plus proche de sa dénomination que les autres, se
 
 Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vous pouvez lancer chacun de ces sorts une fois, et vous regagnez la capacité de le faire lorsque vous terminez un repos long.
 
-| Niveau | Sorts                   |
+| Niveau | Sorts |
 | ------ | ----------------------- |
-| 3      | [[Charme-personne]]     |
-| 4      | [[Invisibilité]]        |
-| 7      | [[Image majeure]]       |
-| 10     | [[Tentacules Noirs]]   |
-| 13     | [[Apparence trompeuse]] |
+| 3 | [[Charme-personne]] |
+| 4 | [[Invisibilité]] |
+| 7 | [[Image majeure]] |
+| 10 | [[Tentacules Noirs]] |
+| 13 | [[Apparence trompeuse]] |
 ## Cape de Lames
 
 Au niveau 2, votre cape se déplace pour vous défendre et frapper vos ennemis. Vous pouvez utiliser cet accessoire comme arme pour réaliser des attaques de sort de mêlée d'une portée de 15 ft. qui infligent 1d8 + votre modificateur d'Intelligence dégâts tranchants, en faisant émerger des lames aiguisées de votre cape. Si vous touchez une créature avec cette attaque, vous pouvez décider de la forcer à réaliser un jet de sauvegarde de Force. Si elle échoue, elle est attirée vers l'emplacement libre le plus proche à 5 ft. de vous.

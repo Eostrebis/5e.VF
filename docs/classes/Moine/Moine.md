@@ -18,7 +18,7 @@ Les moines étudient avec attention une énergie magique que la plupart des trad
 
 De petits cloîtres murés parsèment les paysages d'Eostrebis, de minuscules refuges du tumulte de la vie ordinaire, où le temps semble s'être arrêté. Les moines qui y vivent recherchent la perfection personnelle par la contemplation et l'entraînement rigoureux. Beaucoup sont entrés dans ces monastères pendant l'enfance, envoyé là lorsque leurs parents sont morts, quand la nourriture se faisait manquer, ou comme remerciement d'un service rendu par les moines.
 
-Certains moines vivent en autarcie totale du reste de la population, isolés de tout ce qui pourrait entraver leur progrès spirituel. D'autres ont fait vœu d'isolation,  n'en sortant que pour servie d'espions ou d'assassins auprès de leur chef, un noble patron ou un autre pouvoir mortel ou divin.
+Certains moines vivent en autarcie totale du reste de la population, isolés de tout ce qui pourrait entraver leur progrès spirituel. D'autres ont fait vœu d'isolation, n'en sortant que pour servie d'espions ou d'assassins auprès de leur chef, un noble patron ou un autre pouvoir mortel ou divin.
 
 La majorité des moines n'évitent pas leurs voisins, se rendant fréquemment dans les viles ou bourgades voisines et en échangeant leurs services contre de la nourriture et d'autres biens. En tant que guerriers polyvalents, les moins protègent souvent les populations environnantes contre les monstres ou les tyrans.
 
@@ -35,29 +35,29 @@ En raison de la vie structurée des communautés monastiques et de la discipline
 
 Vous pouvez créer un Moine rapidement en suivant ces suggestions. Commencez par faire de la Dextérité votre caractéristique principale, suivie de la Sagesse. Choisissez l'historique [[ermite]].
 
-| **Le Moine** |                   |               |     |                       |                                                                                                                                                                  |
+| **Le Moine** | | | | | |
 | ------------ | ----------------- | ------------- | --- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Niveau       | Bonus de Maîtrise | Arts Martiaux | Ki  | Mouvement sans armure | Aptitudes                                                                                                                                                        |
-| 1            | +2                | 1d4           | --  | --                    | [[Moine#Défense sans armure\|Défense sans armure]], [[Moine#Arts Martiaux\|Arts Martiaux]]                                                                       |
-| 2            | +2                | 1d4           | 2   | +10 ft.               | [[Moine#Ki\|Ki]], [[Moine#Déplacement sans armure\|Déplacement sans armure]] ([[Moine#Arme Dédiée (Opt.)\|Arme Dédiée]])                                         |
-| 3            | +2                | 1d4           | 3   | +10 ft.               | [[Moine#Tradition Monastique\|Tradition Monastique]], [[Moine#Parade de Projectiles\|Parade de Projectiles]] ([[Moine#Attaques de Ki (Opt.)\|Attaques de Ki]])   |
-| 4            | +2                | 1d4           | 4   | +10 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]], [[Moine#Chute Lente\|Chute Lente]] ([[Moine#Soin Accéléré (Opt.)\|Soin Accéléré]]) |
-| 5            | +3                | 1d6           | 5   | +10 ft.               | [[Moine#Attaque Supplémentaire\|Attaque Supplémentaire]], [[Moine#Frappe Étourdissante\|Frappe Étourdissante]] ([[Moine#Focus\|Focus]])                          |
-| 6            | +3                | 1d6           | 6   | +15 ft.               | [[Moine#Frappes de Ki\|Frappes de Ki]], aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                         |
-| 7            | +3                | 1d6           | 7   | +15 ft.               | [[Moine#Évasion\|Évasion]], [[Moine#Sérénité\|Sérénité]]                                                                                                         |
-| 8            | +3                | 1d6           | 8   | +15 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
-| 9            | +4                | 1d6           | 9   | +15 ft.               | [[Moine#Amélioration du Déplacement sans armure\|Amélioration du Déplacement sans armure]]                                                                       |
-| 10           | +4                | 1d6           | 10  | +20 ft.               | [[Moine#Pureté du Corps\|Pureté du Corps]]                                                                                                                       |
-| 11           | +4                | 1d8           | 11  | +20 ft.               | Aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                                                                 |
-| 12           | +4                | 1d8           | 12  | +20 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
-| 13           | +5                | 1d8           | 13  | +20 ft.               | [[Moine#Langue du Soleil et de la Lune\|Langue du Soleil et de la Lune]]                                                                                         |
-| 14           | +5                | 1d8           | 14  | +25 ft.               | [[Moine#Âme Diamantine\|Âme Diamantine]]                                                                                                                         |
-| 15           | +5                | 1d8           | 15  | +25 ft.               | [[Moine#Jeunesse Éternelle\|Jeunesse Éternelle]]                                                                                                                 |
-| 16           | +5                | 1d8           | 16  | +25 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
-| 17           | +6                | 1d10          | 17  | +25 ft.               | Aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]]                                                                                                 |
-| 18           | +6                | 1d10          | 18  | +30 ft.               | [[Moine#Désertion de l'Âme\|Désertion de l'Âme]]                                                                                                                 |
-| 19           | +6                | 1d10          | 19  | +30 ft.               | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                                                     |
-| 20           | +6                | 1d10          | 20  | +30 ft.               | [[Moine#Perfection de l'Être\|Perfection de l'Être]]                                                                                                             |
+| Niveau | Bonus de Maîtrise | Arts Martiaux | Ki | Mouvement sans armure | Aptitudes |
+| 1 | +2 | 1d4 | -- | -- | [[Moine#Défense sans armure\|Défense sans armure]], [[Moine#Arts Martiaux\|Arts Martiaux]] |
+| 2 | +2 | 1d4 | 2 | +10 ft. | [[Moine#Ki\|Ki]], [[Moine#Déplacement sans armure\|Déplacement sans armure]] ([[Moine#Arme Dédiée (Opt.)\|Arme Dédiée]]) |
+| 3 | +2 | 1d4 | 3 | +10 ft. | [[Moine#Tradition Monastique\|Tradition Monastique]], [[Moine#Parade de Projectiles\|Parade de Projectiles]] ([[Moine#Attaques de Ki (Opt.)\|Attaques de Ki]]) |
+| 4 | +2 | 1d4 | 4 | +10 ft. | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]], [[Moine#Chute Lente\|Chute Lente]] ([[Moine#Soin Accéléré (Opt.)\|Soin Accéléré]]) |
+| 5 | +3 | 1d6 | 5 | +10 ft. | [[Moine#Attaque Supplémentaire\|Attaque Supplémentaire]], [[Moine#Frappe Étourdissante\|Frappe Étourdissante]] ([[Moine#Focus\|Focus]]) |
+| 6 | +3 | 1d6 | 6 | +15 ft. | [[Moine#Frappes de Ki\|Frappes de Ki]], aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]] |
+| 7 | +3 | 1d6 | 7 | +15 ft. | [[Moine#Évasion\|Évasion]], [[Moine#Sérénité\|Sérénité]] |
+| 8 | +3 | 1d6 | 8 | +15 ft. | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 9 | +4 | 1d6 | 9 | +15 ft. | [[Moine#Amélioration du Déplacement sans armure\|Amélioration du Déplacement sans armure]] |
+| 10 | +4 | 1d6 | 10 | +20 ft. | [[Moine#Pureté du Corps\|Pureté du Corps]] |
+| 11 | +4 | 1d8 | 11 | +20 ft. | Aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]] |
+| 12 | +4 | 1d8 | 12 | +20 ft. | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 13 | +5 | 1d8 | 13 | +20 ft. | [[Moine#Langue du Soleil et de la Lune\|Langue du Soleil et de la Lune]] |
+| 14 | +5 | 1d8 | 14 | +25 ft. | [[Moine#Âme Diamantine\|Âme Diamantine]] |
+| 15 | +5 | 1d8 | 15 | +25 ft. | [[Moine#Jeunesse Éternelle\|Jeunesse Éternelle]] |
+| 16 | +5 | 1d8 | 16 | +25 ft. | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 17 | +6 | 1d10 | 17 | +25 ft. | Aptitude de [[Moine#Tradition Monastique\|Tradition Monastique]] |
+| 18 | +6 | 1d10 | 18 | +30 ft. | [[Moine#Désertion de l'Âme\|Désertion de l'Âme]] |
+| 19 | +6 | 1d10 | 19 | +30 ft. | [[Moine#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 20 | +6 | 1d10 | 20 | +30 ft. | [[Moine#Perfection de l'Être\|Perfection de l'Être]] |
 
 # Aptitude de Classes
 
@@ -146,26 +146,26 @@ L'arme choisie doit respecter ces trois critères :
 
 Lorsque vous atteignez le niveau 3, vous vous dédiez à une tradition monastique. Votre tradition vous confère des aptitudes aux niveaux 3, 6, 11 et 17.
 
-| Tradition                    | Description                                                                            |
+| Tradition | Description |
 | ---------------------------- | -------------------------------------------------------------------------------------- |
-| [[Voie de l'Arc]]            | S'entraîne à l'archerie comme à un art mystique, disposant d'une précision paranormale |
-| [[Voie de l'Ombre]]          | Pratique les arts ninjas, et prospère dans l'obscurité, loin des regards               |
-| [[Voie de l'Âme du Soleil]]  | Utilise leur force vitale pour créer de la lumière et/ou du feu                        |
-| [[Voie de l'Étoile Noire]]   | Utilise le pouvoir de l'Étoile Noire pour corrompre son ki et ses adversaires          |
-| [[Voie de la Mort Longue]]   | Étudie la mort et ses mécanismes pour utiliser un style de combat mortel               |
-| [[Voie de la Paume]]         | Manipule le ki à la volée pour désorienter ses adversaires et se soigner               |
-| [[Voie de la Miséricorde]]   | Manipule la force vitale des autres pour soigner et/ou achever                         |
-| [[Voie de la Rose]]          | Un artiste martial doux et mobile, embrassant le pouvoir des fleurs                    |
-| [[Voie des Quatre Poings]]   | Possède une queue et pratique les arts martiaux du légendaire Roi des Singes           |
-| [[Voie des Quatre Éléments]] | Concentre son ki pour s'aligner avec la nature et manipuler les quatre éléments        |
-| [[Voie du Combat de Rue]]    | Frappe avec des ruées de combos, uppercuts et décharges de ki                          |
-| [[Voie du Dragon Ascendant]] | Disciple des dragons, capable d'embrasser la force magique du monde                    |
-| [[Voie du Flagellant]]       | Un ascète repentant, expert dans l'art d'infliger et de subir la douleur               |
-| [[Voie du Kensei]]           | Expert des armes, capable d'en manier une grande variété                               |
-| [[Voie du Masque]]           | Un lutteur masqué à la force et à l'égo démesuré                                       |
-| [[Voie du Maître Ivre]]      | Imite les mouvements d'un saoulard pour tromper l'ennemi                               |
-| [[Voie du Serpent Noble]]    | Sert l'Impératrice Serpent et utilise ses techniques                                   |
-| [[Voie du Soi Astral]]       | Utilise le ki pour représenter sa forme astrale et se battre avec                      |
+| [[Voie de l'Arc]] | S'entraîne à l'archerie comme à un art mystique, disposant d'une précision paranormale |
+| [[Voie de l'Ombre]] | Pratique les arts ninjas, et prospère dans l'obscurité, loin des regards |
+| [[Voie de l'Âme du Soleil]] | Utilise leur force vitale pour créer de la lumière et/ou du feu |
+| [[Voie de l'Étoile Noire]] | Utilise le pouvoir de l'Étoile Noire pour corrompre son ki et ses adversaires |
+| [[Voie de la Mort Longue]] | Étudie la mort et ses mécanismes pour utiliser un style de combat mortel |
+| [[Voie de la Paume]] | Manipule le ki à la volée pour désorienter ses adversaires et se soigner |
+| [[Voie de la Miséricorde]] | Manipule la force vitale des autres pour soigner et/ou achever |
+| [[Voie de la Rose]] | Un artiste martial doux et mobile, embrassant le pouvoir des fleurs |
+| [[Voie des Quatre Poings]] | Possède une queue et pratique les arts martiaux du légendaire Roi des Singes |
+| [[Voie des Quatre Éléments]] | Concentre son ki pour s'aligner avec la nature et manipuler les quatre éléments |
+| [[Voie du Combat de Rue]] | Frappe avec des ruées de combos, uppercuts et décharges de ki |
+| [[Voie du Dragon Ascendant]] | Disciple des dragons, capable d'embrasser la force magique du monde |
+| [[Voie du Flagellant]] | Un ascète repentant, expert dans l'art d'infliger et de subir la douleur |
+| [[Voie du Kensei]] | Expert des armes, capable d'en manier une grande variété |
+| [[Voie du Masque]] | Un lutteur masqué à la force et à l'égo démesuré |
+| [[Voie du Maître Ivre]] | Imite les mouvements d'un saoulard pour tromper l'ennemi |
+| [[Voie du Serpent Noble]] | Sert l'Impératrice Serpent et utilise ses techniques |
+| [[Voie du Soi Astral]] | Utilise le ki pour représenter sa forme astrale et se battre avec |
 
 ## Parade de Projectiles
 

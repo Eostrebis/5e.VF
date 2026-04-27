@@ -5,13 +5,13 @@ Interdite dans la plupart des covents de sorcières, la magie du sang est centr�
 
 **Sorts de Magie de Sang.**
 
-| Niveau de Sort | Sorts                                                     |
+| Niveau de Sort | Sorts |
 | -------------- | --------------------------------------------------------- |
-| 1              | [[Représailles Infernales]], [[Malédiction du Vide]]      |
-| 2              | [[Flèche d'Acide]], [[Immobilisation de Personne]]        |
-| 3              | [[Malédiction de l’Œil Rouge]], [[Toucher du Vampire]]     |
-| 4              | [[Flétrissement]], [[Domination de Bête]]                 |
-| 5              | [[Domination de Personne]], [[Immobilisation de Monstre]] |
+| 1 | [[Représailles Infernales]], [[Malédiction du Vide]] |
+| 2 | [[Flèche d'Acide]], [[Immobilisation de Personne]] |
+| 3 | [[Malédiction de l’Œil Rouge]], [[Toucher du Vampire]] |
+| 4 | [[Flétrissement]], [[Domination de Bête]] |
+| 5 | [[Domination de Personne]], [[Immobilisation de Monstre]] |
 
 ## Maléfice : Malédiction Sanguine
 

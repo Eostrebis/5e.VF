@@ -35,29 +35,29 @@ Une fois que vous avez choisi votre déité, considérez la relation de votre cl
 
 Vous pouvez créer un clerc rapidement en suivant ces suggestions. Commencez par faire de la Sagesse votre caractéristique principale, suivie de la Force ou de la Constitution. Choisissez l'historique [[acolyte]].
 
-| **Le Clerc** |                   |                                                                                                                 |                 |                   |                   |                   |                   |                   |                   |                   |                   |                   |
+| **Le Clerc** | | | | | | | | | | | | |
 | ------------ | ----------------- | --------------------------------------------------------------------------------------------------------------- | --------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| Niveau       | Bonus de Maîtrise | Aptitudes                                                                                                       | Cantrips Connus | Sorts de niveau 1 | Sorts de niveau 2 | Sorts de niveau 3 | Sorts de niveau 4 | Sorts de niveau 5 | Sorts de niveau 6 | Sorts de niveau 7 | Sorts de niveau 8 | Sorts de niveau 9 |
-| 1            | +2                | [[#Incantation]], [[#Domaine Divin]]                                                                            | 3               | 2                 | --                | --                | --                | --                | --                | --                | --                | --                |
-| 2            | +2                | [[#Canal Divin]], [[#Emploi du Pouvoir Divin (Opt.)]]                                                           | 3               | 3                 | --                | --                | --                | --                | --                | --                | --                | --                |
-| 3            | +2                | --                                                                                                              | 3               | 4                 | 2                 | --                | --                | --                | --                | --                | --                | --                |
-| 4            | +2                | [[#Augmentation de Caractéristiques]]                                                                           | 4               | 4                 | 3                 | --                | --                | --                | --                | --                | --                | --                |
-| 5            | +3                | [[#Destruction de Morts-Vivants]] (FP 1/2)                                                                      | 4               | 4                 | 3                 | 2                 | --                | --                | --                | --                | --                | --                |
-| 6            | +3                | [[#Canal Divin]] (x2), aptitude de [[#Domaine Divin]]                                                           | 4               | 4                 | 3                 | 3                 | --                | --                | --                | --                | --                | --                |
-| 7            | +3                | --                                                                                                              | 4               | 4                 | 3                 | 3                 | 1                 | --                | --                | --                | --                | --                |
-| 8            | +3                | [[#Augmentation de Caractéristiques]], [[#Destruction de Morts-Vivants]] (FP 1), aptitude de [[#Domaine Divin]] | 4               | 4                 | 3                 | 3                 | 2                 | --                | --                | --                | --                | --                |
-| 9            | +4                | --                                                                                                              | 4               | 4                 | 3                 | 3                 | 3                 | 1                 | --                | --                | --                | --                |
-| 10           | +4                | [[#Intervention Divine]]                                                                                        | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | --                | --                | --                | --                |
-| 11           | +4                | [[#Destruction de Morts-Vivants]] (FP 2)                                                                        | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | --                | --                | --                |
-| 12           | +4                | [[#Augmentation de Caractéristiques]]                                                                           | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | --                | --                | --                |
-| 13           | +5                | --                                                                                                              | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | 1                 | --                | --                |
-| 14           | +5                | [[#Destruction de Morts-Vivants]] (FP 3)                                                                        | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | 1                 | --                | --                |
-| 15           | +5                | --                                                                                                              | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | 1                 | 1                 | --                |
-| 16           | +5                | [[#Augmentation de Caractéristiques]]                                                                           | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | 1                 | 1                 | --                |
-| 17           | +6                | [[#Destruction de Morts-Vivants]] (FP 4), aptitude de [[#Domaine Divin]]                                        | 5               | 4                 | 3                 | 3                 | 3                 | 2                 | 1                 | 1                 | 1                 | 1                 |
-| 18           | +6                | [[#Canal Divin]] (x3)                                                                                           | 5               | 4                 | 3                 | 3                 | 3                 | 3                 | 1                 | 1                 | 1                 | 1                 |
-| 19           | +6                | [[#Augmentation de Caractéristiques]]                                                                           | 5               | 4                 | 3                 | 3                 | 3                 | 3                 | 2                 | 1                 | 1                 | 1                 |
-| 20           | +6                | Amélioration de l'[[#Intervention Divine]]                                                                      | 5               | 4                 | 3                 | 3                 | 3                 | 3                 | 2                 | 2                 | 1                 | 1                 |
+| Niveau | Bonus de Maîtrise | Aptitudes | Cantrips Connus | Sorts de niveau 1 | Sorts de niveau 2 | Sorts de niveau 3 | Sorts de niveau 4 | Sorts de niveau 5 | Sorts de niveau 6 | Sorts de niveau 7 | Sorts de niveau 8 | Sorts de niveau 9 |
+| 1 | +2 | [[#Incantation]], [[#Domaine Divin]] | 3 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2 | +2 | [[#Canal Divin]], [[#Emploi du Pouvoir Divin (Opt.)]] | 3 | 3 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3 | +2 | -- | 3 | 4 | 2 | -- | -- | -- | -- | -- | -- | -- |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 4 | 4 | 3 | -- | -- | -- | -- | -- | -- | -- |
+| 5 | +3 | [[#Destruction de Morts-Vivants]] (FP 1/2) | 4 | 4 | 3 | 2 | -- | -- | -- | -- | -- | -- |
+| 6 | +3 | [[#Canal Divin]] (x2), aptitude de [[#Domaine Divin]] | 4 | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- |
+| 7 | +3 | -- | 4 | 4 | 3 | 3 | 1 | -- | -- | -- | -- | -- |
+| 8 | +3 | [[#Augmentation de Caractéristiques]], [[#Destruction de Morts-Vivants]] (FP 1), aptitude de [[#Domaine Divin]] | 4 | 4 | 3 | 3 | 2 | -- | -- | -- | -- | -- |
+| 9 | +4 | -- | 4 | 4 | 3 | 3 | 3 | 1 | -- | -- | -- | -- |
+| 10 | +4 | [[#Intervention Divine]] | 5 | 4 | 3 | 3 | 3 | 2 | -- | -- | -- | -- |
+| 11 | +4 | [[#Destruction de Morts-Vivants]] (FP 2) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 5 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 13 | +5 | -- | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 14 | +5 | [[#Destruction de Morts-Vivants]] (FP 3) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 15 | +5 | -- | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 17 | +6 | [[#Destruction de Morts-Vivants]] (FP 4), aptitude de [[#Domaine Divin]] | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | [[#Canal Divin]] (x3) | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | Amélioration de l'[[#Intervention Divine]] | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 # Aptitudes de Classes
 
@@ -129,29 +129,29 @@ Vous pouvez utiliser un [[symbole sacré]] comme focalisateur d'incantation pour
 
 Au niveau 1, choisissez un domaine lié à votre déité. Ce choix vous confère des sorts de domaine et d'autres aptitudes lorsque vous le choisissez au niveau 1. Il vous confère également de nouvelles utilisations de votre aptitude [[#Canal Divin]] lorsque vous obtenez cette aptitude au niveau 2, ainsi que des effets supplémentaires aux niveaux 6, 8 et 17.
 
-| Domain Divin                   | Description                                                                                         |
+| Domain Divin | Description |
 | ------------------------------ | --------------------------------------------------------------------------------------------------- |
-| [[Domaine Arcanique]]          | Un clerc-érudit des dieux de la magie, qui manie la foi divine et les secrets arcaniques.           |
-| [[Domaine de l'Ordre]]         | Un champion de la hiérarchie sacrée, imposant la loi divine par la persuasion et la contrainte.     |
-| [[Domaine de la Connaissance]] | Un érudit divin au service du savoir, qui perce les secrets du passé et de l'esprit.                |
-| [[Domaine de la Destruction]]  | Un dévot de l'entropie, imprégné du pouvoir divin des dieux de la ruine.                            |
-| [[Domaine de la Folie]]        | Un dévot déséquilibré au service d'un dieu fou, propageant la démence et le chaos.                  |
-| [[Domaine de la Forge]]        | Un clerc-artisan des dieux de la forge, qui protège la création et manie le feu divin.              |
-| [[Domaine de la Guerre]]       | Un prêtre-soldat béni, qui voit le champ de bataille comme un temple et le combat comme une prière. |
-| [[Domaine de la Lumière]]      | Une sentinelle infusée de radiance, qui brûle les ombres et expose les mensonges.                   |
-| [[Domaine de la Mort]]         | Un agent de la non-vie, au service des dieux de la mort et de la nécromancie.                       |
-| [[Domaine de la Nature]]       | Un champion divin du monde sauvage, qui commande aux bêtes et protège la croissance.                |
-| [[Domaine de la Paix]]         | Un médiateur sacré, qui forge des liens d'unité au nom des dieux de la paix.                        |
-| [[Domaine de la Peste]]        | Un prêtre infesté par la maladie, propageant une foi grotesque de corruption et de déclin.          |
-| [[Domaine de la Richesse]]     | Le capitalisme est-il un dieu ? Absolument, et vous êtes son prophète.                              |
-| [[Domaine de la Tempête]]      | Un héraut de la colère divine, qui manie la fureur des cieux et de la mer.                          |
-| [[Domaine de la Tombe]]        | Un prêtre de la tombe, qui veille au repos des morts et châtie la non-vie.                          |
-| [[Domaine de la Tromperie]]    | Un instigateur sacré au service des dieux de la ruse, du vol et de la rébellion.                    |
-| [[Domaine de la Vie]]          | Un conduit pour l'énergie positive, au service des dieux de la vitalité et de la santé.             |
-| [[Domaine du Café]]            | Propage l'éveil et la vitesse au nom des dieux de la caféine (ou par simple dépendance).            |
-| [[Domaine du Crépuscule]]      | Une sentinelle divine du seuil, qui protège le repos des mortels des horreurs de la nuit.           |
-| [[Domaine du Rhum]]            | Propage la joie et les boissons fortes au nom de divinités festives.                                |
-| [[Domaine du Voyage]]          | Un clerc évangéliste, qui vénère les dieux des marchands et des vagabonds.                          |
+| [[Domaine Arcanique]] | Un clerc-érudit des dieux de la magie, qui manie la foi divine et les secrets arcaniques. |
+| [[Domaine de l'Ordre]] | Un champion de la hiérarchie sacrée, imposant la loi divine par la persuasion et la contrainte. |
+| [[Domaine de la Connaissance]] | Un érudit divin au service du savoir, qui perce les secrets du passé et de l'esprit. |
+| [[Domaine de la Destruction]] | Un dévot de l'entropie, imprégné du pouvoir divin des dieux de la ruine. |
+| [[Domaine de la Folie]] | Un dévot déséquilibré au service d'un dieu fou, propageant la démence et le chaos. |
+| [[Domaine de la Forge]] | Un clerc-artisan des dieux de la forge, qui protège la création et manie le feu divin. |
+| [[Domaine de la Guerre]] | Un prêtre-soldat béni, qui voit le champ de bataille comme un temple et le combat comme une prière. |
+| [[Domaine de la Lumière]] | Une sentinelle infusée de radiance, qui brûle les ombres et expose les mensonges. |
+| [[Domaine de la Mort]] | Un agent de la non-vie, au service des dieux de la mort et de la nécromancie. |
+| [[Domaine de la Nature]] | Un champion divin du monde sauvage, qui commande aux bêtes et protège la croissance. |
+| [[Domaine de la Paix]] | Un médiateur sacré, qui forge des liens d'unité au nom des dieux de la paix. |
+| [[Domaine de la Peste]] | Un prêtre infesté par la maladie, propageant une foi grotesque de corruption et de déclin. |
+| [[Domaine de la Richesse]] | Le capitalisme est-il un dieu ? Absolument, et vous êtes son prophète. |
+| [[Domaine de la Tempête]] | Un héraut de la colère divine, qui manie la fureur des cieux et de la mer. |
+| [[Domaine de la Tombe]] | Un prêtre de la tombe, qui veille au repos des morts et châtie la non-vie. |
+| [[Domaine de la Tromperie]] | Un instigateur sacré au service des dieux de la ruse, du vol et de la rébellion. |
+| [[Domaine de la Vie]] | Un conduit pour l'énergie positive, au service des dieux de la vitalité et de la santé. |
+| [[Domaine du Café]] | Propage l'éveil et la vitesse au nom des dieux de la caféine (ou par simple dépendance). |
+| [[Domaine du Crépuscule]] | Une sentinelle divine du seuil, qui protège le repos des mortels des horreurs de la nuit. |
+| [[Domaine du Rhum]] | Propage la joie et les boissons fortes au nom de divinités festives. |
+| [[Domaine du Voyage]] | Un clerc évangéliste, qui vénère les dieux des marchands et des vagabonds. |
 
 ### Sorts de Domaine
 
@@ -187,11 +187,11 @@ De plus, vous pouvez remplacer l'un des cantrips que vous avez appris par cette 
 
 | Niveau de Clerc | Détruit un Mort-Vivant de FD ... |
 | --------------- | -------------------------------- |
-| 5               | 1/2 ou inférieur                 |
-| 8               | 1 ou inférieur                   |
-| 11              | 2 ou inférieur                   |
-| 14              | 3 ou inférieur                   |
-| 17              | 4 ou inférieur                   |
+| 5 | 1/2 ou inférieur |
+| 8 | 1 ou inférieur |
+| 11 | 2 ou inférieur |
+| 14 | 3 ou inférieur |
+| 17 | 4 ou inférieur |
 
 ## Frappes Bénites (Repl. aptitude de niveau 8)
 

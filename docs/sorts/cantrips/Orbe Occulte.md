@@ -1,8 +1,8 @@
 ---
 available:
-  - Artificier
-  - Nécromancien
-  - Occultiste
+ - Artificier
+ - Nécromancien
+ - Occultiste
 level: 0
 school: Évocation
 Verbal: true

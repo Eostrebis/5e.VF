@@ -13,22 +13,22 @@ __Points de vie :__ 8
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |  DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
 | 12 (+1) | 5 (-3) | 16 (+3) | 16 (+3) | 20 (+5) | 18 (+4) |
-|  ◎ +1   |  ◎ -3  |  ◉ +5   |  ◎ +3   |  ◎ +5   |  ◉ +6   |
+| ◎ +1 | ◎ -3 | ◉ +5 | ◎ +3 | ◎ +5 | ◉ +6 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) :      | ◎ Investigation (_Int_) : ±0  |
-| ◎ Arcanes (_Int_) : ±0      | ◉ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : ±0   | ◎ Nature (_Int_) : ±0<br>     |
-| ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : ±0     |
-| ◎ Dressage (_Sag_) : ±0     | ◎ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : ±0       |
-| ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : ±0         |
-| ◉ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◎ Acrobaties (_Dex_) : | ◎ Investigation (_Int_) : ±0 |
+| ◎ Arcanes (_Int_) : ±0 | ◉ Médecine (_Sag_) : ±0 |
+| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : ±0<br> |
+| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : ±0 |
+| ◎ Dressage (_Sag_) : ±0 | ◎ Persuasion (_Cha_) : ±0 |
+| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : ±0 |
+| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : ±0 |
+| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : ±0 |
+| ◉ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : ±0<br> |
 
 #### Maîtrises
 
@@ -90,7 +90,7 @@ Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Q
 
 __Traits :__ 
 
-__Idéal :__   
+__Idéal :__ 
 
 __Lien :__ 
 

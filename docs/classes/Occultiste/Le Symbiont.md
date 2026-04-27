@@ -7,13 +7,13 @@ Même si la plupart des occultistes forment des pactes avec des entités distant
 
 Le Symbiont vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                         |
+| Niveau de Sort | Sorts |
 | -------------- | --------------------------------------------- |
-| 1              | [[Enchevêtrement]], [[grandes foulées]]       |
-| 2              | [[Flou]], [[agrandissement ou rapetissement]] |
-| 3              | [[Célérité]], [[fusion dans la pierre]]       |
-| 4              | [[Tentacules noirs]], [[peau de pierre]]      |
-| 5              | [[Brume mortelle]], [[double illusoire]]      |
+| 1 | [[Enchevêtrement]], [[grandes foulées]] |
+| 2 | [[Flou]], [[agrandissement ou rapetissement]] |
+| 3 | [[Célérité]], [[fusion dans la pierre]] |
+| 4 | [[Tentacules noirs]], [[peau de pierre]] |
+| 5 | [[Brume mortelle]], [[double illusoire]] |
 
 ## Transformation Symbiotique
 

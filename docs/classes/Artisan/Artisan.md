@@ -29,29 +29,29 @@ Enfin, considérez comment vous percevez vos travaux. Est-ce que vous êtes prag
 
 Vous pouvez créer un artisan rapidement en suivant ces suggestions. Commencez par faire de la Force ou la Dextérité votre caractéristique principale, suivie de l'Intelligence. Choisissez l'historique de votre choix qui colle avec votre passif dans l'artisanat.
 
-| **L'Artisan** |                   |                                                                        |                      |
+| **L'Artisan** | | | |
 | ------------- | ----------------- | ---------------------------------------------------------------------- | -------------------- |
-| Niveau        | Bonus de Maîtrise | Aptitudes                                                              | Artisanat Actif (PO) |
-| 1             | +2                | [[#Maîtrises Exotiques]], [[#Artisanat Actif]]                         | 25                   |
-| 2             | +2                | [[#Chefs-d'œuvre]] (propriétés Apprenti), [[#Ceinture à Outils]]       | 25                   |
-| 3             | +2                | [[#Guilde d'Artisan]]                                                  | 50                   |
-| 4             | +2                | [[#Augmentation de Caractéristiques]]                                  | 75                   |
-| 5             | +3                | [[#Attaque Supplémentaire]], [[#Chefs-d'œuvre]] (propriétés Compagnon) | 100                  |
-| 6             | +3                | [[#Acier de Damas]]                                                    | 125                  |
-| 7             | +3                | Aptitude de [[#Guilde d'Artisan]]                                      | 150                  |
-| 8             | +3                | [[#Augmentation de Caractéristiques]]                                  | 175                  |
-| 9             | +4                | [[#Œil pour la Qualité]]                                               | 200                  |
-| 10            | +4                | Aptitude de [[#Guilde d'Artisan]]                                      | 225                  |
-| 11            | +4                | [[#Chefs-d'œuvre]] (propriétés Maître)                                 | 250                  |
-| 12            | +4                | [[#Augmentation de Caractéristiques]]                                  | 275                  |
-| 13            | +5                | [[#Construction Sans-Faille]]                                          | 300                  |
-| 14            | +5                | Aptitude de [[#Guilde d'Artisan]]                                      | 325                  |
-| 15            | +5                | [[#Drôle de Ceinture à Outils]]                                        | 350                  |
-| 16            | +5                | [[#Augmentation de Caractéristiques]]                                  | 375                  |
-| 17            | +6                | [[#Chefs-d'œuvre]] (propriétés Légendaire)                             | 400                  |
-| 18            | +6                | Aptitude de [[#Guilde d'Artisan]]                                      | 425                  |
-| 19            | +6                | [[#Augmentation de Caractéristiques]]                                  | 450                  |
-| 20            | +6                | [[#Magnum Opus]]                                                       | 500                  |
+| Niveau | Bonus de Maîtrise | Aptitudes | Artisanat Actif (PO) |
+| 1 | +2 | [[#Maîtrises Exotiques]], [[#Artisanat Actif]] | 25 |
+| 2 | +2 | [[#Chefs-d'œuvre]] (propriétés Apprenti), [[#Ceinture à Outils]] | 25 |
+| 3 | +2 | [[#Guilde d'Artisan]] | 50 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 75 |
+| 5 | +3 | [[#Attaque Supplémentaire]], [[#Chefs-d'œuvre]] (propriétés Compagnon) | 100 |
+| 6 | +3 | [[#Acier de Damas]] | 125 |
+| 7 | +3 | Aptitude de [[#Guilde d'Artisan]] | 150 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 175 |
+| 9 | +4 | [[#Œil pour la Qualité]] | 200 |
+| 10 | +4 | Aptitude de [[#Guilde d'Artisan]] | 225 |
+| 11 | +4 | [[#Chefs-d'œuvre]] (propriétés Maître) | 250 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 275 |
+| 13 | +5 | [[#Construction Sans-Faille]] | 300 |
+| 14 | +5 | Aptitude de [[#Guilde d'Artisan]] | 325 |
+| 15 | +5 | [[#Drôle de Ceinture à Outils]] | 350 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 375 |
+| 17 | +6 | [[#Chefs-d'œuvre]] (propriétés Légendaire) | 400 |
+| 18 | +6 | Aptitude de [[#Guilde d'Artisan]] | 425 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 450 |
+| 20 | +6 | [[#Magnum Opus]] | 500 |
 
 # Aptitudes de Classes
 
@@ -88,7 +88,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
  - Un [[sac d'exploration souterraine]]
 
 ``` Outils d'Artisan
-  En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous réaliseriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
+ En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous réaliseriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
 ```
 
 ## Maîtrises Exotiques
@@ -125,12 +125,12 @@ __Améliorer l'Équipement.__ Vous pouvez transformer n'importe quelle arme ou a
 
 __Ajouter des Propriétés de Chef-d'Œuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
 
-| Propriété  | Niveau d'Artisan | Coût |
+| Propriété | Niveau d'Artisan | Coût |
 | ---------- | ---------------- | ---- |
-| Apprenti   | 2                | --   |
-| Compagnon  | 5                | 100  |
-| Maître     | 11               | 250  |
-| Légendaire | 17               | 400  |
+| Apprenti | 2 | -- |
+| Compagnon | 5 | 100 |
+| Maître | 11 | 250 |
+| Légendaire | 17 | 400 |
 
 Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'œuvre à votre arme.
 
@@ -154,16 +154,16 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Au niveau 3, vous rejoignez une guilde d'artisan. Sélectionnez une guilde parmi celles listées ci-dessous ; vous obtenez l'aptitude de niveau 3 de cette guilde. Vous obtenez des aptitudes de Guilde supplémentaires aux niveaux 7, 10, 114 et 18.
 
-| Nom de Guilde                          | Description                                                                                            |
+| Nom de Guilde | Description |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [[Guilde des Maestros Arcaniques]]     | Des artisans magiques qui transforment l'acier commun en objets magiques.                              |
-| [[Guilde des Armigères]]               | Des forgerons d'armures de renom qui portent de l'acier renforcé.                                      |
+| [[Guilde des Maestros Arcaniques]] | Des artisans magiques qui transforment l'acier commun en objets magiques. |
+| [[Guilde des Armigères]] | Des forgerons d'armures de renom qui portent de l'acier renforcé. |
 | [[Guilde des Travailleurs de la Lame]] | Des forgerons d'armes qui construisent des innovations de guerre et s'entraînent à leurs utilisations. |
-| [[Guilde des Calibarons]]              | Des fusiliers qui développent de puissantes armes à feu et des attachements.                           |
-| [[Guilde des Chevaliers Forgés]]       | Manient une forge portable pour chauffer leurs armes et armures jusqu'à l'explosion.                   |
-| [[Guilde des Mécanautes]]              | Pilotent une [[machine du crabe]], une construction marchante à l'immense pouvoir.                     |
-| [[Guilde des Seigneurs du Tonnerre]]   | Innovateurs électriques qui utilisent des équipements chargés.                                         |
-| [[Guilde des Piégeurs]]                | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat.                           |
+| [[Guilde des Calibarons]] | Des fusiliers qui développent de puissantes armes à feu et des attachements. |
+| [[Guilde des Chevaliers Forgés]] | Manient une forge portable pour chauffer leurs armes et armures jusqu'à l'explosion. |
+| [[Guilde des Mécanautes]] | Pilotent une [[machine du crabe]], une construction marchante à l'immense pouvoir. |
+| [[Guilde des Seigneurs du Tonnerre]] | Innovateurs électriques qui utilisent des équipements chargés. |
+| [[Guilde des Piégeurs]] | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat. |
 
 ## Augmentation de Caractéristiques
 

@@ -9,13 +9,13 @@ Les martyrs de vérité sont souvent considérés comme des prophètes, puisque 
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                          |
+| Niveau de Martyr | Sorts |
 | ---------------- | -------------------------------------------------------------- |
-| 3                | [[Charme-personne]], [[identification]]                        |
-| 5                | [[Augure]], [[Détection des Pensées]]                          |
-| 9                | [[Communication à distance]], [[communication avec les morts]] |
-| 13               | [[Divination]], [[Liberté de Mouvement]]                       |
-| 17               | [[Mythes et légendes]], [[scrutation]]                         |
+| 3 | [[Charme-personne]], [[identification]] |
+| 5 | [[Augure]], [[Détection des Pensées]] |
+| 9 | [[Communication à distance]], [[communication avec les morts]] |
+| 13 | [[Divination]], [[Liberté de Mouvement]] |
+| 17 | [[Mythes et légendes]], [[scrutation]] |
 
 ## Érudition Civique
 

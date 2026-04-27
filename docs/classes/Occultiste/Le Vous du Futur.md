@@ -7,26 +7,26 @@ Votre patron n'est autre que vous, dans plusieurs décennies. Peut-être que le 
 
 D'étranges effets persistent après que vous avez communiqué avec le vous du futur. Vous bénéficiez de l'un des traits suivants :
 
-| d6  | Trait de Personnalité                                                                                                              |
+| d6 | Trait de Personnalité |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Vous parlez souvent en utilisant le mauvais temps ou en vous référant à vous-même au pluriel.                                      |
-| 2   | Vous vous référez parfois à une personne que vous venez de rencontrer par son nom, même si elle ne vous l'a pas encore communiqué. |
-| 3   | Même dans les circonstances les plus dangereuses, vous restez irraisonnablement calme.                                             |
-| 4   | Sous certaines lumières, vous paraissez plus vieux que vous n'êtes réellement.                                                     |
-| 5   | Voir certaines personnes en vie peut instantanément vous faire pleurer.                                                            |
-| 6   | Votre sens de la mode futur est en contradiction avec ce qui se fait maintenant.                                                   |
+| 1 | Vous parlez souvent en utilisant le mauvais temps ou en vous référant à vous-même au pluriel. |
+| 2 | Vous vous référez parfois à une personne que vous venez de rencontrer par son nom, même si elle ne vous l'a pas encore communiqué. |
+| 3 | Même dans les circonstances les plus dangereuses, vous restez irraisonnablement calme. |
+| 4 | Sous certaines lumières, vous paraissez plus vieux que vous n'êtes réellement. |
+| 5 | Voir certaines personnes en vie peut instantanément vous faire pleurer. |
+| 6 | Votre sens de la mode futur est en contradiction avec ce qui se fait maintenant. |
 
 ## Liste de Sorts Étendue 
 
 Votre vous du futur vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                                    |
+| Niveau de Sort | Sorts |
 | -------------- | -------------------------------------------------------- |
-| 1              | [[Accélérer ou décélérer]], [[reprise instantanée]]      |
-| 2              | [[Délai]], [[retour arrière]]                            |
-| 3              | [[Célérité]], [[Protection contre une énergie]]          |
-| 4              | [[Protection contre la mort]], [[funeste avertissement]] |
-| 5              | [[Évasivité]], [[mythes et légendes]]                    |
+| 1 | [[Accélérer ou décélérer]], [[reprise instantanée]] |
+| 2 | [[Délai]], [[retour arrière]] |
+| 3 | [[Célérité]], [[Protection contre une énergie]] |
+| 4 | [[Protection contre la mort]], [[funeste avertissement]] |
+| 5 | [[Évasivité]], [[mythes et légendes]] |
 
 ## Ça s'est passé comme ça
 

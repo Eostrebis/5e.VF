@@ -5,13 +5,13 @@ Les dieux de la Nature sont aussi variés que le monde naturel lui-même, des di
 
 **Sorts du Domaine de la Nature**
 
-| Niveau de Clerc | Sorts                                                           |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------------------- |
-| 1               | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
-| 3               | [[Peau d'Écorce]], [[croissance d'épines]]                      |
-| 5               | [[Croissance végétale]], [[mur de vent]]                        |
-| 7               | [[Domination de bête]], [[lianes avides]]                       |
-| 9               | [[Fléau d'insectes]], [[passage par les arbres]]                |
+| 1 | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
+| 3 | [[Peau d'Écorce]], [[croissance d'épines]] |
+| 5 | [[Croissance végétale]], [[mur de vent]] |
+| 7 | [[Domination de bête]], [[lianes avides]] |
+| 9 | [[Fléau d'insectes]], [[passage par les arbres]] |
 
 ## Apprenti de la Nature
 

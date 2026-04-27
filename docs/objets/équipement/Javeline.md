@@ -5,6 +5,6 @@ poids: 2
 englishname: Javelin
 writing_status: finished
 ---
-| Dégâts       | Propriétés   |
+| Dégâts | Propriétés |
 | ------------ | ------------ |
 | 1d6 perçants | Jet (30/120) |

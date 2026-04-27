@@ -33,29 +33,29 @@ Travaillez avec votre MJ pour déterminer comment les sorcières sont perçues d
 
 Vous pouvez créer une sorcière rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Constitution. Puis, choisissez les cantrips [[Aspersion d'Acide]], [[Chair de Poule]], [[Abracadabra]] et [[Illusion Mineure]], ainsi que les sorts [[Fou Rire]] et [[Vague Tonnante]]. Choisissez la malédiction [[Hideuse]], ainsi que les maléfices [[Mauvais Œil]] et [[Mauvaise Fortune]]. Enfin, choisissez l'historique de votre choix qui illustre votre vie avant d'avoir été maudite.
 
-| **La Sorcière |                   |                                                                                                                                         |                  |                 |              |     |      |      |      |      |      |      |      |      |
+| **La Sorcière | | | | | | | | | | | | | | |
 | ------------- | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | --------------- | ------------ | --- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Niveau        | Bonus de Maîtrise | Aptitudes                                                                                                                               | Maléfices Connus | Cantrips Connus | Sorts Connus | 1er | 2eme | 3eme | 4eme | 5eme | 6eme | 7eme | 8eme | 9eme |
-| 1             | +2                | [[Sorcière#Incantation\|Incantation]], [[Sorcière#Malédiction de Sorcière\|Malédiction de Sorcière]], [[Sorcière#Maléfices\|Maléfices]] | 2                | 4               | 2            | 2   | --   | --   | --   | --   | --   | --   | --   | --   |
-| 2             | +2                | [[Sorcière#Ricanement\|Ricanement]], [[Sorcière#Familier\|Familier]]                                                                    | 3                | 4               | 3            | 3   | --   | --   | --   | --   | --   | --   | --   | --   |
-| 3             | +2                | [[Sorcière#Arts de la Sorcière\|Arts de la Sorcière]]                                                                                   | 3                | 4               | 4            | 4   | 2    | --   | --   | --   | --   | --   | --   | --   |
-| 4             | +2                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 3                | 5               | 5            | 4   | 3    | --   | --   | --   | --   | --   | --   | --   |
-| 5             | +3                | [[Sorcière#Sort Pernicieux\|Sort Pernicieux]]                                                                                           | 4                | 5               | 6            | 4   | 3    | 2    | --   | --   | --   | --   | --   | --   |
-| 6             | +3                | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                         | 4                | 5               | 7            | 4   | 3    | 3    | --   | --   | --   | --   | --   | --   |
-| 7             | +3                | [[Sorcière#Familier Amélioré\|Familier Amélioré]]                                                                                       | 4                | 5               | 8            | 4   | 3    | 3    | 1    | --   | --   | --   | --   | --   |
-| 8             | +3                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 4                | 5               | 9            | 4   | 3    | 3    | 2    | --   | --   | --   | --   | --   |
-| 9             | +4                | [[Sorcière#Agonie Maudite\|Agonie Maudite]]                                                                                             | 5                | 5               | 10           | 4   | 3    | 3    | 3    | 1    | --   | --   | --   | --   |
-| 10            | +4                | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                         | 5                | 6               | 11           | 4   | 3    | 3    | 3    | 2    | --   | --   | --   | --   |
-| 11            | +4                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 5                | 6               | 12           | 4   | 3    | 3    | 3    | 2    | 1    | --   | --   | --   |
-| 12            | +4                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 5                | 6               | 12           | 4   | 3    | 3    | 3    | 2    | 1    | --   | --   | --   |
-| 13            | +5                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 6                | 6               | 13           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | --   | --   |
-| 14            | +5                | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]]                                                                         | 6                | 6               | 13           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | --   | --   |
-| 15            | +5                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 6                | 6               | 14           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | 1    | --   |
-| 16            | +5                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 6                | 6               | 14           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | 1    | --   |
-| 17            | +6                | --                                                                                                                                      | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 2    | 1    | 1    | 1    | 1    |
-| 18            | +6                | [[Sorcière#Grand Maléfice\|Grand Maléfice]]                                                                                             | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 3    | 1    | 1    | 1    | 1    |
-| 19            | +6                | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                         | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 3    | 2    | 1    | 1    | 1    |
-| 20            | +6                | [[Sorcière#Maître des Maléfices\|Maître des Maléfices]]                                                                                 | 7                | 6               | 15           | 4   | 3    | 3    | 3    | 3    | 2    | 2    | 1    | 1    |
+| Niveau | Bonus de Maîtrise | Aptitudes | Maléfices Connus | Cantrips Connus | Sorts Connus | 1er | 2eme | 3eme | 4eme | 5eme | 6eme | 7eme | 8eme | 9eme |
+| 1 | +2 | [[Sorcière#Incantation\|Incantation]], [[Sorcière#Malédiction de Sorcière\|Malédiction de Sorcière]], [[Sorcière#Maléfices\|Maléfices]] | 2 | 4 | 2 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2 | +2 | [[Sorcière#Ricanement\|Ricanement]], [[Sorcière#Familier\|Familier]] | 3 | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3 | +2 | [[Sorcière#Arts de la Sorcière\|Arts de la Sorcière]] | 3 | 4 | 4 | 4 | 2 | -- | -- | -- | -- | -- | -- | -- |
+| 4 | +2 | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 3 | 5 | 5 | 4 | 3 | -- | -- | -- | -- | -- | -- | -- |
+| 5 | +3 | [[Sorcière#Sort Pernicieux\|Sort Pernicieux]] | 4 | 5 | 6 | 4 | 3 | 2 | -- | -- | -- | -- | -- | -- |
+| 6 | +3 | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]] | 4 | 5 | 7 | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- |
+| 7 | +3 | [[Sorcière#Familier Amélioré\|Familier Amélioré]] | 4 | 5 | 8 | 4 | 3 | 3 | 1 | -- | -- | -- | -- | -- |
+| 8 | +3 | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 4 | 5 | 9 | 4 | 3 | 3 | 2 | -- | -- | -- | -- | -- |
+| 9 | +4 | [[Sorcière#Agonie Maudite\|Agonie Maudite]] | 5 | 5 | 10 | 4 | 3 | 3 | 3 | 1 | -- | -- | -- | -- |
+| 10 | +4 | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]] | 5 | 6 | 11 | 4 | 3 | 3 | 3 | 2 | -- | -- | -- | -- |
+| 11 | +4 | [[Sorcière#Grand Maléfice\|Grand Maléfice]] | 5 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 12 | +4 | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 5 | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 13 | +5 | [[Sorcière#Grand Maléfice\|Grand Maléfice]] | 6 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 14 | +5 | Aptitude d'[[Sorcière#Arts de la Sorcière\|Art de la Sorcière]] | 6 | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 15 | +5 | [[Sorcière#Grand Maléfice\|Grand Maléfice]] | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 16 | +5 | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 6 | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 17 | +6 | -- | 7 | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | [[Sorcière#Grand Maléfice\|Grand Maléfice]] | 7 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | [[Sorcière#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 7 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | [[Sorcière#Maître des Maléfices\|Maître des Maléfices]] | 7 | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 # Aptitudes de Classes
 
@@ -163,23 +163,23 @@ Au niveau 2, vous apprenez le sort [[Appel de Familier]] et pouvez le lancer com
 		 - Vous pouvez ajouter deux fois votre niveau de sorcière aux points de vie de votre familier.
 
 
-##  Arts de la Sorcière
+## Arts de la Sorcière
 
 Votre compétence en magie a culminé en l'apprentissage d'un art, une variété de magie innée qui existe en dehors des écoles de magie. Lorsque vous atteignez le niveau 3, choisissez un art de sorcière. Ce choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
 Si votre art vous confère un maléfice, il ne compte pas dans le nombre de maléfices que vous connaissez.
 
-| Art de Sorcière        | Description                                                                         |
+| Art de Sorcière | Description |
 | ---------------------- | ----------------------------------------------------------------------------------- |
-| [[Magie Blanche]]      | Soigneur né et pratiquant de la magie restaurative                                  |
-| [[Magie d'Acier]]      | Mélange escrime avec maléfices sournois                                             |
-| [[Magie de Sang]]      | Confère de terribles malédictions et tire son pouvoir de sacrifices                 |
-| [[Magie du Thé]]       | Sorcière paisible qui pratique les cérémonies de thé et la divination               |
-| [[Magie Noire]]        | Pratique les arts nécromanciens et manient de sombre sorts provoquant la souffrance |
-| [[Magie Rouge]]        | Un lanceur de sort destructeur qui utilise de la magie qui ruine et brûle           |
-| [[Magie Technicolore]] | Devient ami avec à peu près tous ceux qu'il croise                                  |
-| [[Magie Verte]]        | Pratique une magie associée aux plantes, aux animaux et au monde naturel            |
-| [[Magie Violette]]     | Manie les illusions et les enchantements                                            |
+| [[Magie Blanche]] | Soigneur né et pratiquant de la magie restaurative |
+| [[Magie d'Acier]] | Mélange escrime avec maléfices sournois |
+| [[Magie de Sang]] | Confère de terribles malédictions et tire son pouvoir de sacrifices |
+| [[Magie du Thé]] | Sorcière paisible qui pratique les cérémonies de thé et la divination |
+| [[Magie Noire]] | Pratique les arts nécromanciens et manient de sombre sorts provoquant la souffrance |
+| [[Magie Rouge]] | Un lanceur de sort destructeur qui utilise de la magie qui ruine et brûle |
+| [[Magie Technicolore]] | Devient ami avec à peu près tous ceux qu'il croise |
+| [[Magie Verte]] | Pratique une magie associée aux plantes, aux animaux et au monde naturel |
+| [[Magie Violette]] | Manie les illusions et les enchantements |
 
 ### Sorts d'Art
 

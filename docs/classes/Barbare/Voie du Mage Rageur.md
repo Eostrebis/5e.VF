@@ -36,27 +36,27 @@ Le Charisme est votre caractéristique d'incantation pour vos sorts d'ensorceleu
 
 <p style="text-align:center"><b>Modificateur aux attaques avec un sort</b> = bonus de maîtrise + modificateur de Charisme</p>
 
-| Niveau de Barbare | Cantrips Connus | Sorts Connus | Emplacements de sorts      |
+| Niveau de Barbare | Cantrips Connus | Sorts Connus | Emplacements de sorts |
 | ----------------- | --------------- | ------------ | -------------------------- |
-|                   |                 |              | 1  ---- 2  ---- 3  ---- 4  |
-| 3                 | 2               | 3            | 2  ---- -- ---- -- ---- -- |
-| 4                 | 2               | 4            | 3  ---- -- ---- -- ---- -- |
-| 5                 | 2               | 4            | 3  ---- -- ---- -- ---- -- |
-| 6                 | 2               | 4            | 3  ---- -- ---- -- ---- -- |
-| 7                 | 2               | 5            | 4  ---- 2  ---- -- ---- -- |
-| 8                 | 2               | 6            | 4  ---- 2  ---- -- ---- -- |
-| 9                 | 2               | 6            | 4  ---- 2  ---- -- ---- -- |
-| 10                | 3               | 7            | 4  ---- 3  ---- -- ---- -- |
-| 11                | 3               | 8            | 4  ---- 3  ---- -- ---- -- |
-| 12                | 3               | 8            | 4  ---- 3  ---- -- ---- -- |
-| 13                | 3               | 9            | 4  ---- 3  ---- 2  ---- -- |
-| 14                | 3               | 10           | 4  ---- 3  ---- 2  ---- -- |
-| 15                | 3               | 10           | 4  ---- 3  ---- 2  ---- -- |
-| 16                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
-| 17                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
-| 18                | 3               | 11           | 4  ---- 3  ---- 3  ---- -- |
-| 19                | 3               | 12           | 4  ---- 3  ---- 3  ---- 1  |
-| 20                | 3               | 13           | 4  ---- 3  ---- 3  ---- 1  |
+| | | | 1 ---- 2 ---- 3 ---- 4 |
+| 3 | 2 | 3 | 2 ---- -- ---- -- ---- -- |
+| 4 | 2 | 4 | 3 ---- -- ---- -- ---- -- |
+| 5 | 2 | 4 | 3 ---- -- ---- -- ---- -- |
+| 6 | 2 | 4 | 3 ---- -- ---- -- ---- -- |
+| 7 | 2 | 5 | 4 ---- 2 ---- -- ---- -- |
+| 8 | 2 | 6 | 4 ---- 2 ---- -- ---- -- |
+| 9 | 2 | 6 | 4 ---- 2 ---- -- ---- -- |
+| 10 | 3 | 7 | 4 ---- 3 ---- -- ---- -- |
+| 11 | 3 | 8 | 4 ---- 3 ---- -- ---- -- |
+| 12 | 3 | 8 | 4 ---- 3 ---- -- ---- -- |
+| 13 | 3 | 9 | 4 ---- 3 ---- 2 ---- -- |
+| 14 | 3 | 10 | 4 ---- 3 ---- 2 ---- -- |
+| 15 | 3 | 10 | 4 ---- 3 ---- 2 ---- -- |
+| 16 | 3 | 11 | 4 ---- 3 ---- 3 ---- -- |
+| 17 | 3 | 11 | 4 ---- 3 ---- 3 ---- -- |
+| 18 | 3 | 11 | 4 ---- 3 ---- 3 ---- -- |
+| 19 | 3 | 12 | 4 ---- 3 ---- 3 ---- 1 |
+| 20 | 3 | 13 | 4 ---- 3 ---- 3 ---- 1 |
 ## Furie Arcanique
 
 À partir du niveau 6, lorsque vous utilisez votre action pour attaquer lorsque vous ragez et attaquez témérairement, vous pouvez utiliser votre action bonus pour lancer un sort à la place de l'une de vos attaques. Le sort doit avoir une incantation d'une action ou une action bonus.

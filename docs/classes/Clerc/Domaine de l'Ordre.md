@@ -7,13 +7,13 @@ Les Clercs de l'Ordre pensent que des lois bien pensées établissent des hiéra
 
 **Sorts du Domaine de l'Ordre**
 
-| Niveau de Clerc | Sorts                                              |
+| Niveau de Clerc | Sorts |
 | --------------- | -------------------------------------------------- |
-| 1               | [[Injonction]], [[Héroïsme]]                       |
-| 3               | [[Immobilisation de Personne]], [[Zone de Vérité]] |
-| 5               | [[Soins de groupe]], [[lenteur]]                   |
-| 7               | [[Compulsion]], [[localisation de créature]]       |
-| 9               | [[Communion]], [[domination de personne]]          |
+| 1 | [[Injonction]], [[Héroïsme]] |
+| 3 | [[Immobilisation de Personne]], [[Zone de Vérité]] |
+| 5 | [[Soins de groupe]], [[lenteur]] |
+| 7 | [[Compulsion]], [[localisation de créature]] |
+| 9 | [[Communion]], [[domination de personne]] |
 
 ## Maîtrises Supplémentaires
 

@@ -16,14 +16,14 @@ Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aime
 
 **Histoire Autognome**
 
-| d6  | Histoire                                                                                                                                                   |
+| d6 | Histoire |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Votre créateur vous a doté d'autonomie et vous a encouragé à suivre vos rêves                                                                              |
-| 2   | Votre créateur est mort, vous laissant seul face à la vie                                                                                                  |
-| 3   | Un bug vous a fait oublier votre programmation initiale. Vous ne vous souvenez pas de qui vous a créé, ou d'où vous venez                                  |
-| 4   | Vous n'aimiez pas le traitement infligé par votre créateur, et vous avez fugué                                                                             |
-| 5   | Vous avez été construit pour accomplir une certaine mission                                                                                                |
-| 6   | Vous vous sentiez emprisonné dans le rôle pour lequel vous avez été conçu, et vous avez abandonné votre créateur, déterminé à trouver un meilleur objectif |
+| 1 | Votre créateur vous a doté d'autonomie et vous a encouragé à suivre vos rêves |
+| 2 | Votre créateur est mort, vous laissant seul face à la vie |
+| 3 | Un bug vous a fait oublier votre programmation initiale. Vous ne vous souvenez pas de qui vous a créé, ou d'où vous venez |
+| 4 | Vous n'aimiez pas le traitement infligé par votre créateur, et vous avez fugué |
+| 5 | Vous avez été construit pour accomplir une certaine mission |
+| 6 | Vous vous sentiez emprisonné dans le rôle pour lequel vous avez été conçu, et vous avez abandonné votre créateur, déterminé à trouver un meilleur objectif |
 
 ### Culture
 

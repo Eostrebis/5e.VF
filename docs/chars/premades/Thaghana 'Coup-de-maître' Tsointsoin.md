@@ -13,22 +13,22 @@ __Points de vie :__ 15
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
 | 18 (+4) | 12 (+1) | 16 (+3) | 16 (+3) | 8 (-1) | 10 (±0) |
-|  ◉ +6   |  ◎ +1   |  ◉ +5   |  ◎ +3   |  ◎ -1  |  ◎ ±0   |
+| ◉ +6 | ◎ +1 | ◉ +5 | ◎ +3 | ◎ -1 | ◎ ±0 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) :  +1  | ◎ Investigation (_Int_) : +3  |
-| ◎ Arcanes (_Int_) : +3      | ◉ Médecine (_Sag_) : +1       |
-| ◉ Athlétisme (_For_) : +6   | ◉ Nature (_Int_) : +5<br>     |
-| ◎ Discrétion (_Dex_) : +1   | ◉ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : +1   | ◉ Religion (_Int_) : +5       |
-| ◎ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : -1         |
-| ◎ Intuition (_Sag_) : -1    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◎ Acrobaties (_Dex_) : +1 | ◎ Investigation (_Int_) : +3 |
+| ◎ Arcanes (_Int_) : +3 | ◉ Médecine (_Sag_) : +1 |
+| ◉ Athlétisme (_For_) : +6 | ◉ Nature (_Int_) : +5<br> |
+| ◎ Discrétion (_Dex_) : +1 | ◉ Perception (_Sag_) : +1 |
+| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : ±0 |
+| ◎ Escamotage (_Dex_) : +1 | ◉ Religion (_Int_) : +5 |
+| ◎ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : ±0 |
+| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : -1 |
+| ◎ Intuition (_Sag_) : -1 | ◎ Tromperie (_Cha_) : ±0<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Thaghana, un goliath à la force colossale et à l'intelligence de génie, banni de son clan primitif pour avoir appris à lire, et qui tente maintenant de prouver au monde (souvent avec une frustration explosive) que la stratégie est aussi puissante qu'une hache bien aiguisée.

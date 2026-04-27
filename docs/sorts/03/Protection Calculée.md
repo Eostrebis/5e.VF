@@ -1,11 +1,11 @@
 ---
 available:
-  - Nécromancien
-  - Occultiste
-  - Sorcière
-  - Artificier
-  - Barde
-  - Investigateur
+ - Nécromancien
+ - Occultiste
+ - Sorcière
+ - Artificier
+ - Barde
+ - Investigateur
 level: 3
 school: Abjuration
 Verbal: true

@@ -11,14 +11,14 @@ Les pratiquants de cette voie portent généralement des robes avec des capuchon
 
 Au niveau 3, vous maîtrisez les compétences Perspicacité et Médecine ainsi que le [[kit d'herboriste]]. Vous obtenez également un masque spécial, que vous portez généralement lorsque vous utilisez les aptitudes de cette sous-classe. Vous déterminez son apparence ou tirez aléatoirement dans la table ci-dessous.
 
-| d6  | Apparence du Masque |
+| d6 | Apparence du Masque |
 | --- | ------------------- |
-| 1   | Corbeau             |
-| 2   | Noir et blanc       |
-| 3   | Visage pleurant     |
-| 4   | Visage rigolant     |
-| 5   | Crâne               |
-| 6   | Papillon            |
+| 1 | Corbeau |
+| 2 | Noir et blanc |
+| 3 | Visage pleurant |
+| 4 | Visage rigolant |
+| 5 | Crâne |
+| 6 | Papillon |
 
 ## Main de Soin
 

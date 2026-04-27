@@ -1,12 +1,12 @@
 ---
 available:
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 7
 school: Conjuration
 Verbal: true

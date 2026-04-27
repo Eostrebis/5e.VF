@@ -6,6 +6,6 @@ englishname: Handaxe
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés         |
+| Dégâts | Propriétés |
 | -------------- | ------------------ |
 | 1d6 tranchants | Léger, Jet (20/60) |

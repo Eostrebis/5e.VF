@@ -11,14 +11,14 @@ Qu'ils descendent d'un être céleste ou qu'ils soient insufflés d'un pouvoir c
 
 Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possède des caractéristiques physiques indiquant son héritage céleste. Ces caractéristiques sont généralement initialement subtiles, et deviennent de plus en plus évidentes au fur et à mesure que l'aasimar gagne la capacité de révéler sa nature céleste. La table de Caractéristiques Aasimar contient des exemples que vous pouvez choisir ou utiliser pour vous inspirer.
 
-| d6  | Caractéristique Aasimar                                           |
+| d6 | Caractéristique Aasimar |
 | --- | ----------------------------------------------------------------- |
-| 1   | Quelques taches de rousseur métalliques, blanches, ou charbonnées |
-| 2   | Des yeux métalliques, luminescents, ou sombres                    |
-| 3   | Des cheveux très colorés                                          |
-| 4   | Une teinte inhabituelle à votre ombre                             |
-| 5   | Un halo fantomatique au dessus de votre tête                      |
-| 6   | Des arc-en-ciel reluisant sur votre peau                          |
+| 1 | Quelques taches de rousseur métalliques, blanches, ou charbonnées |
+| 2 | Des yeux métalliques, luminescents, ou sombres |
+| 3 | Des cheveux très colorés |
+| 4 | Une teinte inhabituelle à votre ombre |
+| 5 | Un halo fantomatique au dessus de votre tête |
+| 6 | Des arc-en-ciel reluisant sur votre peau |
 
 ### Culture
 

@@ -6,6 +6,6 @@ englishname: Longbow
 writing_status: finished
 ---
 
-| Dégâts       | Propriétés                               |
+| Dégâts | Propriétés |
 | ------------ | ---------------------------------------- |
 | 1d8 perçants | Munition (150/600), Lourde, À deux mains |

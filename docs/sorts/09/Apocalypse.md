@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Ensorceleur
-  - Occultiste
+ - Clerc
+ - Ensorceleur
+ - Occultiste
 level: 9
 school: Évocation
 Verbal: true

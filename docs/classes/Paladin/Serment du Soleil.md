@@ -19,13 +19,13 @@ Contrairement aux autres paladins, la plupart des fidèles qui prêtent le Serme
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                     |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------- |
-| 3                 | [[Mains brûlantes]], [[rayon traçant]]    |
-| 5                 | [[Vision dans le noir]], [[rayon ardent]] |
-| 9                 | [[Lumière du jour]], [[esprits gardiens]] |
-| 13                | [[Bouclier de feu]], [[mur de feu]]       |
-| 17                | [[Frappe de flamme]], [[sanctification]]  |
+| 3 | [[Mains brûlantes]], [[rayon traçant]] |
+| 5 | [[Vision dans le noir]], [[rayon ardent]] |
+| 9 | [[Lumière du jour]], [[esprits gardiens]] |
+| 13 | [[Bouclier de feu]], [[mur de feu]] |
+| 17 | [[Frappe de flamme]], [[sanctification]] |
 
 ## Canal Divin
 

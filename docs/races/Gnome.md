@@ -15,11 +15,11 @@ La personnalité d'un gnome s'exprime énormément dans son apparence. La barbe 
 
 En fonction de leur lieu d'habitation, les gnomes ont évolué en différentes sous-races : 
 
-| Sous-race                                | Description                                                          |
+| Sous-race | Description |
 | ---------------------------------------- | -------------------------------------------------------------------- |
-| [[#Gnome des profondeurs (Svirfneblin)]] | Habitants de l'Outreterre, furtifs et résistants à la magie.         |
-| [[#Gnome des forêts]]                    | Illusionnistes nés, capables de communiquer avec les petits animaux. |
-| [[#Gnome des roches]]                    | Inventeurs robustes et créateurs de petits dispositifs mécaniques.   |
+| [[#Gnome des profondeurs (Svirfneblin)]] | Habitants de l'Outreterre, furtifs et résistants à la magie. |
+| [[#Gnome des forêts]] | Illusionnistes nés, capables de communiquer avec les petits animaux. |
+| [[#Gnome des roches]] | Inventeurs robustes et créateurs de petits dispositifs mécaniques. |
 
 ### Culture
 
@@ -105,7 +105,7 @@ Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une 
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
-**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Communication avec les Petits Animaux.** À l'aide de sons et de gestes, vous pouvez communiquer des idées simples avec des bêtes de taille P ou plus petites. Les gnomes de la forêt adorent les animaux et gardent souvent des écureuils, des blaireaux, des lapins, des taupes, des pic-verts ou d'autres créatures comme leurs animaux de compagnie adorés.
 
@@ -133,7 +133,7 @@ Les gnomes des roches disposent d'une ingéniosité naturelle et d'une solidité
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
-**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Bricoleur.** Vous maîtrisez les outils de bricoleur. En utilisant ces outils, vous pouvez passer 1 heure et dépenser l'équivalent de 10 PO de matériaux pour créer un mécanisme de taille TP, de CA 5 et 1 PV. Le dispositif cesse de fonctionner après 24 heures (sauf si vous passez 1 heure à le réparer pour le garder fonctionnel), ou lorsque vous utilisez votre action pour le démonter ; à cet instant, vous pouvez récupérer les matériaux dépensés dans sa création. Vous pouvez avoir jusqu'à trois dispositifs actifs en même temps.
 

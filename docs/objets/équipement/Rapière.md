@@ -6,6 +6,6 @@ englishname: Rapier
 writing_status: finished
 ---
 
-| Dégâts       | Propriétés |
+| Dégâts | Propriétés |
 | ------------ | ---------- |
-| 1d8 perçants | Finesse    |
+| 1d8 perçants | Finesse |

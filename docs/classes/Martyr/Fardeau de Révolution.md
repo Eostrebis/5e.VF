@@ -9,13 +9,13 @@ Ces martyrs ne sont pas seulement désignés pour affronter des rois ; toutes 
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                |
+| Niveau de Martyr | Sorts |
 | ---------------- | ---------------------------------------------------- |
-| 3                | [[Injonction]], [[Héroïsme]]                         |
-| 5                | [[Immobilisation de Personne]], [[Arme Magique]]     |
-| 9                | [[Célérité]], [[Frappe Divine]]                      |
-| 13               | [[Peau de pierre]], [[mur de feu]]                   |
-| 17               | [[Immobilisation de monstre]], [[lien télépathique]] |
+| 3 | [[Injonction]], [[Héroïsme]] |
+| 5 | [[Immobilisation de Personne]], [[Arme Magique]] |
+| 9 | [[Célérité]], [[Frappe Divine]] |
+| 13 | [[Peau de pierre]], [[mur de feu]] |
+| 17 | [[Immobilisation de monstre]], [[lien télépathique]] |
 
 ## Maîtrise supplémentaire
 

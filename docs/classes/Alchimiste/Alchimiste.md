@@ -35,28 +35,28 @@ Vous pouvez créer un alchimiste rapidement en suivant ces suggestions. Commence
 
 ### Table de l'Alchimiste
 
-| Niveau | Bonus de Maîtrise | Formules Connues | Dé de Réactifs | Découvertes Connues | Aptitudes                                                                                                                  |
+| Niveau | Bonus de Maîtrise | Formules Connues | Dé de Réactifs | Découvertes Connues | Aptitudes |
 | :----: | :---------------: | :--------------: | :------------: | :-----------------: | -------------------------------------------------------------------------------------------------------------------------- |
-|   1    |        +2         |        --        |       --       |         --          | [[Alchimiste#Bombes\|Bombes]], [[Alchimiste#Philosophe Naturel\|Philosophe Naturel]]                                       |
-|   2    |        +2         |        3         |       --       |         --          | [[#Champ d'Études]], [[#Formules de Bombes]]                                                                               |
-|   3    |        +2         |        3         |      3d10      |         --          | [[Alchimiste#Réactifs\|Réactifs]]                                                                                          |
-|   4    |        +2         |        3         |      4d10      |          2          | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]], [[Alchimiste#Découvertes\|Découvertes]] |
-|   5    |        +3         |        4         |      5d10      |          2          | [[Alchimiste#Grenade Aveuglante\|Grenade Aveuglante]]                                                                      |
-|   6    |        +3         |        4         |      6d10      |          3          | Aptitude de [[Alchimiste#Champ d'Études\|Champ d'études]]                                                                  |
-|   7    |        +3         |        5         |      7d10      |          3          | Amélioration de [[Alchimiste#Concocter des Potions\|potions]]                                                              |
-|   8    |        +3         |        5         |      8d10      |          3          | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                          |
-|   9    |        +4         |        6         |      9d10      |          4          | --                                                                                                                         |
-|   10   |        +4         |        6         |     10d10      |          4          | Aptitude de [[Alchimiste#Champ d'Études\|Champ d'études]]                                                                  |
-|   11   |        +4         |        7         |     11d10      |          4          | [[Alchimiste#Évasion\|Évasion]]                                                                                            |
-|   12   |        +4         |        7         |     12d10      |          4          | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                          |
-|   13   |        +5         |        8         |     13d10      |          5          | --                                                                                                                         |
-|   14   |        +5         |        8         |     14d10      |          5          | Amélioration de [[Alchimiste#Concocter des Potions\|potions]]                                                              |
-|   15   |        +5         |        9         |     15d10      |          5          | [[Alchimiste#Protection contre les Explosions\|Protection contre les Explosions]]                                          |
-|   16   |        +5         |        9         |     16d10      |          5          | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                          |
-|   17   |        +6         |        10        |     17d10      |          6          | --                                                                                                                         |
-|   18   |        +6         |        10        |     18d10      |          6          | Aptitude de [[Alchimiste#Champ d'Études\|Champ d'études]]                                                                  |
-|   19   |        +6         |        11        |     19d10      |          6          | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                          |
-|   20   |        +6         |        11        |     20d10      |          6          | [[Alchimiste#Pierre Philosophale\|Pierre Philosophale]]                                                                    |
+| 1 | +2 | -- | -- | -- | [[Alchimiste#Bombes\|Bombes]], [[Alchimiste#Philosophe Naturel\|Philosophe Naturel]] |
+| 2 | +2 | 3 | -- | -- | [[#Champ d'Études]], [[#Formules de Bombes]] |
+| 3 | +2 | 3 | 3d10 | -- | [[Alchimiste#Réactifs\|Réactifs]] |
+| 4 | +2 | 3 | 4d10 | 2 | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]], [[Alchimiste#Découvertes\|Découvertes]] |
+| 5 | +3 | 4 | 5d10 | 2 | [[Alchimiste#Grenade Aveuglante\|Grenade Aveuglante]] |
+| 6 | +3 | 4 | 6d10 | 3 | Aptitude de [[Alchimiste#Champ d'Études\|Champ d'études]] |
+| 7 | +3 | 5 | 7d10 | 3 | Amélioration de [[Alchimiste#Concocter des Potions\|potions]] |
+| 8 | +3 | 5 | 8d10 | 3 | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 9 | +4 | 6 | 9d10 | 4 | -- |
+| 10 | +4 | 6 | 10d10 | 4 | Aptitude de [[Alchimiste#Champ d'Études\|Champ d'études]] |
+| 11 | +4 | 7 | 11d10 | 4 | [[Alchimiste#Évasion\|Évasion]] |
+| 12 | +4 | 7 | 12d10 | 4 | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 13 | +5 | 8 | 13d10 | 5 | -- |
+| 14 | +5 | 8 | 14d10 | 5 | Amélioration de [[Alchimiste#Concocter des Potions\|potions]] |
+| 15 | +5 | 9 | 15d10 | 5 | [[Alchimiste#Protection contre les Explosions\|Protection contre les Explosions]] |
+| 16 | +5 | 9 | 16d10 | 5 | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 17 | +6 | 10 | 17d10 | 6 | -- |
+| 18 | +6 | 10 | 18d10 | 6 | Aptitude de [[Alchimiste#Champ d'Études\|Champ d'études]] |
+| 19 | +6 | 11 | 19d10 | 6 | [[Alchimiste#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] |
+| 20 | +6 | 11 | 20d10 | 6 | [[Alchimiste#Pierre Philosophale\|Pierre Philosophale]] |
 
 # Aptitudes de Classes
 
@@ -118,16 +118,16 @@ Même si tous les alchimistes partagent un socle commun de connaissances, la plu
 
 Une formule conférée par votre champ d'études ne compte pas dans votre limite de formules connues.
 
-| Champs d'Études       | Description                                                                       |
+| Champs d'Études | Description |
 | --------------------- | --------------------------------------------------------------------------------- |
-| [[Amoriste]]          | Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit           |
-| [[Apothicaire]]       | Soigneurs alchimistes et herboristes                                              |
-| [[Bombeur Fou]]       | Pyromanes qui apprécient particulièrement les bombes dévastatrices                |
-| [[Forgeron de Venin]] | Experts en poison et assassins                                                    |
-| [[Ingénieur Dynamo]]  | Lanceurs de sorts en les préparant dans des outils appelées dynamos               |
-| [[Mutagéniste]]       | Transforment leurs corps à l'aide de mutagènes injectés                           |
-| [[Slime-boy]]         | Élèvent et commandent toutes sortes de slimes et de vases                         |
-| [[Xénoalchimiste]]    | Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse |
+| [[Amoriste]] | Brasseur de potions d'amour et pratiquant d'alchimie affectant l'esprit |
+| [[Apothicaire]] | Soigneurs alchimistes et herboristes |
+| [[Bombeur Fou]] | Pyromanes qui apprécient particulièrement les bombes dévastatrices |
+| [[Forgeron de Venin]] | Experts en poison et assassins |
+| [[Ingénieur Dynamo]] | Lanceurs de sorts en les préparant dans des outils appelées dynamos |
+| [[Mutagéniste]] | Transforment leurs corps à l'aide de mutagènes injectés |
+| [[Slime-boy]] | Élèvent et commandent toutes sortes de slimes et de vases |
+| [[Xénoalchimiste]] | Modifient leurs corps et le corps des autres à l'aide d'une chirurgie monstrueuse |
 
 ## Réactifs
 
@@ -143,23 +143,23 @@ Vous pouvez dépenser 10 minutes et n'importe quel nombre de dés de réactifs p
 
 Le nombre de dés de réactifs et le niveau d'alchimiste requis pour concocter une potion donnée est donné dans la table des potions :
 
-| Potion                                    | Coût              | Niveau d'Alchimiste |
+| Potion | Coût | Niveau d'Alchimiste |
 | ----------------------------------------- | ----------------- | ------------------- |
-| [[Potion d'Escalade]]                     | 1 dé de réactifs  | 3                   |
-| [[Potion de Croissance]]                  | 1 dé de réactifs  | 3                   |
-| [[Potion de Soins]]                       | 1 dé de réactifs  | 3                   |
-| [[Potion de Respiration Aquatique]]       | 1 dé de réactifs  | 3                   |
-| [[Solvant Universel]]                     | 1 dé de réactifs  | 3                   |
-| [[Panacée]]                               | 2 dés de réactifs | 7                   |
-| [[Potion de Soins Majeurs]]               | 2 dés de réactifs | 7                   |
-| [[Potion d'Héroïsme]]                     | 2 dés de réactifs | 7                   |
-| [[Potion de Résistance]]                  | 2 dés de réactifs | 7                   |
-| [[Colle Universelle]]                     | 2 dés de réactifs | 7                   |
-| [[Potion de Rapetissement]]               | 3 dés de réactifs | 14                  |
-| [[Potion de Vol]]                         | 4 dés de réactifs | 14                  |
-| [[Potion de Force de Géant des Collines]] | 4 dés de réactifs | 14                  |
-| [[Potion d'Invisibilité]]                 | 4 dés de réactifs | 14                  |
-| [[Potion de Soins Supérieurs]]            | 4 dés de réactifs | 14                  |
+| [[Potion d'Escalade]] | 1 dé de réactifs | 3 |
+| [[Potion de Croissance]] | 1 dé de réactifs | 3 |
+| [[Potion de Soins]] | 1 dé de réactifs | 3 |
+| [[Potion de Respiration Aquatique]] | 1 dé de réactifs | 3 |
+| [[Solvant Universel]] | 1 dé de réactifs | 3 |
+| [[Panacée]] | 2 dés de réactifs | 7 |
+| [[Potion de Soins Majeurs]] | 2 dés de réactifs | 7 |
+| [[Potion d'Héroïsme]] | 2 dés de réactifs | 7 |
+| [[Potion de Résistance]] | 2 dés de réactifs | 7 |
+| [[Colle Universelle]] | 2 dés de réactifs | 7 |
+| [[Potion de Rapetissement]] | 3 dés de réactifs | 14 |
+| [[Potion de Vol]] | 4 dés de réactifs | 14 |
+| [[Potion de Force de Géant des Collines]] | 4 dés de réactifs | 14 |
+| [[Potion d'Invisibilité]] | 4 dés de réactifs | 14 |
+| [[Potion de Soins Supérieurs]] | 4 dés de réactifs | 14 |
 
 ### Synthèse de Réactifs
 Lorsque vous finissez un repos court, vous pouvez choisir de récupérer la totalité des dés de réactifs dépensés que vous n'avez pas utilisés pour concocter des potions. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.

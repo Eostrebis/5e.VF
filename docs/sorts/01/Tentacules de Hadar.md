@@ -1,7 +1,7 @@
 ---
 available:
-  - Occultiste
-  - Nécromancien
+ - Occultiste
+ - Nécromancien
 level: 1
 school: Conjuration
 Verbal: true

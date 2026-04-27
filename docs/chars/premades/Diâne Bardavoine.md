@@ -13,22 +13,22 @@ __Points de vie :__ 10
 
 __Vitesse :__ 40 ft.
 
-|  FOR   |   DEX   |   CON   |  INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :----: | :-----: | :-----: |
 | 7 (-2) | 11 (±0) | 14 (+2) | 7 (-2) | 12 (+1) | 16 (+3) |
-|  ◎ -2  |  ◉ +2   |  ◎ +2   |  ◎ -2  |  ◎ +1   |  ◉ +5   |
+| ◎ -2 | ◉ +2 | ◎ +2 | ◎ -2 | ◎ +1 | ◉ +5 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : -2  |
-| ◎ Arcanes (_Int_) : -2      | ◉ Médecine (_Sag_) : +3       |
-| ◎ Athlétisme (_For_) : -2   | ◉ Nature (_Int_) : ±0<br>     |
-| ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : +1     |
-| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : -2       |
-| ◎ Histoire (_Int_) : -2     | ◉ Représentation (_Cha_) : +5 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +1         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◉ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : -2 |
+| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
+| ◎ Athlétisme (_For_) : -2 | ◉ Nature (_Int_) : ±0<br> |
+| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : +1 |
+| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +3 |
+| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : -2 |
+| ◎ Histoire (_Int_) : -2 | ◉ Représentation (_Cha_) : +5 |
+| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +1 |
+| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Diâne, une centaure cantatrice à la voix divine et à l'esprit simple, qui a quitté sa vallée isolée pour un voyage optimiste (et très naïf) vers la grande ville afin de devenir une star de l'opéra.

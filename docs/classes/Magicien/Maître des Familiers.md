@@ -5,7 +5,7 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 ## Familier Amélioré
 
-À partir du moment où vous choisissez cette tradition arcanique au niveau 2, vous avez toujours le sort [[appel de familier]] préparé, et il ne compte pas parmi le nombre de sorts que vous pouvez préparer. De plus, vous pouvez lancer le sort pour une action, sans dépenser de composantes matérielles. Lorsque vous choisissez le type de créature de votre familier, vous pouvez choisir Aberration, Construction, Élémentaire ou Mort-Vivant en plus des options habituelles du sort.  
+À partir du moment où vous choisissez cette tradition arcanique au niveau 2, vous avez toujours le sort [[appel de familier]] préparé, et il ne compte pas parmi le nombre de sorts que vous pouvez préparer. De plus, vous pouvez lancer le sort pour une action, sans dépenser de composantes matérielles. Lorsque vous choisissez le type de créature de votre familier, vous pouvez choisir Aberration, Construction, Élémentaire ou Mort-Vivant en plus des options habituelles du sort. 
 
 ## Évolution Arcanique
 
@@ -17,7 +17,7 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 __Chauve-Souris.__ Vous pouvez utiliser une action bonus pendant votre tour pour gagner la vision aveugle sur une distance de 15 ft. tant que vous n'êtes pas [[assourdi]].
 
-__Chat.__ Lorsque vous atterrissez après un saut ou une chute, vous pouvez utiliser votre réaction pour nullifier les dégâts de chute.  
+__Chat.__ Lorsque vous atterrissez après un saut ou une chute, vous pouvez utiliser votre réaction pour nullifier les dégâts de chute. 
 
 __Crabe.__ Tant que vous ne portez pas d'armure, votre CA est égale à 12 + votre modificateur de Dextérité.
 

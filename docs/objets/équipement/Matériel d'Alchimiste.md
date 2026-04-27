@@ -15,10 +15,10 @@ Le matériel d'Alchimiste vous permet de concocter des potions utiles, comme de 
 
 __Fabrication Alchimique.__ Vous pouvez utiliser votre maîtrise de cet outil pour créer des objets alchimiques. Un personnage peut dépenser de l'argent pour obtenir des _matières premières_, qui pèsent 1 lb. par 50 po dépensé. Le MJ peut autoriser un personnage à réaliser un jet de la caractéristique associée avec avantage. Pendant un repos long, vous pouvez utiliser votre matériel d'alchimiste pour créer une dose d'[[Acide (fiole)|acide]], de [[Feu Grégeois (flasque)|feu grégeois]], d'[[antitoxine]], d'[[Huile (flasque)|huile]], de [[Parfum (fiole)|parfum]] ou de [[savon]]. Retirez la moitié de la valeur de l'objet créé de la valeur totale en po de vos matières premières.
 
-| Activité                        | DD  |
+| Activité | DD |
 | ------------------------------- | --- |
-| Créer un nuage de fumée épaisse | 10  |
-| Identifier un poison            | 10  |
-| Identifier une substance        | 15  |
-| Démarrer un feu                 | 15  |
-| Neutraliser un acide            | 20  |
+| Créer un nuage de fumée épaisse | 10 |
+| Identifier un poison | 10 |
+| Identifier une substance | 15 |
+| Démarrer un feu | 15 |
+| Neutraliser un acide | 20 |

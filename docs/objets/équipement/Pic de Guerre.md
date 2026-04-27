@@ -6,6 +6,6 @@ englishname: War Pick
 writing_status: finished
 ---
 
-| Dégâts       | Propriétés |
+| Dégâts | Propriétés |
 | ------------ | ---------- |
-| 1d8 perçants | --         |
+| 1d8 perçants | -- |

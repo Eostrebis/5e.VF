@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Sorcière
-  - Barde
-  - Magicien
+ - Investigateur
+ - Sorcière
+ - Barde
+ - Magicien
 level: 1
 school: Enchantement
 Verbal: true

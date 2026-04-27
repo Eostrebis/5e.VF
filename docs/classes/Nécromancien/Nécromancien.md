@@ -34,29 +34,29 @@ Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Comme
 
 ### Table du Nécromancien
 
-| **Le Nécromancien** |                   |                      |                                           |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
+| **Le Nécromancien** | | | | | | Emplacements de Sorts | | | | | | | | |
 | ------------------- | ----------------- | -------------------- | ----------------------------------------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Aptitudes                                 | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| 1                   | +2                | --                   | [[#Incantation]], [[#Toucher Charnel]]    | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 2                   | +2                | 1/4                  | [[#Thralls]], [[#Sac d'Os]]               | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 3                   | +2                | 1/2                  | [[#Ambition Tombale]], [[#Arcane Noire]]  | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
-| 4                   | +2                | 1/2                  | [[#Augmentation de Caractéristiques]]     | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
-| 5                   | +3                | 1                    | [[#Incantation Critique]]                 | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
-| 6                   | +3                | 1                    | Aptitude de [[#Ambition Tombale]]         | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
-| 7                   | +3                | 1                    | [[#Présence Captivante]]                  | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
-| 8                   | +3                | 1                    | [[#Augmentation de Caractéristiques]]     | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
-| 9                   | +4                | 2                    | --                                        | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
-| 10                  | +4                | 2                    | Compétence de [[#Ambition Tombale]]       | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
-| 11                  | +4                | 2                    | --                                        | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 12                  | +4                | 2                    | [[#Augmentation de Caractéristiques]]     | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 13                  | +5                | 3                    | --                                        | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 14                  | +5                | 3                    | Amélioration de [[#Incantation Critique]] | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 15                  | +5                | 3                    | --                                        | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 16                  | +5                | 3                    | [[#Augmentation de Caractéristiques]]     | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 17                  | +6                | 4                    | --                                        | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18                  | +6                | 4                    | [[#Servitude Immortelle]]                 | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19                  | +6                | 4                    | [[#Augmentation de Caractéristiques]]     | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20                  | +6                | 4                    | [[#Liche]]                                | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Niveau | Bonus de Maîtrise | FP Total des Thralls | Aptitudes | Cantrips connus | Sorts Connus | Niveau 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 1 | +2 | -- | [[#Incantation]], [[#Toucher Charnel]] | 4 | 2 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2 | +2 | 1/4 | [[#Thralls]], [[#Sac d'Os]] | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3 | +2 | 1/2 | [[#Ambition Tombale]], [[#Arcane Noire]] | 4 | 4 | 4 | 2 | -- | -- | -- | -- | -- | -- | -- |
+| 4 | +2 | 1/2 | [[#Augmentation de Caractéristiques]] | 5 | 5 | 4 | 3 | -- | -- | -- | -- | -- | -- | -- |
+| 5 | +3 | 1 | [[#Incantation Critique]] | 5 | 6 | 4 | 3 | 2 | -- | -- | -- | -- | -- | -- |
+| 6 | +3 | 1 | Aptitude de [[#Ambition Tombale]] | 5 | 7 | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- |
+| 7 | +3 | 1 | [[#Présence Captivante]] | 5 | 8 | 4 | 3 | 3 | 1 | -- | -- | -- | -- | -- |
+| 8 | +3 | 1 | [[#Augmentation de Caractéristiques]] | 5 | 9 | 4 | 3 | 3 | 2 | -- | -- | -- | -- | -- |
+| 9 | +4 | 2 | -- | 5 | 10 | 4 | 3 | 3 | 3 | 1 | -- | -- | -- | -- |
+| 10 | +4 | 2 | Compétence de [[#Ambition Tombale]] | 6 | 11 | 4 | 3 | 3 | 3 | 2 | -- | -- | -- | -- |
+| 11 | +4 | 2 | -- | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 12 | +4 | 2 | [[#Augmentation de Caractéristiques]] | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 13 | +5 | 3 | -- | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 14 | +5 | 3 | Amélioration de [[#Incantation Critique]] | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 15 | +5 | 3 | -- | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 16 | +5 | 3 | [[#Augmentation de Caractéristiques]] | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 17 | +6 | 4 | -- | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | 4 | [[#Servitude Immortelle]] | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | 4 | [[#Augmentation de Caractéristiques]] | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | 4 | [[#Liche]] | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 # Aptitudes de Classes
 
@@ -174,16 +174,16 @@ Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ e
 
 Lorsque vous atteignez le niveau 3, vous choisissez un plan de recherche des arts sombres afin d'entrevoir une route vers votre objectif ultime. Choisissez une ambition tombale. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 20.
 
-| Ambition Tombale         | Description                                                                                           |
+| Ambition Tombale | Description |
 | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| [[Descendant du Sang]]   | Au pouvoir de sang vampirique, sans la myriade de faiblesses vampiriques                              |
+| [[Descendant du Sang]] | Au pouvoir de sang vampirique, sans la myriade de faiblesses vampiriques |
 | [[Chevalier de la Mort]] | Protégé dans son armure, un terrible guerrier brandissant les énergies sombres et les armes martiales |
-| [[Seigneur Suprême]]     | Un manipulateur sinistre soutenu par de puissants alliés                                              |
-| [[Maître Pâle]]          | Porte importance à la forme la plus pure de nécromancie et brandit des sorts dévastateurs             |
-| [[Pharaon]]              | Un souvenir des anciens dieux-rois, autant un prêtre qu'un nécromancien                               |
-| [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs                        |
-| [[Réanimateur]]          | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants                  |
-| [[Faucheur]]             | Une ombre furtive de mort, qui annonce et apporte les disparitions                                    |
+| [[Seigneur Suprême]] | Un manipulateur sinistre soutenu par de puissants alliés |
+| [[Maître Pâle]] | Porte importance à la forme la plus pure de nécromancie et brandit des sorts dévastateurs |
+| [[Pharaon]] | Un souvenir des anciens dieux-rois, autant un prêtre qu'un nécromancien |
+| [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs |
+| [[Réanimateur]] | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants |
+| [[Faucheur]] | Une ombre furtive de mort, qui annonce et apporte les disparitions |
 
 ## Arcane Noire
 

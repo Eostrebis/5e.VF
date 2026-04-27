@@ -18,13 +18,13 @@ Les hérétiques peuvent embrasser n'importe quelle vérité fondamentale qui re
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                           |
+| Niveau de Paladin | Sorts |
 | ----------------- | --------------------------------------------------------------- |
-| 3                 | [[Écriture illusoire]], [[protection contre le mal et le bien]] |
-| 5                 | [[Arme magique]], [[zone de vérité]]                            |
-| 9                 | [[Dissipation de la magie]], [[communication avec les morts]]   |
-| 13                | [[Bannissement]], [[sanctuaire privé]]                          |
-| 17                | [[Dissipation du mal et du bien]], [[mythes et légendes]]       |
+| 3 | [[Écriture illusoire]], [[protection contre le mal et le bien]] |
+| 5 | [[Arme magique]], [[zone de vérité]] |
+| 9 | [[Dissipation de la magie]], [[communication avec les morts]] |
+| 13 | [[Bannissement]], [[sanctuaire privé]] |
+| 17 | [[Dissipation du mal et du bien]], [[mythes et légendes]] |
 
 ## Canal Divin
 

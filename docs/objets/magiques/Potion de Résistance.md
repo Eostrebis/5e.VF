@@ -9,14 +9,14 @@ Lorsque vous buvez cette potion, vous gagnez la résistance à un type de dégâ
 
 | d10 | Type de Dégâts |
 |:---:|:--------------:|
-|  1  |     Acide      |
-|  2  |     Froid      |
-|  3  |      Feu       |
-|  4  |     Force      |
-|  5  |     Foudre     |
-|  6  |   Nécrotique   |
-|  7  |     Poison     |
-|  8  |   Psychique    |
-|  9  |    Radiant     |
-| 10  |    Tonnerre    |
+| 1 | Acide |
+| 2 | Froid |
+| 3 | Feu |
+| 4 | Force |
+| 5 | Foudre |
+| 6 | Nécrotique |
+| 7 | Poison |
+| 8 | Psychique |
+| 9 | Radiant |
+| 10 | Tonnerre |
 

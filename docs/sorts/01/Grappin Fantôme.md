@@ -1,7 +1,7 @@
 ---
 available:
-  - Mage de Guerre
-  - Artificier
+ - Mage de Guerre
+ - Artificier
 level: 1
 school: Évocation
 Verbal: true

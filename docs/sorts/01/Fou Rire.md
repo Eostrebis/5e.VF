@@ -1,8 +1,8 @@
 ---
 available:
-  - Barde
-  - Magicien
-  - Sorcière
+ - Barde
+ - Magicien
+ - Sorcière
 level: 1
 school: Enchantement
 Verbal: true

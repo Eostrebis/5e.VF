@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Artificier
-  - Nécromancien
-  - Sorcière
+ - Magicien
+ - Artificier
+ - Nécromancien
+ - Sorcière
 level: 4
 school: Divination
 Verbal: true

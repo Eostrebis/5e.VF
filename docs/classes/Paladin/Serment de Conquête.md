@@ -18,13 +18,13 @@ Certains de ces paladins vont jusqu’à frayer avec les puissances des Neuf Enf
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                |
+| Niveau de Paladin | Sorts |
 | ----------------- | ---------------------------------------------------- |
-| 3                 | [[Armure d'Agathys]], [[injonction]]                 |
-| 5                 | [[Immobilisation de personne]], [[arme spirituelle]] |
-| 9                 | [[Malédiction persistante]], [[Terreur]]                |
-| 13                | [[Domination de bête]], [[peau de pierre]]           |
-| 17                | [[Brume mortelle]], [[domination de personne]]       |
+| 3 | [[Armure d'Agathys]], [[injonction]] |
+| 5 | [[Immobilisation de personne]], [[arme spirituelle]] |
+| 9 | [[Malédiction persistante]], [[Terreur]] |
+| 13 | [[Domination de bête]], [[peau de pierre]] |
+| 17 | [[Brume mortelle]], [[domination de personne]] |
 
 ## Canal Divin
 
@@ -55,4 +55,4 @@ Au niveau 20, vous gagnez la capacité de manier d'extraordinaires pouvoirs mart
  - Vos attaques armées de mêlée infligent des coups critiques sur un jet de 19 ou 20 sur le dé.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
-  
+ 

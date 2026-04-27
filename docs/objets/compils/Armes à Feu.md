@@ -17,16 +17,16 @@ Lorsque vous combattez en utilisant deux armes à feu légères, vous retirez 2 
 
 Toutes les armes à feu requièrent des munitions particulières. La plupart utilisent des balles, mais d'autres demandent des projectiles plus spécifiques encore. La munition d'une arme à feu est détruite après usage.
 
-| Munition                    | Coût | Poids |
+| Munition | Coût | Poids |
 | --------------------------- | ---- | ----- |
-| [[Tirs de Tromblon (10)]]   | 1    | 2     |
-| [[Balles (10)]]             | 2    | 2     |
-| [[Boulet de Canon]]          | 5    | 10    |
-| [[Balle de Dragon]]         | 1    | --    |
-| [[Grenade]]                 | 5    | 3     |
-| [[Harpon]]                  | 5    | 4     |
-| [[Balles de Mousquet (10)]] | 1    | 2     |
-| [[Roquette]]                  | 20   | 6     |
-| [[Cartouches (10)]]         | 5    | 2     |
+| [[Tirs de Tromblon (10)]] | 1 | 2 |
+| [[Balles (10)]] | 2 | 2 |
+| [[Boulet de Canon]] | 5 | 10 |
+| [[Balle de Dragon]] | 1 | -- |
+| [[Grenade]] | 5 | 3 |
+| [[Harpon]] | 5 | 4 |
+| [[Balles de Mousquet (10)]] | 1 | 2 |
+| [[Roquette]] | 20 | 6 |
+| [[Cartouches (10)]] | 5 | 2 |
 
 Il existe trois types d'armes à feu : les [[armes à feu simples]], les [[armes à feu martiales]] et les [[armes à feu exotiques]].

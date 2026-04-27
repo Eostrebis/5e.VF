@@ -13,29 +13,29 @@ Ce qui définit un dhampir par-dessus tout, c'est la Faim. Ce n'est pas toujours
 
 Ceux qui se laissent trop aller à cette faim risquent de perdre le contrôle et de ne voir les autres plus que comme des proies. Inversement, ceux qui souhaitent y résister nécessitent de véritables prouesses pour contrôler leurs pulsions ou les réprimer constamment par un contrôle de soi permanent. Bien que la plupart des dhampirs aient soif de sang, votre personnage peut arriver à satiété différemment. Tirez ou choisissez une option parmi la table ci-dessous pour déterminer la tentation que subit votre personnage.
 
-| d6  | Faim                      |
+| d6 | Faim |
 | --- | ------------------------- |
-| 1   | Sang                      |
-| 2   | Chair ou viande crue      |
-| 3   | Liquide céphalo-rachidien |
-| 4   | Énergie psychique         |
-| 5   | Rêves                     |
-| 6   | Énergie vitale            |
+| 1 | Sang |
+| 2 | Chair ou viande crue |
+| 3 | Liquide céphalo-rachidien |
+| 4 | Énergie psychique |
+| 5 | Rêves |
+| 6 | Énergie vitale |
 
 #### Origine des Dhampirs
 
 Les dhampirs sont souvent issus de rencontres avec des vampires, mais toutes sortes de pactes macabres, d'influences nécromantiques et de rencontres avec de mystérieux immortels ont pu transformer votre personnage. La table ci-dessous propose des pistes sur la façon dont votre personnage a acquis son lignage.
 
-| d8  | Origine                                                                                                       |
+| d8 | Origine |
 | --- | ------------------------------------------------------------------------------------------------------------- |
-| 1   | Vous êtes la réincarnation d'un ancêtre qui était un tyran vampire.                                           |
-| 2   | Votre pacte avec une déité prédatrice, un fiélon, une fée ou un esprit vous fait partager sa faim.            |
-| 3   | Vous avez survécu à l'attaque d'un vampire mais en êtes ressorti changé.                                      |
-| 4   | Un parasite vit en vous. Vous ne faites que satisfaire sa faim.                                               |
-| 5   | Une tragédie a interrompu votre transformation en un immortel.                                                |
-| 6   | Vous êtes une forme affaiblie d'une entité d'un autre monde. Assouvir votre faim accélère votre récupération. |
-| 7   | Un de vos parents était un vampire.                                                                           |
-| 8   | Une expérience a radicalement changé votre corps, vous rendant dépendant des autres pour les fluides vitaux.  |
+| 1 | Vous êtes la réincarnation d'un ancêtre qui était un tyran vampire. |
+| 2 | Votre pacte avec une déité prédatrice, un fiélon, une fée ou un esprit vous fait partager sa faim. |
+| 3 | Vous avez survécu à l'attaque d'un vampire mais en êtes ressorti changé. |
+| 4 | Un parasite vit en vous. Vous ne faites que satisfaire sa faim. |
+| 5 | Une tragédie a interrompu votre transformation en un immortel. |
+| 6 | Vous êtes une forme affaiblie d'une entité d'un autre monde. Assouvir votre faim accélère votre récupération. |
+| 7 | Un de vos parents était un vampire. |
+| 8 | Une expérience a radicalement changé votre corps, vous rendant dépendant des autres pour les fluides vitaux. |
 
 ### Culture
 

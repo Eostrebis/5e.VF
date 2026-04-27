@@ -6,7 +6,7 @@ englishname: Bayonet
 writing_status: empty
 ---
 
-| Dégâts       | Propriétés              |
+| Dégâts | Propriétés |
 | ------------ | ----------------------- |
 | 1d4 perçants | Finesse, Léger, Spécial |
 

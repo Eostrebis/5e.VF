@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Druide
+ - Magicien
+ - Ensorceleur
+ - Druide
 level: 1
 school: Transmutation
 Verbal: true

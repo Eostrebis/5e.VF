@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Artificier
-  - Nécromancien
+ - Magicien
+ - Artificier
+ - Nécromancien
 level: 1
 school: Conjuration
 Verbal: true

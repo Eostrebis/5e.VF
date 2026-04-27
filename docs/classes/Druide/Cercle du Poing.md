@@ -18,9 +18,9 @@ Au niveau 2, vous vous battez avec la vigueur d'une bête sauvage. Tant que vous
 
 | Niveau de Druide | Dé de Dégâts |
 | ---------------- | ------------ |
-| 2                | 1d4          |
-| 5                | 1d6          |
-| 11               | 1d8          |
+| 2 | 1d4 |
+| 5 | 1d6 |
+| 11 | 1d8 |
 
 ## Infusion Primale
 

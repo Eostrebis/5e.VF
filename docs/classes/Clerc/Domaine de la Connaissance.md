@@ -5,13 +5,13 @@ Les dieux de la connaissance valorisent l'apprentissage et la compréhension au-
 
 **Sorts du Domaine de la Connaissance.**
 
-| Niveau de Clerc | Sorts                                               |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------- |
-| 1               | [[Injonction]], [[identification]]                  |
-| 3               | [[Augure]], [[suggestion]]                          |
-| 5               | [[Antidétection]], [[communication avec les morts]] |
-| 7               | [[Œil Magique]], [[confusion]]                      |
-| 9               | [[Mythes et légendes]], [[scrutation]]              |
+| 1 | [[Injonction]], [[identification]] |
+| 3 | [[Augure]], [[suggestion]] |
+| 5 | [[Antidétection]], [[communication avec les morts]] |
+| 7 | [[Œil Magique]], [[confusion]] |
+| 9 | [[Mythes et légendes]], [[scrutation]] |
 ## Bénédiction du Savoir
 
 Au niveau 1, vous apprenez deux langues de votre choix. Vous maîtrisez également deux compétences parmi les suivantes : Arcane, Histoire, Nature et Religion.

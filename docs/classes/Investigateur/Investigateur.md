@@ -33,29 +33,29 @@ Est-ce que vous avez appris auprès d'un chasseur de monstres expérimentés, ap
 
 Vous pouvez créer un Investigateur rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Dextérité ou de la Force. Ensuite, choisissez les rituels [[Indice]], [[Compréhension des Langues]], [[Détection de la Magie]] et [[Rempart Éphémère]]. Choisissez l'historique de votre choix.
 
-| **Le Investigateur** |                   |                                                         |                  |
+| **Le Investigateur** | | | |
 | -------------------- | ----------------- | ------------------------------------------------------- | ---------------- |
-| Niveau               | Bonus de Maîtrise | Aptitudes                                               | Niveau de Rituel |
-| 1                    | +2                | [[#Expertise]], [[#Ritualiste]]                         | 1                |
-| 2                    | +2                | [[#Mythes et Légendes]], [[#Incantation Pressée]]       | 1                |
-| 3                    | +2                | [[#Spécialisation Occulte]]                             | 2                |
-| 4                    | +2                | [[#Augmentation de Caractéristiques]]                   | 2                |
-| 5                    | +3                | [[#Exploitation des Faiblesses]]                        | 3                |
-| 6                    | +3                | [[#Expertise]], aptitude de [[#Spécialisation Occulte]] | 3                |
-| 7                    | +3                | [[#Piété Opportuniste]]                                 | 4                |
-| 8                    | +3                | [[#Augmentation de Caractéristiques]]                   | 4                |
-| 9                    | +4                | [[#Motivation Surnaturelle]]                            | 5                |
-| 10                   | +4                | Aptitude de [[#Spécialisation Occulte]]                 | 5                |
-| 11                   | +4                | [[#Bourreau]]                                           | 6                |
-| 12                   | +4                | [[#Augmentation de Caractéristiques]]                   | 6                |
-| 13                   | +5                | [[#Énigme Arcanique]]                                   | 6                |
-| 14                   | +5                | Aptitude de [[#Spécialisation Occulte]]                 | 6                |
-| 15                   | +5                | Amélioration de [[#Énigme Arcanique]]                   | 6                |
-| 16                   | +5                | [[#Augmentation de Caractéristiques]]                   | 6                |
-| 17                   | +6                | Amélioration de [[#Énigme Arcanique]]                   | 6                |
-| 18                   | +6                | [[#Exorciste]]                                          | 6                |
-| 19                   | +6                | [[#Augmentation de Caractéristiques]]                   | 6                |
-| 20                   | +6                | [[#Ligateur de sort]]                                   | 6                |
+| Niveau | Bonus de Maîtrise | Aptitudes | Niveau de Rituel |
+| 1 | +2 | [[#Expertise]], [[#Ritualiste]] | 1 |
+| 2 | +2 | [[#Mythes et Légendes]], [[#Incantation Pressée]] | 1 |
+| 3 | +2 | [[#Spécialisation Occulte]] | 2 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 2 |
+| 5 | +3 | [[#Exploitation des Faiblesses]] | 3 |
+| 6 | +3 | [[#Expertise]], aptitude de [[#Spécialisation Occulte]] | 3 |
+| 7 | +3 | [[#Piété Opportuniste]] | 4 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 4 |
+| 9 | +4 | [[#Motivation Surnaturelle]] | 5 |
+| 10 | +4 | Aptitude de [[#Spécialisation Occulte]] | 5 |
+| 11 | +4 | [[#Bourreau]] | 6 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 6 |
+| 13 | +5 | [[#Énigme Arcanique]] | 6 |
+| 14 | +5 | Aptitude de [[#Spécialisation Occulte]] | 6 |
+| 15 | +5 | Amélioration de [[#Énigme Arcanique]] | 6 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 6 |
+| 17 | +6 | Amélioration de [[#Énigme Arcanique]] | 6 |
+| 18 | +6 | [[#Exorciste]] | 6 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 6 |
+| 20 | +6 | [[#Ligateur de sort]] | 6 |
 
 # Aptitudes de Classes
 

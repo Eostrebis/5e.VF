@@ -3,7 +3,7 @@ writing_status: finished
 ---
 ### Description
 
-Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux empreints d'une beauté éthérée,  au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 
+Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux empreints d'une beauté éthérée, au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 
 
 ![[Elfe.png]]
 
@@ -23,15 +23,15 @@ Tout comme les branches d'un jeune arbre, les elfes sont flexibles devant le dan
 
 De par différents conflits et/ou décisions passées, le peuple elfe est divisé en sous-races : 
 
-| Sous-race                             | Description                                                |
+| Sous-race | Description |
 | ------------------------------------- | ---------------------------------------------------------- |
-| [[Elfe#Haut-elfe\|Haut-Elfe]]         | _Noblesse_ elfe, habiles en magie                          |
-| [[Elfe#Elfe des bois\|Elfe des bois]] | _Plèbe_ elfe, voyageurs et en communion avec la nature     |
-| [[Elfe#Drow\|Drow]]                   | Elfes noirs, habitants de l'Outreterre                     |
-| [[Elfe#Eladrin\|Eladrin]]             | Elfes _féériques_, originairse de la Féerie                |
-| [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt                         |
-| [[Elfe#Shadar-kai\|Shadar-kai]]       | Elfes des ombres                                           |
-| [[Elfe#Elfe Astral\|Elfe Astral]]     | Elfes ayant quitté les plans matériels pour le Plan Astral |
+| [[Elfe#Haut-elfe\|Haut-Elfe]] | _Noblesse_ elfe, habiles en magie |
+| [[Elfe#Elfe des bois\|Elfe des bois]] | _Plèbe_ elfe, voyageurs et en communion avec la nature |
+| [[Elfe#Drow\|Drow]] | Elfes noirs, habitants de l'Outreterre |
+| [[Elfe#Eladrin\|Eladrin]] | Elfes _féériques_, originairse de la Féerie |
+| [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt |
+| [[Elfe#Shadar-kai\|Shadar-kai]] | Elfes des ombres |
+| [[Elfe#Elfe Astral\|Elfe Astral]] | Elfes ayant quitté les plans matériels pour le Plan Astral |
 
 ### Culture
 
@@ -67,7 +67,7 @@ Lorsqu'il déclare l'âge adulte, un elfe choisit un nom d'adulte, bien que ceux
 
 En tant que haut-elfe, vous avez un esprit vif et une maîtrise d'au moins les bases de la magie. Il y a deux sortes de haut-elfe. Certains sont hautains et reclus, se croyant supérieurs aux non-elfes et même aux autres elfes. On les appelle les elfes du soleil. Les autres sont plus communs et plus respectueux, et souvent rencontrés parmi les humains et d'autres races. Ceux-là sont connus comme les elfes de la lune.
 
-Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, ou doré. Leurs yeux sont d'or, d'argent ou noirs. Les elfes de la lune sont beaucoup plus pâles,  avec une peau albâtre parfois teintée de bleu. Ils ont souvent des cheveux blanc-argentés, mais des chevelures plutôt blondes, châtaines, et même rousses ne sont pas rares. Leurs yeux sont bleus ou verts, parsemés d'or.
+Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, ou doré. Leurs yeux sont d'or, d'argent ou noirs. Les elfes de la lune sont beaucoup plus pâles, avec une peau albâtre parfois teintée de bleu. Ils ont souvent des cheveux blanc-argentés, mais des chevelures plutôt blondes, châtaines, et même rousses ne sont pas rares. Leurs yeux sont bleus ou verts, parsemés d'or.
 
 ![[high_elf.png]]
 
@@ -180,12 +180,12 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
 #### Saisons Eladrin
 
-| d4  | Saison                                                                                           |
+| d4 | Saison |
 | --- | ------------------------------------------------------------------------------------------------ |
-| 1   | **Automne :** paix et volonté, lorsque la récolte de l'été est partagée avec tous                |
-| 2   | **Hiver :** contemplation et candeur, lorsque l'énergie vibrante du monde s'endort               |
-| 3   | **Printemps :** joie et fête, marquée par la gaieté et l'espoir que la morosité de l'hiver passe |
-| 4   | **Été :** audace et agression, un moment d'énergie sans limite et d'action                       |
+| 1 | **Automne :** paix et volonté, lorsque la récolte de l'été est partagée avec tous |
+| 2 | **Hiver :** contemplation et candeur, lorsque l'énergie vibrante du monde s'endort |
+| 3 | **Printemps :** joie et fête, marquée par la gaieté et l'espoir que la morosité de l'hiver passe |
+| 4 | **Été :** audace et agression, un moment d'énergie sans limite et d'action |
 
 
 ![[Eladrin.png]]
@@ -220,7 +220,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
  - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. Elle doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
  
  - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature consentante et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft.
-  
+ 
  - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. de vous prend des dégâts de feu égaux à votre bonus de maîtrise. 
 
 ## Elfe des mers

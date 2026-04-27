@@ -1,7 +1,7 @@
 ---
 available:
-  - Artificier
-  - Magicien
+ - Artificier
+ - Magicien
 level: 2
 school: Abjuration
 Verbal: true

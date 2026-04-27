@@ -18,7 +18,7 @@ Le montant des dégâts supplémentaires que vous infligez augmente de 1d6 par v
 Vous pouvez prendre l'action Désengager, Foncer ou Cacher pour une action bonus. Vous pouvez utiliser cette aptitude deux fois et regagnez toutes les utilisations lorsque vous terminez un repos.
 
 ## Trait : Marque de Im'Cieux
-Tant que vous êtes lié à Im'Cieux, votre peau devient marquée avec une multitude d'anciens symboles et runes qui atténuent magiquement le bruit de vos mouvements. Vous n'obtenez pas le désavantage à vos jets de Dextérité (Discrétion) comme résultat du port d'une armure. De  plus, si vous réalisez un jet de Dextérité (Discrétion), vous pouvez traiter le résultat comme un 10, ou votre niveau de ligateur + votre modificateur de Charisme.
+Tant que vous êtes lié à Im'Cieux, votre peau devient marquée avec une multitude d'anciens symboles et runes qui atténuent magiquement le bruit de vos mouvements. Vous n'obtenez pas le désavantage à vos jets de Dextérité (Discrétion) comme résultat du port d'une armure. De plus, si vous réalisez un jet de Dextérité (Discrétion), vous pouvez traiter le résultat comme un 10, ou votre niveau de ligateur + votre modificateur de Charisme.
 
 ## Faille
 Tant que vous êtes lié à ce vestige, vous obtenez la faille suivante : "Ma curiosité prend le dessus sur tout."

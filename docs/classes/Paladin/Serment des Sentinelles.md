@@ -19,13 +19,13 @@ Les paladins qui suivent le serment des Sentinelles sont constamment vigilants p
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                         |
+| Niveau de Paladin | Sorts |
 | ----------------- | --------------------------------------------- |
-| 3                 | [[Alarme]], [[détection de la magie]]         |
-| 5                 | [[Rayon lunaire]], [[vision de l'invisible]]  |
-| 9                 | [[Contresort]], [[antidétection]]             |
-| 13                | [[Aura de pureté]], [[bannissement]]          |
-| 17                | [[Immobilisation de monstre]], [[scrutation]] |
+| 3 | [[Alarme]], [[détection de la magie]] |
+| 5 | [[Rayon lunaire]], [[vision de l'invisible]] |
+| 9 | [[Contresort]], [[antidétection]] |
+| 13 | [[Aura de pureté]], [[bannissement]] |
+| 17 | [[Immobilisation de monstre]], [[scrutation]] |
 
 ## Canal Divin
 

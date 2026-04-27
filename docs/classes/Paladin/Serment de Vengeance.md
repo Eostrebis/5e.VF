@@ -19,13 +19,13 @@ Le Serment de Vengeance est un engagement solennel à punir ceux qui ont commis 
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                           |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------------- |
-| 3                 | [[Fléau]], [[marque du chasseur]]               |
-| 5                 | [[Immobilisation de personne]], [[pas brumeux]] |
-| 9                 | [[Célérité]], [[protection contre une énergie]] |
-| 13                | [[Bannissement]], [[porte dimensionnelle]]      |
-| 17                | [[Immobilisation de monstre]], [[scrutation]]   |
+| 3 | [[Fléau]], [[marque du chasseur]] |
+| 5 | [[Immobilisation de personne]], [[pas brumeux]] |
+| 9 | [[Célérité]], [[protection contre une énergie]] |
+| 13 | [[Bannissement]], [[porte dimensionnelle]] |
+| 17 | [[Immobilisation de monstre]], [[scrutation]] |
 
 ## Canal Divin
 

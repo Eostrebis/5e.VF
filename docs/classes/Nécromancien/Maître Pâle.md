@@ -9,13 +9,13 @@ C'est là l'exemple parfait d'un petit secret sur les nécromanciens : ils se ha
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                     |
+| Niveau de Sort | Sorts |
 | -------------- | ----------------------------------------- |
-| 1              | [[Exhumation]], [[blessure]]              |
-| 2              | [[Invisibilité]], [[rayon affaiblissant]] |
-| 3              | [[Animation des morts]], [[Terreur]]         |
-| 4              | [[Tentacules Noirs]], [[flétrissement]]  |
-| 5              | [[Brume mortelle]], [[scrutation]]        |
+| 1 | [[Exhumation]], [[blessure]] |
+| 2 | [[Invisibilité]], [[rayon affaiblissant]] |
+| 3 | [[Animation des morts]], [[Terreur]] |
+| 4 | [[Tentacules Noirs]], [[flétrissement]] |
+| 5 | [[Brume mortelle]], [[scrutation]] |
 
 ## Renforcement Charnel
 

@@ -1,6 +1,6 @@
 ---
 available:
-  - Nécromancien
+ - Nécromancien
 level: 8
 school: Conjuration
 Verbal: true

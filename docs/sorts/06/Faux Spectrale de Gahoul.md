@@ -1,6 +1,6 @@
 ---
 available:
-  - Nécromancien
+ - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true

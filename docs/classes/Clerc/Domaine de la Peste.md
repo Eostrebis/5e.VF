@@ -5,28 +5,28 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 **Sorts du Domaine de la Peste**
 
-| Niveau de Clerc | Sorts                                                        |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------------------ |
-| 1               | [[Fléau]], [[Détection du Poison et des Maladies]]           |
-| 3               | [[Cécité ou Surdité]], [[rayon affaiblissant]]               |
-| 5               | [[Malédiction Persistante]], [[délivrance des malédictions]] |
-| 7               | [[Flétrissement]], [[confusion]]                             |
-| 9               | [[Contagion]], [[fléau d'insectes]]                          |
+| 1 | [[Fléau]], [[Détection du Poison et des Maladies]] |
+| 3 | [[Cécité ou Surdité]], [[rayon affaiblissant]] |
+| 5 | [[Malédiction Persistante]], [[délivrance des malédictions]] |
+| 7 | [[Flétrissement]], [[confusion]] |
+| 9 | [[Contagion]], [[fléau d'insectes]] |
 
 ## Porteur Sain
 
 À partir du niveau 1, vous êtes immunisé contre les maladies et la condition [[empoisonné]]. De plus, choisissez l'un des symptômes persistants suivants, qui vous affecte : 
 
-| d8  | Symptôme                                                                                          |
+| d8 | Symptôme |
 | --- | ------------------------------------------------------------------------------------------------- |
-| 1   | Vous êtes toujours accompagné d'une toux forte et grasse                                          |
-| 2   | Un de vos membres est noirci et atrophié, même si fonctionnel                                     |
-| 3   | Le blanc et l'iris d'un ou de vos deux yeux sont complètement rouges et injectés de sang          |
-| 4   | Des frissons vous viennent en permanence, allant de légers tremblements à d'intenses convulsions |
-| 5   | Un nombre conséquent de tumeurs et de kystes déforment votre corps et votre dos                   |
-| 6   | Votre peau est couverte de furoncles et de plaies                                                 |
-| 7   | Votre corps est horriblement décharné                                                             |
-| 8   | Toujours fiévreux, votre peau est chaude et couverte de sueur                                     |
+| 1 | Vous êtes toujours accompagné d'une toux forte et grasse |
+| 2 | Un de vos membres est noirci et atrophié, même si fonctionnel |
+| 3 | Le blanc et l'iris d'un ou de vos deux yeux sont complètement rouges et injectés de sang |
+| 4 | Des frissons vous viennent en permanence, allant de légers tremblements à d'intenses convulsions |
+| 5 | Un nombre conséquent de tumeurs et de kystes déforment votre corps et votre dos |
+| 6 | Votre peau est couverte de furoncles et de plaies |
+| 7 | Votre corps est horriblement décharné |
+| 8 | Toujours fiévreux, votre peau est chaude et couverte de sueur |
 
 ## Maîtrise Supplémentaire
 

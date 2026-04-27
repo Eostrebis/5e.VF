@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Nécromancien
-  - Sorcière
+ - Clerc
+ - Nécromancien
+ - Sorcière
 level: 0
 school: Nécromancie
 Verbal: false

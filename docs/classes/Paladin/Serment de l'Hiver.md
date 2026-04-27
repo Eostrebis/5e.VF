@@ -16,13 +16,13 @@ Le Serment de l'Hiver était à l'origine un pacte conclu avec une ancienne enti
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                             |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------- |
-| 3                 | [[Création ou destruction d'eau]], [[brouillard]] |
-| 5                 | [[Immobilisation de personne]], [[fracassement]]  |
-| 9                 | [[Tempête de neige]], [[lenteur]]                 |
-| 13                | [[Bouclier de feu]], [[tempête de grêle]]         |
-| 17                | [[Cône de froid]], [[immobilisation de monstre]]  |
+| 3 | [[Création ou destruction d'eau]], [[brouillard]] |
+| 5 | [[Immobilisation de personne]], [[fracassement]] |
+| 9 | [[Tempête de neige]], [[lenteur]] |
+| 13 | [[Bouclier de feu]], [[tempête de grêle]] |
+| 17 | [[Cône de froid]], [[immobilisation de monstre]] |
 
 ## Canal Divin
 

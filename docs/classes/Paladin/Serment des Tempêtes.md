@@ -19,13 +19,13 @@ Le Serment des Tempêtes appelle les paladins vers les embruns salés et les mer
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                       |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------------------------- |
-| 3                 | [[Brouillard]], [[vague tonnante]]                          |
-| 5                 | [[Saute de vent]], [[immobilisation de personne]]           |
-| 9                 | [[Appel de la foudre]], [[mur de vent]]                     |
-| 13                | [[Contrôle de l'eau]], [[tempête de grêle]]                 |
-| 17                | [[Communion avec la Nature]], [[immobilisation de monstre]] |
+| 3 | [[Brouillard]], [[vague tonnante]] |
+| 5 | [[Saute de vent]], [[immobilisation de personne]] |
+| 9 | [[Appel de la foudre]], [[mur de vent]] |
+| 13 | [[Contrôle de l'eau]], [[tempête de grêle]] |
+| 17 | [[Communion avec la Nature]], [[immobilisation de monstre]] |
 
 ## Canal Divin
 

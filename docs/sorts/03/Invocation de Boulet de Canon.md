@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
+ - Magicien
+ - Ensorceleur
 level: 3
 school: Conjuration
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Conjure Cannonball
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 ---
 Vous conjurez un boulet de canon en plein vol et à pleine vitesse, qui explose à l'impact. Réalisez une attaque de sort à distance contre une cible que vous pouvez voir à portée. Si vous touchez, la cible prend 4d10 dégâts contondants et toutes les créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre la moitié des dégâts.
 

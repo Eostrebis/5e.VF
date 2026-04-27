@@ -1,9 +1,9 @@
 ---
 available:
-  - Occultiste
-  - Magicien
-  - Sorcière
-  - Nécromancien
+ - Occultiste
+ - Magicien
+ - Sorcière
+ - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true

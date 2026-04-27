@@ -10,11 +10,11 @@ En tant que race, les gepettains sont une étrangeté. Même s'ils sont rares, i
 
 Physiquement, les gepettains sont généralement plus petits que des halfelins. Leurs caractéristiques physiques varient grandement, mais ils sont quasiment toujours humanoïdes de forme. par simplicité, on classe les gepettains selon le matériel utilisé pour leur confection : 
 
-| Sous-classe      | Description        |
+| Sous-classe | Description |
 | ---------------- | ------------------ |
-| [[#Biscuit]]     | Fait de porcelaine |
-| [[#Marionnette]] | Fait de bois       |
-| [[#Peluche]]     | Fait de tissus     |
+| [[#Biscuit]] | Fait de porcelaine |
+| [[#Marionnette]] | Fait de bois |
+| [[#Peluche]] | Fait de tissus |
 
 ![[Gepettain_plush.png]]
 ### Culture
@@ -97,7 +97,7 @@ Les gepettains peluches sont n'importe quelle forme de gepettain doux ou fourré
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Anatomie Construite.** Vous êtes immunisé aux maladies non magiques. Vous n'avez pas besoin de manger ou de respirer, mais vous pouvez ingérer de la nourriture ou des boissons si vous le souhaitez. Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un repos long en passant 4 heures dans un état immobile, durant lequel vous restez conscient.
 

@@ -5,13 +5,13 @@ La magie est une énergie qui infuse le multivers et qui alimente à la fois la 
 
 **Sorts du Domaine Arcanique**
 
-| Niveau de Clerc | Sorts                                               |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------- |
-| 1               | [[Détection de la Magie]], [[Projectiles Magiques]] |
-| 3               | [[Arme Magique]], [[Aura Magique de Nystul]]        |
-| 5               | [[Dissipation de la Magie]], [[Cercle Magique]]     |
-| 7               | [[Œil Magique]], [[Coffre Secret]]                  |
-| 9               | [[Contrat]], [[Cercle de Téléportation]]            |
+| 1 | [[Détection de la Magie]], [[Projectiles Magiques]] |
+| 3 | [[Arme Magique]], [[Aura Magique de Nystul]] |
+| 5 | [[Dissipation de la Magie]], [[Cercle Magique]] |
+| 7 | [[Œil Magique]], [[Coffre Secret]] |
+| 9 | [[Contrat]], [[Cercle de Téléportation]] |
 ## Apprenti Arcanique
 
 Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de la compétence Arcane et vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[Magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
@@ -26,11 +26,11 @@ Après que vous avez atteint le niveau 5, lorsqu'une créature échoue son jet c
 
 | Niveau de Clerc | Bannit une Créature de FD ... |
 | --------------- | ----------------------------- |
-| 5               | 1/2 ou inférieur              |
-| 8               | 1 ou inférieur                |
-| 11              | 2 ou inférieur                |
-| 14              | 3 ou inférieur                |
-| 17              | 4 ou inférieur                |
+| 5 | 1/2 ou inférieur |
+| 8 | 1 ou inférieur |
+| 11 | 2 ou inférieur |
+| 14 | 3 ou inférieur |
+| 17 | 4 ou inférieur |
 
 ## Briseur de Sort
 

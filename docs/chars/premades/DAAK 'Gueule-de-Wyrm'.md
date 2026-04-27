@@ -13,22 +13,22 @@ __Points de vie :__ 13
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
 | 18 (+4) | 13 (+1) | 16 (+3) | 10 (±0) | 9 (-1) | 16 (+3) |
-|  ◉ +6   |  ◎ +1   |  ◉ +7   |  ◎ ±0   |  ◎ -1  |  ◎ +3   |
+| ◉ +6 | ◎ +1 | ◉ +7 | ◎ ±0 | ◎ -1 | ◎ +3 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1   | ◉ Investigation (_Int_) : +2  |
-| ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : -1       |
-| ◎ Athlétisme (_For_) : +4   | ◎ Nature (_Int_) : ±0     |
-| ◎ Discrétion (_Dex_) : +1   | ◎ Perception (_Sag_) : -1     |
-| ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : +1   | ◎ Religion (_Int_) : ±0       |
-| ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : +3 |
-| ◉ Intimidation (_Cha_) : +5 | ◉ Survie (_Sag_) : +1         |
-| ◉ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3  |
+| ◎ Acrobaties (_Dex_) : +1 | ◉ Investigation (_Int_) : +2 |
+| ◎ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : -1 |
+| ◎ Athlétisme (_For_) : +4 | ◎ Nature (_Int_) : ±0 |
+| ◎ Discrétion (_Dex_) : +1 | ◎ Perception (_Sag_) : -1 |
+| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : +3 |
+| ◎ Escamotage (_Dex_) : +1 | ◎ Religion (_Int_) : ±0 |
+| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : +3 |
+| ◉ Intimidation (_Cha_) : +5 | ◉ Survie (_Sag_) : +1 |
+| ◉ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3 |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Daak, un surprenant kobold Chevalier de Solamnia, qui a transformé la peur de son peuple en une discipline de fer et dont les rugissements tactiques transforment le chaos du combat en une symphonie de victoire pour sa "meute".

@@ -19,13 +19,13 @@ Le Serment des Anciens est aussi ancien que la race des elfes et les rituels des
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                      |
+| Niveau de Paladin | Sorts |
 | ----------------- | ---------------------------------------------------------- |
-| 3                 | [[Frappe piégeuse]], [[communication avec les animaux]]    |
-| 5                 | [[Pas brumeux]], [[rayon lunaire]]                         |
-| 9                 | [[Croissance végétale]], [[protection contre une énergie]] |
-| 13                | [[Tempête de grêle]], [[peau de pierre]]                   |
-| 17                | [[Communion avec la nature]], [[passage par les arbres]]   |
+| 3 | [[Frappe piégeuse]], [[communication avec les animaux]] |
+| 5 | [[Pas brumeux]], [[rayon lunaire]] |
+| 9 | [[Croissance végétale]], [[protection contre une énergie]] |
+| 13 | [[Tempête de grêle]], [[peau de pierre]] |
+| 17 | [[Communion avec la nature]], [[passage par les arbres]] |
 
 ## Canal Divin
 

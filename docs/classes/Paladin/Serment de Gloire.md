@@ -18,13 +18,13 @@ Les paladins qui prêtent le Serment de Gloire croient qu'eux et leurs compagnon
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                  |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------ |
-| 3                 | [[Rayon traçant]], [[héroïsme]]                        |
-| 5                 | [[Amélioration de caractéristiques]], [[arme magique]] |
-| 9                 | [[Célérité]], [[protection contre une énergie]]        |
-| 13                | [[Compulsion]], [[liberté de mouvement]]               |
-| 17                | [[Communion]], [[frappe de flamme]]                    |
+| 3 | [[Rayon traçant]], [[héroïsme]] |
+| 5 | [[Amélioration de caractéristiques]], [[arme magique]] |
+| 9 | [[Célérité]], [[protection contre une énergie]] |
+| 13 | [[Compulsion]], [[liberté de mouvement]] |
+| 17 | [[Communion]], [[frappe de flamme]] |
 
 ## Canal Divin
 

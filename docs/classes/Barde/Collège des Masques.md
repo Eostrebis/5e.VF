@@ -35,12 +35,12 @@ Les masques suivants sont listés alphabétiquement
 
  Ce masque en argile affiche des rides exagérées et la mine renfrognée d'un vieil homme grincheux. Vous connaissez le cantrip [[Trait de Feu]], ainsi que les sorts de la table ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
 
-| Niveau de Barde | Sorts                                          |
+| Niveau de Barde | Sorts |
 | --------------- | ---------------------------------------------- |
-| 3               | [[Saute de Vent]], [[rayon ardent]]            |
-| 5               | [[éclair]], [[protection contre une énergie]]  |
-| 7               | [[porte dimensionnelle]], [[tempête de grêle]] |
-| 9               | [[Scrutation]], [[mur de pierre]]              |
+| 3 | [[Saute de Vent]], [[rayon ardent]] |
+| 5 | [[éclair]], [[protection contre une énergie]] |
+| 7 | [[porte dimensionnelle]], [[tempête de grêle]] |
+| 9 | [[Scrutation]], [[mur de pierre]] |
 
 ### Diable
 
@@ -70,12 +70,12 @@ Ce heaume en métal sombre, cabossé et griffé, recouvre votre visage entier. T
 
 Au lieu d'un visage, ce masque en bronze arbore un symbole sacré, avec de fins trous pour permettre la vision. Vous connaissez le cantrip [[Flamme Sacrée]] ainsi que les sorts montrés dans ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
 
-| Niveau de Barde | Sorts                                            |
+| Niveau de Barde | Sorts |
 | --------------- | ------------------------------------------------ |
-| 3               | [[Aide]], [[restauration partielle]]             |
-| 5               | [[mot de soin de groupe]], [[Langues]]           |
-| 7               | [[Bannissement]], [[protection contre la mort]]  |
-| 9               | [[restauration supérieure]], [[soins de groupe]] |
+| 3 | [[Aide]], [[restauration partielle]] |
+| 5 | [[mot de soin de groupe]], [[Langues]] |
+| 7 | [[Bannissement]], [[protection contre la mort]] |
+| 9 | [[restauration supérieure]], [[soins de groupe]] |
 
 ### Comte
 

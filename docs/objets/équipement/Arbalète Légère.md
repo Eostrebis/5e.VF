@@ -6,6 +6,6 @@ englishname: Light Crossbow
 writing_status: finished
 ---
 
-| Dégâts       | Propriétés                                  |
+| Dégâts | Propriétés |
 | ------------ | ------------------------------------------- |
 | 1d8 perçants | Munition (80/320), Chargement, À deux mains |

@@ -18,13 +18,13 @@ Les paladins qui prêtent ce serment sont enclins à soigner, nourrir et veiller
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                   |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------- |
-| 3                 | [[Héroïsme]], [[purification de nourriture et d'eau]]   |
-| 5                 | [[Prière de guérison]], [[lien de protection]]          |
-| 9                 | [[Lueur d'espoir]], [[création de nourriture et d'eau]] |
-| 13                | [[Protection contre la mort]], [[sphère résiliente]]    |
-| 17                | [[Restauration supérieure]], [[soins de groupe]]        |
+| 3 | [[Héroïsme]], [[purification de nourriture et d'eau]] |
+| 5 | [[Prière de guérison]], [[lien de protection]] |
+| 9 | [[Lueur d'espoir]], [[création de nourriture et d'eau]] |
+| 13 | [[Protection contre la mort]], [[sphère résiliente]] |
+| 17 | [[Restauration supérieure]], [[soins de groupe]] |
 
 ## Outils de Serment
 

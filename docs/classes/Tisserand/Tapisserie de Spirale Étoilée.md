@@ -7,13 +7,13 @@ Votre tapisserie est tissée de la lumière des étoiles directement et forme au
 
 Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vous pouvez lancer chacun de ces sorts une fois, et vous regagnez la capacité de le faire lorsque vous terminez un repos long.
 
-| Niveau | Sorts                       |
+| Niveau | Sorts |
 | ------ | --------------------------- |
-| 3      | [[Alarme]]                  |
-| 4      | [[Vision de l'invisible]]   |
-| 7      | [[Dissipation de la magie]] |
-| 10     | [[Bannissement]]            |
-| 13     | [[Songe]]                   |
+| 3 | [[Alarme]] |
+| 4 | [[Vision de l'invisible]] |
+| 7 | [[Dissipation de la magie]] |
+| 10 | [[Bannissement]] |
+| 13 | [[Songe]] |
 
 ## Figure de Guerre
 

@@ -6,12 +6,12 @@ writing_status: finished
 
 ## "J'ai Découvert Ma Magie Lorsque J'Étais ..."
 
-| d10  | Évènement                       |
+| d10 | Évènement |
 | ---- | ------------------------------- |
-| 1-2  | Frappé par le deuil             |
-| 3-4  | Enflammé par la passion         |
-| 5-6  | Tremblant de rage               |
-| 7-8  | Explosant de joie               |
+| 1-2 | Frappé par le deuil |
+| 3-4 | Enflammé par la passion |
+| 5-6 | Tremblant de rage |
+| 7-8 | Explosant de joie |
 | 9-10 | Terrifié au plus profond de moi |
 
 ## Magie Émotionnelle
@@ -20,13 +20,13 @@ Au niveau 1, vous apprenez des sorts supplémentaires lorsque vous atteignez cer
 
 Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais ne compte pas dans le nombre de sorts d'ensorceleur que vous connaissez. Ces sorts ne peuvent pas être remplacés lorsque vous gagnez un niveau dans cette classe.
 
-| Niveau d'Ensorceleur | Sorts de Colère     | Sorts de Peur           | Sorts de Joie               | Sorts d'Amour                | Sorts de Chagrin     |
+| Niveau d'Ensorceleur | Sorts de Colère | Sorts de Peur | Sorts de Joie | Sorts d'Amour | Sorts de Chagrin |
 | -------------------- | ------------------- | ----------------------- | --------------------------- | ---------------------------- | -------------------- |
-| 1                    | [[Vague tonnante]]  | [[Repli expéditif]]     | [[Héroïsme]]                | [[Charme-personne]]          | [[Sommeil]]          |
-| 3                    | [[Rayon ardent]]    | [[Invisibilité]]        | [[Restauration partielle]]  | [[Discours captivant]]       | [[Silence]]          |
-| 5                    | [[Éclair]]          | [[Terreur]]             | [[Vol]]                     | [[Communication à distance]] | [[Lenteur]]          |
-| 7                    | [[Bouclier de feu]] | [[Assassin imaginaire]] | [[Liberté de mouvement]]    | [[Compulsion]]               | [[Bannissement]]     |
-| 9                    | [[Brume mortelle]]  | [[Double illusoire]]    | [[Restauration supérieure]] | [[Quête]]                    | [[Coquille antivie]] |
+| 1 | [[Vague tonnante]] | [[Repli expéditif]] | [[Héroïsme]] | [[Charme-personne]] | [[Sommeil]] |
+| 3 | [[Rayon ardent]] | [[Invisibilité]] | [[Restauration partielle]] | [[Discours captivant]] | [[Silence]] |
+| 5 | [[Éclair]] | [[Terreur]] | [[Vol]] | [[Communication à distance]] | [[Lenteur]] |
+| 7 | [[Bouclier de feu]] | [[Assassin imaginaire]] | [[Liberté de mouvement]] | [[Compulsion]] | [[Bannissement]] |
+| 9 | [[Brume mortelle]] | [[Double illusoire]] | [[Restauration supérieure]] | [[Quête]] | [[Coquille antivie]] |
 ## Empathie
 
 Également au niveau 1, vous pouvez utiliser votre action pour analyser les émotions apparentes d'une créature. Vous devez pouvoir voir la créature, qui doit se trouver à 30 ft. de vous et posséder une Intelligence de 3 ou plus. Vous apprenez l'état émotionnel de la créature et, à la discrétion du MJ, un de ses liens.

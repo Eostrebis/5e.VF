@@ -1,10 +1,10 @@
 ---
 available:
-  - Magicien
-  - Barde
-  - Nécromancien
-  - Occultiste
-  - Paladin
+ - Magicien
+ - Barde
+ - Nécromancien
+ - Occultiste
+ - Paladin
 level: 3
 school: Abjuration
 Verbal: true

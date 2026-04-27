@@ -1,6 +1,6 @@
 ---
 available:
-  - Magicien
+ - Magicien
 level:
 school:
 Verbal: false

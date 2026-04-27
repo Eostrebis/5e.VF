@@ -21,28 +21,28 @@ Comme une des premières thèses alchimiques le dit : si l'énergie fondamentale
 
 <p style="text-align:center"><b>Modificateur d'Attaque de Sorts</b> = bonus de maîtrise + modificateur d'Intelligence</p>
 
-| Incantation de l'Ingénieur Dynamo |              |                  |                      |
+| Incantation de l'Ingénieur Dynamo | | | |
 | --------------------------------- | ------------ | ---------------- | -------------------- |
-| Niveau d'Alchimiste               | Sorts Connus | Dynamos de Sorts | Niveau d'emplacement |
-| 2                                 | 3            | 2                | 1                    |
-| 3                                 | 3            | 2                | 1                    |
-| 4                                 | 4            | 3                | 1                    |
-| 5                                 | 4            | 3                | 1                    |
-| 6                                 | 4            | 3                | 1                    |
-| 7                                 | 5            | 4                | 2                    |
-| 8                                 | 6            | 4                | 2                    |
-| 9                                 | 6            | 4                | 2                    |
-| 10                                | 7            | 5                | 2                    |
-| 11                                | 8            | 5                | 2                    |
-| 12                                | 8            | 5                | 2                    |
-| 13                                | 9            | 5                | 3                    |
-| 14                                | 10           | 5                | 3                    |
-| 15                                | 10           | 5                | 3                    |
-| 16                                | 11           | 6                | 3                    |
-| 17                                | 11           | 6                | 3                    |
-| 18                                | 11           | 6                | 3                    |
-| 19                                | 12           | 7                | 4                    |
-| 20                                | 13           | 7                | 4                    |
+| Niveau d'Alchimiste | Sorts Connus | Dynamos de Sorts | Niveau d'emplacement |
+| 2 | 3 | 2 | 1 |
+| 3 | 3 | 2 | 1 |
+| 4 | 4 | 3 | 1 |
+| 5 | 4 | 3 | 1 |
+| 6 | 4 | 3 | 1 |
+| 7 | 5 | 4 | 2 |
+| 8 | 6 | 4 | 2 |
+| 9 | 6 | 4 | 2 |
+| 10 | 7 | 5 | 2 |
+| 11 | 8 | 5 | 2 |
+| 12 | 8 | 5 | 2 |
+| 13 | 9 | 5 | 3 |
+| 14 | 10 | 5 | 3 |
+| 15 | 10 | 5 | 3 |
+| 16 | 11 | 6 | 3 |
+| 17 | 11 | 6 | 3 |
+| 18 | 11 | 6 | 3 |
+| 19 | 12 | 7 | 4 |
+| 20 | 13 | 7 | 4 |
 
 ## Formule : Bombe Arcanique
 

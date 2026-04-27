@@ -9,10 +9,10 @@ __Points de vie :__ 30 (10 $\times$ le niveau d'artisan du créateur)
 
 __Vitesse :__ 35 ft.
 
-|   FOR   |   DEX   |   CON   |  INT   |  SAG   |  CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :----: | :----: | :----: |
 | 17 (+3) | 17 (+3) | 18 (+4) | 1 (-5) | 3 (-4) | 1 (-5) |
-|  ◎ +5   |  ◎ ±0   |  ◎ +4   |  ◎ ±0  |  ◎ ±0  |  ◎ ±0  |
+| ◎ +5 | ◎ ±0 | ◎ +4 | ◎ ±0 | ◎ ±0 | ◎ ±0 |
 __Immunités__ : Poison, psychique
 
 __Immunités aux Conditions :__ Aveuglé, charmé, assourdi, apeuré, paralysé, pétrifié, empoisonné

@@ -30,29 +30,29 @@ Ce n'est pas rare qu'un fusilier soit hanté par son passé. Est-ce que certains
 
 Vous pouvez créer un fusilier rapidement en suivant ces suggestions. Commencez par faire de la Dextérité votre caractéristique principale, suivie de la Constitution. Si vous prévoyez de choisir le crédo du Char Armé, préférez la Force à la Dextérité. Choisissez l'historique de votre choix, de préférence un qui justifie votre familiarité avec les armes à feu et votre penchant pour le risque.
 
-| **Le Fusilier** |                   |               |                                                        |
+| **Le Fusilier** | | | |
 | --------------- | ----------------- | ------------- | ------------------------------------------------------ |
-| Niveau          | Bonus de Maîtrise | Dés de Risque | Aptitudes                                              |
-| 1               | +2                | --            | [[#Style de Combat]], [[#Dégaine Rapide]]              |
-| 2               | +2                | 4d8           | [[#Tir Critique]], [[#Visage Impassible]], [[#Risque]] |
-| 3               | +2                | 4d8           | [[#Crédo du Fusilier]]                                 |
-| 4               | +2                | 4d8           | [[#Augmentation de Caractéristiques]]                  |
-| 5               | +3                | 4d8           | [[#Attaque Supplémentaire]]                            |
-| 6               | +3                | 5d8           | [[#Tir Handicapant]]                                   |
-| 7               | +3                | 5d8           | Aptitude de [[#Crédo du Fusilier]], [[#Évasion]]       |
-| 8               | +3                | 5d8           | [[#Augmentation de Caractéristiques]]                  |
-| 9               | +4                | 5d8           | Amélioration de [[#Tir Critique]]                      |
-| 10              | +4                | 5d10          | Aptitude de [[#Crédo du Fusilier]]                     |
-| 11              | +4                | 5d10          | [[#Meurtrier]]                                         |
-| 12              | +4                | 5d10          | [[#Augmentation de Caractéristiques]]                  |
-| 13              | +5                | 5d10          | [[#Pari Fou]]                                          |
-| 14              | +5                | 6d10          | Aptitude de [[#Crédo du Fusilier]]                     |
-| 15              | +5                | 6d10          | [[#Trompe-la-mort]]                                    |
-| 16              | +5                | 6d10          | [[#Augmentation de Caractéristiques]]                  |
-| 17              | +6                | 6d10          | Amélioration de [[#Tir Critique]]                      |
-| 18              | +6                | 6d12          | [[#Maverick]]                                          |
-| 19              | +6                | 6d12          | [[#Augmentation de Caractéristiques]]                  |
-| 20              | +6                | 6d12          | [[#Tir dans la Tête]]                                  |
+| Niveau | Bonus de Maîtrise | Dés de Risque | Aptitudes |
+| 1 | +2 | -- | [[#Style de Combat]], [[#Dégaine Rapide]] |
+| 2 | +2 | 4d8 | [[#Tir Critique]], [[#Visage Impassible]], [[#Risque]] |
+| 3 | +2 | 4d8 | [[#Crédo du Fusilier]] |
+| 4 | +2 | 4d8 | [[#Augmentation de Caractéristiques]] |
+| 5 | +3 | 4d8 | [[#Attaque Supplémentaire]] |
+| 6 | +3 | 5d8 | [[#Tir Handicapant]] |
+| 7 | +3 | 5d8 | Aptitude de [[#Crédo du Fusilier]], [[#Évasion]] |
+| 8 | +3 | 5d8 | [[#Augmentation de Caractéristiques]] |
+| 9 | +4 | 5d8 | Amélioration de [[#Tir Critique]] |
+| 10 | +4 | 5d10 | Aptitude de [[#Crédo du Fusilier]] |
+| 11 | +4 | 5d10 | [[#Meurtrier]] |
+| 12 | +4 | 5d10 | [[#Augmentation de Caractéristiques]] |
+| 13 | +5 | 5d10 | [[#Pari Fou]] |
+| 14 | +5 | 6d10 | Aptitude de [[#Crédo du Fusilier]] |
+| 15 | +5 | 6d10 | [[#Trompe-la-mort]] |
+| 16 | +5 | 6d10 | [[#Augmentation de Caractéristiques]] |
+| 17 | +6 | 6d10 | Amélioration de [[#Tir Critique]] |
+| 18 | +6 | 6d12 | [[#Maverick]] |
+| 19 | +6 | 6d12 | [[#Augmentation de Caractéristiques]] |
+| 20 | +6 | 6d12 | [[#Tir dans la Tête]] |
 
 # Aptitudes de Classes
 
@@ -143,17 +143,17 @@ Certains faits nécessitent que la cible réalise un jet de sauvegarde pour rés
 
 Lorsque les fusiliers atteignent le niveau 3, ils choisissent un style de vie : leur crédo. Ce crédo guide leur jugement et représente l'unicité de leur maniement des armes à feu. Votre choix vous confère des aptitudes au niveau 3, et à nouveau aux niveaux 7, 10 et 14.
 
-| Crédos                 | Description                                                                    |
+| Crédos | Description |
 | ---------------------- | ------------------------------------------------------------------------------ |
-| [[Char Armé]]          | Utilise de lourdes armes à feu montées                                         |
-| [[Flambeur]]           | Joue avec leurs vies et leur fortune ; aucune risque n'est trop grand          |
-| [[Le Bon]]             | Un protecteur respectueux de la loi qui ne faiblit jamais face au danger       |
-| [[Maître du Kung-Pan]] | Un artiste martial qui utilise les pistolets comme des armes                   |
-| [[Mousquetaire]]       | Un soldat maniant le mousquet et la rapière, guidé par l'honneur et le courage |
-| [[Pistolero]]          | Tire des six-coups au jugé à une vitesse incroyable                            |
-| [[Tireur d'Élite]]     | Un bon tireur précis et méticuleux avec une vision d'aigle                     |
-| [[Tireur de Sorts]]    | Tire des sorts aussi bien que des balles dans des bombardements destructeurs   |
-| [[Toureur]]            | Fait ricocher ses balles pour toucher la cible de n'importe quel angle         |
+| [[Char Armé]] | Utilise de lourdes armes à feu montées |
+| [[Flambeur]] | Joue avec leurs vies et leur fortune ; aucune risque n'est trop grand |
+| [[Le Bon]] | Un protecteur respectueux de la loi qui ne faiblit jamais face au danger |
+| [[Maître du Kung-Pan]] | Un artiste martial qui utilise les pistolets comme des armes |
+| [[Mousquetaire]] | Un soldat maniant le mousquet et la rapière, guidé par l'honneur et le courage |
+| [[Pistolero]] | Tire des six-coups au jugé à une vitesse incroyable |
+| [[Tireur d'Élite]] | Un bon tireur précis et méticuleux avec une vision d'aigle |
+| [[Tireur de Sorts]] | Tire des sorts aussi bien que des balles dans des bombardements destructeurs |
+| [[Toureur]] | Fait ricocher ses balles pour toucher la cible de n'importe quel angle |
 
 ## Augmentation de Caractéristiques
 

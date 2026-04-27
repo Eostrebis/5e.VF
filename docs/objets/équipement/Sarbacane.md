@@ -6,6 +6,6 @@ englishname: Blowgun
 writing_status: finished
 ---
 
-| Dégâts     | Propriétés                    |
+| Dégâts | Propriétés |
 | ---------- | ----------------------------- |
 | 1 perçants | Munition (25/100), Chargement |

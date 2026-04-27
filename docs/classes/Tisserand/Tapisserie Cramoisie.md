@@ -7,13 +7,13 @@ Votre tapisserie se manifeste comme un œil de fil vivant et d'intelligence arca
 
 Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vous pouvez lancer chacun de ces sorts une fois, et vous regagnez la capacité de le faire lorsque vous terminez un repos long.
 
-| Niveau | Sorts                            |
+| Niveau | Sorts |
 | ------ | -------------------------------- |
-| 3      | [[détection de la magie]]        |
-| 4      | [[vision dans le noir]]          |
-| 7      | [[communication avec les morts]] |
-| 10     | [[localisation de créature]]     |
-| 13     | [[lien télépathique]]            |
+| 3 | [[détection de la magie]] |
+| 4 | [[vision dans le noir]] |
+| 7 | [[communication avec les morts]] |
+| 10 | [[localisation de créature]] |
+| 13 | [[lien télépathique]] |
 
 ## Sang Frais
 

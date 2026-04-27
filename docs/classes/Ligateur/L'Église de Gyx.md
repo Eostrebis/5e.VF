@@ -11,7 +11,7 @@ Lorsque vous choisissez cette secte au niveau 3, vous obtenez la maîtrise de la
 
 ## Divinité Hérétique
 
-Également au niveau 3, vous pouvez simuler de la magie divine à travers votre hérésie vestigiale. Vous pouvez lancer les sorts [[injonction]],  [[soins]], [[mot de soin]] et [[sanctuaire]] une fois chacun sans avoir à dépenser d'emplacement de sort. Le Charisme est votre caractéristique d'incantation pour ces sorts. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+Également au niveau 3, vous pouvez simuler de la magie divine à travers votre hérésie vestigiale. Vous pouvez lancer les sorts [[injonction]], [[soins]], [[mot de soin]] et [[sanctuaire]] une fois chacun sans avoir à dépenser d'emplacement de sort. Le Charisme est votre caractéristique d'incantation pour ces sorts. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Bénédiction du Panthéon Vestigial
 

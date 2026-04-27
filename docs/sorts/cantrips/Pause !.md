@@ -1,10 +1,10 @@
 ---
 available:
-  - Mage de Guerre
-  - Clerc
-  - Ensorceleur
-  - Magicien
-  - Artificier
+ - Mage de Guerre
+ - Clerc
+ - Ensorceleur
+ - Magicien
+ - Artificier
 level: 0
 school: Transmutation
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Moment to Think
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 ---
 Lorsque vous lancez ce sort, vous arrêtez brièvement le temps pour tout le monde sauf vous. Vous pouvez prendre une action supplémentaire et vous déplacer dans votre espace tandis que le temps ne passe pas pour les autres créatures. Cette action peut être utilisée seulement pour prendre l'action de Recherche ou d'Utilisation d'un Objet, ou pour réaliser un jet d'Intelligence.
 

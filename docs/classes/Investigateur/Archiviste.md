@@ -23,19 +23,19 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 
 ### Ignis
 
-| Niveau de sort | Sorts                                   |
+| Niveau de sort | Sorts |
 | -------------- | --------------------------------------- |
-| 1              | [[Mains Brûlantes]], [[Vague Tonnante]] |
-| 2              | [[Saute de Vent]], [[rayon ardent]]     |
-| 3              | [[Appel de la Foudre]], [[mur de vent]] |
+| 1 | [[Mains Brûlantes]], [[Vague Tonnante]] |
+| 2 | [[Saute de Vent]], [[rayon ardent]] |
+| 3 | [[Appel de la Foudre]], [[mur de vent]] |
 
 ### Mortis
 
-| Niveau de sort | Sorts                                      |
+| Niveau de sort | Sorts |
 | -------------- | ------------------------------------------ |
-| 1              | [[Fléau]], [[Simulacre de Vie]]            |
-| 2              | [[Cécité ou Surdité]], [[ténèbres]]        |
-| 3              | [[Retour à la vie]], [[Toucher du Vampire]] |
+| 1 | [[Fléau]], [[Simulacre de Vie]] |
+| 2 | [[Cécité ou Surdité]], [[ténèbres]] |
+| 3 | [[Retour à la vie]], [[Toucher du Vampire]] |
 
 ### Regis
 

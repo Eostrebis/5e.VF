@@ -14,10 +14,10 @@ De plus, tant que vous n'êtes pas armé ou que vous manipulez une arme improvis
 
 | Niveau de Guerrier | Dégâts |
 | ------------------ | ------ |
-| 3                  | 1d6    |
-| 5                  | 1d8    |
-| 11                 | 1d10   |
-| 17                 | 1d12   |
+| 3 | 1d6 |
+| 5 | 1d8 |
+| 11 | 1d10 |
+| 17 | 1d12 |
 
 À partir du niveau 7, vos attaques à mains nues sont considérées magiques vis-à-vis des résistances et immunités aux attaques et dégâts non magiques.
 

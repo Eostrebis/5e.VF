@@ -5,13 +5,13 @@ Le domaine de la Mort s'intéresse aux forces qui provoquent la mort, ainsi qu'�
 
 **Sorts du Domaine de la Mort**
 
-| Niveau de Clerc | Sorts                                            |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------ |
-| 1               | [[Simulacre de Vie]], [[rayon empoisonné]]       |
-| 3               | [[Cécité ou Surdité]], [[rayon affaiblissant]]   |
-| 5               | [[Animation des Morts]], [[Toucher du Vampire]]   |
-| 7               | [[Flétrissement]], [[protection contre la mort]] |
-| 9               | [[Coquille Antivie]], [[brume mortelle]]         |
+| 1 | [[Simulacre de Vie]], [[rayon empoisonné]] |
+| 3 | [[Cécité ou Surdité]], [[rayon affaiblissant]] |
+| 5 | [[Animation des Morts]], [[Toucher du Vampire]] |
+| 7 | [[Flétrissement]], [[protection contre la mort]] |
+| 9 | [[Coquille Antivie]], [[brume mortelle]] |
 
 ## Maîtrises Supplémentaires.
 

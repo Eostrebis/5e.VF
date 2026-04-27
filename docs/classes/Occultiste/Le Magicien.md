@@ -7,13 +7,13 @@ Bien que tous les occultistes soient compétents dans l'art magique, bien peut s
 
 Le Magicien vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                              |
+| Niveau de Sort | Sorts |
 | -------------- | -------------------------------------------------- |
-| 1              | [[Appel de familier]], [[brouillard]]              |
-| 2              | [[Toc-toc]], [[corde enchantée]]                   |
-| 3              | [[Clignotement]], [[communication avec les morts]] |
-| 4              | [[Liberté de mouvement]], [[coffre secret]]        |
-| 5              | [[Création]], [[double illusoire]]                 |
+| 1 | [[Appel de familier]], [[brouillard]] |
+| 2 | [[Toc-toc]], [[corde enchantée]] |
+| 3 | [[Clignotement]], [[communication avec les morts]] |
+| 4 | [[Liberté de mouvement]], [[coffre secret]] |
+| 5 | [[Création]], [[double illusoire]] |
 
 ## Abracadabra
 

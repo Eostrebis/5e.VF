@@ -1,11 +1,11 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Occultiste
-  - Investigateur
-  - Nécromancien
-  - Sorcière
+ - Ensorceleur
+ - Magicien
+ - Occultiste
+ - Investigateur
+ - Nécromancien
+ - Sorcière
 level: 6
 school: Conjuration
 Verbal: true

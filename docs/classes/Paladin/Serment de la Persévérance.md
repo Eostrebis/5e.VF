@@ -20,13 +20,13 @@ Ils parcourent le monde, souvent en duos inséparables, traquant des artefacts r
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                |
+| Niveau de Paladin | Sorts |
 | ----------------- | ---------------------------------------------------- |
-| 3                 | [[Déguisement]], [[repli expéditif]]                 |
-| 5                 | [[Image miroir]], [[pyrotechniques]]                 |
-| 9                 | [[Nuage nauséabond]], [[escarmouche]]                |
-| 13                | [[Invisibilité supérieure]], [[accord tacite]]       |
-| 17                | [[Apparence trompeuse]], [[modification de mémoire]] |
+| 3 | [[Déguisement]], [[repli expéditif]] |
+| 5 | [[Image miroir]], [[pyrotechniques]] |
+| 9 | [[Nuage nauséabond]], [[escarmouche]] |
+| 13 | [[Invisibilité supérieure]], [[accord tacite]] |
+| 17 | [[Apparence trompeuse]], [[modification de mémoire]] |
 
 ## Canal Divin
 
@@ -36,14 +36,14 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Plan Génial.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour obtenir la résistance à un type de dégâts parmi acide, froid, feu, foudre, poison et tonnerre pendant la prochaine heure. En contrepartie, le MJ tire dans la table ci-dessous un type de dégâts contre lequel vous serez faible pendant cette durée. Si le type de dégâts obtenu sur la table est le même que celui que vous avez choisi, vous n'avez pas de faiblesse.
 
-| d6  | Type de Dégâts |
+| d6 | Type de Dégâts |
 | --- | -------------- |
-| 1   | Acide          |
-| 2   | Froid          |
-| 3   | Feu            |
-| 4   | Foudre         |
-| 5   | Poison         |
-| 6   | Tonnerre       |
+| 1 | Acide |
+| 2 | Froid |
+| 3 | Feu |
+| 4 | Foudre |
+| 5 | Poison |
+| 6 | Tonnerre |
 
 ## Maîtrises Supplémentaires
 

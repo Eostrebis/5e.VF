@@ -7,13 +7,13 @@ Lorsque la souffrance du monde se fait trop lourde et les pleurs des angoissés 
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                            |
+| Niveau de Martyr | Sorts |
 | ---------------- | ---------------------------------------------------------------- |
-| 3                | [[Mot de Soin]], [[sanctuaire]]                                  |
-| 5                | [[Amélioration de caractéristiques]], [[restauration partielle]] |
-| 9                | [[Délivrance des malédictions]], [[retour à la vie]]             |
-| 13               | [[Protection contre la mort]], [[Liberté de Mouvement]]          |
-| 17               | [[Mot de soin de groupe]], [[rappel à la vie]]                   |
+| 3 | [[Mot de Soin]], [[sanctuaire]] |
+| 5 | [[Amélioration de caractéristiques]], [[restauration partielle]] |
+| 9 | [[Délivrance des malédictions]], [[retour à la vie]] |
+| 13 | [[Protection contre la mort]], [[Liberté de Mouvement]] |
+| 17 | [[Mot de soin de groupe]], [[rappel à la vie]] |
 
 ## Cantrips
 

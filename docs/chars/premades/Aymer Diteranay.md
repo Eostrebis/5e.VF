@@ -13,22 +13,22 @@ __Points de vie :__ 12
 
 __Vitesse :__ 30 ft., Nage 30 ft.
 
-|  FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 9 (-1) | 20 (+5) | 14 (+2) | 12 (+1) | 13 (+1) | 17 (+3) |
-|  ◉ +1  |  ◉ +7   |  ◎ +2   |  ◎ +1   |  ◎ +1   |  ◎ +3   |
+| ◉ +1 | ◉ +7 | ◎ +2 | ◎ +1 | ◎ +1 | ◎ +3 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +5   | ◎ Investigation (_Int_) : +1  |
-| ◎ Arcanes (_Int_) : +1      | ◎ Médecine (_Sag_) : +1       |
-| ◎ Athlétisme (_For_) : -1   | ⬤ Nature (_Int_) : +5<br>     |
-| ◉ Discrétion (_Dex_) : +7   | ◉ Perception (_Sag_) : +3     |
-| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : +5   | ◎ Religion (_Int_) : +1       |
-| ◉ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +3         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◎ Acrobaties (_Dex_) : +5 | ◎ Investigation (_Int_) : +1 |
+| ◎ Arcanes (_Int_) : +1 | ◎ Médecine (_Sag_) : +1 |
+| ◎ Athlétisme (_For_) : -1 | ⬤ Nature (_Int_) : +5<br> |
+| ◉ Discrétion (_Dex_) : +7 | ◉ Perception (_Sag_) : +3 |
+| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +3 |
+| ◎ Escamotage (_Dex_) : +5 | ◎ Religion (_Int_) : +1 |
+| ◉ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : +3 |
+| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +3 |
+| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3<br> |
 
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)

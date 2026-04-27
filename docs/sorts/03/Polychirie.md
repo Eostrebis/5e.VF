@@ -1,10 +1,10 @@
 ---
 available:
-  - Magicien
-  - Occultiste
-  - Ranger
-  - Paladin
-  - Martyr
+ - Magicien
+ - Occultiste
+ - Ranger
+ - Paladin
+ - Martyr
 level: 3
 school: Conjuration
 Verbal: true

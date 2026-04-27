@@ -7,6 +7,6 @@ Ere: Industrielle
 writing_status: empty
 ---
 
-| Dégâts       | Propriétés                     |
+| Dégâts | Propriétés |
 | ------------ | ------------------------------ |
 | 2d8 perçants | Munitions (30/120), Chargement |

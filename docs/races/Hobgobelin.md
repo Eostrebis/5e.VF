@@ -25,7 +25,7 @@ Les hobgobelins sont pour la plupart plus grands que leurs cousins gobelins, mai
 
 **Âge.** Les hobgobelins grandissent et atteignent leur maturité au même rythme que les humains.
 
-**Taille.** Les hobgobelins mesurent entre 1,50 et 1,80 m et pèsent entre 75 et 100 kg.  Votre taille est Moyenne.
+**Taille.** Les hobgobelins mesurent entre 1,50 et 1,80 m et pèsent entre 75 et 100 kg. Votre taille est Moyenne.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

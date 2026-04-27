@@ -173,7 +173,7 @@ Les enfants de gobelins, hobgobelins et gobelours avec des humains sont connus c
 
 **Taille.** À la différence des autres humains, vous êtes de taille Petite ou Moyenne, en fonction de votre héritage.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
 
@@ -187,7 +187,7 @@ Un de vos parents est une créature de l'obscurité, par exemple une ombre ou un
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft.  de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
 
@@ -237,7 +237,7 @@ Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Force Monstrueuse.** Vous gagnez la maîtrise en Athlétisme. De plus, lorsque vous faites un jet de Force (Athlétisme), vous pouvez traiter le résultat comme un 10, ou comme votre modificateur de force + votre niveau, lequel est le plus haut.
 
@@ -251,7 +251,7 @@ Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et r
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait  1d6 + votre modificateur de Force dégâts perçants, au lieu des dégâts contondants usuels.
+**Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait 1d6 + votre modificateur de Force dégâts perçants, au lieu des dégâts contondants usuels.
 
 **Lutte d'Hibours.** Vous pouvez tenter de saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de saisie que vous faites pendant votre tour contre des créatures plus petites que vous.
 
@@ -277,7 +277,7 @@ La plupart des humains possèdent un potentiel psionique négligeable, mais ceux
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Empathie.** Vous pouvez utiliser votre action pour sonder les émotions superficielles d'une créature. Vous devez être capable de voir la créature, et elle doit se situer dans un rayon de 30 ft.  ainsi qu'avoir un score d'Intelligence d'au moins 3. Vous apprenez l'état émotionnel de la créature et, au bon vouloir du MJ, un de ses Liens.
+**Empathie.** Vous pouvez utiliser votre action pour sonder les émotions superficielles d'une créature. Vous devez être capable de voir la créature, et elle doit se situer dans un rayon de 30 ft. ainsi qu'avoir un score d'Intelligence d'au moins 3. Vous apprenez l'état émotionnel de la créature et, au bon vouloir du MJ, un de ses Liens.
 
 **Psionisme.** Vous connaissez le cantrip [[Main de Mage]], et la main est invisible lorsque vous lancez le cantrip avec ce trait. À partir du niveau 3, vous pouvez lancer le sort [[Serviteur Invisible]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[Lévitation]] avec ce trait. Une fois que vous avez lancé [[Serviteur Invisible]] ou [[Lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 

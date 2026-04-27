@@ -7,13 +7,13 @@ Lorsque le monde naturel se trouve menacé par les besoins des industries en cro
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                       |
+| Niveau de Martyr | Sorts |
 | ---------------- | ----------------------------------------------------------- |
-| 3                | [[Enchevêtrement]], [[Baies Nourricières]]                  |
-| 5                | [[Passage sans trace]], [[croissance d'épines]]             |
-| 9                | [[Croissance végétale]], [[communication avec les plantes]] |
-| 13               | [[Invocation d'êtres sylvains]], [[terrain hallucinatoire]] |
-| 17               | [[Éveil]], [[réincarnation]]                                |
+| 3 | [[Enchevêtrement]], [[Baies Nourricières]] |
+| 5 | [[Passage sans trace]], [[croissance d'épines]] |
+| 9 | [[Croissance végétale]], [[communication avec les plantes]] |
+| 13 | [[Invocation d'êtres sylvains]], [[terrain hallucinatoire]] |
+| 17 | [[Éveil]], [[réincarnation]] |
 
 ## Cantrips
 

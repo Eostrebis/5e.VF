@@ -13,22 +13,22 @@ __Points de vie :__ 10
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) | 12 (+1) | 18 (+4) |
-|  ◎ +2   |  ◎ +2   |  ◎ +2   |  ◎ +3   |  ◉ +3   |  ◉ +6   |
+| ◎ +2 | ◎ +2 | ◎ +2 | ◎ +3 | ◉ +3 | ◉ +6 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : +3  |
-| ◉ Arcanes (_Int_) : +5      | ◎ Médecine (_Sag_) : +1       |
-| ◎ Athlétisme (_For_) : +2   | ◎ Nature (_Int_) : +3<br>     |
-| ◉ Discrétion (_Dex_) : +4   | ◎ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : +1     | ◎ Persuasion (_Cha_) : +4     |
-| ◉ Escamotage (_Dex_) : +4   | ◉ Religion (_Int_) : +5       |
-| ◉ Histoire (_Int_) : +5     | ◎ Représentation (_Cha_) : +4 |
-| ◉ Intimidation (_Cha_) : +6 | ◎ Survie (_Sag_) : +1         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +4<br>  |
+| ◎ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : +3 |
+| ◉ Arcanes (_Int_) : +5 | ◎ Médecine (_Sag_) : +1 |
+| ◎ Athlétisme (_For_) : +2 | ◎ Nature (_Int_) : +3<br> |
+| ◉ Discrétion (_Dex_) : +4 | ◎ Perception (_Sag_) : +1 |
+| ◎ Dressage (_Sag_) : +1 | ◎ Persuasion (_Cha_) : +4 |
+| ◉ Escamotage (_Dex_) : +4 | ◉ Religion (_Int_) : +5 |
+| ◉ Histoire (_Int_) : +5 | ◎ Représentation (_Cha_) : +4 |
+| ◉ Intimidation (_Cha_) : +6 | ◎ Survie (_Sag_) : +1 |
+| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +4<br> |
 
 #### Maîtrises
 
@@ -63,7 +63,7 @@ Elle porte des vêtements sombres et fonctionnels, souvent en cuir usé, choisis
 
 ### Aptitudes de Race
 
-**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 

@@ -7,6 +7,6 @@ Ere: Renaissance
 writing_status: empty
 ---
 
-| Dégâts       | Propriétés                                                  |
+| Dégâts | Propriétés |
 | ------------ | ----------------------------------------------------------- |
 | 2d6 perçants | Munitions (portée 30/120), Sec, Léger, Chargement, Incident |

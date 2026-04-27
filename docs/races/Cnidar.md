@@ -13,9 +13,9 @@ La vie pour un jeune médusozoaire est précaire ; il doit se défendre et se d�
 
 Lorsqu'un polype produit un médusozoaire, il peut donner naissance à deux formes : un nématocyste ou un peaubrillante. Ensemble, ces deux formes représentent deux chemins possibles pour les interactions inter espèces. Vous avez le choix entre les deux sous-races suivantes : 
 
-| Sous-Race          | Description                                                                             |
+| Sous-Race | Description |
 | ------------------ | --------------------------------------------------------------------------------------- |
-| [[#Nématocyste]]   | Adapté à la confrontation, au combat, au conflit et porteur d'un poison toxique.        |
+| [[#Nématocyste]] | Adapté à la confrontation, au combat, au conflit et porteur d'un poison toxique. |
 | [[#Peaubrillante]] | Fait confiance à la diplomatie, à la ruse et aux enchantement pour éviter les conflits. |
 
 

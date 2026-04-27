@@ -13,22 +13,22 @@ __Points de vie :__ 11
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |  CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :----: |
 | 20 (+5) | 12 (+1) | 16 (+3) | 16 (+3) | 16 (+3) | 4 (-3) |
-|  ◎ +5   |  ◉ +3   |  ◎ +3   |  ◉ +5   |  ◎ +3   |  ◎ -3  |
+| ◎ +5 | ◉ +3 | ◎ +3 | ◉ +5 | ◎ +3 | ◎ -3 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1   | ⬤  Investigation (_Int_) : +7 |
-| ◉ Arcanes (_Int_) : +5      | ◎ Médecine (_Sag_) : +3       |
-| ⬤ Athlétisme (_For_) : +9   | ◎ Nature (_Int_) : +3<br>     |
-| ◎ Discrétion (_Dex_) : +1   | ◉ Perception (_Sag_) : +5     |
-| ◎ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : -3     |
-| ◉  Escamotage (_Dex_) : +3  | ◎ Religion (_Int_) : +3       |
-| ◎ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : -3 |
-| ◎ Intimidation (_Cha_) : -3 | ◎ Survie (_Sag_) : +3         |
-| ◉ Intuition (_Sag_) : +5    | ◎ Tromperie (_Cha_) : -3<br>  |
+| ◎ Acrobaties (_Dex_) : +1 | ⬤ Investigation (_Int_) : +7 |
+| ◉ Arcanes (_Int_) : +5 | ◎ Médecine (_Sag_) : +3 |
+| ⬤ Athlétisme (_For_) : +9 | ◎ Nature (_Int_) : +3<br> |
+| ◎ Discrétion (_Dex_) : +1 | ◉ Perception (_Sag_) : +5 |
+| ◎ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : -3 |
+| ◉ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : +3 |
+| ◎ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : -3 |
+| ◎ Intimidation (_Cha_) : -3 | ◎ Survie (_Sag_) : +3 |
+| ◉ Intuition (_Sag_) : +5 | ◎ Tromperie (_Cha_) : -3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Zamenis, une Drow érudite et anormalement forte, exilée de votre société matriarcale après avoir résolu une crise surnaturelle par la logique et la force brute, prouvant ainsi que les méthodes "grossières" sont parfois les plus efficaces.

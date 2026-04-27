@@ -33,29 +33,29 @@ Vous devriez également penser à de précédentes victoires ou défaites qui on
 
 Vous pouvez créer un capitaine rapidement en suivant ces suggestions. Commencez par faire de la Force ou de la Dextérité votre caractéristique principale, suivie du Charisme. Ensuite, choisissez l'Histoire et la Persuasion comme compétences et prenez le style de combat Duel. Enfin, choisissez un historique qui reflète votre expérience de management.
 
-| **Le capitaine** |                   |                                         |                 |                     |
+| **Le capitaine** | | | | |
 | ---------------- | ----------------- | --------------------------------------- | --------------- | ------------------- |
-| Niveau           | Bonus de Maîtrise | Aptitudes                               | Dés de Bataille | Aptitude de Cohorte |
-| 1                | +2                | [[#Leader Né]], [[#Style de Combat]]    | —               | —                   |
-| 2                | +2                | [[#Cohorte]]                            | —               | ☑                   |
-| 3                | +2                | [[#Étendard]], [[#Tactiques de Guerre]] | 2d8             | ✖                   |
-| 4                | +2                | [[#Augmentation de Caractéristiques]]   | 2d8             | ✖                   |
-| 5                | +3                | [[#Blitz]]                              | 2d8             | ✖                   |
-| 6                | +3                | —                                       | 3d8             | ☑                   |
-| 7                | +3                | Aptitude d'[[#Étendard]]                | 3d8             | ✖                   |
-| 8                | +3                | [[#Augmentation de Caractéristiques]]   | 3d8             | ✖                   |
-| 9                | +4                | [[#Tactiques Avancées]]                 | 3d8             | ✖                   |
-| 10               | +4                | —                                       | 3d10            | ☑                   |
-| 11               | +4                | [[#Frappe Coordonnée]]                  | 3d10            | ✖                   |
-| 12               | +4                | [[#Augmentation de Caractéristiques]]   | 3d10            | ✖                   |
-| 13               | +5                | Aptitude d'[[#Étendard]]                | 3d10            | ✖                   |
-| 14               | +5                | —                                       | 4d10            | ☑                   |
-| 15               | +5                | [[#Par l'Exemple]]                      | 4d10            | ✖                   |
-| 16               | +5                | [[#Augmentation de Caractéristiques]]   | 4d10            | ✖                   |
-| 17               | +6                | Aptitude d'[[#Étendard]]                | 4d10            | ✖                   |
-| 18               | +6                | —                                       | 4d12            | ☑                   |
-| 19               | +6                | [[#Augmentation de Caractéristiques]]   | 4d12            | ✖                   |
-| 20               | +6                | [[#Commandant Légendaire]]              | 4d12            | ✖                   |
+| Niveau | Bonus de Maîtrise | Aptitudes | Dés de Bataille | Aptitude de Cohorte |
+| 1 | +2 | [[#Leader Né]], [[#Style de Combat]] | — | — |
+| 2 | +2 | [[#Cohorte]] | — | ☑ |
+| 3 | +2 | [[#Étendard]], [[#Tactiques de Guerre]] | 2d8 | ✖ |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 2d8 | ✖ |
+| 5 | +3 | [[#Blitz]] | 2d8 | ✖ |
+| 6 | +3 | — | 3d8 | ☑ |
+| 7 | +3 | Aptitude d'[[#Étendard]] | 3d8 | ✖ |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 3d8 | ✖ |
+| 9 | +4 | [[#Tactiques Avancées]] | 3d8 | ✖ |
+| 10 | +4 | — | 3d10 | ☑ |
+| 11 | +4 | [[#Frappe Coordonnée]] | 3d10 | ✖ |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 3d10 | ✖ |
+| 13 | +5 | Aptitude d'[[#Étendard]] | 3d10 | ✖ |
+| 14 | +5 | — | 4d10 | ☑ |
+| 15 | +5 | [[#Par l'Exemple]] | 4d10 | ✖ |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 4d10 | ✖ |
+| 17 | +6 | Aptitude d'[[#Étendard]] | 4d10 | ✖ |
+| 18 | +6 | — | 4d12 | ☑ |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 4d12 | ✖ |
+| 20 | +6 | [[#Commandant Légendaire]] | 4d12 | ✖ |
 
 # Aptitudes de Classes
 
@@ -155,15 +155,15 @@ L'alignement de votre cohorte se trouve à un pas du vôtre et possède des trai
 
 À partir du niveau 3, vous adoptez un étendard que vous arborez au combat, que vous blasonnez sur votre armure et que vous accrochez à votre sceau. Vous pouvez sélectionner votre étendard parmi ceux présentés ci-dessous. Votre choix vous confère des aptitudes aux niveaux 3, 7, 13 et 17.
 
-| Étendard                    | Description                                                                                                  |
+| Étendard | Description |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[Étendard du Dragon]]      | Utilise les manœuvres pour annihiler ses ennemis sur le champ de bataille                                    |
-| [[Étendard de l'Aigle]]     | Un maître de l'arc qui utilise des tirs de précision pour abattre ses ennemis d'en haut                      |
-| [[Étendard du Jolly Roger]] | Un duelliste et bretteur entraîné aux sabres et tactiques déloyales des brigands                             |
-| [[Étendard du Lion]]        | Un chef chevaleresque qui défie ses adversaires en combat d'honneur                                          |
-| [[Étendard du Bélier]]      | Pousse ses adversaires et les met au sol pour gagner l'avantage                                              |
-| [[Étendard du Corbeau]]     | Un maître furtif de la guérilla et des tactiques secrètes                                                    |
-| [[Étendard de la Tortue]]   | Met l'accent sur la défense avant tout, en utilisant des tactiques d'armures lourdes et de mur de boucliers. |
+| [[Étendard du Dragon]] | Utilise les manœuvres pour annihiler ses ennemis sur le champ de bataille |
+| [[Étendard de l'Aigle]] | Un maître de l'arc qui utilise des tirs de précision pour abattre ses ennemis d'en haut |
+| [[Étendard du Jolly Roger]] | Un duelliste et bretteur entraîné aux sabres et tactiques déloyales des brigands |
+| [[Étendard du Lion]] | Un chef chevaleresque qui défie ses adversaires en combat d'honneur |
+| [[Étendard du Bélier]] | Pousse ses adversaires et les met au sol pour gagner l'avantage |
+| [[Étendard du Corbeau]] | Un maître furtif de la guérilla et des tactiques secrètes |
+| [[Étendard de la Tortue]] | Met l'accent sur la défense avant tout, en utilisant des tactiques d'armures lourdes et de mur de boucliers. |
 
 ## Tactiques de Guerre
 

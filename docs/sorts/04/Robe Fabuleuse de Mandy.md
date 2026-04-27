@@ -1,6 +1,6 @@
 ---
 available:
-  - Sorcière
+ - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -19,4 +19,4 @@ Une créature consentante que vous touchez est immédiatement habillée d'une ma
 
 De plus, si le porteur de la robe est attaqué par une créature qu'il peut voir, l'attaquant doit réussir un jet de sauvegarde de Sagesse ou rater son attaque. S'il réussit l'attaquant est immunisé contre cet effet jusqu'à que le sort ne termine.
 
-La durée du sort dépend de quand et où il a été lancé. S'il a été lancé à un endroit où le temps se déroule normalement, le sort dure jusqu'à la douzième sonnerie de minuit, aussi longtemps que cela soit. Sinon, le sort dure 24 heures.  Lorsque le sort se termine, la robe disparaît en un éclat d'étincelles et la créature redevient habillée de son ensemble original.
+La durée du sort dépend de quand et où il a été lancé. S'il a été lancé à un endroit où le temps se déroule normalement, le sort dure jusqu'à la douzième sonnerie de minuit, aussi longtemps que cela soit. Sinon, le sort dure 24 heures. Lorsque le sort se termine, la robe disparaît en un éclat d'étincelles et la créature redevient habillée de son ensemble original.

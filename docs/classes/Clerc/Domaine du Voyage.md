@@ -5,13 +5,13 @@ Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du
 
 **Sorts du Domaine du Voyage**
 
-| Niveau de Clerc | Sorts                                              |
+| Niveau de Clerc | Sorts |
 | --------------- | -------------------------------------------------- |
-| 1               | [[Feuille Morte]], [[grandes foulées]]             |
-| 3               | [[Appel de destrier]], [[pas brumeux]]             |
-| 5               | [[Vol]], [[célérité]]                              |
-| 7               | [[Porte dimensionnelle]], [[Liberté de Mouvement]] |
-| 9               | [[Passe-muraille]], [[Cercle de Téléportation]]    |
+| 1 | [[Feuille Morte]], [[grandes foulées]] |
+| 3 | [[Appel de destrier]], [[pas brumeux]] |
+| 5 | [[Vol]], [[célérité]] |
+| 7 | [[Porte dimensionnelle]], [[Liberté de Mouvement]] |
+| 9 | [[Passe-muraille]], [[Cercle de Téléportation]] |
 
 ## Grand Voyageur
 

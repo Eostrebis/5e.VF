@@ -17,10 +17,10 @@ Tant que ce vestige est supprimé, aucune de ses aptitudes ne vous affecte et vo
 
 | Niveau de Ligateur | Dégâts d'attaques à Mains Nues |
 | ------------------ | ------------------------------ |
-| 3                  | 1d4                            |
-| 7                  | 1d6                            |
-| 10                 | 1d8                            |
-| 14                 | 1d10                           |
+| 3 | 1d4 |
+| 7 | 1d6 |
+| 10 | 1d8 |
+| 14 | 1d10 |
 
 ## Mille Poings
 

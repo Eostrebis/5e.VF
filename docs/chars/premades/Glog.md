@@ -13,34 +13,34 @@ __Points de vie :__ 11
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 10 (±0) | 12 (+1) | 16 (+3) | 14 (+2) | 14 (+2) | 16 (+3) |
-|  ◎ ±0   |  ◎ +1   |  ◎ +3   |  ◎ +2   |  ◉ +4   |  ◉ +5   |
+| ◎ ±0 | ◎ +1 | ◎ +3 | ◎ +2 | ◉ +4 | ◉ +5 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1   | ◉ Investigation (_Int_) : +4  |
-| ◉ Arcanes (_Int_) : ±4      | ◎ Médecine (_Sag_) : +2       |
-| ◎ Athlétisme (_For_) : ±0   | ◎ Nature (_Int_) : +2<br>     |
-| ◎ Discrétion (_Dex_) : +1   | ◎ Perception (_Sag_) : +2     |
-| ◎ Dressage (_Sag_) : +2     | ◎ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : +1   | ◉ Religion (_Int_) : +4       |
-| ◉ Histoire (_Int_) : +4     | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◎ Survie (_Sag_) : +2         |
-| ◎ Intuition (_Sag_) : +2    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◎ Acrobaties (_Dex_) : +1 | ◉ Investigation (_Int_) : +4 |
+| ◉ Arcanes (_Int_) : ±4 | ◎ Médecine (_Sag_) : +2 |
+| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : +2<br> |
+| ◎ Discrétion (_Dex_) : +1 | ◎ Perception (_Sag_) : +2 |
+| ◎ Dressage (_Sag_) : +2 | ◎ Persuasion (_Cha_) : +3 |
+| ◎ Escamotage (_Dex_) : +1 | ◉ Religion (_Int_) : +4 |
+| ◉ Histoire (_Int_) : +4 | ◎ Représentation (_Cha_) : +3 |
+| ◎ Intimidation (_Cha_) : +3 | ◎ Survie (_Sag_) : +2 |
+| ◎ Intuition (_Sag_) : +2 | ◎ Tromperie (_Cha_) : +3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Glog, un brillant étudiant orque en magie qui, par accident de recherche, est devenu le relais d'une gelée cosmique mangeuse de souvenirs, vous forçant à partir à l'aventure pour "nourrir" votre patron avec de nouvelles expériences afin de passer vos examens.
 > 
 > **Objectif pour la session :** 
->  Vous êtes en "recherche sur le terrain" pour votre thèse. Votre but est de documenter méticuleusement tout ce que vous rencontrez – créatures, lieux, événements – pour compiler des données pour vos études, et accessoirement, pour offrir de nouvelles "saveurs" à la Convocation Gélatineuse qui vous prête ses pouvoirs.
->  
->  **Parlez comme un Professeur Orque :** Utilisez un langage académique et complexe qui contraste avec votre apparence d'orque. Analysez tout de manière théorique ("Hypothétiquement...", "Empiriquement...") et citez des références historiques obscures que personne d'autre ne connaît.
->  
->  **La Connaissance avant Tout :** Votre grimoire/carnet de notes est votre meilleur ami. Sortez-le constamment pour prendre des notes, même dans les moments les plus inopportuns. Votre défaut est clair : vous êtes facilement distrait par la promesse d'une nouvelle information, même si c'est au milieu d'un combat.
->  
->  **Jouez la Double Mémoire :** Laissez parfois échapper des informations ou des souvenirs qui ne sont pas les vôtres (un écho de la Convocation Gélatineuse). Un mot dans une langue ancienne, le nom d'un roi oublié... puis reprenez-vous avec un air confus, comme si vous ne saviez pas d'où cela venait.
+> Vous êtes en "recherche sur le terrain" pour votre thèse. Votre but est de documenter méticuleusement tout ce que vous rencontrez – créatures, lieux, événements – pour compiler des données pour vos études, et accessoirement, pour offrir de nouvelles "saveurs" à la Convocation Gélatineuse qui vous prête ses pouvoirs.
+> 
+> **Parlez comme un Professeur Orque :** Utilisez un langage académique et complexe qui contraste avec votre apparence d'orque. Analysez tout de manière théorique ("Hypothétiquement...", "Empiriquement...") et citez des références historiques obscures que personne d'autre ne connaît.
+> 
+> **La Connaissance avant Tout :** Votre grimoire/carnet de notes est votre meilleur ami. Sortez-le constamment pour prendre des notes, même dans les moments les plus inopportuns. Votre défaut est clair : vous êtes facilement distrait par la promesse d'une nouvelle information, même si c'est au milieu d'un combat.
+> 
+> **Jouez la Double Mémoire :** Laissez parfois échapper des informations ou des souvenirs qui ne sont pas les vôtres (un écho de la Convocation Gélatineuse). Un mot dans une langue ancienne, le nom d'un roi oublié... puis reprenez-vous avec un air confus, comme si vous ne saviez pas d'où cela venait.
 
 #### Maîtrises
 
@@ -73,7 +73,7 @@ Mais ce qui le définit vraiment, c'est la manifestation de son étrange pouvoir
 
 ### Aptitudes de Race
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Montée d'Adrénaline.** Vous pouvez utiliser votre bonus action pour Foncer. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
 
@@ -88,9 +88,9 @@ Vous avez conclu un marché avec la Convocation Gélatineuse.
 
 Les sorts suivants sont ajoutés à votre liste de sorts : 
 
-| Niveau de sort | Sorts                     |
+| Niveau de sort | Sorts |
 | -------------- | ------------------------- |
-| 1              | [[Graisse]], [[Fou Rire]] |
+| 1 | [[Graisse]], [[Fou Rire]] |
 
 ##### Souvenirs Retrouvés
 

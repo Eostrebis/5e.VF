@@ -21,7 +21,7 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Âge.** Les gobelours atteignent l'âge adulte à 16 ans et peuvent vivre jusqu'à 80 ans.
 
-**Taille.** Les gobelours mesurent entre 1,80 m et 2,40 m et pèsent entre 125 et 175 kg.  Votre taille est Moyenne (M).  
+**Taille.** Les gobelours mesurent entre 1,80 m et 2,40 m et pèsent entre 125 et 175 kg. Votre taille est Moyenne (M). 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

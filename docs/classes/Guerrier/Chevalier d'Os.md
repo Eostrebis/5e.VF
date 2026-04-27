@@ -13,10 +13,10 @@ De plus, lorsque vous prenez des dégâts contondants, perçants ou tranchants, 
 
 | Niveau de Guerrier | Classe d'Armure |
 | ------------------ | --------------- |
-| 3                  | 17              |
-| 5                  | 18              |
-| 10                 | 19              |
-| 18                 | 20              |
+| 3 | 17 |
+| 5 | 18 |
+| 10 | 19 |
+| 18 | 20 |
 
 ## Lames Osseuses
 

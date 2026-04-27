@@ -27,7 +27,7 @@ Les thri-keen parlent en faisant claquer leurs mandibules et en ondulant leurs a
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Carapace Caméléon.__ Tant que vous ne portez pas d'armure, votre carapace vous confère une CA égale à 13 + votre modificateur de Dextérité. Pour une action, vous pouvez changer la couleur de votre carapace afin de correspondre à la couleur et la texture de votre environnement, vous conférant l'avantage aux jets de Dextérité (Discrétion) pour vous cacher.
 

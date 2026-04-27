@@ -1,9 +1,9 @@
 ---
 subrace: true
 choices:
-  - Drakéïde Chromatique
-  - Drakéïde Diamantin
-  - Drakéïde Métallique
+ - Drakéïde Chromatique
+ - Drakéïde Diamantin
+ - Drakéïde Métallique
 writing_status: finished
 ---
 ### Description
@@ -14,11 +14,11 @@ Les drakéïdes ressemble beaucoup à des dragons dressés sous forme d'humains,
 
 Chez certains clans, le sang d'un type particulier de dragon coule toujours fortement dans les veines. Ces drakéïdes se vantent souvent d'écailles qui correspondent plus étroitement à celles de leurs ancêtres – rouge vif, vert, bleu ou blanc, noir brillant, ou grisé or, argent, laiton, cuivre ou bronze. On sépare généralement les drakéïdes en trois sous-races : 
 
-| Sous-classe                                             | Description                                                      |
+| Sous-classe | Description |
 | ------------------------------------------------------- | ---------------------------------------------------------------- |
-| [[Drakéïde#Drakéïde chromatique\|Drakéïde Chromatique]] | Descendant des dragons chromatiques -- liés aux éléments         |
-| [[Drakéïde#Drakéïde diamantin\|Drakéïde Diamantin]]     | Descendant des dragons diamantins -- ont des pouvoirs psychiques |
-| [[Drakéïde#Drakéïde métallique\|Drakéïde Métallique]]   | Descendant des dragons métalliques -- ont des souffles puissants |
+| [[Drakéïde#Drakéïde chromatique\|Drakéïde Chromatique]] | Descendant des dragons chromatiques -- liés aux éléments |
+| [[Drakéïde#Drakéïde diamantin\|Drakéïde Diamantin]] | Descendant des dragons diamantins -- ont des pouvoirs psychiques |
+| [[Drakéïde#Drakéïde métallique\|Drakéïde Métallique]] | Descendant des dragons métalliques -- ont des souffles puissants |
 
 
 
@@ -67,11 +67,11 @@ Les drakéïdes avec un héritage chromatique revendiquent le pouvoir élémenta
 
 | Dragon | Type de dégâts |
 | ------ | -------------- |
-| Blanc  | Froid          |
-| Bleu   | Foudre         |
-| Noir   | Acide          |
-| Rouge  | Feu            |
-| Vert   | Poison         |
+| Blanc | Froid |
+| Bleu | Foudre |
+| Noir | Acide |
+| Rouge | Feu |
+| Vert | Poison |
 
 **Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
@@ -101,13 +101,13 @@ Les drakéïdes diamantins sont héritiers des dragons diamantins, et se revendi
 
 **Ascendance diamantine.** Vous avez un ancêtre qui est un dragon diamantin, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
-| Dragon    | Type de dégâts |
+| Dragon | Type de dégâts |
 | --------- | -------------- |
-| Améthyste | Force          |
-| Cristal   | Radiant        |
-| Saphir    | Tonnerre       |
-| Topaze    | Nécrotique     |
-| Émeraude  | Psychique      |
+| Améthyste | Force |
+| Cristal | Radiant |
+| Saphir | Tonnerre |
+| Topaze | Nécrotique |
+| Émeraude | Psychique |
 
 **Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
@@ -141,11 +141,11 @@ Les drakéïdes avec un héritage métallique profitent de la ténacité des dra
 
 | Dragon | Type de dégâts |
 | ------ | -------------- |
-| Argent | Froid          |
-| Bronze | Foudre         |
-| Cuivre | Acide          |
-| Laiton | Feu            |
-| Or     | Feu            |
+| Argent | Froid |
+| Bronze | Foudre |
+| Cuivre | Acide |
+| Laiton | Feu |
+| Or | Feu |
 
 **Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.

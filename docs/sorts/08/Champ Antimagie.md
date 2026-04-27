@@ -1,8 +1,8 @@
 ---
 available:
-  - Nécromancien
-  - Clerc
-  - Magicien
+ - Nécromancien
+ - Clerc
+ - Magicien
 level: 8
 school: Abjuration
 Verbal: true

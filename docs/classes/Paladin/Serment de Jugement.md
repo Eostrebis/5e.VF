@@ -23,13 +23,13 @@ Si un conflit éclate et ne peut être résolu par les mots seuls, c'est à vous
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                        |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------------ |
-| 3                 | [[Détection du mal et du bien]], [[représailles infernales]] |
-| 5                 | [[Apaisement des émotions]], [[zone de vérité]]              |
-| 9                 | [[Malédiction persistante]], [[clignotement]]                |
-| 13                | [[Bannissement]], [[porte dimensionnelle]]                   |
-| 17                | [[Dissipation du mal et du bien]], [[mythes et légendes]]    |
+| 3 | [[Détection du mal et du bien]], [[représailles infernales]] |
+| 5 | [[Apaisement des émotions]], [[zone de vérité]] |
+| 9 | [[Malédiction persistante]], [[clignotement]] |
+| 13 | [[Bannissement]], [[porte dimensionnelle]] |
+| 17 | [[Dissipation du mal et du bien]], [[mythes et légendes]] |
 
 ## Canal Divin
 

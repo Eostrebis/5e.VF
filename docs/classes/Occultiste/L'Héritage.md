@@ -9,13 +9,13 @@ Nombre de Patrimoines ont imprégné des occultistes de leurs pouvoirs, et peu e
 
 Votre ancien Patrimoine vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                                |
+| Niveau de Sort | Sorts |
 | -------------- | ---------------------------------------------------- |
-| 1              | [[Boomérisation]], [[héroïsme]]                      |
-| 2              | [[Aide]], [[lame de feu]]                            |
-| 3              | [[Boule de feu]], [[monture fantôme ]]               |
-| 4              | [[Protection contre la mort]], [[peau de pierre]]    |
-| 5              | [[Cône de froid]], [[dissipation du mal et du bien]] |
+| 1 | [[Boomérisation]], [[héroïsme]] |
+| 2 | [[Aide]], [[lame de feu]] |
+| 3 | [[Boule de feu]], [[monture fantôme ]] |
+| 4 | [[Protection contre la mort]], [[peau de pierre]] |
+| 5 | [[Cône de froid]], [[dissipation du mal et du bien]] |
 ## Relique de Transformation
 
 À partir du moment où vous choisissez cette sous-classe au niveau 1, vous possédez une relique magique liée à votre patron qui vous permet de magiquement vous transformer ou de revenir à votre état normal pour une action bonus. La nature exacte de votre transformation varie d'un Patrimoine à l'autre, mais elle change toujours votre apparence et vous confère un pouvoir dramatique. Tant que vous êtes transformé, vous bénéficiez des effets suivants : 
@@ -27,11 +27,11 @@ Votre ancien Patrimoine vous laisse choisir parmi une liste de sorts étendue lo
 
 | Niveau d'Occultiste | Dés de Bataille |
 | ------------------- | --------------- |
-| 1                   | 2d6             |
-| 3                   | 2d8             |
-| 7                   | 3d8             |
-| 13                  | 3d10            |
-| 19                  | 4d10            |
+| 1 | 2d6 |
+| 3 | 2d8 |
+| 7 | 3d8 |
+| 13 | 3d10 |
+| 19 | 4d10 |
 
 ## Force Reliquaire
 

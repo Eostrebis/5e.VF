@@ -18,13 +18,13 @@ Le Serment de la Couronne est prêté aux idéaux de la civilisation, qu'il s'ag
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                      |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------ |
-| 3                 | [[Injonction]], [[duel forcé]]             |
-| 5                 | [[Lien de protection]], [[zone de vérité]] |
-| 9                 | [[Aura de vitalité]], [[esprits gardiens]] |
-| 13                | [[Bannissement]], [[gardien de la foi]]    |
-| 17                | [[Cercle de pouvoir]], [[quête]]           |
+| 3 | [[Injonction]], [[duel forcé]] |
+| 5 | [[Lien de protection]], [[zone de vérité]] |
+| 9 | [[Aura de vitalité]], [[esprits gardiens]] |
+| 13 | [[Bannissement]], [[gardien de la foi]] |
+| 17 | [[Cercle de pouvoir]], [[quête]] |
 
 ## Canal Divin
 

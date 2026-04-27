@@ -1,9 +1,9 @@
 ---
 available:
-  - Clerc
-  - Paladin
-  - Investigateur
-  - Martyr
+ - Clerc
+ - Paladin
+ - Investigateur
+ - Martyr
 level: 1
 school: Abjuration
 Verbal: true

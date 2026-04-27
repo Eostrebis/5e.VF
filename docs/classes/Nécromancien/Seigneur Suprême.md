@@ -7,13 +7,13 @@ Peu d'ambitions accaparent autant l'imagination que celle d'obtenir le pouvoir d
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                                     |
+| Niveau de Sort | Sorts |
 | -------------- | --------------------------------------------------------- |
-| 1              | [[Fléau]], [[injonction]]                                 |
-| 2              | [[Détection des pensées]], [[immobilisation de personne]] |
-| 3              | [[Célérité]], [[lenteur]]                                 |
-| 4              | [[Compulsion]], [[confusion]]                             |
-| 5              | [[Domination de personne]], [[quête]]                     |
+| 1 | [[Fléau]], [[injonction]] |
+| 2 | [[Détection des pensées]], [[immobilisation de personne]] |
+| 3 | [[Célérité]], [[lenteur]] |
+| 4 | [[Compulsion]], [[confusion]] |
+| 5 | [[Domination de personne]], [[quête]] |
 
 ## Don Charnel
 

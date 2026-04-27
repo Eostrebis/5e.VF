@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Artificier
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Artificier
 level: 5
 school: Transmutation
 Verbal: true
@@ -24,13 +24,13 @@ Pour une action bonus, vous pouvez mentalement commander n'importe quelle créat
 
 ## Caractéristiques d'un objet animé
 
-| Taille      | PV  | CA  | FOR | DEX | Attaque                      |
+| Taille | PV | CA | FOR | DEX | Attaque |
 | ----------- | --- | --- | --- | --- | ---------------------------- |
-| Très Petite | 20  | 18  | 4   | 18  | +8 au toucher, dégâts 1d4+4  |
-| Petite      | 25  | 16  | 6   | 14  | +6 au toucher, dégâts 1d8+2  |
-| Moyenne     | 40  | 13  | 10  | 12  | +5 au toucher, dégâts 2d6+1  |
-| Grande      | 50  | 10  | 14  | 10  | +6 au toucher, dégâts 2d10+2 |
-| Très Grande | 80  | 10  | 18  | 6   | +8 au toucher, dégâts 2d12+4 |
+| Très Petite | 20 | 18 | 4 | 18 | +8 au toucher, dégâts 1d4+4 |
+| Petite | 25 | 16 | 6 | 14 | +6 au toucher, dégâts 1d8+2 |
+| Moyenne | 40 | 13 | 10 | 12 | +5 au toucher, dégâts 2d6+1 |
+| Grande | 50 | 10 | 14 | 10 | +6 au toucher, dégâts 2d10+2 |
+| Très Grande | 80 | 10 | 18 | 6 | +8 au toucher, dégâts 2d12+4 |
 
 Un objet animé est une Créature artificielle avec une CA, des points de vie, des attaques ainsi que des scores de Force et de Dextérité déterminés par sa taille. Sa Constitution est de 10, son Intelligence et sa Sagesse sont de 3, et son Charisme est de 1. Sa vitesse est de 30 ft.; si l'objet ne possède pas de jambes ou d'autres membres qu'il pourrait utiliser pour se déplacer, il a une vitesse de vol de 30 ft. et peut planer. Si l'objet est fermement attaché à une surface ou un objet plus grand, telle qu'une chaîne boulonnée à un mur, sa vitesse est de 0. L'objet possède une vision aveugle dans un rayon de 30 ft., et est aveugle au-delà. Lorsque l'objet animé tombe à 0 point de vie, il revient à sa forme originelle, et tout dégât en excès est attribué à sa première forme.
 

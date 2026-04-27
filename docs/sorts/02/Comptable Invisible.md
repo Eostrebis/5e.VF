@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Barde
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Barde
+ - Magicien
 level: 2
 school: Conjuration
 Verbal: true

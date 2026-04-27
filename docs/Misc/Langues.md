@@ -22,7 +22,7 @@ Langue des peuples aériens, elle est composée de clics et de soufflements. Leu
 "Être Volant" -> tsutche
 "Ami" -> citch'e
 "Ennemi" -> tsuca
-"Adversaire" ->  tsa!e
+"Adversaire" -> tsa!e
 "Vitesse" -> chetsetsou
 "Nature" -> ra!otshi
 "Attaquer" -> eho!uci

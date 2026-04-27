@@ -1,6 +1,6 @@
 ---
 available:
-  - Magicien
+ - Magicien
 level: 1
 school: Évocation
 Verbal: true

@@ -9,13 +9,13 @@ Personne n'est certain de pourquoi les dieux créent des martyrs de la Discorde.
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                      |
+| Niveau de Martyr | Sorts |
 | ---------------- | ------------------------------------------ |
-| 3                | [[Fou Rire]], [[blessure]]                 |
-| 5                | [[Toc-toc]], [[fracassement]]              |
-| 9                | [[Éclair]], [[nuage nauséabond]]           |
-| 13               | [[Confusion]], [[métamorphose]]            |
-| 17               | [[Animation d'Objets]], [[passe-muraille]] |
+| 3 | [[Fou Rire]], [[blessure]] |
+| 5 | [[Toc-toc]], [[fracassement]] |
+| 9 | [[Éclair]], [[nuage nauséabond]] |
+| 13 | [[Confusion]], [[métamorphose]] |
+| 17 | [[Animation d'Objets]], [[passe-muraille]] |
 
 ## Cantrips
 
@@ -27,18 +27,18 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
-| d10 | Effet                                                                                                                                                                                         |
+| d10 | Effet |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Vous échangez de place avec la cible                                                                                                                                                          |
-| 2   | La foudre s'abat sur vous et la sur la cible, vous infligeant à chacun 3d6 dégâts électriques                                                                                                 |
-| 3   | La cible doit énoncer à voix haute ses pensées pendant la prochaine minute                                                                                                                    |
-| 4   | Vous lancez [[ténèbres]], centré sur la cible                                                                                                                                                 |
-| 5   | Vous devenez invisible jusqu'à la fin de votre prochain tour, comme d'après le sort [[invisibilité]]                                                                                          |
-| 6   | La cible s'enflamme, prenant 1d4 dégâts de feu. La cible continue de prendre 1d4 dégâts de feu au début de chacun de ses tours jusqu'à ce qu'une créature éteigne les flammes pour une action |
-| 7   | La peau de la cible se transforme en verre fragile jusqu'à la fin de son prochain tour, réduisant sa CA de 3, à un minimum de 10                                                              |
-| 8   | La cible s'affale [[au sol]]                                                                                                                                                                  |
-| 9   | Quelque chose explose au loin, infligeant 8d6 dégâts de feu à n'importe quel créature dans un rayon de 20 ft. autour de l'objet qui explose                                                   |
-| 10  | Tirer deux fois dans cette table et appliquez les deux résultats, en relançant les 10                                                                                                         |
+| 1 | Vous échangez de place avec la cible |
+| 2 | La foudre s'abat sur vous et la sur la cible, vous infligeant à chacun 3d6 dégâts électriques |
+| 3 | La cible doit énoncer à voix haute ses pensées pendant la prochaine minute |
+| 4 | Vous lancez [[ténèbres]], centré sur la cible |
+| 5 | Vous devenez invisible jusqu'à la fin de votre prochain tour, comme d'après le sort [[invisibilité]] |
+| 6 | La cible s'enflamme, prenant 1d4 dégâts de feu. La cible continue de prendre 1d4 dégâts de feu au début de chacun de ses tours jusqu'à ce qu'une créature éteigne les flammes pour une action |
+| 7 | La peau de la cible se transforme en verre fragile jusqu'à la fin de son prochain tour, réduisant sa CA de 3, à un minimum de 10 |
+| 8 | La cible s'affale [[au sol]] |
+| 9 | Quelque chose explose au loin, infligeant 8d6 dégâts de feu à n'importe quel créature dans un rayon de 20 ft. autour de l'objet qui explose |
+| 10 | Tirer deux fois dans cette table et appliquez les deux résultats, en relançant les 10 |
 
 ## Sursis Sanguinaire
 

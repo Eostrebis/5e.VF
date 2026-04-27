@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Druide
-  - Sorcière
+ - Magicien
+ - Ensorceleur
+ - Druide
+ - Sorcière
 level: 2
 school: Transmutation
 Verbal: true

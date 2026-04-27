@@ -40,7 +40,7 @@ Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et êtr
 
 #### Noms
 
-Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certains, le nom choisi est une noble quête. Pour d'autres, une sombre destinée.  
+Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certains, le nom choisi est une noble quête. Pour d'autres, une sombre destinée. 
 
 __Noms Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
 
@@ -67,7 +67,7 @@ Les tieflins liés à Nessus commandent le feu et les ténèbres, guidés par un
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -92,7 +92,7 @@ Le royaume en ruine de Maladomini est dirigé par Belzébuth, qui excelle dans l
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -117,7 +117,7 @@ La grande cité de Dis occupe la majorité du deuxième niveau des Enfers. C'est
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -142,7 +142,7 @@ Maître manipulatrice, Fierna confère à ses tieflins de puissantes personnalit
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -167,7 +167,7 @@ Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utile po
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -192,7 +192,7 @@ La Stygie gelée est dirigée par Levistus, archidiable connu pour offrir des ma
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -217,7 +217,7 @@ Le grand avare Mammon adore l'or par-dessus tout. Les tieflins qui lui sont lié
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -242,7 +242,7 @@ Dans le royaume gelé de Cania, Méphistophélès offre un pouvoir arcanique à 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -267,7 +267,7 @@ Les tieflins liés à Zariel sont plus forts que le tieflin typique et reçoiven
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 
@@ -292,7 +292,7 @@ Ancien dirigeant d'Averne, Bel confère à ses tieflins la capacité de voler.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft.  de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 __Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
 

@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Barde
+ - Magicien
+ - Barde
 level: 2
 school: Enchantement
 Verbal: true

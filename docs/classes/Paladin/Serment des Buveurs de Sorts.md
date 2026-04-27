@@ -18,13 +18,13 @@ Ces paladins sont pleins de ressources et prompts à se remémorer leur propre m
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                           |
+| Niveau de Paladin | Sorts |
 | ----------------- | --------------------------------------------------------------- |
-| 3                 | [[Fléau]], [[détection de la magie]]                            |
-| 5                 | [[Aura magique de l'arcaniste]], [[immobilisation de personne]] |
-| 9                 | [[Dissipation de la magie]], [[lenteur]]                        |
-| 13                | [[Porte dimensionnelle]], [[sphère résiliente]]                 |
-| 17                | [[Domination de personne]], [[scrutation]]                      |
+| 3 | [[Fléau]], [[détection de la magie]] |
+| 5 | [[Aura magique de l'arcaniste]], [[immobilisation de personne]] |
+| 9 | [[Dissipation de la magie]], [[lenteur]] |
+| 13 | [[Porte dimensionnelle]], [[sphère résiliente]] |
+| 17 | [[Domination de personne]], [[scrutation]] |
 
 ## Canal Divin
 

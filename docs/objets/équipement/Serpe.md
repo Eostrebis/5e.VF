@@ -6,6 +6,6 @@ englishname: Sickle
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés |
+| Dégâts | Propriétés |
 | -------------- | ---------- |
-| 1d4 tranchants | Léger      |
+| 1d4 tranchants | Léger |

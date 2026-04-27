@@ -1,12 +1,12 @@
 ---
 available:
-  - Martyr
-  - Barde
-  - Clerc
-  - Druide
-  - Paladin
-  - Ranger
-  - Artificier
+ - Martyr
+ - Barde
+ - Clerc
+ - Druide
+ - Paladin
+ - Ranger
+ - Artificier
 level: 1
 school: Évocation
 Verbal: true

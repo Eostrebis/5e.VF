@@ -5,13 +5,13 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 
 **Sorts du Domaine de la Tromperie**
 
-| Niveau de Clerc | Sorts                                                      |
+| Niveau de Clerc | Sorts |
 | --------------- | ---------------------------------------------------------- |
-| 1               | [[Charme-personne]], [[Déguisement]]                       |
-| 3               | [[Image miroir]], [[passage sans trace]]                   |
-| 5               | [[Clignotement]], [[Dissipation de la Magie]]              |
-| 7               | [[Porte dimensionnelle]], [[métamorphose]]                 |
-| 9               | [[Domination de personne]], [[Modification de Mémoire]] |
+| 1 | [[Charme-personne]], [[Déguisement]] |
+| 3 | [[Image miroir]], [[passage sans trace]] |
+| 5 | [[Clignotement]], [[Dissipation de la Magie]] |
+| 7 | [[Porte dimensionnelle]], [[métamorphose]] |
+| 9 | [[Domination de personne]], [[Modification de Mémoire]] |
 
 ## Bénédiction du Farceur
 

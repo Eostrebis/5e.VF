@@ -17,11 +17,11 @@ Les sorts dont vous disposez et leur coût en points de chronomancie sont donné
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
 
-| Niveau de Roublard | Points de Chronomancie | Sorts                               |
+| Niveau de Roublard | Points de Chronomancie | Sorts |
 | ------------------ | ---------------------- | ----------------------------------- |
-| 3                  | 2                      | [[Action]], [[reprise instantanée]] |
-| 9                  | 3                      | [[Délai]], [[retour arrière]]       |
-| 13                 | 5                      | [[Célérité]], [[lenteur]]           |
+| 3 | 2 | [[Action]], [[reprise instantanée]] |
+| 9 | 3 | [[Délai]], [[retour arrière]] |
+| 13 | 5 | [[Célérité]], [[lenteur]] |
 
 ## Impressions du Futur
 

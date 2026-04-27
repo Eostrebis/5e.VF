@@ -20,13 +20,13 @@ Bien que les rédempteurs soient des idéalistes, ils ne sont pas dupes. Ils sav
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                       |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------------------------- |
-| 3                 | [[Sanctuaire]], [[sommeil]]                                 |
-| 5                 | [[Apaisement des émotions]], [[immobilisation de personne]] |
-| 9                 | [[Contresort]], [[Trame Hypnotique]]                        |
-| 13                | [[Sphère résiliente]], [[peau de pierre]]                   |
-| 17                | [[Immobilisation de monstre]], [[mur de force]]             |
+| 3 | [[Sanctuaire]], [[sommeil]] |
+| 5 | [[Apaisement des émotions]], [[immobilisation de personne]] |
+| 9 | [[Contresort]], [[Trame Hypnotique]] |
+| 13 | [[Sphère résiliente]], [[peau de pierre]] |
+| 17 | [[Immobilisation de monstre]], [[mur de force]] |
 
 ## Canal Divin
 

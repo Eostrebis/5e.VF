@@ -7,13 +7,13 @@ La puissance nécromantique se décline en bien des façons, mais sa source la p
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                                      |
+| Niveau de Sort | Sorts |
 | -------------- | ---------------------------------------------------------- |
-| 1              | [[Charme-personne]], [[sommeil]]                           |
-| 2              | [[Discours captivant]], [[suggestion]]                     |
-| 3              | [[Trame hypnotique]], [[Toucher du Vampire]]                       |
-| 4              | [[Assassin imaginaire]], [[sanctuaire privé]]              |
-| 5              | [[Domination de personne]], [[Modification de Mémoire]] |
+| 1 | [[Charme-personne]], [[sommeil]] |
+| 2 | [[Discours captivant]], [[suggestion]] |
+| 3 | [[Trame hypnotique]], [[Toucher du Vampire]] |
+| 4 | [[Assassin imaginaire]], [[sanctuaire privé]] |
+| 5 | [[Domination de personne]], [[Modification de Mémoire]] |
 
 ## Drain Charnel
 

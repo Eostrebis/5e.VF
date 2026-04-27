@@ -6,7 +6,7 @@ englishname: Light Cannon
 writing_status: empty
 ---
 
-| Dégâts           | Propriétés                                                                                   |
+| Dégâts | Propriétés |
 | ---------------- | -------------------------------------------------------------------------------------------- |
 | 2d12 contondants | Munitions (Portée 80/320), Lourd, Monté, Rechargement (1 ; 2 actions), Spécial, À deux mains |
 

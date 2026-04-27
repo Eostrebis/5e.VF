@@ -1,6 +1,6 @@
 ---
 available:
-  - Sorcière
+ - Sorcière
 level: 4
 school: Transmutation
 Verbal: true

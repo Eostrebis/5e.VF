@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Clerc
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Clerc
+ - Magicien
 level: 5
 school: Divination
 Verbal: true

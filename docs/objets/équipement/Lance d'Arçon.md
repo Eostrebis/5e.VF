@@ -6,7 +6,7 @@ englishname: Lance
 writing_status: finished
 ---
 
-| Dégâts        | Propriétés      |
+| Dégâts | Propriétés |
 | ------------- | --------------- |
 | 1d12 perçants | Portée, Spécial |
 

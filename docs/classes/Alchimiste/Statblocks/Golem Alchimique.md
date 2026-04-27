@@ -28,9 +28,9 @@ ___
 >
 >***Absorption d'Éclair.*** À chaque fois que le golem alchimique est la cible de dégâts de foudre, il ne prend aucun dégât et se soigne à la place d'un montant égal à la moitié des dégâts de foudre.
 >
->***Résistance Magique.*** Le golem alchimique a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.  
+>***Résistance Magique.*** Le golem alchimique a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques. 
 >
->***Greffes Monstrueuses*** Les attaques armée du golem alchimique, y compris les greffes monstrueuses ajoutées par son créateur, sont magiques. Les greffes monstrueuses ont un bonus d'attaque de +6, font deux fois le nombre normal de dés de dégâts, et ont un bonus de dégâts de +5. Le golem alchimique ne peut avoir qu'une greffe monstrueuse à chaque emplacement.  
+>***Greffes Monstrueuses*** Les attaques armée du golem alchimique, y compris les greffes monstrueuses ajoutées par son créateur, sont magiques. Les greffes monstrueuses ont un bonus d'attaque de +6, font deux fois le nombre normal de dés de dégâts, et ont un bonus de dégâts de +5. Le golem alchimique ne peut avoir qu'une greffe monstrueuse à chaque emplacement. 
 >
 >### Actions
 >***Attaques Multiples.*** Le golem alchimique réalise deux attaques d'arme de mêlée. 

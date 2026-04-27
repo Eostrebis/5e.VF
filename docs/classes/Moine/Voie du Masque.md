@@ -34,4 +34,4 @@ Au niveau 11, une fois par tour lorsque vous tombez de 5 ft. ou plus avant de r�
 ## Étranglement
 
 Au niveau 17, vos étranglements sont si puissants qu'ils assommeraient même des dragons. Lorsque vous réalisez une clé sur une créature, vous pouvez dépenser 2 points de ki pour essayer d'étrangler la créature. Elle doit réussir un jet de sauvegarde de Constitution ou être [[inconscient||inconsciente]] jusqu'au début de votre prochain tour.
-   
+ 

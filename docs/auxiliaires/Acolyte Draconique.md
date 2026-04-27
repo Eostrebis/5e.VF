@@ -14,16 +14,16 @@ Lorsque vous obtenez ce niveau, vous devenez allié avec une ancienne wyrm ou un
 
 | Dragon | Type de Dégâts |
 | ------ | -------------- |
-| Argent | Froid          |
-| Blanc  | Froid          |
-| Bleu   | Foudre         |
-| Bronze | Foudre         |
-| Cuivre | Acide          |
-| Laiton | Feu            |
-| Noir   | Acide          |
-| Or     | Feu            |
-| Rouge  | Feu            |
-| Vert   | Poison         |
+| Argent | Froid |
+| Blanc | Froid |
+| Bleu | Foudre |
+| Bronze | Foudre |
+| Cuivre | Acide |
+| Laiton | Feu |
+| Noir | Acide |
+| Or | Feu |
+| Rouge | Feu |
+| Vert | Poison |
 
 ## Arme de Souffle
 

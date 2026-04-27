@@ -9,13 +9,13 @@ Vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux
 
 À chaque fois que vous gagnez un niveau d'ensorceleur, vous pouvez remplacer un sort que vous avez appris de cette aptitude par un autre sort du même niveau. Le nouveau sort doit être de l'école de la conjuration ou de la transmutation, et appartenir à la liste de sorts de l'ensorceleur, de l'occultiste ou du magicien.
 
-| Niveau | Sorts                                         |
+| Niveau | Sorts |
 | ------ | --------------------------------------------- |
-| 1      | [[Déguisement]], [[graisse]]                  |
-| 3      | [[Aberration corporelle]], [[flèche d'acide]] |
-| 5      | [[Démembrement bénin]], [[poigne rouillante]] |
-| 7      | [[Liberté de mouvement]], [[Peau de pierre]]  |
-| 9      | [[Évasivité]], [[apparence trompeuse]]        |
+| 1 | [[Déguisement]], [[graisse]] |
+| 3 | [[Aberration corporelle]], [[flèche d'acide]] |
+| 5 | [[Démembrement bénin]], [[poigne rouillante]] |
+| 7 | [[Liberté de mouvement]], [[Peau de pierre]] |
+| 9 | [[Évasivité]], [[apparence trompeuse]] |
 
 ## Réformation
 

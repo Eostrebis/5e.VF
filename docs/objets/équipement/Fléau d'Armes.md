@@ -6,6 +6,6 @@ englishname: Flail
 writing_status: finished
 ---
 
-| Dégâts          | Propriétés |
+| Dégâts | Propriétés |
 | --------------- | ---------- |
-| 1d8 contondants | --         |
+| 1d8 contondants | -- |

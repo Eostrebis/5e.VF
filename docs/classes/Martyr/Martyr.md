@@ -31,29 +31,29 @@ Considérez aussi la vie que vous avez menée avant d'être un Martyr. Étiez-vo
 
 Vous pouvez créer un Martyr rapidement en suivant ces suggestions. Commencez par faire de la Constitution votre caractéristique principale, suivie de la Force si vous choisissez un fardeau reposant sur le combat au corps à corps, et la Sagesse sinon. Choisissez l'historique de votre choix.
 
-| **Le Martyr** |                   |                                                                                                                                           |                     |                      |
+| **Le Martyr** | | | | |
 | ------------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | -------------------- |
-| Niveau        | Bonus de Maîtrise | Aptitudes                                                                                                                                 | Niveau de Sort Max. | Utilisation de Sorts |
-| 1             | +2                | [[Martyr#Fardeau Mortel\|Fardeau Mortel]], [[Martyr#Mort Ordinée\|Mort Ordinée]]                                                          | --                  | --                   |
-| 2             | +2                | [[Martyr#Marque du Héraut\|Marque du Héraut]], [[Martyr#Incantation\|Incantation]], [[Martyr#Représailles Saintes\|Représailles Saintes]] | 1                   | 2                    |
-| 3             | +2                | [[Martyr#Soin Divin\|Soin Divin]], [[Martyr#Tourment\|Tourment]]                                                                          | 1                   | 3                    |
-| 4             | +2                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 1                   | 3                    |
-| 5             | +3                | [[Martyr#Attaque Supplémentaire\|Attaque Supplémentaire]]                                                                                 | 2                   | 6                    |
-| 6             | +3                | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                     | 2                   | 6                    |
-| 7             | +3                | [[Martyr#Répit\|Répit]]                                                                                                                   | 2                   | 7                    |
-| 8             | +3                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 2                   | 7                    |
-| 9             | +4                | --                                                                                                                                        | 3                   | 9                    |
-| 10            | +4                | [[Martyr#Conviction Immortelle\|Conviction Immortelle]]                                                                                   | 3                   | 9                    |
-| 11            | +4                | Amélioration de [[Martyr#Tourment\|Tourment]]                                                                                             | 3                   | 10                   |
-| 12            | +4                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 3                   | 10                   |
-| 13            | +5                | --                                                                                                                                        | 4                   | 11                   |
-| 14            | +5                | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                     | 4                   | 11                   |
-| 15            | +5                | [[Martyr#Marche vers le Destin\|Marche vers le Destin]]                                                                                   | 4                   | 12                   |
-| 16            | +5                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 4                   | 12                   |
-| 17            | +6                | --                                                                                                                                        | 5                   | 14                   |
-| 18            | +6                | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]]                                                                                     | 5                   | 14                   |
-| 19            | +6                | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]]                                                             | 5                   | 15                   |
-| 20            | +6                | [[Martyr#Véritable Martyr\|Véritable Martyr]]                                                                                             | 5                   | 15                   |
+| Niveau | Bonus de Maîtrise | Aptitudes | Niveau de Sort Max. | Utilisation de Sorts |
+| 1 | +2 | [[Martyr#Fardeau Mortel\|Fardeau Mortel]], [[Martyr#Mort Ordinée\|Mort Ordinée]] | -- | -- |
+| 2 | +2 | [[Martyr#Marque du Héraut\|Marque du Héraut]], [[Martyr#Incantation\|Incantation]], [[Martyr#Représailles Saintes\|Représailles Saintes]] | 1 | 2 |
+| 3 | +2 | [[Martyr#Soin Divin\|Soin Divin]], [[Martyr#Tourment\|Tourment]] | 1 | 3 |
+| 4 | +2 | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 1 | 3 |
+| 5 | +3 | [[Martyr#Attaque Supplémentaire\|Attaque Supplémentaire]] | 2 | 6 |
+| 6 | +3 | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]] | 2 | 6 |
+| 7 | +3 | [[Martyr#Répit\|Répit]] | 2 | 7 |
+| 8 | +3 | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 2 | 7 |
+| 9 | +4 | -- | 3 | 9 |
+| 10 | +4 | [[Martyr#Conviction Immortelle\|Conviction Immortelle]] | 3 | 9 |
+| 11 | +4 | Amélioration de [[Martyr#Tourment\|Tourment]] | 3 | 10 |
+| 12 | +4 | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 3 | 10 |
+| 13 | +5 | -- | 4 | 11 |
+| 14 | +5 | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]] | 4 | 11 |
+| 15 | +5 | [[Martyr#Marche vers le Destin\|Marche vers le Destin]] | 4 | 12 |
+| 16 | +5 | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 4 | 12 |
+| 17 | +6 | -- | 5 | 14 |
+| 18 | +6 | Aptitude de [[Martyr#Fardeau Mortel\|Fardeau Mortel]] | 5 | 14 |
+| 19 | +6 | [[Martyr#Augmentation de Caractéristiques\|Augmentation de Caractéristiques]] | 5 | 15 |
+| 20 | +6 | [[Martyr#Véritable Martyr\|Véritable Martyr]] | 5 | 15 |
 
 # Aptitudes de Classes
 
@@ -93,16 +93,16 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 Dès le niveau 1, vous êtes destinés à périr au nom d'un idéal qui vous dépasse, gravant votre nom au côté de ceux qui ont fait de même. Choisissez un Fardeau Mortel, qui vous confère des aptitudes au niveau 2, 6, 10, et 18.
 
-| Fardeau                    | Description                                                                   |
+| Fardeau | Description |
 | -------------------------- | ----------------------------------------------------------------------------- |
-| [[Fardeau d'Expiation]]    | Vise à corriger tout le mal de leur vie de par leur martyr divin              |
-| [[Fardeau de Discorde]]    | Propage le chaos et dérange le statu quo                                      |
-| [[Fardeau de la Fin]]      | Sa mission : empêcher la fin du monde                                         |
-| [[Fardeau de Pitié]]       | Soigne les malades et apaise les souffrances de tous                          |
+| [[Fardeau d'Expiation]] | Vise à corriger tout le mal de leur vie de par leur martyr divin |
+| [[Fardeau de Discorde]] | Propage le chaos et dérange le statu quo |
+| [[Fardeau de la Fin]] | Sa mission : empêcher la fin du monde |
+| [[Fardeau de Pitié]] | Soigne les malades et apaise les souffrances de tous |
 | [[Fardeau de Renaissance]] | Missionné à la préservation de l'équilibre entre la civilisation et la nature |
-| [[Fardeau de Révolution]]  | Envoyé par les dieux pour propager la liberté et écraser les tyrans           |
-| [[Fardeau de Vérité]]      | Un prophète tâché d'apporter une vérité révolutionnaire au monde              |
-| [[Fardeau de Tyrannie]]    | Destiné à devenir roi et diriger d'une poigne de fer                          |
+| [[Fardeau de Révolution]] | Envoyé par les dieux pour propager la liberté et écraser les tyrans |
+| [[Fardeau de Vérité]] | Un prophète tâché d'apporter une vérité révolutionnaire au monde |
+| [[Fardeau de Tyrannie]] | Destiné à devenir roi et diriger d'une poigne de fer |
 
 ### Sort de Fardeau
 Chaque fardeau possède une liste de sorts associés que vous gagnez au niveau de martyr spécifié dans la description du fardeau. Une fois que vous avez accès à un sort de fardeau, vous l'avez toujours préparé, et il ne compte pas dans le nombre de sorts que vous pouvez préparer chaque jour. Si vous récupérez un sort de fardeau qui n'apparaît dans la liste de sort du Martyr, traitez-le tout de même comme un sort de Martyr.
@@ -130,11 +130,11 @@ La colonne Utilisation de Sorts de la table du Martyr montre combien de sorts vo
 ##### Incantation par Points de Vie
 | Niveau du sort | Coût |
 | -------------- | ---- |
-| 1er            | 5    |
-| 2ème           | 10   |
-| 3ème           | 20   |
-| 4ème           | 30   |
-| 5ème           | 45   |
+| 1er | 5 |
+| 2ème | 10 |
+| 3ème | 20 |
+| 4ème | 30 |
+| 5ème | 45 |
 
 ### Préparer des sorts
 

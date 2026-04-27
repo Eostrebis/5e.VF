@@ -13,25 +13,25 @@ Produit par une aiguille spéciale, ce tatouage magique représente une œuvre m
 
 | d10 | Type de dégâts | Couleur |
 | --- | -------------- | ------- |
-| 1   | Acide          | Vert    |
-| 2   | Froid          | Bleu    |
-| 3   | Feu            | Rouge   |
-| 4   | Force          | Blanc   |
-| 5   | Foudre         | Jaune   |
-| 6   | Nécrotique     | Noir    |
-| 7   | Poison         | Violet  |
-| 8   | Psychique      | Argent  |
-| 9   | Radiant        | Or      |
-| 10  | Tonnerre        | Orange  |
+| 1 | Acide | Vert |
+| 2 | Froid | Bleu |
+| 3 | Feu | Rouge |
+| 4 | Force | Blanc |
+| 5 | Foudre | Jaune |
+| 6 | Nécrotique | Noir |
+| 7 | Poison | Violet |
+| 8 | Psychique | Argent |
+| 9 | Radiant | Or |
+| 10 | Tonnerre | Orange |
 
 **Absorption des dégâts.** Quand vous prenez des dégâts du type choisi, vous pouvez utiliser votre réaction pour gagner l'immunité à cette instance de dégâts, et vous regagnez un nombre de points de vie égal à la moitié des dégâts que vous auriez dû prendre. Une fois que cette réaction a été utilisée, vous devez attendre la prochaine aube pour pouvoir l'utiliser à nouveau.
 
 ## Couverture d'un tatouage magique
 
-| Rareté du tatouage | Couverture                                   |
+| Rareté du tatouage | Couverture |
 | ------------------ | -------------------------------------------- |
-| Commun             | Une main, un pied, ou le quart d'un membre   |
-| Peu Commun         | La moitié d'un membre ou le scalp            |
-| Rare               | Un membre                                    |
-| Très Rare          | Deux membres, ou le torse, ou le haut du dos |
-| Légendaire         | Deux membres et le torse                     | 
+| Commun | Une main, un pied, ou le quart d'un membre |
+| Peu Commun | La moitié d'un membre ou le scalp |
+| Rare | Un membre |
+| Très Rare | Deux membres, ou le torse, ou le haut du dos |
+| Légendaire | Deux membres et le torse | 

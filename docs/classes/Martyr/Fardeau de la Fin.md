@@ -9,13 +9,13 @@ Lorsque le cataclysme fait son approche, le martyr n'a rien à gagner à ignorer
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                       |
+| Niveau de Martyr | Sorts |
 | ---------------- | ----------------------------------------------------------- |
-| 3                | [[Rayon Traçant]], [[protection contre le mal et le bien]] |
-| 5                | [[Cécité ou Surdité]], [[ténèbres]]                         |
-| 9                | [[Appel de la Foudre]], [[Contresort]]                      |
-| 13               | [[Flétrissement]], [[contrôle de l'eau]]                    |
-| 17               | [[Frappe de flamme]], [[fléau d'insectes]]                  |
+| 3 | [[Rayon Traçant]], [[protection contre le mal et le bien]] |
+| 5 | [[Cécité ou Surdité]], [[ténèbres]] |
+| 9 | [[Appel de la Foudre]], [[Contresort]] |
+| 13 | [[Flétrissement]], [[contrôle de l'eau]] |
+| 17 | [[Frappe de flamme]], [[fléau d'insectes]] |
 
 ## Cantrips
 

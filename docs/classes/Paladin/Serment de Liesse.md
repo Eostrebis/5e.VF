@@ -17,13 +17,13 @@ Les paladins qui prêtent le Serment de Liesse font le vœu solennel de festoyer
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                             |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------------------------------- |
-| 3                 | [[Charme-personne]], [[fou rire]]                                 |
-| 5                 | [[Apaisement des émotions]], [[amélioration de caractéristiques]] |
-| 9                 | [[Création de nourriture et d'eau]], [[Trame Hypnotique]]         |
-| 13                | [[Compulsion]], [[liberté de mouvement]]                          |
-| 17                | [[Quête]], [[lien télépathique]]                                  |
+| 3 | [[Charme-personne]], [[fou rire]] |
+| 5 | [[Apaisement des émotions]], [[amélioration de caractéristiques]] |
+| 9 | [[Création de nourriture et d'eau]], [[Trame Hypnotique]] |
+| 13 | [[Compulsion]], [[liberté de mouvement]] |
+| 17 | [[Quête]], [[lien télépathique]] |
 
 ## Canal Divin
 

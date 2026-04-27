@@ -23,7 +23,7 @@ Le nombre maximum de points de ki que vous pouvez dépenser pour lancer un sort 
 
 | Niveaux de Moine | Points de Ki Maximum |
 | ---------------- | -------------------- |
-| 5-8              | 3                    |
-| 9-12             | 4                    |
-| 13-16            | 5                    |
-| 17-20            | 6                     |
+| 5-8 | 3 |
+| 9-12 | 4 |
+| 13-16 | 5 |
+| 17-20 | 6 |

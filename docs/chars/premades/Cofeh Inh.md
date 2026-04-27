@@ -13,22 +13,22 @@ __Points de vie :__ 12
 
 __Vitesse :__ 30 ft.
 
-|   FOR   |   DEX   |   CON   |  INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :----: | :-----: | :-----: |
 | 14 (+2) | 14 (+2) | 14 (+2) | 7 (-2) | 13 (+1) | 14 (+2) |
-|  ◎ +2   |  ◎ +2   |  ◎ +2   |  ◎ -2  |  ◉ +3   |  ◉ +4   |
+| ◎ +2 | ◎ +2 | ◎ +2 | ◎ -2 | ◉ +3 | ◉ +4 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : -2  |
-| ◎ Arcanes (_Int_) : -2      | ◉ Médecine (_Sag_) : +3       |
-| ◎ Athlétisme (_For_) : +2   | ◎ Nature (_Int_) : -2<br>     |
-| ◎ Discrétion (_Dex_) : +2   | ◎ Perception (_Sag_) : +1     |
-| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +2     |
-| ◎ Escamotage (_Dex_) : +2   | ◉ Religion (_Int_) : ±0       |
-| ◎ Histoire (_Int_) : -2     | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +3         |
-| ◉ Intuition (_Sag_) : +3    | ◎ Tromperie (_Cha_) : +2<br>  |
+| ◎ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : -2 |
+| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
+| ◎ Athlétisme (_For_) : +2 | ◎ Nature (_Int_) : -2<br> |
+| ◎ Discrétion (_Dex_) : +2 | ◎ Perception (_Sag_) : +1 |
+| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +2 |
+| ◎ Escamotage (_Dex_) : +2 | ◉ Religion (_Int_) : ±0 |
+| ◎ Histoire (_Int_) : -2 | ◎ Représentation (_Cha_) : +2 |
+| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +3 |
+| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : +2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Cofeh, une paladine à la foi simple et inébranlable, dont la force et l'optimisme sont aussi éclatants que son armure, et dont la solution à la plupart des problèmes est de foncer tête baissée pour protéger les innocents.

@@ -1,7 +1,7 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Illusion
 Verbal: true

@@ -5,13 +5,13 @@ Les dieux dont la charge inclue le domaine de la Tempête gouvernent les tempêt
 
 **Sorts du Domaine de la Tempête**
 
-| Niveau de Clerc | Sorts                                        |
+| Niveau de Clerc | Sorts |
 | --------------- | -------------------------------------------- |
-| 1               | [[Brouillard]], [[Vague Tonnante]]           |
-| 3               | [[Saute de Vent]], [[fracassement]]          |
-| 5               | [[Appel de la Foudre]], [[tempête de neige]] |
-| 7               | [[Contrôle de l'eau]], [[tempête de grêle]]  |
-| 9               | [[Vague destructrice]], [[fléau d'insectes]] |
+| 1 | [[Brouillard]], [[Vague Tonnante]] |
+| 3 | [[Saute de Vent]], [[fracassement]] |
+| 5 | [[Appel de la Foudre]], [[tempête de neige]] |
+| 7 | [[Contrôle de l'eau]], [[tempête de grêle]] |
+| 9 | [[Vague destructrice]], [[fléau d'insectes]] |
 
 ## Maîtrise Supplémentaire
 

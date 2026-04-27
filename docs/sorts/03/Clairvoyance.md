@@ -1,14 +1,14 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Sorcière
+ - Investigateur
+ - Nécromancien
+ - Sorcière
 level: 3
 school: Divination
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Un focalisateur valant au moins 100 po, soit une corne d'ouïe en joyaux  soit un œil de verre
+detailmat: Un focalisateur valant au moins 100 po, soit une corne d'ouïe en joyaux soit un œil de verre
 Duree: 10 Minutes
 Incantation: 10 Minutes
 Portee: 2 kilomètres

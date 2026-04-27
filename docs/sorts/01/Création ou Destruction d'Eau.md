@@ -1,7 +1,7 @@
 ---
 available:
-  - Clerc
-  - Druide
+ - Clerc
+ - Druide
 level: 1
 school: Transmutation
 Verbal: true

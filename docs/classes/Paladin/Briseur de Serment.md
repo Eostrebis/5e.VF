@@ -9,13 +9,13 @@ Un paladin doit être mauvais et au moins de niveau 3 pour devenir un Briseur de
 
 Un paladin Briseur de Serment perd accès aux sorts que lui conférait son serment et obtient à la place l'accès aux sorts suivants : 
 
-| Niveau de Paladin | Sorts                                                |
+| Niveau de Paladin | Sorts |
 | ----------------- | ---------------------------------------------------- |
-| 3                 | [[Représailles infernales]], [[blessure]]            |
-| 5                 | [[Couronne du dément]], [[ténèbres]]                 |
-| 9                 | [[Animation des morts]], [[malédiction persistante]] |
-| 13                | [[Flétrissement]], [[confusion]]                     |
-| 17                | [[Contagion]], [[domination de personne]]            |
+| 3 | [[Représailles infernales]], [[blessure]] |
+| 5 | [[Couronne du dément]], [[ténèbres]] |
+| 9 | [[Animation des morts]], [[malédiction persistante]] |
+| 13 | [[Flétrissement]], [[confusion]] |
+| 17 | [[Contagion]], [[domination de personne]] |
 
 ## Canal Divin
 
