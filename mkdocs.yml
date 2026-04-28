@@ -81,7 +81,7 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.snippets:
         auto_append:
-	  - includes/abbreviations.md
+          - includes/abbreviations.md
   # - pymdownx.superfences:
   #     custom_fences:
   #       - name: mermaid

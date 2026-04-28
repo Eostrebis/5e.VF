@@ -263,7 +263,7 @@ Vous êtes un porterlin, enfanté par un humain et par un gnome ou un halfelin. 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Souple.** Vous avez l'avantage aux jets pour s'échapper d'une saisie, ou glisser en dehors de liens.
+**Souple.** Vous avez l'avantage aux jets pour s'Échapper d'une saisie, ou glisser en dehors de liens.
 
 **Saut à Ressort.** À chaque fois que vous réalisez un saut, vous pouvez lancer un d8 et ajouter le résultat au nombre de pieds (ft.) que vous pouvez parcourir, même si vous réalisez un saut sans élan. Cette distance supplémentaire coûte des points de mouvement comme à l'ordinaire.
 

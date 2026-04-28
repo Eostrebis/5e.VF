@@ -36,7 +36,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 **Furie des Marées.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour canaliser la puissance des vagues afin de renforcer vos attaques pendant 1 minute. Une fois par tour pendant cette durée, lorsque vous touchez une créature avec une attaque armée, vous pouvez choisir de repousser la cible de 10 ft. à l'opposé de vous. Si elle est repoussée vers un obstacle ou une autre créature, la cible subit un nombre de dégâts contondants égal à votre modificateur de Charisme.
 ## Aura de Libération
 
-À partir du niveau 7, vous emplissez les créatures proches d'énergie cinétique. Tant que vous n'êtes pas [[incapacité]], vous et les créatures de votre choix à 10 ft. de vous ne pouvez être [[saisi|saisis]] ou [[retenu|retenus]] et ignorez les pénalités de mouvement et attaques lorsque vous êtes sous l'eau. Les créatures qui sont déjà [[saisi|saisie]] ou [[retenu|retenue]] lorsqu'elles pénètrent dans l'aura peuvent dépenser 5 ft. de mouvement pour s'échapper automatiquement, sauf si les entraves sont magiques.
+À partir du niveau 7, vous emplissez les créatures proches d'énergie cinétique. Tant que vous n'êtes pas [[incapacité]], vous et les créatures de votre choix à 10 ft. de vous ne pouvez être [[saisi|saisis]] ou [[retenu|retenus]] et ignorez les pénalités de mouvement et attaques lorsque vous êtes sous l'eau. Les créatures qui sont déjà [[saisi|saisie]] ou [[retenu|retenue]] lorsqu'elles pénètrent dans l'aura peuvent dépenser 5 ft. de mouvement pour s'Échapper automatiquement, sauf si les entraves sont magiques.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 ## Eaux Tempétueuses

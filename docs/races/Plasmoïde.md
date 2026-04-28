@@ -27,7 +27,7 @@ Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et s
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Amorphe.** Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
+**Amorphe.** Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou Échapper une saisie.
 
 **Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
