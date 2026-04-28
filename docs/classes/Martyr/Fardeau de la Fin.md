@@ -33,7 +33,7 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 ## Accepter l'inévitable
 
-À partir du niveau 14, une fois à chacun de vos tours, lorsque vous lancez un sort de martyr de niveau 1 ou supérieur qui demande un jet de sauvegarde pour résister à ses effets, vous pouvez dépenser un nombre de points de vie supplémentaire égal à la moitié du coût du sort pour donner à une cible le désavantage au premier jet de sauvegarde qu'elle réalise contre le sort.
+À partir du niveau 14, une fois à chacun de vos tours, lorsque vous lancez un sort de martyr de niveau 1 ou supérieur qui demande un jet de sauvegarde pour résister à ses effets, vous pouvez dépenser un nombre de points de vie supplémentaire égal à la moitié du coût du sort pour donner à une cible le désavantage au premier jet de sauvegarde qu'elle effectue contre le sort.
 
 ## Empêcher l'Apocalypse
 

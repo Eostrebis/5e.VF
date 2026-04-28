@@ -21,7 +21,7 @@ Un requin adulte peut sentir une simple goutte de sang dans l'eau à presque 2 k
 
 ## Mako
 
-À partir du niveau 10, vos dégâts de morsure passent à 1d10. De plus, une fois par tour lorsque vous touchez une créature avec votre attaque de morsure, elle doit réaliser un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[au sol]] ou être [[saisi|saisie]] par vous. La cible a le désavantage à ce jet si vous êtes en train de nager.
+À partir du niveau 10, vos dégâts de morsure passent à 1d10. De plus, une fois par tour lorsque vous touchez une créature avec votre attaque de morsure, elle doit effectuer un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[au sol]] ou être [[saisi|saisie]] par vous. La cible a le désavantage à ce jet si vous êtes en train de nager.
 
 ## Tsunami
 

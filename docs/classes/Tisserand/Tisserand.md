@@ -150,7 +150,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 ## Découpe-Ruban
 
-À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible subit un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
+À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible subit un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
 
 ## Tapisserie du Tisserand
 

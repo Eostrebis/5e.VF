@@ -39,4 +39,4 @@ Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes tran
 
 **Régénération.** Au début de chacun de vos tours, vous regagnez 10 points de vie. Vous ne bénéficiez pas de cet effet si vous avez 0 point de vie ou si vous êtes au soleil.
 
-**Agilité Vampirique.** Votre vitesse est doublée. De plus, vous pouvez escalader les parois difficiles (y compris au plafond) sans avoir à réaliser de jets de caractéristique.
+**Agilité Vampirique.** Votre vitesse est doublée. De plus, vous pouvez escalader les parois difficiles (y compris au plafond) sans avoir à effectuer de jets de caractéristique.

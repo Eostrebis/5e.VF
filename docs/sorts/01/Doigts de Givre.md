@@ -15,7 +15,7 @@ Rituel: false
 englishname: Frost Fingers
 writing_status: empty
 ---
-Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Constitution et subir 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
+Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Constitution et subir 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
 
 Le froid est tel qu'il gèle magiquement les liquides non magiques et non portés dans la zone.
 

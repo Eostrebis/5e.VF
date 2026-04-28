@@ -62,11 +62,11 @@ La Sagesse est votre caractéristique d'incantation pour vos sorts de druide. En
 
 ## Murmures de l'Au-Delà
 
-Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque vous avez besoin d'aide. Si vous passez 1 minute en contemplation lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez consulter ces esprits pour gagner l'avantage au jet. Vous ne pouvez pas utiliser cette aptitude lorsque vos ancêtres n'auraient pas la connaissance appropriée, par exemple si vous cherchez à vous renseigner sur l'alchimie de pointe.
+Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque vous avez besoin d'aide. Si vous passez 1 minute en contemplation lorsque vous effectuez un jet d'Intelligence ou de Sagesse, vous pouvez consulter ces esprits pour gagner l'avantage au jet. Vous ne pouvez pas utiliser cette aptitude lorsque vos ancêtres n'auraient pas la connaissance appropriée, par exemple si vous cherchez à vous renseigner sur l'alchimie de pointe.
 
 ## Résistance aux Sorts
 
-À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts.
+À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts.
 
 ## Observateur Éthéré
 

@@ -37,7 +37,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Estimation de l'Arcaniste
 
-Au niveau 10, vous pouvez utiliser votre action pour estimer les capacités d'incantation d'une créature que vous pouvez voir à 30 ft. Réalisez un jet d'Intelligence challengé par un jet de caractéristique d'incantation de la créature. Si la créature n'a aucune capacité d'incantation, elle tire un d20 à la place. Si vous réussissez, vous apprenez si la cible a une aptitude d'Incantation, d'Incantation Innée ou de Magie de Pacte, et si la cible peut lancer des sorts d'un niveau supérieur à ceux que vous pouvez lancer.
+Au niveau 10, vous pouvez utiliser votre action pour estimer les capacités d'incantation d'une créature que vous pouvez voir à 30 ft. Effectuez un jet d'Intelligence challengé par un jet de caractéristique d'incantation de la créature. Si la créature n'a aucune capacité d'incantation, elle tire un d20 à la place. Si vous réussissez, vous apprenez si la cible a une aptitude d'Incantation, d'Incantation Innée ou de Magie de Pacte, et si la cible peut lancer des sorts d'un niveau supérieur à ceux que vous pouvez lancer.
 
 Que la créature réussisse ou échoue, elle sait que vous avez essayé d'évaluer ses capacités magiques. Vous ne pouvez plus utiliser cette aptitude sur la même cible pendant 24 heures.
 
@@ -53,22 +53,22 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 **Égide Occulte.** Lorsque vous ou une créature que vous voyez à 30 ft. subit des dégâts d'un sort, vous pouvez utiliser votre réaction et un dé de bataille afin de réduire les dégâts subis d'un montant égal au résultat du dé + votre modificateur d'Intelligence.
 
-**Éclair de Génie.** Lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez dépenser un dé de bataille pour l'ajouter au jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
+**Éclair de Génie.** Lorsque vous effectuez un jet d'Intelligence ou de Sagesse, vous pouvez dépenser un dé de bataille pour l'ajouter au jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
 
-**Conseil Mystique.** Vous pouvez utiliser une action bonus et dé de bataille pour donner conseil à une créature qui peut vous entendre à 30 ft. Une fois pendant la prochaine minute, lorsque la créature réalise un jet de sauvegarde contre un sort, elle peut choisir de tirer le dé de bataille et d'ajouter le résultat à son jet de sauvegarde.
+**Conseil Mystique.** Vous pouvez utiliser une action bonus et dé de bataille pour donner conseil à une créature qui peut vous entendre à 30 ft. Une fois pendant la prochaine minute, lorsque la créature effectue un jet de sauvegarde contre un sort, elle peut choisir de tirer le dé de bataille et d'ajouter le résultat à son jet de sauvegarde.
 
-**Défense Mystique.** Lorsque vous réalisez un jet de sauvegarde contre un sort ou un autre effet magique, vous pouvez utiliser votre réaction pour utiliser et lancer un dé de bataille afin d'ajouter ce résultat au jet de sauvegarde. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
+**Défense Mystique.** Lorsque vous effectuez un jet de sauvegarde contre un sort ou un autre effet magique, vous pouvez utiliser votre réaction pour utiliser et lancer un dé de bataille afin d'ajouter ce résultat au jet de sauvegarde. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
 
 **Incantation Puissante.** Lorsque vous tirez les dégâts pour un sort que vous lancez, vous pouvez dépenser un dé de bataille pour une action bonus. Lorsque vous le faites, vous pouvez relancer un nombre de dés de dégâts jusqu'à votre modificateur d'Intelligence (minimum 1) et devez garder les nouveaux résultats.
 
-**Sort de Précision.** Lorsque vous réalisez un jet d'attaque de sort contre une créature, vous pouvez dépenser une action bonus et un dé de bataille pour l'ajouter au jet d'attaque. Vous pouvez utiliser ce stratagème avant ou après avoir réalisé le jet d'attaque, mais avant que les effets du sort ne soient appliqués.
+**Sort de Précision.** Lorsque vous effectuez un jet d'attaque de sort contre une créature, vous pouvez dépenser une action bonus et un dé de bataille pour l'ajouter au jet d'attaque. Vous pouvez utiliser ce stratagème avant ou après avoir réalisé le jet d'attaque, mais avant que les effets du sort ne soient appliqués.
 
-**Présence d'Esprit.** Lorsque vous réalisez un jet d'initiative, vous pouvez dépenser et lancer un dé de bataille pour ajouter son résultat au jet d'initiative. Vous pouvez utiliser ce stratagème après votre jet d'initiative mais avant que le MJ ne détermine l'ordre.
+**Présence d'Esprit.** Lorsque vous effectuez un jet d'initiative, vous pouvez dépenser et lancer un dé de bataille pour ajouter son résultat au jet d'initiative. Vous pouvez utiliser ce stratagème après votre jet d'initiative mais avant que le MJ ne détermine l'ordre.
 
 **Diffusion Ensorcelée.** Lorsque vous infligez des dégâts à une créature avec un sort de niveau 1 ou plus, vous pouvez utiliser votre action bonus pour choisir une autre créature à 5 ft. de la première, puis dépenser et lancer un dé de bataille. La créature choisie subit un nombre de dégâts égal au niveau de l'emplacement de sort utilisé + le résultat du dé de bataille. Le type de dégâts est le même que ceux subis par la créature initiale.
 
 **Piqure de l'Incanteur.** Lorsqu'une créature à 60 ft. que vous pouvez voir réussit un jet de sauvegarde contre un sort que vous avez lancé de niveau 1 ou plus, vous pouvez utiliser une action bonus pour dépenser et lancer un dé de bataille. La créature subit un montant de dégâts de force égal au niveau d'emplacement de sort dépensé + le résultat du dé de bataille.
 
-**Sort Sonnant.** Lorsque vous infligez des dégâts à une créature se concentrant sur un sort, vous pouvez utiliser votre action bonus pour dépenser et lancer un dé de bataille, ajoutant son résultat aux dégâts infligés. Si la créature doit réaliser un jet de sauvegarde de Constitution pour maintenir sa concentration de par ces dégâts, ce jet de sauvegarde a le désavantage. 
+**Sort Sonnant.** Lorsque vous infligez des dégâts à une créature se concentrant sur un sort, vous pouvez utiliser votre action bonus pour dépenser et lancer un dé de bataille, ajoutant son résultat aux dégâts infligés. Si la créature doit effectuer un jet de sauvegarde de Constitution pour maintenir sa concentration de par ces dégâts, ce jet de sauvegarde a le désavantage. 
 
-**Concentration Impassible.** Lorsque vous réalisez un jet de sauvegarde afin de maintenir la concentration sur un sort, vous pouvez dépenser et lancer un dé de bataille afin de l'ajouter au résultat du jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
+**Concentration Impassible.** Lorsque vous effectuez un jet de sauvegarde afin de maintenir la concentration sur un sort, vous pouvez dépenser et lancer un dé de bataille afin de l'ajouter au résultat du jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.

@@ -93,7 +93,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Expertise
 
-Au niveau 1, vous choisissez deux de vos maîtrises de compétences ; votre bonus de maîtrise est doublé pour tout jet de compétence que vous réalisez en utilisant une des de ces deux maîtrises.
+Au niveau 1, vous choisissez deux de vos maîtrises de compétences ; votre bonus de maîtrise est doublé pour tout jet de compétence que vous effectuez en utilisant une des de ces deux maîtrises.
 
 Au niveau 6, vous pouvez choisir deux autres maîtrises de compétence pour profiter de cet effet.
 

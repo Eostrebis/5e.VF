@@ -22,7 +22,7 @@ Lorsque vous choisissez cet art au niveau 3, vous apprenez un maléfice qui refe
 
 Au niveau 6, vous pouvez fabriquer un talisman magique qui éloigne tout danger. Créer un talisman prend 1 heure de travail, qui peut être réalisé pendant un repos court. Vous ne pouvez avoir qu'un seul talisman à la fois ; en créer un nouveau rend le premier inerte.
 
-Lorsqu'une créature qui porte le talisman réalise un jet de sauvegarde, elle peut ajouter 1d4 à son jet.
+Lorsqu'une créature qui porte le talisman effectue un jet de sauvegarde, elle peut ajouter 1d4 à son jet.
 
 ## Explosion Bienveillante
 Au niveau 10, lorsque vous, votre familier ou un allié que vous pouvez voir à 30 ft. subit des dégâts, vous pouvez utiliser votre réaction afin que cette créature regagne un nombre de points de vie égal à 1d10 + votre modificateur de Charisme.

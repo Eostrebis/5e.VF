@@ -11,7 +11,7 @@ Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l
 
 **Poli.** Vous êtes amical, bien élevé et toujours propre sur vous, mais lorsque vous ne préféreriez pas. Vous avez un bonus de +2 aux jets de Persuasion, mais le désavantage aux jets d'Intimidation.
 
-**Sauvage.** Vous vous entendez mieux avec les animaux que les êtres *intelligents*. Vous maîtrisez la compétence Dressage. Si vous la maîtrisez déjà, vous en devenez un expert. Vous avez le désavantage à tous vos jets de Persuasion et Tromperie que vous réalisez en communiquant avec des humanoïdes.
+**Sauvage.** Vous vous entendez mieux avec les animaux que les êtres *intelligents*. Vous maîtrisez la compétence Dressage. Si vous la maîtrisez déjà, vous en devenez un expert. Vous avez le désavantage à tous vos jets de Persuasion et Tromperie que vous effectuez en communiquant avec des humanoïdes.
 
 **Avorton.** Vous êtes de petite taille pour votre race, mais vous avez réussi à tirer parti de votre taille malgré une enfance tourmentée. Vous avez un malus de -2 à la Force et un malus de -1 à la Constitution, mais vous gagnez un bonus de +1 à la Dextérité et maîtrisez une compétence de votre choix parmi Acrobatie, Escamotage, Discrétion, Perception, Représentation ou Persuasion. Vous êtes considéré comme d'une taille inférieure d'un niveau pour déterminer votre capacité de charge et vous avez besoin de moitié moins de nourriture que les autres membres de votre race.
 
@@ -23,7 +23,7 @@ Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l
 
 **Illettré.** Vous ne savez ni lire ni écrire. Vous avez peut-être essayé sans succès, ou vous n'en avez peut-être rien à faire, mais vous avez plutôt maîtrisé une autre compétence. Gagnez la maîtrise d'un outil, d'une langue, ou d'un arme simple au choix.
 
-**Prudent.** Vous êtes attentif au danger au point d'en être couard. Vous avez un bonus de +2 à la CA et aux jets de sauvegarde de Dextérité jusqu'au début de votre prochain tour lorsque vous Sprintez, Évitez ou vous désengagez, mais vous avez le désavantage aux jets de Sagesse que vous réalisez pour éviter d'être apeuré.
+**Prudent.** Vous êtes attentif au danger au point d'en être couard. Vous avez un bonus de +2 à la CA et aux jets de sauvegarde de Dextérité jusqu'au début de votre prochain tour lorsque vous Sprintez, Évitez ou vous désengagez, mais vous avez le désavantage aux jets de Sagesse que vous effectuez pour éviter d'être apeuré.
 
 **Focalisé.** Vous avez une excellente concentration mais êtes enclin à ne vous focaliser que sur une chose. Vous avez un bonus de +2 aux jets de sauvegarde réalisés pour préserver la concentration et vous pouvez utiliser votre modificateur d'incantation plutôt que votre Constitution pour ces jets. Vous souffrez d'un malus de -5 à votre Perception Passive et vous avez le désavantage à vos jets de Perception puisque votre attention est attirée par tous les détails mondains.
 

@@ -16,7 +16,7 @@ Ce niveau auxiliaire compte comme un niveau dans votre classe Incantation ou Mag
 
 ## Expertise
 
-Choisissez deux de vos maîtrises de compétence. Votre bonus de maîtrise est doublé pour les jets de caractéristique que vous réalisez en utilisant une de ces compétences.
+Choisissez deux de vos maîtrises de compétence. Votre bonus de maîtrise est doublé pour les jets de caractéristique que vous effectuez en utilisant une de ces compétences.
 
 ## Entraînement
 

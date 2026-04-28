@@ -34,7 +34,7 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 ## Tumeur
 
-Toujours au niveau 1, votre corps emmagasine ses toxines dans une protubérance bulbeuse. Lorsqu'une créature à 5 ft. vous touche avec une attaque, vous pouvez utiliser votre réaction pour essayer d'empoisonner la créature avec votre tumeur. La créature doit réaliser un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
+Toujours au niveau 1, votre corps emmagasine ses toxines dans une protubérance bulbeuse. Lorsqu'une créature à 5 ft. vous touche avec une attaque, vous pouvez utiliser votre réaction pour essayer d'empoisonner la créature avec votre tumeur. La créature doit effectuer un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos avant de pouvoir l'utiliser à nouveau.
 

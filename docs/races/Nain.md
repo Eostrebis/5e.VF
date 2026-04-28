@@ -73,7 +73,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 **Maîtrise d'Outil.** Vous maîtrisez un outil d'artisan de votre choix parmi : [[outils de forgeron]], [[matériel de brasseur]] ou [[outils de maçon]]
 
-**Héritage Rocheux.** Lorsque vous réalisez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
+**Héritage Rocheux.** Lorsque vous effectuez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
 
 **Endurance Naine.** Votre nombre de points de vie maximum augmente de 1, et il augmente de 1 point supplémentaire à chaque fois que vous gagnez un niveau.
 
@@ -105,7 +105,7 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 **Maîtrise d'Outil.** Vous maîtrisez un outil d'artisan de votre choix parmi : [[outils de forgeron]], [[matériel de brasseur]] ou [[outils de maçon]]
 
-**Héritage Rocheux.** Lorsque vous réalisez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
+**Héritage Rocheux.** Lorsque vous effectuez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
 
 **Entraînement aux Armures Naines.** Vous maîtrisez les [[armures légères]] et les [[armures moyennes]]. 
 

@@ -19,7 +19,7 @@ Au niveau 3, les sons discordants de votre instrument rendent fou les autres. Un
 
 ## Cordes Agitées
 
-À partir du niveau 6, pour une action, vous pouvez jouer un air entêtant pour une créature à 60 ft. qui peut vous entendre. Cette créature doit réaliser un jet de sauvegarde de Sagesse ou être déchaînée pendant 1 minute. La créature peut répéter ce jet de sauvegarde à chaque fois qu'elle subit des dégâts.
+À partir du niveau 6, pour une action, vous pouvez jouer un air entêtant pour une créature à 60 ft. qui peut vous entendre. Cette créature doit effectuer un jet de sauvegarde de Sagesse ou être déchaînée pendant 1 minute. La créature peut répéter ce jet de sauvegarde à chaque fois qu'elle subit des dégâts.
 
 Une créature déchaînée perd la capacité de distinguer alliés d'ennemis. Tant qu'elle est déchaînée, la créature choisit ses cibles aléatoirement parmi les créatures qu'elle peut voir à portée et doit réaliser toute attaque d'opportunité qui se présenterait.
 
@@ -29,7 +29,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire ava
 
 À partir du niveau 14, vous pouvez utiliser votre action pour commencer à jouer la mélodie maudite qui hante vos rêves. À chacun de vos tours suivants, vous pouvez utiliser votre action pour continuer à jouer la mélodie. Seulement les créatures que vous choisissez à 60 ft. de vous peuvent entendre la mélodie ; toute autre créature n'entend qu'un bruit assourdissant. Même les créatures [[assourdi|assourdies]] entendent la mélodie hantée.
 
-Lorsque vous utilisez votre action pour jouer la mélodie, une créature qui peut entendre la mélodie doit réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, elle subit des dégâts psychiques et subit un effet supplémentaire en fonction du nombre de tours consécutifs que vous avez passé à jouer la mélodie. Après quatre tours consécutifs, ou si aucune créature n'entend la mélodie pendant un tour, la mélodie recommence au premier tour.
+Lorsque vous utilisez votre action pour jouer la mélodie, une créature qui peut entendre la mélodie doit effectuer un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, elle subit des dégâts psychiques et subit un effet supplémentaire en fonction du nombre de tours consécutifs que vous avez passé à jouer la mélodie. Après quatre tours consécutifs, ou si aucune créature n'entend la mélodie pendant un tour, la mélodie recommence au premier tour.
 
 | Tour | Dégâts Psychiques | Effet |
 | ---- | ----------------- | --------------------------------------------------------------------------- |

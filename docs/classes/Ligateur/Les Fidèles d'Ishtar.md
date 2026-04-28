@@ -18,7 +18,7 @@ Au niveau 7, vous obtenez l'aptitude [[Ishtar, la Jalouse#Énamourement|Énamour
 
 ## Rituel d'Idolâtrie
 
-À partir du niveau 10, vous pouvez réaliser un rituel spécial pendant 10 minutes qui vous enrobe dans une aura de 30 ft. infectant l'esprit des autres créatures. Lorsqu'une créature pénètre dans l'aura pour la première fois pendant ce tour ou qu'elle y commence son tour, elle doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, si la créature vous perçoit comme d'une race et d'un genre auxquels elle est physiquement attirée, elle est [[charmé|charmée]] par vous tant qu'elle persiste dans l'aura, pour un maximum de 1 minute. Une fois que l'effet se termine sur une créature, elle est immunisée contre cet effet pendant 24 heures. Cette aura dure 1 heure et son effet se termine prématurément pour une créature qui subit des dégâts ou réussit un jet opposé pour interagir socialement avec vous.
+À partir du niveau 10, vous pouvez réaliser un rituel spécial pendant 10 minutes qui vous enrobe dans une aura de 30 ft. infectant l'esprit des autres créatures. Lorsqu'une créature pénètre dans l'aura pour la première fois pendant ce tour ou qu'elle y commence son tour, elle doit effectuer un jet de sauvegarde de Charisme. Si elle échoue, si la créature vous perçoit comme d'une race et d'un genre auxquels elle est physiquement attirée, elle est [[charmé|charmée]] par vous tant qu'elle persiste dans l'aura, pour un maximum de 1 minute. Une fois que l'effet se termine sur une créature, elle est immunisée contre cet effet pendant 24 heures. Cette aura dure 1 heure et son effet se termine prématurément pour une créature qui subit des dégâts ou réussit un jet opposé pour interagir socialement avec vous.
 
 ## Cœur Brisé
 

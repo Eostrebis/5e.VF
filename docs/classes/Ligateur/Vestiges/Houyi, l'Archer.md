@@ -11,19 +11,19 @@ Archer légendaire qui a battu plusieurs soleils, Houyi confère à ses ligateur
 Tant que vous êtes lié à Houyi, vous maîtrisez la [[sarbacane]], l'[[arbalète de poing]], l'[[arbalète lourde]], l'[[arc long]] et le [[filet]].
 
 ## Style de Combat : Archerie
-Vous gagnez un bonus de +2 aux jets d'attaque que vous réalisez avec des armes à distance.
+Vous gagnez un bonus de +2 aux jets d'attaque que vous effectuez avec des armes à distance.
 
 ## Carquois du Tueur de Soleil
 Lorsque vous voudriez dégainer une arme, vous pouvez invoquer un arc et un carquois, tous deux anciens mais formidables, utilisés par Houyi. Ce carquois contient une réserve infinie de flèches classiques ainsi que 9 flèches tueuses de soleil. Cet équipement persiste jusqu'à ce que vous le dissipiez pendant votre tour (sans utiliser d'action) ou que vous ne soyez plus lié à Houyi.
 
-Une flèche tueuse de soleil inflige des dégâts de feu plutôt que des dégâts perçants, et infligent 1d4 dégâts supplémentaires. Lorsqu'une flèche tueuse de soleil touche une cible, elle explose dans une sphère d'un rayon de 5 ft. et disparaît. La flèche peut être tirée sur un espace inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle subit la moitié des dégâts infligés par la flèche.
+Une flèche tueuse de soleil inflige des dégâts de feu plutôt que des dégâts perçants, et infligent 1d4 dégâts supplémentaires. Lorsqu'une flèche tueuse de soleil touche une cible, elle explose dans une sphère d'un rayon de 5 ft. et disparaît. La flèche peut être tirée sur un espace inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit la moitié des dégâts infligés par la flèche.
 
 Une fois que vous avez utilisé une flèche tueuse de soleil, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos long.
 
 ## Trait : Yeux d'Aigle
 Tant que vous êtes lié à ce vestige, vos yeux sont remplacés par ceux d'un aigle, entourés de plumes resplendissantes. De fait, vous pouvez utiliser votre modificateur de Charisme plutôt que celui de Dextérité pour vos jets d'attaque et de dégâts avec des armes à distance.
 
-De plus, lorsque vous réalisez un jet de Sagesse (Perception) qui se repose sur la vue, vous pouvez traiter le résultat comme un 10 ou votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.
+De plus, lorsque vous effectuez un jet de Sagesse (Perception) qui se repose sur la vue, vous pouvez traiter le résultat comme un 10 ou votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.
 
 ## Idéal
 Tant que vous êtes lié à ce vestige, vous obtenez l'idéal suivant : "**Challenge.** Je me dresserai contre tout test qui se présenterait. (Neutre)"

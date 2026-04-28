@@ -19,7 +19,7 @@ Les sorts que vous apprenez aux niveaux 8, 14 et 20 peuvent être de n'importe q
 
 Lorsque vous obtenez un niveau dans cette classe, vous pouvez remplacer l'un de vos sorts de magicien avec un autre de votre choix parmi la liste de sorts du magicien. Ce nouveau sort doit être d'un niveau pour lequel vous avez des emplacements de sorts, et il doit être de l'école de l'abjuration ou de l'évocation, sauf si vous remplacez un sort gagné aux niveaux 3, 8, 14 ou 20 qui est d'une autre école.
 
-**Caractéristique d'Incantation.** L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, puisque vous apprenez vos sorts par la recherche et la déduction. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD de sauvegarde des sorts de magicien que vous lancez ainsi que lorsque vous réalisez un jet d'attaque avec l'un d'entre eux.
+**Caractéristique d'Incantation.** L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, puisque vous apprenez vos sorts par la recherche et la déduction. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD de sauvegarde des sorts de magicien que vous lancez ainsi que lorsque vous effectuez un jet d'attaque avec l'un d'entre eux.
 
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
@@ -50,7 +50,7 @@ Lorsque vous obtenez un niveau dans cette classe, vous pouvez remplacer l'un de 
 | 20 | 3 | 13 | 4 3 3 1 |
 ## Marque-Page
 
-Au niveau 3, toute créature qui est marquée par vous soustrait 1d4 des jets de sauvegarde qu'elle réalise contre vos sorts et effets.
+Au niveau 3, toute créature qui est marquée par vous soustrait 1d4 des jets de sauvegarde qu'elle effectue contre vos sorts et effets.
 
 ## Marque Piégeuse
 
@@ -60,7 +60,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Résistance aux Sorts
 
-À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts.
+À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts.
 
 ## Archiviste de l'Éternel
 

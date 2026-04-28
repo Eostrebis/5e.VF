@@ -27,6 +27,6 @@ De plus, tant que vous êtes au plafond, vous pouvez vous Cacher de n'importe qu
 
 ## Venin Paralysant
 
-À partir du niveau 17, lorsque vous utilisez votre Frappe Venimeuse pour infliger des dégâts de poison d'Attaque Sournoise à une créature, vous pouvez forcer cette créature à réaliser un jet de sauvegarde de Constitution (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Dextérité). Si la cible échoue son jet de sauvegarde, elle est [[paralysé|paralysée]] pendant 1 minute. La créature paralysée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de succès.
+À partir du niveau 17, lorsque vous utilisez votre Frappe Venimeuse pour infliger des dégâts de poison d'Attaque Sournoise à une créature, vous pouvez forcer cette créature à effectuer un jet de sauvegarde de Constitution (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Dextérité). Si la cible échoue son jet de sauvegarde, elle est [[paralysé|paralysée]] pendant 1 minute. La créature paralysée peut retenter son jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de succès.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.

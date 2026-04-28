@@ -93,9 +93,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 ## Leader Né
 
 
-Au niveau 1, vos compétences et votre personnalité magnétique vous confère un talent pour le management. Les masses se réfèrent à vous pour votre autorité et votre influence, surtout en temps de crise. Ainsi, vous avez l'avantage aux jets de Charisme (Persuasion) que vous réalisez pour convaincre quelqu'un de vous laisser prendre les commandes ou pour donner des ordres pendant une situation périlleuse.
+Au niveau 1, vos compétences et votre personnalité magnétique vous confère un talent pour le management. Les masses se réfèrent à vous pour votre autorité et votre influence, surtout en temps de crise. Ainsi, vous avez l'avantage aux jets de Charisme (Persuasion) que vous effectuez pour convaincre quelqu'un de vous laisser prendre les commandes ou pour donner des ordres pendant une situation périlleuse.
 
-De plus, vous pouvez utiliser votre modificateur de Charisme au lieu de votre modificateur d'Intelligence pour tous les jets de caractéristique que vous réalisez en lien avec la planification, la stratégie ou la tactique.
+De plus, vous pouvez utiliser votre modificateur de Charisme au lieu de votre modificateur d'Intelligence pour tous les jets de caractéristique que vous effectuez en lien avec la planification, la stratégie ou la tactique.
 
 ## Style de Combat
 
@@ -103,7 +103,7 @@ Au niveau 1, vous adoptez un style de combat comme spécialité. Choisissez parm
 
 #### Archerie
 
-Vous gagnez un bonus de +2 aux jets d'attaque que vous réalisez avec des armes à distance.
+Vous gagnez un bonus de +2 aux jets d'attaque que vous effectuez avec des armes à distance.
 
 #### Défense
 
@@ -181,7 +181,7 @@ Si l'une de vos manœuvres demande un jet de sauvegarde pour résister à ses ef
 
 Vous pouvez dépenser vos dés de bataille dans les manœuvres suivantes : 
 
-**Préparation.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
+**Préparation.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle effectue avant la fin de votre prochain tour.
 
 **Ralliement.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
 
@@ -201,7 +201,7 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 Au niveau 9, vos manœuvres évoluent : 
 
-**Préparation.** Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils réalisent avant le début de votre prochain tour.
+**Préparation.** Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils effectuent avant le début de votre prochain tour.
 
 **Ralliement.** Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
 
@@ -213,7 +213,7 @@ Au niveau 11, vous et votre cohorte combattez comme une unité soudée. Une fois
 
 ## Par l'Exemple
 
-À partir du niveau 15, lorsque vous obtenez un 20 sur un jet d'attaque, de caractéristique ou de sauvegarde, chaque créature amicale dans un rayon de 30 ft. a l'avantage lorsqu'elle réalise le même type de jet avant le début de votre prochain tour.
+À partir du niveau 15, lorsque vous obtenez un 20 sur un jet d'attaque, de caractéristique ou de sauvegarde, chaque créature amicale dans un rayon de 30 ft. a l'avantage lorsqu'elle effectue le même type de jet avant le début de votre prochain tour.
 
 ## Commandant Légendaire
 

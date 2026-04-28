@@ -7,4 +7,4 @@ writing_status: finished
 Vous avez développé les compétences nécessaires afin de tenir dans une lutte au contact. Vous bénéficiez des effets suivants : 
 
  - Vous avez l'avantage aux jets d'attaque contre une créature que vous avez [[saisi|saisie]].
- - Vous pouvez utiliser votre réaction pour essayer de coincer une créature que vous avez saisie. Pour ce faire, réaliser un nouveau jet de saisie. Si vous réussissez, vous et la créature êtes [[retenu|retenus]] jusqu'à ce que la saisie ne se termine.
+ - Vous pouvez utiliser votre réaction pour essayer de coincer une créature que vous avez saisie. Pour ce faire, effectuer un nouveau jet de saisie. Si vous réussissez, vous et la créature êtes [[retenu|retenus]] jusqu'à ce que la saisie ne se termine.

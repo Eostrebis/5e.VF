@@ -21,7 +21,7 @@ writing_status: finished
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> **Vigueur des Morts-Vivants.** Si le mort-vivant tombe à 0 point de vie suite à des dégâts, il doit réaliser un jet de sauvegarde de Constitution DD 5 + le montant de dégât subis, sauf si les dégâts sont radiants ou issus d'un coup critique. En cas de réussite, le mort-vivant tombe à 1 point de vie à la place.
+> **Vigueur des Morts-Vivants.** Si le mort-vivant tombe à 0 point de vie suite à des dégâts, il doit effectuer un jet de sauvegarde de Constitution DD 5 + le montant de dégât subis, sauf si les dégâts sont radiants ou issus d'un coup critique. En cas de réussite, le mort-vivant tombe à 1 point de vie à la place.
 > 
 > **Nature Morte-Vivante.** Le mort-vivant n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
 >*_*

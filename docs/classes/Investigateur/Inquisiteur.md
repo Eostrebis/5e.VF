@@ -11,7 +11,7 @@ En tant que rigoureux inquisiteur de votre foi, vous êtes chargé d'éliminer l
 
 ## Doctrines de l'Exorciste
 
-Également au niveau 3, vous maîtrisez la compétence Religion, et votre bonus de maîtrise est doublé pour les jets de caractéristique que vous réalisez en utilisant cette compétence.
+Également au niveau 3, vous maîtrisez la compétence Religion, et votre bonus de maîtrise est doublé pour les jets de caractéristique que vous effectuez en utilisant cette compétence.
 
 ## Babioles
 

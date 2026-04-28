@@ -35,11 +35,11 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 **Piranha.** Vous avez une vitesse de nage de 30 ft. et vous pouvez retenir votre respiration deux fois plus longtemps.
 
-**Rat.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer une maladie ou la condition [[empoisonné]] sur vous-même.
+**Rat.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer une maladie ou la condition [[empoisonné]] sur vous-même.
 
 **Corbeau.** Vous ajoutez votre bonus de maîtrise à vos jets de sauvegarde contre la mort et vous connaissez le cantrip [[stabilisation]], qui ne compte pas parmi le nombre de cantrips que vous connaissez. L'Intelligence est votre caractéristique d'incantation pour ce sort.
 
-**Hippocampe.** Vous ajoutez votre bonus de maîtrise aux jets que vous réalisez afin de contrôler une créature comme monture, et vous êtes considéré comme d'une taille plus petite afin de déterminer les créatures que vous pouvez monter. 
+**Hippocampe.** Vous ajoutez votre bonus de maîtrise aux jets que vous effectuez afin de contrôler une créature comme monture, et vous êtes considéré comme d'une taille plus petite afin de déterminer les créatures que vous pouvez monter. 
 
 **Araignée.** Vous avez une vitesse d'escalade de 30 ft.
 
@@ -63,7 +63,7 @@ Au niveau 14, tant que vous avez un familier, vous bénéficiez d'un effet en fo
 
 **Élémentaire.** Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ces dégâts pour être acide, froid, feu, foudre ou tonnerre. De plus, vous pouvez parler, lire et écrire le Primordial. 
 
-**Fée.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[apeuré]] ou [[charmé]] sur vous-même.
+**Fée.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer les conditions [[apeuré]] ou [[charmé]] sur vous-même.
 
 **Fiélon.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution arcanique, vous pouvez choisir une créature à 30 ft. pour lui infliger un nombre de dégâts de froid, feu ou nécrotique (votre choix) égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts de feu.
 

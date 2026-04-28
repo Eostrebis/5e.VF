@@ -35,9 +35,9 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Quod Est Superius Est.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour conjurer un feu cosmique des Plans Supérieurs pour brûler une créature que vous pouvez voir à 30 ft. La cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle subit 10 + votre niveau de paladin dégâts radiants et devient immergée de lumière éthérée, l'empêchant d'utiliser son action pour Se Cacher ou de devenir [[invisible]] pendant 1 minute.
+**Quod Est Superius Est.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour conjurer un feu cosmique des Plans Supérieurs pour brûler une créature que vous pouvez voir à 30 ft. La cible doit effectuer un jet de sauvegarde de Charisme. Si elle échoue, elle subit 10 + votre niveau de paladin dégâts radiants et devient immergée de lumière éthérée, l'empêchant d'utiliser son action pour Se Cacher ou de devenir [[invisible]] pendant 1 minute.
 
-**Sicut Quod Est Inferius.** Pour une action, vous pouvez utiliser votre Canal Divin pour conjurer la vigueur corrompue des Plans Inférieurs afin de renforcer votre voix. Chaque Fée, Céleste et Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
+**Sicut Quod Est Inferius.** Pour une action, vous pouvez utiliser votre Canal Divin pour conjurer la vigueur corrompue des Plans Inférieurs afin de renforcer votre voix. Chaque Fée, Céleste et Aberration à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
 
 Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus utiliser de réactions. Pour son action, elle ne peut que Foncer ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 

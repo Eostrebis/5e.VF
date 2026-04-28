@@ -13,7 +13,7 @@ Le matériel d'Alchimiste vous permet de concocter des potions utiles, comme de 
 
 **Investigation.** Lorsque vous inspectez une zone à la recherche d'indice, la maîtrise du matériel d'alchimiste vous confère une intuition plus poussée vis-à-vis des substances qui auraient pu être utilisées.
 
-**Fabrication Alchimique.** Vous pouvez utiliser votre maîtrise de cet outil pour créer des objets alchimiques. Un personnage peut dépenser de l'argent pour obtenir des *matières premières*, qui pèsent 1 lb. par 50 po dépensé. Le MJ peut autoriser un personnage à réaliser un jet de la caractéristique associée avec avantage. Pendant un repos long, vous pouvez utiliser votre matériel d'alchimiste pour créer une dose d'[[Acide (fiole)|acide]], de [[Feu Grégeois (flasque)|feu grégeois]], d'[[antitoxine]], d'[[Huile (flasque)|huile]], de [[Parfum (fiole)|parfum]] ou de [[savon]]. Retirez la moitié de la valeur de l'objet créé de la valeur totale en po de vos matières premières.
+**Fabrication Alchimique.** Vous pouvez utiliser votre maîtrise de cet outil pour créer des objets alchimiques. Un personnage peut dépenser de l'argent pour obtenir des *matières premières*, qui pèsent 1 lb. par 50 po dépensé. Le MJ peut autoriser un personnage à effectuer un jet de la caractéristique associée avec avantage. Pendant un repos long, vous pouvez utiliser votre matériel d'alchimiste pour créer une dose d'[[Acide (fiole)|acide]], de [[Feu Grégeois (flasque)|feu grégeois]], d'[[antitoxine]], d'[[Huile (flasque)|huile]], de [[Parfum (fiole)|parfum]] ou de [[savon]]. Retirez la moitié de la valeur de l'objet créé de la valeur totale en po de vos matières premières.
 
 | Activité | DD |
 | ------------------------------- | --- |

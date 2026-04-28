@@ -9,7 +9,7 @@ Les Porte-Loi entendent l'appel stable et implacable de la loi universelle et y 
 
 ## Sagace 
 
-Au niveau 3, vous avez l'avantage aux jets de caractéristique que vous réalisez pour discerner si une créature que vous pouvez voir est en train de dire la vérité.
+Au niveau 3, vous avez l'avantage aux jets de caractéristique que vous effectuez pour discerner si une créature que vous pouvez voir est en train de dire la vérité.
 
 ## Mandat
 
@@ -17,7 +17,7 @@ Au niveau 6, vous pouvez lancer le sort [[injonction]] une fois sans utiliser d'
 
 ## Esprit Mécanique
 
-À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur subit 4d6 dégâts psychiques.
+À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur subit 4d6 dégâts psychiques.
 
 ## Axiome Universel
 

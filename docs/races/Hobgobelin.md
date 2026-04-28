@@ -39,6 +39,6 @@ Les hobgobelins sont pour la plupart plus grands que leurs cousins gobelins, mai
 
  - *Hospitalité :* Vous et la créature que vous aidez gagnez chacun un nombre de points de vie temporaires égal à 1d6 + votre bonus de maîtrise.
  - *Passage :* Vous et la créature que vous aidez avez une vitesse de base augmentée de 10 ft. jusqu'au début de votre prochain tour.
- - *Hargne :* Jusqu'au début de votre prochain tour, la première fois qu'une créature que vous aidez touche une cible avec un jet d'attaque, cette cible a le désavantage au prochain jet d'attaque qu'elle réalise dans la prochaine minute.
+ - *Hargne :* Jusqu'au début de votre prochain tour, la première fois qu'une créature que vous aidez touche une cible avec un jet d'attaque, cette cible a le désavantage au prochain jet d'attaque qu'elle effectue dans la prochaine minute.
 
 **Chance de Tous.** Si vous ratez un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez faire appel à vos liens de réciprocité pour gagner un bonus à ce jet égal au nombre d'alliés que vous pouvez voir à 30 ft. de vous (maximum de +3). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges dépensées lorsque vous terminez un repos long.

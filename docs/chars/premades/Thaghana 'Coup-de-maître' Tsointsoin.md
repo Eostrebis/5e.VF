@@ -134,7 +134,7 @@ Aujourd'hui, Thaghana ne s'identifie plus comme Skannak, il a appris à s'accept
 
 ### Aptitude d'Historique
 
-Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider de réaliser un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette aptitude un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
+Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider d'effectuer un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette aptitude un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
 
 ### Traits de Personnalité
 

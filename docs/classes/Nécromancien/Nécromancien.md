@@ -132,7 +132,7 @@ Votre connexion avec le plan des énergies négatives vous confère un noyau int
 
 Pour une action, annoncez le nombre de points de ce réservoir que vous souhaitez dépenser, jusqu'à un maximum de 5 fois votre bonus de maîtrise et réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, vous dépensez le nombre de points que vous avez annoncé et infligez des dégâts nécrotiques égaux aux points dépensés. Si l'attaque rate, vous ne dépensez aucun point. Les dégâts infligés par votre Toucher Charnel sont doublés lorsque vous infligez un coup critique sans dépenser de points supplémentaires.
 
-Cette attaque n'inflige aucun dégât aux Constructions et soigne les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à réaliser de jet d'attaque de sort.
+Cette attaque n'inflige aucun dégât aux Constructions et soigne les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à effectuer de jet d'attaque de sort.
 
 ## Thralls
 
@@ -199,7 +199,7 @@ Au niveau 5, vos puissants pouvoirs nécromants punissent vos ennemis au premier
 
 De plus, vos jets d'attaque de sort infligent des coups critiques sur un 19 ou un 20.
 
-À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et subit des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
+À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et subit des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort effectuent un coup critique sur un jet de 18, 19 ou 20.
 
 ## Présence Captivante
 

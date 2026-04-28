@@ -19,7 +19,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser a
 
 ## Contre-Projectile
 
-Au niveau 10, vous avez appris à utiliser [[projectiles magiques]] pour surpasser les plus puissants de vos ennemis magiciens. Lorsque vous voyez une créature à 60 ft. lancer un sort, vous pouvez utiliser votre réaction pour lancer [[projectiles magiques]], avec tous les projectiles ciblant la créature. La créature doit réaliser un jet de sauvegarde de Constitution en réponse aux dégâts totaux subis pour maintenir sa concentration tout en lançant le sort, même si le sort ne requiert pas normalement la concentration. Le sort échoue et n'a aucun effet si la créature perd la concentration.
+Au niveau 10, vous avez appris à utiliser [[projectiles magiques]] pour surpasser les plus puissants de vos ennemis magiciens. Lorsque vous voyez une créature à 60 ft. lancer un sort, vous pouvez utiliser votre réaction pour lancer [[projectiles magiques]], avec tous les projectiles ciblant la créature. La créature doit effectuer un jet de sauvegarde de Constitution en réponse aux dégâts totaux subis pour maintenir sa concentration tout en lançant le sort, même si le sort ne requiert pas normalement la concentration. Le sort échoue et n'a aucun effet si la créature perd la concentration.
 
 ## Projectile Inévitable
 

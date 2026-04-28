@@ -7,7 +7,7 @@ Comme canal entre les morts et vivants, les mediums offrent un aperçu essentiel
 
 À partir du moment où vous choisissez cette spécialisation au niveau 3, vous pouvez apercevoir des fragments du futur. Lorsque vous finissez un repos long, lancez deux d20s et notez le résultat des dés. Vous pouvez remplacer n'importe quel jet de caractéristique, d'attaque ou de sauvegarde réalisé par vous ou une créature que vous pouvez voir avec un de ces résultats prédits. Vous devez choisir de le faire avant le lancer et ne pouvez remplacer un jet de cette façon qu'une seule fois par tour.
 
-Pour une action, vous pouvez dépenser une utilisation de votre [[Investigateur#Incantation Pressée|Incantation Pressée]] pour réaliser un jet de prédiction supplémentaire. Vous pouvez avoir jusqu'à trois jets de prédiction à tout moment. Chaque jet de prédiction ne peut être utilisé qu'une fois. Lorsque vous finissez un repos long, vous perdez tout jet de prédiction non utilisé.
+Pour une action, vous pouvez dépenser une utilisation de votre [[Investigateur#Incantation Pressée|Incantation Pressée]] pour effectuer un jet de prédiction supplémentaire. Vous pouvez avoir jusqu'à trois jets de prédiction à tout moment. Chaque jet de prédiction ne peut être utilisé qu'une fois. Lorsque vous finissez un repos long, vous perdez tout jet de prédiction non utilisé.
 
 ## Babioles
 
@@ -21,7 +21,7 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 ## Présence Rassurante
 
-Au niveau 6, les esprits des morts guident votre main quand vous tremblez. Vous pouvez relancer n'importe quel jet d'attaque, de caractéristique ou de sauvegarde que vous réalisez, et vous devez utiliser le nouveau jet. Vous pouvez choisir d'utiliser cette aptitude après avoir réalisé le jet, mais avant que le MJ n'annonce le résultat.
+Au niveau 6, les esprits des morts guident votre main quand vous tremblez. Vous pouvez relancer n'importe quel jet d'attaque, de caractéristique ou de sauvegarde que vous effectuez, et vous devez utiliser le nouveau jet. Vous pouvez choisir d'utiliser cette aptitude après avoir réalisé le jet, mais avant que le MJ n'annonce le résultat.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 

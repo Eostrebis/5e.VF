@@ -139,7 +139,7 @@ Au niveau 1, vous gagnez deux [[Maléfices]] de votre choix. Lorsque vous atteig
 
 Sauf mention du contraire, si un maléfice requiert un jet d'attaque ou de sauvegarde, il utilise votre modificateur aux attaques avec un sort et votre DD de sauvegarde des sorts. Chaque maléfice nécessite une composante verbale ou somatique (votre choix).
 
-Sauf mention du contraire, si un maléfice persiste pour une durée donnée, vous vous concentrez dessus comme vous le feriez sur un sort. Vous perdez votre concentration sur un maléfice si vous en lancez un autre, mais vous pouvez vous concentrer à la fois sur un maléfice et un sort. En ce cas, vous ne réalisez qu'un seul jet de sauvegarde de Constitution pour maintenir votre concentration sur les deux.
+Sauf mention du contraire, si un maléfice persiste pour une durée donnée, vous vous concentrez dessus comme vous le feriez sur un sort. Vous perdez votre concentration sur un maléfice si vous en lancez un autre, mais vous pouvez vous concentrer à la fois sur un maléfice et un sort. En ce cas, vous n'effectuez qu'un seul jet de sauvegarde de Constitution pour maintenir votre concentration sur les deux.
 
 ## Ricanement
 

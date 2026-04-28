@@ -16,7 +16,7 @@ Ce niveau auxiliaire compte comme un niveau dans votre classe Incantation ou Mag
 
 ## Cantrips Invisibles
 
-Lorsque vous lancez un cantrip qui demande un ou plusieurs jets d'attaque de sort, vous pouvez déguiser son incantation (composantes comprises) et ses effets comme si c'était une attaque armée de mêlée. Pour ce faire, vous devez tenir une arme de mêlée et la cible doit se trouver à 5 ft. de vous. Vous n'avez pas le désavantage aux jets d'attaque à distance de sort que vous réalisez en utilisant cette aptitude si vous vous trouvez à 5 ft. d'une créature hostile. Les effets du sort sont complètement invisibles, et vous semblez avoir asséné un coup particulièrement puissant avec votre arme.
+Lorsque vous lancez un cantrip qui demande un ou plusieurs jets d'attaque de sort, vous pouvez déguiser son incantation (composantes comprises) et ses effets comme si c'était une attaque armée de mêlée. Pour ce faire, vous devez tenir une arme de mêlée et la cible doit se trouver à 5 ft. de vous. Vous n'avez pas le désavantage aux jets d'attaque à distance de sort que vous effectuez en utilisant cette aptitude si vous vous trouvez à 5 ft. d'une créature hostile. Les effets du sort sont complètement invisibles, et vous semblez avoir asséné un coup particulièrement puissant avec votre arme.
 
 ## Sort Subtil
 

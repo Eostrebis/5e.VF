@@ -48,7 +48,7 @@ Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et 
 
 ### Dragon
 
-Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
+Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
 
 ### Sans-Visage
 

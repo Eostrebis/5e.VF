@@ -77,7 +77,7 @@ Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et son
 
 **Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Camouflage Svirfneblin.** Lorsque vous faites un jet de Dextérité (Discrétion), vous pouvez réaliser ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
+**Camouflage Svirfneblin.** Lorsque vous faites un jet de Dextérité (Discrétion), vous pouvez effectuer ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
 
 **Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort [[Déguisement]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[antidétection]], sans avoir besoin des composantes matérielles. Une fois que vous avez lancé l'un de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en utilisant vos emplacements de sorts du niveau approprié. 
 
@@ -145,7 +145,7 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 *Boîte à Musique.* Lorsqu'on l'ouvre, la boîte reproduit une chanson (toujours la même) à un volume modéré jusqu'à la fin du morceau ou que la boîte soit refermée.
 
-**Connaissance en Ingénierie.** À chaque fois que vous réalisez un jet d'Intelligence (Histoire) lié aux objets magiques, à l'alchimie ou à la technologie, vous pouvez ajouter deux fois votre bonus de maîtrise, plutôt que ce que vous ajouteriez normalement.
+**Connaissance en Ingénierie.** À chaque fois que vous effectuez un jet d'Intelligence (Histoire) lié aux objets magiques, à l'alchimie ou à la technologie, vous pouvez ajouter deux fois votre bonus de maîtrise, plutôt que ce que vous ajouteriez normalement.
 
 **Ingéniosité Gnome.** Vous avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre les sorts.
 

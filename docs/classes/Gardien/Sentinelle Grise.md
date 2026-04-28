@@ -20,7 +20,7 @@ Vos dés de bataille changent et d'autres deviennent disponibles lorsque vous at
 
 **Utiliser les Dés de Bataille.** Une fois par tour, vous pouvez dépenser un dé de bataille pour réaliser une manœuvre de votre choix. Vous avez accès aux manœuvres suivantes : [[Armoire à Glace]], [[Attaque à Outrance]], [[Bousculade]], [[Coup Inertiel]], [[Coup Sonnant]] et [[Croche-Patte]]
 
-**Jets de Sauvegarde.** Certaines de vos manœuvres demandent à la cible de réaliser un jet de sauvegarde pour résister à ses effets. Le DD du jet de sauvegarde est calculé ainsi : 
+**Jets de Sauvegarde.** Certaines de vos manœuvres demandent à la cible d'effectuer un jet de sauvegarde pour résister à ses effets. Le DD du jet de sauvegarde est calculé ainsi : 
 
 <p style="text-align:center"><b>DD de Sauvegarde de Manœuvres</b> = 8 + bonus de maîtrise + modificateur de Force ou Dextérité</p>
 
@@ -34,7 +34,7 @@ Au niveau 6, votre expérience dans les fortifications et autres blocages vous o
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à effectuer un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
 
 ## Sentinelle Invincible
 

@@ -18,7 +18,7 @@
 *_*
 ***Corps Chauffé (Métal)***. Une créature qui touche la construction ou la frappe avec une attaque de mêlée tout en se trouvant à 5 ft. subit 1d10 dégâts de feu. 
 
-***Léthargie Lapilleuse (Pierre)***. Lorsqu'une créature que la construction peut voir commence son tour à 10 ft. de la construction, la construction peut la forcer à réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, la cible ne peut pas utiliser de réactions et sa vitesse est diminuée de moitié jusqu'au début son prochain tour. 
+***Léthargie Lapilleuse (Pierre)***. Lorsqu'une créature que la construction peut voir commence son tour à 10 ft. de la construction, la construction peut la forcer à effectuer un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, la cible ne peut pas utiliser de réactions et sa vitesse est diminuée de moitié jusqu'au début son prochain tour. 
 
 
 ### ACTIONS

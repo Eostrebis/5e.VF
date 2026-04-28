@@ -23,11 +23,11 @@ Au niveau 3, vous maîtrisez la technique pourfendeuse de mage de couper à trav
 
 ## Résistance aux Sorts
 
-Au niveau 7, vous pouvez ignorer même la plus puissante des magies. Vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts.
+Au niveau 7, vous pouvez ignorer même la plus puissante des magies. Vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts.
 
 ## Rafale Arcanique
 
-À partir du niveau 11, vous avez appris à déchirer la fabrique de la magie elle-même. Pour une action, vous pouvez dépenser un emplacement de sort pour créer une petite explosion arcanique centrée sur vous-même dans une sphère d'un rayon de 10 ft. Chaque créature autre que vous dans la zone doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. En cas d'échec, la créature subit un montant de dégâts de force égal à la moitié de votre niveau de ranger, plus 1d8 par niveau d'emplacement, ou la moitié en cas de succès.
+À partir du niveau 11, vous avez appris à déchirer la fabrique de la magie elle-même. Pour une action, vous pouvez dépenser un emplacement de sort pour créer une petite explosion arcanique centrée sur vous-même dans une sphère d'un rayon de 10 ft. Chaque créature autre que vous dans la zone doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. En cas d'échec, la créature subit un montant de dégâts de force égal à la moitié de votre niveau de ranger, plus 1d8 par niveau d'emplacement, ou la moitié en cas de succès.
 
 ## Malédiction Antimagie
 

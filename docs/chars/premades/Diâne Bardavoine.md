@@ -108,7 +108,7 @@ Vous avez deux emplacements de sort de niveau 1.
 
 Vous pouvez inspirer les autres à travers des mots bien choisis. Pour ce faire, vous dépensez une action bonus pendant votre tour pour choisir une créature autre que vous-même à 60 ft. qui peut vous entendre. Cette créature gagne un dé d'Inspiration Bardique, un d6.
 
-Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle réalise. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
+Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle effectue. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 ### Équipement

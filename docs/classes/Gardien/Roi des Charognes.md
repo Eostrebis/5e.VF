@@ -5,7 +5,7 @@ Maître et champion de la vermine, vous avez été appelé pour défendre les pl
 
 ## Marque Rongeuse
 
-À partir du moment où vous répondez à cet appel au niveau 3, la vermine écoute vos ordres. Lorsque vous marquez une créature, des insectes grouillent vers ses yeux, sa bouche et sur sa peau. Lorsque la créature marquée réalise un jet d'attaque ou de caractéristique, elle doit retirer 1d4 du résultat obtenu.
+À partir du moment où vous répondez à cet appel au niveau 3, la vermine écoute vos ordres. Lorsque vous marquez une créature, des insectes grouillent vers ses yeux, sa bouche et sur sa peau. Lorsque la créature marquée effectue un jet d'attaque ou de caractéristique, elle doit retirer 1d4 du résultat obtenu.
 
 ## Infesté
 

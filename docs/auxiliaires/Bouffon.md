@@ -14,7 +14,7 @@ Vous apprenez le cantrip [[moquerie cruelle]] ainsi qu'un autre cantrip de votre
 
 ## Provocation
 
-Vous pouvez utiliser votre action bonus pour railler une créature à 15 ft. de vous. Si la cible peut vous entendre (elle n'a pas besoin de vous comprendre), elle a le désavantage au prochain jet d'attaque qu'elle réalise contre une créature autre que vous avant la fin de son prochain tour.
+Vous pouvez utiliser votre action bonus pour railler une créature à 15 ft. de vous. Si la cible peut vous entendre (elle n'a pas besoin de vous comprendre), elle a le désavantage au prochain jet d'attaque qu'elle effectue contre une créature autre que vous avant la fin de son prochain tour.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

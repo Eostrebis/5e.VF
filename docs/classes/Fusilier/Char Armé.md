@@ -17,7 +17,7 @@ Vous maîtrisez désormais les armures moyennes et lourdes.
 
 ## Tête de Mule
 
-Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer l'effet [[charmé]] sur vous-même.
+Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'effet [[charmé]] sur vous-même.
 
 ## Fort comme un Bœuf
 

@@ -50,6 +50,6 @@ Au niveau 20, vous révélez vos véritables désirs au monde et commencez à co
 
  - Vous gagnez 20 points de vie temporaires au début de chacun de vos tours.
  - À chaque fois que vous volez une arme en utilisant votre Taux de Change, vous pouvez immédiatement réaliser une attaque armée avec, sans dépenser d'action.
- - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez choisir de libérer une explosion de lumière dorée. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[aveuglé|aveuglée]] jusqu'à la fin de votre prochain tour.
+ - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez choisir de libérer une explosion de lumière dorée. La cible doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[aveuglé|aveuglée]] jusqu'à la fin de votre prochain tour.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -17,7 +17,7 @@ writing_status: finished
 
 Lorsque vous choisissez ce domaine au niveau 1, vous êtes béni et êtes capable de connaître le prix de toute chose. Pour une action, vous pouvez précisément déterminer le prix de marché d'un objet, ainsi qu'un prix raisonnable s'il se retrouvait à être vendu en seconde main.
 
-De plus, vous pouvez utiliser votre modificateur de Sagesse plutôt que votre Charisme pour les jets que vous réalisez afin d'acheter, de vendre ou de négocier.
+De plus, vous pouvez utiliser votre modificateur de Sagesse plutôt que votre Charisme pour les jets que vous effectuez afin d'acheter, de vendre ou de négocier.
 
 ## Effet Levier
 

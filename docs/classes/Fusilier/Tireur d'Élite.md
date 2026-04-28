@@ -15,9 +15,9 @@ Au niveau 3, vous n'avez pas le désavantage aux jets d'attaque à distance avec
 
 Au niveau 7, vous avez appris à parfaitement vous camoufler dans un *nid*. Vous passez 1 minute pour préparer votre camouflage. Jusqu'à ce que vous bougiez, vous bénéficiez des effets suivants : 
 
- - Vous avez l'avantage aux jets de Dextérité (Discrétion) que vous réalisez pour vous Cacher.
+ - Vous avez l'avantage aux jets de Dextérité (Discrétion) que vous effectuez pour vous Cacher.
  - Les attaques que vous effectuez en étant caché ne révèle pas automatiquement votre position.
- - Les créatures ont le désavantage aux jets de caractéristique qu'elles réalisent pour discerner l'origine de vos attaques.
+ - Les créatures ont le désavantage aux jets de caractéristique qu'elles effectuent pour discerner l'origine de vos attaques.
 
 ## Acuité Basée sur le Mouvement
 
@@ -25,4 +25,4 @@ Au niveau 10, votre vision est suffisamment affûtée pour que vous puissiez vis
 
 ## Tir Concentré
 
-À partir du niveau 14, une fois à chacun de vos tours, lorsque vous réalisez une attaque armée à distance avec une arme à feu, vous pouvez choisir de tirer un tir pénétrant. Si vous touchez, la balle traverse la cible et continue en ligne droite jusqu'à ce qu'elle rencontre un objet solide ou qu'elle atteigne sa portée normale. Réalisez un jet d'attaque séparé pour chaque créature dans cette ligne, dans l'ordre. Si vous touchez, la balle inflige des dégâts à la créature, la traverse et continue ; si vous ratez, la balle s'arrête.
+À partir du niveau 14, une fois à chacun de vos tours, lorsque vous réalisez une attaque armée à distance avec une arme à feu, vous pouvez choisir de tirer un tir pénétrant. Si vous touchez, la balle traverse la cible et continue en ligne droite jusqu'à ce qu'elle rencontre un objet solide ou qu'elle atteigne sa portée normale. Effectuez un jet d'attaque séparé pour chaque créature dans cette ligne, dans l'ordre. Si vous touchez, la balle inflige des dégâts à la créature, la traverse et continue ; si vous ratez, la balle s'arrête.

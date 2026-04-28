@@ -25,4 +25,4 @@ Vous et jusqu'à 8 créatures consentantes aux mains liées en cercle êtes tran
 
 Alternativement, si vous connaissez la séquence de sigils d'un [[cercle de téléportation]] d'un autre plan d'existence, ce sort vous téléporte vers ce cercle. Si le cercle de téléportation est trop petit pour contenir toutes les créatures transportées, elles apparaissent dans l'espace inoccupé le plus proche du cercle.
 
-Vous pouvez utiliser ce sort pour bannir une créature non consentante vers un autre plan. Choisissez une créature à portée et réaliser une attaque de sort de mêlée. Si vous touchez, la créature doit réaliser un jet de sauvegarde de Charisme. Si la créature échoue, elle est transportée vers une localisation aléatoire d'un plan d'existence que vous spécifiez.
+Vous pouvez utiliser ce sort pour bannir une créature non consentante vers un autre plan. Choisissez une créature à portée et réaliser une attaque de sort de mêlée. Si vous touchez, la créature doit effectuer un jet de sauvegarde de Charisme. Si la créature échoue, elle est transportée vers une localisation aléatoire d'un plan d'existence que vous spécifiez.

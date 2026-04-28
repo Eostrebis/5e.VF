@@ -18,6 +18,6 @@ Rituel: false
 englishname: Circle of Death
 writing_status: finished
 ---
-De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. autour d'un point à portée. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Sagesse. Une cible subit 8d6 dégâts nécrotiques si elle échoue le jet et la moitié sinon.
+De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. autour d'un point à portée. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Sagesse. Une cible subit 8d6 dégâts nécrotiques si elle échoue le jet et la moitié sinon.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 2d6 par niveau d'emplacement au-delà du niveau 6.

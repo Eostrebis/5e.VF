@@ -43,7 +43,7 @@ Tant qu'il suit les ordres de son capitaine, le mage obtient les capacités supp
  - À volonté : [[Message]]
  - 1/jour : [[Immobilisation de Personne]], [[invisibilité]]
 
-*Niveau 10.* *Action :* **Explosion Élémentaire.** Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, la créature subit 8d6 dégâts du type choisi, et la moitié en cas de réussite.
+*Niveau 10.* *Action :* **Explosion Élémentaire.** Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, la créature subit 8d6 dégâts du type choisi, et la moitié en cas de réussite.
 
 *Niveau 14.* *Action* **Incantation.** L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
  - 1/jour : [[porte dimensionnelle]], [[métamorphose]]

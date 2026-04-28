@@ -19,7 +19,7 @@ De plus, vous apprenez le [[Langues#Jobelin|Jobelin]].
 
 À partir du niveau 2, vous pouvez dépenser une utilisation de votre Forme Sauvage pour déformer la ville autour de vous. Choisissez l'un des effets suivants : 
 
-**Pavémorphose.** Vous manipulez magiquement les composants d'un sol fabriqué — les briques, les pavés, les planches et autres objets similaires — à 60 ft. Chacun de ces composants peut être déplacé de 1 ft. et ne provoque pas d'instabilités aux structures. Lorsque vous utilisez cet effet, vous pouvez faire en sorte que n'importe quelle section du sol que vous choisissez dans la zone devienne du terrain difficile, et vous pouvez faire en sorte qu'une créature se tenant sur l'une de ces sections réalise un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort pour éviter de tomber [[au sol]]. Vous n'êtes pas affecté par ce terrain difficile.
+**Pavémorphose.** Vous manipulez magiquement les composants d'un sol fabriqué — les briques, les pavés, les planches et autres objets similaires — à 60 ft. Chacun de ces composants peut être déplacé de 1 ft. et ne provoque pas d'instabilités aux structures. Lorsque vous utilisez cet effet, vous pouvez faire en sorte que n'importe quelle section du sol que vous choisissez dans la zone devienne du terrain difficile, et vous pouvez faire en sorte qu'une créature se tenant sur l'une de ces sections effectue un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort pour éviter de tomber [[au sol]]. Vous n'êtes pas affecté par ce terrain difficile.
 
 De plus, vous pouvez utiliser votre action à chacun de vos tours pour élever jusqu'à 3 petits murs du sol, chacun haut de 1/2 ft., large de 5 ft. et épais de 1 ft. Ces murs prodiguent généralement une couverture de moitié aux créatures de taille M. Ces murs ne causent pas d'instabilité aux structures environnantes. 
 
@@ -35,7 +35,7 @@ Cette aptitude persiste pendant 1 minute. Après ce temps, tous les composants e
 
 ## Souffle de Smog
 
-À partir du niveau 10, vous pouvez expirer une sphère de 10 ft. de fumée toxique, centrée sur vous-même, comme réaction lorsque vous subissez des dégâts. Cette zone est fo subissez des dégâtsSi une créature autre que vous se trouve complètement dans le smog au début de son tour, elle doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou être [[empoisonné|empoisonnée]] jusqu'au début de son prochain tour, toussant sans relâche.
+À partir du niveau 10, vous pouvez expirer une sphère de 10 ft. de fumée toxique, centrée sur vous-même, comme réaction lorsque vous subissez des dégâts. Cette zone est fo subissez des dégâtsSi une créature autre que vous se trouve complètement dans le smog au début de son tour, elle doit effectuer un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou être [[empoisonné|empoisonnée]] jusqu'au début de son prochain tour, toussant sans relâche.
 
 Le smog disparaît après 1 minute. Un vent modéré (au moins 15 km/h) disperse le nuage après 4 tours. Un vent fort (au moins 30 km/h) le disperse après 1 tour.
 

@@ -39,7 +39,7 @@ Lorsque vous touchez avec une attaque armée à distance utilisant une arme à f
 
 À partir du niveau 14, vous avez appris comment construire l'ultime attachement pour arme à feu : un lance-grenade sous le baril. Vous pouvez utiliser votre action pour attacher ce lancer à une arme à distance à deux mains avec la propriété Arme à feu ou en retirer un. Si le lanceur est perdu ou volé, vous pouvez en construire un pendant un repos long pour 100 PO. 
 
-Vous pouvez utiliser votre action pour tirer le lanceur sur un point que vous pouvez voir à 60 ft. Chaque créature dans un rayon de 10 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. En cas d'échec, la cible subit 8d6 dégâts de feu, et la moitié en cas de réussite.
+Vous pouvez utiliser votre action pour tirer le lanceur sur un point que vous pouvez voir à 60 ft. Chaque créature dans un rayon de 10 ft. doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. En cas d'échec, la cible subit 8d6 dégâts de feu, et la moitié en cas de réussite.
 
 Une fois que vous avez tiré le lanceur, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.
 

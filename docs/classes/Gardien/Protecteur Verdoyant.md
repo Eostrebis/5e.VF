@@ -11,7 +11,7 @@ Sous votre commande, les plantes de la terre éclosent pour vous assister. Au so
 
 ## Peau Verdoyante
 
-Au niveau 6, vous maitrisez la compétence Discrétion. De plus, vous pouvez utiliser votre action pour faire apparaître une masse de lianes et feuilles pour vous dissimuler. Jusqu'à ce que vous bougiez, vous avez l'avantage aux jets de Dextérité (Discrétion) que vous réalisez pour vous Cacher dans la végétation.
+Au niveau 6, vous maitrisez la compétence Discrétion. De plus, vous pouvez utiliser votre action pour faire apparaître une masse de lianes et feuilles pour vous dissimuler. Jusqu'à ce que vous bougiez, vous avez l'avantage aux jets de Dextérité (Discrétion) que vous effectuez pour vous Cacher dans la végétation.
 
 ## Trempe
 

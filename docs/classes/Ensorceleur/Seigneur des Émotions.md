@@ -35,7 +35,7 @@ Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais n
 
 À partir du niveau 6, vous pouvez canaliser de grandes variations d'énergie émotionnelle sur commande. Vous pouvez utiliser les aptitudes suivantes, peu importe votre état émotionnel : 
 
-**Rage Ardente.** Pour une action bonus pendant votre tour, vous pouvez dépenser 1 point de sorcellerie pour enflammer votre furie arcanique. Jusqu'au début de votre prochain tour, lorsqu'une créature se déplace à 5 ft. de vous ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Si elle échoue, elle subit 2d6 dégâts de feu.
+**Rage Ardente.** Pour une action bonus pendant votre tour, vous pouvez dépenser 1 point de sorcellerie pour enflammer votre furie arcanique. Jusqu'au début de votre prochain tour, lorsqu'une créature se déplace à 5 ft. de vous ou y commence son tour, elle doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Si elle échoue, elle subit 2d6 dégâts de feu.
 
 **Découragement.** Inondé par la tristesse, vous pouvez dépenser 2 points de sorcellerie et une action bonus pendant votre tour. Jusqu'au début de votre prochain tour, vous êtes visiblement transparent et les jets d'attaque contre vous ont le désavantage. Cet effet se termine prématurément si vous êtes touché par une attaque.
 
@@ -47,7 +47,7 @@ Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais n
 
 ## Changement de Tempérament
 
-Au niveau 14, vous pouvez utiliser votre action pour tordre les émotions d'une créature que vous pouvez voir à 60 ft., qui doit réaliser un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts. Si elle échoue, vous pouvez utiliser l'une des aptitudes suivantes sur elle :
+Au niveau 14, vous pouvez utiliser votre action pour tordre les émotions d'une créature que vous pouvez voir à 60 ft., qui doit effectuer un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts. Si elle échoue, vous pouvez utiliser l'une des aptitudes suivantes sur elle :
 
 **Charmé.** Vous dépensez un point de sorcellerie et la créature est [[charmé|charmée]] par vous pendant 1 minute. Cet effet se termine prématurément si vous ou vos compagnons faites quoi que ce soit de négatif à la créature.
 

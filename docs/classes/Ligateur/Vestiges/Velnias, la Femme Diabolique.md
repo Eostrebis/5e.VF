@@ -10,7 +10,7 @@ Créature dont le charme n'a d'égal que sa laideur, la Femme Diabolique offre �
 ## Mauvais Œil
 Pour une action, choisissez une créature que vous pouvez voir à 60 ft. qui peut également vous voir. Cette créature doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'à la fin de votre prochain tour.
 
-Vous pouvez étendre la durée pour laquelle une créature est [[apeuré|apeurée]] d'un tour en ricanant. Lorsque vous le faites, l'effet demande votre concentration, comme pour un sort, mais vous pouvez vous concentrer et sur cet effet et sur un sort en même temps. Vous réalisez un seul jet pour conserver vos deux concentrations.
+Vous pouvez étendre la durée pour laquelle une créature est [[apeuré|apeurée]] d'un tour en ricanant. Lorsque vous le faites, l'effet demande votre concentration, comme pour un sort, mais vous pouvez vous concentrer et sur cet effet et sur un sort en même temps. Vous effectuez un seul jet pour conserver vos deux concentrations.
 
 ## Cauchemar Éveillé
 Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre l'un de vos sorts ou aptitudes de vestige, vous pouvez infliger à cette créature 2d8 dégâts psychiques.

@@ -20,7 +20,7 @@ Au niveau 6, vous devenez capable de vous soigner. Pour une action, vous regagne
 
 ## Paume Frémissante
 
-Au niveau 17, vous gagnez la capacité d'insérer des vibrations mortelles à l'intérieur du corps d'autrui. Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 3 points de ki pour démarrer ces imperceptibles vibrations, qui durent pour un nombre de jours égal à votre niveau de moine. Ces vibrations sont inoffensives sauf si vous utilisez votre action pour les terminer. Pour ce faire, vous et la cible devez vous trouver sur le même plan de l'existence. Lorsque vous utilisez cette action, la créature doit réaliser un jet de sauvegarde de Constitution. Si elle le rate, elle tombe à 0 point de vie. Sinon, elle subit 1d10 dégâts nécrotiques.
+Au niveau 17, vous gagnez la capacité d'insérer des vibrations mortelles à l'intérieur du corps d'autrui. Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 3 points de ki pour démarrer ces imperceptibles vibrations, qui durent pour un nombre de jours égal à votre niveau de moine. Ces vibrations sont inoffensives sauf si vous utilisez votre action pour les terminer. Pour ce faire, vous et la cible devez vous trouver sur le même plan de l'existence. Lorsque vous utilisez cette action, la créature doit effectuer un jet de sauvegarde de Constitution. Si elle le rate, elle tombe à 0 point de vie. Sinon, elle subit 1d10 dégâts nécrotiques.
 
 Vous ne pouvez avoir qu'une seule créature à la fois sous cet effet. Vous pouvez décider de terminer gratuitement ces vibrations sans causer de dégâts.
 

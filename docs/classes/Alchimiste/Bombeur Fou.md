@@ -5,7 +5,7 @@ Même si la plupart des "bombeurs fous" ne sont pas vraiment fous, ça demande u
 
 ## Spécialité Explosive
 
-À partir du moment où vous choisissez ce champ d'études au niveau 2, vos bombes réalisent le double des dégâts aux objets et structures.
+À partir du moment où vous choisissez ce champ d'études au niveau 2, vos bombes effectuent le double des dégâts aux objets et structures.
 
 ## Formule : Bombe à Fragmentation
 

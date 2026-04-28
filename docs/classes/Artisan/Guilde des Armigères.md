@@ -16,7 +16,7 @@ Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 
 
 ## Acier Luisant
 
-À partir du niveau 7, vos armures imposantes font de vous une cible claire. Lorsque vous tirez l'initiative et n'êtes pas [[surpris]], vous pouvez défier n'importe quel nombre de créatures que vous pouvez voir à 60 ft. Chaque créature affectée doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de chef-d'œuvre ou avoir le désavantage aux jets d'attaque qu'elle ne réalise pas contre vous pendant le premier tour de combat. Une créature avec une Intelligence de 3 ou moins réussit automatiquement ce jet.
+À partir du niveau 7, vos armures imposantes font de vous une cible claire. Lorsque vous tirez l'initiative et n'êtes pas [[surpris]], vous pouvez défier n'importe quel nombre de créatures que vous pouvez voir à 60 ft. Chaque créature affectée doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de chef-d'œuvre ou avoir le désavantage aux jets d'attaque qu'elle n'effectue pas contre vous pendant le premier tour de combat. Une créature avec une Intelligence de 3 ou moins réussit automatiquement ce jet.
 
 ## Renforcement d'Armure
 

@@ -21,4 +21,4 @@ Rituel: false
 englishname: True Strike
 writing_status: empty
 ---
-Vous pointez du doigt une cible à portée. Votre magie vous confère une brève connaissance des défenses de la cible. Pendant votre prochain tour, vous gagnez l'avantage au premier jet d'attaque que vous réalisez contre la créature, en supposant que le sort n'ait pas terminé.
+Vous pointez du doigt une cible à portée. Votre magie vous confère une brève connaissance des défenses de la cible. Pendant votre prochain tour, vous gagnez l'avantage au premier jet d'attaque que vous effectuez contre la créature, en supposant que le sort n'ait pas terminé.

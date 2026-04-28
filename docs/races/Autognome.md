@@ -45,7 +45,7 @@ Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aime
 
 **Blindage.** Vous êtes enrobé d'un fin métal, ou de tout autre matériau durable. Tant que vous ne portez pas d'armure, votre CA de base est de 13 + votre modificateur de Dextérité.
 
-**Construit pour Réussir.** Vous pouvez ajouter un d4 à un jet d'attaque, un test de caractéristique ou un jet de sauvegarde que vous réalisez, après avoir vu le lancer, mais avant d'en connaître les effets. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez les utilisations dépensées lorsque vous finissez un repos long.
+**Construit pour Réussir.** Vous pouvez ajouter un d4 à un jet d'attaque, un test de caractéristique ou un jet de sauvegarde que vous effectuez, après avoir vu le lancer, mais avant d'en connaître les effets. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez les utilisations dépensées lorsque vous finissez un repos long.
 
 **Design Spécialisé.** Vous gagnez la maîtrise de deux outils de votre choix.
 

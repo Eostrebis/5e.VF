@@ -9,7 +9,7 @@ Lorsque vous choisissez cette voie au niveau 3, utiliser votre action pour Esqui
 
 ## Anticipation
 
-Également au niveau 3, lorsque vous ne réalisez pas de jet d'attaque pendant votre tour, vous vous préparez à frapper. Jusqu'au début de votre prochain tour, lorsqu'une créature réalise une attaque de mêlée contre vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+Également au niveau 3, lorsque vous n'effectuez pas de jet d'attaque pendant votre tour, vous vous préparez à frapper. Jusqu'au début de votre prochain tour, lorsqu'une créature réalise une attaque de mêlée contre vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 ## Transe de Combat
 

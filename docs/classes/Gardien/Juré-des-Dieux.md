@@ -5,7 +5,7 @@ Les murmures des dieux, le tintement des cloches et l'harmonie des hymnes vous o
 
 ## Maîtrises Supplémentaires
 
-Lorsque vous adoptez ce serment au niveau 3, vous obtenez la maîtrise de la Médecine et de la Religion. Si vous avez déjà la maîtrise dans l'une de ces compétences, votre bonus de maîtrise est doublé pour les jets de caractéristiques que vous réalisez en l'utilisant (i.e. vous avez l'expertise).
+Lorsque vous adoptez ce serment au niveau 3, vous obtenez la maîtrise de la Médecine et de la Religion. Si vous avez déjà la maîtrise dans l'une de ces compétences, votre bonus de maîtrise est doublé pour les jets de caractéristiques que vous effectuez en l'utilisant (i.e. vous avez l'expertise).
 
 ## Marque Ointe
 

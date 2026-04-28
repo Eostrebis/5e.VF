@@ -7,7 +7,7 @@ Les armes à feu suivent des règles légèrement différentes des autres armes 
 
 ## Jets de Dégâts des Armes à Feu
 
-À la différence des autres armes, vous n'ajoutez pas votre modificateur de caractéristique aux jets de dégâts que vous réalisez avec une arme à feu.
+À la différence des autres armes, vous n'ajoutez pas votre modificateur de caractéristique aux jets de dégâts que vous effectuez avec une arme à feu.
 
 ## Combat à Deux Armes avec des Armes à Feu
 

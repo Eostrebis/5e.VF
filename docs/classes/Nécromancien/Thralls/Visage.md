@@ -27,7 +27,7 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 >
 > **Mouvement Incorporel.** Le visage peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. Le visage subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
 >
-> **Résistance Magique.** Le visage a l'avantage aux jets de sauvegarde qu'il réalise pour résister aux sorts et effets magiques.
+> **Résistance Magique.** Le visage a l'avantage aux jets de sauvegarde qu'il effectue pour résister aux sorts et effets magiques.
 >
 >### Actions
 >***Horrification.*** *Attaque Armée de Sort :* +5 pour toucher, portée 5 ft., une cible. *Touché :* 15 (5d4 +3) dégâts psychiques.

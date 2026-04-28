@@ -13,7 +13,7 @@ Au niveau 3, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du G
 
 ## Vent du Nord
 
-À partir du niveau 6, vous pouvez souffler une bourrasque de véritable Vent du Nord, un courant glaçant qui affecte une ligne longue de 100 ft. et large de 5 ft. dans la direction de votre choix. Chaque créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de froid et voit sa vitesse réduite de moitié jusqu'à la fin de son prochain tour. En cas de réussite, la créature subit la moitié des dégâts et sa vitesse n'est pas réduite.
+À partir du niveau 6, vous pouvez souffler une bourrasque de véritable Vent du Nord, un courant glaçant qui affecte une ligne longue de 100 ft. et large de 5 ft. dans la direction de votre choix. Chaque créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de froid et voit sa vitesse réduite de moitié jusqu'à la fin de son prochain tour. En cas de réussite, la créature subit la moitié des dégâts et sa vitesse n'est pas réduite.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 

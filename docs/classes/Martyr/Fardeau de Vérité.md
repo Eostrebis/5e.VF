@@ -19,7 +19,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Érudition Civique
 
-À partir du niveau 1, vous pouvez utiliser votre modificateur de Sagesse plutôt que celui de Charisme pour les jets de Charisme (Persuasion) que vous réalisez. De plus, les autres créatures peuvent discerner quand vous dîtes la vérité.
+À partir du niveau 1, vous pouvez utiliser votre modificateur de Sagesse plutôt que celui de Charisme pour les jets de Charisme (Persuasion) que vous effectuez. De plus, les autres créatures peuvent discerner quand vous dîtes la vérité.
 
 ## Maxime de Vérité
 
@@ -33,7 +33,7 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 ## Esquive Prévue
 
-À partir du niveau 14, lorsqu'une attaque que vous voyez réalise un jet d'attaque contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage sur ce jet.
+À partir du niveau 14, lorsqu'une attaque que vous voyez effectue un jet d'attaque contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage sur ce jet.
 
 ## Yeux du Prophète
 

@@ -31,7 +31,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Abjuration d'Ennemi.** Pour une action, vous dressez votre symbole sacré et prononcez une prière de dénonciation en utilisant votre Canal Divin. Choisissez une créature à 60 ft. que vous pouvez voir. Elle doit réaliser un jet de sauvegarde de Sagesse, sauf si elle est immunisée contre la condition [[apeuré]]. Les fiélons et les morts-vivants ont le désavantage à ce jet de sauvegarde.
+**Abjuration d'Ennemi.** Pour une action, vous dressez votre symbole sacré et prononcez une prière de dénonciation en utilisant votre Canal Divin. Choisissez une créature à 60 ft. que vous pouvez voir. Elle doit effectuer un jet de sauvegarde de Sagesse, sauf si elle est immunisée contre la condition [[apeuré]]. Les fiélons et les morts-vivants ont le désavantage à ce jet de sauvegarde.
 
 Si elle échoue, la créature est [[apeuré|apeurée]] pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[apeuré|apeurée]], la vitesse de la créature est de 0 et elle ne peut bénéficier d'aucun bonus à sa vitesse.
 

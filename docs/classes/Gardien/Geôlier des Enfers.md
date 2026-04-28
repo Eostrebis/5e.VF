@@ -5,7 +5,7 @@ Certains gardiens entendent un appel de flammes et de cris tourmentés venant di
 
 ## Tourmenteur
 
-À partir du moment où vous entendez cet appel au niveau 3, vous maîtrisez la compétence Intimidation et pouvez doubler votre bonus de maîtrise pour n'importe quel jet de Charisme (Intimidation) que vous réalisez pour intimider une créature [[retenu|retenue]]. 
+À partir du moment où vous entendez cet appel au niveau 3, vous maîtrisez la compétence Intimidation et pouvez doubler votre bonus de maîtrise pour n'importe quel jet de Charisme (Intimidation) que vous effectuez pour intimider une créature [[retenu|retenue]]. 
 
 ## Saisie Infernale
 

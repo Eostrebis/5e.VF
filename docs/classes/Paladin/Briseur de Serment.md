@@ -21,9 +21,9 @@ Un paladin Briseur de Serment perd accès aux sorts que lui conférait son serme
 
 Un paladin Briseur de Serment de niveau 3 ou plus obtient les deux options de Canal Divin suivantes : 
 
-**Contrôle des Morts-Vivants.** Pour une action, le paladin cible un mort-vivant qu'il peut voir à 30 ft. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la cible doit obéir aux ordres du paladin pendant les 24 prochaines heures ou jusqu'à ce que le paladin réutilise cette option de Canal Divin. Un mort-vivant dont le FP est supérieur ou égal au niveau du paladin est immunisé contre cet effet.
+**Contrôle des Morts-Vivants.** Pour une action, le paladin cible un mort-vivant qu'il peut voir à 30 ft. La cible doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la cible doit obéir aux ordres du paladin pendant les 24 prochaines heures ou jusqu'à ce que le paladin réutilise cette option de Canal Divin. Un mort-vivant dont le FP est supérieur ou égal au niveau du paladin est immunisé contre cet effet.
 
-**Aspect Terrifiant.** Pour une action, le paladin canalise ses émotions les plus sombres et les focalise en une éruption de menace magique. Toute créature que le paladin choisit dans un rayon de 30 ft. doit réaliser un jet de sauvegarde de Sagesse si elle peut le voir. Si elle échoue, la cible est [[apeuré|apeurée]] par le paladin pendant 1 minute. Si une créature [[apeuré|apeurée]] par cet effet termine son tour à plus de 30 ft. du paladin, elle peut retenter un nouveau jet de sauvegarde pour terminer l'effet.
+**Aspect Terrifiant.** Pour une action, le paladin canalise ses émotions les plus sombres et les focalise en une éruption de menace magique. Toute créature que le paladin choisit dans un rayon de 30 ft. doit effectuer un jet de sauvegarde de Sagesse si elle peut le voir. Si elle échoue, la cible est [[apeuré|apeurée]] par le paladin pendant 1 minute. Si une créature [[apeuré|apeurée]] par cet effet termine son tour à plus de 30 ft. du paladin, elle peut retenter un nouveau jet de sauvegarde pour terminer l'effet.
 
 ## Aura de Haine
 

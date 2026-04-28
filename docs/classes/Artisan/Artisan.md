@@ -88,7 +88,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
  - Un [[sac d'exploration souterraine]]
 
 ``` Outils d'Artisan
- En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous réaliseriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
+ En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous effectueriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
 ```
 
 ## Maîtrises Exotiques

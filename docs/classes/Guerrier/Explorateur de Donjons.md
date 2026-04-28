@@ -13,7 +13,7 @@ Seuls les fous fonceraient tête baissée dans une crypte abandonnée remplie de
 
 ## Intuition de l'Explorateur
 
-Au niveau 7, vous avez un sixième sens pour les dangers uniques présents dans un donjon. Vous avez l'avantage à vos jets de caractéristique pour détecter les changeformes, pièges et les effets magiques invisibles, et vous pouvez réaliser un jet pour les détecter même si cela ne serait pas normalement permis.
+Au niveau 7, vous avez un sixième sens pour les dangers uniques présents dans un donjon. Vous avez l'avantage à vos jets de caractéristique pour détecter les changeformes, pièges et les effets magiques invisibles, et vous pouvez effectuer un jet pour les détecter même si cela ne serait pas normalement permis.
 
 ## Exterminateur
 
@@ -25,4 +25,4 @@ Au niveau 15, vous êtes parmi les meilleurs experts en ce qui concerne l'évite
 
 ## Évitement 
 
-À partir du niveau 18, lorsque vous êtes sujet à un effet qui vous permet de réaliser un jet de Force, Dextérité ou Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégâts en cas de réussite, et la moitié en cas d'échec.
+À partir du niveau 18, lorsque vous êtes sujet à un effet qui vous permet d'effectuer un jet de Force, Dextérité ou Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégâts en cas de réussite, et la moitié en cas d'échec.

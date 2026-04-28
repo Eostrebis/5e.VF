@@ -7,7 +7,7 @@ Vous rappelez gentiment aux autres, souvent par la violence physique, que vos po
 
 ## Magie Incontestable
 
-À partir du niveau 3, votre légitimité magique (et vos immenses pectoraux) vous confèrent l'avantage aux jets de Charisme (Intimidation) que vous réalisez pour convaincre les autres que vous êtes un magicien.
+À partir du niveau 3, votre légitimité magique (et vos immenses pectoraux) vous confèrent l'avantage aux jets de Charisme (Intimidation) que vous effectuez pour convaincre les autres que vous êtes un magicien.
 
 De plus, si quelqu'un questionne vos prouesses magiques, vous pouvez vous enrager pendant 1 tour. Cette rage ne peut être prolongée et ne compte pas dans le nombre de rages que vous pouvez réaliser. Pendant que vous êtes enragé de cette manière, vous ne pouvez attaquer que la créature qui vous a vexé ainsi que ses alliés.
 
@@ -39,6 +39,6 @@ Au niveau 10, vous êtes devenu un magicien si extraordinaire que même les autr
 
 ## Je lance Poing
 
-À partir du niveau 14, vous pouvez écraser vos ennemis avec votre sort ultime *Poing*. Tant que vous êtes enragé, vous pouvez utiliser votre action et votre action bonus pour frapper votre adversaire vraiment, vraiment fort. Réalisez un jet d'attaque de mêlée avec avantage contre une créature de votre choix à portée. Si vous touchez, vous infligez 8d8 + votre modificateur de Force dégâts contondants.
+À partir du niveau 14, vous pouvez écraser vos ennemis avec votre sort ultime *Poing*. Tant que vous êtes enragé, vous pouvez utiliser votre action et votre action bonus pour frapper votre adversaire vraiment, vraiment fort. Effectuez un jet d'attaque de mêlée avec avantage contre une créature de votre choix à portée. Si vous touchez, vous infligez 8d8 + votre modificateur de Force dégâts contondants.
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez votre rage et en commenciez une nouvelle.

@@ -17,7 +17,7 @@ Au niveau 9, vous savez comment déguerpir juste avant que le pot aux roses ne s
 
 ## Long Cours
 
-Au niveau 13, vous pouvez préparer un mensonge pour le ressortir parfaitement. Lorsque vous prenez un repos long, vous pouvez choisir un mensonge à répéter. Ce mensonge peut être un simple fait transformé ou un passé réécrit. Vous n'avez pas besoin de réaliser de jet de tromperie pour ce mensonge. Vous pouvez parfaitement répéter ce mensonge jusqu'à ce que vous utilisiez cette aptitude pour en répéter un autre.
+Au niveau 13, vous pouvez préparer un mensonge pour le ressortir parfaitement. Lorsque vous prenez un repos long, vous pouvez choisir un mensonge à répéter. Ce mensonge peut être un simple fait transformé ou un passé réécrit. Vous n'avez pas besoin d'effectuer de jet de tromperie pour ce mensonge. Vous pouvez parfaitement répéter ce mensonge jusqu'à ce que vous utilisiez cette aptitude pour en répéter un autre.
 
 ## Plan de Braquage
 

@@ -112,7 +112,7 @@ Vous pouvez dépenser ces points pour utiliser certaines aptitudes de ki. Vous c
 
 Lorsque vous dépensez un point de ki, il n'est plus disponible jusqu'à que vous finissiez un repos court ou long, à la fin duquel vous récupérez tous les points de ki que vous avez dépensés. Vous devez passer au moins 30 minutes pendant le repos à méditer pour regagner vos points de ki.
 
-Certaines de vos aptitudes de ki demandent à la cible de réaliser un jet de sauvegarde pour résister à leurs effets. Le DD de ce jet de sauvegarde est calculé comme suit :
+Certaines de vos aptitudes de ki demandent à la cible d'effectuer un jet de sauvegarde pour résister à leurs effets. Le DD de ce jet de sauvegarde est calculé comme suit :
 
 <p style="text-align:center"><b>DD de Sauvegarde du ki</b> = 8 + bonus de maîtrise + modificateur de Sagesse</p>
 
@@ -230,7 +230,7 @@ Au niveau 10, votre maîtrise de la circulation du ki vous rend immunisé contre
 
 À partir du niveau 14, votre maîtrise du ki vous confère la maîtrise de tous les jets de sauvegarde.
 
-De plus, lorsque vous réalisez un jet de sauvegarde et ratez, vous pouvez utiliser 1 point de ki pour réessayer et prendre le second résultat.
+De plus, lorsque vous effectuez un jet de sauvegarde et ratez, vous pouvez utiliser 1 point de ki pour réessayer et prendre le second résultat.
 
 ## Jeunesse Éternelle
 

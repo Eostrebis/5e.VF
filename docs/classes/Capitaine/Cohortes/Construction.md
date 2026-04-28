@@ -21,7 +21,7 @@ writing_status: finished
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> **Explosion Mortelle.** La construction explose lorsqu'elle tombe à 0 point de vie. Chaque créature dans un rayon de 5 ft. doit réaliser un jet de sauvegarde de Dextérité DD 12. Une créature qui échoue à ce jet subit 7 (2d6) dégâts de feu, et la moitié si elle réussit.
+> **Explosion Mortelle.** La construction explose lorsqu'elle tombe à 0 point de vie. Chaque créature dans un rayon de 5 ft. doit effectuer un jet de sauvegarde de Dextérité DD 12. Une créature qui échoue à ce jet subit 7 (2d6) dégâts de feu, et la moitié si elle réussit.
 > 
 > **Nature Construite.** La construction n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
 >*_*

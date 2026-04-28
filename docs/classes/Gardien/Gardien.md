@@ -135,7 +135,7 @@ Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 
 
 ### Affronteur de Titans
 
-Vous gagnez un bonus de +2 aux jets d'attaque armée de mêlée que vous réalisez contre les créatures de taille G ou supérieure.
+Vous gagnez un bonus de +2 aux jets d'attaque armée de mêlée que vous effectuez contre les créatures de taille G ou supérieure.
 
 ## Marque du Gardien
 
@@ -193,7 +193,7 @@ Les gardiens sont d'excellents traqueurs qui naviguent les terres dangereuses sa
 
 ### Force de la Terre
 
-Vous possédez la puissance de la terre elle-même. Le poids que vous pouvez porter est doublé, et vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous réalisez pour éviter d'être déplacé contre votre volonté ou être mis [[au sol]].
+Vous possédez la puissance de la terre elle-même. Le poids que vous pouvez porter est doublé, et vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous effectuez pour éviter d'être déplacé contre votre volonté ou être mis [[au sol]].
 
 ### Charge Éclair
 
@@ -367,4 +367,4 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 
 À partir du niveau 3, lorsqu'il vous reste moins de la moitié de vos points de vie, vous disparaissez en un flou de ténèbres fluctuantes, imposant un désavantage à tout jet d'attaque de mêlée contre vous. Un attaquant ne subit pas ce désavantage s'il ne se base pas sur la vue, par exemple avec la vision aveugle ou s'il peut voir à travers les illusions, par exemple avec la vision totale.
 
-À partir du niveau 17, vous avez également l'avantage aux jets de sauvegarde de Force, Dextérité et Constitution que vous réalisez lorsque vous avez moins de la moitié de vos points de vie.
+À partir du niveau 17, vous avez également l'avantage aux jets de sauvegarde de Force, Dextérité et Constitution que vous effectuez lorsque vous avez moins de la moitié de vos points de vie.

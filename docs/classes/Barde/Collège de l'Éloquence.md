@@ -5,11 +5,11 @@ Les membres du Collège de l'Éloquence sont maîtres des arts oratoires. La per
 
 ## Langue d'Argent
 
-À partir du niveau 3, vous devenez maître dans l'art de dire la bonne chose au bon moment. Lorsque vous réalisez un jet de Charisme (Persuasion) ou Charisme (Tromperie), vous pouvez considérer un résultat de 9 ou moins sur le d20 comme un 10.
+À partir du niveau 3, vous devenez maître dans l'art de dire la bonne chose au bon moment. Lorsque vous effectuez un jet de Charisme (Persuasion) ou Charisme (Tromperie), vous pouvez considérer un résultat de 9 ou moins sur le d20 comme un 10.
 
 ## Mots Perturbants
 
-Également au niveau 3, vous pouvez déblatérer des mots chargés de magie qui désarçonnent une créature et la font douter. Pour une action bonus, vous pouvez dépenser une charge d'Inspiration Bardique et choisir une créature à 60 ft. Lancez un dé d'Inspiration Bardique. La créature doit soustraire le résultat au prochain jet de sauvegarde qu'elle réalise avant le début de votre prochain tour.
+Également au niveau 3, vous pouvez déblatérer des mots chargés de magie qui désarçonnent une créature et la font douter. Pour une action bonus, vous pouvez dépenser une charge d'Inspiration Bardique et choisir une créature à 60 ft. Lancez un dé d'Inspiration Bardique. La créature doit soustraire le résultat au prochain jet de sauvegarde qu'elle effectue avant le début de votre prochain tour.
 
 ## Inspiration Sans-Faille
 

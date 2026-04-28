@@ -9,7 +9,7 @@ Que ce soit par une morsure infectée ou par une malédiction vicieuse, votre sa
 
 **Vision dans le Noir.** Vous pouvez voir dans la lumière faible à 60 ft. comme si vous étiez en lumière vive, et dans l'obscurité comme si vous étiez en lumière faible. Vous ne pouvez discerner les couleurs dans l'obscurité, seulement les nuances de gris. Si vous possédez déjà une vision dans le noir de par votre race, celle-ci augmente de 30 ft.
 
-**Odorat Aiguisé.** Vous avez l'avantage aux jets de Sagesse (Perception) que vous réalisez se basant sur l'odorat.
+**Odorat Aiguisé.** Vous avez l'avantage aux jets de Sagesse (Perception) que vous effectuez se basant sur l'odorat.
 
 ## Aspect Bestial
 

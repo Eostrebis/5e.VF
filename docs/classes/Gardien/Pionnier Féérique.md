@@ -5,7 +5,7 @@ Traverser un pont féerique pour rejoindre la Féerie enchantée peut s'avérer 
 
 ## Marque Envoutante
 
-À partir du moment où vous répondez à cet appel au niveau 3, vous pouvez placer votre marque sur les affections à l'intérieur même de l'esprit d'une créature. Lorsque vous utilisez votre [[Gardien#Marque du Gardien|Marque du Gardien]], vous pouvez essayer de placer une Marque Envoutante. Lorsque vous le faites, la cible doit réaliser un jet de sauvegarde de Sagesse de DD 8 + votre bonus de maîtrise + votre modificateur de Constitution. Si elle échoue, plutôt que les effets habituels de la Marque du Gardien, tant que la cible est à 5 ft. de vous, elle est [[charmé|charmée]] par vous. Votre Marque Envoutante se termine prématurément si vous infligez des dégâts à la créature marquée.
+À partir du moment où vous répondez à cet appel au niveau 3, vous pouvez placer votre marque sur les affections à l'intérieur même de l'esprit d'une créature. Lorsque vous utilisez votre [[Gardien#Marque du Gardien|Marque du Gardien]], vous pouvez essayer de placer une Marque Envoutante. Lorsque vous le faites, la cible doit effectuer un jet de sauvegarde de Sagesse de DD 8 + votre bonus de maîtrise + votre modificateur de Constitution. Si elle échoue, plutôt que les effets habituels de la Marque du Gardien, tant que la cible est à 5 ft. de vous, elle est [[charmé|charmée]] par vous. Votre Marque Envoutante se termine prématurément si vous infligez des dégâts à la créature marquée.
 
 ## Balade Brumeuse
 
@@ -13,7 +13,7 @@ Au niveau 6, votre connexion avec la Féerie vous permet de *clignoter* de lieu 
 
 ## Résistance aux Sorts
 
-À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts.
+À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts.
 
 ## Archifée Majestueuse
 

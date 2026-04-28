@@ -15,7 +15,7 @@ De plus, lorsque vous réalisez une attaque armée à distance avec une arme à 
 
 ## Désarmement Éclair
 
-À partir du niveau 7, si une créature à moins de 5 ft. de vous manie une arme à feu, vous pouvez utiliser votre action bonus et dépenser un dé de risque pour essayer de la désarmer. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de Fait. Si elle rate, vous lui prenez l'arme des mains après une rapide série de mouvements. Vous devez avoir au moins une main libre pour utiliser cette aptitude.
+À partir du niveau 7, si une créature à moins de 5 ft. de vous manie une arme à feu, vous pouvez utiliser votre action bonus et dépenser un dé de risque pour essayer de la désarmer. La cible doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de Fait. Si elle rate, vous lui prenez l'arme des mains après une rapide série de mouvements. Vous devez avoir au moins une main libre pour utiliser cette aptitude.
 
 ## Attrape-Balle
 

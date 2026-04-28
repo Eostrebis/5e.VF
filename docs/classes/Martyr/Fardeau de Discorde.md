@@ -46,10 +46,10 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 ## Pièce Chaotique
 
-Au niveau 14, vous obtenez une pièce bénie par les fluctuations du chaos. Lorsque vous ou une créature que vous pouvez voir réalise un jet d'attaque ou de sauvegarde, vous pouvez lancer la pièce pour ajouter un bonus au jet. Le bonus est de +4 sur face, et +1 sur pile. Une fois que vous avez utilisé la pièce, celle-ci va au MJ qui peut l'utiliser pour améliorer le jet réalisé par un PNJ ou un monstre. Une fois que le MJ utilise la pièce, elle vous revient, et ainsi de suite. Lorsque vous terminez un repos court ou long, vous récupérez la pièce, que le MJ l'ait ou non.
+Au niveau 14, vous obtenez une pièce bénie par les fluctuations du chaos. Lorsque vous ou une créature que vous pouvez voir effectue un jet d'attaque ou de sauvegarde, vous pouvez lancer la pièce pour ajouter un bonus au jet. Le bonus est de +4 sur face, et +1 sur pile. Une fois que vous avez utilisé la pièce, celle-ci va au MJ qui peut l'utiliser pour améliorer le jet réalisé par un PNJ ou un monstre. Une fois que le MJ utilise la pièce, elle vous revient, et ainsi de suite. Lorsque vous terminez un repos court ou long, vous récupérez la pièce, que le MJ l'ait ou non.
 
 ## Pandémonium
 
-Au niveau 18, vous pouvez utiliser votre aptitude [[#Chaos !]] à chaque fois que vous réalisez un jet d'attaque ou lancez un sort ciblant une créature hostile, et n'avez pas besoin de vous reposer entre chaque utilisation.
+Au niveau 18, vous pouvez utiliser votre aptitude [[#Chaos !]] à chaque fois que vous effectuez un jet d'attaque ou lancez un sort ciblant une créature hostile, et n'avez pas besoin de vous reposer entre chaque utilisation.
 
 

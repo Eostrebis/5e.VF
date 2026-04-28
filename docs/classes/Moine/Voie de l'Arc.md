@@ -5,7 +5,7 @@ Les moines qui suivent la Voie de l'Arc trouvent la paix intérieure dans la tra
 
 ## Style de combat : Archerie
 
-À partir du moment où vous sélectionnez cette tradition au niveau 3, vous gagnez un bonus de +2 aux jets d'attaques que vous réalisez avec des armes à distance. Vous ne pouvez pas choisir un style de combat plus d'une fois, même si vous en avez à nouveau la possibilité.
+À partir du moment où vous sélectionnez cette tradition au niveau 3, vous gagnez un bonus de +2 aux jets d'attaques que vous effectuez avec des armes à distance. Vous ne pouvez pas choisir un style de combat plus d'une fois, même si vous en avez à nouveau la possibilité.
 
 ## Arts Archers
 
@@ -23,7 +23,7 @@ Lorsque vous entreprenez l'action d'Attaquer avec une arme à distance pendant v
 
 ## Tir Interceptant
 
-À partir du niveau 6, lorsqu'une créature que vous voyez réalise une attaque contre vous, vous pouvez utiliser votre réaction pour réaliser un jet d'attaque à distance pour intercepter cette attaque. Si le résultat de votre jet est supérieur au jet de l'attaquant, vous pouvez réduire le jet d'attaque vous ciblant de 5, pour un minimum de 1. 
+À partir du niveau 6, lorsqu'une créature que vous voyez réalise une attaque contre vous, vous pouvez utiliser votre réaction pour effectuer un jet d'attaque à distance pour intercepter cette attaque. Si le résultat de votre jet est supérieur au jet de l'attaquant, vous pouvez réduire le jet d'attaque vous ciblant de 5, pour un minimum de 1. 
 
 
 ## Tranquillité du Vent

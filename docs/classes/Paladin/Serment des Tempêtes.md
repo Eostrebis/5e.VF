@@ -31,7 +31,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Revanche Foudroyante.** Vous pouvez utiliser votre Canal Divin pour frapper avec la furie des tempêtes. Immédiatement après qu'une créature que vous pouvez voir à 30 ft. vous inflige des dégâts avec une attaque, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. En cas d'échec, l'attaquant subit un nombre de dégâts de foudre égal aux dégâts qu'il vient d'infliger. En cas de succès, il en subit la moitié.
+**Revanche Foudroyante.** Vous pouvez utiliser votre Canal Divin pour frapper avec la furie des tempêtes. Immédiatement après qu'une créature que vous pouvez voir à 30 ft. vous inflige des dégâts avec une attaque, vous pouvez utiliser votre réaction pour forcer l'attaquant à effectuer un jet de sauvegarde de Sagesse. En cas d'échec, l'attaquant subit un nombre de dégâts de foudre égal aux dégâts qu'il vient d'infliger. En cas de succès, il en subit la moitié.
 
 **Marche sur les Vagues.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour apaiser votre relation avec la mer. Pendant la prochaine heure, vous bénéficiez des effets du sort [[marche sur l'eau]] et votre vitesse est doublée lorsque vous marchez sur l'eau.
 

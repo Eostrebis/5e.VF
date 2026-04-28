@@ -93,7 +93,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Philosophe Naturel
 
-Vous avez appris beaucoup sur l'alchimie pendant vos études. À partir du niveau 1, vous pouvez ajouter la moitié de votre bonus de maîtrise, arrondi au supérieur, à n'importe quel jet de caractéristique que vous réalisez pour identifier des herbes, des potions, des poisons ou n'importe quelle autre substance alchimique. Si le jet de caractéristique utilise déjà votre bonus de maîtrise, vous pouvez compter ce bonus en plus du bonus standard.
+Vous avez appris beaucoup sur l'alchimie pendant vos études. À partir du niveau 1, vous pouvez ajouter la moitié de votre bonus de maîtrise, arrondi au supérieur, à n'importe quel jet de caractéristique que vous effectuez pour identifier des herbes, des potions, des poisons ou n'importe quelle autre substance alchimique. Si le jet de caractéristique utilise déjà votre bonus de maîtrise, vous pouvez compter ce bonus en plus du bonus standard.
 
 ## Bombes
 

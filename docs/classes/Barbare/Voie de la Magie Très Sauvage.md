@@ -121,7 +121,7 @@ Si l'effet requiert un jet de sauvegarde, le DD est égal à 8 + votre bonus de 
 
 Au niveau 6, vous pouvez manipuler votre magie sauvage pour vous renforcer vous ou un compagnon. Pour une action, vous pouvez toucher une créature (vous y compris) et lui conférez l'un des effets suivants au choix :
 
- - Pendant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle réalise un jet d'attaque ou de caractéristique et ajouter le résultat au d20. 
+ - Pendant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle effectue un jet d'attaque ou de caractéristique et ajouter le résultat au d20. 
  - Tirez un d3. La créature un emplacement de sort dépensé dont le niveau est inférieur ou égal au résultat du dé. Une fois que la créature bénéficie de cet effet, elle ne peut plus en bénéficier jusqu'à ce qu'elle ait terminé un repos long.
 
 Vous pouvez entreprendre cette action un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.

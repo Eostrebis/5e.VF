@@ -18,7 +18,7 @@ Rituel: false
 englishname: Enlarge/Reduce
 writing_status: empty
 ---
-Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pour la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut réaliser un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
+Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pour la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut effectuer un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
 
 Si la cible est une créature, tout ce qu'elle porte change de taille avec elle. Un objet lâché par une créature affectée par le sort revient à sa taille normale.
 

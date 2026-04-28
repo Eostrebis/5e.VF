@@ -21,8 +21,8 @@ Vous apprenez le cantrip [[orbe occulte]] et un cantrip supplémentaire de votre
 
 ## Conspirationniste
 
-Vous avez l'avantage aux jets de sauvegarde que vous réalisez afin d'éviter ou de terminer les conditions [[charmé]] ou fou sur vous-même.
+Vous avez l'avantage aux jets de sauvegarde que vous effectuez afin d'éviter ou de terminer les conditions [[charmé]] ou fou sur vous-même.
 
 ## Intuition du Lunatique
 
-Lorsque vous réalisez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre intuition *unique* vous permet de faire des liens, qui existent ou non, entre certains faits ou observations. Si le résultat du d20 pour le jet est pair, vous pouvez ajouter votre bonus de maîtrise au jet.
+Lorsque vous effectuez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre intuition *unique* vous permet de faire des liens, qui existent ou non, entre certains faits ou observations. Si le résultat du d20 pour le jet est pair, vous pouvez ajouter votre bonus de maîtrise au jet.

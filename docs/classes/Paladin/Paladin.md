@@ -227,7 +227,7 @@ De plus, vous pouvez remplacer votre style de combat par un autre apprenable par
 
 ## Aura de Protection
 
-À partir du niveau 6, lorsque vous ou une créature amicale à 10 ft. doit réaliser un jet de sauvegarde, la créature gagne un bonus égal à votre modificateur de Charisme. Vous devez être conscient pour bénéficier de ce bonus.
+À partir du niveau 6, lorsque vous ou une créature amicale à 10 ft. doit effectuer un jet de sauvegarde, la créature gagne un bonus égal à votre modificateur de Charisme. Vous devez être conscient pour bénéficier de ce bonus.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 

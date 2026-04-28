@@ -10,7 +10,7 @@ Des lames virevoltant en formant de dramatiques arcs, propulsées par des mains 
  - Vous pouvez lancer et contrôler [[main de mage]] pour une action bonus.
  - Vous invoquez deux mains séparées et vous pouvez contrôler l'une, l'autre ou les deux lorsque vous utilisez le sort.
  - La durée du sort est infinie, ne terminant que lorsque vous êtes [[inconscient]] ou que vous choisissez de le terminer.
- - Vos [[main de mage|mains de mage]] sont plus fortes que la normale, capable de porter un poids combiné de $5\times$ votre niveau de guerrier en livres, et suffisamment dextres pour réaliser n'importe quel jet de caractéristique que vous feriez normalement avec vos mains.
+ - Vos [[main de mage|mains de mage]] sont plus fortes que la normale, capable de porter un poids combiné de $5\times$ votre niveau de guerrier en livres, et suffisamment dextres pour effectuer n'importe quel jet de caractéristique que vous feriez normalement avec vos mains.
 
 ## Mains de Combat
 

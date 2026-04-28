@@ -113,7 +113,7 @@ En tant que Martyr, vous avez été prédestiné par les dieux à périr pour un
 
 ## Marque du Héraut
 
-Au niveau 2, votre cause divine se manifeste sur vous, formant une marque spéciale ou un stigmate que tous peuvent voir. Vous avez l'avantage aux jets que vous réalisez pour convaincre d'autres créatures de vous assister au nom de votre cause sacrée.
+Au niveau 2, votre cause divine se manifeste sur vous, formant une marque spéciale ou un stigmate que tous peuvent voir. Vous avez l'avantage aux jets que vous effectuez pour convaincre d'autres créatures de vous assister au nom de votre cause sacrée.
 
 ## Incantation
 
@@ -146,7 +146,7 @@ Puisque votre pouvoir est directement lié à votre souffrance en tant que morte
 
 ### Caractéristique d'Incantation
 
-La Sagesse est votre caractéristique d'incantation pour vos sorts de martyr, puisque vos pouvoirs ont pour origine la foi que vous utilisez pour surpasser les épreuves et tribulations que vous rencontrez. Vous utilisez votre Sagesse à chaque fois qu'un sort vous indique d'utiliser votre caractéristique d'Incantation. De plus, vous utilisez votre modificateur de Sagesse pour définir le DD des jets de sauvegarde pour vos sorts de martyr, et lorsque vous réalisez un jet d'attaque avec l'un d'entre eux.
+La Sagesse est votre caractéristique d'incantation pour vos sorts de martyr, puisque vos pouvoirs ont pour origine la foi que vous utilisez pour surpasser les épreuves et tribulations que vous rencontrez. Vous utilisez votre Sagesse à chaque fois qu'un sort vous indique d'utiliser votre caractéristique d'Incantation. De plus, vous utilisez votre modificateur de Sagesse pour définir le DD des jets de sauvegarde pour vos sorts de martyr, et lorsque vous effectuez un jet d'attaque avec l'un d'entre eux.
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur de Sagesse</p>
 
@@ -168,7 +168,7 @@ Ces dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le nive
 
 ## Tourment
 
-Au niveau 3, vous avez appris à vous attirer la faveur des dieux à travers votre souffrance et les épreuves mortelles que vous avez traversées. Une fois par tour, à chacun de vos tours, lorsque vous touchez une créature avec une attaque à l'arme de mêlée, vous pouvez perdre 5 points de vie pour infliger 10 dégâts nécrotiques ou radiants supplémentaires (au choix) à la cible. Vous n'avez pas à réaliser de jet de sauvegarde de Constitution pour maintenir votre concentration sur des sorts en conséquence de cette perte de points de vie.
+Au niveau 3, vous avez appris à vous attirer la faveur des dieux à travers votre souffrance et les épreuves mortelles que vous avez traversées. Une fois par tour, à chacun de vos tours, lorsque vous touchez une créature avec une attaque à l'arme de mêlée, vous pouvez perdre 5 points de vie pour infliger 10 dégâts nécrotiques ou radiants supplémentaires (au choix) à la cible. Vous n'avez pas à effectuer de jet de sauvegarde de Constitution pour maintenir votre concentration sur des sorts en conséquence de cette perte de points de vie.
 
 À partir du niveau 11, vous pouvez choisir de perdre 10 points de vie pour infliger 20 dégâts supplémentaires à la cible.
 

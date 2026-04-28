@@ -16,7 +16,7 @@ Un tel barbare peut être habité par un esprit primitif ou descendre d'une lign
 
 ## Forme Bestiale
 
-À partir du moment où vous choisissez cette voie au niveau 3, lorsque vous entrez en rage, vous pouvez vous transformer, révélant le pouvoir bestial qui sommeille en vous. Jusqu'à ce que votre rage ne termine, vous manifestez une arme naturelle. Elle est considérée comme une arme simple de mêlée pour vous et vous ajoutez votre modificateur de Force aux jets d'attaque et de dégâts que vous réalisez en attaquant avec.
+À partir du moment où vous choisissez cette voie au niveau 3, lorsque vous entrez en rage, vous pouvez vous transformer, révélant le pouvoir bestial qui sommeille en vous. Jusqu'à ce que votre rage ne termine, vous manifestez une arme naturelle. Elle est considérée comme une arme simple de mêlée pour vous et vous ajoutez votre modificateur de Force aux jets d'attaque et de dégâts que vous effectuez en attaquant avec.
 
 Vous choisissez la forme de l'arme à chaque vous que vous ragez : 
 
@@ -34,7 +34,7 @@ Vous pouvez également modifier votre forme pour mieux vous adapter à votre env
 
 **Escalade.** Vous gagnez une vitesse d'escalade égale à votre vitesse de marche et vous pouvez escalader les surfaces difficiles, y compris les plafonds, sans recourir à un jet de caractéristique.
 
-**Saut.** Lorsque vous sautez, vous pouvez réaliser un jet de Force (Athlétisme) et allonger votre saut d'un nombre de pieds égal au résultat du jet. Vous ne pouvez réaliser ce jet précis qu'une fois par tour.
+**Saut.** Lorsque vous sautez, vous pouvez effectuer un jet de Force (Athlétisme) et allonger votre saut d'un nombre de pieds égal au résultat du jet. Vous ne pouvez effectuer ce jet précis qu'une fois par tour.
 
 **Nage.** Vous gagnez une vitesse de nage égale à votre vitesse de marche, et vous pouvez respirer sous l'eau.
 

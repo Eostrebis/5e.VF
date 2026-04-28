@@ -37,7 +37,7 @@ Au niveau 10, vous pouvez mettre tout votre poids dans un seul coup. Lorsque vou
 
 ## Lutteur Hibours
 
-À partir du niveau 15, vous avez appris comment mettre au sol même les plus stables des adversaires. Vous avez l'avantage aux jets de Force (Athlétisme) que vous réalisez pour Saisir des créatures de taille G ou moins, et vous pouvez essayer de Saisir des créatures de toutes tailles.
+À partir du niveau 15, vous avez appris comment mettre au sol même les plus stables des adversaires. Vous avez l'avantage aux jets de Force (Athlétisme) que vous effectuez pour Saisir des créatures de taille G ou moins, et vous pouvez essayer de Saisir des créatures de toutes tailles.
 
 ## Brise-Crâne
 

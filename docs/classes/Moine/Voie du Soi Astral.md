@@ -14,7 +14,7 @@ Lorsque vous choisissez cette tradition au niveau 3, votre maîtrise du ki vous 
 
 Pendant 10 minutes, ces bras spectraux flottent au-dessus de vos épaules ou entourent vos bras (votre choix). Vous déterminez l'apparence de ces bras, et ils disparaissent si vous êtes [[incapacité]] ou mourez. Tant que ces bras spectraux sont présents, vous bénéficiez des effets suivants : 
 
- - Vous pouvez utiliser votre modificateur de Sagesse plutôt que de Force lorsque vous réalisez des jets de caractéristique et de sauvegarde de Force.
+ - Vous pouvez utiliser votre modificateur de Sagesse plutôt que de Force lorsque vous effectuez des jets de caractéristique et de sauvegarde de Force.
  - Vous pouvez utiliser ces bras pour réaliser des attaques à mains nues.
  - Lorsque vous réalisez une attaque à mains nues avec ces bras pendant votre tour, votre portée est 5 ft. supérieure à d'habitude.
  - Les attaques à mains nues que vous réalisez avec ces bras utilisent votre modificateur de Sagesse plutôt que de Force ou Dextérité pour les jets d'attaque et de dégâts, et le type de dégâts est de force.

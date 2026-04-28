@@ -34,4 +34,4 @@ Leurs épais cheveux prennent attache jusqu'au bas de leur dos et certains ont d
 
 **Cornes Martelantes.** Juste après que vous avez touché une créature avec une attaque de mêlée en utilisant votre action pour Attaquer pendant votre tour, vous pouvez utiliser votre action bonus pour essayer de pousser la cible avec vos cornes. La cible doit se trouver à 5 ft. et ne doit pas être d'une taille supérieure à la vôtre par plus d'une catégorie. Sauf si elle réussit un jet de sauvegarde de Force contre un DD égal à 8 + votre bonus de maîtrise + votre modificateur de Force, vous la poussez de 10 ft.
 
-**Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous réalisez pour naviguer ou pister.
+**Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous effectuez pour naviguer ou pister.

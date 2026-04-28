@@ -27,7 +27,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour manier la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis.
 
-Pour une action, vous dressez votre symbole sacré et toute obscurité magique à 30 ft. est dissipée. De plus, toute créature hostile à 30 ft. doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d10 + votre niveau de clerc dégâts radiants, et la moitié si elle réussit. Une créature qui dispose d'une couverture totale par rapport à vous n'est pas concernée.
+Pour une action, vous dressez votre symbole sacré et toute obscurité magique à 30 ft. est dissipée. De plus, toute créature hostile à 30 ft. doit effectuer un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d10 + votre niveau de clerc dégâts radiants, et la moitié si elle réussit. Une créature qui dispose d'une couverture totale par rapport à vous n'est pas concernée.
 
 ## Lueur Améliorée
 

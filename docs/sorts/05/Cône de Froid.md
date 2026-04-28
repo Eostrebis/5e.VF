@@ -17,6 +17,6 @@ Rituel: false
 englishname: Cone of Cold
 writing_status: finished
 ---
-Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit réaliser un jet de sauvegarde de Constitution. Une créature subit 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.
+Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit effectuer un jet de sauvegarde de Constitution. Une créature subit 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.

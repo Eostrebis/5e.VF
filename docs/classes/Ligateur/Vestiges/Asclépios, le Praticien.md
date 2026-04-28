@@ -16,7 +16,7 @@ Malgré toute la sagesse du Praticien, ses méthodes sont parfois brutales. Une 
 Tant que vous êtes lié à Asclépios, vous pouvez utiliser votre action pour toucher un humanoïde, qui regagne un nombre de points de vie égal à votre niveau de ligateur + votre modificateur de Charisme. Vous pouvez également mettre fin à une maladie qui affecte la créature, ou retirer la condition [[aveuglé]], [[assourdi]], ou [[empoisonné]]. Vous pouvez utiliser cette aptitude trois fois et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Bâton d'Esculape
-Tant que vous êtes lié à ce vestige, son serpent se matérialise et s'enroule autre de votre bras ou sur un bâton, un outil ou une arme que vous maniez, et vous murmure des conseils médicaux. Si vous réalisez un jet de Sagesse (Médecine) tant que vous êtes lié à ce vestige, vous pouvez traiter le résultat comme un 10 ou comme votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.
+Tant que vous êtes lié à ce vestige, son serpent se matérialise et s'enroule autre de votre bras ou sur un bâton, un outil ou une arme que vous maniez, et vous murmure des conseils médicaux. Si vous effectuez un jet de Sagesse (Médecine) tant que vous êtes lié à ce vestige, vous pouvez traiter le résultat comme un 10 ou comme votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.
 
 ## Idéal
 Tant que vous êtes lié à ce vestige, vous obtenez l'idéal suivant : "**Ne Pas Nuire.** J'ai prêté le serment du praticien, jurant de ne pas nuire à ceux qui sont sous ma responsabilité. (Bon)"

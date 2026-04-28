@@ -77,11 +77,11 @@ Il se déplace avec une lenteur délibérée, s'appuyant souvent sur un simple b
 
 **Magie Firbolg.** Vous pouvez lancer les sort [[Détection de la Magie]] et [[Déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[Déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
 
-**Pas Caché.** Pour une action visible, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, réalisiez un jet de dégâts, ou forciez quelqu'un à réaliser un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
+**Pas Caché.** Pour une action visible, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, effectuiez un jet de dégâts, ou forciez quelqu'un à effectuer un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
 
 **Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, tirer, soulever.
 
-**Dialogue de la Bête et de la Feuille.** Vous avez la capacité de communiquer légèrement avec les Bêtes, Plantes et la végétation. Ils peuvent comprendre le sens de vos mots, même si vous n'avez pas de disposition particulière à les comprendre en retour. Vous avez l'avantage à tous les jets de Charisme que vous réalisez pour les influencer.
+**Dialogue de la Bête et de la Feuille.** Vous avez la capacité de communiquer légèrement avec les Bêtes, Plantes et la végétation. Ils peuvent comprendre le sens de vos mots, même si vous n'avez pas de disposition particulière à les comprendre en retour. Vous avez l'avantage à tous les jets de Charisme que vous effectuez pour les influencer.
 
 ### Aptitudes de Classe
 

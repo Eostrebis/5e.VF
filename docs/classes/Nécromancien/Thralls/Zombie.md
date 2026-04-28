@@ -25,7 +25,7 @@ Un zombie est l'assemblage des restes en décomposition d'un être autrefois viv
 > | 1/4 (50 EXP) | +2 |
 >*_*
 >
->**Résilience Morte-Vivante.** Si des dégâts réduisent le zombie à 0 point de vie, il doit réaliser un jet de sauvegarde de Constitution d'un DD égal à 5 + les dégâts subis, sauf si les dégâts sont radiants ou émanent d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie à la place.
+>**Résilience Morte-Vivante.** Si des dégâts réduisent le zombie à 0 point de vie, il doit effectuer un jet de sauvegarde de Constitution d'un DD égal à 5 + les dégâts subis, sauf si les dégâts sont radiants ou émanent d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie à la place.
 >
 >### Actions
 >***Frappe.*** *Attaque Armée de Mêlée :* +3 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.

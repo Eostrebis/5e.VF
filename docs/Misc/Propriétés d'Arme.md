@@ -83,7 +83,7 @@ Cette arme a deux formes. Vous pouvez échanger entre les formes à n'importe qu
 Lorsque vous réalisez une attaque armée à distance avec une arme de tension, vous pouvez utiliser au choix la Force ou la Dextérité pour vos jets d'attaque et de dégâts. Vous devez utiliser la même caractéristique pour les deux jets.
 
 #### Jet
-Si une arme a la propriété Jet, vous pouvez jeter l'arme pour réaliser une attaque à distance. Si l'arme est une arme de mêlée, vous utilisez le même modificateur que vous utiliseriez pour une attaque de mêlée.
+Si une arme a la propriété Jet, vous pouvez jeter l'arme pour effectuer une attaque à distance. Si l'arme est une arme de mêlée, vous utilisez le même modificateur que vous utiliseriez pour une attaque de mêlée.
 
 #### À Deux Mains
 Cette arme requiert deux mains pour être utilisée.
@@ -92,7 +92,7 @@ Cette arme requiert deux mains pour être utilisée.
 Une arme polyvalente peut être utilisée avec une ou deux mains. Les dégâts entre parenthèses indiquent les dégâts lorsque l'arme est utilisée à deux mains
 
 #### Jambette
-Vous pouvez essayer de Pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous réalisez pour pousser une créature avec cette arme.
+Vous pouvez essayer de Pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous effectuez pour pousser une créature avec cette arme.
 
 #### Précision
 Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible subit 1d6 dégâts supplémentaires.

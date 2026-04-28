@@ -11,7 +11,7 @@ Armure mythique incarnant le mal même, Rostam apparaît autour de ses ligateurs
 Tant que vous êtes lié à Rostam, vous maîtrisez le [[Fléau]], le [[morgenstern]] ainsi que les [[armures lourdes]].
 
 ## Négociation Létale
-Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à réaliser des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous subissez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.
+Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à effectuer des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous subissez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.
 
 ## Résilience Infernale
 Lorsque vous subissez des dégâts perçants ou tranchants en portant une armure lourde, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez de 1d12. Vous pouvez réduire les dégâts de 1d12 supplémentaire pour chaque vestige autre que Rostam auquel vous êtes lié.
@@ -21,7 +21,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser ju
 ## Trait : Armure Hideuse
 Tant que vous êtes lié à Rostam, vous pouvez utiliser votre action pour invoquer son hideuse armure infernale autour de vous, ainsi que n'importe quelle arme de mêlée que vous maîtrisez. L'armure est un [[harnois]] qui ne peut être détruit et que vous pouvez porter sans pénalité quel que soit votre score de Force. Cet équipement disparaît lorsque vous le dissipez pour une action ou lorsque vous n'êtes plus lié à Rostam.
 
-L'armure semble être en vie et effraye rien qu'à la regarder. Si vous réalisez un jet de Charisme (Intimidation) alors que vous portez cette armure, vous pouvez traiter le résultat comme un 10, ou votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.
+L'armure semble être en vie et effraye rien qu'à la regarder. Si vous effectuez un jet de Charisme (Intimidation) alors que vous portez cette armure, vous pouvez traiter le résultat comme un 10, ou votre niveau de ligateur + votre modificateur de Charisme, au plus élevé.
 
 ## Faille
 Tant que vous êtes lié à ce vestige, vous obtenez la faille suivante : "Une fois que j'ai fait couler du sang, je ne peux m'arrêter de me battre tant que mes ennemis ne sont pas morts."

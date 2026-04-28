@@ -34,7 +34,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Émissaire de Paix.** Vous pouvez utiliser votre Canal Divin pour améliorer votre présence grâce à du pouvoir divin. Pour une action bonus, vous vous conférez un bonus de +5 aux jets de Charisme (Persuasion) pendant 10 minutes.
 
-**Représailles contre les Violents.** Vous pouvez utiliser votre Canal Divin pour punir ceux qui usent de violence. Immédiatement après qu'une créature à 30 ft. inflige des dégâts par une attaque contre une créature autre que vous, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. S'il échoue, l'attaquant subit un nombre de dégâts radiants égal aux dégâts qu'il vient d'infliger. S'il réussit, il subit la moitié des dégâts.
+**Représailles contre les Violents.** Vous pouvez utiliser votre Canal Divin pour punir ceux qui usent de violence. Immédiatement après qu'une créature à 30 ft. inflige des dégâts par une attaque contre une créature autre que vous, vous pouvez utiliser votre réaction pour forcer l'attaquant à effectuer un jet de sauvegarde de Sagesse. S'il échoue, l'attaquant subit un nombre de dégâts radiants égal aux dégâts qu'il vient d'infliger. S'il réussit, il subit la moitié des dégâts.
 
 ## Aura du Gardien
 

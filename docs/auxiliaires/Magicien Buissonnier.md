@@ -18,4 +18,4 @@ Vous apprenez trois cantrips de votre choix parmi la liste de sorts du Magicien.
 
 ## Cantrips Puissant
 
-Vous pouvez ajouter votre modificateur de caractéristique d'incantation aux jets de dégâts que vous réalisez avec des cantrips de magicien. 
+Vous pouvez ajouter votre modificateur de caractéristique d'incantation aux jets de dégâts que vous effectuez avec des cantrips de magicien. 

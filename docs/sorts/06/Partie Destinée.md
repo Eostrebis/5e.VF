@@ -17,7 +17,7 @@ Rituel: false
 englishname: Game of Fate
 writing_status: empty
 ---
-Vous forcez magiquement une créature à portée à participer à un jeu aux conséquences vitales. Si la créature que vous choisissez a une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée. Une créature non consentante peut réaliser un jet de sauvegarde de Sagesse pour résister à cet effet. En cas d'échec, la créature se sent forcée à participer à votre jeu. Si la cible subit des dégâts ou tombe [[inconscient|inconsciente]], le sort prend fin.
+Vous forcez magiquement une créature à portée à participer à un jeu aux conséquences vitales. Si la créature que vous choisissez a une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée. Une créature non consentante peut effectuer un jet de sauvegarde de Sagesse pour résister à cet effet. En cas d'échec, la créature se sent forcée à participer à votre jeu. Si la cible subit des dégâts ou tombe [[inconscient|inconsciente]], le sort prend fin.
 
 Le perdant du jeu subit 6d6 dégâts psychiques. Si aucun joueur n'a perdu ou gagné au moment de la fin du sort, les deux joueurs subissent les dégâts.
 

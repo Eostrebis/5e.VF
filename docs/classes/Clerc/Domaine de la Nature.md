@@ -25,7 +25,7 @@ Au niveau 1, vous apprenez un cantrip de druide de votre choix. Ce cantrip est c
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour charmer plantes et animaux.
 
-Pour une action, vous présentez votre symbole sacré et appelez le nom de votre déité. Chaque bête ou créature plante que vous pouvez voir à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si la créature échoue ce jet, elle est [[charmé|charmée]] par vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[charmé|charmée]] par vous, elle vous est amicale, ainsi qu'à chaque créature que vous désignez.
+Pour une action, vous présentez votre symbole sacré et appelez le nom de votre déité. Chaque bête ou créature plante que vous pouvez voir à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si la créature échoue ce jet, elle est [[charmé|charmée]] par vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[charmé|charmée]] par vous, elle vous est amicale, ainsi qu'à chaque créature que vous désignez.
 
 ## Affaiblissement des Éléments
 

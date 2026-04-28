@@ -25,7 +25,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire av
 
 Au niveau 14, vous avez débloqué le pouvoir de revenir le temps et de retracer vos pas, corrigeant ainsi les plus flagrantes de vos erreurs. Lorsque vous terminez un repos long, vous commencez en réalité votre deuxième expérience des évènements de la journée. Vous êtes accompagnée par une ombre temporelle, un écho de votre premier déroulement de la journée, qui vous suit parfaitement afin de répéter tous les évènements. Agir sur votre connaissance de la temporalité détruit votre ombre temporelle jusqu'à votre prochain repos long, mais vous permet d'utiliser l'une des capacités suivantes :
 
- - Vous avez l'avantage sur un jet que vous réalisez.
+ - Vous avez l'avantage sur un jet que vous effectuez.
  - Vous pouvez faire en sorte qu'une attaque n'ayant pas l'avantage vous rate.
  - Vous pouvez prendre connaissance d'un savoir que vous auriez acquis avant la fin de la journée, comme la réponse à une énigme, l'emplacement d'un piège, le chemin d'un labyrinthe ou même le nom d'une créature.
 

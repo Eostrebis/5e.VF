@@ -22,4 +22,4 @@ Vous projetez vos sens dans le temps pour percevoir votre emplacement actuel tel
 
 Tant que vous percevez le passé, vous pouvez regarder dans n'importe quelle direction, mais vous ne pouvez pas vous déplacer ou parler, et n'avez aucune conscience de votre environnement présent.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez partager ce sort avec une autre créature que vous touchez. Une créature réfractaire peut réaliser un jet de sauvegarde de Sagesse pour éviter l'effet.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez partager ce sort avec une autre créature que vous touchez. Une créature réfractaire peut effectuer un jet de sauvegarde de Sagesse pour éviter l'effet.

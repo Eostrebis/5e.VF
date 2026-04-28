@@ -22,7 +22,7 @@ Au niveau 3, votre tapisserie recèle votre recherche sur les lamefils. Vous gag
 
 ## Fragments de Lumière
 
-Au niveau 6, votre tapisserie vous permet de fissurer votre forme en illusions. Lorsque vous utilisez votre action pour Esquiver, vous créez de faux figments qui se déplacent avec vous jusqu'au début de votre prochain tour. La première fois que vous êtes la cible d'une attaque d'une créature, elle doit d'abord réaliser un jet de sauvegarde d'Intelligence. Si elle le rate, l'attaque échoue automatiquement.
+Au niveau 6, votre tapisserie vous permet de fissurer votre forme en illusions. Lorsque vous utilisez votre action pour Esquiver, vous créez de faux figments qui se déplacent avec vous jusqu'au début de votre prochain tour. La première fois que vous êtes la cible d'une attaque d'une créature, elle doit d'abord effectuer un jet de sauvegarde d'Intelligence. Si elle le rate, l'attaque échoue automatiquement.
 
 ## Évasion Illusoire
 

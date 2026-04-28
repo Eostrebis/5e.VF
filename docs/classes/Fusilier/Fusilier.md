@@ -135,7 +135,7 @@ Une fois par tour, vous pouvez dépenser un dé de risque pour réaliser un [[Fa
 
 ### Jets de Sauvegarde
 
-Certains faits nécessitent que la cible réalise un jet de sauvegarde pour résister à ses effets. Le DD de ce jet est calculé comme suit : 
+Certains faits nécessitent que la cible effectue un jet de sauvegarde pour résister à ses effets. Le DD de ce jet est calculé comme suit : 
 
 <p style="text-align:center"><b>DD de Sauvegarde de Fait</b> = 8 + bonus de maîtrise + modificateur de Dextérité</p>
 

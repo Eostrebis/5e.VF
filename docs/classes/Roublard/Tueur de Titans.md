@@ -16,12 +16,12 @@ Au niveau 3, lorsque vous réalisez une Attaque contre une créature qui est d'a
 
 ## Déconcentration des Grandes Guibolles
 
-Au niveau 9, vous êtes un expert dans l'art de surprendre les grands peuples, qui sont lents et distrait, d'après vos standards. Vous avez l'avantage aux jets de Dextérité (Discrétion) que vous réalisez pour vous dissimuler ou vous faufiler autour de créatures au moins une taille plus grandes que vous. De plus, si vous réalisez un jet pour éviter, escalader ou confondre une créature qui est au moins une taille plus grande que vous et que le jet n'utilise pas votre bonus de maîtrise, vous pouvez ajouter la moitié de votre bonus de maîtrise au jet.
+Au niveau 9, vous êtes un expert dans l'art de surprendre les grands peuples, qui sont lents et distrait, d'après vos standards. Vous avez l'avantage aux jets de Dextérité (Discrétion) que vous effectuez pour vous dissimuler ou vous faufiler autour de créatures au moins une taille plus grandes que vous. De plus, si vous effectuez un jet pour éviter, escalader ou confondre une créature qui est au moins une taille plus grande que vous et que le jet n'utilise pas votre bonus de maîtrise, vous pouvez ajouter la moitié de votre bonus de maîtrise au jet.
 
 ## Peur de Rien
 
-Au niveau 13, vous restez impassible devant les risques les plus grands. Vous ne pouvez pas être [[apeuré]]. De plus, lorsque vous lancez l'initiative, vous avez l'avantage aux jets de caractéristique et sauvegarde que vous réalisez jusqu'à la fin de votre prochain tour.
+Au niveau 13, vous restez impassible devant les risques les plus grands. Vous ne pouvez pas être [[apeuré]]. De plus, lorsque vous lancez l'initiative, vous avez l'avantage aux jets de caractéristique et sauvegarde que vous effectuez jusqu'à la fin de votre prochain tour.
 
 ## Chute du Géant
 
-Au niveau 17, vos attaques armées contre les créatures au moins deux tailles plus grandes que vous réalisent un coup critique sur un 19 ou 20. Vos coups critiques mettent aussi la cible [[au sol]].
+Au niveau 17, vos attaques armées contre les créatures au moins deux tailles plus grandes que vous effectuent un coup critique sur un 19 ou 20. Vos coups critiques mettent aussi la cible [[au sol]].

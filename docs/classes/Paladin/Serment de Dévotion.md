@@ -34,7 +34,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Arme Sacrée.** Pour une action, vous pouvez imprégner une arme que vous maniez avec de l'énergie positive en utilisant votre Canal Divin. Pendant 1 minute, vous ajoutez votre modificateur de Charisme aux jets d'attaque réalisés avec cette arme (avec un bonus minimum de +1). L'arme émet également une lumière vive sur 20 ft. et une lumière faible sur 20 ft. supplémentaires. Si l'arme n'est pas déjà magique, elle le devient pendant cette durée.
 
-**Renvoi de l'Impie.** Pour une action, vous dressez votre symbole sacré et prononcez une prière censurant les fiélons et morts-vivants, en utilisant votre Canal Divin. Chaque fiélon ou mort-vivant que vous pouvez voir ou entendre à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si une créature échoue son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
+**Renvoi de l'Impie.** Pour une action, vous dressez votre symbole sacré et prononcez une prière censurant les fiélons et morts-vivants, en utilisant votre Canal Divin. Chaque fiélon ou mort-vivant que vous pouvez voir ou entendre à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si une créature échoue son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 
 Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus utiliser de réactions. Pour son action, elle ne peut que Foncer ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 ## Aura de Dévotion

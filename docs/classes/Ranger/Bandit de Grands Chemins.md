@@ -15,7 +15,7 @@ Au niveau 3, lorsque vous et deux ou plus créatures amicales vous cachez en pr�
 
 ## Position Avantageuse
 
-Au niveau 7, vous pouvez rapidement escalader les murs pour vous placer au-dessus de vos adversaires. Escalader ne vous coûte plus de mouvement supplémentaire. De plus, en escaladant à mi-vitesse, vous pouvez escalader les surfaces difficiles (comme un mur vertical) sans avoir à réaliser de jet de caractéristique.
+Au niveau 7, vous pouvez rapidement escalader les murs pour vous placer au-dessus de vos adversaires. Escalader ne vous coûte plus de mouvement supplémentaire. De plus, en escaladant à mi-vitesse, vous pouvez escalader les surfaces difficiles (comme un mur vertical) sans avoir à effectuer de jet de caractéristique.
 
 ## Vraiment, Bougez Pas !
 

@@ -329,7 +329,7 @@ Avec une peau craquelée, les rochenés semblent taillés directement dans le gr
 
 **Peau Rocheuse.** Vous bénéficiez d'un bonus de +1 à la CA.
 
-**Adhérent.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous réalisez pour résister une mise au sol ou d'être déplacé contre votre volonté.
+**Adhérent.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous effectuez pour résister une mise au sol ou d'être déplacé contre votre volonté.
 
 **Vision Minérale.** En plaçant votre main sur une pierre naturelle et en utilisant votre action pour vous concentrer, vous pouvez sentir la présence de gemmes naturelles ou de métaux à 100 ft.
 
@@ -341,7 +341,7 @@ Les descendants des méduses — les sthénos — sont généralement conçus av
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
+**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit effectuer un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
 
 Vous pouvez utiliser votre Regard Immobilisant un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -355,7 +355,7 @@ Votre large nez, forte mâchoire et large tête révèlent assez distinctement v
 
 **Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants au lieu des dégâts contondants habituels.
 
-**Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous réalisez pour naviguer ou tracer.
+**Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous effectuez pour naviguer ou tracer.
 
 **Course.** Pendant les tours où vous ne vous êtes déplacé qu'en ligne droite, votre vitesse augmente de 10 ft.
 
@@ -377,7 +377,7 @@ Comme les ettins, vous avez deux têtes avec des personnalités différentes qui
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Deux-Têtes.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer l'une des conditions suivantes sur vous-même : [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]].
+**Deux-Têtes.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'une des conditions suivantes sur vous-même : [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]].
 
 **Éveillé.** Puisque l'une de vos têtes est toujours réveillée, vous restez conscient lorsque vous prenez un repos long.
 

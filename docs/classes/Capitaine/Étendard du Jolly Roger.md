@@ -15,7 +15,7 @@ Au niveau 7, votre escrime élégante vous permet de manipuler et de placer vos 
 
 ## Jeu Déloyal
 
-À partir du niveau 13, vous et votre cohorte pouvez utiliser une action bonus pour se Cacher, Utiliser un Objet ou pour essayer de Pousser une créature. Vous avez l'avantage aux jets de Force (Athlétisme) que vous réalisez pour Pousser une créature en dehors d'un véhicule aquatique.
+À partir du niveau 13, vous et votre cohorte pouvez utiliser une action bonus pour se Cacher, Utiliser un Objet ou pour essayer de Pousser une créature. Vous avez l'avantage aux jets de Force (Athlétisme) que vous effectuez pour Pousser une créature en dehors d'un véhicule aquatique.
 
 ## Sur le Pont !
 

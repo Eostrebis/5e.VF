@@ -27,7 +27,7 @@ De plus, vous apprenez le cantrip [[Breuvage Légendaire]], qui est considéré 
 
 ## Canal Divin : Ivresse
 
-Au niveau 2, vous pouvez faire appel au pouvoir des dieux heureux pour saouler un agresseur. Lorsqu'une créature que vous pouvez voir effectue une attaque, vous pouvez utiliser votre réaction pour la faire réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle est [[empoisonné|empoisonnée]] et a le désavantage aux jets de sauvegarde pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours.
+Au niveau 2, vous pouvez faire appel au pouvoir des dieux heureux pour saouler un agresseur. Lorsqu'une créature que vous pouvez voir effectue une attaque, vous pouvez utiliser votre réaction pour la faire effectuer un jet de sauvegarde de Constitution. Si elle échoue, elle est [[empoisonné|empoisonnée]] et a le désavantage aux jets de sauvegarde pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours.
 
 ## Route du Rhum
 Au niveau 6, vous avez appris à vous déplacer au moment où personne n'y fait attention. Lorsqu'une créature hostile se déplace, vous pouvez utiliser votre réaction pour vous déplacer à une vitesse égale à la moitié de la vôtre. Ce mouvement ne provoque aucune attaque d'opportunité de la part de la créature qui se déplace.

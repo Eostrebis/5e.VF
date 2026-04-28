@@ -11,7 +11,7 @@ Elozahr, le fondateur légendaire de l'école de l'Évocation, confère à ses l
 Tant que vous êtes lié à Elozahr, vous connaissez le cantrip [[Rayon de Givre]]. De plus, vous pouvez ajouter votre modificateur de Charisme aux dégâts que vous réalisez avec des sorts qui infligent des dégâts de froid.
 
 ## Arcane Cristalline
-Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, vous pouvez choisir un nombre de créatures de taille M inférieur ou égal à votre modificateur de Charisme afin qu'elles soient protégées des effets. Un cube de 5 ft. s'ouvre dans les effets du sort autour de chaque créature choisie. Ces créatures n'ont pas besoin de réaliser de jet de sauvegarde contre le sort. De plus, pour la durée du sort, ces créatures sont immunisées contre les effets du sort dans sa zone et ignorent les conditions, comme le terrain difficile, créées par le sort.
+Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, vous pouvez choisir un nombre de créatures de taille M inférieur ou égal à votre modificateur de Charisme afin qu'elles soient protégées des effets. Un cube de 5 ft. s'ouvre dans les effets du sort autour de chaque créature choisie. Ces créatures n'ont pas besoin d'effectuer de jet de sauvegarde contre le sort. De plus, pour la durée du sort, ces créatures sont immunisées contre les effets du sort dans sa zone et ignorent les conditions, comme le terrain difficile, créées par le sort.
 
 ## Incantation : Cryomancie
 Tant que vous êtes lié à Elozahr, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :

@@ -7,7 +7,7 @@ Un coureur se sent chez lui dans une ville ou parmi les cimes d'une grande forê
 
 ## Parkour
 
-À partir du moment où vous choisissez cet archétype au niveau 3, vous vous êtes entraînés sans relâche afin de vous déplacer librement au-dessus et à travers n'importe quel terrain en utilisant les capacités de votre corps. Vous avez l'avantage aux jets de Dextérité (Acrobaties) réalisés pour naviguer des obstacles en courant et pouvez utiliser votre Dextérité plutôt que votre Force pour réaliser des jets de Force (Athlétisme) pour escalader, sauter ou vous balancer à l'aide d'une corde.
+À partir du moment où vous choisissez cet archétype au niveau 3, vous vous êtes entraînés sans relâche afin de vous déplacer librement au-dessus et à travers n'importe quel terrain en utilisant les capacités de votre corps. Vous avez l'avantage aux jets de Dextérité (Acrobaties) réalisés pour naviguer des obstacles en courant et pouvez utiliser votre Dextérité plutôt que votre Force pour effectuer des jets de Force (Athlétisme) pour escalader, sauter ou vous balancer à l'aide d'une corde.
 
 De plus, vous avez maîtrisé un certain nombre de techniques. Vous pouvez utiliser vos techniques de parkour un nombre de fois égal à votre modificateur de Dextérité, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos. Tant que vous vous trouvez dans votre terrain préférentiel, utiliser une technique ne consomme pas d'utilisation.
 
@@ -31,4 +31,4 @@ Au niveau 3, si vous traversez l'espace d'une créature hostile, quittez la port
 
 ## Esquive Habile
 
-Au niveau 15, lorsqu'un sort ou un autre effet vous force à réaliser un jet de sauvegarde à cause de votre présence dans une zone d'effet, vous pouvez utiliser votre réaction pour vous déplacer de la moitié de votre vitesse, vous sortant potentiellement de la zone d'effet.
+Au niveau 15, lorsqu'un sort ou un autre effet vous force à effectuer un jet de sauvegarde à cause de votre présence dans une zone d'effet, vous pouvez utiliser votre réaction pour vous déplacer de la moitié de votre vitesse, vous sortant potentiellement de la zone d'effet.

@@ -191,7 +191,7 @@ Ce dé supplémentaire passe à 2 puis 3 dés aux niveaux 13 et 17.
 
 ## Rage Implacable
 
-À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
+À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez effectuer un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
 
 Chaque fois que vous utilisez cette aptitude après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
 

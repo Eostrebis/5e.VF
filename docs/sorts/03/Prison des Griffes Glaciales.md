@@ -23,7 +23,7 @@ La main est un objet dont la CA est égale à 18 et qui a un nombre de points de
 
 **Tranche.** La griffe se déchaîne contre une cible à 10 ft. Réalisez une attaque de sort de mêlée. Si vous touchez, la cible subit 3d8 dégâts tranchants ou de froid (votre choix).
 
-**Emprisonnement.** La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[retenu|retenue]] pour la durée du sort. A la fin de chacun de ses tours, la cible retenue peut réaliser un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle subit 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.
+**Emprisonnement.** La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[retenu|retenue]] pour la durée du sort. A la fin de chacun de ses tours, la cible retenue peut effectuer un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle subit 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.
 
 **Libérer.** La griffe peut libérer une créature emprisonnée.
 

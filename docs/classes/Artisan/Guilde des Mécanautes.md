@@ -53,7 +53,7 @@ Au niveau 7, vous avez redessiné les jambes de votre appareil pour obtenir une 
 
 A parti du niveau 14, vous avez installé des attachements extérieurs à votre appareil. Choisissez l'une des améliorations suivantes. Une fois que vous avez utilisé l'amélioration installée, vous devez terminer un repos avant de pouvoir l'utiliser à nouveau.
 
-**Canon de Baliste.** Pour une action, vous pouvez tirer depuis la baliste lourde intégrée à votre appareil. Ce tir affecte une ligne large de 5 ft., longue de 60 ft. Toute créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Une telle créature subit 5d10 dégâts perçants en cas d'échec, et la moitié en cas de réussite.
+**Canon de Baliste.** Pour une action, vous pouvez tirer depuis la baliste lourde intégrée à votre appareil. Ce tir affecte une ligne large de 5 ft., longue de 60 ft. Toute créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Une telle créature subit 5d10 dégâts perçants en cas d'échec, et la moitié en cas de réussite.
 
 **Gyro-Module.** Vous pouvez utiliser votre action pour faire rapidement tourner votre appareil sur lui-même, lui permettant de réaliser une attaque de mêlée contre toute créature à 5 ft. de lui, avec un jet d'attaque distinct pour chaque créature. Vous ne pouvez pas vous déplacer pendant ces attaques.
 

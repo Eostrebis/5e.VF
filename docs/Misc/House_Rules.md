@@ -63,7 +63,7 @@ En plus des repos courts et longs, vos personnages peuvent prendre une *p'tite p
 Pour Aider un autre personnage, votre personnage doit soit maîtriser la compétence utilisée, soit posséder un score de caractéristique plus élevé que l'aidé. L'aide doit être signalée avant que le jet soit lancé.
 
 ### 3.3 Nage
-Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous réalisez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework
+Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous effectuez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework
 
 ### 3.4 Chute
 Si une créature subit des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature subit des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
