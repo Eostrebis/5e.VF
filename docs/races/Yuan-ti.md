@@ -6,7 +6,7 @@ writing_status: finished
 
 Les Yuan-tis étaient auparavant des humains ayant pris des traits serpentins à la suite d'antiques rituels. La plupart des yuan-tis en deviennent tellement corrompus qu'ils se transforment en monstres incapables de raisonnements, mais suffisamment ont survécu pour se développer comme un nouveau peuple qui mélange les caractéristiques des humains et des serpents.
 
-Bénis avec la résistance aux effets magiques et de poison grâce à leur rituel de création, chacun de ces yuan-tis manifeste son héritage serpentin d'une façon différente : une langue fourchue, des iris fins, un nez de serpent ou n'importe quelle autre caractéristique ophidienne. Peu importe son apparence, un yuan-ti a le pouvoir de faire grand bien, ou grand mal, dans le multivers.
+Bénis avec une résistance aux effets magiques et de poison grâce à leur rituel de création, chacun de ces yuan-tis manifeste son héritage serpentin d'une façon différente : une langue fourchue, des iris fins, un nez de serpent ou n'importe quelle autre caractéristique ophidienne. Peu importe son apparence, un yuan-ti a le pouvoir de faire grand bien, ou grand mal, dans le multivers.
 ![[Yuan-ti.webp]]
 ### Culture
 

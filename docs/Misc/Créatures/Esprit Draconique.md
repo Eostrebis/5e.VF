@@ -16,13 +16,13 @@
 **Langues** draconique, comprend les langues que vous parlez 
 **Puissance** 0 (0 PX)     **Bonus de maîtrise** égal à votre bonus 
 *_*
-***Résistance partagée***. Lorsque vous invoquez le dragon, choisissez l'une de ses résistances. Vous avez la résistance au type de dégâts choisi jusqu'à ce que le sort se termine. 
+***Résistance partagée***. Lorsque vous invoquez le dragon, choisissez l'une de ses résistances. Vous obtenez une résistance au type de dégâts choisi jusqu'à ce que le sort se termine. 
 
 
 ### ACTIONS
 ***Attaques Multiples***. Le dragon effectue un nombre d'attaque de Déchirure égal à la moitié du niveau de ce sort (arrondi à l'inférieur) et utilise son Souffle. 
 
-***Déchirure***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, portée 10 ft., une cible. *Touché* : 1d6 + 4 + le niveau de ce sort dégâts perçants. 
+***Déchirure***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, allonge 10 ft., une cible. *Touché* : 1d6 + 4 + le niveau de ce sort dégâts perçants. 
 
 ***Souffle***. Le dragon libère une énergie destructrice dans un cône de 30 ft. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit 2d6 dégâts d'un type auquel le dragon est résistant si elle échoue son jet, et la moitié sinon.
 

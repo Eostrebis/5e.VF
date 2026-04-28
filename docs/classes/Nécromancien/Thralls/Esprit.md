@@ -29,4 +29,4 @@ Un esprit est l'écho à peine tangible d'un humanoïde, une âme liée au domai
 > **Mouvement Incorporel.** L'esprit peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. L'esprit subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
 >
 >### Actions
->***Toucher Tombal.*** *Attaque Armée de Sort :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d4 +2) dégâts nécrotiques et les points de vie maximum de la cible sont réduits du montant de dégâts subis. Cette réduction persiste jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
+>***Toucher Tombal.*** *Attaque Armée de Sort :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d4 +2) dégâts nécrotiques et les points de vie maximum de la cible sont réduits du montant de dégâts subis. Cette réduction persiste jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.

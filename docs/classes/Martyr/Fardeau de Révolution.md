@@ -23,7 +23,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Forteresse de la Rébellion
 
-Également au niveau 1, vous pouvez utiliser une action bonus pour gagner un nombre de points de vie temporaires égal à 1d12 + votre niveau de martyr, pour 1 heure.
+Également au niveau 1, vous pouvez utiliser une action bonus pour gagner un nombre de points de vie temporaires égal à 1d12 + votre niveau de martyr, pendant 1 heure.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

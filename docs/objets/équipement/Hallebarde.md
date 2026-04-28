@@ -8,4 +8,4 @@ writing_status: finished
 
 | Dégâts | Propriétés |
 | --------------- | ---------------------------- |
-| 1d10 tranchants | Lourde, Portée, À deux mains |
+| 1d10 tranchants | Lourde, Allonge, À deux mains |

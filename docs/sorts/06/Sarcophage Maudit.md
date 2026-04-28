@@ -19,7 +19,7 @@ Vous jetez un sarcophage qui tient dans votre main vers un espace inoccupé que 
 
 La gaze retenant la créature est un objet avec une CA de 10 et 100 points de vie. Elle est vulnérable aux dégâts tranchants et de feu, et immunisée aux dégâts psychiques et de poison. Si elle est réduite à 0 point de vie, le sort se termine.
 
-Une créature retenue par ce sort doit effectuer un autre jet de sauvegarde de Dextérité à la fin de chacun de ses tours. Si elle réussit trois fois, elle se libère de la gaze, terminant le sort. Si elle rate trois fois, le sarcophage se referme et s'enfouit sous terre. La créature est momifiée dans la gaze et est [[incapacité|incapacitée]]. Le sort se termine, mais le sarcophage reste sous terre. Le sarcophage contient suffisamment d'air pour 1 minute, et la créature commence à suffoquer après ce temps.
+Une créature retenue par ce sort doit effectuer un autre jet de sauvegarde de Dextérité à la fin de chacun de ses tours. Si elle réussit trois fois, elle se libère de la gaze, terminant le sort. Si elle rate trois fois, le sarcophage se referme et s'enfouit sous terre. La créature est momifiée dans la gaze et est [[incapacité|incapacitée]]. Le sort se termine, mais le sarcophage reste sous terre. Le sarcophage contient suffisamment d'air pendant 1 minute, et la créature commence à suffoquer après ce temps.
 
 SI un Humanoïde meurt à l'intérieur du sarcophage, ils se relèvent 24 heures plus tard comme une momie sous votre contrôle, comme d'après le sort [[création de mort-vivant]]. Vous ne pouvez contrôler qu'une seule momie créée par ce sort à la fois.
 

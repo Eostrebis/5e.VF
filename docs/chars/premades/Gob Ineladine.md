@@ -100,7 +100,7 @@ Actuellement, le "Kraken Rieur" est à quai à Misancte pour quelques jours de r
 
 Gob a développé une tolérance remarquable aux impacts violents et aux explosions à bout portant. Il bénéficie des effets suivants :
 
-- Il a la résistance dégâts contondants qu'il subit suite à une chute ainsi qu'aux dégâts causés par une explosion à laquelle il est préparé.
+- Il obtient une résistance dégâts contondants qu'il subit suite à une chute ainsi qu'aux dégâts causés par une explosion à laquelle il est préparé.
 - Lorsqu'il est projeté, il peut utiliser sa réaction pour tenter de se "diriger". Il peut ajuster son point d'atterrissage de 10 pieds dans la direction de son choix.
 - Il a l'avantage aux jets de sauvegarde pour éviter d'être [[sonné]].
 

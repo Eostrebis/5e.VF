@@ -16,7 +16,7 @@ Rituel: false
 englishname: Petal Storm
 writing_status: empty
 ---
-Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaissent dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.
+Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaît dans le cube et persiste pendant la durée du sort. Le nuage obscurcit fortement la zone.
 
 Toute créature qui entre dans la tempête pour la première fois pendant son tour ou y commence son tour doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 3d4 dégâts tranchants. Pour une action bonus, vous pouvez déplacer la tempête jusqu'à 30 ft. dans n'importe quelle direction. La première fois que la zone de la tempête contient des feuilles mortes, des fleurs, des buissons ou des arbres, elle les absorbe et les dégâts augmentent de 2d4.
 

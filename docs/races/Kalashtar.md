@@ -30,7 +30,7 @@ La culture kalashtar est imprégnée de discipline spirituelle et de compassion.
 
 **Esprit Dual.** Vous avez l'avantage aux jets de sauvegarde de Sagesse.
 
-**Discipline Mentale.** Vous avez la résistance aux dégâts psychiques.
+**Discipline Mentale.** Vous avez une résistance aux dégâts psychiques.
 
 **Lien Mental.** Vous pouvez communiquer télépathiquement à n'importe quelle créature que vous pouvez voir, si celle-ci se trouve à un nombre de pieds inférieur ou égal à 10 fois votre niveau. Vous n'avez pas besoin de partager une langue commune, mais la créature doit comprendre au moins une langue pour vous comprendre. 
 

@@ -10,19 +10,19 @@ writing_status: finished
 | [[Épée Courte]] | 10 | 1d6 perçants | 2 | Finesse, Léger |
 | [[Épée Longue]] | 15 | 1d8 tranchants | 3 | Polyvalent (1d10) |
 | [[Fléau d'Armes]] | 10 | 1d8 contondants | 2 | -- |
-| [[Fouet]] | 2 | 1d4 tranchants | 3 | Finesse, Portée |
+| [[Fouet]] | 2 | 1d4 tranchants | 3 | Finesse, Allonge |
 | [[Hache à Deux Mains]] | 30 | 1d12 tranchants | 7 | Lourde, À deux mains |
 | [[Hache d'Armes]] | 10 | 1d8 tranchants | 4 | Polyvalent (1d10) |
-| [[Hallebarde]] | 20 | 1d10 tranchants | 6 | Lourde, Portée, À deux mains |
-| [[Lance d'Arçon]] | 10 | 1d12 perçants | 6 | Portée, Spécial |
+| [[Hallebarde]] | 20 | 1d10 tranchants | 6 | Lourde, Allonge, À deux mains |
+| [[Lance d'Arçon]] | 10 | 1d12 perçants | 6 | Allonge, Spécial |
 | [[Maillet]] | 10 | 2d6 contondants | 10 | Lourde, À deux mains |
 | [[Marteau de Guerre]] | 15 | 1d8 contondants | 2 | Polyvalent (1d10) |
 | [[Morgenstern]] | 15 | 1d8 perçants | 4 | -- |
 | [[Pic de Guerre]] | 5 | 1d8 perçants | 2 | -- |
-| [[Pique]] | 5 | 1d10 perçants | 18 | Lourde, Portée, À deux mains |
+| [[Pique]] | 5 | 1d10 perçants | 18 | Lourde, Allonge, À deux mains |
 | [[Rapière]] | 25 | 1d8 perçants | 2 | Finesse |
 | [[Trident]] | 5 | 1d6 perçants | 4 | Jet (20/60), Polyvalent (1d8) |
-| [[Vouge]] | 20 | 1d10 tranchants | 6 | Lourde, Portée, À deux mains |
+| [[Vouge]] | 20 | 1d10 tranchants | 6 | Lourde, Allonge, À deux mains |
 
 
 ## Armes Martiales à Distance

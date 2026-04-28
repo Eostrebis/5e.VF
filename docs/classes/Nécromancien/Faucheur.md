@@ -33,7 +33,7 @@ Vous pouvez terminer l'effet pour une action bonus ou lorsque vous démarrez vot
 
 ## Vol Spectral
 
-À partir du niveau 10, les esprits que vous dirigez se déplacent à d'incroyables vitesses. La vitesse de vol de vos thralls est doublée. De plus, lorsque l'un de vos thralls vole en dehors de la portée d'un ennemi, les attaques d'opportunité contre lui sont réalisées avec le désavantage. 
+À partir du niveau 10, les esprits que vous dirigez se déplacent à d'incroyables vitesses. La vitesse de vol de vos thralls est doublée. De plus, lorsque l'un de vos thralls vole en dehors de l'allonge d'un ennemi, les attaques d'opportunité contre lui sont réalisées avec le désavantage. 
 
 ## Lichéité : Grande Faucheuse
 

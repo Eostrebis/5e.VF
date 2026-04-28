@@ -17,7 +17,7 @@ Rituel: false
 englishname: Control Winds
 writing_status: finished
 ---
-Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pour la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.
+Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pendant la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.
 
 **Bourrasques.** Le vent se lève dans le cube, soufflant continuellement dans une direction horizontale de votre choix. Vous pouvez choisir l'intensité des bourrasques : calmes, modérées ou intenses. Si les vents sont modérés ou intenses, les attaques armées à distance qui traversent la zone ou sont réalisées contre des cibles dans le cube ont le désavantage à leurs jets d'attaque. Si le vent est intense, toute créature se déplaçant contre le vent doit dépenser une case de mouvement supplémentaire par case déplacée.
 

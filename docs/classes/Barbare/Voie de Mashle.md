@@ -35,7 +35,7 @@ Vous pouvez lancer chacun de ces sorts une fois et récupérez la possibilité d
 
 ## Résistance Magique
 
-Au niveau 10, vous êtes devenu un magicien si extraordinaire que même les autres magiciens ne peuvent pas vous toucher. Tant que vous êtes enragé, vous avez la résistance aux dégâts de sorts.
+Au niveau 10, vous êtes devenu un magicien si extraordinaire que même les autres magiciens ne peuvent pas vous toucher. Tant que vous êtes enragé, vous obtenez une résistance aux dégâts de sorts.
 
 ## Je lance Poing
 

@@ -30,6 +30,6 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 > **Résistance Magique.** Le visage a l'avantage aux jets de sauvegarde qu'il effectue pour résister aux sorts et effets magiques.
 >
 >### Actions
->***Horrification.*** *Attaque Armée de Sort :* +5 pour toucher, portée 5 ft., une cible. *Touché :* 15 (5d4 +3) dégâts psychiques.
+>***Horrification.*** *Attaque Armée de Sort :* +5 pour toucher, allonge 5 ft., une cible. *Touché :* 15 (5d4 +3) dégâts psychiques.
 >
 >***Invisibilité.*** Le visage devient magiquement [[invisible]] jusqu'à ce qu'il attaque ou que sa concentration ne termine (comme pour un sort). Tout équipement que le visage porte ou manie est invisible avec lui.

@@ -17,7 +17,7 @@ Rituel: false
 englishname: Gust of Wind
 writing_status: empty
 ---
-Une ligne de vent fort longue de 60 ft. et large de 10 ft. apparaît devant vous dans la direction de votre choix et persiste pour la durée du sort. Chaque créature qui commence son tour dans la ligne doit réussir un jet de sauvegarde de Force ou être repoussée de 15 ft. en suivant la ligne.
+Une ligne de vent fort longue de 60 ft. et large de 10 ft. apparaît devant vous dans la direction de votre choix et persiste pendant la durée du sort. Chaque créature qui commence son tour dans la ligne doit réussir un jet de sauvegarde de Force ou être repoussée de 15 ft. en suivant la ligne.
 
 Toute créature dans la ligne doit dépenser le double de mouvement pour se rapprocher de vous.
 

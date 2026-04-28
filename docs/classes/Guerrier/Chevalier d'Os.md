@@ -22,7 +22,7 @@ De plus, lorsque vous subissez des dégâts contondants, perçants ou tranchants
 
 Également au niveau 3, vous pouvez extruder des lames faites de plaques osseuses de vos paumes ou poignets comme vous dégaineriez une arme. Ces armes d'os ont les statistiques d'une arme de votre choix parmi [[épée longue]], [[épée courte]] ou [[cimeterre]]. Vous ne pouvez pas être désarmé de ces armes. Vous pouvez rétracter ces armes comme vous rengaineriez une arme.
 
-À partir du niveau 7, vos lames sont considérées magiques vis-à-vis de la résistance et immunité aux attaques et dégâts non magiques. De plus, une fois par tour lorsque vous touchez une créature avec une arme osseuse, vous pouvez dépenser un Dé de Vie pour étendre votre os dans la cible. Ajoutez le Dé de Vie et votre modificateur de Constitution au jet de dégâts de l'arme.
+À partir du niveau 7, vos lames sont considérées magiques vis-à-vis d'une résistance et immunité aux attaques et dégâts non magiques. De plus, une fois par tour lorsque vous touchez une créature avec une arme osseuse, vous pouvez dépenser un Dé de Vie pour étendre votre os dans la cible. Ajoutez le Dé de Vie et votre modificateur de Constitution au jet de dégâts de l'arme.
 
 ## Constitution Solide
 

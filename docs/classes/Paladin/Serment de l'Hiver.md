@@ -34,13 +34,13 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 ## Aura Frigide
 
-À partir du niveau 7, vous émanez une aura de froid mordant et aspirez la chaleur des pièces. Vous et vos alliés à 10 ft. ont la résistance contre les dégâts de feu et de froid.
+À partir du niveau 7, vous émanez une aura de froid mordant et aspirez la chaleur des pièces. Vous et vos alliés à 10 ft. obtiennent une résistance contre les dégâts de feu et de froid.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Chair de Froid
 
-Au niveau 15, lorsque vous subissez des dégâts ou êtes [[paralysé]], [[aveuglé]], [[assourdi]], [[pétrifié]] ou [[empoisonné]], vous pouvez utiliser votre réaction pour geler le sang dans vos veines et retarder l'effet. Les dégâts ou la condition sont suspendus pour 1 minute, après quoi ils vous affectent normalement. Cette aptitude met en pause la durée des sorts qui ne vous affectent que pour imposer une condition, et le lanceur de sort n'a pas à maintenir la concentration sur de tels sorts jusqu'à ce que l'effet reprenne. Vous ne pouvez geler qu'une condition ou une instance de dégâts à la fois. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 1 minute.
+Au niveau 15, lorsque vous subissez des dégâts ou êtes [[paralysé]], [[aveuglé]], [[assourdi]], [[pétrifié]] ou [[empoisonné]], vous pouvez utiliser votre réaction pour geler le sang dans vos veines et retarder l'effet. Les dégâts ou la condition sont suspendus pendant 1 minute, après quoi ils vous affectent normalement. Cette aptitude met en pause la durée des sorts qui ne vous affectent que pour imposer une condition, et le lanceur de sort n'a pas à maintenir la concentration sur de tels sorts jusqu'à ce que l'effet reprenne. Vous ne pouvez geler qu'une condition ou une instance de dégâts à la fois. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 1 minute.
 ## Père Hiver
 
 Au niveau 20, vous pouvez inviter le plus pur des froids en vous en une action, devenant une effigie du Père Hiver. Pendant la prochaine heure, vous bénéficiez des effets suivants : 

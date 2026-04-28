@@ -19,4 +19,4 @@ Rituel: false
 englishname: Shield of Repulsion
 writing_status: empty
 ---
-Vous créez un bouclier magie centré sur vous, d'un portée de 5 ft. Cette énergie magique repousse les ennemis, et chaque créature qui rentre dans sa zone pour la première fois pendant son tour, ou y commence son tour, doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft.
+Vous créez un bouclier magique centré sur vous, d'un portée de 5 ft. Cette énergie magique repousse les ennemis, et chaque créature qui rentre dans sa zone pour la première fois pendant son tour, ou y commence son tour, doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft.

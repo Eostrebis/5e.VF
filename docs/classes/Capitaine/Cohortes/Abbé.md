@@ -23,7 +23,7 @@ writing_status: finished
 >*_*
 >
 >### Actions
->***Masse d'armes.*** *Attaque Armée de Mêlée :* +3 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.
+>***Masse d'armes.*** *Attaque Armée de Mêlée :* +3 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.
 >
 >***Arbalète Légère.*** *Attaque Armée à Distance :* +2 pour toucher, portée 80/320 ft., une cible. *Touché :* 4 (1d8) dégâts perçants.
 >
@@ -49,4 +49,4 @@ Tant qu'il suit les ordres de son capitaine, l'abbé obtient les capacités supp
 
  - 1/jour chacun : [[protection contre la mort]], [[retour à la vie]], [[communication avec les morts]]
 
-*Niveau 18.* *Réaction :* **Lumière Miséricordieuse (1/jour).** En réponse à une créature alliée à 30 ft. prenant des dégâts, l'abbé peut rendre un nombre de points de vie à cette créature égal à 2d8 + son modificateur de Sagesse.
+*Niveau 18.* *Réaction :* **Lumière Miséricordieuse (1/jour).** En réponse à une créature alliée à 30 ft. subissant des dégâts, l'abbé peut rendre un nombre de points de vie à cette créature égal à 2d8 + son modificateur de Sagesse.

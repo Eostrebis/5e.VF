@@ -29,7 +29,7 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Ascendance Féérique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme.
 
-**Bien Membré.** Lorsque vous réalisez une attaque de mêlée pendant votre tour, votre portée est 5 ft. plus grande qu'à la normale.
+**Bien Membré.** Lorsque vous réalisez une attaque de mêlée pendant votre tour, votre allonge est 5 ft. plus grande qu'à la normale.
 
 **Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, pousser, tirer, soulever.
 

@@ -29,7 +29,7 @@ Lorsque que vous touchez une créature avec une attaque de mêlée, vous pouvez 
 
 ## Destruction Inévitable
 
-À partir du niveau 6, votre capacité à canaliser de l'énergie négative devient plus puissante. Les dégâts nécrotiques que vous infligez par des sorts et votre Canal Divin ignorent la résistance.
+À partir du niveau 6, votre capacité à canaliser de l'énergie négative devient plus puissante. Les dégâts nécrotiques que vous infligez par des sorts et votre Canal Divin ignorent une résistance.
 
 ## Frappe Divine
 

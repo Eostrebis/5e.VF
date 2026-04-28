@@ -23,7 +23,7 @@
 ### ACTIONS
 ***Attaques Multiples***. L'aberration réalise un nombre d'attaques égal à la moitié du niveau de sort (arrondi à l'inférieur). 
 
-***Griffes (Slaad uniquement)***. *Attaque armée de mêlée* : Toucher : votre modificateur d'attaque de sort, portée 5 ft., une cible. *Touché* : 1d10 + 3 + le niveau du sort dégâts tranchants. Si la cible est une créature, elle ne peut pas regagner de points de vie avant le début du prochain tour de l'aberration. 
+***Griffes (Slaad uniquement)***. *Attaque armée de mêlée* : Toucher : votre modificateur d'attaque de sort, allonge 5 ft., une cible. *Touché* : 1d10 + 3 + le niveau du sort dégâts tranchants. Si la cible est une créature, elle ne peut pas regagner de points de vie avant le début du prochain tour de l'aberration. 
 
 ***Rayon Oculaire (Tyrannoeil uniquement)***. *Attaque de sort à distance* : Toucher : votre modificateur d'attaque de sort, portée 150 ft., une créature. *Touché* : 1d8 + 3 + le niveau du sort dégâts psychiques. 
 

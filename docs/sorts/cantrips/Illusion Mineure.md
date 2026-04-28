@@ -20,7 +20,7 @@ Rituel: false
 englishname: Minor Illusion
 writing_status: empty
 ---
-Vous créez un son ou l'image d'un objet à portée qui persiste pour la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
+Vous créez un son ou l'image d'un objet à portée qui persiste pendant la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
 
 Si vous créez un son, le volume peut aller d'un murmure à un hurlement. Celui-ci peut être votre voix, celle d'une autre personne, le rugissement d'un lion, un roulement de tambours ou n'importe quel autre son que vous choisissez. Le son continue de manière ininterrompue pendant la durée du sort, ou vous pouvez réaliser plusieurs sons différents à différents moments avant que le sort se termine.
 

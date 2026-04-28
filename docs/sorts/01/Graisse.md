@@ -17,6 +17,6 @@ Rituel: false
 englishname: Grease
 writing_status: empty
 ---
-De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pour la durée du sort.
+De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pendant la durée du sort.
 
 Lorsque la graisse apparaît, toute créature qui se trouve dans la zone doit réussir un jet de sauvegarde de Dextérité ou être [[au sol]]. Une créature qui rentre dans la zone ou y termine son tour doit également effectuer ce jet.

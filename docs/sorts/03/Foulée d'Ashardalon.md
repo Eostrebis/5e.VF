@@ -19,8 +19,8 @@ Rituel: false
 englishname: Ashardalon's Stride
 writing_status: empty
 ---
-Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
+Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 
-Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou objet ne prend ces dégâts qu'une fois par tour.
+Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou un objet ne subit ces dégâts qu'une fois par tour.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, augmentez votre vitesse de 5 ft. supplémentaires pour chaque niveau d'emplacement au delà du niveau 3. Le sort inflige 1d6 dégâts de feu supplémentaires pour chaque niveau emplacement au delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, augmentez votre vitesse de 5 ft. supplémentaires pour chaque niveau d'emplacement au-delà du niveau 3. Le sort inflige 1d6 dégâts de feu supplémentaires pour chaque niveau d'emplacement au-delà du niveau 3.

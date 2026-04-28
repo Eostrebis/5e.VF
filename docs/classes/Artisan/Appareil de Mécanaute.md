@@ -29,7 +29,7 @@ writing_status: finished
 
 ### Actions
 
-**Écrasement (Main Droite).** *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants
+**Écrasement (Main Droite).** *Attaque armée de mêlée :* +5 au toucher, allonge 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants
 
-**Écrasement (Main Gauche).** *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants.
+**Écrasement (Main Gauche).** *Attaque armée de mêlée :* +5 au toucher, allonge 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants.
 

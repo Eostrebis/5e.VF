@@ -41,7 +41,7 @@ Si la véritable forme de la créature est dissimulée par une illusion, une mé
 
 ## Aura de Résistance
 
-À partir du niveau 7, la magie primordiale s'amasse tellement sur vous qu'elle forme une protection occulte. Vous et les créatures alliées à 10 ft. de vous avez la résistance aux dégâts des sorts.
+À partir du niveau 7, la magie primordiale s'amasse tellement sur vous qu'elle forme une protection occulte. Vous et les créatures alliées à 10 ft. de vous obtenez une résistance aux dégâts des sorts.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 

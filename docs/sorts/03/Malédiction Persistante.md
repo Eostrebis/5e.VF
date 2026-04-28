@@ -19,10 +19,10 @@ Rituel: false
 englishname: Bestow Curse
 writing_status: empty
 ---
-Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
+Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
 
  - Choisissez une caractéristique. Tant qu'elle est maudite, la cible a le désavantage aux jets de compétence et de sauvegarde utilisant cette caractéristique.
- - Tant qu'elle est maudite, la cible à le désavantage aux jets d'attaque contre vous.
+ - Tant qu'elle est maudite, la cible a le désavantage aux jets d'attaque contre vous.
  - Tant qu'elle est maudite, la cible doit réussir un jet de sauvegarde de Sagesse au début de chacun de ses tours ou perdre son action à ne rien faire.
  - Tant que la cible est maudite, vos attaques et sorts lui infligent 1d8 dégâts nécrotiques supplémentaires.
 

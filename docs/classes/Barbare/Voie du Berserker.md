@@ -9,7 +9,7 @@ Pour certains barbares, la rage n'est qu'un moyen pour atteindre leur objectif �
 
 ## Rage Aveugle
 
-À partir du niveau 6, vous ne pouvez pas être [[charmé]] ou [[apeuré]] lorsque vous ragez. Si vous êtes [[charmé]] ou [[apeuré]] lorsque vous entrez en rage, l'effet est suspendu pour la durée de la rage.
+À partir du niveau 6, vous ne pouvez pas être [[charmé]] ou [[apeuré]] lorsque vous ragez. Si vous êtes [[charmé]] ou [[apeuré]] lorsque vous entrez en rage, l'effet est suspendu pendant la durée de la rage.
 
 ## Présence Intimidante
 

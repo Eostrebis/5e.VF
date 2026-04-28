@@ -1,14 +1,14 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Un goutte d'huile ou de mélasse
+detailmat: Une goutte d'huile ou de mélasse
 Duree: Instantanée
 Incantation: 1 Réaction
 Portee: 60 ft.
@@ -17,9 +17,9 @@ Rituel: false
 englishname: Accelerate/Decelerate
 writing_status: empty
 tags:
- - chronomancie
+  - chronomancie
 ---
-Ce sort accélère ou ralentir une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. ne soit touchée par une attaque.
+Ce sort accélère ou ralentit une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. est touchée par une attaque.
 
 **Accélérer.** Augmentez les dégâts subis par la cible de 1d6+ votre modificateur de caractéristique d'incantation.
 

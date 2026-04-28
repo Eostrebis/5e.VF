@@ -5,7 +5,7 @@ Pour chaque alchimiste qui a dévoué sa vie à aider les malades et les infirme
 
 ## Empoisonneur
 
-À partir du moment où vous choisissez ce champ d'études au niveau 2, vous gagnez la découverte [[Empoisonneur]]. Jusqu'à ce que vous atteigniez le niveau 3, vous possédez 2 dés de réactifs qui ne peuvent être utilisés que pour fabriquer des poisons à l'aide de cette découverte. Cette découverte ne compte pas dans le total des découvertes que vous connaissez, et vous ne pouvez pas la remplacer plus tard. De plus, lorsque vous infligez des dégâts de poison à une créature, vous ignorez la résistance aux poisons, et vous traitez l'immunité comme une résistance.
+À partir du moment où vous choisissez ce champ d'études au niveau 2, vous gagnez la découverte [[Empoisonneur]]. Jusqu'à ce que vous atteigniez le niveau 3, vous possédez 2 dés de réactifs qui ne peuvent être utilisés que pour fabriquer des poisons à l'aide de cette découverte. Cette découverte ne compte pas dans le total des découvertes que vous connaissez, et vous ne pouvez pas la remplacer plus tard. De plus, lorsque vous infligez des dégâts de poison à une créature, vous ignorez une résistance aux poisons, et vous traitez l'immunité comme une résistance.
 
 ## Formule : Bombe Venimeuse
 

@@ -169,9 +169,9 @@ Ce choix vous confère des aptitudes au niveau 3, puis aux niveaux 6, 13 et 20.
  
 ## Résolution du Gardien
 
-À partir du niveau 3, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous avez la résistance aux dégâts contondants, tranchants et perçants. 
+À partir du niveau 3, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous obtenez une résistance aux dégâts contondants, tranchants et perçants. 
 
-À partir du niveau 17, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous avez la résistance à tous les dégâts sauf les dégâts psychiques.
+À partir du niveau 17, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous obtenez une résistance à tous les dégâts sauf les dégâts psychiques.
 
 ## Augmentation de Caractéristiques
 
@@ -276,7 +276,7 @@ Les gardiens en chasse pratiquent une forme agressive de défense : les ennemis 
 ### Saisie du Chasseur
 *Remplace la Saisie du Gardien*
 
-Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'elles quittent votre portée, même si elles ont utilisé leur action pour se Désengager.
+Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'elles quittent votre allonge, même si elles ont utilisé leur action pour se Désengager.
 
 ### Marque du Chasseur
 *Remplace la Marque du Gardien*
@@ -290,7 +290,7 @@ Cette aptitude ne se cumule pas avec le sort [[marque du chasseur]].
 ### Résistance du Chasseur
 *Remplace la Résolution du Gardien*
 
-À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous subissez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
+À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous subissez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir une résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
 
 ## Gardien Anthropophage
 

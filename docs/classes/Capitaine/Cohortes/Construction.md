@@ -27,7 +27,7 @@ writing_status: finished
 >*_*
 >
 >### Actions
->***Frappe.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d8 + 2) dégâts contondants.
+>***Frappe.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d8 + 2) dégâts contondants.
 
 ### Aptitudes de Cohorte
 

@@ -102,7 +102,7 @@ Votre lamefil est une arme unique avec une apparence de votre propre design, mai
 
 ### Bristanclaque
 
-Votre lamefil se manifeste sous la forme d'une arme de mêlée massive et impossible qui inflige 1d12 dégâts tranchants. Tant que vous maniez cette arme, vos attaques avec pendant votre tour ont une portée de 10 ft., et vos attaques de mêlée ciblant les créatures [[au sol]] ignorent toutes les sources de désavantage.
+Votre lamefil se manifeste sous la forme d'une arme de mêlée massive et impossible qui inflige 1d12 dégâts tranchants. Tant que vous maniez cette arme, vos attaques avec pendant votre tour ont une allonge de 10 ft., et vos attaques de mêlée ciblant les créatures [[au sol]] ignorent toutes les sources de désavantage.
 
 ### Ciselame
 

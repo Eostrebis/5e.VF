@@ -17,4 +17,4 @@ Rituel: false
 englishname: Sanctify Ground
 writing_status: empty
 ---
-Vous bénissez le sol dans une zone de 10 ft. autour de vous. Pendant la durée du sort, les morts-vivants et fiélons ont le désavantage aux jets d'attaque réalisés dans cette zone.
+Vous bénissez le sol dans une zone de 10 ft. autour de vous. Pendant la durée du sort, les morts-vivants et fiélons ont le désavantage aux jets d'attaque effectués dans cette zone.

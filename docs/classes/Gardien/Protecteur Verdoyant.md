@@ -22,7 +22,7 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous son
 À partir du niveau 20, vous pouvez utiliser votre action pour vous transformer en une sentinelle de chêne, un titan recouvert d'écorce. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
  - Votre CA passe à 20 si elle était inférieure.
- - Vos attaques de mêlée ont une portée de 10 ft.
+ - Vos attaques de mêlée ont une allonge de 10 ft.
  - Vous pouvez utiliser votre Saisie du Gardien pour une action au lieu d'une action bonus. Si vous le faites, vous pouvez réaliser une attaque contre chaque créature affectée, avec un jet d'attaque différent pour chaque créature.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.

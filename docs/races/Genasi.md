@@ -68,7 +68,7 @@ La peau d'un genasi d'air se trouve dans les teintes du bleu, ou d'une peau huma
 
 **Souffle Sans Fin.** Vous pouvez retenir votre respiration indéfiniment tant que vous n'êtes pas [[incapacité]].
 
-**Résistance à la Foudre.** Vous avez la résistance aux dégâts de foudre.
+**Résistance à la Foudre.** Vous avez une résistancee aux dégâts de foudre.
 
 **Danse du Vent.** Vous connaissez le cantrip [[poigne électrique]]. À partir du niveau 3, vous pouvez lancer le sort [[feuille morte]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lévitation]] de cette manière. Une fois que vous avez lancé [[feuille morte]] ou [[lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
@@ -130,7 +130,7 @@ Ils affichent leur héritage par leur teinte de peau, qui peut varier du charbon
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible à 60 ft. comme si vous étiez dans une lumière vive, et dans l'obscurité comme si vous étiez dans une lumière faible. Vous ne discernez pas les couleurs dans une telle obscurité.
 
-**Résistance au Feu.** Vous avez la résistance aux dégâts de feu.
+**Résistance au Feu.** Vous avez une résistance aux dégâts de feu.
 
 **Embrasement.** Vous connaissez le cantrip [[Flamme]]. À partir du niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] avec ce trait, sans devoir payer de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[lame de feu]] de cette manière. Une fois que vous avez lancé [[Mains Brûlantes]] ou [[lame de feu]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas fini un repos long. Vous pouvez également les lancer en utilisant des emplacements de sort.
 
@@ -160,7 +160,7 @@ Leur peau est généralement composée de teintes bleues ou vertes, parfois un m
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible à 60 ft. comme si vous étiez dans une lumière vive, et dans l'obscurité comme si vous étiez dans une lumière faible. Vous ne discernez pas les couleurs dans une telle obscurité.
 
-**Résistance à l'Acide.** Vous avez la résistance aux dégâts d'acide.
+**Résistance à l'Acide.** Vous avez une résistance aux dégâts d'acide.
 
 **Amphibien.** Vous pouvez respirer dans l'air et dans l'eau.
 

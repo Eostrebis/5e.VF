@@ -23,4 +23,4 @@ writing_status: empty
 ---
 Une créature que vous touchez regagne un nombre de points de vie égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les constructions.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le soin augment de 1d8 par niveau d'emplacement de sort au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le soin augmente de 1d8 par niveau d'emplacement de sort au-delà du niveau 1.

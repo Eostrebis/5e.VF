@@ -16,7 +16,7 @@ Rituel: false
 englishname: Black Tentacles
 writing_status: empty
 ---
-De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.
+De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. pendant la durée du sort, ces tentacules rendent le terrain difficile.
 
 Lorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules subit 3d6 dégâts contondants.
 

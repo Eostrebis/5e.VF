@@ -90,7 +90,7 @@ Généralement, les aventuriers gardent leurs potions à portée de mains (par e
 ### 4.3 Résistances et Immunités
 
 #### 4.3.1 Résistance aux attaques non-magiques
-Lorsqu'une description fait état d'une résistance aux attaques non-magiques, la résistance est considérée comme étant aux dégâts non-magiques (par ex. un piège qui tire des flèches).
+Lorsqu'une description fait état d'une résistance aux attaques non-magiques, une résistance est considérée comme étant aux dégâts non-magiques (par ex. un piège qui tire des flèches).
 
 #### 4.3.2 Immunité aux dégâts contondants
 Une créature immunisée aux dégâts contondants subit la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
@@ -109,7 +109,7 @@ Après être descendu à 0 point de vie et revenu, un personnage est étourdi. S
 ## 5. Équipement
 
 ### 5.1 Résistance aux dégâts non-magiques
-Un équipement doit au moins être de rareté *peu commune* pour outrepasser la résistance aux dégâts non-magiques.
+Un équipement doit au moins être de rareté *peu commune* pour outrepasser une résistance aux dégâts non-magiques.
 
 ### 5.2 Armes Lourdes
 Le maniement d'arme lourde n'est plus conditionné par la catégorie de taille de la créature, mais par son score passif de jet de sauvegarde de Force, qui doit être supérieur à 15.

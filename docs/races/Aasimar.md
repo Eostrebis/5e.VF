@@ -38,7 +38,7 @@ Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possèd
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Résistance Céleste.** Vous avez la résistance aux dégâts nécrotiques et radiants.
+**Résistance Céleste.** Vous avez une résistance aux dégâts nécrotiques et radiants.
 
 **Vision dans le noir.** Vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 

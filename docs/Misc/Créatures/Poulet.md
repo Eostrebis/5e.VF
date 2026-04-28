@@ -17,7 +17,7 @@
 
 
 ### ACTIONS
-***Pic-pic***. *Attaque armée de mêlée* : +4 pour toucher, portée 5 ft., une cible. *Touché* : 1 dégât perçant. 
+***Pic-pic***. *Attaque armée de mêlée* : +4 pour toucher, allonge 5 ft., une cible. *Touché* : 1 dégât perçant. 
 
 
 *_*

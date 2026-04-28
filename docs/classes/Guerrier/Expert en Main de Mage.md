@@ -22,7 +22,7 @@ Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez
 
 À partir du niveau 7, vous pouvez utiliser vos mains de mage pour réaliser un nombre de manœuvres de combat, aussi appelées tours. Tant que vous ne maniez aucune arme, vous pouvez vos deux mains pour Saisir ou Pousser une créature. Lorsque vous le faites, vous ajoutez votre modificateur d'Intelligence au jet de Force (Athlétisme).
 
-De plus, vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec une de vos mains lorsqu'une créature quitte sa portée.
+De plus, vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec une de vos mains lorsqu'une créature quitte sa allonge.
 
 ## Main de Guerre
 

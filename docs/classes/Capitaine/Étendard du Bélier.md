@@ -19,4 +19,4 @@ Au niveau 13, vous pouvez propulser vos ennemis vers le danger. Lorsque vous rep
 
 ## Reste Couché !
 
-À partir du niveau 17, lorsqu'une créature se relève après que vous l'avez mis [[au sol]] et se trouve dans votre portée, vous pouvez réaliser une attaque d'opportunité contre elle.
+À partir du niveau 17, lorsqu'une créature se relève après que vous l'avez mis [[au sol]] et se trouve dans votre allonge, vous pouvez réaliser une attaque d'opportunité contre elle.

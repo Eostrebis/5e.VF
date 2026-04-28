@@ -19,7 +19,7 @@ De plus, vous avez maîtrisé un certain nombre de techniques. Vous pouvez utili
 
 ## Inertie
 
-Au niveau 3, si vous traversez l'espace d'une créature hostile, quittez la portée d'une créature ou vous déplacez d'au moins 15 ft., vous infligez 1d6 dégâts supplémentaires avec la prochaine attaque armée que vous réalisez pendant votre tour.
+Au niveau 3, si vous traversez l'espace d'une créature hostile, quittez l'allonge d'une créature ou vous déplacez d'au moins 15 ft., vous infligez 1d6 dégâts supplémentaires avec la prochaine attaque armée que vous réalisez pendant votre tour.
 
 ## Combattant Évasif
 

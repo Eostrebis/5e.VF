@@ -51,7 +51,7 @@ Au niveau 15, tant que vous vous concentrez sur un sort de paladin, votre concen
 
 Au niveau 20, pour une action, vous pouvez émaner un champ de magie pétillante sur un rayon de 30 ft. Pendant 1 minute, vous bénéficiez des effets suivants :
 
- - Vous avez la résistance aux dégâts de sorts et avez l'avantage aux jets de sauvegarde contre les sorts.
+ - Vous obtenez une résistance aux dégâts de sorts et avez l'avantage aux jets de sauvegarde contre les sorts.
  - Lorsqu'une créature vous touche avec une attaque de mêlée, cette créature subit un nombre de dégâts de force égal à votre modificateur de Charisme alors que l'énergie magique même se déchaîne contre elle.
  - Lorsque vous dépensez un emplacement de sort de niveau 1 ou plus, les créatures alliées dans votre champ de magie regagnent un nombre de points de vie égal à votre modificateur de Charisme tandis que les créatures hostiles subissent le même nombre de dégâts de force.
 

@@ -55,6 +55,6 @@ Au niveau 3, vous avez appris à vous battre en n'utilisant rien d'autre que vos
 
 ## Rengaine !
 
-Au niveau 15, votre rengaine personnelle a atteint des niveaux surnaturels de cliché. Vous pouvez prononcer votre rengaine lorsque vous touchez une créature avec un jet d'attaque, battez une créature sur un jet challengé de Force, Dextérité ou Constitution ou lorsque vous réussissez un jet de sauvegarde. Jusqu'au début de votre prochain tour, vous avez la résistance à tous les dégâts et pouvez ajouter votre modificateur de Sagesse à vos jets de dégâts.
+Au niveau 15, votre rengaine personnelle a atteint des niveaux surnaturels de cliché. Vous pouvez prononcer votre rengaine lorsque vous touchez une créature avec un jet d'attaque, battez une créature sur un jet challengé de Force, Dextérité ou Constitution ou lorsque vous réussissez un jet de sauvegarde. Jusqu'au début de votre prochain tour, vous obtenez une résistancee à tous les dégâts et pouvez ajouter votre modificateur de Sagesse à vos jets de dégâts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous fassiez un coup critique contre une créature hostile ou que vous ne terminiez un repos.

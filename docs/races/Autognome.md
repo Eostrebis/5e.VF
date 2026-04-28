@@ -49,7 +49,7 @@ Tirez dans la table d'Histoire Autognome ou choisissez une entrée que vous aime
 
 **Design Spécialisé.** Vous gagnez la maîtrise de deux outils de votre choix.
 
-**Nature Mécanique.** Vous êtes résistant aux dégâts de poison et êtes immunisés aux maladies. Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[paralysé]] ou [[empoisonné]]. Vous n'avez pas besoin de manger, de boire, ou de respirer.
+**Nature Mécanique.** Vous avec une résistance aux dégâts de poison et êtes immunisés aux maladies. Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[paralysé]] ou [[empoisonné]]. Vous n'avez pas besoin de manger, de boire, ou de respirer.
 
 **Repos de Tourelle.** Lorsque vous prenez un repos long, vous passez au moins 6 heures dans un état végétatif, sans bouger, plutôt que de dormir. Dans cet état, vous apparaissez inerte, mais restez conscient.
 

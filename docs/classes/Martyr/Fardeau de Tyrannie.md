@@ -22,7 +22,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Ultimatum Diabolique
 
-Également au niveau 1, vous pouvez utiliser une action pour conduire un adversaire au doute. Choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] ou [[Apeuré|apeurée]] par vous (son choix) pour 1 minute. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
+Également au niveau 1, vous pouvez utiliser une action pour conduire un adversaire au doute. Choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] ou [[Apeuré|apeurée]] par vous (son choix) pendant 1 minute. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
@@ -30,7 +30,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 À compter du niveau 6, lorsque vous utilisez votre aptitude [[Martyr#Tourment|Tourment]] contre une créature hostile et réduisez ses points de vie à 0, vous ne perdez aucun points de vie de par l'utilisation de l'aptitude.
 
-## Écraser la Résistance
+## Écraser une résistance
 
 Au niveau 14, vos coups absorbent la vitalité des autres. Une fois par tour, à chacun de vos tours, lorsque vous frappez une créature hostile avec une attaque armée de mêlée, vous gagnez 1d8 points de vie temporaires. Si vous réduisez un Humanoïde à 0 point de vie avec l'attaque, vous gagnez plutôt 4d8 points de vie temporaires.
 

@@ -33,15 +33,15 @@ Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur v
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Un goutte d'huile ou de mélasse
+detailmat: Une goutte d'huile ou de mélasse
 Duree: Instantanée
 Incantation: 1 Réaction
 Portee: 60 ft.
@@ -50,9 +50,9 @@ Rituel: false
 englishname: Accelerate/Decelerate
 writing_status: empty
 tags:
- - chronomancie
+  - chronomancie
 ---
-Ce sort accélère ou ralentir une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. ne soit touchée par une attaque.
+Ce sort accélère ou ralentit une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. est touchée par une attaque.
 
 **Accélérer.** Augmentez les dégâts subis par la cible de 1d6+ votre modificateur de caractéristique d'incantation.
 
@@ -81,7 +81,7 @@ Rituel: false
 englishname: Accursed Act
 writing_status: empty
 ---
-Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
+Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation  dégâts psychiques une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous infligez 1d8 dégâts psychiques supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -113,7 +113,7 @@ writing_status: finished
 tags:
  - chronomancie
 ---
-Choisissez une créature consentante que vous pouvez voir à portée. Pendant son prochain tour, la cible gagne une action supplémentaire. Cette action ne peut être prise que sous la forme de l'action de Foncer, de Désengagement, de Se Cacher, d'Utilisation d'un Objet ou d'Attaque (une attaque armée seulement).
+Choisissez une créature consentante que vous pouvez voir à portée. Pendant son prochain tour, la cible gagne une action supplémentaire. Cette action ne peut être entreprise que sous la forme de l'action de Foncer, de Désengagement, de Se Cacher, d'Utilisation d'un Objet ou d'Attaque (une attaque armée seulement).
 
 
 ---
@@ -141,7 +141,7 @@ Rituel: true
 englishname: Alarm
 writing_status: empty
 ---
-Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arrête de 20 ft. Jusqu'à ce que le sort termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
+Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arête de 20 ft. Jusqu'à ce que le sort se termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
 
 Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1.5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi.
 
@@ -172,9 +172,9 @@ Rituel: false
 englishname: Animal Friendship
 writing_status: empty
 ---
-Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir à portée. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Sinon, la bête doit réussir un jet de sauvegarde de Sagesse, ou être charmé par vous pour la durée du sort. Si vous ou l'un de vos compagnons blessent la bête, le sort se termine.
+Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir à portée. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Sinon, la bête doit réussir un jet de sauvegarde de Sagesse, ou être [[charmé|charmée]] par vous pour la durée du sort. Si vous ou l'un de vos compagnons blessez la bête, le sort se termine.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort avec un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une bête supplémentaire par niveau de l'emplacement au delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort avec un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une bête supplémentaire par niveau de l'emplacement au-delà du niveau 1.
 
 
 ---
@@ -227,9 +227,9 @@ Rituel: true
 englishname: Find Familiar
 writing_status: empty
 ---
-Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste une fée ou un fiélon.
+Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste, une fée ou un fiélon.
 
-Votre familier agit indépendamment de vous, mais obéit toujours à vos ordres. En combat, il lance sa propre initiative et agit pendant son tour. Un familier ne peut attaquer, mais peut utiliser les autres actions normalement.
+Votre familier agit indépendamment de vous, mais obéit toujours à vos ordres. En combat, il lance sa propre initiative et agit pendant son tour. Un familier ne peut attaquer, mais peut entreprendre d'autres actions normalement.
 
 Lorsque votre familier tombe à 0 point de vie, il disparaît, ne laissant aucune forme physique derrière lui. Il réapparaît lorsque vous lancez à nouveau ce sort. Pour une action, vous pouvez renvoyer temporairement votre familier vers une dimension de poche. Vous pouvez également le renvoyer définitivement. Pour une action alors qu'il est temporairement renvoyé, vous pouvez le faire réapparaître sur n'importe quel emplacement inoccupé à 30 ft. de vous. Lorsque le familier tombe à 0 point de vie ou disparaît vers la dimension de poche, il laisse tomber au sol tout ce qu'il portait.
 
@@ -290,7 +290,7 @@ writing_status: empty
 ---
 Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pour la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature subit 5 dégâts de froid.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie temporaires et les dégâts de froids augmentent de 5 par niveau.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie temporaires et les dégâts de froid augmentent de 5 par niveau.
 
 
 ---
@@ -344,7 +344,7 @@ Rituel: false
 englishname: Black Lotus Assault
 writing_status: finished
 ---
-La première fois que vous utilisez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour invoquer un tourbillon de pétales de lotus noir autour de votre arme, distrayant vos ennemis et vous permettant de frapper avec une grande puissance. Chaque fois que vous touchez avec cette arme avant que le sort se termine, la cible doit effectuer un jet de sauvegarde de Sagesse ou subir un nouvel effet. Une fois que vous avez effectué trois attaques avec une arme, le sort se termine.
+La première fois que vous utilisez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour invoquer un tourbillon de pétales de lotus noir autour de votre arme, distrayant vos ennemis et vous permettant de frapper avec une grande puissance. Chaque fois que vous touchez avec cette arme avant que le sort se termine, la cible doit effectuer un jet de sauvegarde de Sagesse ou subir un nouvel effet. Une fois que vous avez réalisé trois attaques avec une arme, le sort se termine.
 
 - **1re Touche :** Si la cible échoue son jet de sauvegarde, sa vitesse est divisée par deux jusqu'à la fin de son prochain tour.
 
@@ -403,7 +403,7 @@ Rituel: false
 englishname: Aura of Stability
 writing_status: empty
 ---
-Une énergie gravitationnelle rayonne de vous dans une aura d'un rayon de 10 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a l'avantage aux jets de sauvegarde pour ne pas être [[au sol]].
+Une énergie gravitationnelle rayonne de vous dans une aura d'un rayon de 10 ft. Jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a l'avantage aux jets de sauvegarde pour ne pas être [[au sol]].
 
 ---
 
@@ -562,7 +562,7 @@ Rituel: false
 englishname: Falling Spider's Spite
 writing_status: finished
 ---
-Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre portée, vous pouvez instantanément bondir vers la créature et réaliser une unique attaque armée de mêlée. Si vous touchez, la vitesse de la cible est réduite de 10 ft. jusqu'à la fin de son prochain tour et elle doit réussir un jet de sauvegarde Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
+Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre portée, vous pouvez instantanément bondir vers la créature et réaliser une unique attaque armée de mêlée. Si vous touchez, la vitesse de la cible est réduite de 10 ft. jusqu'à la fin de son prochain tour et elle doit réussir un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
 
 
 ---
@@ -729,7 +729,7 @@ Rituel: false
 englishname: Shield
 writing_status: empty
 ---
-Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne subissez aucun dégâts de [[Projectiles Magiques]].
+Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne subissez aucun dégât de [[Projectiles Magiques]].
 
 
 ---
@@ -757,7 +757,7 @@ Rituel: false
 englishname: Fog Cloud
 writing_status: empty
 ---
-Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point à portée. La sphère se propage autour des coins et sa zone est fortement dissimulée. Elle persiste pour la durée du sort ou jusqu'à ce qu'un vent de vitesse modérée ou grande (au moins 20 km/heure) ne la disperse.
+Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point à portée. La sphère se propage autour des coins et sa zone est fortement dissimulée. Elle persiste pour la durée du sort ou jusqu'à ce qu'un vent de vitesse modérée ou grande (au moins 20 km/heure) la disperse.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le rayon de la sphère de brouillard augmente de 20 ft. par niveau d'emplacement au-delà du niveau 1.
 
@@ -814,9 +814,9 @@ Rituel: false
 englishname: Catapult
 writing_status: empty
 ---
-Choisissez un objet pesant entre 1 et 5 livres à portée qui n'est pas porté. L'objet vole en ligne droite sur 90 ft. dans une direction de votre avant de s'écraser au sol, s'arrêtant prématurément s'il touche une surface solide. Si l'objet devrait toucher une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, l'objet la frappe et s'arrête de bouger. Lorsque l'objet frappe quelque chose, l'objet et la cible subissent chacun 3d6 dégâts contondants.
+Choisissez un objet pesant entre 0,5 et 2,5 kilos à portée qui n'est pas porté. L'objet vole en ligne droite sur 90 ft. dans une direction de votre choix avant de s'écraser au sol, s'arrêtant prématurément s'il touche une surface solide. Si l'objet devrait toucher une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, l'objet la frappe et s'arrête de bouger. Lorsque l'objet frappe quelque chose, l'objet et la cible subissent chacun 3d6 dégâts contondants.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximum des objets que vous pouvez cibler avec ce sort augmente de 5 livres et les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le poids maximum des objets que vous pouvez cibler avec ce sort augmente de 2,5 kilos et les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -873,7 +873,7 @@ Rituel: false
 englishname: Charm Person
 writing_status: empty
 ---
-Vous essayez de charmer un humanoïde que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, et le fait avec avantage si vous ou vos compagnons l'affrontez. Si elle rate le jet de sauvegarde, la cible est [[charmé|charmée]] par vous jusqu'à ce que le sort termine ou jusqu'à ce que vous ou vos compagnons la blessiez. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la cible sait qu'elle a été charmée par vous.
+Vous essayez de charmer un humanoïde que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, et le fait avec avantage si vous ou vos compagnons l'affrontez. Si elle rate le jet de sauvegarde, la cible est [[charmé|charmée]] par vous jusqu'à ce que le sort se termine ou jusqu'à ce que vous ou vos compagnons la blessiez. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la cible sait qu'elle a été charmée par vous.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1. Les créatures doivent se trouver à 30 ft. l'une de l'autre.
 
@@ -1091,7 +1091,7 @@ Rituel: true
 englishname: Speak with Animals
 writing_status: finished
 ---
-Vous obtenez la capacité de comprendre et de communiquer verbalement avec les Bêtes pendant la durée du sort. Le savoir et la conscience de beaucoup de bêtes sont limités par leur intelligence, mais, à minima, les bêtes peuvent vous fournir des informations sur les alentours et les monstres environnants, y compris ce qu'elles peuvent percevoir ou ont pu percevoir jusqu'à la veille. Vous pouvez être capable de convaincre une bête de réaliser une petite tâche pour vous, à la discrétion du MJ.
+Vous obtenez la capacité de comprendre et de communiquer verbalement avec les Bêtes pendant la durée du sort. Le savoir et la conscience de beaucoup de bêtes sont limités par leur intelligence, mais, a minima, les bêtes peuvent vous fournir des informations sur les alentours et les monstres environnants, y compris ce qu'elles peuvent percevoir ou ont pu percevoir jusqu'à la veille. Vous pouvez être capable de convaincre une bête de réaliser une petite tâche pour vous, à la discrétion du MJ.
 
 
 ---
@@ -1147,9 +1147,9 @@ Rituel: false
 englishname: Color Spray
 writing_status: empty
 ---
-Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total étant combien de points de vie de créatures vous pouvez affecter avec ce sort. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
+Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total correspond au nombre de points de vie des créatures que vous pouvez affecter. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
 
-En commençant par la créature qui a actuellement le moins de points de vie, chaque créature affectée par ce sort est [[aveuglé|aveuglée]] jusqu'à la fin de votre prochain tour. Retirez les points de vie de chaque créature au total avant de passer à la créature suivante. Les points de vie d'une créature doivent être inférieurs ou égaux au total pour qu'elle soit affectée.
+En commençant par la créature qui a actuellement le moins de points de vie, chaque créature affectée par ce sort est [[aveuglé|aveuglée]] jusqu'à la fin de votre prochain tour. Retirez les points de vie de chaque créature du total avant de passer à la créature suivante. Les points de vie d'une créature doivent être inférieurs ou égaux au total pour qu'elle soit affectée.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, lancez 2d10 supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -1174,7 +1174,7 @@ Rituel: false
 englishname: Gahoul's Shrieking Skull
 writing_status: empty
 ---
-Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne subit 2d4 dégât de tonnerre.
+Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne subit 2d4 dégâts de tonnerre.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d4 par niveau d'emplacement au-delà du niveau 1.
 
@@ -1202,11 +1202,11 @@ writing_status: empty
 ---
 Vous pouvez créer ou détruire de l'eau.
 
-**Création d'Eau.** Vous créez jusqu'à 10 gallons d'eau pure dans un contenant ouvert à portée. Alternativement, l'eau tombe comme la pluie dans un cube de 30 ft. à portée, éteignant ainsi les flammes exposées dans le cube.
+**Création d'Eau.** Vous créez jusqu'à 40 litres d'eau pure dans un contenant ouvert à portée. Alternativement, l'eau tombe comme la pluie dans un cube de 30 ft. à portée, éteignant ainsi les flammes exposées dans le cube.
 
-**Destruction d'Eau.** Vous détruisez jusqu'à 10 gallons d'eau dans un contenant ouvert à portée. Alternativement, vous pouvez vous débarrasser du brouillard dans un cube de 30 ft. à portée.
+**Destruction d'Eau.** Vous détruisez jusqu'à 40 litres d'eau dans un contenant ouvert à portée. Alternativement, vous pouvez vous débarrasser du brouillard dans un cube de 30 ft. à portée.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez créer ou détruire 10 gallons supplémentaires, ou dans un cube de 5 ft. de plus par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez créer ou détruire 40 litres supplémentaires, ou dans un cube de 5 ft. de plus par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -1233,7 +1233,7 @@ Rituel: true
 englishname: Ceremony
 writing_status: empty
 ---
-Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, les cibles duquel doivent se trouver à 10 ft. de vous pendant l'incantation.
+Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, dont les cibles doivent se trouver à 10 ft. de vous pendant l'incantation.
 
 **Pardon.** Vous touchez une créature consentante dont l'alignement a changé, puis vous effectuez un jet de Sagesse (Perspicacité) DD 20. Si vous réussissez, vous rendez à la cible son alignement précédent.
 
@@ -1245,7 +1245,7 @@ Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous
 
 **Funérailles.** Vous touchez un corps et pour les 7 prochains jours, la cible ne peut devenir un mort-vivant par aucun moyen autre qu'un sort de [[souhait]].
 
-**Mariage.** Vous touchez des adultes humanoïdes consentants à être liés par le mariage. Pendant les 7 prochains jours, chaque cible gagne un bonus de +2 à la CA tant qu'ils se trouvent à 30 ft. l'un de l'autre. Une créature ne peut bénéficier à nouveau de ce rite que lorsqu'elle est faite veuve.
+**Mariage.** Vous touchez des adultes humanoïdes consentants à être liés par le mariage. Pendant les 7 prochains jours, chaque cible gagne un bonus de +2 à la CA tant qu'ils se trouvent à 30 ft. l'un de l'autre. Une créature ne peut bénéficier à nouveau de ce rite que lorsqu'elle devient veuve.
 
 
 ---
@@ -1523,7 +1523,7 @@ Des ronces et lianes émanent du sol dans un carré de 20 ft. à partir d'un poi
 
 Une créature dans la zone lorsque vous lancez le sort doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]] par les plantes jusqu'à ce que le sort se termine. Une créature retenue par les plantes peut utiliser son action pour effectuer un jet de Force contre votre DD de sauvegarde de sort. Si elle réussit, elle se libère.
 
-Lorsque le sort termine, les plantes invoquées disparaissent.
+Lorsque le sort se termine, les plantes invoquées disparaissent.
 
 
 ---
@@ -1602,7 +1602,7 @@ Rituel: false
 englishname: Divine Favor
 writing_status: empty
 ---
-Vos prières vous confèrent un rayonnement divin. Jusqu'à ce que le sort termine, vos attaques armées infligent 1d4 dégâts radiants supplémentaires.
+Vos prières vous confèrent un rayonnement divin. jusqu'à ce que le sort se termine, vos attaques armées infligent 1d4 dégâts radiants supplémentaires.
 
 
 ---
@@ -1685,7 +1685,7 @@ Rituel: false
 englishname: Bane
 writing_status: empty
 ---
-Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un jet de sauvegarde de Charisme. Chaque fois qu'une cible qui a raté ce jet de sauvegarde effectue un jet d'attaque ou de sauvegarde avant que le sort se termine, la cible doit lancer un d4 et soustraire le résultat à son jet d'attaque ou de sauvegarde.
+Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un jet de sauvegarde de Charisme. Chaque fois qu'une cible qui a raté ce jet de sauvegarde effectue un jet d'attaque ou de sauvegarde avant que le sort se termine, la cible doit lancer un d4 et soustraire le résultat de son jet d'attaque ou de sauvegarde.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.
 
@@ -1696,9 +1696,9 @@ Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un j
 
 ---
 available:
- - Barde
- - Magicien
- - Sorcière
+  - Barde
+  - Magicien
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -1710,7 +1710,7 @@ Incantation: 1 Action
 Portee: 30 ft.
 Concentration: true
 Rituel: false
-englishname: " Hideous Laughter"
+englishname: Hideous Laughter
 writing_status: empty
 ---
 Une créature de votre choix que vous pouvez voir à portée se met à percevoir tout ce qui l'entoure comme hilarant et tombe dans un fou rire incontrôlable si elle se trouve affectée par le sort. La cible doit réussir un jet de sauvegarde de Sagesse ou tomber [[au sol]], devenant [[incapacité|incapacitée]] et ne pouvant se relever pour la durée du sort. Une créature avec un score d'Intelligence de 4 ou moins n'est pas affectée par ce sort.
@@ -1874,7 +1874,7 @@ Rituel: false
 englishname: Hail of Thorns
 writing_status: empty
 ---
-La prochaine fois que vous touchez une créature avec une attaque armée à distance avant que le sort se termine, le sort crée une pluie d'épines qui poussent depuis votre arme ou munition. En plus des effets normaux de votre attaque, la cible et chaque créature à 5 ft. d'elle doit effectuer un jet de sauvegarde de Dextérité. Une créature subit 1d10 dégâts perçants si elle rate son jet, ou la moitié si elle réussit.
+La prochaine fois que vous touchez une créature avec une attaque armée à distance avant que le sort se termine, le sort crée une pluie d'épines qui poussent depuis votre arme ou munition. En plus des effets normaux de votre attaque, la cible et chaque créature à 5 ft. d'elle doivent effectuer un jet de sauvegarde de Dextérité. Une créature subit 1d10 dégâts perçants si elle rate son jet, ou la moitié si elle réussit.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 1.
 
@@ -1903,7 +1903,7 @@ Rituel: false
 englishname: Masterful Focus
 writing_status: finished
 ---
-Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. Jusqu'à ce que le sort termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.
+Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. jusqu'à ce que le sort se termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, l'intervalle dans lequel vous infligez un coup critique croît de 1 (17-20, 16-20, et ainsi de suite) par niveau d'emplacement au-delà du niveau 1.
 
@@ -1932,7 +1932,7 @@ Rituel: false
 englishname: Heroism
 writing_status: empty
 ---
-Une créature consentante que vous touchez se voit remplie de bravoure. Jusqu'à ce que le sort termine, la créature ne peut pas être [[apeuré|apeurée]] et gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation au début de chacun de ses tours. Lorsque le sort termine, la cible perd les points de vie temporaires qu'il lui resterait.
+Une créature consentante que vous touchez se voit remplie de bravoure. jusqu'à ce que le sort se termine, la créature ne peut pas être [[apeuré|apeurée]] et gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation au début de chacun de ses tours. Lorsque le sort se termine, la cible perd les points de vie temporaires qu'il lui resterait.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature additionnelle par niveau d'emplacement de sort au-delà du niveau 10
 
@@ -1989,7 +1989,7 @@ Rituel: true
 englishname: Clue
 writing_status: empty
 ---
-Lorsque vous lancez ce sort, toutes les empreintes de pas et digitales dans un rayon de 45 ft. autour d'un point que vous touchez deviennent visibles et reluisent faiblement pendant la durée du sort. Au moment de l'incantation, choisissez une période de temps allant d'il y a 10 jour au présent ; seules les les empreintes laissées pendant cette période sont mises en avant. Chaque créature dont les empreintes sont détectées par le sort se voit assignée une couleur unique, mais n'est pas identifiée. Chaque créature qui bouge ou touche des objets dans la zone laisse des empreintes colorées, révélant ainsi les créatures invisibles dans la zone.
+Lorsque vous lancez ce sort, toutes les empreintes de pas et digitales dans un rayon de 45 ft. autour d'un point que vous touchez deviennent visibles et reluisent faiblement pendant la durée du sort. Au moment de l'incantation, choisissez une période de temps allant d'il y a 10 jours au présent ; seules les empreintes laissées pendant cette période sont mises en avant. Chaque créature dont les empreintes sont détectées par le sort se voit assigner une couleur unique, mais n'est pas identifiée. Chaque créature qui bouge ou touche des objets dans la zone laisse des empreintes colorées, révélant ainsi les créatures invisibles dans la zone.
 
 
 ---
@@ -2018,7 +2018,7 @@ writing_status: empty
 ---
 Vous prononcer une injonction d'un mot à une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou suivre l'ordre pendant son prochain tour. Le sort n'a aucun effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si l'injonction lui est directement néfaste.
 
-Certaines commandes sont détaillées ci-dessous. Vous pouvez donner une injonction autres que celles-ci, auquel cas le MK décide comment la cible se comporte. Si la cible ne peut suivre votre injonction, le sort termine.
+Certaines commandes sont détaillées ci-dessous. Vous pouvez donner une injonction autres que celles-ci, auquel cas le MJ décide comment la cible se comporte. Si la cible ne peut suivre votre injonction, le sort se termine.
 
 **Approche.** La cible bouge vers vous par la route la plus directe, terminant son tour si elle se trouve à 5 ft. de vous.
 
@@ -2028,7 +2028,7 @@ Certaines commandes sont détaillées ci-dessous. Vous pouvez donner une injonct
 
 **Tombe.** La cible tombe [[au sol]] et termine son tour.
 
-**Stop.** La cible ne bouge plus et ne prend pas d'actions. Une créature volante reste en l'air, si elle en est capable. Si elle doit se déplacer pour rester en l'air, elle se déplace de la plus petite distance nécessaire pour cela.
+**Stop.** La cible ne bouge plus et n'entreprend pas d'actions. Une créature volante reste en l'air, si elle en est capable. Si elle doit se déplacer pour rester en l'air, elle se déplace de la plus petite distance nécessaire pour cela.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez affecter une créature supplémentaire par emplacement de sort au-delà du niveau 1. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.
 
@@ -2073,15 +2073,15 @@ Chaque segment a une CA de 10 et 60 points de vie. Réduire un segment à 0 poin
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Conjuration
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Un petit stalactite
+detailmat: Une petite stalactite
 Duree: Instantanée
 Incantation: 1 Action
 Portee: 60 ft.
@@ -2090,7 +2090,7 @@ Rituel: false
 englishname: Icicle Javelin
 writing_status: empty
 ---
-Vous lancez un stalactite géant en direction d'une cible de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 3d8 dégâts de froid. Si la cible est adjacente à un mur, ou un objet tout aussi large et immobile, elle peut être clouée à cette surface à son prochain tour. Au début de son tour, la cible effectue un jet de sauvegarde de Force. Si elle échoue, elle a une vitesse de 0 jusqu'au début de son prochain tour.
+Vous lancez une stalactite géante en direction d'une cible de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 3d8 dégâts de froid. Si la cible est adjacente à un mur, ou un objet tout aussi large et immobile, elle peut être clouée à cette surface à son prochain tour. Au début de son tour, la cible effectue un jet de sauvegarde de Force. Si elle échoue, elle a une vitesse de 0 jusqu'au début de son prochain tour.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
 
@@ -2118,9 +2118,9 @@ Rituel: false
 englishname: Free Throw
 writing_status: empty
 ---
-Tout en lançant ce sort, vous jetez un objet tenu pesant 5 lbs. ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les couvertures de moitié et de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Sur un échec, elle subit 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
+Tout en lançant ce sort, vous jetez un objet tenu pesant 2,5 kilos ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les couvertures de moitié et de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Sur un échec, elle subit 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le poids maximum des objets que vous pouvez lancer augmente de 5 lbs. et les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le poids maximum des objets que vous pouvez lancer augmente de 2,5 kilos et les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
 
 ---
 
@@ -2559,7 +2559,7 @@ writing_status: finished
 ---
 En tant que réaction lorsqu'une créature que vous pouvez voir à 60 ft. réussit un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez la distraire magiquement et transformer ce doute temporaire en encouragement pour une autre créature. La créature qui a déclenché la réaction doit relancer le d20 et utiliser le plus petit des deux résultats.
 
-Vous pouvez ensuite choisir une autre créature que vous pouvez voir à portée (vous y compris). La créature choisie a l'avantage sur son prochain jet d'attaque, de caractéristique ou de sauvegarde qu'elle effectue dans la prochaine minute. Une créature ne peut être bénéficier que d'une seule utilisation de ce sort à la fois.
+Vous pouvez ensuite choisir une autre créature que vous pouvez voir à portée (vous y compris). La créature choisie a l'avantage sur son prochain jet d'attaque, de caractéristique ou de sauvegarde qu'elle effectue dans la prochaine minute. Une créature ne peut bénéficier que d'une seule utilisation de ce sort à la fois.
 
 
 ---
@@ -2584,7 +2584,7 @@ Rituel: false
 englishname: Guiding Bolt
 writing_status: empty
 ---
-Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 4d6 dégâts radiants, et le prochain jet d'attaque réalisé contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.
+Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 4d6 dégâts radiants, et le prochain jet d'attaque effectué contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
@@ -2670,7 +2670,7 @@ Rituel: false
 englishname: Expeditious Retreat
 writing_status: empty
 ---
-Ce sort vous permet de vous déplacer à une vitesse incroyable. Lorsque vous lancez ce sort, puis pour une action bonus à chacun de vos tours jusqu'à ce que le sort termine, vous pouvez entreprendre l'action de Foncer.
+Ce sort vous permet de vous déplacer à une vitesse incroyable. Lorsque vous lancez ce sort, puis pour une action bonus à chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez entreprendre l'action de Foncer.
 
 
 ---
@@ -2699,7 +2699,7 @@ writing_status: finished
 tags:
  - chronomancie
 ---
-La prochaine fois que vous ratez une créature avec une attaque avant que ce sort ne termine, vous pouvez instantanément vous réinitialiser au moment juste avant l'attaque et la répéter contre la même cible.
+La prochaine fois que vous ratez une créature avec une attaque avant que ce sort se termine, vous pouvez instantanément vous réinitialiser au moment juste avant l'attaque et la répéter contre la même cible.
 
 
 ---
@@ -2814,7 +2814,7 @@ Rituel: true
 englishname: Unseen Servant
 writing_status: empty
 ---
-Ce sort crée une force invisible, sans forme particulière et sans conscience de taille Moyenne qui réalise de simples tâches à votre demande jusqu'à ce que le sort termine. Le servant surgit dans un espace inoccupé au sol à portée. Il a une CA de 10, 1 point de vie et une force de 2, et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort termine.
+Ce sort crée une force invisible, sans forme particulière et sans conscience de taille Moyenne qui réalise de simples tâches à votre demande jusqu'à ce que le sort se termine. Le servant surgit dans un espace inoccupé au sol à portée. Il a une CA de 10, 1 point de vie et une force de 2, et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort se termine.
 
 Une fois à chacun de vos tours pour une action bonus, vous pouvez mentalement ordonner au servant de se déplacer de 15 ft. et d'interagir avec un objet. Le servant peut réaliser des tâches simples qu'un servant humain peut effectuer, comme récupérer des choses, nettoyer, réparer ou plier des linges, allumer un feu, servir la nourriture ou le vin. Une fois que vous avez donné cet ordre, le servant réalise la tâche du mieux qu'il peut jusqu'à ce qu'elle soit complétée, puis attend votre prochain ordre.
 
@@ -2879,7 +2879,7 @@ writing_status: empty
 ---
 Une créature que vous touchez regagne un nombre de points de vie égal à 1d8 + votre modificateur de caractéristique d'incantation. Ce sort n'a aucun effet sur les morts-vivants et les constructions.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le soin augment de 1d8 par niveau d'emplacement de sort au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le soin augmente de 1d8 par niveau d'emplacement de sort au-delà du niveau 1.
 
 
 ---
@@ -2909,7 +2909,7 @@ writing_status: empty
 ---
 Ce sort fait tomber des créatures en un sommeil profond. Lancez 5d8 ; le total correspond à combien de points de vie totaux ce sort peut affecter. Les créatures à 20 ft. de l'emplacement que vous choisissez à portée sont affectées par ordre croissant de leurs points de vie (ignorant les créatures [[inconscient|inconscientes]]).
 
-À partir de la créature qui a le moins de points de vie, chaque créature affectée par ce sort tombe [[inconscient|inconsciente]] jusqu'à ce que le sort se termine, que la créature prenne des dégâts ou que quelqu'un utilise son action pour la secouer ou la baffer. Retirez les points de vie de chaque créature affectée du total avant de passer à la créature suivante avec le moins de points de vie. Les points de vie d'une créature doivent être inférieurs ou égaux au total restant pour que cette créature soit affectée.
+À partir de la créature qui a le moins de points de vie, chaque créature affectée par ce sort tombe [[inconscient|inconsciente]] jusqu'à ce que le sort se termine, que la créature subisse des dégâts ou que quelqu'un utilise son action pour la secouer ou la baffer. Retirez les points de vie de chaque créature affectée du total avant de passer à la créature suivante avec le moins de points de vie. Les points de vie d'une créature doivent être inférieurs ou égaux au total restant pour que cette créature soit affectée.
 
 Les morts-vivants et créatures qui ne peuvent être [[charmé|charmées]] ne sont pas touchés par ce sort.
 
@@ -2940,7 +2940,7 @@ writing_status: empty
 ---
 Vous invoquez le pouvoir de Hadar, la Faim Sombre. Des vignes d'énergie sombre émanent de vous et frappent toutes les créatures à moins de 10 ft. de vous. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Force. En cas d'échec, la cible subit 2d6 dégâts nécrotiques et ne peut pas utiliser de réaction avant son prochain tour. Sur un succès, la créature subit la moitié des dégâts, et ne souffre d'aucun autre effet.
 
-**Aux niveau supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augments de 1d6 par chaque niveau au delà du niveau 1.
+**Aux niveau supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par chaque niveau au-delà du niveau 1.
 
 
 ---
@@ -2966,7 +2966,7 @@ Rituel: false
 englishname: Sanctify Ground
 writing_status: empty
 ---
-Vous bénissez le sol dans une zone de 10 ft. autour de vous. Pendant la durée du sort, les morts-vivants et fiélons ont le désavantage aux jets d'attaque réalisés dans cette zone.
+Vous bénissez le sol dans une zone de 10 ft. autour de vous. Pendant la durée du sort, les morts-vivants et fiélons ont le désavantage aux jets d'attaque effectués dans cette zone.
 
 ---
 
@@ -3026,7 +3026,7 @@ Rituel: false
 englishname: Whisperind Wind
 writing_status: empty
 ---
-Vous pointez votre doigt dans une direction et murmurez un message de jusqu'à vingt cinq mots, tout en désignant jusqu'à 6 créatures pour êtres les cibles. Si une cible est à portée et dans la direction générale que vous avez pointé, elle (et seulement elle) entend le message porté par le vent. Elle peut répondre par un murmure que vous êtes le seul à entendre.
+Vous pointez votre doigt dans une direction et murmurez un message de jusqu'à vingt cinq mots, tout en désignant jusqu'à 6 créatures pour être les cibles. Si une cible est à portée et dans la direction générale que vous avez pointée, elle (et seulement elle) entend le message porté par le vent. Elle peut répondre par un murmure que vous êtes le seul à entendre.
 
 Vous ne pouvez lancer ce sort que s'il y a un chemin pour que l'air puisse se déplacer de vous aux cibles. Le sort n'a pas à suivre une ligne droite et peut voyager librement le long des obstacles, mais est bloqué par les objets solides et les zones de silence magique.
 
@@ -3054,16 +3054,16 @@ writing_status: empty
 ---
 Vous projetez une masse ondulante et tremblante d'énergie chaotique sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 + 1d6 dégâts. Choisissez l'un des d8s. Le résultat de ce d8 détermine le type de dégâts de l'attaque.
 
-| d8 | Type de Dégâts |
+| d8  | Type de Dégâts |
 | :-: | -------------- |
-| 1 | Acide |
-| 2 | Froid |
-| 3 | Feu |
-| 4 | Force |
-| 5 | Foudre |
-| 6 | Poison |
-| 7 | Psychique |
-| 8 | Tonerre |
+|  1  | Acide          |
+|  2  | Froid          |
+|  3  | Feu            |
+|  4  | Force          |
+|  5  | Foudre         |
+|  6  | Poison         |
+|  7  | Psychique      |
+|  8  | Tonnerre       |
 
 Si vous obtenez le même nombre sur les deux d8s, l'énergie chaotique saute de la cible vers une autre créature de votre choix à 30 ft. de celle-ci. Réalisez une nouvelle attaque de sort à distance contre la nouvelle cible et relancez les dégâts, permettant à l'énergie de re-sauter.
 
@@ -3129,9 +3129,9 @@ Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à porté
 
 Si la cible est une créature, tout ce qu'elle porte change de taille avec elle. Un objet lâché par une créature affectée par le sort revient à sa taille normale.
 
-**Agrandissement.** La taille de la cible double dans toutes ses dimensions, et son poids est multiplié par huit. Cette croissance fait passer sa taille à la catégorie supérieure -- de M à G, par exemple. S'il n'y a pas assez de place pour que la cible double de taille, la créature ou l'objet atteint la taille maximum possible dans l'espace disponible. Jusqu'à ce que le sort termine, la cible a l'avantage aux jets de Force et de sauvegarde de Force. Les armes de la cible grandit également pour s'adapter à sa nouvelle taille. Tant que ces armes sont agrandies, les attaques de la cible infligent 1d4 dégâts supplémentaires.
+**Agrandissement.** La taille de la cible double dans toutes ses dimensions, et son poids est multiplié par huit. Cette croissance fait passer sa taille à la catégorie supérieure -- de M à G, par exemple. S'il n'y a pas assez de place pour que la cible double de taille, la créature ou l'objet atteint la taille maximum possible dans l'espace disponible. jusqu'à ce que le sort se termine, la cible a l'avantage aux jets de Force et de sauvegarde de Force. Les armes de la cible grandissent également pour s'adapter à sa nouvelle taille. Tant que ces armes sont agrandies, les attaques de la cible infligent 1d4 dégâts supplémentaires.
 
-**Rapetissement.** La taille de la cible est réduit de moitié dans toutes ses dimensions, et son poids est divisé par deux. Cette réduction fait passer la taille de la cible à la catégorie inférieure -- de M à P par exemple. Jusqu'à ce que le sort se termine, la cible a le désavantage aux jets de Force et de sauvegarde de Force. Les armes de la cible diminuent également pour s'adapter à sa nouvelle taille. Tant que ces armes sont réduites en taille, les attaques de la cible avec infligent 1d4 dégâts de moins (minimum de 1 dégât). 
+**Rapetissement.** La taille de la cible est réduite de moitié dans toutes ses dimensions, et son poids est divisé par deux. Cette réduction fait passer la taille de la cible à la catégorie inférieure -- de M à P par exemple. Jusqu'à ce que le sort se termine, la cible a le désavantage aux jets de Force et de sauvegarde de Force. Les armes de la cible diminuent également pour s'adapter à sa nouvelle taille. Tant que ces armes sont réduites en taille, les attaques de la cible avec celles-ci infligent 1d4 dégâts de moins (minimum de 1 dégât). 
 
 
 ---
@@ -3266,7 +3266,7 @@ writing_status: finished
 Vous tentez de supprimer les émotions fortes d'un groupe de personnes. Chaque humanoïde dans une sphère d'un rayon de 20 ft. centrée sur un point que vous choisissez à portée doit effectuer un jet de sauvegarde de Charisme ; une créature peut choisir d'échouer ce jet si elle le souhaite. Si une créature échoue à ce jet de sauvegarde, choisissez l'un des deux effets suivants : 
 
  - Vous supprimez tous les effets qui rendent la cible [[charmé|charmée]] ou [[apeuré|apeurée]]. Lorsque le sort se termine, les effets supprimés reprennent, en supposant que leur durée n'ait pas expiré entre temps.
- - Vous pouvez rendre une cible indifférente envers les créatures de votre choix envers lesquelles elle est actuellement hostile. L'indifférence se termine si la cible est attaquée ou blessée par un sort ou si elle voit un de ses alliés être blessé. Lorsque le sort termine, la créature redevient hostile, sauf si le MJ en décide autrement.
+ - Vous pouvez rendre une cible indifférente envers les créatures de votre choix envers lesquelles elle est actuellement hostile. L'indifférence se termine si la cible est attaquée ou blessée par un sort ou si elle voit un de ses alliés être blessé. Lorsque le sort se termine, la créature redevient hostile, sauf si le MJ en décide autrement.
 
 
 ---
@@ -3658,7 +3658,7 @@ Rituel: false
 englishname: Shield of Repulsion
 writing_status: empty
 ---
-Vous créez un bouclier magie centré sur vous, d'un portée de 5 ft. Cette énergie magique repousse les ennemis, et chaque créature qui rentre dans sa zone pour la première fois pendant son tour, ou y commence son tour, doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft.
+Vous créez un bouclier magique centré sur vous, d'un portée de 5 ft. Cette énergie magique repousse les ennemis, et chaque créature qui rentre dans sa zone pour la première fois pendant son tour, ou y commence son tour, doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft.
 
 
 ---
@@ -3688,9 +3688,9 @@ Rituel: false
 englishname: Air Bubble
 writing_status: empty
 ---
-Vous créez une sphère spectrale autour de la tête d'une créature consentante à portée que vous pouvez voir. La sphère est remplie d'air frais jusqu'à ce que le sort termine. Si la créature a plus d'une tête, la sphère d'air n'apparaît qu'autour d'une d'entre elles (ce qui est tout ce dont la créature a besoin pour éviter de s'étouffer, supposant que les têtes partagent le même système respiratoire).
+Vous créez une sphère spectrale autour de la tête d'une créature consentante à portée que vous pouvez voir. La sphère est remplie d'air frais jusqu'à ce que le sort se termine. Si la créature a plus d'une tête, la sphère d'air n'apparaît qu'autour d'une d'entre elles (ce qui est tout ce dont la créature a besoin pour éviter de s'étouffer, supposant que les têtes partagent le même système respiratoire).
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, vous pouvez créer deux sphère supplémentaires pour chaque emplacement d'un niveau au delà de 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, vous pouvez créer deux sphères supplémentaires pour chaque emplacement d'un niveau au-delà de 2.
 
 
 ---
@@ -3715,11 +3715,8 @@ Rituel: false
 englishname: Repulsor Ring
 writing_status: empty
 ---
-Vous dessinez un cercle d'un diamètre de 5 ft. au sol qui protège contre les intrus. Seules les créatures que vous choisissez peuvent pénètre le cercle. Toute attaque à distance réalisée contre une cible à l'intérieur du cercle a le désavantage. Si une créature hostile réalise une attaque de mêlée contre une cible dans le cercle, l'attaquant est repoussé de 10 ft. juste après l'attaque.
+Vous dessinez un cercle d'un diamètre de 5 ft. au sol qui protège contre les intrus. Seules les créatures que vous choisissez peuvent pénètrer le cercle. Toute attaque à distance réalisée contre une cible à l'intérieur du cercle a le désavantage. Si une créature hostile réalise une attaque de mêlée contre une cible dans le cercle, l'attaquant est repoussé de 10 ft. juste après l'attaque.
 
-## Corps à Corps
-
-Votre corps est une arme mortelle à lui seul, 
 
 ---
 
@@ -3744,7 +3741,7 @@ writing_status: finished
 ---
 Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perçants et doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.
 
-Tant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, prenant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.
+Tant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, subissant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perçants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
@@ -3825,9 +3822,9 @@ Rituel: true
 englishname: Unseen Accountable
 writing_status: empty
 ---
-Ce sort crée une force invisible et sans forme qui réaliser des tâches intellectuelles à votre demande jusqu'à ce que le sort se termine. Le serviteur apparaît dans un espace inoccupé, au sol, à portée. Il a une CA de 10, 1 point de vie, une Intelligence de 12 et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort se termine.
+Ce sort crée une force invisible et sans forme qui réalise des tâches intellectuelles à votre demande jusqu'à ce que le sort se termine. Le serviteur apparaît dans un espace inoccupé, au sol, à portée. Il a une CA de 10, 1 point de vie, une Intelligence de 12 et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort se termine.
 
-Une fois à chacun de vos tours, pour une action bonus, vous pouvez lui ordonner mentalement de se déplacer de jusqu'à 15 ft. et d'interagir avec un objet. Le comptable peut réaliser les tâches intellectuelles qu'une employé de bureau humain pourrait réaliser, comme estimer des prix, mettre à jour des comptes, gérer des inventaires ou calculer des intérêts. Une fois que vous avez donné un ordre, le comptable le réalise du mieux qu'il peut, puis attend la prochaine commande. Le comptable ne peut pas réaliser de travail physique et ne peut pas lever d'objets plus lourds que 500 g.
+Une fois à chacun de vos tours, pour une action bonus, vous pouvez lui ordonner mentalement de se déplacer de jusqu'à 15 ft. et d'interagir avec un objet. Le comptable peut réaliser les tâches intellectuelles qu'un employé de bureau humain pourrait réaliser, comme estimer des prix, mettre à jour des comptes, gérer des inventaires ou calculer des intérêts. Une fois que vous avez donné un ordre, le comptable le réalise du mieux qu'il peut, puis attend la prochaine commande. Le comptable ne peut pas réaliser de travail physique et ne peut pas lever d'objets plus lourds que 500 g.
 
 Si vous demandez au comptable de se déplacer à plus de 300 ft. de vous, le sort se termine.
 
@@ -3918,7 +3915,7 @@ writing_status: empty
 ---
 Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[aveuglé|aveuglée]] ou [[assourdi|assourdie]] (votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible peut effectuer un nouveau jet de sauvegarde de Constitution.
 
-**Aux Niveaux Supérieurs**. Lorsque vous lancer ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement de sort au delà du niveau 2.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement de sort au-delà du niveau 2.
 
 
 ---
@@ -3942,7 +3939,7 @@ Rituel: false
 englishname: Defenestration
 writing_status: empty
 ---
-Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible subit 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne subit aucun dégâts.
+Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible subit 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne subit aucun dégât.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, la cible peut être repoussée de 5 ft. supplémentaires et subit 1d6 dégâts supplémentaires par niveau d'emplacement au-delà du niveau 2.
 
@@ -4008,7 +4005,7 @@ Vous lisez d'abord les pensées superficielles de la créature, ce qui occupe so
 
 Les questions dirigées verbalement vers la cible orientent le fil de ses pensées. Ce sort est donc particulièrement efficace lors d'un interrogatoire. 
 
-Vous pouvez aussi employer ce sort pour détecter la présence de créatures pensantes qui vous sont invisibles. Lorsque vous lancez ce sort ou lors d'une action pendant la durée du sort, vous pouvez chercher des pensées à 9 mètres ou moins de vous. Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 60 cm de pierre, 5 cm de métal ordinaire, ou une mince feuille de plomb. Vous ne pouvez pas détecter une créature possédant une Intelligence de 3 ou moins ou ne parlant aucun langage. 
+Vous pouvez aussi employer ce sort pour détecter la présence de créatures pensantes qui vous sont invisibles. Lorsque vous lancez ce sort ou lors d'une action pendant la durée du sort, vous pouvez chercher des pensées à 30 ft. de vous. Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 60 cm de pierre, 5 cm de métal ordinaire, ou une mince feuille de plomb. Vous ne pouvez pas détecter une créature possédant une Intelligence de 3 ou moins ou ne parlant aucun langage. 
 
 Après avoir détecté la présence d'une créature de cette manière, vous pouvez lire ses pensées pour le reste de la durée du sort comme décrit ci-dessus, même si vous ne pouvez plus la voir, mais à condition qu'elle reste dans la portée du sort.
 
@@ -4066,7 +4063,7 @@ writing_status: empty
 ---
 Une ligne de flammes rugissantes de 30 ft. de long et 5 ft. de large émane de vous dans une direction que vous choisissez. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au delà de 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà de 2.
 
 
 ---
@@ -4092,7 +4089,7 @@ Rituel: false
 englishname: Blur
 writing_status: empty
 ---
-Votre corps devient flou, changeant et vacillant pur tout ceux qui peuvent vous voir. Pour la durée du sort, toutes les créatures ont le désavantage aux jets d'attaques contre vous. Un attaquant est immunisé à cet effet si il ne repose pas sur la vue, comme avec vision aveugle, ou peut voir à travers les illusions, comme avec vision totale.
+Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous voir. Pour la durée du sort, toutes les créatures ont le désavantage aux jets d'attaques contre vous. Un attaquant est immunisé à cet effet s'il ne repose pas sur la vue, comme avec vision aveugle, ou peut voir à travers les illusions, comme avec vision totale.
 
 
 ---
@@ -4101,14 +4098,14 @@ Votre corps devient flou, changeant et vacillant pur tout ceux qui peuvent vous 
 
 ---
 available:
- - Magicien
- - Nécromancien
+  - Magicien
+  - Nécromancien
 level: 2
 school: Évocation
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Une feuille de rubarbe en poudre, et un estomac de vipère
+detailmat: Une feuille de rhubarbe en poudre, et un estomac de vipère
 Duree: Instantanée
 Incantation: 1 Action
 Portee: 90 ft.
@@ -4117,7 +4114,7 @@ Rituel: false
 englishname: Acid Arrow
 writing_status: empty
 ---
-Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible subit 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
+Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible subit 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégât différé.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, les dégâts (aussi bien instantanés que différés) augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -4203,7 +4200,7 @@ Rituel: false
 englishname: Tyra's Coerced Karaoke
 writing_status: empty
 ---
-Alors que des instruments spectraux apparaissent autour de vous, vous commencez à chanter une chanson bien connue, et les autres se sentent obligés à vous rejoindre. Pendant la durée du sort, lorsqu'une créature s'approche à moins de 30 ft. de vous ou y commence son tour, elle doit réussir un jet de sauvegarde de Sagesse ou commencer à chanter avec vous. Une créature qui chante mimique le ton et les mots de la chanson aussi bien qu'elle le peut, même si elle n'en parle pas la langue.
+Alors que des instruments spectraux apparaissent autour de vous, vous commencez à chanter une chanson bien connue, et les autres se sentent obligés de vous rejoindre. Pendant la durée du sort, lorsqu'une créature s'approche à moins de 30 ft. de vous ou y commence son tour, elle doit réussir un jet de sauvegarde de Sagesse ou commencer à chanter avec vous. Une créature qui chante imite le ton et les mots de la chanson aussi bien qu'elle le peut, même si elle n'en parle pas la langue.
 
 De plus, elle ne peut pas parler normalement (même si elle peut communiquer par télépathie) et ne peut pas réaliser de composantes verbales des sorts. Les créatures qui ne peuvent pas être [[charmé|charmées]] sont immunisées contre ce sort.
 
@@ -4294,7 +4291,7 @@ De par ce sort, vous pouvez utiliser un animal pour délivrer un message. Choisi
 
 Lorsque le messager arrive à destination, il délivre votre message à la créature que vous avez décrit, répliquant le son de votre voix. Le messager ne parle qu'à une créature qui correspond à votre description. Si le message n'arrive pas à destination avant la fin du sort, le message est perdu, et la bête fait demi-tour vers là où vous avez lancé le sort.
 
-**Aux Niveaux Supérieurs.** Si vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, la durée du sort augmente de 48 heures par niveau d'emplacement au delà du niveau 2.
+**Aux Niveaux Supérieurs.** Si vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, la durée du sort augmente de 48 heures par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -4322,9 +4319,9 @@ writing_status: empty
 ---
 Vous endossez une forme différente. Lorsque vous lancez le sort, choisissez parmi les options suivantes, dont les effets s'appliqueront jusqu'à ce que le sort prenne fin. Tant que le sort est actif, vous pouvez mettre un terme à une option, en dépensant une action, pour gagner les bénéfices d'une option différente.
 
-**Adaptation Aquatique.** Vous adaptez votre corps à un environnement aquatique, en vous faisant pousser des branchies et expansions palmaires entre les doigts. Vous pouvez respirer sous l'eau et obtenez une vitesse de ange égale à votre vitesse de marche.
+**Adaptation Aquatique.** Vous adaptez votre corps à un environnement aquatique, en vous faisant pousser des branchies et expansions palmaires entre les doigts. Vous pouvez respirer sous l'eau et obtenez une vitesse de nage égale à votre vitesse de marche.
 
-**Changement d'apparence.** Vous transformez votre apparence. Vous décidez ce à quoi vous ressemblez, que ce soit votre taille, votre poids, les traits de votre visage, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et même vos signes distinctifs, le cas échéant. Vous pouvez prendre l'apparence d'une créature d'une autre race, sans que cela n'ait d'impact sur vos caractéristiques ou traits raciaux. Vous ne pouvez pas apparaître comme étant d'une taille différente de la votre, et votre forme de base reste la même : un bipède reste bipède, par exemple. À n'importe quel moment pendant la durée de ce sort, vous pour utiliser votre action pour changer votre apparence à nouveau. 
+**Changement d'apparence.** Vous transformez votre apparence. Vous décidez ce à quoi vous ressemblez, que ce soit votre taille, votre poids, les traits de votre visage, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et même vos signes distinctifs, le cas échéant. Vous pouvez prendre l'apparence d'une créature d'une autre race, sans que cela n'ait d'impact sur vos caractéristiques ou traits raciaux. Vous ne pouvez pas apparaître comme étant d'une taille différente de la votre, et votre forme de base reste la même : un bipède reste bipède, par exemple. À n'importe quel moment pendant la durée de ce sort, vous pouvez utiliser votre action pour changer votre apparence à nouveau. 
 
 **Armes Naturelles.** Vous vous dotez de griffes, de crocs, d'épines ou de n'importe quelles autres armes naturelles de votre choix. Vos attaques à mains nues font 1d6 dégâts contondants, perçant ou tranchants, suivant ce qui convient le mieux aux armes naturelles que vous avez choisies., et vous obtenez la maîtrise de vos attaques à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts.
 
@@ -4406,7 +4403,7 @@ Rituel: false
 englishname: Intrusive Thoughts
 writing_status: empty
 ---
-Comme réaction lorsqu'une créature que vous pouvez voir utilise son action pour Attaquer, Foncer, Esquiver ou se Désengager, vous pouvez tenter de perturber sa pensée. La cible doit effectuer un jet de sauvegarde de Sagesse. Elle le réussit automatiquement si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, la créature prend une action de votre choix parmi ces options, plutôt que l'action qu'elle comptait prendre.
+Comme réaction lorsqu'une créature que vous pouvez voir utilise son action pour Attaquer, Foncer, Esquiver ou se Désengager, vous pouvez tenter de perturber sa pensée. La cible doit effectuer un jet de sauvegarde de Sagesse. Elle le réussit automatiquement si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, la créature entreprend une action de votre choix parmi ces options, plutôt que l'action qu'elle comptait entreprendre.
 
 
 ---
@@ -4594,17 +4591,17 @@ Vous touchez une bête consentante. Pendant la durée du sort, vous pouvez utili
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Sorcière
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Une once de sel pour chaque pied du périmètre protégé
+detailmat: 30 grammes de sel pour chaque pied du périmètre protégé
 Duree: 10 Minutes
 Incantation: 1 Action
 Portee: Contact
@@ -4640,7 +4637,7 @@ Rituel: false
 englishname: Petal Storm
 writing_status: empty
 ---
-Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaissent dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.
+Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaît dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.
 
 Toute créature qui entre dans la tempête pour la première fois pendant son tour ou y commence son tour doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 3d4 dégâts tranchants. Pour une action bonus, vous pouvez déplacer la tempête jusqu'à 30 ft. dans n'importe quelle direction. La première fois que la zone de la tempête contient des feuilles mortes, des fleurs, des buissons ou des arbres, elle les absorbe et les dégâts augmentent de 2d4.
 
@@ -4971,7 +4968,7 @@ Rituel: false
 englishname: Aura of Vitality
 writing_status: empty
 ---
-Une énergie soignante rayonne de vous dans une aura d'un rayon de 30 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Vous pouvez utiliser une action bonus pour que chaque créature non hostile (vous y compris) dans l'aura regagne 2d6 points de vie.
+Une énergie soignante rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Vous pouvez utiliser une action bonus pour que chaque créature non hostile (vous y compris) dans l'aura regagne 2d6 points de vie.
 
 ---
 
@@ -5148,7 +5145,7 @@ Rituel: false
 englishname: Fog Cloud
 writing_status: empty
 ---
-Un sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pour la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
+Une sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pour la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
 
 Lorsque vous lancez ce sort, vous pouvez l'alimenter de votre propre essence vitale en perdant 10, 15 ou 20 points de vie lorsque vous lancez. Si vous le faites, considérez l'emplacement de sort utilisé comme étant d'un niveau supérieur si vous avez perdu 10 points de vie, deux niveaux supérieurs si vous avez 15 points de vie et trois niveaux supérieurs pour 20 points de vie, jusqu'à un maximum de niveau 9.
 
@@ -5186,7 +5183,7 @@ Rituel: false
 englishname: Funeral Pyre
 writing_status: finished
 ---
-Vous faites surgir du sol des pointes de bois enflammées autour de la cible de votre choix à portée, essayant de la piéger. La cible doit effectuer un jet de sauvegarde de Dextérité. Les créatures de taille TG ou plus ont l'avantage à ce jet de sauvegarde. Si la créature échoue, elle est empalée par les pointes et [[retenu|retenue]] jusqu'au début de votre prochain tour, prenant 2d8 dégâts de feu et 3d8 dégâts perçants. Si elle réussit, la créature subit la moitié des dégâts et n'est pas [[retenu|retenue]]. Les pointes redeviennent cendres au début de votre prochain tour. Si la cible est tuée par ce sort, les pointes ne disparaissent pas mais deviennent persistantes et résistantes à une [[dissipation de la magie]].
+Vous faites surgir du sol des pointes de bois enflammées autour de la cible de votre choix à portée, essayant de la piéger. La cible doit effectuer un jet de sauvegarde de Dextérité. Les créatures de taille TG ou plus ont l'avantage à ce jet de sauvegarde. Si la créature échoue, elle est empalée par les pointes et [[retenu|retenue]] jusqu'au début de votre prochain tour, subissant 2d8 dégâts de feu et 3d8 dégâts perçants. Si elle réussit, la créature subit la moitié des dégâts et n'est pas [[retenu|retenue]]. Les pointes redeviennent cendres au début de votre prochain tour. Si la cible est tuée par ce sort, les pointes ne disparaissent pas mais deviennent persistantes et résistantes à une [[dissipation de la magie]].
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de feu ou perçants (votre choix) augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3. 
 
@@ -5305,7 +5302,7 @@ Rituel: false
 englishname: Clairvoyance
 writing_status: finished
 ---
-Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué ou interagit avec.
+Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué et on ne peut interagir avec lui.
 
 Lorsque vous lancez ce sort, vous choisissez la vue ou l'ouïe. Vous pouvez utiliser le sens choisi à travers le senseur comme si vous vous trouviez dans son espace. Pour une action, vous pouvez choisir entre la vue et l'ouïe. Une créature qui peut voir le senseur (comme une créature bénéficiant d'un sort de [[vision de l'invisible]] ou d'une vision totale) peut voir un orbe lumineux et intangible d'à peu près la taille de votre poing.
 
@@ -5485,7 +5482,7 @@ Rituel: false
 englishname: Counterspell
 writing_status: finished
 ---
-Comme réaction lorsqu'une créature que vous pouvez voir à 60 ft. lance un sort, vous pouvez essayer d'interrompre le processus d'incantation de la créature. Si la créature lance un sort de niveau 3 ou moins, le sort échoue et n'a aucun effet. Si elle lance un sort un de niveau 4 ou plus, effectuez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et n'a aucun effet.
+Comme réaction lorsqu'une créature que vous pouvez voir à 60 ft. lance un sort, vous pouvez essayer d'interrompre le processus d'incantation de la créature. Si la créature lance un sort de niveau 3 ou moins, le sort échoue et n'a aucun effet. Si elle lance un sort de niveau 4 ou plus, effectuez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et n'a aucun effet.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal au niveau de l'emplacement que vous avez utilisé.
 
@@ -5696,9 +5693,9 @@ writing_status: empty
 ---
 Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 
-Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou objet ne prend ces dégâts qu'une fois par tour.
+Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou un objet ne subit ces dégâts qu'une fois par tour.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, augmentez votre vitesse de 5 ft. supplémentaires pour chaque niveau d'emplacement au delà du niveau 3. Le sort inflige 1d6 dégâts de feu supplémentaires pour chaque niveau emplacement au delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, augmentez votre vitesse de 5 ft. supplémentaires pour chaque niveau d'emplacement au-delà du niveau 3. Le sort inflige 1d6 dégâts de feu supplémentaires pour chaque niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -5919,7 +5916,7 @@ writing_status: empty
 Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
 
  - Choisissez une caractéristique. Tant qu'elle est maudite, la cible a le désavantage aux jets de compétence et de sauvegarde utilisant cette caractéristique.
- - Tant qu'elle est maudite, la cible à le désavantage aux jets d'attaque contre vous.
+ - Tant qu'elle est maudite, la cible a le désavantage aux jets d'attaque contre vous.
  - Tant qu'elle est maudite, la cible doit réussir un jet de sauvegarde de Sagesse au début de chacun de ses tours ou perdre son action à ne rien faire.
  - Tant que la cible est maudite, vos attaques et sorts lui infligent 1d8 dégâts nécrotiques supplémentaires.
 
@@ -6181,7 +6178,7 @@ Rituel: false
 englishname: Sleet Storm
 writing_status: finished
 ---
-Jusqu'à ce que le sort termine, une pluie gelée et du grésil tombent dans un cylindre d'un rayon de 40 ft. et haut de 20 ft. centré sur un point que vous choisissez à portée. La zone est fortement obscurée et les flammes exposées dans la zone sont éteintes.
+jusqu'à ce que le sort se termine, une pluie gelée et du grésil tombent dans un cylindre d'un rayon de 40 ft. et haut de 20 ft. centré sur un point que vous choisissez à portée. La zone est fortement obscurée et les flammes exposées dans la zone sont éteintes.
 
 Le sol de la zone est recouvert d'un épais verglas, rendant le terrain difficile. Lorsqu'une créature pénètre dans la zone du sort pour la première fois pendant son tour ou qu'elle y commence son tour, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle tombe [[au sol]].
 
@@ -6268,7 +6265,7 @@ Rituel: false
 englishname: Unspoken Agreement
 writing_status: empty
 ---
-Vous réalisez un simple geste, indiquant à une créature alliée à portée qu'elle doit réaliser une action et lui transmettant un message télépathique de 25 mots ou moins. La cible choisit l'action de Foncer, de Désengagement, d'Esquive, d'Attaque (une seule attaque armée) ou d'Incantation (un cantrip avec un temps d'incantation d'une action). La cible utilise sa réaction pour réaliser cette action. Vous réalisez la même action en lançant ce sort.
+Vous réalisez un simple geste, indiquant à une créature alliée à portée qu'elle doit entreprendre une action et lui transmettant un message télépathique de 25 mots ou moins. La cible choisit l'action de Foncer, de Désengagement, d'Esquive, d'Attaque (une seule attaque armée) ou d'Incantation (un cantrip avec un temps d'incantation d'une action). La cible utilise sa réaction pour réaliser cette action. Vous entreprenez la même action en lançant ce sort.
 
 
 ---
@@ -6383,7 +6380,7 @@ Rituel: false
 englishname: Aura of Purity
 writing_status: empty
 ---
-Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, a la résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause une des conditions suivantes : [[assourdi]], [[apeuré]], [[aveuglé]], [[charmé]], [[empoisonné]], [[paralysé]], [[sonné]].
+Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, a la résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause une des conditions suivantes : [[assourdi]], [[apeuré]], [[aveuglé]], [[charmé]], [[empoisonné]], [[paralysé]], [[sonné]].
 
 ---
 
@@ -6408,7 +6405,7 @@ Rituel: false
 englishname: Aura of Life
 writing_status: empty
 ---
-Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. Jusqu'à ce que le sort termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.
+Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.
 
 
 ---
@@ -6634,7 +6631,7 @@ Rituel: false
 englishname: Shattersong
 writing_status: finished
 ---
-Vous chantez une chanson discordante imprégnée de pouvoir magique. Lorsque vous lancez ce sort, les vibrations que vous causez commencent à déformer la réalité dans un rayon de 10 ft. centré sur vous. Les créatures que vous choisissez ainsi que les objets sans surveillance dans la zone subissent 2d6 dégâts de tonnerre et les créatures doivent effectuer un jet de sauvegarde de Force. En cas d'échec, elles tombent [[au sol]].
+Vous chantez une chanson discordante imprégnée de pouvoir magique. Lorsque vous lancez ce sort, les vibrations que vous causez commencent à déformer la réalité dans un rayon de 10 ft. centré sur vous. Les créatures que vous choisissez ainsi que les objets qui ne sont ni portés ni maniés dans la zone subissent 2d6 dégâts de tonnerre et les créatures doivent effectuer un jet de sauvegarde de Force. En cas d'échec, elles tombent [[au sol]].
 
 Pour une action à chacun de vos tours tant que vous maintenez la concentration sur ce sort, vous pouvez renforcer votre chanson, répétant les effets tout en augmentant le rayon de 10 ft. et les dégâts de 2d6 à chaque itération. La distance affectée et les dégâts infligés ne peuvent excéder un rayon de 30 ft. et 6d6 dégâts de tonnerre.
 
@@ -6663,7 +6660,7 @@ Rituel: false
 englishname: Dire Charm
 writing_status: empty
 ---
-Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit effectuer un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort se termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort termine, la créature sait qu'elle a été charmée par vous.
+Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit effectuer un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort se termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez le sort en utilisant un emplacement de sort de niveau 8 ou plus, l'effet devient permanent.
 
@@ -6774,7 +6771,7 @@ Rituel: false
 englishname: Compulsion
 writing_status: finished
 ---
-Les créatures de votre choix que vous pouvez voir à portée et qui peuvent vous entendre doivent effectuer un jet de sauvegarde de Sagesse. Une cible réussit automatiquement ce jet de sauvegarde si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, une cible est affectée par ce sort. Jusqu'à ce que le sort termine, vous pouvez utiliser votre action bonus à chaque tour pour désigner une direction qui vous est horizontale. Toutes les créatures affectées doivent utiliser autant de mouvement que possible pour se déplacer dans cette direction à leur prochain tour. Une créature affectée peut utiliser son action avant de se déplacer. Après s'être déplacé de cette façon, elle peut effectuer un nouveau jet de sauvegarde de Sagesse pour essayer de terminer l'effet.
+Les créatures de votre choix que vous pouvez voir à portée et qui peuvent vous entendre doivent effectuer un jet de sauvegarde de Sagesse. Une cible réussit automatiquement ce jet de sauvegarde si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, une cible est affectée par ce sort. jusqu'à ce que le sort se termine, vous pouvez utiliser votre action bonus à chaque tour pour désigner une direction qui vous est horizontale. Toutes les créatures affectées doivent utiliser autant de mouvement que possible pour se déplacer dans cette direction à leur prochain tour. Une créature affectée peut utiliser son action avant de se déplacer. Après s'être déplacé de cette façon, elle peut effectuer un nouveau jet de sauvegarde de Sagesse pour essayer de terminer l'effet.
 
 Une cible n'est pas forcée à se déplacer dans un danger mortel, comme un bûcher, mais elle provoque des attaques d'opportunité pendant son déplacement.
 
@@ -6808,12 +6805,12 @@ Ce sort agresse et perturbe les esprits des créatures, faisant apparaître hall
 
 Une créature affectée ne peut pas utiliser de réactions et doit lancer un d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.
 
-| d10 | Comportement |
-| ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | La créature utilise tout son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer la direction, lancez un d8 et assignez une direction à chaque face du dé. La créature ne prend aucune action ce tour. |
-| 2-6 | La créature ni ne bouge ni prend d'action ce tour. |
-| 7-8 | La créature utilise son action pour réaliser une attaque de mêlée contre une créature aléatoire à portée. S'il n'y a aucune créature à portée, la créature ne fait rien ce tour. |
-| 9-10 | La créature agit et se déplace normalement. |
+| d10 | Comportement                                                                                                                                                                                                                    |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | La créature utilise tout son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer la direction, lancez un d8 et assignez une direction à chaque face du dé. La créature n'entreprend aucune action ce tour. |
+| 2-6 | La créature ni ne bouge ni prend d'action ce tour.                                                                                                                                                                              |
+| 7-8 | La créature utilise son action pour réaliser une attaque de mêlée contre une créature aléatoire à portée. S'il n'y a aucune créature à portée, la créature ne fait rien ce tour.                                                |
+| 9-10 | La créature agit et se déplace normalement.                                                                                                                                                                                     |
 À la fin de chacun de ses tours, une créature affectée peut effectuer un jet de sauvegarde de Sagesse. Si elle réussit, l'effet se termine pour cette cible. 
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le rayon de la sphère augmente de 5 ft. par niveau d'emplacement utilisé au-delà du niveau 4.
@@ -6851,7 +6848,7 @@ Jusqu'à ce que le sort se termine, vous contrôlez l'eau libre de son mouvement
 
 **Tourbillon.** Cet effet requiert un plan d'eau d'au moins 50 ft.² (5 m²) et profond d'au moins 25 ft. Vous faites apparaître un tourbillon au centre de la zone. Le tourbillon forme un vortex large de 5 ft. à sa base, de jusqu'à 50 ft. à son apogée et haut de 25 ft. Toute créature ou objet dans l'eau et à 25 ft. du vortex est attirée de 10 ft. dans sa direction. Une créature peut nager pour s'éloigner du vortex en effectuer un jet de Force (Athlétisme) contre votre DD de sauvegarde de sort.
 
-Lorsqu'une créature entre dans le vortex pour la première fois pendant un tour ou qu'elle y commence son tour, elle doit effectuer un jet de sauvegarde de Force. Si elle échoue, la cible subit 2d8 dégâts contondants et est coincée dans le vortex jusqu'à ce que le sort termine. Si elle réussit, la créature subit la moitié des dégâts et n'est pas coincée dans le vortex. Une créature coincée dans le vortex peut utiliser son action pour nager et s'éloigner du vortex, mais a le désavantage à son jet de Force (Athlétisme) pour ce faire.
+Lorsqu'une créature entre dans le vortex pour la première fois pendant un tour ou qu'elle y commence son tour, elle doit effectuer un jet de sauvegarde de Force. Si elle échoue, la cible subit 2d8 dégâts contondants et est coincée dans le vortex jusqu'à ce que le sort se termine. Si elle réussit, la créature subit la moitié des dégâts et n'est pas coincée dans le vortex. Une créature coincée dans le vortex peut utiliser son action pour nager et s'éloigner du vortex, mais a le désavantage à son jet de Force (Athlétisme) pour ce faire.
 
 La première fois chaque tour qu'un objet entre dans le vortex, l'objet subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque tour où l'objet reste dans le vortex.
 
@@ -7072,7 +7069,7 @@ Si la cible est une créature botanique ou une plante magique, elle effectue le 
 
 Si vous ciblez une plante non magique qui n'est pas une créature, comme un arbre ou un buisson, elle n'effectue pas de jet de sauvegarde, elle fane et meurt.
 
-**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement de sort au delà du niveau 4.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement de sort au-delà du niveau 4.
 
 
 ---
@@ -7236,7 +7233,7 @@ Rituel: false
 englishname: Mandy's Marvelous Dress
 writing_status: empty
 ---
-Une créature consentante que vous touchez est immédiatement habillée d'une magnifique robe de bal, parfaitement taillée et complétée par un ensemble de bijoux. Vous pouvez choisir de placer la robe par dessus les vêtements de la créature (dont son armure) ou de les remplacer. La créature ne peut retirer la robe jusqu'à ce que le sort termine; de même, les bijoux disparaissent lorsqu'ils sont dissociés de la robe. Jusqu'à ce que le sort termine, lorsque le porteur effectue un jet de Charisme, il peut traiter le résultat obtenu comme un 10.
+Une créature consentante que vous touchez est immédiatement habillée d'une magnifique robe de bal, parfaitement taillée et complétée par un ensemble de bijoux. Vous pouvez choisir de placer la robe par dessus les vêtements de la créature (dont son armure) ou de les remplacer. La créature ne peut retirer la robe jusqu'à ce que le sort se termine; de même, les bijoux disparaissent lorsqu'ils sont dissociés de la robe. Jusqu'à ce que le sort se termine, lorsque le porteur effectue un jet de Charisme, il peut traiter le résultat obtenu comme un 10.
 
 De plus, si le porteur de la robe est attaqué par une créature qu'il peut voir, l'attaquant doit réussir un jet de sauvegarde de Sagesse ou rater son attaque. S'il réussit l'attaquant est immunisé contre cet effet jusqu'à que le sort se termine.
 
@@ -7549,7 +7546,7 @@ Rituel: false
 englishname: Holy Weapon
 writing_status: finished
 ---
-Vous imprégnez une arme que vous touchez de votre pouvoir sacré. Jusqu'à ce que le sort termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.
+Vous imprégnez une arme que vous touchez de votre pouvoir sacré. jusqu'à ce que le sort se termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.
 
 Pour une action bonus pendant votre tour, vous pouvez dissiper ce sort et faire émettre à l'arme une explosion de radiance. Chaque créature de votre choix que vous pouvez voir à 30 ft. de l'arme doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature subit 4d8 dégâts radiants et est [[aveuglé|aveuglée]] pendant 1 minute. Si elle réussit, la créature subit la moitié des dégâts et n'est pas aveuglée. À la fin de chacun de ses tours, une créature [[aveuglé|aveuglée]] peut effectuer un jet de sauvegarde de Constitution pour terminer l'effet.
 
@@ -7663,7 +7660,7 @@ Rituel: false
 englishname: Dawn
 writing_status: finished
 ---
-La lumière de l'aube s'abat sur un point que vous spécifiez à portée. Jusqu'à ce que le sort se termine, un cylindre d'un rayon de 30 ft. et haut de 40 ft. de lumière vive y luit. La lumière est solaire. Lorsque le cylindre apparaît, chaque créature à l'intérieur doit effectuer un jet de sauvegarde de Constitution, prenant 4d10 dégâts radiants en cas d'échec ou la moitié en cas de réussite. Une créature doit également refaire ce jet de sauvegarde lorsqu'elle termine son tour dans le cylindre. Si vous vous trouvez à 60 ft. du cylindre, vous pouvez le déplacer jusqu'à 60 ft. pour une action bonus pendant votre tour.
+La lumière de l'aube s'abat sur un point que vous spécifiez à portée. Jusqu'à ce que le sort se termine, un cylindre d'un rayon de 30 ft. et haut de 40 ft. de lumière vive y luit. La lumière est solaire. Lorsque le cylindre apparaît, chaque créature à l'intérieur doit effectuer un jet de sauvegarde de Constitution, subissant 4d10 dégâts radiants en cas d'échec ou la moitié en cas de réussite. Une créature doit également refaire ce jet de sauvegarde lorsqu'elle termine son tour dans le cylindre. Si vous vous trouvez à 60 ft. du cylindre, vous pouvez le déplacer jusqu'à 60 ft. pour une action bonus pendant votre tour.
 
 
 ---
@@ -8143,7 +8140,7 @@ writing_status: empty
 ---
 Une barrière scintillante émane de vous sur un rayon de 10 ft. et se déplace avec vous, toujours centrée sur vous et repoussant les créatures qui ne sont pas des morts-vivants ou des constructions. La barrière dure pour la durée du sort.
 
-La barrière empêche les créatures affectées de pénétrer ou de traverser la zone. Une créature affectée peut lancer des sorts ou effectuer des attaques avec des armes à distance ou des armes à allonge au travers de la barrière.
+La barrière empêche les créatures affectées de pénétrer ou de traverser la zone. Une créature affectée peut lancer des sorts ou réaliser des attaques avec des armes à distance ou des armes à allonge au travers de la barrière.
 
 Si vous bougez de telle sorte qu'une créature affectée est obligée de traverser la barrière, le sort se termine.
 
@@ -8300,7 +8297,7 @@ Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours
 
 **Main Protectrice.** La main s'interpose entre vous et une créature que vous choisissez jusqu'à ce que vous donniez à la main un ordre différent. La main vouge pour rester entre vous et la cible, vous fournissant une couverture partielle contre la cible. La cible ne peut pas traverser l'espace de la main si son score de Force est inférieur ou égal à celui de la main. Si son score est supérieur, elle peut traverser l'espace de la main, mais c'est un terrain difficile pour elle.
 
-**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 6 ou plus, les dégâts du poing serré augmentent de 2d8 et ceux de la main saisissante de 2d6 pour chaque niveau d'emplacement au delà du niveau 5.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 6 ou plus, les dégâts du poing serré augmentent de 2d8 et ceux de la main saisissante de 2d6 pour chaque niveau d'emplacement au-delà du niveau 5.
 
 
 ---
@@ -9346,7 +9343,7 @@ Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origi
 
 Le sort n'a aucun effet si vous le lancez tant que vous êtes sur le Plan Éthéré ou sur un plan qui ne lui est pas frontalier, comme un des Plans Extérieurs.
 
-**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez cibler jusqu'à 3 créatures consentantes (dont vous) par niveau d'emplacement de sort au delà du niveau 7. Ces créatures doivent être à 10 ft. de vous lorsque vous lancez le sort.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez cibler jusqu'à 3 créatures consentantes (dont vous) par niveau d'emplacement de sort au-delà du niveau 7. Ces créatures doivent être à 10 ft. de vous lorsque vous lancez le sort.
 
 ---
 
@@ -10062,9 +10059,9 @@ Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astr
 
 Votre corps astral ressemble à votre forme mortelle sur quasiment toutes les facettes, répliquant vos caractéristiques et possessions. La principale différence est l'addition d'un cordon argenté émanant de vos épaules et traînant derrière vous, disparaissant après 30 cm. Ce cordon est votre attache à votre corps matériel. Tant que cette attache demeure intacte, vous pouvez retrouvez votre chemin. Si le cordon est coupé -- quelque chose qui ne se passe que quand un effet le dit explicitement -- votre âme et votre corps sont séparés, vous tuant sur le coup.
 
-Votre forme astrale peut voyager librement à travers le Plan Astral et peut utiliser les portails menant vers d'autres plans. Si vous entrez un nouveau plan ou retournez dans le plan dont vous venez, votre corps et vos possessions sont transportés le long du cordon argenté, vous permettant de reprendre votre corps en entrant dans le plan. Votre forme astrale est une incarnation séparée. Tout dégâts ou effet qui s'y applique n'ont aucun effet sur votre corps physique, et n'y sont pas transférés lorsque vous y retournez.
+Votre forme astrale peut voyager librement à travers le Plan Astral et peut utiliser les portails menant vers d'autres plans. Si vous entrez un nouveau plan ou retournez dans le plan dont vous venez, votre corps et vos possessions sont transportés le long du cordon argenté, vous permettant de reprendre votre corps en entrant dans le plan. Votre forme astrale est une incarnation séparée. Tout dégâts ou effet qui s'y appliquent n'ont aucun effet sur votre corps physique, et n'y sont pas transférés lorsque vous y retournez.
 
-Le sort finit pour vous et vos compagnons lorsque vous utilisez une action pour le dissiper. Lorsque le sort termine, les créatures affectées retournent à leurs corps physiques et se réveille.
+Le sort finit pour vous et vos compagnons lorsque vous utilisez une action pour le dissiper. Lorsque le sort se termine, les créatures affectées retournent à leurs corps physiques et se réveille.
 
 Le sort peut aussi se terminer plus tôt pour vous ou l'un de vos compagnons. Une [[Dissipation de la Magie]] réussie utilisée contre un corps astral ou physique termine le sort pour cette créature. Si le corps originel ou la forme astrale d'une créature tombe à 0 points de vie, le sort se termine pour cette créature. Si le sort se termine et que le cordon argenté est intact, le cordon tire la forme astrale de la créature jusqu'à son corps, terminant l'état d'animation suspendue.
 
@@ -10095,7 +10092,7 @@ writing_status: empty
 ---
 Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :
 
- - Vous causez toutes les bougies, torches et autres flammes à s'assombrir et vaciller.
+ - Vous faites s'assombrir et vaciller toutes les bougies, torches et autres flammes.
  - Vous créez un faible son qui vient d'un point de votre choix à portée, comme de sinistres murmures, le bourdonnement d'un insecte ou un bruit de pleurs.
  - Vous créez jusqu'à quatre orbes spectraux et brillants, de la taille d'une torche, qui flottent à portée. Ces orbes ne créent pas de lumière si ce n'est un très léger scintillement.
  - Vous pouvez refroidir ou réchauffer de 5° l'air dans un cube de 10 ft. de côté.
@@ -10364,7 +10361,7 @@ writing_status: empty
 Vous prenez contrôle de l'air et le forcez à réaliser l'un des effets suivants à partir d'un point à portée que vous pouvez voir :
 
  - Une créature de taille Moyenne ou inférieure que vous choisissez doit réussir un jet de sauvegarde de Force ou être repoussée de 5 ft. à l'opposée de vous.
- - Vous créez une petite charge d'air capable de déplacer un objet qui n'est pas tenu et qui ne pèse pas plus de 5 lbs. L'objet est repoussé de 10 ft. Il n'est pas poussé avec suffisamment de force pour causer des dégâts.
+ - Vous créez une petite charge d'air capable de déplacer un objet qui n'est pas tenu et qui ne pèse pas plus de 2,5 kilos. L'objet est repoussé de 10 ft. Il n'est pas poussé avec suffisamment de force pour causer des dégâts.
  - Vous créez un effet sensoriel inoffensif en utilisant l'air, comme remuer quelques feuilles, rabattre un volet, ou faire virevolter vos vêtements dans une brise.
 
 
@@ -11536,7 +11533,7 @@ Une main spectrale et flottante apparaît à un point de votre choix à portée.
 
 Vous pouvez utiliser votre action pour contrôler la main. Vous pouvez utiliser la main pour manipuler un objet, ouvrir une porte déverrouillée ou un contenant, stocker ou récupérer un objet dans un coffre ou déverser le contenu d'une fiole. Vous pouvez déplacer la main de jusqu'à 30 ft. à chaque fois que vous l'utilisez.
 
-La main ne peut pas attaquer, utiliser d'objets magiques ou porter plus de 10 livres.
+La main ne peut pas attaquer, utiliser d'objets magiques ou porter plus de 5 kilos.
 
 
 ---
@@ -12183,7 +12180,7 @@ Rituel: false
 englishname: Cheat
 writing_status: empty
 ---
-Vous jouez habilement de vos doigts, et la chance semble être avec vous. Pendant la durée du sort, vous pouvez relancer tous les jets de caractéristique que vous réalisez afin de jouer à des jeux non magiques. Ainsi, ce sort peut influencer une partie de poker, mais pas le tirage d'une carte du [[Deck de Multiples Choses]].
+Vous jouez habilement de vos doigts, et la chance semble être avec vous. Pendant la durée du sort, vous pouvez relancer tous les jets de caractéristique que vous effectuez afin de jouer à des jeux non magiques. Ainsi, ce sort peut influencer une partie de poker, mais pas le tirage d'une carte du [[Deck de Multiples Choses]].
 
 
 ---

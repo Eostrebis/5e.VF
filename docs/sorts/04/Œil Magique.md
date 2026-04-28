@@ -18,7 +18,7 @@ Rituel: false
 englishname: Arcane Eye
 writing_status: empty
 ---
-Vous créez un œil magique invisible dans la portée qui flotte dans les airs pour la durée du sort.
+Vous créez un œil magique invisible dans la portée qui flotte dans les airs pendant la durée du sort.
 
 Vous recevez mentalement les informations visuelles recueillies par l'œil, qui a une vision normale et une vision dans le noir à 30 ft. L'œil peut regarder dans toutes les directions.
 

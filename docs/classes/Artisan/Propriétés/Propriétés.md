@@ -22,7 +22,7 @@ writing_status: finished
 | [[Chargement]] | Arme avec Munitions sans Rechargement |
 | [[Martial]] | Arme simple |
 | [[Parure]] | Arme Légère ou avec Finesse |
-| [[Portée]] | Arme à deux mains ou avec Finesse |
+| [[Allonge]] | Arme à deux mains ou avec Finesse |
 | [[Rechargement]] | Arme avec Munitions sans Chargement |
 | [[Revenant]] | Arme Légère de Jet |
 | [[A Dispersion]] | Arme avec Munition à deux mains |

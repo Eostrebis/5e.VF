@@ -1,7 +1,7 @@
 ---
 writing_status: empty
 ---
-Lorsque vous buvez cette potion, votre score de Force change pour 1 heure. Le type du géant détermine le nouveau score. La potion n'a aucun effet sur vous si votre Force est déjà supérieure ou égale au score.
+Lorsque vous buvez cette potion, votre score de Force change pendant 1 heure. Le type du géant détermine le nouveau score. La potion n'a aucun effet sur vous si votre Force est déjà supérieure ou égale au score.
 
 Un morceau d'ongle de géant du type adéquat flotte au milieu du liquide transparent de la potion.
 

@@ -25,7 +25,7 @@ Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour
 
 ## Rage Flingueuse
 
- Au niveau 14, pour une action bonus, vous pouvez rentrer dans une furie pour détruire les inférieurs. Pendant la prochaine minute, vous avez la résistance aux dégâts contondants, perçants et tranchants et pouvez réaliser une attaque supplémentaire lorsque vous utilisez votre action pour attaquer pendant votre tour. Cependant, durant cette *rage*, votre vitesse est réduite de moitié et vous avez le désavantage aux jets et jets de sauvegarde de Dextérité.
+ Au niveau 14, pour une action bonus, vous pouvez rentrer dans une furie pour détruire les inférieurs. Pendant la prochaine minute, vous obtenez une résistance aux dégâts contondants, perçants et tranchants et pouvez réaliser une attaque supplémentaire lorsque vous utilisez votre action pour attaquer pendant votre tour. Cependant, durant cette *rage*, votre vitesse est réduite de moitié et vous avez le désavantage aux jets et jets de sauvegarde de Dextérité.
 
  Votre rage flingueuse se termine si vous vous mettez à couvert, terminez votre tour sans attaquer ou utiliser votre action bonus pour la terminer prématurément.
 

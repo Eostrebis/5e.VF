@@ -32,6 +32,6 @@ Un grep est un charognard souterrain, connu pour utiliser sa vision aiguisée, s
 >
 >### Actions 
 >
->***Griffe.*** *Attaque d'Arme de Mêlée :* +6 pour toucher, portée 5 ft., une cible. *Touché :* 6 (1d4 + 4) dégâts tranchants.
+>***Griffe.*** *Attaque d'Arme de Mêlée :* +6 pour toucher, allonge 5 ft., une cible. *Touché :* 6 (1d4 + 4) dégâts tranchants.
 
 

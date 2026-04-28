@@ -42,7 +42,7 @@ Leur société est hiérarchisée et centrée sur la foi. Ils sont portés par u
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible.
 
-**Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
+**Résistance Vampirique.** Vous avez une résistance aux dégâts nécrotiques.
 
 **Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
 
@@ -80,7 +80,7 @@ Leur culture est un mélange de décadence raffinée et de survie brutale. Ils v
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible.
 
-**Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
+**Résistance Vampirique.** Vous avez une résistance aux dégâts nécrotiques.
 
 **Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
 

@@ -25,7 +25,7 @@ writing_status: finished
 >*_*
 >
 >### Actions
->***Frappe Occulte*** *Attaque de Sort de Mêlée ou à Distance :* +4 pour toucher, portée 5 ft. ou 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
+>***Frappe Occulte*** *Attaque de Sort de Mêlée ou à Distance :* +4 pour toucher, allonge 5 ft. ou 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
 >
 >***Incantation.*** Le cultiste lance l'un des sorts suivants, sans dépenser de composantes matérielles et en utilisant son Charisme comme caractéristiques d'incantation (DD de sauvegarde des sorts de 12) : 
 > - *À volonté :* [[Lumières Dansantes]], [[Main de Mage]], [[Illusion Mineure]]

@@ -21,7 +21,7 @@
 
 ***Arc Radiant (Vengeur)***. *Attaque armée à distance* : votre modificateur d'attaque de sort pour toucher, portée 150/600 ft., une cible. *Touché* : 2d6 + 2 + le niveau du sort dégâts radiants. 
 
-***Masse Radiante (Défenseur)***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, portée 5 ft., une cible. *Touché* : 1d10 + 3 + le niveau du sort dégâts radiants, et le céleste peut choisir lui ou une autre créature qu'il peut voir à 10 ft. de la cible. La créature choisie gagne 1d10 points de vie temporaire. 
+***Masse Radiante (Défenseur)***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, allonge 5 ft., une cible. *Touché* : 1d10 + 3 + le niveau du sort dégâts radiants, et le céleste peut choisir lui ou une autre créature qu'il peut voir à 10 ft. de la cible. La créature choisie gagne 1d10 points de vie temporaire. 
 
 ***Toucher Soignant (1/Jour)***. Le céleste touche une autre créature. La cible regagne magiquement 2d8 + le niveau du sort points de vie. 
 

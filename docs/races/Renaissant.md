@@ -66,7 +66,7 @@ Si vous ne possédez aucun de ces éléments de par votre race ou que vous chois
 
 **Nature Immortelle.** Vous avez échappé à la mort, un fait représenté par les effets suivants : 
 
- - Vous avez l'avantage aux jets de sauvegarde contre les maladies et la condition [[empoisonné]], ainsi que la résistance aux dégâts de poison.
+ - Vous obtenez l'avantage aux jets de sauvegarde contre les maladies et la condition [[empoisonné]], ainsi qu'une résistance aux dégâts de poison.
  - Vous avez l'avantage aux jets de sauvegarde contre la mort.
  - Vous n'avez pas besoin de manger, boire ou respirer.
  - Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un repos long en 4 heures si vous passez ces 4 heures dans un état d'inactivité et d'immobilité, pendant lequel vous n'êtes pas [[inconscient]].

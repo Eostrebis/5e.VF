@@ -25,7 +25,7 @@ writing_status: finished
 >*_*
 >
 >### Actions
->***Épée Longue.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants ou 7 (1d10 + 2) dégâts tranchants si utilisée à deux mains.
+>***Épée Longue.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants ou 7 (1d10 + 2) dégâts tranchants si utilisée à deux mains.
 >
 >***Javeline.*** *Attaque Armée à Distance :* +4 pour toucher, portée 30/120 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts perçants.
 >
@@ -42,4 +42,4 @@ Tant qu'il suit les ordres de son capitaine, le champion obtient les capacités 
 
 *Niveau 14.* **Augmentation de Caractéristiques.** La Force, la Dextérité ou la Constitution du champion augmente de 2, jusqu'à un maximum de 20. 
 
-*Niveau 18.* **Fougue (1/LR/SR).** Le champion peut utiliser deux actions ce tour.
+*Niveau 18.* **Fougue (1/LR/SR).** Le champion peut entreprendre deux actions ce tour.

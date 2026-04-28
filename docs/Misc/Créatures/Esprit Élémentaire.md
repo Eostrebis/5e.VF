@@ -23,7 +23,7 @@
 ### ACTIONS
 ***Attaques Multiples***. L'élémentaire réalise un nombre d'attaques égal à la moitié du niveau du sort (arrondi à l'inférieur). 
 
-***Frappe***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort au toucher, portée 1,50 m, une cible. *Touché* : 1d10 + 4 + le niveau du sort dégâts contondants (Air, Terre et Eau) ou de feu (Feu). 
+***Frappe***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort au toucher, allonge 1,50 m, une cible. *Touché* : 1d10 + 4 + le niveau du sort dégâts contondants (Air, Terre et Eau) ou de feu (Feu). 
 
 
 *_*

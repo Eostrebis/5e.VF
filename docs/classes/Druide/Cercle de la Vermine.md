@@ -7,7 +7,7 @@ Les druides du Cercle de la Vermine, parfois appelés seigneurs des vermines, pu
 
 À partir du niveau 2, vous pouvez dépenser une utilisation de votre Forme Sauvage pour une action pour invoquer magiquement un essaim de rat sur votre emplacement. L'essaim disparaît après un nombre de tours égal à la moitié de votre niveau de druide (arrondi à l'inférieur), s'il tombe à 0 point de vie ou si vous utilisez cette aptitude pour invoquer un nouvel essaim.
 
-L'essaim invoqué est amical envers vous et vos compagnons. Tirez l'initiative pour l'essaim invoqué, qui joue à son propre tour. Il obéit à tous les ordres verbaux que vous lui donnez (aucune action requise par vous). Si vous ne lui donnez aucun ordre, il se défend contre les créatures hostiles et ne prend aucune autre action.
+L'essaim invoqué est amical envers vous et vos compagnons. Tirez l'initiative pour l'essaim invoqué, qui joue à son propre tour. Il obéit à tous les ordres verbaux que vous lui donnez (aucune action requise par vous). Si vous ne lui donnez aucun ordre, il se défend contre les créatures hostiles et n'entreprend aucune autre action.
 
 Tant que l'essaim se trouve sur votre emplacement, vous avez un bonus de +2 à la CA et, lorsque vous subissez des dégâts, vous pouvez choisir que l'essaim les prenne à votre place.
 

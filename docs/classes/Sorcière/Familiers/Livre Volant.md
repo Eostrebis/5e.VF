@@ -32,4 +32,4 @@ Il y a peu de chose à dire sur le livre volant qui ne soit pas évident. Même 
 >**Fausse Apparence.** Tant que le livre volant est immobile, il n'est pas distinguable d'un livre normal.
  >*_*
 >### Actions
->***Écrasement.*** *Attaque d'Arme de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 1 dégât contondant.
+>***Écrasement.*** *Attaque d'Arme de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 1 dégât contondant.

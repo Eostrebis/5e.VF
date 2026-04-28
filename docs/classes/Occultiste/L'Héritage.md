@@ -45,10 +45,10 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Aura de Légende
 
-À partir du niveau 10, tant que vous êtes transformé, vous et toutes les créatures amicales à 30 ft. obtenez la résistance contre les dégâts du type de votre Force Reliquaire.
+À partir du niveau 10, tant que vous êtes transformé, vous et toutes les créatures amicales à 30 ft. obtenez une résistance contre les dégâts du type de votre Force Reliquaire.
 
 ## Patrimoine Final
 
-À partir du niveau 14, tant que vous êtes transformé, vous pouvez utiliser votre action pour commencer à charger le pouvoir de vos amis en une attaque ultime. Jusqu'au début de votre prochain tour, chaque créature amicale à moins de 10 ft. peut utiliser cette action pour aider votre charge. Au début de votre prochain tour, vous tirez un immense rayon de force long de 120 ft. et large de 5 ft. dans une direction de votre choix. Chaque créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort, prenant 10d10 dégâts de force en cas d'échec, et la moitié sinon. Les dégâts du rayon augmentent de 4d10 pour chaque créature qui a aidé votre charge, jusqu'à un maximum de 30d10 dégâts de force.
+À partir du niveau 14, tant que vous êtes transformé, vous pouvez utiliser votre action pour commencer à charger le pouvoir de vos amis en une attaque ultime. Jusqu'au début de votre prochain tour, chaque créature amicale à moins de 10 ft. peut utiliser cette action pour aider votre charge. Au début de votre prochain tour, vous tirez un immense rayon de force long de 120 ft. et large de 5 ft. dans une direction de votre choix. Chaque créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort, subissant 10d10 dégâts de force en cas d'échec, et la moitié sinon. Les dégâts du rayon augmentent de 4d10 pour chaque créature qui a aidé votre charge, jusqu'à un maximum de 30d10 dégâts de force.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.

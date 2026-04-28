@@ -147,7 +147,7 @@ Imprégné à la naissance ou marqué plus tard par les pouvoirs du Feu Élémen
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Résistance au Feu.** Vous avez la résistance aux dégâts de feu.
+**Résistance au Feu.** Vous avez une résistance aux dégâts de feu.
 
 **Magie Enflammée.** Vous connaissez le cantrip [[flamme]]. À compter du niveau 3, vous pouvez lancer le sort [[mains brûlantes]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[sphère enflammée]] avec ce trait, sans que cela requiert la composante matérielle. Une fois que vous avez lancé [[mains brûlantes]] ou [[sphère enflammée]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
@@ -161,7 +161,7 @@ Votre peuple métabolise en lézardant au soleil. Aidé par votre robuste peau c
 
 **Armure Naturelle.** Votre peau se comporte comme une armure naturelle. Lorsque vous ne portez pas d'amure, votre CA de base est égale à 12 + votre modificateur de Dextérité. Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous laisserait avec une CA inférieure. Vous bénéficiez toujours des effets d'un bouclier lorsque vous utilisez votre armure naturelle.
 
-**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer la condition [[empoisonné]] sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer la condition [[empoisonné]] sur vous-même. Vous avez aussi une résistancee aux dégâts de poison.
 
 ---
 
@@ -213,7 +213,7 @@ D'après les légendes, un humain peut atteindre l'immortalité en remplaçant s
 
 **Éternel.** Vous ne vieillissez pas, même magiquement, et ne souffrez d'aucun désavantage du vieil âge. Vous ne pouvez pas mourir de vieillesse.
 
-**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi une résistance aux dégâts de poison.
 
 ---
 

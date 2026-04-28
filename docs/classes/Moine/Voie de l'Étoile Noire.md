@@ -18,7 +18,7 @@ Au niveau 6, votre ki commence à se manifester autour de votre corps sous la fo
 
 ## Techniques Solaires
 
-Également au niveau 6, les ténèbres au sein de votre lame du vide s'agrandissent, vous conférant encore plus de pouvoir. Les dégâts de votre lame du vide sont désormais considérés comme magique pour ignorer la résistance et l'immunité aux dégâts non magiques. De plus, vous pouvez dépenser 2 points de ki pour lancer [[furie perturbée]], [[armure d'ombre]], [[sombre secret]] ou [[attrape-cœur]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 2 points de ki pour lancer les sorts conférés par les techniques du clair de lune comme s'ils étaient lancés avec un emplacement de sort de niveau 2.
+Également au niveau 6, les ténèbres au sein de votre lame du vide s'agrandissent, vous conférant encore plus de pouvoir. Les dégâts de votre lame du vide sont désormais considérés comme magique pour ignorer une résistance et l'immunité aux dégâts non magiques. De plus, vous pouvez dépenser 2 points de ki pour lancer [[furie perturbée]], [[armure d'ombre]], [[sombre secret]] ou [[attrape-cœur]] sans avoir à dépenser de composantes matérielles. Enfin, vous pouvez dépenser 2 points de ki pour lancer les sorts conférés par les techniques du clair de lune comme s'ils étaient lancés avec un emplacement de sort de niveau 2.
 
 ## Âme Ouverte
 

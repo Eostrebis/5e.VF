@@ -1,42 +1,60 @@
 ---
 writing_status: finished
 ---
-Que ce soit par une morsure infectée ou par une malédiction vicieuse, votre sang est marqué par la tache indélébile de la bestialité, la malédiction de lycanthropie. Une nouvelle forme, un vous primal, bestial gît sous votre peau, n'attendant que l'odeur de sang et l'adrénaline de la chasse pour émerger dans un terrible spectacle. Peut-être que, si vous évitez la violence du combat ou l'appel hypnotisant de la pleine lune, vous parviendrez à résister à cette pulsion lycanthropique. Ou bien peut-être, voyez-vous l'infection comme une bénédiction, une arme redoutable, avec des griffes pour déchiqueter et des crocs pour mordre.
+Lorsque les malfaiteurs se déchaînent et la ville appelle à la juste, des vigilantes se dressent. Enveloppés dans une personnalité grotesque, recouverts de capes, masques, collants ou autre combinaison, les vigilantes embarquent dans une croisade contre les vilains sous toutes les formes. Beaucoup de vigilantes représentent de réelles lueurs d'espoir, se défaisant de leurs ennemis avec des exploits martiaux et un véritable talent dramatique, tandis que d'autres se dépeignent comme de sombres anti-héros, ne vivant que pour eux-mêmes et cherchant une vengeance contre le monde criminel.
 
-## Changeforme
+## Magie Héroïque
 
-À partir du moment où vous choisissez cet archétype au niveau 3, votre corps est corrompu par une malédiction lycanthropique qui lutte pour s'échapper de vous en tout temps. Vous obtenez le sous-type *changeforme* ; votre forme véritable est celle d'un hybride fantomatique entre bête et homme. De plus, vous obtenez les traits suivants : 
+À partir du niveau 3, vous apprenez un sort supplémentaire lorsque vous atteignez certains niveaux dans cette classe, comme montré dans la table ci-dessous. Ce sort est considéré comme un sort de ranger pour vous mais ne compte pas le nombre de sorts de ranger que vous connaissez.
 
-**Vision dans le Noir.** Vous pouvez voir dans la lumière faible à 60 ft. comme si vous étiez en lumière vive, et dans l'obscurité comme si vous étiez en lumière faible. Vous ne pouvez discerner les couleurs dans l'obscurité, seulement les nuances de gris. Si vous possédez déjà une vision dans le noir de par votre race, celle-ci augmente de 30 ft.
+| Niveau de Ranger | Sort |
+| ---------------- | ------------------------------------ |
+| 3 | [[Bond]] |
+| 5 | [[Amélioration de caractéristiques]] |
+| 9 | [[Vol]] |
+| 13 | [[Sanctuaire Privé]] |
+| 17 | [[Passe-muraille]] |
 
-**Odorat Aiguisé.** Vous avez l'avantage aux jets de Sagesse (Perception) que vous effectuez se basant sur l'odorat.
+## Personnalité Masquée
 
-## Aspect Bestial
+Au niveau 3, vous incarnez un alter ego costumé pour masquer votre véritable identité lorsque vous combattez le crime. Tant que vous portez un masque ou un costume, votre CA devient 10 + votre modificateur de Dextérité + votre modificateur de Sagesse.
 
-Au niveau 3, lorsque du sang coule, vous perdez petit à petit contrôle et commencez à transitionner vers votre forme bestiale, vorace et affamée de carnage. À chaque fois que vous subissez des dégâts ou que vous en infligez à une créature hostile avec une attaque, ajouter ces déjà dégâts ensemble ; c'est votre réservoir de dégâts. Vous obtenez un bonus à vos jets de dégâts, ainsi que de nouvelles aptitudes bestiales, en fonction de votre réservoir de dégâts, comme indiqué dans la table ci-dessous. Après 1 minute sans subir ni infliger de dégâts, réinitialisez votre réservoir de dégâts à 0.
+| d8 | Costume |
+| --- | une résistance---------------------------------------------------------------------------- |
+| 1 | Masque Loup |
+| 2 | Un gimmick animal |
+| 3 | Une combinaison honteusement moulante |
+| 4 | Un accessoire, comme une paire de lunettes, qui ne camoufle pas efficacement votre visage |
+| 5 | Des casseroles et poêles, faisant de vous un golem de fer |
+| 6 | Rien, hormis un vêtement par pudeur |
+| 7 | Des vêtements normaux, fluo |
+| 8 | Une cape du plus bel effet dramatique et une capuche du même impact |
+## Combat Rapproché
 
-| Réservoir de Dégâts | Bonus de Dégâts | Aptitude |
-| ------------------- | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 0 | -- | -- |
-| 10 | +2 | Vous voyez pousser des griffes aiguisées, armes naturelles pouvant être utilisée pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts tranchants. Vos griffes sont considérées comme magiques vis-à-vis des résistances et immunités aux dégâts et attaques non magiques. |
-| 20 | +2 | Vous obtenez la résistance aux dégâts contondants, perçants et tranchants non magiques ne venant pas de sources en argent. |
-| 30 | +2 | Votre vitesse de marche augmente de 10 ft. |
-| 40 | +3 | Vous obtenez vision aveugle sur 10 ft. |
-| 50 | +3 | Vous obtenez une vitesse d'escalade égale à votre vitesse de marche. |
-| 70 | +3 | Votre vitesse de marche augmente de 10 ft. supplémentaires (20 ft. au total) |
-| 100 | +3 | Vos griffes infligent 1d6 dégâts tranchants supplémentaires lorsque vous touchez. |
-## Fureur Lupicide
+Au niveau 3, vous avez appris à vous battre en n'utilisant rien d'autre que vos poings et une série de "Pows" et "Blam". Vous bénéficiez des effets suivants lorsque vous ne portez aucune armure ou seulement une armure légère.
 
-À partir du niveau 7, vous pouvez vous laisser aller dans une furie lycanthropique. Pour une action bonus, lancez 4d6 et ajoutez le total à votre réservoir de dégâts.
+ - Vous pouvez utiliser votre Dextérité plutôt que votre Force pour les jets d'attaque et de dégâts de vos attaques à mains nues.
+ - Vos attaques à mains nues infligent des dégâts améliorés comme indiqué dans la table ci-dessous.
+ - Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez utiliser votre action bonus pour ajouter un dé d'attaque à mains nues supplémentaire au jet de dégâts.
 
-Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
+| Niveau de Ranger | Dégâts d'Attaque à Mains Nues |
+| ---------------- | ----------------------------- |
+| 3 | 1d6 |
+| 5 | 1d8 |
+| 11 | 1d10 |
+| 17 | 1d12 |
+À partir du niveau 7, vos attaques à mains nues sont considérés magiques vis-à-vis des résistances et immunités aux attaques et dégâts non magiques.
 
-## Carnage Hurlant
+## Grenade Aveuglante
 
-À partir du niveau 11, lorsque votre réservoir de dégâts dépasse 50, vous pouvez attaquer trois fois avec vos griffes, plutôt que deux, lorsque vous utilisez votre action pour Attaquer pendant votre tour.
+À partir du niveau 7, vous avez sur vous un certain nombre de bombes aveuglantes pour faciliter vos fuites et vos entrées dramatiques. Pour une action bonus, vous pouvez lancer une bombe sonnante à vos pieds, désorientant et distrayant les ennemis proches. Chaque créature à 5 ft. de vous ne peut utiliser de réactions jusqu'au début de son prochain tour.
 
-## Soif de Sang Intarissable
+## Bim ! Bam ! Boum !
 
-Au niveau 15, même la mort ne peut retenir votre transformation. Lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez choisir de finir à 1 point de vie plutôt. Ajoutez les dégâts totaux que vous devriez avoir subis à votre réservoir de dégâts. 
+À partir du niveau 11, vous pouvez vous déchaîner en une furie de poings au nom de la justice ! À chaque fois que vous réalisez une attaque à mains nues pendant votre tour, vous pouvez choisir de réaliser deux attaques à mains nues avec le désavantage. Ces attaques ont toujours le désavantage, peu importe les circonstances. 
 
-Une fois que vous avez utilisé cette capacité, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+## Rengaine !
+
+Au niveau 15, votre rengaine personnelle a atteint des niveaux surnaturels de cliché. Vous pouvez prononcer votre rengaine lorsque vous touchez une créature avec un jet d'attaque, battez une créature sur un jet challengé de Force, Dextérité ou Constitution ou lorsque vous réussissez un jet de sauvegarde. Jusqu'au début de votre prochain tour, vous obtenez une résistancee à tous les dégâts et pouvez ajouter votre modificateur de Sagesse à vos jets de dégâts.
+
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous fassiez un coup critique contre une créature hostile ou que vous ne terminiez un repos.

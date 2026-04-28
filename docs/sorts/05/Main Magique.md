@@ -16,7 +16,7 @@ Rituel: false
 englishname: Arcane Hand
 writing_status: empty
 ---
-Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pour la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
+Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pendant la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
 
 La main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 points de vie, le sort termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.
 
@@ -30,4 +30,4 @@ Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours
 
 **Main Protectrice.** La main s'interpose entre vous et une créature que vous choisissez jusqu'à ce que vous donniez à la main un ordre différent. La main vouge pour rester entre vous et la cible, vous fournissant une couverture partielle contre la cible. La cible ne peut pas traverser l'espace de la main si son score de Force est inférieur ou égal à celui de la main. Si son score est supérieur, elle peut traverser l'espace de la main, mais c'est un terrain difficile pour elle.
 
-**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 6 ou plus, les dégâts du poing serré augmentent de 2d8 et ceux de la main saisissante de 2d6 pour chaque niveau d'emplacement au delà du niveau 5.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 6 ou plus, les dégâts du poing serré augmentent de 2d8 et ceux de la main saisissante de 2d6 pour chaque niveau d'emplacement au-delà du niveau 5.

@@ -31,6 +31,6 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos pou
 
 Au niveau 14, votre héroïsme est sans limite. Les aptitudes de cette sous-classe bénéficient des effets suivants : 
 
- - Tant qu'une créature a des points de vie temporaires conférés par l'aptitude [[#Exposer la Loi]], elle a la résistance aux dégâts contondants, tranchants et perçants.
+ - Tant qu'une créature a des points de vie temporaires conférés par l'aptitude [[#Exposer la Loi]], elle obtient une résistance aux dégâts contondants, tranchants et perçants.
  - La portée de votre Aura Féroce s'étend à 30 ft.
  - Vous pouvez regagner une utilisation de Viser Plus Haut en dépensant un dé de risque pour une action bonus.

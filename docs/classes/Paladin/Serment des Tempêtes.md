@@ -44,7 +44,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Âme Tempétueuse
 
-À partir du niveau 15, vous avez la résistance aux dégâts de foudre.
+À partir du niveau 15, vous obtenez une résistancee aux dégâts de foudre.
 
 De plus, lorsqu'une créature que vous pouvez voir à 5 ft. vous touche avec une attaque de mêlée, elle subit un nombre de dégâts de foudre égal à votre modificateur de Charisme.
 ## Dieu du Tonnerre

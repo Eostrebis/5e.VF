@@ -8,7 +8,7 @@ Humain qui a vécu si longtemps qu'il a fini par glisser entre la vie et la mort
 # Aptitudes
 
 ## Empathie Tombale
-Les morts-vivants ressentent instinctivement votre proximité avec ceux de leur espèce. À chaque fois qu'un mort-vivant essaye de vous attaquer, il doit réussir un jet de sauvegarde de Sagesse. S'il rate, l'attaque échoue. S'il réussit, il est immunisé contre cet effet pour 24 heures.
+Les morts-vivants ressentent instinctivement votre proximité avec ceux de leur espèce. À chaque fois qu'un mort-vivant essaye de vous attaquer, il doit réussir un jet de sauvegarde de Sagesse. S'il rate, l'attaque échoue. S'il réussit, il est immunisé contre cet effet pendant 24 heures.
 
 ## Berger des Cadavres
 Vous pouvez réaliser un rituel de 10 minutes afin d'invoquer un corps humanoïde de taille M ou un tas d'os (votre choix), qui est téléporté magiquement à vos pieds depuis un cimetière aléatoire.

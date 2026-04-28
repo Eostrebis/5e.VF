@@ -24,7 +24,7 @@ Au niveau 2, vous obtenez l'aptitude d'utiliser votre Forme Sauvage pendant votr
 
 ## Aura Primordiale
 
-Au niveau 10, vous pouvez utiliser votre action bonus pour créer une aura de 30 ft. de magie élémentaire. Choisissez un type de dégâts : acide, froid, feu, foudre ou poison. Pendant la prochaine minute, vous et toutes les créatures que vous choisissez à l'intérieur de l'aura ont la résistance contre le type de dégâts choisi. De plus, une fois à chacun de vos tours pendant cette durée, lorsque vous infligez des dégâts du type choisi à une créature hostile, vous pouvez choisir une créature dans l'aura afin qu'elle regagne un nombre de points de vie égal à 1d10 + votre modificateur de Sagesse.
+Au niveau 10, vous pouvez utiliser votre action bonus pour créer une aura de 30 ft. de magie élémentaire. Choisissez un type de dégâts : acide, froid, feu, foudre ou poison. Pendant la prochaine minute, vous et toutes les créatures que vous choisissez à l'intérieur de l'aura obtiennent une résistance contre le type de dégâts choisi. De plus, une fois à chacun de vos tours pendant cette durée, lorsque vous infligez des dégâts du type choisi à une créature hostile, vous pouvez choisir une créature dans l'aura afin qu'elle regagne un nombre de points de vie égal à 1d10 + votre modificateur de Sagesse.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 

@@ -24,7 +24,7 @@
 ### ACTIONS
 ***Attaques Multiples***. La bête réalise un nombre d'attaques égal à la moitié du niveau de ce sort (arrondi à l'inférieur). 
 
-***Perforation***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, portée 5 ft., une cible. *Touché* : 1d8 + 4 + le niveau du sort dégâts perforants. 
+***Perforation***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, allonge 5 ft., une cible. *Touché* : 1d8 + 4 + le niveau du sort dégâts perforants. 
 
 
 *_*

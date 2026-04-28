@@ -34,7 +34,7 @@ Au niveau 1, à chaque fois que vous effectuez un jet de caractéristique qui n'
 
 ## Esprit Fragmenté
 
-Au niveau 6, votre esprit brisé est difficile à influencer. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer la condition [[charmé]] ou [[apeuré]] sur vous-même, et aux jets de sauvegarde contre les effets qui devraient détecter vos émotions ou lire vos pensées. Si vous passez 10 minutes à discuter avec une autre créature, vous pouvez lui conférer cet effet pour 1 heure, alors qu'elle succombe à votre chemin de pensée tortueux.
+Au niveau 6, votre esprit brisé est difficile à influencer. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer la condition [[charmé]] ou [[apeuré]] sur vous-même, et aux jets de sauvegarde contre les effets qui devraient détecter vos émotions ou lire vos pensées. Si vous passez 10 minutes à discuter avec une autre créature, vous pouvez lui conférer cet effet pendant 1 heure, alors qu'elle succombe à votre chemin de pensée tortueux.
 
 ## Incantation Puissante
 

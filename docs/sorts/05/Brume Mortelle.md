@@ -17,7 +17,7 @@ Rituel: false
 englishname: Cloudkill
 writing_status: finished
 ---
-Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pour la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
+Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
 
 Lorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit effectuer un jet de sauvegarde de Constitution. La créature subit 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.
 

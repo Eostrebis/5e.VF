@@ -45,7 +45,7 @@ Au niveau 11, le pouvoir de votre esprit draconique irradie de vous, protégeant
 
 **Présence Effrayante.** Lorsque vous créez cette aura, et pour une action bonus pendant vos prochains tours, vous pouvez choisir une créature dans l'aura. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour tenter de terminer l'effet.
 
-**Résistance.** Choisissez un type de dégâts lorsque vous activez cette aura : acide, froid, feu, foudre ou poison. Vous et vos alliés dans l'aura ont la résistance contre ces dégâts.
+**Résistance.** Choisissez un type de dégâts lorsque vous activez cette aura : acide, froid, feu, foudre ou poison. Vous et vos alliés dans l'aura obtiennent une résistance contre ces dégâts.
 
 Une fois que vous avez créé cette aura, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long, ou dépensiez 3 poins de ki.
 

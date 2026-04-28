@@ -8,4 +8,4 @@ writing_status: finished
 
 | Dégâts | Propriétés |
 | ------------- | ---------------------------- |
-| 1d10 perçants | Lourde, Portée, À deux mains |
+| 1d10 perçants | Lourde, Allonge, À deux mains |

@@ -41,7 +41,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 ## Eaux Tempétueuses
 
-Au niveau 15, vous pouvez faire appel aux forces des mers agitées comme réaction lorsqu'une créature rentre ou sort de votre portée. La créature subit 1d12 dégâts contondants et doit réussir un jet de sauvegarde de Force ou être mise [[au sol]].
+Au niveau 15, vous pouvez faire appel aux forces des mers agitées comme réaction lorsqu'une créature rentre ou sort de votre allonge. La créature subit 1d12 dégâts contondants et doit réussir un jet de sauvegarde de Force ou être mise [[au sol]].
 
 ## Bretteur des Légendes
 

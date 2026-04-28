@@ -29,7 +29,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Expédition Étrangère
 
-Au niveau 6, en voyageant, vous et jusqu'à 10 créatures voyageant avec vous vous déplacez avec une facilité surnaturelle. Vous voyagez toujours à un rythme soutenu et ignorez les délais causés par du terrain difficile, la météo ou d'autres obstacles non magiques. Vous ignorez de la même façon les dangers provoqués par les voyages vers d'autres plans. De plus, vous pouvez voyager pour 12 heures plutôt que 8 avant de devoir effectuer un jet de sauvegarde Constitution de marche forcée.
+Au niveau 6, en voyageant, vous et jusqu'à 10 créatures voyageant avec vous vous déplacez avec une facilité surnaturelle. Vous voyagez toujours à un rythme soutenu et ignorez les délais causés par du terrain difficile, la météo ou d'autres obstacles non magiques. Vous ignorez de la même façon les dangers provoqués par les voyages vers d'autres plans. De plus, vous pouvez voyager pendant 12 heures plutôt que 8 avant de devoir effectuer un jet de sauvegarde Constitution de marche forcée.
 
 Enfin, vous n'êtes pas concerné par le terrain difficile.
 

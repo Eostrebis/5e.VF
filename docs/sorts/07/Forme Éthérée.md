@@ -21,7 +21,7 @@ Rituel: false
 englishname: Etherealness
 writing_status: empty
 ---
-Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pour la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
+Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pendant la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
 
 Tant que vous êtes sur le Plan Éthéré, vous ne pouvez affecter et n'être affecté que par des créatures sur ce plan. Les créatures qui ne sont pas sur le Plan Éthéré ne vous perçoivent pas et ne peuvent pas interagir avec vous, sauf si une aptitude ou une magie particulière leur en donne la compétence.
 
@@ -31,4 +31,4 @@ Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origi
 
 Le sort n'a aucun effet si vous le lancez tant que vous êtes sur le Plan Éthéré ou sur un plan qui ne lui est pas frontalier, comme un des Plans Extérieurs.
 
-**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez cibler jusqu'à 3 créatures consentantes (dont vous) par niveau d'emplacement de sort au delà du niveau 7. Ces créatures doivent être à 10 ft. de vous lorsque vous lancez le sort.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez cibler jusqu'à 3 créatures consentantes (dont vous) par niveau d'emplacement de sort au-delà du niveau 7. Ces créatures doivent être à 10 ft. de vous lorsque vous lancez le sort.

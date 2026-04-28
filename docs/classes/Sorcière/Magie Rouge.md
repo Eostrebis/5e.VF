@@ -19,7 +19,7 @@ Lorsque vous choisissez cet art au niveau 3, vous savez comment retirer à un en
 
 ## Énergie Enroulée
 
-Au niveau 6, lorsque vous lancez un sort qui inflige des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous gagnez la résistance à ce type de dégâts jusqu'à la fin de votre prochain tour.
+Au niveau 6, lorsque vous lancez un sort qui inflige des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous obtenez une résistance à ce type de dégâts jusqu'à la fin de votre prochain tour.
 
 ## Invulnérabilité
 

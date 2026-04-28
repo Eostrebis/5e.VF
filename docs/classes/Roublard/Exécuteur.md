@@ -15,7 +15,7 @@ Lorsque vous choisissez cet archétype au niveau 3, vous obtenez la maîtrise de
 
 Au niveau 9, lorsque vous réalisez une attaque, vous pouvez repousser la cible pour une action bonus. Si vous réussissez, vous pouvez repousser la créature de 15 ft. plutôt que 5 ft.
 
-De plus, si vous réalisez une attaque avec une attaque avec [[Propriétés d'Arme#Portée|portée]], vous pouvez utiliser une action bonus pour réaliser une tentative de poussée à l'envers, attirant la cible vers vous en cas de réussite.
+De plus, si vous réalisez une attaque avec une attaque avec [[Propriétés d'Arme#Allonge|Allonge]], vous pouvez utiliser une action bonus pour réaliser une tentative de poussée à l'envers, attirant la cible vers vous en cas de réussite.
 
 ## Comportement Menaçant
 

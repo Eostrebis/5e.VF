@@ -35,4 +35,4 @@ writing_status: finished
 >### Actions
 >***Attaques Multiples.*** Le golem alchimique réalise deux attaques d'arme de mêlée. 
 >
->***Slam.*** *Attaque d'Arme de Mêlée :* +6 pour toucher, portée 5 ft., une cible. *Touché :* 12 (2d8 + 3) dégâts contondants.
+>***Slam.*** *Attaque d'Arme de Mêlée :* +6 pour toucher, allonge 5 ft., une cible. *Touché :* 12 (2d8 + 3) dégâts contondants.

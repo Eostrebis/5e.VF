@@ -15,7 +15,7 @@ Rituel: false
 englishname: Corruption Curse
 writing_status: empty
 ---
-En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pour la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
+En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pendant la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
 
 **Réflexes d'une Huître.** La cible a le désavantage aux jets de Dextérité.
 

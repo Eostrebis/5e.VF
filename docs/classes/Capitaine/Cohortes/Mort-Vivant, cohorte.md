@@ -27,7 +27,7 @@ writing_status: finished
 >*_*
 >
 >### Actions
->***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
+>***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
 
 ### Aptitudes de Cohorte
 

@@ -52,8 +52,8 @@ Cette arme est normalement utilisée attachée à un trépied ou un véhicule. V
 #### Parure
 Tant que vous maniez cette arme et pas de bouclier, vous obtenez un bonus de +1 à la CA.
 
-#### Portée
-Cette arme ajoute 5 ft. à votre portée lorsque vous attaquez avec, ainsi qu'à la portée utilisée pour déterminer les attaques d'opportunité.
+#### Allonge
+Cette arme ajoute 5 ft. à votre allonge lorsque vous attaquez avec, ainsi qu'à la portée utilisée pour déterminer les attaques d'opportunité.
 
 #### Rechargement
 Cette arme peut être utilisée pour réaliser un nombre d'attaques avant d'être rechargée. Si vous maîtrisez l'arme, recharger vous prend une action bonus. Certaines armes demandent une action ou plus pour recharger, même si vous la maîtrisez. Si recharger une arme demande plus qu'une action, vous ne pouvez pas réaliser d'attaque avec avant que le rechargement ne soit fini.
@@ -92,10 +92,10 @@ Cette arme requiert deux mains pour être utilisée.
 Une arme polyvalente peut être utilisée avec une ou deux mains. Les dégâts entre parenthèses indiquent les dégâts lorsque l'arme est utilisée à deux mains
 
 #### Jambette
-Vous pouvez essayer de Pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous effectuez pour pousser une créature avec cette arme.
+Vous pouvez essayer de Pousser une créature dans l'allonge de cette arme. De plus, vous avez l'avantage aux jets que vous effectuez pour pousser une créature avec cette arme.
 
 #### Précision
 Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible subit 1d6 dégâts supplémentaires.
 
 #### Tirs Jumeaux
-Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à portée de cette arme.
+Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à allonge de cette arme.

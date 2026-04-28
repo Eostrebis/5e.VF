@@ -253,7 +253,7 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
+**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez une résistance aux dégâts de froid.
 
 **Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
 
@@ -291,10 +291,10 @@ Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Giso
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Résistance Nécrotique.** Vous avez la résistance aux dégâts nécrotiques.
+**Résistance Nécrotique.** Vous avez une résistance aux dégâts nécrotiques.
 
 **Bénédiction de la Reine Corbeau.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.
-À partir du niveau 3, vous gagnez également la résistance à tous les dégâts lorsque vous vous téléportez en utilisant ce trait. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique.
+À partir du niveau 3, vous gagnez obtenez une résistance à tous les dégâts lorsque vous vous téléportez en utilisant ce trait. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique.
 
 ## Elfe Astral
 

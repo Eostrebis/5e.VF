@@ -126,7 +126,7 @@ En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes ré
 
 **Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
 
-**Résistance des Robustes.** Vous obtenez un avantage aux jets de sauvegarde contre le poison et la résistance contre les dégâts de poison.
+**Résistance des Robustes.** Vous avez un avantage aux jets de sauvegarde contre le poison et une résistancee contre les dégâts de poison.
 
 ## Halfelin sagespectre
 

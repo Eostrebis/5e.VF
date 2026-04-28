@@ -76,7 +76,7 @@ Les drakéïdes avec un héritage chromatique revendiquent le pouvoir élémenta
 **Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance chromatique.
+**Résistance Draconique.** Vous obtenez une résistance aux dégâts du type associé à votre ascendance chromatique.
 
 **Protection Chromatique.** À partir du niveau 5, vous pouvez dépenser une action pour canaliser votre énergie draconique afin de vous protéger. Pendant 1 minute, vous devenez immunisé aux dégâts du type associé à votre ascendance chromatique. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le refaire tant que vous n'avez pas fini un repos long.
 
@@ -112,7 +112,7 @@ Les drakéïdes diamantins sont héritiers des dragons diamantins, et se revendi
 **Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance diamantine.
+**Résistance Draconique.** Vous obtenez une résistance aux dégâts du type associé à votre ascendance diamantine.
 
 **Esprit Psionique.** Vous pouvez envoyer des messages télépathiques à n'importe quelle créature que vous pouvez voir à moins de 30 ft. Vous n'avez pas besoin d'avoir un langage en commun avec la créature pour qu'elle puisse comprendre les messages, mais elle doit pouvoir comprendre au moins un langage.
 
@@ -150,7 +150,7 @@ Les drakéïdes avec un héritage métallique profitent de la ténacité des dra
 **Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance métallique.
+**Résistance Draconique.** Vous obtenez une résistance aux dégâts du type associé à votre ascendance métallique.
 
 **Souffle Métallique.** À partir du niveau 5, vous gagnez un second souffle. Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde (DC = 8 + CON mod. + Prof.). À chaque utilisation du trait, choisissez un parmi :
  

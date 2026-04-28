@@ -28,7 +28,7 @@ Les hommes-lézard disposent d'écailles colorées et affichent une grande vari�
 
 **Morsure.** Votre gueule à crocs est une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez, vous infligez un nombre de dégâts tranchants égal à 1d6 + votre modificateur de Force plutôt que les dégâts contondants habituels.
 
-**Apnée.** Vous pouvez retenir votre respiration pour 15 minutes.
+**Apnée.** Vous pouvez retenir votre respiration pendant 15 minutes.
 
 **Gueule Affamée.** Vous pouvez laisser libre cours à une furie affamée. Pour une action bonus, vous pouvez réaliser une attaque spéciale avec votre Morsure. Si vous touchez, vous infligez les dégâts normaux et vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

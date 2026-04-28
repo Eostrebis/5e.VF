@@ -25,7 +25,7 @@ De plus, vous apprenez le cantrip [[thaumaturgie]], qui est considéré comme un
 
 Également au niveau 3, vous pouvez canaliser votre pseudo-divinité pour alimenter des effets magiques. Vous commencez avec un effet : Ankh Radiant. Lorsque vous utilisez votre Canal Divin, vous choisissez quel effet créer. Vous devez alors terminer un repos avant de pouvoir utiliser à nouveau votre Canal Divin. De plus, vous pouvez dépenser 15 points de Toucher Charnel et une action pour regagner une utilisation dépensée de votre Canal Divin.
 
-**Ankh Radiant.** Pour une action, vous pouvez brandir votre symbole sacré et bénir un nombre de créatures consentantes jusqu'à votre modificateur d'Intelligence que vous pouvez voir à 60 ft. avec une radiance sacrée, qui dure 1 minute. La première fois qu'une créature bénie subit des dégâts, elle a la résistance à cette instance de dégâts. Si ces dégâts étaient originaires d'une attaque armée de mêlée, l'attaquant subit 1d6 dégâts radiants. La bénédiction se termine alors pour la créature.
+**Ankh Radiant.** Pour une action, vous pouvez brandir votre symbole sacré et bénir un nombre de créatures consentantes jusqu'à votre modificateur d'Intelligence que vous pouvez voir à 60 ft. avec une radiance sacrée, qui dure 1 minute. La première fois qu'une créature bénie subit des dégâts, elle obtient une résistance à cette instance de dégâts. Si ces dégâts étaient originaires d'une attaque armée de mêlée, l'attaquant subit 1d6 dégâts radiants. La bénédiction se termine alors pour la créature.
 
 Les dégâts augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (4d6).
 

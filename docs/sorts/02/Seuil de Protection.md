@@ -1,16 +1,16 @@
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Sorcière
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Une once de sel pour chaque pied du périmètre protégé
+detailmat: 30 grammes de sel pour chaque pied du périmètre protégé
 Duree: 10 Minutes
 Incantation: 1 Action
 Portee: Contact

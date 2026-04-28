@@ -7,7 +7,7 @@ Les barbares qui se reposent sur leurs gardiens ancestraux se battent plus aisé
 
 ## Protecteurs Ancestraux
 
-A partir du moment où vous choisissez cette voie au niveau 3, des guerriers spectraux apparraissent autour de vous lorsque vous entrez en rage. Tant que vous ragez, la première créature qui vous touche avec une attaque chaque tour devient la cible des guerriers, ce qui la gêne pendant ses attaques. Jusqu'au début de votre prochain tour, la cible a le désavantage sur tous ses jets d'attaque qui ne sont pas contre vous, et lorsque la cible touche une créature autre que vous avec une attaque, la créature a la résistance aux dégâts infligés par cette attaque. L'effet se termine prématurément sur la cible si votre rage se termine.
+A partir du moment où vous choisissez cette voie au niveau 3, des guerriers spectraux apparraissent autour de vous lorsque vous entrez en rage. Tant que vous ragez, la première créature qui vous touche avec une attaque chaque tour devient la cible des guerriers, ce qui la gêne pendant ses attaques. Jusqu'au début de votre prochain tour, la cible a le désavantage sur tous ses jets d'attaque qui ne sont pas contre vous, et lorsque la cible touche une créature autre que vous avec une attaque, la créature obtient une résistance aux dégâts infligés par cette attaque. L'effet se termine prématurément sur la cible si votre rage se termine.
 
 ## Bouclier Spirituel
 

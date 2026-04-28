@@ -65,6 +65,6 @@ Au niveau 20, pour une action bonus, vous devenez l'incarnation même de la forc
 
  - Au début de chacun de vos tours, chaque créature de votre choix dans un rayon de 30 ft. (vous y compris) regagne un nombre de points de vie égal à votre modificateur de Charisme et gagne un nombre de points de vie temporaires également égal à votre modificateur de Charisme.
  - Pour une action bonus, vous pouvez lancer le sort [[retour à la vie]] même sans l'avoir préparé et sans dépenser d'emplacement de sort (les composantes sont néanmoins toujours requises).
- - À chaque fois qu'une créature à 30 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour lui conférer la résistance à ces dégâts.
+ - À chaque fois qu'une créature à 30 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour lui conférer une résistance à ces dégâts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

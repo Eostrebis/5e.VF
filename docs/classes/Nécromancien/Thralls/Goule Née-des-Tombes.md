@@ -28,4 +28,4 @@ Les goules nées-des-tombes, qui sont imprégnées de terribles énergies nécro
 > **Régénération.** La goule née-des-tombes regagne 5 points de vie au début de chacun de ses tours. Si la goule subit des dégâts de feu ou radiants, ce trait ne fonctionne pas au début du prochain tour de la goule. La goule ne meurt que si elle commence son tour à 0 point de vie et ne régénère pas. 
 >
 >### Actions
->***Griffes.*** *Attaque Armée de Mêlée :* +6 pour toucher, portée 5 ft., une cible. *Touché :* 18 (4d6 +4) dégâts tranchants.
+>***Griffes.*** *Attaque Armée de Mêlée :* +6 pour toucher, allonge 5 ft., une cible. *Touché :* 18 (4d6 +4) dégâts tranchants.

@@ -122,7 +122,7 @@ Lorsque qu'un allié se trouvant à 5 pieds de vous est touché par une attaque,
 
 - **Sur un 1 :** Vous subissez le double des dégâts. Le pari est totalement perdu.
 - **Sur un 2 :** Vous subissez les dégâts normalement.
-- **Sur un 3-5 :** Vous avez la résistance à cette instance de dégâts.
+- **Sur un 3-5 :** Vous obtenez une résistance à cette instance de dégâts.
 - **Sur un 6 :** Votre détermination vous a rendu le cuir plus dur que l'acier. Vous ne subissez aucun dégât.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées après un repos long.

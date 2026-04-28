@@ -31,7 +31,7 @@ Lorsque vous choisissez cette voie au niveau 3, vous acquérez la capacité de p
 
 ## Sans Entraves, Déchaîné, Libéré
 
-À partir du niveau 6, la puissance écrasante de votre transformation vous rend inarrêtable, même face à l'extinction. Vous ne pouvez pas être [[sonné]] ou [[retenu]] tant que vous êtes sous les effets de la Métamorphose Occulte. Si vous êtes [[retenu]] lorsque vous entamez une Métamorphose Occulte, l'effet est suspendu pour la durée de la rage.
+À partir du niveau 6, la puissance écrasante de votre transformation vous rend inarrêtable, même face à l'extinction. Vous ne pouvez pas être [[sonné]] ou [[retenu]] tant que vous êtes sous les effets de la Métamorphose Occulte. Si vous êtes [[retenu]] lorsque vous entamez une Métamorphose Occulte, l'effet est suspendu pendant la durée de la rage.
 
 De plus, se déplacer dans un terrain difficile ne vous coûte pas de mouvement supplémentaire tant que vous êtes sous les effets de la Métamorphose Occulte.
 

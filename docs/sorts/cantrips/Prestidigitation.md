@@ -26,7 +26,7 @@ Ce sort est un léger tour de magie que les lanceurs de sorts novices utilisent 
  - Vous créez un effet sensoriel instantané et inoffensif, comme une pluie d'étincelles, un souffle de vent, quelques notes de musiques ou une odeur inhabituelle.
  - Vous allumez ou éteignez instantanément une bougie, une torche ou un feu de camp.
  - Vous nettoyez ou salissez instantanément un objet qui occupe un volume inférieur à un cube de 1 ft. de côté.
- - Vous réchauffez, refroidissez ou parfumez un cube de 1 ft. de matériaux non vivants pour 1 heure.
+ - Vous réchauffez, refroidissez ou parfumez un cube de 1 ft. de matériaux non vivants pendant 1 heure.
  - Vous faites apparaître une couleur, une petite marque ou un symbole sur une surface ou un objet pendant 1 heure.
  - Vous créez une babiole non magique ou une image illusoire qui tient dans votre main et qui dure jusqu'à la fin de votre prochain tour.
 

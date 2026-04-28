@@ -36,7 +36,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 ## Aura d'Investissement
 
-À partir du niveau 7, vous êtes entouré d'une aura de 10 ft. de bénéfices mutuels. Lorsque vous ou une créature alliée gagne des points de vie temporaires tout en étant dans l'aura, toutes les autres créatures alliées dans l'aura (y compris vous) gagnent le même nombre de points de vie temporaires qui persistent pour la même durée. Cet effet ne peut conférer à une créature plus de deux fois votre modificateur de Charisme de points de vie temporaires en une fois.
+À partir du niveau 7, vous êtes entouré d'une aura de 10 ft. de bénéfices mutuels. Lorsque vous ou une créature alliée gagne des points de vie temporaires tout en étant dans l'aura, toutes les autres créatures alliées dans l'aura (y compris vous) gagnent le même nombre de points de vie temporaires qui persistent pendant la même durée. Cet effet ne peut conférer à une créature plus de deux fois votre modificateur de Charisme de points de vie temporaires en une fois.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 

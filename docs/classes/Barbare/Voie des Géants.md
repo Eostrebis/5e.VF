@@ -12,7 +12,7 @@ Lorsque vous choisissez cette voie au niveau 3, vous apprenez à parler, lire et
 Au niveau 3, votre rage tire sa force de la puissance primale des géants, vous transformant en une force inarrêtable de destruction. Tant que vous ragez, vous bénéficiez des effets suivants :
 
  - **Jet Écrasant.** Lorsque vous réalisez une attaque armée avec une arme de jet qui utilise la Force, vous pouvez ajouter votre bonus de Dégâts de Rage au jet de dégâts de l'attaque.
- - **Stature Géante.** Votre portée augmente de 5 ft et, si vous êtes de taille inférieure à G, vous devenez Grand, ainsi que tout ce que vous portez. S'il n'y a pas assez de place pour que vous augmentiez votre taille, cette dernière ne change pas.
+ - **Stature Géante.** Votre allonge augmente de 5 ft et, si vous êtes de taille inférieure à G, vous devenez Grand, ainsi que tout ce que vous portez. S'il n'y a pas assez de place pour que vous augmentiez votre taille, cette dernière ne change pas.
 
 ## Fendeur Élémentaire
 
@@ -24,13 +24,13 @@ Tant que vous ragez et que vous tenez l'arme imprégnée, vous pouvez utiliser v
 
 ## Poussée Puissante
 
-Au niveau 10, votre connexion avec la force des géants vous permet de propulser alliés comme ennemis à travers le champ de bataille. Pour une action bonus alors que vous ragez, vous pouvez choisir une créature de taille M ou inférieure dans votre portée et la déplacer vers un espace inoccupé que vous pouvez voir à 30 ft. Une créature non consentante doit réussir un jet de sauvegarde de Force (8 + votre bonus de maîtrise + votre modificateur de Force) pour l'éviter.
+Au niveau 10, votre connexion avec la force des géants vous permet de propulser alliés comme ennemis à travers le champ de bataille. Pour une action bonus alors que vous ragez, vous pouvez choisir une créature de taille M ou inférieure dans votre allonge et la déplacer vers un espace inoccupé que vous pouvez voir à 30 ft. Une créature non consentante doit réussir un jet de sauvegarde de Force (8 + votre bonus de maîtrise + votre modificateur de Force) pour l'éviter.
 
 Si, à la fin de ce mouvement, la créature lancée n'est pas sur une surface ou un liquide qui peut supporter son poids, la créature tombe, subit des dégâts de chute comme à la normale et atterrit [[au sol]]
 
 ## Colosse Démiurge
 
-Au niveau 14, le pouvoir primordial de votre rage s'intensifie. Lorsque vous ragez, votre portée augmente de 10 ft., votre taille augmente à Grand ou Très Grand (votre choix) et vous pouvez utiliser votre [[#Poussée Puissante]] pour déplacer des créatures de taille G ou inférieure.
+Au niveau 14, le pouvoir primordial de votre rage s'intensifie. Lorsque vous ragez, votre allonge augmente de 10 ft., votre taille augmente à Grand ou Très Grand (votre choix) et vous pouvez utiliser votre [[#Poussée Puissante]] pour déplacer des créatures de taille G ou inférieure.
 
 De plus, les dégâts supplémentaires infligés par votre [[#Fendeur Élémentaire]] augmentent à 2d6.
 

@@ -15,4 +15,4 @@ Rituel: false
 englishname: Mystic Barrier of Drum
 writing_status: empty
 ---
-Vous créez une barrière sonore autour d'une créature que vous pouvez voir à portée. Cette créature gagne un bonus de +2 à la CA pour la durée du sort.
+Vous créez une barrière sonore autour d'une créature que vous pouvez voir à portée. Cette créature gagne un bonus de +2 à la CA pendant la durée du sort.

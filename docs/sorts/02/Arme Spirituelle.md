@@ -15,7 +15,7 @@ Rituel: false
 englishname: Spiritual Weapon
 writing_status: finished
 ---
-Vous créez à portée une arme spectrale flottante qui persiste pour la durée du sort ou jusqu'à ce que vous le relanciez.
+Vous créez à portée une arme spectrale flottante qui persiste pendant la durée du sort ou jusqu'à ce que vous le relanciez.
 
 Lorsque vous lancez ce sort, vous pouvez réaliser une attaque de sort de mêlée contre une créature à 5 ft. de l'arme. Si l'attaque touche, la cible subit 1d8 + votre modificateur de caractéristique d'incantation dégâts de force.
 

@@ -41,6 +41,6 @@ Le duplicata persiste pendant 24 heures ou jusqu'à ce qu'il tombe à 0 point de
 
 Le cube utilise votre modificateur d'attaque de sort et votre DD de sauvegarde de sort à la place de ses modificateurs de jet d'attaque et DD de sauvegarde. Vous êtes immunisé aux dégâts d'acide du cube et n'êtes pas soumis à l'Enveloppement (Engulf) du cube.
 
-Le cube est amical envers vous et vos compagnons. En combat, il tire sa propre initiative et agit pendant son propre tour. Le cube obéit les ordres que vous lui donnez (aucune action requise). Si vous ne lui en donnez pas, le cube se défend contre les créatures hostiles, mais ne prend aucune autre action. Le MJ possède les statistiques du cube gélatineux.
+Le cube est amical envers vous et vos compagnons. En combat, il tire sa propre initiative et agit pendant son propre tour. Le cube obéit les ordres que vous lui donnez (aucune action requise). Si vous ne lui en donnez pas, le cube se défend contre les créatures hostiles, mais n'entreprend aucune autre action. Le MJ possède les statistiques du cube gélatineux.
 
 Le cube se dissout en un liquide gluant lorsqu'il tombe à 0 point de vie ou que vous le dissipez en une action pendant votre tour. Vous ne pouvez avoir qu'un seul cube gélatineux invoqué à la fois.

@@ -19,4 +19,4 @@ Des ronces et lianes émanent du sol dans un carré de 20 ft. à partir d'un poi
 
 Une créature dans la zone lorsque vous lancez le sort doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]] par les plantes jusqu'à ce que le sort se termine. Une créature retenue par les plantes peut utiliser son action pour effectuer un jet de Force contre votre DD de sauvegarde de sort. Si elle réussit, elle se libère.
 
-Lorsque le sort termine, les plantes invoquées disparaissent.
+Lorsque le sort se termine, les plantes invoquées disparaissent.

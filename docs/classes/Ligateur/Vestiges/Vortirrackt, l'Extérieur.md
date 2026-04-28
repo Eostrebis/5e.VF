@@ -19,7 +19,7 @@ Lorsque vous vous liez à Vortirrackt, des griffes poussent de vos mains, que vo
 Lorsque vous utilisez votre action pour attaquer, vous pouvez réaliser une attaque à mains nues avec les griffes pour une action bonus. De plus, lorsque vous utilisez vos griffes pour toucher une créature que vous avez déjà touchée avec vos griffes ce tour-ci, elle subit 2d6 dégâts tranchants supplémentaires.
 
 ## Trait : Articulations Extérieures
-Lorsque vous vous liez à Vortirrackt, vos bras et jambes se déforment, s'allongeant et craquant jusqu'à ce qu'ils contiennent chacun une articulation supplémentaire. La portée de toutes vos attaques de mêlée, ainsi que de la portée de vos attaques d'opportunité, passe à 10 ft. De plus, vous pouvez réaliser une attaque d'opportunité lorsqu'une créature se déplace à l'intérieur de votre portée.
+Lorsque vous vous liez à Vortirrackt, vos bras et jambes se déforment, s'allongeant et craquant jusqu'à ce qu'ils contiennent chacun une articulation supplémentaire. L'allonge de toutes vos attaques de mêlée, ainsi que de l'allonge de vos attaques d'opportunité, passe à 10 ft. De plus, vous pouvez réaliser une attaque d'opportunité lorsqu'une créature se déplace à l'intérieur de votre allonge.
 
 ## Faille
 Tant que vous êtes lié à ce vestige, vous obtenez la faille suivante : "J'apprécie tourmenter mes ennemis, planter la graine de la haine et du doute dans leurs esprits."

@@ -17,7 +17,7 @@ Rituel: false
 englishname: Produce Flame
 writing_status: empty
 ---
-Une flamme tremblante apparaît dans votre main. La flamme reste là pour la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
+Une flamme tremblante apparaît dans votre main. La flamme reste là pendant la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
 
 Vous pouvez également attaquer avec la flamme, mais le faire termine le sort. Lorsque vous lancez ce sort, ou pour une action plus tard, vous pouvez lancer la flamme sur une créature à 30 ft. Réalisez une attaque de sort à distance. Si vous touchez, la cible subit 1d8 dégâts de feu.
 
