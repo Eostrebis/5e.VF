@@ -24,7 +24,7 @@ Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours
 
 **Poing Serré.** La main frappe une créature ou un objet à 5 ft. d'elle. Réalisez une attaque de sort de mêlée avec la main en utilisant vos caractéristiques. Si ça touche, la cible subit 4d8 dégâts de force.
 
-**Main Puissante.** La main essaye de pousser une créature à 5 ft. d'elle dans une direction de votre choix. Réalisez un jet de Force de la main contesté par un jet de Force (Athlétisme) de la cible. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Si vous réussissez, la main pousse la cible jusqu'à 5 ft. plus un nombre de pieds égal à 5 fois votre modificateur de sort. La main bouge avec la cible pour rester à 5 ft. d'elle.
+**Main Puissante.** La main essaye de Pousser une créature à 5 ft. d'elle dans une direction de votre choix. Réalisez un jet de Force de la main contesté par un jet de Force (Athlétisme) de la cible. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Si vous réussissez, la main pousse la cible jusqu'à 5 ft. plus un nombre de pieds égal à 5 fois votre modificateur de sort. La main bouge avec la cible pour rester à 5 ft. d'elle.
 
 **Main Saisissante.** La main essaye de [[saisi|Saisir]] une créature de taille G ou inférieure à 5 ft. d'elle. Vous utilisez le score de Force de la main pour résoudre la lutte. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Tant que la main saisit la cible, vous pouvez utiliser votre action bonus pour l'écraser. Lorsque vous le faites, la cible subit des dégâts contondants égaux à 2d6 + votre modificateur de sort.
 

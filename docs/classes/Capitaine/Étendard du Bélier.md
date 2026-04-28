@@ -7,7 +7,7 @@ Les capitaines qui arborent l'étendard du Bélier ne cherchent pas à contourne
 
 À partir du moment où vous choisissez cet étendard au niveau 3, vous apprenez la manœuvre suivante :
 
-Lorsque vous vous déplacez d'au moins 10 ft. en ligne droite et attaquez juste après par une attaque armée de mêlée contre une créature, vous pouvez utiliser votre action bonus et dépenser un dé de bataille pour pousser la cible après l'attaque. Ajoutez le dé de bataille à votre jet de Force (Athlétisme) que vous réalisez pour pousser la cible. Si vous réussissez, vous pouvez ou mettre la cible [[au sol]] ou la repousser de 10 ft.
+Lorsque vous vous déplacez d'au moins 10 ft. en ligne droite et attaquez juste après par une attaque armée de mêlée contre une créature, vous pouvez utiliser votre action bonus et dépenser un dé de bataille pour Pousser la cible après l'attaque. Ajoutez le dé de bataille à votre jet de Force (Athlétisme) que vous réalisez pour Pousser la cible. Si vous réussissez, vous pouvez ou mettre la cible [[au sol]] ou la repousser de 10 ft.
 
 ## Pied Sûr
 

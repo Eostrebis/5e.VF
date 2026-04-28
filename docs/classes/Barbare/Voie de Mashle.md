@@ -15,7 +15,7 @@ De plus, si quelqu'un questionne vos prouesses magiques, vous pouvez vous enrage
  
 Au niveau 3, vous pouvez utiliser votre "magie" pour lancer des "cantrips" en combat. Vous pouvez utiliser les "cantrips" suivants un nombre de fois égal à votre modificateur de Force. Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos. Tant que vous êtes enragé, vous pouvez les utiliser à volonté.
 
-**Main de Mage.** Pour une action bonus lorsque vous touchez une créature avec une attaque armée de mêlée pendant votre tour, vous pouvez utiliser votre main (bah oui, vous êtes un mage) pour essayer de la pousser.
+**Main de Mage.** Pour une action bonus lorsque vous touchez une créature avec une attaque armée de mêlée pendant votre tour, vous pouvez utiliser votre main (bah oui, vous êtes un mage) pour essayer de la Pousser.
 
 **Poigne Électrique.** Pour une action bonus lorsque vous réalisez une attaque pendant votre tour, vous pouvez frapper la cible un peu plus durement que d'habitude, court-circuitant ses neurones. Si vous touchez, la cible ne peut pas utiliser de réactions jusqu'au début de votre prochain tour.
 

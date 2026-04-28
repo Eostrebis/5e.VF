@@ -28,5 +28,5 @@ Au niveau 15, vous échapperez au bras armé de la justice ou mourrez en essayan
  - Vous profitez des effets de l'action Foncer.
  - Vous pouvez utiliser l'action Utiliser un Objet.
  - Vous pouvez réaliser une attaque armée contre une créature que vous pouvez voir.
- - Vous pouvez essayer de pousser une créature.
- - Vous subissez des dégâts de chute réd subissez des dégâtsvotre distance de saut double jusqu'au début de votre prochain tour.
+ - Vous pouvez essayer de Pousser une créature.
+ - Vous subissez des dégâts de chute réduit de moitié et votre distance de saut double jusqu'au début de votre prochain tour.
