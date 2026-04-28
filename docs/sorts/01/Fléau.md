@@ -18,6 +18,6 @@ Rituel: false
 englishname: Bane
 writing_status: empty
 ---
-Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un jet de sauvegarde de Charisme. Chaque fois qu'une cible qui a raté ce jet de sauvegarde effectue un jet d'attaque ou de sauvegarde avant que le sort ne termine, la cible doit lancer un d4 et retirer le résultat à son jet d'attaque ou de sauvegarde.
+Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un jet de sauvegarde de Charisme. Chaque fois qu'une cible qui a raté ce jet de sauvegarde effectue un jet d'attaque ou de sauvegarde avant que le sort se termine, la cible doit lancer un d4 et soustraire le résultat à son jet d'attaque ou de sauvegarde.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.

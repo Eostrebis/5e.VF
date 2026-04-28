@@ -15,7 +15,7 @@ Rituel: false
 englishname: Ensnaring Strike
 writing_status: empty
 ---
-La prochaine fois que vous touchez une créature avec une attaque armée avant que le sort ne termine, une masse difforme de ronces apparaît au point d'impact, et la cible doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]] par les lianes magiques jusqu'à la fin du sort. Une créature de taille G ou supérieure a l'avantage sur ce jet de sauvegarde. Si la cible réussit son jet, les ronces disparaissent.
+La prochaine fois que vous touchez une créature avec une attaque armée avant que le sort se termine, une masse difforme de ronces apparaît au point d'impact, et la cible doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]] par les lianes magiques jusqu'à la fin du sort. Une créature de taille G ou supérieure a l'avantage sur ce jet de sauvegarde. Si la cible réussit son jet, les ronces disparaissent.
 
 Tant qu'elle est [[retenu|retenue]] par ce sort, la cible subit 1d6 dégâts au début de chacun de ses tours. Une créature retenue par les ronces ou une autre qui la touche peut utiliser son action pour effectuer un jet de Force contre votre DD de sauvegarde de sort. Si elle réussit, la créature retenue est libérée.
 

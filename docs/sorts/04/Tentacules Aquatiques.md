@@ -17,7 +17,7 @@ Rituel: false
 englishname: Watery Tentacles
 writing_status: empty
 ---
-Lorsque vous lancez ce sort, trois tentacules d'eau apparaissent autour de votre corps pendant la durée du sort. Pendant l'action que vous utilisez pour lancer ce sort, et pour une action bonus pendant vos prochains tours jusqu'à ce que le sort ne termine, vous pouvez ordonner à l'un de ces tentacules de Saisir une créature de taille G ou inférieure que vous pouvez voir à 30 ft. La cible doit réussir un jet de sauvegarde de Force ou être [[saisi|saisie]] et [[retenu|retenue]] par le tentacule. A la fin de chacun de ses tours, une cible retenue peut répéter le jet de sauvegarde.
+Lorsque vous lancez ce sort, trois tentacules d'eau apparaissent autour de votre corps pendant la durée du sort. Pendant l'action que vous utilisez pour lancer ce sort, et pour une action bonus pendant vos prochains tours jusqu'à ce que le sort se termine, vous pouvez ordonner à l'un de ces tentacules de Saisir une créature de taille G ou inférieure que vous pouvez voir à 30 ft. La cible doit réussir un jet de sauvegarde de Force ou être [[saisi|saisie]] et [[retenu|retenue]] par le tentacule. A la fin de chacun de ses tours, une cible retenue peut répéter le jet de sauvegarde.
 
 Vous pouvez Saisir autant de créatures que vous avez de tentacules. Vous pouvez utiliser une action ou une action bonus pendant votre tour pour libérer une créature ou pour la traîner de jusqu'à 20 ft. dans la direction choisie.
 

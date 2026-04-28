@@ -19,4 +19,4 @@ Rituel: false
 englishname: Jump
 writing_status: finished
 ---
-Vous touchez une créature. La distance de saut de cette créature est triplée jusqu'à ce que le sort ne se termine.
+Vous touchez une créature. La distance de saut de cette créature est triplée jusqu'à ce que le sort se termine.

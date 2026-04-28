@@ -16,4 +16,4 @@ Rituel: false
 englishname: Guided Missile
 writing_status: empty
 ---
-Vous prononcez une prière pour guider votre projectile, faisant courber sa trajectoire pour qu'il touche sa cible. La prochaine attaque armée à distance que vous réalisez avant que le sort ne termine a l'avantage et voit sa portée doubler.
+Vous prononcez une prière pour guider votre projectile, faisant courber sa trajectoire pour qu'il touche sa cible. La prochaine attaque armée à distance que vous réalisez avant que le sort se termine a l'avantage et voit sa portée doubler.

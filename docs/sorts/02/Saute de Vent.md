@@ -23,4 +23,4 @@ Toute créature dans la ligne doit dépenser le double de mouvement pour se rapp
 
 La saute disperse le gaz et les vapeurs, et elle éteint bougies, torches ou autres flammes dans sa zone. Les flammes protégées vacillent et ont 50% de chances de s'éteindre.
 
-Pour une action bonus à chacun de vos tours avant que le sort ne termine, vous pouvez changer la direction vers laquelle la ligne est dirigée.
+Pour une action bonus à chacun de vos tours avant que le sort se termine, vous pouvez changer la direction vers laquelle la ligne est dirigée.
