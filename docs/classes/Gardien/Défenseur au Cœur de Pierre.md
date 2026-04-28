@@ -17,13 +17,13 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Montagne Immortelle
 
 Au niveau 20, vous pouvez invoquer la puissance de la terre pour une action, vous protégeant dans une armure de pierre. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
- - Les dégâts contondants, perçants et tranchants que vous prenez sont réduits de 5.
+ - Les dégâts contondants, perçants et tranchants que vous subissez sont réduits de 5.
  - Vous gagnez les effets de votre aptitude [[#Racines Rocheuses]] pour toute la durée de votre transformation.
  - Lorsque vous bougez, vous pouvez choisir de remuer la terre sous vos pieds, laissant derrière vous une trace large de 5 ft. de terrain difficile.
 

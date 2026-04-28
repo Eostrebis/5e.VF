@@ -30,6 +30,6 @@ Les hantises peuvent souvent être attribuées aux suspects spectraux habituels 
 >
 >### Actions
 >
->***Drain de Vie.*** *Attaque de Sort de Mêlée :* +4 pour toucher, portée 5 ft., une créature. *Touché :* 9 (2d8) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde Constitution DD 12 ou voir son nombre de points de vie maximum être réduit d'un montant égal aux dégâts pris. Cette réduction dure jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit ses points de vie maximum à 0.
+>***Drain de Vie.*** *Attaque de Sort de Mêlée :* +4 pour toucher, portée 5 ft., une créature. *Touché :* 9 (2d8) dégâts nécrotiques. La cible doit réussir un jet de sauvegarde Constitution DD 12 ou voir son nombre de points de vie maximum être réduit d'un montant égal aux dégâts subis. Cette réduction dure jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit ses points de vie maximum à 0.
 
 

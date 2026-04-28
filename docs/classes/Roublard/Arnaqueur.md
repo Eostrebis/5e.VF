@@ -21,4 +21,4 @@ Au niveau 13, vous pouvez préparer un mensonge pour le ressortir parfaitement. 
 
 ## Plan de Braquage
 
-À partir du niveau 17, vous êtes toujours en train de préparer vos prochains coups. Vous pouvez prendre l'action Préparer une action pendant votre tour pour une action bonus. Quelle que soit l'action que vous choisissez, le déclencheur doit être basé sur une créature hostile réalisant un certain type d'action (par exemple "lorsque le kobold attaque" ou "lorsque le mage lance un sort") et ne peut pas s'activer avant la fin de votre tour.
+À partir du niveau 17, vous êtes toujours en train de préparer vos prochains coups. Vous pouvez entreprendre l'action Préparer une action pendant votre tour pour une action bonus. Quelle que soit l'action que vous choisissez, le déclencheur doit être basé sur une créature hostile réalisant un certain type d'action (par exemple "lorsque le kobold attaque" ou "lorsque le mage lance un sort") et ne peut pas s'activer avant la fin de votre tour.

@@ -28,5 +28,5 @@ Souvent considéré comme le familier parfait qui ne requiert ni soin ni attenti
 >*_*
 > **Fausse Apparence.** Un ami cailloux est indistinguable d'une pierre ordinaire sur laquelle on aurait dessiné un visage.
 >
->**Juste un Caillou.** Un ami caillou est considéré comme un objet pour les effets magiques et les sorts. De plus, il ne peut pas prendre d'action qui ne sont pas spécifiées dans son bloc, et sa vitesse ne peut pas être augmentée.
+>**Juste un Caillou.** Un ami caillou est considéré comme un objet pour les effets magiques et les sorts. De plus, il ne peut pas entrependre d'action qui ne sont pas spécifiées dans son bloc, et sa vitesse ne peut pas être augmentée.
 

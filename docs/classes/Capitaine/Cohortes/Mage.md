@@ -48,4 +48,4 @@ Tant qu'il suit les ordres de son capitaine, le mage obtient les capacités supp
 *Niveau 14.* *Action* **Incantation.** L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
  - 1/jour : [[porte dimensionnelle]], [[métamorphose]]
 
-*Niveau 18.* *Réaction :* **Sphère de Contingence (1/jour).** Pour une réaction après avoir pris des dégâts, le mage peut lancer le sort [[sphère résiliente]] sur lui-même.
+*Niveau 18.* *Réaction :* **Sphère de Contingence (1/jour).** Pour une réaction après avoir subi des dégâts, le mage peut lancer le sort [[sphère résiliente]] sur lui-même.

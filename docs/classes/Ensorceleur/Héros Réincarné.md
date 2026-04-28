@@ -42,4 +42,4 @@ Au niveau 1, vous obtenez un nombre de points de vie temporaires égal à votre 
 
 ## Héritage Héroïque
 
-À partir du niveau 18, vous pouvez vous défaire la mort de façons que bien peu de votre précédente vie ne sauraient égaler. À chaque fois que vous prenez plus de 20 dégâts, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez à 20. Lorsque vous le faites, vous avez l'avantage à vos jets d'attaque, de caractéristique et de sauvegarde jusqu'à la fin de votre prochain tour. 
+À partir du niveau 18, vous pouvez vous défaire la mort de façons que bien peu de votre précédente vie ne sauraient égaler. À chaque fois que vous subissez plus de 20 dégâts, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez à 20. Lorsque vous le faites, vous avez l'avantage à vos jets d'attaque, de caractéristique et de sauvegarde jusqu'à la fin de votre prochain tour. 

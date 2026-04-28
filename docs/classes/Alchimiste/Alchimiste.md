@@ -99,7 +99,7 @@ Vous avez appris beaucoup sur l'alchimie pendant vos études. À partir du nivea
 
 Au niveau 1, vous pouvez créer des [[Bombes]] alchimiques volatiles en utilisant votre matériel d'alchimiste. Lorsque vous terminez un repos court ou long, vous pouvez créer un nombre de bombes égal à 10 + le double de votre niveau d'alchimiste. Pour vous, le coût des matériels nécessaire pour créer ces bombes est négligeable. Après 24 heures, une bombe inutilisée devient inerte.
 
-**Amorcer une Bombe.** Une fois par tour, vous pouvez prendre l'action Utiliser un Objet pour amorcer une bombe avec des réactifs explosifs et effectuer une attaque avec, augmentant ainsi le potentiel explosif de la bombe. Lorsque vous faites ceci, vous pouvez ajouter votre modificateur d'Intelligence plutôt que de Dextérité à votre jet de dégâts.
+**Amorcer une Bombe.** Une fois par tour, vous pouvez entreprendre l'action Utiliser un Objet pour amorcer une bombe avec des réactifs explosifs et effectuer une attaque avec, augmentant ainsi le potentiel explosif de la bombe. Lorsque vous faites ceci, vous pouvez ajouter votre modificateur d'Intelligence plutôt que de Dextérité à votre jet de dégâts.
 De plus, lorsque vous lancez une bombe de cette façon, les dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5 (2d10), le niveau 11 (3d10), et le niveau 17 (4d10).
 
 **Jets de Sauvegarde.** Lorsque vous lancez une bombe, le DD de sauvegarde pour son rayon d'explosion est calculé suivant la formule suivante : 
@@ -178,15 +178,15 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 ## Grenade Aveuglante
 
-À partir du niveau 5, vous possédez un stock d'explosifs assourdissants pour vous aider à vous échapper de situations périlleuses. Pour une action bonus, vous pouvez jeter l'un de ces explosifs à vos pieds, désorientation et distrayant des adversaires proches. Toutes les créatures de taille L ou plus petite à 5 ft. de vous ne peuvent pas prendre de réactions jusqu’au début de leur prochain tour.
+À partir du niveau 5, vous possédez un stock d'explosifs assourdissants pour vous aider à vous échapper de situations périlleuses. Pour une action bonus, vous pouvez jeter l'un de ces explosifs à vos pieds, désorientation et distrayant des adversaires proches. Toutes les créatures de taille L ou plus petite à 5 ft. de vous ne peuvent pas utiliser de réactions jusqu’au début de leur prochain tour.
 
 ## Évasion
 
-À partir du niveau 11, quand vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégâts si vous réussissez le jet de sauvegarde, et la moitié sinon.
+À partir du niveau 11, quand vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégâts si vous réussissez le jet de sauvegarde, et la moitié sinon.
 
 ## Protection contre les Explosions
 
-À partir du niveau 15, vous réussissez automatique les jets de sauvegardes contre vos propres bombes et ne prenez jamais de dégâts de leur part.
+À partir du niveau 15, vous réussissez automatique les jets de sauvegardes contre vos propres bombes et ne subissez jamais de dégâts de leur part.
 
 ## Pierre Philosophale
 

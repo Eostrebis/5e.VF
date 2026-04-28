@@ -13,9 +13,9 @@ Le grondement de la foule vous embrase. À partir du moment où vous choisissez 
 
 Lorsque que vous faites face à un obstacle, votre premier instinct est de lui faire une prise, même si l'obstacle en question n'est clairement pas adapté, comme un dragon, un slime ou une conversation gênante. Au niveau 3, vous bénéficiez des effets suivants : 
 
- - Vous pouvez essayer de saisir n'importe quelle créature, peu importe sa taille.
- - Vous pouvez utiliser votre action pour essayer de réaliser une clé sur une créature que vous avez saisie. Si vous réussissez, vous et la créature êtes [[immobilisés]] jusqu'à ce que la saisie se termine.
- - Si vous avez le don [[Lutteur]], vous pouvez choisir si la cible saisie doit réaliser un jet de Force (Athlétisme) ou Dextérité (Acrobatie) pour s'en échapper.
+ - Vous pouvez essayer de Saisir n'importe quelle créature, peu importe sa taille.
+ - Vous pouvez utiliser votre action pour essayer de réaliser une clé sur une créature que vous avez saisie. Si vous réussissez, vous et la créature êtes [[retenu|retenus]] jusqu'à ce que la saisie se termine.
+ - Si vous avez le don [[Lutteur]], vous pouvez choisir si la cible [[saisi|saisie]] doit réaliser un jet de Force (Athlétisme) ou Dextérité (Acrobatie) pour s'en échapper.
 
 ## Botte Secrète
 
@@ -29,7 +29,7 @@ Au niveau 6, vous maîtrisez une technique spéciale qui devient rapidement syno
 
 ## Sur la Corde
 
-Au niveau 11, une fois par tour lorsque vous tombez de 5 ft. ou plus avant de réaliser une attaque à mains nues, vous pouvez choisir d'en faire une frappe étourdissante sans dépenser de ki, ou de mettre la cible [[au sol]] et d'automatiquement la saisir si vous touchez.
+Au niveau 11, une fois par tour lorsque vous tombez de 5 ft. ou plus avant de réaliser une attaque à mains nues, vous pouvez choisir d'en faire une frappe étourdissante sans dépenser de ki, ou de mettre la cible [[au sol]] et d'automatiquement la Saisir si vous touchez.
 
 ## Étranglement
 

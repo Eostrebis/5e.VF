@@ -133,7 +133,7 @@ La peau des elfes des bois a tendance à être cuivrée en teinte, parfois avec 
 
 **Entraînement aux Armes Elfes.** Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.
 
-**Cachette Naturelle.** Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.
+**Cachette Naturelle.** Vous pouvez tenter de vous Cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.
 
 ## Drow
 

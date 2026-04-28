@@ -23,7 +23,7 @@ La première fois que vous utilisez l'action Attaquer pendant votre tour, vous p
 
 - **1re Touche :** Si la cible échoue son jet de sauvegarde, sa vitesse est divisée par deux jusqu'à la fin de son prochain tour.
 
-- **2e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 1d6 dégâts psychiques et ne peut pas prendre de réactions jusqu'à la fin de votre prochain tour.
+- **2e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 1d6 dégâts psychiques et ne peut pas utiliser de réactions jusqu'à la fin de votre prochain tour.
 
 - **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas effectuer d'actions bonus pendant son prochain tour.
 

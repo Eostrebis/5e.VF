@@ -5,7 +5,7 @@ Par héritage ou par pur accident, par éveil spirituel ou par conflit intérieu
 
 ## Vice Contraignant
 
-Au niveau 3, vous apprenez à piéger vos ennemis, écrasant toute forme de vie en eux comme punitions pour leurs transgressions. Vous pouvez choisir d'utiliser votre modificateur de Dextérité plutôt que de Force lorsque vous réaliser un jet de Force (Athlétisme). Une fois par tour, lorsque vous touchez une créature avec une de vos attaques de Ruée de Coups, vous pouvez essayer de la saisir. Si vous êtes en train de saisir une créature, vous pouvez dépenser 1 point de ki et une action bonus pour la serrer, infligeant un nombre de dégâts contondants égal à votre dé d'Arts Martiaux + votre modificateur de Dextérité.
+Au niveau 3, vous apprenez à piéger vos ennemis, écrasant toute forme de vie en eux comme punitions pour leurs transgressions. Vous pouvez choisir d'utiliser votre modificateur de Dextérité plutôt que de Force lorsque vous réaliser un jet de Force (Athlétisme). Une fois par tour, lorsque vous touchez une créature avec une de vos attaques de Ruée de Coups, vous pouvez essayer de la Saisir. Si vous êtes en train de Saisir une créature, vous pouvez dépenser 1 point de ki et une action bonus pour la serrer, infligeant un nombre de dégâts contondants égal à votre dé d'Arts Martiaux + votre modificateur de Dextérité.
 
 ## Posture Ophidienne
 

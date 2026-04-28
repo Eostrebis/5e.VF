@@ -33,6 +33,6 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire ju
 
 ## Revigorant
 
-Au niveau 14, pour une action bonus, vous pouvez donner à vous ou une créature alliée à 5 ft. une explosion d'énergie temporaire en buvant une tasse de thé énergisant. Pendant le prochain tour de la cible, elle pourra prendre une action supplémentaire.
+Au niveau 14, pour une action bonus, vous pouvez donner à vous ou une créature alliée à 5 ft. une explosion d'énergie temporaire en buvant une tasse de thé énergisant. Pendant le prochain tour de la cible, elle pourra entreprendre une action supplémentaire.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long avant de pouvoir le refaire.

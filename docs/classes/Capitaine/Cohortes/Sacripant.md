@@ -39,6 +39,6 @@ Tant qu'il suit les ordres de son capitaine, le sacripant obtient les capacités
 
 *Niveau 10.* *Réaction :* **Esquive Instinctive.** Le sacripant réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Le sacripant doit être capable de voir cette attaque pour utiliser cette réaction.
 
-*Niveau 14.* **Évasion.** Lorsque le sacripant est sujet à un effet qui l'autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, il ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon, à condition qu'il ne soit pas [[incapacité]].
+*Niveau 14.* **Évasion.** Lorsque le sacripant est sujet à un effet qui l'autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, il ne prend plutôt aucun dégât s'il réussit le jet et la moitié sinon, à condition qu'il ne soit pas [[incapacité]].
 
 *Niveau 18.* **Assassinat (1/jour).** Pendant son premier tour du combat, le sacripant peut transformer une attaque armée qui touche en coup critique.

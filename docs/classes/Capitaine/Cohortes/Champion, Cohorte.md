@@ -42,4 +42,4 @@ Tant qu'il suit les ordres de son capitaine, le champion obtient les capacités 
 
 *Niveau 14.* **Augmentation de Caractéristiques.** La Force, la Dextérité ou la Constitution du champion augmente de 2, jusqu'à un maximum de 20. 
 
-*Niveau 18.* **Fouge (1/LR/SR).** Le champion peut prendre deux actions ce tour.
+*Niveau 18.* **Fougue (1/LR/SR).** Le champion peut utiliser deux actions ce tour.

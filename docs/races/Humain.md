@@ -189,7 +189,7 @@ Un de vos parents est une créature de l'obscurité, par exemple une ombre ou un
 
 **Vision dans le noir.** Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
+**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous Cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
 
 ---
 
@@ -253,7 +253,7 @@ Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et r
 
 **Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait 1d6 + votre modificateur de Force dégâts perçants, au lieu des dégâts contondants usuels.
 
-**Lutte d'Hibours.** Vous pouvez tenter de saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de saisie que vous faites pendant votre tour contre des créatures plus petites que vous.
+**Lutte d'Hibours.** Vous pouvez tenter de Saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de [[saisi|saisie]] que vous effectuez pendant votre tour contre des créatures plus petites que vous.
 
 ---
 

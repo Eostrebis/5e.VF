@@ -23,7 +23,7 @@ De plus, tant que vous n'êtes pas armé ou que vous manipulez une arme improvis
 
 ## Force Brute
 
-Également au niveau 3, vous pouvez manipuler vos adversaires pour prendre le dessus en combat. Lorsque vous touchez une créature avec une attaque à mains nues ou une attaque armée de mêlée utilisant une arme improvisée, vous pouvez utiliser votre action bonus pour essayer de saisir la cible ou lui infliger 1d6 dégâts supplémentaires.
+Également au niveau 3, vous pouvez manipuler vos adversaires pour prendre le dessus en combat. Lorsque vous touchez une créature avec une attaque à mains nues ou une attaque armée de mêlée utilisant une arme improvisée, vous pouvez utiliser votre action bonus pour essayer de Saisir la cible ou lui infliger 1d6 dégâts supplémentaires.
 
 Ces dégâts augmentent lorsque vous gagnez des niveaux dans cette classe. Au niveau 5, les dégâts infligés passent à 1d8. Au niveau 11, ils passent à 1d10 puis à 1d12 au niveau 17.
 
@@ -37,7 +37,7 @@ Au niveau 10, vous pouvez mettre tout votre poids dans un seul coup. Lorsque vou
 
 ## Lutteur Hibours
 
-À partir du niveau 15, vous avez appris comment mettre au sol même les plus stables des adversaires. Vous avez l'avantage aux jets de Force (Athlétisme) que vous réalisez pour saisir des créatures de taille G ou moins, et vous pouvez essayer de saisir des créatures de toutes tailles.
+À partir du niveau 15, vous avez appris comment mettre au sol même les plus stables des adversaires. Vous avez l'avantage aux jets de Force (Athlétisme) que vous réalisez pour Saisir des créatures de taille G ou moins, et vous pouvez essayer de Saisir des créatures de toutes tailles.
 
 ## Brise-Crâne
 

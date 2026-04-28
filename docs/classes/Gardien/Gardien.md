@@ -113,7 +113,7 @@ Vous maîtrisez un jet de sauvegarde de votre choix.
 
 ## Saisie du Gardien
 
-Au niveau 1, pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour se désengager.
+Au niveau 1, pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour Se Désengager.
 
 Au niveau 14, la portée de cette aptitude passe à 10 ft.
 
@@ -123,7 +123,7 @@ Au niveau 2, vous adoptez un style de combat comme votre spécialité. Choisisse
 
 ### Paralysie
 
-Lorsque vous touchez une créature avec une attaque armée de mêlée, sa vitesse est réduite de 10 ft., jusqu'à un minimum de 0, jusqu'à la fin de son prochain tour, et elle ne peut pas prendre d'action pour Sprinter jusqu'à la fin de son prochain tour.
+Lorsque vous touchez une créature avec une attaque armée de mêlée, sa vitesse est réduite de 10 ft., jusqu'à un minimum de 0, jusqu'à la fin de son prochain tour, et elle ne peut pas utiliser d'action pour Sprinter jusqu'à la fin de son prochain tour.
 
 ### Combat à Deux Mains
 
@@ -185,7 +185,7 @@ Au niveau 4, vous pouvez utiliser votre action pour terminer une maladie ou une 
 
 ## Attaque Supplémentaire
 
-À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous prenez l'action d'attaquer pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous entreprenez l'action d'attaquer pendant votre tour.
 
 ## Marche de la Sentinelle
 
@@ -267,7 +267,7 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 
 À partir du niveau 3, les dégâts contondants, perçants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
 
-À partir du niveau 17, pour une réaction, vous pouvez réduire les dégâts que vous prenez d'un montant égal à votre niveau. Une fois que vous avez utilisé cette réaction, vous ne pouvez plus le faire avant d'avoir terminé un repos long.
+À partir du niveau 17, pour une réaction, vous pouvez réduire les dégâts que vous subissez d'un montant égal à votre niveau. Une fois que vous avez utilisé cette réaction, vous ne pouvez plus le faire avant d'avoir terminé un repos long.
 
 ## Gardien en Chasse
 
@@ -333,7 +333,7 @@ Au niveau 14, cette aptitude affecte les créatures amicales à 10 ft. de vous e
 ### Marques Jumelles du Parangon
 *Remplace la [[#Marque du Gardien]]*
 
-Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection subit des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
+Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection subit des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en subissez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
 

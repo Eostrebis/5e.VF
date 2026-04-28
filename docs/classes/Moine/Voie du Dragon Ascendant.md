@@ -55,6 +55,6 @@ Au niveau 17, votre esprit draconique est à son paroxysme, vous bénéficiez de
 
 **Souffle Amélioré.** Lorsque vous utilisez votre Souffle de Dragon, vous pouvez dépenser 1 point de ki pour augmenter sa forme et son pouvoir. L'exhalation d'énergie draconique devient ou un cône de 60 ft. ou une ligne de 90 ft, et les dégâts passent à 4 lancers de votre d'arts martiaux.
 
-**Vision Aveugle.** Vous gagnez la [[vision aveugle]] sur une portée de 10 ft. Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglés ou dans les ténèbres. De plus, vous pouvez voir une créature invisible dans cette portée, sauf si elle réussit à se cacher de vous.
+**Vision Aveugle.** Vous gagnez la [[vision aveugle]] sur une portée de 10 ft. Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglés ou dans les ténèbres. De plus, vous pouvez voir une créature invisible dans cette portée, sauf si elle réussit à se Cacher de vous.
 
 **Furie Explosive.** Lorsque vous activez votre Aspect de Wyrm, une furie draconique explose en vous. Choisissez n'importe quel nombre de créatures que vous pouvez voir dans votre aura. Chacune de ces créatures doit réussir un jet de sauvegarde de Dextérité ou subir 3d10 dégâts d'acide, de froid, de feu, de foudre ou de poison.

@@ -11,7 +11,7 @@ De plus, vous pouvez choisir des dégâts tranchants plutôt que contondants ave
 
 ## Coup de Fouet du Pénitent
 
-Également au niveau 3, lorsque vous commencez votre tour, vous pouvez améliorer votre concentration en dépensant 1 point de ki et en vous frappant avec un fléau rituel. Vous pouvez choisir de subir un ou plus d4 dégâts tranchants. Pour chacun de ces d4 dégâts tranchants que vous prenez, vous gagnez l'avantage à une attaque que vous réalisez avant la fin de votre tour. Chaque attaque doit utiliser une arme monastique ou être à mains nues. Cette aptitude n'a aucun effet si vous réduisez ou annulez les dégâts tranchants.
+Également au niveau 3, lorsque vous commencez votre tour, vous pouvez améliorer votre concentration en dépensant 1 point de ki et en vous frappant avec un fléau rituel. Vous pouvez choisir de subir un ou plus d4 dégâts tranchants. Pour chacun de ces d4 dégâts tranchants que vous subissez, vous gagnez l'avantage à une attaque que vous réalisez avant la fin de votre tour. Chaque attaque doit utiliser une arme monastique ou être à mains nues. Cette aptitude n'a aucun effet si vous réduisez ou annulez les dégâts tranchants.
 
 ## Art de la Punition
 

@@ -160,7 +160,7 @@ Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement
 
 **Acrobaties**. Un jet de Dextérité (Acrobaties) couvre votre tentative pour rester sur vos pieds dans une situation délicate, comme lorsque vous essayez de courir sur de la glace, de tenir en équilibre sur une corde raide, ou de rester debout sur le pont d'un navire chahuté. Le MJ peut également demander un jet de Dextérité (Acrobaties) pour voir si vous pouvez effectuer des acrobaties, comme un plongeon, une roulade ou un saut périlleux.
 
-**Discrétion**. Faite un jet de Dextérité (Discrétion) lorsque vous essayez de vous cacher des ennemis, de vous glisser entre des gardes, filer sans vous faire remarquer, ou vous échapper sans être vu ou entendu.
+**Discrétion**. Faite un jet de Dextérité (Discrétion) lorsque vous essayez de vous Cacher des ennemis, de vous glisser entre des gardes, filer sans vous faire remarquer, ou vous échapper sans être vu ou entendu.
 
 **Escamotage**. Chaque fois que vous tentez une manipulation ou une fourberie, comme prendre quelque chose à quelqu'un ou dissimuler un objet sur vous-même, faites un jet de Dextérité (Escamotage). Le MJ peut également demander un jet de Dextérité (Escamotage) pour déterminer si vous pouvez dérober une bourse ou glisser quelque chose dans la poche de quelqu'un.
 
@@ -174,10 +174,10 @@ Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement
 - Jouer d'un instrument
 - Fabriquer un petit objet ou un objet avec de petits détails
 
-> #### Se cacher
-> En premier lieu, le MJ décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui recherche activement des signes de votre présence. 
+> #### Se Cacher
+> En premier lieu, le MJ décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous Cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui recherche activement des signes de votre présence. 
 > 
-> Vous ne pouvez pas vous cacher d'une créature qui peut vous voir clairement, et vous révélez votre position si vous faites du bruit, comme crier ou renverser un vase. Une créature invisible ne peut pas être vue, elle peut donc toujours essayer de se cacher. Les signes de son passage peuvent toutefois être découverts et elle doit donc rester calme. 
+> Vous ne pouvez pas vous Cacher d'une créature qui peut vous voir clairement, et vous révélez votre position si vous faites du bruit, comme crier ou renverser un vase. Une créature invisible ne peut pas être vue, elle peut donc toujours essayer de Se Cacher. Les signes de son passage peuvent toutefois être découverts et elle doit donc rester calme. 
 > En combat, la plupart des créatures sont attentives aux signes de danger autour d'elles, donc si vous sortez de votre cachette pour vous approcher d'une créature, elle va normalement vous voir. Toutefois, dans certaines circonstances, le MD peut vous permettre de rester caché si vous vous approchez d'une créature qui est distraite, vous permettant ainsi de gagner un avantage lors de votre attaque avant d'être vu. 
 > 
 > **Perception passive**. Lorsque vous êtes caché, il y a une chance que quelqu'un vous remarque même s'il n'est pas à votre recherche. Pour déterminer si une créature vous remarque, le MD compare votre jet de Dextérité (Discrétion) avec la valeur de Sagesse (Perception) passive de la créature, qui est égale à 10 + le modificateur de Sagesse de la créature, plus d'éventuels bonus ou malus. Si la créature a un avantage, ajoutez 5. Si elle a un désavantage, soustraire 5. Par exemple, si un personnage de niveau 1 (avec un bonus de maîtrise +2) a une Sagesse de 15 (et un modificateur +2) et maîtrise la compétence Perception, sa Sagesse (Perception) passive est de 14. 
@@ -246,7 +246,7 @@ Un jet de Sagesse peut refléter l'effort pour lire le lange du corps, comprendr
 
 **Intuition.** Un jet de Sagesse (Intuition) détermine si vous pouvez déceler les véritables intentions d'une créature, comme lorsque vous tentez de savoir si elle ment ou pour prévoir son prochain mouvement. Cela implique de lire le langage du corps, détecter ses habitudes de langage et les changements dans ses manières.
 
-**Médecine.** Un jet de Sagesse (Médecine) permet d'essayer de stabiliser un compagnon mourant ou de diagnostiquer une maladie.
+**Médecine.** Un jet de Sagesse (Médecine) permet d'essayer de Stabiliser un compagnon mourant ou de diagnostiquer une maladie.
 
 **Perception.** Un jet de Sagesse (Perception) permet de repérer, entendre ou détecter la présence de quelque chose. Il mesure votre conscience de l'environnement et l'acuité de vos sens. Par exemple, vous pouvez essayer d'entendre une conversation à travers une porte fermée, espionner par une fenêtre ouverte, ou entendre des monstres se faufiler dans la forêt. Vous pouvez aussi essayer de repérer des choses qui sont cachées ou difficiles à déceler, que ce soient des orques en embuscade sur une route, des voyous cachés dans l'ombre d'une ruelle, ou la lueur d'une chandelle sous une porte secrète fermée.
 

@@ -85,7 +85,7 @@ Vous gagnez un bonus de +2 aux jets d'attaque à distance que vous réalisez ave
 
 #### Dégaine Rapide
 
-Les fusiliers ont des réflexes impressionnants et peuvent sortir leur pistolet en un claquement de doigts. À partir du niveau 1, vous avez l'avantage à vos jets d'initiative. De plus, vous pouvez dégainer ou rengainer jusqu'à deux armes lorsque vous tirez l'initiative et à chaque fois que vous prenez une action pendant votre tour.
+Les fusiliers ont des réflexes impressionnants et peuvent sortir leur pistolet en un claquement de doigts. À partir du niveau 1, vous avez l'avantage à vos jets d'initiative. De plus, vous pouvez dégainer ou rengainer jusqu'à deux armes lorsque vous tirez l'initiative et à chaque fois que vous entreprenez une action pendant votre tour.
 
 ### Équipement
 

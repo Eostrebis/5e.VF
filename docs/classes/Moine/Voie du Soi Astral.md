@@ -39,7 +39,7 @@ Au niveau 11, lorsque vous avez et les bras et le visage du soi astral invoqués
 
 Tant que ce corps spectral est présent, vous bénéficiez des effets suivants : 
 
-**Redirection d'Énergie.** Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour la rediriger. Lorsque vous le faites, les dégâts que vous prenez sont réduits de 1d10 + votre modificateur de Sagesse (minimum de 1).
+**Redirection d'Énergie.** Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour la rediriger. Lorsque vous le faites, les dégâts que vous subissez sont réduits de 1d10 + votre modificateur de Sagesse (minimum de 1).
 
 **Bras Renforcés.** Une fois à chacun de vos tours lorsque vous touchez une créature avec vos Bras du Soi Astral, vous pouvez infliger un nombre de dégâts supplémentaire à la cible égal à votre dé d'Arts Martiaux.
 

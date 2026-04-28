@@ -47,7 +47,7 @@ Au niveau 3, vous avez appris à vous battre en n'utilisant rien d'autre que vos
 
 ## Grenade Aveuglante
 
-À partir du niveau 7, vous avez sur vous un certain nombre de bombes aveuglantes pour faciliter vos fuites et vos entrées dramatiques. Pour une action bonus, vous pouvez lancer une bombe sonnante à vos pieds, désorientant et distrayant les ennemis proches. Chaque créature à 5 ft. de vous ne peut prendre de réactions jusqu'au début de son prochain tour.
+À partir du niveau 7, vous avez sur vous un certain nombre de bombes aveuglantes pour faciliter vos fuites et vos entrées dramatiques. Pour une action bonus, vous pouvez lancer une bombe sonnante à vos pieds, désorientant et distrayant les ennemis proches. Chaque créature à 5 ft. de vous ne peut utiliser de réactions jusqu'au début de son prochain tour.
 
 ## Bim ! Bam ! Boum !
 

@@ -39,7 +39,7 @@ Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais n
 
 **Découragement.** Inondé par la tristesse, vous pouvez dépenser 2 points de sorcellerie et une action bonus pendant votre tour. Jusqu'au début de votre prochain tour, vous êtes visiblement transparent et les jets d'attaque contre vous ont le désavantage. Cet effet se termine prématurément si vous êtes touché par une attaque.
 
-**Vol de Peur.** Vous pouvez dépenser 1 point de sorcellerie pour prendre l'action Se Désengager pour une action bonus pendant votre tour.
+**Vol de Peur.** Vous pouvez dépenser 1 point de sorcellerie pour entreprendre l'action Se Désengager pour une action bonus pendant votre tour.
 
 **Maladie d'Amour.** Envahi par l'amour, vous pouvez utiliser votre action bonus et dépenser 1 point de sorcellerie pour terminer un effet sur vous-même qui vous rend [[charmé]] ou [[apeuré]].
 

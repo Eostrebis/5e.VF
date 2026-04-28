@@ -100,7 +100,7 @@ Au niveau 1, votre pratique des arts martiaux vous permet la maîtrise de styles
 Vous profitez des effets suivants lorsque vous n'êtes pas armé ou que vous n'êtes équipé que d'arme monastique et que vous ne portez ni armure ni bouclier :
  + Vous pouvez utiliser la Dextérité plutôt que la Force pour vos jets d'attaque et de dégâts avec vos attaques à mains nues ou avec une arme monastique.
  + Vous pouvez lancer un d4 à la place des dégâts normaux d'une attaque à mains nues ou avec une arme monastique. Ce dé change au fur et à mesure que vous gagnez des niveaux de moines, comme montré dans la colonne "Arts Martiaux" de la table du Moine.
- + Lorsque vous prenez l'action d'attaquer avec une attaque à mains nues ou une arme monastique, vous pouvez réaliser une attaque à mains nues pour une action bonus. Par exemple, si vous prenez l'action d'attaquer avec un [[bâton]], vous pouvez également réaliser une attaque à mains nues avec votre action bonus, supposé que vous ne l'avez pas déjà utilisée.
+ + Lorsque vous entreprenez l'action d'Attaquer avec une attaque à mains nues ou une arme monastique, vous pouvez réaliser une attaque à mains nues pour une action bonus. Par exemple, si entreprenez l'action d'Attaquer avec un [[bâton]], vous pouvez également réaliser une attaque à mains nues avec votre action bonus, supposé que vous ne l'avez pas déjà utilisée.
 
 Certains monastères utilisent des formes spécialisées d'armes monastiques. Par exemple, vous pouvez utiliser une masse qui est faite de deux morceaux de bois reliés par une courte chaîne (appelée nunchaku) ou une faucille avec une lame plus courte et droite (appelée kama). Quel que soit le nom que vous utilisez pour une arme monastique, vous pouvez utiliser les statistiques de jeu fournies pour l'arme.
 
@@ -122,12 +122,12 @@ Immédiatement après avoir utilisé votre action pour attaquer pendant votre to
 
 ### Défense Patiente
 
-Vous pouvez dépenser 1 point de ki pour prendre l'action d'esquiver comme une action bonus pendant votre tour.
+Vous pouvez dépenser 1 point de ki pour entreprendre l'action d'Esquiver comme une action bonus pendant votre tour.
 
 
 ### Pas du Vent
 
-Vous pouvez dépenser 1 point de ki pour prendre l'action de se désengager ou de sprinter comme une action bonus pendant votre tour, et votre distance de saut est doublée pour ce tour.
+Vous pouvez dépenser 1 point de ki pour entreprendre l'action de Se Désengager ou de Foncer comme une action bonus pendant votre tour, et votre distance de saut est doublée pour ce tour.
 
 ## Déplacement sans armure
 
@@ -192,7 +192,7 @@ Pour une action, vous pouvez dépenser 2 points de ki et lancer un dé d'Arts Ma
 
 ## Attaque Supplémentaire
 
-À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous prenez l'action d'attaquer pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous entreprenez l'action d'Attaquer pendant votre tour.
 
 ## Frappe Étourdissante
 
@@ -208,7 +208,7 @@ Lorsque vous ratez un jet d'attaque, vous pouvez dépenser entre 1 et 3 points d
 
 ## Évasion
 
-Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Sérénité
 

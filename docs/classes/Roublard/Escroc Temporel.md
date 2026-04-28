@@ -5,7 +5,7 @@ Des roublards qui touchent à la magie, bien peu possèdent l'aptitude à maîtr
 
 ## Moment d'Agir
 
-À partir du niveau 3, vous apprenez le cantrip [[Pause !]]. L'Intelligence est votre caractéristique d'incantation pour ce cantrip. Lorsque vous lancez ce cantrip, vous pouvez vous déplacer de 10 ft. sans provoquer d'attaque d'opportunité. De plus, vous pouvez utiliser votre action pendant que le temps est arrêté pour prendre l'action Se Cacher.
+À partir du niveau 3, vous apprenez le cantrip [[Pause !]]. L'Intelligence est votre caractéristique d'incantation pour ce cantrip. Lorsque vous lancez ce cantrip, vous pouvez vous déplacer de 10 ft. sans provoquer d'attaque d'opportunité. De plus, vous pouvez utiliser votre action pendant que le temps est arrêté pour entreprendre l'action Se Cacher.
 
 ## Chrono-maître
 
@@ -25,7 +25,7 @@ Les sorts dont vous disposez et leur coût en points de chronomancie sont donné
 
 ## Impressions du Futur
 
-À partir du niveau 9, vous pouvez percevoir les vagues du temps afin d'anticiper comment vos actions ricocheront dans le futur. Pour une action bonus, vous pouvez apercevoir un futur possible. Décrivez au MJ les actions que vous comptez prendre pendant votre tour. Le MJ vous prévient alors des conséquences immédiates à venir avant le début de votre prochain tour. Ces bribes du futur vous révèlent tous ce que vous verriez ou entendriez durant ce temps mais ne sont pas exemptes de défauts ; la prédiction ne considère pas les actions de vos alliés ou les échecs surprises. 
+À partir du niveau 9, vous pouvez percevoir les vagues du temps afin d'anticiper comment vos actions ricocheront dans le futur. Pour une action bonus, vous pouvez apercevoir un futur possible. Décrivez au MJ les actions que vous comptez entreprendre pendant votre tour. Le MJ vous prévient alors des conséquences immédiates à venir avant le début de votre prochain tour. Ces bribes du futur vous révèlent tous ce que vous verriez ou entendriez durant ce temps mais ne sont pas exemptes de défauts ; la prédiction ne considère pas les actions de vos alliés ou les échecs surprises. 
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez l'utiliser jusqu'à ce que vous terminiez un repos.
 

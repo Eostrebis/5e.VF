@@ -41,7 +41,7 @@ Les cobboqs vénèrent les autres oiseaux. Plus l'oiseau est gros, plus il est s
 
 **Crédo du Caquet.** Après avoir réussi une attaque de mêlée, vous pouvez utiliser votre action bonus pour vous Désengager.
 
-**Plumé.** Vos os légers et votre panache de plumes réduit l'impact de la gravité ; vous ne prenez que la moitié des dégâts de chute.
+**Plumé.** Vos os légers et votre panache de plumes réduit l'impact de la gravité ; vous ne subissez que la moitié des dégâts de chute.
 
 **Gallus Domesticus.** Vous pouvez lancer le sort [[métamorphose]] sur vous-même avec ce trait, en utilisant le Charisme comme caractéristique d'incantation. Lorsque vous utilisez cette version du sort, vous prenez toujours la forme d'un [[Poulet]] de taille TP. Une fois que vous avez lancé ce sort, vous ne pouvez le relancer avec ce trait avant d'avoir terminé un repos long.
 

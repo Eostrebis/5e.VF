@@ -15,11 +15,11 @@ Au niveau 3, lorsque vous touchez une créature que vous avez marquée avec une 
 
 ## Décharge Statique
 
-À partir du niveau 6, lorsque vous utilisez votre Saisie du Gardien pour une action bonus, toutes les créatures affectées ne peuvent pas prendre de réactions jusqu'au début de votre prochain tour.
+À partir du niveau 6, lorsque vous utilisez votre Saisie du Gardien pour une action bonus, toutes les créatures affectées ne peuvent pas utiliser de réactions jusqu'au début de votre prochain tour.
 
 ## Évasion 
 
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Maître des Tempêtes
 

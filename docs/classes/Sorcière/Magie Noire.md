@@ -23,7 +23,7 @@ Lorsque vous choisissez cet art au niveau 3, vous apprenez à drainer la vitalit
 
 ## Lien Vital
 
-Au niveau 10, comme réaction lorsque vous subissez des dégâts d'une créature que vous pouvez voir, vous pouvez transférer un peu de ces dégâts à une créature qui est la seule cible d'un de vos maléfices. Vous prenez la moitié des dégâts (réduits de moitie), et la créature maudite subit le reste des dégâts. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
+Au niveau 10, comme réaction lorsque vous subissez des dégâts d'une créature que vous pouvez voir, vous pouvez transférer un peu de ces dégâts à une créature qui est la seule cible d'un de vos maléfices. Vous subissez la moitié des dégâts (réduits de moitie), et la créature maudite subit le reste des dégâts. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Sacrifice Noir
 

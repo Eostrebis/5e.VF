@@ -13,7 +13,7 @@ Au niveau 2, vous avez appris comment réanimer des membres morts, et les rattac
 
 ## Attaque Chirurgicale
 
-À partir du niveau 6, à chaque que vous prenez l'action d'Attaquer, ou amorcez et lancez une bombe pendant votre tour, vous pouvez réaliser une attaque non armée pendant cette action. Vous ne pouvez utiliser cette aptitude que si vos attaques non armées sont améliorées par une greffe.
+À partir du niveau 6, à chaque que vous entreprenez l'action d'Attaquer, ou amorcez et lancez une bombe pendant votre tour, vous pouvez réaliser une attaque non armée pendant cette action. Vous ne pouvez utiliser cette aptitude que si vos attaques non armées sont améliorées par une greffe.
 
 ## Organes Nécromantiques
 

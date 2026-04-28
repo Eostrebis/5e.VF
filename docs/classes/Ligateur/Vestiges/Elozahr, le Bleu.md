@@ -22,7 +22,7 @@ Tant que vous êtes lié à Elozahr, vous pouvez lancer les sorts suivants sans 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Givre
-Tant que vous êtes lié à Elozahr, votre peau, ainsi que vos vêtements, armes et armures, sont recouverts d'un gel épais et votre respiration est visible, comme lors d'une nuit froide. Lorsque vous commencez à vous concentrer sur un sort, ce gel s'épaissit encore pour former de larges cristaux de glace sur votre corps. Tant que vous maintenez votre concentration, vous pouvez soustraire le niveau du sort à tous les dégâts que vous prenez. Les dégâts de feu ignorent cette aptitude.
+Tant que vous êtes lié à Elozahr, votre peau, ainsi que vos vêtements, armes et armures, sont recouverts d'un gel épais et votre respiration est visible, comme lors d'une nuit froide. Lorsque vous commencez à vous concentrer sur un sort, ce gel s'épaissit encore pour former de larges cristaux de glace sur votre corps. Tant que vous maintenez votre concentration, vous pouvez soustraire le niveau du sort à tous les dégâts que vous subissez. Les dégâts de feu ignorent cette aptitude.
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, vous obtenez le trait de personnalité suivant : "Je passe autant de temps que possible en pleine concentration, parlant lentement et méthodiquement… si je dois parler."

@@ -34,7 +34,7 @@ Au niveau 6, votre expérience dans les fortifications et autres blocages vous o
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
 
 ## Sentinelle Invincible
 
@@ -42,6 +42,6 @@ Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraien
 
  - Vous avez un bonus de +2 à la CA.
  - Lorsque vous touchez une créature que vous avez marquée avec une attaque, vous regagnez un dé de bataille.
- - Vous pouvez prendre une réaction supplémentaire par tour de combat. Vous êtes toujours limité à une réaction par tour.
+ - Vous pouvez utiliser une réaction supplémentaire par tour de combat. Vous êtes toujours limité à une réaction par tour.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour pouvoir le faire à nouveau.

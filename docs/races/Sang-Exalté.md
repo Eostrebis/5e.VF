@@ -47,7 +47,7 @@ Les Sang-exaltés sont souvent perçus avec méfiance. Dans les communautés rur
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible.
 
-**Jeton Sinistre.** Pour une action, vous pouvez extraire une mèche de vos cheveux, un de vos ongles ou une de vos dents. Ce jeton est imprégné de magie jusqu'à ce que vous terminiez un repos long. Tant que le jeton est ainsi imprégné, vous pouvez prendre les actions suivantes : 
+**Jeton Sinistre.** Pour une action, vous pouvez extraire une mèche de vos cheveux, un de vos ongles ou une de vos dents. Ce jeton est imprégné de magie jusqu'à ce que vous terminiez un repos long. Tant que le jeton est ainsi imprégné, vous pouvez entreprendre les actions suivantes : 
 
  - **Message Télépathique.** Pour une action, vous pouvez envoyer un message télépathique à la créature tenant le jeton, tant que vous vous trouvez à 15 km l'une de l'autre. Ce message peut contenir jusqu'à 25 mots.
  - **Vision à Distance.** Si vous vous trouvez à moins de 15 km du jeton, vous pouvez entrer en transe pour une action. Cette transe dure 1 minute, mais vous pouvez la terminer prématurément librement (aucune action requise). Pendant cette transe, vous pouvez voir et entendre depuis le jeton comme si vous vous trouviez à son emplacement. Lorsque la transe se termine, le jeton se désagrège.

@@ -23,9 +23,9 @@ Grâce à subit agie du café qui parcourt vos nerfs, vous vous sentez capable d
 
 ## Canal Divin : Java
 
-À partir du niveau 2, vous pouvez utiliser votre Canal Divin comme une action pour revigorer le corps et l'esprit d'une créature consentante que vous touchez. La cible se réveille instantanément si elle était endormie. Pendant la prochaine minute, elle ignore tous les niveaux d'épuisements, sa vitesse augmente de 10 ft., elle a l'avantage aux jets de sauvegarde d'Intelligence et de Dextérité et elle peut prendre une action supplémentaire à chaque tour. Cette action ne peut être utilisée que pour réaliser une Attaque (une attaque armée seulement) ou se Désengager.
+À partir du niveau 2, vous pouvez utiliser votre Canal Divin comme une action pour revigorer le corps et l'esprit d'une créature consentante que vous touchez. La cible se réveille instantanément si elle était endormie. Pendant la prochaine minute, elle ignore tous les niveaux d'épuisements, sa vitesse augmente de 10 ft., elle a l'avantage aux jets de sauvegarde d'Intelligence et de Dextérité et elle peut entreprendre une action supplémentaire à chaque tour. Cette action ne peut être utilisée que pour réaliser une Attaque (une attaque armée seulement) ou se Désengager.
 
-Lorsque l'effet se termine, la cible ne peut pas se déplacer ou prendre d'action jusqu'à la fin de son prochain tour, devenant léthargique. Uniquement une créature peut être sous les effets de ce Canal Divin à la fois, et une créature ne peut pas bénéficier en même temps des effets de ce Canal Divin et du sort [[célérité]].
+Lorsque l'effet se termine, la cible ne peut pas se déplacer ou entreprendre d'action jusqu'à la fin de son prochain tour, devenant léthargique. Uniquement une créature peut être sous les effets de ce Canal Divin à la fois, et une créature ne peut pas bénéficier en même temps des effets de ce Canal Divin et du sort [[célérité]].
 
 ## Concentration Affutée
 

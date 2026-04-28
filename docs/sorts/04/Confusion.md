@@ -21,7 +21,7 @@ writing_status: finished
 ---
 Ce sort agresse et perturbe les esprits des créatures, faisant apparaître hallucinations et provoquant des actions incontrôlées. Chaque créature dans un rayon de 10 ft. autour d'un point que vous choisissez à portée doit réussir un jet de sauvegarde de Sagesse ou être affectée par ce sort.
 
-Une créature affectée ne peut pas prendre de réactions et doit lancer un d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.
+Une créature affectée ne peut pas utiliser de réactions et doit lancer un d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.
 
 | d10 | Comportement |
 | ---- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

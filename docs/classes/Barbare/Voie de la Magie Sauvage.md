@@ -33,11 +33,11 @@ Au niveau 6, vous pouvez manipuler votre magie sauvage pour vous renforcer vous 
  - Pendant 10 minutes, la créature peut lancer un d3 à chaque fois qu'elle réalise un jet d'attaque ou de caractéristique et ajouter le résultat au d20. 
  - Tirez un d3. La créature récupère un emplacement de sort dépensé dont le niveau est inférieur ou égal au résultat du dé. Une fois que la créature bénéficie de cet effet, elle ne peut plus en bénéficier jusqu'à ce qu'elle ait terminé un repos long.
 
-Vous pouvez prendre cette action un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+Vous pouvez entreprendre cette action un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Retour Instable
 
-Au niveau 10, lorsque vous êtes mis en danger en pleine rage, la magie en vous peut se déchaîner ; immédiatement après avoir pris des dégâts ou avoir échoué un jet de sauvegarde lorsque vous êtes en rage, vous pouvez utiliser votre réaction pour tirer sur la table de Magie Sauvage et produisez immédiatement l'effet obtenu. Cet effet remplace votre effet de Magie Sauvage actuel.
+Au niveau 10, lorsque vous êtes mis en danger en pleine rage, la magie en vous peut se déchaîner ; immédiatement après avoir subi des dégâts ou avoir échoué un jet de sauvegarde lorsque vous êtes en rage, vous pouvez utiliser votre réaction pour tirer sur la table de Magie Sauvage et produisez immédiatement l'effet obtenu. Cet effet remplace votre effet de Magie Sauvage actuel.
 
 ## Afflux Contrôlé
 

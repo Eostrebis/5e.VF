@@ -17,7 +17,7 @@ Au niveau 3, vous pouvez utiliser votre "magie" pour lancer des "cantrips" en co
 
 **Main de Mage.** Pour une action bonus lorsque vous touchez une créature avec une attaque armée de mêlée pendant votre tour, vous pouvez utiliser votre main (bah oui, vous êtes un mage) pour essayer de la pousser.
 
-**Poigne Électrique.** Pour une action bonus lorsque vous réalisez une attaque pendant votre tour, vous pouvez frapper la cible un peu plus durement que d'habitude, court-circuitant ses neurones. Si vous touchez, la cible ne peut pas prendre de réactions jusqu'au début de votre prochain tour.
+**Poigne Électrique.** Pour une action bonus lorsque vous réalisez une attaque pendant votre tour, vous pouvez frapper la cible un peu plus durement que d'habitude, court-circuitant ses neurones. Si vous touchez, la cible ne peut pas utiliser de réactions jusqu'au début de votre prochain tour.
 
 **Coup au But.** Pour une action bonus lorsque vous réalisez une action pendant votre tour, vous pouvez véritablement, avec précision, aller droit au but. Si vous touchez, vous infligez 1d8 dégâts supplémentaires à la cible.
 

@@ -12,7 +12,7 @@ Maître et champion de la vermine, vous avez été appelé pour défendre les pl
 Au niveau 6, des insectes et des rongeurs vivent dans les moindres recoins de vos vêtements et votre équipement. Lorsqu'une créature à 5 ft. de vous vous touche avec une attaque, la vermine répond et inflige 1d6 dégâts perçants à l'attaquant. De plus, à chaque attaque suivante que la créature réalise avant la fin de son tour, elle doit retirer 1d4 du jet d'attaque.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Seigneur des Mouches
 

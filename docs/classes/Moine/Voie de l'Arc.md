@@ -19,7 +19,7 @@ Immédiatement après avoir utilisé votre action pour attaquer avec une arme à
 
 ### Flèche d'Âme
 
-Lorsque vous prenez l'action d'attaquer avec une arme à distance pendant votre tour, vous pouvez dépenser 1 point de ki pour tirer une flèche d'âme pour votre première attaque. Une flèche d'âme est une munition normale qui ignore les couvertures partielles et inflige des dégâts supplémentaires égaux à votre modificateur de Sagesse. Tirer une flèche d'âme ne consomme pas de munitions.
+Lorsque vous entreprenez l'action d'Attaquer avec une arme à distance pendant votre tour, vous pouvez dépenser 1 point de ki pour tirer une flèche d'âme pour votre première attaque. Une flèche d'âme est une munition normale qui ignore les couvertures partielles et inflige des dégâts supplémentaires égaux à votre modificateur de Sagesse. Tirer une flèche d'âme ne consomme pas de munitions.
 
 ## Tir Interceptant
 

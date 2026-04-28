@@ -23,6 +23,6 @@ Au niveau 11, vous avez mémorisé et maîtrisé des patterns de mouvement qui d
 
 ## K.O
 
-À partir du niveau 17, vous pouvez dépenser 3 points de ki pour canaliser votre ki en un seul coup, assommant votre adversaire. Pour une action, réalisez une attaque à mains nues contre une créature à portée. Si vous touchez, la cible subit des dégâts normalement. Si la créature a 100 points de vie ou moins après avoir pris les dégâts, elle tombe à 0 points de vie, inconsciente mais stable.
+À partir du niveau 17, vous pouvez dépenser 3 points de ki pour canaliser votre ki en un seul coup, assommant votre adversaire. Pour une action, réalisez une attaque à mains nues contre une créature à portée. Si vous touchez, la cible subit des dégâts normalement. Si la créature a 100 points de vie ou moins après avoir subi les dégâts, elle tombe à 0 points de vie, inconsciente mais stable.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.

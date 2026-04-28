@@ -13,7 +13,7 @@ Depuis les premiers instants de la vie, les tempêtes (et surtout l'éclair) ont
 
  - *Arc.* Des éclairs forment un arc vers des cibles proches. Choisissez un nombre de créatures égal au nombre de points de charge que vous dépensez à 15 ft. de la cible de l'attaque. Chacune des créatures choisies doit réussir un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre ou subir 1d6 + votre modificateur d'Intelligence dégâts de foudre.
 - *Décharge.* La créature que vous touchez subit 1d6 dégâts de foudre supplémentaires par points de charge que vous dépensez.
-- *Étincelle.* La créature ne peut pas prendre de réaction jusqu'au début de votre prochain tour.
+- *Étincelle.* La créature ne peut pas utiliser de réaction jusqu'au début de votre prochain tour.
 
 ## Choc
 

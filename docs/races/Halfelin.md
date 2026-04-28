@@ -98,7 +98,7 @@ Les pieds-légers sont plus enclins à la soif de découverte que les autres hal
 
 **Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
 
-**Discrétion Naturelle.** Vous pouvez tenter de vous cacher si vous vous trouvez derrière une créature d'une taille supérieure à la vôtre.
+**Discrétion Naturelle.** Vous pouvez tenter de vous Cacher si vous vous trouvez derrière une créature d'une taille supérieure à la vôtre.
 
 ## Halfelin robuste
 

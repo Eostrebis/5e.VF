@@ -23,7 +23,7 @@ writing_status: finished
 
 ### Passifs
 
-**Couverture du Cockpit.** Toute créature à l'intérieur de l'appareil a la couverture totale aux effets extérieurs, mais subit la moitié des dégâts pris par l'appareil.
+**Couverture du Cockpit.** Toute créature à l'intérieur de l'appareil a la couverture totale aux effets extérieurs, mais subit la moitié des dégâts subis par l'appareil.
 
 **Double Mains.** L'appareil a deux bras mécaniques, chacun capable de manier une arme installée. Chaque bras est suffisamment puissant pour manier une arme comme s'il avait deux mains.
 

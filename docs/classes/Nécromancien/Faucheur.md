@@ -27,7 +27,7 @@ En tant qu'ombre, votre vitesse de déplacement est doublée et vous obtenez une
 
 Les attaques contre vous ont le désavantage tant que vous êtes en forme ombrale. Dans l'obscurité, vous êtes [[invisible]] aux yeux des créatures qui utilisent la vision dans le noir pour vous percevoir.
 
-En tant qu'ombre, vous ne pouvez pas prendre d'actions. Votre équipement fusionne avec vous dans votre forme ombrale et n'a aucun effet jusqu'à ce que vous quittiez cette forme.
+En tant qu'ombre, vous ne pouvez pas entreprendre d'actions. Votre équipement fusionne avec vous dans votre forme ombrale et n'a aucun effet jusqu'à ce que vous quittiez cette forme.
 
 Vous pouvez terminer l'effet pour une action bonus ou lorsque vous démarrez votre tour (aucune action requise).
 

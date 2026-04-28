@@ -37,6 +37,6 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Soif de Sang Intarissable
 
-Au niveau 15, même la mort ne peut retenir votre transformation. Lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez choisir de finir à 1 point de vie plutôt. Ajoutez les dégâts totaux que vous devriez avoir pris à votre réservoir de dégâts. 
+Au niveau 15, même la mort ne peut retenir votre transformation. Lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez choisir de finir à 1 point de vie plutôt. Ajoutez les dégâts totaux que vous devriez avoir subis à votre réservoir de dégâts. 
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez le refaire avant d'avoir terminé un repos long.

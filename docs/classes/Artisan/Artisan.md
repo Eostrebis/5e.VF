@@ -171,7 +171,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Attaque Supplémentaire
 
-À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous prenez l'action d'attaquer pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous entreprenez l'action d'Attaquer pendant votre tour.
 
 ## Acier de Damas
 

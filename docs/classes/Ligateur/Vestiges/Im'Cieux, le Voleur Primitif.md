@@ -15,7 +15,7 @@ Tant que vous êtes lié à Im'Cieux, une fois par tour, vous pouvez infliger 1d
 Le montant des dégâts supplémentaires que vous infligez augmente de 1d6 par vestige autre que Im'Cieux auquel vous êtes lié. Si vous possédez déjà l'aptitude de classe Attaque Sournoise, vous ajoutez ces dégâts à vos dégâts d'Attaque Sournoise.
 
 ## Instincts du Voleur
-Vous pouvez prendre l'action Désengager, Foncer ou Cacher pour une action bonus. Vous pouvez utiliser cette aptitude deux fois et regagnez toutes les utilisations lorsque vous terminez un repos.
+Vous pouvez entreprendre l'action Se Désengager, Foncer ou Se Cacher pour une action bonus. Vous pouvez utiliser cette aptitude deux fois et regagnez toutes les utilisations lorsque vous terminez un repos.
 
 ## Trait : Marque de Im'Cieux
 Tant que vous êtes lié à Im'Cieux, votre peau devient marquée avec une multitude d'anciens symboles et runes qui atténuent magiquement le bruit de vos mouvements. Vous n'obtenez pas le désavantage à vos jets de Dextérité (Discrétion) comme résultat du port d'une armure. De plus, si vous réalisez un jet de Dextérité (Discrétion), vous pouvez traiter le résultat comme un 10, ou votre niveau de ligateur + votre modificateur de Charisme.

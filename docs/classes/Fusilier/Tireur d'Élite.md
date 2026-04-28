@@ -15,7 +15,7 @@ Au niveau 3, vous n'avez pas le désavantage aux jets d'attaque à distance avec
 
 Au niveau 7, vous avez appris à parfaitement vous camoufler dans un *nid*. Vous passez 1 minute pour préparer votre camouflage. Jusqu'à ce que vous bougiez, vous bénéficiez des effets suivants : 
 
- - Vous avez l'avantage aux jets de Dextérité (Discrétion) que vous réalisez pour vous cacher.
+ - Vous avez l'avantage aux jets de Dextérité (Discrétion) que vous réalisez pour vous Cacher.
  - Les attaques que vous effectuez en étant caché ne révèle pas automatiquement votre position.
  - Les créatures ont le désavantage aux jets de caractéristique qu'elles réalisent pour discerner l'origine de vos attaques.
 

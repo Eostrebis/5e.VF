@@ -82,13 +82,13 @@ Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'ell
 
 **Armure Naturelle.** Votre carapace vous confère une CA de base de 17 (votre modificateur de Dextérité n'affecte pas cette valeur). Vous ne pouvez pas porter d'armures légères, moyennes ou lourdes, mais vous pouvez utiliser un bouclier.
 
-**Défense Ostéodermique.** Vous pouvez vous retirer dans votre carapace pour une action. Jusqu'à ce que vous en sortiez, vous gagnez un bonus de +4 à la CA et vous avez l'avantage à vos jets de sauvegarde de Force et de Constitution. Tant que vous êtes dans votre carapace, vous êtes [[au sol]], votre vitesse est de 0 et ne peut pas être augmentée, vous avez le désavantage aux jets de sauvegarde de Dextérité, vous ne pouvez pas prendre de réaction, et la seule action que vous pouvez prendre est une action bonus pour sortir de votre carapace.
+**Défense Ostéodermique.** Vous pouvez vous retirer dans votre carapace pour une action. Jusqu'à ce que vous en sortiez, vous gagnez un bonus de +4 à la CA et vous avez l'avantage à vos jets de sauvegarde de Force et de Constitution. Tant que vous êtes dans votre carapace, vous êtes [[au sol]], votre vitesse est de 0 et ne peut pas être augmentée, vous avez le désavantage aux jets de sauvegarde de Dextérité, vous ne pouvez pas utiliser de réaction, et la seule action que vous pouvez entreprendre est une action bonus pour sortir de votre carapace.
 
 ### Aptitudes de Classe
 
 #### Saisie du Gardien
 
-Pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour se désengager.
+Pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour Se Désengager.
 
 ### Équipement
 

@@ -20,7 +20,7 @@ Au niveau 3, votre marque laisse une ombre mortelle sur votre cible, la prédest
 Au niveau 6, vous êtes amical même envers les morts-vivants incapable de réflexion. Lorsqu'une créature morte-vivante vous attaque, elle doit d'abord réussir un jet de sauvegarde de Sagesse (DD à 8 + bonus de maîtrise + modificateur de Charisme). Si elle rate, son attaque rate et, si son Intelligence est de 4 ou moins, elle devient amicale envers vous et vos alliés pour 1 minute.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Maître des Tombes
 

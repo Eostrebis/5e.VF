@@ -19,7 +19,7 @@ Vous pouvez utiliser cette aptitude comme réaction lorsque vous tombez pour vou
 
 À partir du niveau 9, vous avez la possibilité de vous déplacer librement sur les surfaces verticales et même au plafond, tout en gardant les mains libres. Vous gagnez aussi une vitesse d'escalade égale à votre vitesse de marche.
 
-De plus, tant que vous êtes au plafond, vous pouvez vous cacher de n'importe quelle créature en dessous de vous de plus de 10 ft. même si vous n'avez pas de couverture appropriée.
+De plus, tant que vous êtes au plafond, vous pouvez vous Cacher de n'importe quelle créature en dessous de vous de plus de 10 ft. même si vous n'avez pas de couverture appropriée.
 
 ## Marcheur de Toile
 

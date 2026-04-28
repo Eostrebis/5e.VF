@@ -8,7 +8,7 @@ Les moines suivant la Voie de la Paume sont les maîtres ultimes des arts martia
 À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez manipuler le ki de votre ennemi lorsque vous utilisez le vôtre. Lorsque vous touchez une créature avec une des attaques conférées par Ruée de Coups, vous pouvez imposer un des effets suivants sur la cible :
  - Elle doit réussir un jet de sauvegarde de Dextérité ou être [[au sol]].
  - Elle doit réussir un jet de sauvegarde de Force ou être repoussée de jusqu'à 15 ft. de vous.
- - Elle ne peut pas prendre de réactions jusqu'à la fin de votre prochain tour.
+ - Elle ne peut pas utiliser de réactions jusqu'à la fin de votre prochain tour.
 
 ## Intégrité du corps
 

@@ -7,15 +7,15 @@ Les moines suivant la Voie de l'Âme du Soleil apprennent à canaliser leur forc
 
 À partir du moment où vous choisissez cette tradition au niveau 3, vous pouvez projeter des rayons ardents de magie radieuse.
 
-Vous gagnez une nouvelle option d'attaque que vous pouvez utiliser lorsque vous prenez l'action d'attaquer. Cette attaque spéciale est une attaque de sort à distance, d'une portée de 30 ft. Vous la maîtrisez, et vous ajoutez votre modificateur de Dextérité au jet d'attaque et aux dégâts. Elle inflige des dégâts radieux, et son dé de dégâts est votre dé d'Arts Martiaux. 
+Vous gagnez une nouvelle option d'attaque que vous pouvez utiliser lorsque vous entreprenez l'action d'Attaquer. Cette attaque spéciale est une attaque de sort à distance, d'une portée de 30 ft. Vous la maîtrisez, et vous ajoutez votre modificateur de Dextérité au jet d'attaque et aux dégâts. Elle inflige des dégâts radieux, et son dé de dégâts est votre dé d'Arts Martiaux. 
 
-Lorsque vous prenez l'action d'attaquer pendant votre tour et que vous utilisez cette attaque spéciale, vous pouvez utiliser 1 point de ki pour réaliser deux fois cette attaque spéciale pour une action bonus.
+Lorsque vous entreprenez l'action d'Attaquer pendant votre tour et que vous utilisez cette attaque spéciale, vous pouvez utiliser 1 point de ki pour réaliser deux fois cette attaque spéciale pour une action bonus.
 
 Lorsque vous gagnez la aptitude d'[[Moine#Attaque Supplémentaire|attaque supplémentaire]], cette attaque spéciale peut-être utilisée pour n'importe laquelle des attaques que vous réalisez.
 
 ## Frappe d'Arc Brûlant
 
-Au niveau 6, vous gagnez la capacité de canaliser votre ki en de brûlantes vagues d'énergies. Immédiatement après avoir pris l'action d'attaquer pendant votre tour, vous pouvez dépenser 2 points de ki pour lancer le sort [[Mains Brûlantes]] pour une action bonus.
+Au niveau 6, vous gagnez la capacité de canaliser votre ki en de brûlantes vagues d'énergies. Immédiatement après avoir pris l'action d'Attaquer pendant votre tour, vous pouvez dépenser 2 points de ki pour lancer le sort [[Mains Brûlantes]] pour une action bonus.
 
 Vous pouvez dépenser des points de ki supplémentaires pour incanter [[Mains Brûlantes]] à un niveau supérieur. Chaque point supplémentaire augment de 1 le niveau du sort. Le nombre maximum de points de ki que vous pouvez dépenser pour le sort (2 + les supplémentaires) est égal à la moitié de votre niveau de moine.
 

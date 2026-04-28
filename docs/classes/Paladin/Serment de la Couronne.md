@@ -35,7 +35,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 **Revirement.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour revigorer des créatures blessées. Chaque créature de votre choix qui peut vous entendre à 30 ft. regagne 1d6 + votre modificateur de Charisme (minimum 1) points de vie, à condition qu'elle n'ait pas plus de la moitié de ses points de vie.
 ## Allégeance Divine
 
-À partir du niveau 7, lorsqu'une créature à 5 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour magiquement substituer votre état physique au sien. Ainsi, la créature cible ne subit pas de dégâts et vous les prenez à la place. Ces dégâts ne peuvent être prévenus ou réduits d'aucune façon.
+À partir du niveau 7, lorsqu'une créature à 5 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour magiquement substituer votre état physique au sien. Ainsi, la créature cible ne subit pas de dégâts et vous les subissez à la place. Ces dégâts ne peuvent être prévenus ou réduits d'aucune façon.
 
 ## Esprit Inflexible
 

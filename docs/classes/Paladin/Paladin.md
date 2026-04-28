@@ -130,7 +130,7 @@ Vous apprenez deux cantrips de votre choix parmi la liste de sorts du [[Clerc]].
 Vous disposez de la vision aveugle sur 10 ft. À l'intérieur de ce rayon, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes [[aveuglé]] ou dans les ténèbres. De plus, vous pouvez voir une créature [[invisible]] dans cette portée, sauf si elle se cache de vous.
 
 ### Interception
-Lorsque qu'une créature que vous pouvez voir touche une cible autre que vous à 5 ft. avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts pris par la cible de 1d10 + votre bonus de maîtrise. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
+Lorsque qu'une créature que vous pouvez voir touche une cible autre que vous à 5 ft. avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts subis par la cible de 1d10 + votre bonus de maîtrise. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
 
 ## Incantation
 

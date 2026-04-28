@@ -56,7 +56,7 @@ Deux trous parfaitement ronds viennent casser le blanc parfait et la lisseté de
 
 ### Fou
 
-Ce masque en porcelaine d'un bouffon souriant est décoré de clochettes et de rubans et aborde un motif kefertelé. Tant que vous portez ce masque, votre vitesse de marche est augmentée de 10 ft. De plus, vous pouvez vous désengager pour une action bonus.
+Ce masque en porcelaine d'un bouffon souriant est décoré de clochettes et de rubans et aborde un motif kefertelé. Tant que vous portez ce masque, votre vitesse de marche est augmentée de 10 ft. De plus, vous pouvez vous Désengager pour une action bonus.
 
 **Amélioration.** À partir du niveau 6, vous pouvez Sprinter pour une action bonus.
 
@@ -85,6 +85,6 @@ Ce scintillant masque d'argent utilise des joyaux dorés en guise d'yeux. Lorsqu
 
 ### Esprit
 
-Ce tissu blanc recouvre le visage de la même façon qu'un linceul le ferait, avec deux pièces d'or cousues au niveau des yeux. Vous devenez [[invisible]] si vous ne parlez pas, ne bougez pas et ne prenez pas d'action pendant 1 minute. Vous restez invisible jusqu'à 10 minutes ou jusqu'à ce que vous retiriez le masque, ne preniez de dégâts, n'attaquiez ou ne lanciez un sort. Tant que vous êtes invisibles, vous pouvez devenir translucide telle une image fantomatique ou complétement invisible pour une action bonus.
+Ce tissu blanc recouvre le visage de la même façon qu'un linceul le ferait, avec deux pièces d'or cousues au niveau des yeux. Vous devenez [[invisible]] si vous ne parlez pas, ne bougez pas et n'entreprenez pas d'action pendant 1 minute. Vous restez invisible jusqu'à 10 minutes ou jusqu'à ce que vous retiriez le masque, ne preniez de dégâts, n'attaquiez ou ne lanciez un sort. Tant que vous êtes invisibles, vous pouvez devenir translucide telle une image fantomatique ou complétement invisible pour une action bonus.
 
 **Amélioration.** À partir du niveau 6, tant que vous êtes invisible, vous lévitez quelques centimètres au-dessus du sol, vous permettant d'ignorer les terrains difficiles et de ne pas faire de bruit lorsque vous vous déplacez.

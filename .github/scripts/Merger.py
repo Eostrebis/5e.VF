@@ -1,9 +1,9 @@
 import os
 from pathlib import Path
 
-output_file = "eostrebis.md"
+output_file = "eostrebis_spells.md"
 
-md_files = sorted(Path('../../docs/').rglob('*.md'))
+md_files = sorted(Path('../../docs/sorts/').rglob('*.md'))
 
 with open(output_file, 'w', encoding='utf-8') as outfile:
     for file_path in md_files:

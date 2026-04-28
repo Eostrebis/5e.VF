@@ -30,4 +30,4 @@ Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une f
 
 ## Sort Ravageur
 
-À partir du niveau 17, lorsque vous infligez des dégâts à une créature avec un sort de clerc, vous pouvez dépenser un emplacement de sort pour une action bonus pour infliger des dégâts radiants supplémentaires à une créature qui a pris des dégâts avec le sort. Les dégâts supplémentaires sont de 2d6 pour un emplacement de sort de niveau 1, plus 1d6 pour chaque niveau au-delà, jusqu'à un maximum de 5d6.
+À partir du niveau 17, lorsque vous infligez des dégâts à une créature avec un sort de clerc, vous pouvez dépenser un emplacement de sort pour une action bonus pour infliger des dégâts radiants supplémentaires à une créature qui a subi des dégâts avec le sort. Les dégâts supplémentaires sont de 2d6 pour un emplacement de sort de niveau 1, plus 1d6 pour chaque niveau au-delà, jusqu'à un maximum de 5d6.

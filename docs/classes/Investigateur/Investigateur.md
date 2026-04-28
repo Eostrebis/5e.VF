@@ -163,7 +163,7 @@ Au niveau 7, vous gardez toujours une vaste variété de symboles et d'objets sa
 
 **Soin Miraculeux.** Pour une action, une main divine émane de vos mains pour apaiser les blessures d'une créature consentante que vous touchez. Cette créature regagne un nombre de points de vie égal au double de votre niveau d'investigateur. Cette aptitude n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
-**Protection.** Pour une action, vous dessinez un symbole sacré sur une créature à 5 ft. de vous, la protégeant contre le danger. Pendant la prochaine minute, les Monstruosités, les Célestes, les Élémentaires, les Fées, les Fiélons et les Morts-Vivants qui touchent la créature protégée ou la touchent avec une attaque de mêlée prennent 1d12 dégâts radiants.
+**Protection.** Pour une action, vous dessinez un symbole sacré sur une créature à 5 ft. de vous, la protégeant contre le danger. Pendant la prochaine minute, les Monstruosités, les Célestes, les Élémentaires, les Fées, les Fiélons et les Morts-Vivants qui touchent la créature protégée ou la touchent avec une attaque de mêlée subissent 1d12 dégâts radiants.
 
 ## Motivation Surnaturelle
 Au niveau 9, vous devenez résilient aux attaques et effets des créatures que vous investiguez régulièrement. Vous ne pouvez être possédé ou [[charmé]] et vous êtes résistants aux dégâts nécrotiques et psychiques.

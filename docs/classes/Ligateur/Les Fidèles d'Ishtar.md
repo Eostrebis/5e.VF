@@ -22,4 +22,4 @@ Au niveau 7, vous obtenez l'aptitude [[Ishtar, la Jalouse#Énamourement|Énamour
 
 ## Cœur Brisé
 
-Au niveau 14, l'amour d'Ishtar peut rendre fou ceux qui y sont exposés. Pour une action, vous pouvez terminer la condition [[charmé]] sur toutes les créatures charmées par vous que vous pouvez voir à 120 ft. Les créatures affectées prennent 4d8 dégâts psychiques.
+Au niveau 14, l'amour d'Ishtar peut rendre fou ceux qui y sont exposés. Pour une action, vous pouvez terminer la condition [[charmé]] sur toutes les créatures charmées par vous que vous pouvez voir à 120 ft. Les créatures affectées subissent 4d8 dégâts psychiques.

@@ -217,6 +217,6 @@ Au niveau 11, vous et votre cohorte combattez comme une unité soudée. Une fois
 
 ## Commandant Légendaire
 
-Au niveau 20, vous avez 3 actions légendaires. À la fin du tour d'une autre créature, vous pouvez dépenser une action légendaire pour prendre l'action de votre choix ou pour permettre à une créature à 60 ft. qui peut vous voir ou vous entendre de prendre l'action de son choix. Si une créature utilise cette action pour attaquer, elle peut attaquer plus d'une fois si l'une de ses capacités le permet.
+Au niveau 20, vous avez 3 actions légendaires. À la fin du tour d'une autre créature, vous pouvez dépenser une action légendaire pour entreprendre l'action de votre choix ou pour permettre à une créature à 60 ft. qui peut vous voir ou vous entendre d'entreprendre l'action de son choix. Si une créature utilise cette action pour attaquer, elle peut attaquer plus d'une fois si l'une de ses capacités le permet.
 
 Vous regagnez toutes les actions légendaires utilisées lorsque vous terminez un repos long.

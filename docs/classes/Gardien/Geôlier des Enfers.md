@@ -20,7 +20,7 @@ Au niveau 6, votre chair noircit et se durcit pour ressembler à celle d'un fié
 Au niveau 6, lorsque vous marquez une créature avec la [[Gardien#Marque du Gardien|Marque du Gardien]], la cible subit 1d6 dégâts de feu. Au niveau 11, ces dégâts passent à 2d6.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Volonté d'Enfer
 
