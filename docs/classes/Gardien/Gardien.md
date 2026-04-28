@@ -365,6 +365,6 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 ### Forme d'Ombre
 *Remplace la [[#Résolution du Gardien]]*
 
-À partir du niveau 3, lorsqu'il vous reste moins de la moitié de vos points de vie, vous disparaissez en un flou de ténèbres fluctuantes, imposant un désavantage à tout jet d'attaque de mêlée contre vous. Un attaquant ne subit pas ce désavantage s'il ne se base pas sur la vue, par exemple avec la vision aveugle ou s'il peut voir à travers les illusions, par exemple avec la vision véritable.
+À partir du niveau 3, lorsqu'il vous reste moins de la moitié de vos points de vie, vous disparaissez en un flou de ténèbres fluctuantes, imposant un désavantage à tout jet d'attaque de mêlée contre vous. Un attaquant ne subit pas ce désavantage s'il ne se base pas sur la vue, par exemple avec la vision aveugle ou s'il peut voir à travers les illusions, par exemple avec la vision totale.
 
 À partir du niveau 17, vous avez également l'avantage aux jets de sauvegarde de Force, Dextérité et Constitution que vous réalisez lorsque vous avez moins de la moitié de vos points de vie.

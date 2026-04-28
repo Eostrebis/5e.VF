@@ -60,6 +60,7 @@ markdown_extensions:
   - tables
   - attr_list
   - nl2br
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -95,6 +96,9 @@ plugins:
   - search
   - roamlinks-eostrebis 
   - callouts
+
+watch:
+  - includes
 
 
 extra_javascript:

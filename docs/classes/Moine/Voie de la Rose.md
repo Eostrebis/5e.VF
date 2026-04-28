@@ -19,7 +19,7 @@ Au niveau 6, vous pouvez réaliser une technique spéciale qui vous permet de di
 
 Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d'une faible aura. Lorsque vous terminez un repos long, choisissez l'une des auras suivantes, qui dure jusqu'à ce que vous utilisiez cette aptitude pour en choisir une autre. Cette aura fait effet 5 ft. autour de vous.
 
-**Rose.** La couleur de la gratitude, se lier à la rose rose transforme les bonnes actions en récompenses. Vous pouvez utiliser votre action bonus pour aider un allié dans votre aura.
+**Rose.** La couleur de la gratitude, se lier à la rose rose transforme les bonnes actions en récompenses. Vous pouvez utiliser votre action bonus pour Aider un allié dans votre aura.
 
 **Rouge.** La couleur du désir, se lier à la rose rouge vous emplit d'une passion ardente. Une créature non hostile autre que vous dans l'aura peut utiliser son action bonus lorsqu'elle touche avec une attaque pour infliger 1d6 dégâts supplémentaires.
 

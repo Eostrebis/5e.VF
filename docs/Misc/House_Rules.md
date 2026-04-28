@@ -60,7 +60,7 @@ En plus des repos courts et longs, vos personnages peuvent prendre une *p'tite p
  - Si les personnages sont pressés par le temps, il peuvent profiter d'un repos court en seulement 10 minutes, à la condition que tous les PJs puissent dépenser au moins 1 dé de vie. Une fois qu'ils ont réalisé un repos court de cette manière, ils ne peuvent plus le refaire tant qu'ils n'ont pas terminé un repos long.
 
 ### 3.2 Aide
-Pour aider un autre personnage, votre personnage doit soit maîtriser la compétence utilisée, soit posséder un score de caractéristique plus élevé que l'aidé. L'aide doit être signalée avant que le jet soit lancé.
+Pour Aider un autre personnage, votre personnage doit soit maîtriser la compétence utilisée, soit posséder un score de caractéristique plus élevé que l'aidé. L'aide doit être signalée avant que le jet soit lancé.
 
 ### 3.3 Nage
 Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous réalisez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework

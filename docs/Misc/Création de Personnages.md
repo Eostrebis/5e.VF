@@ -175,7 +175,7 @@ Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement
 - Fabriquer un petit objet ou un objet avec de petits détails
 
 > #### Se Cacher
-> En premier lieu, le MJ décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous Cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui recherche activement des signes de votre présence. 
+> En premier lieu, le MJ décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous Cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui Cherche activement des signes de votre présence. 
 > 
 > Vous ne pouvez pas vous Cacher d'une créature qui peut vous voir clairement, et vous révélez votre position si vous faites du bruit, comme crier ou renverser un vase. Une créature invisible ne peut pas être vue, elle peut donc toujours essayer de Se Cacher. Les signes de son passage peuvent toutefois être découverts et elle doit donc rester calme. 
 > En combat, la plupart des créatures sont attentives aux signes de danger autour d'elles, donc si vous sortez de votre cachette pour vous approcher d'une créature, elle va normalement vous voir. Toutefois, dans certaines circonstances, le MD peut vous permettre de rester caché si vous vous approchez d'une créature qui est distraite, vous permettant ainsi de gagner un avantage lors de votre attaque avant d'être vu. 
@@ -258,7 +258,7 @@ Un jet de Sagesse peut refléter l'effort pour lire le lange du corps, comprendr
 
 > #### Trouver un objet caché
 >
->Lorsque votre personnage recherche un objet caché, comme une porte secrète ou un piège, le MJ vous demandera généralement de faire un jet de Sagesse (Perception). Ce jet peut être utilisé pour trouver des détails cachés ou d'autres informations et indices que vous pourriez autrement négliger.
+>Lorsque votre personnage Cherche un objet caché, comme une porte secrète ou un piège, le MJ vous demandera généralement de faire un jet de Sagesse (Perception). Ce jet peut être utilisé pour trouver des détails cachés ou d'autres informations et indices que vous pourriez autrement négliger.
 >
 > Dans la plupart des cas, vous devez décrire où vous cherchez afin que le MJ puisse déterminer vos chances de succès. Par exemple, une clé est cachée sous des vêtements pliés dans le tiroir du haut d'un bureau. Si vous dites au MJ que vous cherchez autour de la salle, en regardant les murs et les meubles pour trouvez des indices, vous n'avez aucune chance de trouver la clé, quel que soit le résultat de votre jet de Sagesse (Perception). Vous devez spécifier que vous ouvrez les tiroirs ou que vous cherchez dans le bureau pour avoir une chance de succès.
 
