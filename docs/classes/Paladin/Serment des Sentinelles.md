@@ -50,7 +50,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 Au niveau 20, vous manifestez une étincelle de pouvoir divin dans votre défense des royaumes mortels. Pour une action bonus, vous bénéficiez des effets suivants pendant 1 minute :
 
- - Vous obtenez la [[vision totale]] sur une portée de 120 ft.
+ - Vous obtenez la vision totale sur une portée de 120 ft.
  - Vous avez l'avantage aux jets d'attaque contre les aberrations, les célestes, les élémentaires, les fées et les fiélons.
  - Lorsque vous touchez une créature avec un jet d'attaque et lui infligez des dégâts, vous pouvez également la forcer à réaliser un jet de sauvegarde de Charisme. Si elle échoue, la créature est magiquement bannie vers son plan natif si elle ne s'y trouve pas déjà. Si elle réussit, elle ne peut être bannie par cette aptitude pendant 24 heures.
  - 

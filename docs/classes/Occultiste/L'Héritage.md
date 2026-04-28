@@ -21,7 +21,7 @@ Votre ancien Patrimoine vous laisse choisir parmi une liste de sorts étendue lo
 À partir du moment où vous choisissez cette sous-classe au niveau 1, vous possédez une relique magique liée à votre patron qui vous permet de magiquement vous transformer ou de revenir à votre état normal pour une action bonus. La nature exacte de votre transformation varie d'un Patrimoine à l'autre, mais elle change toujours votre apparence et vous confère un pouvoir dramatique. Tant que vous êtes transformé, vous bénéficiez des effets suivants : 
 
  - Votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme.
- - Sauf par une créature avec une vision suprême ou qui vous a vu vous transformer, vous ne pouvez pas être reconnu sous votre véritable identité.
+ - Sauf par une créature avec une vision totale ou qui vous a vu vous transformer, vous ne pouvez pas être reconnu sous votre véritable identité.
  - Vous possédez un réservoir de dé de bataille, qui sont des d6s. Un dé de bataille est dépensé lorsque vous l'utilisez. Vous récupérez tous les dés de bataille dépensés lorsque vous terminez un repos ou que vous tirez l'initiative. Vos dés de bataille changent et plus de dés de bataille deviennent accessibles lorsque vous atteignez certains niveaux dans cette classe, comme montré dans la table ci-dessous.
  - Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque, vous pouvez lancer un dé de bataille et l'ajouter au jet de dégâts de l'attaque.
 
