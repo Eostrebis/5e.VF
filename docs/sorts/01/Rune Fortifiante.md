@@ -15,7 +15,7 @@ Materiel: true
 detailmat: Un bout de parchemin
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Rune of Fortification

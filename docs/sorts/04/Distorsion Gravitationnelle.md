@@ -13,7 +13,7 @@ Materiel: true
 detailmat: Un gyroscope
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: true
 englishname: Distort Gravity

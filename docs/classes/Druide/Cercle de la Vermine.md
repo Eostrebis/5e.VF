@@ -23,7 +23,7 @@ Au niveau 6, les vibrations dans le sol, et par extension par vous, résonnent �
 
 À partir du niveau 10, votre proximité constante avec des créatures porteuses de maladies ne vous a pas seulement inoculé nombre de maladies, mais a aussi fait de vous un vecteur de peste. Vous êtes immunisé aux maladies et à la condition [[empoisonné]]. Lorsque vous devriez réaliser un jet de sauvegarde de Constitution pour éviter de contracter une maladie ou d'être [[empoisonné]], vous pouvez plutôt devenir porteur de cette maladie ou de ce poison. Vous ne pouvez être porteur que d'une maladie ou d'un poison à la fois, et vous ne pouvez le ou la porter que 7 jours.
 
-Pour une réaction lorsque vous subissez des dégâts d'une  subissez des dégâtspouvez voir à 5 ft., vous pouvez transférer la maladie ou le poison que vous portez à la créature, qui doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort. Si elle échoue, la créature contracte la maladie ou le poison et vous n'en êtes plus le porteur.
+Pour une réaction lorsque vous subissez des dégâts d'une subissez des dégâtspouvez voir à 5 ft., vous pouvez transférer la maladie ou le poison que vous portez à la créature, qui doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort. Si elle échoue, la créature contracte la maladie ou le poison et vous n'en êtes plus le porteur.
 
 ## Maître des Essaims
 

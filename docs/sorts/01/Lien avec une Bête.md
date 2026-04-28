@@ -12,7 +12,7 @@ Materiel: true
 detailmat: Un morceau de fourrure dans du tissu
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Beast Bond

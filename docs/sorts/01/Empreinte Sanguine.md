@@ -19,7 +19,7 @@ Materiel: false
 detailmat: Quelques centilitres de sang
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Blood Print

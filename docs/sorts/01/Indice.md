@@ -15,7 +15,7 @@ Materiel: true
 detailmat: Une loupe et une pipe
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Clue

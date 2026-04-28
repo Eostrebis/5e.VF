@@ -11,7 +11,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Magic Stone

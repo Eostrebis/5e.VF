@@ -12,7 +12,7 @@ Materiel: true
 detailmat: Une pincée de poudre d'une pierre précieuse
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: False Vision

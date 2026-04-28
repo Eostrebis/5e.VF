@@ -11,7 +11,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Spare the Dying

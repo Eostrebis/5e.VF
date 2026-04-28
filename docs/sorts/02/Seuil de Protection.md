@@ -13,7 +13,7 @@ Materiel: true
 detailmat: Une once de sel pour chaque pied du périmètre protégé
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Protect Threshold

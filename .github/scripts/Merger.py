@@ -1,29 +1,22 @@
 import os
 from pathlib import Path
 
-# Nom du fichier final
-fichier_sortie = "eostrebis.md"
+output_file = "eostrebis.md"
 
-# rglob("*.md") cherche de manière récursive dans le dossier courant ('.')
-fichiers_md = sorted(Path('../../docs/').rglob('*.md'))
+md_files = sorted(Path('../../docs/').rglob('*.md'))
 
-with open(fichier_sortie, 'w', encoding='utf-8') as outfile:
-    for chemin_fichier in fichiers_md:
-        # Convertir le chemin en texte (ex: "sous_dossier/mon_fichier.md")
-        fichier_str = str(chemin_fichier)
+with open(output_file, 'w', encoding='utf-8') as outfile:
+    for file_path in md_files:
+        str_path = str(file_path)
 
-        # Sécurité : on ne s'inclut pas soi-même si le script tourne plusieurs fois
-        if chemin_fichier.name == fichier_sortie:
+        if file_path.name == output_file:
             continue
 
-        # 1. Écrire l'origine du fichier (avec son chemin complet depuis la racine)
-        outfile.write(f"## Fichier : `{fichier_str}`\n\n")
+        outfile.write(f"## Fichier : `{str_path}`\n\n")
 
-        # 2. Lire le contenu et l'ajouter
-        with open(chemin_fichier, 'r', encoding='utf-8') as infile:
+        with open(file_path, 'r', encoding='utf-8') as infile:
             outfile.write(infile.read())
 
-        # 3. Ajouter le séparateur
         outfile.write("\n\n---\n\n")
 
-print(f"Terminé ! Tous les fichiers (y compris dans les sous-dossiers) ont été fusionnés dans : {fichier_sortie}")
+print(f"Terminé ! Tous les fichiers (y compris dans les sous-dossiers) ont été fusionnés dans : {output_file}")

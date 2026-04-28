@@ -13,7 +13,7 @@ Materiel: true
 detailmat: La patte arrière d'une sauterelle
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Jump

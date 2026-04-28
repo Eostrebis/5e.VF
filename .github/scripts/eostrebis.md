@@ -3,12 +3,12 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Allié avec un dragon ou un aspect d'un dieu dragon_
+*Prérequis : Allié avec un dragon ou un aspect d'un dieu dragon*
 
 Les dragons inspirent l'admiration et la peur chez les mortels qui les aperçoivent. Beaucoup s'enfuient de terreur, mais quelques-uns s'effondrent sur leurs genoux et mains afin de se dévouer à leurs nouveaux maîtres draconiques. De tels acolytes draconiques cherchent à émuler ces immenses êtres et à éventuellement capturer une semblance de cette grandeur draconique.
 
-__Dés de Vie :__ 1d10
-__Points de Vie :__ 1d10 (6) + votre modificateur de Constitution.
+**Dés de Vie :** 1d10
+**Points de Vie :** 1d10 (6) + votre modificateur de Constitution.
 
 ## Alliance Draconique
 
@@ -46,10 +46,10 @@ writing_status: finished
 ---
 Les gens s'imaginent que vous n'êtes pas parmi les plus brillants. Bien sûr, vous tombez parfois et vous perdez vos mots, mais vous n'êtes pas stupide ! Peu importe ce que ces crânes d'œufs disent. Lorsque rien d'autre ne fonctionne, vous avez toujours la bonne remarque ou l'insulte appropriée à balancer, et vous avez toujours le dernier mot. 
 
-__Dé de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dé de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Outils :__ Un instrument de musique de votre choix
+**Outils :** Un instrument de musique de votre choix
 
 ## Cantrips Supplémentaires
 
@@ -74,15 +74,15 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 ---
 writing_status: finished
 ---
-_Prérequis : A été employé comme coursier, messager, contrebandier..._
+*Prérequis : A été employé comme coursier, messager, contrebandier...*
 
 Commerçant, contrebandier ou simplement messager, vous avez été chargé de voyager inlassablement pour délivrer colis ou lettres et vous en êtes devenu coutumier. Vous êtes vif d'esprit comme de corps et vous avez un sixième sens pour la navigation qui n'est égalé que par les marins et les vendeurs de boussoles. Ainsi, vous savez mettre à profit vos expériences pendant vos aventures.
 
-__Dés de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dés de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Langues :__ Une de votre choix
-__Outils :__ [[Outils de cartographe]], [[outils de navigateur]], un instrument de musique de votre choix
+**Langues :** Une de votre choix
+**Outils :** [[Outils de cartographe]], [[outils de navigateur]], un instrument de musique de votre choix
 
 ## Navigateur Compétent
 
@@ -106,15 +106,15 @@ Lorsque vous utilisez votre action pour Foncer, votre vitesse augmente de 30 ft.
 ---
 writing_status: finished
 ---
-_Prérequis : A rejoint un culte ou possède au moins un trait de Folie_
+*Prérequis : A rejoint un culte ou possède au moins un trait de Folie*
 
 Un pacte sombre, un grimoire noir relié de cuir, et vos camarades acolytes encapuchonnés : voilà vos souvenirs les plus nets de votre endoctrinement dans le culte, afin que votre esprit ne commence à s'éroder. Peu importe l'être terrible auquel votre société secrète est dévouée, ses enseignements vous ont révélé les énigmes de l'univers et ont contaminé chaque parcelle de votre esprit et chacune de vos pensées de paranoïa.
 
-__Dés de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dés de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Langues :__ Une choisie par le MJ
-__Compétences :__ Arcanes
+**Langues :** Une choisie par le MJ
+**Compétences :** Arcanes
 
 ## Incantation
 
@@ -130,7 +130,7 @@ Vous avez l'avantage aux jets de sauvegarde que vous réalisez afin d'éviter ou
 
 ## Intuition du Lunatique
 
-Lorsque vous réalisez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre intuition _unique_ vous permet de faire des liens, qui existent ou non, entre certains faits ou observations. Si le résultat du d20 pour le jet est pair, vous pouvez ajouter votre bonus de maîtrise au jet.
+Lorsque vous réalisez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre intuition *unique* vous permet de faire des liens, qui existent ou non, entre certains faits ou observations. Si le résultat du d20 pour le jet est pair, vous pouvez ajouter votre bonus de maîtrise au jet.
 
 ---
 
@@ -141,12 +141,12 @@ writing_status: finished
 ---
 Les recherches et l'entraînement sans relâche ont porté leurs fruits. Après des mois d'efforts, vous avez appris un nouvel artisanat, aiguisé vos compétences, vous êtes entraîné au combat et peut-être même avez eu la chance d'étudier.
 
-__Dé de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dé de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Outils :__ Un [[Outils d'Artisan|outil d'artisan]]
-__Langues :__ Une de votre choix
-__Compétences :__ Deux de votre choix
+**Outils :** Un [[Outils d'Artisan|outil d'artisan]]
+**Langues :** Une de votre choix
+**Compétences :** Deux de votre choix
 
 ## Incantation
 
@@ -167,14 +167,14 @@ Vous obtenez la maîtrise de trois armes [[armes simples|simples]] ou [[armes ma
 ---
 writing_status: finished
 ---
-_Prérequis : Incantation ou Magie de Pacte_
+*Prérequis : Incantation ou Magie de Pacte*
 
 La discrétion représente le pinacle à la fois de la bravoure et de la puissance arcanique. Grâce à quelques ruses ingénieuses, vous avez appris à cacher votre magie à la vue de tous, afin de passer pour un guerrier puissant, mais banal avant de prendre le dessus.
 
-__Dés de Vie :__ 1d6
-__Points de Vie :__ 1d6 (4) + votre modificateur de Constitution
+**Dés de Vie :** 1d6
+**Points de Vie :** 1d6 (4) + votre modificateur de Constitution
 
-__Compétences :__ Arcanes ou Tromperie
+**Compétences :** Arcanes ou Tromperie
 
 ## Incantation
 
@@ -197,12 +197,12 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 ---
 writing_status: finished
 ---
-_Prérequis : Incantation ou Magie de Pacte_
+*Prérequis : Incantation ou Magie de Pacte*
 
 À la différence des magiciens ordinaires qui apprennent leur discipline par le biais d'études longues et fastidieuses et par une formation formelle, vous avez découvert les sciences arcaniques de vous-même, lisant ce que vous pouviez trouver et découvrant des magies toujours plus puissantes par expérimentation. L'auto-formation n'est pas sans bénéfice, cependant, puisque vous êtes devenu particulièrement adepte de la plus simple forme de magie : les cantrips.
 
-__Dés de Vie :__ 1d6
-__Points de Vie :__ 1d6 (4) + votre modificateur de Constitution
+**Dés de Vie :** 1d6
+**Points de Vie :** 1d6 (4) + votre modificateur de Constitution
 
 ## Incantation
 
@@ -223,14 +223,14 @@ Vous pouvez ajouter votre modificateur de caractéristique d'incantation aux jet
 ---
 writing_status: finished
 ---
-_Prérequis : Niveau 3_
+*Prérequis : Niveau 3*
 
 Armé de patience (ou d'un peu de magie), vous avez apprivoisé un compagnon animal afin qu'il vous accompagne pendant vos aventures. Peu de personnes peuvent faire ami-ami avec un loup, mais ce serait dur de sous-estimer la valeur de ses crocs en pleine mêlée.
 
-__Dé de Vie :__ 1d10
-__Points de Vie__ : 1d10 (6) + votre modificateur de Constitution
+**Dé de Vie :** 1d10
+**Points de Vie** : 1d10 (6) + votre modificateur de Constitution
 
-__Compétences :__ Dressage
+**Compétences :** Dressage
 
 ## Compagnon Animal
 
@@ -290,14 +290,14 @@ Un niveau auxiliaire spécifie s'il vous confère des maîtrises ou langues lors
 ---
 writing_status: finished
 ---
-_Prérequis : Ordonné par une foi_
+*Prérequis : Ordonné par une foi*
 
 Bien que vous ne soyez pas investi de l'objectif divin d'un clerc, vous avez été ordonné comme prêtre de l'un des nombreux dieux. Votre destin est celui d'une vie tranquille au sein de l'église : diriger les offices, veiller sur votre congrégation, réaliser les rituels communautaires et autres tâches administratives. Même lorsque vous êtes à l'aventure, votre rôle est celui d'un révérend sans prétention, et non d'un clerc évangélisateur ou d'un paladin en croisade.
 
-__Dé de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dé de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Compétences :__ Religion
+**Compétences :** Religion
 
 ## Incantation
 
@@ -315,9 +315,9 @@ Lorsque vous utilisez votre Canal Divin, vous choisissez l'effet à créer. Vous
 
 Certains effets de Canal Divin requièrent des jets de sauvegarde. Lorsque vous utilisez un tel effet depuis cette classe, le DD est égal à 8 + votre bonus de maîtrise + votre modificateur de Sagesse.
 
-__Soin Pieu.__ Pour une action, vous pouvez présenter votre symbole sacré et toucher un Humanoïde consentant afin d'apaiser ses blessures. La créature lance un nombre de d8s égal à la moitié de votre niveau (arrondi à l'inférieur) et regagne autant de point de vie + votre modificateur de Sagesse. Cette aptitude n'a aucun effet sur les Morts-Vivants ou les Constructions.
+**Soin Pieu.** Pour une action, vous pouvez présenter votre symbole sacré et toucher un Humanoïde consentant afin d'apaiser ses blessures. La créature lance un nombre de d8s égal à la moitié de votre niveau (arrondi à l'inférieur) et regagne autant de point de vie + votre modificateur de Sagesse. Cette aptitude n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
-__Renvoi des Morts-Vivants.__ Pour une action, vous présentez votre symbole sacré et prononcez une prière bannissant les morts-vivants. Chaque Mort-Vivant qui peut vous voir ou vous entendre à 30 ft. doit réussir un jet de sauvegarde de Sagesse ou être renvoyé pendant 1 minute ou jusqu'à ce qu'il prenne des dégâts.
+**Renvoi des Morts-Vivants.** Pour une action, vous présentez votre symbole sacré et prononcez une prière bannissant les morts-vivants. Chaque Mort-Vivant qui peut vous voir ou vous entendre à 30 ft. doit réussir un jet de sauvegarde de Sagesse ou être renvoyé pendant 1 minute ou jusqu'à ce qu'il prenne des dégâts.
 
 Une créature renvoyée doit passer son tour à essayer de s'éloigner le plus possible de vous qu'elle le peut, et elle ne peut se déplacer consciemment vers un emplacement à 30 ft. de vous. Elle ne peut également pas prendre de réactions. Pour son action, elle ne peut prendre que l'action de Foncer ou essayer de s'échapper d'un effet qui l'empêcherait de se déplacer. S'il n'y a aucun endroit où se déplacer, la créature peut utiliser l'action d'Esquive.
 
@@ -330,7 +330,7 @@ writing_status: wip
 ---
 Alors que les autres guerriers s'équipent d'épées et de haches, vous utilisez vos poings et votre mauvais caractère pour faire tomber vos ennemis. Vous maîtrisez parfaitement cet art du combat à mains nues grâce à de nombreux combats clandestins pour de l'argent, la gloire ou la liberté.
 
-__Compétences :__ Athlétisme ou Acrobatie
+**Compétences :** Athlétisme ou Acrobatie
 
 ---
 
@@ -408,15 +408,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ Hoom
+**Race :** Hoom
 
-__Classe :__ Ensorceleur
+**Classe :** Ensorceleur
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 8
+**Points de vie :** 8
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :----: | :-----: | :-----: | :-----: | :-----: |
@@ -425,15 +425,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : | ◎ Investigation (_Int_) : ±0 |
-| ◎ Arcanes (_Int_) : ±0 | ◉ Médecine (_Sag_) : ±0 |
-| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : ±0<br> |
-| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : ±0 |
-| ◎ Dressage (_Sag_) : ±0 | ◎ Persuasion (_Cha_) : ±0 |
-| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : ±0 |
-| ◉ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : ±0<br> |
+| ◎ Acrobaties (*Dex*) : | ◎ Investigation (*Int*) : ±0 |
+| ◎ Arcanes (*Int*) : ±0 | ◉ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : ±0 | ◎ Nature (*Int*) : ±0<br> |
+| ◎ Discrétion (*Dex*) : ±0 | ◎ Perception (*Sag*) : ±0 |
+| ◎ Dressage (*Sag*) : ±0 | ◎ Persuasion (*Cha*) : ±0 |
+| ◎ Escamotage (*Dex*) : ±0 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : ±0 |
+| ◎ Intimidation (*Cha*) : ±0 | ◎ Survie (*Sag*) : ±0 |
+| ◉ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : ±0<br> |
 
 #### Maîtrises
 
@@ -443,15 +443,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** 
 
-__Langues__ : Commun, 
+**Langues** : Commun, 
 
 ### Description
 
-__Âge :__ 32 ans
+**Âge :** 32 ans
 
-__Taille :__ 1,80 m
+**Taille :** 1,80 m
 
-__Poids :__ 55 kg
+**Poids :** 55 kg
 
 Maître Alkahib est une figure de contradictions majestueuses. C'est un Hoom de grande taille, dont l'envergure, lorsqu'il déploie ses ailes, est véritablement impressionnante. Son plumage, doux et épais, rappelle celui d'un grand-duc, avec des teintes de gris ardoise et de blanc. Cependant, un détail étrange trahit sa nature profonde : les extrémités de ses plumes, particulièrement sur le bord de ses ailes et de sa queue, ont des reflets cuivrés et iridescents, comme si elles avaient été en permanence léchées par une flamme intérieure qui ne s'éteint jamais.
 
@@ -493,15 +493,15 @@ Votre magie volatile jaillit violemment lorsque votre corps vous fait défaut. Q
 
 ### Traits de Personnalité
 
-__Traits :__ 
+**Traits :** 
 
-__Idéal :__ 
+**Idéal :** 
 
-__Lien :__ 
+**Lien :** 
 
-__Défaut :__ 
+**Défaut :** 
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseils de jeu
 
@@ -514,15 +514,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Firbolg
+**Race :** Firbolg
 
-__Classe :__ Martyr
+**Classe :** Martyr
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 16
+**Points de vie :** 16
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :----: | :-----: | :----: | :-----: | :----: |
@@ -531,15 +531,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : -1 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : -2 | ◎ Nature (_Int_) : -2<br> |
-| ◎ Discrétion (_Dex_) : -1 | ◎ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : +1 | ◎ Persuasion (_Cha_) : -2 |
-| ◎ Escamotage (_Dex_) : -1 | ◉ Religion (_Int_) : ±0 |
-| ◉ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : -2 |
-| ◎ Intimidation (_Cha_) : -2 | ◎ Survie (_Sag_) : +1 |
-| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : -2<br> |
+| ◎ Acrobaties (*Dex*) : -1 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : -2 | ◎ Nature (*Int*) : -2<br> |
+| ◎ Discrétion (*Dex*) : -1 | ◎ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : +1 | ◎ Persuasion (*Cha*) : -2 |
+| ◎ Escamotage (*Dex*) : -1 | ◉ Religion (*Int*) : ±0 |
+| ◉ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : -2 |
+| ◎ Intimidation (*Cha*) : -2 | ◎ Survie (*Sag*) : +1 |
+| ◉ Intuition (*Sag*) : +3 | ◎ Tromperie (*Cha*) : -2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Ambre, un ancien firbolg quasi-immortel venu du Plan Astral, dont le corps incroyablement résistant mais physiquement faible a servi de réceptacle à la souffrance d'un dieu mort pendant des siècles, et qui cherche maintenant une nouvelle "cause" pour laquelle souffrir dans le monde matériel.
@@ -561,15 +561,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** —
 
-__Langues__ : Commun, Primordial, Céleste, Nain
+**Langues** : Commun, Primordial, Céleste, Nain
 
 ### Description
 
-__Âge :__ ?? ans (Apparence de 35 ans)
+**Âge :** ?? ans (Apparence de 35 ans)
 
-__Taille :__ 2,10 m
+**Taille :** 2,10 m
 
-__Poids :__ 110 kg
+**Poids :** 110 kg
 
 Ambre est une silhouette à la fois imposante et paradoxale. Bien qu'il soit d'une taille spectaculaire, même pour un firbolg, il n'a rien de la carrure massive que l'on attendrait. Il est élancé, presque fragile, avec de longs membres fins qui semblent mal à l'aise avec la lourdeur de la gravité.
 
@@ -646,15 +646,15 @@ Votre esprit et votre corps sont saturés par la volonté rémanente du dieu mor
 
 ### Traits de Personnalité
 
-__Traits :__ Je vois des signes dans la moindre action. Les dieux nous parlent et il nous faut les écouter. Je cite (parfois à tort) souvent les textes sacrés et les proverbes de ma foi.
+**Traits :** Je vois des signes dans la moindre action. Les dieux nous parlent et il nous faut les écouter. Je cite (parfois à tort) souvent les textes sacrés et les proverbes de ma foi.
 
-__Idéal :__ Les anciennes traditions de vénération et de sacrifice doivent être préservées et respectées.
+**Idéal :** Les anciennes traditions de vénération et de sacrifice doivent être préservées et respectées.
 
-__Lien :__ Je ferai n'importe quoi pour accomplir la mission donnée par mon dieu.
+**Lien :** Je ferai n'importe quoi pour accomplir la mission donnée par mon dieu.
 
-__Défaut :__ Je suis inflexible dans ma façon de penser.
+**Défaut :** Je suis inflexible dans ma façon de penser.
 
-__Alignement :__ Loyal Bon
+**Alignement :** Loyal Bon
 
 ## Conseils de Jeu
 
@@ -698,15 +698,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Volanzée
+**Race :** Volanzée
 
-__Classe :__ Fusilier
+**Classe :** Fusilier
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 6
+**Points de vie :** 6
 
-__Vitesse :__ 30 ft. (escalade 30 ft.)
+**Vitesse :** 30 ft. (escalade 30 ft.)
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :----: | :-----: | :-----: | :-----: |
@@ -715,15 +715,15 @@ __Vitesse :__ 30 ft. (escalade 30 ft.)
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +5 | ◎ Investigation (_Int_) : ±0 |
-| ◎ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : ±0 |
-| ◎ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : ±0 |
-| ◉ Discrétion (_Dex_) : +5 | ◉ Perception (_Sag_) : +2 |
-| ◎ Dressage (_Sag_) : ±0 | ◉ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : +1 |
-| ◎ Intimidation (_Cha_) : +1 | ◎ Survie (_Sag_) : ±0 |
-| ◎ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : +1 |
+| ◉ Acrobaties (*Dex*) : +5 | ◎ Investigation (*Int*) : ±0 |
+| ◎ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : ±0 |
+| ◉ Discrétion (*Dex*) : +5 | ◉ Perception (*Sag*) : +2 |
+| ◎ Dressage (*Sag*) : ±0 | ◉ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : +1 |
+| ◎ Intimidation (*Cha*) : +1 | ◎ Survie (*Sag*) : ±0 |
+| ◎ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : +1 |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Awahp, le dernier survivant d'une compagnie de mercenaires d'élite, un tireur d'exception qui a tout perdu lors d'une trahison et qui ne vit plus que pour entretenir son bras mécanique et traquer ceux qui ont massacré ses frères d'armes. 
@@ -745,15 +745,15 @@ __Vitesse :__ 30 ft. (escalade 30 ft.)
 
 **Outils :** [[Set de dé]], [[Jeu de Cartes]], Véhicules Terrestres
 
-__Langues__ : Commun, Gobelin
+**Langues** : Commun, Gobelin
 
 ### Description
 
-__Âge :__ 29 ans
+**Âge :** 29 ans
 
-__Taille :__ 1,75 m
+**Taille :** 1,75 m
 
-__Poids :__ 75 kg
+**Poids :** 75 kg
 
 Awahp n'est pas massif. Il est plutôt grand, avec une silhouette élancée et des membres longs et nerveux, un physique optimisé pour l'escalade et l'agilité. Son corps est couvert d'une fourrure d'un brun foncé, courte et dense, idéale pour se fondre dans les ombres des villes ou des forêts. Lorsqu'il bouge, on peut apercevoir les patagiums, ces membranes de peau repliées entre ses bras et ses jambes, qui lui permettent de planer. Son visage est celui d'un singe, mais intelligent et sévère, marqué par une vie difficile. Ses yeux, vifs et perçants, mais cachés derrière d'épaisses lunettes rondes, sont constamment en mouvement, analysant les angles, les distances et les issues potentielles. Une cicatrice fine mais blanche traverse son œil et son sourcil gauche, souvenir de l'atterrissage brutal qui lui a coûté son bras. Il est rare de le voir sourire ; son expression habituelle est un masque de concentration professionnelle et de méfiance.
 
@@ -766,17 +766,17 @@ Il porte des vêtements de voyageur pratiques et usés, sans fioritures. Plusieu
 
 ### Aptitudes de Race
 
-__Pieds Dextres.__ Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
+**Pieds Dextres.** Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
 
-**Planage.** Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous prenez 0 dégâts de la chute. Vous déterminez la réaction du planage.
+**Planage.** Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous subissez 0 dégâts de la chute. Vous déterminez la réaction du planage.
 
-**Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+**Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ### Aptitudes de Classe
 
 #### Œil de Lynx
 
-Vous gagnez un bonus de +2 aux jets d'attaque à distance que vous réalisez avec une arme à feu. L'arme doit avoir la propriété _Viseur_ ou une portée normale supérieure à 80 ft. pour que vous puissiez bénéficier de cet effet. Cet effet ne se cumule pas avec le style de combat Archerie.
+Vous gagnez un bonus de +2 aux jets d'attaque à distance que vous réalisez avec une arme à feu. L'arme doit avoir la propriété *Viseur* ou une portée normale supérieure à 80 ft. pour que vous puissiez bénéficier de cet effet. Cet effet ne se cumule pas avec le style de combat Archerie.
 
 #### Dégaine Rapide
 
@@ -820,15 +820,15 @@ Grâce à, ou plutôt à cause de, sa blessure, Awahp est désormais équipé d'
 
 ### Traits de Personnalité
 
-__Traits :__ J'ai perdu trop d'amis, et je suis réticent à m'en faire de nouveaux. Je suis traumatisé par les images de guerre, je ne peux pas me sortir les images de la tête.
+**Traits :** J'ai perdu trop d'amis, et je suis réticent à m'en faire de nouveaux. Je suis traumatisé par les images de guerre, je ne peux pas me sortir les images de la tête.
 
-__Idéal :__ Lorsque les gens suivent bêtement les ordres, ils ne font qu'embrasser la tyrannie.
+**Idéal :** Lorsque les gens suivent bêtement les ordres, ils ne font qu'embrasser la tyrannie.
 
-__Lien :__ Je n'oublierai jamais le massacre de mes camarades ni les ennemis qui l'ont réalisé.
+**Lien :** Je n'oublierai jamais le massacre de mes camarades ni les ennemis qui l'ont réalisé.
 
-__Défaut :__ Le feu qui a dévoré mes camarades me laisse encore aujourd'hui tremblant de peur.
+**Défaut :** Le feu qui a dévoré mes camarades me laisse encore aujourd'hui tremblant de peur.
 
-__Alignement :__ Chaotique Neutre
+**Alignement :** Chaotique Neutre
 
 ## Conseils de Jeu
 
@@ -847,15 +847,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Elfe#Elfe des mers|Elfe des mers]]
+**Race :** [[Elfe#Elfe des mers|Elfe des mers]]
 
-__Classe :__ [[Ranger]]
+**Classe :** [[Ranger]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 12
+**Points de vie :** 12
 
-__Vitesse :__ 30 ft., Nage 30 ft.
+**Vitesse :** 30 ft., Nage 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -864,15 +864,15 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +5 | ◎ Investigation (_Int_) : +1 |
-| ◎ Arcanes (_Int_) : +1 | ◎ Médecine (_Sag_) : +1 |
-| ◎ Athlétisme (_For_) : -1 | ⬤ Nature (_Int_) : +5<br> |
-| ◉ Discrétion (_Dex_) : +7 | ◉ Perception (_Sag_) : +3 |
-| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : +5 | ◎ Religion (_Int_) : +1 |
-| ◉ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +3 |
-| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3<br> |
+| ◎ Acrobaties (*Dex*) : +5 | ◎ Investigation (*Int*) : +1 |
+| ◎ Arcanes (*Int*) : +1 | ◎ Médecine (*Sag*) : +1 |
+| ◎ Athlétisme (*For*) : -1 | ⬤ Nature (*Int*) : +5<br> |
+| ◉ Discrétion (*Dex*) : +7 | ◉ Perception (*Sag*) : +3 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +5 | ◎ Religion (*Int*) : +1 |
+| ◉ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : +3 |
+| ◎ Intimidation (*Cha*) : +3 | ◉ Survie (*Sag*) : +3 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3<br> |
 
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
@@ -896,15 +896,15 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 
 **Outils :** —
 
-__Langues__ : Commun, Aquatique, Elfique, Reptilien, Astral
+**Langues** : Commun, Aquatique, Elfique, Reptilien, Astral
 
 ### Description
 
-__Âge :__ 1140 ans
+**Âge :** 1140 ans
 
-__Taille :__ 11,88 m
+**Taille :** 11,88 m
 
-__Poids :__ 78 kg
+**Poids :** 78 kg
 
 Aymer a la beauté surnaturelle et la présence assurée d'un prince guerrier d'un autre monde. Sa silhouette est élancée et athlétique, un équilibre parfait entre la grâce elfique et la puissance d'un prédateur endurci. Chaque muscle est dessiné, non pas avec la lourdeur d'un combattant de la surface, mais avec la fluidité d'un corps habitué à se mouvoir dans les trois dimensions de l'océan.
 
@@ -975,25 +975,25 @@ Aymer a accepté la mission sans hésiter, le cœur lourd de quitter son foyer m
 
 ### Traits de Personnalité
 
-__Traits :__ Je travaille dur ; la nature ne fait pas de cadeau. Je ne suis pas perturbé par les colères de la nature.
+**Traits :** Je travaille dur ; la nature ne fait pas de cadeau. Je ne suis pas perturbé par les colères de la nature.
 
-__Idéal :__ Contiens ton avarice, et la nature te récompensera.
+**Idéal :** Contiens ton avarice, et la nature te récompensera.
 
-__Lien :__ L'océan n'est pas juste mon foyer, il est le sang qui coule dans mes veines. Je ressens chaque blessure qu'on lui inflige comme la mienne, et je traquerai sans relâche ceux qui l'empoisonnent.
+**Lien :** L'océan n'est pas juste mon foyer, il est le sang qui coule dans mes veines. Je ressens chaque blessure qu'on lui inflige comme la mienne, et je traquerai sans relâche ceux qui l'empoisonnent.
 
-__Défaut :__ Je deviens anxieux et déprimé si je suis loin de la mer trop longtemps.
+**Défaut :** Je deviens anxieux et déprimé si je suis loin de la mer trop longtemps.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseils de jeu
 
 Sa voix est calme et posée, avec une musicalité naturelle, comme le bruit des vagues qui viennent mourir sur la plage. Son ton est naturellement persuasif et agréable, ce qui explique en partie son charisme.
 
 Il pense et parle en termes marins. C'est sa vision du monde.
-- Un plan compliqué est _"plus emmêlé qu'un champ d'algues"_.
-- Une personne de confiance est _"aussi fiable que la marée"_.
-- Pour dire "allons-y", il dira _"Suivons le courant"_.
-- Une mauvaise situation est une _"marée contraire"_.
+- Un plan compliqué est *"plus emmêlé qu'un champ d'algues"*.
+- Une personne de confiance est *"aussi fiable que la marée"*.
+- Pour dire "allons-y", il dira *"Suivons le courant"*.
+- Une mauvaise situation est une *"marée contraire"*.
 
 Il n'est jamais parfaitement immobile. Même debout, il a un très léger balancement, un mouvement fluide et presque imperceptible, comme s'il était encore bercé par les courants de l'océan. Il se sent physiquement et mentalement mal à l'aise s'il reste "au sec" trop longtemps. Il a des tics liés à l'eau : il cherchera instinctivement la moindre fontaine pour y tremper ses mains, passera souvent une main humide dans ses cheveux, ou prendra un malin plaisir à marcher sous la pluie.
 
@@ -1006,15 +1006,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Humain
+**Race :** Humain
 
-__Classe :__ Paladin
+**Classe :** Paladin
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 12
+**Points de vie :** 12
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :----: | :-----: | :-----: |
@@ -1023,27 +1023,27 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : +2 | ◎ Nature (_Int_) : -2<br> |
-| ◎ Discrétion (_Dex_) : +2 | ◎ Perception (_Sag_) : +1 |
-| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +2 |
-| ◎ Escamotage (_Dex_) : +2 | ◉ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : -2 | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +3 |
-| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : +2<br> |
+| ◎ Acrobaties (*Dex*) : +2 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : +2 | ◎ Nature (*Int*) : -2<br> |
+| ◎ Discrétion (*Dex*) : +2 | ◎ Perception (*Sag*) : +1 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +2 |
+| ◎ Escamotage (*Dex*) : +2 | ◉ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : -2 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◉ Survie (*Sag*) : +3 |
+| ◉ Intuition (*Sag*) : +3 | ◎ Tromperie (*Cha*) : +2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Cofeh, une paladine à la foi simple et inébranlable, dont la force et l'optimisme sont aussi éclatants que son armure, et dont la solution à la plupart des problèmes est de foncer tête baissée pour protéger les innocents.
 > 
->__Objectif pour la session__ :
+>**Objectif pour la session** :
 >Votre mentor, le Père Elric, vous a envoyé dans le monde pour "être le bouclier des faibles". Votre objectif est donc très simple : trouver des gens qui ont des ennuis, identifier le "méchant" de l'histoire, et le punir très fort pour que les gens n'aient plus d'ennuis.
 >
->__Parlez Simplement, Agissez Directement :__ Utilisez des phrases courtes et des mots simples. Votre personnage ne comprend pas la subtilité. Face à un problème, votre premier réflexe n'est pas de réfléchir, mais d'agir. Foncez, posez les questions (souvent très naïves) après. "Pourquoi est-il méchant ? On devrait lui demander. Après l'avoir arrêté."
+>**Parlez Simplement, Agissez Directement :** Utilisez des phrases courtes et des mots simples. Votre personnage ne comprend pas la subtilité. Face à un problème, votre premier réflexe n'est pas de réfléchir, mais d'agir. Foncez, posez les questions (souvent très naïves) après. "Pourquoi est-il méchant ? On devrait lui demander. Après l'avoir arrêté."
 >
->__Le Bulldozer du Bien :__ Vous êtes un torrent d'énergie positive et de protection. Adoptez une posture héroïque, donnez des grandes tapes dans le dos de vos amis, et soyez toujours la première volontaire pour une tâche difficile ou dangereuse. Votre enthousiasme est votre plus grande force.
+>**Le Bulldozer du Bien :** Vous êtes un torrent d'énergie positive et de protection. Adoptez une posture héroïque, donnez des grandes tapes dans le dos de vos amis, et soyez toujours la première volontaire pour une tâche difficile ou dangereuse. Votre enthousiasme est votre plus grande force.
 >
->__L'Armure est l'Âme :__ Votre armure est le symbole de votre pureté. Passez du temps à la polir. Votre bouclier est une extension de vos émotions : brandissez-le fièrement, cachez-vous un peu derrière quand vous êtes perplexe. Rappelez-vous votre défaut : vous préférez "manger votre armure" plutôt que d'admettre que vous avez eu tort.
+>**L'Armure est l'Âme :** Votre armure est le symbole de votre pureté. Passez du temps à la polir. Votre bouclier est une extension de vos émotions : brandissez-le fièrement, cachez-vous un peu derrière quand vous êtes perplexe. Rappelez-vous votre défaut : vous préférez "manger votre armure" plutôt que d'admettre que vous avez eu tort.
 
 #### Maîtrises
 
@@ -1053,15 +1053,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Ustensiles de Cuisinier]], Véhicules Terrestres
 
-__Langues__ : Commun, Céleste
+**Langues** : Commun, Céleste
 
 ### Description
 
-__Âge :__ 21 ans
+**Âge :** 21 ans
 
-__Taille :__ 1,78 m
+**Taille :** 1,78 m
 
-__Poids :__ 76 kg
+**Poids :** 76 kg
 
 Cofeh est une vision de détermination et de ferveur incarnée. Solidement bâtie, avec des épaules larges et une carrure forgée par l'entraînement et une vie de labeur, elle a la présence physique d'un véritable rempart. Pourtant, elle ne dégage pas l'aura d'une noble guerrière distante ou d'un juge austère, mais plutôt celle d'une sœur aînée protectrice, incroyablement enthousiaste et toujours prête à l'action.
 
@@ -1082,7 +1082,7 @@ En somme, Cofeh ressemble exactement à ce qu'elle est : un chevalier en armure 
 
 Vous savez utiliser votre armure pour dévier les coups qui vous seraient létaux. Vous bénéficiez de l'effet suivant : 
 
- - Tant que vous portez une armure lourde, les dégâts contondants, perçants et tranchants que vous prenez de sources non magiques sont réduits de 3.
+ - Tant que vous portez une armure lourde, les dégâts contondants, perçants et tranchants que vous subissez de sources non magiques sont réduits de 3.
 
 ### Aptitudes de Classe
 
@@ -1138,15 +1138,15 @@ La détermination de Cofeh à se jeter dans la mêlée pour protéger les autres
 
 ### Traits de Personnalité
 
-__Traits :__ Si je vois quelqu'un en difficulté, je me dois de l'aider. Réfléchir c'est pour les autres, quand est-ce qu'on s'y met ?
+**Traits :** Si je vois quelqu'un en difficulté, je me dois de l'aider. Réfléchir c'est pour les autres, quand est-ce qu'on s'y met ?
 
-__Idéal :__ Tout le monde mérite d'être traité avec dignité et respect.
+**Idéal :** Tout le monde mérite d'être traité avec dignité et respect.
 
-__Lien :__ Je protège ceux qui ne peuvent se protéger.
+**Lien :** Je protège ceux qui ne peuvent se protéger.
 
-__Défaut :__ Je préférerais manger mon armure que d'admettre que j'ai tort.
+**Défaut :** Je préférerais manger mon armure que d'admettre que j'ai tort.
 
-__Alignement :__ Loyal Bon
+**Alignement :** Loyal Bon
 
 ## Conseils de jeu
 
@@ -1163,15 +1163,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Kobold draconique
+**Race :** Kobold draconique
 
-__Classe :__ Guerrier
+**Classe :** Guerrier
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 13
+**Points de vie :** 13
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
@@ -1180,15 +1180,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1 | ◉ Investigation (_Int_) : +2 |
-| ◎ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : -1 |
-| ◎ Athlétisme (_For_) : +4 | ◎ Nature (_Int_) : ±0 |
-| ◎ Discrétion (_Dex_) : +1 | ◎ Perception (_Sag_) : -1 |
-| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : +1 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : +3 |
-| ◉ Intimidation (_Cha_) : +5 | ◉ Survie (_Sag_) : +1 |
-| ◉ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3 |
+| ◎ Acrobaties (*Dex*) : +1 | ◉ Investigation (*Int*) : +2 |
+| ◎ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : -1 |
+| ◎ Athlétisme (*For*) : +4 | ◎ Nature (*Int*) : ±0 |
+| ◎ Discrétion (*Dex*) : +1 | ◎ Perception (*Sag*) : -1 |
+| ◎ Dressage (*Sag*) : -1 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +1 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : +3 |
+| ◉ Intimidation (*Cha*) : +5 | ◉ Survie (*Sag*) : +1 |
+| ◉ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3 |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Daak, un surprenant kobold Chevalier de Solamnia, qui a transformé la peur de son peuple en une discipline de fer et dont les rugissements tactiques transforment le chaos du combat en une symphonie de victoire pour sa "meute".
@@ -1210,15 +1210,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Aucun
 
-__Langues__ : Commun, Draconique, Gnome, Infernal
+**Langues** : Commun, Draconique, Gnome, Infernal
 
 ### Description
 
-__Âge :__ 13 ans
+**Âge :** 13 ans
 
-__Taille :__ 85 cm (taille P)
+**Taille :** 85 cm (taille P)
 
-__Poids :__ 15 kg
+**Poids :** 15 kg
 
 Malgré sa petite taille de kobold, Daak projette une silhouette étonnamment féroce, une mosaïque de dévotion draconique et de ressources tirées d'un monde hostile. Son corps est couvert d'écailles robustes d'un brun-rouille, et ses muscles sont noueux, définis par une agilité et une endurance constantes. Ses yeux, deux billes d'un jaune brillant, brûlent d'une intensité qui dément la couardise habituelle de son espèce.
 
@@ -1239,13 +1239,13 @@ Le reste de son armure est composé de pièces de cuir durci et de peaux cousues
 
 **Hurlement Draconique.** Pour une action bonus, vous laissez s'échapper un grondement à vos ennemis à 10 ft. Jusqu'au début de votre prochain tour, vous et vos alliés avez l'avantage à vos jets d'attaque contre les ennemis qui ont pu vous entendre. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges utilisées lorsque vous utilisez un repos long.
 
-__Défiance.__ Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
+**Défiance.** Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
 
 ### Aptitudes de Classe
 
 #### Interception
 
-Lorsqu'une créature que vous pouvez voir touche une cible, autre que vous, à 5 ft. de vous avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts que prend la cible de 1d10 + votre bonus de maîtrise dégâts. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
+Lorsqu'une créature que vous pouvez voir touche une cible, autre que vous, à 5 ft. de vous avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts que subit la cible de 1d10 + votre bonus de maîtrise dégâts. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
 
 #### Second Souffle
 
@@ -1285,7 +1285,7 @@ Ce jour-là, Daak a compris. La peur était une maladie, et le "Yip !" en était
 
 Il a commencé à s'entraîner. Chaque jour, dans les tunnels vides, il s'exerçait à transformer le glapissement de ses poumons en quelque chose de nouveau. Sa gorge était à vif, sa voix se brisait, mais il persévéra. Le "Yip !" devint un aboiement. L'aboiement devint un grondement. Et un jour, un véritable rugissement, bref mais puissant, jaillit de sa petite poitrine, faisant vibrer les stalactites. Ce jour-là, il se baptisa "Gueule-de-Wyrm".
 
-Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit, mais celle du courage qu'on inspire. En attendant, il a rejoint la confrérie des Chevaliers de Solamnia.
+Il a quitté les ruines de son passé, non pas en tant que réfugié, mais en tant que fondateur. Il ne cherchait pas un nouveau maître, mais une nouvelle meute. Peu importait leur taille, leur race ou leur force. Il serait leur courage. Il serait leur voix. Il serait le cœur battant qui ne flanche jamais. Son histoire n'est plus celle de la peur qu'on subit , mais celle du courage qu'on inspire. En attendant, il a rejoint la confrérie des Chevaliers de Solamnia.
 
 ### Aptitude d'Historique
 
@@ -1297,15 +1297,15 @@ L'entraînement de Daak en tant que Chevalier de Solamnia lui confère les effet
 
 ### Traits de Personnalité
 
-__Traits :__ Je n'ai aucune confiance dans les entités divines. J'aime lire et apprendre de la poésie. Cela m'aide à rester calme et me procure quelques rares instants de bonheur.
+**Traits :** Je n'ai aucune confiance dans les entités divines. J'aime lire et apprendre de la poésie. Cela m'aide à rester calme et me procure quelques rares instants de bonheur.
 
-__Idéal :__ J'aide ceux qui en ont besoin, quoi qu'il m'en coûte.
+**Idéal :** J'aide ceux qui en ont besoin, quoi qu'il m'en coûte.
 
-__Lien :__ Je conserve mes pensées et mes découvertes dans un journal. Ce journal est mon héritage
+**Lien :** Je conserve mes pensées et mes découvertes dans un journal. Ce journal est mon héritage
 
-__Défaut :__ Je parle à des esprits que je suis le seul à voir.
+**Défaut :** Je parle à des esprits que je suis le seul à voir.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseil de Jeu
 
@@ -1322,15 +1322,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Centaure
+**Race :** Centaure
 
-__Classe :__ Barde
+**Classe :** Barde
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 10
+**Points de vie :** 10
 
-__Vitesse :__ 40 ft.
+**Vitesse :** 40 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :----: | :-----: | :-----: |
@@ -1339,15 +1339,15 @@ __Vitesse :__ 40 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : -2 | ◉ Nature (_Int_) : ±0<br> |
-| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : +1 |
-| ◉ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : -2 |
-| ◎ Histoire (_Int_) : -2 | ◉ Représentation (_Cha_) : +5 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +1 |
-| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +3<br> |
+| ◉ Acrobaties (*Dex*) : +2 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : -2 | ◉ Nature (*Int*) : ±0<br> |
+| ◎ Discrétion (*Dex*) : ±0 | ◎ Perception (*Sag*) : +1 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : ±0 | ◎ Religion (*Int*) : -2 |
+| ◎ Histoire (*Int*) : -2 | ◉ Représentation (*Cha*) : +5 |
+| ◎ Intimidation (*Cha*) : +3 | ◉ Survie (*Sag*) : +1 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Diâne, une centaure cantatrice à la voix divine et à l'esprit simple, qui a quitté sa vallée isolée pour un voyage optimiste (et très naïf) vers la grande ville afin de devenir une star de l'opéra.
@@ -1368,15 +1368,15 @@ __Vitesse :__ 40 ft.
 
 **Outils :** [[Luth]], [[Viol]], [[Flûte]], [[Clarinette]], [[Kit de Déguisement]]
 
-__Langues__ : Commun, Sylvain
+**Langues** : Commun, Sylvain
 
 ### Description
 
-__Âge :__ 2O ans
+**Âge :** 2O ans
 
-__Taille :__ 2,20 m
+**Taille :** 2,20 m
 
-__Poids :__ 420 kg
+**Poids :** 420 kg
 
 Voir Diâne pour la première fois, c'est assister à la rencontre entre la puissance de la terre et la grâce d'une chanson d'été. C'est une centaure majestueuse, dont la présence impose le respect non par l'intimidation, mais par une force tranquille et une beauté naturelle.
 
@@ -1465,15 +1465,15 @@ Chanteuse née, adorée de la nature et des vivants, Diâne peut apaiser par le 
 
 ### Traits de Personnalité
 
-__Traits :__ Je suis une romantique absolue, toujours à la recherche **du bon**. Je change d'humeur ou d'idée aussi vite que je change de note en chantant.
+**Traits :** Je suis une romantique absolue, toujours à la recherche **du bon**. Je change d'humeur ou d'idée aussi vite que je change de note en chantant.
 
-__Idéal :__ Le monde a besoin de nouvelles idées et d'actions chocs.
+**Idéal :** Le monde a besoin de nouvelles idées et d'actions chocs.
 
-__Lien :__ J'idolâtre un héros de vieilles légendes et je veux me comparer à lui.
+**Lien :** J'idolâtre un héros de vieilles légendes et je veux me comparer à lui.
 
-__Défaut :__ J'ai du mal à garder mes sentiments cachés, ma langue me trahit.
+**Défaut :** J'ai du mal à garder mes sentiments cachés, ma langue me trahit.
 
-__Alignement :__ Chaotique Bon
+**Alignement :** Chaotique Bon
 
 ## Conseil de Jeu
 
@@ -1492,15 +1492,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Orque]]
+**Race :** [[Orque]]
 
-__Classe :__ [[Occultiste]]
+**Classe :** [[Occultiste]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -1509,15 +1509,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1 | ◉ Investigation (_Int_) : +4 |
-| ◉ Arcanes (_Int_) : ±4 | ◎ Médecine (_Sag_) : +2 |
-| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : +2<br> |
-| ◎ Discrétion (_Dex_) : +1 | ◎ Perception (_Sag_) : +2 |
-| ◎ Dressage (_Sag_) : +2 | ◎ Persuasion (_Cha_) : +3 |
-| ◎ Escamotage (_Dex_) : +1 | ◉ Religion (_Int_) : +4 |
-| ◉ Histoire (_Int_) : +4 | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◎ Survie (_Sag_) : +2 |
-| ◎ Intuition (_Sag_) : +2 | ◎ Tromperie (_Cha_) : +3<br> |
+| ◎ Acrobaties (*Dex*) : +1 | ◉ Investigation (*Int*) : +4 |
+| ◉ Arcanes (*Int*) : ±4 | ◎ Médecine (*Sag*) : +2 |
+| ◎ Athlétisme (*For*) : ±0 | ◎ Nature (*Int*) : +2<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◎ Perception (*Sag*) : +2 |
+| ◎ Dressage (*Sag*) : +2 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +1 | ◉ Religion (*Int*) : +4 |
+| ◉ Histoire (*Int*) : +4 | ◎ Représentation (*Cha*) : +3 |
+| ◎ Intimidation (*Cha*) : +3 | ◎ Survie (*Sag*) : +2 |
+| ◎ Intuition (*Sag*) : +2 | ◎ Tromperie (*Cha*) : +3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Glog, un brillant étudiant orque en magie qui, par accident de recherche, est devenu le relais d'une gelée cosmique mangeuse de souvenirs, vous forçant à partir à l'aventure pour "nourrir" votre patron avec de nouvelles expériences afin de passer vos examens.
@@ -1539,15 +1539,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** 
 
-__Langues__ : Commun, Orque, Draconique, Nain
+**Langues** : Commun, Orque, Draconique, Nain
 
 ### Description
 
-__Âge :__ 22 ans
+**Âge :** 22 ans
 
-__Taille :__ 1,90 m
+**Taille :** 1,90 m
 
-__Poids :__ 110 kg
+**Poids :** 110 kg
 
 Glog est une présence qui détonne dans les couloirs d'une académie de magie. C'est un orque dans toute sa splendeur, avec une carrure large et une constitution qui semble taillée pour encaisser les coups, même s'il n'a pas la musculature hypertrophiée d'un barbare. Sa peau a une teinte olivâtre, et son visage, aux traits anguleux et à la mâchoire puissante, est marqué par de petites défenses inférieures qui dépassent de ses lèvres.
 
@@ -1606,7 +1606,7 @@ You know two cantrips of your choice from the [warlock spell list](http://dnd5e
 
 The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell _[witch bolt](https://dnd5e.wikidot.com/spell:witch-bolt)_, you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *[witch bolt](https://dnd5e.wikidot.com/spell:witch-bolt)*, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -1650,7 +1650,7 @@ C'est cette soif de connaissance qui l'a mené à sa perte, et à sa puissance. 
 
 Dans le secret de sa chambre d'étudiant, il traça les glyphes à la craie et murmura les mots étranges. Il ne se passa rien. Déçu, il commença à effacer le cercle quand sa main toucha une des lignes.
 
-Le contact fut instantané. Il ne vit rien, n'entendit rien. Il ressentit. Une présence immense, ancienne, et placide, comme un océan de gelée de la taille d'une lune. Il sentit les souvenirs de sa propre journée – le goût du ragoût de la cantine, la frustration de ses recherches, l'odeur de vieux parchemin – être doucement _aspirés_, non pas violemment, mais comme une goutte de pluie tombant dans une mare. Puis, un reflux. Un fragment de mémoire qui n'était pas la sienne lui revint : le silence assourdissant du vide entre les étoiles, la sensation de flotter dans une nébuleuse, le savoir d'un sort qu'il n'avait jamais appris.
+Le contact fut instantané. Il ne vit rien, n'entendit rien. Il ressentit. Une présence immense, ancienne, et placide, comme un océan de gelée de la taille d'une lune. Il sentit les souvenirs de sa propre journée – le goût du ragoût de la cantine, la frustration de ses recherches, l'odeur de vieux parchemin – être doucement *aspirés*, non pas violemment, mais comme une goutte de pluie tombant dans une mare. Puis, un reflux. Un fragment de mémoire qui n'était pas la sienne lui revint : le silence assourdissant du vide entre les étoiles, la sensation de flotter dans une nébuleuse, le savoir d'un sort qu'il n'avait jamais appris.
 
 La connexion était établie. Il était devenu, par accident, le relais de la Convocation Gélatineuse, une entité cosmique dont le seul but est de "goûter" aux souvenirs de l'univers.
 
@@ -1668,15 +1668,15 @@ Vous pouvez lancer [[Mémorisation]] sans dépenser d'emplacement de sort, une f
 
 ### Traits de Personnalité
 
-__Traits :__ J'adore le savoir obscure. J'essaye d'inclure le plus de références historiques de niche possible dans mes conversations. Je crois que soutenir mes pairs est la meilleure façon de réussir.
+**Traits :** J'adore le savoir obscure. J'essaye d'inclure le plus de références historiques de niche possible dans mes conversations. Je crois que soutenir mes pairs est la meilleure façon de réussir.
 
-__Idéal :__ La route vers le pouvoir et l'amélioration passe d'abord par la connaissance et le savoir.
+**Idéal :** La route vers le pouvoir et l'amélioration passe d'abord par la connaissance et le savoir.
 
-__Lien :__ Mon lien avec la Convocation Gélatineuse m'a donné le goût de la mémoire, et je passerai ma vie s'il le faut à en profiter.
+**Lien :** Mon lien avec la Convocation Gélatineuse m'a donné le goût de la mémoire, et je passerai ma vie s'il le faut à en profiter.
 
-__Défaut :__ Je suis facilement distrait par une potentielle information
+**Défaut :** Je suis facilement distrait par une potentielle information
 
-__Alignement :__ Neutre
+**Alignement :** Neutre
 
 ## Conseils de jeu
 
@@ -1695,15 +1695,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Gobelin]]
+**Race :** [[Gobelin]]
 
-__Classe :__ [[Alchimiste]]
+**Classe :** [[Alchimiste]]
 
-__Niveau :__ 3 (BM +2)
+**Niveau :** 3 (BM +2)
 
-__Points de vie :__ 
+**Points de vie :** 
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :----: | :-----: | :-----: | :----: | :-----: |
@@ -1712,15 +1712,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : -3 | ◎ Investigation (_Int_) : +4 |
-| ◉ Arcanes (_Int_) : +6 | ◎ Médecine (_Sag_) : -1 |
-| ◉ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : +4<br> |
-| ◎ Discrétion (_Dex_) : -3 | ◉ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : +2 |
-| ◉ Escamotage (_Dex_) : -1 | ◎ Religion (_Int_) : +4 |
-| ◎ Histoire (_Int_) : +4 | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◎ Survie (_Sag_) : -1 |
-| ◎ Intuition (_Sag_) : -1 | ◎ Tromperie (_Cha_) : +2<br> |
+| ◎ Acrobaties (*Dex*) : -3 | ◎ Investigation (*Int*) : +4 |
+| ◉ Arcanes (*Int*) : +6 | ◎ Médecine (*Sag*) : -1 |
+| ◉ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : +4<br> |
+| ◎ Discrétion (*Dex*) : -3 | ◉ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : -1 | ◎ Persuasion (*Cha*) : +2 |
+| ◉ Escamotage (*Dex*) : -1 | ◎ Religion (*Int*) : +4 |
+| ◎ Histoire (*Int*) : +4 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◎ Survie (*Sag*) : -1 |
+| ◎ Intuition (*Sag*) : -1 | ◎ Tromperie (*Cha*) : +2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Gob, un gobelin pirate, alchimiste de génie et expert en explosifs, dont la maladresse chronique et l'amour du "BOUM !" sont si légendaires que votre équipage vous utilise désormais comme un boulet de canon vivant.
@@ -1742,15 +1742,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Matériel d'Alchimiste]], [[Kit d'Herboriste]], [[Outils de Navigateur]], Véhicules aquatiques
 
-__Langues__ : Commun, Gobelin
+**Langues** : Commun, Gobelin
 
 ### Description
 
-__Âge :__ 15 ans
+**Âge :** 15 ans
 
-__Taille :__ 1,15 m
+**Taille :** 1,15 m
 
-__Poids :__ 31 kg
+**Poids :** 31 kg
 
 Gob est une aberration, même pour un gobelin. Avec son mètre quinze, il est étonnamment grand et dégingandé pour sa race, tout en membres longs et fins qui semblent toujours sur le point de s'emmêler les uns dans les autres. Sa peau n'est pas du vert ou du brun terreux habituel de son peuple, mais d'un bleu cobalt vibrant et totalement artificiel, résultat permanent d'une expérience alchimique qui a "parfaitement réussi", selon lui. Cette peau bleue est invariablement maculée de taches de suie, de brûlures mineures et de résidus de potions de couleurs variées.
 
@@ -1798,25 +1798,25 @@ Gob a développé une tolérance remarquable aux impacts violents et aux explosi
 
 ### Traits de Personnalité
 
-__Traits :__ Je ne refuse jamais un pari amical ! Mon parlé est aussi crade qu'un nid d'autruche.
+**Traits :** Je ne refuse jamais un pari amical ! Mon parlé est aussi crade qu'un nid d'autruche.
 
-__Idéal :__ La mer est liberté -- liberté d'aller où bon me semble et de faire ce que je veux.
+**Idéal :** La mer est liberté -- liberté d'aller où bon me semble et de faire ce que je veux.
 
-__Lien :__ Je me rappellerai toujours mon premier bateau.
+**Lien :** Je me rappellerai toujours mon premier bateau.
 
-__Défaut :__ Une fois que quelqu'un a douté de mon courage, je ne recule devant rien, peu importe le danger.
+**Défaut :** Une fois que quelqu'un a douté de mon courage, je ne recule devant rien, peu importe le danger.
 
-__Alignement :__ Chaotique Neutre
+**Alignement :** Chaotique Neutre
 
 ## Conseils de jeu
 
 Il mélange son argot de pirate avec un vocabulaire d'alchimiste très technique et précis, ce qui crée un décalage comique.
 
-> _"Mille sabords ! Si on augmente la concentration molaire de ce solvant nitrique, on devrait obtenir une détonation bien plus... juteuse ! Hé ho, et une bouteille de rhum !"_
+> *"Mille sabords ! Si on augmente la concentration molaire de ce solvant nitrique, on devrait obtenir une détonation bien plus... juteuse ! Hé ho, et une bouteille de rhum !"*
 
 Quand il a une idée pour une nouvelle mixture ou une nouvelle explosion, il se met à parler très, très vite. Son débit s'accélère, sa voix monte dans les aigus, et il est presque impossible de l'interrompre avant qu'il n'ait fini d'exposer son plan (souvent dangereux).
 
-C'est le cœur de son roleplay physique. Il fait constamment tomber des choses. Ses fioles lui glissent des mains, il trébuche sur ses propres pieds, il se cogne aux meubles. Ne décrivez jamais une action délicate comme étant réussie simplement. Même une réussite est une quasi catastrophe : _"Gob réussit à attraper la fiole juste avant qu'elle ne touche le sol, mais dans le processus, il renverse une pile de livres et donne un coup de tête dans la table."_
+C'est le cœur de son roleplay physique. Il fait constamment tomber des choses. Ses fioles lui glissent des mains, il trébuche sur ses propres pieds, il se cogne aux meubles. Ne décrivez jamais une action délicate comme étant réussie simplement. Même une réussite est une quasi catastrophe : *"Gob réussit à attraper la fiole juste avant qu'elle ne touche le sol, mais dans le processus, il renverse une pile de livres et donne un coup de tête dans la table."*
 
 Il a un besoin compulsif de toucher et de goûter. Il voit un champignon bizarre ? Il le lèche. Un liquide étrange dans une flasque ? Il en met une goutte sur sa langue. "Faut bien savoir quel goût ça a pour la science, hein ?".
 
@@ -1831,15 +1831,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Ligateur
+**Race :** Ligateur
 
-__Classe :__ Giff
+**Classe :** Giff
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -1848,21 +1848,21 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : | ◎ Investigation (_Int_) : ±0 |
-| ◉ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : ±0 |
-| ◎ Athlétisme (_For_) : ±0 | ◎ Nature (_Int_) : ±0<br> |
-| ◎ Discrétion (_Dex_) : ±0 | ◎ Perception (_Sag_) : ±0 |
-| ◎ Dressage (_Sag_) : ±0 | ◉ Persuasion (_Cha_) : ±0 |
-| ◎ Escamotage (_Dex_) : ±0 | ◎ Religion (_Int_) : ±0 |
-| ◉ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◉ Survie (_Sag_) : ±0 |
-| ◎ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : ±0<br> |
+| ◎ Acrobaties (*Dex*) : | ◎ Investigation (*Int*) : ±0 |
+| ◉ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : ±0 | ◎ Nature (*Int*) : ±0<br> |
+| ◎ Discrétion (*Dex*) : ±0 | ◎ Perception (*Sag*) : ±0 |
+| ◎ Dressage (*Sag*) : ±0 | ◉ Persuasion (*Cha*) : ±0 |
+| ◎ Escamotage (*Dex*) : ±0 | ◎ Religion (*Int*) : ±0 |
+| ◉ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : ±0 |
+| ◎ Intimidation (*Cha*) : ±0 | ◉ Survie (*Sag*) : ±0 |
+| ◎ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : ±0<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes le Prince Hempé IV, héritier d'un trône Giff sans pouvoir, qui utilise en secret une magie interdite de liaison d'esprits pour préparer une révolution et reconquérir la souveraineté de votre île colonisée par une guilde marchande.
 > 
 > **Objectif pour la session :** 
-> Officiellement en "mission diplomatique", votre véritable but est de trouver des informations sur un nouveau _vestige_ (esprit puissant) ou de trouver un allié potentiel pour votre future rébellion. Chaque interaction est une opportunité de jauger la force et la loyauté des autres.
+> Officiellement en "mission diplomatique", votre véritable but est de trouver des informations sur un nouveau *vestige* (esprit puissant) ou de trouver un allié potentiel pour votre future rébellion. Chaque interaction est une opportunité de jauger la force et la loyauté des autres.
 > 
 > **Maintenez la Façade Royale :** Parlez toujours de manière formelle et posée (vouvoiement, langage soutenu). Votre posture est droite, vos vêtements impeccables. Vous êtes le prince, même en exil. C'est votre armure sociale.
 > 
@@ -1878,15 +1878,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** --
 
-__Langues__ : Commun, [[Langues#Jypègue]]]
+**Langues** : Commun, [[Langues#Jypègue]]]
 
 ### Description
 
-__Âge :__ 23 ans
+**Âge :** 23 ans
 
-__Taille :__ 1,95 m
+**Taille :** 1,95 m
 
-__Poids :__ 130 kg
+**Poids :** 130 kg
 
 À première vue, le Prince Hempé IV est l'incarnation même de la noblesse et de la discipline Giff. Massif et imposant, il se tient avec une droiture militaire, chaque mouvement étant empreint d'une formalité et d'une économie de gestes apprises depuis l'enfance. Sa posture est une armure en soi, un défi silencieux lancé à ceux qui voudraient le voir comme un simple pion.
 
@@ -1905,7 +1905,7 @@ Ce sont les signes des vestiges qui se pressent contre les parois de son âme, d
 
 **Étincelle Astrale.** Votre connexion psychique au Plan Astral vous permet de mystérieusement accéder à une étincelle de pouvoir divin, que vous pouvez canaliser dans vos armes. Lorsque vous touchez une cible avec une arme simple ou martiale, vous pouvez lui infliger des dégâts de force supplémentaires égaux à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, mais pas plus d'une fois par tour. Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété _Chargement_ de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
+**Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété *Chargement* de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
 
 **Carrure d'Hippo.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Force. De plus, vous êtes considéré comme d'une taille supplémentaire pour déterminer votre capacité de charge.
 
@@ -1959,15 +1959,15 @@ En quittant son royaume, Hempé a réussi à récupérer un ancien sceptre stock
 
 ### Traits de Personnalité
 
-__Traits :__ Je juge par les actions, pas par les mots. Lorsque je me décide à quelque chose, je fais tout pour y parvenir.
+**Traits :** Je juge par les actions, pas par les mots. Lorsque je me décide à quelque chose, je fais tout pour y parvenir.
 
-__Idéal :__ Tout le monde mérite d'être traité avec dignité et respect.
+**Idéal :** Tout le monde mérite d'être traité avec dignité et respect.
 
-__Lien :__ J'aime mon territoire et je le protégerai.
+**Lien :** J'aime mon territoire et je le protégerai.
 
-__Défaut :__ Je suis convaincu de la grandeur de ma destinée, et aveuglé à mes manquements.
+**Défaut :** Je suis convaincu de la grandeur de ma destinée, et aveuglé à mes manquements.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseil de Jeu
 
@@ -2031,15 +2031,15 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Homme-Souris]]
+**Race :** [[Homme-Souris]]
 
-__Classe :__ [[Roublard]]
+**Classe :** [[Roublard]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 7
+**Points de vie :** 7
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :----: | :-----: | :-----: | :-----: |
@@ -2048,15 +2048,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +4 | ⬤ Investigation (_Int_) : +4 |
-| ◎ Arcanes (_Int_) : ±0 | ◎ Médecine (_Sag_) : ±0 |
-| ◎ Athlétisme (_For_) : +1 | ◎ Nature (_Int_) : ±0<br> |
-| ◉ Discrétion (_Dex_) : +6 | ⬤ Perception (_Sag_) : +4 |
-| ◎ Dressage (_Sag_) : ±0 | ◎ Persuasion (_Cha_) : +2 |
-| ◉ Escamotage (_Dex_) : +6 | ◎ Religion (_Int_) : ±0 |
-| ◎ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : +2 |
-| ◉ Intimidation (_Cha_) : +4 | ◉ Survie (_Sag_) : ±0 |
-| ◎ Intuition (_Sag_) : ±0 | ◎ Tromperie (_Cha_) : +2<br> |
+| ◉ Acrobaties (*Dex*) : +4 | ⬤ Investigation (*Int*) : +4 |
+| ◎ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : +1 | ◎ Nature (*Int*) : ±0<br> |
+| ◉ Discrétion (*Dex*) : +6 | ⬤ Perception (*Sag*) : +4 |
+| ◎ Dressage (*Sag*) : ±0 | ◎ Persuasion (*Cha*) : +2 |
+| ◉ Escamotage (*Dex*) : +6 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : +2 |
+| ◉ Intimidation (*Cha*) : +4 | ◉ Survie (*Sag*) : ±0 |
+| ◎ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : +2<br> |
 
 #### Maîtrises
 
@@ -2066,15 +2066,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Outils de Voleur]], [[Outils de Maçon]]
 
-__Langues__ : Commun, Rodentien, Géant, Parlé de Voleur
+**Langues** : Commun, Rodentien, Géant, Parlé de Voleur
 
 ### Description
 
-__Âge :__ 16 ans
+**Âge :** 16 ans
 
-__Taille :__ 0.62 m (P)
+**Taille :** 0.62 m (P)
 
-__Poids :__ 12 kg
+**Poids :** 12 kg
 
 Pagé est une créature d'une petitesse et d'une discrétion qui contrastent violemment avec la grandeur du monde dans lequel il a été élevé. C'est un homme-souris, mesurant à peine plus de deux pieds de haut, avec une fourrure douce et grise qui rappelle la poussière de granit de l'atelier de son père. Ses membres sont fins mais nerveux, et tout son corps est un faisceau de muscles agiles, taillé pour l'escalade, l'esquive et le mouvement silencieux.
 
@@ -2093,7 +2093,7 @@ Il se déplace avec une grâce furtive, longeant les murs et restant dans les om
 
 **Compression.** Vous ne souffrez d'aucune pénalité pour vous faufiler dans un espace qui n'est suffisamment grand que pour une créature d'une (1) taille inférieure à la vôtre.
 
-__Pas de Côté du Sourilin.__ Lorsqu'une créature que vous pouvez voir réalise une attaque d'opportunité contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage à son jet d'attaque. Vous ne pouvez pas utiliser ce trait si vous portez une armure moyenne ou lourde.
+**Pas de Côté du Sourilin.** Lorsqu'une créature que vous pouvez voir réalise une attaque d'opportunité contre vous, vous pouvez utiliser votre réaction pour lui imposer le désavantage à son jet d'attaque. Vous ne pouvez pas utiliser ce trait si vous portez une armure moyenne ou lourde.
 
 **Précipitation.** Vous pouvez vous déplacer à travers un espace occupé par une créature hostile comme si c'était du terrain difficile.
 
@@ -2149,7 +2149,7 @@ Vous avez absorbé de la magie primitive, ce qui vous confère un écho de la pu
 
 Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée ou une attaque à distance avec une arme de jet, vous pouvez infuser l'attaque d'un effet supplémentaire en fonction de votre choix : 
 
-**Frappe de Pierre.** La cible prend 1d6 dégâts supplémentaires de force. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. en ligne droite.
+**Frappe de Pierre.** La cible subit 1d6 dégâts supplémentaires de force. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. en ligne droite.
 
 Le DD du jet de sauvegarde est égal à 8 + votre bonus de maîtrise + votre modificateur de Force (11).
 
@@ -2157,15 +2157,15 @@ Vous pouvez utiliser ce don un nombre de fois égal à votre bonus de maîtrise,
 
 ### Traits de Personnalité
 
-__Traits :__ Toutes les avalanches commencent par un simple gravier. Je profite de mon petit gabarit. Il m'aide à rester inaperçu, et sous-estimé.
+**Traits :** Toutes les avalanches commencent par un simple gravier. Je profite de mon petit gabarit. Il m'aide à rester inaperçu, et sous-estimé.
 
-__Idéal :__ Aucune structure n'est parfaite. La force brute est une illusion ; la véritable puissance réside dans la capacité à trouver la faiblesse et à l'exploiter avec une précision parfaite. C'est la seule vérité qui régit le monde.
+**Idéal :** Aucune structure n'est parfaite. La force brute est une illusion ; la véritable puissance réside dans la capacité à trouver la faiblesse et à l'exploiter avec une précision parfaite. C'est la seule vérité qui régit le monde.
 
-__Lien :__ Ma véritable famille est le clan de géants de pierre qui m'a recueilli. Mes actions visent à les protéger et à honorer les leçons de Borr, mon père. Leur montagne est le seul foyer que j'aie jamais connu, et je ne laisserai aucune menace l'atteindre.
+**Lien :** Ma véritable famille est le clan de géants de pierre qui m'a recueilli. Mes actions visent à les protéger et à honorer les leçons de Borr, mon père. Leur montagne est le seul foyer que j'aie jamais connu, et je ne laisserai aucune menace l'atteindre.
 
-__Défaut :__ Secrètement, je suis fier de mon surnom et j'essaie parfois de prouver que je le mérite, en oubliant que la moindre goutte d'alcool suffit à me transformer.
+**Défaut :** Secrètement, je suis fier de mon surnom et j'essaie parfois de prouver que je le mérite, en oubliant que la moindre goutte d'alcool suffit à me transformer.
 
-__Alignement :__ Loyal Neutre
+**Alignement :** Loyal Neutre
 
 ## Conseils de jeu
 
@@ -2184,15 +2184,15 @@ writing_status: empty
 ---
 ## Personnage
 
-__Race :__ [[TIeflin]]
+**Race :** [[TIeflin]]
 
-__Classe :__ [[Sorcière]]
+**Classe :** [[Sorcière]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 10
+**Points de vie :** 10
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -2201,15 +2201,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2 | ◎ Investigation (_Int_) : +3 |
-| ◉ Arcanes (_Int_) : +5 | ◎ Médecine (_Sag_) : +1 |
-| ◎ Athlétisme (_For_) : +2 | ◎ Nature (_Int_) : +3<br> |
-| ◉ Discrétion (_Dex_) : +4 | ◎ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : +1 | ◎ Persuasion (_Cha_) : +4 |
-| ◉ Escamotage (_Dex_) : +4 | ◉ Religion (_Int_) : +5 |
-| ◉ Histoire (_Int_) : +5 | ◎ Représentation (_Cha_) : +4 |
-| ◉ Intimidation (_Cha_) : +6 | ◎ Survie (_Sag_) : +1 |
-| ◎ Intuition (_Sag_) : +1 | ◎ Tromperie (_Cha_) : +4<br> |
+| ◎ Acrobaties (*Dex*) : +2 | ◎ Investigation (*Int*) : +3 |
+| ◉ Arcanes (*Int*) : +5 | ◎ Médecine (*Sag*) : +1 |
+| ◎ Athlétisme (*For*) : +2 | ◎ Nature (*Int*) : +3<br> |
+| ◉ Discrétion (*Dex*) : +4 | ◎ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : +1 | ◎ Persuasion (*Cha*) : +4 |
+| ◉ Escamotage (*Dex*) : +4 | ◉ Religion (*Int*) : +5 |
+| ◉ Histoire (*Int*) : +5 | ◎ Représentation (*Cha*) : +4 |
+| ◉ Intimidation (*Cha*) : +6 | ◎ Survie (*Sag*) : +1 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +4<br> |
 
 #### Maîtrises
 
@@ -2219,15 +2219,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Matériel d'Alchimiste]], [[Kit d'Empoisonneur]], [[Kit de Déguisement]], [[Outils de Voleur]]
 
-__Langues__ : Commun, Infernal
+**Langues** : Commun, Infernal
 
 ### Description
 
-__Âge :__ 23 ans
+**Âge :** 23 ans
 
-__Taille :__ 1,65 m
+**Taille :** 1,65 m
 
-__Poids :__ 52 kg
+**Poids :** 52 kg
 
 L'apparence de Pahna est profondément dérangeante, non pas à cause d'une monstruosité évidente, mais à cause d'un vide subtil et effrayant qui semble l'imprégner. Elle se meut avec une économie de mouvement troublante, comme une marionnette dont les fils seraient tenus par une main paresseuse, chaque geste étant délibéré mais dépourvu de l'élan naturel de la vie.
 
@@ -2276,7 +2276,7 @@ Votre âme a été séparée de votre corps, vous êtes maintenant dans un limbo
 
 #### Saignement
 
-Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou, à chaque fois qu'elle prend des dégâts, perdre 1d4 points de vie supplémentaires. Cet effet persiste jusqu'à la fin de votre prochain tour.
+Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou, à chaque fois qu'elle subit des dégâts, perdre 1d4 points de vie supplémentaires. Cet effet persiste jusqu'à la fin de votre prochain tour.
 
 #### Mauvaise Fortune
 
@@ -2315,15 +2315,15 @@ Sorcière sanguine, Pahna peut faciliter sa récupération magique par le sacrif
 
 ### Traits de Personnalité
 
-__Traits :__ Je dis de façon brute ce que les autres insinuent ou cachent. J'aime me glisser dans des endroits où personne ne peut m'atteindre.
+**Traits :** Je dis de façon brute ce que les autres insinuent ou cachent. J'aime me glisser dans des endroits où personne ne peut m'atteindre.
 
-__Idéal :__ J'aide ceux qui m'aident, c'est la base pour survivre
+**Idéal :** J'aide ceux qui m'aident, c'est la base pour survivre
 
-__Lien :__ Personne ne devrait à avoir vivre les horreurs que j'ai vécues.
+**Lien :** Personne ne devrait à avoir vivre les horreurs que j'ai vécues.
 
-__Défaut :__ C'est pas du vol si j'en ai besoin plus que l'autre.
+**Défaut :** C'est pas du vol si j'en ai besoin plus que l'autre.
 
-__Alignement :__ Neutre Mauvais
+**Alignement :** Neutre Mauvais
 
 ## Conseils de Jeu
 
@@ -2349,15 +2349,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Goliath
+**Race :** Goliath
 
-__Classe :__ Barbare
+**Classe :** Barbare
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 15
+**Points de vie :** 15
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
@@ -2366,15 +2366,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1 | ◎ Investigation (_Int_) : +3 |
-| ◎ Arcanes (_Int_) : +3 | ◉ Médecine (_Sag_) : +1 |
-| ◉ Athlétisme (_For_) : +6 | ◉ Nature (_Int_) : +5<br> |
-| ◎ Discrétion (_Dex_) : +1 | ◉ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : -1 | ◎ Persuasion (_Cha_) : ±0 |
-| ◎ Escamotage (_Dex_) : +1 | ◉ Religion (_Int_) : +5 |
-| ◎ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : -1 |
-| ◎ Intuition (_Sag_) : -1 | ◎ Tromperie (_Cha_) : ±0<br> |
+| ◎ Acrobaties (*Dex*) : +1 | ◎ Investigation (*Int*) : +3 |
+| ◎ Arcanes (*Int*) : +3 | ◉ Médecine (*Sag*) : +1 |
+| ◉ Athlétisme (*For*) : +6 | ◉ Nature (*Int*) : +5<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◉ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : -1 | ◎ Persuasion (*Cha*) : ±0 |
+| ◎ Escamotage (*Dex*) : +1 | ◉ Religion (*Int*) : +5 |
+| ◎ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : ±0 |
+| ◎ Intimidation (*Cha*) : ±0 | ◎ Survie (*Sag*) : -1 |
+| ◎ Intuition (*Sag*) : -1 | ◎ Tromperie (*Cha*) : ±0<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Thaghana, un goliath à la force colossale et à l'intelligence de génie, banni de son clan primitif pour avoir appris à lire, et qui tente maintenant de prouver au monde (souvent avec une frustration explosive) que la stratégie est aussi puissante qu'une hache bien aiguisée.
@@ -2396,15 +2396,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Kit d'Herboriste
 
-__Langues__ : Commun, Géant, Elfique
+**Langues** : Commun, Géant, Elfique
 
 ### Description
 
-__Âge :__ 26 ans
+**Âge :** 26 ans
 
-__Taille :__ 2,34 m
+**Taille :** 2,34 m
 
-__Poids :__ 163 kg
+**Poids :** 163 kg
 
 La stature de Thaghana n'est pas simplement imposante, elle est une déclaration. Autrefois peut-être une simple réalité de sa lignée, sa musculature massive et presque disproportionnée est aujourd'hui une réalité qu'il porte avec une fierté nouvelle, se tenant parfaitement droit telle une montagne de chair et de volonté.
 
@@ -2421,11 +2421,11 @@ Dénué d'armure, son torse nu ne craint ni le froid ni les coups, protégé par
 
 ### Aptitudes de Race
 
-__Petit Géant.__ Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
+**Petit Géant.** Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
-__Né des Montagnes.__ Vous êtes résistants aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
+**Né des Montagnes.** Vous êtes résistants aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
 
-__Endurance de Pierre.__ Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
+**Endurance de Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -2474,7 +2474,7 @@ Sa nouvelle connaissance change sa façon de voir le monde. Lors d'une compétit
 
 Le chaman du clan, le seul à connaître les pratiques extérieures, le confronte. Il découvre le livre, qu'il déclare être un artefact de "magie faible" qui "vole la force de l'âme pour la mettre dans des marques lâches". Apprendre à lire était une trahison des traditions goliaths. On lui donne un choix : brûler le livre et oublier ce "poison mental", ou être banni.
 
-Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'il ne peut pas désapprendre ce qu'il a appris. Il ne peut pas redevenir celui qu'il était. Serrant son livre contre lui, il est déclaré _Skannak_ - "le Banni" - et chassé des montagnes, son nom effacé des sagas du clan.
+Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'il ne peut pas désapprendre ce qu'il a appris. Il ne peut pas redevenir celui qu'il était. Serrant son livre contre lui, il est déclaré *Skannak* - "le Banni" - et chassé des montagnes, son nom effacé des sagas du clan.
 
 Aujourd'hui, Thaghana ne s'identifie plus comme Skannak, il a appris à s'accepter, à utiliser ses connaissances pour être meilleur. Chassé de son village, il a dû faire tant bien que mal pour survivre, et suit désormais une voie qui lui permettra d'assouvir ses envies de curiosité : la voie d'aventurier.
 
@@ -2484,15 +2484,15 @@ Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu ex
 
 ### Traits de Personnalité
 
-__Traits :__ Je travaille sur une grande théorie philosophique et j'adore partager mes idées. Je n'ai aucune idée de l'étiquette et des normes sociales.
+**Traits :** Je travaille sur une grande théorie philosophique et j'adore partager mes idées. Je n'ai aucune idée de l'étiquette et des normes sociales.
 
-__Idéal :__ Les émotions ne doivent pas venir nuire à notre sens de la morale et de la vérité, ou à notre sens logique.
+**Idéal :** Les émotions ne doivent pas venir nuire à notre sens de la morale et de la vérité, ou à notre sens logique.
 
-__Lien :__ Je suis rentré en exil par la faute de mon clan, et j'espère secrètement leur montrer que ma façon de faire est la bonne.
+**Lien :** Je suis rentré en exil par la faute de mon clan, et j'espère secrètement leur montrer que ma façon de faire est la bonne.
 
-__Défaut :__ Je risquerais tout pour satisfaire ma curiosité et obtenir ne serait-ce que la plus petite connaissance.
+**Défaut :** Je risquerais tout pour satisfaire ma curiosité et obtenir ne serait-ce que la plus petite connaissance.
 
-__Alignement :__ Loyal Neutre
+**Alignement :** Loyal Neutre
 
 ## Conseils de jeu
 
@@ -2513,15 +2513,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Tortue
+**Race :** Tortue
 
-__Classe :__ Gardien
+**Classe :** Gardien
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 13
+**Points de vie :** 13
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
@@ -2530,15 +2530,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +3 | ◎ Investigation (_Int_) : +1 |
-| ◎ Arcanes (_Int_) : +1 | ◉ Médecine (_Sag_) : +6 |
-| ◎ Athlétisme (_For_) : +3 | ◎ Nature (_Int_) : +1<br> |
-| ◎ Discrétion (_Dex_) : +3 | ◉ Perception (_Sag_) : +6 |
-| ◎ Dressage (_Sag_) : +4 | ◎ Persuasion (_Cha_) : +2 |
-| ◎ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : +1 |
-| ◎ Histoire (_Int_) : +1 | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +6 |
-| ◉ Intuition (_Sag_) : +6 | ◉ Tromperie (_Cha_) : +4<br> |
+| ◎ Acrobaties (*Dex*) : +3 | ◎ Investigation (*Int*) : +1 |
+| ◎ Arcanes (*Int*) : +1 | ◉ Médecine (*Sag*) : +6 |
+| ◎ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : +1<br> |
+| ◎ Discrétion (*Dex*) : +3 | ◉ Perception (*Sag*) : +6 |
+| ◎ Dressage (*Sag*) : +4 | ◎ Persuasion (*Cha*) : +2 |
+| ◎ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : +1 |
+| ◎ Histoire (*Int*) : +1 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◉ Survie (*Sag*) : +6 |
+| ◉ Intuition (*Sag*) : +6 | ◉ Tromperie (*Cha*) : +4<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Torté, une ancienne joueuse de cartes compulsive dont l'addiction a causé une tragédie, et qui dévoue désormais le reste de sa longue vie à être un rempart inébranlable pour les autres, chaque coup encaissé étant un acte de rédemption.
@@ -2561,15 +2561,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Un [[jeu de cartes]] (expert de Jeanoir)
 
-__Langues__ : Commun, Reptilien, Gnome
+**Langues** : Commun, Reptilien, Gnome
 
 ### Description
 
-__Âge :__ 65 ans
+**Âge :** 65 ans
 
-__Taille :__ 1,80 m
+**Taille :** 1,80 m
 
-__Poids :__ 230 kg 
+**Poids :** 230 kg 
 
 Torté est une montagne de patience et de regret qui a pris la forme d'une tortue. Sa stature est massive et sa présence, immuable. Elle se déplace avec une lenteur et une économie de mouvement qui ne sont pas de la paresse, mais le fruit d'une force délibérée, comme un glacier qui avance inexorablement. Quand elle prend position, elle semble aussi enracinée dans le sol que le plus vieux des chênes.
 
@@ -2631,7 +2631,7 @@ Ce jour-là, Torté "Double-Mise" est morte, et Torté la Gardienne est née. El
 Lorsque qu'un allié se trouvant à 5 pieds de vous est touché par une attaque, vous pouvez utiliser votre réaction pour subir les dégâts à sa place. Lorsque vous le faites, vous pouvez choisir de "doubler la mise" sur votre propre résilience. Lancez un d6 :
 
 - **Sur un 1 :** Vous subissez le double des dégâts. Le pari est totalement perdu.
-- __Sur un 2 :__ Vous subissez les dégâts normalement.
+- **Sur un 2 :** Vous subissez les dégâts normalement.
 - **Sur un 3-5 :** Vous avez la résistance à cette instance de dégâts.
 - **Sur un 6 :** Votre détermination vous a rendu le cuir plus dur que l'acier. Vous ne subissez aucun dégât.
 
@@ -2639,15 +2639,15 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de ma
 
 ### Traits de Personnalité
 
-__Traits :__ J'ai vaincu mon addiction, mais je ne suis qu'un à petit instant près de retomber dedans. Je planifie toutes les situations possibles. Il ne faut rien laisser à la chance
+**Traits :** J'ai vaincu mon addiction, mais je ne suis qu'un à petit instant près de retomber dedans. Je planifie toutes les situations possibles. Il ne faut rien laisser à la chance
 
-__Idéal :__ Quand j'étais dans le besoin, j'ai pu me reposer sur les autres. Maintenant, je veux être celle sur laquelle les autres se reposent.
+**Idéal :** Quand j'étais dans le besoin, j'ai pu me reposer sur les autres. Maintenant, je veux être celle sur laquelle les autres se reposent.
 
-__Lien :__ La personne qui m'a sauvé de mon addiction est la raison pour laquelle je suis toujours en vie.
+**Lien :** La personne qui m'a sauvé de mon addiction est la raison pour laquelle je suis toujours en vie.
 
-__Défaut :__ Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
+**Défaut :** Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
 
-__Alignement :__ Loyal Bon
+**Alignement :** Loyal Bon
 
 ## Conseils de Jeu
 
@@ -2664,15 +2664,15 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Drow
+**Race :** Drow
 
-__Classe :__ Investigateur
+**Classe :** Investigateur
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :----: |
@@ -2681,15 +2681,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1 | ⬤ Investigation (_Int_) : +7 |
-| ◉ Arcanes (_Int_) : +5 | ◎ Médecine (_Sag_) : +3 |
-| ⬤ Athlétisme (_For_) : +9 | ◎ Nature (_Int_) : +3<br> |
-| ◎ Discrétion (_Dex_) : +1 | ◉ Perception (_Sag_) : +5 |
-| ◎ Dressage (_Sag_) : +3 | ◎ Persuasion (_Cha_) : -3 |
-| ◉ Escamotage (_Dex_) : +3 | ◎ Religion (_Int_) : +3 |
-| ◎ Histoire (_Int_) : +3 | ◎ Représentation (_Cha_) : -3 |
-| ◎ Intimidation (_Cha_) : -3 | ◎ Survie (_Sag_) : +3 |
-| ◉ Intuition (_Sag_) : +5 | ◎ Tromperie (_Cha_) : -3<br> |
+| ◎ Acrobaties (*Dex*) : +1 | ⬤ Investigation (*Int*) : +7 |
+| ◉ Arcanes (*Int*) : +5 | ◎ Médecine (*Sag*) : +3 |
+| ⬤ Athlétisme (*For*) : +9 | ◎ Nature (*Int*) : +3<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◉ Perception (*Sag*) : +5 |
+| ◎ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : -3 |
+| ◉ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : +3 |
+| ◎ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : -3 |
+| ◎ Intimidation (*Cha*) : -3 | ◎ Survie (*Sag*) : +3 |
+| ◉ Intuition (*Sag*) : +5 | ◎ Tromperie (*Cha*) : -3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Zamenis, une Drow érudite et anormalement forte, exilée de votre société matriarcale après avoir résolu une crise surnaturelle par la logique et la force brute, prouvant ainsi que les méthodes "grossières" sont parfois les plus efficaces.
@@ -2712,15 +2712,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Set de Dé]], [[Kit d'Empoisonneur]]
 
-__Langues__ : Commun, Elfique, Profond
+**Langues** : Commun, Elfique, Profond
 
 ### Description
 
-__Âge :__ 114 ans
+**Âge :** 114 ans
 
-__Taille :__ 1,70 m
+**Taille :** 1,70 m
 
-__Poids :__ 77 kg
+**Poids :** 77 kg
 
 Zamenis a la silhouette et les traits indubitables d'une elfe noire, mais quelque chose en elle contredit immédiatement les stéréotypes de sa race. Là où l'on s'attendrait à voir une silhouette svelte et gracieuse, on trouve une carrure robuste et une musculature dense, presque surprenante. Elle n'est pas taillée pour l'escrime agile et les ballets mortels, mais pour la force brute et l'endurance. Ses épaules sont larges, et ses bras, habitués à manier des armes lourdes et à maîtriser des créatures récalcitrantes, sont puissants.
 
@@ -2797,15 +2797,15 @@ Zamenis est capable de canaliser sa puissance physique pour surmonter les obstac
 
 ### Traits de Personnalité
 
-__Traits :__ Je commence et termine mes journées par des rituels qui ne sont familiers à ceux autour de moi. Je ne peux m'empêcher de me questionner sur comment les choses et les personnes fonctionnent.
+**Traits :** Je commence et termine mes journées par des rituels qui ne sont familiers à ceux autour de moi. Je ne peux m'empêcher de me questionner sur comment les choses et les personnes fonctionnent.
 
-__Idéal :__ Tout est nouveau, mais j'ai soif de connaissances.
+**Idéal :** Tout est nouveau, mais j'ai soif de connaissances.
 
-__Lien :__ Ma liberté est la plus importante de mes possessions, et je ne laisserai personne me la voler.
+**Lien :** Ma liberté est la plus importante de mes possessions, et je ne laisserai personne me la voler.
 
-__Défaut :__ J'ai une faiblesse pour les habitants du monde de la surface.
+**Défaut :** J'ai une faiblesse pour les habitants du monde de la surface.
 
-__Alignement :__ Neutre
+**Alignement :** Neutre
 
 ## Conseils de Jeu
 
@@ -3035,7 +3035,7 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 ## Évasion
 
-À partir du niveau 11, quand vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégâts si vous réussissez le jet de sauvegarde, et la moitié sinon.
+À partir du niveau 11, quand vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégâts si vous réussissez le jet de sauvegarde, et la moitié sinon.
 
 ## Protection contre les Explosions
 
@@ -3236,7 +3236,7 @@ En mélangeant au contenu explosif de votre bombe quelques gouttes de boufonnate
 ---
 writing_status: finished
 ---
-En mélangeant quelques gouttes d'un super-surfactant au contenu explosif de votre bombe, vous pouvez en faire une bombe huileuse. Une bombe huileuse n'inflige pas de dégâts, mais recouvre chaque créature dans son rayon d'explosion d'une substance visqueuse et inflammable. La prochaine fois qu'une créature couverte de cette huile prend des dégâts de feu, elle prend 1d6 extra dégâts pour chaque dé de dégâts de feu lancé, avec un maximum de la moitié de votre niveau d'alchimiste, arrondi au supérieur. Cette huile peut être retirée en aspergeant la créature d'eau.
+En mélangeant quelques gouttes d'un super-surfactant au contenu explosif de votre bombe, vous pouvez en faire une bombe huileuse. Une bombe huileuse n'inflige pas de dégâts, mais recouvre chaque créature dans son rayon d'explosion d'une substance visqueuse et inflammable. La prochaine fois qu'une créature couverte de cette huile subit des dégâts de feu, elle subit 1d6 extra dégâts pour chaque dé de dégâts de feu lancé, avec un maximum de la moitié de votre niveau d'alchimiste, arrondi au supérieur. Cette huile peut être retirée en aspergeant la créature d'eau.
 
 ---
 
@@ -3245,7 +3245,7 @@ En mélangeant quelques gouttes d'un super-surfactant au contenu explosif de vot
 ---
 writing_status: finished
 ---
-En ajoutant un agent épaississant au contenu explosif de votre bombe, vous pouvez la changer en une bombe incendiaire. Les dés de dégâts d'une bombe incendiaire sont des d6s. De plus, la zone couverte par le rayon d'explosion de la bombe se retrouve englouti dans les flammes, qui persistent jusqu'au début de votre prochain tour. Les objets inflammables dans la zone qui ne sont pas portés prennent feu. Chaque créature qui finit son tour dans la zone prend la moitié des dégâts de la bombe.
+En ajoutant un agent épaississant au contenu explosif de votre bombe, vous pouvez la changer en une bombe incendiaire. Les dés de dégâts d'une bombe incendiaire sont des d6s. De plus, la zone couverte par le rayon d'explosion de la bombe se retrouve englouti dans les flammes, qui persistent jusqu'au début de votre prochain tour. Les objets inflammables dans la zone qui ne sont pas portés prennent feu. Chaque créature qui finit son tour dans la zone subit la moitié des dégâts de la bombe.
 
 ---
 
@@ -3263,7 +3263,7 @@ En remplaçant le contenu explosif de la bombe par une bourse de balles en caout
 ---
 writing_status: finished
 ---
-En remplaçant le contenu explosif de votre bombe par une pierre philosophale, vous pouvez en faire une bombe nucléaire. Une bombe nucléaire inflige 10d10+100 dégâts de force plutôt que les dégâts de feu normaux, a un rayon d'explosion de 5 000 ft., et détruit complètement la pierre philosophale. De plus, chaque créature dans le rayon d'explosion qui rate son jet de sauvegarde prend les dégâts totaux de la bombe ou la moitié si elle réussit. Les créatures à moins de 60 ft. de la bombe ne profitent pas d'aptitudes telles qu'Évasion.
+En remplaçant le contenu explosif de votre bombe par une pierre philosophale, vous pouvez en faire une bombe nucléaire. Une bombe nucléaire inflige 10d10+100 dégâts de force plutôt que les dégâts de feu normaux, a un rayon d'explosion de 5 000 ft., et détruit complètement la pierre philosophale. De plus, chaque créature dans le rayon d'explosion qui rate son jet de sauvegarde subit les dégâts totaux de la bombe ou la moitié si elle réussit. Les créatures à moins de 60 ft. de la bombe ne profitent pas d'aptitudes telles qu'Évasion.
 
 ---
 
@@ -3391,11 +3391,11 @@ Les bombes sont des armes à distance exotiques avec les statistiques suivantes 
 
 | Nom | Coût | Dégâts | Poids | Propriétés |
 | ----- | ---- | ----------- | ----- | ------------------------------------- |
-| Bombe | 2 pa | 1d10 de Feu | 0.5kg | Finesse, Spécial, Jeté (Portée 30/90) |
+| Bombe | 2 pa | 1d10 de feu | 0.5kg | Finesse, Spécial, Jeté (Portée 30/90) |
 
 ## Propriété Spéciale
 
-**Bombe.** Lorsqu'une bombe touche une cible, elle explose dans un diamètre de 15 ft. et est détruite. La bombe peut être jetée dans un espace non occupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (ou, pour une cible de taille M ou plus petite, toute créature à moins de 5 ft.) doit réussir un jet de sauvegarde de Dextérité (DD 11) ou prendre la moitié des dégâts de la bombe.
+**Bombe.** Lorsqu'une bombe touche une cible, elle explose dans un diamètre de 15 ft. et est détruite. La bombe peut être jetée dans un espace non occupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (ou, pour une cible de taille M ou plus petite, toute créature à moins de 5 ft.) doit réussir un jet de sauvegarde de Dextérité (DD 11) ou subir la moitié des dégâts de la bombe.
 De plus, pour une action bonus, vous pouvez vider une bombe de son matériel explosif pour lui retirer définitivement son rayon d'explosion, n'infligeant des dégâts qu'à sa cible principale.
 
 ---
@@ -3737,7 +3737,7 @@ writing_status: finished
 ---
 *Requis : Niveau 17*
 
-Lorsque vous amorcez et lancez une bombe, vous pouvez convertir une mesure de votre propre sang en réactif. Vous pouvez ajouter au plus cinq dés de réactifs au jet de dégâts de la bombe sans les dépenser, et vous prenez 1d6 dégâts nécrotiques pour chaque dé de réactif ajouté. Ces dégâts ne peuvent pas être prévenus ou réduits, de quelques façons.
+Lorsque vous amorcez et lancez une bombe, vous pouvez convertir une mesure de votre propre sang en réactif. Vous pouvez ajouter au plus cinq dés de réactifs au jet de dégâts de la bombe sans les dépenser, et vous subissez 1d6 dégâts nécrotiques pour chaque dé de réactif ajouté. Ces dégâts ne peuvent pas être prévenus ou réduits, de quelques façons.
 
 ---
 
@@ -3746,7 +3746,7 @@ Lorsque vous amorcez et lancez une bombe, vous pouvez convertir une mesure de vo
 ---
 writing_status: finished
 ---
-Plutôt que de jeter une bombe, vous pouvez utiliser une action pour boire son contenu et le recracher dans un cône de 15 ft. Chaque créature dans le cône doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de bombe. Si elle échoue, la créature prend des dégâts de feu comme si la bombe avait été amorcée et jetée, ou la moitié si elle réussit. Lorsque vous utilisez cette aptitude, vous prenez 1d4 dégâts de feu pour chaque dé de dégâts de votre bombe.
+Plutôt que de jeter une bombe, vous pouvez utiliser une action pour boire son contenu et le recracher dans un cône de 15 ft. Chaque créature dans le cône doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de bombe. Si elle échoue, la créature subit des dégâts de feu comme si la bombe avait été amorcée et jetée, ou la moitié si elle réussit. Lorsque vous utilisez cette aptitude, vous subissez 1d4 dégâts de feu pour chaque dé de dégâts de votre bombe.
 
 ---
 
@@ -3777,7 +3777,7 @@ writing_status: finished
 ---
 *Requis : Niveau 13, Xénoalchimiste*
 
-Comme réaction lorsque vous prenez des dégâts, vous pouvez dépenser des dés de réactif (au plus votre bonus de maîtrise) pour réduire les dégâts pris du montant obtenus en lançant les dés.
+Comme réaction lorsque vous subissez des dégâts, vous pouvez dépenser des dés de réactif (au plus votre bonus de maîtrise) pour réduire les dégâts pris du montant obtenus en lançant les dés.
 
 ---
 
@@ -3886,7 +3886,7 @@ Au niveau 10, en ingérant régulièrement de petites doses de divers poisons et
 
 ## Récompense Toxique
 
-À partir du niveau 18, à chaque fois qu'une créature à moins de 5 ft. de vous vous touche avec une attaque de mêlée, vous pouvez utiliser votre réaction pour libérer un spray de vapeurs empoisonnées. L'attaquant doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de bombes ou être empoisonné pendant 1 minute. Tant qu'elle est empoisonnée, la créature prend 1d10 dégâts de poison à chaque début de tour. Une créature empoisonnée peut répéter ce jet de sauvegarde à la fin de son tour, terminant l'effet sur elle-même en cas de succès.
+À partir du niveau 18, à chaque fois qu'une créature à moins de 5 ft. de vous vous touche avec une attaque de mêlée, vous pouvez utiliser votre réaction pour libérer un spray de vapeurs empoisonnées. L'attaquant doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de bombes ou être empoisonné pendant 1 minute. Tant qu'elle est empoisonnée, la créature subit 1d10 dégâts de poison à chaque début de tour. Une créature empoisonnée peut répéter ce jet de sauvegarde à la fin de son tour, terminant l'effet sur elle-même en cas de succès.
 
 
 
@@ -4162,7 +4162,7 @@ donneur: N'importe
 emplacement: Tous
 writing_status: finished
 ---
-Un ou plusieurs de vos organes ou de vos membres ont été remplacés par une partie prélevée sur un monstre. Un remplacement peut résoudre efficacement n'importe quelle amputation ou défaillance d'organe, mais il ne peut pas ramener à la vie une personne décédée ; un tel ouvrage relève uniquement du domaine de la nécromancie. Les membres de remplacement peuvent ressembler au membre d'origine ou présenter des caractéristiques monstrueuses évidentes, en fonction du donneur. Un organe ou un membre de remplacement occupe l'emplacement corporel qui lui correspond ; par exemple, une main de troll occupe l'emplacement _Bras_ et un rein de remplacement occupe l'emplacement _Interne_.
+Un ou plusieurs de vos organes ou de vos membres ont été remplacés par une partie prélevée sur un monstre. Un remplacement peut résoudre efficacement n'importe quelle amputation ou défaillance d'organe, mais il ne peut pas ramener à la vie une personne décédée ; un tel ouvrage relève uniquement du domaine de la nécromancie. Les membres de remplacement peuvent ressembler au membre d'origine ou présenter des caractéristiques monstrueuses évidentes, en fonction du donneur. Un organe ou un membre de remplacement occupe l'emplacement corporel qui lui correspond ; par exemple, une main de troll occupe l'emplacement *Bras* et un rein de remplacement occupe l'emplacement *Interne*.
 
 ---
 
@@ -4399,19 +4399,19 @@ Au niveau 10, vous vous êtes injecté avec du vasoplasme, la substance gluante 
 ---
 writing_status: finished
 ---
-___
+*_*
 >## Golem Alchimique
 >*Moyenne Construction, neutre*
->![[Golem Alchimique.webp]]___
+>![[Golem Alchimique.webp]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|17 (+3)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >
->___
+>*_*
 >- **Résistances aux Dégâts** contondants, perçants et tranchants d'attaque non magiques qui ne sont pas en adamantine
 >- **Immunités aux Dégâts** foudre
 >- **Immunisées** charmé, exhaustion, apeuré, paralysé, pétrifié, empoisonné
@@ -4419,12 +4419,12 @@ ___
 >- **Langues** comprend les langues de son créateur, mais ne peut pas parler
 >- **Difficulté** 5 (1,800 PX)
 >- **Bonus de Maîtrise** +3
->___
->***Aversion au Feu.*** Si le golem alchimique prend des dégâts de feu, il a le désavantage aux jets de caractéristiques et aux jets d'attaque jusqu'à la fin de son prochain tour.
+>*_*
+>***Aversion au Feu.*** Si le golem alchimique subit des dégâts de feu, il a le désavantage aux jets de caractéristiques et aux jets d'attaque jusqu'à la fin de son prochain tour.
 >
 >***Forme Immuable.*** Le golem alchimique est immunisé aux sorts ou effets qui modifieraient sa forme.
 >
->***Absorption d'Éclair.*** À chaque fois que le golem alchimique est la cible de dégâts de foudre, il ne prend aucun dégât et se soigne à la place d'un montant égal à la moitié des dégâts de foudre.
+>***Absorption d'Éclair.*** À chaque fois que le golem alchimique est la cible de dégâts de foudre, il ne subit aucun dégât et se soigne à la place d'un montant égal à la moitié des dégâts de foudre.
 >
 >***Résistance Magique.*** Le golem alchimique a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques. 
 >
@@ -4575,9 +4575,9 @@ writing_status: empty
 ---
 writing_status: wip
 ---
-__Points de vie :__ 16
+**Points de vie :** 16
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
 > [!figure-right] ![[Golem.png]]
 
@@ -4588,15 +4588,15 @@ __Vitesse :__ 30 ft.
 
 | Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : ±0 | ◎ Investigation (_Int_) : -2 |
-| ◎ Arcanes (_Int_) : -2 | ◉ Médecine (_Sag_) : +3 |
-| ◎ Athlétisme (_For_) : -2 | ◎ Nature (_Int_) : -2<br> |
-| ◎ Discrétion (_Dex_) : -1 | ◎ Perception (_Sag_) : +1 |
-| ◎ Dressage (_Sag_) : +1 | ◎ Persuasion (_Cha_) : -2 |
-| ◎ Escamotage (_Dex_) : -1 | ◉ Religion (_Int_) : ±0 |
-| ◉ Histoire (_Int_) : ±0 | ◎ Représentation (_Cha_) : -2 |
-| ◎ Intimidation (_Cha_) : -2 | ◎ Survie (_Sag_) : +1 |
-| ◉ Intuition (_Sag_) : +3 | ◎ Tromperie (_Cha_) : -2<br> |
+| ◎ Acrobaties (*Dex*) : ±0 | ◎ Investigation (*Int*) : -2 |
+| ◎ Arcanes (*Int*) : -2 | ◉ Médecine (*Sag*) : +3 |
+| ◎ Athlétisme (*For*) : -2 | ◎ Nature (*Int*) : -2<br> |
+| ◎ Discrétion (*Dex*) : -1 | ◎ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : +1 | ◎ Persuasion (*Cha*) : -2 |
+| ◎ Escamotage (*Dex*) : -1 | ◉ Religion (*Int*) : ±0 |
+| ◉ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : -2 |
+| ◎ Intimidation (*Cha*) : -2 | ◎ Survie (*Sag*) : +1 |
+| ◉ Intuition (*Sag*) : +3 | ◎ Tromperie (*Cha*) : -2<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 >Vous êtes Ambre, un ancien firbolg quasi-immortel venu du Plan Astral, dont le corps incroyablement résistant mais physiquement faible a servi de réceptacle à la souffrance d'un dieu mort pendant des siècles, et qui cherche maintenant une nouvelle "cause" pour laquelle souffrir dans le monde matériel.
@@ -4618,15 +4618,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** —
 
-__Langues__ : Commun, Primordial, Céleste, Nain
+**Langues** : Commun, Primordial, Céleste, Nain
 
 ### Description
 
-__Âge :__ ?? ans (Apparence de 35 ans)
+**Âge :** ?? ans (Apparence de 35 ans)
 
-__Taille :__ 2,10 m
+**Taille :** 2,10 m
 
-__Poids :__ 110 kg
+**Poids :** 110 kg
 
 Ambre est une silhouette à la fois imposante et paradoxale. Bien qu'il soit d'une taille spectaculaire, même pour un firbolg, il n'a rien de la carrure massive que l'on attendrait. Il est élancé, presque fragile, avec de longs membres fins qui semblent mal à l'aise avec la lourdeur de la gravité.
 
@@ -4710,37 +4710,37 @@ writing_status: empty
 ---
 writing_status: finished
 ---
-__Type :__ Grand Construction
+**Type :** Grand Construction
 
-__CR :__ \_ (BM +2)
+**CR :** \_ (BM +2)
 
-__Points de vie :__ 30 (10 $\times$ le niveau d'artisan du créateur)
+**Points de vie :** 30 (10 $\times$ le niveau d'artisan du créateur)
 
-__Vitesse :__ 35 ft.
+**Vitesse :** 35 ft.
 
 | FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :----: | :----: | :----: |
 | 17 (+3) | 17 (+3) | 18 (+4) | 1 (-5) | 3 (-4) | 1 (-5) |
 | ◎ +5 | ◎ ±0 | ◎ +4 | ◎ ±0 | ◎ ±0 | ◎ ±0 |
-__Immunités__ : Poison, psychique
+**Immunités** : Poison, psychique
 
-__Immunités aux Conditions :__ Aveuglé, charmé, assourdi, apeuré, paralysé, pétrifié, empoisonné
+**Immunités aux Conditions :** Aveuglé, charmé, assourdi, apeuré, paralysé, pétrifié, empoisonné
 
-__Sens__ : Vision aveugle 120 ft. (aveugle au-delà)
+**Sens** : Vision aveugle 120 ft. (aveugle au-delà)
 
 ## Aptitudes
 
 ### Passifs
 
-__Couverture du Cockpit.__ Toute créature à l'intérieur de l'appareil a la couverture totale aux effets extérieurs, mais prend la moitié des dégâts pris par l'appareil.
+**Couverture du Cockpit.** Toute créature à l'intérieur de l'appareil a la couverture totale aux effets extérieurs, mais subit la moitié des dégâts pris par l'appareil.
 
-__Double Mains.__ L'appareil a deux bras mécaniques, chacun capable de manier une arme installée. Chaque bras est suffisamment puissant pour manier une arme comme s'il avait deux mains.
+**Double Mains.** L'appareil a deux bras mécaniques, chacun capable de manier une arme installée. Chaque bras est suffisamment puissant pour manier une arme comme s'il avait deux mains.
 
 ### Actions
 
-__Écrasement (Main Droite).__ *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants
+**Écrasement (Main Droite).** *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants
 
-__Écrasement (Main Gauche).__ *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants.
+**Écrasement (Main Gauche).** *Attaque armée de mêlée :* +5 au toucher, portée 5 ft., une cible. *Touché :* 10 (2d6 + 3) dégâts contondants.
 
 
 
@@ -4871,9 +4871,9 @@ Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'œuvre, seul
 
 En utilisant votre aptitude d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de :
 
-__Améliorer l'Équipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
+**Améliorer l'Équipement.** Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
 
-__Ajouter des Propriétés de Chef-d'Œuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
+**Ajouter des Propriétés de Chef-d'Œuvre.** Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
 
 | Propriété | Niveau d'Artisan | Coût |
 | ---------- | ---------------- | ---- |
@@ -4886,7 +4886,7 @@ Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'œuvre �
 
 Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
 
-__Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
+**Retirer des Propriétés.** Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
 
 ### Caractéristique d'Artisanat
 
@@ -4943,7 +4943,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 ## Magnum Opus
 
-Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un _Magnum Opus_.
+Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un *Magnum Opus*.
 
 ---
 
@@ -4973,9 +4973,9 @@ Lorsqu'une créature que vous pouvez voir attaque une cible autre que vous à 5 
 
 À partir du niveau 10, vous pouvez passer 10 minutes pour renforcer une armure, ou vous pouvez renforcer jusqu'à 6 armures pendant un repos. L'armure conserve son renforcement jusqu'à ce que la créature qui la porte se fasse toucher, après quoi elle n'est plus fortifiée. Les armures renforcées gagnent l'une des propriétés suivantes, au choix :
 
-__Adamante.__ Lorsqu'une créature portant cette armure subit des dégâts, ce montant est réduit de 1d8.
+**Adamante.** Lorsqu'une créature portant cette armure subit des dégâts, ce montant est réduit de 1d8.
 
-__Bandée.__ Une créature portant cette armure gagne un bonus de +1 à sa CA.
+**Bandée.** Une créature portant cette armure gagne un bonus de +1 à sa CA.
 
 ## Fortification
 
@@ -5024,15 +5024,15 @@ Lorsque vous touchez avec une attaque armée à distance utilisant une arme à f
 
 À partir du niveau 10, vous pouvez passer 10 minutes pour calibrer et renforcer une arme à distance, ou vous pouvez calibrer jusqu'à 6 armes à feu pendant un repos. L'arme conserve sa calibration jusqu'à ce qu'elle touche, après quoi elle n'est plus calibrée. Les armes calibrées gagnent l'une des propriétés suivantes, au choix :
 
-__Balistique.__ Cette arme inflige un dé supplémentaire de dégâts lorsqu'elle touche.
+**Balistique.** Cette arme inflige un dé supplémentaire de dégâts lorsqu'elle touche.
 
-__Calibrée.__ Cette arme inflige des coups critiques sur un jet d'attaque de 18-20.
+**Calibrée.** Cette arme inflige des coups critiques sur un jet d'attaque de 18-20.
 
 ## Lance-Grenade Attaché
 
 À partir du niveau 14, vous avez appris comment construire l'ultime attachement pour arme à feu : un lance-grenade sous le baril. Vous pouvez utiliser votre action pour attacher ce lancer à une arme à distance à deux mains avec la propriété Arme à feu ou en retirer un. Si le lanceur est perdu ou volé, vous pouvez en construire un pendant un repos long pour 100 PO. 
 
-Vous pouvez utiliser votre action pour tirer le lanceur sur un point que vous pouvez voir à 60 ft. Chaque créature dans un rayon de 10 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. En cas d'échec, la cible prend 8d6 dégâts de feu, et la moitié en cas de réussite.
+Vous pouvez utiliser votre action pour tirer le lanceur sur un point que vous pouvez voir à 60 ft. Chaque créature dans un rayon de 10 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. En cas d'échec, la cible subit 8d6 dégâts de feu, et la moitié en cas de réussite.
 
 Une fois que vous avez tiré le lanceur, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.
 
@@ -5071,7 +5071,7 @@ La première fois qu'une arme chauffée touche une cible, elle inflige 1d6 dég�
 
 ## Éclat Enflammé
 
-À partir du niveau 14, vous pouvez libérer la chaleur de votre forge portative en une déflagration colossale. Tant que vous portez votre forge, vous pouvez lancer le sort [[boule de feu]], centré sur vous-même, sans utiliser d'emplacement de sort ou de composantes, en utilisant votre DD de sauvegarde de chef-d'œuvre. Vous ne prenez aucun dégâts de ce sort.
+À partir du niveau 14, vous pouvez libérer la chaleur de votre forge portative en une déflagration colossale. Tant que vous portez votre forge, vous pouvez lancer le sort [[boule de feu]], centré sur vous-même, sans utiliser d'emplacement de sort ou de composantes, en utilisant votre DD de sauvegarde de chef-d'œuvre. Vous ne subissez aucun dégâts de ce sort.
 
 Une fois que vous avez utilisé votre aptitude, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos.
 
@@ -5097,7 +5097,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [!tip] Objets Magiques
 > La liste suivante indique quels objets magiques vous pouvez créer, à quel niveau et le coût en PO requis.
 > 
-> __Niveau 3 — 100 PO__
+> **Niveau 3 — 100 PO**
 > [[Amulette de santé]]
 > [[Baguette des secrets]]
 > [[Bateau pliable]]
@@ -5111,7 +5111,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Sceptre inamovible]]
 > [[Yeux de minutie]]
 > 
-> __Niveau 7 — 250 PO__
+> **Niveau 7 — 250 PO**
 > [[Anneau de marche sur l'eau]]
 > [[Anneau de saut]]
 > [[Baguette de projectiles magiques]]
@@ -5124,7 +5124,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Trou portatif]]
 > [[Yeux de charme]]
 > 
-> __Niveau 10 — 500 PO__
+> **Niveau 10 — 500 PO**
 > [[Amulette de cicatrisation]]
 > [[Amulette de protection contre le poison]]
 > [[Anneau de feuille morte]]
@@ -5138,7 +5138,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Gants d'interception]]
 > [[Yeux de faucon]]
 > 
-> __Niveau 14 — 1000 PO__
+> **Niveau 14 — 1000 PO**
 > [[Anneau d'action gratuite]]
 > [[Anneau de vision aux rayons X]]
 > [[Anneau du bélier]]
@@ -5189,43 +5189,43 @@ Pendant des siècles, le pinacle des véhicules mécanisés était la [[machine 
 
 Au niveau 3, vous complétez la structure de votre [[Appareil de Mécanaute]], tout en laissant la place pour des améliorations. Les plans sont basés sur la [[Machine du Crabe]], mais vous pouvez modeler le vôtre sur n'importe quel Humanoïde ou n'importe quelle Bête.
 
-__Statistiques de l'Appareil.__ La Classe d'Armure de l'appareil est basée sur votre Intelligence et ses points de vie sont basés sur votre niveau d'artisan.
+**Statistiques de l'Appareil.** La Classe d'Armure de l'appareil est basée sur votre Intelligence et ses points de vie sont basés sur votre niveau d'artisan.
 
-__Personnaliser l'Appareil.__ Votre appareil est équipé de deux armes chefs-d'œuvre, que vous pouvez modifier avec des propriétés de chef-d'œuvre ou remplacer par d'autres armes lorsque vous terminez un repos long. Seulement une des armes peut être à distance. De plus, vous ne pouvez charger ou recharger une arme de distance qu'en utilisant votre action à l'intérieur lorsque vous êtes dans l'appareil (ou deux actions si l'arme a la propriété Montée). Votre appareil maîtrise toujours les armes installées, et peut utiliser des armes chefs-d'œuvre avec des propriétés de niveau Maître ou Légendaire. 
+**Personnaliser l'Appareil.** Votre appareil est équipé de deux armes chefs-d'œuvre, que vous pouvez modifier avec des propriétés de chef-d'œuvre ou remplacer par d'autres armes lorsque vous terminez un repos long. Seulement une des armes peut être à distance. De plus, vous ne pouvez charger ou recharger une arme de distance qu'en utilisant votre action à l'intérieur lorsque vous êtes dans l'appareil (ou deux actions si l'arme a la propriété Montée). Votre appareil maîtrise toujours les armes installées, et peut utiliser des armes chefs-d'œuvre avec des propriétés de niveau Maître ou Légendaire. 
 
-__Réparer l'Appareil.__ Lorsque l'appareil tombe à 0 point de vie, il ne peut plus bouger ou agir, mais il peut être réparé. Vous pouvez passer 1 minute à lui restaurer sa capacité à se déplacer à mi-vitesse, qu'il perd s'il reprend des dégâts avant d'avoir été réparé.
+**Réparer l'Appareil.** Lorsque l'appareil tombe à 0 point de vie, il ne peut plus bouger ou agir, mais il peut être réparé. Vous pouvez passer 1 minute à lui restaurer sa capacité à se déplacer à mi-vitesse, qu'il perd s'il reprend des dégâts avant d'avoir été réparé.
 
 Vous pouvez réparer votre appareil à la fin d'un repos cours en dépensant vos dés de vie, pour qu'il regagne des points de vie comme s'il finissait un repos court. Lorsque vous terminez un repos long, vous pouvez réparer votre appareil, le faisant regagner tous ses points de vie. Vous avez toujours suffisamment de matériaux sur vous pour réparer votre appareil. Si vous perdez votre appareil, vous pouvez en fabriquer un nouveau pour 400 PO.
 
-__Entrer et Quitter l'Appareil.__ Une créature peut entrer ou quitter l'appareil en utilisant la moitié de son mouvement. Tant qu'elle est dans l'appareil, la créature a la couverture totale aux effets venant de l'extérieur. Vos propriétés d'armure n'ont aucun effet lorsque vous êtes dans l'appareil. Une seule créature de taille M ou P peut être dans l'appareil à la fois.
+**Entrer et Quitter l'Appareil.** Une créature peut entrer ou quitter l'appareil en utilisant la moitié de son mouvement. Tant qu'elle est dans l'appareil, la créature a la couverture totale aux effets venant de l'extérieur. Vos propriétés d'armure n'ont aucun effet lorsque vous êtes dans l'appareil. Une seule créature de taille M ou P peut être dans l'appareil à la fois.
 
-__Piloter l'Appareil.__ Une créature qui est dans l'Appareil peut le piloter ; l'appareil agit pendant le tour du pilote. Toute créature pilotant l'appareil peut lui ordonner de se déplacer (aucune action). Lorsque vous pilotez l'appareil, vous pouvez utiliser votre action pour lui ordonner d'utiliser son action pour Attaquer, Foncer, se Désengager, se Cacher ou Utiliser un objet. Vous pouvez également lui ordonner d'utiliser une réaction, en utilisant la vôtre pour ce faire.
+**Piloter l'Appareil.** Une créature qui est dans l'Appareil peut le piloter ; l'appareil agit pendant le tour du pilote. Toute créature pilotant l'appareil peut lui ordonner de se déplacer (aucune action). Lorsque vous pilotez l'appareil, vous pouvez utiliser votre action pour lui ordonner d'utiliser son action pour Attaquer, Foncer, se Désengager, se Cacher ou Utiliser un objet. Vous pouvez également lui ordonner d'utiliser une réaction, en utilisant la vôtre pour ce faire.
 
-Une seule créature peut piloter l'appareil à la fois. Le pilote prend la moitié des dégâts que l'appareil prend.
+Une seule créature peut piloter l'appareil à la fois. Le pilote subit la moitié des dégâts que l'appareil prend.
 
 Lorsque vous êtes hors de l'appareil, vous pouvez lui ordonner de vous suivre ou de vous attendre. Lorsqu'il vous suit, il se déplace pendant ses tours pour être à 30 ft. de vous.
 
-__Attaquer avec l'Appareil.__ L'appareil attaque avec ses armes installées comme s'il les maniait, et utilise votre modificateur de Dextérité ou d'Intelligence (votre choix) pour les jets d'attaque et de dégâts, en utilisant le même pour les deux. Lorsque vous utilisez votre action pour attaquer, il réalise le même nombre d'attaques que vous réaliseriez.
+**Attaquer avec l'Appareil.** L'appareil attaque avec ses armes installées comme s'il les maniait, et utilise votre modificateur de Dextérité ou d'Intelligence (votre choix) pour les jets d'attaque et de dégâts, en utilisant le même pour les deux. Lorsque vous utilisez votre action pour attaquer, il réalise le même nombre d'attaques que vous réaliseriez.
 
 ## Amélioration du Cockpit
 
 Au niveau 3, vous pouvez personnaliser votre appareil en améliorant le compartiment de pilotage. Choisissez l'une des améliorations suivantes :
 
-__Équipements Confortables.__ L'intérieur de l'appareil est particulièrement confortable, peut-être même jusqu'à inclure une couette chaude et des oreillers. Vous pouvez dormir tout en étant dans l'appareil sans malus.
+**Équipements Confortables.** L'intérieur de l'appareil est particulièrement confortable, peut-être même jusqu'à inclure une couette chaude et des oreillers. Vous pouvez dormir tout en étant dans l'appareil sans malus.
 
-__Siège Éjectable.__ L'appareil est équipé d'un système d'éjection d'urgence, ce qui vous permet de fuir rapidement. Quitter l'appareil ne coûte aucun mouvement.
+**Siège Éjectable.** L'appareil est équipé d'un système d'éjection d'urgence, ce qui vous permet de fuir rapidement. Quitter l'appareil ne coûte aucun mouvement.
 
-__Enceinte.__ L'appareil est équipé d'un système qui amplifie de trois fois le volume de votre voix.
+**Enceinte.** L'appareil est équipé d'un système qui amplifie de trois fois le volume de votre voix.
 
 ## Amélioration de Membre
 
 Au niveau 7, vous avez redessiné les jambes de votre appareil pour obtenir une meilleure mobilité. Choisissez l'une des améliorations suivantes : 
 
-__Jambes Arachnotrones.__ L'appareil peut se déplacer le long des surfaces verticales et des plafonds et il gagne une vitesse d'escalade égale à sa vitesse de marche.
+**Jambes Arachnotrones.** L'appareil peut se déplacer le long des surfaces verticales et des plafonds et il gagne une vitesse d'escalade égale à sa vitesse de marche.
 
-__Suspensions Hydrauliques.__ La distance de saut de l'appareil triple et il ne prend plus de dégâts de chute de moins de 100 ft.
+**Suspensions Hydrauliques.** La distance de saut de l'appareil triple et il ne subit plus de dégâts de chute de moins de 100 ft.
 
-__Structure Télescopique.__ Lorsque l'appareil n'est pas habité, vous pouvez utiliser votre action bonus pour lui ordonner de se réduire à une taille M ou revenir à sa taille originale. Tant qu'il est réduit ainsi, l'appareil ne peut pas être habité.
+**Structure Télescopique.** Lorsque l'appareil n'est pas habité, vous pouvez utiliser votre action bonus pour lui ordonner de se réduire à une taille M ou revenir à sa taille originale. Tant qu'il est réduit ainsi, l'appareil ne peut pas être habité.
 
 ## Siège Passager
 
@@ -5235,11 +5235,11 @@ __Structure Télescopique.__ Lorsque l'appareil n'est pas habité, vous pouvez u
 
 A parti du niveau 14, vous avez installé des attachements extérieurs à votre appareil. Choisissez l'une des améliorations suivantes. Une fois que vous avez utilisé l'amélioration installée, vous devez terminer un repos avant de pouvoir l'utiliser à nouveau.
 
-__Canon de Baliste.__ Pour une action, vous pouvez tirer depuis la baliste lourde intégrée à votre appareil. Ce tir affecte une ligne large de 5 ft., longue de 60 ft. Toute créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Une telle créature prend 5d10 dégâts perçants en cas d'échec, et la moitié en cas de réussite.
+**Canon de Baliste.** Pour une action, vous pouvez tirer depuis la baliste lourde intégrée à votre appareil. Ce tir affecte une ligne large de 5 ft., longue de 60 ft. Toute créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Une telle créature subit 5d10 dégâts perçants en cas d'échec, et la moitié en cas de réussite.
 
-__Gyro-Module.__ Vous pouvez utiliser votre action pour faire rapidement tourner votre appareil sur lui-même, lui permettant de réaliser une attaque de mêlée contre toute créature à 5 ft. de lui, avec un jet d'attaque distinct pour chaque créature. Vous ne pouvez pas vous déplacer pendant ces attaques.
+**Gyro-Module.** Vous pouvez utiliser votre action pour faire rapidement tourner votre appareil sur lui-même, lui permettant de réaliser une attaque de mêlée contre toute créature à 5 ft. de lui, avec un jet d'attaque distinct pour chaque créature. Vous ne pouvez pas vous déplacer pendant ces attaques.
 
-__Engin de Fusée.__ Vous pouvez utiliser votre action bonus pour allumer le moteur de fusée accroché à votre appareil, le propulsant de 30 ft. en ligne droite dans une direction que vous choisissez. Si vous réalisez une attaque de mêlée directement après ce mouvement, l'attaque est réalisée avec avantage. Si vous touchez, la cible est mise [[au sol]] ou est projetée de 10 ft. (votre choix).
+**Engin de Fusée.** Vous pouvez utiliser votre action bonus pour allumer le moteur de fusée accroché à votre appareil, le propulsant de 30 ft. en ligne droite dans une direction que vous choisissez. Si vous réalisez une attaque de mêlée directement après ce mouvement, l'attaque est réalisée avec avantage. Si vous touchez, la cible est mise [[au sol]] ou est projetée de 10 ft. (votre choix).
 
 ## Propriété Légendaire
 
@@ -5272,7 +5272,7 @@ Lorsque vous utilisez votre action pour attaquer, vous pouvez abandonner une ou 
 
 À partir du niveau 10, vous pouvez passer 10 minutes à modifier une arme à distance, ou passer un repos à en modifier jusqu'à 6. Chaque arme modifiée gagne la propriété suivante : 
 
-__État d'Alerte.__ Cette arme a l'avantage à la première attaque qu'elle réalise en utilisant une action préparée.
+**État d'Alerte.** Cette arme a l'avantage à la première attaque qu'elle réalise en utilisant une action préparée.
 
 ## Mise en Place Rapide
 
@@ -5298,12 +5298,12 @@ Depuis les premiers instants de la vie, les tempêtes (et surtout l'éclair) ont
 
 À partir du moment où vous rejoignez cette guilde au niveau 3, vous construisez une cellule d'énergie, générant des éclairs et connectée à un ensemble de gantelets. Lorsque vous obtenez ces objets, vous êtes considéré comme ayant travaillé dessus pendant votre temps libre, ne réussissant à les faire fonctionner qu'au moment où vous sélectionnez cette sous-classe. Si cet équipement est perdu ou endommagé, vous pouvez les remplacer en un repos long pour 100 po de matériaux.
 
-__Points de Charge.__ Vous possédez un nombre de points de charge égal à la moitié de votre niveau d'artisan, arrondi au supérieur, qui représentent l'énergie électrique emmagasinée dans votre cellule d'énergie. Vous pouvez dépenser ces points pour générer divers effets électriques à travers votre cellule. Vous regagnez les charges dépensées lorsque vous terminez un repos.
+**Points de Charge.** Vous possédez un nombre de points de charge égal à la moitié de votre niveau d'artisan, arrondi au supérieur, qui représentent l'énergie électrique emmagasinée dans votre cellule d'énergie. Vous pouvez dépenser ces points pour générer divers effets électriques à travers votre cellule. Vous regagnez les charges dépensées lorsque vous terminez un repos.
 
-__Utiliser les Points de Charge.__ Une fois par tour lorsque vous touchez une créature avec une attaque qui inflige des dégâts de foudre, vous pouvez dépenser un nombre de points de charge inférieur ou égal à votre bonus de maîtrise pour améliorer le pouvoir de votre attaque. Lorsque vous le faites, choisissez l'un des effets suivants :
+**Utiliser les Points de Charge.** Une fois par tour lorsque vous touchez une créature avec une attaque qui inflige des dégâts de foudre, vous pouvez dépenser un nombre de points de charge inférieur ou égal à votre bonus de maîtrise pour améliorer le pouvoir de votre attaque. Lorsque vous le faites, choisissez l'un des effets suivants :
 
- - *Arc.* Des éclairs forment un arc vers des cibles proches. Choisissez un nombre de créatures égal au nombre de points de charge que vous dépensez à 15 ft. de la cible de l'attaque. Chacune des créatures choisies doit réussir un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre ou prendre 1d6 + votre modificateur d'Intelligence dégâts de foudre.
-- *Décharge.* La créature que vous touchez prend 1d6 dégâts de foudre supplémentaires par points de charge que vous dépensez.
+ - *Arc.* Des éclairs forment un arc vers des cibles proches. Choisissez un nombre de créatures égal au nombre de points de charge que vous dépensez à 15 ft. de la cible de l'attaque. Chacune des créatures choisies doit réussir un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre ou subir 1d6 + votre modificateur d'Intelligence dégâts de foudre.
+- *Décharge.* La créature que vous touchez subit 1d6 dégâts de foudre supplémentaires par points de charge que vous dépensez.
 - *Étincelle.* La créature ne peut pas prendre de réaction jusqu'au début de votre prochain tour.
 
 ## Choc
@@ -5317,15 +5317,15 @@ Au niveau 3, tant que vous portez une cellule d'énergie et qu'elle a au moins 1
 
 À partir du niveau 7, tant que vous portez votre cellule d'énergie, vous êtes résistant aux dégâts de foudre.
 
-De plus, lorsque vous prenez des dégâts de foudre d'une créature hostile tout en portant vos gantelets, vous pouvez utiliser votre réaction pour récupérer 2 points de charge dépensés.
+De plus, lorsque vous subissez des dégâts de foudre d'une créature hostile tout en portant vos gantelets, vous pouvez utiliser votre réaction pour récupérer 2 points de charge dépensés.
 
 ## Charge Statique
 
 À partir du niveau 10, vous pouvez passer 10 minutes pour emmagasiner une charge électrique dans une arme ou une armure, ou pouvez le faire dans jusqu'à 6 armes ou armures en un repos. Les charges non utilisées se dissipent au bout de 1 heure. Une arme ou une armure chargée bénéficie de l'effet approprié suivant :
 
-__Armure Chargée.__ Lorsque vous prenez des dégâts d'une attaque de mêlée, vous pouvez utiliser votre réaction pour dépenser la charge, infligent 1d8 dégâts de foudre à la créature qui vous a touché.
+**Armure Chargée.** Lorsque vous subissez des dégâts d'une attaque de mêlée, vous pouvez utiliser votre réaction pour dépenser la charge, infligent 1d8 dégâts de foudre à la créature qui vous a touché.
 
-__Arme Chargée.__ Lorsque vous touchez une créature avec une attaque en utilisant cette arme, vous pouvez dépenser la charge pour infliger 1d6 dégâts de foudre supplémentaires à la cible.
+**Arme Chargée.** Lorsque vous touchez une créature avec une attaque en utilisant cette arme, vous pouvez dépenser la charge pour infliger 1d6 dégâts de foudre supplémentaires à la cible.
 
 ## Haut Voltage
 
@@ -5365,17 +5365,17 @@ Lorsque vous pratiquez le combat à deux armes, vous pouvez ajouter votre modifi
 
 À partir du niveau 7, vous pouvez utiliser votre connaissance de la construction de l'armement afin de désarmer vos opposants et de détruire leur armure. Une fois à chaque de vos tours, lorsque vous utilisez votre action pour Attaquer, vous pouvez remplacer l'une de vos attaques avec l'une des attaques de mêlée spéciales suivantes.
 
-__Désarmement.__ Vous essayez de désarmer une cible à portée. La cible réalise un jet de sauvegarde de Force contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, elle lâche un objet de votre choix qu'elle porte ou manie. Cet objet tombe à ses pieds.
+**Désarmement.** Vous essayez de désarmer une cible à portée. La cible réalise un jet de sauvegarde de Force contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, elle lâche un objet de votre choix qu'elle porte ou manie. Cet objet tombe à ses pieds.
 
-__Fracassement.__ Vous essayer d'écraser les défenses d'une cible à portée qui porte une armure ou manie un bouclier. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, l'armure ou le bouclier de la cible prend un malus permanent et cumulatif de -1 à la CA qu'il offre. Les armures réduites à une CA de 10 ou un bouclier qui tombe à +0+ de bonus est détruit. Si une armure ou un bouclier est endommagé mais pas détruit, une créature peut le réparer au cours d'un repos.
+**Fracassement.** Vous essayer d'écraser les défenses d'une cible à portée qui porte une armure ou manie un bouclier. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, l'armure ou le bouclier de la cible subit un malus permanent et cumulatif de -1 à la CA qu'il offre. Les armures réduites à une CA de 10 ou un bouclier qui tombe à +0+ de bonus est détruit. Si une armure ou un bouclier est endommagé mais pas détruit, une créature peut le réparer au cours d'un repos.
 
 ## Armes Aiguisées
 
 À partir du niveau 10 vous pouvez passer 10 minutes pour renforcer une arme, ou vous pouvez renforcer jusqu'à 6 armes pendant un repos. L'arme conserve son renforcement jusqu'à ce qu'elle touche une cible, après quoi elle n'est plus fortifiée. Les armes renforcées gagnent l'une des propriétés suivantes, au choix :
 
-__Rodée.__ Cette arme a un bonus de +2 aux jets d'attaque.
+**Rodée.** Cette arme a un bonus de +2 aux jets d'attaque.
 
-__Aiguisée.__ Cette arme inflige 1d8 dégâts supplémentaires lorsqu'elle touche.
+**Aiguisée.** Cette arme inflige 1d8 dégâts supplémentaires lorsqu'elle touche.
 
 ## Maître Polyvalent des Armes
 
@@ -5398,19 +5398,19 @@ Les artisans de la guilde des Piégeurs peuvent construire les pièges suivants 
 
 Vous chargez cet appareil compact, semblable à une baliste, dans un espace inoccupé à 5 ft. de vous et le dirigez dans la direction de votre choix. Le piège se déclenche lorsqu'une créature entre dans la ligne large de 5 ft. et longue de 30 ft. émanant de l'avant du piège. Lorsqu'elle se déclenche, la baliste tire automatiquement, réalisant une attaque à distance contre la créature.
 
-Le jet d'attaque utilise votre modificateur d'Intelligence et votre bonus de maîtrise. Si elle touche, la cible prend 2d8 dégâts perçants.
+Le jet d'attaque utilise votre modificateur d'Intelligence et votre bonus de maîtrise. Si elle touche, la cible subit 2d8 dégâts perçants.
 
 ### Piège à Homme
 
-Vous attachez ce piège de chasse beaucoup trop grand au sol dans un espace inoccupé à 5 ft. de vous. Lorsqu'une créature de taille P ou supérieure se déplace dans la zone du piège, le piège s'abat sur elle. La créature doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. SI elle échoue, elle prend 2d8 dégâts tranchants et si elle est de taille G ou inférieure, elle se retrouve piégée, incapable de bouger. Si elle réussit, la créature ne prend que la moitié des dégâts et n'est pas piégée. Une créature piégée ou une autre créature à 5 ft. peut utiliser son action pour réaliser un jet de Force contre votre DD de sauvegarde pour libérer la créature piégée. Une créature de taille TG ou plus qui échoue le jet de sauvegarde arrache le piège de son attache à son prochain mouvement.
+Vous attachez ce piège de chasse beaucoup trop grand au sol dans un espace inoccupé à 5 ft. de vous. Lorsqu'une créature de taille P ou supérieure se déplace dans la zone du piège, le piège s'abat sur elle. La créature doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. SI elle échoue, elle subit 2d8 dégâts tranchants et si elle est de taille G ou inférieure, elle se retrouve piégée, incapable de bouger. Si elle réussit, la créature ne subit que la moitié des dégâts et n'est pas piégée. Une créature piégée ou une autre créature à 5 ft. peut utiliser son action pour réaliser un jet de Force contre votre DD de sauvegarde pour libérer la créature piégée. Une créature de taille TG ou plus qui échoue le jet de sauvegarde arrache le piège de son attache à son prochain mouvement.
 
 ### Fil de Rasoir
 
-Vous déployez un enchevêtrement de fils tranchants comme des rasoirs dans un maximum de quatre zones inoccupés contigües de 5 ft². que vous choisissez dans un rayon de 10 ft. Chacune de ces zones devient du terrain difficile. Lorsqu'une créature se déplace dans ou l'intérieur de la zone, elle prend 2d4 dégâts perçants par 5 ft. qu'elle parcourt. Une fois déployé, le fil de rasoir ne peut être récupéré.
+Vous déployez un enchevêtrement de fils tranchants comme des rasoirs dans un maximum de quatre zones inoccupés contigües de 5 ft². que vous choisissez dans un rayon de 10 ft. Chacune de ces zones devient du terrain difficile. Lorsqu'une créature se déplace dans ou l'intérieur de la zone, elle subit 2d4 dégâts perçants par 5 ft. qu'elle parcourt. Une fois déployé, le fil de rasoir ne peut être récupéré.
 
 ### Bombe à Déclenchement
 
-Vous jetez ce gadget explosif dans un espace inoccupé à 30 ft. de vous. Pour une réaction lorsqu'une créature que vous pouvez voir ou entendre se déplace à 5 ft. de la bombe, vous pouvez presser le détonateur, faisant exploser la bombe. Chaque créature à 5 ft. de la bombe doit réaliser un jet de sauvegarde de Dextérité. En cas d'échec, la créature prend 2d6 dégâts de feu ou la moitié en cas de réussite. L'explosion met feu à tous les objets inflammables dans la zone qui ne sont pas portés ou maniés.
+Vous jetez ce gadget explosif dans un espace inoccupé à 30 ft. de vous. Pour une réaction lorsqu'une créature que vous pouvez voir ou entendre se déplace à 5 ft. de la bombe, vous pouvez presser le détonateur, faisant exploser la bombe. Chaque créature à 5 ft. de la bombe doit réaliser un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 2d6 dégâts de feu ou la moitié en cas de réussite. L'explosion met feu à tous les objets inflammables dans la zone qui ne sont pas portés ou maniés.
 
 ---
 
@@ -5419,8 +5419,8 @@ Vous jetez ce gadget explosif dans un espace inoccupé à 30 ft. de vous. Pour u
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme exotique chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#FInesse|Finesse]], [[Propriétés d'Arme#Léger|Léger]], [[Propriétés d'Arme#Poignée Avant|Poignée Avant]], [[Propriétés d'Arme#Jet|Jet]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme exotique chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#FInesse|Finesse]], [[Propriétés d'Arme#Léger|Léger]], [[Propriétés d'Arme#Poignée Avant|Poignée Avant]], [[Propriétés d'Arme#Jet|Jet]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]] et ses dégâts augmentent d'un cran. De plus, si c'est une arme à distance, sa portée normale augmente de 50 ft. et sa portée longue s'adapte.
 
@@ -5431,8 +5431,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Main
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Munitions|Munitions]] et [[Propriétés d'Arme#A Deux Mains|A Deux Mains]] mais sans la propriété [[Propriétés d'Arme#A Lunette|A Lunette]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Munitions|Munitions]] et [[Propriétés d'Arme#A Deux Mains|A Deux Mains]] mais sans la propriété [[Propriétés d'Arme#A Lunette|A Lunette]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#A Dispersion|A Dispersion]] et ses dégâts diminuent d'un cran. Les dégâts de l'arme augmentent de deux crans lorsqu'une attaque est réalisée contre une cible à moins de la moitié de sa portée normale.
 
@@ -5445,8 +5445,8 @@ La portée longue devient trois fois la portée normale de l'arme, qui est rédu
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#A Dispersion|A Dispersion]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#A Dispersion|A Dispersion]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#A Lunette|A Lunette]]. De plus, sa portée normale augmente de 50 ft. et sa portée longue s'adapte.
 
@@ -5457,8 +5457,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#A Lunette|A Lunette]]. D
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme à distance exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme à distance exotique chef-d'œuvre
 
 Lorsque vous réalisez un jet d'attaque qui n'a pas le désavantage avec cette arme et ratez, vous touchez tout de même la cible et lui infligez 5 dégâts du type de l'arme. Ces dégâts ne peuvent pas être augmentés, et aucun effet n'est appliqué à la touche.
 
@@ -5469,8 +5469,8 @@ Lorsque vous réalisez un jet d'attaque qui n'a pas le désavantage avec cette a
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure exotique lourde chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure exotique lourde chef-d'œuvre
 
 Cette armure est renforcée en adamantine, une des substances les plus solides qui existent. Tant que vous portez cette armure, tout coup critique contre vous devient un coup normal.
 
@@ -5481,8 +5481,8 @@ Cette armure est renforcée en adamantine, une des substances les plus solides q
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd||Lourd]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
+*Propriété d'Arme Maître*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd||Lourd]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
 
 Les dégâts de cette arme augmentent de deux crans, et elle inflige des dégâts doublés aux objets et structures.
 
@@ -5493,8 +5493,8 @@ Les dégâts de cette arme augmentent de deux crans, et elle inflige des dégât
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
+*Propriété d'Arme Maître*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
 
 Cette arme inflige des coups critiques sur un jet de 19-20.
 
@@ -5505,8 +5505,8 @@ Cette arme inflige des coups critiques sur un jet de 19-20.
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure moyenne ou lourde chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure moyenne ou lourde chef-d'œuvre
 
 Lorsque vous devriez être déplacé par un effet contre votre volonté tout en portant cette armure, réduisez ce mouvement de 10 ft.
 
@@ -5517,8 +5517,8 @@ Lorsque vous devriez être déplacé par un effet contre votre volonté tout en 
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure lourde exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure lourde exotique chef-d'œuvre
 
 Cette armure est enchantée avec une puissante magie de transmutation. Pour une action, vous pouvez retirer l'armure, qui s'anime comme d'après le sort [[Animation d'Objets]] et devient un objet animé de taille M.
 
@@ -5535,8 +5535,8 @@ Une fois que vous avez utilisé cette propriété, vous ne pouvez pas le refaire
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Cette armure est recouverte de gribouillis arcaniques. Lorsque vous appliquez cette propriété à une armure, choisissez deux cantrips de la liste de sorts du Magicien. Tant que vous portez cette armure, vous pouvez lancer ces cantrips. L'Intelligence est votre caractéristique d'incantation pour ces sorts.
 
@@ -5547,8 +5547,8 @@ Cette armure est recouverte de gribouillis arcaniques. Lorsque vous appliquez ce
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Chargement|Chargement]] ou [[Propriétés d'Arme#Rechargement|Rechargement]] qui n'a pas la propriété [[Propriétés d'Arme#Tension|Tension]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Chargement|Chargement]] ou [[Propriétés d'Arme#Rechargement|Rechargement]] qui n'a pas la propriété [[Propriétés d'Arme#Tension|Tension]]
 
 Cette arme devient une [[Armes à Feu|arme à feu]]. Ses dégâts augmentent de quatre crans et se transforment en deux dés de dégâts, si possible.
 
@@ -5559,8 +5559,8 @@ Cette arme devient une [[Armes à Feu|arme à feu]]. Ses dégâts augmentent de 
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure moyenne ou lourde exotique chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure moyenne ou lourde exotique chef-d'œuvre
 
 Lorsqu'un attaquant réalise une attaque à distance contre une cible à 5 ft. de vous, vous pouvez utiliser votre réaction pour devenir la cible.
 
@@ -5571,8 +5571,8 @@ Lorsqu'un attaquant réalise une attaque à distance contre une cible à 5 ft. d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]
 
 Cette arme gagne la propriété [[Propriétés d'Arme#Automatique|Automatique]] et ses dégâts diminuent d'un cran. La portée normale de l'arme diminue de 20 ft. et la portée longue s'adapte.
 
@@ -5583,8 +5583,8 @@ Cette arme gagne la propriété [[Propriétés d'Arme#Automatique|Automatique]] 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme chef-d'œuvre avec la propriété [[Propriétés d'Arme#Jet|Jet]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme chef-d'œuvre avec la propriété [[Propriétés d'Arme#Jet|Jet]]
 
 La portée normale de cette arme augmente de 40 ft. et sa portée longue s'adapte.
 
@@ -5595,8 +5595,8 @@ La portée normale de cette arme augmente de 40 ft. et sa portée longue s'adapt
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Massif|Massif]]
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Massif|Massif]]
 
 Les dégâts de cette arme augmentent de deux crans. Si vous touchez avec cette arme, la cible doit réaliser un jet de sauvegarde de Force. Si elle rate, la cible est mise [[au sol]] ou repoussée de 10 ft. (au choix).
 
@@ -5607,8 +5607,8 @@ Les dégâts de cette arme augmentent de deux crans. Si vous touchez avec cette 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Armes à Feu|Arme à Feu]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Armes à Feu|Arme à Feu]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Chaleur|Chaleur]] et ses dégâts augmentent d'un cran.
 
@@ -5619,8 +5619,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Chaleur|Chaleur]] et ses
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais pas la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais pas la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Chargement|Chargement]] et ses dégâts augmentent d'un cran.
 
@@ -5631,8 +5631,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Chargement|Chargement]] 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Rechargement|Rechargement]]
 
 La capacité de Rechargement de cette arme est doublée.
 
@@ -5643,8 +5643,8 @@ La capacité de Rechargement de cette arme est doublée.
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure lourde chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure lourde chef-d'œuvre
 
 Cette armure est parsemée de clou. Tant que vous portez cette armure, les créatures en contact avec vous (que ce soit en vous saisissant, en étant saisi ou en vous avalant) prennent des dégâts perçants égaux à 1d4 + votre modificateur de Force au début de votre tour.
 
@@ -5655,8 +5655,8 @@ Cette armure est parsemée de clou. Tant que vous portez cette armure, les créa
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure lourde exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure lourde exotique chef-d'œuvre
 
 Cette armure double en taille lorsqu'elle est enfilée. Tant que vous portez cette armure, vous bénéficiez des effets de l'agrandissement du sort [[Agrandissement ou Rapetissement]].
 
@@ -5667,8 +5667,8 @@ Cette armure double en taille lorsqu'elle est enfilée. Tant que vous portez cet
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure chef-d'œuvre
 
 Vous pouvez dormir dans cette armure sans inconvénient.
 
@@ -5679,8 +5679,8 @@ Vous pouvez dormir dans cette armure sans inconvénient.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
 
 Vous pouvez manier cette arme à une main si vous n'avez pas d'arme dans l'autre main.
 
@@ -5691,8 +5691,8 @@ Vous pouvez manier cette arme à une main si vous n'avez pas d'arme dans l'autre
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Cette armure est recouverte de sceaux et de charmes protecteurs. Tant que vous portez cette arme, vous avez l'avantage aux jets de sauvegarde contre les sorts.
 
@@ -5703,10 +5703,10 @@ Cette armure est recouverte de sceaux et de charmes protecteurs. Tant que vous p
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre qui inflige des dégâts tranchants
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre qui inflige des dégâts tranchants
 
-Lorsqu'une créature prend des dégâts d'une arme crantée deux fois ou plus pendant un tour, elle prend 1d8 dégâts tranchants supplémentaires.
+Lorsqu'une créature subit des dégâts d'une arme crantée deux fois ou plus pendant un tour, elle subit 1d8 dégâts tranchants supplémentaires.
 
 ---
 
@@ -5715,8 +5715,8 @@ Lorsqu'une créature prend des dégâts d'une arme crantée deux fois ou plus pe
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure légère exotique chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure légère exotique chef-d'œuvre
 
 Cette armure est augmentée d'équipements d'escalade. Tant que vous portez cette armure et que vous avez une main de libre, vous avez une vitesse d'escalade à votre vitesse de marche.
 
@@ -5727,8 +5727,8 @@ Cette armure est augmentée d'équipements d'escalade. Tant que vous portez cett
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Lorsque vous appliquez cette propriété, choisissez un type de créature autre que Humanoïde. Cette arme inflige 1d12 dégâts supplémentaires aux créatures du type choisi.
 
@@ -5739,8 +5739,8 @@ Lorsque vous appliquez cette propriété, choisissez un type de créature autre 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Dissimulable|Dissimulable]].
 
@@ -5751,8 +5751,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Dissimulable|Dissimulabl
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure légère exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure légère exotique chef-d'œuvre
 
 Cette armure peut facilement dissimuler son porteur lorsque nécessaire. Tant que vous portez cette armure, vous pouvez lancer le sort [[invisibilité]] sans dépenser d'emplacement de sort ou de composantes matérielles.
 
@@ -5765,8 +5765,8 @@ Une fois que vous avez utilisé cette propriété pour lancer le sort, vous ne p
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme exotique chef-d'œuvre qui n'a pas la propriété [[Propriétés d'Arme#Lourd|Lourd]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme exotique chef-d'œuvre qui n'a pas la propriété [[Propriétés d'Arme#Lourd|Lourd]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Double|Double]] et ses dégâts diminuent d'un cran.
 
@@ -5777,8 +5777,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Double|Double]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme inflige des coups critiques sur un jet de 18-20.
 
@@ -5789,8 +5789,8 @@ Cette arme inflige des coups critiques sur un jet de 18-20.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Lorsque vous touchez une créature avec cette arme, vous pouvez décharger la cellule d'énergie interne à l'arme pour choquer la cible. Elle doit réussir un jet de sauvegarde de Constitution ou être [[sonné|sonnée]] jusqu'à la fin de votre prochain tour.
 
@@ -5803,8 +5803,8 @@ Une fois que vous avez utilisé cette propriété, vous ne pouvez pas le refaire
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme chef-d'œuvre
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme chef-d'œuvre
 
 Cette arme devient entrelacée de puissants enchantements magiques. Vous pouvez utiliser votre Intelligence plutôt que votre Force ou votre Dextérité pour les jets d'attaque et de dégâts de cette arme.
 
@@ -5815,8 +5815,8 @@ Cette arme devient entrelacée de puissants enchantements magiques. Vous pouvez 
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure chef-d'œuvre
 
 Tant que vous portez cette armure, vous pouvez tolérer des températures allant de -70 °C à 90 °C.
 
@@ -5827,8 +5827,8 @@ Tant que vous portez cette armure, vous pouvez tolérer des températures allant
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure chef-d'œuvre non exotique
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure chef-d'œuvre non exotique
 
 Cette armure devient exotique, et vous avez un bonus de +1 à la CA lorsque vous la portez.
 
@@ -5841,8 +5841,8 @@ Aucune classe, à part l'artisan, ne gagne la maîtrise des armures exotiques.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme martiale chef-d'œuvre
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme martiale chef-d'œuvre
 
 Cette arme devient une arme exotique et ses dés de dégâts augmentent d'un cran.
 
@@ -5855,8 +5855,8 @@ Aucune classe autre que l'artisan n'obtient la maîtrise des armes exotiques.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme à distance martiale ou exotique chef-d'œuvre
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme à distance martiale ou exotique chef-d'œuvre
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Explosif|Explosif]] et ses dégâts diminuent d'un cran. Si l'arme inflige des dégâts perçants, tranchants ou contondants, elle inflige des dégâts de feu à la place.
 
@@ -5867,8 +5867,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Explosif|Explosif]] et s
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme à distance exotique chef-d'œuvre qui n'a pas la propriété Arme à Feu
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme à distance exotique chef-d'œuvre qui n'a pas la propriété Arme à Feu
 
 Lorsque vous touchez une créature de taille G ou inférieure avec le projectile de cette arme, il déploie également un [[filet]] qui touche automatiquement la créature.
 
@@ -5879,8 +5879,8 @@ Lorsque vous touchez une créature de taille G ou inférieure avec le projectile
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre qui n'a pas la propriété [[Propriétés d'Arme#A Deux mains|A Deux Mains]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre qui n'a pas la propriété [[Propriétés d'Arme#A Deux mains|A Deux Mains]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Finesse|Finesse]].
 
@@ -5891,8 +5891,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Finesse|Finesse]].
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Fusée|Fusée]] et ses dégâts diminuent d'un cran.
 
@@ -5903,8 +5903,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Fusée|Fusée]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Cette armure n'impose pas le désavantage aux jets de Dextérité (Discrétion). Vous pouvez également utiliser une action bonus pour faire en sorte que l'armure assume l'apparence de vêtements normaux ou d'un autre type d'armure. Vous décidez de ce à quoi elle ressemble, y compris la couleur, le style et les accessoires, mais l'armure conserve sa carrure habituelle et son poids. L'apparence illusoire persiste jusqu'à ce que vous utilisiez cette capacité à nouveau ou que vous retiriez cette armure.
 
@@ -5915,8 +5915,8 @@ Cette armure n'impose pas le désavantage aux jets de Dextérité (Discrétion).
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure moyenne ou lourde exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure moyenne ou lourde exotique chef-d'œuvre
 
 Lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup tout en portant cette armure, vous pouvez réaliser un jet de sauvegarde de Constitution DD 13. Si vous réussissez, vous tombez à 1 point de vie plutôt. Vous pouvez utiliser cette capacité trois fois, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -5929,8 +5929,8 @@ De plus, vous avez l'avantage aux jets de sauvegarde contre la mort.
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Vous pouvez intégrer une arme directement dans votre armure, ou vous pouvez intégrer deux armes (une dans chaque bras) si aucune n'a la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]. Lorsque vous dégainez une arme intégrée, elle s'attache à votre main et vous ne pouvez être désarmé. Lorsque que vous la rengainez, elle se range dans votre armure. Vous pouvez changer les armes intégrées pendant un repos long.
 
@@ -5941,8 +5941,8 @@ Vous pouvez intégrer une arme directement dans votre armure, ou vous pouvez int
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Tant que vous portez cette armure, les dégâts contondants, tranchants et perçants que vous subissez des attaques non magiques sont réduits de 5.
 
@@ -5953,8 +5953,8 @@ Tant que vous portez cette armure, les dégâts contondants, tranchants et perç
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme martiale ou exotique chef-d'œuvre
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme martiale ou exotique chef-d'œuvre
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Jambette|Jambette]].
 
@@ -5965,8 +5965,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Jambette|Jambette]].
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée chef-d'œuvre qui n'a pas la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée chef-d'œuvre qui n'a pas la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Jet|Jet]] et ses dégâts diminuent d'un cran.
 
@@ -5977,8 +5977,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Jet|Jet]] et ses dégât
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure exotique lourde chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure exotique lourde chef-d'œuvre
 
 Cette armure est accompagnée de massives plaques et d'un casque renforcé. Tant que vous portez cette armure, vous êtes considéré comme un obstacle prodiguant une couverture de trois-quarts.
 
@@ -5991,8 +5991,8 @@ Vous devez avoir un score de Force de 16 ou plus pour porter cette armure.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme martiale ou exotique chef-d'œuvre
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme martiale ou exotique chef-d'œuvre
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Lourd|Lourd]]. S'il s'agit d'une arme de mêlée, ses dégâts augmentent d'un cran. Si c'est une arme à distance, sa portée normale augmente de 20 ft. et sa portée longue s'adapte.
 
@@ -6003,8 +6003,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Lourd|Lourd]]. S'il s'ag
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#A Deux Mains|A Deux Mains]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#A Deux Mains|A Deux Mains]] ou [[Propriétés d'Arme#Polyvalent|Polyvalent]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Léger|Léger]] et ses dégâts diminuent d'un cran.
 
@@ -6015,8 +6015,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Léger|Léger]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme devient magique et gagne un bonus de +1 à ses jets d'attaque et de dégâts. Cet effet se cumule si vous appliquez la propriété à différents niveaux.
 
@@ -6027,8 +6027,8 @@ Cette arme devient magique et gagne un bonus de +1 à ses jets d'attaque et de d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme devient magique et gagne un bonus de +1 à ses jets d'attaque et de dégâts. Cet effet se cumule si vous appliquez la propriété à différents niveaux.
 
@@ -6039,8 +6039,8 @@ Cette arme devient magique et gagne un bonus de +1 à ses jets d'attaque et de d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme devient magique et gagne un bonus de +1 à ses jets d'attaque et de dégâts. Cet effet se cumule si vous appliquez la propriété à différents niveaux.
 
@@ -6051,8 +6051,8 @@ Cette arme devient magique et gagne un bonus de +1 à ses jets d'attaque et de d
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure légère ou moyenne exotique chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure légère ou moyenne exotique chef-d'œuvre
 
 Cette armure contient un ensemble de grappins attachés à des ressorts. Pour une réaction lorsque vous tombez, ou pour une action bonus pendant votre tour, vous pouvez projeter un grappin vers un emplacement que vous pouvez qui n'est pas plus loin que votre vitesse de marche. Si l'emplacement ciblé peut soutenir votre poids, vous y êtes tiré, dépensant votre mouvement normalement. Ce déplacement ne provoque pas d'attaque d'opportunité.
 
@@ -6065,8 +6065,8 @@ Vous devez avoir un score de Dextérité de 16 ou plus pour porter cette armure.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme simple chef-d'œuvre
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme simple chef-d'œuvre
 
 Cette arme devient une arme martiale et ses dégâts augmentent d'un cran.
 
@@ -6077,8 +6077,8 @@ Cette arme devient une arme martiale et ses dégâts augmentent d'un cran.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Superlourd|Superlourd]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Superlourd|Superlourd]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Massif|Massif]] et ses dégâts augmentent de deux crans.
 
@@ -6089,8 +6089,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Massif|Massif]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre
 
 Lorsque vous réalisez une attaque d'opportunité avec une arme menaçante, vous pouvez le faire sans utiliser votre réaction. Vous ne pouvez pas réaliser plus d'une attaque d'opportunité par tour.
 
@@ -6101,8 +6101,8 @@ Lorsque vous réalisez une attaque d'opportunité avec une arme menaçante, vous
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure légère exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure légère exotique chef-d'œuvre
 
 Tant que vous portez cette armure, vous pouvez lancer le sort [[image miroir]] pour une action bonus sans dépenser d'emplacement de sort.
 
@@ -6115,8 +6115,8 @@ Une fois que vous avez utilisé cette propriété, vous ne pouvez le refaire jus
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure moyenne ou lourde chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure moyenne ou lourde chef-d'œuvre
 
 Cette armure est faite de mithril, un matériau léger et flexible mais aussi solide que de l'acier. Une armure faite de mithril pèse la moitié de son poids normal, n'a pas de prérequis de Force et n'impose pas de désavantage aux jets de Dextérité (Discrétion). Si l'armure est une armure moyenne, le modificateur de Dextérité maximum que vous pouvez appliquer à votre CA passe à 3 au lieu de 2, et l'armure peut facilement être portée sous des vêtements normaux.
 
@@ -6127,8 +6127,8 @@ Cette armure est faite de mithril, un matériau léger et flexible mais aussi so
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]]
+*Propriété d'Arme Maître*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]]
 
 Les dégâts de cette arme augmentent de deux crans et son poids est réduit de moitié.
 
@@ -6139,8 +6139,8 @@ Les dégâts de cette arme augmentent de deux crans et son poids est réduit de 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme à distance martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Monté|Monté]] et ses dégâts augmentent de deux crans.
 
@@ -6151,8 +6151,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Monté|Monté]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ [[Armes à Feu|Arme à Feu]] exotique chef-d'œuvre 
+*Propriété d'Arme Légendaire*
+**Composantes :** [[Armes à Feu|Arme à Feu]] exotique chef-d'œuvre 
 
 Lorsque vous réalisez une attaque avec cette arme comme composante d'une action, vous pouvez ajouter votre modificateur de caractéristique aux jets d'attaque et de dégâts plutôt que d'attaque uniquement.
 
@@ -6163,8 +6163,8 @@ Lorsque vous réalisez une attaque avec cette arme comme composante d'une action
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure lourde exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure lourde exotique chef-d'œuvre
 
 Cette armure a des douzaines de mécanismes intégrées, lui conférant tout un tas de bénéfices. Lorsque vous portez cette armure, votre distance de saut est triplée et vous avez l'avantage aux jets de Force (Athlétisme) (sauf pour la lutte). De plus, votre armure se resserre lorsque vous utilisez votre action pour Esquiver, vous conférant 22 de CA, si elle était inférieure.
 
@@ -6175,8 +6175,8 @@ Cette armure a des douzaines de mécanismes intégrées, lui conférant tout un 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]] ou [[Propriétés d'Arme#Finesse|Finesse]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]] ou [[Propriétés d'Arme#Finesse|Finesse]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Parure|Parure]] et ses dégâts diminuent d'un cran.
 
@@ -6187,8 +6187,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Parure|Parure]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure moyenne exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure moyenne exotique chef-d'œuvre
 
 Cette armure est recouverte de peau de troll. Tant que vous portez cette armure, vous pouvez utiliser une action bonus pour récupérer un nombre de points de vie égal à 1d10 + votre niveau d'artisan.
 
@@ -6201,8 +6201,8 @@ Une fois que vous avez utilisé cette propriété, vous ne pouvez le refaire ava
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure lourde chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure lourde chef-d'œuvre
 
 Vous construisez un four miniature dans cette armure, ainsi que plusieurs couches de dissipation thermique. Tant que vous portez cette armure, vous avez l'immunité aux dégâts de feu.
 
@@ -6217,8 +6217,8 @@ Une fois que vous avez utilisé cette propriété, vous ne pouvez pas le refaire
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Cette armure est équipée de nageoires palmées, d'un masque et d'une vessie à air contenant 8 heures d'air respirable. Tant que vous la portez, vous obtenez une vitesse de nage égale à votre vitesse de marche. De plus, tant que vous respirez depuis la vessie à air, vous pouvez respirer normalement sous l'eau ou dans le vide, et vous ignorez les effets de poison à inhalation. La réserve d'air de l'armure peut être remplie pendant un repos long.
 
@@ -6229,8 +6229,8 @@ Cette armure est équipée de nageoires palmées, d'un masque et d'une vessie à
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre
 
 Si l'arme est installée sur l'appareil d'un mécanaute et qu'elle inflige plus d'un dé de dégâts sur un toucher, à chaque fois que vous tirez les dégâts, vous pouvez maximiser l'un des dés de dégâts plutôt que de le lancer.
 
@@ -6241,8 +6241,8 @@ Si l'arme est installée sur l'appareil d'un mécanaute et qu'elle inflige plus 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] et sans la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]].
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] et sans la propriété [[Propriétés d'Arme#A Deux Mains|A Deux Mains]].
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Poignée Avant|Poignée Avant]].
 
@@ -6253,8 +6253,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Poignée Avant|Poignée 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Poing|Poing]].
 
@@ -6265,8 +6265,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Poing|Poing]].
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#Léger|Léger]] ou [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée chef-d'œuvre qui n'a pas les propriétés [[Propriétés d'Arme#Léger|Léger]] ou [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Polyvalent|Polyvalent]]. Tant qu'elle maniée à deux mains, ses dégâts augmentent d'un cran.
 
@@ -6277,8 +6277,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Polyvalent|Polyvalent]].
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]] ou [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme martiale ou exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]] ou [[Propriétés d'Arme#A Deux Mains|A Deux Mains]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Portée|Portée]] et ses dégâts diminuent d'un cran.
 
@@ -6428,8 +6428,8 @@ writing_status: finished
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure moyenne exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure moyenne exotique chef-d'œuvre
 
 Cette armure génère un champ de force, protégeant son porteur. Pour une action bonus pendant votre tour, vous pouvez gagner un nombre de points de vie temporaires égal à la moitié de votre niveau d'artisan.
 
@@ -6440,8 +6440,8 @@ Cette armure génère un champ de force, protégeant son porteur. Pour une actio
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Finesse|Finesse]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Précision|Précision]].
 
@@ -6452,8 +6452,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Précision|Précision]].
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] ou [[Propriétés d'Arme#Jet|Jet]] qui inflige des dégâts perçants.
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] ou [[Propriétés d'Arme#Jet|Jet]] qui inflige des dégâts perçants.
 
 Cette arme transperce ses cibles. Lorsque vous réalisez une attaque à distance avec cette arme et que vous n'avez pas le désavantage, vous pouvez cibler toutes les créatures dans une ligne droite dans la portée normale de l'arme. Vous ne réalisez pas de jet d'attaque pour cette attaque. À la place, chaque créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité ou subir les dégâts comme si elle avait été touchée.
 
@@ -6464,8 +6464,8 @@ Cette arme transperce ses cibles. Lorsque vous réalisez une attaque à distance
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#Chargement|Chargement]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme à distance chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#Chargement|Chargement]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Rechargement|Rechargement (5)]]. Si vous appliquez cette propriété à une arme martiale ou exotique avec la propriété [[Propriétés d'Arme#Monté|Monté]], vous pouvez lui donner la propriété Rechargement (1 ; 2 actions) et augmenter les dégâts de trois crans.
 
@@ -6476,8 +6476,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Rechargement|Rechargemen
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme martiale ou exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Léger|Léger]] et [[Propriétés d'Arme#Jet|Jet]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme martiale ou exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Léger|Léger]] et [[Propriétés d'Arme#Jet|Jet]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Revenant|Revenant]].
 
@@ -6488,8 +6488,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Revenant|Revenant]].
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Compagnon_
-__Composantes :__ Armure chef-d'œuvre
+*Propriété d'Armure Compagnon*
+**Composantes :** Armure chef-d'œuvre
 
 Lorsque vous appliquez cette propriété à une armure, choisissez n'importe quel type de dégâts autre que contondant, perçant, tranchant ou psychique. Tant que vous portez cette armure, vous êtes résistant au type de dégâts choisi.
 
@@ -6500,8 +6500,8 @@ Lorsque vous appliquez cette propriété à une armure, choisissez n'importe que
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure exotique chef-d'œuvre
 
 En passant un repos court à se concentrer sur un objet magique tout en portant cette armure, vous pouvez lier l'objet directement à l'armure. Vous pouvez utiliser l'objet magique comme si vous y étiez lié tout en portant cette armure. Vous pouvez lier jusqu'à deux objets magiques à l'armure, et pouvez terminer un lien à l'armure en passant un autre repos court concentré sur l'objet. 
 
@@ -6512,8 +6512,8 @@ En passant un repos court à se concentrer sur un objet magique tout en portant 
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure moyenne ou lourde exotique chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure moyenne ou lourde exotique chef-d'œuvre
 
 Un des gantelets de cette armure possède un bouclier rétractable. Lorsque vous portez cette arme, vous pouvez dégainer ou ranger ce bouclier pour une action bonus.
 
@@ -6524,8 +6524,8 @@ Un des gantelets de cette armure possède un bouclier rétractable. Lorsque vous
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme inflige 1d4 dégâts radiants supplémentaires. Ces dégâts supplémentaires passent à 1d10 si la cible est un Fiélon ou un Mort-Vivant.
 
@@ -6536,8 +6536,8 @@ Cette arme inflige 1d4 dégâts radiants supplémentaires. Ces dégâts supplém
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme à distance exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#A Dispersion|A Dispersion]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme à distance exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Munitions|Munitions]] mais sans la propriété [[Propriétés d'Arme#A Dispersion|A Dispersion]]
 
 La portée longue de cette arme devient huit fois sa portée normale.
 
@@ -6548,8 +6548,8 @@ La portée longue de cette arme devient huit fois sa portée normale.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Superlourd|Superlourd]] et ses dégâts augmentent d'un cran.
 
@@ -6560,8 +6560,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Superlourd|Superlourd]] 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Une arme martiale à distance chef-d'œuvre avec la propriété Arme à Feu
+*Propriété d'Arme Apprenti*
+**Composantes :** Une arme martiale à distance chef-d'œuvre avec la propriété Arme à Feu
 
 Les attaques réalisées avec cette arme ne font qu'un bruit sourd ou un léger clic, audible jusqu'à 10 ft., et libèrent une petite fumée afin de cacher la lumière générée par l'explosion.
 
@@ -6572,8 +6572,8 @@ Les attaques réalisées avec cette arme ne font qu'un bruit sourd ou un léger 
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Deux armes exotiques chefs-d'œuvre
+*Propriété d'Arme Apprenti*
+**Composantes :** Deux armes exotiques chefs-d'œuvre
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Switch|Switch]] et ses dégâts diminuent d'un cran. Vous pouvez intégrer deux armes en une avec la propriété Switch. Vous pouvez choisir d'utiliser deux armes avec la propriété [[Propriétés d'Arme#Léger|Léger]] comme une forme de l'arme.
 
@@ -6584,8 +6584,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Switch|Switch]] et ses d
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme à distance exotique chef-d'œuvre qui n'a pas les propriétés [[Armes à Feu|Arme à Feu]] ni [[Propriétés d'Arme#Jet|Jet]]
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme à distance exotique chef-d'œuvre qui n'a pas les propriétés [[Armes à Feu|Arme à Feu]] ni [[Propriétés d'Arme#Jet|Jet]]
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Tension|Tension]].
 
@@ -6596,8 +6596,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Tension|Tension]].
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme à feu exotique chef-d'œuvre avec la propriété Automatique
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme à feu exotique chef-d'œuvre avec la propriété Automatique
 
 Lorsque vous utilisez votre action pour réaliser une attaque avec cette arme, vous vous pouvez utiliser votre action bonus pour réaliser une attaque supplémentaire avec.
 
@@ -6608,8 +6608,8 @@ Lorsque vous utilisez votre action pour réaliser une attaque avec cette arme, v
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Compagnon_
-__Composantes :__ Arme à distance exotique chef-d'œuvre
+*Propriété d'Arme Compagnon*
+**Composantes :** Arme à distance exotique chef-d'œuvre
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Tirs Jumeaux|Tirs Jumeaux]].
 
@@ -6620,8 +6620,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Tirs Jumeaux|Tirs Jumeau
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Finesse|Finesse]] et [[Propriétés d'Arme#Double|Double]] ou la propriété [[Propriétés d'Arme#Léger|Léger]] 
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Finesse|Finesse]] et [[Propriétés d'Arme#Double|Double]] ou la propriété [[Propriétés d'Arme#Léger|Léger]] 
 
 Lorsque vous utilisez votre action bonus pour réaliser une attaque de mêlée supplémentaire avec cette arme — comme lorsque vous réalisez du combat à deux armes ou utilisez une arme double —, vous pouvez réaliser une attaque contre n'importe quel nombre de créatures à 5 ft., avec un jet d'attaque séparé pour chaque cible. Vous ne pouvez pas vous déplacer entre ces attaques bonus.
 
@@ -6632,8 +6632,8 @@ Lorsque vous utilisez votre action bonus pour réaliser une attaque de mêlée s
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme inflige 1d4 dégâts nécrotiques supplémentaires. Lorsque vous touchez une créature hostile avec cette arme, vous regagnez autant de points de vie que de dégâts nécrotiques infligés par cette propriété.
 
@@ -6644,8 +6644,8 @@ Cette arme inflige 1d4 dégâts nécrotiques supplémentaires. Lorsque vous touc
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure chef-d'œuvre
 
 Vous pouvez enfiler ou retirer cette armure en une action.
 
@@ -6656,8 +6656,8 @@ Vous pouvez enfiler ou retirer cette armure en une action.
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Cette arme inflige 1d8 dégâts de poison supplémentaire lorsqu'elle touche.
 
@@ -6668,8 +6668,8 @@ Cette arme inflige 1d8 dégâts de poison supplémentaire lorsqu'elle touche.
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Maître_
-__Composantes :__ Armure légère exotique chef-d'œuvre
+*Propriété d'Armure Maître*
+**Composantes :** Armure légère exotique chef-d'œuvre
 
 Cette armure a une paire d'aile que vous pouvez étendre ou replier pour une action bonus. Tant que vous portez cette armure avec les ailes étendues, vous possédez une vitesse de vol égal à votre vitesse de marche.
 
@@ -6680,8 +6680,8 @@ Cette armure a une paire d'aile que vous pouvez étendre ou replier pour une act
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre qui inflige des dégâts tranchants
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre qui inflige des dégâts tranchants
 
 Lorsque vous attaquez une créature qui a au moins une tête avec cette arme et obtenez un 20 sur le jet d'attaque, vous coupez l'une des têtes de la créature. La créature meurt si elle ne peut survivre sans cette tête. Une créature est immunisée contre cet effet si elle est immunisée contre les dégâts tranchants, si elle n'a pas ou ne nécessite pas de tête, a des actions légendaires ou si le MJ décide que la tête est trop grosse pour être coupée en une action avec l'arme. Une telle créature subit plutôt 6d8 dégâts tranchants.
 
@@ -6692,8 +6692,8 @@ Lorsque vous attaquez une créature qui a au moins une tête avec cette arme et 
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure moyenne ou lourde exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure moyenne ou lourde exotique chef-d'œuvre
 
 Cette armure est pensée pour maximiser la vitesse de son porteur. Tant que vous la portez, votre vitesse augmente de 10 ft., vous avez l'avantage aux jets d'initiative et les attaques d'opportunité contre vous sont réalisées avec le désavantage.
 
@@ -6704,8 +6704,8 @@ Cette armure est pensée pour maximiser la vitesse de son porteur. Tant que vous
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Apprenti_
-__Composantes :__ Armure légère exotique chef-d'œuvre
+*Propriété d'Armure Apprenti*
+**Composantes :** Armure légère exotique chef-d'œuvre
 
 Cette armure est recouverte de lourdes écailles endurcies. La CA prodiguée par l'armure augmente de 3. Cependant, vous ne pouvez ajouter à votre CA que jusqu'à +2 de modificateur de Dextérité.
 
@@ -6716,8 +6716,8 @@ Cette armure est recouverte de lourdes écailles endurcies. La CA prodiguée par
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Légendaire_
-__Composantes :__ Arme exotique chef-d'œuvre qui inflige des dégâts contondants
+*Propriété d'Arme Légendaire*
+**Composantes :** Arme exotique chef-d'œuvre qui inflige des dégâts contondants
 
 Lorsque vous touchez une créature qui possède une armure naturelle ou qui porte une armure, la cible prend un malus cumulable de -1 à la CA que son armure prodigue. Une armure réduite à une CA de 10 de cette façon est détruite. Une armure peut réparer son armure ou soigner les dégâts infliger à son armure naturelle pendant un repos long.
 
@@ -6728,8 +6728,8 @@ Lorsque vous touchez une créature qui possède une armure naturelle ou qui port
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]] ou Arme à distance exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Léger|Léger]] et [[Propriétés d'Arme#Jet|Jet]] 
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme de mêlée exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Léger|Léger]] ou Arme à distance exotique chef-d'œuvre avec les propriétés [[Propriétés d'Arme#Léger|Léger]] et [[Propriétés d'Arme#Jet|Jet]] 
 
 Cette arme obtient la propriété [[Propriétés d'Arme#Élégant|Élégant]] et ses dés de dégâts augmentent d'un cran.
 
@@ -6740,8 +6740,8 @@ Cette arme obtient la propriété [[Propriétés d'Arme#Élégant|Élégant]] et
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Maître_
-__Composantes :__ Arme exotique chef-d'œuvre
+*Propriété d'Arme Maître*
+**Composantes :** Arme exotique chef-d'œuvre
 
 Lorsque vous appliquez cette propriété, choisissez les dégâts d'acide, de feu, de foudre ou de tonnerre. Cette arme inflige 1d6 dégâts supplémentaires du type choisi.
 
@@ -6752,8 +6752,8 @@ Lorsque vous appliquez cette propriété, choisissez les dégâts d'acide, de fe
 ---
 writing_status: finished
 ---
-_Propriété d'Arme Apprenti_
-__Composantes :__ Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
+*Propriété d'Arme Apprenti*
+**Composantes :** Arme exotique chef-d'œuvre avec la propriété [[Propriétés d'Arme#Lourd|Lourd]]
 
 Les créatures de taille P qui manient cette arme n'ont pas le désavantage parce que l'arme est Lourde.
 
@@ -6764,8 +6764,8 @@ Les créatures de taille P qui manient cette arme n'ont pas le désavantage parc
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure exotique chef-d'œuvre
 
 Cette armure est infusée d'ectoplasme. Tant que vous portez cette armure, vous pouvez utiliser votre action pour bénéficier des effets du sort [[Forme Éthérée]] qui dure pendant 10 minute ou jusqu'à ce que vous utilisiez une action pour le terminer.
 
@@ -7069,7 +7069,7 @@ Vous pouvez également modifier votre forme pour mieux vous adapter à votre env
 À partir du niveau 10, lorsque vous touchez une créature avec vos armes naturelles en étant enragé, la bête en vous peut maudire votre cible avec une fureur enragée. La cible doit réussir un jet de sauvegarde de Sagesse (DD de 8 + votre modificateur de Constitution + votre bonus de maîtrise) ou souffrir de l'un des effets suivants (votre choix) :
 
  - La cible doit utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous pouvez voir.
- - La cible prend 2d12 dégâts psychiques.
+ - La cible subit 2d12 dégâts psychiques.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -7103,14 +7103,14 @@ Si l'effet requiert un jet de sauvegarde, le DD est égal à 8 + votre bonus de 
 
 | d8 | Effet |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 | Des tentacules d'ombres apparaissent autour de vous. Chaque créature de votre choix que vous pouvez voir à 30 ft. de vous doit réussir un jet de sauvegarde de Constitution ou prendre 1d12 dégâts nécrotiques. Vous gagnez également 1d12 points de vie temporaires. |
+| 1 | Des tentacules d'ombres apparaissent autour de vous. Chaque créature de votre choix que vous pouvez voir à 30 ft. de vous doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts nécrotiques. Vous gagnez également 1d12 points de vie temporaires. |
 | 2 | Vous vous téléportez de jusqu'à 30 ft. vers un emplacement inoccupé que vous pouvez voir. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet à chacun de vos tours pour une action bonus. |
-| 3 | Un esprit intangible, qui ressemble à un flumph ou une pixie (votre choix), apparaît à 5 ft. d'une créature de votre choix que vous pouvez voir à 30 ft. À la fin du tour actuel, l'esprit explose et toutes les créatures à 5 ft. de lui doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de force. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet en invoquant un autre esprit à chacun de vos tours, pour une action bonus. |
+| 3 | Un esprit intangible, qui ressemble à un flumph ou une pixie (votre choix), apparaît à 5 ft. d'une créature de votre choix que vous pouvez voir à 30 ft. À la fin du tour actuel, l'esprit explose et toutes les créatures à 5 ft. de lui doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de force. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet en invoquant un autre esprit à chacun de vos tours, pour une action bonus. |
 | 4 | La magie imbue une arme de votre choix que vous tenez. Jusqu'à ce que votre rage ne termine, les dégâts de l'arme deviennent des dégâts de force, et elle gagne les propriétés [[Propriétés d'Arme#léger\|légère]] et [[Propriétés d'Arme#jet\|jet]], avec une portée de 20/60 ft, ainsi que la propriété [[Propriétés d'Arme#revenant\|revenante]]. |
-| 5 | À chaque fois qu'une créature vous touche avec un jet d'attaque avant que votre rage ne termine, la créature prend 1d6 dégâts de force par rétribution magique. |
+| 5 | À chaque fois qu'une créature vous touche avec un jet d'attaque avant que votre rage ne termine, la créature subit 1d6 dégâts de force par rétribution magique. |
 | 6 | Jusqu'à ce que votre rage ne termine, vous êtes entourés de lueurs protectrices de toutes les couleurs ; vous gagnez un bonus de +1 à la CA et tant qu'ils se trouvent à 10 ft. de vous, vos alliés profitent du même effet. |
 | 7 | Des fleurs et des lianes poussent temporairement autour de vous ; jusqu'à ce que votre rage ne termine, le sol à 15 ft. autour de vous est du terrain difficile pour vos ennemis. |
-| 8 | Un trait de lumière est tiré de votre poitrine. Une autre créature de votre choix que vous pouvez voir à 30 ft. doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts radiants et être [[aveuglé\|aveuglée]] jusqu'au début de votre prochain tour. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet à chacun de vos tours pour une action bonus. |
+| 8 | Un trait de lumière est tiré de votre poitrine. Une autre créature de votre choix que vous pouvez voir à 30 ft. doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts radiants et être [[aveuglé\|aveuglée]] jusqu'au début de votre prochain tour. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet à chacun de vos tours pour une action bonus. |
 
 ## Magie de Renforcement
 
@@ -7164,7 +7164,7 @@ Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à ér
 | **14** | Vous vous transformez en gelée translucide pour la durée de votre rage. Vous êtes immunisé aux dégâts tranchants mais échouez automatiquement tous les jets de caractéristique de Constitution. Votre vitesse est divisée par deux. |
 | **15** | Vos jambes sont remplacées par un pied de limace pour la durée de votre rage. Votre vitesse est réduite à 10 ft. et vous gagnez les effets du sort [[pattes d'araignée]]. |
 | **16** | Vos bras sont remplacés par des nageoires pour la durée de votre rage. Vous ne pouvez pas tenir d'arme et gagnez une vitesse de nage égale au double de votre vitesse de marche. |
-| **17** | Une aile géante pousse dans votre dos pour la durée de votre rage. En action bonus, vous pouvez faire une attaque de _Coup d'aile_ en utilisant votre Force et votre Bonus de Maîtrise, infligeant 1d6 + votre modificateur de Force dégâts contondants et repoussant votre cible de 5 ft. Cependant, vous devez réussir un jet de sauvegarde de Force (DD 10 + les dégâts infligés) ou tomber [[au sol]] à cause de la force du battement. |
+| **17** | Une aile géante pousse dans votre dos pour la durée de votre rage. En action bonus, vous pouvez faire une attaque de *Coup d'aile* en utilisant votre Force et votre Bonus de Maîtrise, infligeant 1d6 + votre modificateur de Force dégâts contondants et repoussant votre cible de 5 ft. Cependant, vous devez réussir un jet de sauvegarde de Force (DD 10 + les dégâts infligés) ou tomber [[au sol]] à cause de la force du battement. |
 | **18** | Vous développez des branchies pour la durée de votre rage. Vous perdez la capacité de respirer l'air et gagnez la respiration aquatique. Vous pouvez également cracher un cône de 15 ft. de glu visqueuse en action bonus ; les créatures prises dans le cône doivent réussir un jet de sauvegarde de Dextérité ou subir 4d4 dégâts d'acide. |
 | **19** | Vos yeux sont remplacés par des yeux à facettes pour la durée de votre rage. Vous ne pouvez pas être pris en tenaille (flanqué) mais avez le désavantage aux jets de Perception basés sur la vue. |
 | **20** | Une seconde tête vous pousse pour la durée de votre rage, vous conférant l'avantage aux jets de sauvegarde d'Intelligence et de Sagesse ainsi qu'aux jets de Perception, mais la plage de critique des attaques contre vous est doublée (vous subissez un critique sur 19-20). |
@@ -7179,7 +7179,7 @@ Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à ér
 | **29** | Lorsque vous entrez en rage, les jambes de toutes les créatures à moins de 60 ft. sont remplacées par la base de pièces d'échecs aléatoires et elles ne peuvent se déplacer que comme ces pièces. L'effet se termine à la fin de votre rage.<br><br>1: **Roi** (5ft toutes directions)<br><br><br>2: **Reine** (40ft ligne droite, toutes directions)<br><br><br>3: **Tour** (40ft ligne droite, direction cardinale)<br> <br><br>4: **Fou** (40ft ligne droite, diagonale)<br><br><br>5: **Cavalier** (10ft ligne droite cardinale, puis 5ft gauche ou droite)<br><br><br>6: **Pion** (5ft Nord ou Sud, mouvement irréversible). |
 | **30** | Une déchirure dimensionnelle vers la Mer Astrale s'ouvre dans un rayon de 30 ft. autour de vous pour la durée de la rage. Les créatures qui entrent dans la zone perdent tout mouvement et gagnent une vitesse de vol (stationnaire) égale à 10 fois leur modificateur d'Intelligence (minimum 10 ft.). |
 | **31** | Tant que vous êtes en rage, les créatures que vous coupez saignent de l'argent : un montant en pièces d'argent égal aux dégâts que vous infligez. |
-| **32** | Tant que vous êtes en rage, en action bonus, vous pouvez faire une attaque à distance de _Regard_ utilisant votre modificateur de Constitution et votre Bonus de Maîtrise. Si vous touchez, vous pouvez altérer la coupe, le style et la couleur des vêtements de la cible. |
+| **32** | Tant que vous êtes en rage, en action bonus, vous pouvez faire une attaque à distance de *Regard* utilisant votre modificateur de Constitution et votre Bonus de Maîtrise. Si vous touchez, vous pouvez altérer la coupe, le style et la couleur des vêtements de la cible. |
 | **33** | Tant que vous êtes en rage, la lumière à moins de 20 ft. prend une teinte rouge profond et un chœur commence à chanter. Vous avez l'avantage aux jets d'Intimidation. |
 | **34** | Tant que vous êtes en rage, vous pouvez invoquer des tartes à la crème depuis le vide et faire une attaque d'arme à distance. Si vous touchez, la créature a le désavantage aux jets de Charisme pour 1d4 minutes. |
 | **35** | Lorsque vous entrez en rage, les créatures sont attachées ensemble par paires aléatoires jusqu'à ce qu'aucune paire ne puisse être faite. Elles sont reliées par des élastiques qui les tirent de 5 ft. l'une vers l'autre au début de leurs tours et ne leur permettent pas d'être à plus de 20 ft. l'une de l'autre jusqu'à la fin de la rage. |
@@ -7193,7 +7193,7 @@ Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à ér
 | **43** | Votre tête gonfle comme un ballon pour la durée de votre rage. Vous gagnez une vitesse de vol (stationnaire) égale à la moitié de votre vitesse de marche et êtes immunisé à la condition [[au sol]]. |
 | **44** | Vos cheveux poussent et deviennent préhensiles pour la durée de votre rage. Vous pouvez les utiliser pour faire un jet de Lutte en action bonus avec une portée de 10 ft. |
 | **45** | Votre corps se couvre de piquants pour la durée de votre rage. Vous pouvez les utiliser pour faire une attaque d'arme à distance (Portée 30/60 ft.) qui inflige 1d6 + votre modificateur de Dextérité dégâts perçants. Si vous touchez, la cible doit faire un jet de sauvegarde de Constitution ou gagner la condition [[empoisonné]]. |
-| **46** | Vos entrailles deviennent mécaniques pour la durée de votre rage. Vous devenez immunisé aux conditions [[charmé]], [[épuisement]], [[apeuré]], [[paralysé]], [[pétrifié]] et [[empoisonné]], mais vous ne pouvez pas être soigné, seulement réparé (sort _Réparation_). |
+| **46** | Vos entrailles deviennent mécaniques pour la durée de votre rage. Vous devenez immunisé aux conditions [[charmé]], [[épuisement]], [[apeuré]], [[paralysé]], [[pétrifié]] et [[empoisonné]], mais vous ne pouvez pas être soigné, seulement réparé (sort *Réparation*). |
 | **47** | Tant que vous êtes en rage, votre torse peut tourner comme une hélice, vous permettant de faire une unique attaque d'arme contre toutes les cibles à moins de 5 ft. en tant qu'Action. Si vous touchez, elles sont repoussées de 5 ft. |
 | **48** | Votre nez s'agrandit et votre mucus devient collant et élastique tant que vous êtes en rage. En action bonus, vous pouvez éternuer une toile de morve sur une cible avec une attaque d'arme à distance (portée 40/120 ft.). Si elle touche, la cible gagne la condition [[entravé]]. En tant qu'Action, la créature peut faire un jet de sauvegarde de Force, brisant la morve et terminant la condition en cas de succès. La morve peut aussi être attaquée et détruite (CA 12 ; PV 10 ; Immunité aux dégâts contondants, poison et psychiques) pour terminer la condition. |
 | **49** | Votre corps fond et devient une masse rose vif. Vous êtes considéré comme amorphe, capable de passer à travers des espaces larges de 1 pouce sans vous presser. Vous êtes immunisé aux conditions [[agrippé]] et [[au sol]]. |
@@ -7204,7 +7204,7 @@ Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à ér
 | **54** | Au début de chaque tour, tant que vous êtes en rage, vous pouvez créer une boule issue du [[Sac à malices]] (Gris). |
 | **55** | Lorsque vous entrez en rage, votre bouche s'ouvre et vous vomissez un flot de 1d4 x 10 gemmes, valant chacune 1 po, sur une ligne de 30 ft. de long et 5 ft. de large. Chaque gemme inflige 1 dégât contondant, et le total des dégâts des gemmes est divisé équitablement entre toutes les créatures dans la ligne. |
 | **56** | En action bonus tant que vous êtes en rage, vous pouvez tirer une Nuée d'insectes par vos yeux dans une case adjacente de 5 ft. Vous ne contrôlez pas les nuées créées. |
-| **57** | Votre arme gagne la qualité _Dansante_ pour la durée de votre rage ; elle gagne une vitesse de vol (stationnaire) de 30 ft. et attaque une créature de votre choix à moins de 5 ft. d'elle. L'épée utilise votre modificateur d'attaque et de caractéristique pour les dégâts. Tant qu'elle plane, vous pouvez utiliser une action bonus pour la faire voler de jusqu'à 30 ft. vers un autre endroit à moins de 30 ft. de vous. Dans le cadre de la même action bonus, vous pouvez faire attaquer l'épée contre une créature à 5 ft. d'elle. Après sa quatrième attaque, elle vole jusqu'à 30 ft. et tente de revenir dans votre main. Si vous n'avez pas de main libre, elle tombe au sol à vos pieds. Si elle n'a pas de chemin dégagé vers vous, elle se rapproche le plus possible puis tombe au sol. Elle cesse aussi de planer si vous la saisissez ou vous éloignez de plus de 30 ft. d'elle. |
+| **57** | Votre arme gagne la qualité *Dansante* pour la durée de votre rage ; elle gagne une vitesse de vol (stationnaire) de 30 ft. et attaque une créature de votre choix à moins de 5 ft. d'elle. L'épée utilise votre modificateur d'attaque et de caractéristique pour les dégâts. Tant qu'elle plane, vous pouvez utiliser une action bonus pour la faire voler de jusqu'à 30 ft. vers un autre endroit à moins de 30 ft. de vous. Dans le cadre de la même action bonus, vous pouvez faire attaquer l'épée contre une créature à 5 ft. d'elle. Après sa quatrième attaque, elle vole jusqu'à 30 ft. et tente de revenir dans votre main. Si vous n'avez pas de main libre, elle tombe au sol à vos pieds. Si elle n'a pas de chemin dégagé vers vous, elle se rapproche le plus possible puis tombe au sol. Elle cesse aussi de planer si vous la saisissez ou vous éloignez de plus de 30 ft. d'elle. |
 | **58** | Tant que votre rage persiste, au début de chaque tour, un météore (selon le sort [[Météores de Melf]]) est invoqué autour de vous, sous votre contrôle. |
 | **59** | Lorsque vous entrez en rage, une créature fée de taille Minuscule est invoquée sur votre épaule. Elle crie des encouragements et vous confère un dé d'Inspiration Bardique (d6) si vous n'en avez pas. La créature existe pour 1d8 tours. |
 | **60** | Lorsque vous entrez en rage, une Licorne amicale se matérialise pour vous aider pendant 1d8 tours. |
@@ -7216,10 +7216,10 @@ Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à ér
 | **66** | Jusqu'à la fin de votre rage, des plumes douces flottent autour de vous dans un rayon de 10 ft. Tout le monde dans le rayon a la résistance aux dégâts contondants, tranchants et perçants. |
 | **67** | Pour la durée de votre rage, un nuage de fées lumineuses tourbillonne dans un rayon de 20 ft. Toutes les créatures qui commencent leur tour dans le rayon soignent 1d8 points de vie. |
 | **68** | Vous émettez une aura de cœurs roses étincelants. Les créatures qui commencent leur tour à moins de 10 ft. de vous doivent réussir un jet de sauvegarde de Charisme ou être [[charmé |
-| **69** | Tant que vous êtes en rage, l'air autour de vous crépite d'éclairs et vous avez la résistance aux dégâts de foudre. En réaction, vous pouvez faire une attaque de sort à distance contre une créature à moins de 20 ft. ; si vous touchez, vous infligez 1d6 + votre bonus de maîtrise dégâts de foudre. Si la cible porte du métal, elle prend 1d6 dégâts de foudre supplémentaires. |
+| **69** | Tant que vous êtes en rage, l'air autour de vous crépite d'éclairs et vous avez la résistance aux dégâts de foudre. En réaction, vous pouvez faire une attaque de sort à distance contre une créature à moins de 20 ft. ; si vous touchez, vous infligez 1d6 + votre bonus de maîtrise dégâts de foudre. Si la cible porte du métal, elle subit 1d6 dégâts de foudre supplémentaires. |
 | **70** | Des lames commencent à tourner dans un rayon de 10 ft. autour de vous. Les créatures qui commencent leur tour dans la zone subissent 2d6 + votre bonus de maîtrise dégâts tranchants. En réaction, vous pouvez parer une frappe, ajoutant +2 à votre CA. |
-| **71** | Vous regagnez toutes vos utilisations de _Magie de Renforcement_. |
-| **72** | Vous avez le trait _Résistance à la Magie_ tant que vous êtes en rage. |
+| **71** | Vous regagnez toutes vos utilisations de *Magie de Renforcement*. |
+| **72** | Vous avez le trait *Résistance à la Magie* tant que vous êtes en rage. |
 | **73** | Lorsqu'une créature vous touche avec une attaque avant la fin de votre rage, cette créature subit 1d6 dégâts de force, la magie ripostant contre elle. |
 | **74** | Toute créature que vous réduisez à 0 points de vie en étant en rage gagne la condition [[pétrifié]] au lieu de mourir ou de faire des jets de sauvegarde contre la mort. |
 | **75** | Tant que vous êtes en rage, si une créature réduite à 0 points de vie meurt, son cadavre se transforme en statue d'or valant son FP x 100 pièces d'or. Cela n'interfère pas avec la magie qui ramène les créatures à la vie. |
@@ -7228,10 +7228,10 @@ Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à ér
 | **78** | Lorsque vous entrez en rage, vous lancez le sort [[protection contre la mort]] sur vous-même. |
 | **79** | Tant que vous êtes en rage, en action bonus, vous pouvez gagner la condition [[invisible]] jusqu'au début de votre prochain tour ou jusqu'à ce que vous preniez une action, action bonus ou réaction. |
 | **80** | Vous pouvez marcher sur l'air comme s'il s'agissait d'une surface solide tant que vous êtes en rage. |
-| **81** | Au lieu d'entrer en rage, vous utilisez la _Forme Sauvage_ comme un Druide du Cercle de la Lune de même niveau. |
+| **81** | Au lieu d'entrer en rage, vous utilisez la *Forme Sauvage* comme un Druide du Cercle de la Lune de même niveau. |
 | **82** | Des épines poussent sur vous comme un porc-épic. Toute créature [[agrippé |
 | **83** | Vous développez un nez de taupe à nez étoilé et gagnez la [[perception des vibrations]] sur 120 ft. jusqu'à la fin de votre rage. |
-| **84** | Vous développez quatre pattes d'araignée géantes et êtes sous les effets du sort [[pattes d'araignée]]. Vous avez aussi l'avantage aux jets d'Athlétisme et aux sauvegardes contre la condition [[au sol]] jusqu'à la fin de votre rage. |
+| **84** | Vous développez quatre pattes d'araignée géantes et êtes sous les effets du sort [[pattes d'araignée]]. Vous avez aussi l'avantage aux jets d'Athlétisme et aux jets de sauvegardes contre la condition [[au sol]] jusqu'à la fin de votre rage. |
 | **85** | Tant que vous êtes en rage, si vous avez [[agrippé]] quelqu'un, vous pouvez faire un second jet de lutte et si vous réussissez, vous l'avalez. Vous pouvez avaler une créature de taille Moyenne ou inférieure. Tant qu'elle est avalée, elle a la condition [[entravé]] et subit 1d8 dégâts d'acide et 1d8 dégâts contondants au début de son tour. Si votre rage se termine ou si elle vous inflige plus de 20 dégâts en un tour, vous la vomissez. |
 | **86** | Vos mains deviennent des pinces de crabe qui peuvent faire des attaques d'arme de mêlée infligeant 2d8 + votre modificateur de Force. La cible est automatiquement [[agrippé |
 | **87** | Votre squelette devient de l'adamantium et vous devenez immunisé aux coups critiques jusqu'à la fin de votre rage. |
@@ -7296,7 +7296,7 @@ Au niveau 10, vous pouvez entonner des vers calmants pour charmer, libérer et p
 
 ## État Zen 
 
-Au niveau 14, lorsqu'une créature vous rate avec une attaque de mêlée, vous gagnez un bonus de +2 à votre Classe d'Armure, jusqu'à un bonus de +6. Ce bonus se réinitialise à 0 lorsque vous prenez des dégâts ou au début de votre tour.
+Au niveau 14, lorsqu'une créature vous rate avec une attaque de mêlée, vous gagnez un bonus de +2 à votre Classe d'Armure, jusqu'à un bonus de +6. Ce bonus se réinitialise à 0 lorsque vous subissez des dégâts ou au début de votre tour.
 
 ---
 
@@ -7343,7 +7343,7 @@ Au niveau 10, vous êtes devenu un magicien si extraordinaire que même les autr
 
 ## Je lance Poing
 
-À partir du niveau 14, vous pouvez écraser vos ennemis avec votre sort ultime _Poing_. Tant que vous êtes enragé, vous pouvez utiliser votre action et votre action bonus pour frapper votre adversaire vraiment, vraiment fort. Réalisez un jet d'attaque de mêlée avec avantage contre une créature de votre choix à portée. Si vous touchez, vous infligez 8d8 + votre modificateur de Force dégâts contondants.
+À partir du niveau 14, vous pouvez écraser vos ennemis avec votre sort ultime *Poing*. Tant que vous êtes enragé, vous pouvez utiliser votre action et votre action bonus pour frapper votre adversaire vraiment, vraiment fort. Réalisez un jet d'attaque de mêlée avec avantage contre une créature de votre choix à portée. Si vous touchez, vous infligez 8d8 + votre modificateur de Force dégâts contondants.
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez votre rage et en commenciez une nouvelle.
 
@@ -7379,7 +7379,7 @@ Tant que vous ragez et que vous tenez l'arme imprégnée, vous pouvez utiliser v
 
 Au niveau 10, votre connexion avec la force des géants vous permet de propulser alliés comme ennemis à travers le champ de bataille. Pour une action bonus alors que vous ragez, vous pouvez choisir une créature de taille M ou inférieure dans votre portée et la déplacer vers un espace inoccupé que vous pouvez voir à 30 ft. Une créature non consentante doit réussir un jet de sauvegarde de Force (8 + votre bonus de maîtrise + votre modificateur de Force) pour l'éviter.
 
-Si, à la fin de ce mouvement, la créature lancée n'est pas sur une surface ou un liquide qui peut supporter son poids, la créature tombe, prend des dégâts de chute comme à la normale et atterrit [[au sol]]
+Si, à la fin de ce mouvement, la créature lancée n'est pas sur une surface ou un liquide qui peut supporter son poids, la créature tombe, subit des dégâts de chute comme à la normale et atterrit [[au sol]]
 
 ## Colosse Démiurge
 
@@ -7414,7 +7414,7 @@ Si la créature réussit son jet de sauvegarde, vous ne pouvez pas utiliser cett
 
 ## Rétribution
 
-À partir du niveau 14, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+À partir du niveau 14, lorsque vous subissez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 ---
 
@@ -7456,7 +7456,7 @@ Certaines déités inspirent leurs croyants à s'élancer dans une féroce furie
 
 ## Furie Divine
 
-À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée prend un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
+À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée subit un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
 
 ## Guerrier des Dieux
 
@@ -7507,7 +7507,7 @@ Votre Métamorphose Occulte dure 1 minute. Elle se termine prématurément si vo
 
 Une fois que vous avez été en rage (ou subi une Métamorphose Occulte) le nombre de fois indiqué pour votre niveau de barbare dans la colonne Rages de la table du Barbare, vous devez terminer un repos long avant de pouvoir utiliser ces aptitudes à nouveau.
 
-De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme _Rage Persistante_) s'applique également à la Métamorphose Occulte, sauf indication contraire.
+De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme *Rage Persistante*) s'applique également à la Métamorphose Occulte, sauf indication contraire.
 
 ## Chant des Profondeurs
 
@@ -7555,7 +7555,7 @@ A partir du moment où vous choisissez cette voie au niveau 3, des guerriers spe
 
 ## Bouclier Spirituel
 
-A partir du niveau 6, les esprits gardien qui vous aident vous prodigue également une protection surnaturelle lorsque vous défendez. Si vous êtes en rage et qu'une autre créature que vous pouvez voir à 30 ft. prend des dégâts, vous pouvez utiliser votre réaction pour réduire ces dégâts de 2d6.
+A partir du niveau 6, les esprits gardien qui vous aident vous prodigue également une protection surnaturelle lorsque vous défendez. Si vous êtes en rage et qu'une autre créature que vous pouvez voir à 30 ft. subit des dégâts, vous pouvez utiliser votre réaction pour réduire ces dégâts de 2d6.
 
 Lorsque vous atteignez certains niveaux dans cette classe, vous pour réduire les dégâts encore plus : de 3d6 au niveau 10 et de 4d6 au niveau 14.
 
@@ -7567,7 +7567,7 @@ Après avoir lancé un de ces deux sorts de cette façon vous ne pouvez le refai
 
 ## Ancêtres Vengeurs
 
-Au niveau 14, vos esprits ancestraux sont devenus suffisamment puissants pour réagir. Lorsque vous utiliser votre Bouclier Spirituel pour réduire les dégâts d'une attaque, l'attaquant prend un nombre de dégâts de force égal aux dégâts prévenus par le bouclier.
+Au niveau 14, vos esprits ancestraux sont devenus suffisamment puissants pour réagir. Lorsque vous utiliser votre Bouclier Spirituel pour réduire les dégâts d'une attaque, l'attaquant subit un nombre de dégâts de force égal aux dégâts prévenus par le bouclier.
 
 ---
 
@@ -7985,11 +7985,11 @@ A partir du moment où vous rejoignez ce collège au niveau 3, à chaque fois qu
 
 Lorsque la créature utilise son dé d'Inspiration Bardique, la particule confère un effet supplémentaire en fonction du jet que le dé d'Inspiration Bardique vient compléter.
 
-__Jet de Caractéristique.__ Lorsque la créature lance son dé d'Inspiration Bardique pour l'ajouter à un jet de caractéristique, la créature peut relancer le dé d'Inspiration Bardique et décider quel résultat garder. La particule éclate alors en émettant d'inoffensives étincelles de toutes les couleurs pendant quelques secondes.
+**Jet de Caractéristique.** Lorsque la créature lance son dé d'Inspiration Bardique pour l'ajouter à un jet de caractéristique, la créature peut relancer le dé d'Inspiration Bardique et décider quel résultat garder. La particule éclate alors en émettant d'inoffensives étincelles de toutes les couleurs pendant quelques secondes.
 
-__Jet d'Attaque.__ Immédiatement après que la créature a lancé son dé d'Inspiration Bardique pour l'ajouter à un jet d'attaque contre une cible, la particule se disperse en un bruit assourdissant. La cible et chaque créature de votre choix que vous pouvez voir à 5 ft. doivent réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou subir un nombre de dégâts de tonnerre égal au résultat du dé d'Inspiration Bardique.
+**Jet d'Attaque.** Immédiatement après que la créature a lancé son dé d'Inspiration Bardique pour l'ajouter à un jet d'attaque contre une cible, la particule se disperse en un bruit assourdissant. La cible et chaque créature de votre choix que vous pouvez voir à 5 ft. doivent réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou subir un nombre de dégâts de tonnerre égal au résultat du dé d'Inspiration Bardique.
 
-__Jet de Sauvegarde.__ Immédiatement après que la créature a lancé son dé d'Inspiration Bardique pour l'ajouter à un jet de sauvegarde, la particule disparaît, accompagnée d'une douce musique, conférant un nombre de points de vie temporaires à la créature ayant lancé le dé d'Inspiration Bardique égal au résultat du dé + votre modificateur de Charisme (minimum de 1).
+**Jet de Sauvegarde.** Immédiatement après que la créature a lancé son dé d'Inspiration Bardique pour l'ajouter à un jet de sauvegarde, la particule disparaît, accompagnée d'une douce musique, conférant un nombre de points de vie temporaires à la créature ayant lancé le dé d'Inspiration Bardique égal au résultat du dé + votre modificateur de Charisme (minimum de 1).
 
 ## Représentation de la Création
 
@@ -8022,7 +8022,7 @@ Si vous charmez une créature qui ne vous est pas hostile, il vous considère vo
 
 Également au niveau 3, vous pouvez convertir d'autres créatures par votre personnalité. Pour une action, vous pouvez dépenser une Inspiration Bardique et choisir une créature que vous pouvez voir à 30 ft. qui peut vous voir ou vous entendre afin qu'elle réalise un jet de sauvegarde de Sagesse. Si elle échoue, la créature est [[charmé|charmée]] par vous pour un nombre de tours égal au résultat du dé d'Inspiration Bardique.
 
-Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature prend des dégâts de vous ou vos alliés ou si vous réutilisez cette aptitude.
+Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature subit des dégâts de vous ou vos alliés ou si vous réutilisez cette aptitude.
 
 ## Ennemi de mon Ennemi
 
@@ -8155,7 +8155,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire ju
 ---
 writing_status: finished
 ---
-Les bardes du collège des masques (souvent appelés _maîtres des masques_) sont des comédiens hors pair qui s'entraînent à devenir leur personnage plutôt que de simplement l'imiter. Les bardes qui rejoignent ce collège viennent à penser que tout n'est que jeu et qu'il suffit de métaphoriquement se masquer pour devenir acteur de la Grande Pièce qu'est la vie. Pour être au niveau du drame quotidien, un maître des masques possède sur lui multitudes de masques, chacun un puissant artefact magique représentant un archétype.
+Les bardes du collège des masques (souvent appelés *maîtres des masques*) sont des comédiens hors pair qui s'entraînent à devenir leur personnage plutôt que de simplement l'imiter. Les bardes qui rejoignent ce collège viennent à penser que tout n'est que jeu et qu'il suffit de métaphoriquement se masquer pour devenir acteur de la Grande Pièce qu'est la vie. Pour être au niveau du drame quotidien, un maître des masques possède sur lui multitudes de masques, chacun un puissant artefact magique représentant un archétype.
 
 ## Maîtrise Supplémentaire
 
@@ -8193,16 +8193,16 @@ Les masques suivants sont listés alphabétiquement
 | --------------- | ---------------------------------------------- |
 | 3 | [[Saute de Vent]], [[rayon ardent]] |
 | 5 | [[éclair]], [[protection contre une énergie]] |
-| 7 | [[porte dimensionnelle]], [[tempête de grêle]] |
+| 7 | [[porte dimensionnelle]], [[Tempête de Glace]] |
 | 9 | [[Scrutation]], [[mur de pierre]] |
 
 ### Diable
 
-Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et les cornes d'un magnifique fiélon. Pour une réaction lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser une utilisation d'Inspiration Bardique pour infliger à la créature un nombre de dégâts de feu égal à deux lancers du dé d'Inspiration Bardique.
+Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et les cornes d'un magnifique fiélon. Pour une réaction lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser une utilisation d'Inspiration Bardique pour infliger à la créature un nombre de dégâts de feu égal à deux lancers du dé d'Inspiration Bardique.
 
 ### Dragon
 
-Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature prend des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
+Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
 
 ### Sans-Visage
 
@@ -8290,7 +8290,7 @@ Lorsque vous choisissez ce collège au niveau 3, vous gagnez la maîtrise d'une 
 
 Au niveau 3, les sons discordants de votre instrument rendent fou les autres. Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre un de vos sorts de bardes ou aptitudes tandis que vous tenez un instrument de musique, vous pouvez dépenser une utilisation d'Inspiration Bardique pour jouer un bruit cacophonique. Une créature [[assourdi|assourdie]] est immunisée à cet effet. Choisissez l'un des effets suivants : 
  
- - La créature prend un nombre de dégâts psychique égal au résultat de votre dé d'Inspiration Bardique.
+ - La créature subit un nombre de dégâts psychique égal au résultat de votre dé d'Inspiration Bardique.
  - La créature est [[assourdi|assourdie]] et ne peut plus parler jusqu'à la fin de son prochain tour.
  - La créature se déplace de jusqu'à 10 ft. dans la direction de votre choix. Ce mouvement ne provoque pas d'attaque d'opportunité.
 
@@ -8306,7 +8306,7 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire ava
 
 À partir du niveau 14, vous pouvez utiliser votre action pour commencer à jouer la mélodie maudite qui hante vos rêves. À chacun de vos tours suivants, vous pouvez utiliser votre action pour continuer à jouer la mélodie. Seulement les créatures que vous choisissez à 60 ft. de vous peuvent entendre la mélodie ; toute autre créature n'entend qu'un bruit assourdissant. Même les créatures [[assourdi|assourdies]] entendent la mélodie hantée.
 
-Lorsque vous utilisez votre action pour jouer la mélodie, une créature qui peut entendre la mélodie doit réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, elle prend des dégâts psychiques et subit un effet supplémentaire en fonction du nombre de tours consécutifs que vous avez passé à jouer la mélodie. Après quatre tours consécutifs, ou si aucune créature n'entend la mélodie pendant un tour, la mélodie recommence au premier tour.
+Lorsque vous utilisez votre action pour jouer la mélodie, une créature qui peut entendre la mélodie doit réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, elle subit des dégâts psychiques et subit un effet supplémentaire en fonction du nombre de tours consécutifs que vous avez passé à jouer la mélodie. Après quatre tours consécutifs, ou si aucune créature n'entend la mélodie pendant un tour, la mélodie recommence au premier tour.
 
 | Tour | Dégâts Psychiques | Effet |
 | ---- | ----------------- | --------------------------------------------------------------------------- |
@@ -8521,11 +8521,11 @@ Si l'une de vos manœuvres demande un jet de sauvegarde pour résister à ses ef
 
 Vous pouvez dépenser vos dés de bataille dans les manœuvres suivantes : 
 
-__Préparation.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
+**Préparation.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
 
-__Ralliement.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
+**Ralliement.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
 
-__Frappe Stupéfiante.__ Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
+**Frappe Stupéfiante.** Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
 
 ## Augmentation de Caractéristiques
 
@@ -8541,11 +8541,11 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 Au niveau 9, vos manœuvres évoluent : 
 
-__Préparation.__ Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils réalisent avant le début de votre prochain tour.
+**Préparation.** Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils réalisent avant le début de votre prochain tour.
 
-__Ralliement.__ Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
+**Ralliement.** Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
 
-__Frappe Stupéfiante.__ Lorsque vous touchez avec une frappe stupéfiante, vous ajoutez le dé de bataille au jet de dégâts.
+**Frappe Stupéfiante.** Lorsque vous touchez avec une frappe stupéfiante, vous ajoutez le dé de bataille au jet de dégâts.
 
 ## Frappe Coordonnée
 
@@ -8574,20 +8574,20 @@ writing_status: finished
 >- **Classe d'Armure** 15 ([[chemise de mailles]], [[Bouclier, Équipement|bouclier]])
 >- **Points de Vie** 11 (2d8 + 2)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|11 (+0)|12 (+1)|10 (+0)|14 (+2)|11 (+0)|
 > 
-> - __Jets de Sauvegarde.__ SAG +4, CHA +2
-> - __Compétences.__ Médecine +4, Religion +2
-> - __Sens.__ Perception Passive 12
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** SAG +4, CHA +2
+> - **Compétences.** Médecine +4, Religion +2
+> - **Sens.** Perception Passive 12
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
->___
+>*_*
 >
 >### Actions
 >***Masse d'armes.*** *Attaque Armée de Mêlée :* +3 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.
@@ -8603,20 +8603,20 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, l'abbé obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Dévotion Divine.__ L'abbé peut utiliser ses ___Mains Soignantes___ et ___Coup Traçant___ une fois supplémentaire lorsque le capitaine atteint le niveau 5, 11 et 17, jusqu'à un maximum de 4 fois par jour.
+*Niveau 2.* **Dévotion Divine.** L'abbé peut utiliser ses ***Mains Soignantes*** et ***Coup Traçant*** une fois supplémentaire lorsque le capitaine atteint le niveau 5, 11 et 17, jusqu'à un maximum de 4 fois par jour.
 
-_Niveau 6._ _Action :_ __Incantation.__ L'abbé lance l'un des sorts suivants, sans avoir besoin de composantes matérielles et en utilisant sa Sagesse comme caractéristique d'incantation (DD de jet de sauvegarde de sort : 12) :
+*Niveau 6.* *Action :* **Incantation.** L'abbé lance l'un des sorts suivants, sans avoir besoin de composantes matérielles et en utilisant sa Sagesse comme caractéristique d'incantation (DD de jet de sauvegarde de sort : 12) :
 
  - À volonté : [[Assistance]], [[Stabilisation]]
  - 1/jour chacun : [[Bénédiction]], [[restauration partielle]], [[protection contre le mal et le bien]]
 
-_Niveau 10._ __Frappe Divine.__ L'abbé inflige 1d8 dégâts radiants supplémentaires lorsqu'il touche avec une attaque.
+*Niveau 10.* **Frappe Divine.** L'abbé inflige 1d8 dégâts radiants supplémentaires lorsqu'il touche avec une attaque.
 
-_Niveau 14._ _Action :_ __Incantation.__ L'incantation de l'abbé s'améliore. Il peut lancer les sorts supplémentaires suivants :
+*Niveau 14.* *Action :* **Incantation.** L'incantation de l'abbé s'améliore. Il peut lancer les sorts supplémentaires suivants :
 
  - 1/jour chacun : [[protection contre la mort]], [[retour à la vie]], [[communication avec les morts]]
 
-_Niveau 18._ _Réaction :_ __Lumière Miséricordieuse (1/jour).__ En réponse à une créature alliée à 30 ft. prenant des dégâts, l'abbé peut rendre un nombre de points de vie à cette créature égal à 2d8 + son modificateur de Sagesse.
+*Niveau 18.* *Réaction :* **Lumière Miséricordieuse (1/jour).** En réponse à une créature alliée à 30 ft. prenant des dégâts, l'abbé peut rendre un nombre de points de vie à cette créature égal à 2d8 + son modificateur de Sagesse.
 
 ---
 
@@ -8631,21 +8631,21 @@ writing_status: finished
 >- **Classe d'Armure** 14 (Défense sans Armure)
 >- **Points de Vie** 13 (2d8 + 4)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|14 (+2)|14 (+2)|9 (-1)|10 (+0)|9 (-1)|
 > 
-> - __Jets de Sauvegarde.__ FOR +4, CON +4
-> - __Compétences.__ Athlétisme +4, Survie +2
-> - __Sens.__ Perception Passive 10
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** FOR +4, CON +4
+> - **Compétences.** Athlétisme +4, Survie +2
+> - **Sens.** Perception Passive 10
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
-> - __Défense sans Armure.__ Tant que le berserker ne porte ni armure ni bouclier, sa CA inclut son modificateur de Constitution.
->___
+> - **Défense sans Armure.** Tant que le berserker ne porte ni armure ni bouclier, sa CA inclut son modificateur de Constitution.
+>*_*
 >
 >### Actions
 >***Hache à Deux Mains.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 8 (1d12 + 2) dégâts tranchants.
@@ -8655,15 +8655,15 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le berserker obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Témérité.__ Au début de son tour, le berserker peut obtenir l'avantage à tous ses jets d'attaque armée de mêlée pendant le tour, mais les attaques contre lui ont l'avantage jusqu'au début de son prochain tour.
+*Niveau 2.* **Témérité.** Au début de son tour, le berserker peut obtenir l'avantage à tous ses jets d'attaque armée de mêlée pendant le tour, mais les attaques contre lui ont l'avantage jusqu'au début de son prochain tour.
 
-_Niveau 6._ __Increvable (1/jour).__ Si le berserker tombe à 0 point de vie mais ne meurt pas sur le coup, il tombe à 1 point de vie à la place.
+*Niveau 6.* **Increvable (1/jour).** Si le berserker tombe à 0 point de vie mais ne meurt pas sur le coup, il tombe à 1 point de vie à la place.
 
-_Niveau 10._ _Réaction :_ __Représailles (3/jour).__ En réponse après avoir été touché par une attaque de mêlée, le berserker peut réaliser une attaque armée de mêlée contre l'attaquant.
+*Niveau 10.* *Réaction :* **Représailles (3/jour).** En réponse après avoir été touché par une attaque de mêlée, le berserker peut réaliser une attaque armée de mêlée contre l'attaquant.
 
-_Niveau 14._ __Avancée Critique.__ Une fois par tour, lorsque le berserker inflige un coup critique, il peut se déplacer de jusqu'à sa vitesse et réaliser une attaque armée de mêlée avec avantage.
+*Niveau 14.* **Avancée Critique.** Une fois par tour, lorsque le berserker inflige un coup critique, il peut se déplacer de jusqu'à sa vitesse et réaliser une attaque armée de mêlée avec avantage.
 
-_Niveau 18._ _Réaction :_ __Résolution Primale.__ Lorsque le berserker possède moins de la moitié de ses points de vie, il est résistant aux dégâts contondants, perçants ou tranchants venant d'attaques non magiques.
+*Niveau 18.* *Réaction :* **Résolution Primale.** Lorsque le berserker possède moins de la moitié de ses points de vie, il est résistant aux dégâts contondants, perçants ou tranchants venant d'attaques non magiques.
 
 ---
 
@@ -8678,22 +8678,22 @@ writing_status: finished
 >- **Classe d'Armure** 16 ([[broigne]], [[Bouclier, Équipement|bouclier]])
 >- **Points de Vie** 11 (2d8 + 2)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|11 (+0)|13 (+1)|11 (+0)|12 (+1)|9 (-1)|
 > 
-> - __Jets de Sauvegarde.__ FOR +4, CON +2
-> - __Compétences.__ Dressage +3, Athlétisme +4
-> - __Sens.__ Perception Passive 11
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** FOR +4, CON +2
+> - **Compétences.** Dressage +3, Athlétisme +4
+> - **Sens.** Perception Passive 11
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Indomptable (1/Jour).__ Le champion relance un jet de sauvegarde raté. 
->___
+> **Indomptable (1/Jour).** Le champion relance un jet de sauvegarde raté. 
+>*_*
 >
 >### Actions
 >***Épée Longue.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants ou 7 (1d10 + 2) dégâts tranchants si utilisée à deux mains.
@@ -8705,15 +8705,15 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le champion obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ _Action Bonus :_ __Second Souffle (1/LR/SR).__ Le champion regagne 5 points de vie. Lorsque le capitaine atteint le niveau 6, ce montant passe à 10 points de vie, et passe à 20 lorsque le capitaine atteint le niveau 14. 
+*Niveau 2.* *Action Bonus :* **Second Souffle (1/LR/SR).** Le champion regagne 5 points de vie. Lorsque le capitaine atteint le niveau 6, ce montant passe à 10 points de vie, et passe à 20 lorsque le capitaine atteint le niveau 14. 
 
-_Niveau 6._ __Augmentation de Caractéristiques.__ La Force, la Dextérité ou la Constitution du champion augmente de 2, jusqu'à un maximum de 20. 
+*Niveau 6.* **Augmentation de Caractéristiques.** La Force, la Dextérité ou la Constitution du champion augmente de 2, jusqu'à un maximum de 20. 
 
-_Niveau 10._ __Prouesse Martiale.__ Lorsque le champion touche avec une arme de mêlée, l'arme peut infliger 4 (1d8) dégâts supplémentaires. Lorsque le capitaine atteint le niveau 18, ces dégâts supplémentaires passent à 9 (2d8).
+*Niveau 10.* **Prouesse Martiale.** Lorsque le champion touche avec une arme de mêlée, l'arme peut infliger 4 (1d8) dégâts supplémentaires. Lorsque le capitaine atteint le niveau 18, ces dégâts supplémentaires passent à 9 (2d8).
 
-_Niveau 14._ __Augmentation de Caractéristiques.__ La Force, la Dextérité ou la Constitution du champion augmente de 2, jusqu'à un maximum de 20. 
+*Niveau 14.* **Augmentation de Caractéristiques.** La Force, la Dextérité ou la Constitution du champion augmente de 2, jusqu'à un maximum de 20. 
 
-_Niveau 18._ __Fouge (1/LR/SR).__ Le champion peut prendre deux actions ce tour.
+*Niveau 18.* **Fouge (1/LR/SR).** Le champion peut prendre deux actions ce tour.
 
 ---
 
@@ -8728,22 +8728,22 @@ writing_status: finished
 >- **Classe d'Armure** 14 ([[cuir clouté]])
 >- **Points de Vie** 11 (2d8 + 2)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|12 (+1)|10 (+0)|14 (+2)|9 (-1)|
 > 
-> - __Jets de Sauvegarde.__ FOR +2, DEX +4
-> - __Compétences.__ Perception +4, Survie +4
-> - __Sens.__ Perception Passive 14
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** FOR +2, DEX +4
+> - **Compétences.** Perception +4, Survie +4
+> - **Sens.** Perception Passive 14
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Ouïe et Vision Aiguisées.__ Le chasseur a l'avantage aux jets de Sagesse (Perception) qui reposent sur la vue ou l'ouïe
->___
+> **Ouïe et Vision Aiguisées.** Le chasseur a l'avantage aux jets de Sagesse (Perception) qui reposent sur la vue ou l'ouïe
+>*_*
 >
 >### Actions
 >***Cimeterre.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts tranchants.
@@ -8755,15 +8755,15 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le Chasseur obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ _Action Bonus :_ __Tir Précis (1/jour).__ Immédiatement après avoir réalisé un jet d'attaque ou de dégâts avec une arme à distance, le chasseur peut lancer 1d10 et ajouter le résultat au total. Le chasseur peut utiliser son tir précis une seconde fois lorsque le capitaine atteint le niveau 5 (2/jour), 11 (3/jour), 17 (4/jour). 
+*Niveau 2.* *Action Bonus :* **Tir Précis (1/jour).** Immédiatement après avoir réalisé un jet d'attaque ou de dégâts avec une arme à distance, le chasseur peut lancer 1d10 et ajouter le résultat au total. Le chasseur peut utiliser son tir précis une seconde fois lorsque le capitaine atteint le niveau 5 (2/jour), 11 (3/jour), 17 (4/jour). 
 
-_Niveau 6._ __Position Avantageuse.__ Le chasseur gagne une vitesse d'escalade égale à sa vitesse de marche. 
+*Niveau 6.* **Position Avantageuse.** Le chasseur gagne une vitesse d'escalade égale à sa vitesse de marche. 
 
-_Niveau 10._ _Action Bonus :_ __Marque du Prédateur (1/jour).__ Lorsque le chasseur touche une créature avec une attaque, il peut marquer sa cible pendant une minute ou jusqu'à ce qu'il perde sa concentration (comme pour les sorts). Le chasseur a l'avantage aux jets d'attaque contre cette cible et lui inflige 1d8 dégâts supplémentaires lorsqu'il touche.
+*Niveau 10.* *Action Bonus :* **Marque du Prédateur (1/jour).** Lorsque le chasseur touche une créature avec une attaque, il peut marquer sa cible pendant une minute ou jusqu'à ce qu'il perde sa concentration (comme pour les sorts). Le chasseur a l'avantage aux jets d'attaque contre cette cible et lui inflige 1d8 dégâts supplémentaires lorsqu'il touche.
 
-_Niveau 14._ _Réaction :_ __Esquive Instinctive.__ Pour une réaction après avoir été touché par une attaque ou avoir raté un jet de sauvegarde de Dextérité, le chasseur peut ajouter 3 à sa CA contre cette attaque ou au résultat de son jet de sauvegarde.
+*Niveau 14.* *Réaction :* **Esquive Instinctive.** Pour une réaction après avoir été touché par une attaque ou avoir raté un jet de sauvegarde de Dextérité, le chasseur peut ajouter 3 à sa CA contre cette attaque ou au résultat de son jet de sauvegarde.
 
-_Niveau 18._ __Attaques Multiples (3/jour).__ Le chasseur peut réaliser deux attaques armées à distance.
+*Niveau 18.* **Attaques Multiples (3/jour).** Le chasseur peut réaliser deux attaques armées à distance.
 
 ---
 
@@ -8804,24 +8804,24 @@ writing_status: finished
 >- **Classe d'Armure** 17 (armure naturelle)
 >- **Points de Vie** 13 (2d8 + 4)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|10 (+0)|15 (+2)|10 (+0)|10 (+0)|9 (-1)|
 > 
-> - __Immunité aux Dégâts.__ poison
-> - __Immunités aux Conditions.__ charmé, épuisé, empoisonné 
-> - __Sens.__ Vision dans le Noir 60 ft., Perception Passive 12
-> - __Langues__ comprend les langues de son créateur mais ne peut pas parler
->___
+> - **Immunité aux Dégâts.** poison
+> - **Immunités aux Conditions.** charmé, épuisé, empoisonné 
+> - **Sens.** Vision dans le Noir 60 ft., Perception Passive 12
+> - **Langues** comprend les langues de son créateur mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Explosion Mortelle.__ La construction explose lorsqu'elle tombe à 0 point de vie. Chaque créature dans un rayon de 5 ft. doit réaliser un jet de sauvegarde de Dextérité DD 12. Une créature qui échoue à ce jet prend 7 (2d6) dégâts de feu, et la moitié si elle réussit.
+> **Explosion Mortelle.** La construction explose lorsqu'elle tombe à 0 point de vie. Chaque créature dans un rayon de 5 ft. doit réaliser un jet de sauvegarde de Dextérité DD 12. Une créature qui échoue à ce jet subit 7 (2d6) dégâts de feu, et la moitié si elle réussit.
 > 
-> __Nature Construite.__ La construction n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
->___
+> **Nature Construite.** La construction n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
+>*_*
 >
 >### Actions
 >***Frappe.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d8 + 2) dégâts contondants.
@@ -8830,19 +8830,19 @@ writing_status: finished
 
 Tant qu'elle suit les ordres de son capitaine, la construction obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Protocole de Surveillance.__ La construction obtient la vision aveugle sur une portée de 60 ft. Elle ajoute également le niveau de son capitaine à sa Perception Passive.
+*Niveau 2.* **Protocole de Surveillance.** La construction obtient la vision aveugle sur une portée de 60 ft. Elle ajoute également le niveau de son capitaine à sa Perception Passive.
 
-_Niveau 6._ __Armure Améliorée.__ La Classe d'Armure de la construction augmente de 1. 
+*Niveau 6.* **Armure Améliorée.** La Classe d'Armure de la construction augmente de 1. 
 
-_Niveau 6._ __Explosion Mortelle.__ L'explosion mortelle de la construction inflige désormais 21 (6d6) dégâts de feu en cas d'échec, et la moitié en cas de réussite.
+*Niveau 6.* **Explosion Mortelle.** L'explosion mortelle de la construction inflige désormais 21 (6d6) dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 
-_Niveau 10._ __Frappe Chargée.__ L'attaque de frappe de la construction inflige 4 (1d8) dégâts de foudre si elle touche.
+*Niveau 10.* **Frappe Chargée.** L'attaque de frappe de la construction inflige 4 (1d8) dégâts de foudre si elle touche.
 
-_Niveau 10._ __Résistance Magique.__ La construction a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
+*Niveau 10.* **Résistance Magique.** La construction a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
 
-_Niveau 14._ __Armure Améliorée.__ La Classe d'Armure de la construction augmente de 1. 
+*Niveau 14.* **Armure Améliorée.** La Classe d'Armure de la construction augmente de 1. 
 
-_Niveau 18._ __Frappe Infaillible.__ Une fois par tour, lorsque la construction rate une de ses frappes, elle peut la relancer.
+*Niveau 18.* **Frappe Infaillible.** Une fois par tour, lorsque la construction rate une de ses frappes, elle peut la relancer.
 
 ---
 
@@ -8857,47 +8857,47 @@ writing_status: finished
 >- **Classe d'Armure** 12 (armure en [[cuir]])
 >- **Points de Vie** 11 (2d8 + 2)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|11 (+0)|13 (+0)|12 (+1)|11 (+0)|9 (-1)|14 (+2)|
 > 
-> - __Jets de Sauvegarde.__ SAG +1, CHA +4
-> - __Compétences.__ Tromperie +4, Persuasion +4
-> - __Sens.__ Perception Passive 9
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** SAG +1, CHA +4
+> - **Compétences.** Tromperie +4, Persuasion +4
+> - **Sens.** Perception Passive 9
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Dévotion aux Ténèbres.__ Le cultiste a l'avantage aux jets de sauvegarde pour éviter d'être [[charmé]] ou [[apeuré]].
->___
+> **Dévotion aux Ténèbres.** Le cultiste a l'avantage aux jets de sauvegarde pour éviter d'être [[charmé]] ou [[apeuré]].
+>*_*
 >
 >### Actions
 >***Frappe Occulte*** *Attaque de Sort de Mêlée ou à Distance :* +4 pour toucher, portée 5 ft. ou 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
 >
 >***Incantation.*** Le cultiste lance l'un des sorts suivants, sans dépenser de composantes matérielles et en utilisant son Charisme comme caractéristiques d'incantation (DD de sauvegarde des sorts de 12) : 
-> - _À volonté :_ [[Lumières Dansantes]], [[Main de Mage]], [[Illusion Mineure]]
-> - _1/jour chacun :_ [[Charme-personne]], [[Détection de la Magie]]
+> - *À volonté :* [[Lumières Dansantes]], [[Main de Mage]], [[Illusion Mineure]]
+> - *1/jour chacun :* [[Charme-personne]], [[Détection de la Magie]]
 
 ### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le cultiste obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Pacte Occulte.__ La frappe occulte du cultiste augmente en dégâts de 1d10 lorsque le capitaine atteint le niveau 5 (2d10), 11 (3d10) et 17 (4d10). La cohorte ajoute toujours son modificateur de Charisme aux jets de dégâts.
+*Niveau 2.* **Pacte Occulte.** La frappe occulte du cultiste augmente en dégâts de 1d10 lorsque le capitaine atteint le niveau 5 (2d10), 11 (3d10) et 17 (4d10). La cohorte ajoute toujours son modificateur de Charisme aux jets de dégâts.
 
-_Niveau 6._ _Action :_ __Incantation.__ L'incantation du cultiste s'améliore. Il peut lancer les sorts suivants en plus de ceux de ses statistiques : 
+*Niveau 6.* *Action :* **Incantation.** L'incantation du cultiste s'améliore. Il peut lancer les sorts suivants en plus de ceux de ses statistiques : 
  - À volonté : [[Déguisement]], [[Simulacre de Vie]]
  - 1/jour : [[suggestion]]
 
-_Niveau 10._ _Action :_ __Sinistre Malédiction (1/jour).__ Une créature que le cultiste peut voir à 60 ft. doit réussir un jet de sauvegarde de Sagesse (DD 8 + modificateur de Charisme + bonus de maîtrise) ou être maudite pendant 1 minute. Tant qu'elle est maudite, la créature a un désavantage aux jets d'attaque et de sauvegarde. À la fin de chaque tour, la créature peut retenter le jet de sauvegarde.
+*Niveau 10.* *Action :* **Sinistre Malédiction (1/jour).** Une créature que le cultiste peut voir à 60 ft. doit réussir un jet de sauvegarde de Sagesse (DD 8 + modificateur de Charisme + bonus de maîtrise) ou être maudite pendant 1 minute. Tant qu'elle est maudite, la créature a un désavantage aux jets d'attaque et de sauvegarde. À la fin de chaque tour, la créature peut retenter le jet de sauvegarde.
 
-_Niveau 14._ _Action :_ __Incantation.__ L'incantation du cultiste s'améliore. Il peut lancer les sorts supplémentaires suivants :
+*Niveau 14.* *Action :* **Incantation.** L'incantation du cultiste s'améliore. Il peut lancer les sorts supplémentaires suivants :
  - À volonté : [[ténèbres]], [[Pattes d'Araignée]]
  - 1/jour : [[Terreur]]
 
-_Niveau 18._ _Réaction :_ __Représailles Vengeresses.__ Pour une réaction après avoir subi des dégâts d'une créature visible à 60 ft., le cultiste force cette créature à réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 11 (2d10) dégâts de feu, ou la moitié si elle réussit.
+*Niveau 18.* *Réaction :* **Représailles Vengeresses.** Pour une réaction après avoir subi des dégâts d'une créature visible à 60 ft., le cultiste force cette créature à réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 11 (2d10) dégâts de feu, ou la moitié si elle réussit.
 
 ---
 
@@ -8912,22 +8912,22 @@ writing_status: finished
 >- **Classe d'Armure** 11 (14 avec l'[[Armure de Mage]])
 >- **Points de Vie** 9 (2d8 + 0)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|12 (+1)|10 (+0)|14 (+2)|13 (+1)|12 (+1)|
 > 
-> - __Jets de Sauvegarde.__ INT +4, SAG +3
-> - __Compétences.__ Arcane +4, Histoire +4
-> - __Sens.__ Perception Passive 11
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** INT +4, SAG +3
+> - **Compétences.** Arcane +4, Histoire +4
+> - **Sens.** Perception Passive 11
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Résistance Magique.__ Le mage a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
->___
+> **Résistance Magique.** Le mage a l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.
+>*_*
 >
 >### Actions
 >***Dague.*** *Attaque Armée de Mêlée ou à Distance :* +3 pour toucher, portée 5 ft. ou 20/60 ft., une cible. *Touché :* 3 (1d4 + 1) dégâts perçants.
@@ -8935,25 +8935,25 @@ writing_status: finished
 >***Flèche Arcanique.*** *Attaque de Sort à Distance :* +4 pour toucher, portée 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
 >
 >***Incantation.*** Le mage lance l'un des sorts suivants sans dépenser de composantes matérielles et en utilisant l'Intelligence comme caractéristique d'incantation (DD de sauvegarde de sort de 12) :
-> - _À volonté :_ [[Main de Mage]], [[Prestidigitation]]
-> - _1/jour :_ [[Disque Flottant]], [[Graisse]], [[Armure de Mage]]
+> - *À volonté :* [[Main de Mage]], [[Prestidigitation]]
+> - *1/jour :* [[Disque Flottant]], [[Graisse]], [[Armure de Mage]]
 
 ### Aptitudes de Cohorte
 
 Tant qu'il suit les ordres de son capitaine, le mage obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Apprentissage Arcanique.__ Les dégâts de la flèche arcanique du mage augmentent de 1d10 lorsque le capitaine atteint le niveau 5 (2d10), 11 (3d10) et 17 (4d10). La cohorte ajoute toujours son modificateur d'Intelligence aux jets de dégâts.
+*Niveau 2.* **Apprentissage Arcanique.** Les dégâts de la flèche arcanique du mage augmentent de 1d10 lorsque le capitaine atteint le niveau 5 (2d10), 11 (3d10) et 17 (4d10). La cohorte ajoute toujours son modificateur d'Intelligence aux jets de dégâts.
 
-_Niveau 6._ _Action :_ __Incantation.__ L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
+*Niveau 6.* *Action :* **Incantation.** L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
  - À volonté : [[Message]]
  - 1/jour : [[Immobilisation de Personne]], [[invisibilité]]
 
-_Niveau 10._ _Action :_ __Explosion Élémentaire.__ Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, la créature prend 8d6 dégâts du type choisi, et la moitié en cas de réussite.
+*Niveau 10.* *Action :* **Explosion Élémentaire.** Le mage déchaîne une explosion magique d'un type de dégâts parmi acide, froid, feu, foudre et tonnerre. La magie éructe en une sphère de 10 ft. centrée sur un point que le mage peut voir à 120 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur d'Intelligence). Si elle échoue, la créature subit 8d6 dégâts du type choisi, et la moitié en cas de réussite.
 
-_Niveau 14._ _Action_ __Incantation.__ L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
+*Niveau 14.* *Action* **Incantation.** L'incantation du mage s'améliore. Il peut lancer les sorts supplémentaires suivants : 
  - 1/jour : [[porte dimensionnelle]], [[métamorphose]]
 
-_Niveau 18._ _Réaction :_ __Sphère de Contingence (1/jour).__ Pour une réaction après avoir pris des dégâts, le mage peut lancer le sort [[sphère résiliente]] sur lui-même.
+*Niveau 18.* *Réaction :* **Sphère de Contingence (1/jour).** Pour une réaction après avoir pris des dégâts, le mage peut lancer le sort [[sphère résiliente]] sur lui-même.
 
 ---
 
@@ -8968,24 +8968,24 @@ writing_status: finished
 >- **Classe d'Armure** 9 ()
 >- **Points de Vie** 13 (2d8 + 4)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|15 (+2)|9 (-1)|15 (+2)|9 (-1)|9 (-1)|9 (-1)|
 > 
-> - __Immunité aux Dégâts.__ poison
-> - __Immunités aux Conditions.__ charmé, épuisement, empoisonné 
-> - __Sens.__ Vision dans le Noir 60 ft., Perception Passive 9
-> - __Langues__ comprend une langue (souvent le [[Langues#Commun|Commun]]) mais ne peut pas parler
->___
+> - **Immunité aux Dégâts.** poison
+> - **Immunités aux Conditions.** charmé, épuisement, empoisonné 
+> - **Sens.** Vision dans le Noir 60 ft., Perception Passive 9
+> - **Langues** comprend une langue (souvent le [[Langues#Commun|Commun]]) mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Vigueur des Morts-Vivants.__ Si le mort-vivant tombe à 0 point de vie suite à des dégâts, il doit réaliser un jet de sauvegarde de Constitution DD 5 + le montant de dégât pris, sauf si les dégâts sont radiants ou issus d'un coup critique. En cas de réussite, le mort-vivant tombe à 1 point de vie à la place.
+> **Vigueur des Morts-Vivants.** Si le mort-vivant tombe à 0 point de vie suite à des dégâts, il doit réaliser un jet de sauvegarde de Constitution DD 5 + le montant de dégât pris, sauf si les dégâts sont radiants ou issus d'un coup critique. En cas de réussite, le mort-vivant tombe à 1 point de vie à la place.
 > 
-> __Nature Morte-Vivante.__ Le mort-vivant n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
->___
+> **Nature Morte-Vivante.** Le mort-vivant n'a pas besoin d'air, de nourriture, d'eau ni de dormir.
+>*_*
 >
 >### Actions
 >***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
@@ -8994,15 +8994,15 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le mort-vivant obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Résistance au Renvoi.__ Le mort-vivant a l'avantage aux jets de sauvegarde contre les effets de renvoi. 
+*Niveau 2.* **Résistance au Renvoi.** Le mort-vivant a l'avantage aux jets de sauvegarde contre les effets de renvoi. 
 
-_Niveau 6._ __Morsure Nécrosante.__ La morsure du mort-vivant inflige 1d6 dégâts nécrotiques supplémentaires. 
+*Niveau 6.* **Morsure Nécrosante.** La morsure du mort-vivant inflige 1d6 dégâts nécrotiques supplémentaires. 
 
-_Niveau 10._ __Régénération.__ Le mort-vivant regagne 1 point de vie au début de chacun de ses tours. Si le mort-vivant subit des dégâts de feu ou radiants, cette aptitude ne fonctionne pas au début du prochain tour du mort-vivant. Le mort-vivant ne meurt que s'il commence son tour à 0 point de vie sans régénérer.
+*Niveau 10.* **Régénération.** Le mort-vivant regagne 1 point de vie au début de chacun de ses tours. Si le mort-vivant subit des dégâts de feu ou radiants, cette aptitude ne fonctionne pas au début du prochain tour du mort-vivant. Le mort-vivant ne meurt que s'il commence son tour à 0 point de vie sans régénérer.
 
-_Niveau 14._ __Morsure Nécrosante Améliorée.__ Les dégâts nécrotiques de la morsure du mort-vivant augmentent de 7 (2d6) et le mort-vivant un nombre de points de vie égal aux dégâts nécrotiques infligés.
+*Niveau 14.* **Morsure Nécrosante Améliorée.** Les dégâts nécrotiques de la morsure du mort-vivant augmentent de 7 (2d6) et le mort-vivant un nombre de points de vie égal aux dégâts nécrotiques infligés.
 
-_Niveau 18._ __Horde de Morts-Vivants.__ Un humanoïde tué par une morsure de mort-vivant se relève 24h après comme un zombie sous le contrôle du capitaine, sauf si l'humanoïde est ramené à la vie ou si son corps est détruit. Le capitaine ne peut pas avoir plus de six zombies sous son contrôle à la fois. Les zombies restent sous le contrôle du capitaine pendant 24h, après quoi le capitaine doit lancer [[Animation des Morts]] ou utiliser une magie similaire pour les réasservir.
+*Niveau 18.* **Horde de Morts-Vivants.** Un humanoïde tué par une morsure de mort-vivant se relève 24h après comme un zombie sous le contrôle du capitaine, sauf si l'humanoïde est ramené à la vie ou si son corps est détruit. Le capitaine ne peut pas avoir plus de six zombies sous son contrôle à la fois. Les zombies restent sous le contrôle du capitaine pendant 24h, après quoi le capitaine doit lancer [[Animation des Morts]] ou utiliser une magie similaire pour les réasservir.
 
 ---
 
@@ -9017,22 +9017,22 @@ writing_status: finished
 >- **Classe d'Armure** 13 (armure de [[cuir]])
 >- **Points de Vie** 9 (2d8 + 0)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|8 (-1)|14 (+2)|11 (+0)|13 (+1)|12 (+1)|10 (+0)|
 > 
-> - __Jets de Sauvegarde.__ DEX +4, INT +3
-> - __Compétences.__ Acrobatie +4, Perception +3, Escamotage +4, Discrétion +4
-> - __Sens.__ Perception Passive 13
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** DEX +4, INT +3
+> - **Compétences.** Acrobatie +4, Perception +3, Escamotage +4, Discrétion +4
+> - **Sens.** Perception Passive 13
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Attaque Sournoise.__ Une fois par tour, si le sacripant touche une cible avec une attaque armée et a l'avantage sur son jet d'attaque, la cible prend 3 (1d6) dégâts supplémentaires sur l'attaque. Le sacripant n'a pas besoin de l'avantage si un de ses alliés se trouve à 5 ft. de la cible, n'est pas [[incapacité]] et que le sacripant n'a pas le désavantage au jet d'attaque.
->___
+> **Attaque Sournoise.** Une fois par tour, si le sacripant touche une cible avec une attaque armée et a l'avantage sur son jet d'attaque, la cible subit 3 (1d6) dégâts supplémentaires sur l'attaque. Le sacripant n'a pas besoin de l'avantage si un de ses alliés se trouve à 5 ft. de la cible, n'est pas [[incapacité]] et que le sacripant n'a pas le désavantage au jet d'attaque.
+>*_*
 >
 >### Actions
 >***Épée Courte.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
@@ -9043,15 +9043,15 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le sacripant obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ __Entraînement de Roublard.__ Les dégâts supplémentaires de l'attaque sournoise augmentent de 3 (1d6) lorsque le capitaine atteint le niveau 6 (2d6), 10 (3d6), 14 (4d6) et 18 (5d6). 
+*Niveau 2.* **Entraînement de Roublard.** Les dégâts supplémentaires de l'attaque sournoise augmentent de 3 (1d6) lorsque le capitaine atteint le niveau 6 (2d6), 10 (3d6), 14 (4d6) et 18 (5d6). 
 
-_Niveau 6._ _Action Bonus :_ __Ruse.__ Le sacripant peut Foncer, se Désengager ou se Cacher pour une action bonus. 
+*Niveau 6.* *Action Bonus :* **Ruse.** Le sacripant peut Foncer, se Désengager ou se Cacher pour une action bonus. 
 
-_Niveau 10._ _Réaction :_ __Esquive Instinctive.__ Le sacripant réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Le sacripant doit être capable de voir cette attaque pour utiliser cette réaction.
+*Niveau 10.* *Réaction :* **Esquive Instinctive.** Le sacripant réduit de moitié les dégâts qu'il subit d'une attaque qui le touche. Le sacripant doit être capable de voir cette attaque pour utiliser cette réaction.
 
-_Niveau 14._ __Évasion.__ Lorsque le sacripant est sujet à un effet qui l'autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, il ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon, à condition qu'il ne soit pas [[incapacité]].
+*Niveau 14.* **Évasion.** Lorsque le sacripant est sujet à un effet qui l'autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, il ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon, à condition qu'il ne soit pas [[incapacité]].
 
-_Niveau 18._ __Assassinat (1/jour).__ Pendant son premier tour du combat, le sacripant peut transformer une attaque armée qui touche en coup critique.
+*Niveau 18.* **Assassinat (1/jour).** Pendant son premier tour du combat, le sacripant peut transformer une attaque armée qui touche en coup critique.
 
 ---
 
@@ -9066,22 +9066,22 @@ writing_status: finished
 >- **Classe d'Armure** 16 ([[cotte de mailles]])
 >- **Points de Vie** 11 (2d8 + 2)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|9 (-1)|12 (+1)|10 (+0)|10 (+0)|14 (+2)|
 > 
-> - __Jets de Sauvegarde.__ SAG +2, CHA +4
-> - __Compétences.__ Athlétisme +4, Religion +2
-> - __Sens.__ Perception Passive 10
-> - __Langues__ Une langue (souvent le [[Langues#Commun|Commun]])
->___
+> - **Jets de Sauvegarde.** SAG +2, CHA +4
+> - **Compétences.** Athlétisme +4, Religion +2
+> - **Sens.** Perception Passive 10
+> - **Langues** Une langue (souvent le [[Langues#Commun|Commun]])
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> __Bravoure.__ Le templier a l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur lui-même.
->___
+> **Bravoure.** Le templier a l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur lui-même.
+>*_*
 >
 >### Actions
 >***Épée Longue.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants ou 7 (1d10 + 2) dégâts tranchants si maniée à deux mains.
@@ -9092,15 +9092,15 @@ writing_status: finished
 
 Tant qu'il suit les ordres de son capitaine, le templier obtient les capacités supplémentaires suivantes basées sur le niveau du capitaine :
 
-_Niveau 2._ _Action Bonus :_ __Châtiment (1/jour).__ Lorsque le templier touche avec une attaque armée de mêlée, la cible prend 9 (2d8) dégâts radiants supplémentaires. Le templier peut utiliser son châtiment une fois de plus lorsque le capitaine atteint le niveau 5 (2), 11 (3) et 17 (4/jour). 
+*Niveau 2.* *Action Bonus :* **Châtiment (1/jour).** Lorsque le templier touche avec une attaque armée de mêlée, la cible subit 9 (2d8) dégâts radiants supplémentaires. Le templier peut utiliser son châtiment une fois de plus lorsque le capitaine atteint le niveau 5 (2), 11 (3) et 17 (4/jour). 
 
-_Niveau 6._ _Réaction :_ __Parade.__ Le templier ajoute 2 à sa CA contre une attaque de mêlée qui le toucherait. Le templier doit voir l'attaquant et manier une arme de mêlée pour utiliser cette réaction. 
+*Niveau 6.* *Réaction :* **Parade.** Le templier ajoute 2 à sa CA contre une attaque de mêlée qui le toucherait. Le templier doit voir l'attaquant et manier une arme de mêlée pour utiliser cette réaction. 
 
-_Niveau 10._ __Armes Saintes.__ Les armes du templier sont magiques et ont un bonus de +2 aux jets d'attaque.
+*Niveau 10.* **Armes Saintes.** Les armes du templier sont magiques et ont un bonus de +2 aux jets d'attaque.
 
-_Niveau 14._ _Action :_ __Inspiration Zélée (1/jour).__ Le templier et toutes les créatures alliées à 30 ft. gagnent 20 points de vie temporaires. 
+*Niveau 14.* *Action :* **Inspiration Zélée (1/jour).** Le templier et toutes les créatures alliées à 30 ft. gagnent 20 points de vie temporaires. 
 
-_Niveau 18._ __Châtiment Amélioré.__ Les dégâts supplémentaires du châtiment du templier augmentent de 18 (4d8). De plus, lorsque le templier termine un repos court et n'a plus de charges de châtiment disponibles, il en récupère une.
+*Niveau 18.* **Châtiment Amélioré.** Les dégâts supplémentaires du châtiment du templier augmentent de 18 (4d8). De plus, lorsque le templier termine un repos court et n'a plus de charges de châtiment disponibles, il en récupère une.
 
 ---
 
@@ -9313,7 +9313,7 @@ Enfin, vous pouvez forcer une attaque contre votre monture de vous cibler vous �
 
 ## Pari du Lion
 
-À partir du niveau 17, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature. Si vous touchez, vous pouvez ajouter la moitié de votre niveau au jet de dégâts.
+À partir du niveau 17, lorsque vous subissez des dégâts d subissez des dégâtsft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature. Si vous touchez, vous pouvez ajouter la moitié de votre niveau au jet de dégâts.
 
 Vous pouvez utiliser cette aptitude trois fois, et vous regagnez les utilisations dépensées lorsque vous terminez un repos.
 
@@ -9518,7 +9518,7 @@ De plus, vous pouvez remplacer l'un des cantrips que vous avez appris par cette 
 
 ## Frappes Bénites (Repl. aptitude de niveau 8)
 
-À partir du niveau 8, vous avez été bénie avec une puissance divine en combat. Lorsqu'une créature prend des dégâts par une de vos attaques armées ou un de vos cantrips, vous pouvez également lui infliger 1d8 dégâts radiants. Une fois que vous avez infligé ces dégâts, vous ne pouvez plus utiliser cette aptitude jusqu'au début de votre prochain tour.
+À partir du niveau 8, vous avez été bénie avec une puissance divine en combat. Lorsqu'une créature subit des dégâts par une de vos attaques armées ou un de vos cantrips, vous pouvez également lui infliger 1d8 dégâts radiants. Une fois que vous avez infligé ces dégâts, vous ne pouvez plus utiliser cette aptitude jusqu'au début de votre prochain tour.
 ## Intervention Divine
 
 À partir du niveau 10, vous pouvez appeler à l'intervention de votre déité si vous êtes dans le besoin.
@@ -9644,7 +9644,7 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Colère de l'Ordre
 
-À partir du niveau 17, les ennemis que vous désignez comme des cibles tremblent devant les efforts combinés de vous et vos alliés. Si vous infligez des dégâts avec votre Frappe Divine à une créature pendant votre tour, vous pouvez maudire cette créature jusqu'au début de votre prochain tour. La prochaine fois qu'un de vos alliés touche la créature avec une attaque, la cible prend également 2d8 dégâts psychiques, et la malédiction se termine. Vous ne pouvez maudire qu'une seule créature par tour de cette façon.
+À partir du niveau 17, les ennemis que vous désignez comme des cibles tremblent devant les efforts combinés de vous et vos alliés. Si vous infligez des dégâts avec votre Frappe Divine à une créature pendant votre tour, vous pouvez maudire cette créature jusqu'au début de votre prochain tour. La prochaine fois qu'un de vos alliés touche la créature avec une attaque, la cible subit également 2d8 dégâts psychiques, et la malédiction se termine. Vous ne pouvez maudire qu'une seule créature par tour de cette façon.
 
 
 ---
@@ -9727,7 +9727,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de vot
 
 ## Onde de Choc
 
-Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une fois à chacun de vos tours, lorsque vous lancez un sort de clerc de niveau 1 ou plus qui inflige des dégâts de feu, de force, de foudre, radiant ou de tonnerre, vous pouvez émettre une onde de choc qui fait trembler l'environnement autour d'une créature qui prend des dégâts du sort. L'onde de choc est une sphère de 5 ft. centrée sur la créature qui n'inflige des dégâts qu'aux objets qui ne sont pas portés ou maniés. Chaque objet dans la zone prend le double des dégâts que vous avez infligés à la créature, ignorant les seuils de dégâts de l'objet.
+Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une fois à chacun de vos tours, lorsque vous lancez un sort de clerc de niveau 1 ou plus qui inflige des dégâts de feu, de force, de foudre, radiant ou de tonnerre, vous pouvez émettre une onde de choc qui fait trembler l'environnement autour d'une créature qui subit des dégâts du sort. L'onde de choc est une sphère de 5 ft. centrée sur la créature qui n'inflige des dégâts qu'aux objets qui ne sont pas portés ou maniés. Chaque objet dans la zone subit le double des dégâts que vous avez infligés à la créature, ignorant les seuils de dégâts de l'objet.
 
 ## Incantation Puissante
 
@@ -9766,7 +9766,7 @@ Au niveau 1, à chaque fois que vous réalisez un jet de caractéristique qui n'
 
 ## Canal Divin : Folie Temporaire
 
-À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle prend des dégâts.
+À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle subit des dégâts.
 
 | d20 | Effet |
 | :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -9935,7 +9935,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour manier la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis.
 
-Pour une action, vous dressez votre symbole sacré et toute obscurité magique à 30 ft. est dissipée. De plus, toute créature hostile à 30 ft. doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la créature prend 2d10 + votre niveau de clerc dégâts radiants, et la moitié si elle réussit. Une créature qui dispose d'une couverture totale par rapport à vous n'est pas concernée.
+Pour une action, vous dressez votre symbole sacré et toute obscurité magique à 30 ft. est dissipée. De plus, toute créature hostile à 30 ft. doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d10 + votre niveau de clerc dégâts radiants, et la moitié si elle réussit. Une créature qui dispose d'une couverture totale par rapport à vous n'est pas concernée.
 
 ## Lueur Améliorée
 
@@ -10031,7 +10031,7 @@ Pour une action, vous présentez votre symbole sacré et appelez le nom de votre
 
 ## Affaiblissement des Éléments
 
-À partir du niveau 6, lorsque vous ou une créature à 30 ft. prend des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour lui conférer la résistance contre ces dégâts.
+À partir du niveau 6, lorsque vous ou une créature à 30 ft. subit des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour lui conférer la résistance contre ces dégâts.
 
 ## Frappe Divine
 
@@ -10078,7 +10078,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de ma
 
 ## Lien Protecteur
 
-Le lien que vous forgez entre les gens les aide aussi à se protéger. Lorsqu'une créature affectée par votre Lien Encourageant est sur le point de prendre des dégâts, une autre créature liée à 30 ft. peut utiliser sa réaction pour se téléporter vers un espace inoccupé à 5 ft. La seconde créature prend tous les dégâts à la place de la première.
+Le lien que vous forgez entre les gens les aide aussi à se protéger. Lorsqu'une créature affectée par votre Lien Encourageant est sur le point de subir des dégâts, une autre créature liée à 30 ft. peut utiliser sa réaction pour se téléporter vers un espace inoccupé à 5 ft. La seconde créature subit tous les dégâts à la place de la première.
 
 ## Incantation Puissante
 
@@ -10086,7 +10086,7 @@ Le lien que vous forgez entre les gens les aide aussi à se protéger. Lorsqu'un
 
 ## Lien Distant
 
-Les bénéfices de vos liens s'appliquent désormais aux créatures qui sont à 60 ft. l'une de l'autre. De plus, lorsqu'une créature utilise le Lien Protecteur pour prendre les dégâts d'un autre, elle a la résistance à ces dégâts.
+Les bénéfices de vos liens s'appliquent désormais aux créatures qui sont à 60 ft. l'une de l'autre. De plus, lorsqu'une créature utilise le Lien Protecteur pour subir les dégâts d'un autre, elle a la résistance à ces dégâts.
 
 
 ---
@@ -10137,7 +10137,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos ava
 
 À partir du niveau 2, votre Canal Divin est lui-même porteur de la maladie. Vous pouvez utiliser une action pour toucher une créature à portée, qui doit réussir un jet de sauvegarde de Constitution ou souffrir d'une des maladies suivantes pendant 1 minute. Puisque cette capacité cause une maladie naturelle à la cible, tout effet qui guérit ou améliore une maladie s'applique.
 
-**Sursang.** Lorsque la créature prend des dégâts contondants, perçants ou tranchants, elle perd 1d6 points de vie supplémentaires.
+**Sursang.** Lorsque la créature subit des dégâts contondants, perçants ou tranchants, elle perd 1d6 points de vie supplémentaires.
 
 **Articulation Bloquée.** Les jambes de la créature raidissent et sa vitesse diminue. La créature peut se déplacer à une vitesse maximum de 15 ft. ou la moitié de sa vitesse, lequel est le plus bas, pendant son tour.
 
@@ -10229,7 +10229,7 @@ Vous pouvez utiliser ce Canal Divin une fois, et vous regagnez la capacité de l
 
 ## Pot-de-vin
 
-Lorsque vous atteignez le niveau 6, vous pouvez utiliser votre compréhension divine afin de déterminer comment corrompre n'importe quelle créature. Pour une action, vous pouvez choisir une créature hostile que vous pouvez voir. Elle doit réussir un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts, ou vous pouvez la corrompre avec des biens de luxe ou simplement un sac d'or, qui se téléporte en sa possession. Le pot-de-vin coûte un montant d'or égal à moitié des PX de la créature et, lorsqu'il est fourni, la créature ne peut plus être hostile à votre égard ou à celui de vos alliés pendant 24 heures. L'effet se termine prématurément si la créature prend des dégâts de vous ou vos alliés. Vous ne pouvez pas corrompre une créature avec une Intelligence de 3 ou moins, ou toute créature que le MJ pense inappropriée.
+Lorsque vous atteignez le niveau 6, vous pouvez utiliser votre compréhension divine afin de déterminer comment corrompre n'importe quelle créature. Pour une action, vous pouvez choisir une créature hostile que vous pouvez voir. Elle doit réussir un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts, ou vous pouvez la corrompre avec des biens de luxe ou simplement un sac d'or, qui se téléporte en sa possession. Le pot-de-vin coûte un montant d'or égal à moitié des PX de la créature et, lorsqu'il est fourni, la créature ne peut plus être hostile à votre égard ou à celui de vos alliés pendant 24 heures. L'effet se termine prématurément si la créature subit des dégâts de vous ou vos alliés. Vous ne pouvez pas corrompre une créature avec une Intelligence de 3 ou moins, ou toute créature que le MJ pense inappropriée.
 
 ## Incantation Puissante
 
@@ -10288,7 +10288,6 @@ Vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. U
 ## Né des Tempêtes
 
 Au niveau 17, vous avez une vitesse de vol égale à votre vitesse de marche tant que vous n'êtes pas sous terre ou à l'extérieur.
-
 
 ---
 
@@ -10449,7 +10448,7 @@ Les herbalistes ont depuis longtemps concoctés thés et autres remèdes pour ap
 
 ## Incantation Subite
 
-Grâce à la magie du café qui parcourt vos nerfs, vous vous sentez capable d'exécuter certaines actions plus rapidement qu'à l'accoutumée. À partir du moment où vous choisissez ce domaine au niveau 1, lorsque vous lancez un sort qui a un temps d'incantation d'une action, vous pouvez changer ce temps d'incantation à une action bonus pour cette incantation. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
+Grâce à subit agie du café qui parcourt vos nerfs, vous vous sentez capable d'exécuter certaines actions plus rapidement qu'à l'accoutumée. À partir du moment où vous choisissez ce domaine au niveau 1, lorsque vous lancez un sort qui a un temps d'incantation d'une action, vous pouvez changer ce temps d'incantation à une action bonus pour cette incantation. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.
 
 ## Insomniaque
 
@@ -10593,7 +10592,7 @@ Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du
 
 ## Grand Voyageur
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quatre armes à distance ou avec la propriété _finesse_. De plus, vous apprenez deux langues de votre choix.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quatre armes à distance ou avec la propriété *finesse*. De plus, vous apprenez deux langues de votre choix.
 
 ## Balade
 
@@ -10660,7 +10659,7 @@ Les druides du Cercle de la Vermine, parfois appelés seigneurs des vermines, pu
 
 L'essaim invoqué est amical envers vous et vos compagnons. Tirez l'initiative pour l'essaim invoqué, qui joue à son propre tour. Il obéit à tous les ordres verbaux que vous lui donnez (aucune action requise par vous). Si vous ne lui donnez aucun ordre, il se défend contre les créatures hostiles et ne prend aucune autre action.
 
-Tant que l'essaim se trouve sur votre emplacement, vous avez un bonus de +2 à la CA et, lorsque vous prenez des dégâts, vous pouvez choisir que l'essaim les prenne à votre place.
+Tant que l'essaim se trouve sur votre emplacement, vous avez un bonus de +2 à la CA et, lorsque vous subissez des dégâts, vous pouvez choisir que l'essaim les prenne à votre place.
 
 À partir du niveau 6, vous pouvez invoquer un essaim de chauve-souris, d'insectes ou de corbeaux plutôt que de rats, et au niveau 14, vous pouvez aussi choisir d'invoquer un essaim de serpents venimeux.
 ## Infesté
@@ -10674,7 +10673,7 @@ Au niveau 6, les vibrations dans le sol, et par extension par vous, résonnent �
 
 À partir du niveau 10, votre proximité constante avec des créatures porteuses de maladies ne vous a pas seulement inoculé nombre de maladies, mais a aussi fait de vous un vecteur de peste. Vous êtes immunisé aux maladies et à la condition [[empoisonné]]. Lorsque vous devriez réaliser un jet de sauvegarde de Constitution pour éviter de contracter une maladie ou d'être [[empoisonné]], vous pouvez plutôt devenir porteur de cette maladie ou de ce poison. Vous ne pouvez être porteur que d'une maladie ou d'un poison à la fois, et vous ne pouvez le ou la porter que 7 jours.
 
-Pour une réaction lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez transférer la maladie ou le poison que vous portez à la créature, qui doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort. Si elle échoue, la créature contracte la maladie ou le poison et vous n'en êtes plus le porteur.
+Pour une réaction lorsque vous subissez des dégâts d'une subissez des dégâtspouvez voir à 5 ft., vous pouvez transférer la maladie ou le poison que vous portez à la créature, qui doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort. Si elle échoue, la créature contracte la maladie ou le poison et vous n'en êtes plus le porteur.
 
 ## Maître des Essaims
 
@@ -10721,7 +10720,7 @@ Cette aptitude persiste pendant 1 minute. Après ce temps, tous les composants e
 
 ## Souffle de Smog
 
-À partir du niveau 10, vous pouvez expirer une sphère de 10 ft. de fumée toxique, centrée sur vous-même, comme réaction lorsque vous prenez des dégâts. Cette zone est fortement obscurée. Si une créature autre que vous se trouve complètement dans le smog au début de son tour, elle doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou être [[empoisonné|empoisonnée]] jusqu'au début de son prochain tour, toussant sans relâche.
+À partir du niveau 10, vous pouvez expirer une sphère de 10 ft. de fumée toxique, centrée sur vous-même, comme réaction lorsque vous subissez des dégâts. Cette zone est fo subissez des dégâtsSi une créature autre que vous se trouve complètement dans le smog au début de son tour, elle doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de sort ou être [[empoisonné|empoisonnée]] jusqu'au début de son prochain tour, toussant sans relâche.
 
 Le smog disparaît après 1 minute. Un vent modéré (au moins 15 km/h) disperse le nuage après 4 tours. Un vent fort (au moins 30 km/h) le disperse après 1 tour.
 
@@ -11139,7 +11138,7 @@ Au niveau 14, vous pouvez utiliser votre action bonus et dépenser 1 ou plus poi
 
 ## Esprit Gardien
 
-Au niveau 18, le lien que forme votre esprit avec vous est suffisant pour vous protéger des dangers. Lorsque vous prenez des dégâts, votre esprit peut utiliser sa réaction pour prévenir la moitié de ses dégâts en en subissant lui-même la moitié.
+Au niveau 18, le lien que forme votre esprit avec vous est suffisant pour vous protéger des dangers. Lorsque vous subissez des dégâts, votre esprit peut utiliser sa réaction pour prévenir la moitié de ses dégâts en en subissant lui-même la moitié.
 
 ---
 
@@ -11173,7 +11172,7 @@ Lorsque vous apprenez des sorts d'ensorceleur de niveau 2 ou plus, vous lancez 1
 
 ## Membres Loufoques
 
-Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos bras et vos jambes bien au-delà de leur longueur habituelle, vous permettant d'interagir avec des objets distants ou des créatures ainsi que de lancer des sorts avec la portée `Touché` sur une portée de 10 ft. De plus, vos attaques de mêlée ont la propriété [[Propriétés d'Arme#Portée|Portée]] et vous pouvez ignorer la propriété [[Propriétés d'Arme#Lourd|Lourd]] des armes.
+Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos bras et vos jambes bien au-delà de leur longueur habituelle, vous permettant d'interagir avec des objets distants ou des créatures ainsi que de lancer des sorts avec la portée Contact sur une portée de 10 ft. De plus, vos attaques de mêlée ont la propriété [[Propriétés d'Arme#Portée|Portée]] et vous pouvez ignorer la propriété [[Propriétés d'Arme#Lourd|Lourd]] des armes.
 
 ## Timing Comique
 
@@ -11242,7 +11241,7 @@ Vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux
 
 ## Réformation
 
-À partir du moment où vous choisissez cette origine au niveau 1, votre chair vaguement gélatineuse peut se réparer lorsque vous êtes blessé. Lorsque vous prenez des dégâts contondants, perçants ou tranchants d'une attaque non magique et que vous ne tombez pas à 0 point de vie, vous pouvez utiliser votre réaction pour regagner immédiatement 1d4 points de vie, jusqu'à un montant maximum égal aux dégâts subis. 
+À partir du moment où vous choisissez cette origine au niveau 1, votre chair vaguement gélatineuse peut se réparer lorsque vous êtes blessé. Lorsque vous subissez des dégâts contondants, perçants ou tranchants d'une attaque non magique et que vous ne tombez pas à 0 point de vie, vous pouvez utiliser votre réaction pour regagner immédiatement 1d4 points de vie, jusqu'à un montant maximum égal aux dégâts subis.
 
 Ce soin augmente de 1d4 lorsque vous atteignez les niveaux 5 (2d4), 11 (3d4) et 17 (4d4).
 
@@ -11717,7 +11716,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Évasion
 
-Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Meurtrier
 
@@ -11739,7 +11738,7 @@ Au niveau 18, vous êtes imperturbable. Vous avez l'avantage aux jets de Constit
 
 ## Tir dans la Tête
 
-Au niveau 20, lorsque vous infligez un coup critique contre une créature avec une arme à feu, vous pouvez choisir de faire de ce tir un tir dans la tête. Si la créature a moins de 100 points de vie, elle meurt. Sinon, elle prend 10d10 dégâts supplémentaires. Les Élémentaires, Vases et Morts-Vivants ainsi que les créatures qui n'ont pas de système nerveux ou d'organes vitaux ne prennent pas de dégâts supplémentaires de cette aptitude.
+Au niveau 20, lorsque vous infligez un coup critique contre une créature avec une arme à feu, vous pouvez choisir de faire de ce tir un tir dans la tête. Si la créature a moins de 100 points de vie, elle meurt. Sinon, elle subit 10d10 dégâts supplémentaires. Les Élémentaires, Vases et Morts-Vivants ainsi que les créatures qui n'ont pas de système nerveux ou d'organes vitaux ne prennent pas de dégâts supplémentaires de cette aptitude.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
@@ -11818,11 +11817,11 @@ De plus, lorsque vous réalisez une attaque armée à distance avec une arme à 
 
 ## Attrape-Balle
 
-Également au niveau 7, vous pouvez utiliser votre réaction pour dévier ou attraper le projectile lorsque vous êtes touché par une attaque armée à distance. Lorsque vous le faites, les dégâts que vous prenez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre bonus de maîtrise.
+Également au niveau 7, vous pouvez utiliser votre réaction pour dévier ou attraper le projectile lorsque vous êtes touché par une attaque armée à distance. Lorsque vous le faites, les dégâts que vous subissez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre bonus de maîtrise.
 
 ## Esquive Prédictive
 
-Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles à venir. Vous pouvez utiliser votre action bonus pour choisir une créature que vous pouvez voir à 30 ft. Vous bénéficiez des effets de l'action Esquive contre les attaques à distance et effets de cette cible jusqu'au début de votre prochain tour. Vous perdez cet effet si vous prenez des dégâts de la cible.
+Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles à venir. Vous pouvez utiliser votre action bonus pour choisir une créature que vous pouvez voir à 30 ft. Vous bénéficiez des effets de l'action Esquive contre les attaques à distance et effets de cette cible jusqu'au début de votre prochain tour. Vous perdez cet effet si vous subissez des dégâts de la cible.
 
 ## Coup Mitrailleurs
 
@@ -11892,7 +11891,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser à
 
 ## Vengeance Rapide
 
-Au niveau 14, comme réaction lorsque vous prenez des dégâts d'une créature à 15 ft. de vous, vous pouvez effectuer une attaque d'arme à feu contre cette créature.
+Au niveau 14, comme réaction lorsque vous subissez des dégâts d'une créature à 15 ft. de vous, vous pouvez effectuer une attaque d'arme à feu contre cette créature.
 
 
 ---
@@ -12064,17 +12063,17 @@ Au niveau 3, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du G
 
 ## Vent du Nord
 
-À partir du niveau 6, vous pouvez souffler une bourrasque de véritable Vent du Nord, un courant glaçant qui affecte une ligne longue de 100 ft. et large de 5 ft. dans la direction de votre choix. Chaque créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 4d6 dégâts de froid et voit sa vitesse réduite de moitié jusqu'à la fin de son prochain tour. En cas de réussite, la créature prend la moitié des dégâts et sa vitesse n'est pas réduite.
+À partir du niveau 6, vous pouvez souffler une bourrasque de véritable Vent du Nord, un courant glaçant qui affecte une ligne longue de 100 ft. et large de 5 ft. dans la direction de votre choix. Chaque créature dans la ligne doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de froid et voit sa vitesse réduite de moitié jusqu'à la fin de son prochain tour. En cas de réussite, la créature subit la moitié des dégâts et sa vitesse n'est pas réduite.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Forme de l'Ancien Givre
 
-Au niveau 20, vous pouvez utiliser votre action pour vous transformer en une créature d'un froid profond, une sentinelle de l'ancien givre. Pendant une minute, vous êtes entouré d'un vortex d'énergie frigide d'un rayon de 15 ft. qui éteint toutes les flammes non magiques dans la zone. Cette zone est du terrain difficile. Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle prend 8d6 dégâts de froid. Vous pouvez choisir des créatures qui seront immunisées contre la zone.
+Au niveau 20, vous pouvez utiliser votre action pour vous transformer en une créature d'un froid profond, une sentinelle de l'ancien givre. Pendant une minute, vous êtes entouré d'un vortex d'énergie frigide d'un rayon de 15 ft. qui éteint toutes les flammes non magiques dans la zone. Cette zone est du terrain difficile. Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle subit 8d6 dégâts de froid. Vous pouvez choisir des créatures qui seront immunisées contre la zone.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
@@ -12131,7 +12130,7 @@ Au niveau 3, votre marque laisse une ombre mortelle sur votre cible, la prédest
 Au niveau 6, vous êtes amical même envers les morts-vivants incapable de réflexion. Lorsqu'une créature morte-vivante vous attaque, elle doit d'abord réussir un jet de sauvegarde de Sagesse (DD à 8 + bonus de maîtrise + modificateur de Charisme). Si elle rate, son attaque rate et, si son Intelligence est de 4 ou moins, elle devient amicale envers vous et vos alliés pour 1 minute.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Maître des Tombes
 
@@ -12167,7 +12166,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Montagne Immortelle
 
@@ -12211,7 +12210,7 @@ Au niveau 6, vous êtes capable de chasser comme un animal. Une créature que vo
 
 ## Évasion
 
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Forme de la Bête Primaire
 
@@ -12321,7 +12320,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Gardien Alternatif (Opt.)
 
-Le rôle unique de _tank_ du gardien est basé principalement sur ses trois premières aptitudes : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois aptitudes définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
+Le rôle unique de *tank* du gardien est basé principalement sur ses trois premières aptitudes : [[#Saisie du Gardien]], [[#Marque du Gardien]] et [[#Résolution du Gardien]]. Ces trois aptitudes définissent le style unique du gardien, mais il n'y a pas de raisons pour que ce soit le seul style existant. 
 
 Au niveau 1, vous pouvez choisir l'une des [[#versions alternatives]] pour votre gardien. Si vous le faites, vous utilisez les trois aptitudes de la variantes à la place de la saisie, de la marque et de la résolution. Si d'autres aptitudes réfèrent directement celles-ci, vous utilisez les aptitudes remplaçantes à la place, de façon adéquate et en accord avec le MJ.
 
@@ -12479,21 +12478,21 @@ De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse.
 Les champions sont des guerriers toujours à la recherche d'un adversaire à leur hauteur. Pour ce faire, ils défient pratiquement tout le monde en duel, mettant de côté les affaires courantes pour montrer leur résilience et leurs compétences avec l'épée.
 
 ### Challenge du Champion
-_Remplace la Saisie du Gardien_
+*Remplace la Saisie du Gardien*
 
 Au niveau 1, pour une action bonus, vous pouvez émettre un challenge à chaque créature à 5 ft. de vous. Seules les créatures hostiles de taille G ou moins qui ont au minimum 5 d'Intelligence peuvent relever ce challenge. Pendant son prochain tour, une créature ayant relevé ce challenge doit réaliser une attaque contre vous si elle réalise une attaque pendant son tour et que vous êtes à portée.
 
 Au niveau 14, la portée de ce challenge s'étend à 10 ft.
 
 ### Marque du Champion
-_Remplace la Marque du Gardien_
+*Remplace la Marque du Gardien*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 15 ft. Vous avez un bonus de +2 à la CA contre les attaques de la créature marquée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Vigueur du Champion
-_Remplace la Résolution du Gardien_
+*Remplace la Résolution du Gardien*
 
 À partir du niveau 3, les dégâts contondants, perçants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
 
@@ -12504,12 +12503,12 @@ _Remplace la Résolution du Gardien_
 Les gardiens en chasse pratiquent une forme agressive de défense : les ennemis morts, après tout, ne peuvent pas blesser vos alliés. 
 
 ### Saisie du Chasseur
-_Remplace la Saisie du Gardien_
+*Remplace la Saisie du Gardien*
 
 Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-corps et les punir lorsqu'ils tentent de s'enfuir. Jusqu'au début de votre prochain tour, les créatures à 5 ft. de vous provoquent des attaques d'opportunité lorsqu'elles quittent votre portée, même si elles ont utilisé leur action pour se Désengager.
 
 ### Marque du Chasseur
-_Remplace la Marque du Gardien_
+*Remplace la Marque du Gardien*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
@@ -12518,32 +12517,32 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 Cette aptitude ne se cumule pas avec le sort [[marque du chasseur]].
 
 ### Résistance du Chasseur
-_Remplace la Résolution du Gardien_
+*Remplace la Résolution du Gardien*
 
-À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous prenez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
+À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous subissez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir la résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
 
 ## Gardien Anthropophage
 
 Rapides, sans pitié et parfois cannibale, les gardiens prétendument anthropophages préfèrent virevolter autour de leur proie, en arrachant des morceaux avec leurs frappes rapides.
 
 ### Hurlement du Mangeur d'Hommes
-_Remplace la [[#Saisie du Gardien]]_
+*Remplace la [[#Saisie du Gardien]]*
 
 Au niveau 1, pour une action bonus, vous pouvez lâcher un hurlement tonitruant à en glacer le sang. Chaque créature de taille G ou inférieure que vous choisissez à 5 ft. est repoussée de 5 ft. à l'opposé de vous.
 
 Au niveau 14, cette aptitude affecte les créatures à 10 ft. de vous et vous les repoussez de 10 ft.
 
 ### Marque du Mangeur d'Hommes
-_Remplace la [[#Marque du Gardien]]_
+*Remplace la [[#Marque du Gardien]]*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Soif de Sang du Mangeur d'Hommes
-_Remplace la [[#Résolution du Gardien]]_
+*Remplace la [[#Résolution du Gardien]]*
 
-Vous avez un réservoir de dégâts temporaires. Lorsque vous prenez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
+Vous avez un réservoir de dégâts temporaires. Lorsque vous subissez des dégâts, ils sont ajoutés à ce réservoir plutôt que d'être soustraits de votre total de points de vie. Lorsque vous regagnez des points de vie, vous pouvez choisir de diviser ces soins entre vos points de vie et ce réservoir. À la fin de votre tour, le total du réservoir est déduit de vos points de vie et il est réinitialisé à 0.
 
 Lorsque vous infligez des dégâts avec une attaque armée de mêlée à une créature que vous avez marquée, vous pouvez réduire votre réservoir de dégâts temporaires de la moitié des dégâts infligés (arrondi à l'inférieur), jusqu'à un minimum de 1.
 
@@ -12554,21 +12553,21 @@ Lorsque vous infligez des dégâts avec une attaque armée de mêlée à une cr�
 Les templiers et les paladins exilés sont les plus enclins à saisir le manteau de parangon, canalisant le pouvoir divin et endurant la dureté des coups des ennemis pour épargner les autres.
 
 ### Sauvetage du Parangon
-_Remplace la [[#Saisie du Gardien]]_
+*Remplace la [[#Saisie du Gardien]]*
 
 Au niveau 1, pour une action bonus, vous donnez à vos alliés un répit au milieu du combat. Chaque créature amicale que vous choisissez à 5 ft. de vous peut immédiatement se déplacer de 10 ft. sans déclencher d'attaque d'opportunité.
 
 Au niveau 14, cette aptitude affecte les créatures amicales à 10 ft. de vous et leur permet de se déplacer de 15 ft. sans déclencher d'attaque d'opportunité.
 
 ### Marques Jumelles du Parangon
-_Remplace la [[#Marque du Gardien]]_
+*Remplace la [[#Marque du Gardien]]*
 
-Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection prend des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
+Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection subit des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en prenez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
 
 ### Font du Parangon
-_Remplace la [[#Résolution du Gardien]]_
+*Remplace la [[#Résolution du Gardien]]*
 
 À partir du niveau 3, vous disposez d'un réservoir de pouvoir de soin qui se remplit lorsque vous prenez un repos long. Avec ce réservoir, vous pouvez restaurer un nombre de points de vie égal à 5 fois votre niveau de gardien. Pour une action, vous pouvez consommer un nombre de points de vie de votre réservoir pour en regagner le même nombre, jusqu'au maximum restant dans votre réservoir.
 
@@ -12579,21 +12578,21 @@ _Remplace la [[#Résolution du Gardien]]_
 Les gardiens crépusculaires sont touchés par des ténèbres primordiales qui se terrent dans les coins de ce monde sans jamais être touchées par le soleil. De tels gardiens canalisent cette obscurité plutôt que le pouvoir né du monde naturel pour se protéger eux-mêmes et envelopper leurs ennemis.
 
 ### Ombres Saisissantes
-_Remplace la [[#Saisie du Gardien]]_
+*Remplace la [[#Saisie du Gardien]]*
 
 Au niveau 1, pour une action bonus, vous pouvez invoquer l'ombre des damnés, créant un nuage de 10 ft. de rayon centré sur vous. La sphère est fortement obscurée depuis l'extérieur. De l'intérieur, cependant, la sphère est de luminosité normale et l'extérieur semble être fortement obscuré. Des mains ombreuses s'étendent des frontières de la sphère et s'accrochent à tous ceux à l'intérieur. Vous et toutes les créatures que vous choisissez de taille G ou moins ne pouvez quitter la sphère sans d'abord utiliser une action pour se Désengager. Les ombres se dispersent au début de votre prochain tour.
 
 Au niveau 14, lorsque vous créez la sphère, vous pouvez choisir d'étendre son rayon à 15 ft.
 
 ### Marque des Ombres
-_Remplace la [[#Marque du Gardien]]_
+*Remplace la [[#Marque du Gardien]]*
 
 Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Si la créature est de taille G ou inférieure, vous pouvez l'attirer de 5 ft. vers vous en utilisant de sombres tentacules d'ombre. À chaque fois que la créature marquée s'éloigne volontairement de vous, elle traite la zone dans laquelle elle se déplace comme du terrain difficile. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
 ### Forme d'Ombre
-_Remplace la [[#Résolution du Gardien]]_
+*Remplace la [[#Résolution du Gardien]]*
 
 À partir du niveau 3, lorsqu'il vous reste moins de la moitié de vos points de vie, vous disparaissez en un flou de ténèbres fluctuantes, imposant un désavantage à tout jet d'attaque de mêlée contre vous. Un attaquant ne subit pas ce désavantage s'il ne se base pas sur la vue, par exemple avec la vision aveugle ou s'il peut voir à travers les illusions, par exemple avec la vision véritable.
 
@@ -12614,7 +12613,7 @@ Certains gardiens entendent un appel de flammes et de cris tourmentés venant di
 
 ## Saisie Infernale
 
-Au niveau 3, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du Gardien]], chaque créature affectée prend 1d6 dégâts de feu. Au niveau 14, ces dégâts passent à 2d6.
+Au niveau 3, lorsque vous utilisez votre [[Gardien#Saisie du Gardien|Saisie du Gardien]], chaque créature affectée subit 1d6 dégâts de feu. Au niveau 14, ces dégâts passent à 2d6.
 
 ## Résilience Cruelle
 
@@ -12622,10 +12621,10 @@ Au niveau 6, votre chair noircit et se durcit pour ressembler à celle d'un fié
 
 ## Marque Malveillante
 
-Au niveau 6, lorsque vous marquez une créature avec la [[Gardien#Marque du Gardien|Marque du Gardien]], la cible prend 1d6 dégâts de feu. Au niveau 11, ces dégâts passent à 2d6.
+Au niveau 6, lorsque vous marquez une créature avec la [[Gardien#Marque du Gardien|Marque du Gardien]], la cible subit 1d6 dégâts de feu. Au niveau 11, ces dégâts passent à 2d6.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Volonté d'Enfer
 
@@ -12658,7 +12657,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Manteau Sacré
 
@@ -12682,7 +12681,7 @@ Traverser un pont féerique pour rejoindre la Féerie enchantée peut s'avérer 
 
 ## Balade Brumeuse
 
-Au niveau 6, votre connexion avec la Féerie vous permet de _clignoter_ de lieu en lieu. Vous pouvez dépenser la totalité de votre mouvement pour vous téléporter de la moitié de celui-ci.
+Au niveau 6, votre connexion avec la Féerie vous permet de *clignoter* de lieu en lieu. Vous pouvez dépenser la totalité de votre mouvement pour vous téléporter de la moitié de celui-ci.
 
 ## Résistance aux Sorts
 
@@ -12720,7 +12719,7 @@ Au niveau 6, vous pouvez lancer le sort [[injonction]] une fois sans utiliser d'
 
 ## Esprit Mécanique
 
-À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur prend 4d6 dégâts psychiques.
+À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur subit 4d6 dégâts psychiques.
 
 ## Axiome Universel
 
@@ -12753,7 +12752,7 @@ Au niveau 6, vous maitrisez la compétence Discrétion. De plus, vous pouvez uti
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Forme de la Sentinelle de Chêne
 
@@ -12784,11 +12783,11 @@ Maître et champion de la vermine, vous avez été appelé pour défendre les pl
 Au niveau 6, des insectes et des rongeurs vivent dans les moindres recoins de vos vêtements et votre équipement. Lorsqu'une créature à 5 ft. de vous vous touche avec une attaque, la vermine répond et inflige 1d6 dégâts perçants à l'attaquant. De plus, à chaque attaque suivante que la créature réalise avant la fin de son tour, elle doit retirer 1d4 du jet d'attaque.
 
 ## Évasion
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Seigneur des Mouches
 
-Au niveau 20, vous pouvez utiliser votre action pour appeler et former un colossal essaim d'insectes volants et de rongeurs déchaînés qui vous enveloppe comme un nuage. Pendant la prochaine minute, une sphère d'un rayon de 10 ft. de vermine est centrée autour de vous. La zone est fortement obscurée. Chaque créature que vous choisissez dans la sphère a le désavantage à ses jets d'attaque et de caractéristique et prend 6d4 dégâts perçants lorsqu'elle entre dans la zone pour la première fois pendant un tour ou qu'elle y commence son tour. 
+Au niveau 20, vous pouvez utiliser votre action pour appeler et former un colossal essaim d'insectes volants et de rongeurs déchaînés qui vous enveloppe comme un nuage. Pendant la prochaine minute, une sphère d'un rayon de 10 ft. de vermine est centrée autour de vous. La zone est fortement obscurée. Chaque créature que vous choisissez dans la sphère a le désavantage à ses jets d'attaque et de caractéristique et subit 6d4 dégâts perçants lorsqu'elle entre dans la zone pour la première fois pendant un tour ou qu'elle y commence son tour. 
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos long.
 
@@ -12805,11 +12804,11 @@ Vous avez entendu l'appel des parchemins en décomposition et des artefacts ant�
 
 À partir du moment où vous entendez cet appel au niveau 3, vous avez appris à appliquer votre connaissance archivistique à l'incantation.
 
-__Cantrips.__ Vous apprenez deux cantrips de votre choix de la liste de sort du magicien. Vous apprenez un cantrip de magicien supplémentaire lorsque vous atteignez le niveau 10.
+**Cantrips.** Vous apprenez deux cantrips de votre choix de la liste de sort du magicien. Vous apprenez un cantrip de magicien supplémentaire lorsque vous atteignez le niveau 10.
 
-__Emplacements de Sort.__ La table d'[[#Incantation du Scriptor]] indique combien d'emplacement de sort vous possédez pour lancer vos sorts de magicien de niveau 1 et plus. Pour lancer un de ces sorts, vous devez dépenser un emplacement de sort de son niveau ou d'un niveau supérieur. Vous regagnez vos emplacements de sort dépensés lorsque vous terminez un repos long.
+**Emplacements de Sort.** La table d'[[#Incantation du Scriptor]] indique combien d'emplacement de sort vous possédez pour lancer vos sorts de magicien de niveau 1 et plus. Pour lancer un de ces sorts, vous devez dépenser un emplacement de sort de son niveau ou d'un niveau supérieur. Vous regagnez vos emplacements de sort dépensés lorsque vous terminez un repos long.
 
-__Sorts Connus de Niveau 1 et Supérieur.__ Vous connaissez trois sorts de magicien de niveau 1 de votre choix, parmi lesquels deux doivent être choisis de l'école de l'abjuration ou de celle de l'évocation.
+**Sorts Connus de Niveau 1 et Supérieur.** Vous connaissez trois sorts de magicien de niveau 1 de votre choix, parmi lesquels deux doivent être choisis de l'école de l'abjuration ou de celle de l'évocation.
 
 La colonne Sorts Connus de la table d'[[#Incantation du Scriptor]] vous indique quand est-ce que vous apprenez d'autres sorts de magicien. Chacun de ces sorts doit être un sort d'abjuration ou d'évocation de votre choix et doit être d'un niveau pour lequel vous avez des emplacements de sort.
 
@@ -12817,7 +12816,7 @@ Les sorts que vous apprenez aux niveaux 8, 14 et 20 peuvent être de n'importe q
 
 Lorsque vous obtenez un niveau dans cette classe, vous pouvez remplacer l'un de vos sorts de magicien avec un autre de votre choix parmi la liste de sorts du magicien. Ce nouveau sort doit être d'un niveau pour lequel vous avez des emplacements de sorts, et il doit être de l'école de l'abjuration ou de l'évocation, sauf si vous remplacez un sort gagné aux niveaux 3, 8, 14 ou 20 qui est d'une autre école.
 
-__Caractéristique d'Incantation.__ L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, puisque vous apprenez vos sorts par la recherche et la déduction. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD de sauvegarde des sorts de magicien que vous lancez ainsi que lorsque vous réalisez un jet d'attaque avec l'un d'entre eux.
+**Caractéristique d'Incantation.** L'intelligence est votre caractéristique d'incantation pour vos sorts de magicien, puisque vous apprenez vos sorts par la recherche et la déduction. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence pour déterminer le DD de sauvegarde des sorts de magicien que vous lancez ainsi que lorsque vous réalisez un jet d'attaque avec l'un d'entre eux.
 
 
 <p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
@@ -12887,7 +12886,7 @@ Depuis le bout de vos doigts, vous pouvez utiliser la fulgurance de la foudre et
 
 ## Coup de Tonnerre
 
-Au niveau 3, lorsque vous touchez une créature que vous avez marquée avec une attaque armée de mêlée, chaque créature que vous choisissez à 5 ft. de la cible prend 1d8 dégâts de foudre.
+Au niveau 3, lorsque vous touchez une créature que vous avez marquée avec une attaque armée de mêlée, chaque créature que vous choisissez à 5 ft. de la cible subit 1d8 dégâts de foudre.
 
 ## Décharge Statique
 
@@ -12895,7 +12894,7 @@ Au niveau 3, lorsque vous touchez une créature que vous avez marquée avec une 
 
 ## Évasion 
 
-Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Maître des Tempêtes
 
@@ -12949,7 +12948,7 @@ Au niveau 6, votre expérience dans les fortifications et autres blocages vous o
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui devraient vous blesser. Lorsque vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet, et la moitié si vous ratez.
 
 ## Sentinelle Invincible
 
@@ -13042,7 +13041,7 @@ Au niveau 20, pour une action, vous pouvez abandonner votre forme mortelle un co
 
  - Pour une action bonus, vous pouvez devenir éthéré, comme d'après le sort [[Forme Éthérée]].
  - Vous pouvez utiliser votre action bonus pour revenir de cette forme éthérée lorsque vous utilisez vos aptitudes [[Gardien#Marque du Gardien|Marque du Gardien]] ou [[Gardien#Saisie du Gardien|Saisie du Gardien]]. Vous pouvez utiliser votre action bonus pour revenir de cette forme lorsque vous lancez un sort pendant votre tour.
- - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. prend 4d6 dégâts de force, se sentant attiré par les deux plans.
+ - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. subit 4d6 dégâts de force, se sentant attiré par les deux plans.
  - Vous pouvez lancer les sorts de druides que vous connaissez de niveau 1 et 2 sans dépenser d'emplacements de sorts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.
@@ -13139,7 +13138,7 @@ Beaucoup de guerriers s'imaginent que le rituel de médullerie n'est qu'une simp
 
 À partir du moment où vous choisissez cet archétype au niveau 3, vous pouvez vous faire pousser des plaques osseuses sur la peau. Tant que vous ne portez pas d'armure, cette armure naturelle vous prodigue une CA de base de 17 (votre modificateur de Dextérité n'affecte pas ce nombre). Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous confère une CA inférieure. Les bénéfices d'un bouclier s'appliquent normalement lorsque vous utilisez votre armure naturelle.
 
-De plus, lorsque vous prenez des dégâts contondants, perçants ou tranchants, vous pouvez utiliser votre réaction pour vous protéger du coup. Dépensez un Dé de Vie, lancez-le et réduisez les dégâts subis par le résultat obtenu.
+De plus, lorsque vous subissez des dégâts contondants, perçants ou tranchants, vous pouvez utiliser votre réaction pour vous protéger du coup. Dépensez un Dé de Vie, lancez-le et réduisez les dégâts subis par le résultat obtenu.
 
 | Niveau de Guerrier | Classe d'Armure |
 | ------------------ | --------------- |
@@ -13320,11 +13319,11 @@ Au niveau 7, vous avez un sixième sens pour les dangers uniques présents dans 
 
 ## Prévention de Létalité
 
-Au niveau 15, vous êtes parmi les meilleurs experts en ce qui concerne l'évitement de la mort. Lorsque vous devriez prendre plus de 50 dégâts en un tour, mais que les dégâts ne vous tuent pas sur le coup, vous ne prenez que 50 dégâts.
+Au niveau 15, vous êtes parmi les meilleurs experts en ce qui concerne l'évitement de la mort. Lorsque vous devriez subir plus de 50 dégâts en un tour, mais que les dégâts ne vous tuent pas sur le coup, vous ne prenez que 50 dégâts.
 
 ## Évitement 
 
-À partir du niveau 18, lorsque vous êtes sujet à un effet qui vous permet de réaliser un jet de Force, Dextérité ou Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégâts en cas de réussite, et la moitié en cas d'échec.
+À partir du niveau 18, lorsque vous êtes sujet à un effet qui vous permet de réaliser un jet de Force, Dextérité ou Constitution pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégâts en cas de réussite, et la moitié en cas d'échec.
 
 ---
 
@@ -13485,7 +13484,7 @@ Cet objet magique vous est toujours lié et ne compte pas dans le nombre d'objet
 
 *2 charges :* pour une réaction lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez tomber à 1 point de vie à la place.
 
-*3 charges :* réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 5d6 dégâts nécrotiques et vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés.
+*3 charges :* réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 5d6 dégâts nécrotiques et vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés.
 
 
 ---
@@ -13614,7 +13613,7 @@ Infiltration, déguisement et mensonge tel un arracheur de dents, voilà les pri
 
 Au niveau 3, vous possédez un certain nombre de babioles qui assistent votre espionnage. Vous pouvez utiliser les babioles suivantes : 
 
-**Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous prenez des dégâts.
+**Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous subissez des dégâtst.
 
 **Lunettes à Montures en Corne.** Pour une action bonus, vous pouvez lancer le sort [[Déguisement]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
@@ -13715,7 +13714,7 @@ Au niveau 6, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Excommunication
 
-Au niveau 14, pour une action, vous pouvez marquer une créature que vous pouvez voir à 60 ft. d'un symbole de condamnation religieuse. La cible doit réussir un jet de sauvegarde de Constitution ou Sagesse (votre choix) ou être marqué pendant 1 minute. Tant qu'elle est marquée, la créature ne peut regagner de points de vie ou avoir l'avantage à n'importe quel jet d'attaque ou jet de caractéristique. De plus, lorsque la créature utilise une action, elle prend 2d6 dégâts radiants alors que la marque se met à briller.
+Au niveau 14, pour une action, vous pouvez marquer une créature que vous pouvez voir à 60 ft. d'un symbole de condamnation religieuse. La cible doit réussir un jet de sauvegarde de Constitution ou Sagesse (votre choix) ou être marqué pendant 1 minute. Tant qu'elle est marquée, la créature ne peut regagner de points de vie ou avoir l'avantage à n'importe quel jet d'attaque ou jet de caractéristique. De plus, lorsque la créature utilise une action, elle subit 2d6 dégâts radiants alors que la marque se met à briller.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser avant d'avoir terminé un repos.
 
@@ -13884,7 +13883,7 @@ De plus, l'attaque, ainsi que les autres attaques réalisées contre cette cible
 
 Au niveau 7, vous gardez toujours une vaste variété de symboles et d'objets sacrés sur vous, même si vous n'êtes pas particulièrement pieux. Lorsque vous utilisez votre Piété Opportuniste, vous choisissez un effet à créer parmi la liste ci-dessous. Vous devez alors terminer un repos avant de pouvoir réutiliser votre Piété Opportuniste.
 
-**Bannissement.** Vous lancez le sort [[Bannissement]] sans dépenser d'emplacement de sort. Si la cible est une Fée, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle prend également un montant de dégâts radiants égal à votre niveau.
+**Bannissement.** Vous lancez le sort [[Bannissement]] sans dépenser d'emplacement de sort. Si la cible est une Fée, un Fiélon ou un Mort-Vivant et qu'elle rate son jet de sauvegarde contre le sort, elle subit également un montant de dégâts radiants égal à votre niveau.
 
 **Soin Miraculeux.** Pour une action, une main divine émane de vos mains pour apaiser les blessures d'une créature consentante que vous touchez. Cette créature regagne un nombre de points de vie égal au double de votre niveau d'investigateur. Cette aptitude n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
@@ -13933,7 +13932,7 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 **Monocle Heptagonal.** Pour une action bonus, vous pouvez lancer le sort [[invisibilité]] une fois en vous ciblant, sans dépenser d'emplacement de sort ou de composantes. 
 
-**Miroir Lucent.** Vous pouvez utiliser votre action bonus pour activer cette babiole, vous transposant partiellement dans le Plan Éthéré pendant 1 minute. Pendant cette durée, vous pouvez vous déplacer à travers d'autres créatures et objets comme si c'était du terrain difficile, mais vous prenez 1d10 dégâts de force si vous terminez votre tour dans une créature ou un objet. De plus, vous êtes résistant à tous les dégâts. Cet effet se termine prématurément si vous prenez des dégâts.
+**Miroir Lucent.** Vous pouvez utiliser votre action bonus pour activer cette babiole, vous transposant partiellement dans le Plan Éthéré pendant 1 minute. Pendant cette durée, vous pouvez vous déplacer à travers d'autres créatures et objets comme si c'était du terrain difficile, mais vous subissez 1d10 dégâts de force si vous terminez votre tour dans une créature ou un objet. De plus, vous êtes résistant à tous les dégâts. Cet effet se termine prématurément si vous subissez des dégâts.
 
 ## Présence Rassurante
 
@@ -14064,7 +14063,7 @@ writing_status: finished
 ---
 writing_status: finished
 ---
-Un frisson est un esprit élémentaire mineur qui ressemble à un flocon. Pour une action bonus, vous pouvez réaliser une attaque de sort à distance contre n'importe quelle créature à 30 ft., qui prend 1d6 dégâts de froid si vous touchez.
+Un frisson est un esprit élémentaire mineur qui ressemble à un flocon. Pour une action bonus, vous pouvez réaliser une attaque de sort à distance contre n'importe quelle créature à 30 ft., qui subit 1d6 dégâts de froid si vous touchez.
 
 De plus, pour une action, vous pouvez également utiliser le frisson pour geler un objet porté, créer une stalactite ou éteindre une torche ou un petit feu.
 
@@ -14084,7 +14083,7 @@ Clignotant et flashant sans arrêt, le glitch est un esprit perdu dans le temps 
 ---
 writing_status: finished
 ---
-Esprit affamé qui hante les endroits sombres, la grue est crainte pour sa discrétion et sa salive acide. Pour une action bonus, vous pouvez utiliser la grue pour forcer une créature à 15 ft. à réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts d'acide. Si la cible se trouve dans l'obscurité, elle a le désavantage à son jet de sauvegarde.
+Esprit affamé qui hante les endroits sombres, la grue est crainte pour sa discrétion et sa salive acide. Pour une action bonus, vous pouvez utiliser la grue pour forcer une créature à 15 ft. à réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts d'acide. Si la cible se trouve dans l'obscurité, elle a le désavantage à son jet de sauvegarde.
 
 ---
 
@@ -14093,7 +14092,7 @@ Esprit affamé qui hante les endroits sombres, la grue est crainte pour sa discr
 ---
 writing_status: finished
 ---
-Une hantise est un esprit de regret ou de doute qui persiste longuement après la mort. Pour une action bonus, vous pouvez forcer une créature à 30 ft. à réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts nécrotiques.
+Une hantise est un esprit de regret ou de doute qui persiste longuement après la mort. Pour une action bonus, vous pouvez forcer une créature à 30 ft. à réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts nécrotiques.
 
 De plus, pour une action, vous pouvez utiliser la hantise pour créer de léger bruits éthérés ou créer jusqu'à quatre lumières fantomatiques qui se déplacent sous votre direction. Ces effets doivent rester à 30 ft. de vous et persistent jusqu'au début de votre prochain tour.
 
@@ -14104,7 +14103,7 @@ De plus, pour une action, vous pouvez utiliser la hantise pour créer de léger 
 ---
 writing_status: finished
 ---
-Esprit mineur divin créé de pure bonté, une lanterne se manifeste en une boule de lumière de la taille d'un poing. Pour une action bonus, vous pouvez forcer une créature à 30 ft. à réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts radiants.
+Esprit mineur divin créé de pure bonté, une lanterne se manifeste en une boule de lumière de la taille d'un poing. Pour une action bonus, vous pouvez forcer une créature à 30 ft. à réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts radiants.
 
 La lanterne émet de la lumière comme une torche. Vous pouvez utiliser votre action pour renforcer la lanterne de telle sorte qu'elle émette une lumière vive dans un rayon de 40 ft. et une lumière faible sur 40 ft. supplémentaire jusqu'au début de votre prochain tour.
 
@@ -14124,7 +14123,7 @@ Une pierre est un esprit élémentaire rocheux lévitant, le plus petit élémen
 ---
 writing_status: finished
 ---
-Une pleurote est un esprit luisant composé d'énergie capricieuse féerique qui produit des spores empoisonnées. Pour une action bonus, vous pouvez forcer une créature à 15 ft. à réussir un jet de sauvegarde de Constitution ou prendre 1d8 dégâts de poison.
+Une pleurote est un esprit luisant composé d'énergie capricieuse féerique qui produit des spores empoisonnées. Pour une action bonus, vous pouvez forcer une créature à 15 ft. à réussir un jet de sauvegarde de Constitution ou subir 1d8 dégâts de poison.
 
 La pleurote brille comme une torche. Pour une action, vous pouvez la rendre visible uniquement pour vous jusqu'à la fin de votre prochain tour.
 
@@ -14166,7 +14165,7 @@ Une étincelle est un esprit élémentaire mineur qui ressemble à un petit écl
 ---
 writing_status: finished
 ---
-La forme toujours changeante et incompréhensible d'un étrange semble venir d'une dimension parallèle où les règles diffèrent des nôtres. Pour une action bonus, vous pouvez utiliser l'étrange pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou prendre 1d4 dégâts psychiques.
+La forme toujours changeante et incompréhensible d'un étrange semble venir d'une dimension parallèle où les règles diffèrent des nôtres. Pour une action bonus, vous pouvez utiliser l'étrange pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou subir 1d4 dégâts psychiques.
 
 Pour une action, vous pouvez utiliser l'étrange pour polluer les pensées d'une créature à 30 ft. avec d'étranges images, rendant impossible la lecture de ses pensées ou l'usage de la télépathie jusqu'à la fin de votre prochain tour.
 
@@ -14308,7 +14307,7 @@ Tous les ligateurs font appel aux vestiges depuis le Vide, mais seuls les avatar
 ## Invocation d'Avatar
 À partir du moment où vous rejoignez cette secte au niveau 3, vous pouvez utiliser votre action bonus pour manifester un avatar de vos vestiges, un esprit tangible qui apparaît à 5 ft. de vous et vous est lié par un cordon spectral. L'avatar est un mort-vivant de taille M avec des caractéristiques égales aux vôtres et une CA égale à 10 + votre modificateur de Charisme + votre modificateur de Dextérité. Il a l'apparence d'un amalgame de tous les vestiges auxquels vous êtes lié.
 
-Cet avatar n'a pas de points de vie, mais vous prenez les dégâts qu'il devrait prendre comme si vous aviez la résistance à tous les dégâts. Il disparaît si vous tombez [[inconscient]] ou si vous le dissipez pour une action bonus. Il réapparaît instantanément à vos côtés si vous vous trouvez à plus de 60 ft. de lui.
+Cet avatar n'a pas de points de vie, mais vous prenez les dégâts qu'il devrait subir comme si vous aviez la résistance à tous les dégâts. Il disparaît si vous tombez [[inconscient]] ou si vous le dissipez pour une action bonus. Il réapparaît instantanément à vos côtés si vous vous trouvez à plus de 60 ft. de lui.
 
 Pendant votre tour, vous pouvez ordonner à l'avatar de voler jusqu'à 30 ft. Vous pouvez réaliser une ou plusieurs de vos attaques à travers l'avatar lorsque vous utilisez votre action pour attaquer. L'avatar invoque alors une réplique spectrale de toute arme que vous seriez en train de tenir et utilise votre bonus aux jets d'attaques et de dégâts et les dégâts de l'arme originelle. Vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec votre avatar lorsqu'une créature sort de sa portée.
 
@@ -14457,7 +14456,7 @@ Pendant vos études, vous avez découvert le moyen de percer la frontière entre
 
 Vous pouvez dépenser 10 minutes à réaliser un rituel spécial d'attachement, qui consiste à dessiner les symboles de vestiges à la craie, les appeler par leurs noms et réaliser une performance ésotérique. Pendant ce rituel, des [[Vestiges]] se manifestent par des signes tangibles alors qu'ils se pressent contre les frontières du réel et trouvent refuge dans votre âme.
 
-Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges à la fois lorsque vous montez de niveau, comme indiqué dans la colonne _Vestiges Liés_ de la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure ou égale à votre niveau de ligateur.
+Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges à la fois lorsque vous montez de niveau, comme indiqué dans la colonne *Vestiges Liés* de la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure ou égale à votre niveau de ligateur.
 
 Les vestiges vous restent liés jusqu'à ce que vous terminiez un repos long. Une fois que vous avez réalisé ce rituel, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 
@@ -14506,7 +14505,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 Au niveau 9, l'expérience du partage de votre âme avec des entités supranaturelles vous a appris à protéger vos pensées et punir ceux qui osent les influencer. Vous avez l'avantage aux jets de sauvegarde pour ne pas être [[charmé]], [[apeuré]] ou possédé, et aux jets de sauvegarde pour contrer les effets qui détecteraient vos émotions ou liraient dans vos pensées.
 
-De plus, si vous réussissez votre jet contre l'un de ces effets causé par une créature, la créature qui a créé l'effet prend votre niveau de ligateur + votre modificateur de Charisme dégâts psychiques.
+De plus, si vous réussissez votre jet contre l'un de ces effets causé par une créature, la créature qui a créé l'effet subit votre niveau de ligateur + votre modificateur de Charisme dégâts psychiques.
 
 ## Âme du Vide
 
@@ -14533,7 +14532,7 @@ Au niveau 3, lorsque le Trait d'un vestige vous permet de remplacer un jet de co
 
 ## Transfert d'Âme
 
-À partir du niveau 7, vous pouvez transférer une portion des dégâts que vous subissez à vos vestiges. Pour une réaction lorsque vous prenez des dégâts, vous pouvez réduire de moitié les dégâts subis.
+À partir du niveau 7, vous pouvez transférer une portion des dégâts que vous subissez à vos vestiges. Pour une réaction lorsque vous subissez des dégâts, vous pouvez réduire de moitié les dégâts subis.
 
 Une fois que vous avez cette aptitude, vous devez terminer un repos avant de pouvoir le refaire.
 
@@ -14578,7 +14577,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser ju
 
 ## Sanctuaire Stygien
 
-À partir du niveau 14, Érèbe vous attire dans le Vide plutôt que de vous laisser impuissant face à la mort. Pour une réaction lorsque vous prenez des dégâts, mais n'êtes pas réduit à 0 point de vie ou tué sur le coup, vous pouvez utiliser votre réaction pour vous téléporter vers un demi-plan sans fin adjacent au Vide. Vous restez dans ce plan aussi longtemps que vous le souhaitez, et vous pouvez utiliser votre action pour retourner à l'emplacement que vous avez quitté ou l'emplacement libre le plus proche si celui-ci est occupé.
+À partir du niveau 14, Érèbe vous attire dans le Vide plutôt que de vous laisser impuissant face à la mort. Pour une réaction lorsque vous subissez des dégâts, mais subissez des dégâts à 0 point de vie ou tué sur le coup, vous pouvez utiliser votre réaction pour vous téléporter vers un demi-plan sans fin adjacent au Vide. Vous restez dans ce plan aussi longtemps que vous le souhaitez, et vous pouvez utiliser votre action pour retourner à l'emplacement que vous avez quitté ou l'emplacement libre le plus proche si celui-ci est occupé.
 
 ---
 
@@ -14760,8 +14759,8 @@ Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, 
 ## Incantation : Cryomancie
 Tant que vous êtes lié à Elozahr, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :
 
-*2/jour chacun :* [[tempête de neige]]
-*1/jour chacun :* [[tempête de grêle]], [[cône de froid]]
+*2/jour chacun :* [[5e/docs/sorts/03/Tempête de Grêle]]
+*1/jour chacun :* [[Tempête de Glace]], [[cône de froid]]
 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -14779,7 +14778,7 @@ Tous les magiciens connaissent l'histoire de Évocatia et Elozahr, les mages au 
 
 Avant les écoles de magie, les lanceurs de sorts projetaient de l'énergie arcanique pure et difforme sous la forme de proto-sorts, dont les effets variaient du tout au tout. Avec le temps, les lanceurs de sorts les plus malins ont appris à dompter la magie, la canalisant dans des sorts avec un effet voulu et conscient.
 
-Évocatia la Rouge était l'une de ces lanceurs de sorts. Patient et réfléchi, Elozahr sculpta ses sorts dans la glace, créant d'abord le cantrip [[Rayon de Givre]] puis le sort [[tempête de grêle]]. Après des décennies de travail et l'assistance de son apprentie, Évocatia la Rouge, il perfectionna son œuvre, un sort si puissant que peu de mages pouvaient ne serait-ce que l'approcher : [[cône de froid]]. Il voyagea vers la tour brûlante de son apprentie afin de l'impressionner avec ce nouveau sort, mais découvrit aussitôt arrivé que le familier d'Évocatia n'était autre qu'un fiélon qui l'avait tentée avec le secret de la magie infernale. Choqué, Elozahr gela la tour et la réduisit en morceaux.
+Évocatia la Rouge était l'une de ces lanceurs de sorts. Patient et réfléchi, Elozahr sculpta ses sorts dans la glace, créant d'abord le cantrip [[Rayon de Givre]] puis le sort [[Tempête de Glace]]. Après des décennies de travail et l'assistance de son apprentie, Évocatia la Rouge, il perfectionna son œuvre, un sort si puissant que peu de mages pouvaient ne serait-ce que l'approcher : [[cône de froid]]. Il voyagea vers la tour brûlante de son apprentie afin de l'impressionner avec ce nouveau sort, mais découvrit aussitôt arrivé que le familier d'Évocatia n'était autre qu'un fiélon qui l'avait tentée avec le secret de la magie infernale. Choqué, Elozahr gela la tour et la réduisit en morceaux.
 
 Les deux magiciens travaillèrent alors en secret pour surpasser l'autre, chacun fondant ainsi les bases de son école de magie. Enfin, Elozahr et Évocatia se virent sur la plaine d'Armistal pour résoudre leurs différends. Mais Elozahr, voyant que son apprentie avait avec elle une [[épée ardente]] afin de l'éliminer une bonne fois pour toutes, frappa en premier avec une projection glacée.
 
@@ -14932,7 +14931,7 @@ Vous gagnez un bonus de +2 aux jets d'attaque que vous réalisez avec des armes 
 ## Carquois du Tueur de Soleil
 Lorsque vous voudriez dégainer une arme, vous pouvez invoquer un arc et un carquois, tous deux anciens mais formidables, utilisés par Houyi. Ce carquois contient une réserve infinie de flèches classiques ainsi que 9 flèches tueuses de soleil. Cet équipement persiste jusqu'à ce que vous le dissipiez pendant votre tour (sans utiliser d'action) ou que vous ne soyez plus lié à Houyi.
 
-Une flèche tueuse de soleil inflige des dégâts de feu plutôt que des dégâts perçants, et infligent 1d4 dégâts supplémentaires. Lorsqu'une flèche tueuse de soleil touche une cible, elle explose dans une sphère d'un rayon de 5 ft. et disparaît. La flèche peut être tirée sur un espace inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle prend la moitié des dégâts infligés par la flèche.
+Une flèche tueuse de soleil inflige des dégâts de feu plutôt que des dégâts perçants, et infligent 1d4 dégâts supplémentaires. Lorsqu'une flèche tueuse de soleil touche une cible, elle explose dans une sphère d'un rayon de 5 ft. et disparaît. La flèche peut être tirée sur un espace inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle subit la moitié des dégâts infligés par la flèche.
 
 Une fois que vous avez utilisé une flèche tueuse de soleil, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos long.
 
@@ -14973,7 +14972,7 @@ Un voleur mythique qui a dérobé le pouvoir des puissants dragons, Im'Cieux off
 Tant que vous êtes lié à Im'Cieux, vous maîtrisez les [[cimeterre|cimeterres]], les [[épée courte|épées courtes]] et les [[outils de voleur]].
 
 ## Attaque Sournoise
-Tant que vous êtes lié à Im'Cieux, une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous touchez avec une attaque si vous avez l'avantage au jet d'attaque. L'attaque doit utiliser une arme avec la propriété _finesse_ ou à distance. Vous n'avez pas besoin de l'avantage au jet d'attaque si un autre ennemi de la cible se trouve à 5 ft. d'elle, que cet ennemi n'est pas [[incapacité]] et que vous n'avez pas le désavantage à votre jet.
+Tant que vous êtes lié à Im'Cieux, une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous touchez avec une attaque si vous avez l'avantage au jet d'attaque. L'attaque doit utiliser une arme avec la propriété *finesse* ou à distance. Vous n'avez pas besoin de l'avantage au jet d'attaque si un autre ennemi de la cible se trouve à 5 ft. d'elle, que cet ennemi n'est pas [[incapacité]] et que vous n'avez pas le désavantage à votre jet.
 
 Le montant des dégâts supplémentaires que vous infligez augmente de 1d6 par vestige autre que Im'Cieux auquel vous êtes lié. Si vous possédez déjà l'aptitude de classe Attaque Sournoise, vous ajoutez ces dégâts à vos dégâts d'Attaque Sournoise.
 
@@ -15040,7 +15039,7 @@ Chercheuse planaire renommée qui a découvert la véritable nature du Vide, Kor
 Tant que vous êtes lié à Korine, la distance de votre saut en longueur et la hauteur de votre saut en hauteur sont doublées, et vous ne prenez que la moitié des dégâts de chute.
 
 ## Téléfrag
-Lorsque vous lancez un sort qui vous téléporte, vous pouvez choisir de vous téléporter dans un espace occupé par une créature. Lorsque vous le faites, la créature prend 1d4 dégâts de force pour chaque 10 ft. que vous avez parcouru avec la téléportation, jusqu'à un maximum de 5d4. De plus, si vous et la créature êtes à moins de 2 tailles l'une de l'autre, elle se déplace vers un espace inoccupé adjacent de son choix.
+Lorsque vous lancez un sort qui vous téléporte, vous pouvez choisir de vous téléporter dans un espace occupé par une créature. Lorsque vous le faites, la créature subit 1d4 dégâts de force pour chaque 10 ft. que vous avez parcouru avec la téléportation, jusqu'à un maximum de 5d4. De plus, si vous et la créature êtes à moins de 2 tailles l'une de l'autre, elle se déplace vers un espace inoccupé adjacent de son choix.
 
 ## Incantation : Clignotement
 Tant que vous êtes lié à Korine, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :
@@ -15132,7 +15131,7 @@ Vieux sage et premier dieu de l'écriture, Lexicon confère à ses ligateurs une
 Tant que vous êtes lié à Lexicon, vous apprenez deux cantrips de votre choix parmi la liste de sorts du Barde, de l'Ensorceleur et du Magicien, plus un cantrip additionnel pour chaque vestige autre que Lexicon auquel vous êtes lié. Vous utilisez le Charisme comme caractéristique d'incantation pour ces cantrips.
 
 ## Arcane Pâle
-Tant que vous êtes lié à Lexicon, lorsque vous prenez des dégâts d'un sort, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts.
+Tant que vous êtes lié à Lexicon, lorsque vous subissez des dégâts d'un sort, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts.
 
 ## Incantation : Murmures Mystiques
 Tant que vous êtes lié à Lexicon, vous pouvez lancer les sorts suivants sans utiliser d'emplacement de sorts ou de composantes matérielles : 
@@ -15242,7 +15241,7 @@ Tant que vous êtes lié à Mathusalem, vous relevez les corps par votre simple 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Vénérable
-Tant que vous êtes lié à Mathusalem, vous semblez particulièrement âgé. Votre voix descend pour ne devenir qu'un râle rauque, vos cheveux blanchissent et de profonds rides apparaissent sur votre peau. De plus, vous pouvez siphonner la vie et la jeunesse des autres. Pour une action, réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 4d6 dégâts nécrotiques et vous vous soignez de la moitié de ces dégâts.
+Tant que vous êtes lié à Mathusalem, vous semblez particulièrement âgé. Votre voix descend pour ne devenir qu'un râle rauque, vos cheveux blanchissent et de profonds rides apparaissent sur votre peau. De plus, vous pouvez siphonner la vie et la jeunesse des autres. Pour une action, réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 4d6 dégâts nécrotiques et vous vous soignez de la moitié de ces dégâts.
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, vous obtenez le trait de personnalité suivant : "Je me considère bien plus vieux, sage et usé que les autres."
@@ -15281,7 +15280,7 @@ Une fois à chacun de vos tours, lorsque vous touchez une créature avec une att
 Vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à votre niveau de ligateur. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Chair Épineuse
-Tant que vous êtes lié à Nezaré, votre chair se durcit et laisse pousser de longues épines aiguisées. Lorsqu'une créature à 5 ft. vous touche avec une attaque armée de mêlée, elle prend un nombre de dégâts perçants égal à votre modificateur de Charisme.
+Tant que vous êtes lié à Nezaré, votre chair se durcit et laisse pousser de longues épines aiguisées. Lorsqu'une créature à 5 ft. vous touche avec une attaque armée de mêlée, elle subit un nombre de dégâts perçants égal à votre modificateur de Charisme.
 
 ## Faille
 Tant que vous êtes lié à ce vestige, vous obtenez la faille suivante : "Je méprise tous les saints, clercs, paladins et les prêtres."
@@ -15389,10 +15388,10 @@ Armure mythique incarnant le mal même, Rostam apparaît autour de ses ligateurs
 Tant que vous êtes lié à Rostam, vous maîtrisez le [[Fléau]], le [[morgenstern]] ainsi que les [[armures lourdes]].
 
 ## Négociation Létale
-Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à réaliser des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous prenez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.
+Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à réaliser des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous subissez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.
 
 ## Résilience Infernale
-Lorsque vous prenez des dégâts contondants, perçants ou tranchants en portant une armure lourde, vous pouvez utiliser votre réaction pour réduire les dégâts que vous prenez de 1d12. Vous pouvez réduire les dégâts de 1d12 supplémentaire pour chaque vestige autre que Rostam auquel vous êtes lié.
+Lorsque vous subissez des dégâts perçants ou tranchants en portant une armure lourde, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez de 1d12. Vous pouvez réduire les dégâts de 1d12 supplémentaire pour chaque vestige autre que Rostam auquel vous êtes lié.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
@@ -15448,7 +15447,7 @@ Pendant votre tour, vous pouvez utiliser votre action bonus pour faire appel à 
 Vous pouvez terminer cet effet prématurément pour une action bonus. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Soif de Sang du Loup
-Tant que vous êtes lié à Rémus, vous adoptez l'aspect sauvage et violent d'un lycanthrope : une fourrure rêche recouvre votre corps, votre nez s'allonge, vos ongles deviennent des griffes et vos dents s'aiguisent. Lorsque vous prenez des dégâts d'une créature à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+Tant que vous êtes lié à Rémus, vous adoptez l'aspect sauvage et violent d'un lycanthrope : une fourrure rêche recouvre votre corps, votre nez s'allonge, vos ongles deviennent des griffes et vos dents s'aiguisent. Lorsque vous subissez des dégâts d'une créature à 5ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 
 ## Faille
@@ -15462,7 +15461,7 @@ Romulus et Rémus, les fils jumeaux de la déesse de la guerre, ont été placé
 
 Une fois adultes, rien ne pouvait se mettre en travers sur leur chemin, si ce n'est leurs chamailleries. Malgré leurs pouvoirs divins, les deux ne parvenaient jamais à se décider sur quoi que ce soit. La plupart du temps, ils se querellaient sur leur héritage. Rémus souhaitait conquérir des cités états dont ils avaient été exilés enfants, tandis que Romulus souhaitait fonder sa propre cité état. Rémus céda, mais le nouveau désaccord portait sur l'emplacement de cette ville.
 
-Les jumeaux se sont tenus sur une colline puis ont lancé [[Augure]]. Dans leur sagesse, les dieux ont délivré un signe de _péril et fortune_, espérant ainsi réconcilier les deux jumeaux. Cela n'eut que l'effet contraire, et les frères en vinrent aux mains pour déchiffrer ces résultats. Romulus et Rémus se battirent ainsi à mains nues, et alors que Rémus devenait de plus en plus bestial, Romulus le poignarda dans le flan avec une petite dague en argent, le tuant sur le coup.
+Les jumeaux se sont tenus sur une colline puis ont lancé [[Augure]]. Dans leur sagesse, les dieux ont délivré un signe de *péril et fortune*, espérant ainsi réconcilier les deux jumeaux. Cela n'eut que l'effet contraire, et les frères en vinrent aux mains pour déchiffrer ces résultats. Romulus et Rémus se battirent ainsi à mains nues, et alors que Rémus devenait de plus en plus bestial, Romulus le poignarda dans le flan avec une petite dague en argent, le tuant sur le coup.
 
 Romulus construisit sa ville sur le corps de son frère, et la nomma d'après lui-même. À travers ses ressentiments, Rémus persiste à exister en tant que vestige, apparaissant furieux et animal, et ne devenant que plus aigri avec le passage du temps, alors que la ville de son frère grandit et devint un véritable empire.
 
@@ -15647,7 +15646,7 @@ Lorsque vous vous liez à Vortirrackt, votre peau devient pâle et bizarrement a
 ## Trait : Membres Abominables
 Lorsque vous vous liez à Vortirrackt, des griffes poussent de vos mains, que vous pouvez utiliser pour réaliser des attaques à mains nues. Les griffes infligent 1d4 dégâts tranchants, et vous pouvez utiliser le Charisme plutôt que la Force pour les jets d'attaque et de dégâts. Les griffes sont considérées magiques vis-à-vis des résistances et immunités.
 
-Lorsque vous utilisez votre action pour attaquer, vous pouvez réaliser une attaque à mains nues avec les griffes pour une action bonus. De plus, lorsque vous utilisez vos griffes pour toucher une créature que vous avez déjà touchée avec vos griffes ce tour-ci, elle prend 2d6 dégâts tranchants supplémentaires.
+Lorsque vous utilisez votre action pour attaquer, vous pouvez réaliser une attaque à mains nues avec les griffes pour une action bonus. De plus, lorsque vous utilisez vos griffes pour toucher une créature que vous avez déjà touchée avec vos griffes ce tour-ci, elle subit 2d6 dégâts tranchants supplémentaires.
 
 ## Trait : Articulations Extérieures
 Lorsque vous vous liez à Vortirrackt, vos bras et jambes se déforment, s'allongeant et craquant jusqu'à ce qu'ils contiennent chacun une articulation supplémentaire. La portée de toutes vos attaques de mêlée, ainsi que de la portée de vos attaques d'opportunité, passe à 10 ft. De plus, vous pouvez réaliser une attaque d'opportunité lorsqu'une créature se déplace à l'intérieur de votre portée.
@@ -15683,10 +15682,10 @@ Seuls les ligateurs se rappellent des légendes ésotériques d'Érèbe, l'initi
 # Aptitudes
 
 ## Oblivio
-Ce que vous touchez, vous défaites. Pour une action, vous pouvez toucher un objet ou une créature, qui doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la cible prend 10d10 + 50 dégâts nécrotiques, ou la moitié si elle réussit. Si cela réduit les points de vie de la cible à 0, elle est complètement *défaite*. Une créature défaite et tout ce qu'elle porte ou manie, sauf les objets magiques, sont annihilés de l'existence, ne laissant rien derrière, même pas de la poussière. Cette créature ne peut pas être ramenée à la vie par des moyens plus qu'une [[résurrection suprême]] ou un [[souhait]]. Vous pouvez utiliser cette aptitude une fois, et vous récupérer la capacité de le faire lorsque vous terminez un repos long.
+Ce que vous touchez, vous défaites. Pour une action, vous pouvez toucher un objet ou une créature, qui doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la cible subit 10d10 + 50 dégâts nécrotiques, ou la moitié si elle réussit. Si cela réduit les points de vie de la cible à 0, elle est complètement *défaite*. Une créature défaite et tout ce qu'elle porte ou manie, sauf les objets magiques, sont annihilés de l'existence, ne laissant rien derrière, même pas de la poussière. Cette créature ne peut pas être ramenée à la vie par des moyens plus qu'une [[résurrection suprême]] ou un [[souhait]]. Vous pouvez utiliser cette aptitude une fois, et vous récupérer la capacité de le faire lorsque vous terminez un repos long.
 
 ## Trait : Vestigial
-Tant que vous êtes lié à Érèbe, vous êtes divorcé de la réalité, comme les vestiges eux-mêmes, vous faisant apparaître flou et indistinct, puisque votre réalité est étirée entre le Plan Matériel et le Vide. Vous êtes résistants à tous les dégâts. De plus, vous pouvez vous déplacer à travers d'autres créatures et objets comme dans du terrain difficile. Vous prenez 4d10 dégâts de force si vous terminez votre tour à l'intérieur d'une créature ou d'un objet, et vous êtes éjecté vers l'emplacement inoccupé le plus proche.
+Tant que vous êtes lié à Érèbe, vous êtes divorcé de la réalité, comme les vestiges eux-mêmes, vous faisant apparaître flou et indistinct, puisque votre réalité est étirée entre le Plan Matériel et le Vide. Vous êtes résistants à tous les dégâts. De plus, vous pouvez vous déplacer à travers d'autres créatures et objets comme dans du terrain difficile. Vous subissez 4d10 dégâts de force si vous terminez votre tour à l'intérieur d'une créature ou d'un objet, et vous êtes éjecté vers l'emplacement inoccupé le plus proche.
 
 ## Faille
 Tant que vous êtes lié à ce vestige, vous obtenez la faille suivante : "Je ne parle pas."
@@ -15937,35 +15936,35 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 À partir du niveau 6, tant que vous avez un familier, vous bénéficiez d'un effet en fonction de sa forme. Vous continuez à bénéficier de cet effet même si votre familier est transformé par votre Évolution Arcanique.
 
-__Chauve-Souris.__ Vous pouvez utiliser une action bonus pendant votre tour pour gagner la vision aveugle sur une distance de 15 ft. tant que vous n'êtes pas [[assourdi]].
+**Chauve-Souris.** Vous pouvez utiliser une action bonus pendant votre tour pour gagner la vision aveugle sur une distance de 15 ft. tant que vous n'êtes pas [[assourdi]].
 
-__Chat.__ Lorsque vous atterrissez après un saut ou une chute, vous pouvez utiliser votre réaction pour nullifier les dégâts de chute. 
+**Chat.** Lorsque vous atterrissez après un saut ou une chute, vous pouvez utiliser votre réaction pour nullifier les dégâts de chute. 
 
-__Crabe.__ Tant que vous ne portez pas d'armure, votre CA est égale à 12 + votre modificateur de Dextérité.
+**Crabe.** Tant que vous ne portez pas d'armure, votre CA est égale à 12 + votre modificateur de Dextérité.
 
-__Grenouille.__ Votre distance de saut est triplée.
+**Grenouille.** Votre distance de saut est triplée.
 
-__Faucon.__ Vous avez l'avantage à vos jets de Sagesse (Perception) qui reposent sur la vue.
+**Faucon.** Vous avez l'avantage à vos jets de Sagesse (Perception) qui reposent sur la vue.
 
-__Lézard.__ Vous êtes résistants aux dégâts de poison.
+**Lézard.** Vous êtes résistants aux dégâts de poison.
 
-__Pieuvre.__ Lorsque vous êtes [[saisi]], vous pouvez utiliser votre action bonus pour essayer de vous défaire. Lorsque vous essayez de vous défaire d'une saisie, vous obtenez un bonus à votre jet de Force (Athlétisme) ou Dextérité (Acrobatie) égal à votre modificateur d'Intelligence (minimum 1).
+**Pieuvre.** Lorsque vous êtes [[saisi]], vous pouvez utiliser votre action bonus pour essayer de vous défaire. Lorsque vous essayez de vous défaire d'une saisie, vous obtenez un bonus à votre jet de Force (Athlétisme) ou Dextérité (Acrobatie) égal à votre modificateur d'Intelligence (minimum 1).
 
-__Chouette.__ Vous obtenez la vision dans le noir sur 30 ft.
+**Chouette.** Vous obtenez la vision dans le noir sur 30 ft.
 
-__Serpent Venimeux.__ Lorsque vous touchez une créature avec une attaque armée de mêlée, vous infligez 1d4 dégâts de poison supplémentaires.
+**Serpent Venimeux.** Lorsque vous touchez une créature avec une attaque armée de mêlée, vous infligez 1d4 dégâts de poison supplémentaires.
 
-__Piranha.__ Vous avez une vitesse de nage de 30 ft. et vous pouvez retenir votre respiration deux fois plus longtemps.
+**Piranha.** Vous avez une vitesse de nage de 30 ft. et vous pouvez retenir votre respiration deux fois plus longtemps.
 
-__Rat.__ Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer une maladie ou la condition [[empoisonné]] sur vous-même.
+**Rat.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer une maladie ou la condition [[empoisonné]] sur vous-même.
 
-__Corbeau.__ Vous ajoutez votre bonus de maîtrise à vos jets de sauvegarde contre la mort et vous connaissez le cantrip [[stabilisation]], qui ne compte pas parmi le nombre de cantrips que vous connaissez. L'Intelligence est votre caractéristique d'incantation pour ce sort.
+**Corbeau.** Vous ajoutez votre bonus de maîtrise à vos jets de sauvegarde contre la mort et vous connaissez le cantrip [[stabilisation]], qui ne compte pas parmi le nombre de cantrips que vous connaissez. L'Intelligence est votre caractéristique d'incantation pour ce sort.
 
-__Hippocampe.__ Vous ajoutez votre bonus de maîtrise aux jets que vous réalisez afin de contrôler une créature comme monture, et vous êtes considéré comme d'une taille plus petite afin de déterminer les créatures que vous pouvez monter. 
+**Hippocampe.** Vous ajoutez votre bonus de maîtrise aux jets que vous réalisez afin de contrôler une créature comme monture, et vous êtes considéré comme d'une taille plus petite afin de déterminer les créatures que vous pouvez monter. 
 
-__Araignée.__ Vous avez une vitesse d'escalade de 30 ft.
+**Araignée.** Vous avez une vitesse d'escalade de 30 ft.
 
-__Belette.__ Vous faufiler ne vous demande pas de mouvement supplémentaire, et vous pouvez vous relever du [[au sol|sol]] pour seulement 5 ft. de mouvement.
+**Belette.** Vous faufiler ne vous demande pas de mouvement supplémentaire, et vous pouvez vous relever du [[au sol|sol]] pour seulement 5 ft. de mouvement.
 
 ## Amélioration de Familier
 
@@ -15977,19 +15976,19 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 Au niveau 14, tant que vous avez un familier, vous bénéficiez d'un effet en fonction de son type de créature.
 
-__Aberration.__ Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ses dégâts pour des dégâts psychiques. De plus, vous êtes résistant aux dégâts psychiques.
+**Aberration.** Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ses dégâts pour des dégâts psychiques. De plus, vous êtes résistant aux dégâts psychiques.
 
-__Céleste.__ Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez choisir une créature à 30 ft. afin qu'elle regagne un nombre de points de vie égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts radiants.
+**Céleste.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez choisir une créature à 30 ft. afin qu'elle regagne un nombre de points de vie égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts radiants.
 
-__Construction.__ Les coups critiques réalisés contre vous par des attaques non magiques sont des coups normaux. De plus, vous avez un bonus de +1 à la CA.
+**Construction.** Les coups critiques réalisés contre vous par des attaques non magiques sont des coups normaux. De plus, vous avez un bonus de +1 à la CA.
 
-__Élémentaire.__ Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ces dégâts pour être acide, froid, feu, foudre ou tonnerre. De plus, vous pouvez parler, lire et écrire le Primordial. 
+**Élémentaire.** Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ces dégâts pour être acide, froid, feu, foudre ou tonnerre. De plus, vous pouvez parler, lire et écrire le Primordial. 
 
-__Fée.__ Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[apeuré]] ou [[charmé]] sur vous-même.
+**Fée.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[apeuré]] ou [[charmé]] sur vous-même.
 
-__Fiélon.__ Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution arcanique, vous pouvez choisir une créature à 30 ft. pour lui infliger un nombre de dégâts de froid, feu ou nécrotique (votre choix) égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts de feu.
+**Fiélon.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution arcanique, vous pouvez choisir une créature à 30 ft. pour lui infliger un nombre de dégâts de froid, feu ou nécrotique (votre choix) égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts de feu.
 
-__Mort-Vivant.__ Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ses dégâts pour des dégâts nécrotiques. De plus, vous êtes résistant aux dégâts nécrotiques.
+**Mort-Vivant.** Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ses dégâts pour des dégâts nécrotiques. De plus, vous êtes résistant aux dégâts nécrotiques.
 
 
 ---
@@ -16017,13 +16016,13 @@ writing_status: empty
 ---
 writing_status: finished
 ---
-Contrairement à la plupart des traditions arcaniques, les savants mystiques n'appartiennent à aucune institution formelle, mais partagent plutôt une philosophie : pour maîtriser les arcanes, il faut maîtriser tous leurs aspects. Leurs pairs les appellent des _universalistes_ ou des _holistiques_, mais ils n'en restent pas moins des savants par toutes les définitions du terme. L'art de l'incantation leur vient naturellement, si bien que si les autres magiciens raffinent une seule école de magie, les savants mystiques ont dans leur besace une grande variété de stratagèmes inter-écoles afin de les aider à arracher la victoire.
+Contrairement à la plupart des traditions arcaniques, les savants mystiques n'appartiennent à aucune institution formelle, mais partagent plutôt une philosophie : pour maîtriser les arcanes, il faut maîtriser tous leurs aspects. Leurs pairs les appellent des *universalistes* ou des *holistiques*, mais ils n'en restent pas moins des savants par toutes les définitions du terme. L'art de l'incantation leur vient naturellement, si bien que si les autres magiciens raffinent une seule école de magie, les savants mystiques ont dans leur besace une grande variété de stratagèmes inter-écoles afin de les aider à arracher la victoire.
 
 ## Stratégiste Arcanique
 
 À partir du moment où vous choisissez cette tradition au niveau 2, vous apprenez des stratagèmes alimentés par des dés spéciaux appelés dés de bataille.
 
-__Dés de Bataille.__ Vous possédez deux dés de bataille, qui sont des d6. Un dé de bataille est dépensé lorsque vous l'utilisez. Vous récupérez tous vos dés de bataille dépensés lorsque vous terminez un repos ou que vous tirez l'initiative. 
+**Dés de Bataille.** Vous possédez deux dés de bataille, qui sont des d6. Un dé de bataille est dépensé lorsque vous l'utilisez. Vous récupérez tous vos dés de bataille dépensés lorsque vous terminez un repos ou que vous tirez l'initiative. 
 
 Vos dés de bataille changent et plus de dés deviennent disponibles lorsque vous gagnez des niveaux dans cette classe, comme indiqué ci-dessous.
 
@@ -16035,9 +16034,9 @@ Vos dés de bataille changent et plus de dés deviennent disponibles lorsque vou
 | 13 | 3d10 |
 | 19 | 4d10 |
 
-__Utiliser les Dés de Bataille.__ Une fois par tour, vous pouvez dépenser un dé de bataille pour utiliser un stratagème de votre choix. Vos options de stratagème sont décrites à la fin de cette tradition.
+**Utiliser les Dés de Bataille.** Une fois par tour, vous pouvez dépenser un dé de bataille pour utiliser un stratagème de votre choix. Vos options de stratagème sont décrites à la fin de cette tradition.
 
-__Stratagème.__ Vous apprenez trois stratagèmes de votre choix. La plupart des stratagèmes augmentent vos sorts d'une façon ou d'une autre. Vous ne pouvez utiliser qu'un stratagème par sort. 
+**Stratagème.** Vous apprenez trois stratagèmes de votre choix. La plupart des stratagèmes augmentent vos sorts d'une façon ou d'une autre. Vous ne pouvez utiliser qu'un stratagème par sort. 
 
 Vous apprenez deux stratagèmes supplémentaires lorsque vous atteignez le niveau 6, puis un stratagème de votre choix aux niveaux 10 et 14. À chaque fois que vous apprenez un stratagème, vous pouvez remplacer un de ceux que vous connaissez déjà pour un autre.
 
@@ -16065,29 +16064,29 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Stratagèmes
 
-__Protection Arcanique.__ Lorsque vous lancez un sort de niveau 1 ou plus, vous pouvez dépenser et lancer un dé de bataille pour gagner un nombre de points de vie temporaires égal au niveau de sort de l'emplacement dépensé pour lancer le sort + le résultat du dé de bataille. Vous perdez ces points de vie temporaires après 10 minutes.
+**Protection Arcanique.** Lorsque vous lancez un sort de niveau 1 ou plus, vous pouvez dépenser et lancer un dé de bataille pour gagner un nombre de points de vie temporaires égal au niveau de sort de l'emplacement dépensé pour lancer le sort + le résultat du dé de bataille. Vous perdez ces points de vie temporaires après 10 minutes.
 
-__Égide Occulte.__ Lorsque vous ou une créature que vous voyez à 30 ft. prenez des dégâts d'un sort, vous pouvez utiliser votre réaction et lancer un dé de bataille afin de réduire les dégâts subis d'un montant égal au résultat du dé + votre modificateur d'Intelligence.
+**Égide Occulte.** Lorsque vous ou une créature que vous voyez à 30 ft. subit des dégâts d'un sort, vous pouvez utiliser votre réaction et un dé de bataille afin de réduire les dégâts subis d'un montant égal au résultat du dé + votre modificateur d'Intelligence.
 
-__Éclair de Génie.__ Lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez dépenser un dé de bataille pour l'ajouter au jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
+**Éclair de Génie.** Lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez dépenser un dé de bataille pour l'ajouter au jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
 
-__Conseil Mystique.__ Vous pouvez utiliser une action bonus et dé de bataille pour donner conseil à une créature qui peut vous entendre à 30 ft. Une fois pendant la prochaine minute, lorsque la créature réalise un jet de sauvegarde contre un sort, elle peut choisir de tirer le dé de bataille et d'ajouter le résultat à son jet de sauvegarde.
+**Conseil Mystique.** Vous pouvez utiliser une action bonus et dé de bataille pour donner conseil à une créature qui peut vous entendre à 30 ft. Une fois pendant la prochaine minute, lorsque la créature réalise un jet de sauvegarde contre un sort, elle peut choisir de tirer le dé de bataille et d'ajouter le résultat à son jet de sauvegarde.
 
-__Défense Mystique.__ Lorsque vous réalisez un jet de sauvegarde contre un sort ou un autre effet magique, vous pouvez utiliser votre réaction pour utiliser et lancer un dé de bataille afin d'ajouter ce résultat au jet de sauvegarde. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
+**Défense Mystique.** Lorsque vous réalisez un jet de sauvegarde contre un sort ou un autre effet magique, vous pouvez utiliser votre réaction pour utiliser et lancer un dé de bataille afin d'ajouter ce résultat au jet de sauvegarde. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
 
-__Incantation Puissante.__ Lorsque vous tirez les dégâts pour un sort que vous lancez, vous pouvez dépenser un dé de bataille pour une action bonus. Lorsque vous le faites, vous pouvez relancer un nombre de dés de dégâts jusqu'à votre modificateur d'Intelligence (minimum 1) et devez garder les nouveaux résultats.
+**Incantation Puissante.** Lorsque vous tirez les dégâts pour un sort que vous lancez, vous pouvez dépenser un dé de bataille pour une action bonus. Lorsque vous le faites, vous pouvez relancer un nombre de dés de dégâts jusqu'à votre modificateur d'Intelligence (minimum 1) et devez garder les nouveaux résultats.
 
-__Sort de Précision.__ Lorsque vous réalisez un jet d'attaque de sort contre une créature, vous pouvez dépenser une action bonus et un dé de bataille pour l'ajouter au jet d'attaque. Vous pouvez utiliser ce stratagème avant ou après avoir réalisé le jet d'attaque, mais avant que les effets du sort ne soient appliqués.
+**Sort de Précision.** Lorsque vous réalisez un jet d'attaque de sort contre une créature, vous pouvez dépenser une action bonus et un dé de bataille pour l'ajouter au jet d'attaque. Vous pouvez utiliser ce stratagème avant ou après avoir réalisé le jet d'attaque, mais avant que les effets du sort ne soient appliqués.
 
-__Présence d'Esprit.__ Lorsque vous réalisez un jet d'initiative, vous pouvez dépenser et lancer un dé de bataille pour ajouter son résultat au jet d'initiative. Vous pouvez utiliser ce stratagème après votre jet d'initiative mais avant que le MJ ne détermine l'ordre.
+**Présence d'Esprit.** Lorsque vous réalisez un jet d'initiative, vous pouvez dépenser et lancer un dé de bataille pour ajouter son résultat au jet d'initiative. Vous pouvez utiliser ce stratagème après votre jet d'initiative mais avant que le MJ ne détermine l'ordre.
 
-__Diffusion Ensorcelée.__ Lorsque vous infligez des dégâts à une créature avec un sort de niveau 1 ou plus, vous pouvez utiliser votre action bonus pour choisir une autre créature à 5 ft. de la première, puis dépenser et lancer un dé de bataille. La créature choisie subit un nombre de dégâts égal au niveau de l'emplacement de sort utilisé + le résultat du dé de bataille. Le type de dégâts est le même que ceux subis par la créature initiale.
+**Diffusion Ensorcelée.** Lorsque vous infligez des dégâts à une créature avec un sort de niveau 1 ou plus, vous pouvez utiliser votre action bonus pour choisir une autre créature à 5 ft. de la première, puis dépenser et lancer un dé de bataille. La créature choisie subit un nombre de dégâts égal au niveau de l'emplacement de sort utilisé + le résultat du dé de bataille. Le type de dégâts est le même que ceux subis par la créature initiale.
 
-__Piqure de l'Incanteur.__ Lorsqu'une créature à 60 ft. que vous pouvez voir réussit un jet de sauvegarde contre un sort que vous avez lancé de niveau 1 ou plus, vous pouvez utiliser une action bonus pour dépenser et lancer un dé de bataille. La créature subit un montant de dégâts de force égal au niveau d'emplacement de sort dépensé + le résultat du dé de bataille.
+**Piqure de l'Incanteur.** Lorsqu'une créature à 60 ft. que vous pouvez voir réussit un jet de sauvegarde contre un sort que vous avez lancé de niveau 1 ou plus, vous pouvez utiliser une action bonus pour dépenser et lancer un dé de bataille. La créature subit un montant de dégâts de force égal au niveau d'emplacement de sort dépensé + le résultat du dé de bataille.
 
-__Sort Sonnant.__ Lorsque vous infligez des dégâts à une créature se concentrant sur un sort, vous pouvez utiliser votre action bonus pour dépenser et lancer un dé de bataille, ajoutant son résultat aux dégâts infligés. Si la créature doit réaliser un jet de sauvegarde de Constitution pour maintenir sa concentration de par ces dégâts, ce jet de sauvegarde a le désavantage. 
+**Sort Sonnant.** Lorsque vous infligez des dégâts à une créature se concentrant sur un sort, vous pouvez utiliser votre action bonus pour dépenser et lancer un dé de bataille, ajoutant son résultat aux dégâts infligés. Si la créature doit réaliser un jet de sauvegarde de Constitution pour maintenir sa concentration de par ces dégâts, ce jet de sauvegarde a le désavantage. 
 
-__Concentration Impassible.__ Lorsque vous réalisez un jet de sauvegarde afin de maintenir la concentration sur un sort, vous pouvez dépenser et lancer un dé de bataille afin de l'ajouter au résultat du jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
+**Concentration Impassible.** Lorsque vous réalisez un jet de sauvegarde afin de maintenir la concentration sur un sort, vous pouvez dépenser et lancer un dé de bataille afin de l'ajouter au résultat du jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet est tiré mais avant que le MJ n'en donne l'issue.
 
 ---
 
@@ -16361,13 +16360,13 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
 | d10 | Effet |
-| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | Vous échangez de place avec la cible |
 | 2 | La foudre s'abat sur vous et la sur la cible, vous infligeant à chacun 3d6 dégâts électriques |
 | 3 | La cible doit énoncer à voix haute ses pensées pendant la prochaine minute |
 | 4 | Vous lancez [[ténèbres]], centré sur la cible |
 | 5 | Vous devenez invisible jusqu'à la fin de votre prochain tour, comme d'après le sort [[invisibilité]] |
-| 6 | La cible s'enflamme, prenant 1d4 dégâts de feu. La cible continue de prendre 1d4 dégâts de feu au début de chacun de ses tours jusqu'à ce qu'une créature éteigne les flammes pour une action |
+| 6 | La cible s'enflamme, prenant 1d4 dégâts de feu. La cible continue de subir 1d4 dégâts de feu au début de chacun de ses tours jusqu'à ce qu'une créature éteigne les flammes pour une action |
 | 7 | La peau de la cible se transforme en verre fragile jusqu'à la fin de son prochain tour, réduisant sa CA de 3, à un minimum de 10 |
 | 8 | La cible s'affale [[au sol]] |
 | 9 | Quelque chose explose au loin, infligeant 8d6 dégâts de feu à n'importe quel créature dans un rayon de 20 ft. autour de l'objet qui explose |
@@ -16523,7 +16522,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 À compter du niveau 18, vous pouvez lancer le sort [[réincarnation]] sans avoir à dépenser de composantes matérielles ou perdre des points de vie. Lorsque que vous le faites, vous pouvez choisir la race dans laquelle la cible se réincarnera plutôt que de laisser le MJ la déterminer.
 
-Si vous mourez sans utiliser votre _Véritable Martyr_, vous revenez à la vie 24 heures après votre mort comme si vous étiez la cible du sort [[réincarnation]]. Vous pouvez choisir la race dans laquelle vous vous réincarnez plutôt que de laisser le MJ la déterminer. Une fois que vous êtes revenu à la vie de cette manière, vous ne pouvez pas le refaire pendant 10 jours.
+Si vous mourez sans utiliser votre *Véritable Martyr*, vous revenez à la vie 24 heures après votre mort comme si vous étiez la cible du sort [[réincarnation]]. Vous pouvez choisir la race dans laquelle vous vous réincarnez plutôt que de laisser le MJ la déterminer. Une fois que vous êtes revenu à la vie de cette manière, vous ne pouvez pas le refaire pendant 10 jours.
 
 ---
 
@@ -16618,7 +16617,7 @@ Au niveau 14, vos coups absorbent la vitalité des autres. Une fois par tour, à
 
 Au niveau 18, vous pouvez exiger une fidélité totale même de vos pires ennemis. Vous pouvez lancer le sort [[domination de personne]] une fois sans dépenser de points de vie et sans qu'il compte dans le nombre maximum de sorts de martyr que vous pouvez incanter. 
 
-Lorsque vous lancez [[domination de personne]], la cible a le désavantage à son jet de sauvegarde et ne réalise pas de nouveau jet de sauvegarde lorsqu'elle prend des dégâts.
+Lorsque vous lancez [[domination de personne]], la cible a le désavantage à son jet de sauvegarde et ne réalise pas de nouveau jet de sauvegarde lorsqu'elle subit des dégâts.
 
 Une fois que vous avez lancé le sort sans dépenser de points de vie, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long.
 
@@ -16817,7 +16816,7 @@ Vous préparez une liste de sorts que vous pourrez lancer, en choisissant parmi 
 
 ### Sorts de soin
 
-Puisque votre pouvoir est directement lié à votre souffrance en tant que mortel, vous ne regagnez pas de points de vie des sorts que __vous__ lancez.
+Puisque votre pouvoir est directement lié à votre souffrance en tant que mortel, vous ne regagnez pas de points de vie des sorts que **vous** lancez.
 
 ### Caractéristique d'Incantation
 
@@ -16963,7 +16962,7 @@ Vous pouvez dépenser 4 points de ki pour lancer [[boule de feu]].
 ---
 writing_status: finished
 ---
-Vous pouvez dépenser 2 points de ki en une action pour créer un tentacule d'eau qui pousse et tire une créature pour la déséquilibrer. Une créature de votre choix que vous pouvez voir à 30 ft. doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 3d10 dégâts contondants, plus 1d10 dégâts contondants pour chaque point de ki supplémentaire que vous dépensez, et vous pouvez soit la repousser de 20 ft. soit la mettre [[au sol]]. Si elle réussit, elle prend seulement la moitié des dégâts.
+Vous pouvez dépenser 2 points de ki en une action pour créer un tentacule d'eau qui pousse et tire une créature pour la déséquilibrer. Une créature de votre choix que vous pouvez voir à 30 ft. doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 3d10 dégâts contondants, plus 1d10 dégâts contondants pour chaque point de ki supplémentaire que vous dépensez, et vous pouvez soit la repousser de 20 ft. soit la mettre [[au sol]]. Si elle réussit, elle subit seulement la moitié des dégâts.
 
 ---
 
@@ -17012,7 +17011,7 @@ Vous pouvez dépenser 4 points de ki pour lancer [[vol]].
 ---
 writing_status: finished
 ---
-Vous pouvez créer une rafale d'air compressé qui frappe comme un poing. Pour une action, vous pouvez dépenser 2 points de ki et choisir une créature à 30 ft. Cette créature doit réussir un jet de sauvegarde de Force ou prendre 3d10 dégâts contondants, plus 1d10 dégâts contondants pour chaque point de ki supplémentaire que vous dépensez, et vous pouvez la repousser de 20 ft. et la mettre [[au sol]]. Si elle réussit, elle ne prend que la moitié des dégâts.
+Vous pouvez créer une rafale d'air compressé qui frappe comme un poing. Pour une action, vous pouvez dépenser 2 points de ki et choisir une créature à 30 ft. Cette créature doit réussir un jet de sauvegarde de Force ou subir 3d10 dégâts contondants, plus 1d10 dégâts contondants pour chaque point de ki supplémentaire que vous dépensez, et vous pouvez la repousser de 20 ft. et la mettre [[au sol]]. Si elle réussit, elle ne subit que la moitié des dégâts.
 
 
 ---
@@ -17107,7 +17106,7 @@ Quelle que soit leur spécialité, les moines sont unis par leur capacité à ma
 
 ## La Magie du Ki
 
-Les moines étudient avec attention une énergie magique que la plupart des traditions monastiques appellent _ki_. Cette énergie est partie de la magie qui infuse le multivers -- plus spécifiquement la composante qui circule à travers les corps vivants. Les moines utilisent le pouvoir à l'intérieur d'eux-mêmes pour créer des effets magiques et dépasser les limites physiques de leur corps, et certaines de leurs attaques peuvent même déranger la circulation du ki de leurs adversaires. En utilisant cette énergie, les moines canalisent une vitesse surhumaine et leur force à travers leurs attaques à mains nues. En gagnant de l'expérience, leur entraînement martial et leur maîtrise du ki leur confèrent encore plus de contrôle sur leurs capacités physiques et sur le corps de leurs ennemis.
+Les moines étudient avec attention une énergie magique que la plupart des traditions monastiques appellent *ki*. Cette énergie est partie de la magie qui infuse le multivers -- plus spécifiquement la composante qui circule à travers les corps vivants. Les moines utilisent le pouvoir à l'intérieur d'eux-mêmes pour créer des effets magiques et dépasser les limites physiques de leur corps, et certaines de leurs attaques peuvent même déranger la circulation du ki de leurs adversaires. En utilisant cette énergie, les moines canalisent une vitesse surhumaine et leur force à travers leurs attaques à mains nues. En gagnant de l'expérience, leur entraînement martial et leur maîtrise du ki leur confèrent encore plus de contrôle sur leurs capacités physiques et sur le corps de leurs ennemis.
 
 ## Entraînement et Ascétisme
 
@@ -17303,7 +17302,7 @@ Lorsque vous ratez un jet d'attaque, vous pouvez dépenser entre 1 et 3 points d
 
 ## Évasion
 
-Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Sérénité
 
@@ -17438,7 +17437,7 @@ Vous pouvez dépenser des points de ki supplémentaires pour incanter [[Mains Br
 
 Au niveau 11, vous gagnez la capacité de créer un orbe de lumière qui se déchire en une dévastatrice explosion. Pour une action, vous pouvez créer magiquement un orbe et le lancer sur un point que vous choisissez à moins de 150 ft., où il se déchire en une sphère de lumière radieuse pendant un court instant.
 
-Chaque créature dans un rayon de 20 ft. doit réussir un jet de sauvegarde de Constitution ou prendre 2d6 dégâts radieux. Une créature n'a pas besoin de réaliser ce jet si elle se trouve en couverture totale derrière un objet opaque.
+Chaque créature dans un rayon de 20 ft. doit réussir un jet de sauvegarde de Constitution ou subir 2d6 dégâts radieux. Une créature n'a pas besoin de réaliser ce jet si elle se trouve en couverture totale derrière un objet opaque.
 
 Vous pouvez augmenter les dégâts de la sphère en dépensant des points de ki. Chaque point que vous dépensez, au plus 3, augmente les dégâts de 2d6.
 
@@ -17468,7 +17467,7 @@ Au niveau 3, vous apprenez à utiliser la corruption de votre pour former une é
 
 ## Acolyte du Soleil Perdu
 
-Au niveau 6, votre ki commence à se manifester autour de votre corps sous la forme de petites particules d'ombre qui cherchent à préserver la vie même lorsqu'elle est prise. À chaque fois que vous lancez un sort en dépensant des points de ki, vous pouvez utiliser votre action bonus pour rentrer dans une position défensive jusqu'au début de votre prochain tour. La première fois que vous prenez des dégâts tant que vous êtes dans cette position, vous pouvez réduire ces dégâts par trois fois le nombre de points de ki que vous avez dépensé pour lancer le sort.
+Au niveau 6, votre ki commence à se manifester autour de votre corps sous la forme de petites particules d'ombre qui cherchent à préserver la vie même lorsqu'elle est prise. À chaque fois que vous lancez un sort en dépensant des points de ki, vous pouvez utiliser votre action bonus pour rentrer dans une position défensive jusqu'au début de votre prochain tour. La première fois que vous subissez des dégâts tant que vous êtes dans cette position, vous pouvez réduire ces dégâts par trois fois le nombre de points de ki que vous avez dépensé pour lancer le sort.
 
 ## Techniques Solaires
 
@@ -17570,7 +17569,7 @@ Au niveau 6, vous obtenez la capacité de déranger ou terrifier ceux autour de 
 
 ## Toucher de la Mort Longue
 
-À partir du niveau 17, votre toucher peut canaliser l'énergie de la mort dans une créature. Pour une action, vous touchez une créature à 5 ft. de vous, et dépensez entre 1 et 10 points de ki. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 2d10 dégâts nécrotiques par point de ki dépensé. Si elle réussit le jet, elle ne prend que la moitié de ces dégâts.
+À partir du niveau 17, votre toucher peut canaliser l'énergie de la mort dans une créature. Pour une action, vous touchez une créature à 5 ft. de vous, et dépensez entre 1 et 10 points de ki. La cible doit réussir un jet de sauvegarde de Constitution ou subir 2d10 dégâts nécrotiques par point de ki dépensé. Si elle réussit le jet, elle ne subit que la moitié de ces dégâts.
 
 ---
 
@@ -17598,7 +17597,7 @@ Au niveau 6, vous devenez capable de vous soigner. Pour une action, vous regagne
 
 ## Paume Frémissante
 
-Au niveau 17, vous gagnez la capacité d'insérer des vibrations mortelles à l'intérieur du corps d'autrui. Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 3 points de ki pour démarrer ces imperceptibles vibrations, qui durent pour un nombre de jours égal à votre niveau de moine. Ces vibrations sont inoffensives sauf si vous utilisez votre action pour les terminer. Pour ce faire, vous et la cible devez vous trouver sur le même plan de l'existence. Lorsque vous utilisez cette action, la créature doit réaliser un jet de sauvegarde de Constitution. Si elle le rate, elle tombe à 0 point de vie. Sinon, elle prend 1d10 dégâts nécrotiques.
+Au niveau 17, vous gagnez la capacité d'insérer des vibrations mortelles à l'intérieur du corps d'autrui. Lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 3 points de ki pour démarrer ces imperceptibles vibrations, qui durent pour un nombre de jours égal à votre niveau de moine. Ces vibrations sont inoffensives sauf si vous utilisez votre action pour les terminer. Pour ce faire, vous et la cible devez vous trouver sur le même plan de l'existence. Lorsque vous utilisez cette action, la créature doit réaliser un jet de sauvegarde de Constitution. Si elle le rate, elle tombe à 0 point de vie. Sinon, elle subit 1d10 dégâts nécrotiques.
 
 Vous ne pouvez avoir qu'une seule créature à la fois sous cet effet. Vous pouvez décider de terminer gratuitement ces vibrations sans causer de dégâts.
 
@@ -17637,7 +17636,7 @@ Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d
 
 ## Couronne d'Épines
 
-Une fois que vous avez atteint le niveau 17, vous distrayez vos ennemis avec votre beauté et des bouquets de fleurs, les laissant ouvert à de rapides contre-attaques. Lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser 1 point de ki et une réaction pour réaliser une attaque à mains nues contre cette créature.
+Une fois que vous avez atteint le niveau 17, vous distrayez vos ennemis avec votre beauté et des bouquets de fleurs, les laissant ouvert à de rapides contre-attaques. Lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser 1 point de ki et une réaction pour réaliser une attaque à mains nues contre cette créature.
 
 
 
@@ -17717,7 +17716,7 @@ La voie du combat de rue est une discipline urbaine fondée par nécessité, don
 
 ## Combo
 
-À partir du moment où vous choisissez cette tradition au niveau 3, vous gagnez des bonus pour les coups successifs que vous réalisez à une seule et même cible. Pendant votre tour, vous gagnez un bonus de +2 à vos jets d'attaques à mains nues pour chaque coup que vous avez réalisé contre cette cible pendant votre tour, jusqu'à un maximum de +6. Ce bonus se remet à 0 lorsque vous prenez des dégâts pendant votre tour.
+À partir du moment où vous choisissez cette tradition au niveau 3, vous gagnez des bonus pour les coups successifs que vous réalisez à une seule et même cible. Pendant votre tour, vous gagnez un bonus de +2 à vos jets d'attaques à mains nues pour chaque coup que vous avez réalisé contre cette cible pendant votre tour, jusqu'à un maximum de +6. Ce bonus se remet à 0 lorsque vous subissez des dégâts votre tour.
 
 ## Poing de Fer
 
@@ -17727,15 +17726,15 @@ Au niveau 6, vos attaques à mains nues et vos armes de moines ignorent le seuil
 
 Au niveau 11, vous avez mémorisé et maîtrisé des patterns de mouvement qui débloquent votre ki, vous permettant de réaliser les coups spéciaux suivants : 
 
-**Boule de Ki.** Vous pouvez canaliser votre ki en une décharge d'énergie. Pour une action, vous pouvez dépenser 2 points de ki pour réaliser une attaque de sort à distance (en utilisant votre modificateur de Sagesse + votre bonus de maîtrise) contre une créature que vous pouvez voir à 120 ft. Si vous touchez, la cible prend 6d8 + votre niveau de moine dégâts de force.
+**Boule de Ki.** Vous pouvez canaliser votre ki en une décharge d'énergie. Pour une action, vous pouvez dépenser 2 points de ki pour réaliser une attaque de sort à distance (en utilisant votre modificateur de Sagesse + votre bonus de maîtrise) contre une créature que vous pouvez voir à 120 ft. Si vous touchez, la cible subit 6d8 + votre niveau de moine dégâts de force.
 
-**Uppercut.** Immédiatement après avoir réalisé une attaque de mêlée pendant votre tour contre une créature que vous pouvez voir, vous pouvez dépenser 1 point de ki pour réaliser un uppercut. Réalisez une attaque à mains nues pour une action bonus. Si vous touchez et que la cible est de taille L ou inférieure et qu'elle n'a pas tous ses points de vie, elle tombe [[au sol]] en plus de prendre des dégâts.
+**Uppercut.** Immédiatement après avoir réalisé une attaque de mêlée pendant votre tour contre une créature que vous pouvez voir, vous pouvez dépenser 1 point de ki pour réaliser un uppercut. Réalisez une attaque à mains nues pour une action bonus. Si vous touchez et que la cible est de taille L ou inférieure et qu'elle n'a pas tous ses points de vie, elle tombe [[au sol]] en plus de subir des dégâts.
 
 **Coup Tourbillon.** Lorsque vous réalisez une attaque de mêlée pendant votre tour contre une créature que vous pouvez voir, vous pouvez dépenser 1 point de ki pour bondir d'au plus 15 ft. vers votre cible avant de réaliser l'attaque. Ce mouvement ne provoque pas d'attaque d'opportunité. Vous pouvez réaliser ce mouvement même si cela signifie voyager dans les airs, mais vous tombez si rien vous retient après votre attaque.
 
 ## K.O
 
-À partir du niveau 17, vous pouvez dépenser 3 points de ki pour canaliser votre ki en un seul coup, assommant votre adversaire. Pour une action, réalisez une attaque à mains nues contre une créature à portée. Si vous touchez, la cible prend des dégâts normalement. Si la créature a 100 points de vie ou moins après avoir pris les dégâts, elle tombe à 0 points de vie, inconsciente mais stable.
+À partir du niveau 17, vous pouvez dépenser 3 points de ki pour canaliser votre ki en un seul coup, assommant votre adversaire. Pour une action, réalisez une attaque à mains nues contre une créature à portée. Si vous touchez, la cible subit des dégâts normalement. Si la créature a 100 points de vie ou moins après avoir pris les dégâts, elle tombe à 0 points de vie, inconsciente mais stable.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.
 
@@ -17772,7 +17771,7 @@ En tant que pratiquant de la voie du dragon ascendant, vous décidez comment vou
 
 ## Souffle du Dragon
 
-Également au niveau 3, vous pouvez créer de destructrices vagues d'énergie, comme celles créées par les dragons que vous imitez. Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par une exhalation d'énergie draconique dans un cube de 20 ft. ou une ligne de 30 ft. large de 5 ft. (votre choix). Choisissez un type de dégâts parmi acide, froid, feu, foudre et poison. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité ou prendre un nombre de dégâts du type choisi égal à deux lancers de votre dé d'arts martiaux. Si la créature réussit, elle ne prend que la moitié de ces dégâts.
+Également au niveau 3, vous pouvez créer de destructrices vagues d'énergie, comme celles créées par les dragons que vous imitez. Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par une exhalation d'énergie draconique dans un cube de 20 ft. ou une ligne de 30 ft. large de 5 ft. (votre choix). Choisissez un type de dégâts parmi acide, froid, feu, foudre et poison. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité ou subir un nombre de dégâts du type choisi égal à deux lancers de votre dé d'arts martiaux. Si la créature réussit, elle ne subit que la moitié de ces dégâts.
 
 Au niveau 11, les dégâts augmentent à 3 lancers de votre dé d'arts martiaux.
 
@@ -17802,7 +17801,7 @@ Au niveau 17, votre esprit draconique est à son paroxysme, vous bénéficiez de
 
 **Vision Aveugle.** Vous gagnez la [[vision aveugle]] sur une portée de 10 ft. Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglés ou dans les ténèbres. De plus, vous pouvez voir une créature invisible dans cette portée, sauf si elle réussit à se cacher de vous.
 
-**Furie Explosive.** Lorsque vous activez votre Aspect de Wyrm, une furie draconique explose en vous. Choisissez n'importe quel nombre de créatures que vous pouvez voir dans votre aura. Chacune de ces créatures doit réussir un jet de sauvegarde de Dextérité ou prendre 3d10 dégâts d'acide, de froid, de feu, de foudre ou de poison.
+**Furie Explosive.** Lorsque vous activez votre Aspect de Wyrm, une furie draconique explose en vous. Choisissez n'importe quel nombre de créatures que vous pouvez voir dans votre aura. Chacune de ces créatures doit réussir un jet de sauvegarde de Dextérité ou subir 3d10 dégâts d'acide, de froid, de feu, de foudre ou de poison.
 
 
 ---
@@ -17822,7 +17821,7 @@ De plus, vous pouvez choisir des dégâts tranchants plutôt que contondants ave
 
 ## Coup de Fouet du Pénitent
 
-Également au niveau 3, lorsque vous commencez votre tour, vous pouvez améliorer votre concentration en dépensant 1 point de ki et en vous frappant avec un fléau rituel. Vous pouvez choisir de prendre un ou plus d4 dégâts tranchants. Pour chacun de ces d4 dégâts tranchants que vous prenez, vous gagnez l'avantage à une attaque que vous réalisez avant la fin de votre tour. Chaque attaque doit utiliser une arme monastique ou être à mains nues. Cette aptitude n'a aucun effet si vous réduisez ou annulez les dégâts tranchants.
+Également au niveau 3, lorsque vous commencez votre tour, vous pouvez améliorer votre concentration en dépensant 1 point de ki et en vous frappant avec un fléau rituel. Vous pouvez choisir de subir un ou plus d4 dégâts tranchants. Pour chacun de ces d4 dégâts tranchants que vous prenez, vous gagnez l'avantage à une attaque que vous réalisez avant la fin de votre tour. Chaque attaque doit utiliser une arme monastique ou être à mains nues. Cette aptitude n'a aucun effet si vous réduisez ou annulez les dégâts tranchants.
 
 ## Art de la Punition
 
@@ -17836,11 +17835,11 @@ Au niveau 6, votre expertise de la discipline de la douleur vous confère de nou
 
 ## Pureté par la Douleur
 
-À partir du niveau 11, vous entrez dans une furie calme à chaque fois que vous êtes blessé. Lorsque vous prenez des dégâts supérieurs à votre niveau, vous pouvez utiliser votre réaction pour regagner 1d4 points de ki. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+À partir du niveau 11, vous entrez dans une furie calme à chaque fois que vous êtes blessé. Lorsque vous subissez des dégâts supérieurs à votre niveau, vous pouvez utiliser votre réaction pour regagner 1d4 points de ki. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Exsanguination
 
-À partir du niveau 17, lorsque vous utilisez votre Coup de Fouet du Pénitent et prenez 6d4 ou plus dégâts tranchants, vos attaques à mains nues infligent 1d4 dégâts tranchants supplémentaires jusqu'à la fin du tour.
+À partir du niveau 17, lorsque vous utilisez votre Coup de Fouet du Pénitent et subissez 6d4 ou plus dégâts tranchants, vos attaques à mains nues infligent 1d4 dégâts tranchants supplémentaires jusqu'à la fin du tour.
 
 
 ---
@@ -17862,7 +17861,7 @@ Lorsque vous choisissez cette tradition au niveau 3, vos arts martiaux particuli
 
 **Parade Habile.** Si vous réalisez une attaque à mains nues comme élément de votre action d'attaque pendant votre tour et que vous maniez une arme kensei, vous pouvez l'utiliser pour vous défendre, si c'est une arme de mêlée. Vous gagnez un bonus de +2 à la CA jusqu'au début de votre prochain tour, tant que vous maniez l'arme et n'êtes pas [[incapacité]].
 
-**Tir Kensei.** Vous pouvez utiliser votre action bonus pendant votre pour rendre une attaque à distance avec une arme kensei plus léthale encore. Lorsque vous le faites, toute cible que vous toucheriez avec une attaque à distance utilisant une arme kensei prend 1d4 dégâts supplémentaires du type de dégâts de l'arme. Vous conservez cet effet jusqu'à la fin de votre tour.
+**Tir Kensei.** Vous pouvez utiliser votre action bonus pendant votre pour rendre une attaque à distance avec une arme kensei plus léthale encore. Lorsque vous le faites, toute cible que vous toucheriez avec une attaque à distance utilisant une arme kensei subit 1d4 dégâts supplémentaires du type de dégâts de l'arme. Vous conservez cet effet jusqu'à la fin de votre tour.
 
 **Voie du Pinceau.** Vous maîtrisez les outils de calligraphes ou de peintre (au choix).
 
@@ -17914,7 +17913,7 @@ Au niveau 6, vous maîtrisez une technique spéciale qui devient rapidement syno
 
 **Coup de Boule de la Justice.** Une fois à chacun de vos tours lorsque vous ratez avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour enchaîner avec un rapide coup de boule. Réalisez une seconde attaque à mains nues contre la même cible. Le dé de dégâts de cette attaque est un d8.
 
-**Suplex de l'Infini.** Tant que vous êtes en lutte avec une autre créature, vous pouvez utiliser votre action bonus et dépenser 1 point de ki pour terminer la lutte en envoyant votre adversaire par-dessus votre épaule et en l'étalant au sol. Réalisez un jet d'attaque contre la créature que vous avez saisie. Si vous touchez, la créature prend des dégâts contondants égal à 2d10 + votre modificateur de Force et est mise [[au sol]]. La lutte se termine ensuite.
+**Suplex de l'Infini.** Tant que vous êtes en lutte avec une autre créature, vous pouvez utiliser votre action bonus et dépenser 1 point de ki pour terminer la lutte en envoyant votre adversaire par-dessus votre épaule et en l'étalant au sol. Réalisez un jet d'attaque contre la créature que vous avez saisie. Si vous touchez, la créature subit des dégâts contondants égal à 2d10 + votre modificateur de Force et est mise [[au sol]]. La lutte se termine ensuite.
 
 ## Sur la Corde
 
@@ -18004,7 +18003,7 @@ Un moine qui suit la voie du soi astral pense que son corps n'est qu'illusion. I
 
 ## Bras du Soi Astral
 
-Lorsque vous choisissez cette tradition au niveau 3, votre maîtrise du ki vous permet d'invoquer une partie de votre soi astral. Pour une action bonus, vous pouvez dépenser 1 point de ki pour invoquer les bras de votre soi astral. Lorsque vous le faites, chaque créature de votre choix que vous pouvez voir à 10 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre un nombre de dégâts de force égal à deux de vos dés d'Arts Martiaux.
+Lorsque vous choisissez cette tradition au niveau 3, votre maîtrise du ki vous permet d'invoquer une partie de votre soi astral. Pour une action bonus, vous pouvez dépenser 1 point de ki pour invoquer les bras de votre soi astral. Lorsque vous le faites, chaque créature de votre choix que vous pouvez voir à 10 ft. doit réussir un jet de sauvegarde de Dextérité ou subir un nombre de dégâts de force égal à deux de vos dés d'Arts Martiaux.
 
 Pendant 10 minutes, ces bras spectraux flottent au-dessus de vos épaules ou entourent vos bras (votre choix). Vous déterminez l'apparence de ces bras, et ils disparaissent si vous êtes [[incapacité]] ou mourez. Tant que ces bras spectraux sont présents, vous bénéficiez des effets suivants : 
 
@@ -18033,7 +18032,7 @@ Au niveau 11, lorsque vous avez et les bras et le visage du soi astral invoqués
 
 Tant que ce corps spectral est présent, vous bénéficiez des effets suivants : 
 
-**Redirection d'Énergie.** Lorsque vous prenez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour la rediriger. Lorsque vous le faites, les dégâts que vous prenez sont réduits de 1d10 + votre modificateur de Sagesse (minimum de 1).
+**Redirection d'Énergie.** Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour la rediriger. Lorsque vous le faites, les dégâts que vous prenez sont réduits de 1d10 + votre modificateur de Sagesse (minimum de 1).
 
 **Bras Renforcés.** Une fois à chacun de vos tours lorsque vous touchez une créature avec vos Bras du Soi Astral, vous pouvez infliger un nombre de dégâts supplémentaire à la cible égal à votre dé d'Arts Martiaux.
 
@@ -18402,9 +18401,9 @@ Comme toujours, vous ne pouvez pas réanimer un Mort-Vivant dont les points de v
 
 ## Sac d'Os
 
-Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un _sac d'os_. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces inoccupés à 5 ft.
+Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un *sac d'os*. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces inoccupés à 5 ft.
 
-Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau _sac d'os_. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous créiez un nouveau sac et ne le déversiez. 
+Vous pouvez transformer n'importe quel contenant que vous portez en *sac d'os* en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau *sac d'os*. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous créiez un nouveau sac et ne le déversiez. 
 
 ## Ambition Tombale
 
@@ -18435,7 +18434,7 @@ Au niveau 5, vos puissants pouvoirs nécromants punissent vos ennemis au premier
 
 De plus, vos jets d'attaque de sort infligent des coups critiques sur un 19 ou un 20.
 
-À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et prend des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
+À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et subit des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
 
 ## Présence Captivante
 
@@ -18538,7 +18537,7 @@ Au niveau 3, vous pouvez passer 10 minutes à installer une [[greffes monstrueus
 
 ## Voltage Charnel
 
-Au niveau 3, vous supplémentez votre énergie nécromantique d'arcs électriques. Vous pouvez choisir d'infliger des dégâts de foudre plutôt que nécrotiques avec votre Toucher Charnel. Lorsque vous touchez avec une attaque de Toucher Charnel qui inflige des dégâts de foudre et dépensez au moins 5 points de votre réservoir, vous pouvez faire en sorte que l'énergie nécromantique crée un arc vers une seconde créature à 5 ft. de la première. La seconde créature doit réussir un jet de sauvegarde de Dextérité ou prendre un montant de dégâts de foudre égal à la moitié du nombre de points de Toucher Charnel dépensés.
+Au niveau 3, vous supplémentez votre énergie nécromantique d'arcs électriques. Vous pouvez choisir d'infliger des dégâts de foudre plutôt que nécrotiques avec votre Toucher Charnel. Lorsque vous touchez avec une attaque de Toucher Charnel qui inflige des dégâts de foudre et dépensez au moins 5 points de votre réservoir, vous pouvez faire en sorte que l'énergie nécromantique crée un arc vers une seconde créature à 5 ft. de la première. La seconde créature doit réussir un jet de sauvegarde de Dextérité ou subir un montant de dégâts de foudre égal à la moitié du nombre de points de Toucher Charnel dépensés.
 
 ## Décharge de Lazare
 
@@ -18593,7 +18592,7 @@ Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez av
 
 ## Thralls Ballonnés
 
-Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 4d6 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
+Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
 
 ## Lichéité : Liche Corpulente
 
@@ -18675,24 +18674,24 @@ Construire par un assemblage sommaire d'os humanoïdes, une bête d'os ne ressem
 >- **Classe d'Armure** 14 (armure naturelle)
 >- **Points de Vie** 27 (5d8 + 5)
 >- **Vitesse** 40 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|12 (+1)|15 (+2)|13 (+1)|5 (-3)|10 (+0)|5 (-3)|
 > 
-> - __Immunités aux Dégâts.__ Poison
-> - __Immunités aux Conditions.__ [[Empoisonné]]
-> - __Sens.__ Vision dans le noir 60 ft., Perception Passive 10
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Immunités aux Dégâts.** Poison
+> - **Immunités aux Conditions.** [[Empoisonné]]
+> - **Sens.** Vision dans le noir 60 ft., Perception Passive 10
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1 (200 EXP) | +2 |
->___
+>*_*
 >
-> __Odorat Aiguisé.__ La bête d'os a l'avantage aux jets de Sagesse (Perception) qui reposent sur l'odorat.
+> **Odorat Aiguisé.** La bête d'os a l'avantage aux jets de Sagesse (Perception) qui reposent sur l'odorat.
 >
-> __Tactiques de Groupe.__ La bête d'os a l'avantage à ses jets d'attaque contre une créature si au moins un des alliés se trouve à 5 ft. de la créature et n'est pas [[incapacité]].
+> **Tactiques de Groupe.** La bête d'os a l'avantage à ses jets d'attaque contre une créature si au moins un des alliés se trouve à 5 ft. de la créature et n'est pas [[incapacité]].
 >
 >### Actions
 >***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 9 (2d6 +2) dégâts perçants.
@@ -18714,23 +18713,23 @@ Un esprit est l'écho à peine tangible d'un humanoïde, une âme liée au domai
 >- **Classe d'Armure** 15 (armure naturelle)
 >- **Points de Vie** 7 (2d8 - 2)
 >- **Vitesse** 25 ft.,, vol 25 ft. (flottaison)
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|9 (-1)|10 (+0)|10 (+0)|11 (+0)|
 > 
-> - __Vulnérabilité aux Dégâts.__ Radiants
-> - __Immunités aux Dégâts.__ Poison, Froid, Nécrotiques
-> - __Immunités aux Conditions.__ [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
-> - __Sens.__ Vision dans le noir 120 ft., Perception Passive 10
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Vulnérabilité aux Dégâts.** Radiants
+> - **Immunités aux Dégâts.** Poison, Froid, Nécrotiques
+> - **Immunités aux Conditions.** [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
+> - **Sens.** Vision dans le noir 120 ft., Perception Passive 10
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
->___
+>*_*
 >
-> __Mouvement Incorporel.__ L'esprit peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. L'esprit prend 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
+> **Mouvement Incorporel.** L'esprit peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. L'esprit subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
 >
 >### Actions
 >***Toucher Tombal.*** *Attaque Armée de Sort :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d4 +2) dégâts nécrotiques et les points de vie maximum de la cible sont réduits du montant de dégâts subis. Cette réduction persiste jusqu'à ce que la créature termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
@@ -18752,22 +18751,22 @@ Les goules nées-des-tombes, qui sont imprégnées de terribles énergies nécro
 >- **Classe d'Armure** 12
 >- **Points de Vie** 63 (14d8)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|10 (+0)|9 (-1)|10 (+0)|8 (-1)|
 > 
-> - __Immunités aux Dégâts.__ Poison
-> - __Immunités aux Conditions.__ [[Charmé]], [[Épuisement]], [[Empoisonné]]
-> - __Sens.__ Vision aveugle 60 ft., Perception Passive 10
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Immunités aux Dégâts.** Poison
+> - **Immunités aux Conditions.** [[Charmé]], [[Épuisement]], [[Empoisonné]]
+> - **Sens.** Vision aveugle 60 ft., Perception Passive 10
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 2 (450 EXP) | +2 |
->___
+>*_*
 >
-> __Régénération.__ La goule née-des-tombes regagne 5 points de vie au début de chacun de ses tours. Si la goule subit des dégâts de feu ou radiants, ce trait ne fonctionne pas au début du prochain tour de la goule. La goule ne meurt que si elle commence son tour à 0 point de vie et ne régénère pas. 
+> **Régénération.** La goule née-des-tombes regagne 5 points de vie au début de chacun de ses tours. Si la goule subit des dégâts de feu ou radiants, ce trait ne fonctionne pas au début du prochain tour de la goule. La goule ne meurt que si elle commence son tour à 0 point de vie et ne régénère pas. 
 >
 >### Actions
 >***Griffes.*** *Attaque Armée de Mêlée :* +6 pour toucher, portée 5 ft., une cible. *Touché :* 18 (4d6 +4) dégâts tranchants.
@@ -18789,21 +18788,21 @@ Restes réanimés d'humanoïdes morts depuis bien longtemps, les squelettes ne s
 >- **Classe d'Armure** 13 (restes d'armure)
 >- **Points de Vie** 13 (2d8 + 4)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|14 (+2)|15 (+2)|6 (-2)|8 (-1)|5 (-3)|
 > 
-> - __Vulnérabilités aux Dégâts.__ Contondants
-> - __Immunités aux Dégâts.__ Poison
-> - __Immunités aux Conditions.__ [[Empoisonné]], [[Épuisement]]
-> - __Sens.__ Vision dans le noir 60 ft., Perception Passive 9
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Vulnérabilités aux Dégâts.** Contondants
+> - **Immunités aux Dégâts.** Poison
+> - **Immunités aux Conditions.** [[Empoisonné]], [[Épuisement]]
+> - **Sens.** Vision dans le noir 60 ft., Perception Passive 9
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
->___
+>*_*
 >
 >### Actions
 >***Épée Courte.*** *Attaque Armée de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 5 (1d6 +2) dégâts perçants.
@@ -18848,24 +18847,24 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 >- **Classe d'Armure** 17 (armure naturelle)
 >- **Points de Vie** 40 (9d8)
 >- **Vitesse** 25 ft.,, vol 25 ft. (flottaison)
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|16 (+3)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 > 
-> - __Immunités aux Dégâts.__ Poison, Froid, Nécrotiques
-> - __Immunités aux Conditions.__ [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
-> - __Sens.__ Vision dans le noir 120 ft., Perception Passive 10
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Immunités aux Dégâts.** Poison, Froid, Nécrotiques
+> - **Immunités aux Conditions.** [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
+> - **Sens.** Vision dans le noir 120 ft., Perception Passive 10
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 2 (450 EXP) | +2 |
->___
+>*_*
 >
-> __Mouvement Incorporel.__ Le visage peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. Le visage prend 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
+> **Mouvement Incorporel.** Le visage peut se déplacer à travers les autres créatures et objets comme si c'était du terrain difficile. Le visage subit 5 (1d10) dégâts de force s'il termine son tour à l'intérieur d'un objet.
 >
-> __Résistance Magique.__ Le visage a l'avantage aux jets de sauvegarde qu'il réalise pour résister aux sorts et effets magiques.
+> **Résistance Magique.** Le visage a l'avantage aux jets de sauvegarde qu'il réalise pour résister aux sorts et effets magiques.
 >
 >### Actions
 >***Horrification.*** *Attaque Armée de Sort :* +5 pour toucher, portée 5 ft., une cible. *Touché :* 15 (5d4 +3) dégâts psychiques.
@@ -18889,22 +18888,22 @@ Un zombie est l'assemblage des restes en décomposition d'un être autrefois viv
 >- **Classe d'Armure** 8
 >- **Points de Vie** 22 (3d8 + 9)
 >- **Vitesse** 20 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 > 
-> - __Immunités aux Dégâts.__ Poison
-> - __Immunités aux Conditions.__ [[Empoisonné]]
-> - __Sens.__ Vision dans le noir 60 ft., Perception Passive 9
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Immunités aux Dégâts.** Poison
+> - **Immunités aux Conditions.** [[Empoisonné]]
+> - **Sens.** Vision dans le noir 60 ft., Perception Passive 9
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
->___
+>*_*
 >
->__Résilience Morte-Vivante.__ Si des dégâts réduisent le zombie à 0 point de vie, il doit réaliser un jet de sauvegarde de Constitution d'un DD égal à 5 + les dégâts pris, sauf si les dégâts sont radiants ou émanent d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie à la place.
+>**Résilience Morte-Vivante.** Si des dégâts réduisent le zombie à 0 point de vie, il doit réaliser un jet de sauvegarde de Constitution d'un DD égal à 5 + les dégâts pris, sauf si les dégâts sont radiants ou émanent d'un coup critique. En cas de succès, le zombie tombe à 1 point de vie à la place.
 >
 >### Actions
 >***Frappe.*** *Attaque Armée de Mêlée :* +3 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.
@@ -18925,22 +18924,22 @@ Amas abominable de chair, l'égorgeur ressemble encore vaguement à un humain de
 >- **Classe d'Armure** 8
 >- **Points de Vie** 36 (8d8)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|16 (+3)|7 (-2)|10 (+0)|7 (-2)|10 (+0)|6 (-2)|
 > 
-> - __Immunités aux Dégâts.__ Poison
-> - __Immunités aux Conditions.__ [[Empoisonné]]
-> - __Sens.__ Vision aveugle 10 ft., Vision dans le noir 60 ft., Perception Passive 10
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Immunités aux Dégâts.** Poison
+> - **Immunités aux Conditions.** [[Empoisonné]]
+> - **Sens.** Vision aveugle 10 ft., Vision dans le noir 60 ft., Perception Passive 10
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 1 (200 EXP) | +2 |
->___
+>*_*
 >
-> __Écholocalisation.__ L'égorgeur ne peut utiliser sa vision aveugle lorsqu'il est [[assourdi]].
+> **Écholocalisation.** L'égorgeur ne peut utiliser sa vision aveugle lorsqu'il est [[assourdi]].
 >
 >### Actions
 >***Morsure.*** *Attaque Armée de Mêlée :* +5 pour toucher, portée 5 ft., une cible. *Touché :* 12 (2d8 +3) dégâts perçants.
@@ -19036,9 +19035,9 @@ writing_status: empty
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 12, Pacte de la Peau_
+*Prérequis : niveau 12, Pacte de la Peau*
 
-Votre forme, déjà épaisse, devient presque impénétrable. Lorsque vous prenez des dégâts contondants, perçants ou tranchants d'une attaque non magique et non argentée, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts subis. 
+Votre forme, déjà épaisse, devient presque impénétrable. Lorsque vous pren subissez des dégâtsondants, perçants ou tranchants d'une attaque non magique et non argentée, vous pouvez utiliser votre réaction pour réduire de moitié les dégâts subis. 
 
 ---
 
@@ -19057,9 +19056,9 @@ Vous pouvez lancer le sort [[attrait des profondeurs]] une fois en utilisant un 
 ---
 writing_status: finished
 ---
-_Prérequis : Pacte de la Cape_
+*Prérequis : Pacte de la Cape*
 
-Tant que vous portez votre cape de pacte, vous ne prenez aucun dégâts de chute.
+Tant que vous portez votre cape de pacte, vous ne subissez aucun dégâts de chute.
 
 ---
 
@@ -19068,7 +19067,7 @@ Tant que vous portez votre cape de pacte, vous ne prenez aucun dégâts de chute
 ---
 writing_status: finished
 ---
-_Prérequis : Niveau 9_
+*Prérequis : Niveau 9*
 
 Vous pouvez lancer le sort [[seuil de protection]] à volonté, sans dépenser d'emplacement de sort ni de composantes matérielles. Le sort se termine prématurément si vous utilisez cette invocation pour le lancer à nouveau.
 
@@ -19079,7 +19078,7 @@ Vous pouvez lancer le sort [[seuil de protection]] à volonté, sans dépenser d
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 5_
+*Prérequis : niveau 5*
 
 Lorsque vous lancez un cantrip qui requiert une ou plusieurs attaques de sort à distance, vous pouvez réaliser des attaques armées de mêlée à la place. 
 
@@ -19100,7 +19099,7 @@ Vous pouvez lancer le sort [[empreinte sanguine]] à volonté, sans dépenser d'
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 12, Pacte de la Cape_
+*Prérequis : niveau 12, Pacte de la Cape*
 
 Vous pouvez lancer [[pas brumeux]] sans avoir à dépenser d'emplacement de sort en disparaissant dans votre cape de pacte, ne laissant derrière vous qu'un nuage de fumée. Vous pouvez utiliser cette invocation un nombre de fois égal à votre modificateur de Charisme (au moins 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -19111,7 +19110,7 @@ Vous pouvez lancer [[pas brumeux]] sans avoir à dépenser d'emplacement de sort
 ---
 writing_status: finished
 ---
-_Prérequis : Pacte de la Peau_
+*Prérequis : Pacte de la Peau*
 
 Les créatures dans votre allonge déclenchent des attaques d'opportunités même si elles utilisent leur action pour se désengager avant.
 
@@ -19122,7 +19121,7 @@ Les créatures dans votre allonge déclenchent des attaques d'opportunités mêm
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 3_
+*Prérequis : niveau 3*
 
 Vous pouvez lancer le sort [[appel de destrier]] une fois en utilisant un emplacement de sort d'occultiste. Vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
@@ -19142,20 +19141,20 @@ Vous pouvez lancer le sort [[fortification arcanique]] une fois en utilisant un 
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 9, Pacte de la Flamme_
+*Prérequis : niveau 9, Pacte de la Flamme*
 
 Pour une action, vous pouvez allumer une étincelle de magie incontrôlée pour lancer un sort aléatoire. Dépensez un emplacement de sort d'occultiste et tirez dans la table ci-dessous. Chaque entrée donne une liste de sort d'une école de magie ; vous devez choisir de lancer l'un des sorts de la liste obtenue en utilisant votre emplacement de sort d'occultiste, sans dépenser de composantes matérielles coûteuses. 
 
 | d8 | Sorts |
 | --- | ------------------------------------------------------------------------------------------------------------------- |
-| 1 | __Abjuration.__ [[Aide]], [[protection contre une énergie]], [[peau de pierre]], [[coquille antivie]] |
-| 2 | __Conjuration.__ [[Toile]], [[convocation de bête]], [[porte dimensionnelle]], [[brume mortelle]] |
-| 3 | __Divination.__ [[Détection des pensées]], [[discernement géomantique]], [[divination]], [[examen d'un adversaire]] |
-| 4 | __Enchantement.__ [[Suggestion]], [[malédiction de l'épée]], [[confusion]], [[immobilisation de monstre]] |
-| 5 | __Évocation__. [[Saute de vent]], [[boule de feu]], [[tempête de grêle]], [[mur de force]] |
-| 6 | __Illusion.__ [[Image miroir]], [[image majeure]], [[invisibilité supérieure]], [[apparence trompeuse]] |
-| 7 | __Nécromancie.__ [[Rayon affaiblissant]], [[malédiction persistante]], [[flétrissement]], [[contagion]] |
-| 8 | __Transmutation.__ [[Métal brûlant]], [[célérité]], [[métamorphose]], [[animation d'objets]] |
+| 1 | **Abjuration.** [[Aide]], [[protection contre une énergie]], [[peau de pierre]], [[coquille antivie]] |
+| 2 | **Conjuration.** [[Toile]], [[convocation de bête]], [[porte dimensionnelle]], [[brume mortelle]] |
+| 3 | **Divination.** [[Détection des pensées]], [[discernement géomantique]], [[divination]], [[examen d'un adversaire]] |
+| 4 | **Enchantement.** [[Suggestion]], [[malédiction de l'épée]], [[confusion]], [[immobilisation de monstre]] |
+| 5 | **Évocation**. [[Saute de vent]], [[boule de feu]], [[Tempête de Glace]], [[mur de force]] |
+| 6 | **Illusion.** [[Image miroir]], [[image majeure]], [[invisibilité supérieure]], [[apparence trompeuse]] |
+| 7 | **Nécromancie.** [[Rayon affaiblissant]], [[malédiction persistante]], [[flétrissement]], [[contagion]] |
+| 8 | **Transmutation.** [[Métal brûlant]], [[célérité]], [[métamorphose]], [[animation d'objets]] |
 
 
 ---
@@ -19165,7 +19164,7 @@ Pour une action, vous pouvez allumer une étincelle de magie incontrôlée pour 
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 15_
+*Prérequis : niveau 15*
 
 Votre patron vous confère le pouvoir nécessaire pour voler : cela se manifeste par une paire d'ailes (de morphologies variables), une sombre aura ou n'importe quel autre signe approprié pour votre patron. Tant que vous ne portez pas d'armure moyenne ou lourde, vous bénéficiez d'une vitesse de vol égale à votre vitesse de marche.
 
@@ -19176,7 +19175,7 @@ Votre patron vous confère le pouvoir nécessaire pour voler : cela se manifeste
 ---
 writing_status: finished
 ---
-_Prérequis : décharge occulte, Pacte de la Flamme_
+*Prérequis : décharge occulte, Pacte de la Flamme*
 
 Lorsque vous obtenez un 10 sur le dé de dégâts de votre décharge occulte, vous pouvez tirer un d10 supplémentaire et ajouter son résultat aux dégâts totaux, relançant encore si ce dé est un 10, et ainsi de suite. Vous pouvez lancer un total de 4 dés de dégâts pour ce jet de dégâts, ou 8 en cas de coup critique. 
 
@@ -19525,9 +19524,9 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 Lorsque vous atteignez le niveau 10, vous apprenez à modifier votre lancement de sorts de multiples façons, pour le dissimuler de votre audience comme pour élargir votre répertoire magique. Lorsque vous lancez un sort d'occultiste de niveau 1 ou plus en utilisant un emplacement de sort d'occultiste, vous pouvez le manipuler de l'une des deux façons suivantes : 
 
-__Dissimulation.__ Vous lancez le sort sans utiliser de composantes en réussissant un jet de Dextérité (Escamotage). Le DD pour ce jet est égal à 8 + le niveau du sort. Si vous échouez, le sort échoue et l'emplacement est gâché. Vous ne pouvez pas utiliser cette aptitude pour un sort avec une composante matérielle possédant un coût.
+**Dissimulation.** Vous lancez le sort sans utiliser de composantes en réussissant un jet de Dextérité (Escamotage). Le DD pour ce jet est égal à 8 + le niveau du sort. Si vous échouez, le sort échoue et l'emplacement est gâché. Vous ne pouvez pas utiliser cette aptitude pour un sort avec une composante matérielle possédant un coût.
 
-__Transmutation__. Vous pouvez essayer de lancer un autre sort de la liste de sort du magicien qui doit être du même niveau ou d'un niveau inférieur au sort que vous lancez. Lorsque vous le faites, vous devez réussir un jet de Charisme de DD 12 + le niveau du sort. Sinon, le sort échoue et l'emplacement est gâché.
+**Transmutation**. Vous pouvez essayer de lancer un autre sort de la liste de sort du magicien qui doit être du même niveau ou d'un niveau inférieur au sort que vous lancez. Lorsque vous le faites, vous devez réussir un jet de Charisme de DD 12 + le niveau du sort. Sinon, le sort échoue et l'emplacement est gâché.
 
 ## Maître des Illusions
 
@@ -19601,7 +19600,7 @@ writing_status: empty
 ---
 writing_status: finished
 ---
-Même si la plupart des occultistes forment des pactes avec des entités distantes et intangibles, votre patron à vous est un être bien physique au pouvoir incommensurable ; un être qui vit au sein même de votre corps. Cet _arrangement_ s'est fait dans l'esprit de la symbiose : votre patron, qui ressemble à un ichor musculaire, nécessite un hôte mortel et vous profitez en retour de sa magie. Vous pouvez même extirper votre patron de sa résidence dans votre sang pour qu'il revête votre peau, vous transformant en un monstre hybride aux griffes et dents acérées. 
+Même si la plupart des occultistes forment des pactes avec des entités distantes et intangibles, votre patron à vous est un être bien physique au pouvoir incommensurable ; un être qui vit au sein même de votre corps. Cet *arrangement* s'est fait dans l'esprit de la symbiose : votre patron, qui ressemble à un ichor musculaire, nécessite un hôte mortel et vous profitez en retour de sa magie. Vous pouvez même extirper votre patron de sa résidence dans votre sang pour qu'il revête votre peau, vous transformant en un monstre hybride aux griffes et dents acérées. 
 
 ## Liste de Sorts Étendue 
 
@@ -19619,9 +19618,9 @@ Le Symbiont vous laisse choisir parmi une liste de sorts étendue lorsque vous a
 
 À partir du moment où vous choisissez ce patron au niveau 1, vous pouvez extirper votre Symbiont afin qu'il recouvre votre corps d'un exosquelette vivant et visqueux. Vous pouvez subir cette transformation ou l'inverser en une action bonus pendant votre tour. Tant que vous êtes transformé, vous ne pouvez pas lancer de sorts, mais se transformer ne rompt pas la concentration et ne vous empêche pas de prendre des actions qui vous sont conférées par un sort que vous avez déjà lancé. Tant que vous êtes transformé, vous bénéficiez des effets suivants :
 
- - __La Chair.__ Tant que vous ne portez pas d'armure, votre CA de base est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme. Vous pouvez utiliser La Chair pour déterminer votre CA si la CA de votre armure est inférieure. L'effet d'un bouclier s'applique normalement lorsque vous utilisez La Chair.
- - __Les Griffes.__ Vous vous voyez pousser une paire d'immondes griffes, que vous pouvez utiliser comme armes naturelles de mêlée. Vous maîtrisez vos attaques de griffes et pouvez utiliser votre modificateur de Charisme plutôt que de Force pour vos jets d'attaque et de dégâts. Si vous touchez, vos griffes infligent 1d8 dégâts tranchants, qui sont considérées comme magiques vis-à-vis de la résistance et de l'immunité aux attaques et dégâts non magiques. Si vous obtenez plutôt l'aptitude du Pacte de la Lame, vos griffes sont considérées comme des armes de pactes.
- - __Attaque Supplémentaire.__ Au niveau 5, vous pouvez attaquer deux fois plutôt qu'une avec vos griffes lorsque vous utiliser votre action pour Attaquer pendant votre tour.
+ - **La Chair.** Tant que vous ne portez pas d'armure, votre CA de base est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme. Vous pouvez utiliser La Chair pour déterminer votre CA si la CA de votre armure est inférieure. L'effet d'un bouclier s'applique normalement lorsque vous utilisez La Chair.
+ - **Les Griffes.** Vous vous voyez pousser une paire d'immondes griffes, que vous pouvez utiliser comme armes naturelles de mêlée. Vous maîtrisez vos attaques de griffes et pouvez utiliser votre modificateur de Charisme plutôt que de Force pour vos jets d'attaque et de dégâts. Si vous touchez, vos griffes infligent 1d8 dégâts tranchants, qui sont considérées comme magiques vis-à-vis de la résistance et de l'immunité aux attaques et dégâts non magiques. Si vous obtenez plutôt l'aptitude du Pacte de la Lame, vos griffes sont considérées comme des armes de pactes.
+ - **Attaque Supplémentaire.** Au niveau 5, vous pouvez attaquer deux fois plutôt qu'une avec vos griffes lorsque vous utiliser votre action pour Attaquer pendant votre tour.
 
 ## Déchirure Traumatique
 
@@ -19644,7 +19643,7 @@ Au niveau 10, votre patron parasitique peut drainer la vie de ceux autour de vou
 ---
 writing_status: finished
 ---
-Votre patron n'est autre que vous, dans plusieurs décennies. Peut-être que le vous du futur a trouvé un artefact si puissant qu'il relie vos deux temporalités et force votre alter ego à vous conduire à sa découverte. Peut-être que les arts mystiques ont été transmis il y a fort longtemps par leur version du futur, et que le cycle continue par votre apprentissage et continuera par votre enseignement. Votre vous du futur a oublié la majorité des détails qu'il considère `inutile` et refuse simplement de vous parler des choses que vous ne pouvez _pas encore savoir_. Il vous offre néanmoins une assistance et des opinions sur les évènements à venir. Vous n'êtes pas bien sûr de ce que cette entité du futur peut avoir de planifié pour votre futur (et son passé), mais une chose est sûre : elle a besoin de vous en vie.
+Votre patron n'est autre que vous, dans plusieurs décennies. Peut-être que le vous du futur a trouvé un artefact si puissant qu'il relie vos deux temporalités et force votre alter ego à vous conduire à sa découverte. Peut-être que les arts mystiques ont été transmis il y a fort longtemps par leur version du futur, et que le cycle continue par votre apprentissage et continuera par votre enseignement. Votre vous du futur a oublié la majorité des détails qu'il considère `inutile` et refuse simplement de vous parler des choses que vous ne pouvez *pas encore savoir*. Il vous offre néanmoins une assistance et des opinions sur les évènements à venir. Vous n'êtes pas bien sûr de ce que cette entité du futur peut avoir de planifié pour votre futur (et son passé), mais une chose est sûre : elle a besoin de vous en vie.
 
 ## Particularités de Futur Vous
 
@@ -19774,7 +19773,7 @@ Au niveau 15, le paladin devient résistant aux dégâts contondants, perçants 
 
 ## Seigneur de l'Effroi
 
-Au niveau 20, le paladin peut, pour une action, s'envelopper d'une aura de désespoir qui persiste pendant 1 minute. L'aura réduit toute lumière vive dans un rayon de 30 ft. autour du paladin vers de la lumière faible. Lorsqu'un ennemi [[apeuré]] par le paladin commence son tour dans l'aura, il prend 4d10 dégâts psychiques. De plus, le paladin et les créatures qu'il choisit sont enveloppés dans des ombres encore plus profondes. Les créatures qui se reposent sur la vue ont le désavantage aux jets d'attaque contre les créatures drapées dans cette ombre.
+Au niveau 20, le paladin peut, pour une action, s'envelopper d'une aura de désespoir qui persiste pendant 1 minute. L'aura réduit toute lumière vive dans un rayon de 30 ft. autour du paladin vers de la lumière faible. Lorsqu'un ennemi [[apeuré]] par le paladin commence son tour dans l'aura, il subit 4d10 dégâts psychiques. De plus, le paladin et les créatures qu'il choisit sont enveloppés dans des ombres encore plus profondes. Les créatures qui se reposent sur la vue ont le désavantage aux jets d'attaque contre les créatures drapées dans cette ombre.
 
 Tant que cette aura existe, le paladin peut utiliser son action bonus pendant son tour pour faire attaquer les ombres. Le paladin réalise une attaque de sort de mêlée contre une cible dans l'aura. Si l'attaque touche, elle inflige 3d10 + le modificateur de Charisme du paladin dégâts nécrotiques.
 
@@ -20130,7 +20129,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Blasphème.** Pour une action en utilisant votre Canal Divin, vous prononcez une série de mots profondément hérétiques qui font trembler la pièce. Chaque créature que vous choisissez à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature prend 2d6 dégâts psychiques par point de votre bonus de maîtrise et est [[assourdi|assourdie]] pendant 1 minute. Si elle réussit, la créature ne prend que la moitié des dégâts et n'est pas assourdie.
+**Blasphème.** Pour une action en utilisant votre Canal Divin, vous prononcez une série de mots profondément hérétiques qui font trembler la pièce. Chaque créature que vous choisissez à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature subit 2d6 dégâts psychiques par point de votre bonus de maîtrise et est [[assourdi|assourdie]] pendant 1 minute. Si elle réussit, la créature ne subit que la moitié des dégâts et n'est pas assourdie.
 
 **Renvoi du Sacré.** Pour une action en utilisant votre Canal Divin, vous censurez les Célestes et autres hommes de foi. Chaque Céleste que vous pouvez voir ou entendre à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse. Chaque Humanoïde à portée qui peut lancer des sorts de niveau 1 ou plus en utilisant la Sagesse comme caractéristique d'incantation doit également réaliser un jet de sauvegarde de Sagesse. Si une créature échoue son jet de sauvegarde, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 
@@ -20198,13 +20197,13 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 À partir du niveau 7, vous émanez constamment une aura menaçante, à condition que vous ne soyez pas [[incapacité]]. L'aura s'étend de 10 ft. autour de vous dans toutes les directions, mais pas à travers les couvertures totales.
 
-Si est une créature est [[apeuré|apeurée]] par vous, sa vitesse est réduite à 0 tant qu'elle se trouve dans l'aura et la créature prend un nombre de dégâts psychiques égal à la moitié de votre niveau de paladin lorsqu'elle y commence son tour.
+Si est une créature est [[apeuré|apeurée]] par vous, sa vitesse est réduite à 0 tant qu'elle se trouve dans l'aura et la créature subit un nombre de dégâts psychiques égal à la moitié de votre niveau de paladin lorsqu'elle y commence son tour.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Représailles Méprisantes
 
-À partir du niveau 15, ceux qui osent vous frapper se trouvent psychiquement punis pour leur audace. Lorsqu'une créature vous touche avec une attaque, elle prend un nombre de dégâts psychiques égal à votre modificateur de Charisme (minimum de 1), tant que vous n'êtes pas [[incapacité]].
+À partir du niveau 15, ceux qui osent vous frapper se trouvent psychiquement punis pour leur audace. Lorsqu'une créature vous touche avec une attaque, elle subit un nombre de dégâts psychiques égal à votre modificateur de Charisme (minimum de 1), tant que vous n'êtes pas [[incapacité]].
 
 ## Conquérant Invincible
 
@@ -20274,7 +20273,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 Au niveau 20, pour une action, vous pouvez émaner une aura de lumière solaire. Pendant 1 minute, une lumière vive émane de vous sur un rayon de 30 ft. et une lumière faible sur 30 ft. supplémentaire.
 
-Lorsqu'une créature ennemie commence son tour dans la lumière vive, elle prend 10 dégâts radiants.
+Lorsqu'une créature ennemie commence son tour dans la lumière vive, elle subit 10 dégâts radiants.
 
 De plus, pendant cette durée, vous avez l'avantage aux jets de sauvegarde contre les sorts lancés par les fiélons ou les morts-vivants.
 
@@ -20383,7 +20382,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Quod Est Superius Est.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour conjurer un feu cosmique des Plans Supérieurs pour brûler une créature que vous pouvez voir à 30 ft. La cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle prend 10 + votre niveau de paladin dégâts radiants et devient immergée de lumière éthérée, l'empêchant d'utiliser son action pour Se Cacher ou de devenir [[invisible]] pendant 1 minute.
+**Quod Est Superius Est.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour conjurer un feu cosmique des Plans Supérieurs pour brûler une créature que vous pouvez voir à 30 ft. La cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle subit 10 + votre niveau de paladin dégâts radiants et devient immergée de lumière éthérée, l'empêchant d'utiliser son action pour Se Cacher ou de devenir [[invisible]] pendant 1 minute.
 
 **Sicut Quod Est Inferius.** Pour une action, vous pouvez utiliser votre Canal Divin pour conjurer la vigueur corrompue des Plans Inférieurs afin de renforcer votre voix. Chaque Fée, Céleste et Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
 
@@ -20438,8 +20437,8 @@ Vous gagnez les sorts de serment suivants :
 | ----------------- | ------------------------------------------------- |
 | 3 | [[Création ou destruction d'eau]], [[brouillard]] |
 | 5 | [[Immobilisation de personne]], [[fracassement]] |
-| 9 | [[Tempête de neige]], [[lenteur]] |
-| 13 | [[Bouclier de feu]], [[tempête de grêle]] |
+| 9 | [[5e/docs/sorts/03/Tempête de Grêle]], [[lenteur]] |
+| 13 | [[Bouclier de feu]], [[Tempête de Glace]] |
 | 17 | [[Cône de froid]], [[immobilisation de monstre]] |
 
 ## Canal Divin
@@ -20448,7 +20447,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Armure de Glace.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour recouvrir votre armure d'une épaisse couche de glace protectrice. Vous gagnez un nombre de points de vie temporaires égal à deux fois votre niveau de paladin + votre modificateur de Charisme. Vous retirez les dégâts de feu de ces points de vie temporaires comme si vous y étiez vulnérable, mais si des dégâts de feu viennent réduire vos points de vie temporaires à zéro, vous ne reportez pas les dégâts restants sur vos points de vie, la glace fondue venant absorber la chaleur restante.
 
-**Vent du Nord.** Vous pouvez utiliser votre Canal Divin en une action pour souffler un vent chenu. Toutes les créatures dans un cône de 30 ft. doivent réaliser un jet de sauvegarde de Constitution. Une créature qui échoue ce jet prend 2d6 dégâts de froid pour chacun de vos points de bonus de maîtrise et voit sa vitesse être réduite de moitié jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et sa vitesse n'est pas réduite. Une créature tuée par cette aptitude devient une statue gelée jusqu'à ce qu'elle fonde. 
+**Vent du Nord.** Vous pouvez utiliser votre Canal Divin en une action pour souffler un vent chenu. Toutes les créatures dans un cône de 30 ft. doivent réaliser un jet de sauvegarde de Constitution. Une créature qui échoue ce jet subit 2d6 dégâts de froid pour chacun de vos points de bonus de maîtrise et voit sa vitesse être réduite de moitié jusqu'au début de votre prochain tour. Si elle réussit, la créature subit la moitié des dégâts et sa vitesse n'est pas réduite. Une créature tuée par cette aptitude devient une statue gelée jusqu'à ce qu'elle fonde. 
 
 ## Aura Frigide
 
@@ -20458,13 +20457,13 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Chair de Froid
 
-Au niveau 15, lorsque vous prenez des dégâts ou êtes [[paralysé]], [[aveuglé]], [[assourdi]], [[pétrifié]] ou [[empoisonné]], vous pouvez utiliser votre réaction pour geler le sang dans vos veines et retarder l'effet. Les dégâts ou la condition sont suspendus pour 1 minute, après quoi ils vous affectent normalement. Cette aptitude met en pause la durée des sorts qui ne vous affectent que pour imposer une condition, et le lanceur de sort n'a pas à maintenir la concentration sur de tels sorts jusqu'à ce que l'effet reprenne. Vous ne pouvez geler qu'une condition ou une instance de dégâts à la fois. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 1 minute.
+Au niveau 15, lorsque vous subissez des dégâts ou êtes [[paralysé]], [[aveuglé]], [[assourdi]], [[pétrifié]] ou [[empoisonné]], vous pouvez utiliser votre réaction pour geler le sang dans vos veines et retarder l'effet. Les dégâts ou la condition sont suspendus pour 1 minute, après quoi ils vous affectent normalement. Cette aptitude met en pause la durée des sorts qui ne vous affectent que pour imposer une condition, et le lanceur de sort n'a pas à maintenir la concentration sur de tels sorts jusqu'à ce que l'effet reprenne. Vous ne pouvez geler qu'une condition ou une instance de dégâts à la fois. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 1 minute.
 ## Père Hiver
 
 Au niveau 20, vous pouvez inviter le plus pur des froids en vous en une action, devenant une effigie du Père Hiver. Pendant la prochaine heure, vous bénéficiez des effets suivants : 
 
  - Vous êtes immunisé aux dégâts de froid.
- - Lorsqu'une créature à 5 ft. vous inflige des dégâts et que vous n'êtes pas [[incapacité]], elle prend 2d10 dégâts de froid.
+ - Lorsqu'une créature à 5 ft. vous inflige des dégâts et que vous n'êtes pas [[incapacité]], elle subit 2d10 dégâts de froid.
  - Vous émettez une aura de froid intense sur 10 ft. autour de vous qui gèle le sol. La zone de cette aura est considérée comme du terrain difficile. Vous pouvez choisir des créatures qui ne seront pas affectées par cette aura.
  - Pendant votre tour, vous pouvez aspirer la chaleur environnante, éteignant les feux non magiques de votre choix que vous pouvez voir à 30 ft. (aucune action requise).
 
@@ -20511,7 +20510,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 **Revirement.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour revigorer des créatures blessées. Chaque créature de votre choix qui peut vous entendre à 30 ft. regagne 1d6 + votre modificateur de Charisme (minimum 1) points de vie, à condition qu'elle n'ait pas plus de la moitié de ses points de vie.
 ## Allégeance Divine
 
-À partir du niveau 7, lorsqu'une créature à 5 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour magiquement substituer votre état physique au sien. Ainsi, la créature cible ne prend pas de dégâts et vous les prenez à la place. Ces dégâts ne peuvent être prévenus ou réduits d'aucune façon.
+À partir du niveau 7, lorsqu'une créature à 5 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour magiquement substituer votre état physique au sien. Ainsi, la créature cible ne subit pas de dégâts et vous les prenez à la place. Ces dégâts ne peuvent être prévenus ou réduits d'aucune façon.
 
 ## Esprit Inflexible
 
@@ -20566,7 +20565,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Couche Marine.** Pour une action et en utilisant votre Canal Divin, vous pouvez canaliser les mers pour créer un épais nuage de brouillard qui vous enveloppe sur 20 ft. dans toutes les directions. Le brouillard se déplace avec vous, reste centré sur vous et rend la zone fortement obscurcie. Vous et chaque créature à 5 ft. de vous traitez la zone comme faiblement obscurcie à la place. Ce brouillard persiste 10 minutes, se répand autour des coins et ne peut être dispersé sauf si vous décidez de terminer cet effet (aucune action requise).
 
-**Furie des Marées.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour canaliser la puissance des vagues afin de renforcer vos attaques pendant 1 minute. Une fois par tour pendant cette durée, lorsque vous touchez une créature avec une attaque armée, vous pouvez choisir de repousser la cible de 10 ft. à l'opposé de vous. Si elle est repoussée vers un obstacle ou une autre créature, la cible prend un nombre de dégâts contondants égal à votre modificateur de Charisme.
+**Furie des Marées.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour canaliser la puissance des vagues afin de renforcer vos attaques pendant 1 minute. Une fois par tour pendant cette durée, lorsque vous touchez une créature avec une attaque armée, vous pouvez choisir de repousser la cible de 10 ft. à l'opposé de vous. Si elle est repoussée vers un obstacle ou une autre créature, la cible subit un nombre de dégâts contondants égal à votre modificateur de Charisme.
 ## Aura de Libération
 
 À partir du niveau 7, vous emplissez les créatures proches d'énergie cinétique. Tant que vous n'êtes pas [[incapacité]], vous et les créatures de votre choix à 10 ft. de vous ne pouvez être [[saisi|saisis]] ou [[retenu|retenus]] et ignorez les pénalités de mouvement et attaques lorsque vous êtes sous l'eau. Les créatures qui sont déjà [[saisi|saisie]] ou [[retenu|retenue]] lorsqu'elles pénètrent dans l'aura peuvent dépenser 5 ft. de mouvement pour s'échapper automatiquement, sauf si les entraves sont magiques.
@@ -20574,7 +20573,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 ## Eaux Tempétueuses
 
-Au niveau 15, vous pouvez faire appel aux forces des mers agitées comme réaction lorsqu'une créature rentre ou sort de votre portée. La créature prend 1d12 dégâts contondants et doit réussir un jet de sauvegarde de Force ou être mise [[au sol]].
+Au niveau 15, vous pouvez faire appel aux forces des mers agitées comme réaction lorsqu'une créature rentre ou sort de votre portée. La créature subit 1d12 dégâts contondants et doit réussir un jet de sauvegarde de Force ou être mise [[au sol]].
 
 ## Bretteur des Légendes
 
@@ -20629,7 +20628,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Vœu de Sustentation.** Pour une action bonus et en utilisant votre Canal Divin, vous pouvez placer une marque sur une créature que vous pouvez voir à 60 ft. de vous. Lorsque vous utilisez cette action bonus, et au début de chacun de ses tours pour la prochaine minute, la créature gagne un nombre de points de vie temporaires égal à 2 fois votre modificateur de Charisme.
 
-**Partage de Vitalité.** Pour une action bonus et en utilisant votre Canal Divin, vous pouvez prendre n'importe quel nombre de dégâts nécrotiques, jusqu'à votre nombre actuel de points de vie. Ces dégâts ne peuvent pas être prévenus ou réduits d'aucune façon. Jusqu'à 4 créatures que vous pouvez voir à 30 ft. regagne un nombre de points de vie égal à la moitié des dégâts nécrotiques que vous avez subis.
+**Partage de Vitalité.** Pour une action bonus et en utilisant votre Canal Divin, vous pouvez subir n'importe quel nombre de dégâts nécrotiques, jusqu'à votre nombre actuel de points de vie. Ces dégâts ne peuvent pas être prévenus ou réduits d'aucune façon. Jusqu'à 4 créatures que vous pouvez voir à 30 ft. regagne un nombre de points de vie égal à la moitié des dégâts nécrotiques que vous avez subis.
 
 ## Aura de Réjuvénation
 
@@ -20658,7 +20657,7 @@ Au niveau 20, pour une action bonus, vous devenez l'incarnation même de la forc
 
  - Au début de chacun de vos tours, chaque créature de votre choix dans un rayon de 30 ft. (vous y compris) regagne un nombre de points de vie égal à votre modificateur de Charisme et gagne un nombre de points de vie temporaires également égal à votre modificateur de Charisme.
  - Pour une action bonus, vous pouvez lancer le sort [[retour à la vie]] même sans l'avoir préparé et sans dépenser d'emplacement de sort (les composantes sont néanmoins toujours requises).
- - À chaque fois qu'une créature à 30 ft. de vous prend des dégâts, vous pouvez utiliser votre réaction pour lui conférer la résistance à ces dégâts.
+ - À chaque fois qu'une créature à 30 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour lui conférer la résistance à ces dégâts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
@@ -20712,7 +20711,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Voile Nocturne
 
-Au niveau 15, pour une réaction lorsque vous prenez des dégâts, vous pouvez relâcher de petits flocons de ténèbres qui tournoient brièvement autour de vous avant de disparaître. La prochaine attaque réalisée contre vous avant le début de votre prochain tour a le désavantage.
+Au niveau 15, pour une réaction lorsque vous subissez des dégâts, vous pouvez relâcher de petits flocons de ténèbres qui tournoient brièvement autour de vous avant de disparaître. La prochaine attaque réalisée contre vous avant le début de votre prochain tour a le désavantage.
 ## Forme d'Ombres
 
 Au niveau 20, vous pouvez prendre la forme d'un chasseur ténébreux, puisant un pouvoir incroyable de l'obscurité autour de vous. En utilisant votre action, vous pouvez vous transformer et profiter des effets suivants tant que vous êtes dans une lumière faible ou l'obscurité pendant la prochaine heure : 
@@ -20787,7 +20786,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Vers d'Autres Cieux
 
-Au niveau 15, vous avez appris de vos précédentes escarmouches comment toujours s'en sortir indemne. Lorsque vous tombez à 0 point de vie mais que vous n'êtes pas tué sur le coup, vous pouvez choisir de tomber à 1 point de vie à la place. Si vous le faites, vous ou vous et vos alliés bénéficiant de votre aura de vitesse êtes immédiatement projetés dans les airs dans une explosion de fumée et atterrissez 5d100 ft. plus loin dans la direction de votre choix (ou dans l'espace vide le plus proche si la direction est bloquée, à la discrétion du MJ). Vous ne prenez aucun dégâts de chute suite à ce déplacement et il ne provoque pas d'attaque d'opportunité.
+Au niveau 15, vous avez appris de vos précédentes escarmouches comment toujours s'en sortir indemne. Lorsque vous tombez à 0 point de vie mais que vous n'êtes pas tué sur le coup, vous pouvez choisir de tomber à 1 point de vie à la place. Si vous le faites, vous ou vous et vos alliés bénéficiant de votre aura de vitesse êtes immédiatement projetés dans les airs dans une explosion de fumée et atterrissez 5d100 ft. plus loin dans la direction de votre choix (ou dans l'espace vide le plus proche si la direction est bloquée, à la discrétion du MJ). Vous ne subissez aucun dégâts de chute suite à ce déplacement et il ne provoque pas d'attaque d'opportunité.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
@@ -20907,11 +20906,11 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Émissaire de Paix.** Vous pouvez utiliser votre Canal Divin pour améliorer votre présence grâce à du pouvoir divin. Pour une action bonus, vous vous conférez un bonus de +5 aux jets de Charisme (Persuasion) pendant 10 minutes.
 
-**Représailles contre les Violents.** Vous pouvez utiliser votre Canal Divin pour punir ceux qui usent de violence. Immédiatement après qu'une créature à 30 ft. inflige des dégâts par une attaque contre une créature autre que vous, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. S'il échoue, l'attaquant prend un nombre de dégâts radiants égal aux dégâts qu'il vient d'infliger. S'il réussit, il prend la moitié des dégâts.
+**Représailles contre les Violents.** Vous pouvez utiliser votre Canal Divin pour punir ceux qui usent de violence. Immédiatement après qu'une créature à 30 ft. inflige des dégâts par une attaque contre une créature autre que vous, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. S'il échoue, l'attaquant subit un nombre de dégâts radiants égal aux dégâts qu'il vient d'infliger. S'il réussit, il subit la moitié des dégâts.
 
 ## Aura du Gardien
 
-À partir du niveau 7, vous pouvez protéger les autres de la souffrance au prix de votre propre santé. Lorsqu'une créature à 10 ft. de vous prend des dégâts, vous pouvez utiliser votre réaction pour prendre magiquement ces dégâts à la place de la créature ciblée. Cette aptitude ne transfère pas les effets qui pourraient accompagner les dégâts et les dégâts ainsi reçus ne peuvent être réduits d'aucune façon.
+À partir du niveau 7, vous pouvez protéger les autres de la souffrance au prix de votre propre santé. Lorsqu'une créature à 10 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour subir magiquement ces dégâts à la place de la créature ciblée. Cette aptitude ne transfère pas les effets qui pourraient accompagner les dégâts et les dégâts ainsi reçus ne peuvent être réduits d'aucune façon.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
@@ -20923,7 +20922,7 @@ Au niveau 15, une présence sacrée soigne vos blessures en combat. Vous regagne
 Au niveau 20, vous devenez un avatar de paix, ce qui vous confère deux effets : 
 
  - Vous devenez résistant à tous les dégâts infligés par d'autres créatures.
- - Lorsqu'une créature vous touche avec une attaque, elle prend un nombre de dégâts radiants égal à la moitié des dégâts qu'elle vous inflige par cette attaque.
+ - Lorsqu'une créature vous touche avec une attaque, elle subit un nombre de dégâts radiants égal à la moitié des dégâts qu'elle vous inflige par cette attaque.
 
 Si vous attaquez une créature, lui lancez un sort ou lui infligez des dégâts de quelque façon que ce soit autre que cette aptitude, aucun de ces effets ne fonctionne contre cette créature jusqu'à ce que vous terminiez un repos long
 
@@ -21018,7 +21017,7 @@ Vous gagnez les sorts de serment suivants :
 | 3 | [[Frappe piégeuse]], [[communication avec les animaux]] |
 | 5 | [[Pas brumeux]], [[rayon lunaire]] |
 | 9 | [[Croissance végétale]], [[protection contre une énergie]] |
-| 13 | [[Tempête de grêle]], [[peau de pierre]] |
+| 13 | [[Tempête de Glace]], [[peau de pierre]] |
 | 17 | [[Communion avec la nature]], [[passage par les arbres]] |
 
 ## Canal Divin
@@ -21114,7 +21113,7 @@ Au niveau 15, tant que vous vous concentrez sur un sort de paladin, votre concen
 Au niveau 20, pour une action, vous pouvez émaner un champ de magie pétillante sur un rayon de 30 ft. Pendant 1 minute, vous bénéficiez des effets suivants :
 
  - Vous avez la résistance aux dégâts de sorts et avez l'avantage aux jets de sauvegarde contre les sorts.
- - Lorsqu'une créature vous touche avec une attaque de mêlée, cette créature prend un nombre de dégâts de force égal à votre modificateur de Charisme alors que l'énergie magique même se déchaîne contre elle.
+ - Lorsqu'une créature vous touche avec une attaque de mêlée, cette créature subit un nombre de dégâts de force égal à votre modificateur de Charisme alors que l'énergie magique même se déchaîne contre elle.
  - Lorsque vous dépensez un emplacement de sort de niveau 1 ou plus, les créatures alliées dans votre champ de magie regagnent un nombre de points de vie égal à votre modificateur de Charisme tandis que les créatures hostiles prennent le même nombre de dégâts de force.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
@@ -21211,14 +21210,14 @@ Vous gagnez les sorts de serment suivants :
 | 3 | [[Brouillard]], [[vague tonnante]] |
 | 5 | [[Saute de vent]], [[immobilisation de personne]] |
 | 9 | [[Appel de la foudre]], [[mur de vent]] |
-| 13 | [[Contrôle de l'eau]], [[tempête de grêle]] |
+| 13 | [[Contrôle de l'eau]], [[Tempête de Glace]] |
 | 17 | [[Communion avec la Nature]], [[immobilisation de monstre]] |
 
 ## Canal Divin
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Revanche Foudroyante.** Vous pouvez utiliser votre Canal Divin pour frapper avec la furie des tempêtes. Immédiatement après qu'une créature que vous pouvez voir à 30 ft. vous inflige des dégâts avec une attaque, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. En cas d'échec, l'attaquant prend un nombre de dégâts de foudre égal aux dégâts qu'il vient d'infliger. En cas de succès, il en prend la moitié.
+**Revanche Foudroyante.** Vous pouvez utiliser votre Canal Divin pour frapper avec la furie des tempêtes. Immédiatement après qu'une créature que vous pouvez voir à 30 ft. vous inflige des dégâts avec une attaque, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. En cas d'échec, l'attaquant subit un nombre de dégâts de foudre égal aux dégâts qu'il vient d'infliger. En cas de succès, il en subit la moitié.
 
 **Marche sur les Vagues.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour apaiser votre relation avec la mer. Pendant la prochaine heure, vous bénéficiez des effets du sort [[marche sur l'eau]] et votre vitesse est doublée lorsque vous marchez sur l'eau.
 
@@ -21233,7 +21232,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 À partir du niveau 15, vous avez la résistance aux dégâts de foudre.
 
-De plus, lorsqu'une créature que vous pouvez voir à 5 ft. vous touche avec une attaque de mêlée, elle prend un nombre de dégâts de foudre égal à votre modificateur de Charisme.
+De plus, lorsqu'une créature que vous pouvez voir à 5 ft. vous touche avec une attaque de mêlée, elle subit un nombre de dégâts de foudre égal à votre modificateur de Charisme.
 ## Dieu du Tonnerre
 
 Au niveau 20, pour une action, vous pouvez vous recouvrir des pouvoirs d'une déité des tempêtes. Pendant 1 minute, votre corps crépite sous les éclairs et le tonnerre et vos yeux luisent en bleu, révélant une tempête déchaînée en fond. Vous bénéficiez des effets suivants : 
@@ -21346,7 +21345,7 @@ Au niveau 15, vous échapperez au bras armé de la justice ou mourrez en essayan
  - Vous pouvez utiliser l'action Utiliser un Objet.
  - Vous pouvez réaliser une attaque armée contre une créature que vous pouvez voir.
  - Vous pouvez essayer de pousser une créature.
- - Vous prenez des dégâts de chute réduits de moitié et votre distance de saut double jusqu'au début de votre prochain tour.
+ - Vous subissez des dégâts de chute réd subissez des dégâtsvotre distance de saut double jusqu'au début de votre prochain tour.
 
 ---
 
@@ -21456,11 +21455,11 @@ Un coureur se sent chez lui dans une ville ou parmi les cimes d'une grande forê
 
 De plus, vous avez maîtrisé un certain nombre de techniques. Vous pouvez utiliser vos techniques de parkour un nombre de fois égal à votre modificateur de Dextérité, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos. Tant que vous vous trouvez dans votre terrain préférentiel, utiliser une technique ne consomme pas d'utilisation.
 
-__Glissade.__ Pour une action bonus, vous pouvez vous déplacer de 10 ft. sans dépenser de mouvement à travers l'espace d'une autre créature ou vous faufiler de 10 ft. dans un espace plus petit.
+**Glissade.** Pour une action bonus, vous pouvez vous déplacer de 10 ft. sans dépenser de mouvement à travers l'espace d'une autre créature ou vous faufiler de 10 ft. dans un espace plus petit.
 
-__Roulade.__ Pour une action bonus, vous pouvez habilement sauter, plonger ou rouler de jusqu'à 10 ft. sur une ligne droite sans dépenser de mouvement. Pendant ce mouvement, les attaques d'opportunité réalisée contre vous ont le désavantage.
+**Roulade.** Pour une action bonus, vous pouvez habilement sauter, plonger ou rouler de jusqu'à 10 ft. sur une ligne droite sans dépenser de mouvement. Pendant ce mouvement, les attaques d'opportunité réalisée contre vous ont le désavantage.
 
-__Passe-muraille.__ Pour une action bonus, vous pouvez choisir de courir le long d'une surface verticale comme partie de votre mouvement. Jusqu'à la fin de votre tour, vous gagnez une vitesse d'escalade égale à votre vitesse de marche. Si vous sautez tout en courant le long d'un mur, vous pouvez compléter la distance de votre saut, même si le faire reviendrait à excéder votre vitesse.
+**Passe-muraille.** Pour une action bonus, vous pouvez choisir de courir le long d'une surface verticale comme partie de votre mouvement. Jusqu'à la fin de votre tour, vous gagnez une vitesse d'escalade égale à votre vitesse de marche. Si vous sautez tout en courant le long d'un mur, vous pouvez compléter la distance de votre saut, même si le faire reviendrait à excéder votre vitesse.
 
 ## Inertie
 
@@ -21543,7 +21542,7 @@ Que ce soit par une morsure infectée ou par une malédiction vicieuse, votre sa
 
 ## Changeforme
 
-À partir du moment où vous choisissez cet archétype au niveau 3, votre corps est corrompu par une malédiction lycanthropique qui lutte pour s'échapper de vous en tout temps. Vous obtenez le sous-type _changeforme_ ; votre forme véritable est celle d'un hybride fantomatique entre bête et homme. De plus, vous obtenez les traits suivants : 
+À partir du moment où vous choisissez cet archétype au niveau 3, votre corps est corrompu par une malédiction lycanthropique qui lutte pour s'échapper de vous en tout temps. Vous obtenez le sous-type *changeforme* ; votre forme véritable est celle d'un hybride fantomatique entre bête et homme. De plus, vous obtenez les traits suivants : 
 
 **Vision dans le Noir.** Vous pouvez voir dans la lumière faible à 60 ft. comme si vous étiez en lumière vive, et dans l'obscurité comme si vous étiez en lumière faible. Vous ne pouvez discerner les couleurs dans l'obscurité, seulement les nuances de gris. Si vous possédez déjà une vision dans le noir de par votre race, celle-ci augmente de 30 ft.
 
@@ -21758,7 +21757,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser j
 ---
 writing_status: finished
 ---
-Escrocs, tricheurs et surtout arnaqueurs peuplent les alentours des tavernes, là où les passants ont parfois une plus forte tendance à _perdre_ leurs pièces. L'arnaqueur typique sait bien qu'avec les bons mots et le bon plan, vous pouvez soustraire n'importe qui de leur argent, et parfois même le faire paraître juste ! Les arnaqueurs sont les maîtres des escroqueries, grandes comme petites, du comptage de cartes et dés pipés aux systèmes pyramidaux et autres fraudes.
+Escrocs, tricheurs et surtout arnaqueurs peuplent les alentours des tavernes, là où les passants ont parfois une plus forte tendance à *perdre* leurs pièces. L'arnaqueur typique sait bien qu'avec les bons mots et le bon plan, vous pouvez soustraire n'importe qui de leur argent, et parfois même le faire paraître juste ! Les arnaqueurs sont les maîtres des escroqueries, grandes comme petites, du comptage de cartes et dés pipés aux systèmes pyramidaux et autres fraudes.
 
 ## Escroquerie
 
@@ -22092,20 +22091,20 @@ writing_status: finished
 ---
 Souvent considéré comme le familier parfait qui ne requiert ni soin ni attention tout en étant particulièrement robuste, l'ami caillou peut être invoqué par la majorité des lanceurs de sorts. Même s'il n'agit pas avec agilité (à vrai dire, il ne bouge pas du tout), il peut servir d'arme en étant lancé.
 
-___
+*_*
 >## Ami Caillou
 >*Très Petit Élémentaire, non aligné*
 >![[ami cailloux-20240609122933158.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 15 (armure naturelle)
 >- **Points de Vie** 5 (1d4 + 3)
 >- **Vitesse** 0 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|1 (-5)|16 (+3)|1 (-5)|5 (-3)|1 (-5)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.** Tonnerre
 >- **Résistances aux Dégâts** Feu, foudre, radiant ; contondant, perçant et tranchants de sources non magiques
 >- **Immunités aux Dégâts** Nécrotique, poison, psychique
@@ -22114,7 +22113,7 @@ ___
 >- **Langues** --
 >- **Difficulté** 0 (10 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > **Fausse Apparence.** Un ami cailloux est indistinguable d'une pierre ordinaire sur laquelle on aurait dessiné un visage.
 >
 >**Juste un Caillou.** Un ami caillou est considéré comme un objet pour les effets magiques et les sorts. De plus, il ne peut pas prendre d'action qui ne sont pas spécifiées dans son bloc, et sa vitesse ne peut pas être augmentée.
@@ -22128,19 +22127,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22149,7 +22148,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22173,29 +22172,29 @@ writing_status: finished
 
 Un escargot de la mort est formé à partir de la mixture de moelle de troll des forêts, de sang d'aigle géant et de moelle de gobelin, enfermée dans une corne d'éfrit évidée et scellée avec une langue d'ettercap. La monstruosité possède une intelligence moyenne, mais son seul instinct est d'exterminer toutes les créatures autres que son maître.
 
-___
+*_*
 >## Escargot de la Mort
 >
 >![[Death Snail.jpg|100]]
 >
 >*Minuscule Monstruosité, généralement neutre mauvais*
 >
->___
+>*_*
 >- **Classe d'Armure** 14 (armure naturelle)
 >- **Points de Vie** 11 (2d4+6)
 >- **Vitesse** 10 ft., escalade 10 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|14 (+2)|6 (-2)|16 (+3)|10 (+0)|11 (+0)|6 (-2)|
 >
->___
+>*_*
 >- **Résistances aux Dégâts** feu
 >- **Sens.** Vision Aveugle 30 ft. (aveugle au-delà), Perception Passive 10
 >- **Langues** --
 >- **Difficulté** 1/4 (50 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 >### Actions
 >***Sangsue.*** *Attaque d'Arme de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 4 (1d5 + 2) dégâts perçants plus 4 (1d8) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 1 minute. La cible peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de succès.
 
@@ -22209,20 +22208,20 @@ writing_status: finished
 Les hantises peuvent souvent être attribuées aux suspects spectraux habituels : les fantômes, spectres, ombres et autres poltergeists. Mais les hantises inoffensives, où un esprit agité ne fait que jouer des tours aux vivants, sont généralement causées par un fantiot. Ces esprits tendent à être des reliquats d'enfants ou de comédien, s'accrochant à la vie pour avoir de la compagnie et de l'attention, et cherchent avant tout à s'amuser. Ils ne blessent jamais volontairement les autres lorsqu'ils hantent une maison, et servent tout maître qui les invoquerait, ne serait-ce que pour être inclus.
 
 
-___
+*_*
 >## Fantiot
 >Petit Mort-Vivant, typiquement chaotique neutre*
 >![[Fantiot-20240519095901316.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 12
 >- **Points de Vie** 21 (6d6)
 >- **Vitesse** 0 ft., vol 40 ft. (plane)
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|14 (+2)|10 (+0)|10 (+0)|9 (-1)|14 (+2)|
 >
->___
+>*_*
 >- **Résistances aux Dégâts** acide, froid, feu, foudre, nécrotique, tonnerre ; contondants, perçants et tranchants d'armes non magiques
 >- **Immunités aux Dégâts** poison
 >- **Immunités aux Conditions** charmé, épuisement, saisi, paralysé, pétrifié, empoisonné, au sol, retenu, inconscient
@@ -22230,8 +22229,8 @@ ___
 >- **Langues** comprend toutes les langues que la créature parlait de son vivant ; ne peut pas parler
 >- **Difficulté** 1 (200 PX)
 >- **Bonus de Maîtrise** +2
->___
-> **Mouvement Incorporel.** Le fantiot peut se déplacer à travers d'autres créatures ou objets comme s'ils étaient du terrain difficile. Il prend 5 (1d10) dégâts de force s'il termine son tour dans un objet.
+>*_*
+> **Mouvement Incorporel.** Le fantiot peut se déplacer à travers d'autres créatures ou objets comme s'ils étaient du terrain difficile. Il subit 5 (1d10) dégâts de force s'il termine son tour dans un objet.
 >
 >### Actions
 >
@@ -22247,19 +22246,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22268,7 +22267,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22291,27 +22290,27 @@ writing_status: finished
 ---
 Un grep est un charognard souterrain, connu pour utiliser sa vision aiguisée, son ouïe fine et son vol silencieux pour tromper et voler les voyageurs, amassant ses possessions dans des butins bien cachés. Les arcanistes utilisent les greps comme des messagers et des éclaireurs, mais ils excellent en tant que récupérateurs ; un grep peut se voir donner le nom d'un objet important, être envoyé à sa recherche, et revenir peu de temps après avec l'objet demandé.
 
-___
+*_*
 >## Grep
 >*Minuscule Monstruosité, typiquement neutre*
 >![[Grep-20240519105103313.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 15 (armure naturelle)
 >- **Points de Vie** 19 (6d4 + 4)
 >- **Vitesse** 15 ft., vol 15 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|18 (+4)|13 (+1)|13 (+1)|15 (+2)|10 (+0)|
 >
->___
+>*_*
 >- **Compétences** Perception +4, Escamotage +6, Discrétion +6
 >- **Immunités aux Conditions** empoisonné
 >- **Sens.** Vision dans le Noir 60 ft., Perception Passive 12
 >- **Langues** Comprends le Commun et l'Outre-Commun, mais ne peut pas parler
 >- **Difficulté** 1 (200 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > **Embuscade.** Le grep a l'avantage aux jets d'attaque contre une créature surprise.
 >
 > **Odorat et Ouïe Aiguisés.** Le grep a l'avantage aux jets de Sagesse (Perception) se reposant sur l'odorat ou l'ouïe.
@@ -22332,19 +22331,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22353,7 +22352,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22375,23 +22374,23 @@ ___
 writing_status: finished
 ---
 Il y a peu de chose à dire sur le livre volant qui ne soit pas évident. Même s'il est indistinguable d'un grimoire d'arcaniste lorsqu'il est immobile, ce tome arcanique animé peut s'envoler à tout moment, utilisant sa couverture comme des ailes rudimentaires. Les livres volants sont particulièrement joueur et apprécient qu'on leur écrive dedans.
-___
+*_*
 >## Livre Volant
 >
 ![[Livre Volant.png|100]]
 >
 >*Minuscule Construction, non alignée*
 >
->___
+>*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 2 (1d4)
 >- **Vitesse** 0 ft., vol 30 ft. (plane)
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|3 (-4)|15 (+2)|11 (+0)|1 (-5)|4 (-3)|1 (-5)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts** feu
 >- **Immunité aux Dégâts** poison, psychique
 >- **Immunité aux Conditions** [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]], [[paralysé]], [[pétrifié]], [[empoisonné]]
@@ -22399,11 +22398,11 @@ ___
 >- **Langues** --
 >- **Difficulté** 0 (10 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 >**Susceptibilité à l'Antimagie.** Le livre volant est [[incapacité]] lorsqu'il se trouve dans un champ antimagique. S'il est ciblé par une [[Dissipation de la Magie]], le livre volant doit réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de sort du lanceur ou tomber [[inconscient]] pendant 1 minute.
 > 
 >**Fausse Apparence.** Tant que le livre volant est immobile, il n'est pas distinguable d'un livre normal.
- >___
+ >*_*
 >### Actions
 >***Écrasement.*** *Attaque d'Arme de Mêlée :* +4 pour toucher, portée 5 ft., une cible. *Touché :* 1 dégât contondant.
 
@@ -22414,19 +22413,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22435,7 +22434,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22456,19 +22455,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22477,7 +22476,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22499,25 +22498,25 @@ ___
 writing_status: empty
 ---
 Même si elles sont incapables de survivre sur terre, les méduse lune sont adorées par les sorcières pour leur bioluminescence qui permet l'exploration des fonds sous-marins.
-___
+*_*
 >## Méduse Lune
 >*Très Petite Bête, non aligné*
 >![[Méduse Lune-20240608151421684.webp|100]]
-___
+*_*
 >- **Classe d'Armure** 11 
 >- **Points de Vie** 1 (1d4-1)
 >- **Vitesse** 0 ft, nage 25 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|1 (-5)|13 (+1)|8 (-1)|2 (-4)|11 (+0)|3 (-4)|
 >
->___
+>*_*
 >- **Sens.** Vision dans le noir 60 ft., Perception Passive 12
 >- **Langues** --
 >- **Difficulté** 0 (10 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > **Bioluminescence.** La méduse lune émet une lumière faible sur 10 ft.
 >
 >**Respiration Aquatique.** La méduse lune ne peut respirer que sous l'eau.
@@ -22529,20 +22528,20 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
 >![[Poupée-20240609125107043.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22551,7 +22550,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22572,19 +22571,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22593,7 +22592,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22614,19 +22613,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22635,7 +22634,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22658,20 +22657,20 @@ writing_status: finished
 ---
 Cousin éloigné des mimiques, le smacre est un très petit changelin qui imite de petits objets de valeur pour attirer ses victimes. Dans le désert, un smacre pourrait prendre la forme d'une gourde d'eau et dans un donjon, prendre la forme d'une belle pierre précieuse ou d'une pièce d'or. Si un aventurier se fait surprendre par un smacre, ce dernier est aussi dangereux que son cousin, puisqu'il peut se camoufler de façon moins suspecte.
 
-___
+*_*
 >## Smacre
 >*Très Petite Monstruosité (Changelin), neutre*
 >![[Smacre-20240608145545521.webp|100]]
->___
+>*_*
 >- **Classe d'Armure** 11
 >- **Points de Vie** 18 (4d4 + 8)
 >- **Vitesse** 15 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|9 (-1)|12 (+1)|14 (+2)|4 (-3)|13 (+1)|6 (-2)|
 >
->___
+>*_*
 >- **Compétences.** Discrétion +5
 >- **Immunités aux Dégâts** Acide
 >- **Immunités aux Conditions** [[Au Sol]]
@@ -22679,7 +22678,7 @@ ___
 >- **Langues** --
 >- **Difficulté** 1/4 (50 PX)
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 >**Changelin.** Le smacre peut utiliser son action pour se métamorphoser en un objet ou revenir à sa forme originale. Il ne peut prendre l'apparence que d'objets de taille TP et préfère la forme des pièces d'or et des bijoux. Ses caractéristiques ne changent pas en fonction de la forme adoptée. Aucun équipement qu'il porte n'est transformé. Il revient à sa forme originale lorsqu'il meurt.
 >
 >**Adhésif (Forme d'objet seulement).** Le smacre peut adhérer à tout ce qu'il touche. Une créature qui attrape le smacre ne peut le lâcher sauf si elle réussit un jet de Force DD 9 avec désavantage. Le smacre ne peut adhérer qu'à une créature à la fois. Le smacre a l'avantage à ses jets d'attaque contre les créatures auxquelles il est adhéré.
@@ -22700,19 +22699,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22721,7 +22720,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22742,19 +22741,19 @@ ___
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22763,7 +22762,7 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
@@ -22987,12 +22986,11 @@ Au niveau 6, vous pouvez fabriquer un talisman magique qui éloigne tout danger.
 Lorsqu'une créature qui porte le talisman réalise un jet de sauvegarde, elle peut ajouter 1d4 à son jet.
 
 ## Explosion Bienveillante
-
-Au niveau 10, lorsque vous, votre familier ou un allié que vous pouvez voir à 30 ft. prend des dégâts, vous pouvez utiliser votre réaction afin que cette créature regagne un nombre de points de vie égal à 1d10 + votre modificateur de Charisme.
+Au niveau 10, lorsque vous, votre familier ou un allié que vous pouvez voir à 30 ft. subit des dégâts, vous pouvez utiliser votre réaction afin que cette créature regagne un nombre de points de vie égal à 1d10 + votre modificateur de Charisme.
 
 Une fois que vous avez utilisé cette aptitude, vous devez finir un repos avant de pouvoir l'utiliser à nouveau.
 
-## Cadeau de la Sorcière
+## Cadeau de la Sorcière[
 
 À partir du niveau 14, à chaque fois que vous lancez un sort ou un maléfice qui rend des points de vie à une créature, cette créature gagne un bonus de +3 à sa CA jusqu'à la fin de votre prochain tour.
 
@@ -23027,7 +23025,7 @@ Lorsque vous choisissez cet art au niveau 3, vous maîtrisez toutes les [[Armes 
 
  - Votre CA devient 12 + votre modificateur de Dextérité + votre modificateur de Charisme tant que vous ne portez pas de bouclier.
  - Lorsque vous réalisez une attaque avec une arme de mêlée qui n'a pas les propriétés Lourde ou Spéciale, vous pouvez utiliser votre modificateur de Charisme pour les jets d'attaque et de dégâts.
- - Lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+ - Lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 ## Tueur Ricanant
 
@@ -23173,11 +23171,11 @@ Lorsque vous choisissez cet art au niveau 3, vous apprenez à drainer la vitalit
 
 ## Lien Vital
 
-Au niveau 10, comme réaction lorsque vous prenez des dégâts d'une créature que vous pouvez voir, vous pouvez transférer un peu de ces dégâts à une créature qui est la seule cible d'un de vos maléfices. Vous prenez la moitié des dégâts (réduits de moitie), et la créature maudite prend le reste des dégâts. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
+Au niveau 10, comme réaction lorsque vous subissez des dégâts d'une créature que vous pouvez voir, vous pouvez transférer un peu de ces dégâts à une créature qui est la seule cible d'un de vos maléfices. Vous prenez la moitié des dégâts (réduits de moitie), et la créature maudite subit le reste des dégâts. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Sacrifice Noir
 
-À partir du niveau 14, si votre familier se trouve à 10 ft., vous pouvez utiliser votre action pour lui ordonner de dissoudre son attache magique à ce plan, ce qui libère un torrent d'énergie nécromancienne. Chaque créature que vous choisissez à 20 ft. de votre familier doit réussir un jet de sauvegarde de Dextérité. Une créature qui rate prend 10d8 dégâts nécrotiques, et la moitié si elle réussit. De plus, ses points de vie maximums sont réduits du montant de dégâts reçu. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus invoquer votre familier jusqu'à ce que vous terminiez un repos long.
+À partir du niveau 14, si votre familier se trouve à 10 ft., vous pouvez utiliser votre action pour lui ordonner de dissoudre son attache magique à ce plan, ce qui libère un torrent d'énergie nécromancienne. Chaque créature que vous choisissez à 20 ft. de votre familier doit réussir un jet de sauvegarde de Dextérité. Une créature qui rate subit 10d8 dégâts nécrotiques, et la moitié si elle réussit. De plus, ses points de vie maximums sont réduits du montant de dégâts reçu. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus invoquer votre familier jusqu'à ce que vous terminiez un repos long.
 
 
 ---
@@ -23196,7 +23194,7 @@ La magie arcanique liée à la maîtrise des éléments est aussi connue comme l
 | 1 | [[Mains Brûlantes]], [[Projectiles Magiques]] |
 | 2 | [[Flèche d'Acide]], [[Rayon Ardent]] |
 | 3 | [[Boule de Feu]], [[Protection contre une Énergie]] |
-| 4 | [[Tempête de Grêle]], [[ Mur de Feu]] |
+| 4 | [[Tempête de Glace]], [[ Mur de Feu]] |
 | 5 | [[Cône de Froid]], [[Télékinésie]] |
 
 ## Maléfice : Exposition
@@ -23209,7 +23207,7 @@ Au niveau 6, lorsque vous lancez un sort qui inflige des dégâts d'acide, de fr
 
 ## Invulnérabilité
 
-À partir du niveau 10, lorsqu'un attaquant que vous voyez vous touche avec une attaque, vous pouvez utiliser votre réaction pour devenir quasiment invulnérable. Les dégâts que vous prenez de cette attaque sont réduits de 50.
+À partir du niveau 10, lorsqu'un attaquant que vous voyez vous touche avec une attaque, vous pouvez utiliser votre réaction pour devenir quasiment invulnérable. Les dégâts que vous subissez cette attaque sont réduits de 50.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 
@@ -23346,7 +23344,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire j
 
 Une créature peut utiliser son action pour examiner une créature déguisée magiquement et doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort. Si elle réussit, elle identifie chaque créature pour ce qu'elle est réellement.
 
-L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires prend des dégâts ou interagit physiquement avec son environnement.
+L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires subit des dégâts ou interagit physiquement avec son environnement.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
 
@@ -23709,7 +23707,7 @@ Pour une action, vous créez du brouillard dans une sphère de 20 ft. de rayon c
 ---
 writing_status: finished
 ---
-Pour une action, vous pouvez _accrocher_ des armes à leurs détenteurs. Les armes et munitions de toutes les créatures à 30 ft. deviennent bloquées dans leur fourreau, carquois ou autre jusqu'à la fin de votre prochain tour. Pendant que ce maléfice est actif, la créature peut utiliser son action pour réaliser un jet de Force contre votre DD de sort pour libérer son arme.
+Pour une action, vous pouvez *accrocher* des armes à leurs détenteurs. Les armes et munitions de toutes les créatures à 30 ft. deviennent bloquées dans leur fourreau, carquois ou autre jusqu'à la fin de votre prochain tour. Pendant que ce maléfice est actif, la créature peut utiliser son action pour réaliser un jet de Force contre votre DD de sort pour libérer son arme.
 
 
 ---
@@ -23729,7 +23727,7 @@ Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette c
 ---
 writing_status: finished
 ---
-Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou, à chaque fois qu'elle prend des dégâts, perdre 1d4 points de vie supplémentaires. Cet effet persiste jusqu'à la fin de votre prochain tour.
+Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou, à chaque fois qu'elle subit des dégâts, perdre 1d4 points de vie supplémentaires. Cet effet persiste jusqu'à la fin de votre prochain tour.
 
 
 ---
@@ -23796,7 +23794,7 @@ Pour une action, choisissez une créature que vous voyez à 5 ft. Cette créatur
 ---
 writing_status: finished
 ---
-Pour une action, choisissez une créature que vous pouvez voir autre que vous à 60 ft. Chaque fois que cette créature prend des dégâts jusqu'à la fin de votre prochain tour, elle prend 3 dégâts de moins.
+Pour une action, choisissez une créature que vous pouvez voir autre que vous à 60 ft. Chaque fois que cette créature subit des dégâts jusqu'à la fin de votre prochain tour, elle subit 3 dégâts de moins.
 
 ---
 
@@ -24060,7 +24058,7 @@ writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 6*
 
-Réalisez une attaque de sort de mêlée contre une créature à portée de votre lamefil. Si vous touchez, vous la propulsez de 20 ft. dans les aires. Vous pouvez choisir d'immédiatement la suivre dans les airs et de réaliser une attaque de mêlée avec votre lamefil. Si votre cible touche un plafond, elle prend des dégâts de chute comme si elle avait chu de la distance restante, puis retombe au sol.
+Réalisez une attaque de sort de mêlée contre une créature à portée de votre lamefil. Si vous touchez, vous la propulsez de 20 ft. dans les aires. Vous pouvez choisir d'immédiatement la suivre dans les airs et de réaliser une attaque de mêlée avec votre lamefil. Si votre cible touche un plafond, elle subit des dégâts de chute comme si elle avait chu de la distance restante, puis retombe au sol.
 
 **Aux Échelons Supérieurs.** La cible est propulsée de 10 ft. supplémentaire par niveau d'échelon que vous possédez au-delà du niveau 1.
 
@@ -24086,7 +24084,7 @@ writing_status: finished
 ---
 *2 fils arcaniques*
 
-Vous vous téléportez de jusqu'à 15 ft. vers un emplacement inoccupé que vous pouvez voir et réalisez une attaque de sort de mêlée contre une cible à portée. Si vous touchez, la cible prend 1d8 dégâts radiants et doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[aveuglé|aveuglée]] jusqu'au début de votre prochain tour.
+Vous vous téléportez de jusqu'à 15 ft. vers un emplacement inoccupé que vous pouvez voir et réalisez une attaque de sort de mêlée contre une cible à portée. Si vous touchez, la cible subit 1d8 dégâts radiants et doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[aveuglé|aveuglée]] jusqu'au début de votre prochain tour.
 
 **Aux Échelons Supérieurs.** Les dégâts radiants augmentent de 1d8 et la distance de téléportation augmente de 15 ft. par niveau d'échelon que vous possédez au-delà du niveau 1.
 
@@ -24112,7 +24110,7 @@ writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 6*
 
-Vous poignardez le sol avec votre lamefil et un pilier d'énergie arcanique pure haut de 30 ft. et large de 10 ft. éructe du sol sur un emplacement que vous pouvez voir à 30 ft. Chaque créature dans le pilier doit réaliser un jet de sauvegarde de Dextérité. Si une créature échoue, elle prend 3d10 dégâts de force et est repoussée vers l'emplacement libre le plus proche en dehors du pilier.
+Vous poignardez le sol avec votre lamefil et un pilier d'énergie arcanique pure haut de 30 ft. et large de 10 ft. éructe du sol sur un emplacement que vous pouvez voir à 30 ft. Chaque créature dans le pilier doit réaliser un jet de sauvegarde de Dextérité. Si une créature échoue, elle subit 3d10 dégâts de force et est repoussée vers l'emplacement libre le plus proche en dehors du pilier.
 
 **Aux Échelons Supérieurs.** Les dégâts de force augmentent de 1d10 par niveau d'échelon que vous possédez au-delà du niveau 2.
 
@@ -24138,7 +24136,7 @@ writing_status: finished
 ---
 *2 fils arcaniques*
 
-Vous manifestez une véritable aura meurtrière à destination d'une créature que vous pouvez voir à 60 ft. Chaque créature sur une ligne large de 5 ft. entre vous et la créature doit réaliser un jet de sauvegarde de Sagesse. Si une créature échoue, elle se voit déplacée vers l'emplacement libre le plus proche en dehors de la ligne. Si aucune créature ne persiste entre vous et la cible, la cible prend 1d10 dégâts psychiques et doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[apeuré|apeurée]] de vous jusqu'à la fin de votre prochain tour.
+Vous manifestez une véritable aura meurtrière à destination d'une créature que vous pouvez voir à 60 ft. Chaque créature sur une ligne large de 5 ft. entre vous et la créature doit réaliser un jet de sauvegarde de Sagesse. Si une créature échoue, elle se voit déplacée vers l'emplacement libre le plus proche en dehors de la ligne. Si aucune créature ne persiste entre vous et la cible, la cible subit 1d10 dégâts psychiques et doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[apeuré|apeurée]] de vous jusqu'à la fin de votre prochain tour.
 
 **Aux Échelons Supérieurs.** Les dégâts psychiques augmentent de 1d10 par niveau d'échelon que vous possédez au-delà du niveau 1.
 
@@ -24151,7 +24149,7 @@ writing_status: finished
 ---
 *2 fils arcaniques*
 
-Vous pourfendez l'arcane autour du vous, fendant l'air. Choisissez une créature que vous pouvez voir à 30 ft. de vous. La cible doit réussir un jet de sauvegarde de Dextérité ou prendre 1d10 dégâts tranchants et être mise [[au sol]].
+Vous pourfendez l'arcane autour du vous, fendant l'air. Choisissez une créature que vous pouvez voir à 30 ft. de vous. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d10 dégâts tranchants et être mise [[au sol]].
 
 **Aux Échelons Supérieurs.** Les dégâts tranchants augmentent de 1d10 par niveau d'échelon que vous possédez au-delà du niveau 1.
 
@@ -24164,7 +24162,7 @@ writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 15*
 
-Vous embuez votre arme et l'utilisez pour libérer une vague de force dévastatrice. Chaque créature dans un cône long de jusqu'à 15 ft. doit réaliser un jet de sauvegarde de Dextérité. Si la créature échoue, elle prend 7d6 dégâts tranchants, ou la moitié en cas de réussite.
+Vous embuez votre arme et l'utilisez pour libérer une vague de force dévastatrice. Chaque créature dans un cône long de jusqu'à 15 ft. doit réaliser un jet de sauvegarde de Dextérité. Si la créature échoue, elle subit 7d6 dégâts tranchants, ou la moitié en cas de réussite.
 
 **Aux Échelons Supérieurs.** La zone maximum du cône croît de 5 ft. et les dégâts tranchants augmentent de 1d6 par niveau d'échelon que vous possédez au-delà du niveau 5.
 
@@ -24219,7 +24217,7 @@ writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 6*
 
-Votre lamefil s'étend pour former une mâchoire et des dents et va mordre une créature de votre choix à 10 ft. La cible prend 1d8 dégâts perçants et est [[retenu|retenue]] et [[saisi|saisie]] par vous jusqu'au début de votre prochain tour. La cible doit réaliser un jet de sauvegarde de Constitution alors que votre lamefil commence à mâcher. Si elle échoue, elle subit 3d10 dégâts tranchants et la moitié en cas de réussite.
+Votre lamefil s'étend pour former une mâchoire et des dents et va mordre une créature de votre choix à 10 ft. La cible subit 1d8 dégâts perçants et est [[retenu|retenue]] et [[saisi|saisie]] par vous jusqu'au début de votre prochain tour. La cible doit réaliser un jet de sauvegarde de Constitution alors que votre lamefil commence à mâcher. Si elle échoue, elle subit 3d10 dégâts tranchants et la moitié en cas de réussite.
 
 **Aux Échelons Supérieurs.** Les dégâts tranchants augmentent de 1d10 par niveau d'échelon que vous possédez au-delà du niveau 2.
 
@@ -24245,7 +24243,7 @@ writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 6*
 
-Vous vous téléportez de jusqu'à 30 ft. dans les airs au-dessus d'un point à 15 ft. de vous, puis vous lancez une attaque foudroyante vers le sol en dessous. Les créatures à 5 ft. de ce point doivent réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 3d10 dégâts de foudre, et la moitié en cas de succès.
+Vous vous téléportez de jusqu'à 30 ft. dans les airs au-dessus d'un point à 15 ft. de vous, puis vous lancez une attaque foudroyante vers le sol en dessous. Les créatures à 5 ft. de ce point doivent réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 3d10 dégâts de foudre, et la moitié en cas de succès.
 
 **Aux Échelons Supérieurs.** Les dégâts de foudre augmentent de 1d10 par niveau d'échelon que vous possédez au-delà le niveau 2.
 
@@ -24269,7 +24267,7 @@ writing_status: finished
 ---
 *3 fils arcaniques – prérequis : niveau 6*
 
-Vous vous propulsez jusqu'à 30 ft. dans la direction de votre choix. Chaque créature à 5 ft. du chemin que vous empruntez doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle prend 3d8 dégâts tranchants, ou la moitié en cas de succès.
+Vous vous propulsez jusqu'à 30 ft. dans la direction de votre choix. Chaque créature à 5 ft. du chemin que vous empruntez doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 3d8 dégâts tranchants, ou la moitié en cas de succès.
 
 **Aux Échelons Supérieurs.** Les dégâts tranchants augmentent de 1d8 par niveau d'échelon que vous possédez au-delà du niveau 2.
 
@@ -24369,11 +24367,11 @@ Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vo
 
 ## Figure de Guerre
 
-Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous prodigue de puissantes attaques à distance pour compléter votre lamefil. Vous pouvez utiliser cet accessoire comme une arme pour réaliser des attaques de sort à distance d'une portée de 120 ft. qui infligent 1d10 + votre modificateur d'Intelligence dégâts de Force, en projetant des projectiles explosifs et perçants depuis les différents mécanismes arcaniques qui recouvrent l'armure. Cette attaque n'est pas réalisée avec désavantage si votre cible est [[au sol]] et inflige le double de dégâts si votre cible est de taille TG ou plus grande encore.
+Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous prodigue de puissantes attaques à distance pour compléter votre lamefil. Vous pouvez utiliser cet accessoire comme une arme pour réaliser des attaques de sort à distance d'une portée de 120 ft. qui infligent 1d10 + votre modificateur d'Intelligence dégâts de force, en projetant des projectiles explosifs et perçants depuis les différents mécanismes arcaniques qui recouvrent l'armure. Cette attaque n'est pas réalisée avec désavantage si votre cible est [[au sol]] et inflige le double de dégâts si votre cible est de taille TG ou plus grande encore.
 
 ## Machine Massive
 
-Au niveau 6, vous pouvez choisir d'augmenter la taille et la puissance de votre tapisserie. Vous pouvez utiliser votre action pour devenir Grand (G) pendant 1 minute ou pour revenir à taille normale. Tant que vous êtes de taille G ou supérieure, vous avez l'avantage à vos jets de caractéristique et sauvegarde de Force et, à chaque fois que vous prenez des dégâts, vous pouvez réduire ces dégâts de 2, après application des résistances.
+Au niveau 6, vous pouvez choisir d'augmenter la taille et la puissance de votre tapisserie. Vous pouvez utiliser votre action pour devenir Grand (G) pendant 1 minute ou pour revenir à taille normale. Tant que vous êtes de taille G ou supérieure, vous avez l'avantage à vos jets de caractéristique et sauvegarde de Force et, à chaque fois que vous subissez des dégâts, vous pouvez réduire ces dégâts de 2, après application des résistances.
 
 ## Corps Galactique
 
@@ -24415,7 +24413,7 @@ Au niveau 6, votre tapisserie vous permet de fissurer votre forme en illusions. 
 
 ## Évasion Illusoire
 
-Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certains évènements, comme le souffle enflammé d'un dragon rouge ou une [[boule de feu]]. Lorsque vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous prenez à la place 0 dégâts si vous réussissez le jet et la moitié si vous ratez. Vous pouvez également décider que vos ponts et escaliers de votre aptitude [[Tisserand#Renaissance Régulière|Renaissance Régulière]] soient illusoires ou illusoires pour tous sauf pour vous.
+Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certains évènements, comme le souffle enflammé d'un dragon rouge ou une [[boule de feu]]. Lorsque vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous prenez à la place 0 dégâts si vous réussissez le jet et la moitié si vous ratez. Vous pouvez également décider que vos ponts et escaliers de votre aptitude [[Tisserand#Renaissance Régulière|Renaissance Régulière]] soient illusoires ou illusoires pour tous sauf pour vous.
 
 ## Gloire Éternelle
 
@@ -24522,7 +24520,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Lamefil
 
-À partir du niveau 1, vous apprenez à créer une arme magique unique et iconique, connue sous le nom de lamefil, en la _tricotant_ instantanément. Vous pouvez le faire lorsque vous tirez l'initiative ou au début de votre tour. Lorsque vous en invoquez une deuxième, la première disparaît.
+À partir du niveau 1, vous apprenez à créer une arme magique unique et iconique, connue sous le nom de lamefil, en la *tricotant* instantanément. Vous pouvez le faire lorsque vous tirez l'initiative ou au début de votre tour. Lorsque vous en invoquez une deuxième, la première disparaît.
 
 Vous maîtrisez votre lamefil et vous utilisez votre modificateur de Dextérité plutôt que de Force pour vos jets d'attaque et de dégâts avec votre lamefil. Vous ne pouvez manier une autre arme ou vous équiper d'un bouclier lorsque vous maniez votre lamefil. Les lamefils ne possèdent pas les propriétés usuelles des autres armes, peu importe leur apparence, mais sont considérées comme des armes martiales.
 
@@ -24578,7 +24576,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 ## Découpe-Ruban
 
-À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible prend un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
+À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible subit un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
 
 ## Tapisserie du Tisserand
 
@@ -24599,7 +24597,7 @@ Vous pouvez également tisser votre fil arcanique en une corde de 100 ft. avec u
 
 De plus, vous obtenez la maîtrise de trois outils et vous pouvez créer n'importe quel outil que vous maîtrisez en utilisant cette aptitude.
 
-Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de prendre les dégâts à la place ou de les laisser disparaître.
+Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de subir les dégâts à la place ou de les laisser disparaître.
 
 ## Augmentation de Caractéristiques
 
@@ -25786,7 +25784,7 @@ writing_status: finished
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
 <img src="../../Illustrations/Conditions/Frightened.png" style="width:20%; float:right; padding:0.7em">
 
-Une créature __apeurée__ a le désavantage aux jets de compétences et aux jets d'attaque tant qu'elle peut apercevoir la source de sa peur.
+Une créature **apeurée** a le désavantage aux jets de compétences et aux jets d'attaque tant qu'elle peut apercevoir la source de sa peur.
 
 La créature ne peut pas se rapprocher volontairement de la source de sa peur.
 </p>
@@ -26191,7 +26189,7 @@ Vous avez choisi la lune Solinari comme influence de votre magie, et votre serme
 
 **Magie Protectrice.** Vous apprenez un sort de niveau 2 de votre choix. Ce sort de niveau 2 doit provenir de l'école d'abjuration ou de divination. Vous pouvez dépenser ce sort de niveau 2 sans dépenser d'emplacement de sort, et vous devez finir un repos long avant de pouvoir à nouveau le lancer de cette manière. Vous pouvez également lancer ce sort en utilisant un emplacement de sort adapté. La caractéristique d'incantation pour ce sort est celle que vous avez choisie lorsque vous avez pris le don [[Recrue de la Haute-Sorcellerie]].
 
-**Charme Protecteur.** Lorsque vous ou une créature que vous voyez à 30 ft. prend des dégâts, vous pouvez utiliser votre réaction pour dépenser un emplacement de sort et tisser une magie protectrice autour de la cible. Lancez un nombre de d6s égal au niveau de l'emplacement de sort dépensé, et réduisez les dégâts pris par la cible d'un montant égal au total tiré sur les dés + votre modificateur de caractéristique d'incantation.
+**Charme Protecteur.** Lorsque vous ou une créature que vous voyez à 30 ft. subit des dégâts, vous pouvez utiliser votre réaction pour dépenser un emplacement de sort et tisser une magie protectrice autour de la cible. Lancez un nombre de d6s égal au niveau de l'emplacement de sort dépensé, et réduisez les dégâts pris par la cible d'un montant égal au total tiré sur les dés + votre modificateur de caractéristique d'incantation.
 
 
 ---
@@ -26207,7 +26205,7 @@ Vous avez choisi la lune Nuitari comme influence de votre magie, et votre ambiti
 
 **Magie Ambitieuse.** Vous apprenez un sort de niveau 2 de votre choix. Ce sort de niveau 2 doit provenir de l'école d'enchantement ou de nécromancie. Vous pouvez dépenser ce sort de niveau 2 sans dépenser d'emplacement de sort, et vous devez finir un repos long avant de pouvoir à nouveau le lancer de cette manière. Vous pouvez également lancer ce sort en utilisant un emplacement de sort adapté. La caractéristique d'incantation pour ce sort est celle que vous avez choisie lorsque vous avez pris le don [[Recrue de la Haute-Sorcellerie]].
 
-**Canal Vital.** Vous pouvez canaliser votre force vitale dans le pouvoir de votre magie. Lorsqu'une créature que vous voyez à 60 ft. rate un jet de sauvegarde contre un sort que vous avez lancé qui inflige des dégâts, vous pouvez dépenser un nombre de Dés de Vie égal au niveau du sort. Lancez ces dés et ajoutez le total au total de dégâts que prend la créature.
+**Canal Vital.** Vous pouvez canaliser votre force vitale dans le pouvoir de votre magie. Lorsqu'une créature que vous voyez à 60 ft. rate un jet de sauvegarde contre un sort que vous avez lancé qui inflige des dégâts, vous pouvez dépenser un nombre de Dés de Vie égal au niveau du sort. Lancez ces dés et ajoutez le total au total de dégâts que subit la créature.
 
 
 ---
@@ -26363,7 +26361,7 @@ Vous pouvez concevoir et injecter des poisons mortels, se traduisant par les eff
 
  - Lorsque vous réalisez un jet de dégâts de poison, vous ignorez la résistance au poison.
  - Vous pouvez appliquer du poison sur une munition ou une arme pour une action bonus plutôt que pour une action.
- - Vous gagnez la maîtrise du [[Kit d'Empoisonneur]] si vous ne la possédez pas déjà. En une heure de travail en utilisant le kit et en dépensant 50 PO de matériaux, vous pouvez créer un nombre de doses de poison égal à votre bonus de maîtrise. Une fois appliqué à une arme ou une munition, ce poison reste efficace pendant 1 minute ou jusqu'à ce que vous touchiez avec l'arme ou la munition. Lorsqu'une créature prend des dégâts d'une arme ou d'une munition enduite de poison, la créature doit réussir un jet de sauvegarde de Constitution DD 14 ou prendre 2d8 dégâts de poison et être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
+ - Vous gagnez la maîtrise du [[Kit d'Empoisonneur]] si vous ne la possédez pas déjà. En une heure de travail en utilisant le kit et en dépensant 50 PO de matériaux, vous pouvez créer un nombre de doses de poison égal à votre bonus de maîtrise. Une fois appliqué à une arme ou une munition, ce poison reste efficace pendant 1 minute ou jusqu'à ce que vous touchiez avec l'arme ou la munition. Lorsqu'une créature subit des dégâts d'une arme ou d'une munition enduite de poison, la créature doit réussir un jet de sauvegarde de Constitution DD 14 ou subir 2d8 dégâts de poison et être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
 
 
 ---
@@ -26474,7 +26472,7 @@ Vous avez manifesté en vous l'ardent esprit combatif emblématique des géants 
 
 **Né des Flammes.** Vous êtes résistant aux dégâts de feu
 
-**Allumage Éclair.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer une de vos attaques par un embrasement magique. Chaque créature de votre choix dans un rayon de 15 ft. autour de vous doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur de la caractéristique augmentée par ce don). Sur un échec, la créature prend 1d8 + bonus de maîtrise dégâts de feu, et est [[aveuglé|aveuglée]] jusqu'au début de votre prochain tour. Si elle réussit, elle ne prend que la moitié des dégâts seulement. Vous pouvez utiliser Allumage Éclair un nombre de fois égal à votre bonus de maîtrise (mais pas plus d'une fois par tour), et regagnez toutes utilisations dépensées lorsque vous terminez un repos long.
+**Allumage Éclair.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer une de vos attaques par un embrasement magique. Chaque créature de votre choix dans un rayon de 15 ft. autour de vous doit réaliser un jet de sauvegarde de Dextérité (DD de 8 + bonus de maîtrise + modificateur de la caractéristique augmentée par ce don). Sur un échec, la créature subit 1d8 + bonus de maîtrise dégâts de feu, et est [[aveuglé|aveuglée]] jusqu'au début de votre prochain tour. Si elle réussit, elle ne subit que la moitié des dégâts seulement. Vous pouvez utiliser Allumage Éclair un nombre de fois égal à votre bonus de maîtrise (mais pas plus d'une fois par tour), et regagnez toutes utilisations dépensées lorsque vous terminez un repos long.
 
 
 ---
@@ -26663,9 +26661,9 @@ Vous pouvez canaliser les forces cosmiques du chaos pour gagner les effets suiva
 **Flamboiement Chaotique.** Lorsque vous obtenez un 1 ou un 20 sur un jet d'attaque ou de sauvegarde, la magie du chaos vous traverse. Lancez un d4 et consulter la table ci-dessous pour déterminer ce qu'il se passe. Un flamboiement dure jusqu'à la fin de votre prochain tour, et un nouveau flamboiement ne peut pas commencer tant que l'ancien n'est pas terminé.
 
 | d4 | Flamboiement |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | **Furie de Bataille.** Une créature de votre choix que vous pouvez voir est emplie d'une furie inconsciente. Elle a l'avantage à ses jets d'attaque mais le désavantage à ses jets de caractéristiques. |
-| 2 | **Champ Disruptif.** Des vagues d'énergies se propagent autour de vous. Chaque créature qui commence son tour à 5 ft. de vous ou bouge dans la zone pour la première fois pendant un tour prend 1d8 dégâts de force. |
+| 2 | **Champ Disruptif.** Des vagues d'énergies se propagent autour de vous. Chaque créature qui commence son tour à 5 ft. de vous ou bouge dans la zone pour la première fois pendant un tour subit 1d8 dégâts de force. |
 | 3 | **Libre.** Lorsque vous vous déplacez, vous pouvez utiliser tout ou partie de votre vitesse de marche pour vous téléporte une fois, ainsi que tout l'équipement que vous portez, vers un emplacement non utilisé. |
 | 4 | **Vents Forts.** De forts vents tournoient dans un rayon de 15 ft. autour de vous. Vous et les autres créatures qui s'y trouvent ont le désavantage aux jets de sauvegarde de Sagesse. |
 
@@ -26683,7 +26681,7 @@ Vous êtes un dangereux adversaire lorsque vous êtes sur une monture. Tant que 
 
  - Vous avez l'avantage aux jets d'attaques de mêlée que vous réalisez contre des créatures non montées qui sont plus petites que votre monture.
  - Vous pouvez forcer une attaque qui cible votre monture à vous cibler vous plutôt.
- - Si votre monture est sujette à un effet qui lui permet de réaliser un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, elle ne prend plutôt aucun dégât si elle réussit le jet, et la moitié si elle échoue.
+ - Si votre monture est sujette à un effet qui lui permet de réaliser un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, elle ne subit plutôt aucun dégât si elle réussit le jet, et la moitié si elle échoue.
 
 
 ---
@@ -26818,7 +26816,7 @@ Vous avez manifesté une portion du pouvoir des dragons chromatiques, ce qui vou
 
 **Infusion Chromatique.** Pour une action bonus, vous pouvez toucher une arme simple ou martiale et l'infuser de l'un des types de dégâts suivants : acide, froid, feu, foudre ou poison. Pendant la prochaine minute, cette arme inflige 1d4 dégâts supplémentaires du type choisi lorsqu'elle touche. Après avoir utilisé cette action bonus, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.
 
-**Résistance Réactive.** Lorsque vous prenez des dégâts d'acide, de froid, de feu, de foudre ou de poison, vous pouvez utiliser votre réaction pour vous donner résistance à cette instance de dégâts. Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les charges dépensées lorsque vous terminez un repos long.
+**Résistance Réactive.** Lorsque vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de poison, vous pouvez utiliser votre réaction pour vous donner résistance à cette instance de dégâts. Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les charges dépensées lorsque vous terminez un repos long.
 
 
 ---
@@ -26834,7 +26832,7 @@ Vous avez manifesté une portion du pouvoir des dragons diamantins, ce qui vous 
 
 **Augmentation de Caractéristique.** Augmentez votre Intelligence, votre Sagesse ou votre Charisme de 1, jusqu'à un maximum de 20.
 
-**Revanche Télékinétique.** Lorsque vous prenez des dégâts d'une créature qui se trouve à 10 ft. de vous, vous pouvez utiliser votre réaction pour laisser émaner une énergie télékinétique. La créature qui vous a infligé ces dégâts doit réussir un jet de sauvegarde de Force (DD de 8 + bonus de maîtrise + modificateur de la caractéristique augmentée par ce don). Si elle le rate, la créature prend 2d8 dégâts de force et est repoussée de 10 ft. Si elle le réussit, elle prend la moitié des dégâts. Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations lorsque vous terminez un repos long. 
+**Revanche Télékinétique.** Lorsque vous subissez des dégâts d'uneéature qui se trouve à 10 ft. de vous, vous pouvez utiliser votre réaction pour laisser émaner une énergie télékinétique. La créature qui vous a infligé ces dégâts doit réussir un jet de sauvegarde de Force (DD de 8 + bonus de maîtrise + modificateur de la caractéristique augmentée par ce don). Si elle le rate, la créature subit 2d8 dégâts de force et est repoussée de 10 ft. Si elle le réussit, elle subit la moitié des dégâts. Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations lorsque vous terminez un repos long. 
 
 
 ---
@@ -27072,7 +27070,7 @@ Vous avez atteint une précision pénétrante en combat, obtenant les bénéfice
 
  - Augmentez votre Dextérité de 1, jusqu'à un maximum de 20
  - Une fois par tour, lorsque vous touchez une créature avec une attaque qui inflige des dégâts perçants, vous pouvez relancer un des dés de dégâts, et devez utiliser le nouveau résultat.
- - Lorsque vous infligez un coup critique de dégâts perçants à une créature, vous pouvez tirer un dé supplémentaire pour déterminer les dégâts supplémentaires que prend la créature.
+ - Lorsque vous infligez un coup critique de dégâts perçants à une créature, vous pouvez tirer un dé supplémentaire pour déterminer les dégâts supplémentaires que subit la créature.
 
 
 ---
@@ -27252,7 +27250,7 @@ Vous apprenez à faire appel aux flammes de l'enfer pour vous servir. Vous bén�
 
  - Augmentez votre Intelligence ou votre Charisme de 1, jusqu'à un maximum de 20.
  - Lorsque vous infligez des dégâts de feu à partir d'un sort que vous lancez, vous pouvez relancer n'importe quel résultat de 1 sur les jets de dégâts, mais vous devez utiliser le nouveau résultat, même si celui-ci est un 1.
- - À chaque fois que vous lancez un sort qui inflige des dégâts de feu, vous pouvez faire en sorte que les flammes vous entoure jusqu'à la fin de votre prochain tour. Les flammes ne vous blessent pas vous ou vos possessions, et elles provoquent une lumière vive sur 30 ft. et modérée sur 30 ft. supplémentaire. Tant que les flammes sont présentes, toute créature à 5 ft. qui vous touchez avec une attaque de mêlée prend 1d4 dégâts de feu.
+ - À chaque fois que vous lancez un sort qui inflige des dégâts de feu, vous pouvez faire en sorte que les flammes vous entoure jusqu'à la fin de votre prochain tour. Les flammes ne vous blessent pas vous ou vos possessions, et elles provoquent une lumière vive sur 30 ft. et modérée sur 30 ft. supplémentaire. Tant que les flammes sont présentes, toute créature à 5 ft. qui vous touchez avec une attaque de mêlée subit 1d4 dégâts de feu.
 
 
 ---
@@ -27266,17 +27264,17 @@ writing_status: finished
 ---
 Vous avez absorbé de la magie primitive, ce qui vous confère un écho de la puissance des géants. Lorsque vous prenez ce don, choisissez l'un des effets suivants. Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée ou une attaque à distance avec une arme de jet, vous pouvez infuser l'attaque d'un effet supplémentaire en fonction de votre choix : 
 
-**Frappe des Nuages.** La cible prend 1d4 dégâts de tonnerre supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse ou vous devenez [[invisible]] pour elle jusqu'au début de votre prochain tour ou immédiatement après que vous avez réalisé un jet d'attaque ou incanté un sort.
+**Frappe des Nuages.** La cible subit 1d4 dégâts de tonnerre supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Sagesse ou vous devenez [[invisible]] pour elle jusqu'au début de votre prochain tour ou immédiatement après que vous avez réalisé un jet d'attaque ou incanté un sort.
 
-**Frappe de Feu.** La cible prend 1d10 dégâts de feu supplémentaires.
+**Frappe de Feu.** La cible subit 1d10 dégâts de feu supplémentaires.
 
-**Frappe de Froid.** La cible prend 1d6 dégâts de froid supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution ou sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
+**Frappe de Froid.** La cible subit 1d6 dégâts de froid supplémentaires. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Constitution ou sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
 
-**Frappe de la Colline.** La cible prend 1d6 dégâts supplémentaires, du type de dégâts de l'arme. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être [[au sol]].
+**Frappe de la Colline.** La cible subit 1d6 dégâts supplémentaires, du type de dégâts de l'arme. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être [[au sol]].
 
-**Frappe de Pierre.** La cible prend 1d6 dégâts supplémentaires de force. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. en ligne droite.
+**Frappe de Pierre.** La cible subit 1d6 dégâts supplémentaires de force. Si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. en ligne droite.
 
-**Frappe des Tempêtes.** La cible prend 1d6 dégâts de foudre supplémentaires. Si la cible est une créature, elle doit réussir un jet de Constitution ou avoir le désavantage aux jets d'attaque jusqu'au début de votre prochain tour.
+**Frappe des Tempêtes.** La cible subit 1d6 dégâts de foudre supplémentaires. Si la cible est une créature, elle doit réussir un jet de Constitution ou avoir le désavantage aux jets d'attaque jusqu'au début de votre prochain tour.
 
 Le DD du jet de sauvegarde pour ce don est égal à 8 + votre bonus de maîtrise + votre modificateur de Force ou Constitution (votre choix).
 
@@ -27298,7 +27296,7 @@ Vous avez manifesté en vous la grandeur glacée emblématique des géants de fr
 
 **Né des Glaciers.** Vous avez la résistance aux dégâts de froid.
 
-**Représailles Frigides.** Immédiatement après qu'une créature que vous voyez à 30 ft. de vous vous a touché avec un jet d'attaque et infligé des dégâts, vous pouvez utiliser votre réaction pour répondre par la conjuration d'une explosion de glace. La créature doit réussir un jet de sauvegarde de Constitution (DD égal à 8 + votre bonus de maîtrise + le modificateur de la caractéristique augmentée par ce don) ou prendre 1d8 + votre bonus de maîtrise dégâts de froid, et voir sa vitesse réduite à 0 jusqu'à la fin de son prochain tour. Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+**Représailles Frigides.** Immédiatement après qu'une créature que vous voyez à 30 ft. de vous vous a touché avec un jet d'attaque et infligé des dégâts, vous pouvez utiliser votre réaction pour répondre par la conjuration d'une explosion de glace. La créature doit réussir un jet de sauvegarde de Constitution (DD égal à 8 + votre bonus de maîtrise + le modificateur de la caractéristique augmentée par ce don) ou subir 1d8 + votre bonus de maîtrise dégâts de froid, et voir sa vitesse réduite à 0 jusqu'à la fin de son prochain tour. Vous pouvez utiliser cette réaction un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 
 ---
@@ -27357,7 +27355,7 @@ Vous pouvez canaliser les forces cosmiques du bien pour gagner les effets suivan
 
 **Augmentation de Caractéristiques.** Augmentez le score d'une caractéristique de 1, jusqu'à un maximum de 20.
 
-**Coup d'Arrêt.** Lorsque vous ou une créature à 30 ft. prenez des dégâts, vous pouvez utiliser votre réaction pour réduire ces dégâts de 1d10 + votre bonus de maîtrise. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges dépensées lorsque vous terminez un repos long.
+**Coup d'Arrêt.** Lorsque vous ou une créature à 30 ft. subissez des dégâts, vous pouvez utiliser votre réaction pour réduire ces dégâts de 1d10 + votre bonus de maîtrise. Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges dépensées lorsque vous terminez un repos long.
 
 
 ---
@@ -27526,7 +27524,7 @@ writing_status: finished
 ---
 Vous avez pratiqué l'incantation en plein milieu de batailles, apprenant des techniques qui vous confèrent les effets suivants : 
 
- - Vous avez l'avantage aux jets de sauvegarde de Constitution que vous réalisez pour maintenir votre concentration lorsque vous prenez des dégâts.
+ - Vous avez l'avantage aux jets de sauvegarde de Constitution que vous réalisez pour maintenir votre concentration lorsque vous subissez des dégâts.
  - Vous pouvez réaliser la composante somatique des sorts même lorsque vous maniez une arme ou un bouclier.
  - Vous pouvez utiliser un sort en lieu d'une attaque d'opportunité, tant que ce sort a une durée d'incantation de 1 action et qu'il ne cible que la créature ciblée par l'attaque.
 
@@ -27837,7 +27835,7 @@ writing_status: finished
 Vous savez utiliser votre armure pour dévier les coups qui vous seraient létaux. Vous bénéficiez des effets suivants : 
 
  - Augmentez votre Force de 1, jusqu'à un maximum de 20.
- - Tant que vous portez une armure lourde, les dégâts contondants, perçants et tranchants que vous prenez de sources non magiques sont réduits de 3.
+ - Tant que vous portez une armure lourde, les dégâts contondants, perçants et tranchants que vous subissez de sources non magiques sont réduits de 3.
 
 ---
 
@@ -27866,7 +27864,7 @@ Vous n'utilisez pas les boucliers que pour la défense, mais également pour l'a
 
  - Si vous utilisez votre action pour attaquer pendant votre tour, vous pouvez utiliser votre action bonus pour essayer de pousser une créature à 5 ft. avec votre bouclier.
  - Si vous n'êtes pas [[incapacité]], vous pouvez ajouter le bonus à la CA de votre bouclier à n'importe quel jet de sauvegarde de Dextérité contre un effet magique ou néfaste qui ne vous cible que vous.
- - Si vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous pouvez utiliser votre réaction pour ne prendre aucun dégâts si vous réussissez le jet, plaçant votre bouclier entre vous et la source de l'effet.
+ - Si vous êtes soumis à un effet qui vous autorise à réaliser un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous pouvez utiliser votre réaction pour ne subir aucun dégâts si vous réussissez le jet, plaçant votre bouclier entre vous et la source de l'effet.
 
 ---
 
@@ -28010,7 +28008,7 @@ writing_status: finished
 Lorsque vous êtes énervés, vous avez une aura effrayante. Vous bénéficiez des effets suivants : 
 
  - Augmentez votre Force, Constitution ou Charisme de 1, jusqu'à un maximum de 20.
- - Plutôt qu'expirer une énergie destructrice, vous pouvez utiliser une charge de votre Souffle pour rugir, forçant chaque créature que vous choisissez à 30 ft. à réaliser un jet de sauvegarde de Sagesse (DD à 8 + votre bonus de maîtrise + votre modificateur de Charisme). Une cible réussit automatiquement ce jet si elle ne peut ni vous voir, ni vous entendre. Si une créature rate le jet, elle devient effrayée de vous pendant 1 minute. Si une cible effrayée prend des dégâts, elle peut retenter le jet de sauvegarde.
+ - Plutôt qu'expirer une énergie destructrice, vous pouvez utiliser une charge de votre Souffle pour rugir, forçant chaque créature que vous choisissez à 30 ft. à réaliser un jet de sauvegarde de Sagesse (DD à 8 + votre bonus de maîtrise + votre modificateur de Charisme). Une cible réussit automatiquement ce jet si elle ne peut ni vous voir, ni vous entendre. Si une créature rate le jet, elle devient effrayée de vous pendant 1 minute. Si une cible effrayée subit des dégâts, elle peut retenter le jet de sauvegarde.
 
 
 ---
@@ -28636,7 +28634,7 @@ Vous pouvez puiser dans les forces du multivers afin de survivre aux extrêmes c
 
 **Adaptation Planaire.** Lorsque vous terminez un repos long, vous gagnez la résistance aux dégâts d'acide, de froid ou de feu (votre choix) jusqu'à ce que vous terminiez un repos long.
 
-**Crocheteur de Portail.** Votre expérience avec les portails vous permet de les ouvrir même sans clé. Pour une action, vous pouvez vous concentrer sur un portail dont vous avez conscience à 5 ft. de vous et réaliser un jet d'Intelligence (Arcane) DD 20. Si vous le ratez, vous prenez 3d8 dégâts psychiques et ne pouvez réutiliser cette aptitude sur ce portail jusqu'à ce que vous terminiez un repos long. Si vous réussissez, vous pouvez forcer le portail à être ouvert ou fermé pendant 1 heure. Pendant cette durée, le portail ne répond plus à sa clé sauf si la créature utilisant la clé réussit un jet d'Intelligence (Arcane) DD 20.
+**Crocheteur de Portail.** Votre expérience avec les portails vous permet de les ouvrir même sans clé. Pour une action, vous pouvez vous concentrer sur un portail dont vous avez conscience à 5 ft. de vous et réaliser un jet d'Intelligence (Arcane) DD 20. Si vous le ratez, vous subissez 3d8 dégâts psychiques et ne pouvez réutiliser cette aptitude sur ce portail jusqu'à ce que vous terminiez un repos long. Si vous réussissez, vous pouvez forcer le portail à être ouvert ou fermé pendant 1 heure. Pendant cette durée, le portail ne répond plus à sa clé sauf si la créature utilisant la clé réussit un jet d'Intelligence (Arcane) DD 20.
 
 **Intuition du Voyageur.** Vous connaissez la direction du dernier portail planaire que vous avez utilisé tant que vous et le portail êtes sur le même plan. De plus, pour une action, vous pouvez détecter l'emplacement de n'importe quel portail à 30 ft. qui n'est pas derrière une couverture totale. Une fois que vous avez détecté un portail avec cette action, vous ne pouvez pas utiliser votre action jusqu'à ce que vous terminiez un repos long.
 
@@ -29486,11 +29484,11 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 381571 (soit ~ 1526 pages) (soit ~ 0.79 Seigneur des Anneaux)
+**Nombre Total de Mots.** 378326 (soit ~ 1513 pages) (soit ~ 0.79 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-27 17:02:06
+Mis à jour pour la dernière fois le 2026-04-27 20:38:27
 
 ---
 
@@ -30269,7 +30267,7 @@ Ce trait indique l'âge à partir duquel un membre de la race est considéré co
 Afin de déterminer l'âge de départ de votre personnage, chaque classe contient une indication du temps de formation nécessaire afin d'y gagner un niveau. Il suffit de le rajouter à l'âge indiqué pour la race pour être considéré comme un adulte.
 
 ### Taille
-Les personnages de la majorité des races sont de taille *Moyenne (M)*, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille _Petite (P)_ (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre Équipements.
+Les personnages de la majorité des races sont de taille *Moyenne (M)*, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille *Petite (P)* (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre Équipements.
 
 ### Vitesse
 Votre vitesse détermine la distance que vous pouvez parcourir lors des Déplacements et lors des Combats.
@@ -30546,24 +30544,24 @@ Une fois que vous avez déterminer la base de jeu de votre personnage, il est te
 
 ## Esprit Aberrant
 *Aberration de taille M, tout alignement*
-___
+*_*
 **Classe d'armure** 11 + le niveau du sort (armure naturelle) 
 **Points de vie** 40 + 10 pour chaque niveau de sort au-delà de 4 
 **Vitesse** 30 ft., vol 30 ft. (flottement) (Tyrannoeil seulement) 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 10 (+0) | 15 (+2) | 16 (+3) | 10 (+0) | 6 (-2) |
 
-___
+*_*
 **Immunités aux dégâts** psychique 
 **Sens** vision dans le noir 60 ft., Perception passive 10 
 **Langues** Profond, comprend les langues que vous parlez
 **Bonus de maîtrise** Égal au vôtre
-___
+*_*
 ***Régénération (Slaad seulement)***. L'aberration regagne 5 points de vie au début de son tour si elle a au moins 1 point de vie. 
 
-***Aura Murmurante (Rejeton Stellaire seulement)***. Au début de chacun des tours de l'aberration, toutes les créatures à 5 ft. de celle-ci doivent réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort ou prendre 2d6 dégâts psychiques, en supposant que l'aberration ne soit pas [[incapacité|incapacitée]].
+***Aura Murmurante (Rejeton Stellaire seulement)***. Au début de chacun des tours de l'aberration, toutes les créatures à 5 ft. de celle-ci doivent réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort ou subir 2d6 dégâts psychiques, en supposant que l'aberration ne soit pas [[incapacité|incapacitée]].
 
 
 ### ACTIONS
@@ -30576,7 +30574,7 @@ ___
 ***Frappe Psychique (Rejeton Stellaire uniquement)***. *Attaque de sort de mêlée* : Toucher : votre modificateur d'attaque de sort, portée 150 ft., une créature. *Touché* : 1d8 + 3 + le niveau du sort dégâts psychiques. 
 
 
-___
+*_*
 
 
 
@@ -30586,20 +30584,20 @@ ___
 
 ## Esprit Bestial
 *Bête de taille P, neutre*
-___
+*_*
 **Classe d'armure** 11 + le niveau du sort (armure naturelle) 
 **Points de vie** 20 (Air seulement) ou 30 (Terre et Eau) + 5 par niveau d'emplacement au-delà du niveau 2 
 **Vitesse** 30 ft., escalade 30 ft. (Terre seulement), vol 60 ft. (Air seulement), nage 30 ft. (Eau seulement) 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 11 (+0) | 16 (+3) | 4 (-3) | 14 (+2) | 5 (-3) |
 
-___
+*_*
 **Sens** vision dans le noir 60 ft. Perception passive 12 
 **Langues** Comprends les langues que vous parlez 
 **Puissance** 0 (0 PX)     **Bonus de maîtrise** Égal au vôtre 
-___
+*_*
 ***Survol (Air seulement)***. La bête ne provoque pas d'attaque d'opportunité lorsqu'il vole en dehors de la zone de menace d'un ennemi. 
 
 ***Tactiques de Groupe (Terre seulement)***. La bête a l'avantage sur les jets d'attaque contre une créature si au moins un de ses alliés se trouve à 5 ft. de la créature et n'est pas [[incapacité]]. 
@@ -30613,7 +30611,7 @@ ___
 ***Perforation***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, portée 5 ft., une cible. *Touché* : 1d8 + 4 + le niveau du sort dégâts perforants. 
 
 
-___
+*_*
 
 
 
@@ -30623,22 +30621,22 @@ ___
 
 ## Esprit Construit
 *Artificiel de taille M, *
-___
+*_*
 **Classe d'armure** 13 + le niveau du sort (armure naturelle) 
 **Points de vie** 40 + 15 par niveau d'emplacement au-delà du niveau 4 
 **Vitesse** 30 ft. 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 10 (+0) | 18 (+4) | 14 (+2) | 11 (+0) | 5 (-3) |
 
-___
+*_*
 **Résistances aux dégâts** poison 
 **Immunités aux états** charmé, épuisement, paralysé, pétrifié, empoisonné, incapacité, apeuré 
 **Sens** vision dans le noir 60 ft. Perception passive 10 
 **Langues** Comprend les langues que vous parlez 
 **Puissance** 0 (0 PX)     **Bonus de maîtrise** Égal au vôtre 
-___
+*_*
 ***Corps Chauffé (Métal)***. Une créature qui touche la construction ou la frappe avec une attaque de mêlée tout en se trouvant à 5 ft. subit 1d10 dégâts de feu. 
 
 ***Léthargie Lapilleuse (Pierre)***. Lorsqu'une créature que la construction peut voir commence son tour à 10 ft. de la construction, la construction peut la forcer à réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, la cible ne peut pas utiliser de réactions et sa vitesse est diminuée de moitié jusqu'au début son prochain tour. 
@@ -30654,7 +30652,7 @@ ___
 ***Furie Glaiseuse (Argile)***. Lorsque la construction subit des dégâts, elle réalise une attaque de Frappe contre une créature aléatoire à 5 ft. d'elle. Si aucune créature n'est à portée, la construction se déplace de jusqu'à la moitié de sa vitesse vers un ennemi qu'elle peut voir, sans provoquer d'attaque d'opportunité. 
 
 
-___
+*_*
 
 
 
@@ -30664,22 +30662,22 @@ ___
 
 ## Esprit Céleste
 *Céleste de taille G*
-___
+*_*
 **Classe d'armure** 11 + le niveau du sort (armure naturelle) + 2 (Défenseur seulement) 
 **Points de vie** 40 + 10 par niveau d'emplacement au-delà du niveau 5 
 **Vitesse** 30 ft., vol 40 ft. 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 16 (+3) | 14 (+2) | 16 (+3) | 10 (+0) | 14 (+2) | 16 (+3) |
 
-___
+*_*
 **Résistances aux dégâts** radiant 
 **Immunités aux états** charmé, apeuré 
 **Sens** vision dans le noir 60 ft. Perception passive 12 
 **Langues** Céleste, comprend les langues que vous parlez 
 **Puissance** 0 (0 PX)     **Bonus de maîtrise** Égal au vôtre 
-___
+*_*
 ### ACTIONS
 ***Attaques Multiples***. Le céleste réalise un nombre d'attaques égal à la moitié du niveau de ce sort (arrondi à l'inférieur). 
 
@@ -30690,7 +30688,7 @@ ___
 ***Toucher Soignant (1/Jour)***. Le céleste touche une autre créature. La cible regagne magiquement 2d8 + le niveau du sort points de vie. 
 
 
-___
+*_*
 
 
 
@@ -30700,22 +30698,22 @@ ___
 
 ## Esprit Draconique
 *Dragon de taille G, neutre*
-___
+*_*
 **Classe d'armure** 14 + le niveau du sort (armure naturelle) 
 **Points de vie** 50 + 10 pour chaque niveau de sort au-delà du niveau 5 
 **Vitesse** 30 ft., vol 60 ft., nage 30 ft. 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 19 (+4) | 14 (+2) | 17 (+3) | 10 (+0) | 14 (+2) | 14 (+2) |
 
-___
+*_*
 **Résistances aux dégâts** acide, froid, feu, foudre et poison (Chromatiques et Métallique) / force, nécrotique, psychique, radiant, tonnerre (Diamantin) 
 **Immunités aux états** charmé, apeuré, empoisonné 
 **Sens** Vision aveugle 30 ft., vision dans le noir 60 ft. Perception passive 12 
 **Langues** draconique, comprend les langues que vous parlez 
 **Puissance** 0 (0 PX)     **Bonus de maîtrise** égal à votre bonus 
-___
+*_*
 ***Résistance partagée***. Lorsque vous invoquez le dragon, choisissez l'une de ses résistances. Vous avez la résistance au type de dégâts choisi jusqu'à ce que le sort se termine. 
 
 
@@ -30724,10 +30722,10 @@ ___
 
 ***Déchirure***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort pour toucher, portée 10 ft., une cible. *Touché* : 1d6 + 4 + le niveau de ce sort dégâts perçants. 
 
-***Souffle***. Le dragon libère une énergie destructrice dans un cône de 30 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature prend 2d6 dégâts d'un type auquel le dragon est résistant si elle échoue son jet, et la moitié sinon.
+***Souffle***. Le dragon libère une énergie destructrice dans un cône de 30 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit 2d6 dégâts d'un type auquel le dragon est résistant si elle échoue son jet, et la moitié sinon.
 
 
-___
+*_*
 
 
 
@@ -30737,23 +30735,23 @@ ___
 
 ## Esprit Élémentaire
 *Élémentaire de taille M, non aligné*
-___
+*_*
 **Classe d'armure** 11 + le niveau du sort (armure naturelle) 
 **Points de vie** 50 + 10 par niveau de sort au-delà de 4 
 **Vitesse** 40 ft. ; fouissement 40 ft. (Terre seulement) ; vol 40 ft. (flottement) (Air seulement) ; nage 40 ft. (Eau seulement) 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 18 (+4) | 15 (+2) | 17 (+3) | 4 (-3) | 10 (+0) | 16 (+3) |
 
-___
+*_*
 **Résistances aux dégâts** acide (Eau seulement) ; foudre et tonnerre (Air seulement) ; perçant et tranchant (Terre seulement) 
 **Immunités aux dégâts** poison ; feu (Feu seulement) 
 **Immunités aux états** épuisement, apeuré, paralysé, pétrifié, empoisonné, inconscient 
 **Sens** vision dans le noir 60 ft., Perception passive 10 
 **Langues** Primordial, comprend les langues que vous parlez 
 **Puissance** 1 (200 PX)     **Bonus de maîtrise** Égal au vôtre 
-___
+*_*
 ***Forme Amorphe (Air, Feu et Eau seulement)***. L'élémentaire peut se déplacer dans un espace d'au moins 2 cm de large sans avoir à se faufiler. 
 
 
@@ -30763,7 +30761,7 @@ ___
 ***Frappe***. *Attaque armée de mêlée* : votre modificateur d'attaque de sort au toucher, portée 1,50 m, une cible. *Touché* : 1d10 + 4 + le niveau du sort dégâts contondants (Air, Terre et Eau) ou de feu (Feu). 
 
 
-___
+*_*
 
 
 
@@ -30773,19 +30771,19 @@ ___
 
 ## Poulet
 *Bête de taille TP, non aligné*
-___
+*_*
 **Classe d'armure** 112 
 **Points de vie** 1 
 **Vitesse** 40 ft. 
-___
+*_*
 | FOR | DEX | CON | INT | SAG | CHA |
 | --- | --- | --- | --- | --- | --- |
 | 3 (-4) | 14 (+2) | 8 (-1) | 1 (-5) | 12 (+1) | 7 (-2) |
-___
+*_*
 **Sens** — Perception passive 111 
 **Langues** — 
 **Puissance** 0 (0 PX)     **Bonus de maîtrise** +2 
-___
+*_*
 ***Évasion Agile***. Le poulet peut utiliser son action bonus pour se Désengager ou se Cacher. 
 
 
@@ -30793,7 +30791,7 @@ ___
 ***Pic-pic***. *Attaque armée de mêlée* : +4 pour toucher, portée 5 ft., une cible. *Touché* : 1 dégât perçant. 
 
 
-___
+*_*
 
 ![[Poulet.webp]]
 
@@ -31013,11 +31011,11 @@ Lors de la création de votre personnage, vous pouvez choisir de lui appliquer l
 
 **Poli.** Vous êtes amical, bien élevé et toujours propre sur vous, mais lorsque vous ne préféreriez pas. Vous avez un bonus de +2 aux jets de Persuasion, mais le désavantage aux jets d'Intimidation.
 
-**Sauvage.** Vous vous entendez mieux avec les animaux que les êtres _intelligents_. Vous maîtrisez la compétence Dressage. Si vous la maîtrisez déjà, vous en devenez un expert. Vous avez le désavantage à tous vos jets de Persuasion et Tromperie que vous réalisez en communiquant avec des humanoïdes.
+**Sauvage.** Vous vous entendez mieux avec les animaux que les êtres *intelligents*. Vous maîtrisez la compétence Dressage. Si vous la maîtrisez déjà, vous en devenez un expert. Vous avez le désavantage à tous vos jets de Persuasion et Tromperie que vous réalisez en communiquant avec des humanoïdes.
 
 **Avorton.** Vous êtes de petite taille pour votre race, mais vous avez réussi à tirer parti de votre taille malgré une enfance tourmentée. Vous avez un malus de -2 à la Force et un malus de -1 à la Constitution, mais vous gagnez un bonus de +1 à la Dextérité et maîtrisez une compétence de votre choix parmi Acrobatie, Escamotage, Discrétion, Perception, Représentation ou Persuasion. Vous êtes considéré comme d'une taille inférieure d'un niveau pour déterminer votre capacité de charge et vous avez besoin de moitié moins de nourriture que les autres membres de votre race.
 
-**Balourd.** Vous êtes exceptionnellement massif pour votre race, rendant difficile la coordination et l'apprentissage par l'exemple. Vous avez un bonus de +2 à la Force et de +1 à la Constitution, mais vous souffrez d'un malus de -1 à la Dextérité et d'un malus de -2 en Charisme. Vous perdez également une maîtrise de compétence ainsi qu'une maîtrise d'outil ou une langue que vous pourriez connaître. Vous gagnez le trait racial _Carrure Puissante_ et vous consommez deux fois plus de nourriture que les autres membres de votre race. Vous pouvez également utiliser votre modificateur de Force plutôt que de Charisme pour vos jets d'Intimidation.
+**Balourd.** Vous êtes exceptionnellement massif pour votre race, rendant difficile la coordination et l'apprentissage par l'exemple. Vous avez un bonus de +2 à la Force et de +1 à la Constitution, mais vous souffrez d'un malus de -1 à la Dextérité et d'un malus de -2 en Charisme. Vous perdez également une maîtrise de compétence ainsi qu'une maîtrise d'outil ou une langue que vous pourriez connaître. Vous gagnez le trait racial *Carrure Puissante* et vous consommez deux fois plus de nourriture que les autres membres de votre race. Vous pouvez également utiliser votre modificateur de Force plutôt que de Charisme pour vos jets d'Intimidation.
 
 **Malabar.** Vous êtes si musclé que cela gêne vos mouvements. Vous bénéficiez d'un bonus de +3 à la Force et lorsque vous réalisez une attaque de mêlée en utilisant la Force, vous pouvez ajouter votre bonus de maîtrise aux dégâts infligés si vous touchez. Votre vitesse de marche est réduite de 5 ft. et vous avez le désavantage aux jets de caractéristique, d'attaque et de sauvegarde utilisant la Dextérité.
 
@@ -31132,7 +31130,7 @@ Pour aider un autre personnage, votre personnage doit soit maîtriser la compét
 Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous réalisez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework
 
 ### 3.4 Chute
-Si une créature prend des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature prend des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
+Si une créature subit des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature subit des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
 
 ### 3.5 Faire 10
 Lorsque vous n'êtes pas sous pression ou en danger immédiat, vous pouvez *faire 10*. Plutôt que de lancer un d20 pour un jet de compétence, vous utilisez votre score passif pour cette compétence. Pour rappel, le score passif est 10 + modificateurs habituels du jet, avec un bonus de 5 si le jet est réalisé avec avantage et -5 s'il est réalisé avec désavantage. Faire 10 prend 10 fois le temps nécessaire pour réaliser l'action standard, donc environ 1 minute. L'éligibilité d'une action à cette règle est au bon vouloir du MJ.
@@ -31159,7 +31157,7 @@ Généralement, les aventuriers gardent leurs potions à portée de mains (par e
 Lorsqu'une description fait état d'une résistance aux attaques non-magiques, la résistance est considérée comme étant aux dégâts non-magiques (par ex. un piège qui tire des flèches).
 
 #### 4.3.2 Immunité aux dégâts contondants
-Une créature immunisée aux dégâts contondants prend la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
+Une créature immunisée aux dégâts contondants subit la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
 
 ### 4.4 Initiative
 
@@ -31233,9 +31231,9 @@ Langue des peuples aériens, elle est composée de clics et de soufflements. Leu
 
 "Son chant est pour une autre branche" -> Il n'est pas loyal
 
-"C'est un _tsuca_ qui se prend pour un nuage" -> Un imbécile prétentieux
+"C'est un *tsuca* qui se prend pour un nuage" -> Un imbécile prétentieux
 
-"La _chetsetsou_ d'un colibri" -> Une tâche particulièrement inefficace, si ce n'est néfaste
+"La *chetsetsou* d'un colibri" -> Une tâche particulièrement inefficace, si ce n'est néfaste
 
 #### Céleste
 
@@ -31252,7 +31250,7 @@ Langue majestueuse des Plans Supérieurs, elle est plus chantée que parlée. El
 ---
 writing_status: empty
 ---
-Lorsque vous touchez une créature avec une attaque de mêlée, vous pouvez dépenser un dé de bataille et une action bonus pour vous préparer à la contre-attaque. La prochaine fois que vous prenez des dégâts de cette créature avant le début de votre prochain tour, vous pouvez lancer le dé de bataille et réduire les dégâts du résultat obtenu.
+Lorsque vous touchez une créature avec une attaque de mêlée, vous pouvez dépenser un dé de bataille et une action bonus pour vous préparer à la contre-attaque. La prochaine fois que vous subissez des dégâts de cette créature avant le début de votre prochain tour, vous pouvez lancer le dé de bataille et réduire les dégâts du résultat obtenu.
 
 
 ---
@@ -31395,7 +31393,7 @@ Si cette arme est submergée ou arrosée de suffisamment d'eau, elle s'enraille.
 Cette arme requiert des compétences hors pair pour être maniée. Vous devez avoir un score de Dextérité de 16 ou plus pour manier une arme élégante.
 
 #### Explosive
-Lorsqu'un projectile de cette arme touche une cible, il explose en une sphère d'un diamètre de 15 ft. Ce projectile peut cibler n'importe quel emplacement inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (pour une créature de taille M ou P, toutes les créatures à 5 ft.) doit réussir un jet de sauvegarde de Dextérité DD 14 ou prendre la moitié des dégâts obtenus lors du jet de dégâts.
+Lorsqu'un projectile de cette arme touche une cible, il explose en une sphère d'un diamètre de 15 ft. Ce projectile peut cibler n'importe quel emplacement inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (pour une créature de taille M ou P, toutes les créatures à 5 ft.) doit réussir un jet de sauvegarde de Dextérité DD 14 ou subir la moitié des dégâts obtenus lors du jet de dégâts.
 
 #### Finesse
 Lorsque vous réalisez une attaque avec une arme de finesse, vous pouvez utiliser au choix la Force ou la Dextérité pour vos jets d'attaque et de dégâts. Vous devez utiliser la même caractéristique pour les deux jets.
@@ -31473,7 +31471,7 @@ Une arme polyvalente peut être utilisée avec une ou deux mains. Les dégâts e
 Vous pouvez essayer de pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous réalisez pour pousser une créature avec cette arme.
 
 #### Précision
-Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible prend 1d6 dégâts supplémentaires.
+Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible subit 1d6 dégâts supplémentaires.
 
 #### Tirs Jumeaux
 Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à portée de cette arme.
@@ -31507,7 +31505,7 @@ writing_status: empty
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-20 | Tant que vous êtes lié à cet artefact, une de vos caractéristiques (au choix du MJ) augmente de 2, pour un maximum de 24 |
 | 21-30 | Tant que vous êtes lié à cet artefact, vous regagnez 1d6 points de vie au début de votre tour si vous avez au moins 1 point de vie |
-| 31-40 | Tant que vous êtes lié à cet artefact, lorsque vous touchez avec une attaque d'arme, la cible prend 1d6 dégâts supplémentaires |
+| 31-40 | Tant que vous êtes lié à cet artefact, lorsque vous touchez avec une attaque d'arme, la cible subit 1d6 dégâts supplémentaires |
 | 41-50 | Tant que vous êtes lié à cet artefact, votre vitesse de marche augmente de 10 ft. |
 | 51-60 | Tant que vous êtes lié à cet artefact, vous pouvez utiliser votre action pour lancer un sort de niveau 4 (choisi par le MJ). Après avoir lancé le sort, lancez un d6. Sur un 1-5, vous ne pouvez pas le relancer avant la prochaine aube |
 | 61-70 | Comme 51-60, mais le sort est de niveau 5 |
@@ -31551,10 +31549,10 @@ writing_status: empty
 | 31-35 | Tant que vous êtes lié à cet artefact, les créatures d'un certain type autre qu'humanoïde (choisi par le MJ) vous sont toujours hostiles. |
 | 36-40 | L'artefact dilue les potions magiques qui se trouvent à moins de 10 ft. de lui, les rendant inertes. |
 | 41-45 | L'artefact efface les parchemins magiques qui se trouvent à moins de 10 ft. de lui, les désactivant. |
-| 46-50 | Avant d'utiliser une action pour utiliser une des propriétés de l'artefact, vous devez utiliser une action bonus pour prélever du sang, de vous ou d'une créature [[incapacitée]] ou consentante à portée, en utilisant une arme de mêlée tranchante ou perçante. La créature en question prend 1d4 dégâts du type approprié. |
+| 46-50 | Avant d'utiliser une action pour utiliser une des propriétés de l'artefact, vous devez utiliser une action bonus pour prélever du sang, de vous ou d'une créature [[incapacitée]] ou consentante à portée, en utilisant une arme de mêlée tranchante ou perçante. La créature en question subit 1d4 dégâts du type approprié. |
 | 51-60 | Lorsque vous établissez un lien avec cet artefact, vous obtenez une forme de folie à long-terme. |
-| 61-65 | Vous prenez 4d10 dégâts psychiques lorsque vous vous liez à cet artefact. |
-| 66-70 | Vous prenez 8d10 dégâts psychiques lorsque vous vous liez à cet artefact. |
+| 61-65 | Vous subissez 4d10 dégâts psychiques lorsque vous vous liez à cet artefact. |
+| 66-70 | Vous subissez 8d10 dégâts psychiques lorsque vous vous liez à cet artefact. |
 | 71-75 | Avant de pouvoir vous lier à cet artefact, vous devez tuer une créature de votre alignement. |
 | 76-80 | Lorsque vous établissez un lien avec cet artefact, un de vos scores de caractéristiques aléatoire est réduit de 2. Un sort de [[Restauration Supérieure]] rétablit vos caractéristiques à la normale. |
 | 81-85 | Chaque fois que vous vous liez à cet artefact, vous vieillissez de 3d10 années. Vous devez réussir un jet de sauvegarde de Constitution (DD 10) ou mourez sur le coup. Si vous mourez, vous devenez instantanément un [nécrophage](https://www.aidedd.org/dnd/monstres.php?vf=necrophage) sous contrôle du MJ et qui protège l'artefact. |
@@ -32182,9 +32180,9 @@ writing_status: empty
 ---
 Tant que vous portez cet anneau magique, vous avez l'immunité aux dégâts de froid, et le terrain difficile composé de neige et de glace ne vous coûte pas de mouvement supplémentaire.
 
-**Magie d'Hiver.** Cet anneau magique possède 3 charges, et regagne toutes les charges dépensées au matin. Pour une action, vous pouvez dépenser ces charges pour lancer un des sorts suivants (DD de sauvegarde des sorts 17) : *[[Tempête de Grêle]]* (1 charge), *[[Cône de Froid]]* (2 charges), ou *[[Mur de Glace]]* (3 charges).
+**Magie d'Hiver.** Cet anneau magique possède 3 charges, et regagne toutes les charges dépensées au matin. Pour une action, vous pouvez dépenser ces charges pour lancer un des sorts suivants (DD de sauvegarde des sorts 17) : *[[Tempête de Glace]]* (1 charge), *[[Cône de Froid]]* (2 charges), ou *[[Mur de Glace]]* (3 charges).
 
-**Aura de Froid.** Pour une action, vous pouvez prononcer le mot de commande de l'anneau pour provoquer une chute drastique de la température autour de vous pendant 1 minute. N'importe quelle créature qui commence son tour à moins de 5 ft. de vous prend 1d6 dégâts de froid. De plus, une fine couche de glace se forme dans les espaces que vous traversez. La glace est un terrain difficile, et une créature qui y commence son tour ou entre dans la zone pour la première fois pendant un tour doit réussir un jet de sauvegarde de Dextérité (DD 10), ou tomber [[au sol]]. La glace fond au bout de 1 minute. Une fois que vous l'avez utilisée, cette propriété ne peut pas être réutilisée jusqu'au lendemain.
+**Aura de Froid.** Pour une action, vous pouvez prononcer le mot de commande de l'anneau pour provoquer une chute drastique de la température autour de vous pendant 1 minute. N'importe quelle créature qui commence son tour à moins de 5 ft. de vous subit 1d6 dégâts de froid. De plus, une fine couche de glace se forme dans les espaces que vous traversez. La glace est un terrain difficile, et une créature qui y commence son tour ou entre dans la zone pour la première fois pendant un tour doit réussir un jet de sauvegarde de Dextérité (DD 10), ou tomber [[au sol]]. La glace fond au bout de 1 minute. Une fois que vous l'avez utilisée, cette propriété ne peut pas être réutilisée jusqu'au lendemain.
 
 ![[Arctic Ring (Back).jpg]]
 
@@ -32212,7 +32210,7 @@ attunement: true
 attdet:
 writing_status: empty
 ---
-Lorsque la corde de cet arc magique est bandée, la face gobelinoïde décorant l'arc prend vie, marmonnant des malédictions et criant des insultes en gobelin. Lorsque vous touchez une créature avec un jet d'attaque en utilisant cet arc, la cible prend 1d6 dégâts perçants supplémentaires si elle vous a infligé des dégâts depuis la fin de votre dernier tour.
+Lorsque la corde de cet arc magique est bandée, la face gobelinoïde décorant l'arc prend vie, marmonnant des malédictions et criant des insultes en gobelin. Lorsque vous touchez une créature avec un jet d'attaque en utilisant cet arc, la cible subit 1d6 dégâts perçants supplémentaires si elle vous a infligé des dégâts depuis la fin de votre dernier tour.
 
 **Âme de Sorcière.** Cet arc possède 3 charges, et regagne toutes les charges dépensées au matin. Pour une action, vous pouvez dépenser ces charges pour lancer l'un des sorts suivants (DD de sauvegarde de sorts 15): *[[Fléau]]* (1 charge), *[[Silence]]* (2 charges), ou *[[Malédiction Persistante]]* (3 charges).
 
@@ -32543,7 +32541,7 @@ writing_status: empty
 ---
 Tant que vous tenez ce bâton, vous êtes résistant aux dégâts de froid.
 
-Ce bâton a 10 charges. Tant que vous le tenez, vous pouvez utiliser une action pour dépenser une ou plusieurs charges pour lancer l'un des sorts suivants, en utilisant votre DD de sauvegarde de sort : [[cône de froid]] (5 charges), [[Brouillard]] (1 charge), [[tempête de grêle]] (4 charges) ou [[mur de glace]] (4 charges).
+Ce bâton a 10 charges. Tant que vous le tenez, vous pouvez utiliser une action pour dépenser une ou plusieurs charges pour lancer l'un des sorts suivants, en utilisant votre DD de sauvegarde de sort : [[cône de froid]] (5 charges), [[Brouillard]] (1 charge), [[Tempête de Glace]] (4 charges) ou [[mur de glace]] (4 charges).
 
 Ce bâton regagne 1d6 + 4 charges dépensés tous les matins. Si vous dépensez la dernière charge, lancez un d20. Sur un 1, le bâton fond et est détruit.
 
@@ -32653,7 +32651,7 @@ Cet acide transparent frémit constamment à l'intérieur de sa fiole scellée. 
 
 Si la cible est un objet qui n'est ni porté ni manié, l'acide dissout un cube de 30 cm de côté de l'objet. S'il atteint une armure ou un bouclier, l'objet prend un malus de -1 à sa CA. Une armure réduite à une CA de 10 ou un bouclier à un bonus de +0 est détruit. Si l'acide est jeté sur une arme, l'arme prend un malus de -1 à ses jets de dégâts. Une arme avec un malus de -2 est détruite. Cela n'a aucun effet sur les objets magiques et les objets faits d'or, de verre, de pierre ou d'adamantine.
 
-Si la cible est une créature, elle prend 3d6 dégâts d'acide, suivi de 2d6 dégâts d'acide à la fin de son prochain tour, et 1d6 dégâts d'acide à la fin du tour suivant. L'acide peut être rincé avec quelques litres d'eau, terminant l'effet sur le coup.
+Si la cible est une créature, elle subit 3d6 dégâts d'acide, suivi de 2d6 dégâts d'acide à la fin de son prochain tour, et 1d6 dégâts d'acide à la fin du tour suivant. L'acide peut être rincé avec quelques litres d'eau, terminant l'effet sur le coup.
 
 ---
 
@@ -32666,7 +32664,7 @@ attunement: false
 attdet:
 writing_status: empty
 ---
-Lorsque votre faîte une attaque à distance en utilisant cette flèche, vous ne réalisez pas de jet d'attaque, mais choisissez à la place une cible que vous avez vue. Si la cible est à moins de 600 ft. de vous, la flèche vole magiquement jusqu'à la cible, évitant les obstacles, et ignorant les couvertures. Si la flèche atteint la cible, elle doit réussir un jet de sauvegarde de Dextérité (DD 17), ou prendre les dégâts normalement.
+Lorsque votre faîte une attaque à distance en utilisant cette flèche, vous ne réalisez pas de jet d'attaque, mais choisissez à la place une cible que vous avez vue. Si la cible est à moins de 600 ft. de vous, la flèche vole magiquement jusqu'à la cible, évitant les obstacles, et ignorant les couvertures. Si la flèche atteint la cible, elle doit réussir un jet de sauvegarde de Dextérité (DD 17), ou subir les dégâts normalement.
 
 ![[Arrow of Seeking (Back).jpg]]
 
@@ -33423,7 +33421,7 @@ writing_status: empty
 ---
 Cette concoction a l'apparence, l'odeur et le goût d'une [[potion de soins]]. Néanmoins, ce n'est qu'un poison caché par une magie d'illusion. Un sort d'[[identification]] permet de révéler la véritable nature du liquide.
 
-Si vous la buvez, vous prenez 3d6 dégâts de poison et vous devez réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné]]. Au début de chacun de vos tours tant que vous êtes [[empoisonné]] de cette manière, vous prenez 3d6 dégâts de poison. À la fin de chacun de vos tours, vous pouvez répéter le jet de sauvegarde. SI vous réussissez, les dégâts de poison que vous prenez au prochain tour sont réduits de 1d6. Le poison se termine lorsque les dégâts tombent à 0.
+Si vous la buvez, vous subissez 3d6 dégâts de poison et vous devez réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné]]. Au début de chacun de vos tours tant que vous êtes [[empoisonné]] de cette manière, vous subissez 3d6 dégâts de poison. À la fin de chacun de vos tours, vous pouvez répéter le jet de sauvegarde. SI vous réussissez, les dégâts de poison que vous prenez au prochain tour sont réduits de 1d6. Le poison se termine lorsque les dégâts tombent à 0.
 
 ---
 
@@ -33770,7 +33768,7 @@ Produit par une aiguille spéciale, ce tatouage magique représente une œuvre m
 | 9 | Radiant | Or |
 | 10 | Tonnerre | Orange |
 
-**Absorption des dégâts.** Quand vous prenez des dégâts du type choisi, vous pouvez utiliser votre réaction pour gagner l'immunité à cette instance de dégâts, et vous regagnez un nombre de points de vie égal à la moitié des dégâts que vous auriez dû prendre. Une fois que cette réaction a été utilisée, vous devez attendre la prochaine aube pour pouvoir l'utiliser à nouveau.
+**Absorption des dégâts.** Quand vous subissez des dégâts du type choisi, vous pouvez utiliser votre réaction pour gagner l'immunité à cette instance de dégâts, et vous regagnez un nombre de points de vie égal à la moitié des dégâts que vous auriez dû subir. Une fois que cette réaction a été utilisée, vous devez attendre la prochaine aube pour pouvoir l'utiliser à nouveau.
 
 ## Couverture d'un tatouage magique
 
@@ -33872,7 +33870,7 @@ poids: 1
 englishname: Acid (vial)
 writing_status: finished
 ---
-Pour une action, vous pouvez jeter le contenu de cette fiole sur une créature à 5 ft. de vous ou jeter la fiole jusqu'à 20 ft., où elle explose à l'impact. Dans les deux cas, réalisez un jet d'attaque à distance contre une créature ou un objet, traitant l'acide comme une arme improvisée. Si vous touchez, la cible prend 2d6 dégâts d'acide.
+Pour une action, vous pouvez jeter le contenu de cette fiole sur une créature à 5 ft. de vous ou jeter la fiole jusqu'à 20 ft., où elle explose à l'impact. Dans les deux cas, réalisez un jet d'attaque à distance contre une créature ou un objet, traitant l'acide comme une arme improvisée. Si vous touchez, la cible subit 2d6 dégâts d'acide.
 
 
 ---
@@ -35810,7 +35808,7 @@ poids: 1
 englishname: Holy Water (flask)
 writing_status: empty
 ---
-Pour une action, vous pouvez vider le contenu de cette fiole sur une créature à 5 ft. de vous ou la jeter jusqu'à 20 ft., où elle explose à l'impact. Dans tous les cas, réalisez une attaque à distance contre la créature cible, traitant l'eau bénite comme une arme improvisée. Si la cible est un fiélon ou un mort-vivant, elle prend 2d6 dégâts radiants.
+Pour une action, vous pouvez vider le contenu de cette fiole sur une créature à 5 ft. de vous ou la jeter jusqu'à 20 ft., où elle explose à l'impact. Dans tous les cas, réalisez une attaque à distance contre la créature cible, traitant l'eau bénite comme une arme improvisée. Si la cible est un fiélon ou un mort-vivant, elle subit 2d6 dégâts radiants.
 
 Un clerc ou un paladin peut créer de l'eau bénite en accomplissant un rituel spécial. Ce rituel prend 1 heure à compléter, utilise 25 PO de poussière d'argent, et requiert au lanceur de dépenser un emplacement de sort de niveau 1.
 
@@ -35916,7 +35914,7 @@ poids: 1
 englishname: Alchemist's Fire (flask)
 writing_status: finished
 ---
-Ce liquide gluant s'embrase lorsqu'il est exposé à l'air libre. Pour une action, vous pouvez jeter cette fiole vers un espace à 20 ft., où elle explose à l'impact. Réalisez une attaque à distance contre une créature ou un objet, considérant le feu grégeois comme une arme improvisée. Si vous touchez, la cible prend 1d4 dégâts de feu au début de chacun de ses tours. Une créature peut terminer cet effet en utilisant son action pour réaliser un jet de Dextérité DD 10 pour éteindre les flammes.
+Ce liquide gluant s'embrase lorsqu'il est exposé à l'air libre. Pour une action, vous pouvez jeter cette fiole vers un espace à 20 ft., où elle explose à l'impact. Réalisez une attaque à distance contre une créature ou un objet, considérant le feu grégeois comme une arme improvisée. Si vous touchez, la cible subit 1d4 dégâts de feu au début de chacun de ses tours. Une créature peut terminer cet effet en utilisant son action pour réaliser un jet de Dextérité DD 10 pour éteindre les flammes.
 
 ---
 
@@ -36263,7 +36261,7 @@ poids: 0.5
 englishname: Burnt Othur Fumes
 writing_status: empty
 ---
-Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou prendre 10 (3d6) dégâts de poison et répéter le jet de sauvegarde au début de chacun de ses tours à venir. Pour chaque jet de sauvegarde raté, la créature prend 3 (1d6) dégâts de poison. Le poison se termine après trois jets de sauvegarde réussis.
+Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou subir 10 (3d6) dégâts de poison et répéter le jet de sauvegarde au début de chacun de ses tours à venir. Pour chaque jet de sauvegarde raté, la créature subit 3 (1d6) dégâts de poison. Le poison se termine après trois jets de sauvegarde réussis.
 
 **Inhalation.** Ces poisons sont des poudres ou des gaz qui font effet lorsqu'ils sont respirés. Souffler sur la poudre ou libérer le gaz rend toutes les créatures dans un cube de 5 ft. de côté sujettes au poison. Le nuage résultant disparaît immédiatement. Retenir sa respiration ne sert à rien contre ces poisons, puisqu'ils affectent les membranes nasales, les glandes lacrymales, et d'autres parties du corps.
 
@@ -36909,7 +36907,7 @@ poids: 0.5
 englishname: Oil of Taggit
 writing_status: empty
 ---
-Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 24 heures. La créature empoisonnée est [[inconscient|inconsciente]]. La créature se réveille si elle prend des dégâts.
+Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 24 heures. La créature empoisonnée est [[inconscient|inconsciente]]. La créature se réveille si elle subit des dégâts.
 
 **Contact.** Un poison au contact peut être répandu sur un objet et reste actif jusqu'à ce qu'il soit touché ou rincé. Une créature qui touche un tel poison avec une peau exposée en subit les effets.
 
@@ -37484,7 +37482,7 @@ poids: 0.5
 englishname: Midnight Tears
 writing_status: empty
 ---
-Une créature qui ingère ce poison ne souffre d'aucun effet jusqu'à minuit. Si le poison n'est pas neutralisé d'ici là, la créature doit réussir un jet de sauvegarde de Constitution DD 17 ou prendre 31 (9d6) dégâts de poison. Si la créature réussit le jet, elle ne prend que la moitié des dégâts.
+Une créature qui ingère ce poison ne souffre d'aucun effet jusqu'à minuit. Si le poison n'est pas neutralisé d'ici là, la créature doit réussir un jet de sauvegarde de Constitution DD 17 ou subir 31 (9d6) dégâts de poison. Si la créature réussit le jet, elle ne subit que la moitié des dégâts.
 
 **Ingestion.** Une créature doit avaler une dose entière d'un poison à ingestion pour en subir les effets. La dose peut être administrée dans de la nourriture ou du liquide. Vous pouvez décider qu'une dose partielle aura un effet réduit, comme conférer l'avantage au jet de sauvegarde ou n'infliger que la moitié des dégâts.
 
@@ -37788,7 +37786,7 @@ Le matériel d'Alchimiste vous permet de concocter des potions utiles, comme de 
 
 **Investigation.** Lorsque vous inspectez une zone à la recherche d'indice, la maîtrise du matériel d'alchimiste vous confère une intuition plus poussée vis-à-vis des substances qui auraient pu être utilisées.
 
-__Fabrication Alchimique.__ Vous pouvez utiliser votre maîtrise de cet outil pour créer des objets alchimiques. Un personnage peut dépenser de l'argent pour obtenir des _matières premières_, qui pèsent 1 lb. par 50 po dépensé. Le MJ peut autoriser un personnage à réaliser un jet de la caractéristique associée avec avantage. Pendant un repos long, vous pouvez utiliser votre matériel d'alchimiste pour créer une dose d'[[Acide (fiole)|acide]], de [[Feu Grégeois (flasque)|feu grégeois]], d'[[antitoxine]], d'[[Huile (flasque)|huile]], de [[Parfum (fiole)|parfum]] ou de [[savon]]. Retirez la moitié de la valeur de l'objet créé de la valeur totale en po de vos matières premières.
+**Fabrication Alchimique.** Vous pouvez utiliser votre maîtrise de cet outil pour créer des objets alchimiques. Un personnage peut dépenser de l'argent pour obtenir des *matières premières*, qui pèsent 1 lb. par 50 po dépensé. Le MJ peut autoriser un personnage à réaliser un jet de la caractéristique associée avec avantage. Pendant un repos long, vous pouvez utiliser votre matériel d'alchimiste pour créer une dose d'[[Acide (fiole)|acide]], de [[Feu Grégeois (flasque)|feu grégeois]], d'[[antitoxine]], d'[[Huile (flasque)|huile]], de [[Parfum (fiole)|parfum]] ou de [[savon]]. Retirez la moitié de la valeur de l'objet créé de la valeur totale en po de vos matières premières.
 
 | Activité | DD |
 | ------------------------------- | --- |
@@ -37812,15 +37810,15 @@ writing_status: finished
 ---
 Non seulement la bière est une boisson alcoolisée, mais la brasserie revient avant tout à purifier l'eau. Créer de la bière demande des semaines de fermentation, mais seulement quelques heures de travail.
 
-__Composants.__ Le matériel de brasseur inclut une large carafe en verre, du houblon, un siphon et quelques mètres de tube.
+**Composants.** Le matériel de brasseur inclut une large carafe en verre, du houblon, un siphon et quelques mètres de tube.
 
-__Histoire.__ La maîtrise du matériel de brasseur vous permet de mieux réussir vos jets d'Intelligence (Histoire) en rapport avec les évènements liés à l'alcool.
+**Histoire.** La maîtrise du matériel de brasseur vous permet de mieux réussir vos jets d'Intelligence (Histoire) en rapport avec les évènements liés à l'alcool.
 
-__Médecine.__ La maîtrise de cet outil vous confère une aisance particulière lorsqu'il s'agit de traiter un patient souffrant d'intoxication alcoolique ou pour utiliser l'alcool pour atténuer la douleur.
+**Médecine.** La maîtrise de cet outil vous confère une aisance particulière lorsqu'il s'agit de traiter un patient souffrant d'intoxication alcoolique ou pour utiliser l'alcool pour atténuer la douleur.
 
-__Persuasion.__ Une boisson fort peut réchauffer même le plus froid des cœurs. Votre maîtrise du matériel de brasseur peut vous aider à inonder quelqu'un de boissons, en tout cas suffisamment pour adoucir leur humeur.
+**Persuasion.** Une boisson fort peut réchauffer même le plus froid des cœurs. Votre maîtrise du matériel de brasseur peut vous aider à inonder quelqu'un de boissons, en tout cas suffisamment pour adoucir leur humeur.
 
-__Eau Potable.__ Vos connaissances sur la brasserie vous permettent de purifier l'eau non potable. Pendant un repos long, vous pouvez purifier jusqu'à 20 L d'eau, ou 3 L pendant un repos court.
+**Eau Potable.** Vos connaissances sur la brasserie vous permettent de purifier l'eau non potable. Pendant un repos long, vous pouvez purifier jusqu'à 20 L d'eau, ou 3 L pendant un repos court.
 
 | Activité | DC |
 | -------------------------------------------------- | --- |
@@ -38945,9 +38943,9 @@ poids: 0.5
 englishname: Wyvern Poison
 writing_status: empty
 ---
-Ce poison doit être récolté sur un [[wyverne]] mort ou [[incapacité]]. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 15 ou prendre 24 (7d6) dégâts de poison. Si elle réussit, elle ne prend que la moitié des dégâts.
+Ce poison doit être récolté sur un [[wyverne]] mort ou [[incapacité]]. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 15 ou subir 24 (7d6) dégâts de poison. Si elle réussit, elle ne subit que la moitié des dégâts.
 
-**Blessure.** Un poisson à blessure peut être appliqué à une arme, une munition, un piège ou n'importe quel objet qui inflige des dégâts perçants ou tranchants et reste actif jusqu'à ce qu'il soit administré ou rincé. Une créature qui prend des dégâts perçants ou tranchants d'un objet enduit de ce poison subit ses effets.
+**Blessure.** Un poisson à blessure peut être appliqué à une arme, une munition, un piège ou n'importe quel objet qui inflige des dégâts perçants ou tranchants et reste actif jusqu'à ce qu'il soit administré ou rincé. Une créature qui subit des dégâts perçants ou tranchants d'un objet enduit de ce poison subit ses effets.
 
 
 ---
@@ -38961,9 +38959,9 @@ poids: 0.5
 englishname: Drow Poison
 writing_status: empty
 ---
-Ce poison n'est généralement fabriqué que par les drows, et seulement dans l'obscurité la plus totale. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 1 heure. Si la créature rate le jet de 5 ou plus, elle tombe [[Inconscient|inconsciente]] tant qu'elle est empoisonnée de cette manière. La créature se réveille si elle prend des dégâts ou si une autre créature utilise son action pour la réveiller. 
+Ce poison n'est généralement fabriqué que par les drows, et seulement dans l'obscurité la plus totale. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 1 heure. Si la créature rate le jet de 5 ou plus, elle tombe [[Inconscient|inconsciente]] tant qu'elle est empoisonnée de cette manière. La créature se réveille si elle subit des dégâts ou si une autre créature utilise son action pour la réveiller. 
 
-**Blessure.** Un poisson à blessure peut être appliqué à une arme, une munition, un piège ou n'importe quel objet qui inflige des dégâts perçants ou tranchants et reste actif jusqu'à ce qu'il soit administré ou rincé. Une créature qui prend des dégâts perçants ou tranchants d'un objet enduit de ce poison subit ses effets.
+**Blessure.** Un poisson à blessure peut être appliqué à une arme, une munition, un piège ou n'importe quel objet qui inflige des dégâts perçants ou tranchants et reste actif jusqu'à ce qu'il soit administré ou rincé. Une créature qui subit des dégâts perçants ou tranchants d'un objet enduit de ce poison subit ses effets.
 
 ---
 
@@ -38976,7 +38974,7 @@ poids:
 englishname: Poison, Basic (vial)
 writing_status: empty
 ---
-Vous pouvez utiliser le poison dans cette fiole pour enduire une arme tranchante ou perçante, ou jusqu'à trois munitions. Appliquer le poison prend une action. Une créature touchée par l'objet empoisonné doit réussir un jet de sauvegarde de Constitution DD 10 ou prendre 1d4 dégâts de poison. Une fois appliqué, ce poison reste efficace pendant 1 minute avant de sécher.
+Vous pouvez utiliser le poison dans cette fiole pour enduire une arme tranchante ou perçante, ou jusqu'à trois munitions. Appliquer le poison prend une action. Une créature touchée par l'objet empoisonné doit réussir un jet de sauvegarde de Constitution DD 10 ou subir 1d4 dégâts de poison. Une fois appliqué, ce poison reste efficace pendant 1 minute avant de sécher.
 
 ---
 
@@ -39948,7 +39946,7 @@ poids: 0.5
 englishname: Pale Tincture
 writing_status: empty
 ---
-Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 16 ou prendre 3 (1d6) dégâts de poison et être [[empoisonné|empoisonnée]]. La créature empoisonnée doit répéter ce jet de sauvegarde toutes les 24 heures, prenant 3 (1d6) dégâts de poison en cas d'échec. Jusqu'à ce que le poison ne termine, les dégâts qu'il inflige ne peuvent être soignés. Après sept réussites, les effets se terminent et la cible peut se soigner.
+Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 16 ou subir 3 (1d6) dégâts de poison et être [[empoisonné|empoisonnée]]. La créature empoisonnée doit répéter ce jet de sauvegarde toutes les 24 heures, prenant 3 (1d6) dégâts de poison en cas d'échec. Jusqu'à ce que le poison ne termine, les dégâts qu'il inflige ne peuvent être soignés. Après sept réussites, les effets se terminent et la cible peut se soigner.
 
 **Ingestion.** Une créature doit avaler une dose entière d'un poison à ingestion pour en subir les effets. La dose peut être administrée dans de la nourriture ou du liquide. Vous pouvez décider qu'une dose partielle aura un effet réduit, comme conférer l'avantage au jet de sauvegarde ou n'infliger que la moitié des dégâts.
 
@@ -40355,9 +40353,9 @@ poids: 0.5
 englishname: Serpent Venom
 writing_status: empty
 ---
-Ce poison doit être récolté sur un [[serpent venimeux géant]] mort ou [[incapacité]]. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 11 ou prendre 10 (3d6) dégâts de poison. Si elle réussit, elle ne prend que la moitié des dégâts.
+Ce poison doit être récolté sur un [[serpent venimeux géant]] mort ou [[incapacité]]. Une créature sujette à ce poison doit réussir un jet de sauvegarde de Constitution DD 11 ou subir 10 (3d6) dégâts de poison. Si elle réussit, elle ne subit que la moitié des dégâts.
 
-**Blessure.** Un poisson à blessure peut être appliqué à une arme, une munition, un piège ou n'importe quel objet qui inflige des dégâts perçants ou tranchants et reste actif jusqu'à ce qu'il soit administré ou rincé. Une créature qui prend des dégâts perçants ou tranchants d'un objet enduit de ce poison subit ses effets.
+**Blessure.** Un poisson à blessure peut être appliqué à une arme, une munition, un piège ou n'importe quel objet qui inflige des dégâts perçants ou tranchants et reste actif jusqu'à ce qu'il soit administré ou rincé. Une créature qui subit des dégâts perçants ou tranchants d'un objet enduit de ce poison subit ses effets.
 
 ---
 
@@ -40976,7 +40974,7 @@ writing_status: finished
 
 Un peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent. Les premiers aarakocras servaient les Ducs de Vent d'Aaqa, et étaient insufflés avec une portion du pouvoir de leurs maîtres sur les vents. Leurs descendants possèdent désormais une fraction de ce pouvoir.
 
-Vu d'en dessous, les aarakocras ressemblent à de larges oiseaux et sont souvent appelés _piafs_. Ce n'est que lorsqu'ils atterrissent sur une branche ou qu'ils marchent au sol que leur nature Humanoïde ne se révèle. Lorsqu'ils se tiennent debout, les aarakocras font environ 1,50 m, et ont de longues jambes élancées terminées par des serres aiguisées. Des plumes couvrent leur corps, généralement rouges, oranges, jaunes, marrons ou grises. Leurs têtes sont également aviaires, ressemblant souvent celle d'un perroquet ou d'un aigle.
+Vu d'en dessous, les aarakocras ressemblent à de larges oiseaux et sont souvent appelés *piafs*. Ce n'est que lorsqu'ils atterrissent sur une branche ou qu'ils marchent au sol que leur nature Humanoïde ne se révèle. Lorsqu'ils se tiennent debout, les aarakocras font environ 1,50 m, et ont de longues jambes élancées terminées par des serres aiguisées. Des plumes couvrent leur corps, généralement rouges, oranges, jaunes, marrons ou grises. Leurs têtes sont également aviaires, ressemblant souvent à celle d'un perroquet ou d'un aigle.
 ## Culture
 
 ## Langue
@@ -41057,7 +41055,7 @@ Un aasimar ressemble à ses parents, mais peut vivre jusqu'à 160 ans et possèd
 **Révélation Céleste.** Lorsque vous atteignez le niveau 3, choisissez l'une des révélations ci-dessous. Après cela, vous pourrez utiliser une action bonus pour libérer l'énergie céleste en vous, gagnant les bonus de cette révélation. Cette transformation dure 1 minute ou jusqu'à ce que vous la terminiez pour une action bonus. Une fois que vous vous êtes transformé en utilisant une révélation, vous ne pouvez pas le refaire jusqu'à ce que vous finissiez un repos long.
 
  - ***Nuage Nécrotique.*** Vos yeux deviennent brièvement des puits sombres, et de petites ailes fantomatiques apparaissent temporairement dans votre dos. Les créatures autres que vos alliés à moins de 10 ft. de vous doivent réussir un jet de sauvegarde de Charisme (DD 8 + bonus de maîtrise + modificateur de Charisme) ou être [[apeuré|apeurées]] jusqu'à la fin de votre prochain tour. Jusqu'à ce que la transformation ne se termine, une fois à chacun de vos tours, vous pouvez infliger des dégâts supplémentaires nécrotiques à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise.
- - ***Consommation Radieuse.*** Une lumière éblouissante s'échappe de vos yeux ainsi que de votre bouche. Pour la durée, vous produisez une lumière vive dans un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires et, une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise.
+ - ***Consommation Radieuse.*** Une lumière éblouissante s'échappe de vos yeux ainsi que de votre bouche. Pendant la durée de l'effet, vous produisez une lumière vive dans un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires et, une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise.
  - ***Âme Radieuse.*** Deux ailes lumineuses et spectrales bourgeonnent temporairement de votre dos. Jusqu'à ce que la transformation ne se termine, vous possédez une vitesse de vol égale à votre vitesse de marche, et une fois par tour, vous pouvez infliger des dégâts supplémentaires radiants à une cible lorsque vous lui infligez des dégâts à l'aide d'une attaque ou d'un sort. Ces dégâts supplémentaires sont égaux à votre bonus de maîtrise.
 
 ---
@@ -41222,12 +41220,11 @@ De plus, escalader en utilisant vos mains et pieds est particulièrement diffici
 subrace: false
 writing_status: finished
 ---
-
 ### Description
 
 Avec leurs apparences changeantes, les changelins sont insérés dans de nombreuses sociétés. Chaque changelin peut magiquement adopter un visage de leur choix. Pour certains, une nouvelle face n'est synonyme que de déguisement. Pour d'autres, une nouvelle face révèle un nouvel aspect de leur âme.
 
-Les premiers changelins du multivers sont apparus dans la Féerie, et la merveilleuse essence volatile de ce plan réside toujours en eux aujourd'hui — même chez les changelins qui n'y ont jamais mis les pieds. Chaque changelin choisit comme il utilise sa capacité de transformation, en canalisant ou la joie ou la peur de la Féerie. Parfois, ils adoptent de nouvelles formes par malice ou avec de mauvaises intentions, et d'autres fois, il accapare une nouvelle identité pour réparer des injustices ou pour ravir les opprimés.
+Les premiers changelins du multivers sont apparus dans la Féerie, et la merveilleuse essence volatile de ce plan réside toujours en eux aujourd'hui — même chez les changelins qui n'y ont jamais mis les pieds. Chaque changelin choisit comme il utilise sa capacité de transformation, en canalisant ou la joie ou la peur de la Féerie. Parfois, ils adoptent de nouvelles formes par malice ou avec de mauvaises intentions, et d'autres fois, il accapare une nouvelle identité pour réparer des injustices ou pour défendre les opprimés.
 
 Sous leur vraie forme, les changelins apparaissent effacés, leurs traits étant presque dépourvus de détail. Il est rare d'apercevoir un changelin sous sa véritable apparence, comme il change généralement d'apparence à des moments où d'autres changeraient de vêtements. Une forme ordinaire (i.e. créée sur le moment, sans profondeur ou historique) est appelée un masque. Un masque peut être utilisé pour exprimer une émotion ou pour servir un objectif bien précis, et ne plus jamais être utilisé après. Cependant, beaucoup de changelins développent ce qu'on appelle des identités, qui ont plus de profondeurs, en fabriquant des personnalités complète, avec une histoire, des croyances. Un aventurier changelin pourrait avoir une identité pour chaque situation, comme pour la négociation, l'investigation ou le combat.
 
@@ -41274,7 +41271,7 @@ Les cnidars ont deux phases bien distinctes dans leur vie : la phase médusozoai
 
 Lorsque les médusozoaires se reproduisent, un évènement qui rassemble des douzaines d'individus, les milliers de larves résultantes s'installent au niveau du substrat le plus proche, souvent la maison corallifère même des cnidars. Une fois installées, les larves se développent en polypes avec deux tâches. Premièrement de faire grandir un unique médusozoaire en un cycle lunaire et de lui donner naissance dans les eaux autour de sa maison, alors qu'il ne mesure que quelques centimètres et qu'il ne connaît que ses instincts. Deuxièmement, de secréter un exosquelette calcaire et de fusionner leurs corps avec le récif et d'agrandir la maison corallifère des cnidars.
 
-La vie pour un jeune médusozoaire est précaire ; il doit se défendre et se débrouiller, vaguant dans les eaux libres et se nourrissant de planctons et d'autres médusozoaires jusqu'à ce qu'il atteigne au moins 30 cm de long, généralement au bout de trois ans. Pendant cette phase juvénile, une période appelée _uko'ulush_ (le temps sauvage), un médusozoaire est globalement ignoré par les autres cnidars, qui pensent que l'épreuve de l'océan forme les perles les plus solides. Une fois qu'un cnidar a complété cette phase juvénile, il est accueilli dans le récif, où les coutumes, la culture et les valeurs de la communauté lui sont transmises, pendant le _uko'malang_ (le temps d'attente).
+La vie pour un jeune médusozoaire est précaire ; il doit se défendre et se débrouiller, vaguant dans les eaux libres et se nourrissant de planctons et d'autres médusozoaires jusqu'à ce qu'il atteigne au moins 30 cm de long, généralement au bout de trois ans. Pendant cette phase juvénile, une période appelée *uko'ulush* (le temps sauvage), un médusozoaire est globalement ignoré par les autres cnidars, qui pensent que l'épreuve de l'océan forme les perles les plus solides. Une fois qu'un cnidar a complété cette phase juvénile, il est accueilli dans le récif, où les coutumes, la culture et les valeurs de la communauté lui sont transmises, pendant le *uko'malang* (le temps d'attente).
 
 Lorsqu'un polype produit un médusozoaire, il peut donner naissance à deux formes : un nématocyste ou un peaubrillante. Ensemble, ces deux formes représentent deux chemins possibles pour les interactions inter espèces. Vous avez le choix entre les deux sous-races suivantes : 
 
@@ -41289,7 +41286,7 @@ Lorsqu'un polype produit un médusozoaire, il peut donner naissance à deux form
 
 Les cnidars vivent en communauté. Grâce ou à cause des pratiques de reproduction de masse et de dispersion aléatoirisée, aucun médusozoaire ne peut identifier ses véritables parents. En effet, les concepts mêmes de parenté, de titres héréditaires et d'héritage sont inconnus de la plupart des cnidars.
 
-Lorsqu'un médusozoaire cnidarien atteint sa maturité, il lui est donné le choix de quitter le récif avec la bénédiction de toute la communauté, un évènement unique appelé _uko'fa_ (le temps d'exploration). Les individus qui commencent un _uko'fa_ le font pour une variété de raisons. Certains cherchent à ramener des trésors du monde extérieur et améliorer la vie de leur communauté. D'autres ressentent un besoin de se disperser, de trouver d'autres récifs à rejoindre ou même de créer de nouveaux récifs avec d'autre médusozoaires rencontrés en voyage. Seuls quelques-uns se font happer par la soif de l'aventure et passent le reste de leurs jours parmi les courants océaniques, explorant les donjons sous-marins et socialisant avec d'autres explorateurs dans les ports du monde.
+Lorsqu'un médusozoaire cnidarien atteint sa maturité, il lui est donné le choix de quitter le récif avec la bénédiction de toute la communauté, un évènement unique appelé *uko'fa* (le temps d'exploration). Les individus qui commencent un *uko'fa* le font pour une variété de raisons. Certains cherchent à ramener des trésors du monde extérieur et améliorer la vie de leur communauté. D'autres ressentent un besoin de se disperser, de trouver d'autres récifs à rejoindre ou même de créer de nouveaux récifs avec d'autre médusozoaires rencontrés en voyage. Seuls quelques-uns se font happer par la soif de l'aventure et passent le reste de leurs jours parmi les courants océaniques, explorant les donjons sous-marins et socialisant avec d'autres explorateurs dans les ports du monde.
 
 
 Les colonies cnidariennes sont vivantes. Faites des corps de millions de polypes calcifiés — les ancêtres des cnidars — un récif est plus qu'un foyer ; c'est la mémoire collective de milliers de générations, une toile visible d'histoire généalogique et un sanctuaire sacré et respecté. Intentionnellement détériorer un récif porte les conséquences les plus graves : mort, exil et même déclaration de guerre sont les sanctions qu'une colonie cnidarienne pourrait décider. Ce n'est pas rare pour les guildes marchandes de payer de lourdes réparations lorsqu'un navire endommage un récif cnidarien à cause de vents violents. Ne pas le faire reviendrait à voir ses navires couler même en cas de météo claire, selon les volontés d'un récif enragé.
@@ -41314,15 +41311,15 @@ Nommés d'après leurs membres ressemblant à des fouets, les nématocystes peuv
 
 **Vitesse.** Votre vitesse de base est de 30 ft. et vous avez une vitesse de nage égale à votre vitesse de marche.
 
-__Amphibie.__ Vous pouvez respirer dans l'air et dans l'eau.
+**Amphibie.** Vous pouvez respirer dans l'air et dans l'eau.
 
-__Nématocyste.__ Vous possédez un long membre épineux, une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec cette arme [[Propriétés d'Arme#finesse|finesse]], vous pouvez infliger un nombre de dégâts perçants égal à 1d4 + votre modificateur de Force ou de Dextérité (votre choix) au lieu des dégâts contondants normaux d'une attaque à mains nues.
+**Nématocyste.** Vous possédez un long membre épineux, une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec cette arme [[Propriétés d'Arme#finesse|finesse]], vous pouvez infliger un nombre de dégâts perçants égal à 1d4 + votre modificateur de Force ou de Dextérité (votre choix) au lieu des dégâts contondants normaux d'une attaque à mains nues.
 
-__Neurotoxines.__ Pour une action bonus, vous pouvez secréter une toxine et l'appliquer à une arme ou une munition. La toxine ainsi appliquée persiste une heure. La première fois que vous touchez une créature avec cette arme ou cette munition, la créature doit réussir un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou être [[paralysé|paralysée]] jusqu'au début de son prochain tour. Vous pouvez également utiliser une action bonus pour injecter la toxine dans une créature que vous touchez avec votre nématocyste.
+**Neurotoxines.** Pour une action bonus, vous pouvez secréter une toxine et l'appliquer à une arme ou une munition. La toxine ainsi appliquée persiste une heure. La première fois que vous touchez une créature avec cette arme ou cette munition, la créature doit réussir un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou être [[paralysé|paralysée]] jusqu'au début de son prochain tour. Vous pouvez également utiliser une action bonus pour injecter la toxine dans une créature que vous touchez avec votre nématocyste.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-__Adaptation Toxique.__ Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous êtes résistant aux dégâts de poison.
+**Adaptation Toxique.** Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous êtes résistant aux dégâts de poison.
 
 ## Peaubrillante
 
@@ -41341,11 +41338,11 @@ Les diplomates et marchants d'un récif cnidarien sont souvent de la forme peaub
 
 **Vitesse.** Votre vitesse de base est de 30 ft. et vous avez une vitesse de nage égale à votre vitesse de marche.
 
-__Amphibie.__ Vous pouvez respirer dans l'air et dans l'eau.
+**Amphibie.** Vous pouvez respirer dans l'air et dans l'eau.
 
 **Peaubrillante.** Pour une action bonus, vous pouvez faire briller votre peau d'une multitude de couleurs plaisantes pendant 10 minutes. Pendant cette durée, vous avez l'avantage à tous vos jets de Charisme. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
-__Phosphorescence Hypnotique.__ Vous connaissez le cantrip [[illusion mineure]]. À partir du niveau 3, vous pouvez lancer le sort [[charme-personne]] une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. À partir du niveau 5, vous pouvez lancer le sort [[suggestion]] une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort de niveau adéquat.
+**Phosphorescence Hypnotique.** Vous connaissez le cantrip [[illusion mineure]]. À partir du niveau 3, vous pouvez lancer le sort [[charme-personne]] une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. À partir du niveau 5, vous pouvez lancer le sort [[suggestion]] une fois avec ce trait, et vous regagnez la capacité de le faire lorsque vous terminez un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort de niveau adéquat.
 
 Le Charisme est votre caractéristique d'incantation pour ces sorts. Lorsque vous les lancez avec ce trait, vous n'avez pas besoin de composantes matérielles ou somatiques.
 
@@ -41398,7 +41395,7 @@ Les cobboqs vénèrent les autres oiseaux. Plus l'oiseau est gros, plus il est s
 
 **Plumé.** Vos os légers et votre panache de plumes réduit l'impact de la gravité ; vous ne prenez que la moitié des dégâts de chute.
 
-**Gallus Domesticus.** Vous pouvez lancer le sort [[métamorphose]] sur vous-même avec ce trait, en utilisant le Charisme comme caractéristique d'incantation. Lorsque vous utilisez cette version du sort, vous prenez toujours la forme d'un Très Petit [[Poulet]]. Une fois que vous avez lancé ce sort, vous ne pouvez le relancer avec ce trait avant d'avoir terminé un repos long.
+**Gallus Domesticus.** Vous pouvez lancer le sort [[métamorphose]] sur vous-même avec ce trait, en utilisant le Charisme comme caractéristique d'incantation. Lorsque vous utilisez cette version du sort, vous prenez toujours la forme d'un [[Poulet]] de taille TP. Une fois que vous avez lancé ce sort, vous ne pouvez le relancer avec ce trait avant d'avoir terminé un repos long.
 
 **Poulet Sans-Tête.** Lorsque vous tombez à 0 point de vie, mais pas tué sur le coup, vous ne tombez pas immédiatement [[inconscient]]. À la place, vous pouvez immédiatement vous déplacer de jusqu'à votre vitesse sans provoquer d'attaque d'opportunité. Vous tombez alors [[inconscient]] comme si vous aviez été réduit à 0 point de vie dans l'espace où vous avez fini votre déplacement.
 
@@ -41524,7 +41521,7 @@ Une envie perpétuelle d'amélioration reflète l'auto-suffisance de cette race.
 Même si tous les drakéïdes visent à être auto-suffisant, ils reconnaissent que de l'aide est parfois nécessaire. Néanmoins, le meilleur endroit pour se faire aider n'est autre que le clan. Si le clan lui-même a besoin d'aide, il se tourne vers d'autres clans avant d'aller quérir d'autres races ou les dieux.
 ### Langue
 
-Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils placent leur nom de clan d'abord comme marque d'honneur. Un surnom, ou _nom d'enfance_, est souvent utilisé par les membres d'une même famille. Ce nom peut rappeler un évènement ou être basé sur une habitude.
+Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils placent leur nom de clan d'abord comme marque d'honneur. Un surnom, ou *nom d'enfance*, est souvent utilisé par les membres d'une même famille. Ce nom peut rappeler un évènement ou être basé sur une habitude.
 
 **Noms masculins :** Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
 
@@ -41564,7 +41561,7 @@ Les drakéïdes avec un héritage chromatique revendiquent le pouvoir élémenta
 | Rouge | Feu |
 | Vert | Poison |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance chromatique.
@@ -41600,7 +41597,7 @@ Les drakéïdes diamantins sont héritiers des dragons diamantins, et se revendi
 | Topaze | Nécrotique |
 | Émeraude | Psychique |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance diamantine.
@@ -41638,7 +41635,7 @@ Les drakéïdes avec un héritage métallique profitent de la ténacité des dra
 | Laiton | Feu |
 | Or | Feu |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance métallique.
@@ -41667,7 +41664,7 @@ Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans c
 
 Avec leur grâce irréelle et leurs traits fins, les elfes sont merveilleusement beaux pour les humains et les membres de multiples races. Ils sont généralement plus petits que les humains, allant de 1m50 à 1m90. Ils sont cependant bien plus élancés que les humains, ne pesant qu'entre 50 et 70 kg. Les hommes et femmes font à peu près la même taille, et les hommes sont quelque peu plus lourds.
 
-La coloration des elfes englobe l'étendue humaine _normale_, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
+La coloration des elfes englobe l'étendue humaine *normale*, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
 
 #### Une perspective intemporelle
 
@@ -41681,10 +41678,10 @@ De par différents conflits et/ou décisions passées, le peuple elfe est divis�
 
 | Sous-race | Description |
 | ------------------------------------- | ---------------------------------------------------------- |
-| [[Elfe#Haut-elfe\|Haut-Elfe]] | _Noblesse_ elfe, habiles en magie |
-| [[Elfe#Elfe des bois\|Elfe des bois]] | _Plèbe_ elfe, voyageurs et en communion avec la nature |
+| [[Elfe#Haut-elfe\|Haut-Elfe]] | *Noblesse* elfe, habiles en magie |
+| [[Elfe#Elfe des bois\|Elfe des bois]] | *Plèbe* elfe, voyageurs et en communion avec la nature |
 | [[Elfe#Drow\|Drow]] | Elfes noirs, habitants de l'Outreterre |
-| [[Elfe#Eladrin\|Eladrin]] | Elfes _féériques_, originairse de la Féerie |
+| [[Elfe#Eladrin\|Eladrin]] | Elfes *féériques*, originairse de la Féerie |
 | [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt |
 | [[Elfe#Shadar-kai\|Shadar-kai]] | Elfes des ombres |
 | [[Elfe#Elfe Astral\|Elfe Astral]] | Elfes ayant quitté les plans matériels pour le Plan Astral |
@@ -41737,7 +41734,7 @@ Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, o
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -41775,7 +41772,7 @@ La peau des elfes des bois a tendance à être cuivrée en teinte, parfois avec 
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 35 ft..
 
@@ -41810,7 +41807,7 @@ En tant que Drow, vous êtes infusé de la magie de l'Outre-Terre, un royaume so
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -41856,7 +41853,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -41877,7 +41874,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
  
  - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature consentante et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft.
  
- - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. de vous prend des dégâts de feu égaux à votre bonus de maîtrise. 
+ - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. de vous subit des dégâts de feu égaux à votre bonus de maîtrise. 
 
 ## Elfe des mers
 
@@ -41897,7 +41894,7 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. Vous avez une vitesse de nage égale à votre vitesse de base.
 
@@ -41920,7 +41917,7 @@ Les shadars-kai sont des elfes de la Gisombre, attiré sur ce plan par la Reine 
 
 Les shadars-kai étaient auparavant des Fées comme le reste des elfes, mais n'existent désormais que dans un état entre la vie et la mort, ayant été transformés par l'énergie sombre de la Gisombre.
 
-Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi _flétri_, reflétant la nature sombre de ce sinistre plan.
+Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi *flétri*, reflétant la nature sombre de ce sinistre plan.
 
 
 ![[shadar_kai.png]]
@@ -41935,7 +41932,7 @@ Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Giso
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -41971,7 +41968,7 @@ Puisque rien ne vieillit dans le Plan Astral, les elfes astraux qui habitent ce 
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes astraux mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes astraux mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -42135,7 +42132,7 @@ writing_status: finished
 ---
 ### Description
 
-Les Forgeliers sont des humanoïdes artificiels, originellement construits pour combattre lors de la Dernière Guerre. Bien qu'ils soient composés de matériaux tels que le bois, la pierre et le métal, ce ne sont pas de simples automates. Ils sont bien vivants, animés par une force vitale mystique. Leur visage est souvent une plaque métallique rigide, dotée d'yeux cristallins qui brillent d'une lueur interne, et leur front arbore souvent un _ghulra_, un sceau unique qui sert d'identifiant.
+Les Forgeliers sont des humanoïdes artificiels, originellement construits pour combattre lors de la Dernière Guerre. Bien qu'ils soient composés de matériaux tels que le bois, la pierre et le métal, ce ne sont pas de simples automates. Ils sont bien vivants, animés par une force vitale mystique. Leur visage est souvent une plaque métallique rigide, dotée d'yeux cristallins qui brillent d'une lueur interne, et leur front arbore souvent un *ghulra*, un sceau unique qui sert d'identifiant.
 
 Parce qu'ils ont été conçus comme des outils de destruction, les Forgeliers luttent souvent pour comprendre les émotions humaines et les nuances de la société civile. Cependant, ils possèdent une loyauté sans faille et une capacité d'apprentissage qui dépasse souvent celle de leurs créateurs. 
 
@@ -42405,7 +42402,7 @@ Les gepettains biscuits sont une sorte de poupée de porcelaine, fabriqués à p
 
 **Apparence Trompeuse.** Tant que vous êtes immobile, vous êtes indistinguable d'une véritable poupée de porcelaine.
 
-**Coup Soudain.** Lorsque vous infligez des dégâts à une créature avec une attaque armée pendant le premier tour d'un combat, cette créature prend un nombre de dégâts supplémentaires égal à votre bonus de maîtrise.
+**Coup Soudain.** Lorsque vous infligez des dégâts à une créature avec une attaque armée pendant le premier tour d'un combat, cette créature subit un nombre de dégâts supplémentaires égal à votre bonus de maîtrise.
 
 **Dérangeant.** Vous maîtrisez la compétence Intimidation, et vous avez l'avantage aux jets de Charisme (Intimidation) contre les créatures qui ne vous ont jamais vu bouger.
 
@@ -42463,7 +42460,7 @@ Les gepettains peluches sont n'importe quelle forme de gepettain doux ou fourré
 
 **Adorable.** Vous maîtrisez la compétence Persuasion, et vous avez l'avantage aux jets de Charisme (Persuasion) sur les enfants ou autres humanoïdes adorateurs de mignonneries.
 
-**Tout Moelleux.** Lorsque vous prenez des dégâts contondants, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts, et être repoussé de 5 ft. par rapport à la source de ces dégâts. Vous ne pouvez pas utiliser cette réaction si vous ne pouvez pas être repoussé de la sorte.
+**Tout Moelleux.** Lorsque vous subissez des dégâts contondants, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts, et être repoussé de 5 ft. par rapport à la source de ces dégâts. Vous ne pouvez pas utiliser cette réaction si vous ne pouvez pas être repoussé de la sorte.
 
 
 ---
@@ -42481,7 +42478,7 @@ La plupart des giffs pensent être originaires d'un autre monde, même si ce mon
 
 Même s'ils ne le réalisent pas, les giffs sont attirés par le Plan Astral puisque, au fond de leur psyché, ils restent connectés avec leurs dieux créateurs, à qui il reste juste assez de pouvoir divin pour en imprégner les giffs qui ont à leur tour appris à en imprégner leurs armes. La plupart des giffs n'ont pas la moindre idée de l'origine de cette soi-disant étincelle astrale, mais ils ressentent plus fortement sa présence lorsqu'ils sont dans l'Espace Sauvage ou la Mer Astrale.
 
-Les giffs ont un débat de société important sur la façon dont leur nom doit être prononcé. La moitié d'entre eux sont partisans d'un g _dur_, comme dans garçon, tandis que l'autre moitié préfèrent un g _doux_, comme dans gel. Les désaccords sur cette prononciation peuvent s'envenimer promptement, jusqu'à la dispute ou le concours de coup de boule, mais cela ne va que rarement plus loin.
+Les giffs ont un débat de société important sur la façon dont leur nom doit être prononcé. La moitié d'entre eux sont partisans d'un g *dur*, comme dans garçon, tandis que l'autre moitié préfèrent un g *doux*, comme dans gel. Les désaccords sur cette prononciation peuvent s'envenimer promptement, jusqu'à la dispute ou le concours de coup de boule, mais cela ne va que rarement plus loin.
 ![[Giff.webp]]
 ### Culture
 
@@ -42641,7 +42638,7 @@ Curieux et impulsifs, les gnomes peuvent choisir l'aventure comme moyen de voir 
 
 #### Noms de Gnomes
 
-Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La mère, le père, le chef de clan ainsi que les oncles et tantes donnent chacun au gnome un nom, et plusieurs surnoms peuvent apparaître avec le temps. Les noms des gnomes sont généralement des variantes des noms de leurs ancêtres ou de familles éloignées, même si certains sont des inventions de toutes pièces. Lorsqu'ils traitent avec les humains ou d'autres qui sont _coincés_ avec les noms, les gnomes apprennent rapidement à ne pas utiliser plus de trois noms : un nom personnel, un nom de clan et un surnom, choisissant généralement les plus rigolos à dire dans chaque catégorie.
+Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La mère, le père, le chef de clan ainsi que les oncles et tantes donnent chacun au gnome un nom, et plusieurs surnoms peuvent apparaître avec le temps. Les noms des gnomes sont généralement des variantes des noms de leurs ancêtres ou de familles éloignées, même si certains sont des inventions de toutes pièces. Lorsqu'ils traitent avec les humains ou d'autres qui sont *coincés* avec les noms, les gnomes apprennent rapidement à ne pas utiliser plus de trois noms : un nom personnel, un nom de clan et un surnom, choisissant généralement les plus rigolos à dire dans chaque catégorie.
 
 **Noms Masculins :** Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
 
@@ -42666,7 +42663,7 @@ Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et son
 
 **Âge.** Les svirfneblins vivent peu longtemps pour des gnomes. Ils grandissent à la même vitesse que les humains, et sont considérés adultes à l'âge de 25 ans. Ils vivent entre 200 et 250 ans, même si les dangers et le travail incessant de l'Outre-Terre les emportent généralement plus tôt.
 
-**Taille.** Les svirfneblins mesurent entre 90 cm et 1.20 m, et pèsent entre 35 et 60 kg. Votre taille est _Petite (P)_.
+**Taille.** Les svirfneblins mesurent entre 90 cm et 1.20 m, et pèsent entre 35 et 60 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. . 
 
@@ -42696,7 +42693,7 @@ Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une 
 
 **Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
 
-**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -42724,7 +42721,7 @@ Les gnomes des roches disposent d'une ingéniosité naturelle et d'une solidité
 
 **Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
 
-**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -42829,7 +42826,7 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Discret.** Vous maîtrisez la compétence Discrétion. De plus, sans avoir à vous presser, vous pouvez vous déplacer et vous arrêter sur un espace trop petit pour vous, mais suffisamment grand pour une créature de taille P.
 
-**Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature prend 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.
+**Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature subit 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.
 
 
 ---
@@ -42865,7 +42862,7 @@ Les premiers goliaths vivaient sur les plus hautes montagnes — bien au-delà d
 
 **Né des Montagnes.** Vous êtes résistant aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
 
-**Endurance de la Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
+**Endurance de la Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -42883,7 +42880,7 @@ L'odeur riche de la terre fraîchement retournée peut être un indicateur certa
 
 #### L'Âtre et le Pouls
 
-Les golins adorent le rythme. Ils trouvent de la joie dans le vrombissement d'un foudre-rail, le clic-clac des sabots d'une chèvre de monte et les battements de cœur de leurs proches et parents. À partir de ces occurrences quotidiennes, les golins créent des polyrythmies merveilleusement complexes, une musique dont les vibrations restauratrices peuvent revigorer les mélancoliques et les peureux. En effet, le percussionniste principal du légendaire groupe optérien, _Wings of a Butterfly_, était Hopo Aman, un maestro golin de la tablah naine.
+Les golins adorent le rythme. Ils trouvent de la joie dans le vrombissement d'un foudre-rail, le clic-clac des sabots d'une chèvre de monte et les battements de cœur de leurs proches et parents. À partir de ces occurrences quotidiennes, les golins créent des polyrythmies merveilleusement complexes, une musique dont les vibrations restauratrices peuvent revigorer les mélancoliques et les peureux. En effet, le percussionniste principal du légendaire groupe optérien, *Wings of a Butterfly*, était Hopo Aman, un maestro golin de la tablah naine.
 
 ![[Golin.webp]]
 
@@ -43002,7 +42999,7 @@ Les halfelins collaborent bien volontiers et ils sont loyaux envers leurs amis, 
 
 ## Plaisirs Pastoraux
 
-La plupart des halfelins vivent dans des petites communautés paisibles avec d'immenses fermes et des bosquets bien entretenus. Ils ne constituent que rarement leur propre royaume ou ne possèdent de terres au-delà de leurs comtés. Ils ne reconnaissent pas vraiment de _noblesse_ halfeline ou de royauté, se tournant plutôt vers les doyens de la famille pour les guider. Les familles conservent leurs traditions malgré les successions d'empires.
+La plupart des halfelins vivent dans des petites communautés paisibles avec d'immenses fermes et des bosquets bien entretenus. Ils ne constituent que rarement leur propre royaume ou ne possèdent de terres au-delà de leurs comtés. Ils ne reconnaissent pas vraiment de *noblesse* halfeline ou de royauté, se tournant plutôt vers les doyens de la famille pour les guider. Les familles conservent leurs traditions malgré les successions d'empires.
 
 Beaucoup d'halfelins vivent au sein d'autres races, où leur dur labeur et leur loyauté leur octroie de larges récompenses et un confort de vie indéniable. Quelques communautés halfelines ont choisi l'itinérance, conduisant chariots et/ou naviguant de lieux à lieux et ne conservant aucun domicile fixe.
 
@@ -43025,7 +43022,7 @@ L'[[Langues#Halfelin|Halfelin]] n'est pas secret, mais les halfelins sont rétic
 
 #### Noms Halfelins
 
-Un halfelin a un prénom, un nom de famille et parfois un surnom. Les noms de famille sont souvent les surnoms des anciens qui sont restés et ont été transmis de générations en générations.
+Un halfelin a un prénom, un nom de famille et parfois un surnom. Les noms de famille sont souvent les surnoms des anciens qui sont restés et ont été transmis de génération en génération.
 
 **Noms Masculins :** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
 
@@ -43051,7 +43048,7 @@ Les pieds-légers sont plus enclins à la soif de découverte que les autres hal
 
 **Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
 
-**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -43079,7 +43076,7 @@ En tant que halfelin robuste, vous êtes plus solide que la moyenne et êtes ré
 
 **Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
 
-**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -43111,7 +43108,7 @@ Beaucoup de ces halfelins sont renfermés sur leur clan et méfiant des étrange
 
 **Âge.** Les halfelins atteignent la majorité aux alentours de 20 ans, et vivent généralement 150 ans.
 
-**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les halfelins mesurent en moyenne 90 cm et pèsent à peu près 20 kg. Votre taille est *Petite (P)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. .
 
@@ -43121,7 +43118,7 @@ Beaucoup de ces halfelins sont renfermés sur leur clan et méfiant des étrange
 
 **Agilité Halfeline.** Vous pouvez passer dans l'espace de toute créature d'une taille supérieure à la vôtre.
 
-**Communication silencieuse.** Vous pouvez communiquer par télépathie à n'importe quelle créature à moins de 30 ft. La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.
+**Communication silencieuse.** Vous pouvez communiquer par télépathie avec n'importe quelle créature à moins de 30 ft. La créature ne vous comprend que si vous parlez un langage en commun. Vous pouvez parler ainsi à une seule créature à la fois.
 
 ---
 
@@ -43209,7 +43206,7 @@ Les hommes-lézard disposent d'écailles colorées et affichent une grande vari�
 
 **Apnée.** Vous pouvez retenir votre respiration pour 15 minutes.
 
-**Gueule Affamée.** Vous pouvez vous lâcher dans une furie affamée. Pour une action bonus, vous pouvez réaliser une attaque spéciale avec votre Morsure. Si vous touchez, vous infligez les dégâts normaux et vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
+**Gueule Affamée.** Vous pouvez laisser libre cours à une furie affamée. Pour une action bonus, vous pouvez réaliser une attaque spéciale avec votre Morsure. Si vous touchez, vous infligez les dégâts normaux et vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 **Armure Naturelle.** Vous avez une peau solide et écailleuse. Lorsque vous ne portez pas d'armure, votre CA de base est égale à 13 + votre modificateur de Dextérité. Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous laisserait avec une CA inférieure. Les bénéfices d'un bouclier s'ajoutent normalement lorsque vous utilisez votre armure naturelle.
 
@@ -43295,7 +43292,7 @@ Cousins éloignés des chouettes géantes de la Féerie, les hooms existent de d
 
 Comme les chouettes, les hooms possèdent des plumes qui ne font aucun bruit lorsqu'ils volent ou se déplacent, leur facilitant la tâche pour se faufiler la nuit (dans les librairies par exemple).
 
-Votre personnage hoom peut être nocturne. Ou peut-être est-il simplement enclin à se lever plus tard, incarnant le surnom d'_oiseau de nuit_.
+Votre personnage hoom peut être nocturne. Ou peut-être est-il simplement enclin à se lever plus tard, incarnant le surnom d'*oiseau de nuit*.
 ![[Hoom.png]]
 ### Culture
 
@@ -43372,7 +43369,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
@@ -43389,7 +43386,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
@@ -43411,7 +43408,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
@@ -43447,7 +43444,7 @@ Un de vos parents est un habitant sous-marin, ou vous êtes un descendant lointa
 
 ##### Arachné
 
-Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresse drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
+Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresses drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
@@ -43629,7 +43626,7 @@ Vous possédez la peau abrasive, les yeux en fentes et la langue fourchue des re
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Crachat d'Acide.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un jet d'acide de votre bouche. C'est une attaque spéciale à distance avec une portée de 30 ft. Vous la maîtrisez et ajoutez votre modificateur de Dextérité à son jet d'attaque et ses jets de dégât. Si vous touchez, la cible prend 1d10 dégâts d'acide. Ces dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
+**Crachat d'Acide.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un jet d'acide de votre bouche. C'est une attaque spéciale à distance avec une portée de 30 ft. Vous la maîtrisez et ajoutez votre modificateur de Dextérité à son jet d'attaque et ses jets de dégât. Si vous touchez, la cible subit 1d10 dégâts d'acide. Ces dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
 
 Vous pouvez utiliser votre Crachat d'Acide un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -43824,7 +43821,7 @@ Même si leur corps ressemble à celui d'un fantôme — un peu translucide et s
 
 **Mouvement Immatériel.** Vous pouvez vous déplacer à travers les autres créatures comme sur du terrain difficile. Vous pouvez également bouger à travers des objets solides, mais votre forme partiellement matérielle ne peut traverser qu'un pied de pierre, quelques centimètres de métal, une fine couche de plomb ou 3 ft. de bois ou de terre.
 
-Si vous terminez votre mouvement en occupant le même emplacement qu'un objet solide ou qu'une créature, vous êtes immédiatement repoussés vers l'espace inoccupé le plus proche et prenez des dégâts de force égaux au double de nombre de pieds dont vous vous êtes déplacé.
+Si vous terminez votre mouvement en occupant le même emplacement qu'un objet solide ou qu'une créature, vous êtes immédiatement repoussés vers l'espace inoccupé le plus proche et subissez des dégâts de force égaux au double de nombre de pieds dont vous vous êtes déplacé.
 
 **Discours de l'Esprit.** Vous pouvez lancer le sort [[communication avec les morts]] sans dépenser d'emplacement de sorts ou de composantes matérielles. Une fois que vous avez lancé ce sort avec ce trait, vous pouvez poser au corps un nombre de questions égal à votre bonus de maîtrise et vous ne pouvez le relancer de cette façon jusqu'à ce que vous ayez terminé un repos long. Vous pouvez également lancer ce sort en utilisant un emplacement de sort du niveau adéquat.
 
@@ -44287,7 +44284,7 @@ Aujourd'hui, les mandragores sont rares et fondent leur foyer dans les forêts a
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Primordial|Primordial]].
 
-**Âge.** Les mandragores grandissent pendant une décennie et vivent des siècles, devenant plus massif et plus _écorceux_ avec l'âge.
+**Âge.** Les mandragores grandissent pendant une décennie et vivent des siècles, devenant plus massif et plus *écorceux* avec l'âge.
 
 **Taille.** Les mandragores font entre 1,50 m et 2,00 m et pèsent entre 100 et 200 kg. Votre taille est Moyenne (M).
 
@@ -44355,7 +44352,7 @@ writing_status: finished
 
 ### Description
 
-La poursuite des connaissances, l'obtention de secrets et l'accumulation de bibelots à l'histoire riche sont des pratiques courantes chez les créatures élevées par des monœils. Des colliers de chiens aux tapisseries, de partitions à des tablettes gravées, et d'orbes mémoriels magiques à des trésors familiaux sans valeurs, leurs _bibliothèques_ (comme les monœils appellent leur foyer) sont remplies de connaissances. Grâce à leur adaptation physique pour l'escalade, les maisons monœillaises sont souvent trouvées en haut de falaises, dans d'anciennes tours de magiciens ou au fond de fosses. 
+La poursuite des connaissances, l'obtention de secrets et l'accumulation de bibelots à l'histoire riche sont des pratiques courantes chez les créatures élevées par des monœils. Des colliers de chiens aux tapisseries, de partitions à des tablettes gravées, et d'orbes mémoriels magiques à des trésors familiaux sans valeurs, leurs *bibliothèques* (comme les monœils appellent leur foyer) sont remplies de connaissances. Grâce à leur adaptation physique pour l'escalade, les maisons monœillaises sont souvent trouvées en haut de falaises, dans d'anciennes tours de magiciens ou au fond de fosses. 
 
 L'œil unique d'un monœil est la métaphore parfaite de la tendance myopique de la race à se concentrer sur une seule chose au mépris de toutes les autres. Lorsqu'un monœil trouve un sujet qui l'intéresse, bien peu de choses peuvent venir perturber sa phase manique et ses efforts pour obtenir des nouveaux documents, des informations et des réponses à leurs innombrables questions. Par exemple, la rumeur dit que la fameuse chercheuse monœil Roza "Merci" Mercina a oublié de dormir pendant deux mois alors qu'elle analysait le mut-x cristallisé de l'ancien laboratoire du Dr. Frank N. Stein. Bien sûr, cet exploit fut rendu plus facile par la capacité exceptionnelle des monœils à métaboliser la connaissance en véritable apport nutritionnel.
 
@@ -44386,13 +44383,13 @@ Les monœils ont un cycle de vie inhabituel. Même s'ils peuvent se reproduire s
 
 **Vision dans le Noir.** Habitué à la vie dans des bibliothèques mal éclairées, vous avez une vision supérieure dans le noir et des conditions peu lumineuses. Vous pouvez voir dans la lumière faible à 60 ft. comme si vous étiez en lumière vive, et dans l'obscurité comme si vous étiez en lumière faible. Vous ne pouvez discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Chasseur de Connaissance.__ Apprendre est une compulsion presque impossible parmi les monœils et les conduit souvent à se retrouver dans des situations pour le moins dangereuses. Vous avez la maîtrise dans deux des compétences suivantes (votre choix) : Arcane, Histoire, Perspicacité, Investigation, Médecine, Perception, Religion et Discrétion.
+**Chasseur de Connaissance.** Apprendre est une compulsion presque impossible parmi les monœils et les conduit souvent à se retrouver dans des situations pour le moins dangereuses. Vous avez la maîtrise dans deux des compétences suivantes (votre choix) : Arcane, Histoire, Perspicacité, Investigation, Médecine, Perception, Religion et Discrétion.
 
-__Savant des Secrets.__ Vous pouvez puiser dans votre capacité ancestrale à repérer les signes avant-coureurs de pièges, passages et autres secrets. Pour une action, vous pouvez entrer en cyclotranse pendant 1 minute. Pendant cette durée, vous avez l'avantage aux jets de Perception, Investigation et Perspicacité. Une fois que vous avez activé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+**Savant des Secrets.** Vous pouvez puiser dans votre capacité ancestrale à repérer les signes avant-coureurs de pièges, passages et autres secrets. Pour une action, vous pouvez entrer en cyclotranse pendant 1 minute. Pendant cette durée, vous avez l'avantage aux jets de Perception, Investigation et Perspicacité. Une fois que vous avez activé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
-__Qui Lit Dîne.__ L'information est nourrissante pour les monœils, au sens le plus strict du mot. Chaque jour où vous découvrez une information significative (d'après le MJ), vous n'avez besoin de vous sustenter que de la moitié de nourriture et d'eau que d'habitude et vous avez l'avantage à vos jets de sauvegarde de Constitution. Ce bénéfice persiste jusqu'à ce que vous terminiez un repos long.
+**Qui Lit Dîne.** L'information est nourrissante pour les monœils, au sens le plus strict du mot. Chaque jour où vous découvrez une information significative (d'après le MJ), vous n'avez besoin de vous sustenter que de la moitié de nourriture et d'eau que d'habitude et vous avez l'avantage à vos jets de sauvegarde de Constitution. Ce bénéfice persiste jusqu'à ce que vous terminiez un repos long.
 
-__Haute Étagère.__ Des générations passées à escalader les étagères de hautes bibliothèques ont conduit à une pression sélective sur la capacité à escalader. Vous avez une vitesse d'escalade de 20 ft.
+**Haute Étagère.** Des générations passées à escalader les étagères de hautes bibliothèques ont conduit à une pression sélective sur la capacité à escalader. Vous avez une vitesse d'escalade de 20 ft.
 
 ---
 
@@ -44430,7 +44427,7 @@ Les nagas sont connus pour leur dévouement envers l'excellence mentale et physi
 
 **Armes Naturelles.** Votre gueule à crocs acérés ainsi que votre corps serpentin sont de formidables armes naturelles, que vous pouvez utiliser pour réaliser des attaques à mains nues. 
 
-Si vous touchez avec votre morsure, vous infligez 1d4 + votre modificateur de Force dégâts perçants et votre cible doit réaliser un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution). Si elle échoue, la cible prend 1d4 dégâts de poison.
+Si vous touchez avec votre morsure, vous infligez 1d4 + votre modificateur de Force dégâts perçants et votre cible doit réaliser un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution). Si elle échoue, la cible subit 1d4 dégâts de poison.
 
 Si vous touchez avec votre attaque de constriction, vous infligez 1d6 + votre modificateur de Force dégâts contondants et votre cible est [[saisi|saisie]] (DD d'échappement 8 + votre bonus de maîtrise + votre modificateur de Force). Jusqu'à ce que la saisie se termine, la cible est [[retenu|retenue]] et vous ne pouvez pas compresser une autre créature.
 
@@ -44483,11 +44480,11 @@ Les nains qui choisissent l'aventure peuvent être motivés par un trésor, que 
 
 Le nom d'un nain lui est conféré par le doyen du clan, en suivant les traditions. Tous les vrais noms nains ont été utilisés et réutilisé au fil des générations. Le nom d'un nain appartient au clan, pas à l'individu. Un nain qui apporte honte ou déshonneur à son clan se voit retirer son nom et est interdit légalement d'utiliser un autre nom nain.
 
-__Noms Masculins.__ Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+**Noms Masculins.** Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
 
-__Noms Féminins.__ Ambre, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+**Noms Féminins.** Ambre, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
 
-__Noms de Clan.__ Balderk, Marteau-guerre, Enclume-poing, Dankil, Forgefeu, Barbe-gelée, Gorunn, Holderhek, Poing-de-fer, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+**Noms de Clan.** Balderk, Marteau-guerre, Enclume-poing, Dankil, Forgefeu, Barbe-gelée, Gorunn, Holderhek, Poing-de-fer, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
 
 ## Nain des Collines
 
@@ -44497,7 +44494,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, WIS +1_)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, WIS +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
@@ -44505,7 +44502,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 **Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
-**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. Votre vitesse n'est pas réduite lorsque vous portez une [[armures lourdes|armure lourde]].
 
@@ -44529,7 +44526,7 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, FOR +1_)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, FOR +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
@@ -44537,7 +44534,7 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 **Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
-**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. Votre vitesse n'est pas réduite lorsque vous portez une [[armures lourdes|armure lourde]].
 
@@ -44561,7 +44558,7 @@ Les duergars sont des nains dont les ancêtres se sont transformés au fil des s
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, WIS +1_)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, WIS +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
@@ -44569,7 +44566,7 @@ Les duergars sont des nains dont les ancêtres se sont transformés au fil des s
 
 **Âge.** Les duergars grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
-**Taille.** Les duergars mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les duergars mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -44608,17 +44605,17 @@ Créés par la déesse Hekatria, puissante guerrière et cheftaine, les orques r
 
 **Âge.** Les orques atteignent l'âge adulte à 12 ans et vivent jusqu'à 60 ans.
 
-**Taille.** Les orques mesurent plus d'1,80 m et pèsent entre 110 et 140 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les orques mesurent plus d'1,80 m et pèsent entre 110 et 140 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Montée d'Adrénaline.__ Vous pouvez utiliser votre action bonus pour Foncer. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
+**Montée d'Adrénaline.** Vous pouvez utiliser votre action bonus pour Foncer. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
 
-__Carrure Imposante.__ Vous êtes considéré comme d'une catégorie de taille supérieure pour déterminer votre capacité de charge ainsi que le poids que vous pouvez pousser, tirer ou soulever.
+**Carrure Imposante.** Vous êtes considéré comme d'une catégorie de taille supérieure pour déterminer votre capacité de charge ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
-__Endurance Implacable.__ Lorsque vous êtes réduit à 0 point de vie mais ne mourez pas sur le coup, vous pouvez tomber à 1 point de vie à la place. Une fois que vous avez utilisé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.
+**Endurance Implacable.** Lorsque vous êtes réduit à 0 point de vie mais ne mourez pas sur le coup, vous pouvez tomber à 1 point de vie à la place. Une fois que vous avez utilisé ce trait, vous ne pouvez le refaire avant d'avoir terminé un repos long.
 
 
 ---
@@ -44650,19 +44647,19 @@ Lorsque les plasmoïdes dorment, ils perdent toute rigidité et s'étendent et s
 
 **Âge.** Les plasmoïdes n'ont pas de maturation à proprement parler. Ils deviennent adultes à partir de 2 ans et peuvent vivre jusqu'à 150 ans.
 
-**Taille.** Les plasmoïdes peuvent mesurer de 60 cm à 1,80 m. Ils sont plutôt légers pour leur taille. Vous êtes de taille _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les plasmoïdes peuvent mesurer de 60 cm à 1,80 m. Ils sont plutôt légers pour leur taille. Vous êtes de taille *Petite (P)* ou *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Amorphe.__ Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
+**Amorphe.** Vous pouvez vous faufiler dans un espace d'au moins 3 cm, en supposant que vous ne portiez rien et n'êtes équipé de rien. Vous avez également l'avantage aux jets de caractéristique pour initier ou fuir une lutte.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Apnée.__ Vous pouvez retenir votre respiration pendant 1 heure.
+**Apnée.** Vous pouvez retenir votre respiration pendant 1 heure.
 
-__Résilience Naturelle.__ Vous êtes résistant aux dégâts de poison et d'acide, et vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]].
+**Résilience Naturelle.** Vous êtes résistant aux dégâts de poison et d'acide, et vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]].
 
-__Réarrangement.__ Pour une action, vous pouvez changer la forme de votre corps pour vous conférer une tête, un ou deux bras, une ou deux jambes ainsi que des mains et pieds improvisés, ou pour revenir sous la forme d'un blob. Lorsque vous avez une forme humanoïde, vous pouvez porter vêtements et armures réalisés pour un Humanoïde de votre taille. Pour une action bonus, vous pouvez extruder un pseudopode qui fait moins de 20 cm de large et 3 m de long ou le réabsorber dans votre corps. Pendant cette même action bonus, vous pouvez utiliser ce pseudopode pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou lever ou poser un objet Très Petit. Le pseudopode ne possède pas d'organe sensoriel et ne peut attaquer, activer un objet magique ou porter plus de 5 kg.
+**Réarrangement.** Pour une action, vous pouvez changer la forme de votre corps pour vous conférer une tête, un ou deux bras, une ou deux jambes ainsi que des mains et pieds improvisés, ou pour revenir sous la forme d'un blob. Lorsque vous avez une forme humanoïde, vous pouvez porter vêtements et armures réalisés pour un Humanoïde de votre taille. Pour une action bonus, vous pouvez extruder un pseudopode qui fait moins de 20 cm de large et 3 m de long ou le réabsorber dans votre corps. Pendant cette même action bonus, vous pouvez utiliser ce pseudopode pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou lever ou poser un objet Très Petit. Le pseudopode ne possède pas d'organe sensoriel et ne peut attaquer, activer un objet magique ou porter plus de 5 kg.
 
 
 ---
@@ -44833,17 +44830,17 @@ Originaires de la Féerie — une terre d'émotion pure —, les satyres prospè
 
 **Âge.** Les satyres grandissent et vieillissent au même rythme que les humains.
 
-**Taille.** Les satyres font entre 1,45 m et 1,80 m et sont généralement plutôt fins. Votre taille est _Moyenne (M)_.
+**Taille.** Les satyres font entre 1,45 m et 1,80 m et sont généralement plutôt fins. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 35 ft.
 
-__Charge.__ Vous pouvez utiliser votre tête et vos cornes afin de réaliser des attaques à mains nues. Lorsque vous touchez, le coup inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts normaux pour une attaque à mains nues.
+**Charge.** Vous pouvez utiliser votre tête et vos cornes afin de réaliser des attaques à mains nues. Lorsque vous touchez, le coup inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts normaux pour une attaque à mains nues.
 
-__Résistance Magique.__ Vous avez l'avantage aux jets de sauvegarde contre les sorts.
+**Résistance Magique.** Vous avez l'avantage aux jets de sauvegarde contre les sorts.
 
-__Sauts Heureux.__ Lorsque vous réalisez un saut en longueur ou en hauteur, vous pouvez lancer un d8 et ajouter le résultat obtenu au nombre de pieds que vous parcourez, même lorsque vous réalisez un saut sans élan. Cette distance supplémentaire coûte du mouvement comme normalement.
+**Sauts Heureux.** Lorsque vous réalisez un saut en longueur ou en hauteur, vous pouvez lancer un d8 et ajouter le résultat obtenu au nombre de pieds que vous parcourez, même lorsque vous réalisez un saut sans élan. Cette distance supplémentaire coûte du mouvement comme normalement.
 
-__Fêtard.__ Fidèle représentant de l'esprit joyeux, vous maîtrisez les compétences Persuasion et Représentation, ainsi qu'un instrument de musique de votre choix.
+**Fêtard.** Fidèle représentant de l'esprit joyeux, vous maîtrisez les compétences Persuasion et Représentation, ainsi qu'un instrument de musique de votre choix.
 
 
 ---
@@ -44885,22 +44882,22 @@ La plupart des shifters ressemblent à un certain type de thérianthrope. Vous p
 
 **Âge.** Les shifters mûrissent plus rapidement que les humains aussi bien physiquement qu'émotionnellement ; ils deviennent adultes à l'âge de 10 ans. Ils ne vivent que rarement au-delà de 70 ans.
 
-**Taille.** En fonction de leur héritage, les shifters font entre 1,45 m et 2,10 m. Votre taille est _Moyenne (M)_.
+**Taille.** En fonction de leur héritage, les shifters font entre 1,45 m et 2,10 m. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Instincts Bestiaux.__ Canalisant la bête en vous, vous maîtrisez une des compétences suivantes : Acrobatie, Athlétisme, Intimidation ou Survie.
+**Instincts Bestiaux.** Canalisant la bête en vous, vous maîtrisez une des compétences suivantes : Acrobatie, Athlétisme, Intimidation ou Survie.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Phasage.__ Pour une action bonus, vous pouvez adopter une apparence plus bestiale. Cette transformation persiste pendant 1 minute, jusqu'à ce que vous mourriez ou que vous reveniez à votre apparence normale pour une action bonus. Lorsque vous phasez, vous gagnez un nombre de points de vie temporaires égal à 2 fois votre bonus de maîtrise. Vous pouvez phaser un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+**Phasage.** Pour une action bonus, vous pouvez adopter une apparence plus bestiale. Cette transformation persiste pendant 1 minute, jusqu'à ce que vous mourriez ou que vous reveniez à votre apparence normale pour une action bonus. Lorsque vous phasez, vous gagnez un nombre de points de vie temporaires égal à 2 fois votre bonus de maîtrise. Vous pouvez phaser un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
 
 Lorsque vous phasez, vous recevez un avantage supplémentaire en fonction de votre héritage : 
 
- - __Peau de Bête.__ Vous gagnez 1d6 points de vie temporaires supplémentaires. Lorsque vous êtes phasé, vous avez un bonus de +1 à la CA.
- - __Dents Longues.__ Lorsque vous phasez et pour une action bonus pendant vos autres tours lorsque vous êtes phasé, vous pouvez utiliser vos longs crocs pour réaliser une attaque à mains nues. Si vous touchez avec vos crocs, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
- - __Pattes Légères.__ Tant que vous êtes phasé, votre vitesse de marche augmente de 10 ft. De plus, vous pouvez vous déplacer de jusqu'à 10 ft. comme réaction lorsqu'une créature termine son tour à 5 ft. de vous. Ce mouvement réactif ne provoque pas d'attaque d'opportunité.
- - __Chasseur Né.__ Tant que vous êtes phasé, vous avez l'avantage aux jets de Sagesse et aucune créature à moins de 30 ft. ne peut avoir l'avantage aux jets d'attaque contre vous tant que vous n'êtes pas [[incapacité]].
+ - **Peau de Bête.** Vous gagnez 1d6 points de vie temporaires supplémentaires. Lorsque vous êtes phasé, vous avez un bonus de +1 à la CA.
+ - **Dents Longues.** Lorsque vous phasez et pour une action bonus pendant vos autres tours lorsque vous êtes phasé, vous pouvez utiliser vos longs crocs pour réaliser une attaque à mains nues. Si vous touchez avec vos crocs, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+ - **Pattes Légères.** Tant que vous êtes phasé, votre vitesse de marche augmente de 10 ft. De plus, vous pouvez vous déplacer de jusqu'à 10 ft. comme réaction lorsqu'une créature termine son tour à 5 ft. de vous. Ce mouvement réactif ne provoque pas d'attaque d'opportunité.
+ - **Chasseur Né.** Tant que vous êtes phasé, vous avez l'avantage aux jets de Sagesse et aucune créature à moins de 30 ft. ne peut avoir l'avantage aux jets d'attaque contre vous tant que vous n'êtes pas [[incapacité]].
 
 
 ---
@@ -44914,7 +44911,7 @@ writing_status: finished
 
 Les sirènes sont des humanoïdes aviaires d'une beauté saisissante et sauvage. Contrairement aux créatures légendaires d'autres mondes, elles possèdent de grandes ailes aux plumes éclatantes, rappelant souvent les couleurs des oiseaux tropicaux comme les aras ou les frégates. Leurs corps sont légers et sveltes, adaptés au vol, et leurs mains ainsi que leurs pieds se terminent par des serres acérées. Leurs visages, bien qu'humains d'apparence, portent souvent un regard distant et perçant, tourné vers l'horizon.
 
-Les sirènes sont chez elles le long des eaux de la Mer d'Épaves. Elles s'installent sur les côtes rocheuses, les îles isolées et même sur des amas flottants de varech. Ce sont des créatures au tempérament mercurien, capables de basculer en un instant d'un sentiment à son opposé radical : de la solitude au dégoût, du désir à la haine, de l'accueil à l'irritation, ou de l'amour à la fureur meurtrière.
+Les sirènes sont chez elles le long des eaux de la Mer d'Épaves. Elles s'installent sur les côtes rocheuses, les îles isolées et même sur des amas flottants de varech. Ce sont des créatures au tempérament changeant, capables de basculer en un instant d'un sentiment à son opposé radical : de la solitude au dégoût, du désir à la haine, de l'accueil à l'irritation, ou de l'amour à la fureur meurtrière.
 
 Fascinées par les navires, elles adorent jouer avec eux. Une sirène peut appeler un équipage de passage simplement pour tromper sa solitude, avant de l'entraîner capricieusement dans une masse de varech étouffante. Une autre pourrait attirer un vaisseau sur des rochers acérés dans le seul but d'étudier l'épave et d'en apprendre davantage sur ces étranges machines humaines. 
 
@@ -44956,6 +44953,46 @@ writing_status: finished
 ---
 ### Description
 
+Créés par le Seigneur des Chats — un être divin des Plans Supérieurs — afin de mêler les qualités des humanoïdes et des chats, les tabaxis forment un peuple hétérogène à la fois par leur apparence et leur comportement. Dans certains territoires, les tabaxis vivent comme les chats auxquels ils ressemblent, curieux par nature et à l'aise dans des environnements de jeu. Dans d'autres, les tabaxis vivent comme les autres races, ne présentant pas de traits félins comme le Seigneur des Chats l'aurait voulu.
+
+L'apparence des tabaxis est aussi variée que leur caractère. Certains tabaxis ont des caractéristiques ou des motifs dans leur fourrure comme les tigres ou les jaguars tandis que d'autres ressemblent plus aux chats de maison. D'autres encore ont des caractéristiques uniques ou coiffent leur fourrure selon leur préférence, quitte à parfois être sans poils !
+![[Tabaxi.png]]
+### Culture
+
+### Langue
+
+### Mécaniques
+
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : DEX +2, CHA +1*)
+
+**Type de Créature.** Vous êtes un Humanoïde.
+
+**Langage.** Vous parlez le [[Langues#Commun|Commun]] et une autre langue adaptée de votre choix.
+
+**Âge.** Les tabaxis grandissent comme les humains.
+
+**Taille.** Les tabaxis sont généralement plus grands et plus fins que les humains. Certains tabaxis sont néanmoins beaucoup plus petits. Votre taille est *Petite (P)* ou *Moyenne (M)*.
+
+**Vitesse.** Votre vitesse de base est de 30 ft. et vous possédez une vitesse d'escalade égale à votre vitesse de marche.
+
+**Griffes de Chat.** Vous pouvez utiliser vos griffes pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts tranchants.
+
+**Talent Félin.** Vous maîtrisez les compétences Discrétion et Perception.
+
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+**Agilité Féline.** Vos réflexes et votre agilité vous permettent de vous déplacer en un élan de vitesse. Lorsque vous vous déplacez pendant votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez le réutiliser jusqu'à ce que vous déplaciez de 0 ft. pendant un de vos tours.
+
+
+---
+
+## Fichier : `..\..\docs\races\Thri-keen.md`
+
+---
+writing_status: finished
+---
+### Description
+
 Les thri-keen possèdent des caractéristiques insectoïdes ainsi que deux paires de bras. Leur corps est protégé par une couche de chitine. Ils peuvent modifier la coloration de leur carapace afin de se mêler à leur environnement.
 
 Bien que les thri-keen ne dorment pas, ils ont besoin de périodes d'inactivité afin de se revitaliser. Pendant ces périodes, ils sont entièrement conscients de ce qu'il se passe autour d'eux.
@@ -44976,349 +45013,20 @@ Les thri-keen parlent en faisant claquer leurs mandibules et en ondulant leurs a
 
 **Âge.** Les thri-keen mûrissent exceptionnellement rapidement, devenant adultes à l'âge de 5 ans. Un thri-keen peut vivre pendant plusieurs siècles.
 
-**Taille.** Les thri-keen mesurent entre 60 cm et 1,60 m. Ils sont d'une carrure plutôt imposante et pèsent entre 50 et 100 kg. Votre taille est _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les thri-keen mesurent entre 60 cm et 1,60 m. Ils sont d'une carrure plutôt imposante et pèsent entre 50 et 100 kg. Votre taille est *Petite (P)* ou *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Carapace Caméléon.__ Tant que vous ne portez pas d'armure, votre carapace vous confère une CA égale à 13 + votre modificateur de Dextérité. Pour une action, vous pouvez changer la couleur de votre carapace afin de correspondre à la couleur et la texture de votre environnement, vous conférant l'avantage aux jets de Dextérité (Discrétion) pour vous cacher.
+**Carapace Caméléon.** Tant que vous ne portez pas d'armure, votre carapace vous confère une CA égale à 13 + votre modificateur de Dextérité. Pour une action, vous pouvez changer la couleur de votre carapace afin de correspondre à la couleur et la texture de votre environnement, vous conférant l'avantage aux jets de Dextérité (Discrétion) pour vous cacher.
 
-__Bras Auxiliaires.__ Vous possédez deux bras légèrement plus petits sous votre première paire de bras. Ces seconds bras peuvent manipuler un objet, ouvrir ou fermer une porte ou un contenant, ramasser ou poser un objet Très Petit ou manier une arme avec la propriété Légère. Ces bras ne peuvent être utilisés pour utiliser un bouclier.
+**Bras Auxiliaires.** Vous possédez deux bras légèrement plus petits sous votre première paire de bras. Ces seconds bras peuvent manipuler un objet, ouvrir ou fermer une porte ou un contenant, ramasser ou poser un objet Très Petit ou manier une arme avec la propriété Légère. Ces bras ne peuvent être utilisés pour utiliser un bouclier.
 
-__Insomniaque.__ Vous n'avez pas besoin de dormir et pouvez choisir de rester conscient pendant un repos long, même si vous devez vous restreindre aux activités légères afin de profiter du repos.
+**Insomniaque.** Vous n'avez pas besoin de dormir et pouvez choisir de rester conscient pendant un repos long, même si vous devez vous restreindre aux activités légères afin de profiter du repos.
 
-__Télépathie Thri-keen.__ Sans magie, vous ne pouvez pas parler de langues non thri-keen. Vous utilisez plutôt la télépathie afin de partager vos pensées. Vous avez la capacité magique de transmettre mentalement vos pensées aux créatures consentantes à 120 ft. Une créature contactée n'a pas besoin de partager une langue avec vous pour vous comprendre, mais doit être capable de comprendre au moins un langage. Votre lien télépathique avec une créature est brisé si vous et la créature vous déplacez à plus de 120 ft., si l'un d'entre vous est [[incapacité]] ou si l'un d'entre vous choisit de briser la connexion (aucune action requise).
+**Télépathie Thri-keen.** Sans magie, vous ne pouvez pas parler de langues non thri-keen. Vous utilisez plutôt la télépathie afin de partager vos pensées. Vous avez la capacité magique de transmettre mentalement vos pensées aux créatures consentantes à 120 ft. Une créature contactée n'a pas besoin de partager une langue avec vous pour vous comprendre, mais doit être capable de comprendre au moins un langage. Votre lien télépathique avec une créature est brisé si vous et la créature vous déplacez à plus de 120 ft., si l'un d'entre vous est [[incapacité]] ou si l'un d'entre vous choisit de briser la connexion (aucune action requise).
 
-
----
-
-## Fichier : `..\..\docs\races\Thri-keen.md`
-
----
-writing_status: finished
----
-
-### Description
-
-Être accueilli par des regards froids et des murmures, subir violence et insultes dans la rue, percevoir méfiance et peur dans chaque paire d'yeux : voilà la vie des tieflins. Et pour remuer le couteau, les tieflins savent pertinemment que tout cela émane d'un pacte établi il y a de cela des générations qui infuse leur sang de pouvoir infernal. Leur apparence et leur nature ne sont pas de leur fait mais la résultante d'un ancien péché pour lequel eux, leurs enfants et les enfants de leurs enfants seront toujours responsables.
-![[Tieflin.png]]
-#### Héritage Infernal
-
-Les tieflins sont dérivés d'un héritage humain et dans le sens large, ils ressemblent à des humains. Cependant, leur héritage infernal a laissé une empreinte claire sur leur apparence. Les tieflins possèdent de larges cornes qui prennent toutes sortes de formes : certains ont des cornes recourbées comme celles des béliers tandis que d'autres sont hautes et droites comme celles des gazelles et d'autres encore spiralant vers le haut comme les antilopes. Ils ont une épaisse queue longue d'environ 1 mètre qui s'enroule autour de leurs jambes lorsqu'ils s'énervent ou deviennent nerveux. Leurs canines sont particulièrement aiguisées et leurs yeux sont de couleurs solides — noir, rouge, blanc, argent ou or — sans pupille visible. Leur couleur de peau recouvre la variation que l'on retrouve chez les humains mais inclut aussi différents tons de rouge. Leurs cheveux, tombant en cascade derrière leurs cornes, sont généralement foncés, du noir ou marron au rouge, bleu ou violet foncé.
-
-#### Sous-races
-
-En fonction du pacte établi par leurs ancêtres, les tieflins se distinguent en sous-race :
-
-|**Sous-race**|**Description**|
-|---|---|
-|**[[#Héritier d'Asmodée]]**|La lignée la plus commune, commandant au feu et aux ténèbres.|
-|**[[#Héritier de Belzébuth]]**|Liés au Seigneur des Mouches, capables de corrompre le corps et l'esprit.|
-|**[[#Héritier de Dispater]]**|Des experts de l'espionnage, de la dissimulation et de la détection de pensées.|
-|**[[#Héritier de Fierna]]**|Des manipulateurs nés, maîtres de la magie des émotions et du charme.|
-|**[[#Héritier de Glasya]]**|Héritiers de la princesse criminelle des Enfers, doués pour le vol et l'illusion.|
-|**[[#Héritier de Levistus]]**|Liés à la glace de Stygie, spécialisés dans la survie et la protection magique.|
-|**[[#Héritier de Mammon]]**|Des maîtres de la richesse et de la magie utilitaire et protectrice.|
-|**[[#Héritier de Méphistophélès]]**|Des mages nés, maniant le feu des Enfers et une puissante magie arcanique.|
-|**[[#Héritier de Zariel]]**|Des guerriers féroces dotés d'une force surnaturelle et d'une magie de combat.|
-|**[[#Héritier de Bel]]**|Descendants de l'ancien tyran d'Averne, dotés d'ailes membraneuses pour voler.|
-|**[[#Héritier de Neabaz]]**|Liés au héraut de Belzébuth, dotés d'un charme magique insidieux et moqueur.|
-
-### Culture
-
-#### Indépendants et Suspicieux
-
-Les tieflins subsistent en minorité dans les territoires humains, souvent dans les pires quartiers de ces endroits, où ils grandissent pour devenir brigands, voleurs ou maîtres du crime. Parfois, ils vivent au milieu d'une autre minorité auquel cas ils sont généralement traités avec plus de respect.
-
-Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et être forts pour survivre. Ils ont du mal à faire confiance à quiconque se présente comme un ami, mais lorsqu'un compagnon de tieflin démontre sa confiance envers le tieflin, cette confiance lui est rendue. Et une fois qu'un tieflin a donné sa loyauté, il est un ami sincère ou un allié à vie.
-
-### Langue
-
-#### Noms
-
-Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certains, le nom choisi est une noble quête. Pour d'autres, une sombre destinée. 
-
-__Noms Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
-
-__Noms Infernaux Féminins :__ Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
-
-__Noms de "Vertu" :__ Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
-
-## Héritier d'Asmodée
-
-### Description
-
-Les tieflins liés à Nessus commandent le feu et les ténèbres, guidés par un intellect supérieur à la moyenne, digne de ceux liés à Asmodée lui-même.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, INT +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage Infernal.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Belzébuth
-
-### Description
-
-Le royaume en ruine de Maladomini est dirigé par Belzébuth, qui excelle dans la corruption de ceux pour qui les péchés peuvent être transformés en actes de damnation. Les tieflins liés à cet archidiable peuvent corrompre les autres aussi bien physiquement que psychiquement.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, INT +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Maladomini.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Dispater
-
-### Description
-
-La grande cité de Dis occupe la majorité du deuxième niveau des Enfers. C'est un endroit où les secrets sont révélés et partagés au plus offrant, faisant des tieflins de Dispater d'excellents espions et autres infiltrés. 
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, DEX +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Dis.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Détection des Pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Fierna
-
-### Description
-
-Maître manipulatrice, Fierna confère à ses tieflins de puissantes personnalités.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, WIS +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Phlegethos.__ Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Glasya
-
-### Description
-
-Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utile pour commettre des braquages.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, DEX +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Malbolge.__ Vous connaissez le cantrip [[Illusion Mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Levistus
-
-### Description
-
-La Stygie gelée est dirigée par Levistus, archidiable connu pour offrir des marchés à ceux qui font face à une fin imminente.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, CON +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Stygie.__ Vous connaissez le cantrip [[Rayon de Givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Armure d'Agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Mammon
-
-### Description
-
-Le grand avare Mammon adore l'or par-dessus tout. Les tieflins qui lui sont liés excellent dans la récolte et la garde des richesses.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, INT +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Minauros.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Méphistophélès
-
-### Description
-
-Dans le royaume gelé de Cania, Méphistophélès offre un pouvoir arcanique à ceux qui traitent avec lui. Les tieflins liés à lui maîtrise les arcanes magiques.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, INT +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de Cania.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Zariel
-
-### Description
-
-Les tieflins liés à Zariel sont plus forts que le tieflin typique et reçoivent des capacités magiques pour les aider au combat.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, FOR +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage d'Averne.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Châtiment Révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
-
-## Héritier de Bel
-
-### Description
-
-Ancien dirigeant d'Averne, Bel confère à ses tieflins la capacité de voler.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, DEX +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage de l'Ancienne Averne.__ Vous avez des ailes semblables à celles des chauves-souris. Vous avez une vitesse de vol de 30 ft. tant que vous ne portez pas d'armure lourde.
-
-## Héritier de Neabaz
-
-### Description
-
-Habile manipulateur des mots et serviteur de Belzébuth, Neabaz confère à ses tieflins un charme sans pareil.
-### Mécaniques
-
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CHA +2, INT +1*)
-
-**Type de Créature.** Vous êtes un Humanoïde.
-
-**Langage.** Vous parlez le [[Langues#Commun|Commun]] et l'[[Langues#Infernal|Infernal]].
-
-**Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
-
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
-
-**Vitesse.** Votre vitesse de base est de 30 ft.
-
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
-
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
-
-__Héritage Infernal.__ Vous connaissez le cantrip [[Moquerie Cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ---
 
@@ -45368,11 +45076,11 @@ Sans terre d'origine, les tieflins savent qu'ils doivent se débrouiller et êtr
 
 Les noms de tieflins tombent dans trois catégories. Les tieflins nés dans une autre culture ont généralement des noms de cette culture. Certains ont des noms dérivés de la langue [[Langues#Infernal|Infernale]], passés de génération en génération, qui reflètent leur héritage fiélon. Enfin, certains tieflins, plus jeunes, soucieux de trouver une place dans le monde, adoptent un nom qui représente une vertu ou un concept et essaye d'incarner ce concept. Pour certains, le nom choisi est une noble quête. Pour d'autres, une sombre destinée. 
 
-__Noms Infernaux Masculins :__ Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
+**Noms Infernaux Masculins :** Akmenos, Amnon, Barakas, Damakos, Ekemon, Iados, Kairon, Leucis, Melech, Mordai, Morthos, Pelaios, Skamos, Therai
 
-__Noms Infernaux Féminins :__ Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
+**Noms Infernaux Féminins :** Akta, Anakis, Bryseis, Criella, Damaia, Ea, Kallista, Lerissa, Makaria, Nemeia, Orianna, Phelaia, Rieta
 
-__Noms de "Vertu" :__ Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
+**Noms de "Vertu" :** Art, Carrion, Chant, Crédo, Désespoir, Excellence, Peur, Gloire, Espoir, Idéal, Musique, Nulpart, Ouvert, Poésie, Quête, Hasard, Révérence, Peine, Témérité, Tourment, Las
 
 ## Héritier d'Asmodée
 
@@ -45389,15 +45097,15 @@ Les tieflins liés à Nessus commandent le feu et les ténèbres, guidés par un
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage Infernal.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage Infernal.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[représailles infernales]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Belzébuth
 
@@ -45414,15 +45122,15 @@ Le royaume en ruine de Maladomini est dirigé par Belzébuth, qui excelle dans l
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Maladomini.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Maladomini.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[rayon empoisonné]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[couronne du dément]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Dispater
 
@@ -45439,15 +45147,15 @@ La grande cité de Dis occupe la majorité du deuxième niveau des Enfers. C'est
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Dis.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Détection des Pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Dis.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Détection des Pensées]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Fierna
 
@@ -45464,15 +45172,15 @@ Maître manipulatrice, Fierna confère à ses tieflins de puissantes personnalit
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Phlegethos.__ Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Phlegethos.** Vous connaissez le cantrip [[Amis]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[suggestion]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Glasya
 
@@ -45489,15 +45197,15 @@ Glasya, cerveau criminel des Enfers, confère à ses tieflins une magie utile po
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Malbolge.__ Vous connaissez le cantrip [[Illusion Mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Malbolge.** Vous connaissez le cantrip [[Illusion Mineure]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Déguisement]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[invisibilité]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Levistus
 
@@ -45514,15 +45222,15 @@ La Stygie gelée est dirigée par Levistus, archidiable connu pour offrir des ma
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Stygie.__ Vous connaissez le cantrip [[Rayon de Givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Armure d'Agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Stygie.** Vous connaissez le cantrip [[Rayon de Givre]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Armure d'Agathys]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[ténèbres]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Mammon
 
@@ -45539,15 +45247,15 @@ Le grand avare Mammon adore l'or par-dessus tout. Les tieflins qui lui sont lié
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Minauros.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Minauros.** Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Méphistophélès
 
@@ -45564,15 +45272,15 @@ Dans le royaume gelé de Cania, Méphistophélès offre un pouvoir arcanique à 
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de Cania.__ Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Cania.** Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Mains Brûlantes]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[lame de feu]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Zariel
 
@@ -45589,15 +45297,15 @@ Les tieflins liés à Zariel sont plus forts que le tieflin typique et reçoiven
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage d'Averne.__ Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Châtiment Révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage d'Averne.** Vous connaissez le cantrip [[Thaumaturgie]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[châtiment calcinant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Châtiment Révélateur]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Bel
 
@@ -45614,15 +45322,15 @@ Ancien dirigeant d'Averne, Bel confère à ses tieflins la capacité de voler.
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage de l'Ancienne Averne.__ Vous avez des ailes semblables à celles des chauves-souris. Vous avez une vitesse de vol de 30 ft. tant que vous ne portez pas d'armure lourde.
+**Héritage de l'Ancienne Averne.** Vous avez des ailes semblables à celles des chauves-souris. Vous avez une vitesse de vol de 30 ft. tant que vous ne portez pas d'armure lourde.
 
 ## Héritier de Neabaz
 
@@ -45639,15 +45347,15 @@ Habile manipulateur des mots et serviteur de Belzébuth, Neabaz confère à ses 
 
 **Âge.** Les tieflins vieillissent au même rythme que les humains mais vivent quelques années de plus.
 
-**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est _Moyenne (M)_. 
+**Taille.** Les tieflins font environ la même taille et le même poids que les humains. Votre taille est *Moyenne (M)*. 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-__Vision dans le Noir.__ Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Résistance Infernale.__ Vous êtes résistant aux dégâts de feu.
+**Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-__Héritage Infernal.__ Vous connaissez le cantrip [[Moquerie Cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage Infernal.** Vous connaissez le cantrip [[Moquerie Cruelle]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Charme-personne]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[discours captivant]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ---
 
@@ -45786,7 +45494,7 @@ Leur société est hiérarchisée et centrée sur la foi. Ils sont portés par u
 
 **Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
 
-__Canines de Vampire.__ Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+**Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
 
 **Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perçant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
 
@@ -45824,7 +45532,7 @@ Leur culture est un mélange de décadence raffinée et de survie brutale. Ils v
 
 **Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
 
-__Canines de Vampire.__ Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+**Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
 
 **Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perçant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0. Un humanoïde tué par cet effet devient un Néanti. Le Néanti est un [[zombie]] sous votre contrôle mental. Vous ne pouvez avoir qu'un seul Néanti à la fois sous vos ordres ; si vous en créez un nouveau, le précédent tombe en poussière.
 
@@ -45942,15 +45650,15 @@ En plus de leur talent de grimpeurs nés, les volanzées ont des pieds aussi dex
 
 **Âge.** Les volanzées grandissent plus vite que les humains, devenant adultes à 15 ans, mais ne vivent que rarement plus de 80 ans.
 
-**Taille.** Les volanzées sont de tailles variées, allant de 80 cm à 1,75 m. Vous êtes de taille _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les volanzées sont de tailles variées, allant de 80 cm à 1,75 m. Vous êtes de taille *Petite (P)* ou *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. et vous avez une vitesse d'escalade égale à votre vitesse de marche.
 
-__Pieds Dextres.__ Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
+**Pieds Dextres.** Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
 
-__Planage.__ Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous prenez 0 dégâts de la chute. Vous déterminez la direction du planage.
+**Planage.** Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous subissez 0 dégâts de la chute. Vous déterminez la direction du planage.
 
-__Esquive Volanzée.__ La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+**Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 
 ---
@@ -45981,7 +45689,7 @@ Bénis avec la résistance aux effets magiques et de poison grâce à leur ritue
 
 **Âge.** Les yuan-tis de sang pur grandissent au même rythme que les humains et ont la même espérance de vie.
 
-**Taille.** Les yuan-tis de sang pur sont d'une carrure similaire aux humains. Les yuan-tis _bâtards_ peuvent être plus petits. Votre taille est Moyenne (M) ou Petite (P).
+**Taille.** Les yuan-tis de sang pur sont d'une carrure similaire aux humains. Les yuan-tis *bâtards* peuvent être plus petits. Votre taille est Moyenne (M) ou Petite (P).
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -46077,11 +45785,11 @@ Incantation: 1 Réaction
 Portee: Personnelle
 Concentration: false
 Rituel: false
-reaction: Quand vous prenez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
+reaction: Quand vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
 englishname: Absorb Elements
 writing_status: completed
 ---
-Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous avez la résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible prend 1d6 dégâts supplémentaires du type correspondant, et le sort se termine.
+Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous avez la résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type correspondant, et le sort se termine.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -46139,7 +45847,7 @@ Rituel: false
 englishname: Accursed Act
 writing_status: empty
 ---
-Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Tant qu'elle est maudite, la créature prend 1d8 + votre modificateur de caractéristique d'incantation une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
+Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous infligez 1d8 dégâts psychiques supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -46346,7 +46054,7 @@ Rituel: false
 englishname: Armor of Agathys
 writing_status: empty
 ---
-Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pour la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature prend 5 dégâts de froid.
+Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pour la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature subit 5 dégâts de froid.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie temporaires et les dégâts de froids augmentent de 5 par niveau.
 
@@ -46368,7 +46076,7 @@ Materiel: true
 detailmat: Un morceau de cuir
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mage Armor
@@ -46434,9 +46142,9 @@ Rituel: false
 englishname: Might of the Abyss
 writing_status: empty
 ---
-Vous canalisez le pouvoir stygien d'une source extra planaire, améliorant trois créatures autres que vous à portée. Lorsqu'une cible réalise une attaque armée, elle ajoute 1d4 à son jet de dégâts. Si la cible se déplace à plus de 15 ft. de vous, elle perd l'effet jusqu'à à nouveau être dans la zone d'effet.
+Vous canalisez le pouvoir stygien d'une source extra planaire, améliorant trois créatures autres que vous à portée. Lorsqu'une cible réalise une attaque armée, elle inflige 1d4 dégâts supplémentaires. Si la cible se déplace à plus de 15 ft. de vous, elle perd l'effet jusqu'à à nouveau être dans la zone d'effet.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, la portée augmente de 5 ft. et vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, la portée augmente de 5 ft. et vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -46479,7 +46187,7 @@ Materiel: true
 detailmat: Un brin de gui
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Goodberry
@@ -46544,7 +46252,7 @@ tags:
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée à distance en utilisant une arme à feu pendant la durée du sort, votre balle regorge d'énergie élémentaire. L'attaque inflige 2d4 dégâts supplémentaires à la cible. Vous choisissez si ces dégâts supplémentaires sont des dégâts d'acide, de froid, de feu, de foudre, de poison ou de tonnerre et vous pouvez choisir de changer les dégâts de votre arme à feu pour un de ceux-ci. Vous n'êtes pas obligé de choisir les mêmes dégâts pour les deux.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -46587,13 +46295,13 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Inflict Wounds
 writing_status: finished
 ---
-Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 3d10 dégâts nécrotiques. 
+Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 3d10 dégâts nécrotiques. 
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 1.
 
@@ -46614,7 +46322,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Réaction
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Falling Spider's Spite
@@ -46649,7 +46357,7 @@ tags:
 ---
 Vous vous projetez quelques secondes dans le futur. Choisissez une durée : 1 tour, 2 tours ou 3 tours. Vous disparaissez, et réapparaissez après la durée au début de votre tour dans l'espace inoccupé le plus proche de celui que vous avez quitté. Tant que vous êtes disparu, vous êtes en dehors du temps ; vous ne pouvez pas prendre d'action ou de réaction, le temps ne passe pas pour vous, les effets de vos sorts sont suspendus, et vous ne pouvez être affecté par des attaques ou des effets.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez choisir une durée de 1 minute. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez choisir une durée de 1 heure.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou supérieur, vous pouvez choisir une durée de 1 minute. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez choisir une durée de 1 heure.
 
 
 ---
@@ -46671,7 +46379,7 @@ Materiel: true
 detailmat: La patte arrière d'une sauterelle
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Jump
@@ -46706,7 +46414,7 @@ writing_status: empty
 ---
 Un anneau d'étincelles est projeté de votre main et vous revient quelques instants plus tard. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, vous infligez 3d6 dégâts radiants. Si vous ratez, vous pouvez retenter le jet d'attaque contre la même cible une fois.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
 
 Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, après que l'anneau a touché une première cible, il ricoche vers une seconde cible de votre choix que vous pouvez voir à 30 ft. de la première, infligeant les dégâts normaux. Si vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, l'anneau peut ricocher une fois de plus. Peu importe le nombre de créatures sur lesquelles l'anneau ricoche, vous ne pouvez retenter le jet d'attaque qu'une seule fois.
 
@@ -46787,7 +46495,7 @@ Rituel: false
 englishname: Shield
 writing_status: empty
 ---
-Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne prenez aucun dégâts de [[Projectiles Magiques]].
+Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne subissez aucun dégâts de [[Projectiles Magiques]].
 
 
 ---
@@ -46900,9 +46608,9 @@ Rituel: false
 englishname: Rumbling Charge
 writing_status: empty
 ---
-Vous vous encerclez du pouvoir élémentaire d'un glissement de terrain. Lorsque vous lancez ce sort, vous vous déplacez automatiquement de 30 ft. en ligne droite sans provoquer d'attaque d'opportunité. Si votre chemin est bloqué par une créature ou un objet, vous vous y arrêtez et cette créature ou objet doit réaliser un jet de sauvegarde de Force ou prendre 2d12 dégâts contondants, ou la moitié en cas de succès.
+Vous vous encerclez du pouvoir élémentaire d'un glissement de terrain. Lorsque vous lancez ce sort, vous vous déplacez automatiquement de 30 ft. en ligne droite sans provoquer d'attaque d'opportunité. Si votre chemin est bloqué par une créature ou un objet, vous vous y arrêtez et cette créature ou objet doit réaliser un jet de sauvegarde de Force ou subir 2d12 dégâts contondants, ou la moitié en cas de succès.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d12 par deux niveaux d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d12 par deux niveaux d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -46957,7 +46665,7 @@ Rituel: true
 englishname: Prehensile Hair
 writing_status: finished
 ---
-Vous vous faites pousser des poils/cheveux excessivement longs et durs (même au niveau des sourcils) que vous pouvez manipuler à volonté. Vous pouvez utiliser vos poils pour réaliser de simples tâches à 10 ft. de vous comme manipuler des objets, ouvrir une porte ou un contenant, ranger ou sortir un objet d'un contenant ouvert, ou vider le contenu d'une fiole. Vous pouvez lancer les sorts avec une portée de Touché en utilisant vos poils, à une portée de 10 ft. Vos poils et cheveux reviennent à une taille normale lorsque le sort se termine.
+Vous vous faites pousser des poils/cheveux excessivement longs et durs (même au niveau des sourcils) que vous pouvez manipuler à volonté. Vous pouvez utiliser vos poils pour réaliser de simples tâches à 10 ft. de vous comme manipuler des objets, ouvrir une porte ou un contenant, ranger ou sortir un objet d'un contenant ouvert, ou vider le contenu d'une fiole. Vous pouvez lancer les sorts avec une portée de Contact en utilisant vos poils, à une portée de 10 ft. Vos poils et cheveux reviennent à une taille normale lorsque le sort se termine.
 
 
 ---
@@ -46984,9 +46692,9 @@ writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme reluit d'une chaleur de l'acier blanc, et l'attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'embrase.
 
-Au début de chacun de ses tours avant que le sort ne termine, la cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle prend 1d6 dégâts de feu. Si elle réussit, le sort se termine. Si la cible ou une créature à 5 ft. de celle-ci utilise son action pour éteindre les flammes, ou si un autre effet les éteint (comme la cible étant plongée dans l'eau), le sort se termine.
+Au début de chacun de ses tours avant que le sort ne termine, la cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle subit 1d6 dégâts de feu. Si elle réussit, le sort se termine. Si la cible ou une créature à 5 ft. de celle-ci utilise son action pour éteindre les flammes, ou si un autre effet les éteint (comme la cible étant plongée dans l'eau), le sort se termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -47036,7 +46744,7 @@ writing_status: finished
 ---
 La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, une énergie vengeresse s'échappe de votre arme. L'attaque inflige 1d6 dégâts supplémentaires de force à la cible. De plus, si la cible est une créature, sa capacité à attaquer est réduite. Jusqu'à ce que le sort ne termine, la créature doit réaliser un jet de sauvegarde de Charisme au début de chacun de ses tours. Si elle échoue, la première fois qu'elle touche avec une attaque avant la fin de son tour, elle tombe [[au sol]].
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts de force augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts de force augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -47057,10 +46765,10 @@ Incantation: 1 Action Bonus
 Portee: Personnelle
 Concentration: true
 Rituel: false
-englishname: Punishing Smite
+englishname: Thunderous Smite
 writing_status: finished
 ---
-La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre arme résonne comme un tonnerre audible à 300 ft. et l'attaque inflige 2d6 dégâts de tonnerre supplémentaire à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 de ft. et tomber [[au sol]].
+La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre arme résonne comme un tonnerre audible à 300 ft. et l'attaque inflige 2d6 dégâts de tonnerre supplémentaire à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. et tomber [[au sol]].
 
 
 ---
@@ -47086,9 +46794,9 @@ writing_status: empty
 ---
 Vous conjurez un tentacule blanc et luisant formé de la sinistre Brume Morte qui se déchaîne contre un ennemi que vous pouvez voir à portée. Lorsque vous lancez ce sort, vous pouvez l'alimenter avec votre propre essence vitale en perdant 5, 10 ou 15 points de vie lorsque vous le lancez. Si vous le faites, considérez l'emplacement utilisé pour lancer le sort comme un emplacement d'un niveau supérieur par tranche de 5 points de vie perdus, jusqu'à un maximum de niveau 9.
 
-Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la créature prend 3d8 dégâts nécrotiques.
+Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la créature subit 3d8 dégâts nécrotiques.
 
-__Aux Niveaux Supérieurs.__ Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -47107,7 +46815,7 @@ Materiel: true
 detailmat: 25 ft. de corde, que le sort consomme
 Duree: 8 Heures
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Snare
@@ -47232,9 +46940,9 @@ Rituel: false
 englishname: Gahoul's Shrieking Skull
 writing_status: empty
 ---
-Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne prend 2d4 dégât de tonnerre.
+Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne subit 2d4 dégât de tonnerre.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d4 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d4 par niveau d'emplacement au-delà du niveau 1.
 
 ---
 
@@ -47285,7 +46993,7 @@ Materiel: true
 detailmat: 25 PO de poussière d'argent, que le sort consomme
 Duree: Instantanée
 Incantation: 1 Heure
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Ceremony
@@ -47356,7 +47064,7 @@ Rituel: false
 englishname: Frost Fingers
 writing_status: empty
 ---
-Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Constitution et prendre 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
+Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Constitution et subir 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
 
 Le froid est tel qu'il gèle magiquement les liquides non magiques et non portés dans la zone.
 
@@ -47547,7 +47255,7 @@ Materiel: false
 detailmat: Quelques centilitres de sang
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Blood Print
@@ -47628,7 +47336,7 @@ Materiel: false
 detailmat:
 Duree: 8 Heures
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Distort Value
@@ -47687,7 +47395,7 @@ Rituel: false
 englishname: Feather Fall
 writing_status: empty
 ---
-Vous pouvez lancer ce sort lorsque vous ou une créature à 60 ft. de vous tombe. Choisissez jusqu'à cinq créatures en chute libre à portée. La vitesse de chute d'une telle créature passe à 60 ft. par tour jusqu'à ce que le sort se termine. Si la créature atterrit avant que le sort ne termine, elle ne prend aucun dégât de chute et peut atterrir sur ses pieds, et le sort se termine pour cette créature.
+Vous pouvez lancer ce sort lorsque vous ou une créature à 60 ft. de vous tombe. Choisissez jusqu'à cinq créatures en chute libre à portée. La vitesse de chute d'une telle créature passe à 60 ft. par tour jusqu'à ce que le sort se termine. Si la créature atterrit avant que le sort ne termine, elle ne subit aucun dégât de chute et peut atterrir sur ses pieds, et le sort se termine pour cette créature.
 
 
 ---
@@ -47706,7 +47414,7 @@ Materiel: true
 detailmat: Un projectile physique pesant moins de 500 g
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Time's Arrow
@@ -47773,7 +47481,7 @@ writing_status: empty
 ---
 Une créature de votre choix que vous pouvez voir à portée se met à percevoir tout ce qui l'entoure comme hilarant et tombe dans un fou rire incontrôlable si elle se trouve affectée par le sort. La cible doit réussir un jet de sauvegarde de Sagesse ou tomber [[au sol]], devenant [[incapacité|incapacitée]] et ne pouvant se relever pour la durée du sort. Une créature avec un score d'Intelligence de 4 ou moins n'est pas affectée par ce sort.
 
-À la fin de chacun de ses tours, et à chaque fois qu'elle prend des dégâts, la cible peut retenter le jet de sauvegarde. Si le jet est causé par des dégâts, la cible a l'avantage.
+À la fin de chacun de ses tours, et à chaque fois qu'elle subit des dégâts, la cible peut retenter le jet de sauvegarde. Si le jet est causé par des dégâts, la cible a l'avantage.
 
 
 ---
@@ -47797,9 +47505,9 @@ Rituel: false
 englishname: Lashing Tendrils
 writing_status: empty
 ---
-Vous faites pousser de grotesques vrilles qui fouettent automatiquement toutes les créatures proches. Lorsqu'une créature se déplace à 5 ft. de vous ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle prend 1d6 dégâts contondants en cas d'échec, et la moitié en cas de réussite.
+Vous faites pousser de grotesques vrilles qui fouettent automatiquement toutes les créatures proches. Lorsqu'une créature se déplace à 5 ft. de vous ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle subit 1d6 dégâts contondants en cas d'échec, et la moitié en cas de réussite.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1, jusqu'à un maximum de 6d6.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1, jusqu'à un maximum de 6d6.
 
 
 ---
@@ -47825,7 +47533,7 @@ writing_status: empty
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée avant que le sort ne termine, une masse difforme de ronces apparaît au point d'impact, et la cible doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]] par les lianes magiques jusqu'à la fin du sort. Une créature de taille G ou supérieure a l'avantage sur ce jet de sauvegarde. Si la cible réussit son jet, les ronces disparaissent.
 
-Tant qu'elle est [[retenu|retenue]] par ce sort, la cible prend 1d6 dégâts au début de chacun de ses tours. Une créature retenue par les ronces ou une autre qui la touche peut utiliser son action pour réaliser un jet de Force contre votre DD de sauvegarde de sort. Si elle réussit, la créature retenue est libérée.
+Tant qu'elle est [[retenu|retenue]] par ce sort, la cible subit 1d6 dégâts au début de chacun de ses tours. Une créature retenue par les ronces ou une autre qui la touche peut utiliser son action pour réaliser un jet de Force contre votre DD de sauvegarde de sort. Si elle réussit, la créature retenue est libérée.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
@@ -47932,7 +47640,7 @@ Rituel: false
 englishname: Hail of Thorns
 writing_status: empty
 ---
-La prochaine fois que vous touchez une créature avec une attaque armée à distance avant que le sort ne termine, le sort crée une pluie d'épines qui poussent depuis votre arme ou munition. En plus des effets normaux de votre attaque, la cible et chaque créature à 5 ft. d'elle doit réaliser un jet de sauvegarde de Dextérité. Une créature prend 1d10 dégâts perçants si elle rate son jet, ou la moitié si elle réussit.
+La prochaine fois que vous touchez une créature avec une attaque armée à distance avant que le sort ne termine, le sort crée une pluie d'épines qui poussent depuis votre arme ou munition. En plus des effets normaux de votre attaque, la cible et chaque créature à 5 ft. d'elle doit réaliser un jet de sauvegarde de Dextérité. Une créature subit 1d10 dégâts perçants si elle rate son jet, ou la moitié si elle réussit.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 1.
 
@@ -47963,7 +47671,7 @@ writing_status: finished
 ---
 Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. Jusqu'à ce que le sort termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, l'intervalle dans lequel vous infligez un coup critique croît de 1 (17-20, 16-20, et ainsi de suite) par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, l'intervalle dans lequel vous infligez un coup critique croît de 1 (17-20, 16-20, et ainsi de suite) par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -47984,7 +47692,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Heroism
@@ -48017,7 +47725,7 @@ Rituel: false
 englishname: Indemnify
 writing_status: empty
 ---
-Vous projetez une goutte de sang sur une cible que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la cible prend 1d8 dégâts nécrotiques ou radiants (votre choix) à chaque fois que vous perdez des points de vie pendant la durée du sort. Le sort se termine si la cible commence son tour à 60 ft. de vous.
+Vous projetez une goutte de sang sur une cible que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la cible subit 1d8 dégâts nécrotiques ou radiants (votre choix) à chaque fois que vous perdez des points de vie pendant la durée du sort. Le sort se termine si la cible commence son tour à 60 ft. de vous.
 
 
 ---
@@ -48041,7 +47749,7 @@ Materiel: true
 detailmat: Une loupe et une pipe
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Clue
@@ -48148,9 +47856,9 @@ Rituel: false
 englishname: Icicle Javelin
 writing_status: empty
 ---
-Vous lancez un stalactite géant en direction d'une cible de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 3d8 dégâts de froid. Si la cible est adjacente à un mur, ou un objet tout aussi large et immobile, elle peut être clouée à cette surface à son prochain tour. Au début de son tour, la cible réalise un jet de sauvegarde de Force. SI elle échoue, elle a une vitesse de 0 jusqu'au début de son prochain tour.
+Vous lancez un stalactite géant en direction d'une cible de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 3d8 dégâts de froid. Si la cible est adjacente à un mur, ou un objet tout aussi large et immobile, elle peut être clouée à cette surface à son prochain tour. Au début de son tour, la cible réalise un jet de sauvegarde de Force. Si elle échoue, elle a une vitesse de 0 jusqu'au début de son prochain tour.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -48176,9 +47884,9 @@ Rituel: false
 englishname: Free Throw
 writing_status: empty
 ---
-Tout en lançant ce sort, vous jetez un objet tenu pesant 5 lbs. ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les couverture de moitié et de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit réaliser un jet de sauvegarde de Dextérité. Sur un échec, elle prend 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
+Tout en lançant ce sort, vous jetez un objet tenu pesant 5 lbs. ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les couvertures de moitié et de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit réaliser un jet de sauvegarde de Dextérité. Sur un échec, elle subit 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le poids maximum des objets que vous pouvez lancer augmente de 5 lbs. et les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le poids maximum des objets que vous pouvez lancer augmente de 5 lbs. et les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
 
 ---
 
@@ -48198,7 +47906,7 @@ Materiel: true
 detailmat: Un morceau de fourrure dans du tissu
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Beast Bond
@@ -48258,7 +47966,7 @@ Rituel: false
 englishname: Burning Hands
 writing_status: empty
 ---
-En tenant vos mains de telle sorte que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre 3d6 dégâts de feu. En cas de réussite, elle ne prend que la moitié des dégâts.
+En tenant vos mains de telle sorte que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts de feu. En cas de réussite, elle ne subit que la moitié des dégâts.
 
 Le feu embrase tout objet inflammable dans la zone d'effet qui n'est pas porté.
 
@@ -48286,7 +47994,7 @@ Rituel: false
 englishname: Curse of Chains
 writing_status: empty
 ---
-Une marque sombre ressemblant à des chaînes en fer apparaissent sur deux créatures que vous pouvez voir. Choisissez deux créature que vous pouvez voir à portée, et à 30 ft. l'une de l'autre. Elles doivent réaliser un jet de sauvegarde de Constitution. Si une créature échoue, elle est maudite pour la durée du sort. Si une seule des deux créatures est maudite, vous pouvez utiliser votre action ou action bonus un tour prochain pour choisir une autre cible à 30 ft. de la première qui doit aussi réaliser un jet de sauvegarde. Tant que deux créatures sont maudites par ce sort, elles ne peuvent pas s'éloigner volontairement l'une de l'autre.
+Une marque sombre ressemblant à des chaînes en fer apparaît sur deux créatures que vous pouvez voir. Choisissez deux créature que vous pouvez voir à portée, et à 30 ft. l'une de l'autre. Elles doivent réaliser un jet de sauvegarde de Constitution. Si une créature échoue, elle est maudite pour la durée du sort. Si une seule des deux créatures est maudite, vous pouvez utiliser votre action ou action bonus un tour prochain pour choisir une autre cible à 30 ft. de la première qui doit aussi réaliser un jet de sauvegarde. Tant que deux créatures sont maudites par ce sort, elles ne peuvent pas s'éloigner volontairement l'une de l'autre.
 
 Un sort de [[délivrance des malédictions]] dissipe cette malédiction.
 
@@ -48316,9 +48024,9 @@ Rituel: false
 englishname: Hollowing Curse
 writing_status: empty
 ---
-Des vrilles de brume noir s'étendent du bout de vos doigts, s'accrochant à une créature et drainant sa vitalité. Choisissez une créature que vous pouvez voir à portée, elle doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle prend 2d6 dégâts nécrotiques et est maudite pour la durée du sort. Si elle réussit, elle ne prend que la moitié des dégâts et n'est pas maudite. Tant que la cible est maudite, vous pouvez utiliser votre action pour lui infliger 1d6 dégâts automatiquement. La malédiction se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a la couverture totale vis-à-vis de vous. Une [[délivrance des malédictions]] termine également cette malédiction.
+Des vrilles de brume noir s'étendent du bout de vos doigts, s'accrochant à une créature et drainant sa vitalité. Choisissez une créature que vous pouvez voir à portée, elle doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 2d6 dégâts nécrotiques et est maudite pour la durée du sort. Si elle réussit, elle ne subit que la moitié des dégâts et n'est pas maudite. Tant que la cible est maudite, vous pouvez utiliser votre action pour lui infliger 1d6 dégâts automatiquement. La malédiction se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a la couverture totale vis-à-vis de vous. Une [[délivrance des malédictions]] termine également cette malédiction.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts initiaux et secondaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts initiaux et secondaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
 
 ---
 
@@ -48344,7 +48052,7 @@ Rituel: false
 englishname: Goan Arcane Cloak
 writing_status: empty
 ---
-Vous vous enrobez d'une cape composée d'énergie magique. Vous gagnez l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques, mais vous prenez 1d4 dégâts de feu si vous ratez le jet de sauvegarde.
+Vous vous enrobez d'une cape composée d'énergie magique. Vous gagnez l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques, mais vous subissez 1d4 dégâts de feu si vous ratez le jet de sauvegarde.
 
 
 
@@ -48397,7 +48105,7 @@ Rituel: false
 englishname: Dissonant Whispers
 writing_status: empty
 ---
-Vous murmurez une mélodie dissonante que seulement une créature de votre choix à portée peut entendre, ce qui lui provoque d'intenses douleurs. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle prend 3d6 dégâts psychiques et doit immédiatement utiliser sa réaction, si elle est disponible, pour se déplacer aussi loin que possible de vous. La créature ne se déplace vers ce qui serait un danger évident, comme un feu ou un trou. Si elle réussit, elle prend la moitié des dégâts et n'a pas à se déplacer. Une créature [[assourdi|assourdie]] réussit automatiquement le jet.
+Vous murmurez une mélodie dissonante que seulement une créature de votre choix à portée peut entendre, ce qui lui provoque d'intenses douleurs. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 3d6 dégâts psychiques et doit immédiatement utiliser sa réaction, si elle est disponible, pour se déplacer aussi loin que possible de vous. La créature ne se déplace vers ce qui serait un danger évident, comme un feu ou un trou. Si elle réussit, elle subit la moitié des dégâts et n'a pas à se déplacer. Une créature [[assourdi|assourdie]] réussit automatiquement le jet.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
@@ -48421,7 +48129,7 @@ Materiel: true
 detailmat: Une page écrite et un bout de ficelle d'argent valant 10 PO, que le sort consomme
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Memorize
@@ -48453,7 +48161,7 @@ writing_status: empty
 ---
 En construisant un bûcher et en brulant le corps d'un animal, vous attirez la faveur des dieux. Pendant la durée du sort, tant que vous portez une armure, vous pouvez décider d'ajouter votre modificateur de Sagesse au lieu de votre modificateur de Dextérité à votre classe d'armure.
 
-__Aux Niveaux Supérieurs.__ Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez aussi relancer un jet de sauvegarde que vous réalisez pendant la durée. Vous pouvez choisir de relancer après avoir lancé le dé, mais avant que le résultat ne soit connu, et vous devez utiliser le nouveau résultat.
+**Aux Niveaux Supérieurs.** Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez aussi relancer un jet de sauvegarde que vous réalisez pendant la durée. Vous pouvez choisir de relancer après avoir lancé le dé, mais avant que le résultat ne soit connu, et vous devez utiliser le nouveau résultat.
 
 
 ---
@@ -48478,7 +48186,7 @@ Rituel: false
 englishname: Chromatic Orb
 writing_status: empty
 ---
-Vous projetez une sphère d'énergie de 15 cm de diamètre vers une créature que vous pouvez voir à portée. Vous choisissez l'acide, le froid, le feu, la foudre, le poison ou le tonnerre comme type de l'orbe, puis vous réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 3d8 dégâts du type que vous avez choisi.
+Vous projetez une sphère d'énergie de 15 cm de diamètre vers une créature que vous pouvez voir à portée. Vous choisissez l'acide, le froid, le feu, la foudre, le poison ou le tonnerre comme type de l'orbe, puis vous réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 3d8 dégâts du type que vous avez choisi.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts augmentent de 1d8 par niveau d'emplacement de sort au-delà du niveau 1.
 
@@ -48507,9 +48215,9 @@ Rituel: false
 englishname: Zephyr's Feather
 writing_status: empty
 ---
-Vous agitez votre main et trois plumes d'un blanc éclatant, magiquement aiguisées, apparaissent et se mettent à tournoyer autour de vous. Lorsque vous lancez ce sort, réaliser une attaque de sort à distance en utilisant une des plumes contre une créature à 120 ft. de vous. SI vous touchez, la cible prend 2d8 dégâts tranchants. Jusqu'à la fin du sort, tant qu'il vous reste des plumes, vous pouvez réaliser une attaque en utilisant une plume à chacun de vos tours pour une action.
+Vous agitez votre main et trois plumes d'un blanc éclatant, magiquement aiguisées, apparaissent et se mettent à tournoyer autour de vous. Lorsque vous lancez ce sort, réalisez une attaque de sort à distance en utilisant une des plumes contre une créature à 120 ft. de vous. SI vous touchez, la cible subit 2d8 dégâts tranchants. Jusqu'à la fin du sort, tant qu'il vous reste des plumes, vous pouvez réaliser une attaque en utilisant une plume à chacun de vos tours pour une action.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1, jusqu'à un maximum de 6d8. Vous gagnez deux plumes supplémentaires lorsque vous utilisez un emplacement de sort de niveau 3 ou plus, et deux encore lorsque vous utilisez un emplacement de niveau 5 ou plus (7 plumes).
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 1, jusqu'à un maximum de 6d8. Vous gagnez deux plumes supplémentaires lorsque vous utilisez un emplacement de sort de niveau 3 ou plus, et deux encore lorsque vous utilisez un emplacement de niveau 5 ou plus (7 plumes).
 
 
 ---
@@ -48642,7 +48350,7 @@ Rituel: false
 englishname: Guiding Bolt
 writing_status: empty
 ---
-Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 4d6 dégâts radiants, et le prochain jet d'attaque réalisé contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.
+Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 4d6 dégâts radiants, et le prochain jet d'attaque réalisé contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
@@ -48665,15 +48373,15 @@ Materiel: true
 detailmat: Une épingle et un fil
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Flawed Reconstruction
 writing_status: empty
 ---
-Vous rattachez comme vous pouvez les plaies d'une créature consentante que vous touchez, qui regagne 4d6 points de vie. Cependant, la réparation est imparfaite, et les points de vie maximums de la cible sont réduits du même montant jusqu'à ce qu'elle termine un repos long. Une créature qui regagne des points de vie de cette façon garde de vilaines cicatrices.
+Vous refermez comme vous pouvez les plaies d'une créature consentante que vous touchez, qui regagne 4d6 points de vie. Cependant, la réparation est imparfaite, et les points de vie maximums de la cible sont réduits du même montant jusqu'à ce qu'elle termine un repos long. Une créature qui regagne des points de vie de cette façon garde de vilaines cicatrices.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le soin augmente de 1d6 par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le soin augmente de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
 
 ---
@@ -48808,7 +48516,7 @@ Materiel: true
 detailmat: Un bout de parchemin
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Rune of Fortification
@@ -48841,7 +48549,7 @@ Rituel: false
 englishname: Earth Tremor
 writing_status: empty
 ---
-Vous provoquez des secousses dans le sol à portée. Chaque créature autre que vous dans la zone doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, la créature prend 1d6 dégâts contondants et tombe [[au sol]]. Si le sol dans la zone d'effet est meuble ou de la pierre, cela devient du terrain difficile jusqu'à nettoyage, avec chaque emplacement prenant 1 minute à nettoyer.
+Vous provoquez des secousses dans le sol à portée. Chaque créature autre que vous dans la zone doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, la créature subit 1d6 dégâts contondants et tombe [[au sol]]. Si le sol dans la zone d'effet est meuble ou de la pierre, cela devient du terrain difficile jusqu'à nettoyage, avec chaque emplacement prenant 1 minute à nettoyer.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
@@ -48929,7 +48637,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Cure Wounds
@@ -48996,7 +48704,7 @@ Rituel: false
 englishname: Arms of Hadar
 writing_status: empty
 ---
-Vous invoquez le pouvoir de Hadar, la Faim Sombre. Des vignes d'énergie sombre émanent de vous et frappent toutes les créatures à moins de 10 ft. de vous. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Force. En cas d'échec, la cible prend 2d6 dégâts nécrotiques et ne peut pas prendre de réaction avant son prochain tour. Sur un succès, la créature prend la moitié des dégâts, et ne souffre d'aucun autre effet.
+Vous invoquez le pouvoir de Hadar, la Faim Sombre. Des vignes d'énergie sombre émanent de vous et frappent toutes les créatures à moins de 10 ft. de vous. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Force. En cas d'échec, la cible subit 2d6 dégâts nécrotiques et ne peut pas prendre de réaction avant son prochain tour. Sur un succès, la créature subit la moitié des dégâts, et ne souffre d'aucun autre effet.
 
 **Aux niveau supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augments de 1d6 par chaque niveau au delà du niveau 1.
 
@@ -49051,7 +48759,7 @@ Rituel: false
 englishname: Thunderwave
 writing_status: empty
 ---
-Une vague d'énergie tonitruante émane de vous. Toute créature dans un cube de 15 ft. de côté émanant de vous doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la créature prend 2d8 dégâts de tonnerre et est repoussée de 10 ft. Si elle réussit, la créature prend la moitié des dégâts et n'est pas repoussée.
+Une vague d'énergie tonitruante émane de vous. Toute créature dans un cube de 15 ft. de côté émanant de vous doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d8 dégâts de tonnerre et est repoussée de 10 ft. Si elle réussit, la créature subit la moitié des dégâts et n'est pas repoussée.
 
 De plus, les objets non immobilisés qui sont complétement dans la zone d'effet du sort sont automatiquement repoussées de 10 ft., et le sort émet une détonation entendable à 300 ft. (~90 m).
 
@@ -49110,7 +48818,7 @@ Rituel: false
 englishname: Chaos Bolt
 writing_status: empty
 ---
-Vous projetez une masse ondulante et tremblante d'énergie chaotique sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 2d8 + 1d6 dégâts. Choisissez l'un des d8s. Le résultat de ce d8 détermine le type de dégâts de l'attaque.
+Vous projetez une masse ondulante et tremblante d'énergie chaotique sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 + 1d6 dégâts. Choisissez l'un des d8s. Le résultat de ce d8 détermine le type de dégâts de l'attaque.
 
 | d8 | Type de Dégâts |
 | :-: | -------------- |
@@ -49127,7 +48835,7 @@ Si vous obtenez le même nombre sur les deux d8s, l'énergie chaotique saute de 
 
 Une créature ne peut être ciblée qu'une fois pour chaque incantation de ce sort.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, chaque cible prend 1d6 dégâts supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, chaque cible subit 1d6 dégâts supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.
 
 ---
 
@@ -49154,7 +48862,7 @@ Rituel: false
 englishname: Aberrate
 writing_status: empty
 ---
-Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne prenez pas de dégâts supplémentaires des dégâts critiques.
+Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne subissez pas de dégâts supplémentaires des dégâts critiques.
 
 De plus, votre corps s'adapte aux menaces en se déformant. Immédiatement après avoir pris des dégâts tant que ce sort est actif, vous pouvez utiliser votre réaction pour gagner la résistance à ce type de dégâts jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez ce sort à nouveau pour changer la résistance obtenue. Cette résistance ne s'applique pas aux dégâts qui provoquent la réaction.
 
@@ -49275,7 +48983,7 @@ Materiel: true
 detailmat: De la fourrure ou la plume d'une bête
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Enhance Ability
@@ -49287,7 +48995,7 @@ Vous touchez une créature et lui conférez une amélioration magique. Choisisse
 
 **Force du Taureau.** La cible a l'avantage aux jets de Force et sa capacité de charge est doublée.
 
-**Grâce du Chat.** La cible a l'avantage aux jets de Dextérité. Elle ne prend également pas de dégâts lorsqu'elle chute de 20 ft. ou moins et qu'elle n'est pas [[incapacité|incapacitée]].
+**Grâce du Chat.** La cible a l'avantage aux jets de Dextérité. Elle ne subit également pas de dégâts lorsqu'elle chute de 20 ft. ou moins et qu'elle n'est pas [[incapacité|incapacitée]].
 
 **Splendeur de l'Aigle.** La cible a l'avantage aux jets de Charisme.
 
@@ -49374,7 +49082,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Magic Weapon
@@ -49408,7 +49116,7 @@ writing_status: finished
 ---
 Vous créez à portée une arme spectrale flottante qui persiste pour la durée du sort ou jusqu'à ce que vous le relanciez.
 
-Lorsque vous lancez ce sort, vous pouvez réaliser une attaque de sort de mêlée contre une créature à 5 ft. de l'arme. Si l'attaque touche, la cible prend 1d8 + votre modificateur de caractéristique d'incantation dégâts de force.
+Lorsque vous lancez ce sort, vous pouvez réaliser une attaque de sort de mêlée contre une créature à 5 ft. de l'arme. Si l'attaque touche, la cible subit 1d8 + votre modificateur de caractéristique d'incantation dégâts de force.
 
 Pour une action bonus pendant votre tour, vous pouvez déplacer l'arme jusqu'à 20 ft. et refaire une attaque contre une cible à 5 ft. d'elle.
 
@@ -49494,7 +49202,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Heartripper
@@ -49562,9 +49270,9 @@ Rituel: false
 englishname: Halo of Flame
 writing_status: empty
 ---
-Un anneau de flamme s'embrase au dessus de votre tête et s'étend ensuite, s'arrêtant en un cercle de feu. Ce cercle est composé d'une ligne de flamme de 5 ft. de large courbée afin de former un anneau de rayon de 10 ft. autour de vous. Chaque créature que vous choisissez dans la zone doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, la créature prend 4d6 dégâts de feu, et la moitié si elle réussit.
+Un anneau de flamme s'embrase au dessus de votre tête et s'étend ensuite, s'arrêtant en un cercle de feu. Ce cercle est composé d'une ligne de flamme de 5 ft. de large courbée afin de former un anneau de rayon de 10 ft. autour de vous. Chaque créature que vous choisissez dans la zone doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, la créature subit 4d6 dégâts de feu, et la moitié si elle réussit.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -49583,7 +49291,7 @@ Materiel: true
 detailmat: Un petit carré d'encre
 Duree: 24 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcanist's Magic Aura
@@ -49614,7 +49322,7 @@ Materiel: true
 detailmat: Un petit carré de soie
 Duree: 24 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Nystul's Magic Aura
@@ -49686,7 +49394,7 @@ writing_status: finished
 ---
 Vous implantez un message dans un objet à portée, un message prononcé lorsque la condition déclencheuse est atteinte. Choisissez un objet que vous pouvez voir et qui n'est pas porté ni manié par une autre créature. Prononcez alors votre message, qui doit être inférieur à 25 mots, bien qu'il puisse prendre jusqu'à 10 minutes pour être prononcé. Enfin, déterminez les circonstances qui déclencheront la délivrance de votre message.
 
-Lorsque ces circonstances se produisent, une bouche magique apparaît sur l'objet et récite le message avec votre voix et au même volume que lorsque vous l'avez _enregistré_. Si l'objet que vous avez choisi possède déjà une bouche ou quelque chose qui y ressemble (par exemple la bouche d'une statue), la bouche magique apparaît à cet emplacement afin que les mots semblent provenir de la bouche de l'objet. Lorsque vous lancez ce sort, vous pouvez faire en sorte que ce sort se termine juste après avoir lu son message ou qu'il persiste et répète le message la prochaine fois que les circonstances s'y prêtent.
+Lorsque ces circonstances se produisent, une bouche magique apparaît sur l'objet et récite le message avec votre voix et au même volume que lorsque vous l'avez *enregistré*. Si l'objet que vous avez choisi possède déjà une bouche ou quelque chose qui y ressemble (par exemple la bouche d'une statue), la bouche magique apparaît à cet emplacement afin que les mots semblent provenir de la bouche de l'objet. Lorsque vous lancez ce sort, vous pouvez faire en sorte que ce sort se termine juste après avoir lu son message ou qu'il persiste et répète le message la prochaine fois que les circonstances s'y prêtent.
 
 La condition déclencheuse peut être aussi générale ou détaillée que vous le voulez, mais elle doit se baser sur des conditions visuelles ou auditives à 30 ft. de l'objet. Par exemple, vous pouvez ordonner à la bouche de parler lorsque n'importe quelle créature se déplace à 30 ft. de l'objet ou lorsqu'une clochette en argent résonne à 15 ft.
 
@@ -49775,6 +49483,9 @@ writing_status: empty
 ---
 Vous dessinez un cercle d'un diamètre de 5 ft. au sol qui protège contre les intrus. Seules les créatures que vous choisissez peuvent pénètre le cercle. Toute attaque à distance réalisée contre une cible à l'intérieur du cercle a le désavantage. Si une créature hostile réalise une attaque de mêlée contre une cible dans le cercle, l'attaquant est repoussé de 10 ft. juste après l'attaque.
 
+## Corps à Corps
+
+Votre corps est une arme mortelle à lui seul, 
 
 ---
 
@@ -49801,7 +49512,7 @@ Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flott
 
 Tant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, prenant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perçants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perçants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -49827,7 +49538,7 @@ writing_status: finished
 tags:
  - renaissance
 ---
-La prochaine fois que vous réalisez une attaque avec une arme à feu avant que le sort ne termine, le coup est chargé d'un puissant pouvoir. Plutôt que de réaliser une attaque contre une seule cible, le tir devient une ligne large de 5 ft. qui s'étend de vous jusqu'à la portée normale de l'arme. Chaque créature dans cette ligne doit réaliser un jet de sauvegarde de Dextérité. Une créature prend les dégâts normaux en cas d'échec, et la moitié en cas de réussite.
+La prochaine fois que vous réalisez une attaque avec une arme à feu avant que le sort ne termine, le coup est chargé d'un puissant pouvoir. Plutôt que de réaliser une attaque contre une seule cible, le tir devient une ligne large de 5 ft. qui s'étend de vous jusqu'à la portée normale de l'arme. Chaque créature dans cette ligne doit réaliser un jet de sauvegarde de Dextérité. Une créature subit les dégâts normaux en cas d'échec, et la moitié en cas de réussite.
 
 
 ---
@@ -49853,7 +49564,7 @@ writing_status: empty
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée avant que le sort ne termine, l'arme scintille d'une radiance astrale lorsque vous frappez. L'attaque inflige 2d6 dégâts radiants supplémentaires à la cible, qui devient visible si elle était [[invisible]], et la cible émet une lumière faible sur un rayon de 5 ft. et la cible ne peut devenir invisible jusqu'à ce que le sort ne termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts supplémentaires augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -49997,9 +49708,9 @@ Rituel: false
 englishname: Defenestration
 writing_status: empty
 ---
-Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible prend 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne prend aucun dégâts.
+Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible subit 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne subit aucun dégâts.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, la cible peut être repoussée de 5 ft. supplémentaires et prend 1d6 dégâts supplémentaires par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, la cible peut être repoussée de 5 ft. supplémentaires et subit 1d6 dégâts supplémentaires par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -50094,7 +49805,7 @@ tags:
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir à portée attaque avec une arme à feu, vous pouvez enrayer son arme. L'attaque échoue, et l'arme à feu est enrayée. Une arme à feu enrayée ne peut pas être utilisée pour réaliser une attaque jusqu'à ce qu'une créature utilise son action pour la réparer.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez enrayer une arme à feu à portée supplémentaire par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez enrayer une arme à feu à portée supplémentaire par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -50172,7 +49883,7 @@ Rituel: false
 englishname: Acid Arrow
 writing_status: empty
 ---
-Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible prend 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
+Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible subit 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégâts différés.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 3 ou plus, les dégâts (aussi bien instantanés que différés) augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -50198,9 +49909,9 @@ Rituel: false
 englishname: Hangover
 writing_status: empty
 ---
-Vous émettez une aura d'ivresse qui s'évapore rapidement, laissant la sensation d'une intense gueule de bois. Une créature que vous choisissez à portée doit réussir un jet de sauvegarde de Constitution ou prendre 3d8 dégâts psychiques. La cible a le désavantage aux jets de sauvegarde de Constitution qu'elle réalise pour maintenir sa concentration suite à ces dégâts .De plus, si elle échoue ce jet, la cible est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour.
+Vous émettez une aura d'ivresse qui s'évapore rapidement, laissant la sensation d'une intense gueule de bois. Une créature que vous choisissez à portée doit réussir un jet de sauvegarde de Constitution ou subir 3d8 dégâts psychiques. La cible a le désavantage aux jets de sauvegarde de Constitution qu'elle réalise pour maintenir sa concentration suite à ces dégâts .De plus, si elle échoue ce jet, la cible est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -50310,13 +50021,13 @@ Materiel: false
 detailmat:
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mana Shackle
 writing_status: empty
 ---
-Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dissipé prématurément, vous prenez 1d4 dégâts psychiques.
+Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dissipé prématurément, vous subissez 1d4 dégâts psychiques.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 4, l'objet reste scellé pendant 24 heures. Si vous lancez quotidiennement ce sort au niveau 4 pendant 30 jours, l'effet devient permanent.
 
@@ -50429,7 +50140,7 @@ Materiel: true
 detailmat: Une poignée d'écorce de chêne
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Barkskin
@@ -50486,7 +50197,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Protection from Ballistics
@@ -50519,7 +50230,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Curse Ward
@@ -50546,7 +50257,7 @@ Materiel: true
 detailmat: Une douille utilisée
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Jethro's Instant Reload
@@ -50634,7 +50345,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: true
 englishname: Beast Sense
@@ -50662,15 +50373,15 @@ Materiel: true
 detailmat: Une once de sel pour chaque pied du périmètre protégé
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Protect Threshold
 writing_status: empty
 ---
-En dessinant des sceaux arcaniques le long de sa limite, vous pouvez protéger une porte, une fenêtre ou n'importe quel autre portail. Pendant la durée du sort, une créature occulte invisible rôde et surveille le portail protégé. Toute créature qui essaye de passer le portail doit réussir un jet de sauvegarde de Sagesse ou prendre 4d6 dégâts psychiques, ou la moitié en cas de réussite.
+En dessinant des sceaux arcaniques le long de sa limite, vous pouvez protéger une porte, une fenêtre ou n'importe quel autre portail. Pendant la durée du sort, une créature occulte invisible rôde et surveille le portail protégé. Toute créature qui essaye de passer le portail doit réussir un jet de sauvegarde de Sagesse ou subir 4d6 dégâts psychiques, ou la moitié en cas de réussite.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -50697,9 +50408,9 @@ writing_status: empty
 ---
 Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaissent dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.
 
-Toute créature qui entre dans la tempête pour la première fois pendant son tour ou y commence son tour doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature prend 3d4 dégâts tranchants. Pour une action bonus, vous pouvez déplacer la tempête jusqu'à 30 ft. dans n'importe quelle direction. La première fois que la zone de la tempête contient des feuilles mortes, des fleurs, des buissons ou des arbres, elle les absorbe et les dégâts augmentent de 2d4.
+Toute créature qui entre dans la tempête pour la première fois pendant son tour ou y commence son tour doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 3d4 dégâts tranchants. Pour une action bonus, vous pouvez déplacer la tempête jusqu'à 30 ft. dans n'importe quelle direction. La première fois que la zone de la tempête contient des feuilles mortes, des fleurs, des buissons ou des arbres, elle les absorbe et les dégâts augmentent de 2d4.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -50719,7 +50430,7 @@ Materiel: true
 detailmat: 25 PO de poussière d'or, que le sort consomme
 Duree: Jusqu'à dissipation
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcane Lock
@@ -50747,7 +50458,7 @@ Materiel: true
 detailmat: La plume d'une aile d'un oiseau
 Duree: 1 Tour
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Swift Flight
@@ -50875,7 +50586,7 @@ Rituel: false
 englishname: Antagonize
 writing_status: empty
 ---
-Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle prend 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle réalise avant le début de son prochain tour. Sur un jet réussi, la cible ne prend que la moitié des dégâts.
+Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle réalise avant le début de son prochain tour. Sur un jet réussi, la cible ne subit que la moitié des dégâts.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, les dégâts augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.
 
@@ -50899,7 +50610,7 @@ Materiel: true
 detailmat: Une pincée de poudre de diamant d'une valeur d'au moins 25 po saupoudrée sur la cible, que le sort consomme
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Nondetection
@@ -50932,11 +50643,11 @@ writing_status: empty
 ---
 Un nuage tempêtueux apparaît sous la forme d'un cylindre haut de 10 ft. et d'un rayon de 60 ft., centré sur un point que vous pouvez voir à portée directement au-dessus de vous. Le sort échoue si vous ne voyez pas un point en l'air où le nuage pourrait apparaître.
 
-Lorsque vous lancez ce sort, choisissez un point que vous pouvez voir sous le nuage. Un éclair s'abat du nuage sur ce point. Toutes les créatures à 5 ft. de ce point doivent réaliser un jet de sauvegarde de Dextérité. Une créature prend 3d10 dégâts de foudre en cas d'échec, et la moitié en cas de succès. A chacun de vos tours jusqu'à ce que le sort ne termine, vous pouvez utiliser votre action pour appeler la foudre de cette façon.
+Lorsque vous lancez ce sort, choisissez un point que vous pouvez voir sous le nuage. Un éclair s'abat du nuage sur ce point. Toutes les créatures à 5 ft. de ce point doivent réaliser un jet de sauvegarde de Dextérité. Une créature subit 3d10 dégâts de foudre en cas d'échec, et la moitié en cas de succès. A chacun de vos tours jusqu'à ce que le sort ne termine, vous pouvez utiliser votre action pour appeler la foudre de cette façon.
 
 Si vous êtes en extérieurs dans des conditions orageuses lorsque vous lancez ce sort, le sort vous donne le contrôle des tempêtes existantes plutôt que d'en créer une. Dans de telles conditions, les dégâts du sort augmentent de 1d10.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -50957,7 +50668,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Elemental Weapon
@@ -51125,7 +50836,7 @@ Rituel: false
 englishname: Blasphemy
 writing_status: finished
 ---
-Vous lancez une imprécation et repoussez par votre volonté les magies curatives de la nature et des dieux. Chaque fois qu'une créature à 60 ft. devrait regagner des points de vie grâce à un sort, elle doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle ne regagne pas de points de vie et prend à la place 1d6 dégâts psychiques. Vous pouvez terminer ce sort prématurément pour une action.
+Vous lancez une imprécation et repoussez par votre volonté les magies curatives de la nature et des dieux. Chaque fois qu'une créature à 60 ft. devrait regagner des points de vie grâce à un sort, elle doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle ne regagne pas de points de vie et subit à la place 1d6 dégâts psychiques. Vous pouvez terminer ce sort prématurément pour une action.
 
 
 ---
@@ -51150,7 +50861,7 @@ Rituel: false
 englishname: Fireball
 writing_status: finished
 ---
-Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de se transformer en explosion de flammes dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit réaliser un jet de sauvegarde de Dextérité. Une cible prend 8d6 dégâts de feu si elle échoue son jet ou la moitié en cas de réussite. Les flammes contournent les angles et enflamment les objets inflammables dans la zone qui ne sont ni portés ni maniés.
+Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de se transformer en explosion de flammes dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit réaliser un jet de sauvegarde de Dextérité. Une cible subit 8d6 dégâts de feu si elle échoue son jet ou la moitié en cas de réussite. Les flammes contournent les angles et enflamment les objets inflammables dans la zone qui ne sont ni portés ni maniés.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
 
@@ -51207,11 +50918,11 @@ Un sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point q
 
 Lorsque vous lancez ce sort, vous pouvez l'alimenter de votre propre essence vitale en perdant 10, 15 ou 20 points de vie lorsque vous lancez. Si vous le faites, considérez l'emplacement de sort utilisé comme étant d'un niveau supérieur si vous avez perdu 10 points de vie, deux niveaux supérieurs si vous avez 15 points de vie et trois niveaux supérieurs pour 20 points de vie, jusqu'à un maximum de niveau 9.
 
-Lorsqu'une créature pénètre la zone pour la première fois pendant son tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou prendre 3d8 dégâts nécrotiques.
+Lorsqu'une créature pénètre la zone pour la première fois pendant son tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou subir 3d8 dégâts nécrotiques.
 
 De plus, lorsqu'une créature essaye de quitter la sphère de brume, vous pouvez faire en sorte que la brume saisisse la créature avec des tentacules brumeux. La créature doit réussir un jet de sauvegarde de Force ou ne peut bouger.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts infligés augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts infligés augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -51334,7 +51045,7 @@ writing_status: finished
 ---
 La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, des ombres cruelles se déversent de votre arme vers les blessures de la cible. L'attaque inflige 3d6 dégâts nécrotiques à la cible. De plus, si la cible est une créature, sa chair nécrose et refuse de se réparer. Jusqu'à ce que le sort ne termine, la cible ne peut pas regagner de points de vie.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts nécrotiques augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts nécrotiques augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -51542,7 +51253,7 @@ writing_status: finished
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir à 60 ft. lance un sort, vous pouvez essayer d'interrompre le processus d'incantation de la créature. Si la créature lance un sort de niveau 3 ou moins, le sort échoue et n'a aucun effet. Si elle lance un sort un de niveau 4 ou plus, réalisez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et n'a aucun effet.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal au niveau de l'emplacement que vous avez utilisé.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, le sort interrompu n'a aucun effet si son niveau est inférieur ou égal au niveau de l'emplacement que vous avez utilisé.
 
 
 ---
@@ -51603,7 +51314,7 @@ writing_status: finished
 ---
 Vous tendez la main vers une créature vivante que vous pouvez voir. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, son corps s'emplit d'un vil poison et elle subit 10d6 dégâts de poison au début de son prochain tour. Si la cible est réduite à 0 points de vie avant le début de son prochain tour, le poison explose et érupte en une douche de bile. Les créatures dans un rayon de 10 ft. de la cible doivent réaliser un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 10d6 dégâts de poison, ou la moitié en cas de jet réussit.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de chaque phase du sort augmentent de 2d6 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de chaque phase du sort augmentent de 2d6 par niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -51671,33 +51382,6 @@ Choisissez une créature, un objet ou un effet magique à portée. N'importe que
 
 ---
 
-## Fichier : `..\..\docs\sorts\03\Défense Magique.md`
-
----
-available:
- - Magicien
- - Barde
- - Nécromancien
- - Occultiste
- - Paladin
-level: 3
-school: Abjuration
-Verbal: true
-Somatique: true
-Materiel: false
-detailmat:
-Duree: 1 Heure
-Incantation: 1 Action
-Portee: Personnelle
-Concentration: false
-Rituel: false
-englishname: Ward of Energy Absorption
-writing_status: empty
----
-Vous vous influez d'une énergie magique protectrice. La prochaine fois que vous devriez subir des dégâts par un sort de dégâts directs pendant la durée du sort, cette défense absorbe l'énergie du sort. Vous ne prenez aucun dégâts et gagnez plutôt un nombre de points de vie temporaires égal au niveau du sort absorbé. Cette protection ne fonctionne pas contre les dégâts de zone.
-
----
-
 ## Fichier : `..\..\docs\sorts\03\Démembrement Bénin.md`
 
 ---
@@ -51714,7 +51398,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Benign Dismemberment
@@ -51742,7 +51426,7 @@ Materiel: true
 detailmat: Une branche
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Skirmish
@@ -51778,7 +51462,7 @@ writing_status: empty
 ---
 Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 
-Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel prend 1d6 dégâts de feu de votre trace enflammée. Une créature ou objet ne prend ces dégâts qu'une fois par tour.
+Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou objet ne prend ces dégâts qu'une fois par tour.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, augmentez votre vitesse de 5 ft. supplémentaires pour chaque niveau d'emplacement au delà du niveau 3. Le sort inflige 1d6 dégâts de feu supplémentaires pour chaque niveau emplacement au delà du niveau 3.
 
@@ -51804,9 +51488,9 @@ Rituel: false
 englishname: Pillar of Salt
 writing_status: empty
 ---
-Vous déchaînez une portion de colère divine sur un point que vous pouvez voir à portée. Chaque créature que vous choisissez dans une sphère de 10 ft. autour de ce point doit réaliser un jet de sauvegarde de Constitution. Sur un échec, la créature prend 7d6 dégâts nécrotiques, ou la moitié en cas de réussite. Si les dégâts réduisent une cible ayant échoué son jet à 0 point de vie, elle est transformée en pilier de sel.
+Vous déchaînez une portion de colère divine sur un point que vous pouvez voir à portée. Chaque créature que vous choisissez dans une sphère de 10 ft. autour de ce point doit réaliser un jet de sauvegarde de Constitution. Sur un échec, la créature subit 7d6 dégâts nécrotiques, ou la moitié en cas de réussite. Si les dégâts réduisent une cible ayant échoué son jet à 0 point de vie, elle est transformée en pilier de sel.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de niveau 4 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -51861,9 +51545,9 @@ writing_status: finished
 tags:
  - renaissance
 ---
-Vous conjurez un boulet de canon en plein vol et à pleine vitesse, qui explose à l'impact. Réalisez une attaque de sort à distance contre une cible que vous pouvez voir à portée. Si vous touchez, la cible prend 4d10 dégâts contondants et toutes les créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre la moitié des dégâts.
+Vous conjurez un boulet de canon en plein vol et à pleine vitesse, qui explose à l'impact. Réalisez une attaque de sort à distance contre une cible que vous pouvez voir à portée. Si vous touchez, la cible subit 4d10 dégâts contondants et toutes les créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir la moitié des dégâts.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -51890,7 +51574,7 @@ Rituel: false
 englishname: Freedom of the Waves
 writing_status: finished
 ---
-Vous conjurez un déluge d'eau de mer dans un rayon de 15 ft. et sur une hauteur de 10 ft. centré sur un point que vous pouvez voir à portée. Cette eau prend la forme d'un raz-de-marée, d'un tourbillon, d'un geyser ou n'importe quelle autre forme de votre choix. Toutes les créatures dans la zone doivent réaliser un jet de sauvegarde de Force contre votre DD de sauvegarde de sort ou prendre 2d8 dégâts contondants et tomber [[au sol]]. Vous pouvez choisir un nombre de créatures égal à votre modificateur d'incantation (au moins 1) qui réussissent automatiquement ce jet de sauvegarde.
+Vous conjurez un déluge d'eau de mer dans un rayon de 15 ft. et sur une hauteur de 10 ft. centré sur un point que vous pouvez voir à portée. Cette eau prend la forme d'un raz-de-marée, d'un tourbillon, d'un geyser ou n'importe quelle autre forme de votre choix. Toutes les créatures dans la zone doivent réaliser un jet de sauvegarde de Force contre votre DD de sauvegarde de sort ou subir 2d8 dégâts contondants et tomber [[au sol]]. Vous pouvez choisir un nombre de créatures égal à votre modificateur d'incantation (au moins 1) qui réussissent automatiquement ce jet de sauvegarde.
 
 Si vous êtes dans la zone du sort, comme partie de l'action que vous utilisez pour lancer ce sort, vous pouvez disparaître dans le déluge et vous téléporter vers un espace inoccupé que vous pouvez voir dans la zone du sort.
 
@@ -51963,7 +51647,7 @@ Materiel: false
 detailmat:
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Ruby-Eye Curse
@@ -51992,7 +51676,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Bestow Curse
@@ -52028,7 +51712,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Rusting Grasp
@@ -52059,7 +51743,7 @@ Materiel: true
 detailmat: Une paire de brassards
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Polybrachia
@@ -52122,13 +51806,13 @@ Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à 
 
 La main est un objet dont la CA est égale à 18 et qui a un nombre de points de vie égal à la moitié de vos points de vie maximums. Elle a l'immunité aux dégâts de poison et psychiques. Si elle tombe à 0 points de vie, le sort se termine. La griffe ne remplit pas son espace. Lorsque vous lancez ce sort, et pour une action bonus pendant vos tours suivants, vous pouvez donner un ordre à la griffe parmi les tâches suivantes : 
 
-__Tranche.__ La griffe se déchaîne contre une cible à 10 ft. Réalisez une attaque de sort de mêlée. Si vous touchez, la cible prend 3d8 dégâts tranchants ou de froid (votre choix).
+**Tranche.** La griffe se déchaîne contre une cible à 10 ft. Réalisez une attaque de sort de mêlée. Si vous touchez, la cible subit 3d8 dégâts tranchants ou de froid (votre choix).
 
-__Emprisonnement.__ La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[retenu|retenue]] pour la durée du sort. A la fin de chacun de ses tours, la cible retenue peut réaliser un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle prend 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.
+**Emprisonnement.** La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[retenu|retenue]] pour la durée du sort. A la fin de chacun de ses tours, la cible retenue peut réaliser un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle subit 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.
 
-__Libérer.__ La griffe peut libérer une créature emprisonnée.
+**Libérer.** La griffe peut libérer une créature emprisonnée.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de Tranche et d'Emprisonnement augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de Tranche et d'Emprisonnement augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.
 
 
 ---
@@ -52151,13 +51835,40 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Resolve's Mantle of Spell Resistance
 writing_status: empty
 ---
 Vous touchez une créature en prononçant le nom exact d'un sort dont vous connaissez la signature magique (au bon vouloir du MJ). La créature est totalement immunisée au sort cité pendant la durée du sort. 
+
+---
+
+## Fichier : `..\..\docs\sorts\03\Protection d'Absorption.md`
+
+---
+available:
+ - Magicien
+ - Barde
+ - Nécromancien
+ - Occultiste
+ - Paladin
+level: 3
+school: Abjuration
+Verbal: true
+Somatique: true
+Materiel: false
+detailmat:
+Duree: 1 Heure
+Incantation: 1 Action
+Portee: Personnelle
+Concentration: false
+Rituel: false
+englishname: Ward of Energy Absorption
+writing_status: empty
+---
+Vous vous influez d'une énergie magique protectrice. La prochaine fois que vous devriez subir des dégâts par un sort de dégâts directs pendant la durée du sort, cette défense absorbe l'énergie du sort. Vous ne subissez aucun dégâts et gagnez plutôt un nombre de points de vie temporaires égal au niveau du sort absorbé. Cette protection ne fonctionne pas contre les dégâts de zone.
 
 ---
 
@@ -52215,7 +51926,7 @@ Jusqu'à ce que le sort ne termine, vous pouvez poser jusqu'à trois questions a
 
 ---
 
-## Fichier : `..\..\docs\sorts\03\Tempête de Neige.md`
+## Fichier : `..\..\docs\sorts\03\Tempête de Grêle.md`
 
 ---
 available:
@@ -52410,7 +52121,7 @@ writing_status: finished
 ---
 Vous explorez les cauchemars d'une créature que vous pouvez voir à portée et créez une manifestation illusoire de ses peurs les plus profondes, visible seulement par cette créature.
 
-La cible doit réaliser un jet de sauvegarde de Sagesse. En cas d'échec, la cible est [[apeuré|apeurée]] pendant la durée du sort. À la fin de chacun de ses tours avant que le sort ne se termine, la cible doit réussir un jet de sauvegarde de Sagesse ou prendre 4d10 dégâts psychiques. Si elle réussit, le sort se termine.
+La cible doit réaliser un jet de sauvegarde de Sagesse. En cas d'échec, la cible est [[apeuré|apeurée]] pendant la durée du sort. À la fin de chacun de ses tours avant que le sort ne se termine, la cible doit réussir un jet de sauvegarde de Sagesse ou subir 4d10 dégâts psychiques. Si elle réussit, le sort se termine.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 4.
 
@@ -52553,7 +52264,7 @@ De fines et crépitantes flammes enveloppent votre corps pendant la durée du so
 
 Les flammes vous prodiguent, au choix, un bouclier de chaleur ou de frisson. Le bouclier de chaleur vous confère la résistance aux dégâts de froid tandis que le bouclier de frisson vous confère la résistance aux dégâts de feu.
 
-De plus, lorsqu'une créature à 5 ft. de vous est touchée par une attaque de mêlée, le bouclier s'embrase. L'attaquant prend 2d8 dégâts de feu d'un bouclier de chaleur ou 2d8 dégâts de froid d'un bouclier de frisson.
+De plus, lorsqu'une créature à 5 ft. de vous est touchée par une attaque de mêlée, le bouclier s'embrase. L'attaquant subit 2d8 dégâts de feu d'un bouclier de chaleur ou 2d8 dégâts de froid d'un bouclier de frisson.
 
 ---
 
@@ -52611,7 +52322,7 @@ La durée du sort dépend de quand et où il a été lancé. S'il a été lancé
 
 La transformation dure pendant la durée du sort, ou jusqu'à ce que la cible tombe à 0 points de vie et meurt. Lorsqu'elle revient à sa vraie forme, la créature revient au nombre de points de vie qu'elle avait avant de se transformer. Si elle revient à sa forme à cause de dégâts qui la font tomber à 0 point de vie, tout dégât en excès est porté sur sa forme originale. Tant que les dégâts en excès ne font pas tomber la forme normale à 0 point de vie, la créature ne tombe pas [[inconscient|inconsciente]].
 
-__Aux Niveau Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez transformer un animal supplémentaire par niveau d'emplacement au-delà du niveau 4.
+**Aux Niveau Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez transformer un animal supplémentaire par niveau d'emplacement au-delà du niveau 4.
 
 ---
 
@@ -52712,7 +52423,7 @@ Materiel: true
 detailmat: Les cils d'une nymphe, d'une valeur d'au moins 100 PO
 Duree: 10 Jours
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Dire Charm
@@ -52720,7 +52431,7 @@ writing_status: empty
 ---
 Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit réaliser un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort ne termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort termine, la créature sait qu'elle a été charmée par vous.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez le sort en utilisant un emplacement de sort de niveau 8 ou plus, l'effet devient permanent.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez le sort en utilisant un emplacement de sort de niveau 8 ou plus, l'effet devient permanent.
 
 
 ---
@@ -52751,7 +52462,7 @@ writing_status: finished
 ---
 Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit réaliser un jet de sauvegarde de Sagesse, qu'elle réalise avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[charmé|charmée]] par vous jusqu'à ce que le sort ne termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature charmée est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement supplémentaire au-delà du niveau 4. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement supplémentaire au-delà du niveau 4. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.
 
 
 ---
@@ -52794,7 +52505,7 @@ Materiel: true
 detailmat: Un coffre majestueux, 3 ft. x 2 ft. x 2 ft., construits de matériaux rares valant au moins 5000 PO, et une Très Petite réplique faite des mêmes matériaux valant au moins 50 PO
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Secret Chest
@@ -52871,7 +52582,7 @@ Une créature affectée ne peut pas prendre de réactions et doit lancer un d10 
 | 9-10 | La créature agit et se déplace normalement. |
 À la fin de chacun de ses tours, une créature affectée peut réaliser un jet de sauvegarde de Sagesse. Si elle réussit, l'effet se termine pour cette cible. 
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le rayon de la sphère augmente de 5 ft. par niveau d'emplacement utilisé au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le rayon de la sphère augmente de 5 ft. par niveau d'emplacement utilisé au-delà du niveau 4.
 
 ---
 
@@ -52906,9 +52617,9 @@ Jusqu'à ce que le sort se termine, vous contrôlez l'eau libre de son mouvement
 
 **Tourbillon.** Cet effet requiert un plan d'eau d'au moins 50 ft.² (5 m²) et profond d'au moins 25 ft. Vous faites apparaître un tourbillon au centre de la zone. Le tourbillon forme un vortex large de 5 ft. à sa base, de jusqu'à 50 ft. à son apogée et haut de 25 ft. Toute créature ou objet dans l'eau et à 25 ft. du vortex est attirée de 10 ft. dans sa direction. Une créature peut nager pour s'éloigner du vortex en réaliser un jet de Force (Athlétisme) contre votre DD de sauvegarde de sort.
 
-Lorsqu'une créature entre dans le vortex pour la première fois pendant un tour ou qu'elle y commence son tour, elle doit réaliser un jet de sauvegarde de Force. Si elle échoue, la cible prend 2d8 dégâts contondants et est coincée dans le vortex jusqu'à ce que le sort termine. Si elle réussit, la créature subit la moitié des dégâts et n'est pas coincée dans le vortex. Une créature coincée dans le vortex peut utiliser son action pour nager et s'éloigner du vortex, mais a le désavantage à son jet de Force (Athlétisme) pour ce faire.
+Lorsqu'une créature entre dans le vortex pour la première fois pendant un tour ou qu'elle y commence son tour, elle doit réaliser un jet de sauvegarde de Force. Si elle échoue, la cible subit 2d8 dégâts contondants et est coincée dans le vortex jusqu'à ce que le sort termine. Si elle réussit, la créature subit la moitié des dégâts et n'est pas coincée dans le vortex. Une créature coincée dans le vortex peut utiliser son action pour nager et s'éloigner du vortex, mais a le désavantage à son jet de Force (Athlétisme) pour ce faire.
 
-La première fois chaque tour qu'un objet entre dans le vortex, l'objet prend 2d8 dégâts contondants. Ces dégâts se répètent à chaque tour où l'objet reste dans le vortex.
+La première fois chaque tour qu'un objet entre dans le vortex, l'objet subit 2d8 dégâts contondants. Ces dégâts se répètent à chaque tour où l'objet reste dans le vortex.
 
 ---
 
@@ -53028,7 +52739,7 @@ Materiel: true
 detailmat: Un gyroscope
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: true
 englishname: Distort Gravity
@@ -53062,11 +52773,11 @@ writing_status: empty
 ---
 Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.
 
-Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle prend 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle prend la moitié des dégâts et n'est pas déplacée.
+Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle subit 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle subit la moitié des dégâts et n'est pas déplacée.
 
 Jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour forcer toutes les créatures dans la zone à réaliser un jet de sauvegarde immédiatement.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.
 
 
 ---
@@ -53087,7 +52798,7 @@ Materiel: true
 detailmat: Une pincée de poudre d'une pierre précieuse
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: False Vision
@@ -53121,7 +52832,7 @@ Rituel: false
 englishname: Blight
 writing_status: empty
 ---
-De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit réaliser un jet de sauvegarde de Constitution. La cible prend 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.
+De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit réaliser un jet de sauvegarde de Constitution. La cible subit 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.
 
 Si la cible est une créature botanique ou une plante magique, elle réalise le jet de sauvegarde avec désavantage, et le sort lui inflige les dégâts maximaux.
 
@@ -53155,7 +52866,7 @@ Rituel: true
 englishname: Arcane Bulwark
 writing_status: empty
 ---
-Vous créez un champ magique centré sur vous et d'un rayon de 30 ft. À chaque fois qu'une créature en concentration sur sort rentre dans cette zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle prend 1d8 dégâts de force.
+Vous créez un champ magique centré sur vous et d'un rayon de 30 ft. À chaque fois qu'une créature en concentration sur sort rentre dans cette zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle subit 1d8 dégâts de force.
 
 ---
 
@@ -53234,7 +52945,7 @@ Materiel: true
 detailmat: Un bandeau de cuir, entouré autour du bras ou d'un autre membre
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Freedom of Movement
@@ -53267,7 +52978,7 @@ Rituel: false
 englishname: Mystic Rebuke
 writing_status: empty
 ---
-Lorsque vous prenez des dégâts par un sort, vous pouvez utiliser votre réaction pour renvoyer magiquement la moitié des dégâts au lanceur de sort. Vous prenez les dégâts restants.
+Lorsque vous subissez des dégâts par un sort, vous pouvez utiliser votre réaction pour renvoyer magiquement la moitié des dégâts au lanceur de sort. Vous prenez les dégâts restants.
 
 
 ---
@@ -53285,7 +52996,7 @@ Materiel: true
 detailmat: Une pantoufle de verre valant au moins 100 PO
 Duree: Spéciale
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Mandy's Marvelous Dress
@@ -53327,7 +53038,7 @@ Vous pouvez saisir autant de créatures que vous avez de tentacules. Vous pouvez
 
 Vous pouvez également utiliser les tentacules pour manipuler les objets comme action ou action bonus. Chaque tentacule peut soulever jusqu'à 50 kg et vous pouvez ordonner à plusieurs tentacules de travailler ensemble pour soulever un même objet. Les tentacules ne sont pas capables de contrôles précis -- par exemple, ils ne peuvent pas ouvrir un coffre. Les objets en train de brûler sont éteints lorsqu'un tentacule les saisit.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous gagnez un tentacule supplémentaire par niveau d'emplacement au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous gagnez un tentacule supplémentaire par niveau d'emplacement au-delà du niveau 4.
 
 
 ---
@@ -53354,7 +53065,7 @@ writing_status: empty
 ---
 De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.
 
-Lorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou prendre 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules prend 3d6 dégâts contondants.
+Lorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules subit 3d6 dégâts contondants.
 
 Une créature [[retenu|retenue]] par les tentacules peut utiliser son action pour réaliser une jet de Force ou Dextérité (au choix) contre le DC de sauvegarde de sort. Si elle réussit, elle se libère.
 
@@ -53471,7 +53182,7 @@ Rituel: false
 englishname: Wings of Night
 writing_status: completed
 ---
-Vous faites apparaître de larges ailes de brume, de fumée et d'ombre qui s'attachent à votre dos et suivent votre commandement, vous conférant une vitesse de vol de 60 ft. et vous obscurcissant légèrement. Pour une action tant que vous avez ces ailes, vous pouvez choisir de libérer leur pouvoir, terminant le sort et déchaînant une vague d'énergie cauchemardesque. Les créatures à 30 ft. de vous doit réaliser un jet de sauvegarde de Charisme. Si une créature échoue, elle prend 6d10 dégâts psychiques et est [[apeuré|apeurée]] jusqu'à la fin de votre prochain tour. Elle ne prend que la moitié des dégâts et n'est pas apeurée si elle réussit le jet.
+Vous faites apparaître de larges ailes de brume, de fumée et d'ombre qui s'attachent à votre dos et suivent votre commandement, vous conférant une vitesse de vol de 60 ft. et vous obscurcissant légèrement. Pour une action tant que vous avez ces ailes, vous pouvez choisir de libérer leur pouvoir, terminant le sort et déchaînant une vague d'énergie cauchemardesque. Les créatures à 30 ft. de vous doit réaliser un jet de sauvegarde de Charisme. Si une créature échoue, elle subit 6d10 dégâts psychiques et est [[apeuré|apeurée]] jusqu'à la fin de votre prochain tour. Elle ne subit que la moitié des dégâts et n'est pas apeurée si elle réussit le jet.
 
 
 ---
@@ -53493,7 +53204,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Skill Empowerment
@@ -53598,7 +53309,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Holy Weapon
@@ -53606,7 +53317,7 @@ writing_status: finished
 ---
 Vous imprégnez une arme que vous touchez de votre pouvoir sacré. Jusqu'à ce que le sort termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.
 
-Pour une action bonus pendant votre tour, vous pouvez dissiper ce sort et faire émettre à l'arme une explosion de radiance. Chaque créature de votre choix que vous pouvez voir à 30 ft. de l'arme doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la créature prend 4d8 dégâts radiants et est [[aveuglé|aveuglée]] pendant 1 minute. Si elle réussit, la créature prend la moitié des dégâts et n'est pas aveuglée. À la fin de chacun de ses tours, une créature [[aveuglé|aveuglée]] peut réaliser un jet de sauvegarde de Constitution pour terminer l'effet.
+Pour une action bonus pendant votre tour, vous pouvez dissiper ce sort et faire émettre à l'arme une explosion de radiance. Chaque créature de votre choix que vous pouvez voir à 30 ft. de l'arme doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, la créature subit 4d8 dégâts radiants et est [[aveuglé|aveuglée]] pendant 1 minute. Si elle réussit, la créature subit la moitié des dégâts et n'est pas aveuglée. À la fin de chacun de ses tours, une créature [[aveuglé|aveuglée]] peut réaliser un jet de sauvegarde de Constitution pour terminer l'effet.
 
 
 ---
@@ -53624,7 +53335,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Unstoppable Ascent
@@ -53746,9 +53457,9 @@ writing_status: finished
 ---
 Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pour la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
 
-Lorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit réaliser un jet de sauvegarde de Constitution. La créature prend 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.
+Lorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit réaliser un jet de sauvegarde de Constitution. La créature subit 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.
 
-Le brouillard s'éloigne de vous de 101 ft. au début de chacun de vos tours, suivant la surface du sol. Les vapeurs, plus lourdes que l'air, _coulent_ et se déversent dans les ouvertures.
+Le brouillard s'éloigne de vous de 101 ft. au début de chacun de vos tours, suivant la surface du sol. Les vapeurs, plus lourdes que l'air, *coulent* et se déversent dans les ouvertures.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.
 
@@ -53770,13 +53481,13 @@ Materiel: true
 detailmat: Un carquois contenant au moins une munition
 Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Swift Quiver
 writing_status: finished
 ---
-Vous transformez votre carquois afin qu'il produise sans cesse des munitions non magiques, qui semblent _sauter_ dans votre main lorsque vous la tendez pour la saisir. 
+Vous transformez votre carquois afin qu'il produise sans cesse des munitions non magiques, qui semblent *sauter* dans votre main lorsque vous la tendez pour la saisir. 
 
 À chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action bonus pour réaliser deux attaques avec une arme qui utilise les munitions du carquois. Chaque fois que vous réalisez une telle attaque à distance, votre carquois remplace magiquement la munition utilisée par une munition non magique similaire. Les munitions créées par ce sort se désintègre lorsque le sort se termine. Si le carquois quitte votre possession, le sort se termine.
 
@@ -53804,7 +53515,7 @@ writing_status: finished
 ---
 De l'énergie divine irradie de vous, distordant et diffusant l'énergie magique à 30 ft. de vous. Jusqu'à ce que le sort se termine, la sphère se déplace avec vous, toujours centrée sur vous. Pendant la durée, chaque créature alliée dans la zone a l'avantage à ses jets de sauvegarde contre les sorts et autres effets magiques.
 
-De plus, lorsqu'une créature affectée réussit un jet de sauvegarde contre un sort ou un effet magique qui permet un jet de sauvegarde pour ne prendre que la moitié des dégâts, elle n'en prend aucun à la place.
+De plus, lorsqu'une créature affectée réussit un jet de sauvegarde contre un sort ou un effet magique qui permet un jet de sauvegarde pour ne subir que la moitié des dégâts, elle n'en subit aucun à la place.
 
 
 ---
@@ -53973,7 +53684,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Constriction
@@ -53981,7 +53692,7 @@ writing_status: finished
 ---
 Votre corps devient étrangement ophidien et vous frappez devant vous, essayant de saisir une créature à portée. Réalisez une attaque de sort de mêlée. Si vous touchez, vous saisissez votre cible en utilisant le membre que vous avez utilisé pour attaquer et la serrez, lui infligeant 5d10 dégâts contondants. Jusqu'à ce que le sort se termine, la créature saisie est également [[retenu|retenue]]. Pour une action bonus à chacun de vos tours suivants, tant que vous retenez la créature, vous pouvez continuer de l'écraser. La créature doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle subit 5d10 dégâts contondants supplémentaires. Si la cible échappe la saisie, le sort se termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, chaque instance de dégâts contondants augmente de 1d10 par niveau d'emplacement utilisé au-delà du niveau 5.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, chaque instance de dégâts contondants augmente de 1d10 par niveau d'emplacement utilisé au-delà du niveau 5.
 
 
 ---
@@ -54006,7 +53717,7 @@ Rituel: true
 englishname: Contact Other Plane
 writing_status: finished
 ---
-Vous contactez mentalement un demi-dieu, l'esprit d'un sage depuis longtemps disparu ou toute autre entité mystérieuse d'un autre plan. Contacter cette intelligence extraplanaire peut épuiser, voire même briser votre esprit. Lorsque vous lancez ce sort, réalisez un jet de sauvegarde d'Intelligence DD 15. Si vous échouez, vous prenez 6d6 dégâts psychiques et êtes fou jusqu'à ce que vous terminiez un repos long. Tant que vous êtes fou, vous ne pouvez pas prendre d'action, ne pouvez pas comprendre ce que les autres créatures vous disent, ne pouvez pas lire et ne pouvez parler qu'en charabia. Un sort de [[restauration supérieure]] lancé sur vous permet de terminer cet effet.
+Vous contactez mentalement un demi-dieu, l'esprit d'un sage depuis longtemps disparu ou toute autre entité mystérieuse d'un autre plan. Contacter cette intelligence extraplanaire peut épuiser, voire même briser votre esprit. Lorsque vous lancez ce sort, réalisez un jet de sauvegarde d'Intelligence DD 15. Si vous échouez, vous subissez 6d6 dégâts psychiques et êtes fou jusqu'à ce que vous terminiez un repos long. Tant que vous êtes fou, vous ne pouvez pas prendre d'action, ne pouvez pas comprendre ce que les autres créatures vous disent, ne pouvez pas lire et ne pouvez parler qu'en charabia. Un sort de [[restauration supérieure]] lancé sur vous permet de terminer cet effet.
 
 Si vous réussissez le jet, vous pouvez demander à l'entité jusqu'à cinq questions. Vous devez poser les questions avant que le sort ne se termine. Le MJ répond à chacune des questions avec un seul mot, comme "oui", "non", "peut-être", "jamais", "inapplicable", "ambigu" (si l'entité ne connaît pas la réponse à la question). Si une réponse en un seul mot serait encline au quiproquo, le MJ peut décider de fournir une phrase court comme réponse à la place.
 
@@ -54029,7 +53740,7 @@ Materiel: false
 detailmat:
 Duree: 7 Jours
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Contagion
@@ -54041,8 +53752,8 @@ Votre toucher inflige une maladie. Réalisez une attaque de sort de mêlée cont
 
 Puisque ce sort inflige une maladie naturelle à sa cible, tout effet qui permet de retirer une maladie ou d'empirer les effets d'une maladie s'applique ici.
 
- - __Maladie Aveuglante.__ Une douleur se saisit de l'esprit de la créature et ses yeux deviennent d'un blanc vitreux. La créature a le désavantage à ses jets de caractéristique et de sauvegarde de Sagesse et est [[aveuglé|aveuglée]].
- - __Sale Fièvre.__ Une fièvre brûlante s'empare du corps de la créature. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Force.
+ - **Maladie Aveuglante.** Une douleur se saisit de l'esprit de la créature et ses yeux deviennent d'un blanc vitreux. La créature a le désavantage à ses jets de caractéristique et de sauvegarde de Sagesse et est [[aveuglé|aveuglée]].
+ - **Sale Fièvre.** Une fièvre brûlante s'empare du corps de la créature. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Force.
  - **Pourrissement de la Chair.** La chair de la créature commence à nécroser. La créature a le désavantage aux jets de Charisme et est vulnérable à tous les dégâts.
  - **Brûle-Esprit.** L'esprit de la créature devient fiévreux. La créature a le désavantage aux jets de caractéristique et de sauvegarde d'Intelligence, et la créature agit comme si elle était sous l'effet du sort [[confusion]] pendant les combats.
  - **Convulsion.** La créature est prise de tremblements. La créature a le désavantage aux jets de caractéristique, d'attaque et de sauvegarde de Dextérité.
@@ -54230,9 +53941,9 @@ Rituel: false
 englishname: Cone of Cold
 writing_status: finished
 ---
-Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit réaliser un jet de sauvegarde de Constitution. Une créature prend 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.
+Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit réaliser un jet de sauvegarde de Constitution. Une créature subit 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.
 
 
 ---
@@ -54347,11 +54058,11 @@ La main est un objet avec une CA de 20, et des points de vie égaux à votre max
 
 Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours, vous pouvez bouger la main de jusqu'à 60 ft. et provoquer l'un des effets suivants.
 
-**Poing Serré.** La main frappe une créature ou un objet à 5 ft. d'elle. Réalisez une attaque de sort de mêlée avec la main en utilisant vos caractéristiques. Si ça touche, la cible prend 4d8 dégâts de force.
+**Poing Serré.** La main frappe une créature ou un objet à 5 ft. d'elle. Réalisez une attaque de sort de mêlée avec la main en utilisant vos caractéristiques. Si ça touche, la cible subit 4d8 dégâts de force.
 
 **Main Puissante.** La main essaye de pousser une créature à 5 ft. d'elle dans une direction de votre choix. Réalisez un jet de Force de la main contesté par un jet de Force (Athlétisme) de la cible. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Si vous réussissez, la main pousse la cible jusqu'à 5 ft. plus un nombre de pieds égal à 5 fois votre modificateur de sort. La main bouge avec la cible pour rester à 5 ft. d'elle.
 
-**Main Saisissante.** La main essaye de saisir une créature de taille G ou inférieure à 5 ft. d'elle. Vous utilisez le score de Force de la main pour résoudre la lutte. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Tant que la main saisit la cible, vous pouvez utiliser votre action bonus pour l'écraser. Lorsque vous le faites, la cible prend des dégâts contondants égaux à 2d6 + votre modificateur de sort.
+**Main Saisissante.** La main essaye de saisir une créature de taille G ou inférieure à 5 ft. d'elle. Vous utilisez le score de Force de la main pour résoudre la lutte. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Tant que la main saisit la cible, vous pouvez utiliser votre action bonus pour l'écraser. Lorsque vous le faites, la cible subit des dégâts contondants égaux à 2d6 + votre modificateur de sort.
 
 **Main Protectrice.** La main s'interpose entre vous et une créature que vous choisissez jusqu'à ce que vous donniez à la main un ordre différent. La main vouge pour rester entre vous et la cible, vous fournissant une couverture partielle contre la cible. La cible ne peut pas traverser l'espace de la main si son score de Force est inférieur ou égal à celui de la main. Si son score est supérieur, elle peut traverser l'espace de la main, mais c'est un terrain difficile pour elle.
 
@@ -54425,7 +54136,7 @@ Materiel: true
 detailmat: Une clé et une goutte d'encre
 Duree: Jusqu'à dissipation
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mystic Lock
@@ -54449,7 +54160,7 @@ Materiel: true
 detailmat: Un morceau de soie
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Evasiveness
@@ -54476,7 +54187,7 @@ Materiel: true
 detailmat: Une agate d'une valeur d'au moins 1000 PO, que le sort consomme
 Duree: Instantanée
 Incantation: 8 Heures
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Awaken
@@ -54573,7 +54284,7 @@ writing_status: empty
 ---
 Vous créez un mur vertical de lames tournoyantes d'énergie magique. Le mur apparaît à portée et persiste pour la durée du sort. Vous pouvez réaliser un mur droit long de 100 ft., haut de 20 ft. et épais de 5 ft., ou un mur encerclant un cercle de 60 ft. de diamètre. Le mur confère une couverture de 3/4 aux créatures derrière celui-ci, et il devient un terrain difficle.
 
-Lorsqu'une créature entre dans le mur pour la première fois pendant un tour ou y démarre son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle prend 6d10 dégâts tranchants. Si elle réussit, elle ne prend que la moitié des dégâts.
+Lorsqu'une créature entre dans le mur pour la première fois pendant un tour ou y démarre son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 6d10 dégâts tranchants. Si elle réussit, elle ne subit que la moitié des dégâts.
 
 
 ---
@@ -54591,7 +54302,7 @@ Materiel: true
 detailmat: Du gui, que le sort consomme et qui a été recueilli à l'aide d'une serpe dorée sous la lumière d'une pleine lune
 Duree: 24 Heures
 Incantation: 10 Minutes
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Druid Grove
@@ -54639,7 +54350,7 @@ Vous créez un champ de lumière argenté qui enveloppe une créature de votre c
 
  - La créature profite d'une couverture de moitié.
  - La créature est résistante aux dégâts d'acide, de froid, de feu, de foudre et de poison.
- - Si la créature est sujette à un effet qui lui autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, elle ne prend plutôt aucun dégât si elle réussit le jet et la moitié sinon.
+ - Si la créature est sujette à un effet qui lui autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, elle ne subit plutôt aucun dégât si elle réussit le jet et la moitié sinon.
 
 Pour une action bonus pendant les tours suivants, vous pouvez déplacer le champ vers une autre créature à 60 ft. du champ.
 
@@ -54702,7 +54413,7 @@ Materiel: true
 detailmat: Un corps ou une fiole de sang et un parchemin
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Blood Cartography
@@ -54735,7 +54446,7 @@ Rituel: false
 englishname: Circle of Death
 writing_status: finished
 ---
-De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. autour d'un point à portée. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Sagesse. Une cible prend 8d6 dégâts nécrotiques si elle échoue le jet et la moitié sinon.
+De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. autour d'un point à portée. Chaque créature dans la zone doit réaliser un jet de sauvegarde de Sagesse. Une cible subit 8d6 dégâts nécrotiques si elle échoue le jet et la moitié sinon.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 2d6 par niveau d'emplacement au-delà du niveau 6.
 
@@ -54794,7 +54505,7 @@ writing_status: finished
 ---
 Vous créez un éclair de foudre qui se dirige vers une cible de votre choix que vous pouvez voir à portée. Trois éclairs éruptent alors de la cible pour cibler eux-mêmes jusqu'à 3 cibles, chacune à 30 ft. de la première cible. Une cible peut être une créature ou un objet et chacune ne peut être la cible que d'un de ces éclairs.
 
-Une cible doit réaliser un jet de sauvegarde de Dextérité. La cible prend 10d8 dégâts de foudre si elle échoue, et la moitié sinon.
+Une cible doit réaliser un jet de sauvegarde de Dextérité. La cible subit 10d8 dégâts de foudre si elle échoue, et la moitié sinon.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, un rayon supplémentaire érupte de la première cible pour cibler une autre cible par niveau d'emplacement au-delà du niveau 6.
 
@@ -54815,15 +54526,15 @@ Materiel: true
 detailmat: Une patate
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcane Capacitor
 writing_status: empty
 ---
-Vous canalisez une vague d'énergie arcanique au bout de vos doigts, recyclant le surplus d'énergie en un nouvel emplacement de sort. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 5d10 dégâts de force. Que vous touchiez ou ratiez, vous regagnez un emplacement de sort dépensé de niveau 1.
+Vous canalisez une vague d'énergie arcanique au bout de vos doigts, recyclant le surplus d'énergie en un nouvel emplacement de sort. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 5d10 dégâts de force. Que vous touchiez ou ratiez, vous regagnez un emplacement de sort dépensé de niveau 1.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, vous regagnez à la place un emplacement de niveau 2. Si vous le lancez avec un emplacement de niveau 9, vous regagnez un emplacement de niveau 3.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7, vous regagnez à la place un emplacement de niveau 2. Si vous le lancez avec un emplacement de niveau 9, vous regagnez un emplacement de niveau 3.
 
 
 ---
@@ -54848,7 +54559,7 @@ Rituel: false
 englishname: Harm
 writing_status: finished
 ---
-Vous libérez une maladie virulente sur une créature que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle prend 14d6 dégâts nécrotiques, et la moitié en cas de succès. Les dégâts ne peuvent pas réduire les points de vie de la créature en dessous de 1. Si la cible échoue le jet de sauvegarde, ses points de vie maximums sont réduits du montant de dégâts infligés pendant 1 heure. N'importe quel effet qui retire une maladie retourne le maximum de points de vie à la normale avant que l'heure ne s'écoule.
+Vous libérez une maladie virulente sur une créature que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle échoue, elle subit 14d6 dégâts nécrotiques, et la moitié en cas de succès. Les dégâts ne peuvent pas réduire les points de vie de la créature en dessous de 1. Si la cible échoue le jet de sauvegarde, ses points de vie maximums sont réduits du montant de dégâts infligés pendant 1 heure. N'importe quel effet qui retire une maladie retourne le maximum de points de vie à la normale avant que l'heure ne s'écoule.
 
 
 ---
@@ -54904,11 +54615,11 @@ Rituel: false
 englishname: Gahoul's Spectral Scythe
 writing_status: empty
 ---
-Vous invoquez une faux phantasmagorique de mort dans une main libre et la faite tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque dans la zone tant que la faux bouge doit réaliser un jet de sauvegarde de Dextérité ou prendre 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.
+Vous invoquez une faux phantasmagorique de mort dans une main libre et la faite tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque créature dans la zone tant que la faux bouge doit réaliser un jet de sauvegarde de Dextérité ou subir 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.
 
 Si vous êtes à 120 ft. de la faux au début de votre prochain tour, elle vous revient en suivant une ligne large de 10 ft., forçant les créatures sur la trajectoire à réaliser un jet de sauvegarde contre les dégâts.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 6.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 6.
 
 
 ---
@@ -54936,7 +54647,7 @@ writing_status: empty
 ---
 Vous faites éclore une Très Petite fleur blanche à un point du sol que vous pouvez voir à portée. La fleur a une CA de 15, 1 point de vie, la vulnérabilité aux dégâts de feu et l'immunité aux dégâts de froid. Pendant la durée du sort, vous pouvez utiliser une action bonus pour la faire exploser en une pluie de glace. La fleur explose lorsqu'elle tombe à 0 point de vie.
 
-Lorsque la fleur explose, toute créature à 30 ft. doit réaliser un jet de sauvegarde de Dextérité. Sur un échec, la créature prend 10d8 dégâts de froid, ou la moitié en cas de réussite. La fleur fane et meurt si elle n'explose pas dans les 24 heures.
+Lorsque la fleur explose, toute créature à 30 ft. doit réaliser un jet de sauvegarde de Dextérité. Sur un échec, la créature subit 10d8 dégâts de froid, ou la moitié en cas de réussite. La fleur fane et meurt si elle n'explose pas dans les 24 heures.
 
 Si vous relancez ce sort alors qu'il est actif, vous pouvez maintenir l'existence d'une fleur pendant 24 heures supplémentaires. Vous pouvez créer une fleur permanente en lancer ce sort sur une même fleur pendant 7 jours.
 
@@ -54995,11 +54706,11 @@ writing_status: empty
 ---
 En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pour la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
 
-__Réflexes d'une Huître.__ La cible a le désavantage aux jets de Dextérité.
+**Réflexes d'une Huître.** La cible a le désavantage aux jets de Dextérité.
 
-__Vigueur en Carton.__ La cible a le désavantage aux jets de sauvegarde de Constitution et ne peut regagner de points de vie.
+**Vigueur en Carton.** La cible a le désavantage aux jets de sauvegarde de Constitution et ne peut regagner de points de vie.
 
-__Mauvaise Volonté.__ La cible a le désavantage aux jets de sauvegarde de Sagesse ainsi qu'aux jets d'attaque de sort.
+**Mauvaise Volonté.** La cible a le désavantage aux jets de sauvegarde de Sagesse ainsi qu'aux jets d'attaque de sort.
 
 Un sort de [[délivrance des malédictions]] utilisant un emplacement de sort de niveau 6 ou plus termine cette malédiction prématurément.
 
@@ -55019,7 +54730,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Elemental Curse
@@ -55055,9 +54766,9 @@ Vous éruptez jusqu'à six piliers de pierre du sol à des points que vous pouve
 
 Si le pilier est créé sous une créature, elle doit réussir un jet de sauvegarde de Dextérité ou être soulevée par le pilier.
 
-Si un pilier ne peut atteindre sa hauteur maximale à cause d'un plafond ou d'un obstacle, une créature sur le pilier prend 6d6 dégâts contondants et est [[retenu|retenue]]. La créature retenue peut utiliser son action pour réaliser un jet de Force ou Dextérité contre le DD de sauvegarde du sort. Si elle réussit, la créature n'est plus retenue et doit quitter le pilier, quitte à en tomber.
+Si un pilier ne peut atteindre sa hauteur maximale à cause d'un plafond ou d'un obstacle, une créature sur le pilier subit 6d6 dégâts contondants et est [[retenu|retenue]]. La créature retenue peut utiliser son action pour réaliser un jet de Force ou Dextérité contre le DD de sauvegarde du sort. Si elle réussit, la créature n'est plus retenue et doit quitter le pilier, quitte à en tomber.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, vous pouvez créer deux piliers supplémentaires par niveau d'emplacement au-delà du niveau 6.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, vous pouvez créer deux piliers supplémentaires par niveau d'emplacement au-delà du niveau 6.
 
 
 ---
@@ -55083,9 +54794,9 @@ Rituel: false
 englishname: Game of Fate
 writing_status: empty
 ---
-Vous forcez magiquement une créature à portée à participer à un jeu aux conséquences vitales. Si la créature que vous choisissez a une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée. Une créature non consentante peut réaliser un jet de sauvegarde de Sagesse pour résister à cet effet. En cas d'échec, la créature se sent forcée à participer à votre jeu. Si la cible prend des dégâts ou tombe [[inconscient|inconsciente]], le sort prend fin.
+Vous forcez magiquement une créature à portée à participer à un jeu aux conséquences vitales. Si la créature que vous choisissez a une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée. Une créature non consentante peut réaliser un jet de sauvegarde de Sagesse pour résister à cet effet. En cas d'échec, la créature se sent forcée à participer à votre jeu. Si la cible subit des dégâts ou tombe [[inconscient|inconsciente]], le sort prend fin.
 
-Le perdant du jeu prend 6d6 dégâts psychiques. Si aucun joueur n'a perdu ou gagné au moment de la fin du sort, les deux joueurs prennent les dégâts.
+Le perdant du jeu subit 6d6 dégâts psychiques. Si aucun joueur n'a perdu ou gagné au moment de la fin du sort, les deux joueurs prennent les dégâts.
 
 De plus, vous et la cible pouvez négocier pour augmenter l'enjeu. Vous pouvez parier plus de dégâts psychiques (jusqu'à 10d6), une propriété, ou des récompenses plus ésotériques, comme un titre de noblesse. Le sort révèle si une créature essaye de parier un bien qu'elle ne possède pas. Un pari est finalisé lorsque vous et la créature vous mettez d'accord sur un pari, le scellant par une poignée de main ou un autre geste similaire. Tout ce qui a été parié sur le jeu est téléporté vers le gagnant à la fin du jeu. Le perdant est aussi magiquement forcé à réaliser toute action promise dans le pari.
 
@@ -55207,7 +54918,7 @@ Rituel: false
 englishname: Delayed Blast Fireball
 writing_status: finished
 ---
-Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de s'attarder et de se condenser en une perle luisante sur le point choisi pendant la durée du sort. Lorsque le sort se termine, que ce soit à cause d'une rupture de la concentration ou parce que vous décidez d'y mettre fin, la perle se transforme en une explosion de flammes qui contournent les angles dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit réaliser un jet de sauvegarde de Dextérité. Une cible prend un nombre de dégâts de feu égal aux dégâts accumulés si elle échoue son jet ou la moitié en cas de réussite.
+Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de s'attarder et de se condenser en une perle luisante sur le point choisi pendant la durée du sort. Lorsque le sort se termine, que ce soit à cause d'une rupture de la concentration ou parce que vous décidez d'y mettre fin, la perle se transforme en une explosion de flammes qui contournent les angles dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit réaliser un jet de sauvegarde de Dextérité. Une cible subit un nombre de dégâts de feu égal aux dégâts accumulés si elle échoue son jet ou la moitié en cas de réussite.
 
 Les dégâts de base du sort sont de 12d6. Si à la fin de votre tour la perle n'a pas encore été détonée, les dégâts augmentent de 1d6.
 
@@ -55274,7 +54985,7 @@ Rituel: false
 englishname: Spreading Nightmare
 writing_status: finished
 ---
-Lorsque vous lancez ce sort, choisissez une créature que vous avez vue ou que vous connaissez en train de dormir à portée. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle se réveille et est [[apeuré|apeurée]] de toutes les autres créatures qu'elle peut voir. Si une autre créature la voit alors qu'elle est [[apeuré|apeurée]], l'autre créature doit réussir un jet de sauvegarde de Sagesse ou devenir [[apeuré|apeurée]]. Cette procédure se répète indéfiniment. Si une créature affectée passe 10 minutes sans voir d'autres créatures, ou si elle prend des dégâts, elle n'est plus [[apeuré|apeurée]] et ne peut plus être affectée. 
+Lorsque vous lancez ce sort, choisissez une créature que vous avez vue ou que vous connaissez en train de dormir à portée. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle se réveille et est [[apeuré|apeurée]] de toutes les autres créatures qu'elle peut voir. Si une autre créature la voit alors qu'elle est [[apeuré|apeurée]], l'autre créature doit réussir un jet de sauvegarde de Sagesse ou devenir [[apeuré|apeurée]]. Cette procédure se répète indéfiniment. Si une créature affectée passe 10 minutes sans voir d'autres créatures, ou si elle subit des dégâts, elle n'est plus [[apeuré|apeurée]] et ne peut plus être affectée. 
 
 
 ---
@@ -55298,7 +55009,7 @@ Materiel: true
 detailmat: Une tige de métal en fourchette d'une valeur d'au moins 250 po, accordée avec un plan d'existence particulier
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Plane Shift
@@ -55397,7 +55108,7 @@ Tant que vous êtes sur le Plan Éthéré, vous ne pouvez affecter et n'être af
 
 Vous ignorez tous les objets et effets qui ne sont pas sur le Plan Éthéré, ce qui vous permet de traverser les objets que vous voyez sur votre plan d'origine.
 
-Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origine, à l'emplacement que vous occupez. Si vous occupez le même emplacement qu'un objet solide ou qu'une créature lorsque cela arrive, vous êtes immédiatement déplacé à l'emplacement libre le proche que vous pouvez occuper et prenez des dégâts de force égaux au double de nombre de pieds que vous avez dû traverser.
+Lorsque le sort se termine, vous retournez immédiatement sur votre plan d'origine, à l'emplacement que vous occupez. Si vous occupez le même emplacement qu'un objet solide ou qu'une créature lorsque cela arrive, vous êtes immédiatement déplacé à l'emplacement libre le proche que vous pouvez occuper et subissez des dégâts de force égaux au double de nombre de pieds que vous avez dû traverser.
 
 Le sort n'a aucun effet si vous le lancez tant que vous êtes sur le Plan Éthéré ou sur un plan qui ne lui est pas frontalier, comme un des Plans Extérieurs.
 
@@ -55431,7 +55142,7 @@ Vous projetez vos sens dans le temps pour percevoir votre emplacement actuel tel
 
 Tant que vous percevez le passé, vous pouvez regarder dans n'importe quelle direction, mais vous ne pouvez pas vous déplacer ou parler, et n'avez aucune conscience de votre environnement présent.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez partager ce sort avec une autre créature que vous touchez. Une créature réfractaire peut réaliser un jet de sauvegarde de Sagesse pour éviter l'effet.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, vous pouvez partager ce sort avec une autre créature que vous touchez. Une créature réfractaire peut réaliser un jet de sauvegarde de Sagesse pour éviter l'effet.
 
 
 ---
@@ -55458,7 +55169,7 @@ writing_status: empty
 ---
 Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et la résistance aux dégâts contondants, perçants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
 
-Au début de chacun de vos tours, le rocher se déplace de 60 ft. dans la direction de sa cible. Si le rocher pénètre l'espace d'une créature, la créature doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle prend 6d10 dégâts contondants et, si elle est de taille G ou plus petite, est mise [[au sol]]. Si elle réussit le jet, elle prend la moitié des dégâts et n'est pas mise au sol. Le rocher écrase aussi les objets non magiques plus petits que lui sur son passage. Si le rocher atteint sa cible, il lui roule dessus et continue son mouvement sur 60 ft. Le rocher continue de poursuivre la cible pendant la durée du sort, lui roulant dessus plusieurs fois si possible.
+Au début de chacun de vos tours, le rocher se déplace de 60 ft. dans la direction de sa cible. Si le rocher pénètre l'espace d'une créature, la créature doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle subit 6d10 dégâts contondants et, si elle est de taille G ou plus petite, est mise [[au sol]]. Si elle réussit le jet, elle subit la moitié des dégâts et n'est pas mise au sol. Le rocher écrase aussi les objets non magiques plus petits que lui sur son passage. Si le rocher atteint sa cible, il lui roule dessus et continue son mouvement sur 60 ft. Le rocher continue de poursuivre la cible pendant la durée du sort, lui roulant dessus plusieurs fois si possible.
 
 Après que le sort se termine, le rocher continue de poursuivre sa cible pendant 24h. Une fois que le rocher a touché sa cible après que le sort a terminé, il disparaît.
 
@@ -55596,11 +55307,11 @@ Rituel: false
 englishname: Carnage
 writing_status: finished
 ---
-Lorsque vous lancez ce sort, vous vous téléportez de 120 ft. et réalisez une attaque armée de mêlée contre toutes les créatures à portée. Effectuez une seule attaque pour toutes les cibles. Si vous touchez une créature, elle prend 6d12 dégâts de force supplémentaires. Pendant vos prochains tours, vous pouvez utiliser votre action pour continuer votre assaut mortel. Chaque fois que vous utilisez cette action, elle a un effet différent :
+Lorsque vous lancez ce sort, vous vous téléportez de 120 ft. et réalisez une attaque armée de mêlée contre toutes les créatures à portée. Effectuez une seule attaque pour toutes les cibles. Si vous touchez une créature, elle subit 6d12 dégâts de force supplémentaires. Pendant vos prochains tours, vous pouvez utiliser votre action pour continuer votre assaut mortel. Chaque fois que vous utilisez cette action, elle a un effet différent :
 
  - **2ᵉ Utilisation.** Vous vous téléportez de jusqu'à 60 ft. et réalisez une attaque armée de mêlée contre toutes les créatures dans un cône de 20 ft. Chaque créature que vous touchez est mise [[au sol]] et subit 6d12 dégâts de force supplémentaires.
  - **3ᵉ Utilisation.** Vous vous téléportez de jusqu'à 30 ft. et réalisez une unique attaque armée de mêlée contre une créature à portée. Si la créature a plus de la moitié de ses points de vie, cette attaque inflige 6d12 dégâts de force supplémentaires. Si vous touchez, la créature est [[paralysé|paralysée]] jusqu'à la fin de votre prochain tour.
- - **4ᵉ Utilisation.** Vous vous téléportez de jusqu'à 60 ft. dans les airs et retombez, frappant le sol en un point de votre choix que vous pouvez voir à 120 ft. de votre point de départ. Vous ne subissez aucun dégât de chute, mais chaque créature à 30 ft. de vous doit réaliser un jet de sauvegarde de Constitution ou prendre 6d12 dégâts de force. Vous réalisez ensuite une attaque armée de mêlée contre une créature à portée. Si vous touchez, la cible prend 8d12 dégâts de force supplémentaires. 
+ - **4ᵉ Utilisation.** Vous vous téléportez de jusqu'à 60 ft. dans les airs et retombez, frappant le sol en un point de votre choix que vous pouvez voir à 120 ft. de votre point de départ. Vous ne subissez aucun dégât de chute, mais chaque créature à 30 ft. de vous doit réaliser un jet de sauvegarde de Constitution ou subir 6d12 dégâts de force. Vous réalisez ensuite une attaque armée de mêlée contre une créature à portée. Si vous touchez, la cible subit 8d12 dégâts de force supplémentaires. 
 
 
 ---
@@ -55662,13 +55373,13 @@ Materiel: true
 detailmat: Un diamant d'une valeur d'au moins 1000 po et au moins 20 cm3 de chair de la créature à cloner, que le sort consomme. Un récipient d'une valeur d'au moins 2000 po au couvercle scellable et suffisamment large pour contenir la créature clonée, comme une immense urne, un cercueil, un kyste dans le sol ou un contenant de cristal empli d'eau de mer
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Clone
 writing_status: finished
 ---
-Le sort fait _pousser_ une copie inerte d'une créature vivante comme moyen de prévention de la mort. Ce clone se crée à l'intérieur du récipient utilisant dans l'incantation du sort et atteint sa taille et sa maturité finale après 120 jours ; vous pouvez également choisir de faire du clone une version plus jeune de la même créature. Il reste inerte indéfiniment, tant que le récipient reste intact.
+Le sort fait *pousser* une copie inerte d'une créature vivante comme moyen de prévention de la mort. Ce clone se crée à l'intérieur du récipient utilisant dans l'incantation du sort et atteint sa taille et sa maturité finale après 120 jours ; vous pouvez également choisir de faire du clone une version plus jeune de la même créature. Il reste inerte indéfiniment, tant que le récipient reste intact.
 
 À n'importe quel moment après que le clone a atteint sa maturité finale, si la créature originale meurt, son âme se transfère dans le clone, en supposant que l'âme soit libre et consentante à revenir. Le clone est physiquement identique à l'original et a la même personnalité, ainsi que ses souvenirs et ses compétences. Aucun équipement n'est cependant transféré. Le corps de la créature originale persiste, s'il existe, et devient inerte et ne peut être ramené à la vie, puisque l'âme de la créature est ailleurs.
 
@@ -55787,7 +55498,7 @@ writing_status: empty
 ---
 Vous créez un feu magique qui emplit dix cubes de 5 ft. de côté, que vous arrangez comme vous le souhaitez à portée. Chaque cube que vous placez doit avoir une face en commun avec un autre cube. A chacun de vos tours après avoir lancé ce sort, vous pouvez utiliser une action bonus pour étendre la zone de feu de jusqu'à 10 cubes de feu suivant les même règles. Le feu endommage les objets dans la zone et met le feu aux objets inflammables qui ne sont ni portés ni maniés.
 
-Lorsqu'une créature entre dans la zone de feu pour la première fois ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle prend 8d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.
+Lorsqu'une créature entre dans la zone de feu pour la première fois ou y commence son tour, elle doit réaliser un jet de sauvegarde de Dextérité. Elle subit 8d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 
 
 ---
@@ -55814,7 +55525,7 @@ Portee: 150 ft.(30 ft.)
 englishname: Abi-Dalzim's Horrid Wilting
 writing_status: empty
 ---
-Vous absorbez l'humidité de toutes les créatures dans un cube de 30 ft. centré sur un point de votre choix dans la portée. Chacune de ces créatures doit réaliser un jet de sauvegarde de Constitution. Les constructions et les morts-vivants ne sont pas concernés, et les plantes et les élémentaires d'eau réalisent ce jet avec désavantage. Une créature prend 12d8 dégâts nécrotiques en cas d'échec, et la moitié en cas de succès.
+Vous absorbez l'humidité de toutes les créatures dans un cube de 30 ft. centré sur un point de votre choix dans la portée. Chacune de ces créatures doit réaliser un jet de sauvegarde de Constitution. Les constructions et les morts-vivants ne sont pas concernés, et les plantes et les élémentaires d'eau réalisent ce jet avec désavantage. Une créature subit 12d8 dégâts nécrotiques en cas d'échec, et la moitié en cas de succès.
 
 Les plantes non magiques de la zone concernée qui ne sont pas des créatures, comme des arbres et des buissons, pourrissent et meurent instantanément. 
 
@@ -55932,7 +55643,7 @@ writing_status: finished
 tags:
  - chronomancie
 ---
-Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous prenez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.
+Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous subissez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.
 
 Le sort se termine si l'une de vos actions effectuées pendant cette période ou l'un de vos effets créés pendant cette période affecte une créature autre que vous ou un objet porté ou manié par un individu autre que vous. De plus, le sort se termine lorsque vous vous déplacez vers un endroit à plus de 1 000 ft. de là où vous avez lancé le sort.
 
@@ -55959,7 +55670,7 @@ Rituel: false
 englishname: Shapechange
 writing_status: finished
 ---
-Vous prenez la forme d'une créature différente pendant la durée du sort. La nouvelle forme peut être celle d'une créature d'un FD égal ou inférieur à votre niveau. La créature ne peut être une Construction ou un Mort-Vivant, et vous devez déjà en avoir vu un individu au moins une fois. Vous vous transformez en un exemplaire _moyen_ de l'individu, un sans aucun niveau de classe ou de trait d'Incantation.
+Vous prenez la forme d'une créature différente pendant la durée du sort. La nouvelle forme peut être celle d'une créature d'un FD égal ou inférieur à votre niveau. La créature ne peut être une Construction ou un Mort-Vivant, et vous devez déjà en avoir vu un individu au moins une fois. Vous vous transformez en un exemplaire *moyen* de l'individu, un sans aucun niveau de classe ou de trait d'Incantation.
 
 Vos statistiques en jeu sont remplacées par celles de la créature, même si vous conservez votre alignement, votre Intelligence, votre Sagesse et votre Charisme. Vous conservez également toutes vos maîtrises de compétence et de jet de sauvegarde, en plus d'obtenir ceux de la créature. Si la créature a une maîtrise identique à vous et que le bonus listé dans ses statistiques est supérieur au vôtre, vous utilisez le bonus de la créature à la place. Vous ne pouvez pas utiliser d'action légendaire ni d'action de repaire lorsque vous êtes dans cette nouvelle forme.
 
@@ -56026,7 +55737,7 @@ Rituel: false
 englishname: Blade of Disaster
 writing_status: empty
 ---
-Vous créez une faille planaire en forme de lame longue d'environ 1 mètre dans un espace inoccupé que vous pouvez voir à portée. La lame persiste pour la durée du sort. Lorsque vous lancez le sort, vous pouvez réaliser jusqu'à deux attaques de sort de mêlée avec la lame, chacune contre une créature, un objet ou une structure à moins de 5 ft. de la lame. Si l'attaque touche, la cible prend 4d12 dégâts de force. L'attaque est critique si le nombre sur le d20 est un 18 ou supérieur. Sur un coup critique, la lame inflige 8d12 dégâts de force supplémentaire (pour 12d12 dégâts totaux).
+Vous créez une faille planaire en forme de lame longue d'environ 1 mètre dans un espace inoccupé que vous pouvez voir à portée. La lame persiste pour la durée du sort. Lorsque vous lancez le sort, vous pouvez réaliser jusqu'à deux attaques de sort de mêlée avec la lame, chacune contre une créature, un objet ou une structure à moins de 5 ft. de la lame. Si l'attaque touche, la cible subit 4d12 dégâts de force. L'attaque est critique si le nombre sur le d20 est un 18 ou supérieur. Sur un coup critique, la lame inflige 8d12 dégâts de force supplémentaire (pour 12d12 dégâts totaux).
 
 Pour une action bonus pendant votre tour, vous pouvez déplacer la lame de jusqu'à 30 ft. vers un espace inoccupé que vous pouvez voir et réaliser deux attaques de sort de mêlée à nouveau.
 
@@ -56048,7 +55759,7 @@ Materiel: false
 detailmat:
 Duree: Jusqu'à dissipation
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Identity Curse
@@ -56209,7 +55920,7 @@ Materiel: true
 detailmat: Un crâne
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Animate Skull
@@ -56242,7 +55953,7 @@ Rituel: false
 englishname: Force Weapon
 writing_status: empty
 ---
-Vous invoquez une lame d'énergie magique dans les airs qui se déchaîne sur vos ennemis. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 1d10 dégâts de force. La lame persiste pour un court temps, jusqu'au début de votre prochain tour, vous pouvez réaliser un coup avec cette lame mystique comme attaque d'opportunité.
+Vous invoquez une lame d'énergie magique dans les airs qui se déchaîne sur vos ennemis. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts de force. La lame persiste pour un court temps, jusqu'au début de votre prochain tour, vous pouvez réaliser un coup avec cette lame mystique comme attaque d'opportunité.
 
 Vous pouvez réaliser une attaque supplémentaire pendant votre tour lorsque vous atteignez le niveau 5 (2 attaques), 11 (3 attaques) ou 17 (4 attaques).
 
@@ -56272,7 +55983,7 @@ Rituel: false
 englishname: Acid Splash
 writing_status: finished
 ---
-Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir dans la portée. Si vous en choisissez deux, elles doivent être à 5 ft. l'une de l'autre. Une cible doit réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts d'acide.
+Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir dans la portée. Si vous en choisissez deux, elles doivent être à 5 ft. l'une de l'autre. Une cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts d'acide.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6), et le niveau 17 (4d6). 
 
@@ -56326,7 +56037,7 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Guidance
@@ -56386,7 +56097,7 @@ Rituel: false
 englishname: Poison Spray
 writing_status: empty
 ---
-Vous étendez votre main en direction d'une créature que vous pouvez voir à portée et projetez un nuage de gaz toxique depuis votre paume. La créature doit réussir un jet de sauvegarde de Constitution ou prendre 1d12 dégâts de poison.
+Vous étendez votre main en direction d'une créature que vous pouvez voir à portée et projetez un nuage de gaz toxique depuis votre paume. La créature doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts de poison.
 
 Les dégâts de ce sort augmentent de 1d12 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -56478,7 +56189,7 @@ Rituel: false
 englishname: Scorch
 writing_status: finished
 ---
-Vous claquez des doigts, essayant de mettre feu à un objet libre à portée. Si vous ciblez un objet inflammable, l'objet s'embrase immédiatement. Choisissez jusqu'à deux créatures à 5 ft. de l'objet. Chacune doit réaliser un jet de sauvegarde de Dextérité. Si une créature échoue, elle prend 1d8 dégâts de feu.
+Vous claquez des doigts, essayant de mettre feu à un objet libre à portée. Si vous ciblez un objet inflammable, l'objet s'embrase immédiatement. Choisissez jusqu'à deux créatures à 5 ft. de l'objet. Chacune doit réaliser un jet de sauvegarde de Dextérité. Si une créature échoue, elle subit 1d8 dégâts de feu.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).
 
@@ -56509,7 +56220,7 @@ Rituel: false
 englishname: Chill Touch
 writing_status: empty
 ---
-mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.
+mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.
 
 Si vous touchez une créature morte-vivante, elle a aussi le désavantage aux jets d'attaque contre vous jusqu'à la fin de votre prochain tour.
 
@@ -56570,7 +56281,7 @@ Rituel: false
 englishname: Encode Thoughts
 writing_status: empty
 ---
-Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé _brin de pensée_ qui persiste pour la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
+Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé *brin de pensée* qui persiste pour la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
 
 Si vous lancez ce sort pendant que vous vous concentrez sur un sort ou une aptitude qui vous permet de lire ou manipuler les pensées des autres (comme [[Détection des Pensées]] ou [[Modification de Mémoire]]), vous pouvez transformer la mémoire que vous détectez en brin de pensée plutôt.
 
@@ -56669,7 +56380,7 @@ Rituel: false
 englishname: Thunderclap
 writing_status: empty
 ---
-Vous créez un éclat de son tonitruant qui peut être entendu jusqu'à 100 ft. Chaque créature à portée autre que vous doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts de tonnerre.
+Vous créez un éclat de son tonitruant qui peut être entendu jusqu'à 100 ft. Chaque créature à portée autre que vous doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -56696,7 +56407,7 @@ Rituel: false
 englishname: Magic Daggers
 writing_status: empty
 ---
-D'un geste élégant, vous conjurez une dague de force magique et la projetez de votre poignet vers une cible à portée que vous pouvez voir. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible prend 1d6 dégâts de force. La dague disparaît après l'attaque.
+D'un geste élégant, vous conjurez une dague de force magique et la projetez de votre poignet vers une cible à portée que vous pouvez voir. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible subit 1d6 dégâts de force. La dague disparaît après l'attaque.
 
 A plus haut niveau, vous conjurez plus de dagues et pouvez réaliser plus d'attaques : deux dagues au niveau 5, trois dagues au niveau 11 et quatre dagues au niveau 17. Vous pouvez utilisez les dagues pour attaquer la même ou plusieurs cibles. Réalisez un jet d'attaque séparé pour chaque dague.
 
@@ -56723,7 +56434,7 @@ Rituel: false
 englishname: Thunderous Distortion
 writing_status: empty
 ---
-Vous produisez une vague de bruit distordu dans un cône de 10 ft., qui peut être entendu jusqu'à 100 ft. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts de tonnerre.
+Vous produisez une vague de bruit distordu dans un cône de 10 ft., qui peut être entendu jusqu'à 100 ft. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.
 
 Un écho de ce bruit persiste jusqu'à la fin de votre prochain tour. Si vous relancez ce sort avant la fin de votre prochain tour, les dégâts deviennent des d8s au lieu des d6s.
 
@@ -56814,7 +56525,7 @@ Rituel: false
 englishname: Eldritch Blast
 writing_status: empty
 ---
-Un rayon d'énergie fond sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d10 dégâts de force.
+Un rayon d'énergie fond sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts de force.
 
 Le sort crée plus de rayons lorsque vous atteignez certains niveaux : 2 au niveau 5, 3 au niveau 11 et 4 au niveau 17. Vous pouvez diriger les rayons vers une seule cible ou plusieurs. Réalisez un jet d'attaque différent pour chaque cible.
 
@@ -56846,7 +56557,7 @@ Rituel: false
 englishname: Create Bonfire
 writing_status: empty
 ---
-Vous créez un feu de camp au sol à un emplacement que vous pouvez voir à portée. Jusqu'à ce que le sort ne termine, le feu magique remplit un cube de 5 ft. de côté. Toute créature qui se trouve dans l'espace du feu lorsque vous lancez ce sort doit réussir un jet de sauvegarde de Dextérité ou prendre 1d8 dégâts de feu. Une créature doit également réaliser ce jet si elle se déplace dans l'espace du feu pour la première fois pendant son tour ou si elle y termine son tour.
+Vous créez un feu de camp au sol à un emplacement que vous pouvez voir à portée. Jusqu'à ce que le sort ne termine, le feu magique remplit un cube de 5 ft. de côté. Toute créature qui se trouve dans l'espace du feu lorsque vous lancez ce sort doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts de feu. Une créature doit également réaliser ce jet si elle se déplace dans l'espace du feu pour la première fois pendant son tour ou si elle y termine son tour.
 
 Le feu enflamme les objets inflammables dans sa zone qui ne sont pas portés.
 
@@ -56879,7 +56590,7 @@ Rituel: false
 englishname: Lightning Surge
 writing_status: empty
 ---
-Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de foudre.
+Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de foudre.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), 11 (3d6) et 17 (3d6).
 
@@ -56907,7 +56618,7 @@ Rituel: false
 englishname: Candy Blast
 writing_status: empty
 ---
-Vous invoquez une poignée de bonbons durs et les jetez vers une cible que vous pouvez voir à portée. Réalisez une attaque de sort à distance. Si vous touchez, la cible prend 1d8 dégâts contondants et son espace devient du terrain difficile jusqu'à ce qu'une créature n'utilise son action pour récupérer les bonbons au sol. Les bonbons créés par ce sort sont comestibles mais n'ont aucune valeur nutritionnelle.
+Vous invoquez une poignée de bonbons durs et les jetez vers une cible que vous pouvez voir à portée. Réalisez une attaque de sort à distance. Si vous touchez, la cible subit 1d8 dégâts contondants et son espace devient du terrain difficile jusqu'à ce qu'une créature n'utilise son action pour récupérer les bonbons au sol. Les bonbons créés par ce sort sont comestibles mais n'ont aucune valeur nutritionnelle.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57006,7 +56717,7 @@ Rituel: false
 englishname: Lightning Lure
 writing_status: empty
 ---
-Vous créez un rayon d'énergie de foudre qui frappe une créature de votre choix que vous pouvez voir à 15 ft. de vous. La cible doit réussir un jet de sauvegarde de Force ou être attirée de jusqu'à 10 ft. vers vous en ligne droite puis prendre 1d8 dégâts de foudre si elle se trouve à 5 ft. de vous.
+Vous créez un rayon d'énergie de foudre qui frappe une créature de votre choix que vous pouvez voir à 15 ft. de vous. La cible doit réussir un jet de sauvegarde de Force ou être attirée de jusqu'à 10 ft. vers vous en ligne droite puis subir 1d8 dégâts de foudre si elle se trouve à 5 ft. de vous.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57032,7 +56743,7 @@ Rituel: false
 englishname: Sacred Flame
 writing_status: empty
 ---
-Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou prendre 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.
+Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57062,7 +56773,7 @@ writing_status: empty
 ---
 Une flamme tremblante apparaît dans votre main. La flamme reste là pour la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
 
-Vous pouvez également attaquer avec la flamme, mais le faire termine le sort. Lorsque vous lancez ce sort, ou pour une action plus tard, vous pouvez lancer la flamme sur une créature à 30 ft. Réalisez une attaque de sort à distance. Si vous touchez, la cible prend 1d8 dégâts de feu.
+Vous pouvez également attaquer avec la flamme, mais le faire termine le sort. Lorsque vous lancez ce sort, ou pour une action plus tard, vous pouvez lancer la flamme sur une créature à 30 ft. Réalisez une attaque de sort à distance. Si vous touchez, la cible subit 1d8 dégâts de feu.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57116,7 +56827,7 @@ Rituel: false
 englishname: Thorn Whip
 writing_status: empty
 ---
-Vous créez un long fouet ressemblant à une liane couvert d'épines qui s'abat à votre commande sur une créature à portée. Réalisez une attaque de sort de mêlée contre la cible. Si l'attaque touche, la créature prend 1d6 dégâts perçants et si la créature est Grande ou plus petite, vous l'attirez de 10 ft. vers vous.
+Vous créez un long fouet ressemblant à une liane couvert d'épines qui s'abat à votre commande sur une créature à portée. Réalisez une attaque de sort de mêlée contre la cible. Si l'attaque touche, la créature subit 1d6 dégâts perçants et si la créature est Grande ou plus petite, vous l'attirez de 10 ft. vers vous.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57148,7 +56859,7 @@ Rituel: false
 englishname: Frostbite
 writing_status: empty
 ---
-Vous provoquez des gelures sur une créature que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle rate, elle prend 1d6 dégâts de froid et a le désavantage au prochain jet d'attaque armée qu'elle réalise avant la fin de son prochain tour.
+Vous provoquez des gelures sur une créature que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle rate, elle subit 1d6 dégâts de froid et a le désavantage au prochain jet d'attaque armée qu'elle réalise avant la fin de son prochain tour.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57179,7 +56890,7 @@ Rituel: false
 englishname: Toll the Dead
 writing_status: empty
 ---
-Vous pointez une créature que vous pouvez voir à portée, et le son d'une cloche funeste remplit l'aire autour d'elle pour un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou prendre 1d8 dégâts nécrotiques. S'il manque des points de vie à la cible, elle prend plutôt 1d12 dégâts nécrotiques.
+Vous pointez une créature que vous pouvez voir à portée, et le son d'une cloche funeste remplit l'aire autour d'elle pour un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou subir 1d8 dégâts nécrotiques. S'il manque des points de vie à la cible, elle subit plutôt 1d12 dégâts nécrotiques.
 
 Les dégâts de ce sort augmentent d'un dé lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57198,7 +56909,7 @@ Materiel: true
 detailmat: Du gui, un trèfle, et un gourdin ou un bâton
 Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Shillelagh
@@ -57224,7 +56935,7 @@ Materiel: true
 detailmat: Une goutte de peinture
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Tag
@@ -57289,7 +57000,7 @@ Rituel: false
 englishname: Sonic Pulse
 writing_status: empty
 ---
-Vous compressez une explosion bruyante en une balle invisible et la projetez vers une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 1d8 dégâts de tonnerre et être [[assourdi|assourdie]] jusqu'au début de votre prochain tour.
+Vous compressez une explosion bruyante en une balle invisible et la projetez vers une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d8 dégâts de tonnerre et être [[assourdi|assourdie]] jusqu'au début de votre prochain tour.
 
 Si la cible du sort se trouve à 10 ft. de vous, les dégâts deviennent des d10s au lieu de d8s.
 
@@ -57323,7 +57034,7 @@ Rituel: false
 englishname: Infestation
 writing_status: empty
 ---
-Vous faites apparaître momentanément un nuage de mites, de puces et de parasites en tout genre sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts de poison et se déplacer de 5 ft. dans une direction aléatoire si elle peut se déplacer et que sa vitesse est d'au moins 5 ft. Ce mouvement ne provoque pas d'attaque d'opportunité.
+Vous faites apparaître momentanément un nuage de mites, de puces et de parasites en tout genre sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de poison et se déplacer de 5 ft. dans une direction aléatoire si elle peut se déplacer et que sa vitesse est d'au moins 5 ft. Ce mouvement ne provoque pas d'attaque d'opportunité.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57353,7 +57064,7 @@ Rituel: false
 englishname: Green-Flame Blade
 writing_status: empty
 ---
-Vous brandissez l'arme que vous avez utilisée pendant l'incantation du sort et réalisez une attaque de mêlée avec contre une créature à 5 ft. Si vous touchez, la cible subit les effets normaux de l'attaque, et vous pouvez faire en sorte que des flammes vertes se propagent de la cible vers une autre créature de votre choix que vous pouvez voir à 5 ft. La seconde créature prend des dégâts de feu égal à votre modificateur de caractéristique d'incantation.
+Vous brandissez l'arme que vous avez utilisée pendant l'incantation du sort et réalisez une attaque de mêlée avec contre une créature à 5 ft. Si vous touchez, la cible subit les effets normaux de l'attaque, et vous pouvez faire en sorte que des flammes vertes se propagent de la cible vers une autre créature de votre choix que vous pouvez voir à 5 ft. La seconde créature subit des dégâts de feu égal à votre modificateur de caractéristique d'incantation.
 
 Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au niveau 5, l'attaque de mêlée inflige 1d8 dégâts de feu supplémentaires lorsque vous touchez, et les dégâts de feu de la seconde créature augmentent de 1d8. Ces dégâts augmentent à nouveau aux niveaux 11 et 17.
 
@@ -57464,9 +57175,9 @@ Rituel: false
 englishname: Booming Blade
 writing_status: empty
 ---
-Vous brandissez l'arme utilisée lors de l'incantation et réalisez une attaque de mêlée contre une créature à 5 ft. Si vous touchez, la cible souffre des effets normaux de l'arme et se retrouve enveloppée d'énergie jusqu'au début de votre prochain tour. Si la cible se déplace volontairement de 5 ft. ou plus avant cela, elle prend 1d8 dégâts de tonnerre et le sort se termine.
+Vous brandissez l'arme utilisée lors de l'incantation et réalisez une attaque de mêlée contre une créature à 5 ft. Si vous touchez, la cible souffre des effets normaux de l'arme et se retrouve enveloppée d'énergie jusqu'au début de votre prochain tour. Si la cible se déplace volontairement de 5 ft. ou plus avant cela, elle subit 1d8 dégâts de tonnerre et le sort se termine.
 
-Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au niveau 5, l'attaque de mêlée inflige 1d8 dégâts de tonnerre supplémentaire à la cible, et les dégâts que la cible prend si elle se déplace passent à 2d88. Ces deux jets de dégâts augmentent à nouveau d'1d8 au niveaux 11 (2d3/3d8) et 17 (3d8/4d8).
+Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au niveau 5, l'attaque de mêlée inflige 1d8 dégâts de tonnerre supplémentaire à la cible, et les dégâts que la cible subit si elle se déplace passent à 2d88. Ces deux jets de dégâts augmentent à nouveau d'1d8 au niveaux 11 (2d3/3d8) et 17 (3d8/4d8).
 
 
 ---
@@ -57517,7 +57228,7 @@ Materiel: true
 detailmat: Une luciole ou de la mousse phosphorescente
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché (20 ft.)
+Portee: Contact (20 ft.)
 Concentration: false
 Rituel: false
 englishname: Light
@@ -57644,7 +57355,7 @@ Rituel: false
 englishname: Vicious Mockery
 writing_status: empty
 ---
-Vous vous déchaînez dans une série d'insultes subtilement enchevêtrées d'enchantements vers une créature que vous pouvez voir à portée. Si la cible peut vous entendre, elle doit réussir un jet de sauvegarde de Sagesse ou prendre 1d4 dégâts psychiques et avoir le désavantage à son prochain jet d'attaque qu'elle réalise avant la fin de son prochain tour.
+Vous vous déchaînez dans une série d'insultes subtilement enchevêtrées d'enchantements vers une créature que vous pouvez voir à portée. Si la cible peut vous entendre, elle doit réussir un jet de sauvegarde de Sagesse ou subir 1d4 dégâts psychiques et avoir le désavantage à son prochain jet d'attaque qu'elle réalise avant la fin de son prochain tour.
 
 Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57670,7 +57381,7 @@ Rituel: false
 englishname: Word of Radiance
 writing_status: empty
 ---
-Vous prononcez un mot divin, et une radiance brûlante s'abat sur vous. Chaque créature de votre choix que vous pouvez voir à portée doit réussir un jet de sauvegarde de Constitution ou prendre 1d6 dégâts radiants.
+Vous prononcez un mot divin, et une radiance brûlante s'abat sur vous. Chaque créature de votre choix que vous pouvez voir à portée doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts radiants.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57698,7 +57409,7 @@ Rituel: false
 englishname: Eldritch Orb
 writing_status: empty
 ---
-Vous lancez une boule d'énergie occulte à une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d8 dégâts de force et toute créature à 5 ft. doit réussir un jet de sauvegarde de Dextérité ou prendre la moitié des dégâts.
+Vous lancez une boule d'énergie occulte à une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts de force et toute créature à 5 ft. doit réussir un jet de sauvegarde de Dextérité ou subir la moitié des dégâts.
 
 Les dégâts de ce sort augmentent lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
@@ -57777,13 +57488,13 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Magic Stone
 writing_status: empty
 ---
-Vous touchez de un à trois cailloux et les infusez d'énergie magique. Vous ou quelqu'un d'autre peut réaliser une attaque de sort à distance avec un de ces cailloux en le lançant à la main ou avec une fronde. S'il est lancé, le caillou a une portée de 60 ft. Si quelqu'un d'autre attaque avec le caillou, l'attaquant ajoute votre modificateur de caractéristique d'incantation à son jet d'attaque plutôt que le sien. Si l'attaque touche, la cible prend 1d6 + votre modificateur de caractéristique d'incantation dégâts contondants. Que vous touchiez ou non, le sort se termine sur la pierre.
+Vous touchez de un à trois cailloux et les infusez d'énergie magique. Vous ou quelqu'un d'autre peut réaliser une attaque de sort à distance avec un de ces cailloux en le lançant à la main ou avec une fronde. S'il est lancé, le caillou a une portée de 60 ft. Si quelqu'un d'autre attaque avec le caillou, l'attaquant ajoute votre modificateur de caractéristique d'incantation à son jet d'attaque plutôt que le sien. Si l'attaque touche, la cible subit 1d6 + votre modificateur de caractéristique d'incantation dégâts contondants. Que vous touchiez ou non, le sort se termine sur la pierre.
 
 Si vous lancez ce sort à nouveau, le sort se termine prématurément sur tous les cailloux encore affectés.
 
@@ -57813,7 +57524,7 @@ Rituel: false
 englishname: Mind Sliver
 writing_status: empty
 ---
-Vous dirigez un pic désorientant d'énergie psychique dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde d'Intelligence ou prendre 1d6 dégâts psychiques et soustraire 1d4 du prochain jet de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
+Vous dirigez un pic désorientant d'énergie psychique dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde d'Intelligence ou subir 1d6 dégâts psychiques et soustraire 1d4 du prochain jet de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57837,13 +57548,13 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Shocking Grasp
 writing_status: empty
 ---
-Des éclairs bondissent de votre main pour délivrer un choc à une créature que vous essayez de toucher. Réalisez une attaque de sort de mêlée contre la cible. Vous avez l'avantage si la cible porte une armure faite de métal. Si vous touchez, la cible prend 1d8 dégâts de foudre et ne peut pas prendre de réactions jusqu'au début de votre prochain tour.
+Des éclairs bondissent de votre main pour délivrer un choc à une créature que vous essayez de toucher. Réalisez une attaque de sort de mêlée contre la cible. Vous avez l'avantage si la cible porte une armure faite de métal. Si vous touchez, la cible subit 1d8 dégâts de foudre et ne peut pas prendre de réactions jusqu'au début de votre prochain tour.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57942,7 +57653,7 @@ Rituel: false
 englishname: Ray of Frost
 writing_status: empty
 ---
-Un rayon frigorifique rayonnant d'une lumière bleu-blanche est propulsé vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, elle prend 1d8 dégâts de froid et sa vitesse est réduite de 10 ft. jusqu'au début de votre prochain tour.
+Un rayon frigorifique rayonnant d'une lumière bleu-blanche est propulsé vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, elle subit 1d8 dégâts de froid et sa vitesse est réduite de 10 ft. jusqu'au début de votre prochain tour.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -57969,7 +57680,7 @@ Materiel: true
 detailmat: Deux pierres de magnétite
 Duree: Instantanée
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mending
@@ -57998,7 +57709,7 @@ Materiel: true
 detailmat: Une cape miniature
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Resistance
@@ -58029,7 +57740,7 @@ Rituel: false
 englishname: Primal Savagery
 writing_status: empty
 ---
-Vous canalisez la magie primale afin d'aiguiser vos dents ou ongles et vous tenir prêt à délivrer une attaque corrosive. Réalisez une attaque de sort de mêlée contre une créature à 5 ft. Si vous touchez, elle prend 1d10 dégâts d'acide. Après que vous avez réalisé l'attaque, vos dents et ongles reviennent à la normale.
+Vous canalisez la magie primale afin d'aiguiser vos dents ou ongles et vous tenir prêt à délivrer une attaque corrosive. Réalisez une attaque de sort de mêlée contre une créature à 5 ft. Si vous touchez, elle subit 1d10 dégâts d'acide. Après que vous avez réalisé l'attaque, vos dents et ongles reviennent à la normale.
 
 Les dégâts de ce sort augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -58051,7 +57762,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Spare the Dying
@@ -58206,7 +57917,7 @@ Rituel: false
 englishname: Fire Bolt
 writing_status: empty
 ---
-Vous lancez un bout de feu sur une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d10 dégâts de feu. Un objet inflammable qui n'est pas porté s'embrase s'il est touché.
+Vous lancez un bout de feu sur une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts de feu. Un objet inflammable qui n'est pas porté s'embrase s'il est touché.
 
 Les dégâts de ce sort augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -58265,7 +57976,7 @@ Rituel: false
 englishname: Minor Life Steal
 writing_status: empty
 ---
-Vous volez l'énergie d'une créature hostile que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 1d4 dégâts nécrotiques. Vous gagnez un nombre de points de vie temporaires égal aux dégâts que vous avez infligez, qui persiste jusqu'à votre prochain repos long. Ce sort n'a aucun effet sur les Morts-Vivants ou les Constructions.
+Vous volez l'énergie d'une créature hostile que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d4 dégâts nécrotiques. Vous gagnez un nombre de points de vie temporaires égal aux dégâts que vous avez infligez, qui persiste jusqu'à votre prochain repos long. Ce sort n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
 Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4), 11 (3d4) et 17 (4d4).
 
@@ -58295,7 +58006,7 @@ Rituel: false
 englishname: Sword Burst
 writing_status: empty
 ---
-Vous créez un cercle temporaire de lames spectrales autour de vous. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts de force.
+Vous créez un cercle temporaire de lames spectrales autour de vous. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de force.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -58348,7 +58059,7 @@ Rituel: false
 englishname: Flesh Ripper
 writing_status: empty
 ---
-Au moment où vous lancez ce sort, un crochet à viande spectral et une chaîne sont lancés vers une créature de votre choix. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible prend 1d8 dégâts perçants alors que le crochet pénètre son corps. Jusqu'au début de votre prochain tour, la cible doit réussir un jet de sauvegarde de Force pour se déplacer à plus de 30 ft. de vous. Sur un échec, elle ne peut plus se déplacer jusqu'au début de votre tour. Cet effet se termine si vous êtes à plus de 30 ft. de la cible.
+Au moment où vous lancez ce sort, un crochet à viande spectral et une chaîne sont lancés vers une créature de votre choix. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible subit 1d8 dégâts perçants alors que le crochet pénètre son corps. Jusqu'au début de votre prochain tour, la cible doit réussir un jet de sauvegarde de Force pour se déplacer à plus de 30 ft. de vous. Sur un échec, elle ne peut plus se déplacer jusqu'au début de votre tour. Cet effet se termine si vous êtes à plus de 30 ft. de la cible.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
@@ -58376,7 +58087,7 @@ Rituel: false
 englishname: Eye of Anubis
 writing_status: empty
 ---
-Un rayon de lumière lunaire et sombre s'échappe de votre œil gauche vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas utiliser son action pour se désengager avant la fin de votre prochain tour.
+Un rayon de lumière lunaire et sombre s'échappe de votre œil gauche vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas utiliser son action pour se désengager avant la fin de votre prochain tour.
 
 Ce sort crée des rayons supplémentaires et inflige plus de dégâts lorsque vous atteignez certains niveaux. Au niveau 5, vous tirez un rayon supplémentaire de votre œil droit. Les dégâts de votre premier rayon augmentent de 1d8 (2d8) lorsque vous atteignez le niveau 11 et ceux de votre second rayon augmentent de 1d8 (2d8) lorsque vous atteignez le niveau 17.
 
@@ -58401,7 +58112,7 @@ Rituel: false
 englishname: Eye of Ra
 writing_status: empty
 ---
-Un rayon radiant surgit de votre œil droit vers une créature que vous pouvez voir à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible prend 1d8 dégâts radiants et ne peut utiliser son action pour se Cacher jusqu'à la fin de votre prochain tour.
+Un rayon radiant surgit de votre œil droit vers une créature que vous pouvez voir à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts radiants et ne peut utiliser son action pour se Cacher jusqu'à la fin de votre prochain tour.
 
 Ce sort crée des rayons supplémentaires et inflige plus de dégâts lorsque vous atteignez certains niveaux. Au niveau 5, vous tirez un rayon supplémentaire de votre œil gauche. Les dégâts de votre premier rayon augmentent de 1d8 (2d8) lorsque vous atteignez le niveau 11 et ceux de votre second rayon augmentent de 1d8 (2d8) lorsque vous atteignez le niveau 17.
 
@@ -65687,7 +65398,7 @@ writing_status: empty
 
 ---
 
-## Fichier : `..\..\docs\sorts\Tempête de Grêle.md`
+## Fichier : `..\..\docs\sorts\Tempête de Glace.md`
 
 ---
 available: []
@@ -65702,7 +65413,7 @@ Incantation:
 Portee:
 Concentration:
 Rituel:
-englishname:
+englishname: Ice Storm
 writing_status: empty
 ---
 
@@ -67240,7 +66951,7 @@ spells: "true"
 | Hunter's Mark | [[Marque du Chasseur]] |
 | Hypnotic Pattern | [[Trame Hypnotique]] |
 | Ice Knife | [[Couteau de Glace]] |
-| Ice Storm | [[Tempête de Grêle]] |
+| Ice Storm | [[Tempête de Glace]] |
 | Identify | [[Identification]] |
 | Illusory Dragon | [[Dragon Illusoire]] |
 | Illusory Script | [[Écriture Illusoire]] |
@@ -67767,7 +67478,7 @@ spells: "true"
 | Sanctify Ground | [[Terres Sacrées]] |
 | Rune of Fortification | [[Rune Fortifiante]] |
 | Mana Shackle | [[Menottes de Mana]] |
-| Ward of Energy Absorption | [[Défense Magique]] |
+| Ward of Energy Absorption | [[Protection d'Absorption]] |
 | Resolve's Mantle of Spell Resistance | [[Protection Calculée]] |
 | Enchanter's Lockdown | [[Confinement de l'Enchanteur]] |
 | Warding Gust | [[Bourrasque Défensive]] |
@@ -67777,7 +67488,7 @@ spells: "true"
 | Mystic Lock | [[Verrou Mystique]] |
 | Temporal Potion Heaven | [[Refuge Temporel]] |
 | Dragon Claw | [[Griffe Draconique]] |
-| Sleet Storm | [[Tempête de neige]] |
+| Sleet Storm | [[5e/docs/sorts/03/Tempête de Grêle]] |
 | Gahoul's Shrieking Skull | [[Crâne Hurlant de Gahoul]] |
 
 

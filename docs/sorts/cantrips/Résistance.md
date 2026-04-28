@@ -12,7 +12,7 @@ Materiel: true
 detailmat: Une cape miniature
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Resistance

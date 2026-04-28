@@ -11,7 +11,7 @@ Materiel: true
 detailmat: Un morceau de cuir
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mage Armor

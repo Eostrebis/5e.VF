@@ -9,7 +9,7 @@ Materiel: false
 detailmat:
 Duree: Jusqu'à dissipation
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Identity Curse

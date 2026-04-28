@@ -12,7 +12,7 @@ Materiel: true
 detailmat: Une douille utilisée
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Jethro's Instant Reload

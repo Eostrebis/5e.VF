@@ -10,7 +10,7 @@ Materiel: false
 detailmat:
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mana Shackle

@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Un brin de gui
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Goodberry

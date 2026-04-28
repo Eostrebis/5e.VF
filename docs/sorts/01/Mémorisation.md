@@ -13,7 +13,7 @@ Materiel: true
 detailmat: Une page écrite et un bout de ficelle d'argent valant 10 PO, que le sort consomme
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Memorize

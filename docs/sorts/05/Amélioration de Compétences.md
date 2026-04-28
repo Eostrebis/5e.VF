@@ -13,7 +13,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Skill Empowerment

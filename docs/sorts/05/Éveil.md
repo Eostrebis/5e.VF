@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Une agate d'une valeur d'au moins 1000 PO, que le sort consomme
 Duree: Instantanée
 Incantation: 8 Heures
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Awaken

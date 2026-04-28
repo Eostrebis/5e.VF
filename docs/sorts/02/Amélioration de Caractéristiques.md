@@ -15,7 +15,7 @@ Materiel: true
 detailmat: De la fourrure ou la plume d'une bête
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Enhance Ability

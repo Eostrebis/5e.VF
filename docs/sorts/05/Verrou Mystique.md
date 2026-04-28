@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Une clé et une goutte d'encre
 Duree: Jusqu'à dissipation
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mystic Lock

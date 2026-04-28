@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Un projectile physique pesant moins de 500 g
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Time's Arrow

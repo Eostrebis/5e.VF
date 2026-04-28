@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Une poignée d'écorce de chêne
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Barkskin

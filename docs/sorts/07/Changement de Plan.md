@@ -15,7 +15,7 @@ Materiel: true
 detailmat: Une tige de métal en fourchette d'une valeur d'au moins 250 po, accordée avec un plan d'existence particulier
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Plane Shift

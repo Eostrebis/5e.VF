@@ -9,7 +9,7 @@ Materiel: true
 detailmat: Du gui, un trèfle, et un gourdin ou un bâton
 Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Shillelagh

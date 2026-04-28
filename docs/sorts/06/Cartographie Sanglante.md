@@ -15,7 +15,7 @@ Materiel: true
 detailmat: Un corps ou une fiole de sang et un parchemin
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Blood Cartography

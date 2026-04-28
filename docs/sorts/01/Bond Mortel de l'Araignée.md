@@ -10,7 +10,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Réaction
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Falling Spider's Spite

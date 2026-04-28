@@ -13,7 +13,7 @@ Materiel: true
 detailmat: Une paire de brassards
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Polybrachia

@@ -12,7 +12,7 @@ Materiel: false
 detailmat:
 Duree: 7 Jours
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Contagion

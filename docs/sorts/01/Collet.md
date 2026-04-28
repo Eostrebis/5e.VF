@@ -10,7 +10,7 @@ Materiel: true
 detailmat: 25 ft. de corde, que le sort consomme
 Duree: 8 Heures
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Snare

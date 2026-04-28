@@ -13,7 +13,7 @@ Materiel: true
 detailmat: Une pincée de poudre de diamant d'une valeur d'au moins 25 po saupoudrée sur la cible, que le sort consomme
 Duree: 8 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Nondetection

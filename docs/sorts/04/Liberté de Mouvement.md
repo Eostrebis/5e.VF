@@ -13,7 +13,7 @@ Materiel: true
 detailmat: Un bandeau de cuir, entouré autour du bras ou d'un autre membre
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Freedom of Movement

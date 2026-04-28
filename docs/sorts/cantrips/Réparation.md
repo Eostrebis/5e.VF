@@ -16,7 +16,7 @@ Materiel: true
 detailmat: Deux pierres de magnétite
 Duree: Instantanée
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mending

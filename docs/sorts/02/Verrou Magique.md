@@ -11,7 +11,7 @@ Materiel: true
 detailmat: 25 PO de poussière d'or, que le sort consomme
 Duree: Jusqu'à dissipation
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcane Lock

@@ -15,7 +15,7 @@ Materiel: true
 detailmat: Une luciole ou de la mousse phosphorescente
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché (20 ft.)
+Portee: Contact (20 ft.)
 Concentration: false
 Rituel: false
 englishname: Light

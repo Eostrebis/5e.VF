@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Un petit carré de soie
 Duree: 24 Heures
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Nystul's Magic Aura

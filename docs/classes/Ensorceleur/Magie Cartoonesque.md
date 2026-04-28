@@ -26,7 +26,7 @@ Lorsque vous apprenez des sorts d'ensorceleur de niveau 2 ou plus, vous lancez 1
 
 ## Membres Loufoques
 
-Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos bras et vos jambes bien au-delà de leur longueur habituelle, vous permettant d'interagir avec des objets distants ou des créatures ainsi que de lancer des sorts avec la portée `Touché` sur une portée de 10 ft. De plus, vos attaques de mêlée ont la propriété [[Propriétés d'Arme#Portée|Portée]] et vous pouvez ignorer la propriété [[Propriétés d'Arme#Lourd|Lourd]] des armes.
+Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos bras et vos jambes bien au-delà de leur longueur habituelle, vous permettant d'interagir avec des objets distants ou des créatures ainsi que de lancer des sorts avec la portée Contact sur une portée de 10 ft. De plus, vos attaques de mêlée ont la propriété [[Propriétés d'Arme#Portée|Portée]] et vous pouvez ignorer la propriété [[Propriétés d'Arme#Lourd|Lourd]] des armes.
 
 ## Timing Comique
 

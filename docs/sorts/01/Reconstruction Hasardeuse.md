@@ -12,7 +12,7 @@ Materiel: true
 detailmat: Une épingle et un fil
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Flawed Reconstruction

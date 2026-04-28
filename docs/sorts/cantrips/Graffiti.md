@@ -11,7 +11,7 @@ Materiel: true
 detailmat: Une goutte de peinture
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Tag

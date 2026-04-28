@@ -15,7 +15,7 @@ Materiel: true
 detailmat: Un crâne
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Animate Skull

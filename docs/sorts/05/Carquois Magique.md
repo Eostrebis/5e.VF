@@ -9,7 +9,7 @@ Materiel: true
 detailmat: Un carquois contenant au moins une munition
 Duree: 1 Minute
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Swift Quiver

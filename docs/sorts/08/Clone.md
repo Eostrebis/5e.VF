@@ -10,7 +10,7 @@ Materiel: true
 detailmat: Un diamant d'une valeur d'au moins 1000 po et au moins 20 cm3 de chair de la créature à cloner, que le sort consomme. Un récipient d'une valeur d'au moins 2000 po au couvercle scellable et suffisamment large pour contenir la créature clonée, comme une immense urne, un cercueil, un kyste dans le sol ou un contenant de cristal empli d'eau de mer
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Clone

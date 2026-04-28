@@ -12,7 +12,7 @@ Materiel: true
 detailmat: Les cils d'une nymphe, d'une valeur d'au moins 100 PO
 Duree: 10 Jours
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Dire Charm

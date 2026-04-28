@@ -9,7 +9,7 @@ Materiel: true
 detailmat: Du gui, que le sort consomme et qui a été recueilli à l'aide d'une serpe dorée sous la lumière d'une pleine lune
 Duree: 24 Heures
 Incantation: 10 Minutes
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Druid Grove

@@ -12,7 +12,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Benign Dismemberment

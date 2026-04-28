@@ -12,7 +12,7 @@ Materiel: true
 detailmat: 25 PO de poussière d'argent, que le sort consomme
 Duree: Instantanée
 Incantation: 1 Heure
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Ceremony

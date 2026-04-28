@@ -11,7 +11,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Holy Weapon

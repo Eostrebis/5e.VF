@@ -9,7 +9,7 @@ Materiel: true
 detailmat: Une pantoufle de verre valant au moins 100 PO
 Duree: Spéciale
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Mandy's Marvelous Dress
