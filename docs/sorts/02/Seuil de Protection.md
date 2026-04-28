@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Sorcière
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Sorcière
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Abjuration
 Verbal: true

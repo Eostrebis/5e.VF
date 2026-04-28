@@ -21,9 +21,9 @@ Concentration: false
 Rituel: false
 reaction: Quand vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
 englishname: Absorb Elements
-writing_status: completed
+writing_status: finished
 ---
-Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous avez la résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type correspondant, et le sort se termine.
+Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous obtenez une résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type correspondant, et le sort se termine.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts supplémentaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -33,9 +33,9 @@ Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur v
 
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -50,7 +50,7 @@ Rituel: false
 englishname: Accelerate/Decelerate
 writing_status: empty
 tags:
-  - chronomancie
+ - chronomancie
 ---
 Ce sort accélère ou ralentit une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. est touchée par une attaque.
 
@@ -81,7 +81,7 @@ Rituel: false
 englishname: Accursed Act
 writing_status: empty
 ---
-Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation  dégâts psychiques une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
+Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation dégâts psychiques une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous infligez 1d8 dégâts psychiques supplémentaires pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -172,7 +172,7 @@ Rituel: false
 englishname: Animal Friendship
 writing_status: empty
 ---
-Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir à portée. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Sinon, la bête doit réussir un jet de sauvegarde de Sagesse, ou être [[charmé|charmée]] par vous pour la durée du sort. Si vous ou l'un de vos compagnons blessez la bête, le sort se termine.
+Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir à portée. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Sinon, la bête doit réussir un jet de sauvegarde de Sagesse, ou être [[charmé|charmée]] par vous pendant la durée du sort. Si vous ou l'un de vos compagnons blessez la bête, le sort se termine.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort avec un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une bête supplémentaire par niveau de l'emplacement au-delà du niveau 1.
 
@@ -288,7 +288,7 @@ Rituel: false
 englishname: Armor of Agathys
 writing_status: empty
 ---
-Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pour la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature subit 5 dégâts de froid.
+Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pendant la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature subit 5 dégâts de froid.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les points de vie temporaires et les dégâts de froid augmentent de 5 par niveau.
 
@@ -510,7 +510,7 @@ Rituel: false
 englishname: Mystic Barrier of Drum
 writing_status: empty
 ---
-Vous créez une barrière sonore autour d'une créature que vous pouvez voir à portée. Cette créature gagne un bonus de +2 à la CA pour la durée du sort.
+Vous créez une barrière sonore autour d'une créature que vous pouvez voir à portée. Cette créature gagne un bonus de +2 à la CA pendant la durée du sort.
 
 ---
 
@@ -562,7 +562,7 @@ Rituel: false
 englishname: Falling Spider's Spite
 writing_status: finished
 ---
-Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre portée, vous pouvez instantanément bondir vers la créature et réaliser une unique attaque armée de mêlée. Si vous touchez, la vitesse de la cible est réduite de 10 ft. jusqu'à la fin de son prochain tour et elle doit réussir un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
+Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre allonge, vous pouvez instantanément bondir vers la créature et réaliser une unique attaque armée de mêlée. Si vous touchez, la vitesse de la cible est réduite de 10 ft. jusqu'à la fin de son prochain tour et elle doit réussir un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
 
 
 ---
@@ -757,7 +757,7 @@ Rituel: false
 englishname: Fog Cloud
 writing_status: empty
 ---
-Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point à portée. La sphère se propage autour des coins et sa zone est fortement dissimulée. Elle persiste pour la durée du sort ou jusqu'à ce qu'un vent de vitesse modérée ou grande (au moins 20 km/heure) la disperse.
+Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point à portée. La sphère se propage autour des coins et sa zone est fortement dissimulée. Elle persiste pendant la durée du sort ou jusqu'à ce qu'un vent de vitesse modérée ou grande (au moins 20 km/heure) la disperse.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le rayon de la sphère de brouillard augmente de 20 ft. par niveau d'emplacement au-delà du niveau 1.
 
@@ -1270,7 +1270,7 @@ Rituel: true
 englishname: Floating Disk
 writing_status: empty
 ---
-Ce sort crée un plan de force horizontal et circulaire de 3 ft. de diamètre et épais de quelques centimètres qui flotte 3 ft. au-dessus du sol d'un espace inoccupé de votre choix que vous pouvez voir à portée. Le disque persiste pour la durée du sort, et peut soutenir jusqu'à 250 kg. Si un poids supérieur est placé sur le disque, le sort se termine et tout ce qui se trouve sur le disque tombe au sol.
+Ce sort crée un plan de force horizontal et circulaire de 3 ft. de diamètre et épais de quelques centimètres qui flotte 3 ft. au-dessus du sol d'un espace inoccupé de votre choix que vous pouvez voir à portée. Le disque persiste pendant la durée du sort, et peut soutenir jusqu'à 250 kg. Si un poids supérieur est placé sur le disque, le sort se termine et tout ce qui se trouve sur le disque tombe au sol.
 
 Le disque est immobile tant que vous vous trouvez à 20 ft. de celui-ci. Si vous vous déplacez à plus de 20 ft., le disque vous suit afin de rester à 20 ft. Il peut se déplacer sur du terrain inégal, monter et descendre des escaliers ou des pentes, mais ne peut pas traverser un changement d'élévation de 10 ft. ou plus. Par exemple, le disque ne peut pas traverser un trou profond de 10 ft., et ne peut pas quitter un tel trou s'il y est créé.
 
@@ -1696,9 +1696,9 @@ Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un j
 
 ---
 available:
-  - Barde
-  - Magicien
-  - Sorcière
+ - Barde
+ - Magicien
+ - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -1713,7 +1713,7 @@ Rituel: false
 englishname: Hideous Laughter
 writing_status: empty
 ---
-Une créature de votre choix que vous pouvez voir à portée se met à percevoir tout ce qui l'entoure comme hilarant et tombe dans un fou rire incontrôlable si elle se trouve affectée par le sort. La cible doit réussir un jet de sauvegarde de Sagesse ou tomber [[au sol]], devenant [[incapacité|incapacitée]] et ne pouvant se relever pour la durée du sort. Une créature avec un score d'Intelligence de 4 ou moins n'est pas affectée par ce sort.
+Une créature de votre choix que vous pouvez voir à portée se met à percevoir tout ce qui l'entoure comme hilarant et tombe dans un fou rire incontrôlable si elle se trouve affectée par le sort. La cible doit réussir un jet de sauvegarde de Sagesse ou tomber [[au sol]], devenant [[incapacité|incapacitée]] et ne pouvant se relever pendant la durée du sort. Une créature avec un score d'Intelligence de 4 ou moins n'est pas affectée par ce sort.
 
 À la fin de chacun de ses tours, et à chaque fois qu'elle subit des dégâts, la cible peut retenter le jet de sauvegarde. Si le jet est causé par des dégâts, la cible a l'avantage.
 
@@ -1824,7 +1824,7 @@ Rituel: false
 englishname: Grease
 writing_status: empty
 ---
-De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pour la durée du sort.
+De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pendant la durée du sort.
 
 Lorsque la graisse apparaît, toute créature qui se trouve dans la zone doit réussir un jet de sauvegarde de Dextérité ou être [[au sol]]. Une créature qui rentre dans la zone ou y termine son tour doit également effectuer ce jet.
 
@@ -2073,9 +2073,9 @@ Chaque segment a une CA de 10 et 60 points de vie. Réduire un segment à 0 poin
 
 ---
 available:
-  - Druide
-  - Ensorceleur
-  - Magicien
+ - Druide
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -2228,7 +2228,7 @@ Rituel: false
 englishname: Curse of Chains
 writing_status: empty
 ---
-Une marque sombre ressemblant à des chaînes en fer apparaît sur deux créatures que vous pouvez voir. Choisissez deux créature que vous pouvez voir à portée, et à 30 ft. l'une de l'autre. Elles doivent effectuer un jet de sauvegarde de Constitution. Si une créature échoue, elle est maudite pour la durée du sort. Si une seule des deux créatures est maudite, vous pouvez utiliser votre action ou action bonus un tour prochain pour choisir une autre cible à 30 ft. de la première qui doit aussi effectuer un jet de sauvegarde. Tant que deux créatures sont maudites par ce sort, elles ne peuvent pas s'éloigner volontairement l'une de l'autre.
+Une marque sombre ressemblant à des chaînes en fer apparaît sur deux créatures que vous pouvez voir. Choisissez deux créature que vous pouvez voir à portée, et à 30 ft. l'une de l'autre. Elles doivent effectuer un jet de sauvegarde de Constitution. Si une créature échoue, elle est maudite pendant la durée du sort. Si une seule des deux créatures est maudite, vous pouvez utiliser votre action ou action bonus un tour prochain pour choisir une autre cible à 30 ft. de la première qui doit aussi effectuer un jet de sauvegarde. Tant que deux créatures sont maudites par ce sort, elles ne peuvent pas s'éloigner volontairement l'une de l'autre.
 
 Un sort de [[délivrance des malédictions]] dissipe cette malédiction.
 
@@ -2258,7 +2258,7 @@ Rituel: false
 englishname: Hollowing Curse
 writing_status: empty
 ---
-Des vrilles de brume noir s'étendent du bout de vos doigts, s'accrochant à une créature et drainant sa vitalité. Choisissez une créature que vous pouvez voir à portée, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 2d6 dégâts nécrotiques et est maudite pour la durée du sort. Si elle réussit, elle ne subit que la moitié des dégâts et n'est pas maudite. Tant que la cible est maudite, vous pouvez utiliser votre action pour lui infliger 1d6 dégâts automatiquement. La malédiction se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a la couverture totale vis-à-vis de vous. Une [[délivrance des malédictions]] termine également cette malédiction.
+Des vrilles de brume noir s'étendent du bout de vos doigts, s'accrochant à une créature et drainant sa vitalité. Choisissez une créature que vous pouvez voir à portée, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 2d6 dégâts nécrotiques et est maudite pendant la durée du sort. Si elle réussit, elle ne subit que la moitié des dégâts et n'est pas maudite. Tant que la cible est maudite, vous pouvez utiliser votre action pour lui infliger 1d6 dégâts automatiquement. La malédiction se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a la couverture totale vis-à-vis de vous. Une [[délivrance des malédictions]] termine également cette malédiction.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts initiaux et secondaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -2756,7 +2756,7 @@ Rituel: false
 englishname: Rune of Fortification
 writing_status: empty
 ---
-Vous inscrivez sur une porte ou un coffre une rune magique. Cette rune confère à l'objet 50 points de vie temporaires pour la durée du sort.
+Vous inscrivez sur une porte ou un coffre une rune magique. Cette rune confère à l'objet 50 points de vie temporaires pendant la durée du sort.
 
 ---
 
@@ -3054,16 +3054,16 @@ writing_status: empty
 ---
 Vous projetez une masse ondulante et tremblante d'énergie chaotique sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 + 1d6 dégâts. Choisissez l'un des d8s. Le résultat de ce d8 détermine le type de dégâts de l'attaque.
 
-| d8  | Type de Dégâts |
+| d8 | Type de Dégâts |
 | :-: | -------------- |
-|  1  | Acide          |
-|  2  | Froid          |
-|  3  | Feu            |
-|  4  | Force          |
-|  5  | Foudre         |
-|  6  | Poison         |
-|  7  | Psychique      |
-|  8  | Tonnerre       |
+| 1 | Acide |
+| 2 | Froid |
+| 3 | Feu |
+| 4 | Force |
+| 5 | Foudre |
+| 6 | Poison |
+| 7 | Psychique |
+| 8 | Tonnerre |
 
 Si vous obtenez le même nombre sur les deux d8s, l'énergie chaotique saute de la cible vers une autre créature de votre choix à 30 ft. de celle-ci. Réalisez une nouvelle attaque de sort à distance contre la nouvelle cible et relancez les dégâts, permettant à l'énergie de re-sauter.
 
@@ -3098,7 +3098,7 @@ writing_status: empty
 ---
 Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne subissez pas de dégâts supplémentaires des dégâts critiques.
 
-De plus, votre corps s'adapte aux menaces en se déformant. Immédiatement après avoir subi des dégâts tant que ce sort est actif, vous pouvez utiliser votre réaction pour gagner la résistance à ce type de dégâts jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez ce sort à nouveau pour changer la résistance obtenue. Cette résistance ne s'applique pas aux dégâts qui provoquent la réaction.
+De plus, votre corps s'adapte aux menaces en se déformant. Immédiatement après avoir subi des dégâts tant que ce sort est actif, vous pouvez utiliser votre réaction pour obtenir une résistance à ce type de dégâts jusqu'à la fin du sort ou jusqu'à ce que vous utilisiez ce sort à nouveau pour changer une résistance obtenue. Cette résistance ne s'applique pas aux dégâts qui provoquent la réaction.
 
 
 ---
@@ -3125,7 +3125,7 @@ Rituel: false
 englishname: Enlarge/Reduce
 writing_status: empty
 ---
-Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pour la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut effectuer un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
+Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pendant la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut effectuer un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
 
 Si la cible est une créature, tout ce qu'elle porte change de taille avec elle. Un objet lâché par une créature affectée par le sort revient à sa taille normale.
 
@@ -3160,7 +3160,7 @@ Rituel: false
 englishname: Aid
 writing_status: empty
 ---
-Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de point de vie et les points de vie actuels de chaque cible augmentent de 5 pour la durée du sort.
+Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de point de vie et les points de vie actuels de chaque cible augmentent de 5 pendant la durée du sort.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, les points de vie de la cible augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 2.
 
@@ -3193,7 +3193,7 @@ Ciblez une créature consentante que vous pouvez voir à portée qui possède un
  - La cible peut utiliser son action bonus pour Foncer.
  - La cible peut réaliser du vol stationnaire.
  - La cible a l'avantage aux jets de Dextérité (Acrobatie).
- - La cible ne provoque pas d'attaques d'opportunité lorsqu'elle sort de la portée d'un ennemi en volant.
+ - La cible ne provoque pas d'attaques d'opportunité lorsqu'elle sort de l'allonge d'un ennemi en volant.
 
 
 ---
@@ -3348,7 +3348,7 @@ Rituel: false
 englishname: Spiritual Weapon
 writing_status: finished
 ---
-Vous créez à portée une arme spectrale flottante qui persiste pour la durée du sort ou jusqu'à ce que vous le relanciez.
+Vous créez à portée une arme spectrale flottante qui persiste pendant la durée du sort ou jusqu'à ce que vous le relanciez.
 
 Lorsque vous lancez ce sort, vous pouvez réaliser une attaque de sort de mêlée contre une créature à 5 ft. de l'arme. Si l'attaque touche, la cible subit 1d8 + votre modificateur de caractéristique d'incantation dégâts de force.
 
@@ -3533,7 +3533,7 @@ writing_status: empty
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son propos. La cible peut être une créature consentante ou un objet qui n'est pas porté par une autre créature.
 
-Lorsque vous lancez ce sort, choisissez un ou les deux de ces effets suivant. L'effet dure pour la durée du sort. Si vous lancer le sort sur la même cible pendant 30 jours et choisissant le même effet à chaque fois, l'illusion dure jusqu'à ce qu'elle soit dissipée.
+Lorsque vous lancez ce sort, choisissez un ou les deux de ces effets suivant. L'effet dure pendant la durée du sort. Si vous lancer le sort sur la même cible pendant 30 jours et choisissant le même effet à chaque fois, l'illusion dure jusqu'à ce qu'elle soit dissipée.
 
 **Aura Falsifiée.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques, comme [[Détection de la Magie]], qui détectent les auras magiques. Vous pouvez faire apparaître un objet non magique comme magique, un objet magique comme non magique, ou changer l'aura magique d'un objet pour qu'il apparaisse comme appartenant à une certaine école que vous choisissez. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse magie apparente à toute créature utilisant l'objet.
 
@@ -3564,7 +3564,7 @@ writing_status: empty
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son sujet. La cible peut être une créature consentante ou un objet qui n'est ni porté ni manié par une autre créature.
 
-Lorsque vous lancez ce sort, choisissez un ou les deux effets suivants. Ces effets persistent pour la durée du sort. Si vous lancez le sort sur une même créature ou un même objet pendant 30 jours en plaçant le même effet à chaque fois, l'illusion persiste jusqu'à ce qu'elle soit dissipée.
+Lorsque vous lancez ce sort, choisissez un ou les deux effets suivants. Ces effets persistent pendant la durée du sort. Si vous lancez le sort sur une même créature ou un même objet pendant 30 jours en plaçant le même effet à chaque fois, l'illusion persiste jusqu'à ce qu'elle soit dissipée.
 
 **Fausse Aura.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques, comme [[Détection de la Magie]], qui détectent les auras magiques. Vous pouvez faire en sorte qu'un objet non magique apparaisse magique, qu'un objet magique apparaisse non magique, ou changer l'aura magique e l'objet pour qu'il semble appartenir à une autre école de votre choix. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse magie apparente à toute créature qui manipule l'objet.
 
@@ -3913,7 +3913,7 @@ Rituel: false
 englishname: Blindness/Deafness
 writing_status: empty
 ---
-Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[aveuglé|aveuglée]] ou [[assourdi|assourdie]] (votre choix) pour la durée du sort. À la fin de chacun de ses tours, la cible peut effectuer un nouveau jet de sauvegarde de Constitution.
+Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[aveuglé|aveuglée]] ou [[assourdi|assourdie]] (votre choix) pendant la durée du sort. À la fin de chacun de ses tours, la cible peut effectuer un nouveau jet de sauvegarde de Constitution.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement de sort au-delà du niveau 2.
 
@@ -3999,7 +3999,7 @@ Rituel: false
 englishname: Detect Thoughts
 writing_status: empty
 ---
-Pour la durée du sort, vous pouvez lire les pensées de certaines créatures. Lorsque vous incantez le sort et lors de votre action à chaque tour jusqu'à la fin du sort, vous pouvez concentrer votre esprit sur une créature que vous pouvez voir à 30 ft. ou moins de vous. Si la créature choisie possède une Intelligence de 3 ou moins, ou si elle ne parle aucun langage, la créature n'est pas affectée. 
+pendant la durée du sort, vous pouvez lire les pensées de certaines créatures. Lorsque vous incantez le sort et lors de votre action à chaque tour jusqu'à la fin du sort, vous pouvez concentrer votre esprit sur une créature que vous pouvez voir à 30 ft. ou moins de vous. Si la créature choisie possède une Intelligence de 3 ou moins, ou si elle ne parle aucun langage, la créature n'est pas affectée. 
 
 Vous lisez d'abord les pensées superficielles de la créature, ce qui occupe son esprit à cet instant. Pour une action, vous pouvez diriger votre attention sur les pensées d'une autre créature ou tenter d'approfondir votre lecture des pensées de la même créature. Si vous approfondissez votre lecture, la cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, vous obtenez l'accès à son raisonnement (le cas échéant), à son état émotif et à une pensée qui préoccupe son esprit sur un spectre plus large comme un souci, un amour ou une haine. En cas de réussite, le sort prend fin. Dans tous les cas, la cible est consciente que son esprit est sous votre regard. À moins que vous ne dirigiez votre attention sur les pensées d'une autre créature, la cible peut utiliser son action à son tour pour faire un jet d'Intelligence contre votre jet d'Intelligence. Si elle gagne l'opposition, le sort prend fin. 
 
@@ -4007,7 +4007,7 @@ Les questions dirigées verbalement vers la cible orientent le fil de ses pensé
 
 Vous pouvez aussi employer ce sort pour détecter la présence de créatures pensantes qui vous sont invisibles. Lorsque vous lancez ce sort ou lors d'une action pendant la durée du sort, vous pouvez chercher des pensées à 30 ft. de vous. Le sort peut outrepasser la plupart des obstacles mais il est bloqué par 60 cm de pierre, 5 cm de métal ordinaire, ou une mince feuille de plomb. Vous ne pouvez pas détecter une créature possédant une Intelligence de 3 ou moins ou ne parlant aucun langage. 
 
-Après avoir détecté la présence d'une créature de cette manière, vous pouvez lire ses pensées pour le reste de la durée du sort comme décrit ci-dessus, même si vous ne pouvez plus la voir, mais à condition qu'elle reste dans la portée du sort.
+Après avoir détecté la présence d'une créature de cette manière, vous pouvez lire ses pensées pendant le reste de la durée du sort comme décrit ci-dessus, même si vous ne pouvez plus la voir, mais à condition qu'elle reste dans la portée du sort.
 
 ---
 
@@ -4089,7 +4089,7 @@ Rituel: false
 englishname: Blur
 writing_status: empty
 ---
-Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous voir. Pour la durée du sort, toutes les créatures ont le désavantage aux jets d'attaques contre vous. Un attaquant est immunisé à cet effet s'il ne repose pas sur la vue, comme avec vision aveugle, ou peut voir à travers les illusions, comme avec vision totale.
+Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous voir. pendant la durée du sort, toutes les créatures ont le désavantage aux jets d'attaques contre vous. Un attaquant est immunisé à cet effet s'il ne repose pas sur la vue, comme avec vision aveugle, ou peut voir à travers les illusions, comme avec vision totale.
 
 
 ---
@@ -4098,8 +4098,8 @@ Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous
 
 ---
 available:
-  - Magicien
-  - Nécromancien
+ - Magicien
+ - Nécromancien
 level: 2
 school: Évocation
 Verbal: true
@@ -4352,7 +4352,7 @@ Rituel: false
 englishname: Stone Bones
 writing_status: empty
 ---
-Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant la résistance aux dégâts contondants, perçants et tranchants non magiques jusqu'à la fin de votre prochain tour.
+Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant une résistance aux dégâts contondants, perçants et tranchants non magiques jusqu'à la fin de votre prochain tour.
 
 
 ---
@@ -4467,7 +4467,7 @@ Rituel: false
 englishname: Curse Ward
 writing_status: empty
 ---
-Vous étendez votre main et touchez une créature consentante à portée, invoquant une barrière de fumée autour d'elle. Pendant la durée du sort, la cible a la résistance aux dégâts nécrotiques et ne peut être maudite, possédée ou ciblée par un [[maléfices|maléfice]]. De plus, son maximum de points de vie ne peut être réduit. Si la cible est déjà affectée par l'un de ces effets, l'effet est suspendu jusqu'à ce que le sort se termine.
+Vous étendez votre main et touchez une créature consentante à portée, invoquant une barrière de fumée autour d'elle. Pendant la durée du sort, la cible obtient une résistance aux dégâts nécrotiques et ne peut être maudite, possédée ou ciblée par un [[maléfices|maléfice]]. De plus, son maximum de points de vie ne peut être réduit. Si la cible est déjà affectée par l'un de ces effets, l'effet est suspendu jusqu'à ce que le sort se termine.
 
 
 ---
@@ -4496,7 +4496,7 @@ writing_status: finished
 tags:
  - renaissance
 ---
-Une arme à distance que vous touchez devient enchantée pour se recharger automatiquement. Si l'arme a la propriété Chargement ou Rechargement, vous pouvez l'ignorer pour la durée du sort. Lorsque les munitions de l'arme sont vides, des munitions se téléportent de votre personne à l'arme ou votre main, suivant ce qui est le plus approprié. Si l'arme demande une action ou plus pour se recharger, elle se recharge à la fin de vos tours.
+Une arme à distance que vous touchez devient enchantée pour se recharger automatiquement. Si l'arme a la propriété Chargement ou Rechargement, vous pouvez l'ignorer pendant la durée du sort. Lorsque les munitions de l'arme sont vides, des munitions se téléportent de votre personne à l'arme ou votre main, suivant ce qui est le plus approprié. Si l'arme demande une action ou plus pour se recharger, elle se recharge à la fin de vos tours.
 
 Si vous ne portez pas assez de munitions pour que l'arme se recharge, le sort se termine.
 
@@ -4551,7 +4551,7 @@ Rituel: false
 englishname: Gust of Wind
 writing_status: empty
 ---
-Une ligne de vent fort longue de 60 ft. et large de 10 ft. apparaît devant vous dans la direction de votre choix et persiste pour la durée du sort. Chaque créature qui commence son tour dans la ligne doit réussir un jet de sauvegarde de Force ou être repoussée de 15 ft. en suivant la ligne.
+Une ligne de vent fort longue de 60 ft. et large de 10 ft. apparaît devant vous dans la direction de votre choix et persiste pendant la durée du sort. Chaque créature qui commence son tour dans la ligne doit réussir un jet de sauvegarde de Force ou être repoussée de 15 ft. en suivant la ligne.
 
 Toute créature dans la ligne doit dépenser le double de mouvement pour se rapprocher de vous.
 
@@ -4591,11 +4591,11 @@ Vous touchez une bête consentante. Pendant la durée du sort, vous pouvez utili
 
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Sorcière
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Sorcière
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Abjuration
 Verbal: true
@@ -4637,7 +4637,7 @@ Rituel: false
 englishname: Petal Storm
 writing_status: empty
 ---
-Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaît dans le cube et persiste pour la durée du sort. Le nuage obscurcit fortement la zone.
+Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaît dans le cube et persiste pendant la durée du sort. Le nuage obscurcit fortement la zone.
 
 Toute créature qui entre dans la tempête pour la première fois pendant son tour ou y commence son tour doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 3d4 dégâts tranchants. Pour une action bonus, vous pouvez déplacer la tempête jusqu'à 30 ft. dans n'importe quelle direction. La première fois que la zone de la tempête contient des feuilles mortes, des fleurs, des buissons ou des arbres, elle les absorbe et les dégâts augmentent de 2d4.
 
@@ -4667,7 +4667,7 @@ Rituel: false
 englishname: Arcane Lock
 writing_status: empty
 ---
-Vous touchez une porte, une fenêtre, un coffre ou tout autre mécanisme fermé, et il devient verrouillé pour la durée du sort. Vous et les créatures que vous désignez lorsque vous lancer ce sort peuvent ouvrir l'objet normalement. Vous pouvez aussi mettre en place un mot de passe qui, lorsqu'il est prononcé à moins de 5 ft. de l'objet, étouffe le sort pour 1 minute. Sinon, il est impassable jusqu'à ce qu'il soit cassé ou que le sort soit dissipé ou étouffé. Lancer [[Toc-Toc]] sur l'objet étouffe le sort [[Verrou Magique]] pendant 10 minutes.
+Vous touchez une porte, une fenêtre, un coffre ou tout autre mécanisme fermé, et il devient verrouillé pendant la durée du sort. Vous et les créatures que vous désignez lorsque vous lancer ce sort peuvent ouvrir l'objet normalement. Vous pouvez aussi mettre en place un mot de passe qui, lorsqu'il est prononcé à moins de 5 ft. de l'objet, étouffe le sort pendant 1 minute. Sinon, il est impassable jusqu'à ce qu'il soit cassé ou que le sort soit dissipé ou étouffé. Lancer [[Toc-Toc]] sur l'objet étouffe le sort [[Verrou Magique]] pendant 10 minutes.
 
 Lorsqu'un objet est affecté par le sort, l'objet est plus difficile a cassé ou a forcé; son DC pour le casser ou pour le crocheter est augmenté de 10.
 
@@ -5015,7 +5015,7 @@ Rituel: false
 englishname: Eldritch Barrier
 writing_status: finished
 ---
-Lorsque vous lancez ce sort, vous vous protégez des énergies contre-nature. Vous avez l'avantage aux jets de sauvegarde contre les états [[charmé]] et [[apeuré]]. Vous gagnez la résistance aux dégâts de force et aux dégâts psychiques. De plus, chaque fois que vous subissez des dégâts provenant d'une attaque infligeant des dégâts de force ou psychiques, vous pouvez utiliser votre réaction pour infliger 1d8 dégâts de force à votre attaquant.
+Lorsque vous lancez ce sort, vous vous protégez des énergies contre-nature. Vous avez l'avantage aux jets de sauvegarde contre les états [[charmé]] et [[apeuré]]. Vous obtenez une résistance aux dégâts de force et aux dégâts psychiques. De plus, chaque fois que vous subissez des dégâts provenant d'une attaque infligeant des dégâts de force ou psychiques, vous pouvez utiliser votre réaction pour infliger 1d8 dégâts de force à votre attaquant.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts de force infligés augmentent de 1d8 pour chaque niveau d'emplacement au-delà du niveau 3.
 
@@ -5145,7 +5145,7 @@ Rituel: false
 englishname: Fog Cloud
 writing_status: empty
 ---
-Une sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pour la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
+Une sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
 
 Lorsque vous lancez ce sort, vous pouvez l'alimenter de votre propre essence vitale en perdant 10, 15 ou 20 points de vie lorsque vous lancez. Si vous le faites, considérez l'emplacement de sort utilisé comme étant d'un niveau supérieur si vous avez perdu 10 points de vie, deux niveaux supérieurs si vous avez 15 points de vie et trois niveaux supérieurs pour 20 points de vie, jusqu'à un maximum de niveau 9.
 
@@ -5330,7 +5330,7 @@ Rituel: false
 englishname: Blink
 writing_status: empty
 ---
-Lancez un d2 à la fin de chacun de vos tours pour la durée du sort. Sur un résultat de 11 ou supérieur, vous disparaissez de votre plan de l'existence actuel et apparaissez sur le Plan Éthéré (le sort échoue et l'incantation est perdue si vous êtes déjà sur ce plan). Au début de votre prochain tour, et si le sort se termine lorsque vous vous trouvez sur le Plan Éthéré, vous revenez à un espace inoccupé de votre choix que vous pouvez voir à moins de 10 ft. de l'endroit d'où vous avez disparu. Si aucun emplacement n'est disponible à portée, vous réapparaissez dans l'espace le plus proche (déterminé au hasard si plusieurs sont équidistants). Vous pouvez dissiper ce sort avec une action.
+Lancez un d2 à la fin de chacun de vos tours pendant la durée du sort. Sur un résultat de 11 ou supérieur, vous disparaissez de votre plan de l'existence actuel et apparaissez sur le Plan Éthéré (le sort échoue et l'incantation est perdue si vous êtes déjà sur ce plan). Au début de votre prochain tour, et si le sort se termine lorsque vous vous trouvez sur le Plan Éthéré, vous revenez à un espace inoccupé de votre choix que vous pouvez voir à moins de 10 ft. de l'endroit d'où vous avez disparu. Si aucun emplacement n'est disponible à portée, vous réapparaissez dans l'espace le plus proche (déterminé au hasard si plusieurs sont équidistants). Vous pouvez dissiper ce sort avec une action.
 
 Tant que vous êtes sur le Plan Éthéré, vous pouvez voir et entendre le plan d'où vous venez, en nuances de gris, et vous ne pouvez voir à plus de 60 ft. de vous. Vous ne pouvez affecter et n'être affecté que par d'autres créatures sur le Plan Éthéré. Les créatures qui n'y sont pas ne peuvent ni vous percevoir, ni interagir avec vous, sauf si elles en ont les capacités.
 
@@ -5393,7 +5393,7 @@ writing_status: finished
 ---
 Vous imprégnez les plantes dans un rayon de 30 ft. autour de vous avec une conscience limitée et les animez, leur conférant la capacité de communiquer avec vous et de suivre des ordres simples. Vous pouvez interroger les plantes sur les évènements qui se sont déroulés dans la zone du sort pendant le dernier jour, obtenant des informations sur les créatures qui y sont passées, la météo ou d'autres circonstances.
 
-Vous pouvez aussi transformer le terrain rendu difficile par la croissance des plantes (comme les bosquets et les fourrés) en terrain ordinaire pendant la durée du sort. Inversement, vous pouvez transformer du terrain ordinaire où des plantes sont présentes en terrain difficile pour la durée du sort, faisant en sort que les lianes, ronces et branches se mettent en travers de la route de poursuivant, par exemple.
+Vous pouvez aussi transformer le terrain rendu difficile par la croissance des plantes (comme les bosquets et les fourrés) en terrain ordinaire pendant la durée du sort. Inversement, vous pouvez transformer du terrain ordinaire où des plantes sont présentes en terrain difficile pendant la durée du sort, faisant en sort que les lianes, ronces et branches se mettent en travers de la route de poursuivant, par exemple.
 
 Les plantes peuvent être capables de réaliser d'autres tâches pour vous, à la discrétion du MJ. Ce sort ne permet pas aux plantes de se déraciner et se déplacer, mais elles peuvent bouger librement leurs branches, racines et autres appendices.
 
@@ -5572,7 +5572,7 @@ Rituel: true
 englishname: Geomatique Discernment
 writing_status: empty
 ---
-Vous obtenez la capacité de sentir les minéraux de valeur dans une sphère d'un rayon de 100 ft. autour de vous. Une aura scintillante que vous seul pouvez voir apparaît autour des métaux de valeur, des gemmes, des minéraux, des éléments natifs ou d'autres ressources dans ce radius pour la durée du sort. Vous pouvez voir cette aura à travers n'importe quelle épaisseur de matériau non magique.
+Vous obtenez la capacité de sentir les minéraux de valeur dans une sphère d'un rayon de 100 ft. autour de vous. Une aura scintillante que vous seul pouvez voir apparaît autour des métaux de valeur, des gemmes, des minéraux, des éléments natifs ou d'autres ressources dans ce radius pendant la durée du sort. Vous pouvez voir cette aura à travers n'importe quelle épaisseur de matériau non magique.
 
 
 ---
@@ -5691,7 +5691,7 @@ Rituel: false
 englishname: Ashardalon's Stride
 writing_status: empty
 ---
-Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. Pour la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
+Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 
 Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou un objet ne subit ces dégâts qu'une fois par tour.
 
@@ -5857,7 +5857,7 @@ Rituel: false
 englishname: Curse of Blades
 writing_status: empty
 ---
-Des bandes d'énergie noire occulte lient une créature à son arme. Choisissez une créature que vous pouvez voir à portée qui tient une arme. La cible doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Une cible maudite ne peut pas volontairement ranger ou lâcher son arme. De plus, lorsqu'elle utilise son action pour attaquer pendant son tour, elle doit réaliser une attaque supplémentaire contre elle-même en utilisant son arme. Cette attaque utilise sa propre CA et les dégâts normaux.
+Des bandes d'énergie noire occulte lient une créature à son arme. Choisissez une créature que vous pouvez voir à portée qui tient une arme. La cible doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Une cible maudite ne peut pas volontairement ranger ou lâcher son arme. De plus, lorsqu'elle utilise son action pour attaquer pendant son tour, elle doit réaliser une attaque supplémentaire contre elle-même en utilisant son arme. Cette attaque utilise sa propre CA et les dégâts normaux.
 
 Un sort de [[délivrance des malédictions]] dissipe cette malédication.
 
@@ -5884,7 +5884,7 @@ Rituel: false
 englishname: Ruby-Eye Curse
 writing_status: empty
 ---
-Une lueur rouge vient troubler les yeux d'une créature qui vient rencontrer votre regard. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de Constitution. Si elle échoue, la créature est maudite pour la durée du sort. Une cible maudite peut voir normalement jusqu'à 5 ft., mais est [[aveuglé|aveuglée]] au-delà.
+Une lueur rouge vient troubler les yeux d'une créature qui vient rencontrer votre regard. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de Constitution. Si elle échoue, la créature est maudite pendant la durée du sort. Une cible maudite peut voir normalement jusqu'à 5 ft., mais est [[aveuglé|aveuglée]] au-delà.
 
 Une [[délivrance des malédictions]] termine ce sort prématurément.
 
@@ -5913,7 +5913,7 @@ Rituel: false
 englishname: Bestow Curse
 writing_status: empty
 ---
-Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pour la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
+Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
 
  - Choisissez une caractéristique. Tant qu'elle est maudite, la cible a le désavantage aux jets de compétence et de sauvegarde utilisant cette caractéristique.
  - Tant qu'elle est maudite, la cible a le désavantage aux jets d'attaque contre vous.
@@ -6033,13 +6033,13 @@ Rituel: false
 englishname: Ice Claw Prison
 writing_status: empty
 ---
-Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pour la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
+Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pendant la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
 
 La main est un objet dont la CA est égale à 18 et qui a un nombre de points de vie égal à la moitié de vos points de vie maximums. Elle a l'immunité aux dégâts de poison et psychiques. Si elle tombe à 0 points de vie, le sort se termine. La griffe ne remplit pas son espace. Lorsque vous lancez ce sort, et pour une action bonus pendant vos tours suivants, vous pouvez donner un ordre à la griffe parmi les tâches suivantes : 
 
 **Tranche.** La griffe se déchaîne contre une cible à 10 ft. Réalisez une attaque de sort de mêlée. Si vous touchez, la cible subit 3d8 dégâts tranchants ou de froid (votre choix).
 
-**Emprisonnement.** La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[retenu|retenue]] pour la durée du sort. A la fin de chacun de ses tours, la cible retenue peut effectuer un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle subit 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.
+**Emprisonnement.** La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[retenu|retenue]] pendant la durée du sort. A la fin de chacun de ses tours, la cible retenue peut effectuer un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle subit 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.
 
 **Libérer.** La griffe peut libérer une créature emprisonnée.
 
@@ -6295,7 +6295,7 @@ writing_status: finished
 ---
 Vous canalisez de l'énergie ténébreuse dans votre corps, déformant votre apparence et vous rendant terrifiant à contempler. Votre taille devient Grande si elle était inférieure, et votre équipement s'agrandit pour s'adapter à votre nouvelle forme. S'il n'y a pas suffisamment d'espace, vous grandissez autant que possible sans danger.
 
-Tant que vous êtes sous cette forme, vos attaques avec une arme infligent 1d8 dégâts supplémentaires de leur type normal et vous gagnez un nombre de points de vie temporaires égal à deux fois votre modificateur de caractéristique d'incantation au début de chacun de vos tours, qui persistent pour la durée du sort.
+Tant que vous êtes sous cette forme, vos attaques avec une arme infligent 1d8 dégâts supplémentaires de leur type normal et vous gagnez un nombre de points de vie temporaires égal à deux fois votre modificateur de caractéristique d'incantation au début de chacun de vos tours, qui persistent pendant la durée du sort.
 
 
 ---
@@ -6380,7 +6380,7 @@ Rituel: false
 englishname: Aura of Purity
 writing_status: empty
 ---
-Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, a la résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause une des conditions suivantes : [[assourdi]], [[apeuré]], [[aveuglé]], [[charmé]], [[empoisonné]], [[paralysé]], [[sonné]].
+Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, obtient une résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause une des conditions suivantes : [[assourdi]], [[apeuré]], [[aveuglé]], [[charmé]], [[empoisonné]], [[paralysé]], [[sonné]].
 
 ---
 
@@ -6405,7 +6405,7 @@ Rituel: false
 englishname: Aura of Life
 writing_status: empty
 ---
-Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a la résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.
+Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) obtient une résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.
 
 
 ---
@@ -6493,7 +6493,7 @@ writing_status: finished
 ---
 De fines et crépitantes flammes enveloppent votre corps pendant la durée du sort, émettant une lumière vive sur 10 ft. et une lumière faible sur 10 ft. supplémentaire. Vous pouvez terminer le sort prématurément en utilisant une action pour le dissiper.
 
-Les flammes vous prodiguent, au choix, un bouclier de chaleur ou de frisson. Le bouclier de chaleur vous confère la résistance aux dégâts de froid tandis que le bouclier de frisson vous confère la résistance aux dégâts de feu.
+Les flammes vous prodiguent, au choix, un bouclier de chaleur ou de frisson. Le bouclier de chaleur vous confère une résistance aux dégâts de froid tandis que le bouclier de frisson vous confère une résistance aux dégâts de feu.
 
 De plus, lorsqu'une créature à 5 ft. de vous est touchée par une attaque de mêlée, le bouclier s'embrase. L'attaquant subit 2d8 dégâts de feu d'un bouclier de chaleur ou 2d8 dégâts de froid d'un bouclier de frisson.
 
@@ -6577,7 +6577,7 @@ Rituel: false
 englishname: Crimson Cloak
 writing_status: finished
 ---
-Vous attirez le sang des plaies ouvertes de ceux autour de vous et en imprégnez votre cape à l'aide de la magie stygienne. À chaque fois que vous ou une créature à 151 ft. de vous perdez des points de vie, votre cape obtient une valeur sanguine égale au montant des points de vie perdus jusqu'à un total maximum de 30. Lorsque vous devriez subir des dégâts d'un sort alors que votre cape a atteint sa valeur sanguine maximale, vous pouvez utiliser votre réaction pour gagner la résistance aux dégâts du sort. Lorsque vous le faites, la valeur sanguine de la cape retombe à 0.
+Vous attirez le sang des plaies ouvertes de ceux autour de vous et en imprégnez votre cape à l'aide de la magie stygienne. À chaque fois que vous ou une créature à 151 ft. de vous perdez des points de vie, votre cape obtient une valeur sanguine égale au montant des points de vie perdus jusqu'à un total maximum de 30. Lorsque vous devriez subir des dégâts d'un sort alors que votre cape a atteint sa valeur sanguine maximale, vous pouvez utiliser votre réaction pour obtenir une résistance aux dégâts du sort. Lorsque vous le faites, la valeur sanguine de la cape retombe à 0.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le maximum diminue de 5 par niveau de sort au-delà du niveau 4.
 
@@ -6805,12 +6805,12 @@ Ce sort agresse et perturbe les esprits des créatures, faisant apparaître hall
 
 Une créature affectée ne peut pas utiliser de réactions et doit lancer un d10 au début de chacun de ses tours pour déterminer son comportement pour ce tour.
 
-| d10 | Comportement                                                                                                                                                                                                                    |
+| d10 | Comportement |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1 | La créature utilise tout son mouvement pour se déplacer dans une direction aléatoire. Pour déterminer la direction, lancez un d8 et assignez une direction à chaque face du dé. La créature n'entreprend aucune action ce tour. |
-| 2-6 | La créature ni ne bouge ni prend d'action ce tour.                                                                                                                                                                              |
-| 7-8 | La créature utilise son action pour réaliser une attaque de mêlée contre une créature aléatoire à portée. S'il n'y a aucune créature à portée, la créature ne fait rien ce tour.                                                |
-| 9-10 | La créature agit et se déplace normalement.                                                                                                                                                                                     |
+| 2-6 | La créature ni ne bouge ni prend d'action ce tour. |
+| 7-8 | La créature utilise son action pour réaliser une attaque de mêlée contre une créature aléatoire à portée. S'il n'y a aucune créature à portée, la créature ne fait rien ce tour. |
+| 9-10 | La créature agit et se déplace normalement. |
 À la fin de chacun de ses tours, une créature affectée peut effectuer un jet de sauvegarde de Sagesse. Si elle réussit, l'effet se termine pour cette cible. 
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le rayon de la sphère augmente de 5 ft. par niveau d'emplacement utilisé au-delà du niveau 4.
@@ -7294,7 +7294,7 @@ Rituel: false
 englishname: Black Tentacles
 writing_status: empty
 ---
-De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.
+De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. pendant la durée du sort, ces tentacules rendent le terrain difficile.
 
 Lorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules subit 3d6 dégâts contondants.
 
@@ -7386,7 +7386,7 @@ Rituel: false
 englishname: Arcane Eye
 writing_status: empty
 ---
-Vous créez un œil magique invisible dans la portée qui flotte dans les airs pour la durée du sort.
+Vous créez un œil magique invisible dans la portée qui flotte dans les airs pendant la durée du sort.
 
 Vous recevez mentalement les informations visuelles recueillies par l'œil, qui a une vision normale et une vision dans le noir à 30 ft. L'œil peut regarder dans toutes les directions.
 
@@ -7686,7 +7686,7 @@ Rituel: false
 englishname: Cloudkill
 writing_status: finished
 ---
-Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pour la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
+Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
 
 Lorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit effectuer un jet de sauvegarde de Constitution. La créature subit 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.
 
@@ -7979,7 +7979,7 @@ writing_status: finished
 ---
 Votre toucher inflige une maladie. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible est [[empoisonné|empoisonnée]].
 
-À la fin de chacun des tours de la créature empoisonnée, la cible doit effectuer un jet de sauvegarde de Constitution. Si elle réussit trois de ces jets, elle n'est plus [[empoisonné|empoisonnée]] et le sort se termine. Si la cible échoue trois de ces jets, la cible n'est plus [[empoisonné|empoisonnée]], mais vous choisissez l'une des maladies ci-dessous. La cible contracte la maladie choisie pour la durée du sort.
+À la fin de chacun des tours de la créature empoisonnée, la cible doit effectuer un jet de sauvegarde de Constitution. Si elle réussit trois de ces jets, elle n'est plus [[empoisonné|empoisonnée]] et le sort se termine. Si la cible échoue trois de ces jets, la cible n'est plus [[empoisonné|empoisonnée]], mais vous choisissez l'une des maladies ci-dessous. La cible contracte la maladie choisie pendant la durée du sort.
 
 Puisque ce sort inflige une maladie naturelle à sa cible, tout effet qui permet de retirer une maladie ou d'empirer les effets d'une maladie s'applique ici.
 
@@ -8046,7 +8046,7 @@ Rituel: false
 englishname: Control Winds
 writing_status: finished
 ---
-Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pour la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.
+Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pendant la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.
 
 **Bourrasques.** Le vent se lève dans le cube, soufflant continuellement dans une direction horizontale de votre choix. Vous pouvez choisir l'intensité des bourrasques : calmes, modérées ou intenses. Si les vents sont modérés ou intenses, les attaques armées à distance qui traversent la zone ou sont réalisées contre des cibles dans le cube ont le désavantage à leurs jets d'attaque. Si le vent est intense, toute créature se déplaçant contre le vent doit dépenser une case de mouvement supplémentaire par case déplacée.
 
@@ -8138,7 +8138,7 @@ Rituel: false
 englishname: Antilife Shell
 writing_status: empty
 ---
-Une barrière scintillante émane de vous sur un rayon de 10 ft. et se déplace avec vous, toujours centrée sur vous et repoussant les créatures qui ne sont pas des morts-vivants ou des constructions. La barrière dure pour la durée du sort.
+Une barrière scintillante émane de vous sur un rayon de 10 ft. et se déplace avec vous, toujours centrée sur vous et repoussant les créatures qui ne sont pas des morts-vivants ou des constructions. La barrière dure pendant la durée du sort.
 
 La barrière empêche les créatures affectées de pénétrer ou de traverser la zone. Une créature affectée peut lancer des sorts ou réaliser des attaques avec des armes à distance ou des armes à allonge au travers de la barrière.
 
@@ -8283,7 +8283,7 @@ Rituel: false
 englishname: Arcane Hand
 writing_status: empty
 ---
-Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pour la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
+Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pendant la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
 
 La main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 points de vie, le sort termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.
 
@@ -8513,7 +8513,7 @@ Rituel: false
 englishname: Blade Barrier
 writing_status: empty
 ---
-Vous créez un mur vertical de lames tournoyantes d'énergie magique. Le mur apparaît à portée et persiste pour la durée du sort. Vous pouvez réaliser un mur droit long de 100 ft., haut de 20 ft. et épais de 5 ft., ou un mur encerclant un cercle de 60 ft. de diamètre. Le mur confère une couverture de 3/4 aux créatures derrière celui-ci, et il devient un terrain difficle.
+Vous créez un mur vertical de lames tournoyantes d'énergie magique. Le mur apparaît à portée et persiste pendant la durée du sort. Vous pouvez réaliser un mur droit long de 100 ft., haut de 20 ft. et épais de 5 ft., ou un mur encerclant un cercle de 60 ft. de diamètre. Le mur confère une couverture de 3/4 aux créatures derrière celui-ci, et il devient un terrain difficle.
 
 Lorsqu'une créature entre dans le mur pour la première fois pendant un tour ou y démarre son tour, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 6d10 dégâts tranchants. Si elle réussit, elle ne subit que la moitié des dégâts.
 
@@ -8907,7 +8907,7 @@ Rituel: false
 englishname: Frenzy
 writing_status: empty
 ---
-En un geste, vous réduisez une foule à un état instinctif et violent. Choisissez un point que vous pouvez voir à portée. Chaque créature dans un rayon de 20 ft. autour de ce point doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est frénétique pour la durée du sort. Lorsque une créature est frénétique, si elle a une arme de mêlée, elle la dégaine.
+En un geste, vous réduisez une foule à un état instinctif et violent. Choisissez un point que vous pouvez voir à portée. Chaque créature dans un rayon de 20 ft. autour de ce point doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est frénétique pendant la durée du sort. Lorsque une créature est frénétique, si elle a une arme de mêlée, elle la dégaine.
 
 Une créature frénétique doit utiliser son action au début de chacun de ses tours pour attaquer une créature à portée. Si elle a une arme de mêlée, elle l'utilise, et utilise une arme improvisée ou des attaques à mains nues sinon. Si plusieurs cibles sont à portée de la créature, elle choisit sa cible aléatoirement. Si aucune cible n'est à portée de la créature, elle s'attaque elle-même.
 
@@ -8935,7 +8935,7 @@ Rituel: false
 englishname: Corruption Curse
 writing_status: empty
 ---
-En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pour la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
+En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pendant la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
 
 **Réflexes d'une Huître.** La cible a le désavantage aux jets de Dextérité.
 
@@ -9060,7 +9060,7 @@ Rituel: false
 englishname: Arcane Gate
 writing_status: empty
 ---
-Vous créez des portails de téléportation liés qui restent ouvert pour la durée du sort. Choisissez deux points sur le sol que vous pouvez voir, un à moins de 10 ft. de vous, l'autre à moins de 500 ft. Un portail circulaire, d'un diamètre de 10 ft., s'ouvre à chaque point. Si le portail s'ouvrirait sur un espace occupée par une créature, le sort rate et l'emplacement est perdu.
+Vous créez des portails de téléportation liés qui restent ouvert pendant la durée du sort. Choisissez deux points sur le sol que vous pouvez voir, un à moins de 10 ft. de vous, l'autre à moins de 500 ft. Un portail circulaire, d'un diamètre de 10 ft., s'ouvre à chaque point. Si le portail s'ouvrirait sur un espace occupée par une créature, le sort rate et l'emplacement est perdu.
 
 Les portails sont des anneaux bi-dimensionnels remplis de brume, planant quelques centimètres au dessus du sol et perpendiculaire à celui-ci au point que vous avez choisis. L'anneau n'est visible que d'un côté (de votre choix), qui est le côté qui fonctionne comme portail.
 
@@ -9120,7 +9120,7 @@ Vous jetez un sarcophage qui tient dans votre main vers un espace inoccupé que 
 
 La gaze retenant la créature est un objet avec une CA de 10 et 100 points de vie. Elle est vulnérable aux dégâts tranchants et de feu, et immunisée aux dégâts psychiques et de poison. Si elle est réduite à 0 point de vie, le sort se termine.
 
-Une créature retenue par ce sort doit effectuer un autre jet de sauvegarde de Dextérité à la fin de chacun de ses tours. Si elle réussit trois fois, elle se libère de la gaze, terminant le sort. Si elle rate trois fois, le sarcophage se referme et s'enfouit sous terre. La créature est momifiée dans la gaze et est [[incapacité|incapacitée]]. Le sort se termine, mais le sarcophage reste sous terre. Le sarcophage contient suffisamment d'air pour 1 minute, et la créature commence à suffoquer après ce temps.
+Une créature retenue par ce sort doit effectuer un autre jet de sauvegarde de Dextérité à la fin de chacun de ses tours. Si elle réussit trois fois, elle se libère de la gaze, terminant le sort. Si elle rate trois fois, le sarcophage se referme et s'enfouit sous terre. La créature est momifiée dans la gaze et est [[incapacité|incapacitée]]. Le sort se termine, mais le sarcophage reste sous terre. Le sarcophage contient suffisamment d'air pendant 1 minute, et la créature commence à suffoquer après ce temps.
 
 SI un Humanoïde meurt à l'intérieur du sarcophage, ils se relèvent 24 heures plus tard comme une momie sous votre contrôle, comme d'après le sort [[création de mort-vivant]]. Vous ne pouvez contrôler qu'une seule momie créée par ce sort à la fois.
 
@@ -9333,7 +9333,7 @@ Rituel: false
 englishname: Etherealness
 writing_status: empty
 ---
-Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pour la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
+Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pendant la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
 
 Tant que vous êtes sur le Plan Éthéré, vous ne pouvez affecter et n'être affecté que par des créatures sur ce plan. Les créatures qui ne sont pas sur le Plan Éthéré ne vous perçoivent pas et ne peuvent pas interagir avec vous, sauf si une aptitude ou une magie particulière leur en donne la compétence.
 
@@ -9398,7 +9398,7 @@ Rituel: false
 englishname: Inevitable Boulder
 writing_status: empty
 ---
-Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et la résistance aux dégâts contondants, perçants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
+Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perçants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
 
 Au début de chacun de vos tours, le rocher se déplace de 60 ft. dans la direction de sa cible. Si le rocher pénètre l'espace d'une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, elle subit 6d10 dégâts contondants et, si elle est de taille G ou plus petite, est mise [[au sol]]. Si elle réussit le jet, elle subit la moitié des dégâts et n'est pas mise au sol. Le rocher écrase aussi les objets non magiques plus petits que lui sur son passage. Si le rocher atteint sa cible, il lui roule dessus et continue son mouvement sur 60 ft. Le rocher continue de poursuivre la cible pendant la durée du sort, lui roulant dessus plusieurs fois si possible.
 
@@ -9479,7 +9479,7 @@ Rituel: false
 englishname: Antipathy/Sympathy
 writing_status: empty
 ---
-Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pour la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.
+Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pendant la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.
 
 **Aversion.** Cet enchantement provoque chez les créatures du type désigné un intense besoin de quitter la zone et d'éviter la cible. Lorsqu'une telle créature peut voir la cible ou se trouve à moins de 60 ft. d'elle, la créature doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]]. La créature demeure [[apeuré|apeurée]] tant qu'elle peut voir la cible ou qu'elle reste à moins de 60 ft. d'elle. Tant qu'elle est apeurée par la cible, la créature doit utiliser son mouvement pour se déplacer à l'emplacement le plus proche duquel elle ne peut pas voir la cible. Si la créature se déplace à plus de 60 ft. de la cible et qu'elle ne peut plus la voir, la créature n'est plus apeurée, mais elle le redevient si elle récupère une vision de la cible ou se rapproche à moins de 60 ft.
 
@@ -9784,7 +9784,7 @@ writing_status: empty
 ---
 Votre magie transforme d'autres en bêtes. Choisissez n'importe quel nombre de créature consentantes à portée et que vous pouvez voir. Vous transformez chacune de ces cibles en une bête de taille G ou inférieure, avec un FP de 4 ou moins. Aux tours suivants, vous pouvez utiliser votre action pour re-transformer les créatures touchées en de nouvelles formes.
 
-La transformation reste effective pour la durée du sort pour chaque cible, ou jusqu'à ses points de vie tombent à 0 ou qu'elle meurt. Vous pouvez choisir une forme différente pour chaque cible. Les caractéristiques de la cible sont remplacées par celle de la bête choisie, mais elle conserve son alignement, ainsi que ses scores d'Intelligence, de Sagesse et de Charisme. La cible acquiert les points de vie de sa nouvelle forme et lorsqu'elle récupère sa forme initiale, elle retourne à son nombre de points de vie qu'elle avait avant transformation. Si elle retourne à sa forme initiale comme conséquence d'être tombée à 0 point de vie, tout dégâts en excès est fait à sa forme normale. Tant que ces dégâts ne réduisent pas les points de vie de la forme normale à 0 point de vie, elle reste consciente. La créature est limitée aux actions que peut réaliser sa nouvelle forme, et elle ne peut pas parler ou lancer de sorts.
+La transformation reste effective pendant la durée du sort pour chaque cible, ou jusqu'à ses points de vie tombent à 0 ou qu'elle meurt. Vous pouvez choisir une forme différente pour chaque cible. Les caractéristiques de la cible sont remplacées par celle de la bête choisie, mais elle conserve son alignement, ainsi que ses scores d'Intelligence, de Sagesse et de Charisme. La cible acquiert les points de vie de sa nouvelle forme et lorsqu'elle récupère sa forme initiale, elle retourne à son nombre de points de vie qu'elle avait avant transformation. Si elle retourne à sa forme initiale comme conséquence d'être tombée à 0 point de vie, tout dégâts en excès est fait à sa forme normale. Tant que ces dégâts ne réduisent pas les points de vie de la forme normale à 0 point de vie, elle reste consciente. La créature est limitée aux actions que peut réaliser sa nouvelle forme, et elle ne peut pas parler ou lancer de sorts.
 
 L'équipement de la cible se fond dans sa nouvelle forme. La cible ne peut pas activer, utiliser ou même profiter d'aucun de ses équipements.
 
@@ -9968,7 +9968,7 @@ Rituel: false
 englishname: Blade of Disaster
 writing_status: empty
 ---
-Vous créez une faille planaire en forme de lame longue d'environ 1 mètre dans un espace inoccupé que vous pouvez voir à portée. La lame persiste pour la durée du sort. Lorsque vous lancez le sort, vous pouvez réaliser jusqu'à deux attaques de sort de mêlée avec la lame, chacune contre une créature, un objet ou une structure à moins de 5 ft. de la lame. Si l'attaque touche, la cible subit 4d12 dégâts de force. L'attaque est critique si le nombre sur le d20 est un 18 ou supérieur. Sur un coup critique, la lame inflige 8d12 dégâts de force supplémentaire (pour 12d12 dégâts totaux).
+Vous créez une faille planaire en forme de lame longue d'environ 1 mètre dans un espace inoccupé que vous pouvez voir à portée. La lame persiste pendant la durée du sort. Lorsque vous lancez le sort, vous pouvez réaliser jusqu'à deux attaques de sort de mêlée avec la lame, chacune contre une créature, un objet ou une structure à moins de 5 ft. de la lame. Si l'attaque touche, la cible subit 4d12 dégâts de force. L'attaque est critique si le nombre sur le d20 est un 18 ou supérieur. Sur un coup critique, la lame inflige 8d12 dégâts de force supplémentaire (pour 12d12 dégâts totaux).
 
 Pour une action bonus pendant votre tour, vous pouvez déplacer la lame de jusqu'à 30 ft. vers un espace inoccupé que vous pouvez voir et réaliser deux attaques de sort de mêlée à nouveau.
 
@@ -10512,7 +10512,7 @@ Rituel: false
 englishname: Encode Thoughts
 writing_status: empty
 ---
-Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé *brin de pensée* qui persiste pour la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
+Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé *brin de pensée* qui persiste pendant la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
 
 Si vous lancez ce sort pendant que vous vous concentrez sur un sort ou une aptitude qui vous permet de lire ou manipuler les pensées des autres (comme [[Détection des Pensées]] ou [[Modification de Mémoire]]), vous pouvez transformer la mémoire que vous détectez en brin de pensée plutôt.
 
@@ -11002,7 +11002,7 @@ Rituel: false
 englishname: Produce Flame
 writing_status: empty
 ---
-Une flamme tremblante apparaît dans votre main. La flamme reste là pour la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
+Une flamme tremblante apparaît dans votre main. La flamme reste là pendant la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
 
 Vous pouvez également attaquer avec la flamme, mais le faire termine le sort. Lorsque vous lancez ce sort, ou pour une action plus tard, vous pouvez lancer la flamme sur une créature à 30 ft. Réalisez une attaque de sort à distance. Si vous touchez, la cible subit 1d8 dégâts de feu.
 
@@ -11201,7 +11201,7 @@ Rituel: false
 englishname: Minor Illusion
 writing_status: empty
 ---
-Vous créez un son ou l'image d'un objet à portée qui persiste pour la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
+Vous créez un son ou l'image d'un objet à portée qui persiste pendant la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
 
 Si vous créez un son, le volume peut aller d'un murmure à un hurlement. Celui-ci peut être votre voix, celle d'une autre personne, le rugissement d'un lion, un roulement de tambours ou n'importe quel autre son que vous choisissez. Le son continue de manière ininterrompue pendant la durée du sort, ou vous pouvez réaliser plusieurs sons différents à différents moments avant que le sort se termine.
 
@@ -11496,7 +11496,7 @@ Rituel: false
 englishname: Dancing Lights
 writing_status: empty
 ---
-Vous créez jusqu'à quatre flammes de la taille d'une torche, et vous pouvez les faire apparaître comme des torches, des lanternes ou des orbes lumineux qui lévitent pour la durée du sort. Vous pouvez également combiner ces quatre lumières en une forme vaguement humanoïde de taille M. Quoi que vous choisissiez, chaque lumière émet une lumière faible sur 10 ft.
+Vous créez jusqu'à quatre flammes de la taille d'une torche, et vous pouvez les faire apparaître comme des torches, des lanternes ou des orbes lumineux qui lévitent pendant la durée du sort. Vous pouvez également combiner ces quatre lumières en une forme vaguement humanoïde de taille M. Quoi que vous choisissiez, chaque lumière émet une lumière faible sur 10 ft.
 
 Pour une action bonus pendant votre tour, vous pouvez déplacer les lumières de jusqu'à 60 ft. vers un nouvel emplacement à portée. Une lumière doit toujours se trouver à 20 ft. d'une autre lumière créée par ce sort, et une lumière se dissipe si elle sort de la portée du sort.
 
@@ -11529,7 +11529,7 @@ Rituel: false
 englishname: Mage Hand
 writing_status: empty
 ---
-Une main spectrale et flottante apparaît à un point de votre choix à portée. La main persiste pour la durée du sort ou jusqu'à ce que vous la dissipiez pour une action. La main disparaît si elle se trouve à plus de 30 ft. de vous ou si vous relancez le sort.
+Une main spectrale et flottante apparaît à un point de votre choix à portée. La main persiste pendant la durée du sort ou jusqu'à ce que vous la dissipiez pour une action. La main disparaît si elle se trouve à plus de 30 ft. de vous ou si vous relancez le sort.
 
 Vous pouvez utiliser votre action pour contrôler la main. Vous pouvez utiliser la main pour manipuler un objet, ouvrir une porte déverrouillée ou un contenant, stocker ou récupérer un objet dans un coffre ou déverser le contenu d'une fiole. Vous pouvez déplacer la main de jusqu'à 30 ft. à chaque fois que vous l'utilisez.
 
@@ -11822,7 +11822,7 @@ Ce sort est un léger tour de magie que les lanceurs de sorts novices utilisent 
  - Vous créez un effet sensoriel instantané et inoffensif, comme une pluie d'étincelles, un souffle de vent, quelques notes de musiques ou une odeur inhabituelle.
  - Vous allumez ou éteignez instantanément une bougie, une torche ou un feu de camp.
  - Vous nettoyez ou salissez instantanément un objet qui occupe un volume inférieur à un cube de 1 ft. de côté.
- - Vous réchauffez, refroidissez ou parfumez un cube de 1 ft. de matériaux non vivants pour 1 heure.
+ - Vous réchauffez, refroidissez ou parfumez un cube de 1 ft. de matériaux non vivants pendant 1 heure.
  - Vous faites apparaître une couleur, une petite marque ou un symbole sur une surface ou un objet pendant 1 heure.
  - Vous créez une babiole non magique ou une image illusoire qui tient dans votre main et qui dure jusqu'à la fin de votre prochain tour.
 
@@ -11857,7 +11857,7 @@ Rituel: false
 englishname: Blade Ward
 writing_status: empty
 ---
-Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous avez la résistance contre les dégâts contondants, perçants et tranchants infligés par des attaques à main armée.
+Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez une résistance contre les dégâts contondants, perçants et tranchants infligés par des attaques à main armée.
 
 
 ---

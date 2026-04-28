@@ -1,8 +1,8 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -17,7 +17,7 @@ Rituel: false
 englishname: Accelerate/Decelerate
 writing_status: empty
 tags:
-  - chronomancie
+ - chronomancie
 ---
 Ce sort accélère ou ralentit une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. est touchée par une attaque.
 
