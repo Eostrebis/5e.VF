@@ -4,7 +4,7 @@ search:
 title: Dons de Prestige
 ---
 | Prestige Feat | Don de Prestige |
-| -------------------- | --------------------------- |
+| -------------------- | --------------------------------- |
 | Fledging Lich | [[Liche en Construction]] |
 | Neophyte Lich | [[Liche Néophyte]] |
 | Lich Scion | [[Rejeton de Liche]] |
