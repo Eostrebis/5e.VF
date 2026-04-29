@@ -37,9 +37,9 @@ class {name}(Spell):
                 to_write += f"\tsomatic = {properties['Somatique'].capitalize()}\n"
                 to_write += f"\tmaterial = {properties['Matériel'].capitalize()}\n"
                 to_write += f"\tmaterial_description = '{properties['detailmat']}'\n"
-                duree = properties['Durée']
+                duree = properties['Duree']
                 if ' ' in duree and 'dissipation' not in duree:
-                    duration_value, duration_type = properties['Durée'].split()
+                    duration_value, duration_type = properties['Duree'].split()
                     to_write += f"\tduration = {duration_value}\n"
                     match duration_type:
                         case "Minute":
@@ -101,18 +101,18 @@ class {name}(Spell):
                         to_write += f"\tspellcasting_duration_type = SpellcastingDuration.HOUR\n"
                     case _:
                         raise Exception(f"Duration not handled : {spellcasting_type}")
-                if 'Personelle' in properties['Portée']:
+                if 'Personelle' in properties['Portee']:
                     to_write += f"\tis_range_touch = False\n"
                     to_write += f"\tis_range_self = True\n"
-                    if len(properties['Portée']) > 11:
-                        to_write += f"\trange_desc = '{properties['Portée'].replace('Personelle','')[1:]}'"
-                elif 'Touché' in properties['Portée']:
+                    if len(properties['Portee']) > 11:
+                        to_write += f"\trange_desc = '{properties['Portee'].replace('Personelle','')[1:]}'"
+                elif 'Contact' in properties['Portee']:
                     to_write += f"\tis_range_touch = True\n"
                     to_write += f"\tis_range_self = False\n"
                 else:
                     to_write += f"\tis_range_touch = False\n"
                     to_write += f"\tis_range_self = False\n"
-                    to_write += f"\trange_desc = '{properties['Portée']}'\n"
+                    to_write += f"\trange_desc = '{properties['Portee']}'\n"
 
                 to_write += f"\tritual = {properties['Rituel'].capitalize()}\n"
                 to_write += f"\tconcentration = {properties['Concentration'].capitalize()}\n"

@@ -11,7 +11,7 @@ Incantation:
 Portee:
 Concentration:
 Rituel:
-englishname:
+englishname: Ray of Sickness
 writing_status: empty
 ---
 

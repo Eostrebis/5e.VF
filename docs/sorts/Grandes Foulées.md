@@ -11,7 +11,7 @@ Incantation:
 Portee:
 Concentration:
 Rituel:
-englishname:
+englishname: Longstrider
 writing_status: empty
 ---
 
