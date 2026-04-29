@@ -283,7 +283,7 @@
             document.getElementById('m-title').innerHTML = `${s.name} <a href="${url}" class="action-link">📖</a> <small style="opacity:0.6;font-weight:normal;font-size:0.7em">(${s.englishname})</small>`;
 
             let meta = `<strong>Niveau ${s.level} - ${s.school}</strong><br>
-            <strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Porte} | <strong>Durée:</strong> ${s.Duree}<br>
+            <strong>Temps:</strong> ${s.Incantation} | <strong>Portée:</strong> ${s.Portee} | <strong>Durée:</strong> ${s.Duree}<br>
             <strong>Composantes:</strong> ${getCompTags(s).replace(/class="tag /g, 'class="tag ')}<br>
             <div style="margin-top:5px"><strong>Classes:</strong> ${s.classes.map(c => `<span class="tag t-cls">${c}</span>`).join(' ')}</div>`;
 
