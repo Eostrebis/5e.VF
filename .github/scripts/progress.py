@@ -3,7 +3,7 @@ import os
 import sys
 from pathlib import Path
 
-DEBUG = False
+DEBUG = True
 
 if DEBUG:
 	working_dir = "C:\\Users\\frosq\\workspace\\JdR\\5e.VF\\docs"
@@ -14,11 +14,12 @@ directory = Path(working_dir)
 
 SEP = ("\\" if DEBUG else "/")
 
-def get_words(file) -> int:
+def get_words(file):
 	if file.endswith('.md'):
 		with open(file, encoding='utf8') as f:
-			return len(f.read().split())
-	return 0
+			s = f.read().split()
+			return len(s), set(s)
+	return (0, set())
 
 def get_status(file) -> str:
 	if file.endswith('.md'):
@@ -44,7 +45,7 @@ def evaluate_status(status) -> float:
 
 def get_spell_progress():
 	done = {}
-	words = 0
+	words = [0, set()]
 	undone = 0
 	index = len(working_dir+SEP+"sorts"+SEP)
 	for subdir, dirs, files in os.walk(working_dir+SEP+"sorts"):
@@ -53,13 +54,15 @@ def get_spell_progress():
 		else:
 			done[int(subdir[index:]) if subdir[index:] != 'cantrips' else 0] = len(files)
 			for file in files:
-				words += get_words(subdir + SEP + file)
+				words_t = get_words(subdir + SEP + file)
+				words[0] += words_t[0]
+				words[1].update(words_t[1])
 	total = undone + sum(done.values())
 	return done, total, words
 
 def get_classe_progress():
 	done = {}
-	words = 0
+	words = [0, set()]
 	classes = [d for d in os.listdir(working_dir+SEP+"classes")]
 	for classe in classes:
 		total_classe = 0
@@ -67,7 +70,9 @@ def get_classe_progress():
 		for subdir, dirs, files in os.walk(working_dir + SEP + "classes" + SEP + classe):
 			for f in files:
 				status = get_status(subdir+SEP+f)
-				words += get_words(subdir+SEP+f)
+				words_t = get_words(subdir+SEP+f)
+				words[0] += words_t[0]
+				words[1].update(words_t[1])
 				done_classe += evaluate_status(status)
 				total_classe += 1
 		done[classe] = round(done_classe / total_classe * 100, 2)
@@ -76,10 +81,12 @@ def get_classe_progress():
 def get_race_progress():
 	done = 0
 	total = 0
-	words = 0
+	words = [0, set()]
 	for race in os.listdir(working_dir + SEP + "races"):
 		status = get_status(working_dir + SEP + "races" + SEP + race)
-		words += get_words(working_dir + SEP + "races" + SEP + race)
+		words_t = get_words(working_dir + SEP + "races" + SEP + race)
+		words[0] += words_t[0]
+		words[1].update(words_t[1])
 		if status:
 			done += evaluate_status(status)
 			total += 1
@@ -88,10 +95,12 @@ def get_race_progress():
 def get_feat_progress():
 	done = 0
 	total = 0
-	words = 0
+	words = [0, set()]
 	for feat in os.listdir(working_dir + SEP + "Dons"):
 		status = get_status(working_dir + SEP + "Dons" + SEP + feat)
-		words = get_words(working_dir + SEP + "Dons" + SEP + feat)
+		words_t = get_words(working_dir + SEP + "Dons" + SEP + feat)
+		words[0] += words_t[0]
+		words[1].update(words_t[1])
 		if status:
 			done += evaluate_status(status)
 			total += 1
@@ -100,10 +109,12 @@ def get_feat_progress():
 def get_equipment_progress():
 	done = 0
 	total = 0
-	words = 0
+	words = [0, set()]
 	for gear in os.listdir(working_dir + SEP + "objets" + SEP + "équipement"):
 		status = get_status(working_dir + SEP + "objets" + SEP + "équipement" + SEP + gear)
-		words += get_words(working_dir + SEP + "objets" + SEP + "équipement" + SEP + gear)
+		words_t = get_words(working_dir + SEP + "objets" + SEP + "équipement" + SEP + gear)
+		words[0] += words_t[0]
+		words[1].update(words_t[1])
 		if status:
 			done += evaluate_status(status)
 			total += 1
@@ -112,10 +123,12 @@ def get_equipment_progress():
 def get_magic_item_progress():
 	done = 0
 	total = 0
-	words = 0
+	words = [0, set()]
 	for gear in os.listdir(working_dir + SEP + "objets" + SEP + "magiques"):
 		status = get_status(working_dir + SEP + "objets" + SEP + "magiques" + SEP + gear)
-		words += get_words(working_dir + SEP + "objets" + SEP + "magiques" + SEP + gear)
+		words_t = get_words(working_dir + SEP + "objets" + SEP + "magiques" + SEP + gear)
+		words[0] += words_t[0]
+		words[1].update(words_t[1])
 		if status:
 			done += evaluate_status(status)
 			total += 1
@@ -124,10 +137,12 @@ def get_magic_item_progress():
 def get_background_progress():
 	done = 0
 	total = 0
-	words = 0
+	words = [0, set()]
 	for gear in os.listdir(working_dir + SEP + "Historiques"):
 		status = get_status(working_dir + SEP + "Historiques" + SEP + gear)
-		words = get_words(working_dir + SEP + "Historiques" + SEP + gear)
+		words_t = get_words(working_dir + SEP + "Historiques" + SEP + gear)
+		words[0] += words_t[0]
+		words[1].update(words_t[1])
 		if status:
 			done += evaluate_status(status)
 			total += 1
@@ -180,20 +195,28 @@ def write_index_file(content):
 
 def compute_progress():
 	words_total = 0
+	words_unique = set()
 	spell_done, spell_total, words = get_spell_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	race_done, race_total, words = get_race_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	feat_done, feat_total, words = get_feat_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	equip_done, equip_total, words = get_equipment_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	magic_item_done, magic_item_total, words = get_magic_item_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	back_done, back_total, words = get_background_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	classe_done, words = get_classe_progress()
-	words_total += words
+	words_total += words[0]
+	words_unique.update(words[1])
 	classe_percentage = sum(classe_done.values()) / (len(classe_done))
 	spell_percentage = round(100 * sum(spell_done.values()) / spell_total, 2)
 
@@ -225,6 +248,8 @@ def compute_progress():
 	print(f"Avancée des objets magiques : {round(100 * magic_item_done / magic_item_total, 2)}%")
 	print(f"Avancée des historiques : {round(100 * back_done / back_total, 2)}%")
 	print(f"Total de mots : {words_total} (soit ~ {round(words_total/250)} pages) (soit ~ {round(words_total/480000,2)} Seigneur des Anneaux)")
+	print(words_unique)
+
 
 if __name__ == '__main__':
 	compute_progress()
