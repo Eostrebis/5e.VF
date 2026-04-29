@@ -29,7 +29,7 @@ Les kenders accumulent parfois une collection impressionnante de bric-à-brac. C
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Sans-Peur.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer la condition [[apeuré]] sur vous-même. Lorsque vous ratez un jet de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même, vous pouvez choisir de réussir à la place. Une fois que vous avez réussi un jet de sauvegarde de cette façon, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos long.
+**Sans-Peur.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer la condition [[apeuré]] sur vous-même. Lorsque vous ratez un jet de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même, vous pouvez choisir de réussir à la place. Une fois que vous avez réussi un jet de sauvegarde de cette façon, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos long.
 
 **Talent Kender.** Grâce à l'origine mystique de votre peuple, vous maîtrisez une des compétences suivantes : Perspicacité, Investigation, Escamotage, Discrétion ou Survie.
 

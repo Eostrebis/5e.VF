@@ -5,7 +5,7 @@ Certaines déités inspirent leurs croyants à s'élancer dans une féroce furie
 
 ## Furie Divine
 
-À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée prend un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
+À partir du moment où vous choisissez cette voie au niveau 3, vous pouvez canaliser la furie divine dans vos frappes armées. Tant que vous êtes en rage, la première créature que vous touchez à chacun de vos tours avec une attaque armée subit un nombre de dégâts supplémentaires égal à 1d6 + la moitié de votre niveau de barbare. Ces dégâts supplémentaires sont nécrotiques ou radiants ; vous en choisissez le type lorsque vous obtenez cette aptitude.
 
 ## Guerrier des Dieux
 
@@ -25,4 +25,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 À partir du niveau 14, le pouvoir divin qui alimente votre rage vous permet d'ignorer les blessures mortelles.
 
-Tant que vous ragez, avoir 0 point de vie ne vous rend pas [[inconscient]]. Vous devez toujours réaliser des jets de sauvegarde contre la mort, et vous souffrez des effets normaux des dégâts à 0 point de vie. Cependant, si vous deviez mourir de par l'échec des jets de sauvegarde contre la mort, vous ne mourez pas avant la fin de votre rage, et vous ne mourez à ce moment là que si vous avez toujours 0 point de vie.
+Tant que vous ragez, avoir 0 point de vie ne vous rend pas [[inconscient]]. Vous devez toujours effectuer des jets de sauvegarde contre la mort, et vous souffrez des effets normaux des dégâts à 0 point de vie. Cependant, si vous deviez mourir de par l'échec des jets de sauvegarde contre la mort, vous ne mourez pas avant la fin de votre rage, et vous ne mourez à ce moment là que si vous avez toujours 0 point de vie.

@@ -33,7 +33,7 @@ Aujourd'hui, les mandragores sont rares et fondent leur foyer dans les forêts a
 
 **Langage.** Vous parlez le [[Langues#Commun|Commun]] et le [[Langues#Primordial|Primordial]].
 
-**Âge.** Les mandragores grandissent pendant une décennie et vivent des siècles, devenant plus massif et plus _écorceux_ avec l'âge.
+**Âge.** Les mandragores grandissent pendant une décennie et vivent des siècles, devenant plus massif et plus *écorceux* avec l'âge.
 
 **Taille.** Les mandragores font entre 1,50 m et 2,00 m et pèsent entre 100 et 200 kg. Votre taille est Moyenne (M).
 
@@ -41,8 +41,8 @@ Aujourd'hui, les mandragores sont rares et fondent leur foyer dans les forêts a
 
 **Nature de Plante.** Même si vous n'êtes pas complètement une plante, vous possédez tout de même beaucoup de traits en commun avec une. Tant que vous êtes au contact direct de la lumière du soleil pendant 4 heures par jour, vous n'avez pas besoin de manger. De plus, vous pouvez respirer par vos feuilles et extrémités et pouvez absorber eau et nutriments par vos pieds.
 
-**Émissaire des Arbres.** Vous maîtrisez la compétence Nature. De plus, vous avez l'avantage aux jets de Charisme (Persuasion) que vous réalisez à destination des Bêtes et Plantes.
+**Émissaire des Arbres.** Vous maîtrisez la compétence Nature. De plus, vous avez l'avantage aux jets de Charisme (Persuasion) que vous effectuez à destination des Bêtes et Plantes.
 
-**Magie Racinée.** Vous connaissez le cantrip [[Gourdin Magique]] et pouvez vous cibler vous-même avec ce sort, traitant l'un de vos membres comme une massue pour la durée du sort. À partir du niveau 3, vous pouvez lancer le sort [[Baies Nourricières]] avec ce trait sans dépenser de composantes matérielles. À partir du niveau 5, vous pouvez lancer le sort [[Peau d'Écorce]] avec ce trait sans dépenser de composantes matérielles. Une fois que vous avez lancé [[Baies Nourricières]] ou [[Peau d'Écorce]] avec ce trait, vous ne pouvez plus le relancer de cette manière avant de terminer un repos long. Vous pouvez également lancer ces sorts en utilisant un emplacement de sort du niveau adéquat.
+**Magie Racinée.** Vous connaissez le cantrip [[Gourdin Magique]] et pouvez vous cibler vous-même avec ce sort, traitant l'un de vos membres comme une massue pendant la durée du sort. À partir du niveau 3, vous pouvez lancer le sort [[Baies Nourricières]] avec ce trait sans dépenser de composantes matérielles. À partir du niveau 5, vous pouvez lancer le sort [[Peau d'Écorce]] avec ce trait sans dépenser de composantes matérielles. Une fois que vous avez lancé [[Baies Nourricières]] ou [[Peau d'Écorce]] avec ce trait, vous ne pouvez plus le relancer de cette manière avant de terminer un repos long. Vous pouvez également lancer ces sorts en utilisant un emplacement de sort du niveau adéquat.
 
 L'Intelligence, la Sagesse ou le Charisme est votre caractéristique d'incantation pour lancer ces sorts avec ce trait (à choisir lorsque vous sélectionnez cette race).

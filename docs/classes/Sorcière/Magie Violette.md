@@ -31,7 +31,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire j
 
 Une créature peut utiliser son action pour examiner une créature déguisée magiquement et doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort. Si elle réussit, elle identifie chaque créature pour ce qu'elle est réellement.
 
-L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires prend des dégâts ou interagit physiquement avec son environnement.
+L'illusion persiste pendant 1 minute, et elle termine prématurément si une des créatures illusoires subit des dégâts ou interagit physiquement avec son environnement.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.
 

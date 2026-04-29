@@ -1,10 +1,10 @@
 ---
 available:
-  - Druide
-  - Ensorceleur
-  - Magicien
-  - Sorcière
-  - Mage de Guerre
+ - Druide
+ - Ensorceleur
+ - Magicien
+ - Sorcière
+ - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: false
@@ -17,7 +17,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Control Flames
-writing_status: empty
+writing_status: finished
 ---
 Vous choisissez des flammes non magiques que vous pouvez voir et qui tiennent dans un cube de 5 ft. de côté. Vous leur appliquez l'un des effets suivants : 
 

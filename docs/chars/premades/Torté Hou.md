@@ -3,39 +3,39 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Tortue
+**Race :** Tortue
 
-__Classe :__ Gardien
+**Classe :** Gardien
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 13
+**Points de vie :** 13
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 16 (+3) | 16 (+3) | 16 (+3) | 11 (+1) | 18 (+4) | 14 (+2) |
-|  ◉ +5   |  ◎ +3   |  ◉ +5   |  ◎ +1   |  ◎ +4   |  ◉ +4   |
+| ◉ +5 | ◎ +3 | ◉ +5 | ◎ +1 | ◎ +4 | ◉ +4 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +3   | ◎ Investigation (_Int_) : +1  |
-| ◎ Arcanes (_Int_) : +1      | ◉ Médecine (_Sag_) : +6       |
-| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : +1<br>     |
-| ◎ Discrétion (_Dex_) : +3   | ◉ Perception (_Sag_) : +6     |
-| ◎ Dressage (_Sag_) : +4     | ◎ Persuasion (_Cha_) : +2     |
-| ◎ Escamotage (_Dex_) : +3   | ◎ Religion (_Int_) : +1       |
-| ◎ Histoire (_Int_) : +1     | ◎ Représentation (_Cha_) : +2 |
-| ◎ Intimidation (_Cha_) : +2 | ◉ Survie (_Sag_) : +6         |
-| ◉ Intuition (_Sag_) : +6    | ◉ Tromperie (_Cha_) : +4<br>  |
+| ◎ Acrobaties (*Dex*) : +3 | ◎ Investigation (*Int*) : +1 |
+| ◎ Arcanes (*Int*) : +1 | ◉ Médecine (*Sag*) : +6 |
+| ◎ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : +1<br> |
+| ◎ Discrétion (*Dex*) : +3 | ◉ Perception (*Sag*) : +6 |
+| ◎ Dressage (*Sag*) : +4 | ◎ Persuasion (*Cha*) : +2 |
+| ◎ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : +1 |
+| ◎ Histoire (*Int*) : +1 | ◎ Représentation (*Cha*) : +2 |
+| ◎ Intimidation (*Cha*) : +2 | ◉ Survie (*Sag*) : +6 |
+| ◉ Intuition (*Sag*) : +6 | ◉ Tromperie (*Cha*) : +4<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Torté, une ancienne joueuse de cartes compulsive dont l'addiction a causé une tragédie, et qui dévoue désormais le reste de sa longue vie à être un rempart inébranlable pour les autres, chaque coup encaissé étant un acte de rédemption.
 > 
 > **Objectif pour la session :**
 > Votre vœu est de protéger ceux qui ne peuvent se protéger. Votre objectif est simple : identifier la personne ou le groupe le plus vulnérable dans la situation actuelle et vous assurer qu'il ne leur arrive aucun mal, quitte à vous transformer en un mur de carapace et d'acier entre eux et le danger.
->  
+> 
 > **Parlez comme une Joueuse :** Votre vision du monde est celle d'une partie de cartes. Utilisez constamment des métaphores de jeu ("Il bluffe", "Quelle est la cote ?", "On ne fait pas tapis tout de suite"). Parlez lentement, avec une voix grave, et analysez tout le monde comme si vous cherchiez leurs "tics" à une table de jeu.
 > 
 > **La Forteresse de la Rédemption :** Vous êtes un roc. En combat, votre place est devant. Utilisez votre "Saisie du Gardien" pour bloquer les ennemis et votre aptitude "Double-Mise Protectrice" pour prendre les coups à la place des autres. Chaque blessure que vous subissez est une pénitence que vous acceptez avec une détermination stoïque.
@@ -51,23 +51,23 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Un [[jeu de cartes]] (expert de Jeanoir)
 
-__Langues__ : Commun, Reptilien, Gnome
+**Langues** : Commun, Reptilien, Gnome
 
 ### Description
 
-__Âge :__ 65 ans
+**Âge :** 65 ans
 
-__Taille :__ 1,80 m
+**Taille :** 1,80 m
 
-__Poids :__ 230 kg 
+**Poids :** 230 kg 
 
 Torté est une montagne de patience et de regret qui a pris la forme d'une tortue. Sa stature est massive et sa présence, immuable. Elle se déplace avec une lenteur et une économie de mouvement qui ne sont pas de la paresse, mais le fruit d'une force délibérée, comme un glacier qui avance inexorablement. Quand elle prend position, elle semble aussi enracinée dans le sol que le plus vieux des chênes.
 
 Sa carapace est immense et ancienne, une coupole de kératine sombre et usée. Elle n'est pas lisse ou décorée ; au contraire, elle est un témoignage de sa longue vie. Des cicatrices profondes, souvenirs de batailles oubliées ou de chutes malencontreuses, la sillonnent. Les sillons entre les scutelles sont profonds, et on pourrait presque y lire son âge comme sur les anneaux d'un arbre. Sa peau, d'un gris de mort et burinée de milliers de rides, est particulièrement épaisse et tannée autour de son cou et de ses articulations puissantes.
 
-Son visage est celui d'une créature qui a tout vu, et surtout le pire en elle-même. Ses yeux, petits et sombres, sont enfoncés dans des orbites profondes. Ils portent une double lueur : d'un côté, une tristesse infinie, le poids permanent de son échec passé ; de l'autre, la vigilance perçante et infatigable d'une joueuse de cartes qui n'a jamais cessé d'analyser les "tics" de ses adversaires – sauf que maintenant, ses adversaires sont les dangers du monde. Son bec corné est puissant, sa bouche habituellement fermée en une ligne dure et résolue. Elle ne sourit jamais.
+Son visage est celui d'une créature qui a tout vu, et surtout le pire en elle-même. Ses yeux, petits et sombres, sont enfoncés dans des orbites profondes. Ils portent une double lueur : d'un côté, une tristesse infinie, le poids permanent de son échec passé ; de l'autre, la vigilance perforante et infatigable d'une joueuse de cartes qui n'a jamais cessé d'analyser les "tics" de ses adversaires – sauf que maintenant, ses adversaires sont les dangers du monde. Son bec corné est puissant, sa bouche habituellement fermée en une ligne dure et résolue. Elle ne sourit jamais.
 
-Par-dessus sa carapace naturelle, Torté s'est chargée d'un équipement lourd et fonctionnel, sans le moindre ornement. Dans une main, elle porte un immense bouclier-tour en acier, si grand qu'il pourrait servir de porte. La surface est martelée par d'innombrables impacts, chaque bosse étant le souvenir d'un coup qui n'a pas atteint l'un de ses compagnons. À sa ceinture pendent deux marteaux légers à la tête massive, tandis que sa main brandit une longe épée bâtarde d'un acier noir,  une arme faite non pour la finesse, mais pour briser les os et stopper net une charge ennemie.
+Par-dessus sa carapace naturelle, Torté s'est chargée d'un équipement lourd et fonctionnel, sans le moindre ornement. Dans une main, elle porte un immense bouclier-tour en acier, si grand qu'il pourrait servir de porte. La surface est martelée par d'innombrables impacts, chaque bosse étant le souvenir d'un coup qui n'a pas atteint l'un de ses compagnons. À sa ceinture pendent deux marteaux légers à la tête massive, tandis que sa main brandit une longe épée bâtarde d'un acier noir, une arme faite non pour la finesse, mais pour briser les os et stopper net une charge ennemie.
 
 Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'elle porte non seulement pour se protéger, mais comme un acte de pénitence constant. Elle a troqué la légèreté d'un jeu de cartes contre le poids de l'acier, et elle est devenue le rempart qu'elle aurait toujours dû être.
 
@@ -82,13 +82,13 @@ Chaque pièce de son équipement semble incroyablement lourde, un fardeau qu'ell
 
 **Armure Naturelle.** Votre carapace vous confère une CA de base de 17 (votre modificateur de Dextérité n'affecte pas cette valeur). Vous ne pouvez pas porter d'armures légères, moyennes ou lourdes, mais vous pouvez utiliser un bouclier.
 
-**Défense Ostéodermique.** Vous pouvez vous retirer dans votre carapace pour une action. Jusqu'à ce que vous en sortiez, vous gagnez un bonus de +4 à la CA et vous avez l'avantage à vos jets de sauvegarde de Force et de Constitution. Tant que vous êtes dans votre carapace, vous êtes [[au sol]], votre vitesse est de 0 et ne peut pas être augmentée, vous avez le désavantage aux jets de sauvegarde de Dextérité, vous ne pouvez pas prendre de réaction, et la seule action que vous pouvez prendre est une action bonus pour sortir de votre carapace.
+**Défense Ostéodermique.** Vous pouvez vous retirer dans votre carapace pour une action. Jusqu'à ce que vous en sortiez, vous gagnez un bonus de +4 à la CA et vous avez l'avantage à vos jets de sauvegarde de Force et de Constitution. Tant que vous êtes dans votre carapace, vous êtes [[au sol]], votre vitesse est de 0 et ne peut pas être augmentée, vous avez le désavantage aux jets de sauvegarde de Dextérité, vous ne pouvez pas utiliser de réaction, et la seule action que vous pouvez entreprendre est une action bonus pour sortir de votre carapace.
 
 ### Aptitudes de Classe
 
 #### Saisie du Gardien
 
-Pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour se désengager.
+Pour une action bonus, vous pouvez utiliser la force de votre présence pour attirer les ennemis proches au combat. Jusqu'à la fin de votre prochain tour, vous ne pouvez pas bouger, et chaque créature de taille G ou inférieure que vous choisissez à 5 ft. ne peut pas volontairement s'éloigner de vous sans utiliser une action pour Se Désengager.
 
 ### Équipement
 
@@ -121,23 +121,23 @@ Ce jour-là, Torté "Double-Mise" est morte, et Torté la Gardienne est née. El
 Lorsque qu'un allié se trouvant à 5 pieds de vous est touché par une attaque, vous pouvez utiliser votre réaction pour subir les dégâts à sa place. Lorsque vous le faites, vous pouvez choisir de "doubler la mise" sur votre propre résilience. Lancez un d6 :
 
 - **Sur un 1 :** Vous subissez le double des dégâts. Le pari est totalement perdu.
-- __Sur un 2 :__ Vous subissez les dégâts normalement.
-- **Sur un 3-5 :** Vous avez la résistance à cette instance de dégâts.
+- **Sur un 2 :** Vous subissez les dégâts normalement.
+- **Sur un 3-5 :** Vous obtenez une résistance à cette instance de dégâts.
 - **Sur un 6 :** Votre détermination vous a rendu le cuir plus dur que l'acier. Vous ne subissez aucun dégât.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées après un repos long.
 
 ### Traits de Personnalité
 
-__Traits :__ J'ai vaincu mon addiction, mais je ne suis qu'un à petit instant près de retomber dedans. Je planifie toutes les situations possibles. Il ne faut rien laisser à la chance
+**Traits :** J'ai vaincu mon addiction, mais je ne suis qu'un à petit instant près de retomber dedans. Je planifie toutes les situations possibles. Il ne faut rien laisser à la chance
 
-__Idéal :__ Quand j'étais dans le besoin, j'ai pu me reposer sur les autres. Maintenant, je veux être celle sur laquelle les autres se reposent.
+**Idéal :** Quand j'étais dans le besoin, j'ai pu me reposer sur les autres. Maintenant, je veux être celle sur laquelle les autres se reposent.
 
-__Lien :__ La personne qui m'a sauvé de mon addiction est la raison pour laquelle je suis toujours en vie.
+**Lien :** La personne qui m'a sauvé de mon addiction est la raison pour laquelle je suis toujours en vie.
 
-__Défaut :__ Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
+**Défaut :** Je suis un grand joueur. Je suis simplement mauvais en maths et en logique.
 
-__Alignement :__ Loyal Bon
+**Alignement :** Loyal Bon
 
 ## Conseils de Jeu
 

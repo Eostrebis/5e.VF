@@ -33,29 +33,29 @@ Vous devriez également penser à de précédentes victoires ou défaites qui on
 
 Vous pouvez créer un capitaine rapidement en suivant ces suggestions. Commencez par faire de la Force ou de la Dextérité votre caractéristique principale, suivie du Charisme. Ensuite, choisissez l'Histoire et la Persuasion comme compétences et prenez le style de combat Duel. Enfin, choisissez un historique qui reflète votre expérience de management.
 
-| **Le capitaine** |                   |                                         |                 |                     |
+| **Le capitaine** | | | | |
 | ---------------- | ----------------- | --------------------------------------- | --------------- | ------------------- |
-| Niveau           | Bonus de Maîtrise | Aptitudes                               | Dés de Bataille | Aptitude de Cohorte |
-| 1                | +2                | [[#Leader Né]], [[#Style de Combat]]    | —               | —                   |
-| 2                | +2                | [[#Cohorte]]                            | —               | ☑                   |
-| 3                | +2                | [[#Étendard]], [[#Tactiques de Guerre]] | 2d8             | ✖                   |
-| 4                | +2                | [[#Augmentation de Caractéristiques]]   | 2d8             | ✖                   |
-| 5                | +3                | [[#Blitz]]                              | 2d8             | ✖                   |
-| 6                | +3                | —                                       | 3d8             | ☑                   |
-| 7                | +3                | Aptitude d'[[#Étendard]]                | 3d8             | ✖                   |
-| 8                | +3                | [[#Augmentation de Caractéristiques]]   | 3d8             | ✖                   |
-| 9                | +4                | [[#Tactiques Avancées]]                 | 3d8             | ✖                   |
-| 10               | +4                | —                                       | 3d10            | ☑                   |
-| 11               | +4                | [[#Frappe Coordonnée]]                  | 3d10            | ✖                   |
-| 12               | +4                | [[#Augmentation de Caractéristiques]]   | 3d10            | ✖                   |
-| 13               | +5                | Aptitude d'[[#Étendard]]                | 3d10            | ✖                   |
-| 14               | +5                | —                                       | 4d10            | ☑                   |
-| 15               | +5                | [[#Par l'Exemple]]                      | 4d10            | ✖                   |
-| 16               | +5                | [[#Augmentation de Caractéristiques]]   | 4d10            | ✖                   |
-| 17               | +6                | Aptitude d'[[#Étendard]]                | 4d10            | ✖                   |
-| 18               | +6                | —                                       | 4d12            | ☑                   |
-| 19               | +6                | [[#Augmentation de Caractéristiques]]   | 4d12            | ✖                   |
-| 20               | +6                | [[#Commandant Légendaire]]              | 4d12            | ✖                   |
+| Niveau | Bonus de Maîtrise | Aptitudes | Dés de Bataille | Aptitude de Cohorte |
+| 1 | +2 | [[#Leader Né]], [[#Style de Combat]] | — | — |
+| 2 | +2 | [[#Cohorte]] | — | ☑ |
+| 3 | +2 | [[#Étendard]], [[#Tactiques de Guerre]] | 2d8 | ✖ |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 2d8 | ✖ |
+| 5 | +3 | [[#Blitz]] | 2d8 | ✖ |
+| 6 | +3 | — | 3d8 | ☑ |
+| 7 | +3 | Aptitude d'[[#Étendard]] | 3d8 | ✖ |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 3d8 | ✖ |
+| 9 | +4 | [[#Tactiques Avancées]] | 3d8 | ✖ |
+| 10 | +4 | — | 3d10 | ☑ |
+| 11 | +4 | [[#Frappe Coordonnée]] | 3d10 | ✖ |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 3d10 | ✖ |
+| 13 | +5 | Aptitude d'[[#Étendard]] | 3d10 | ✖ |
+| 14 | +5 | — | 4d10 | ☑ |
+| 15 | +5 | [[#Par l'Exemple]] | 4d10 | ✖ |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 4d10 | ✖ |
+| 17 | +6 | Aptitude d'[[#Étendard]] | 4d10 | ✖ |
+| 18 | +6 | — | 4d12 | ☑ |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 4d12 | ✖ |
+| 20 | +6 | [[#Commandant Légendaire]] | 4d12 | ✖ |
 
 # Aptitudes de Classes
 
@@ -93,9 +93,9 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 ## Leader Né
 
 
-Au niveau 1, vos compétences et votre personnalité magnétique vous confère un talent pour le management. Les masses se réfèrent à vous pour votre autorité et votre influence, surtout en temps de crise. Ainsi, vous avez l'avantage aux jets de Charisme (Persuasion) que vous réalisez pour convaincre quelqu'un de vous laisser prendre les commandes ou pour donner des ordres pendant une situation périlleuse.
+Au niveau 1, vos compétences et votre personnalité magnétique vous confère un talent pour le management. Les masses se réfèrent à vous pour votre autorité et votre influence, surtout en temps de crise. Ainsi, vous avez l'avantage aux jets de Charisme (Persuasion) que vous effectuez pour convaincre quelqu'un de vous laisser prendre les commandes ou pour donner des ordres pendant une situation périlleuse.
 
-De plus, vous pouvez utiliser votre modificateur de Charisme au lieu de votre modificateur d'Intelligence pour tous les jets de caractéristique que vous réalisez en lien avec la planification, la stratégie ou la tactique.
+De plus, vous pouvez utiliser votre modificateur de Charisme au lieu de votre modificateur d'Intelligence pour tous les jets de caractéristique que vous effectuez en lien avec la planification, la stratégie ou la tactique.
 
 ## Style de Combat
 
@@ -103,7 +103,7 @@ Au niveau 1, vous adoptez un style de combat comme spécialité. Choisissez parm
 
 #### Archerie
 
-Vous gagnez un bonus de +2 aux jets d'attaque que vous réalisez avec des armes à distance.
+Vous gagnez un bonus de +2 aux jets d'attaque que vous effectuez avec des armes à distance.
 
 #### Défense
 
@@ -155,15 +155,15 @@ L'alignement de votre cohorte se trouve à un pas du vôtre et possède des trai
 
 À partir du niveau 3, vous adoptez un étendard que vous arborez au combat, que vous blasonnez sur votre armure et que vous accrochez à votre sceau. Vous pouvez sélectionner votre étendard parmi ceux présentés ci-dessous. Votre choix vous confère des aptitudes aux niveaux 3, 7, 13 et 17.
 
-| Étendard                    | Description                                                                                                  |
+| Étendard | Description |
 | --------------------------- | ------------------------------------------------------------------------------------------------------------ |
-| [[Étendard du Dragon]]      | Utilise les manœuvres pour annihiler ses ennemis sur le champ de bataille                                    |
-| [[Étendard de l'Aigle]]     | Un maître de l'arc qui utilise des tirs de précision pour abattre ses ennemis d'en haut                      |
-| [[Étendard du Jolly Roger]] | Un duelliste et bretteur entraîné aux sabres et tactiques déloyales des brigands                             |
-| [[Étendard du Lion]]        | Un chef chevaleresque qui défie ses adversaires en combat d'honneur                                          |
-| [[Étendard du Bélier]]      | Pousse ses adversaires et les met au sol pour gagner l'avantage                                              |
-| [[Étendard du Corbeau]]     | Un maître furtif de la guérilla et des tactiques secrètes                                                    |
-| [[Étendard de la Tortue]]   | Met l'accent sur la défense avant tout, en utilisant des tactiques d'armures lourdes et de mur de boucliers. |
+| [[Étendard du Dragon]] | Utilise les manœuvres pour annihiler ses ennemis sur le champ de bataille |
+| [[Étendard de l'Aigle]] | Un maître de l'arc qui utilise des tirs de précision pour abattre ses ennemis d'en haut |
+| [[Étendard du Jolly Roger]] | Un duelliste et bretteur entraîné aux sabres et tactiques déloyales des brigands |
+| [[Étendard du Lion]] | Un chef chevaleresque qui défie ses adversaires en combat d'honneur |
+| [[Étendard du Bélier]] | Pousse ses adversaires et les met au sol pour gagner l'avantage |
+| [[Étendard du Corbeau]] | Un maître furtif de la guérilla et des tactiques secrètes |
+| [[Étendard de la Tortue]] | Met l'accent sur la défense avant tout, en utilisant des tactiques d'armures lourdes et de mur de boucliers. |
 
 ## Tactiques de Guerre
 
@@ -181,11 +181,11 @@ Si l'une de vos manœuvres demande un jet de sauvegarde pour résister à ses ef
 
 Vous pouvez dépenser vos dés de bataille dans les manœuvres suivantes : 
 
-__Préparation.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle réalise avant la fin de votre prochain tour.
+**Préparation.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille pour encourager vos alliés. Chaque créature alliée dans un rayon de 30 ft. de vous que vous pouvez voir ou entendre ajouter le dé de bataille à tous les jets de sauvegarde qu'elle effectue avant la fin de votre prochain tour.
 
-__Ralliement.__ Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
+**Ralliement.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
 
-__Frappe Stupéfiante.__ Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
+**Frappe Stupéfiante.** Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
 
 ## Augmentation de Caractéristiques
 
@@ -201,11 +201,11 @@ En tant qu'alchimiste, vous pouvez aussi décider de plutôt choisir une nouvell
 
 Au niveau 9, vos manœuvres évoluent : 
 
-__Préparation.__ Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils réalisent avant le début de votre prochain tour.
+**Préparation.** Vos alliés peuvent également ajouter le dé de bataille aux jets de caractéristique qu'ils effectuent avant le début de votre prochain tour.
 
-__Ralliement.__ Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
+**Ralliement.** Lorsque vous dépensez un dé de bataille pour rendre des points de vie à une créature, cette créature gagne aussi un nombre de points de vie temporaires égal à votre niveau de capitaine.
 
-__Frappe Stupéfiante.__ Lorsque vous touchez avec une frappe stupéfiante, vous ajoutez le dé de bataille au jet de dégâts.
+**Frappe Stupéfiante.** Lorsque vous touchez avec une frappe stupéfiante, vous ajoutez le dé de bataille au jet de dégâts.
 
 ## Frappe Coordonnée
 
@@ -213,10 +213,10 @@ Au niveau 11, vous et votre cohorte combattez comme une unité soudée. Une fois
 
 ## Par l'Exemple
 
-À partir du niveau 15, lorsque vous obtenez un 20 sur un jet d'attaque, de caractéristique ou de sauvegarde, chaque créature amicale dans un rayon de 30 ft. a l'avantage lorsqu'elle réalise le même type de jet avant le début de votre prochain tour.
+À partir du niveau 15, lorsque vous obtenez un 20 sur un jet d'attaque, de caractéristique ou de sauvegarde, chaque créature amicale dans un rayon de 30 ft. a l'avantage lorsqu'elle effectue le même type de jet avant le début de votre prochain tour.
 
 ## Commandant Légendaire
 
-Au niveau 20, vous avez 3 actions légendaires. À la fin du tour d'une autre créature, vous pouvez dépenser une action légendaire pour prendre l'action de votre choix ou pour permettre à une créature à 60 ft. qui peut vous voir ou vous entendre de prendre l'action de son choix. Si une créature utilise cette action pour attaquer, elle peut attaquer plus d'une fois si l'une de ses capacités le permet.
+Au niveau 20, vous avez 3 actions légendaires. À la fin du tour d'une autre créature, vous pouvez dépenser une action légendaire pour entreprendre l'action de votre choix ou pour permettre à une créature à 60 ft. qui peut vous voir ou vous entendre d'entreprendre l'action de son choix. Si une créature utilise cette action pour attaquer, elle peut attaquer plus d'une fois si l'une de ses capacités le permet.
 
 Vous regagnez toutes les actions légendaires utilisées lorsque vous terminez un repos long.

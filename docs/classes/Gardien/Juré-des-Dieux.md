@@ -5,7 +5,7 @@ Les murmures des dieux, le tintement des cloches et l'harmonie des hymnes vous o
 
 ## Maîtrises Supplémentaires
 
-Lorsque vous adoptez ce serment au niveau 3, vous obtenez la maîtrise de la Médecine et de la Religion. Si vous avez déjà la maîtrise dans l'une de ces compétences, votre bonus de maîtrise est doublé pour les jets de caractéristiques que vous réalisez en l'utilisant (i.e. vous avez l'expertise).
+Lorsque vous adoptez ce serment au niveau 3, vous obtenez la maîtrise de la Médecine et de la Religion. Si vous avez déjà la maîtrise dans l'une de ces compétences, votre bonus de maîtrise est doublé pour les jets de caractéristiques que vous effectuez en l'utilisant (i.e. vous avez l'expertise).
 
 ## Marque Ointe
 
@@ -19,7 +19,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Manteau Sacré
 

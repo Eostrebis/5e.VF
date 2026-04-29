@@ -7,13 +7,13 @@ Lorsque la souffrance du monde se fait trop lourde et les pleurs des angoissés 
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                            |
+| Niveau de Martyr | Sorts |
 | ---------------- | ---------------------------------------------------------------- |
-| 3                | [[Mot de Soin]], [[sanctuaire]]                                  |
-| 5                | [[Amélioration de caractéristiques]], [[restauration partielle]] |
-| 9                | [[Délivrance des malédictions]], [[retour à la vie]]             |
-| 13               | [[Protection contre la mort]], [[Liberté de Mouvement]]          |
-| 17               | [[Mot de soin de groupe]], [[rappel à la vie]]                   |
+| 3 | [[Mot de Soin]], [[sanctuaire]] |
+| 5 | [[Amélioration de caractéristiques]], [[restauration partielle]] |
+| 9 | [[Délivrance des malédictions]], [[retour à la vie]] |
+| 13 | [[Protection contre la mort]], [[Liberté de Mouvement]] |
+| 17 | [[Mot de soin de groupe]], [[rappel à la vie]] |
 
 ## Cantrips
 
@@ -31,7 +31,7 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 ## Bénédiction du Pain Rompu
 
-À partir du niveau 14, une fois par jour lorsque vous terminez un repos court ou long, choisissez jusqu'à 5 créatures que vous pouvez voir à la fin du repos pour les bénir. Cette bénédiction dure jusqu'à ce que la créature termine un repos court ou long. À chaque fois que la créature bénie réalise un jet d'attaque, de caractéristiques, ou de sauvegarde, elle peut dépenser la bénédiction pour relancer le dé et doit choisir le nouveau résultat.
+À partir du niveau 14, une fois par jour lorsque vous terminez un repos court ou long, choisissez jusqu'à 5 créatures que vous pouvez voir à la fin du repos pour les bénir. Cette bénédiction dure jusqu'à ce que la créature termine un repos court ou long. À chaque fois que la créature bénie effectue un jet d'attaque, de caractéristiques, ou de sauvegarde, elle peut dépenser la bénédiction pour relancer le dé et doit choisir le nouveau résultat.
 
 ## Oint Soigneur
 

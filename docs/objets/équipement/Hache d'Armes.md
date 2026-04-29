@@ -6,6 +6,6 @@ englishname: Battleaxe
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés        |
+| Dégâts | Propriétés |
 | -------------- | ----------------- |
 | 1d8 tranchants | Polyvalent (1d10) |

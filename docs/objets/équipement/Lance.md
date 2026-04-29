@@ -6,6 +6,6 @@ englishname: Spear
 writing_status: finished
 ---
 
-| Dégâts       | Propriétés                    |
+| Dégâts | Propriétés |
 | ------------ | ----------------------------- |
-| 1d6 perçants | Jet (20/60), Polyvalent (1d8) |
+| 1d6 perforants | Jet (20/60), Polyvalent (1d8) |

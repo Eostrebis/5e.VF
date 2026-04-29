@@ -7,6 +7,6 @@ Ere: Renaissance
 writing_status: empty
 ---
 
-| Dégâts       | Propriétés                                                         |
+| Dégâts | Propriétés |
 | ------------ | ------------------------------------------------------------------ |
-| 2d8 perçants | Munitions (Portée 80/320), Sec, Chargement, Incident, À deux mains |
+| 2d8 perforants | Munitions (Portée 80/320), Sec, Chargement, Incident, À deux mains |

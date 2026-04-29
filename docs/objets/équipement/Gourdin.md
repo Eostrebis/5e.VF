@@ -5,6 +5,6 @@ poids: 2
 englishname: Club
 writing_status: finished
 ---
-| Dégâts          | Propriétés |
+| Dégâts | Propriétés |
 | --------------- | ---------- |
-| 1d4 contondants | Léger      |
+| 1d4 contondants | Léger |

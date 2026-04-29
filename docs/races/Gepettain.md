@@ -8,13 +8,13 @@ Véritables joies pour les enfants, les gepettains ressemblent à des jouets viv
 
 En tant que race, les gepettains sont une étrangeté. Même s'ils sont rares, il en existe suffisamment pour qu'ils puissent être considéré en tant que groupe et en tant que race d'êtres vivants, et pas seulement comme des accidents magiques. Bien qu'il y ait des gens dévoués à la création de gepettains (comme pour les golems), beaucoup d'entre eux s'animent par eux-mêmes.
 
-Physiquement, les gepettains sont généralement plus petits que des halfelins. Leurs caractéristiques physiques varient grandement, mais ils sont quasiment toujours humanoïdes de forme. par simplicité, on classe les gepettains selon le matériel utilisé pour leur confection : 
+Physiquement, les gepettains sont généralement plus petits que des halfelins. Leurs caractéristiques physiques varient grandement, mais ils sont quasiment toujours humanoïdes de forme. Par simplicité, on classe les gepettains selon le matériel utilisé pour leur confection : 
 
-| Sous-classe      | Description        |
+| Sous-classe | Description |
 | ---------------- | ------------------ |
-| [[#Biscuit]]     | Fait de porcelaine |
-| [[#Marionnette]] | Fait de bois       |
-| [[#Peluche]]     | Fait de tissus     |
+| [[#Biscuit]] | Fait de porcelaine |
+| [[#Marionnette]] | Fait de bois |
+| [[#Peluche]] | Fait de tissus |
 
 ![[Gepettain_plush.png]]
 ### Culture
@@ -41,13 +41,13 @@ Les gepettains biscuits sont une sorte de poupée de porcelaine, fabriqués à p
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Anatomie Construite.** Vous êtes immunisé aux maladies non magiques. Vous n'avez pas besoin de manger ou de respirer, mais vous pouvez ingérer de la nourriture ou des boissons si vous le souhaitez. Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un repos long en passant 4 heures dans un état immobile, durant lequel vous restez conscient.
 
 **Apparence Trompeuse.** Tant que vous êtes immobile, vous êtes indistinguable d'une véritable poupée de porcelaine.
 
-**Coup Soudain.** Lorsque vous infligez des dégâts à une créature avec une attaque armée pendant le premier tour d'un combat, cette créature prend un nombre de dégâts supplémentaires égal à votre bonus de maîtrise.
+**Coup Soudain.** Lorsque vous infligez des dégâts à une créature avec une attaque armée pendant le premier tour d'un combat, cette créature subit un nombre de dégâts supplémentaires égal à votre bonus de maîtrise.
 
 **Dérangeant.** Vous maîtrisez la compétence Intimidation, et vous avez l'avantage aux jets de Charisme (Intimidation) contre les créatures qui ne vous ont jamais vu bouger.
 
@@ -69,13 +69,13 @@ Les gepettains marionnettes sont principalement faits de vois, avec un visage pe
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Anatomie Construite.** Vous êtes immunisé aux maladies non magiques. Vous n'avez pas besoin de manger ou de respirer, mais vous pouvez ingérer de la nourriture ou des boissons si vous le souhaitez. Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un repos long en passant 4 heures dans un état immobile, durant lequel vous restez conscient.
 
 **Apparence Trompeuse.** Tant que vous êtes immobile, vous êtes indistinguable d'une véritable marionnette.
 
-**Fils Attachés.** Lorsque vous réalisez une attaque avec une arme de mêlée qui n'a pas la propriété [[Propriétés d'Arme#À Deux Mains|À Deux Mains]] pendant votre tour, l'arme gagne la propriété [[Propriétés d'Arme#Portée|Portée]] si elle ne l'a pas déjà.
+**Fils Attachés.** Lorsque vous réalisez une attaque avec une arme de mêlée qui n'a pas la propriété [[Propriétés d'Arme#À Deux Mains|À Deux Mains]] pendant votre tour, l'arme gagne la propriété [[Propriétés d'Arme#Allonge|Allonge]] si elle ne l'a pas déjà.
 
 **Pantomime.** Vous maîtrisez la compétence Représentation, et vous avez l'avantage aux jets de Représentation pour danser.
 
@@ -97,7 +97,7 @@ Les gepettains peluches sont n'importe quelle forme de gepettain doux ou fourré
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Anatomie Construite.** Vous êtes immunisé aux maladies non magiques. Vous n'avez pas besoin de manger ou de respirer, mais vous pouvez ingérer de la nourriture ou des boissons si vous le souhaitez. Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un repos long en passant 4 heures dans un état immobile, durant lequel vous restez conscient.
 
@@ -105,4 +105,4 @@ Les gepettains peluches sont n'importe quelle forme de gepettain doux ou fourré
 
 **Adorable.** Vous maîtrisez la compétence Persuasion, et vous avez l'avantage aux jets de Charisme (Persuasion) sur les enfants ou autres humanoïdes adorateurs de mignonneries.
 
-**Tout Moelleux.** Lorsque vous prenez des dégâts contondants, vous pouvez utiliser votre réaction pour gagner la résistance à cette instance de dégâts, et être repoussé de 5 ft. par rapport à la source de ces dégâts. Vous ne pouvez pas utiliser cette réaction si vous ne pouvez pas être repoussé de la sorte.
+**Tout Moelleux.** Lorsque vous subissez des dégâts contondants, vous pouvez utiliser votre réaction pour obtenir une résistance à cette instance de dégâts, et être repoussé de 5 ft. par rapport à la source de ces dégâts. Vous ne pouvez pas utiliser cette réaction si vous ne pouvez pas être repoussé de la sorte.

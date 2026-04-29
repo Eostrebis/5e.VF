@@ -1,6 +1,6 @@
 ---
 creator: true
 hide:
-  - navigation
-  - toc
+ - navigation
+ - toc
 ---

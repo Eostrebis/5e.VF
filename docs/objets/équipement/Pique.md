@@ -6,6 +6,6 @@ englishname: Pike
 writing_status: finished
 ---
 
-| Dégâts        | Propriétés                   |
+| Dégâts | Propriétés |
 | ------------- | ---------------------------- |
-| 1d10 perçants | Lourde, Portée, À deux mains |
+| 1d10 perforants | Lourde, Allonge, À deux mains |

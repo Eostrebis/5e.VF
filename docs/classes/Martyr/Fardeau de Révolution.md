@@ -9,13 +9,13 @@ Ces martyrs ne sont pas seulement désignés pour affronter des rois ; toutes 
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                |
+| Niveau de Martyr | Sorts |
 | ---------------- | ---------------------------------------------------- |
-| 3                | [[Injonction]], [[Héroïsme]]                         |
-| 5                | [[Immobilisation de Personne]], [[Arme Magique]]     |
-| 9                | [[Célérité]], [[Frappe Divine]]                      |
-| 13               | [[Peau de pierre]], [[mur de feu]]                   |
-| 17               | [[Immobilisation de monstre]], [[lien télépathique]] |
+| 3 | [[Injonction]], [[Héroïsme]] |
+| 5 | [[Immobilisation de Personne]], [[Arme Magique]] |
+| 9 | [[Célérité]], [[Frappe Divine]] |
+| 13 | [[Peau de pierre]], [[mur de feu]] |
+| 17 | [[Immobilisation de monstre]], [[lien télépathique]] |
 
 ## Maîtrise supplémentaire
 
@@ -23,7 +23,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Forteresse de la Rébellion
 
-Également au niveau 1, vous pouvez utiliser une action bonus pour gagner un nombre de points de vie temporaires égal à 1d12 + votre niveau de martyr, pour 1 heure.
+Également au niveau 1, vous pouvez utiliser une action bonus pour gagner un nombre de points de vie temporaires égal à 1d12 + votre niveau de martyr, pendant 1 heure.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

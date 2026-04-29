@@ -17,7 +17,7 @@ Au niveau 10, cette aptitude s'améliore : le nombre de points de vie temporaire
 
 ## Viser Plus Haut
 
-Au niveau 7, vous pouvez utiliser votre action pour demander à votre ennemi de se rendre. Lorsque vous le faites, une créature de votre choix à 30 ft. qui peut vous voir ou vous entendre doit réaliser un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de faits. Une créature qui ne peut pas être [[apeuré|apeurée]] réussit automatiquement ce jet.
+Au niveau 7, vous pouvez utiliser votre action pour demander à votre ennemi de se rendre. Lorsque vous le faites, une créature de votre choix à 30 ft. qui peut vous voir ou vous entendre doit effectuer un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de faits. Une créature qui ne peut pas être [[apeuré|apeurée]] réussit automatiquement ce jet.
 
 Si elle rate, la créature est [[incapacité|incapacitée]] et ne peut pas bouger pendant 1 minute, ou jusqu'à ce qu'elle prenne des dégâts. Une créature peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet sur un succès.
 
@@ -31,6 +31,6 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos pou
 
 Au niveau 14, votre héroïsme est sans limite. Les aptitudes de cette sous-classe bénéficient des effets suivants : 
 
- - Tant qu'une créature a des points de vie temporaires conférés par l'aptitude [[#Exposer la Loi]], elle a la résistance aux dégâts contondants, tranchants et perçants.
+ - Tant qu'une créature a des points de vie temporaires conférés par l'aptitude [[#Exposer la Loi]], elle obtient une résistance aux dégâts contondants, tranchants et perforants.
  - La portée de votre Aura Féroce s'étend à 30 ft.
  - Vous pouvez regagner une utilisation de Viser Plus Haut en dépensant un dé de risque pour une action bonus.

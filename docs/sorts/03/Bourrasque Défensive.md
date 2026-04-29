@@ -1,10 +1,10 @@
 ---
 available:
-  - Ranger
-  - Magicien
-  - Ensorceleur
-  - Sorcière
-  - Artificier
+ - Ranger
+ - Magicien
+ - Ensorceleur
+ - Sorcière
+ - Artificier
 level: 3
 school: Abjuration
 Verbal: true
@@ -17,6 +17,6 @@ Portee: Personnelle (rayon de 15 ft.)
 Concentration: true
 Rituel: false
 englishname: Warding Gust
-writing_status: empty
+writing_status: finished
 ---
 Vous générez un vent violent qui détourne les projectiles. Les attaques à distance contre toutes les créatures dans une zone centrée sur vous et de 15 ft. de rayon ont le désavantage.

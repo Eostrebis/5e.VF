@@ -3,7 +3,7 @@ La première étape d'une partie de D&D est d'imaginer et de se créer son propr
 
 # Choisir une race
 
-N'importe quel personnage, qu'importe son histoire ou son apparence, appartient à une race, *i.e* est un membre de l'une des espèces intelligentes du monde d'[[Eostrebis]]. Certaines races sont divisées en sous-race, comme les nains des montagnes ou les elfes des mers. D'autres sont uniques, il y a de quoi choisir !  
+N'importe quel personnage, qu'importe son histoire ou son apparence, appartient à une race, *i.e* est un membre de l'une des espèces intelligentes du monde d'[[Eostrebis]]. Certaines races sont divisées en sous-race, comme les nains des montagnes ou les elfes des mers. D'autres sont uniques, il y a de quoi choisir ! 
 Toutes les [[races]] sont compilées dans un seul fichier, et toutes les options y sont présentées, ainsi qu'un peu de lore et d'autres informations les concernant.
 
 Le choix de la race affecte de nombreux aspects de votre personnage. Il établit des qualités fondamentales qui vont marquer toute sa carrière d'aventurier. Lorsque vous prenez cette décision, gardez bien à l'esprit le genre de personnage que vous voulez jouer. Si un orque est un bon choix pour un barbare, un elfe est peut-être une meilleure option pour un fragile magicien. 
@@ -20,7 +20,7 @@ Ce trait indique l'âge à partir duquel un membre de la race est considéré co
 Afin de déterminer l'âge de départ de votre personnage, chaque classe contient une indication du temps de formation nécessaire afin d'y gagner un niveau. Il suffit de le rajouter à l'âge indiqué pour la race pour être considéré comme un adulte.
 
 ### Taille
-Les personnages de la majorité des races sont de taille *Moyenne (M)*, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille _Petite (P)_ (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre Équipements.
+Les personnages de la majorité des races sont de taille *Moyenne (M)*, une catégorie de taille qui englobe des hauteurs d'en gros 1,20 m à 2,40 m. Quelques races sont de taille *Petite (P)* (entre 60 cm et 1,20 m), et certaines règles de jeu les affectent différemment. La plus importante d'entre elles précise que les personnages de taille Petite ont des difficultés à manier des armes lourdes, comme cela l'est indiqué dans le chapitre Équipements.
 
 ### Vitesse
 Votre vitesse détermine la distance que vous pouvez parcourir lors des Déplacements et lors des Combats.
@@ -83,17 +83,17 @@ Chaque caractéristique d'une créature a une valeur, un nombre qui définit son
 
 | Valeur de caractéristique | Modificateur |
 | ------------------------- | ------------ |
-| 0-1                       | -5           |
-| 2-3                       | -4           |
-| 4-5                       | -3           |
-| 6-7                       | -2           |
-| 8-9                       | -1           |
-| 10-11                     | +0           |
-| 12-13                     | +1           |
-| 14-15                     | +2           |
-| 16-17                     | +3           |
-| 18-19                     | +4           |
-| 20-21                     | +5           |
+| 0-1 | -5 |
+| 2-3 | -4 |
+| 4-5 | -3 |
+| 6-7 | -2 |
+| 8-9 | -1 |
+| 10-11 | +0 |
+| 12-13 | +1 |
+| 14-15 | +2 |
+| 16-17 | +3 |
+| 18-19 | +4 |
+| 20-21 | +5 |
 
 Afin de déterminer les caractéristiques de votre personnage, vous pouvez employer n'importe laquelle de ces trois méthodes : 
 
@@ -105,19 +105,19 @@ Afin de déterminer les caractéristiques de votre personnage, vous pouvez emplo
 
 | Score de Caractéristique | Coût en Points |
 | ------------------------ | ------------- |
-| 6                        | -2            |
-| 7                        | -1            |
-| 8                        | 0             |
-| 9                        | 1             |
-| 10                       | 2             |
-| 11                       | 3             |
-| 12                       | 4             |
-| 13                       | 5             |
-| 14                       | 7             |
-| 15                       | 9             |
-| 16                       | 11            |
-| 17                       | 13            |
-| 18                       | 15            |
+| 6 | -2 |
+| 7 | -1 |
+| 8 | 0 |
+| 9 | 1 |
+| 10 | 2 |
+| 11 | 3 |
+| 12 | 4 |
+| 13 | 5 |
+| 14 | 7 |
+| 15 | 9 |
+| 16 | 11 |
+| 17 | 13 |
+| 18 | 15 |
 
 
 ## Utiliser chaque caractéristique
@@ -140,7 +140,7 @@ Un jet de Force peut modéliser toute tentative de soulever, pousser, tirer ou c
  - S'accrocher à un chariot pour se faire traîner
 
 #### Jets d'attaque et de dégâts
-Vous ajoutez votre modificateur de Force à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de corps à corps comme une masse, une hache d'armes ou une javeline. Les armes de corps à corps sont utilisées pour faire des attaques au corps à corps, et certaines d'entre elles peuvent être jetées pour effectuer une attaque à distance.
+Vous ajoutez votre modificateur de Force à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de mêlée comme une masse, une hache d'armes ou une javeline. Les armes de mêlée sont utilisées pour faire des attaques de mêlée, et certaines d'entre elles peuvent être jetées pour effectuer une attaque à distance.
 
 #### Poids
 Votre Force détermine le poids que vous pouvez porter. Les termes suivants définissent ce que vous pouvez soulever ou transporter.
@@ -160,7 +160,7 @@ Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement
 
 **Acrobaties**. Un jet de Dextérité (Acrobaties) couvre votre tentative pour rester sur vos pieds dans une situation délicate, comme lorsque vous essayez de courir sur de la glace, de tenir en équilibre sur une corde raide, ou de rester debout sur le pont d'un navire chahuté. Le MJ peut également demander un jet de Dextérité (Acrobaties) pour voir si vous pouvez effectuer des acrobaties, comme un plongeon, une roulade ou un saut périlleux.
 
-**Discrétion**. Faite un jet de Dextérité (Discrétion) lorsque vous essayez de vous cacher des ennemis, de vous glisser entre des gardes, filer sans vous faire remarquer, ou vous échapper sans être vu ou entendu.
+**Discrétion**. Faite un jet de Dextérité (Discrétion) lorsque vous essayez de vous Cacher des ennemis, de vous glisser entre des gardes, filer sans vous faire remarquer, ou vous échapper sans être vu ou entendu.
 
 **Escamotage**. Chaque fois que vous tentez une manipulation ou une fourberie, comme prendre quelque chose à quelqu'un ou dissimuler un objet sur vous-même, faites un jet de Dextérité (Escamotage). Le MJ peut également demander un jet de Dextérité (Escamotage) pour déterminer si vous pouvez dérober une bourse ou glisser quelque chose dans la poche de quelqu'un.
 
@@ -174,18 +174,18 @@ Un jet de Dextérité peut modéliser toute tentative de se déplacer rapidement
 - Jouer d'un instrument
 - Fabriquer un petit objet ou un objet avec de petits détails
 
-> #### Se cacher
-> En premier lieu, le MJ décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui recherche activement des signes de votre présence.  
+> #### Se Cacher
+> En premier lieu, le MJ décide si les circonstances sont appropriées pour se cacher. Ensuite, si vous essayez de vous Cacher, faites un jet de Dextérité (Discrétion). Tant que vous n'êtes pas découvert ou que vous n'arrêtez pas de vous cacher, le résultat de ce jet est celui qui sera pris en compte pour une opposition avec le jet de Sagesse (Perception) de toute créature qui Cherche activement des signes de votre présence. 
 > 
-> Vous ne pouvez pas vous cacher d'une créature qui peut vous voir clairement, et vous révélez votre position si vous faites du bruit, comme crier ou renverser un vase. Une créature invisible ne peut pas être vue, elle peut donc toujours essayer de se cacher. Les signes de son passage peuvent toutefois être découverts et elle doit donc rester calme.  
-> En combat, la plupart des créatures sont attentives aux signes de danger autour d'elles, donc si vous sortez de votre cachette pour vous approcher d'une créature, elle va normalement vous voir. Toutefois, dans certaines circonstances, le MD peut vous permettre de rester caché si vous vous approchez d'une créature qui est distraite, vous permettant ainsi de gagner un avantage lors de votre attaque avant d'être vu.  
+> Vous ne pouvez pas vous Cacher d'une créature qui peut vous voir clairement, et vous révélez votre position si vous faites du bruit, comme crier ou renverser un vase. Une créature invisible ne peut pas être vue, elle peut donc toujours essayer de Se Cacher. Les signes de son passage peuvent toutefois être découverts et elle doit donc rester calme. 
+> En combat, la plupart des créatures sont attentives aux signes de danger autour d'elles, donc si vous sortez de votre cachette pour vous approcher d'une créature, elle va normalement vous voir. Toutefois, dans certaines circonstances, le MD peut vous permettre de rester caché si vous vous approchez d'une créature qui est distraite, vous permettant ainsi de gagner un avantage lors de votre attaque avant d'être vu. 
 > 
-> **Perception passive**. Lorsque vous êtes caché, il y a une chance que quelqu'un vous remarque même s'il n'est pas à votre recherche. Pour déterminer si une créature vous remarque, le MD compare votre jet de Dextérité (Discrétion) avec la valeur de Sagesse (Perception) passive de la créature, qui est égale à 10 + le modificateur de Sagesse de la créature, plus d'éventuels bonus ou malus. Si la créature a un avantage, ajoutez 5. Si elle a un désavantage, soustraire 5. Par exemple, si un personnage de niveau 1 (avec un bonus de maîtrise +2) a une Sagesse de 15 (et un modificateur +2) et maîtrise la compétence Perception, sa Sagesse (Perception) passive est de 14.  
+> **Perception passive**. Lorsque vous êtes caché, il y a une chance que quelqu'un vous remarque même s'il n'est pas à votre recherche. Pour déterminer si une créature vous remarque, le MD compare votre jet de Dextérité (Discrétion) avec la valeur de Sagesse (Perception) passive de la créature, qui est égale à 10 + le modificateur de Sagesse de la créature, plus d'éventuels bonus ou malus. Si la créature a un avantage, ajoutez 5. Si elle a un désavantage, soustraire 5. Par exemple, si un personnage de niveau 1 (avec un bonus de maîtrise +2) a une Sagesse de 15 (et un modificateur +2) et maîtrise la compétence Perception, sa Sagesse (Perception) passive est de 14. 
 > 
 > **Que pouvez-vous voir ?** Pour déterminer si vous pouvez voir une créature ou un objet caché, il est important de savoir quelle est la visibilité dans la zone, qui peut être réduite ou nulle.
 
 #### Jets d'attaque et de dégâts
-Vous ajoutez votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme à distance, comme une fronde ou un arc. Vous pouvez également ajouter votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de corps à corps qui a la propriété finesse, comme une dague ou une rapière.
+Vous ajoutez votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme à distance, comme une fronde ou un arc. Vous pouvez également ajouter votre modificateur de Dextérité à votre jet d'attaque et de dégâts lors d'une attaque avec une arme de mêlée qui a la propriété finesse, comme une dague ou une rapière.
 
 #### Classe d'Armure
 Selon l'armure que vous portez, vous pouvez ajouter tout ou partie de votre modificateur de Dextérité à votre classe d'armure.
@@ -246,9 +246,9 @@ Un jet de Sagesse peut refléter l'effort pour lire le lange du corps, comprendr
 
 **Intuition.** Un jet de Sagesse (Intuition) détermine si vous pouvez déceler les véritables intentions d'une créature, comme lorsque vous tentez de savoir si elle ment ou pour prévoir son prochain mouvement. Cela implique de lire le langage du corps, détecter ses habitudes de langage et les changements dans ses manières.
 
-**Médecine.** Un jet de Sagesse (Médecine) permet d'essayer de stabiliser un compagnon mourant ou de diagnostiquer une maladie.
+**Médecine.** Un jet de Sagesse (Médecine) permet d'essayer de Stabiliser un compagnon mourant ou de diagnostiquer une maladie.
 
-**Perception.** Un jet de Sagesse (Perception) permet de repérer, entendre ou détecter la présence de quelque chose. Il mesure votre conscience de l'environnement et l'acuité de vos sens. Par exemple, vous pouvez essayer  d'entendre une conversation à travers une porte fermée, espionner par une fenêtre ouverte, ou entendre des monstres se faufiler dans la forêt. Vous pouvez aussi essayer de repérer des choses qui sont cachées ou difficiles à déceler, que ce soient des orques en embuscade sur une route, des voyous cachés dans l'ombre d'une ruelle, ou la lueur d'une chandelle sous une porte secrète fermée.
+**Perception.** Un jet de Sagesse (Perception) permet de repérer, entendre ou détecter la présence de quelque chose. Il mesure votre conscience de l'environnement et l'acuité de vos sens. Par exemple, vous pouvez essayer d'entendre une conversation à travers une porte fermée, espionner par une fenêtre ouverte, ou entendre des monstres se faufiler dans la forêt. Vous pouvez aussi essayer de repérer des choses qui sont cachées ou difficiles à déceler, que ce soient des orques en embuscade sur une route, des voyous cachés dans l'ombre d'une ruelle, ou la lueur d'une chandelle sous une porte secrète fermée.
 
 **Survie.** Le MJ peut vous demander de faire un jet de Sagesse (Survie) pour suivre des traces, chasser du gibier sauvage, guider votre groupe sur un terrain gelé, identifier des traces indiquant qu'un hibours vit à proximité, prévoir le temps ou éviter des sables mouvants et autres catastrophes naturelles.
 
@@ -258,7 +258,7 @@ Un jet de Sagesse peut refléter l'effort pour lire le lange du corps, comprendr
 
 > #### Trouver un objet caché
 >
->Lorsque votre personnage recherche un objet caché, comme une porte secrète ou un piège, le MJ vous demandera généralement de faire un jet de Sagesse (Perception). Ce jet peut être utilisé pour trouver des détails cachés ou d'autres informations et indices que vous pourriez autrement négliger.
+>Lorsque votre personnage Cherche un objet caché, comme une porte secrète ou un piège, le MJ vous demandera généralement de faire un jet de Sagesse (Perception). Ce jet peut être utilisé pour trouver des détails cachés ou d'autres informations et indices que vous pourriez autrement négliger.
 >
 > Dans la plupart des cas, vous devez décrire où vous cherchez afin que le MJ puisse déterminer vos chances de succès. Par exemple, une clé est cachée sous des vêtements pliés dans le tiroir du haut d'un bureau. Si vous dites au MJ que vous cherchez autour de la salle, en regardant les murs et les meubles pour trouvez des indices, vous n'avez aucune chance de trouver la clé, quel que soit le résultat de votre jet de Sagesse (Perception). Vous devez spécifier que vous ouvrez les tiroirs ou que vous cherchez dans le bureau pour avoir une chance de succès.
 

@@ -3,32 +3,32 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Elfe#Elfe des mers|Elfe des mers]]
+**Race :** [[Elfe#Elfe des mers|Elfe des mers]]
 
-__Classe :__ [[Ranger]]
+**Classe :** [[Ranger]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 12
+**Points de vie :** 12
 
-__Vitesse :__ 30 ft., Nage 30 ft.
+**Vitesse :** 30 ft., Nage 30 ft.
 
-|  FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 9 (-1) | 20 (+5) | 14 (+2) | 12 (+1) | 13 (+1) | 17 (+3) |
-|  ◉ +1  |  ◉ +7   |  ◎ +2   |  ◎ +1   |  ◎ +1   |  ◎ +3   |
+| ◉ +1 | ◉ +7 | ◎ +2 | ◎ +1 | ◎ +1 | ◎ +3 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +5   | ◎ Investigation (_Int_) : +1  |
-| ◎ Arcanes (_Int_) : +1      | ◎ Médecine (_Sag_) : +1       |
-| ◎ Athlétisme (_For_) : -1   | ⬤ Nature (_Int_) : +5<br>     |
-| ◉ Discrétion (_Dex_) : +7   | ◉ Perception (_Sag_) : +3     |
-| ◉ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : +5   | ◎ Religion (_Int_) : +1       |
-| ◉ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◉ Survie (_Sag_) : +3         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◎ Acrobaties (*Dex*) : +5 | ◎ Investigation (*Int*) : +1 |
+| ◎ Arcanes (*Int*) : +1 | ◎ Médecine (*Sag*) : +1 |
+| ◎ Athlétisme (*For*) : -1 | ⬤ Nature (*Int*) : +5<br> |
+| ◉ Discrétion (*Dex*) : +7 | ◉ Perception (*Sag*) : +3 |
+| ◉ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +5 | ◎ Religion (*Int*) : +1 |
+| ◉ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : +3 |
+| ◎ Intimidation (*Cha*) : +3 | ◉ Survie (*Sag*) : +3 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +3<br> |
 
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
@@ -52,15 +52,15 @@ __Vitesse :__ 30 ft., Nage 30 ft.
 
 **Outils :** —
 
-__Langues__ : Commun, Aquatique, Elfique, Reptilien, Astral
+**Langues** : Commun, Aquatique, Elfique, Reptilien, Astral
 
 ### Description
 
-__Âge :__ 1140 ans
+**Âge :** 1140 ans
 
-__Taille :__ 11,88 m
+**Taille :** 11,88 m
 
-__Poids :__ 78 kg
+**Poids :** 78 kg
 
 Aymer a la beauté surnaturelle et la présence assurée d'un prince guerrier d'un autre monde. Sa silhouette est élancée et athlétique, un équilibre parfait entre la grâce elfique et la puissance d'un prédateur endurci. Chaque muscle est dessiné, non pas avec la lourdeur d'un combattant de la surface, mais avec la fluidité d'un corps habitué à se mouvoir dans les trois dimensions de l'océan.
 
@@ -79,13 +79,13 @@ Chaque détail de son apparence, de la couleur de sa peau à la forme de ses lam
 
 ### Aptitudes de Race
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Ascendance Féérique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Enfant de la Mer.** Vous pouvez respirer dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
+**Enfant de la Mer.** Vous pouvez respirer dans et en dehors de l'eau, et vous avez une résistance aux dégâts de froid.
 
 **Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
 ### Aptitudes de Classe
@@ -131,24 +131,24 @@ Aymer a accepté la mission sans hésiter, le cœur lourd de quitter son foyer m
 
 ### Traits de Personnalité
 
-__Traits :__ Je travaille dur ; la nature ne fait pas de cadeau. Je ne suis pas perturbé par les colères de la nature.
+**Traits :** Je travaille dur ; la nature ne fait pas de cadeau. Je ne suis pas perturbé par les colères de la nature.
 
-__Idéal :__ Contiens ton avarice, et la nature te récompensera.
+**Idéal :** Contiens ton avarice, et la nature te récompensera.
 
-__Lien :__ L'océan n'est pas juste mon foyer, il est le sang qui coule dans mes veines. Je ressens chaque blessure qu'on lui inflige comme la mienne, et je traquerai sans relâche ceux qui l'empoisonnent.
+**Lien :** L'océan n'est pas juste mon foyer, il est le sang qui coule dans mes veines. Je ressens chaque blessure qu'on lui inflige comme la mienne, et je traquerai sans relâche ceux qui l'empoisonnent.
 
-__Défaut :__ Je deviens anxieux et déprimé si je suis loin de la mer trop longtemps.
+**Défaut :** Je deviens anxieux et déprimé si je suis loin de la mer trop longtemps.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseils de jeu
 
 Sa voix est calme et posée, avec une musicalité naturelle, comme le bruit des vagues qui viennent mourir sur la plage. Son ton est naturellement persuasif et agréable, ce qui explique en partie son charisme.
 
 Il pense et parle en termes marins. C'est sa vision du monde.
-- Un plan compliqué est _"plus emmêlé qu'un champ d'algues"_.
-- Une personne de confiance est _"aussi fiable que la marée"_.
-- Pour dire "allons-y", il dira _"Suivons le courant"_.
-- Une mauvaise situation est une _"marée contraire"_.
+- Un plan compliqué est *"plus emmêlé qu'un champ d'algues"*.
+- Une personne de confiance est *"aussi fiable que la marée"*.
+- Pour dire "allons-y", il dira *"Suivons le courant"*.
+- Une mauvaise situation est une *"marée contraire"*.
 
 Il n'est jamais parfaitement immobile. Même debout, il a un très léger balancement, un mouvement fluide et presque imperceptible, comme s'il était encore bercé par les courants de l'océan. Il se sent physiquement et mentalement mal à l'aise s'il reste "au sec" trop longtemps. Il a des tics liés à l'eau : il cherchera instinctivement la moindre fontaine pour y tremper ses mains, passera souvent une main humide dans ses cheveux, ou prendra un malin plaisir à marcher sous la pluie.

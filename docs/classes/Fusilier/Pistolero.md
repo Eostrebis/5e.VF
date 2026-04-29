@@ -25,4 +25,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser à
 
 ## Vengeance Rapide
 
-Au niveau 14, comme réaction lorsque vous prenez des dégâts d'une créature à 15 ft. de vous, vous pouvez effectuer une attaque d'arme à feu contre cette créature.
+Au niveau 14, comme réaction lorsque vous subissez des dégâts d'une créature à 15 ft. de vous, vous pouvez effectuer une attaque d'arme à feu contre cette créature.

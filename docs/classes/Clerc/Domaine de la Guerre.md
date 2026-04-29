@@ -5,13 +5,13 @@ La guerre se manifeste de multiples façons. Elle peut transformer des peuples o
 
 **Sorts du Domaine de la Guerre**
 
-| Niveau de Clerc | Sorts                                               |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------- |
-| 1               | [[Faveur Divine]], [[bouclier de foi]]              |
-| 3               | [[Arme Magique]], [[arme spirituelle]]              |
-| 5               | [[Aura du croisé]], [[esprits gardiens]]            |
-| 7               | [[Liberté de Mouvement]], [[peau de pierre]]        |
-| 9               | [[Frappe de flamme]], [[immobilisation de monstre]] |
+| 1 | [[Faveur Divine]], [[bouclier de foi]] |
+| 3 | [[Arme Magique]], [[arme spirituelle]] |
+| 5 | [[Aura du croisé]], [[esprits gardiens]] |
+| 7 | [[Liberté de Mouvement]], [[peau de pierre]] |
+| 9 | [[Frappe de flamme]], [[immobilisation de monstre]] |
 
 ## Maîtrises Supplémentaires
 
@@ -25,11 +25,11 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Canal Divin : Frappe Guidée
 
-À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour frapper avec une précision surnaturelle. Lorsque vous réalisez un jet d'attaque, vous pouvez utiliser votre Canal Divin pour gagner un bonus de +10 au jet. Vous choisissez d'utiliser votre Canal Divin après avoir vu le résultat du jet, mais avant que le MJ n'annonce le résultat.
+À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour frapper avec une précision surnaturelle. Lorsque vous effectuez un jet d'attaque, vous pouvez utiliser votre Canal Divin pour gagner un bonus de +10 au jet. Vous choisissez d'utiliser votre Canal Divin après avoir vu le résultat du jet, mais avant que le MJ n'annonce le résultat.
 
 ## Canal Divin : Bénédiction du Dieu de la Guerre
 
-Au niveau 6, lorsqu'une créature à 30 ft. réalise un jet d'attaque, vous pouvez utiliser votre réaction pour utiliser votre Canal Divin et lui conférer un bonus de 10 au jet. Vous choisissez d'utiliser votre Canal Divin après avoir vu le résultat du jet, mais avant que le MJ n'annonce le résultat.
+Au niveau 6, lorsqu'une créature à 30 ft. effectue un jet d'attaque, vous pouvez utiliser votre réaction pour utiliser votre Canal Divin et lui conférer un bonus de 10 au jet. Vous choisissez d'utiliser votre Canal Divin après avoir vu le résultat du jet, mais avant que le MJ n'annonce le résultat.
 
 ## Frappe Divine
 
@@ -37,4 +37,4 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Avatar de Bataille
 
-Au niveau 17, vous gagnez la résistance aux dégâts contondants, perçants et tranchants provenant d'attaques non magiques.
+Au niveau 17, vous obtenez une résistance aux dégâts contondants, perforants et tranchants provenant d'attaques non magiques.

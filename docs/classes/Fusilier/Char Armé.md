@@ -1,6 +1,6 @@
 ---
 requis:
-  - Force 15
+ - Force 15
 writing_status: finished
 ---
 Soyez plus grand, plus impressionnant, plus solide, et personne ne se tiendra en travers de votre route. Vous êtes un engin de siège vivant, un titan de muscles, maniant des armes que le commun des mortels ne peut soulever. Armé de ces impressionnantes armes à feu, vous intervenez au milieu du champ de bataille, bombardant et détruisant tous ceux suffisamment fous pour s'approcher de vous.
@@ -17,7 +17,7 @@ Vous maîtrisez désormais les armures moyennes et lourdes.
 
 ## Tête de Mule
 
-Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer l'effet [[charmé]] sur vous-même.
+Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'effet [[charmé]] sur vous-même.
 
 ## Fort comme un Bœuf
 
@@ -25,7 +25,7 @@ Au niveau 7, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour
 
 ## Rage Flingueuse
 
- Au niveau 14, pour une action bonus, vous pouvez rentrer dans une furie pour détruire les inférieurs. Pendant la prochaine minute, vous avez la résistance aux dégâts contondants, perçants et tranchants et pouvez réaliser une attaque supplémentaire lorsque vous utilisez votre action pour attaquer pendant votre tour. Cependant, durant cette *rage*, votre vitesse est réduite de moitié et vous avez le désavantage aux jets et jets de sauvegarde de Dextérité.
+ Au niveau 14, pour une action bonus, vous pouvez rentrer dans une furie pour détruire les inférieurs. Pendant la prochaine minute, vous obtenez une résistance aux dégâts contondants, perforants et tranchants et pouvez réaliser une attaque supplémentaire lorsque vous utilisez votre action pour attaquer pendant votre tour. Cependant, durant cette *rage*, votre vitesse est réduite de moitié et vous avez le désavantage aux jets et jets de sauvegarde de Dextérité.
 
  Votre rage flingueuse se termine si vous vous mettez à couvert, terminez votre tour sans attaquer ou utiliser votre action bonus pour la terminer prématurément.
 

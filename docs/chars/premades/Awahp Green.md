@@ -3,40 +3,40 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Volanzée
+**Race :** Volanzée
 
-__Classe :__ Fusilier
+**Classe :** Fusilier
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 6
+**Points de vie :** 6
 
-__Vitesse :__ 30 ft. (escalade 30 ft.)
+**Vitesse :** 30 ft. (escalade 30 ft.)
 
-|   FOR   |   DEX   |  CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :----: | :-----: | :-----: | :-----: |
 | 16 (+3) | 16 (+3) | 7 (-2) | 11 (±0) | 11 (±0) | 12 (+1) |
-|  ◎ +3   |  ◉ +5   |  ◎ -2  |  ◎ ±0   |  ◎ ±0   |  ◉ +3   |
+| ◎ +3 | ◉ +5 | ◎ -2 | ◎ ±0 | ◎ ±0 | ◉ +3 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◉ Acrobaties (_Dex_) : +5   | ◎ Investigation (_Int_) : ±0  |
-| ◎ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : +3   | ◎ Nature (_Int_) : ±0         |
-| ◉ Discrétion (_Dex_) : +5   | ◉ Perception (_Sag_) : +2     |
-| ◎ Dressage (_Sag_) : ±0     | ◉ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : +3   | ◎ Religion (_Int_) : ±0       |
-| ◎ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : +1 |
-| ◎ Intimidation (_Cha_) : +1 | ◎ Survie (_Sag_) : ±0         |
-| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : +1      |
+| ◉ Acrobaties (*Dex*) : +5 | ◎ Investigation (*Int*) : ±0 |
+| ◎ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : +3 | ◎ Nature (*Int*) : ±0 |
+| ◉ Discrétion (*Dex*) : +5 | ◉ Perception (*Sag*) : +2 |
+| ◎ Dressage (*Sag*) : ±0 | ◉ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : ±0 |
+| ◎ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : +1 |
+| ◎ Intimidation (*Cha*) : +1 | ◎ Survie (*Sag*) : ±0 |
+| ◎ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : +1 |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
->Vous êtes Awahp, le dernier survivant d'une compagnie de mercenaires d'élite, un tireur d'exception qui a tout perdu lors d'une trahison et qui ne vit plus que pour entretenir son bras mécanique et traquer ceux qui ont massacré ses frères d'armes.  
+>Vous êtes Awahp, le dernier survivant d'une compagnie de mercenaires d'élite, un tireur d'exception qui a tout perdu lors d'une trahison et qui ne vit plus que pour entretenir son bras mécanique et traquer ceux qui ont massacré ses frères d'armes. 
 >
 >**Objectif pour la session :** 
 >Vous avez besoin d'argent pour deux choses : améliorer votre prothèse et financer votre réseau d'informateurs pour retrouver la trace du Baron Grisefer. Ce contrat n'est qu'un moyen d'arriver à vos fins, mais peut-être qu'une information cruciale se cache au bout.
 >
->**Parlez comme un Pro, pas comme un Ami :** Votre voix est un murmure neutre. Utilisez un jargon militaire ("cible", "périmètre", "négatif"). Vous ne bavardez pas, vous communiquez des informations. Vous êtes distant car vous refusez de vous attacher à nouveau.   
+>**Parlez comme un Pro, pas comme un Ami :** Votre voix est un murmure neutre. Utilisez un jargon militaire ("cible", "périmètre", "négatif"). Vous ne bavardez pas, vous communiquez des informations. Vous êtes distant car vous refusez de vous attacher à nouveau. 
 >
 >**Obsédé par la Verticalité et la Prothèse :** Votre regard cherche toujours un point en hauteur, un vestige de votre vie passée. De plus, vous avez un tic constant où vous ajustez, tapotez ou vérifiez votre bras mécanique. C'est votre fardeau et votre outil, et il est toujours présent dans votre esprit.
 >
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft. (escalade 30 ft.)
 
 **Outils :** [[Set de dé]], [[Jeu de Cartes]], Véhicules Terrestres
 
-__Langues__ : Commun, Gobelin
+**Langues** : Commun, Gobelin
 
 ### Description
 
-__Âge :__ 29 ans
+**Âge :** 29 ans
 
-__Taille :__ 1,75 m
+**Taille :** 1,75 m
 
-__Poids :__ 75 kg
+**Poids :** 75 kg
 
 Awahp n'est pas massif. Il est plutôt grand, avec une silhouette élancée et des membres longs et nerveux, un physique optimisé pour l'escalade et l'agilité. Son corps est couvert d'une fourrure d'un brun foncé, courte et dense, idéale pour se fondre dans les ombres des villes ou des forêts. Lorsqu'il bouge, on peut apercevoir les patagiums, ces membranes de peau repliées entre ses bras et ses jambes, qui lui permettent de planer. Son visage est celui d'un singe, mais intelligent et sévère, marqué par une vie difficile. Ses yeux, vifs et perçants, mais cachés derrière d'épaisses lunettes rondes, sont constamment en mouvement, analysant les angles, les distances et les issues potentielles. Une cicatrice fine mais blanche traverse son œil et son sourcil gauche, souvenir de l'atterrissage brutal qui lui a coûté son bras. Il est rare de le voir sourire ; son expression habituelle est un masque de concentration professionnelle et de méfiance.
 
@@ -71,21 +71,21 @@ Il porte des vêtements de voyageur pratiques et usés, sans fioritures. Plusieu
 
 ### Aptitudes de Race
 
-__Pieds Dextres.__ Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
+**Pieds Dextres.** Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
 
-**Planage.** Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous prenez 0 dégâts de la chute. Vous déterminez la réaction du planage.
+**Planage.** Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous subissez 0 dégâts de la chute. Vous déterminez la réaction du planage.
 
-**Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+**Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ### Aptitudes de Classe
 
 #### Œil de Lynx
 
-Vous gagnez un bonus de +2 aux jets d'attaque à distance que vous réalisez avec une arme à feu. L'arme doit avoir la propriété _Viseur_ ou une portée normale supérieure à 80 ft. pour que vous puissiez bénéficier de cet effet. Cet effet ne se cumule pas avec le style de combat Archerie.
+Vous gagnez un bonus de +2 aux jets d'attaque à distance que vous réalisez avec une arme à feu. L'arme doit avoir la propriété *Viseur* ou une portée normale supérieure à 80 ft. pour que vous puissiez bénéficier de cet effet. Cet effet ne se cumule pas avec le style de combat Archerie.
 
 #### Dégaine Rapide
 
-Les fusiliers ont des réflexes impressionnants et peuvent sortir leur pistolet en un claquement de doigts. À partir du niveau 1, vous avez l'avantage à vos jets d'initiative. De plus, vous pouvez dégainer ou rengainer jusqu'à deux armes lorsque vous tirez l'initiative et à chaque fois que vous prenez une action pendant votre tour.
+Les fusiliers ont des réflexes impressionnants et peuvent sortir leur pistolet en un claquement de doigts. À partir du niveau 1, vous avez l'avantage à vos jets d'initiative. De plus, vous pouvez dégainer ou rengainer jusqu'à deux armes lorsque vous tirez l'initiative et à chaque fois que vous entreprenez une action pendant votre tour.
 
 ### Équipement
 
@@ -125,15 +125,15 @@ Grâce à, ou plutôt à cause de, sa blessure, Awahp est désormais équipé d'
 
 ### Traits de Personnalité
 
-__Traits :__ J'ai perdu trop d'amis, et je suis réticent à m'en faire de nouveaux. Je suis traumatisé par les images de guerre, je ne peux pas me sortir les images de la tête.
+**Traits :** J'ai perdu trop d'amis, et je suis réticent à m'en faire de nouveaux. Je suis traumatisé par les images de guerre, je ne peux pas me sortir les images de la tête.
 
-__Idéal :__ Lorsque les gens suivent bêtement les ordres, ils ne font qu'embrasser la tyrannie.
+**Idéal :** Lorsque les gens suivent bêtement les ordres, ils ne font qu'embrasser la tyrannie.
 
-__Lien :__ Je n'oublierai jamais le massacre de mes camarades ni les ennemis qui l'ont réalisé.
+**Lien :** Je n'oublierai jamais le massacre de mes camarades ni les ennemis qui l'ont réalisé.
 
-__Défaut :__ Le feu qui a dévoré mes camarades me laisse encore aujourd'hui tremblant de peur.
+**Défaut :** Le feu qui a dévoré mes camarades me laisse encore aujourd'hui tremblant de peur.
 
-__Alignement :__ Chaotique Neutre
+**Alignement :** Chaotique Neutre
 
 ## Conseils de Jeu
 

@@ -15,7 +15,7 @@ Que des yeux et des becs de kraken fassent éruption sur leur visage et leurs me
 
 - Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus au jet de dégâts qui augmente à mesure que vous gagnez des niveaux de barbare, comme indiqué dans la colonne Dégâts de Rage de la table du Barbare.
 
-- Vous avez la vulnérabilité à tous les dégâts, excepté les dégâts perçants, tranchants, contondants et psychiques.
+- Vous avez la vulnérabilité à tous les dégâts, excepté les dégâts perforants, tranchants, contondants et psychiques.
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni les lancer ni vous concentrer dessus tant que vous subissez une Métamorphose Occulte.
 
@@ -23,7 +23,7 @@ Votre Métamorphose Occulte dure 1 minute. Elle se termine prématurément si vo
 
 Une fois que vous avez été en rage (ou subi une Métamorphose Occulte) le nombre de fois indiqué pour votre niveau de barbare dans la colonne Rages de la table du Barbare, vous devez terminer un repos long avant de pouvoir utiliser ces aptitudes à nouveau.
 
-De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme _Rage Persistante_) s'applique également à la Métamorphose Occulte, sauf indication contraire.
+De plus, toute aptitude de classe de Barbare qui s'applique à votre Rage (comme *Rage Persistante*) s'applique également à la Métamorphose Occulte, sauf indication contraire.
 
 ## Chant des Profondeurs
 
@@ -31,7 +31,7 @@ Lorsque vous choisissez cette voie au niveau 3, vous acquérez la capacité de p
 
 ## Sans Entraves, Déchaîné, Libéré
 
-À partir du niveau 6, la puissance écrasante de votre transformation vous rend inarrêtable, même face à l'extinction. Vous ne pouvez pas être [[sonné]] ou [[retenu]] tant que vous êtes sous les effets de la Métamorphose Occulte. Si vous êtes [[retenu]] lorsque vous entamez une Métamorphose Occulte, l'effet est suspendu pour la durée de la rage.
+À partir du niveau 6, la puissance écrasante de votre transformation vous rend inarrêtable, même face à l'extinction. Vous ne pouvez pas être [[sonné]] ou [[retenu]] tant que vous êtes sous les effets de la Métamorphose Occulte. Si vous êtes [[retenu]] lorsque vous entamez une Métamorphose Occulte, l'effet est suspendu pendant la durée de la rage.
 
 De plus, se déplacer dans un terrain difficile ne vous coûte pas de mouvement supplémentaire tant que vous êtes sous les effets de la Métamorphose Occulte.
 

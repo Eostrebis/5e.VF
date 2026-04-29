@@ -6,6 +6,6 @@ englishname: Cutlass
 writing_status: empty
 ---
 
-| Dégâts         | Propriétés |
+| Dégâts | Propriétés |
 | -------------- | ---------- |
-| 1d8 tranchants | Finesse    |
+| 1d8 tranchants | Finesse |

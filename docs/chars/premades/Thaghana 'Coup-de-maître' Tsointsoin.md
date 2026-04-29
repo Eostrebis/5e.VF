@@ -3,32 +3,32 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Goliath
+**Race :** Goliath
 
-__Classe :__ Barbare
+**Classe :** Barbare
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 15
+**Points de vie :** 15
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |  SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :----: | :-----: |
 | 18 (+4) | 12 (+1) | 16 (+3) | 16 (+3) | 8 (-1) | 10 (±0) |
-|  ◉ +6   |  ◎ +1   |  ◉ +5   |  ◎ +3   |  ◎ -1  |  ◎ ±0   |
+| ◉ +6 | ◎ +1 | ◉ +5 | ◎ +3 | ◎ -1 | ◎ ±0 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) :  +1  | ◎ Investigation (_Int_) : +3  |
-| ◎ Arcanes (_Int_) : +3      | ◉ Médecine (_Sag_) : +1       |
-| ◉ Athlétisme (_For_) : +6   | ◉ Nature (_Int_) : +5<br>     |
-| ◎ Discrétion (_Dex_) : +1   | ◉ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : -1     | ◎ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : +1   | ◉ Religion (_Int_) : +5       |
-| ◎ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◎ Survie (_Sag_) : -1         |
-| ◎ Intuition (_Sag_) : -1    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◎ Acrobaties (*Dex*) : +1 | ◎ Investigation (*Int*) : +3 |
+| ◎ Arcanes (*Int*) : +3 | ◉ Médecine (*Sag*) : +1 |
+| ◉ Athlétisme (*For*) : +6 | ◉ Nature (*Int*) : +5<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◉ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : -1 | ◎ Persuasion (*Cha*) : ±0 |
+| ◎ Escamotage (*Dex*) : +1 | ◉ Religion (*Int*) : +5 |
+| ◎ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : ±0 |
+| ◎ Intimidation (*Cha*) : ±0 | ◎ Survie (*Sag*) : -1 |
+| ◎ Intuition (*Sag*) : -1 | ◎ Tromperie (*Cha*) : ±0<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Thaghana, un goliath à la force colossale et à l'intelligence de génie, banni de son clan primitif pour avoir appris à lire, et qui tente maintenant de prouver au monde (souvent avec une frustration explosive) que la stratégie est aussi puissante qu'une hache bien aiguisée.
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** Kit d'Herboriste
 
-__Langues__ : Commun, Géant, Elfique
+**Langues** : Commun, Géant, Elfique
 
 ### Description
 
-__Âge :__ 26 ans
+**Âge :** 26 ans
 
-__Taille :__ 2,34 m
+**Taille :** 2,34 m
 
-__Poids :__ 163 kg
+**Poids :** 163 kg
 
 La stature de Thaghana n'est pas simplement imposante, elle est une déclaration. Autrefois peut-être une simple réalité de sa lignée, sa musculature massive et presque disproportionnée est aujourd'hui une réalité qu'il porte avec une fierté nouvelle, se tenant parfaitement droit telle une montagne de chair et de volonté.
 
@@ -75,11 +75,11 @@ Dénué d'armure, son torse nu ne craint ni le froid ni les coups, protégé par
 
 ### Aptitudes de Race
 
-__Petit Géant.__ Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
+**Petit Géant.** Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de portage ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
-__Né des Montagnes.__ Vous êtes résistants aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
+**Né des Montagnes.** Vous êtes résistants aux dégâts de froid. Vous vous acclimatez naturellement aux hautes altitudes, même si vous n'y avez jamais été. Cela correspond à des élévations de plus de 6 000 m.
 
-__Endurance de Pierre.__ Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
+**Endurance de Pierre.** Vous pouvez tirer parti du pouvoir de la pierre pour ignorer des dégâts. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d12. Ajoutez votre modificateur de Constitution au résultat obtenu et réduisez les dégâts de ce total.
 
 Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -93,11 +93,11 @@ Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne po
 
 - Vous avez l'avantage aux jets et jets de sauvegarde de Force.
 - Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus aux dégâts en fonction de votre niveau de barbare, tel que renseigné dans la table.
-- Vous êtes résistant aux dégâts contondants, perçants et tranchants.
+- Vous êtes résistant aux dégâts contondants, perforants et tranchants.
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
 
-Votre rage dure 1 minute. Elle termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
+Votre rage dure 1 minute. Elle termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou subi de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
 
 Une fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau.
 
@@ -128,25 +128,25 @@ Sa nouvelle connaissance change sa façon de voir le monde. Lors d'une compétit
 
 Le chaman du clan, le seul à connaître les pratiques extérieures, le confronte. Il découvre le livre, qu'il déclare être un artefact de "magie faible" qui "vole la force de l'âme pour la mettre dans des marques lâches". Apprendre à lire était une trahison des traditions goliaths. On lui donne un choix : brûler le livre et oublier ce "poison mental", ou être banni.
 
-Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'il ne peut pas désapprendre ce qu'il a appris. Il ne peut pas redevenir celui qu'il était. Serrant son livre contre lui, il est déclaré _Skannak_ - "le Banni" - et chassé des montagnes, son nom effacé des sagas du clan.
+Thaghana regarde le livre, puis les visages fermés de son clan. Il comprend qu'il ne peut pas désapprendre ce qu'il a appris. Il ne peut pas redevenir celui qu'il était. Serrant son livre contre lui, il est déclaré *Skannak* - "le Banni" - et chassé des montagnes, son nom effacé des sagas du clan.
 
 Aujourd'hui, Thaghana ne s'identifie plus comme Skannak, il a appris à s'accepter, à utiliser ses connaissances pour être meilleur. Chassé de son village, il a dû faire tant bien que mal pour survivre, et suit désormais une voie qui lui permettra d'assouvir ses envies de curiosité : la voie d'aventurier.
 
 ### Aptitude d'Historique
 
-Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider de réaliser un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette aptitude un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
+Grâce à son étude approfondie du livre de stratégies, Thaghana est devenu expert dans l'art du combat. Lorsqu'il décide d'utiliser son action pour attaquer, il peut décider d'effectuer un jet de Charisme (Représentation) pour feinter son adversaire. La cible doit réussir un jet de sauvegarde de Sagesse contre le jet de Charisme de Thaghana. Thaghana peut utiliser cette aptitude un nombre de fois égal à son bonus de maîtrise, et il regagne toutes les utilisations dépensées lorsqu'il termine un repos long.
 
 ### Traits de Personnalité
 
-__Traits :__ Je travaille sur une grande théorie philosophique et j'adore partager mes idées. Je n'ai aucune idée de l'étiquette et des normes sociales.
+**Traits :** Je travaille sur une grande théorie philosophique et j'adore partager mes idées. Je n'ai aucune idée de l'étiquette et des normes sociales.
 
-__Idéal :__ Les émotions ne doivent pas venir nuire à notre sens de la morale et de la vérité, ou à notre sens logique.
+**Idéal :** Les émotions ne doivent pas venir nuire à notre sens de la morale et de la vérité, ou à notre sens logique.
 
-__Lien :__ Je suis rentré en exil par la faute de mon clan, et j'espère secrètement leur montrer que ma façon de faire est la bonne.
+**Lien :** Je suis rentré en exil par la faute de mon clan, et j'espère secrètement leur montrer que ma façon de faire est la bonne.
 
-__Défaut :__ Je risquerais tout pour satisfaire ma curiosité et obtenir ne serait-ce que la plus petite connaissance.
+**Défaut :** Je risquerais tout pour satisfaire ma curiosité et obtenir ne serait-ce que la plus petite connaissance.
 
-__Alignement :__ Loyal Neutre
+**Alignement :** Loyal Neutre
 
 ## Conseils de jeu
 

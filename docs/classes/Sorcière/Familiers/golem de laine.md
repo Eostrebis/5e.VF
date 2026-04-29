@@ -1,19 +1,19 @@
 ---
 writing_status: empty
 ---
-___
+*_*
 >## Name
 >*Moyenne Type, non aligné*
->![[image]]___
+>![[image]]*_*
 >- **Classe d'Armure** 13 (armure naturelle)
 >- **Points de Vie** 76 (9d8 + 36)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|10 (+0)|
 >
->___
+>*_*
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
@@ -22,13 +22,13 @@ ___
 >- **Langues** 
 >- **Difficulté** 
 >- **Bonus de Maîtrise** +2
->___
+>*_*
 > 
 >
 >### Actions
 >***Attaques Multiples.*** Le golem alchimique réalise deux attaques d'arme de mêlée. 
 >
->***Slam.*** *Attaque d'Arme de Mêlée :* +6 pour toucher, portée 5 ft., une cible. *Touché :* 12 (2d8 + 3) dégâts contondants.
+>***Slam.*** *Attaque d'Arme de Mêlée :* +6 pour toucher, allonge 5 ft., une cible. *Touché :* 12 (2d8 + 3) dégâts contondants.
 >
 > ### Réactions
 >

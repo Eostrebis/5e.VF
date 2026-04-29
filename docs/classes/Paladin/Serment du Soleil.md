@@ -19,13 +19,13 @@ Contrairement aux autres paladins, la plupart des fidèles qui prêtent le Serme
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                     |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------- |
-| 3                 | [[Mains brûlantes]], [[rayon traçant]]    |
-| 5                 | [[Vision dans le noir]], [[rayon ardent]] |
-| 9                 | [[Lumière du jour]], [[esprits gardiens]] |
-| 13                | [[Bouclier de feu]], [[mur de feu]]       |
-| 17                | [[Frappe de flamme]], [[sanctification]]  |
+| 3 | [[Mains brûlantes]], [[rayon traçant]] |
+| 5 | [[Vision dans le noir]], [[rayon ardent]] |
+| 9 | [[Lumière du jour]], [[esprits gardiens]] |
+| 13 | [[Bouclier de feu]], [[mur de feu]] |
+| 17 | [[Frappe de flamme]], [[sanctification]] |
 
 ## Canal Divin
 
@@ -33,7 +33,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Radiance Glorieuse.** Pour une action, vous pouvez utiliser votre Canal Divin pour irradier de la lumière solaire. Tant que cet effet est actif, vous émettez une lumière vive sur un rayon de 30 ft. De plus, vous gagnez un nombre de points de vie temporaires égal à votre niveau de paladin + votre modificateur de Charisme. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, vous pouvez utiliser votre réaction pour lui infliger 5 dégâts radiants. L'effet persiste pendant 1 heure, se terminant prématurément si les points de vie temporaires sont épuisés ou si vous le dissipez pendant votre tour (aucune action requise). Lorsque vous atteignez le niveau 11, l'effet inflige 10 dégâts radiants et au niveau 17, l'effet passe à 15 dégâts radiants.
 
-**Éruption Solaire.** Pour une action, vous pouvez émettre un flash lumineux aveuglant en utilisant votre Canal Divin. Lorsque vous le faites, chaque créature que vous choisissez à 20 ft. de vous doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé]] pendant 1 minute. Une créature [[aveuglé|aveuglée]] peut réaliser un jet de sauvegarde de Constitution à la fin de chacun de ses tours pour terminer l'effet.
+**Éruption Solaire.** Pour une action, vous pouvez émettre un flash lumineux aveuglant en utilisant votre Canal Divin. Lorsque vous le faites, chaque créature que vous choisissez à 20 ft. de vous doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé]] pendant 1 minute. Une créature [[aveuglé|aveuglée]] peut effectuer un jet de sauvegarde de Constitution à la fin de chacun de ses tours pour terminer l'effet.
 ## Chaleur Solaire
 
 À partir du niveau 7, vous et toutes les créatures alliées à 10 ft. de vous êtes résistants aux dégâts de froid et de feu et peuvent tolérer des températures allant de -50°C à 100°C.

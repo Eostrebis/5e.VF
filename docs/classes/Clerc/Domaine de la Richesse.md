@@ -5,19 +5,19 @@ writing_status: finished
 
 **Sorts du Domaine de la Richesse**
 
-| Niveau de Clerc | Sorts                                        |
+| Niveau de Clerc | Sorts |
 | --------------- | -------------------------------------------- |
-| 1               | [[Identification]], [[Serviteur Invisible]]  |
-| 3               | [[Verrou Magique]], [[localisation d'objet]] |
-| 5               | [[Glyphe de protection]], [[Langues]]        |
-| 7               | [[Fabrication]], [[Coffre Secret]]           |
-| 9               | [[Création]], [[quête]]                      |
+| 1 | [[Identification]], [[Serviteur Invisible]] |
+| 3 | [[Verrou Magique]], [[localisation d'objet]] |
+| 5 | [[Glyphe de protection]], [[Langues]] |
+| 7 | [[Fabrication]], [[Coffre Secret]] |
+| 9 | [[Création]], [[quête]] |
 
 ## Estimation
 
 Lorsque vous choisissez ce domaine au niveau 1, vous êtes béni et êtes capable de connaître le prix de toute chose. Pour une action, vous pouvez précisément déterminer le prix de marché d'un objet, ainsi qu'un prix raisonnable s'il se retrouvait à être vendu en seconde main.
 
-De plus, vous pouvez utiliser votre modificateur de Sagesse plutôt que votre Charisme pour les jets que vous réalisez afin d'acheter, de vendre ou de négocier.
+De plus, vous pouvez utiliser votre modificateur de Sagesse plutôt que votre Charisme pour les jets que vous effectuez afin d'acheter, de vendre ou de négocier.
 
 ## Effet Levier
 
@@ -31,7 +31,7 @@ Vous pouvez utiliser ce Canal Divin une fois, et vous regagnez la capacité de l
 
 ## Pot-de-vin
 
-Lorsque vous atteignez le niveau 6, vous pouvez utiliser votre compréhension divine afin de déterminer comment corrompre n'importe quelle créature. Pour une action, vous pouvez choisir une créature hostile que vous pouvez voir. Elle doit réussir un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts, ou vous pouvez la corrompre avec des biens de luxe ou simplement un sac d'or, qui se téléporte en sa possession. Le pot-de-vin coûte un montant d'or égal à moitié des PX de la créature et, lorsqu'il est fourni, la créature ne peut plus être hostile à votre égard ou à celui de vos alliés pendant 24 heures. L'effet se termine prématurément si la créature prend des dégâts de vous ou vos alliés. Vous ne pouvez pas corrompre une créature avec une Intelligence de 3 ou moins, ou toute créature que le MJ pense inappropriée.
+Lorsque vous atteignez le niveau 6, vous pouvez utiliser votre compréhension divine afin de déterminer comment corrompre n'importe quelle créature. Pour une action, vous pouvez choisir une créature hostile que vous pouvez voir. Elle doit réussir un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts, ou vous pouvez la corrompre avec des biens de luxe ou simplement un sac d'or, qui se téléporte en sa possession. Le pot-de-vin coûte un montant d'or égal à moitié des PX de la créature et, lorsqu'il est fourni, la créature ne peut plus être hostile à votre égard ou à celui de vos alliés pendant 24 heures. L'effet se termine prématurément si la créature subit des dégâts de vous ou vos alliés. Vous ne pouvez pas corrompre une créature avec une Intelligence de 3 ou moins, ou toute créature que le MJ pense inappropriée.
 
 ## Incantation Puissante
 

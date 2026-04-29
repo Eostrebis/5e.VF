@@ -1,10 +1,10 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Barde
-  - Sorcière
-  - Nécromancien
+ - Magicien
+ - Ensorceleur
+ - Barde
+ - Sorcière
+ - Nécromancien
 level: 2
 school: Transmutation
 Verbal: true
@@ -19,6 +19,6 @@ Rituel: false
 englishname: Delay
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 ---
 Vous ralentissez brièvement le temps pour une créature de votre choix que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être déplacée à la dernière place de l'initiative à partir du prochain round.

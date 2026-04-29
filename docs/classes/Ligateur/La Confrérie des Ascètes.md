@@ -17,10 +17,10 @@ Tant que ce vestige est supprimé, aucune de ses aptitudes ne vous affecte et vo
 
 | Niveau de Ligateur | Dégâts d'attaques à Mains Nues |
 | ------------------ | ------------------------------ |
-| 3                  | 1d4                            |
-| 7                  | 1d6                            |
-| 10                 | 1d8                            |
-| 14                 | 1d10                           |
+| 3 | 1d4 |
+| 7 | 1d6 |
+| 10 | 1d8 |
+| 14 | 1d10 |
 
 ## Mille Poings
 
@@ -34,10 +34,10 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Contrôle Transcendant
 
-Au niveau 14, vous atteignez la concentration totale en supprimant tous vos vestiges pour une action bonus. Pour durée allant jusqu'à 1 minute, vous bénéficiez des effets suivants : 
+Au niveau 14, vous atteignez la concentration totale en supprimant tous vos vestiges pour une action bonus. Pendant sa durée allant jusqu'à 1 minute, vous bénéficiez des effets suivants : 
 
  - Votre CA est de 20, à moins qu'elle ne soit déjà inférieure.
- - Lorsque vous réalisez un jet d'attaque et que le résultat est inférieur à 15, vous pouvez traiter le résultat comme un 15.
+ - Lorsque vous effectuez un jet d'attaque et que le résultat est inférieur à 15, vous pouvez traiter le résultat comme un 15.
  - Vos attaques à mains nues utilisent un d12 pour les dégâts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez la réutiliser avant de terminer un repos long.

@@ -29,29 +29,29 @@ Enfin, considérez comment vous percevez vos travaux. Est-ce que vous êtes prag
 
 Vous pouvez créer un artisan rapidement en suivant ces suggestions. Commencez par faire de la Force ou la Dextérité votre caractéristique principale, suivie de l'Intelligence. Choisissez l'historique de votre choix qui colle avec votre passif dans l'artisanat.
 
-| **L'Artisan** |                   |                                                                        |                      |
+| **L'Artisan** | | | |
 | ------------- | ----------------- | ---------------------------------------------------------------------- | -------------------- |
-| Niveau        | Bonus de Maîtrise | Aptitudes                                                              | Artisanat Actif (PO) |
-| 1             | +2                | [[#Maîtrises Exotiques]], [[#Artisanat Actif]]                         | 25                   |
-| 2             | +2                | [[#Chefs-d'œuvre]] (propriétés Apprenti), [[#Ceinture à Outils]]       | 25                   |
-| 3             | +2                | [[#Guilde d'Artisan]]                                                  | 50                   |
-| 4             | +2                | [[#Augmentation de Caractéristiques]]                                  | 75                   |
-| 5             | +3                | [[#Attaque Supplémentaire]], [[#Chefs-d'œuvre]] (propriétés Compagnon) | 100                  |
-| 6             | +3                | [[#Acier de Damas]]                                                    | 125                  |
-| 7             | +3                | Aptitude de [[#Guilde d'Artisan]]                                      | 150                  |
-| 8             | +3                | [[#Augmentation de Caractéristiques]]                                  | 175                  |
-| 9             | +4                | [[#Œil pour la Qualité]]                                               | 200                  |
-| 10            | +4                | Aptitude de [[#Guilde d'Artisan]]                                      | 225                  |
-| 11            | +4                | [[#Chefs-d'œuvre]] (propriétés Maître)                                 | 250                  |
-| 12            | +4                | [[#Augmentation de Caractéristiques]]                                  | 275                  |
-| 13            | +5                | [[#Construction Sans-Faille]]                                          | 300                  |
-| 14            | +5                | Aptitude de [[#Guilde d'Artisan]]                                      | 325                  |
-| 15            | +5                | [[#Drôle de Ceinture à Outils]]                                        | 350                  |
-| 16            | +5                | [[#Augmentation de Caractéristiques]]                                  | 375                  |
-| 17            | +6                | [[#Chefs-d'œuvre]] (propriétés Légendaire)                             | 400                  |
-| 18            | +6                | Aptitude de [[#Guilde d'Artisan]]                                      | 425                  |
-| 19            | +6                | [[#Augmentation de Caractéristiques]]                                  | 450                  |
-| 20            | +6                | [[#Magnum Opus]]                                                       | 500                  |
+| Niveau | Bonus de Maîtrise | Aptitudes | Artisanat Actif (PO) |
+| 1 | +2 | [[#Maîtrises Exotiques]], [[#Artisanat Actif]] | 25 |
+| 2 | +2 | [[#Chefs-d'œuvre]] (propriétés Apprenti), [[#Ceinture à Outils]] | 25 |
+| 3 | +2 | [[#Guilde d'Artisan]] | 50 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 75 |
+| 5 | +3 | [[#Attaque Supplémentaire]], [[#Chefs-d'œuvre]] (propriétés Compagnon) | 100 |
+| 6 | +3 | [[#Acier de Damas]] | 125 |
+| 7 | +3 | Aptitude de [[#Guilde d'Artisan]] | 150 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 175 |
+| 9 | +4 | [[#Œil pour la Qualité]] | 200 |
+| 10 | +4 | Aptitude de [[#Guilde d'Artisan]] | 225 |
+| 11 | +4 | [[#Chefs-d'œuvre]] (propriétés Maître) | 250 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 275 |
+| 13 | +5 | [[#Construction Sans-Faille]] | 300 |
+| 14 | +5 | Aptitude de [[#Guilde d'Artisan]] | 325 |
+| 15 | +5 | [[#Drôle de Ceinture à Outils]] | 350 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 375 |
+| 17 | +6 | [[#Chefs-d'œuvre]] (propriétés Légendaire) | 400 |
+| 18 | +6 | Aptitude de [[#Guilde d'Artisan]] | 425 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 450 |
+| 20 | +6 | [[#Magnum Opus]] | 500 |
 
 # Aptitudes de Classes
 
@@ -88,7 +88,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
  - Un [[sac d'exploration souterraine]]
 
 ``` Outils d'Artisan
-  En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous réaliseriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
+ En tant qu'artisan, vous maniez un jeu d'outil d'artisan, une sorte de boîte à outils qui couvre la plupart des cas d'utilisations. Vous pouvez utiliser ces outils pour n'importe quel jet de caractéristique que vous effectueriez avec un outil d'artisanat. Un jeu d'outils d'artisan coûte 75 PO.
 ```
 
 ## Maîtrises Exotiques
@@ -121,22 +121,22 @@ Si vous ajoutez une propriété Maître ou Légendaire à un chef-d'œuvre, seul
 
 En utilisant votre aptitude d'Artisanat Actif, vous pouvez modifier une arme ou une armure lorsque vous prenez un repos long. Cela vous permet de :
 
-__Améliorer l'Équipement.__ Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
+**Améliorer l'Équipement.** Vous pouvez transformer n'importe quelle arme ou armure non magique en chef-d'œuvre pour 50 PO de matériau. 
 
-__Ajouter des Propriétés de Chef-d'Œuvre.__ Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
+**Ajouter des Propriétés de Chef-d'Œuvre.** Ajouter des propriétés niveau Compagnon ou supérieur requiert un coût en pièces d'or et vous requiert d'être au moins à un certain niveau dans cette classe, comme indiqué dans la table ci-dessous. Lorsque vous apprenez un nouveau niveau de propriétés de chef-d'œuvre, vous pouvez appliquer une propriété de ce niveau à un chef-d'œuvre sans coût.
 
-| Propriété  | Niveau d'Artisan | Coût |
+| Propriété | Niveau d'Artisan | Coût |
 | ---------- | ---------------- | ---- |
-| Apprenti   | 2                | --   |
-| Compagnon  | 5                | 100  |
-| Maître     | 11               | 250  |
-| Légendaire | 17               | 400  |
+| Apprenti | 2 | -- |
+| Compagnon | 5 | 100 |
+| Maître | 11 | 250 |
+| Légendaire | 17 | 400 |
 
 Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'œuvre à votre arme.
 
-Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
+Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perforants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
 
-__Retirer des Propriétés.__ Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
+**Retirer des Propriétés.** Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
 
 ### Caractéristique d'Artisanat
 
@@ -154,16 +154,16 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Au niveau 3, vous rejoignez une guilde d'artisan. Sélectionnez une guilde parmi celles listées ci-dessous ; vous obtenez l'aptitude de niveau 3 de cette guilde. Vous obtenez des aptitudes de Guilde supplémentaires aux niveaux 7, 10, 114 et 18.
 
-| Nom de Guilde                          | Description                                                                                            |
+| Nom de Guilde | Description |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [[Guilde des Maestros Arcaniques]]     | Des artisans magiques qui transforment l'acier commun en objets magiques.                              |
-| [[Guilde des Armigères]]               | Des forgerons d'armures de renom qui portent de l'acier renforcé.                                      |
+| [[Guilde des Maestros Arcaniques]] | Des artisans magiques qui transforment l'acier commun en objets magiques. |
+| [[Guilde des Armigères]] | Des forgerons d'armures de renom qui portent de l'acier renforcé. |
 | [[Guilde des Travailleurs de la Lame]] | Des forgerons d'armes qui construisent des innovations de guerre et s'entraînent à leurs utilisations. |
-| [[Guilde des Calibarons]]              | Des fusiliers qui développent de puissantes armes à feu et des attachements.                           |
-| [[Guilde des Chevaliers Forgés]]       | Manient une forge portable pour chauffer leurs armes et armures jusqu'à l'explosion.                   |
-| [[Guilde des Mécanautes]]              | Pilotent une [[machine du crabe]], une construction marchante à l'immense pouvoir.                     |
-| [[Guilde des Seigneurs du Tonnerre]]   | Innovateurs électriques qui utilisent des équipements chargés.                                         |
-| [[Guilde des Piégeurs]]                | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat.                           |
+| [[Guilde des Calibarons]] | Des fusiliers qui développent de puissantes armes à feu et des attachements. |
+| [[Guilde des Chevaliers Forgés]] | Manient une forge portable pour chauffer leurs armes et armures jusqu'à l'explosion. |
+| [[Guilde des Mécanautes]] | Pilotent une [[machine du crabe]], une construction marchante à l'immense pouvoir. |
+| [[Guilde des Seigneurs du Tonnerre]] | Innovateurs électriques qui utilisent des équipements chargés. |
+| [[Guilde des Piégeurs]] | Des bricoleurs mécaniques qui déploient de pièges mortels pendant le combat. |
 
 ## Augmentation de Caractéristiques
 
@@ -171,7 +171,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Attaque Supplémentaire
 
-À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous prenez l'action d'attaquer pendant votre tour.
+À partir du niveau 5, vous pouvez attaquer deux fois, plutôt qu'une, à chaque fois que vous entreprenez l'action d'Attaquer pendant votre tour.
 
 ## Acier de Damas
 
@@ -193,4 +193,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 ## Magnum Opus
 
-Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un _Magnum Opus_.
+Au niveau 20, vous terminez un objet d'une qualité inégalée. Vous travaillez sans relâche pendant une période de 30 jours pour créer un objet magique de qualité très rare ou légendaire. Cet objet est lié à votre âme : peu importe l'objet, vous y êtes toujours lié et aucune autre créature ne peut s'y lier tant que vous êtes en vie. Cet objet ne compte pas dans le maximum d'objets auxquels vous pouvez vous lier et vous ignorez tous les prérequis de lien pour cet objet. Tant que vous êtes sur le même plan d'existence que l'objet, vous pouvez utiliser votre action bonus pour l'appeler dans votre main ou sur votre corps. Vous ne pouvez fabriquer qu'un *Magnum Opus*.

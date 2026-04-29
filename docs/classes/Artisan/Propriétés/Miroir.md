@@ -1,8 +1,8 @@
 ---
 writing_status: finished
 ---
-_Propriété d'Armure Légendaire_
-__Composantes :__ Armure légère exotique chef-d'œuvre
+*Propriété d'Armure Légendaire*
+**Composantes :** Armure légère exotique chef-d'œuvre
 
 Tant que vous portez cette armure, vous pouvez lancer le sort [[image miroir]] pour une action bonus sans dépenser d'emplacement de sort.
 

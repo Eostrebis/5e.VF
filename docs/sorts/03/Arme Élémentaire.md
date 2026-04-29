@@ -1,9 +1,9 @@
 ---
 available:
-  - Artificier
-  - Druide
-  - Paladin
-  - Ranger
+ - Artificier
+ - Druide
+ - Paladin
+ - Ranger
 level: 3
 school: Transmutation
 Verbal: true
@@ -12,7 +12,7 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Elemental Weapon

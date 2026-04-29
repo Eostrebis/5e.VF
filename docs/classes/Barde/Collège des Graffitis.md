@@ -15,12 +15,12 @@ Lorsque vous lancez le cantrip [[Graffiti]], vous pouvez dépenser une utilisati
 
 ## Marque Signature
 
-À partir du niveau 6, vous pouvez peindre une cible sur le dos d'une créature. Pour une action bonus, vous pouvez essayer de magiquement vaporiser une marque signature sur une créature que vous pouvez voir à 5 ft. de vous. Réalisez un jet d'attaque de sort de mêlée contre cette créature. Si vous touchez, elle est marquée. Une fois à chacun de vos tours, lorsque vous touchez une créature que vous avez marquée avec une attaque armée de mêlée, vous pouvez ajouter 1d8 au jet de dégâts. De plus, lorsqu'une créature alliée réalise une attaque contre une créature que vous avez marquée, vous pouvez utiliser votre réaction pour lui conférer l'avantage au jet d'attaque.
+À partir du niveau 6, vous pouvez peindre une cible sur le dos d'une créature. Pour une action bonus, vous pouvez essayer de magiquement vaporiser une marque signature sur une créature que vous pouvez voir à 5 ft. de vous. Effectuez un jet d'attaque de sort de mêlée contre cette créature. Si vous touchez, elle est marquée. Une fois à chacun de vos tours, lorsque vous touchez une créature que vous avez marquée avec une attaque armée de mêlée, vous pouvez ajouter 1d8 au jet de dégâts. De plus, lorsqu'une créature alliée réalise une attaque contre une créature que vous avez marquée, vous pouvez utiliser votre réaction pour lui conférer l'avantage au jet d'attaque.
 
 Une créature peut retirer sa marque en utilisant son action pour se nettoyer au savon ou pour retirer son vêtement (ou armure) extérieur portant le tag.
 
 ## Vaporisation Kaléidoscopique
 
-À partir du niveau 14, pour une action, vous pouvez libérer un mélange de peinture magique, recouvrant toute surface. Chaque créature que vous choisissez dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou être [[aveuglé|aveuglée]] jusqu'à la fin de son prochain tour. Toutes les créatures de la zone, qu'elles réussissent ou non ce jet, sont marquées par vous.
+À partir du niveau 14, pour une action, vous pouvez libérer un mélange de peinture magique, recouvrant toute surface. Chaque créature que vous choisissez dans un cône de 15 ft. doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou être [[aveuglé|aveuglée]] jusqu'à la fin de son prochain tour. Toutes les créatures de la zone, qu'elles réussissent ou non ce jet, sont marquées par vous.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.

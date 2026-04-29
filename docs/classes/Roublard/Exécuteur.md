@@ -15,11 +15,11 @@ Lorsque vous choisissez cet archétype au niveau 3, vous obtenez la maîtrise de
 
 Au niveau 9, lorsque vous réalisez une attaque, vous pouvez repousser la cible pour une action bonus. Si vous réussissez, vous pouvez repousser la créature de 15 ft. plutôt que 5 ft.
 
-De plus, si vous réalisez une attaque avec une attaque avec [[Propriétés d'Arme#Portée|portée]], vous pouvez utiliser une action bonus pour réaliser une tentative de poussée à l'envers, attirant la cible vers vous en cas de réussite.
+De plus, si vous réalisez une attaque avec une attaque avec [[Propriétés d'Arme#Allonge|Allonge]], vous pouvez utiliser une action bonus pour réaliser une tentative de poussée à l'envers, attirant la cible vers vous en cas de réussite.
 
 ## Comportement Menaçant
 
-Au niveau 13, vous êtes un expert en poses et gestuelles menaçantes. Lorsque vous tirez l'initiative, choisissez une créature qui peut vous voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Sagesse. Le DD est égal à 8 + votre bonus de maîtrise + votre bonus de Force ou Charisme. Si elle échoue, la cible est [[apeuré|apeurée]] par vous pendant 1 minute. Tant que la créature est apeurée par vous, vos jets d'attaque contre elle ont l'avantage. La créature apeurée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
+Au niveau 13, vous êtes un expert en poses et gestuelles menaçantes. Lorsque vous tirez l'initiative, choisissez une créature qui peut vous voir à 60 ft. Cette créature doit effectuer un jet de sauvegarde de Sagesse. Le DD est égal à 8 + votre bonus de maîtrise + votre bonus de Force ou Charisme. Si elle échoue, la cible est [[apeuré|apeurée]] par vous pendant 1 minute. Tant que la créature est apeurée par vous, vos jets d'attaque contre elle ont l'avantage. La créature apeurée peut retenter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
 
 ## Double Attaque
 

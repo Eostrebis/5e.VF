@@ -15,10 +15,10 @@ La hauteur que vous pouvez sauter et la distance à soustraire de votre chute au
 
 | Niveau de Guerrier | Hauteur de Saut |
 | ------------------ | --------------- |
-| 3                  | 10              |
-| 5                  | 20              |
-| 11                 | 30              |
-| 14                 | 40              |
+| 3 | 10 |
+| 5 | 20 |
+| 11 | 30 |
+| 14 | 40 |
 
 ## Attaque Plongeante
 

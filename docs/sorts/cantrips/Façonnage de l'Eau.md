@@ -1,9 +1,9 @@
 ---
 available:
-  - Mage de Guerre
-  - Druide
-  - Ensorceleur
-  - Magicien
+ - Mage de Guerre
+ - Druide
+ - Ensorceleur
+ - Magicien
 level: 0
 school: Transmutation
 Verbal: false
@@ -16,7 +16,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Shape Water
-writing_status: empty
+writing_status: finished
 ---
 Vous choisissez une zone d'eau que vous pouvez voir à portée et qui rentre dans un cube de 5 ft. de côté. Vous le manipulez d'une des façons suivantes : 
 

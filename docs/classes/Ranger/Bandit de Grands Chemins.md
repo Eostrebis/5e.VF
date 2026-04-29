@@ -15,7 +15,7 @@ Au niveau 3, lorsque vous et deux ou plus créatures amicales vous cachez en pr�
 
 ## Position Avantageuse
 
-Au niveau 7, vous pouvez rapidement escalader les murs pour vous placer au-dessus de vos adversaires. Escalader ne vous coûte plus de mouvement supplémentaire. De plus, en escaladant à mi-vitesse, vous pouvez escalader les surfaces difficiles (comme un mur vertical) sans avoir à réaliser de jet de caractéristique.
+Au niveau 7, vous pouvez rapidement escalader les murs pour vous placer au-dessus de vos adversaires. Escalader ne vous coûte plus de mouvement supplémentaire. De plus, en escaladant à mi-vitesse, vous pouvez escalader les surfaces difficiles (comme un mur vertical) sans avoir à effectuer de jet de caractéristique.
 
 ## Vraiment, Bougez Pas !
 
@@ -28,5 +28,5 @@ Au niveau 15, vous échapperez au bras armé de la justice ou mourrez en essayan
  - Vous profitez des effets de l'action Foncer.
  - Vous pouvez utiliser l'action Utiliser un Objet.
  - Vous pouvez réaliser une attaque armée contre une créature que vous pouvez voir.
- - Vous pouvez essayer de pousser une créature.
- - Vous prenez des dégâts de chute réduits de moitié et votre distance de saut double jusqu'au début de votre prochain tour.
+ - Vous pouvez essayer de Pousser une créature.
+ - Vous subissez des dégâts de chute réduit de moitié et votre distance de saut double jusqu'au début de votre prochain tour.

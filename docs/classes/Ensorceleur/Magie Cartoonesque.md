@@ -15,18 +15,18 @@ Lorsque vous apprenez des sorts d'ensorceleur de niveau 2 ou plus, vous lancez 1
 
 À partir du niveau 2, vous pouvez utiliser 1 point de sorcellerie pour relancer vos Sorts Insensés.
 
-| d6  | Niveau 1            | Niveau 2                            | Niveau 3               | Niveau 4                        | Niveau 5                |
+| d6 | Niveau 1 | Niveau 2 | Niveau 3 | Niveau 4 | Niveau 5 |
 | --- | ------------------- | ----------------------------------- | ---------------------- | ------------------------------- | ----------------------- |
-| 1   | [[Charme-personne]] | [[Défenestration]]                  | [[Contresort]]         | [[Compulsion]]                  | [[Animation d'objets]]  |
-| 2   | [[Déguisement]]     | [[Agrandissement ou Rapetissement]] | [[Vol]]                | [[Confusion]]                   | [[Main magique]]        |
-| 3   | [[Repli expéditif]] | [[Toc-toc]]                         | [[Célérité]]           | [[Distorsion gravitationnelle]] | [[Double illusoire]]    |
-| 4   | [[Graisse]]         | [[Lévitation]]                      | [[Image majeure]]      | [[Métamorphose]]                | [[Passe-muraille]]      |
-| 5   | [[Fou rire]]        | [[Suggestion]]                      | [[Marche sur l'eau]]   | [[Liberté de mouvement]]        | [[Apparence trompeuse]] |
-| 6   | [[Psychédélisme]]   | [[Karaoké forcé de tyra]]           | [[Démembrement bénin]] | [[Robe fabuleuse de mandy]]     | [[Mur de force]]        |
+| 1 | [[Charme-personne]] | [[Défenestration]] | [[Contresort]] | [[Compulsion]] | [[Animation d'objets]] |
+| 2 | [[Déguisement]] | [[Agrandissement ou Rapetissement]] | [[Vol]] | [[Confusion]] | [[Main magique]] |
+| 3 | [[Repli expéditif]] | [[Toc-toc]] | [[Célérité]] | [[Distorsion gravitationnelle]] | [[Double illusoire]] |
+| 4 | [[Graisse]] | [[Lévitation]] | [[Image majeure]] | [[Métamorphose]] | [[Passe-muraille]] |
+| 5 | [[Fou rire]] | [[Suggestion]] | [[Marche sur l'eau]] | [[Liberté de mouvement]] | [[Apparence trompeuse]] |
+| 6 | [[Psychédélisme]] | [[Karaoké forcé de tyra]] | [[Démembrement bénin]] | [[Robe fabuleuse de mandy]] | [[Mur de force]] |
 
 ## Membres Loufoques
 
-Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos bras et vos jambes bien au-delà de leur longueur habituelle, vous permettant d'interagir avec des objets distants ou des créatures ainsi que de lancer des sorts avec la portée `Touché` sur une portée de 10 ft. De plus, vos attaques de mêlée ont la propriété [[Propriétés d'Arme#Portée|Portée]] et vous pouvez ignorer la propriété [[Propriétés d'Arme#Lourd|Lourd]] des armes.
+Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos bras et vos jambes bien au-delà de leur longueur habituelle, vous permettant d'interagir avec des objets distants ou des créatures ainsi que de lancer des sorts avec la portée Contact sur une portée de 10 ft. De plus, vos attaques de mêlée ont la propriété [[Propriétés d'Arme#Allonge|Allonge]] et vous pouvez ignorer la propriété [[Propriétés d'Arme#Lourd|Lourd]] des armes.
 
 ## Timing Comique
 

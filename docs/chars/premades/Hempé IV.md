@@ -3,38 +3,38 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Ligateur
+**Race :** Ligateur
 
-__Classe :__ Giff
+**Classe :** Giff
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 16 (+3) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 16 (+3) |
-|  ◎ +3   |  ◎ +1   |  ◎ +3   |  ◎ +1   |  ◉ +4   |  ◉ +5   |
+| ◎ +3 | ◎ +1 | ◎ +3 | ◎ +1 | ◉ +4 | ◉ +5 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) :      | ◎ Investigation (_Int_) : ±0  |
-| ◉ Arcanes (_Int_) : ±0      | ◎ Médecine (_Sag_) : ±0       |
-| ◎ Athlétisme (_For_) : ±0   | ◎ Nature (_Int_) : ±0<br>     |
-| ◎ Discrétion (_Dex_) : ±0   | ◎ Perception (_Sag_) : ±0     |
-| ◎ Dressage (_Sag_) : ±0     | ◉ Persuasion (_Cha_) : ±0     |
-| ◎ Escamotage (_Dex_) : ±0   | ◎ Religion (_Int_) : ±0       |
-| ◉ Histoire (_Int_) : ±0     | ◎ Représentation (_Cha_) : ±0 |
-| ◎ Intimidation (_Cha_) : ±0 | ◉ Survie (_Sag_) : ±0         |
-| ◎ Intuition (_Sag_) : ±0    | ◎ Tromperie (_Cha_) : ±0<br>  |
+| ◎ Acrobaties (*Dex*) : | ◎ Investigation (*Int*) : ±0 |
+| ◉ Arcanes (*Int*) : ±0 | ◎ Médecine (*Sag*) : ±0 |
+| ◎ Athlétisme (*For*) : ±0 | ◎ Nature (*Int*) : ±0<br> |
+| ◎ Discrétion (*Dex*) : ±0 | ◎ Perception (*Sag*) : ±0 |
+| ◎ Dressage (*Sag*) : ±0 | ◉ Persuasion (*Cha*) : ±0 |
+| ◎ Escamotage (*Dex*) : ±0 | ◎ Religion (*Int*) : ±0 |
+| ◉ Histoire (*Int*) : ±0 | ◎ Représentation (*Cha*) : ±0 |
+| ◎ Intimidation (*Cha*) : ±0 | ◉ Survie (*Sag*) : ±0 |
+| ◎ Intuition (*Sag*) : ±0 | ◎ Tromperie (*Cha*) : ±0<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes le Prince Hempé IV, héritier d'un trône Giff sans pouvoir, qui utilise en secret une magie interdite de liaison d'esprits pour préparer une révolution et reconquérir la souveraineté de votre île colonisée par une guilde marchande.
 > 
 > **Objectif pour la session :** 
-> Officiellement en "mission diplomatique", votre véritable but est de trouver des informations sur un nouveau _vestige_ (esprit puissant) ou de trouver un allié potentiel pour votre future rébellion. Chaque interaction est une opportunité de jauger la force et la loyauté des autres.
+> Officiellement en "mission diplomatique", votre véritable but est de trouver des informations sur un nouveau *vestige* (esprit puissant) ou de trouver un allié potentiel pour votre future rébellion. Chaque interaction est une opportunité de jauger la force et la loyauté des autres.
 > 
 > **Maintenez la Façade Royale :** Parlez toujours de manière formelle et posée (vouvoiement, langage soutenu). Votre posture est droite, vos vêtements impeccables. Vous êtes le prince, même en exil. C'est votre armure sociale.
 > 
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** --
 
-__Langues__ : Commun, [[Langues#Jypègue]]]
+**Langues** : Commun, [[Langues#Jypègue]]]
 
 ### Description
 
-__Âge :__ 23 ans
+**Âge :** 23 ans
 
-__Taille :__ 1,95 m
+**Taille :** 1,95 m
 
-__Poids :__ 130 kg
+**Poids :** 130 kg
 
 À première vue, le Prince Hempé IV est l'incarnation même de la noblesse et de la discipline Giff. Massif et imposant, il se tient avec une droiture militaire, chaque mouvement étant empreint d'une formalité et d'une économie de gestes apprises depuis l'enfance. Sa posture est une armure en soi, un défi silencieux lancé à ceux qui voudraient le voir comme un simple pion.
 
@@ -77,7 +77,7 @@ Ce sont les signes des vestiges qui se pressent contre les parois de son âme, d
 
 **Étincelle Astrale.** Votre connexion psychique au Plan Astral vous permet de mystérieusement accéder à une étincelle de pouvoir divin, que vous pouvez canaliser dans vos armes. Lorsque vous touchez une cible avec une arme simple ou martiale, vous pouvez lui infliger des dégâts de force supplémentaires égaux à votre bonus de maîtrise. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, mais pas plus d'une fois par tour. Vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété _Chargement_ de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
+**Maîtrise des Armes à Feu.** Vous avez une connexion mystique avec les armes à feu qui datent des dieux créateurs, qui utilisaient de tels mécanismes. Vous maîtrisez toutes les armes à feu et ignorez la propriété *Chargement* de telles armes. De plus, attaquer à longue distance avec une arme à feu ne vous impose aucun désavantage à votre jet d'attaque.
 
 **Carrure d'Hippo.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Force. De plus, vous êtes considéré comme d'une taille supplémentaire pour déterminer votre capacité de charge.
 
@@ -131,15 +131,15 @@ En quittant son royaume, Hempé a réussi à récupérer un ancien sceptre stock
 
 ### Traits de Personnalité
 
-__Traits :__ Je juge par les actions, pas par les mots. Lorsque je me décide à quelque chose, je fais tout pour y parvenir.
+**Traits :** Je juge par les actions, pas par les mots. Lorsque je me décide à quelque chose, je fais tout pour y parvenir.
 
-__Idéal :__ Tout le monde mérite d'être traité avec dignité et respect.
+**Idéal :** Tout le monde mérite d'être traité avec dignité et respect.
 
-__Lien :__ J'aime mon territoire et je le protégerai.
+**Lien :** J'aime mon territoire et je le protégerai.
 
-__Défaut :__ Je suis convaincu de la grandeur de ma destinée, et aveuglé à mes manquements.
+**Défaut :** Je suis convaincu de la grandeur de ma destinée, et aveuglé à mes manquements.
 
-__Alignement :__ Neutre Bon
+**Alignement :** Neutre Bon
 
 ## Conseil de Jeu
 

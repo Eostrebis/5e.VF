@@ -5,13 +5,13 @@ Infiltration, déguisement et mensonge tel un arracheur de dents, voilà les pri
 
 ## Bravade
 
-À partir du moment où vous choisissez cette spécialisation au niveau 3, votre faux sourire et votre confiance contagieuse rassure la plupart des gens que vous rencontrez, même lorsque vous ne dites pas toute la vérité. Vous maîtrisez la compétence Tromperie et vous pouvez utiliser votre modificateur d'Intelligence plutôt que de Charisme lorsque vous réalisez des jets de Charisme (Tromperie).
+À partir du moment où vous choisissez cette spécialisation au niveau 3, votre faux sourire et votre confiance contagieuse rassure la plupart des gens que vous rencontrez, même lorsque vous ne dites pas toute la vérité. Vous maîtrisez la compétence Tromperie et vous pouvez utiliser votre modificateur d'Intelligence plutôt que de Charisme lorsque vous effectuez des jets de Charisme (Tromperie).
 
 ## Babioles 
 
 Au niveau 3, vous possédez un certain nombre de babioles qui assistent votre espionnage. Vous pouvez utiliser les babioles suivantes : 
 
-**Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous prenez des dégâts.
+**Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous subissez des dégâtst.
 
 **Lunettes à Montures en Corne.** Pour une action bonus, vous pouvez lancer le sort [[Déguisement]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
@@ -19,7 +19,7 @@ Au niveau 3, vous possédez un certain nombre de babioles qui assistent votre es
 
 ## Clandestin
 
-Au niveau 6, vous cherchez toujours à tuer votre cible en un coup. Lorsque vous réalisez un jet d'attaque contre une créature qui est [[surpris|surprise]] ou qui n'a pas encore agi dans le combat, vous pouvez considérer que les dés de dégâts de votre arme obtiennent le résultat maximal.
+Au niveau 6, vous cherchez toujours à tuer votre cible en un coup. Lorsque vous effectuez un jet d'attaque contre une créature qui est [[surpris|surprise]] ou qui n'a pas encore agi dans le combat, vous pouvez considérer que les dés de dégâts de votre arme obtiennent le résultat maximal.
 
 ## Pas à la cuillère
 

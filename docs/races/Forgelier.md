@@ -3,7 +3,7 @@ writing_status: finished
 ---
 ### Description
 
-Les Forgeliers sont des humanoïdes artificiels, originellement construits pour combattre lors de la Dernière Guerre. Bien qu'ils soient composés de matériaux tels que le bois, la pierre et le métal, ce ne sont pas de simples automates. Ils sont bien vivants, animés par une force vitale mystique. Leur visage est souvent une plaque métallique rigide, dotée d'yeux cristallins qui brillent d'une lueur interne, et leur front arbore souvent un _ghulra_, un sceau unique qui sert d'identifiant.
+Les Forgeliers sont des humanoïdes artificiels, originellement construits pour combattre lors de la Dernière Guerre. Bien qu'ils soient composés de matériaux tels que le bois, la pierre et le métal, ce ne sont pas de simples automates. Ils sont bien vivants, animés par une force vitale mystique. Leur visage est souvent une plaque métallique rigide, dotée d'yeux cristallins qui brillent d'une lueur interne, et leur front arbore souvent un *ghulra*, un sceau unique qui sert d'identifiant.
 
 Parce qu'ils ont été conçus comme des outils de destruction, les Forgeliers luttent souvent pour comprendre les émotions humaines et les nuances de la société civile. Cependant, ils possèdent une loyauté sans faille et une capacité d'apprentissage qui dépasse souvent celle de leurs créateurs. 
 
@@ -31,7 +31,7 @@ La culture forgelière est une culture en devenir. N'ayant ni enfance, ni parent
 
 **Résilience du Forgé.** Votre conception vous confère les avantages suivants : 
 
- - Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous avez la résistance aux dégâts de poison.
+ - Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous obtenez une résistance aux dégâts de poison.
  - Vous n'avez pas besoin de manger, de boire ou de respirer.
  - Vous êtes immunisé contre les maladies.
  - Vous n'avez pas besoin de dormir et la magie ne peut pas vous endormir.

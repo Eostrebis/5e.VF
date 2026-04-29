@@ -34,29 +34,29 @@ Qu'est-ce qui vous a amené à l'aventure ? Avez-vous été tenté par les terre
 
 Vous pouvez créer un barbare rapidement en suivant ces suggestions. Commencez par faire de la Force votre caractéristique principale, suivie de la Constitution. Choisissez l'historique [[vagabond]].
 
-| **Le Barbare** |                   |                                                              |            |                |
+| **Le Barbare** | | | | |
 | -------------- | ----------------- | ------------------------------------------------------------ | ---------- | -------------- |
-| Niveau         | Bonus de Maîtrise | Aptitudes                                                    | Rages      | Dégâts de Rage |
-| 1              | +2                | [[#Rage]], [[#Défense Sans Armure]]                          | 2          | +2             |
-| 2              | +2                | [[#Attaque Téméraire]], [[#Sixième Sens]]                    | 2          | +2             |
-| 3              | +2                | [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]]             | 3          | +2             |
-| 4              | +2                | [[#Augmentation de Caractéristiques]]                        | 3          | +2             |
-| 5              | +3                | [[#Attaque Supplémentaire]], [[#Déplacement Rapide]]         | 3<br>      | +2             |
-| 6              | +3                | Aptitude de [[#Voie Primitive]]                              | 4          | +2             |
-| 7              | +3                | [[#Instinct Féral]], [[#Bond Instinctif (Opt.)]]             | 4          | +2             |
-| 8              | +3                | [[#Augmentation de Caractéristiques]]                        | 4          | +2             |
-| 9              | +4                | [[#Critique Brutal]] (1 dé)                                  | 4          | +3             |
-| 10             | +4                | Aptitude de [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]] | 4          | +3             |
-| 11             | +4                | [[#Rage Implacable]]                                         | 4          | +3             |
-| 12             | +4                | [[#Augmentation de Caractéristiques]]                        | 5          | +3             |
-| 13             | +5                | [[#Critique Brutal]] (2 dés)                                 | 5          | +3             |
-| 14             | +5                | Aptitude de [[#Voie Primitive]]                              | 5          | +3             |
-| 15             | +5                | [[#Rage Persistante]]                                        | 5          | +3             |
-| 16             | +5                | [[#Augmentation de Caractéristiques]]                        | 5          | +4             |
-| 17             | +6                | [[#Critique Brutal]] (3 dés)                                 | 6          | +4             |
-| 18             | +6                | [[#Puissance Indomptable]]                                   | 6          | +4             |
-| 19             | +6                | [[#Augmentation de Caractéristiques]]                        | 6          | +4             |
-| 20             | +6                | [[#Champion Primal]]                                         | Illimitées | +4             |
+| Niveau | Bonus de Maîtrise | Aptitudes | Rages | Dégâts de Rage |
+| 1 | +2 | [[#Rage]], [[#Défense Sans Armure]] | 2 | +2 |
+| 2 | +2 | [[#Attaque Téméraire]], [[#Sixième Sens]] | 2 | +2 |
+| 3 | +2 | [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]] | 3 | +2 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 3 | +2 |
+| 5 | +3 | [[#Attaque Supplémentaire]], [[#Déplacement Rapide]] | 3<br> | +2 |
+| 6 | +3 | Aptitude de [[#Voie Primitive]] | 4 | +2 |
+| 7 | +3 | [[#Instinct Féral]], [[#Bond Instinctif (Opt.)]] | 4 | +2 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 4 | +2 |
+| 9 | +4 | [[#Critique Brutal]] (1 dé) | 4 | +3 |
+| 10 | +4 | Aptitude de [[#Voie Primitive]], [[#Savoir Primitif (Opt.)]] | 4 | +3 |
+| 11 | +4 | [[#Rage Implacable]] | 4 | +3 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 5 | +3 |
+| 13 | +5 | [[#Critique Brutal]] (2 dés) | 5 | +3 |
+| 14 | +5 | Aptitude de [[#Voie Primitive]] | 5 | +3 |
+| 15 | +5 | [[#Rage Persistante]] | 5 | +3 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 5 | +4 |
+| 17 | +6 | [[#Critique Brutal]] (3 dés) | 6 | +4 |
+| 18 | +6 | [[#Puissance Indomptable]] | 6 | +4 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 6 | +4 |
+| 20 | +6 | [[#Champion Primal]] | Illimitées | +4 |
 
 # Aptitudes de Classes
 
@@ -98,11 +98,11 @@ Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne po
  
  - Vous avez l'avantage aux jets et jets de sauvegarde de Force.
  - Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus aux dégâts en fonction de votre niveau de barbare, tel que renseigné dans la table.
- - Vous êtes résistant aux dégâts contondants, perçants et tranchants.
+ - Vous êtes résistant aux dégâts contondants, perforants et tranchants.
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
 
-Votre rage dure 1 minute. Elle se termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou pris de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
+Votre rage dure 1 minute. Elle se termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou subi de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
 
 Une fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau.
 
@@ -124,38 +124,38 @@ Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que
 
 Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
-| Voie                              | Description                                                                                 |
+| Voie | Description |
 | --------------------------------- | ------------------------------------------------------------------------------------------- |
-| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées              |
-| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.         |
-| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets imprévisibles.<br>   |
-| [[Voie de la Magie Très Sauvage]] | Est soumis aux instabilités magiques que lui confère sa rage.                               |
-| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                            |
-| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                   |
-| [[Voie du Berserker]]             | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser. |
-| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                   |
-| [[Voie du Fanatique]]             | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort.  |
-| [[Voie du Fléau]]                 | Tire profit de l'influence de forces occultes pour assouvir sa faim                         |
-| [[Voie du Fou de Guerre]]         |                                                                                             |
-| [[Voie du Gardien Ancestral]]     |                                                                                             |
-| [[Voie du Guerrier Totémique]]    |                                                                                             |
-| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes     |
-| [[Voie du Héraut des Tempêtes]]   |                                                                                             |
-| [[Voie du Lunatique]]             |                                                                                             |
-| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité     |
-| [[Voie du Maudit]]                |                                                                                             |
-| [[Voie du Tonneau]]               |                                                                                             |
-| [[Voie des Géants]]               | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance           |
+| [[Voie de l'Aileron]] | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées |
+| [[Voie de la Bête]] | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue. |
+| [[Voie de la Magie Sauvage]] | Libère des déferlantes de magie imprévisible en manifestant des effets imprévisibles.<br> |
+| [[Voie de la Magie Très Sauvage]] | Est soumis aux instabilités magiques que lui confère sa rage. |
+| [[Voie de la Sérénité]] | Un guerrier zen qui rentre en état de transe pendant les combats |
+| [[Voie de Mashle]] | Clairement un "magicien". Un "magicien" costaud et énervé |
+| [[Voie du Berserker]] | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser. |
+| [[Voie du Colosse]] | Double sa taille pour écraser ses ennemis |
+| [[Voie du Fanatique]] | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort. |
+| [[Voie du Fléau]] | Tire profit de l'influence de forces occultes pour assouvir sa faim |
+| [[Voie du Fou de Guerre]] | |
+| [[Voie du Gardien Ancestral]] | |
+| [[Voie du Guerrier Totémique]] | |
+| [[Voie du Heavy Metal]] | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes |
+| [[Voie du Héraut des Tempêtes]] | |
+| [[Voie du Lunatique]] | |
+| [[Voie du Mage Rageur]] | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité |
+| [[Voie du Maudit]] | |
+| [[Voie du Tonneau]] | |
+| [[Voie des Géants]] | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance |
 
-| **Voie**                            | **Description**                                                                                                |
+| **Voie** | **Description** |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **[[Voie du Fou de Guerre]]**       | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler.  |
-| **[[Voie du Gardien Ancestral]]**   | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires.             |
-| **[[Voie du Guerrier Totémique]]**  | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles.    |
-| **[[Voie du Héraut des Tempêtes]]** | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé.                    |
-| **[[Voie du Lunatique]]**           | Tire sa force des phases de la lune, altérant la gravité et libérant des éclats de lumière argentée.           |
-| **[[Voie du Maudit]]**              | Un guerrier rongé par une malédiction qui utilise l'énergie nécrotique pour affaiblir et terrifier ses proies. |
-| **[[Voie du Tonneau]]**             | Un bagarreur éméché qui utilise l'alcool et des tonneaux robustes comme armes de guerre improvisées.           |
+| **[[Voie du Fou de Guerre]]** | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler. |
+| **[[Voie du Gardien Ancestral]]** | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires. |
+| **[[Voie du Guerrier Totémique]]** | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles. |
+| **[[Voie du Héraut des Tempêtes]]** | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé. |
+| **[[Voie du Lunatique]]** | Tire sa force des phases de la lune, altérant la gravité et libérant des éclats de lumière argentée. |
+| **[[Voie du Maudit]]** | Un guerrier rongé par une malédiction qui utilise l'énergie nécrotique pour affaiblir et terrifier ses proies. |
+| **[[Voie du Tonneau]]** | Un bagarreur éméché qui utilise l'alcool et des tonneaux robustes comme armes de guerre improvisées. |
 
 ## Savoir Primitif (Opt.)
 
@@ -191,7 +191,7 @@ Ce dé supplémentaire passe à 2 puis 3 dés aux niveaux 13 et 17.
 
 ## Rage Implacable
 
-À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez réaliser un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
+À partir du niveau 11, votre rage vous permet de continuer à vous battre quelles que soient vos blessures. Si vous tombez à 0 point de vie en étant enragé et ne mourez pas sur le coup, vous pouvez effectuer un jet de sauvegarde de Constitution DD 10. Si vous le réussissez, vous tombez à 1 point de vie plutôt.
 
 Chaque fois que vous utilisez cette aptitude après la première fois, le DD augmente de 5. Lorsque vous terminez un repos, le DD est réinitialisé à 10.
 

@@ -31,6 +31,6 @@ La culture éthérienne est centrée sur l'hédonisme et la vie sociale. N'ayant
 
 **Vision dans le Noir.** Votre nature liée à l'éther vous permet de voir dans les ténèbres. Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible. Vous ne pouvez pas distinguer les couleurs dans l'obscurité, seulement des nuances de gris.
 
-**Né de l'Éther.** Vous avez la résistance aux dégâts nécrotiques.
+**Né de l'Éther.** Vous avez une résistance aux dégâts nécrotiques.
 
 **Menaçant.** Vous maîtrisez la compétence Intimidation.

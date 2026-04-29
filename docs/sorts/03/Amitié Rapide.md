@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Magicien
-  - Sorcière
+ - Barde
+ - Clerc
+ - Magicien
+ - Sorcière
 level: 3
 school: Enchantement
 Verbal: true
@@ -20,7 +20,7 @@ writing_status: finished
 ---
 Lorsque vous lancez ce sort, choisissez un humanoïde à portée qui peut vous voir, vous entendre et vous comprendre. La créature doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] par vous pendant la durée du sort. Tant que la créature est [[charmé|charmée]] de cette façon, elle essaye d'accomplir tout service ou tâche que vous lui demandez de réaliser de façon amicale, au mieux de ses capacités.
 
-Vous pouvez assigner de nouvelles tâches à la créature lorsque les précédentes sont terminées ou si vous décidez de mettre fin à la tâche en cours. Si le service ou l'activité est susceptible de nuire à  la créature ou rentre en conflit avec ses activités habituelles ou ses désirs, la créature peut réaliser un nouveau jet de sauvegarde de Sagesse pour essayer de mettre fin à l'effet. Ce jet est réalisé avec avantage si vous ou vos compagnons êtes en train de vous battre contre la créature. Si l'activité n'a pas d'autres issues que la mort pour la créature, le sort se termine.
+Vous pouvez assigner de nouvelles tâches à la créature lorsque les précédentes sont terminées ou si vous décidez de mettre fin à la tâche en cours. Si le service ou l'activité est susceptible de nuire à la créature ou rentre en conflit avec ses activités habituelles ou ses désirs, la créature peut effectuer un nouveau jet de sauvegarde de Sagesse pour essayer de mettre fin à l'effet. Ce jet est réalisé avec avantage si vous ou vos compagnons êtes en train de vous battre contre la créature. Si l'activité n'a pas d'autres issues que la mort pour la créature, le sort se termine.
 
 Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 

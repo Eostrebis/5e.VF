@@ -18,13 +18,13 @@ La richesse représente la disponibilité des biens et des services ; elle est d
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                            |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------ |
-| 3                 | [[Alarme]], [[charme-personne]]                  |
-| 5                 | [[Toc-toc]], [[menace sinistre]]                 |
-| 9                 | [[Cœur noirci]], [[détection des interférences]] |
-| 13                | [[Invitation]], [[Accord tacite]]                |
-| 17                | [[Némésis]], [[surcharge émotionnelle]]          |
+| 3 | [[Alarme]], [[charme-personne]] |
+| 5 | [[Toc-toc]], [[menace sinistre]] |
+| 9 | [[Cœur noirci]], [[détection des interférences]] |
+| 13 | [[Invitation]], [[Accord tacite]] |
+| 17 | [[Némésis]], [[surcharge émotionnelle]] |
 
 ## Canal Divin
 
@@ -36,7 +36,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 ## Aura d'Investissement
 
-À partir du niveau 7, vous êtes entouré d'une aura de 10 ft. de bénéfices mutuels. Lorsque vous ou une créature alliée gagne des points de vie temporaires tout en étant dans l'aura, toutes les autres créatures alliées dans l'aura (y compris vous) gagnent le même nombre de points de vie temporaires qui persistent pour la même durée. Cet effet ne peut conférer à une créature plus de deux fois votre modificateur de Charisme de points de vie temporaires en une fois.
+À partir du niveau 7, vous êtes entouré d'une aura de 10 ft. de bénéfices mutuels. Lorsque vous ou une créature alliée gagne des points de vie temporaires tout en étant dans l'aura, toutes les autres créatures alliées dans l'aura (y compris vous) gagnent le même nombre de points de vie temporaires qui persistent pendant la même durée. Cet effet ne peut conférer à une créature plus de deux fois votre modificateur de Charisme de points de vie temporaires en une fois.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
@@ -50,6 +50,6 @@ Au niveau 20, vous révélez vos véritables désirs au monde et commencez à co
 
  - Vous gagnez 20 points de vie temporaires au début de chacun de vos tours.
  - À chaque fois que vous volez une arme en utilisant votre Taux de Change, vous pouvez immédiatement réaliser une attaque armée avec, sans dépenser d'action.
- - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez choisir de libérer une explosion de lumière dorée. La cible doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[aveuglé|aveuglée]] jusqu'à la fin de votre prochain tour.
+ - Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez choisir de libérer une explosion de lumière dorée. La cible doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, elle est [[aveuglé|aveuglée]] jusqu'à la fin de votre prochain tour.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

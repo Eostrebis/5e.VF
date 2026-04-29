@@ -11,18 +11,18 @@ Sous votre commande, les plantes de la terre éclosent pour vous assister. Au so
 
 ## Peau Verdoyante
 
-Au niveau 6, vous maitrisez la compétence Discrétion. De plus, vous pouvez utiliser votre action pour faire apparaître une masse de lianes et feuilles pour vous dissimuler. Jusqu'à ce que vous bougiez, vous avez l'avantage aux jets de Dextérité (Discrétion) que vous réalisez pour vous cacher dans la végétation.
+Au niveau 6, vous maitrisez la compétence Discrétion. De plus, vous pouvez utiliser votre action pour faire apparaître une masse de lianes et feuilles pour vous dissimuler. Jusqu'à ce que vous bougiez, vous avez l'avantage aux jets de Dextérité (Discrétion) que vous effectuez pour vous Cacher dans la végétation.
 
 ## Trempe
 
-Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne prendre que la moitié des dégâts, vous ne prenez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
+Au niveau 13, votre détermination vous permet d'ignorer des effets qui vous sont néfastes. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Constitution pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Forme de la Sentinelle de Chêne
 
 À partir du niveau 20, vous pouvez utiliser votre action pour vous transformer en une sentinelle de chêne, un titan recouvert d'écorce. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
  - Votre CA passe à 20 si elle était inférieure.
- - Vos attaques de mêlée ont une portée de 10 ft.
+ - Vos attaques de mêlée ont une allonge de 10 ft.
  - Vous pouvez utiliser votre Saisie du Gardien pour une action au lieu d'une action bonus. Si vous le faites, vous pouvez réaliser une attaque contre chaque créature affectée, avec un jet d'attaque différent pour chaque créature.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.

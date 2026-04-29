@@ -39,11 +39,11 @@ Les nains qui choisissent l'aventure peuvent être motivés par un trésor, que 
 
 Le nom d'un nain lui est conféré par le doyen du clan, en suivant les traditions. Tous les vrais noms nains ont été utilisés et réutilisé au fil des générations. Le nom d'un nain appartient au clan, pas à l'individu. Un nain qui apporte honte ou déshonneur à son clan se voit retirer son nom et est interdit légalement d'utiliser un autre nom nain.
 
-__Noms Masculins.__ Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
+**Noms Masculins.** Adrik, Alberich, Baern, Barendd, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Veit, Vondal
 
-__Noms Féminins.__ Ambre, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+**Noms Féminins.** Ambre, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
 
-__Noms de Clan.__ Balderk, Marteau-guerre, Enclume-poing, Dankil, Forgefeu, Barbe-gelée, Gorunn, Holderhek, Poing-de-fer, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
+**Noms de Clan.** Balderk, Marteau-guerre, Enclume-poing, Dankil, Forgefeu, Barbe-gelée, Gorunn, Holderhek, Poing-de-fer, Loderr, Lutgehr, Rumnaheim, Strakeln, Torunn, Ungart
 
 ## Nain des Collines
 
@@ -53,7 +53,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, WIS +1_)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, WIS +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
@@ -61,11 +61,11 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 **Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
-**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. Votre vitesse n'est pas réduite lorsque vous portez une [[armures lourdes|armure lourde]].
 
-**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Résistance Naine.** Vous avez l'avantage aux jets de sauvegarde contre le poison, et vous êtes résistant aux dégâts de poison.
 
@@ -73,7 +73,7 @@ En tant que nain des collines, vous avez des sens aiguisés, une bonne intuition
 
 **Maîtrise d'Outil.** Vous maîtrisez un outil d'artisan de votre choix parmi : [[outils de forgeron]], [[matériel de brasseur]] ou [[outils de maçon]]
 
-**Héritage Rocheux.** Lorsque vous réalisez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
+**Héritage Rocheux.** Lorsque vous effectuez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
 
 **Endurance Naine.** Votre nombre de points de vie maximum augmente de 1, et il augmente de 1 point supplémentaire à chaque fois que vous gagnez un niveau.
 
@@ -85,7 +85,7 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, FOR +1_)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, FOR +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
@@ -93,11 +93,11 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 **Âge.** Les nains grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
-**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les nains mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 25 ft. Votre vitesse n'est pas réduite lorsque vous portez une [[armures lourdes|armure lourde]].
 
-**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Habitué à la vie souterraine, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Résistance Naine.** Vous avez l'avantage aux jets de sauvegarde contre le poison, et vous êtes résistant aux dégâts de poison.
 
@@ -105,7 +105,7 @@ En tant que nain des montagnes, vous êtes fort et solide, habitué à une vie d
 
 **Maîtrise d'Outil.** Vous maîtrisez un outil d'artisan de votre choix parmi : [[outils de forgeron]], [[matériel de brasseur]] ou [[outils de maçon]]
 
-**Héritage Rocheux.** Lorsque vous réalisez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
+**Héritage Rocheux.** Lorsque vous effectuez un jet d'Intelligence (Histoire) en lien avec l'origine d'un travail de la pierre, vous êtes considéré comme étant expert dans la compétence Histoire.
 
 **Entraînement aux Armures Naines.** Vous maîtrisez les [[armures légères]] et les [[armures moyennes]]. 
 
@@ -117,7 +117,7 @@ Les duergars sont des nains dont les ancêtres se sont transformés au fil des s
 
 ### Mécaniques
 
-**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (_Conseillé : CON +2, WIS +1_)
+**Augmentation de caractéristiques**. Quand vous déterminez les caractéristiques de votre personnage, augmentez l'une de ces caractéristiques par 2 et augmentez une autre par 1, ou augmentez trois caractéristiques différentes par 1. (*Conseillé : CON +2, WIS +1*)
 
 **Type de Créature.** Vous êtes un Humanoïde.
 
@@ -125,7 +125,7 @@ Les duergars sont des nains dont les ancêtres se sont transformés au fil des s
 
 **Âge.** Les duergars grandissent au même rythme que les humains, mais sont considérés comme jeunes jusqu'à l'âge de 50 ans. En moyenne, ils peuvent vivre jusqu'à 350 ans.
 
-**Taille.** Les duergars mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est _Moyenne (M)_.
+**Taille.** Les duergars mesurent entre 1,20 m et 1,50 m et pèsent à peu près 75 kg. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 

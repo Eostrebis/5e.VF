@@ -7,13 +7,13 @@ Pour tous les torts que vous avez pu causer dans votre vie, les dieux ont daign�
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                             |
+| Niveau de Martyr | Sorts |
 | ---------------- | ----------------------------------------------------------------- |
-| 3                | [[Soins]], [[sanctuaire]]                                         |
-| 5                | [[Apaisement des émotions]], [[restauration partielle]]           |
-| 9                | [[Délivrance des malédictions]], [[communication avec les morts]] |
-| 13               | [[Protection contre la mort]], [[bouclier de feu]]                |
-| 17               | [[Restauration supérieure]], [[soins de groupe]]                  |
+| 3 | [[Soins]], [[sanctuaire]] |
+| 5 | [[Apaisement des émotions]], [[restauration partielle]] |
+| 9 | [[Délivrance des malédictions]], [[communication avec les morts]] |
+| 13 | [[Protection contre la mort]], [[bouclier de feu]] |
+| 17 | [[Restauration supérieure]], [[soins de groupe]] |
 
 ## Maîtrise supplémentaire
 

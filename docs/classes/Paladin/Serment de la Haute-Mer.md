@@ -19,13 +19,13 @@ Ces gardiens croient en la beauté naturelle de la mer, faisant souvent des offr
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                  |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------ |
-| 3                 | [[Création ou destruction d'eau]], [[repli expéditif]] |
-| 5                 | [[Augure]], [[pas brumeux]]                            |
-| 9                 | [[Appel de la foudre]], [[Liberté des Vagues]]         |
-| 13                | [[Contrôle de l'eau]], [[liberté de mouvement]]        |
-| 17                | [[Communion avec la nature]], [[Liberté des Vents]]    |
+| 3 | [[Création ou destruction d'eau]], [[repli expéditif]] |
+| 5 | [[Augure]], [[pas brumeux]] |
+| 9 | [[Appel de la foudre]], [[Liberté des Vagues]] |
+| 13 | [[Contrôle de l'eau]], [[liberté de mouvement]] |
+| 17 | [[Communion avec la nature]], [[Liberté des Vents]] |
 
 ## Canal Divin
 
@@ -33,15 +33,15 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Couche Marine.** Pour une action et en utilisant votre Canal Divin, vous pouvez canaliser les mers pour créer un épais nuage de brouillard qui vous enveloppe sur 20 ft. dans toutes les directions. Le brouillard se déplace avec vous, reste centré sur vous et rend la zone fortement obscurcie. Vous et chaque créature à 5 ft. de vous traitez la zone comme faiblement obscurcie à la place. Ce brouillard persiste 10 minutes, se répand autour des coins et ne peut être dispersé sauf si vous décidez de terminer cet effet (aucune action requise).
 
-**Furie des Marées.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour canaliser la puissance des vagues afin de renforcer vos attaques pendant 1 minute. Une fois par tour pendant cette durée, lorsque vous touchez une créature avec une attaque armée, vous pouvez choisir de repousser la cible de 10 ft. à l'opposé de vous. Si elle est repoussée vers un obstacle ou une autre créature, la cible prend un nombre de dégâts contondants égal à votre modificateur de Charisme.
+**Furie des Marées.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour canaliser la puissance des vagues afin de renforcer vos attaques pendant 1 minute. Une fois par tour pendant cette durée, lorsque vous touchez une créature avec une attaque armée, vous pouvez choisir de repousser la cible de 10 ft. à l'opposé de vous. Si elle est repoussée vers un obstacle ou une autre créature, la cible subit un nombre de dégâts contondants égal à votre modificateur de Charisme.
 ## Aura de Libération
 
-À partir du niveau 7, vous emplissez les créatures proches d'énergie cinétique. Tant que vous n'êtes pas [[incapacité]], vous et les créatures de votre choix à 10 ft. de vous ne pouvez être [[saisi|saisis]] ou [[retenu|retenus]] et ignorez les pénalités de mouvement et attaques lorsque vous êtes sous l'eau. Les créatures qui sont déjà [[saisi|saisie]] ou [[retenu|retenue]] lorsqu'elles pénètrent dans l'aura peuvent dépenser 5 ft. de mouvement pour s'échapper automatiquement, sauf si les entraves sont magiques.
+À partir du niveau 7, vous emplissez les créatures proches d'énergie cinétique. Tant que vous n'êtes pas [[incapacité]], vous et les créatures de votre choix à 10 ft. de vous ne pouvez être [[saisi|saisis]] ou [[retenu|retenus]] et ignorez les pénalités de mouvement et attaques lorsque vous êtes sous l'eau. Les créatures qui sont déjà [[saisi|saisie]] ou [[retenu|retenue]] lorsqu'elles pénètrent dans l'aura peuvent dépenser 5 ft. de mouvement pour s'Échapper automatiquement, sauf si les entraves sont magiques.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 ## Eaux Tempétueuses
 
-Au niveau 15, vous pouvez faire appel aux forces des mers agitées comme réaction lorsqu'une créature rentre ou sort de votre portée. La créature prend 1d12 dégâts contondants et doit réussir un jet de sauvegarde de Force ou être mise [[au sol]].
+Au niveau 15, vous pouvez faire appel aux forces des mers agitées comme réaction lorsqu'une créature rentre ou sort de votre allonge. La créature subit 1d12 dégâts contondants et doit réussir un jet de sauvegarde de Force ou être mise [[au sol]].
 
 ## Bretteur des Légendes
 
@@ -49,7 +49,7 @@ Au niveau 20, vous apprenez à canaliser les esprits des capitaines des légende
 
  - Vous avez l'avantage aux jets de Force (Athlétisme) et vous obtenez une vitesse d'escalade égale à votre vitesse de marche. Si vous avez déjà une vitesse d'escalade, celle-ci est doublée.
  - Si vous êtes à 5 ft. d'une créature et qu'aucune autre créature n'est à 5 ft. de vous, vous avez l'avantage aux jets d'attaque contre cette créature.
- - Vous pouvez Courir ou vous Désengager pour une action bonus.
+ - Vous pouvez Foncer ou vous Désengager pour une action bonus.
  - Vous avez l'avantage aux jets de caractéristique et de sauvegarde de Dextérité contre les effets que vous pouvez voir.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -22,7 +22,7 @@ Langue des peuples aériens, elle est composée de clics et de soufflements. Leu
 "Être Volant" -> tsutche
 "Ami" -> citch'e
 "Ennemi" -> tsuca
-"Adversaire" ->  tsa!e
+"Adversaire" -> tsa!e
 "Vitesse" -> chetsetsou
 "Nature" -> ra!otshi
 "Attaquer" -> eho!uci
@@ -40,9 +40,9 @@ Langue des peuples aériens, elle est composée de clics et de soufflements. Leu
 
 "Son chant est pour une autre branche" -> Il n'est pas loyal
 
-"C'est un _tsuca_ qui se prend pour un nuage" -> Un imbécile prétentieux
+"C'est un *tsuca* qui se prend pour un nuage" -> Un imbécile prétentieux
 
-"La _chetsetsou_ d'un colibri" -> Une tâche particulièrement inefficace, si ce n'est néfaste
+"La *chetsetsou* d'un colibri" -> Une tâche particulièrement inefficace, si ce n'est néfaste
 
 #### Céleste
 

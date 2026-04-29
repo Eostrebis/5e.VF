@@ -31,6 +31,6 @@ La société vedalken est méritocratique et intellectuelle. Ils valorisent le d
 
 **Impassibilité.** Vous avez l'avantage à tous vos jets de sauvegarde d'Intelligence, de Sagesse et de Charisme.
 
-**Précision Infatigable.** Vous maîtrisez l'une des compétences de votre choix parmi Arcane, Histoire, Investigation, Médecine, Représentation ou Escamotage. Vous maîtrisez également un outil de votre choix. À chaque fois que vous réalisez un jet de caractéristique avec la compétence ou l'outil choisi, vous ajoutez un d4 au jet.
+**Précision Infatigable.** Vous maîtrisez l'une des compétences de votre choix parmi Arcane, Histoire, Investigation, Médecine, Représentation ou Escamotage. Vous maîtrisez également un outil de votre choix. À chaque fois que vous effectuez un jet de caractéristique avec la compétence ou l'outil choisi, vous ajoutez un d4 au jet.
 
 **Amphibie Partiel.** En absorbant l'oxygène à travers votre peau, vous pouvez respirer sous l'eau pendant 1 heure. Une fois que vous avez atteint cette limite, vous ne pouvez utiliser ce trait avant d'avoir terminé un repos long.

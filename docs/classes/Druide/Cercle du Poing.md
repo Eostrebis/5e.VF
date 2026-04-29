@@ -14,13 +14,13 @@ Au niveau 2, vous vous battez avec la vigueur d'une bête sauvage. Tant que vous
  - Vous pouvez tirer un d4 plutôt que votre dé normal pour vos attaques à mains nues. Ce dé change lorsque vous gagnez des niveaux de druide, comme indiqué par la table ci-dessous. Si le dé d'arme de votre Forme Bestiale est inférieure à votre dé de Frappe à Mains Nues, vous pouvez utiliser ce dé lorsque vous êtes en forme de Bête.
  - Lorsque vous utilisez votre action pour Attaquer avec une attaque à mains nues pendant votre tour, vous pouvez réaliser une attaque à mains nues supplémentaires comme action bonus. Si vous dépensez un emplacement de sort de niveau 1 ou plus, vous pouvez réaliser 2 attaques à mains nues comme action bonus. Si vous dépensez un emplacement de sort de niveau 5 ou plus, vous pouvez réaliser 3 attaques à mains nues.
 
-À partir du niveau 6, vos attaques à mains nues sont considérées magiques vis-à-vis de la résistance et l'immunité aux attaques et dégâts non magiques.
+À partir du niveau 6, vos attaques à mains nues sont considérées magiques vis-à-vis d'une résistance et l'immunité aux attaques et dégâts non magiques.
 
 | Niveau de Druide | Dé de Dégâts |
 | ---------------- | ------------ |
-| 2                | 1d4          |
-| 5                | 1d6          |
-| 11               | 1d8          |
+| 2 | 1d4 |
+| 5 | 1d6 |
+| 11 | 1d8 |
 
 ## Infusion Primale
 

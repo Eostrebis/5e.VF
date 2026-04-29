@@ -10,22 +10,22 @@ Les goules nées-des-tombes, qui sont imprégnées de terribles énergies nécro
 >- **Classe d'Armure** 12
 >- **Points de Vie** 63 (14d8)
 >- **Vitesse** 30 ft.
->___
+>*_*
 >|FOR|DEX|CON|INT|SAG|CHA|
 >|:---:|:---:|:---:|:---:|:---:|:---:|
 >|18 (+4)|15 (+2)|10 (+0)|9 (-1)|10 (+0)|8 (-1)|
 > 
-> - __Immunités aux Dégâts.__ Poison
-> - __Immunités aux Conditions.__ [[Charmé]], [[Épuisement]], [[Empoisonné]]
-> - __Sens.__ Vision aveugle 60 ft., Perception Passive 10
-> - __Langues__ Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
->___
+> - **Immunités aux Dégâts.** Poison
+> - **Immunités aux Conditions.** [[Charmé]], [[Épuisement]], [[Empoisonné]]
+> - **Sens.** Vision aveugle 60 ft., Perception Passive 10
+> - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
+>*_*
 > | Difficulté | Bonus de Maîtrise |
 > |:-:|:-:|
 > | 2 (450 EXP) | +2 |
->___
+>*_*
 >
-> __Régénération.__ La goule née-des-tombes regagne 5 points de vie au début de chacun de ses tours. Si la goule subit des dégâts de feu ou radiants, ce trait ne fonctionne pas au début du prochain tour de la goule. La goule ne meurt que si elle commence son tour à 0 point de vie et ne régénère pas. 
+> **Régénération.** La goule née-des-tombes regagne 5 points de vie au début de chacun de ses tours. Si la goule subit des dégâts de feu ou radiants, ce trait ne fonctionne pas au début du prochain tour de la goule. La goule ne meurt que si elle commence son tour à 0 point de vie et ne régénère pas. 
 >
 >### Actions
->***Griffes.*** *Attaque Armée de Mêlée :* +6 pour toucher, portée 5 ft., une cible. *Touché :* 18 (4d6 +4) dégâts tranchants.
+>***Griffes.*** *Attaque Armée de Mêlée :* +6 pour toucher, allonge 5 ft., une cible. *Touché :* 18 (4d6 +4) dégâts tranchants.

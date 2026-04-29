@@ -5,13 +5,13 @@ Les dieux dont la charge inclue le domaine de la Tempête gouvernent les tempêt
 
 **Sorts du Domaine de la Tempête**
 
-| Niveau de Clerc | Sorts                                        |
+| Niveau de Clerc | Sorts |
 | --------------- | -------------------------------------------- |
-| 1               | [[Brouillard]], [[Vague Tonnante]]           |
-| 3               | [[Saute de Vent]], [[fracassement]]          |
-| 5               | [[Appel de la Foudre]], [[tempête de neige]] |
-| 7               | [[Contrôle de l'eau]], [[tempête de grêle]]  |
-| 9               | [[Vague destructrice]], [[fléau d'insectes]] |
+| 1 | [[Brouillard]], [[Vague Tonnante]] |
+| 3 | [[Saute de Vent]], [[fracassement]] |
+| 5 | [[Appel de la Foudre]], [[tempête de neige]] |
+| 7 | [[Contrôle de l'eau]], [[tempête de grêle]] |
+| 9 | [[Vague destructrice]], [[fléau d'insectes]] |
 
 ## Maîtrise Supplémentaire
 
@@ -19,7 +19,7 @@ Au niveau 1, vous maîtrisez les [[Armes Martiales]] et les [[Armures Lourdes]]
 
 ## Colère de la Tempête
 
-Également au niveau 1, vous pouvez repousser des attaquants par le pouvoir du tonnerre. Lorsqu'une créature à 5 ft. que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour la forcer à réaliser un jet de sauvegarde de Dextérité. La créature prend 2d8 dégâts de foudre ou de tonnerre (votre choix) en cas d'échec, et la moitié si elle réussit.
+Également au niveau 1, vous pouvez repousser des attaquants par le pouvoir du tonnerre. Lorsqu'une créature à 5 ft. que vous pouvez voir vous touche avec une attaque, vous pouvez utiliser votre réaction pour la forcer à effectuer un jet de sauvegarde de Dextérité. La créature prend 2d8 dégâts de foudre ou de tonnerre (votre choix) en cas d'échec, et la moitié si elle réussit.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Sagesse (minimum une fois). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

@@ -9,7 +9,7 @@ Pour certains barbares, la rage n'est qu'un moyen pour atteindre leur objectif �
 
 ## Rage Aveugle
 
-À partir du niveau 6, vous ne pouvez pas être [[charmé]] ou [[apeuré]] lorsque vous ragez. Si vous êtes [[charmé]] ou [[apeuré]] lorsque vous entrez en rage, l'effet est suspendu pour la durée de la rage.
+À partir du niveau 6, vous ne pouvez pas être [[charmé]] ou [[apeuré]] lorsque vous ragez. Si vous êtes [[charmé]] ou [[apeuré]] lorsque vous entrez en rage, l'effet est suspendu pendant la durée de la rage.
 
 ## Présence Intimidante
 
@@ -19,4 +19,4 @@ Si la créature réussit son jet de sauvegarde, vous ne pouvez pas utiliser cett
 
 ## Rétribution
 
-À partir du niveau 14, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+À partir du niveau 14, lorsque vous subissez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.

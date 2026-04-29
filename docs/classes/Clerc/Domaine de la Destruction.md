@@ -5,13 +5,13 @@ Certains dieux ne se délectent que de l'effondrement des murs et l'incendie des
 
 **Sorts du Domaine de la Destruction**
 
-| Niveau de Clerc | Sorts                                               |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------- |
-| 1               | [[Mains Brûlantes]], [[Vague Tonnante]]             |
-| 3               | [[Rayon ardent]], [[fracassement]]                  |
-| 5               | [[Boule de feu]], [[protection contre une énergie]] |
-| 7               | [[Flétrissement]], [[mur de feu]]                   |
-| 9               | [[Brume mortelle]], [[cône de froid]]               |
+| 1 | [[Mains Brûlantes]], [[Vague Tonnante]] |
+| 3 | [[Rayon ardent]], [[fracassement]] |
+| 5 | [[Boule de feu]], [[protection contre une énergie]] |
+| 7 | [[Flétrissement]], [[mur de feu]] |
+| 9 | [[Brume mortelle]], [[cône de froid]] |
 ## Apprenti Dévastateur
 
 Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[Magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
@@ -22,7 +22,7 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez deux cantrips de vot
 
 ## Onde de Choc
 
-Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une fois à chacun de vos tours, lorsque vous lancez un sort de clerc de niveau 1 ou plus qui inflige des dégâts de feu, de force, de foudre, radiant ou de tonnerre, vous pouvez émettre une onde de choc qui fait trembler l'environnement autour d'une créature qui prend des dégâts du sort. L'onde de choc est une sphère de 5 ft. centrée sur la créature qui n'inflige des dégâts qu'aux objets qui ne sont pas portés ou maniés. Chaque objet dans la zone prend le double des dégâts que vous avez infligés à la créature, ignorant les seuils de dégâts de l'objet.
+Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une fois à chacun de vos tours, lorsque vous lancez un sort de clerc de niveau 1 ou plus qui inflige des dégâts de feu, de force, de foudre, radiant ou de tonnerre, vous pouvez émettre une onde de choc qui fait trembler l'environnement autour d'une créature qui subit des dégâts du sort. L'onde de choc est une sphère de 5 ft. centrée sur la créature qui n'inflige des dégâts qu'aux objets qui ne sont pas portés ou maniés. Chaque objet dans la zone subit le double des dégâts que vous avez infligés à la créature, ignorant les seuils de dégâts de l'objet.
 
 ## Incantation Puissante
 
@@ -30,4 +30,4 @@ Au niveau 6, votre magie dévastatrice ne laisse que des ruines derrière. Une f
 
 ## Sort Ravageur
 
-À partir du niveau 17, lorsque vous infligez des dégâts à une créature avec un sort de clerc, vous pouvez dépenser un emplacement de sort pour une action bonus pour infliger des dégâts radiants supplémentaires à une créature qui a pris des dégâts avec le sort. Les dégâts supplémentaires sont de 2d6 pour un emplacement de sort de niveau 1, plus 1d6 pour chaque niveau au-delà, jusqu'à un maximum de 5d6.
+À partir du niveau 17, lorsque vous infligez des dégâts à une créature avec un sort de clerc, vous pouvez dépenser un emplacement de sort pour une action bonus pour infliger des dégâts radiants supplémentaires à une créature qui a subi des dégâts avec le sort. Les dégâts supplémentaires sont de 2d6 pour un emplacement de sort de niveau 1, plus 1d6 pour chaque niveau au-delà, jusqu'à un maximum de 5d6.

@@ -6,6 +6,6 @@ englishname: Scimetar
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés     |
+| Dégâts | Propriétés |
 | -------------- | -------------- |
 | 1d6 tranchants | Finesse, Léger |

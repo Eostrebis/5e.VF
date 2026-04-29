@@ -8,7 +8,7 @@ Humain qui a vécu si longtemps qu'il a fini par glisser entre la vie et la mort
 # Aptitudes
 
 ## Empathie Tombale
-Les morts-vivants ressentent instinctivement votre proximité avec ceux de leur espèce. À chaque fois qu'un mort-vivant essaye de vous attaquer, il doit réussir un jet de sauvegarde de Sagesse. S'il rate, l'attaque échoue. S'il réussit, il est immunisé contre cet effet pour 24 heures.
+Les morts-vivants ressentent instinctivement votre proximité avec ceux de leur espèce. À chaque fois qu'un mort-vivant essaye de vous attaquer, il doit réussir un jet de sauvegarde de Sagesse. S'il rate, l'attaque échoue. S'il réussit, il est immunisé contre cet effet pendant 24 heures.
 
 ## Berger des Cadavres
 Vous pouvez réaliser un rituel de 10 minutes afin d'invoquer un corps humanoïde de taille M ou un tas d'os (votre choix), qui est téléporté magiquement à vos pieds depuis un cimetière aléatoire.
@@ -25,7 +25,7 @@ Tant que vous êtes lié à Mathusalem, vous relevez les corps par votre simple 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Vénérable
-Tant que vous êtes lié à Mathusalem, vous semblez particulièrement âgé. Votre voix descend pour ne devenir qu'un râle rauque, vos cheveux blanchissent et de profonds rides apparaissent sur votre peau. De plus, vous pouvez siphonner la vie et la jeunesse des autres. Pour une action, réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible prend 4d6 dégâts nécrotiques et vous vous soignez de la moitié de ces dégâts.
+Tant que vous êtes lié à Mathusalem, vous semblez particulièrement âgé. Votre voix descend pour ne devenir qu'un râle rauque, vos cheveux blanchissent et de profonds rides apparaissent sur votre peau. De plus, vous pouvez siphonner la vie et la jeunesse des autres. Pour une action, réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 4d6 dégâts nécrotiques et vous vous soignez de la moitié de ces dégâts.
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, vous obtenez le trait de personnalité suivant : "Je me considère bien plus vieux, sage et usé que les autres."

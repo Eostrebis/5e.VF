@@ -1,6 +1,6 @@
 ---
 available:
-  - Mage de Guerre
+ - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Force Dart
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez une fléchette d'énergie magique vers une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, vous infligez 1d10 dégâts de force.
 

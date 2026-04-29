@@ -9,13 +9,13 @@ Votre lien avec votre esprit animal vous permet d'accéder à la magie de la nat
 
 De plus, vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux dans cette classe, comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais ne compte pas dans le nombre de sorts d'ensorceleur que vous pouvez connaître.
 
-| Niveau | Sorts                                                       |
+| Niveau | Sorts |
 | ------ | ----------------------------------------------------------- |
-| 1      | [[Enchevêtrement]], [[Communication avec les animaux]]      |
-| 3      | [[Passage sans trace]], [[croissance d'épines]]             |
-| 5      | [[Croissance végétale]], [[communication avec les plantes]] |
-| 7      | [[Domination de bête]], [[camarade sauvage de mandy]]       |
-| 9      | [[Éveil]], [[communion avec la nature]]                     |
+| 1 | [[Enchevêtrement]], [[Communication avec les animaux]] |
+| 3 | [[Passage sans trace]], [[croissance d'épines]] |
+| 5 | [[Croissance végétale]], [[communication avec les plantes]] |
+| 7 | [[Domination de bête]], [[camarade sauvage de mandy]] |
+| 9 | [[Éveil]], [[communion avec la nature]] |
 
 ## Esprit Animal
 
@@ -27,11 +27,11 @@ De plus, vous apprenez des sorts supplémentaires lorsque vous atteignez certain
  - Vous ajoutez le double de votre niveau d'ensorceleur aux points de vie de votre familier.
  - Lorsque vous gagnez des niveaux dans cette classe, votre esprit animal peut prendre d'autres formes alternatives comme présenté dans la table ci-dessous.
 
-| Niveau | Formes de Bête                                                                        |
+| Niveau | Formes de Bête |
 | ------ | ------------------------------------------------------------------------------------- |
-| 6      | Sanglier, élan, lézard géant, chouette géante, serpent venimeux géant, panthère, loup |
-| 10     | Chimpanzé, ours noir, crocodile, requin des récifs                                    |
-| 14     | Ours brun, loup sauvage, aigle géant, hyène géante, pieuvre géante, lion, tigre       |
+| 6 | Sanglier, élan, lézard géant, chouette géante, serpent venimeux géant, panthère, loup |
+| 10 | Chimpanzé, ours noir, crocodile, requin des récifs |
+| 14 | Ours brun, loup sauvage, aigle géant, hyène géante, pieuvre géante, lion, tigre |
 ## Lien Puissant
 
 À partir du niveau 6, les attaques de votre esprit animal sont considérées comme magiques vis-à-vis des résistances et immunités.
@@ -44,4 +44,4 @@ Au niveau 14, vous pouvez utiliser votre action bonus et dépenser 1 ou plus poi
 
 ## Esprit Gardien
 
-Au niveau 18, le lien que forme votre esprit avec vous est suffisant pour vous protéger des dangers. Lorsque vous prenez des dégâts, votre esprit peut utiliser sa réaction pour prévenir la moitié de ses dégâts en en subissant lui-même la moitié.
+Au niveau 18, le lien que forme votre esprit avec vous est suffisant pour vous protéger des dangers. Lorsque vous subissez des dégâts, votre esprit peut utiliser sa réaction pour prévenir la moitié de ses dégâts en en subissant lui-même la moitié.

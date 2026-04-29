@@ -9,13 +9,13 @@ Le MJ n'est pas une seule créature. Ça peut être un mâle, une femelle ou ni 
 
 Le Mystérieux MJ vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                             |
+| Niveau de Sort | Sorts |
 | -------------- | ------------------------------------------------- |
-| 1              | [[Détection de la magie]], [[identification]]     |
-| 2              | [[Augure]], [[localisation d'objet]]              |
-| 3              | [[Clairvoyance]], [[délivrance des malédictions]] |
-| 4              | [[Divination]], [[localisation de créature]]      |
-| 5              | [[Communion]], [[mythes et légendes]]             |
+| 1 | [[Détection de la magie]], [[identification]] |
+| 2 | [[Augure]], [[localisation d'objet]] |
+| 3 | [[Clairvoyance]], [[délivrance des malédictions]] |
+| 4 | [[Divination]], [[localisation de créature]] |
+| 5 | [[Communion]], [[mythes et légendes]] |
 
 ## Personnage Jouable
 
@@ -23,7 +23,7 @@ Le Mystérieux MJ vous laisse choisir parmi une liste de sorts étendue lorsque 
 
 ## Truquer le Dé
 
-Au niveau 6, votre joueur a eu un avant-goût du succès et souhaite être aussi impressionnant que possible en l'atteignant. Ainsi, il lui arrive parfois de truquer un jet de dé cosmique en votre faveur. Lorsque vous réalisez un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez bouger juste un peu le d20, changeant le résultat pour un des trois résultats adjacents. Si vous préférez, vous pouvez relancer le dé. Vous devez utiliser le nouveau résultat.
+Au niveau 6, votre joueur a eu un avant-goût du succès et souhaite être aussi impressionnant que possible en l'atteignant. Ainsi, il lui arrive parfois de truquer un jet de dé cosmique en votre faveur. Lorsque vous effectuez un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez bouger juste un peu le d20, changeant le résultat pour un des trois résultats adjacents. Si vous préférez, vous pouvez relancer le dé. Vous devez utiliser le nouveau résultat.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous ne terminiez un repos. Vous pouvez néanmoins tenter votre chance et essayer de l'utiliser en plus alors qu'il ne vous reste pas d'utilisation ; ce faire peut provoquer la colère chez le MJ et, de fait, des conséquences négatives au choix de ce dernier.
 

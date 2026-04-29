@@ -6,6 +6,6 @@ englishname: Whip
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés      |
+| Dégâts | Propriétés |
 | -------------- | --------------- |
-| 1d4 tranchants | Finesse, Portée |
+| 1d4 tranchants | Finesse, Allonge |

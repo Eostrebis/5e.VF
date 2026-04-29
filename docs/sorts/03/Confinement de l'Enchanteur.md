@@ -1,10 +1,10 @@
 ---
 available:
-  - Clerc
-  - Magicien
-  - Artificier
-  - Investigateur
-  - Ensorceleur
+ - Clerc
+ - Magicien
+ - Artificier
+ - Investigateur
+ - Ensorceleur
 level: 3
 school: Abjuration
 Verbal: true
@@ -17,6 +17,6 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Enchanter's Lockdown
-writing_status: empty
+writing_status: finished
 ---
 Vous influez une zone d'un rayon de 20 ft. d'une énergie chaotique, empêchant toute incantation de sort de niveau inférieur ou égal à 3.

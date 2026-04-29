@@ -1,12 +1,12 @@
 ---
 available:
-  - Mage de Guerre
-  - Sorcière
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Artificier
-  - Magicien
+ - Mage de Guerre
+ - Sorcière
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Artificier
+ - Magicien
 level: 0
 school: Évocation
 Verbal: true
@@ -19,8 +19,8 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Frostbite
-writing_status: empty
+writing_status: finished
 ---
-Vous provoquez des gelures sur une créature que vous pouvez voir à portée. La cible doit réaliser un jet de sauvegarde de Constitution. Si elle rate, elle prend 1d6 dégâts de froid et a le désavantage au prochain jet d'attaque armée qu'elle réalise avant la fin de son prochain tour.
+Vous provoquez des gelures sur une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Constitution. Si elle rate, elle subit 1d6 dégâts de froid et a le désavantage au prochain jet d'attaque armée qu'elle effectue avant la fin de son prochain tour.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.

@@ -15,8 +15,8 @@ Au niveau 7, votre escrime élégante vous permet de manipuler et de placer vos 
 
 ## Jeu Déloyal
 
-À partir du niveau 13, vous et votre cohorte pouvez utiliser une action bonus pour se Cacher, Utiliser un Objet ou pour essayer de pousser une créature. Vous avez l'avantage aux jets de Force (Athlétisme) que vous réalisez pour pousser une créature en dehors d'un véhicule aquatique.
+À partir du niveau 13, vous et votre cohorte pouvez utiliser une action bonus pour se Cacher, Utiliser un Objet ou pour essayer de Pousser une créature. Vous avez l'avantage aux jets de Force (Athlétisme) que vous effectuez pour Pousser une créature en dehors d'un véhicule aquatique.
 
 ## Sur le Pont !
 
-Au niveau 17, votre équipage fonctionne en unisson sous votre direction. Vous pouvez utiliser votre action pendant votre tour pour ordonner à chaque créature alliée à 60 ft. qui peut vous entendre ou vous voir de prendre une action de votre choix ; cette action ne peut pas être Attaquer, Lancer un Sort, Esquiver ou Utiliser un Objet Magique. Une créature peut immédiatement utiliser sa réaction pour réaliser l'action.
+Au niveau 17, votre équipage fonctionne en unisson sous votre direction. Vous pouvez utiliser votre action pendant votre tour pour ordonner à chaque créature alliée à 60 ft. qui peut vous entendre ou vous voir d'entreprendre une action de votre choix ; cette action ne peut pas être Attaquer, Lancer un Sort, Esquiver ou Utiliser un Objet Magique. Une créature peut immédiatement utiliser sa réaction pour réaliser l'action.

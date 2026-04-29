@@ -23,8 +23,8 @@ Au niveau 10, vous vous êtes injecté avec du vasoplasme, la substance gluante 
 
 À partir du niveau 18, vous avez résolu le problème qui empêchait la mise en bouteille des Vases les plus larges : vous aviez juste besoin d'une plus grosse bouteille. Vous avez une *cruche de vase*, qui se comporte comme une *bouteille de vase*, mais contient une seule Vase plus large. Vous ne pouvez avoir qu'une *cruche de vase* à la fois. Vous pouvez la remplir avec les vases suivants lorsque vous concoctez des potions : 
 
-| Vase                | Coût               |
+| Vase | Coût |
 | ------------------- | ------------------ |
-| [[Gelée Ocre]]      | 4 dés de réactifs  |
-| [[Cube Gélatineux]] | 8 dés de réactifs  |
-| [[Pouding Noir]]    | 10 dés de réactifs |
+| [[Gelée Ocre]] | 4 dés de réactifs |
+| [[Cube Gélatineux]] | 8 dés de réactifs |
+| [[Pouding Noir]] | 10 dés de réactifs |

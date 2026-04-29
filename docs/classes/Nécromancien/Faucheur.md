@@ -7,13 +7,13 @@ L'oubli inexorable causé par la mort est la source de la nécromancie, un abyss
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                                |
+| Niveau de Sort | Sorts |
 | -------------- | ---------------------------------------------------- |
-| 1              | [[Simulacre de vie]], [[blessure]]                   |
-| 2              | [[Invisibilité]], [[silence]]                        |
-| 3              | [[Terreur]], [[communication avec les morts]]           |
-| 4              | [[Invisibilité supérieure]], [[assassin imaginaire]] |
-| 5              | [[Double Illusoire]], [[passe-muraille]]             |
+| 1 | [[Simulacre de vie]], [[blessure]] |
+| 2 | [[Invisibilité]], [[silence]] |
+| 3 | [[Terreur]], [[communication avec les morts]] |
+| 4 | [[Invisibilité supérieure]], [[assassin imaginaire]] |
+| 5 | [[Double Illusoire]], [[passe-muraille]] |
 
 ## Voile Charnel
 
@@ -27,13 +27,13 @@ En tant qu'ombre, votre vitesse de déplacement est doublée et vous obtenez une
 
 Les attaques contre vous ont le désavantage tant que vous êtes en forme ombrale. Dans l'obscurité, vous êtes [[invisible]] aux yeux des créatures qui utilisent la vision dans le noir pour vous percevoir.
 
-En tant qu'ombre, vous ne pouvez pas prendre d'actions. Votre équipement fusionne avec vous dans votre forme ombrale et n'a aucun effet jusqu'à ce que vous quittiez cette forme.
+En tant qu'ombre, vous ne pouvez pas entreprendre d'actions. Votre équipement fusionne avec vous dans votre forme ombrale et n'a aucun effet jusqu'à ce que vous quittiez cette forme.
 
 Vous pouvez terminer l'effet pour une action bonus ou lorsque vous démarrez votre tour (aucune action requise).
 
 ## Vol Spectral
 
-À partir du niveau 10, les esprits que vous dirigez se déplacent à d'incroyables vitesses. La vitesse de vol de vos thralls est doublée. De plus, lorsque l'un de vos thralls vole en dehors de la portée d'un ennemi, les attaques d'opportunité contre lui sont réalisées avec le désavantage. 
+À partir du niveau 10, les esprits que vous dirigez se déplacent à d'incroyables vitesses. La vitesse de vol de vos thralls est doublée. De plus, lorsque l'un de vos thralls vole en dehors de l'allonge d'un ennemi, les attaques d'opportunité contre lui sont réalisées avec le désavantage. 
 
 ## Lichéité : Grande Faucheuse
 

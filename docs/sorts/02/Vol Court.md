@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Sorcière
+ - Magicien
+ - Ensorceleur
+ - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -11,10 +11,10 @@ Materiel: true
 detailmat: La plume d'une aile d'un oiseau
 Duree: 1 Tour
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Swift Flight
-writing_status: empty
+writing_status: finished
 ---
 Des pulsations d'énergie émanent du dos d'une créature consentante que vous touchez, traçant des formes d'ailes. La cible gagne une vitesse de vol de 30 ft. jusqu'à la fin de son prochain tour. Lorsque le sort se termine, la cible tombe normalement si elle était dans les airs et que rien ne la retenait.

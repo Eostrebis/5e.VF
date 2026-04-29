@@ -7,13 +7,13 @@ La puissance nécromantique se décline en bien des façons, mais sa source la p
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                                      |
+| Niveau de Sort | Sorts |
 | -------------- | ---------------------------------------------------------- |
-| 1              | [[Charme-personne]], [[sommeil]]                           |
-| 2              | [[Discours captivant]], [[suggestion]]                     |
-| 3              | [[Trame hypnotique]], [[Toucher du Vampire]]                       |
-| 4              | [[Assassin imaginaire]], [[sanctuaire privé]]              |
-| 5              | [[Domination de personne]], [[Modification de Mémoire]] |
+| 1 | [[Charme-personne]], [[sommeil]] |
+| 2 | [[Discours captivant]], [[suggestion]] |
+| 3 | [[Trame hypnotique]], [[Toucher du Vampire]] |
+| 4 | [[Assassin imaginaire]], [[sanctuaire privé]] |
+| 5 | [[Domination de personne]], [[Modification de Mémoire]] |
 
 ## Drain Charnel
 
@@ -25,7 +25,7 @@ Au niveau 3, vous pouvez aspirer l'essence vitale de ceux que vous éliminez. Lo
 
 **Chauve-Souris.** Vous vous transformez en une Très Petite chauve-souris. Tant que vous êtes de cette forme, vous avez tous les sens d'une chauve-souris, vous ne pouvez pas parler, votre vitesse de marche est de 5 ft. et vous avez une vitesse de vol de 30 ft. Vos statistiques autres que votre taille, vos vitesses et vos sens restent inchangés.
 
-**Brume.** Vous vous transformez en un nuage de brume de taille Moyenne. Tant que vous êtes de cette forme, vous ne pouvez pas parler, manipuler d'objets ni prendre d'actions, autre que celle de revenir à votre forme initiale. Vous ne pesez rien, avez une vitesse de vol de 20 ft., pouvez faire du vol stationnaire et pouvez entrer dans et occuper l'espace d'une autre créature. De plus, si l'air peut passer à travers une ouverture ou un espace, vous pouvez le faire également. Vous ne pouvez néanmoins pas vous déplacer à travers l'eau. Vous avez l'avantage à vos jets de Force, Dextérité et Constitution ainsi que la résistance aux dégâts contondants, perçants et tranchants.
+**Brume.** Vous vous transformez en un nuage de brume de taille Moyenne. Tant que vous êtes de cette forme, vous ne pouvez pas parler, manipuler d'objets ni entreprendre d'actions, autre que celle de revenir à votre forme initiale. Vous ne pesez rien, avez une vitesse de vol de 20 ft., pouvez faire du vol stationnaire et pouvez entrer dans et occuper l'espace d'une autre créature. De plus, si l'air peut passer à travers une ouverture ou un espace, vous pouvez le faire également. Vous ne pouvez néanmoins pas vous déplacer à travers l'eau. Vous obtenez l'avantage à vos jets de Force, Dextérité et Constitution ainsi qu'une résistance aux dégâts contondants, perforants et tranchants.
 
 ## Enfants de la Nuit
 
@@ -39,4 +39,4 @@ Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes tran
 
 **Régénération.** Au début de chacun de vos tours, vous regagnez 10 points de vie. Vous ne bénéficiez pas de cet effet si vous avez 0 point de vie ou si vous êtes au soleil.
 
-**Agilité Vampirique.** Votre vitesse est doublée. De plus, vous pouvez escalader les parois difficiles (y compris au plafond) sans avoir à réaliser de jets de caractéristique.
+**Agilité Vampirique.** Votre vitesse est doublée. De plus, vous pouvez escalader les parois difficiles (y compris au plafond) sans avoir à effectuer de jets de caractéristique.

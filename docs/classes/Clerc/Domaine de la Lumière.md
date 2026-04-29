@@ -5,13 +5,13 @@ Les dieux de la Lumière encouragent la renaissance et le renouveau, la vérité
 
 **Sorts du Domaine de la Lumière**
 
-| Niveau de Clerc | Sorts                                     |
+| Niveau de Clerc | Sorts |
 | --------------- | ----------------------------------------- |
-| 1               | [[Mains Brûlantes]], [[Lueurs Féériques]] |
-| 3               | [[Sphère enflammée]], [[rayon ardent]]    |
-| 5               | [[Lumière du jour]], [[boule de feu]]     |
-| 7               | [[Gardien de la foi]], [[mur de feu]]     |
-| 9               | [[Frappe de flamme]], [[scrutation]]      |
+| 1 | [[Mains Brûlantes]], [[Lueurs Féériques]] |
+| 3 | [[Sphère enflammée]], [[rayon ardent]] |
+| 5 | [[Lumière du jour]], [[boule de feu]] |
+| 7 | [[Gardien de la foi]], [[mur de feu]] |
+| 9 | [[Frappe de flamme]], [[scrutation]] |
 
 ## Cantrip Supplémentaire
 
@@ -27,7 +27,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour manier la lumière du soleil, bannissant les ténèbres et infligeant des dégâts radiants à vos ennemis.
 
-Pour une action, vous dressez votre symbole sacré et toute obscurité magique à 30 ft. est dissipée. De plus, toute créature hostile à 30 ft. doit réaliser un jet de sauvegarde de Constitution. Si elle rate, la créature prend 2d10 + votre niveau de clerc dégâts radiants, et la moitié si elle réussit. Une créature qui dispose d'une couverture totale par rapport à vous n'est pas concernée.
+Pour une action, vous dressez votre symbole sacré et toute obscurité magique à 30 ft. est dissipée. De plus, toute créature hostile à 30 ft. doit effectuer un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d10 + votre niveau de clerc dégâts radiants, et la moitié si elle réussit. Une créature qui dispose d'une couverture totale par rapport à vous n'est pas concernée.
 
 ## Lueur Améliorée
 

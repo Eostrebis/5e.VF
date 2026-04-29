@@ -23,7 +23,7 @@ Lorsque vous choisissez cette tradition au niveau 3, vous maîtrisez la compéte
 
 ## Chance du Soûlard
 
-À partir du niveau 11, vous semblez toujours avoir ce petit sursaut de chance au bon moment. Lorsque vous réalisez un jet de caractéristique, d'attaque ou de sauvegarde avec le désavantage, vous pouvez dépenser 2 points de ki pour annuler le désavantage pour ce jet.
+À partir du niveau 11, vous semblez toujours avoir ce petit sursaut de chance au bon moment. Lorsque vous effectuez un jet de caractéristique, d'attaque ou de sauvegarde avec le désavantage, vous pouvez dépenser 2 points de ki pour annuler le désavantage pour ce jet.
 
 ## Furie Sous Influence
 

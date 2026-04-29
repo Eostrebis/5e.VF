@@ -30,29 +30,29 @@ Travaillez avec votre MJ pour déterminer le rôle que joueront les vestiges et 
 
 Vous pouvez créer un ligateur rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie d'un équilibre entre la Constitution, la Force et la Dextérité. Choisissez l'historique de votre choix.
 
-| **Le Ligateur** |                   |                                                    |                   |               |
+| **Le Ligateur** | | | | |
 | --------------- | ----------------- | -------------------------------------------------- | ----------------- | ------------- |
-| Niveau          | Bonus de Maîtrise | Aptitudes                                          | Niveau de Vestige | Vestiges Liés |
-| 1               | +2                | [[#Ligature d'Âme]]                                | 1                 | 1             |
-| 2               | +2                | [[#Esprits Mineurs]], [[#Recyclage]]               | 1                 | 1             |
-| 3               | +2                | [[#Secte Ésotérique]], [[#Suppression des Signes]] | 2                 | 1             |
-| 4               | +2                | [[#Augmentation de Caractéristiques]]              | 2                 | 1             |
-| 5               | +3                | [[#Esprits Mineurs]] (3)                           | 3                 | 2             |
-| 6               | +3                | [[#Augmentation de Caractéristiques]]              | 3                 | 2             |
-| 7               | +3                | Aptitude de [[#Secte Ésotérique]]                  | 4                 | 2             |
-| 8               | +3                | [[#Augmentation de Caractéristiques]]              | 4                 | 2             |
-| 9               | +4                | [[#Esprit Inflexible]]                             | 5                 | 2             |
-| 10              | +4                | Aptitude de [[#Secte Ésotérique]]                  | 5                 | 2             |
-| 11              | +4                | --                                                 | 6                 | 3             |
-| 12              | +4                | [[#Augmentation de Caractéristiques]]              | 6                 | 3             |
-| 13              | +5                | [[Esprits Mineurs]] (4)                            | 7                 | 3             |
-| 14              | +5                | Aptitude de [[#Secte Ésotérique]]                  | 7                 | 3             |
-| 15              | +5                | Amélioration de [[#Recyclage]]                     | 8                 | 3             |
-| 16              | +5                | [[#Augmentation de Caractéristiques]]              | 8                 | 3             |
-| 17              | +6                | --                                                 | 9                 | 4             |
-| 18              | +6                | [[#Esprits Mineurs]] (5)                           | 9                 | 4             |
-| 19              | +6                | [[#Augmentation de Caractéristiques]]              | 9                 | 4             |
-| 20              | +6                | [[#Âme du Vide]]                                   | 9                 | 4             |
+| Niveau | Bonus de Maîtrise | Aptitudes | Niveau de Vestige | Vestiges Liés |
+| 1 | +2 | [[#Ligature d'Âme]] | 1 | 1 |
+| 2 | +2 | [[#Esprits Mineurs]], [[#Recyclage]] | 1 | 1 |
+| 3 | +2 | [[#Secte Ésotérique]], [[#Suppression des Signes]] | 2 | 1 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 2 | 1 |
+| 5 | +3 | [[#Esprits Mineurs]] (3) | 3 | 2 |
+| 6 | +3 | [[#Augmentation de Caractéristiques]] | 3 | 2 |
+| 7 | +3 | Aptitude de [[#Secte Ésotérique]] | 4 | 2 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 4 | 2 |
+| 9 | +4 | [[#Esprit Inflexible]] | 5 | 2 |
+| 10 | +4 | Aptitude de [[#Secte Ésotérique]] | 5 | 2 |
+| 11 | +4 | -- | 6 | 3 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 6 | 3 |
+| 13 | +5 | [[Esprits Mineurs]] (4) | 7 | 3 |
+| 14 | +5 | Aptitude de [[#Secte Ésotérique]] | 7 | 3 |
+| 15 | +5 | Amélioration de [[#Recyclage]] | 8 | 3 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 8 | 3 |
+| 17 | +6 | -- | 9 | 4 |
+| 18 | +6 | [[#Esprits Mineurs]] (5) | 9 | 4 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 9 | 4 |
+| 20 | +6 | [[#Âme du Vide]] | 9 | 4 |
 
 # Aptitudes de Classes
 
@@ -95,7 +95,7 @@ Pendant vos études, vous avez découvert le moyen de percer la frontière entre
 
 Vous pouvez dépenser 10 minutes à réaliser un rituel spécial d'attachement, qui consiste à dessiner les symboles de vestiges à la craie, les appeler par leurs noms et réaliser une performance ésotérique. Pendant ce rituel, des [[Vestiges]] se manifestent par des signes tangibles alors qu'ils se pressent contre les frontières du réel et trouvent refuge dans votre âme.
 
-Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges à la fois lorsque vous montez de niveau, comme indiqué dans la colonne _Vestiges Liés_ de la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure ou égale à votre niveau de ligateur.
+Au niveau 1, vous ne pouvez vous lier qu'à un seul vestige, et vous pouvez vous lier à plus de vestiges à la fois lorsque vous montez de niveau, comme indiqué dans la colonne *Vestiges Liés* de la table du Ligateur. Vous ne pouvez vous lier qu'à une combinaison de vestiges telle que la somme de leurs niveaux est inférieure ou égale à votre niveau de ligateur.
 
 Les vestiges vous restent liés jusqu'à ce que vous terminiez un repos long. Une fois que vous avez réalisé ce rituel, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos long.
 
@@ -122,15 +122,15 @@ Vous pouvez vous lier à des esprits supplémentaires lorsque vous gagnez des ni
 
 À partir du niveau 3, vous vous alignez avec une secte ésotérique, une organisation secrète de ligateurs liés par des objectifs similaires et un savoir mystique partagé. Choisissez l'une des sectes suivantes. Votre choix de secte vous confère une aptitude aux niveaux 3, 7, 10 et 14.
 
-| Secte Ésotérique                   | Description                                                                                                                                                |
+| Secte Ésotérique | Description |
 | ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[L'Église de Gyx]]                | Rejoignez la première secte de ligateurs pour simuler la magie divine, repousser les morts-vivants et sacrifier vos vestiges pour accomplir des miracles.  |
-| [[La Confrérie des Ascètes]]       | Supprimez vos vestiges pour atteindre la perfection physique et mentale, combattant sans armure avec des poings psychiques et une discipline monacale.     |
-| [[La Loge de la Légion]]           | Devenez une ruche d'âmes errantes en liant une multitude d'esprits mineurs, submergeant vos ennemis sous les assauts magiques de votre horde fantomatique. |
-| [[Les Avataristes]]                | Invoquez une manifestation physique de vos vestiges pour combattre à votre place, partageant vos blessures et vos pouvoirs avec cet esprit protecteur.     |
-| [[Les Fidèles d'Ishtar]]           | Liez-vous éternellement à la déesse jalouse pour manipuler les émotions, charmer les foules et briser psychiquement le cœur de vos ennemis.                |
-| [[Ordre de la Ligature Cramoisie]] | Utilisez des sceaux d'encre cramoisie pour piéger les vestiges au plus profond de votre âme, vous offrant une maîtrise inégalée du processus de ligature.  |
-| [[Société du Sceau Stygien]]       | Hâtez la fin du multivers en manipulant la matière du Vide pour créer un monde parfait sous le patronage d'Érèbe.                                          |
+| [[L'Église de Gyx]] | Rejoignez la première secte de ligateurs pour simuler la magie divine, repousser les morts-vivants et sacrifier vos vestiges pour accomplir des miracles. |
+| [[La Confrérie des Ascètes]] | Supprimez vos vestiges pour atteindre la perfection physique et mentale, combattant sans armure avec des poings psychiques et une discipline monacale. |
+| [[La Loge de la Légion]] | Devenez une ruche d'âmes errantes en liant une multitude d'esprits mineurs, submergeant vos ennemis sous les assauts magiques de votre horde fantomatique. |
+| [[Les Avataristes]] | Invoquez une manifestation physique de vos vestiges pour combattre à votre place, partageant vos blessures et vos pouvoirs avec cet esprit protecteur. |
+| [[Les Fidèles d'Ishtar]] | Liez-vous éternellement à la déesse jalouse pour manipuler les émotions, charmer les foules et briser psychiquement le cœur de vos ennemis. |
+| [[Ordre de la Ligature Cramoisie]] | Utilisez des sceaux d'encre cramoisie pour piéger les vestiges au plus profond de votre âme, vous offrant une maîtrise inégalée du processus de ligature. |
+| [[Société du Sceau Stygien]] | Hâtez la fin du multivers en manipulant la matière du Vide pour créer un monde parfait sous le patronage d'Érèbe. |
 
 ## Suppression des Signes
 
@@ -144,7 +144,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 Au niveau 9, l'expérience du partage de votre âme avec des entités supranaturelles vous a appris à protéger vos pensées et punir ceux qui osent les influencer. Vous avez l'avantage aux jets de sauvegarde pour ne pas être [[charmé]], [[apeuré]] ou possédé, et aux jets de sauvegarde pour contrer les effets qui détecteraient vos émotions ou liraient dans vos pensées.
 
-De plus, si vous réussissez votre jet contre l'un de ces effets causé par une créature, la créature qui a créé l'effet prend votre niveau de ligateur + votre modificateur de Charisme dégâts psychiques.
+De plus, si vous réussissez votre jet contre l'un de ces effets causé par une créature, la créature qui a créé l'effet subit votre niveau de ligateur + votre modificateur de Charisme dégâts psychiques.
 
 ## Âme du Vide
 

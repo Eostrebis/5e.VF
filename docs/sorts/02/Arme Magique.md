@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Paladin
-  - Magicien
-  - Artificier
+ - Investigateur
+ - Paladin
+ - Magicien
+ - Artificier
 level: 2
 school: Transmutation
 Verbal: true
@@ -12,11 +12,11 @@ Materiel: false
 detailmat:
 Duree: 1 Heure
 Incantation: 1 Action Bonus
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Magic Weapon
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une arme non magique. Jusqu'à ce que le sort se termine, cette arme devient une arme magique avec un bonus de +1 aux jets d'attaque et de dégâts.
 

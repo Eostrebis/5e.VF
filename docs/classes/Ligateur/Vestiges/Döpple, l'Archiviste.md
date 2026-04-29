@@ -18,7 +18,7 @@ Lorsque vous vous liez à Döpple, un objet magique apparaît en votre possessio
 Cet est de votre choix parmi : un [[tapis volant]], une [[cape de la chauve-souris]], une [[épée ardente]], des [[gantelets de puissance d'ogre]], une [[forteresse instantanée]], un [[anneau de régénération]], un [[anneau de télékinésie]], une [[épée radieuse]] ou une [[baguette merveilleuse]].
 
 ## Trait : Binocles
-Comme dernier cadeau, Döpple offre à ses ligateurs ses binocles. Tant que vous les portez, si vous réalisez un jet d'Intelligence (Arcane), d'Intelligence (Histoire), d'Intelligence (Nature) ou d'Intelligence (Religion), vous pouvez traiter le résultat comme le maximum entre 10 et votre niveau de ligateur + votre niveau de Charisme.
+Comme dernier cadeau, Döpple offre à ses ligateurs ses binocles. Tant que vous les portez, si vous effectuez un jet d'Intelligence (Arcane), d'Intelligence (Histoire), d'Intelligence (Nature) ou d'Intelligence (Religion), vous pouvez traiter le résultat comme le maximum entre 10 et votre niveau de ligateur + votre niveau de Charisme.
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, vous obtenez le trait de personnalité suivant : "J'obsède à propos de tous les détails de mes possessions, afin de les garder organisées et en parfait état."

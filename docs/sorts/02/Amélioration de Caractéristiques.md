@@ -1,12 +1,12 @@
 ---
 available:
-  - Artificier
-  - Barde
-  - Clerc
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Magicien
+ - Artificier
+ - Barde
+ - Clerc
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -15,7 +15,7 @@ Materiel: true
 detailmat: De la fourrure ou la plume d'une bête
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Enhance Ability
@@ -27,7 +27,7 @@ Vous touchez une créature et lui conférez une amélioration magique. Choisisse
 
 **Force du Taureau.** La cible a l'avantage aux jets de Force et sa capacité de charge est doublée.
 
-**Grâce du Chat.** La cible a l'avantage aux jets de Dextérité. Elle ne prend également pas de dégâts lorsqu'elle chute de 20 ft. ou moins et qu'elle n'est pas [[incapacité|incapacitée]].
+**Grâce du Chat.** La cible a l'avantage aux jets de Dextérité. Elle ne subit également pas de dégâts lorsqu'elle chute de 20 ft. ou moins et qu'elle n'est pas [[incapacité|incapacitée]].
 
 **Splendeur de l'Aigle.** La cible a l'avantage aux jets de Charisme.
 
@@ -35,4 +35,4 @@ Vous touchez une créature et lui conférez une amélioration magique. Choisisse
 
 **Sagesse de la Chouette.** La cible a l'avantage aux jets de Sagesse.
 
-**Aux niveaux supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez cibler une créature de plus pour chaque niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez cibler une créature de plus pour chaque niveau d'emplacement au-delà du niveau 2.

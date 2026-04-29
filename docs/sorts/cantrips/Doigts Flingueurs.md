@@ -1,10 +1,10 @@
 ---
 available:
-  - Artificier
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Mage de Guerre
+ - Artificier
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Finger Guns
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 ---
 Vous refermez le poing, pointez votre index et levez le pouce, imitant dangereusement un pistolet. Pendant la durée du sort, vous pouvez utiliser votre action pour réaliser une attaque de sort à distance contre une créature que vous pouvez voir à 60 ft., infligeant 1d8 dégâts de force si vous touchez.
 

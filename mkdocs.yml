@@ -8,13 +8,16 @@ nav:
  - Équipements: equipments.md
  - Classes: classes.md
  - Races: races.md
- - Créateur de Personnage: creator.md
+ - Niveaux Auxiliaires : auxiliaires/Niveaux Auxiliaires.md
  - Historiques: backgrounds.md
  - Dons: feats.md
  - Dons de Départ: start_feats.md
  - Dons de Prestige: prestige_feats.md
  - Objets Magiques: magic_items.md
  - Règles Maison: Misc/House_Rules.md
+ - Feuille de Référence: "https://eostrebis.github.io/5e.Ref/"
+ - Feuille de Référence - Outils : "https://eostrebis.github.io/5e.Ref/tools"
+ - Feuille de Référence - Langues : "https://eostrebis.github.io/5e.Ref/languages"
  - Propriétés d'Arme: Misc/Propriétés d'Arme.md
  - Personnage: chars.md
 
@@ -57,6 +60,7 @@ markdown_extensions:
   - tables
   - attr_list
   - nl2br
+  - abbr
   - admonition
   - pymdownx.details
   - pymdownx.superfences
@@ -76,6 +80,9 @@ markdown_extensions:
   # - pymdownx.keys
   # - pymdownx.mark
   - pymdownx.tilde
+  - pymdownx.snippets:
+        auto_append:
+          - includes/abbreviations.md
   # - pymdownx.superfences:
   #     custom_fences:
   #       - name: mermaid
@@ -89,6 +96,9 @@ plugins:
   - search
   - roamlinks-eostrebis 
   - callouts
+
+watch:
+  - includes
 
 
 extra_javascript:

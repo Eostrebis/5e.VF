@@ -19,19 +19,19 @@ Le Serment des Tempêtes appelle les paladins vers les embruns salés et les mer
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                       |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------------------------- |
-| 3                 | [[Brouillard]], [[vague tonnante]]                          |
-| 5                 | [[Saute de vent]], [[immobilisation de personne]]           |
-| 9                 | [[Appel de la foudre]], [[mur de vent]]                     |
-| 13                | [[Contrôle de l'eau]], [[tempête de grêle]]                 |
-| 17                | [[Communion avec la Nature]], [[immobilisation de monstre]] |
+| 3 | [[Brouillard]], [[vague tonnante]] |
+| 5 | [[Saute de vent]], [[immobilisation de personne]] |
+| 9 | [[Appel de la foudre]], [[mur de vent]] |
+| 13 | [[Contrôle de l'eau]], [[Tempête de Glace]] |
+| 17 | [[Communion avec la Nature]], [[immobilisation de monstre]] |
 
 ## Canal Divin
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Revanche Foudroyante.** Vous pouvez utiliser votre Canal Divin pour frapper avec la furie des tempêtes. Immédiatement après qu'une créature que vous pouvez voir à 30 ft. vous inflige des dégâts avec une attaque, vous pouvez utiliser votre réaction pour forcer l'attaquant à réaliser un jet de sauvegarde de Sagesse. En cas d'échec, l'attaquant prend un nombre de dégâts de foudre égal aux dégâts qu'il vient d'infliger. En cas de succès, il en prend la moitié.
+**Revanche Foudroyante.** Vous pouvez utiliser votre Canal Divin pour frapper avec la furie des tempêtes. Immédiatement après qu'une créature que vous pouvez voir à 30 ft. vous inflige des dégâts avec une attaque, vous pouvez utiliser votre réaction pour forcer l'attaquant à effectuer un jet de sauvegarde de Sagesse. En cas d'échec, l'attaquant subit un nombre de dégâts de foudre égal aux dégâts qu'il vient d'infliger. En cas de succès, il en subit la moitié.
 
 **Marche sur les Vagues.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour apaiser votre relation avec la mer. Pendant la prochaine heure, vous bénéficiez des effets du sort [[marche sur l'eau]] et votre vitesse est doublée lorsque vous marchez sur l'eau.
 
@@ -44,9 +44,9 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Âme Tempétueuse
 
-À partir du niveau 15, vous avez la résistance aux dégâts de foudre.
+À partir du niveau 15, vous obtenez une résistancee aux dégâts de foudre.
 
-De plus, lorsqu'une créature que vous pouvez voir à 5 ft. vous touche avec une attaque de mêlée, elle prend un nombre de dégâts de foudre égal à votre modificateur de Charisme.
+De plus, lorsqu'une créature que vous pouvez voir à 5 ft. vous touche avec une attaque de mêlée, elle subit un nombre de dégâts de foudre égal à votre modificateur de Charisme.
 ## Dieu du Tonnerre
 
 Au niveau 20, pour une action, vous pouvez vous recouvrir des pouvoirs d'une déité des tempêtes. Pendant 1 minute, votre corps crépite sous les éclairs et le tonnerre et vos yeux luisent en bleu, révélant une tempête déchaînée en fond. Vous bénéficiez des effets suivants : 

@@ -31,29 +31,29 @@ Avez-vous été un apprenti, étudiant auprès d'un maître, suivant un barde pl
 
 Vous pouvez créer un barde rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Dextérité. Choisissez l'historique [[comique]]. Enfin, choisissez les cantrips [[Fou Rire]] et [[Lumières Dansantes]], ainsi que les sorts de niveau 1 [[Charme-personne]], [[Détection de la Magie]] et [[Vague Tonnante]].
 
-| **Le barde** |                   |           |
+| **Le barde** | | |
 | ------------ | ----------------- | --------- |
-| Niveau       | Bonus de Maîtrise | Aptitudes |
-| 1            | +2                |           |
-| 2            | +2                |           |
-| 3            | +2                |           |
-| 4            | +2                |           |
-| 5            | +3                |           |
-| 6            | +3                |           |
-| 7            | +3                |           |
-| 8            | +3                |           |
-| 9            | +4                |           |
-| 10           | +4                |           |
-| 11           | +4                |           |
-| 12           | +4                |           |
-| 13           | +5                |           |
-| 14           | +5                |           |
-| 15           | +5                |           |
-| 16           | +5                |           |
-| 17           | +6                |           |
-| 18           | +6                |           |
-| 19           | +6                |           |
-| 20           | +6                |           |
+| Niveau | Bonus de Maîtrise | Aptitudes |
+| 1 | +2 | |
+| 2 | +2 | |
+| 3 | +2 | |
+| 4 | +2 | |
+| 5 | +3 | |
+| 6 | +3 | |
+| 7 | +3 | |
+| 8 | +3 | |
+| 9 | +4 | |
+| 10 | +4 | |
+| 11 | +4 | |
+| 12 | +4 | |
+| 13 | +5 | |
+| 14 | +5 | |
+| 15 | +5 | |
+| 16 | +5 | |
+| 17 | +6 | |
+| 18 | +6 | |
+| 19 | +6 | |
+| 20 | +6 | |
 
 # Aptitudes de Classes
 
@@ -128,7 +128,7 @@ Vous pouvez utiliser un instrument de musique comme focalisateur d'incantation p
 
 Vous pouvez inspirer les autres à travers des mots ou une musique bien choisis. Pour ce faire, vous dépensez une action bonus pendant votre tour pour choisir une créature autre que vous-même à 60 ft. qui peut vous entendre. Cette créature gagne un dé d'Inspiration Bardique, un d6.
 
-Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle réalise. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
+Une fois pendant les 10 prochaines minutes, la créature peut lancer le dé et ajouter le résultat à un jet de caractéristique, d'attaque ou de sauvegarde qu'elle effectue. La créature peut attendre le résultat de son d20 avant de décider d'utiliser son dé d'Inspiration Bardique, mais la décision doit être prise avant que le MJ ne prononce le succès ou l'échec du jet. Une fois qu'un dé d'Inspiration Bardique a été lancé, il est perdu. Une créature ne peut avoir qu'un seul dé d'Inspiration Bardique à la fois.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Charisme (au moins 1) et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -136,7 +136,7 @@ Votre dé d'Inspiration Bardique change lorsque vous atteignez certains niveaux 
 
 ## Touche-à-tout
 
-À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi à l'inférieur) à chaque jet de caractéristique que vous réalisez qui n'inclut pas déjà votre bonus de maîtrise.
+À partir du niveau 2, vous pouvez ajouter la moitié de votre bonus de maîtrise (arrondi à l'inférieur) à chaque jet de caractéristique que vous effectuez qui n'inclut pas déjà votre bonus de maîtrise.
 
 ## Chant Reposant
 
@@ -173,7 +173,7 @@ Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde
 
 ## Expertise
 
-Au niveau 3 également, choisissez deux de vos maîtrises de compétence. Votre bonus de maîtrise est doublé pour chaque jet de caractéristique que vous réalisez qui utilise l'une ou l'autre de ces compétences.
+Au niveau 3 également, choisissez deux de vos maîtrises de compétence. Votre bonus de maîtrise est doublé pour chaque jet de caractéristique que vous effectuez qui utilise l'une ou l'autre de ces compétences.
 
 Au niveau 10, choisissez deux autres maîtrises de compétences qui bénéficieront de cet effet.
 

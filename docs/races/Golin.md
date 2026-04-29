@@ -7,7 +7,7 @@ L'odeur riche de la terre fraîchement retournée peut être un indicateur certa
 
 #### L'Âtre et le Pouls
 
-Les golins adorent le rythme. Ils trouvent de la joie dans le vrombissement d'un foudre-rail, le clic-clac des sabots d'une chèvre de monte et les battements de cœur de leurs proches et parents. À partir de ces occurrences quotidiennes, les golins créent des polyrythmies merveilleusement complexes, une musique dont les vibrations restauratrices peuvent revigorer les mélancoliques et les peureux. En effet, le percussionniste principal du légendaire groupe optérien, _Wings of a Butterfly_, était Hopo Aman, un maestro golin de la tablah naine.
+Les golins adorent le rythme. Ils trouvent de la joie dans le vrombissement d'un foudre-rail, le clic-clac des sabots d'une chèvre de monte et les battements de cœur de leurs proches et parents. À partir de ces occurrences quotidiennes, les golins créent des polyrythmies merveilleusement complexes, une musique dont les vibrations restauratrices peuvent revigorer les mélancoliques et les peureux. En effet, le percussionniste principal du légendaire groupe optérien, *Wings of a Butterfly*, était Hopo Aman, un maestro golin de la tablah naine.
 
 ![[Golin.webp]]
 

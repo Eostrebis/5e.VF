@@ -5,13 +5,13 @@ Le domaine de la vie se concentre sur l'énergie positive — une des forces fon
 
 **Sorts du Domaine de la Vie**
 
-| Niveau de Clerc | Sorts                                                |
+| Niveau de Clerc | Sorts |
 | --------------- | ---------------------------------------------------- |
-| 1               | [[Bénédiction]], [[Soins]]                           |
-| 3               | [[Restauration partielle]], [[arme spirituelle]]     |
-| 5               | [[Lueur d'Espoir]], [[retour à la vie]]              |
-| 7               | [[Protection contre la mort]], [[gardien de la foi]] |
-| 9               | [[Soins de groupe]], [[rappel à la vie]]             |
+| 1 | [[Bénédiction]], [[Soins]] |
+| 3 | [[Restauration partielle]], [[arme spirituelle]] |
+| 5 | [[Lueur d'Espoir]], [[retour à la vie]] |
+| 7 | [[Protection contre la mort]], [[gardien de la foi]] |
+| 9 | [[Soins de groupe]], [[rappel à la vie]] |
 
 ## Maîtrise Supplémentaire
 Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les armures lourdes.

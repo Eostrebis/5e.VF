@@ -44,9 +44,9 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft. .
 
 
 ## Humain Variant
@@ -61,9 +61,9 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft. .
 
 **Compétences.** Vous maîtrisez une compétence de votre choix.
 
@@ -83,9 +83,9 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Âge.** Les Humains atteignent l'âge adulte aux alentours de 16/17 ans, et vivent moins de 100 ans.
 
-**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est _Moyenne (M)_. 
+**Taille.** Les Humains varient beaucoup en taille et en carrure, de à peine 1,50 m à plus de 1,90 m. Indépendamment de votre position dans cet intervalle, votre taille est *Moyenne (M)*. 
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft. .
 
 **Compétences.** Vous maîtrisez une compétence de votre choix.
 
@@ -119,11 +119,11 @@ Un de vos parents est un habitant sous-marin, ou vous êtes un descendant lointa
 
 ##### Arachné
 
-Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresse drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
+Tout comme les drows, les humains peuvent être corrompus par la déesse drow ([[Lillinbra]]), devenant des arachnés — des humains avec huit yeux et des cheveux noirs et drus. Parfois, ces humains sont les descendants de driders ou de prêtresses drows, tandis que d'autres portent les cicatrices d'un rituel qui a mal tourné. Dans tous les cas, cette corruption vous confère les traits suivants :
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le Noir.** Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Magie Arachnide.** Vous connaissez le cantrip [[Bouffée de Poison]]. À partir du niveau 3, vous pouvez lancer le sort [[Fléau]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[Pattes d'Araignée]] avec ce trait. Une fois que vous avez lancé [[Fléau]] ou [[Pattes d'Araignée]] avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
@@ -147,7 +147,7 @@ Imprégné à la naissance ou marqué plus tard par les pouvoirs du Feu Élémen
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Résistance au Feu.** Vous avez la résistance aux dégâts de feu.
+**Résistance au Feu.** Vous avez une résistance aux dégâts de feu.
 
 **Magie Enflammée.** Vous connaissez le cantrip [[flamme]]. À compter du niveau 3, vous pouvez lancer le sort [[mains brûlantes]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[sphère enflammée]] avec ce trait, sans que cela requiert la composante matérielle. Une fois que vous avez lancé [[mains brûlantes]] ou [[sphère enflammée]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
@@ -161,7 +161,7 @@ Votre peuple métabolise en lézardant au soleil. Aidé par votre robuste peau c
 
 **Armure Naturelle.** Votre peau se comporte comme une armure naturelle. Lorsque vous ne portez pas d'amure, votre CA de base est égale à 12 + votre modificateur de Dextérité. Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous laisserait avec une CA inférieure. Vous bénéficiez toujours des effets d'un bouclier lorsque vous utilisez votre armure naturelle.
 
-**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer la condition [[empoisonné]] sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer la condition [[empoisonné]] sur vous-même. Vous avez aussi une résistancee aux dégâts de poison.
 
 ---
 
@@ -173,7 +173,7 @@ Les enfants de gobelins, hobgobelins et gobelours avec des humains sont connus c
 
 **Taille.** À la différence des autres humains, vous êtes de taille Petite ou Moyenne, en fonction de votre héritage.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Ascendance Féerique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
 
@@ -187,9 +187,9 @@ Un de vos parents est une créature de l'obscurité, par exemple une ombre ou un
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
+**Couvert.** Lorsque vous êtes caché et qu'une créature vous découvre avec un jet de Sagesse (Perception) réussi, vous pouvez retenter un jet de Dextérité (Discrétion) pour vous Cacher. Sur un succès, vous vous repositionnez silencieusement, et la créature ne vous remarque pas. Lorsque vous avez utilisé ce trait, vous ne pouvez pas le réutiliser avant de finir un repos court ou long.
 
 ---
 
@@ -199,7 +199,7 @@ Les insectoïdes portent une ou deux marques distinctives des insectes, comme de
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision Aveugle.** Grâce à vos antennes, vous avez une vision aveugle dans un rayon de 10 ft. (3m/2 cases). Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglé ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
+**Vision Aveugle.** Grâce à vos antennes, vous avez une vision aveugle dans un rayon de 10 ft. Dans cette portée, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes aveuglé ou dans l'obscurité la plus totale. De plus, vous pouvez voir une créature invisible dans ce rayon, sauf si cette créature se cache de vous.
 
 **Régénération.** Si une partie de votre corps est amputée, et que cette amputation ne vous tue pas, vous pouvez la faire repousser en 24 heures.
 
@@ -213,7 +213,7 @@ D'après les légendes, un humain peut atteindre l'immortalité en remplaçant s
 
 **Éternel.** Vous ne vieillissez pas, même magiquement, et ne souffrez d'aucun désavantage du vieil âge. Vous ne pouvez pas mourir de vieillesse.
 
-**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi la résistance aux dégâts de poison.
+**Résilience Immortelle.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer un effet d'empoisonnement ou une maladie sur vous-même. Vous avez aussi une résistance aux dégâts de poison.
 
 ---
 
@@ -223,7 +223,7 @@ Un de vos parents est un humain, tandis que l'autre est un nain. Ce couple est h
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. s verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Acclimatation aux Armures.** Votre vitesse n'est pas réduite lorsque vous portez une armure lourde et vous n'avez jamais le désavantage à vos jets de Dextérité (Discrétion) à cause d'une armure lourde.
 
@@ -237,7 +237,7 @@ Votre carrure rustique et monstrueuse révèle directement qu'un de vos parents 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Force Monstrueuse.** Vous gagnez la maîtrise en Athlétisme. De plus, lorsque vous faites un jet de Force (Athlétisme), vous pouvez traiter le résultat comme un 10, ou comme votre modificateur de force + votre niveau, lequel est le plus haut.
 
@@ -251,9 +251,9 @@ Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et r
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait  1d6 + votre modificateur de Force dégâts perçants, au lieu des dégâts contondants usuels.
+**Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait 1d6 + votre modificateur de Force dégâts perforants, au lieu des dégâts contondants usuels.
 
-**Lutte d'Hibours.** Vous pouvez tenter de saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de saisie que vous faites pendant votre tour contre des créatures plus petites que vous.
+**Lutte d'Hibours.** Vous pouvez tenter de Saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de [[saisi|saisie]] que vous effectuez pendant votre tour contre des créatures plus petites que vous.
 
 ---
 
@@ -263,7 +263,7 @@ Vous êtes un porterlin, enfanté par un humain et par un gnome ou un halfelin. 
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Souple.** Vous avez l'avantage aux jets pour s'échapper d'une saisie, ou glisser en dehors de liens.
+**Souple.** Vous avez l'avantage aux jets pour s'Échapper d'une saisie, ou glisser en dehors de liens.
 
 **Saut à Ressort.** À chaque fois que vous réalisez un saut, vous pouvez lancer un d8 et ajouter le résultat au nombre de pieds (ft.) que vous pouvez parcourir, même si vous réalisez un saut sans élan. Cette distance supplémentaire coûte des points de mouvement comme à l'ordinaire.
 
@@ -277,7 +277,7 @@ La plupart des humains possèdent un potentiel psionique négligeable, mais ceux
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Empathie.** Vous pouvez utiliser votre action pour sonder les émotions superficielles d'une créature. Vous devez être capable de voir la créature, et elle doit se situer dans un rayon de 30 ft. (9m/6 cases) ainsi qu'avoir un score d'Intelligence d'au moins 3. Vous apprenez l'état émotionnel de la créature et, au bon vouloir du MJ, un de ses Liens.
+**Empathie.** Vous pouvez utiliser votre action pour sonder les émotions superficielles d'une créature. Vous devez être capable de voir la créature, et elle doit se situer dans un rayon de 30 ft. ainsi qu'avoir un score d'Intelligence d'au moins 3. Vous apprenez l'état émotionnel de la créature et, au bon vouloir du MJ, un de ses Liens.
 
 **Psionisme.** Vous connaissez le cantrip [[Main de Mage]], et la main est invisible lorsque vous lancez le cantrip avec ce trait. À partir du niveau 3, vous pouvez lancer le sort [[Serviteur Invisible]] avec ce trait. À partir du niveau 5, vous pouvez également lancer [[Lévitation]] avec ce trait. Une fois que vous avez lancé [[Serviteur Invisible]] ou [[Lévitation]] avec ce trait, vous ne pouvez pas le relancer tant que vous n'avez pas terminé un repos long. Vous pouvez aussi lancer ces sorts en dépensant les emplacements de sorts appropriés. La caractéristique d'incantation pour ces sorts est, au choix, l'Intelligence, la Sagesse ou le Charisme.
 
@@ -301,7 +301,7 @@ Vous possédez la peau abrasive, les yeux en fentes et la langue fourchue des re
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Crachat d'Acide.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un jet d'acide de votre bouche. C'est une attaque spéciale à distance avec une portée de 30 ft. Vous la maîtrisez et ajoutez votre modificateur de Dextérité à son jet d'attaque et ses jets de dégât. Si vous touchez, la cible prend 1d10 dégâts d'acide. Ces dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
+**Crachat d'Acide.** Lorsque vous utilisez votre action pour attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un jet d'acide de votre bouche. C'est une attaque spéciale à distance avec une portée de 30 ft. Vous la maîtrisez et ajoutez votre modificateur de Dextérité à son jet d'attaque et ses jets de dégât. Si vous touchez, la cible subit 1d10 dégâts d'acide. Ces dégâts augmentent de 1d10 lorsque vous atteignez le niveau 5, 11 ou 17.
 
 Vous pouvez utiliser votre Crachat d'Acide un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -329,7 +329,7 @@ Avec une peau craquelée, les rochenés semblent taillés directement dans le gr
 
 **Peau Rocheuse.** Vous bénéficiez d'un bonus de +1 à la CA.
 
-**Adhérent.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous réalisez pour résister une mise au sol ou d'être déplacé contre votre volonté.
+**Adhérent.** Vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous effectuez pour résister une mise au sol ou d'être déplacé contre votre volonté.
 
 **Vision Minérale.** En plaçant votre main sur une pierre naturelle et en utilisant votre action pour vous concentrer, vous pouvez sentir la présence de gemmes naturelles ou de métaux à 100 ft.
 
@@ -341,7 +341,7 @@ Les descendants des méduses — les sthénos — sont généralement conçus av
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
+**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit effectuer un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
 
 Vous pouvez utiliser votre Regard Immobilisant un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -353,9 +353,9 @@ Votre large nez, forte mâchoire et large tête révèlent assez distinctement v
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants au lieu des dégâts contondants habituels.
+**Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perforants au lieu des dégâts contondants habituels.
 
-**Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous réalisez pour naviguer ou tracer.
+**Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous effectuez pour naviguer ou tracer.
 
 **Course.** Pendant les tours où vous ne vous êtes déplacé qu'en ligne droite, votre vitesse augmente de 10 ft.
 
@@ -377,7 +377,7 @@ Comme les ettins, vous avez deux têtes avec des personnalités différentes qui
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Deux-Têtes.** Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer l'une des conditions suivantes sur vous-même : [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]].
+**Deux-Têtes.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'une des conditions suivantes sur vous-même : [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]].
 
 **Éveillé.** Puisque l'une de vos têtes est toujours réveillée, vous restez conscient lorsque vous prenez un repos long.
 

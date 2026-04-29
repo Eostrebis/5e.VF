@@ -23,23 +23,23 @@ Si un conflit éclate et ne peut être résolu par les mots seuls, c'est à vous
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                        |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------------ |
-| 3                 | [[Détection du mal et du bien]], [[représailles infernales]] |
-| 5                 | [[Apaisement des émotions]], [[zone de vérité]]              |
-| 9                 | [[Malédiction persistante]], [[clignotement]]                |
-| 13                | [[Bannissement]], [[porte dimensionnelle]]                   |
-| 17                | [[Dissipation du mal et du bien]], [[mythes et légendes]]    |
+| 3 | [[Détection du mal et du bien]], [[représailles infernales]] |
+| 5 | [[Apaisement des émotions]], [[zone de vérité]] |
+| 9 | [[Malédiction persistante]], [[clignotement]] |
+| 13 | [[Bannissement]], [[porte dimensionnelle]] |
+| 17 | [[Dissipation du mal et du bien]], [[mythes et légendes]] |
 
 ## Canal Divin
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Quod Est Superius Est.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour conjurer un feu cosmique des Plans Supérieurs pour brûler une créature que vous pouvez voir à 30 ft. La cible doit réaliser un jet de sauvegarde de Charisme. Si elle échoue, elle prend 10 + votre niveau de paladin dégâts radiants et devient immergée de lumière éthérée, l'empêchant d'utiliser son action pour Se Cacher ou de devenir [[invisible]] pendant 1 minute.
+**Quod Est Superius Est.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour conjurer un feu cosmique des Plans Supérieurs pour brûler une créature que vous pouvez voir à 30 ft. La cible doit effectuer un jet de sauvegarde de Charisme. Si elle échoue, elle subit 10 + votre niveau de paladin dégâts radiants et devient immergée de lumière éthérée, l'empêchant d'utiliser son action pour Se Cacher ou de devenir [[invisible]] pendant 1 minute.
 
-**Sicut Quod Est Inferius.** Pour une action, vous pouvez utiliser votre Canal Divin pour conjurer la vigueur corrompue des Plans Inférieurs afin de renforcer votre voix. Chaque Fée, Céleste et Aberration à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
+**Sicut Quod Est Inferius.** Pour une action, vous pouvez utiliser votre Canal Divin pour conjurer la vigueur corrompue des Plans Inférieurs afin de renforcer votre voix. Chaque Fée, Céleste et Aberration à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
 
-Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus prendre de réactions. Pour son action, elle ne peut que courir ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
+Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus utiliser de réactions. Pour son action, elle ne peut que Foncer ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 
 Si la véritable forme de la créature est dissimulée par une illusion, une métamorphose ou d'autres effets, cette forme est révélée lorsqu'elle est renvoyée.
 

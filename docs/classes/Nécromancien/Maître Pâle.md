@@ -9,13 +9,13 @@ C'est là l'exemple parfait d'un petit secret sur les nécromanciens : ils se ha
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                     |
+| Niveau de Sort | Sorts |
 | -------------- | ----------------------------------------- |
-| 1              | [[Exhumation]], [[blessure]]              |
-| 2              | [[Invisibilité]], [[rayon affaiblissant]] |
-| 3              | [[Animation des morts]], [[Terreur]]         |
-| 4              | [[Tentacules Noirs]], [[flétrissement]]  |
-| 5              | [[Brume mortelle]], [[scrutation]]        |
+| 1 | [[Exhumation]], [[blessure]] |
+| 2 | [[Invisibilité]], [[rayon affaiblissant]] |
+| 3 | [[Animation des morts]], [[Terreur]] |
+| 4 | [[Tentacules Noirs]], [[flétrissement]] |
+| 5 | [[Brume mortelle]], [[scrutation]] |
 
 ## Renforcement Charnel
 
@@ -25,7 +25,7 @@ Au niveau 3, vous pouvez apporter plus de pouvoirs encore à vos sorts en leur f
 
 Au niveau 6, vous obtenez la maîtrise de la compétence Intimidation, si vous ne l'avez pas déjà.
 
-De plus, vous pouvez dépenser 10 points de Toucher Charnel et une action bonus pour fixer votre terrifiant regard sur une créature que vous pouvez voir à 60 ft. La cible doit réaliser un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous pendant 1 minute. La créature apeurée peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour terminer l'effet prématurément. 
+De plus, vous pouvez dépenser 10 points de Toucher Charnel et une action bonus pour fixer votre terrifiant regard sur une créature que vous pouvez voir à 60 ft. La cible doit effectuer un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous pendant 1 minute. La créature apeurée peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour terminer l'effet prématurément. 
 
 ## Charge de Thrall
 

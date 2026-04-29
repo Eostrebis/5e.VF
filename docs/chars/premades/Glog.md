@@ -3,44 +3,44 @@ writing_status: wip
 ---
 ## Personnage
 
-__Race :__ [[Orque]]
+**Race :** [[Orque]]
 
-__Classe :__ [[Occultiste]]
+**Classe :** [[Occultiste]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 10 (±0) | 12 (+1) | 16 (+3) | 14 (+2) | 14 (+2) | 16 (+3) |
-|  ◎ ±0   |  ◎ +1   |  ◎ +3   |  ◎ +2   |  ◉ +4   |  ◉ +5   |
+| ◎ ±0 | ◎ +1 | ◎ +3 | ◎ +2 | ◉ +4 | ◉ +5 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1   | ◉ Investigation (_Int_) : +4  |
-| ◉ Arcanes (_Int_) : ±4      | ◎ Médecine (_Sag_) : +2       |
-| ◎ Athlétisme (_For_) : ±0   | ◎ Nature (_Int_) : +2<br>     |
-| ◎ Discrétion (_Dex_) : +1   | ◎ Perception (_Sag_) : +2     |
-| ◎ Dressage (_Sag_) : +2     | ◎ Persuasion (_Cha_) : +3     |
-| ◎ Escamotage (_Dex_) : +1   | ◉ Religion (_Int_) : +4       |
-| ◉ Histoire (_Int_) : +4     | ◎ Représentation (_Cha_) : +3 |
-| ◎ Intimidation (_Cha_) : +3 | ◎ Survie (_Sag_) : +2         |
-| ◎ Intuition (_Sag_) : +2    | ◎ Tromperie (_Cha_) : +3<br>  |
+| ◎ Acrobaties (*Dex*) : +1 | ◉ Investigation (*Int*) : +4 |
+| ◉ Arcanes (*Int*) : ±4 | ◎ Médecine (*Sag*) : +2 |
+| ◎ Athlétisme (*For*) : ±0 | ◎ Nature (*Int*) : +2<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◎ Perception (*Sag*) : +2 |
+| ◎ Dressage (*Sag*) : +2 | ◎ Persuasion (*Cha*) : +3 |
+| ◎ Escamotage (*Dex*) : +1 | ◉ Religion (*Int*) : +4 |
+| ◉ Histoire (*Int*) : +4 | ◎ Représentation (*Cha*) : +3 |
+| ◎ Intimidation (*Cha*) : +3 | ◎ Survie (*Sag*) : +2 |
+| ◎ Intuition (*Sag*) : +2 | ◎ Tromperie (*Cha*) : +3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Glog, un brillant étudiant orque en magie qui, par accident de recherche, est devenu le relais d'une gelée cosmique mangeuse de souvenirs, vous forçant à partir à l'aventure pour "nourrir" votre patron avec de nouvelles expériences afin de passer vos examens.
 > 
 > **Objectif pour la session :** 
->  Vous êtes en "recherche sur le terrain" pour votre thèse. Votre but est de documenter méticuleusement tout ce que vous rencontrez – créatures, lieux, événements – pour compiler des données pour vos études, et accessoirement, pour offrir de nouvelles "saveurs" à la Convocation Gélatineuse qui vous prête ses pouvoirs.
->  
->  **Parlez comme un Professeur Orque :** Utilisez un langage académique et complexe qui contraste avec votre apparence d'orque. Analysez tout de manière théorique ("Hypothétiquement...", "Empiriquement...") et citez des références historiques obscures que personne d'autre ne connaît.
->  
->  **La Connaissance avant Tout :** Votre grimoire/carnet de notes est votre meilleur ami. Sortez-le constamment pour prendre des notes, même dans les moments les plus inopportuns. Votre défaut est clair : vous êtes facilement distrait par la promesse d'une nouvelle information, même si c'est au milieu d'un combat.
->  
->  **Jouez la Double Mémoire :** Laissez parfois échapper des informations ou des souvenirs qui ne sont pas les vôtres (un écho de la Convocation Gélatineuse). Un mot dans une langue ancienne, le nom d'un roi oublié... puis reprenez-vous avec un air confus, comme si vous ne saviez pas d'où cela venait.
+> Vous êtes en "recherche sur le terrain" pour votre thèse. Votre but est de documenter méticuleusement tout ce que vous rencontrez – créatures, lieux, événements – pour compiler des données pour vos études, et accessoirement, pour offrir de nouvelles "saveurs" à la Convocation Gélatineuse qui vous prête ses pouvoirs.
+> 
+> **Parlez comme un Professeur Orque :** Utilisez un langage académique et complexe qui contraste avec votre apparence d'orque. Analysez tout de manière théorique ("Hypothétiquement...", "Empiriquement...") et citez des références historiques obscures que personne d'autre ne connaît.
+> 
+> **La Connaissance avant Tout :** Votre grimoire/carnet de notes est votre meilleur ami. Sortez-le constamment pour prendre des notes, même dans les moments les plus inopportuns. Votre défaut est clair : vous êtes facilement distrait par la promesse d'une nouvelle information, même si c'est au milieu d'un combat.
+> 
+> **Jouez la Double Mémoire :** Laissez parfois échapper des informations ou des souvenirs qui ne sont pas les vôtres (un écho de la Convocation Gélatineuse). Un mot dans une langue ancienne, le nom d'un roi oublié... puis reprenez-vous avec un air confus, comme si vous ne saviez pas d'où cela venait.
 
 #### Maîtrises
 
@@ -50,15 +50,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** 
 
-__Langues__ : Commun, Orque, Draconique, Nain
+**Langues** : Commun, Orque, Draconique, Nain
 
 ### Description
 
-__Âge :__ 22 ans
+**Âge :** 22 ans
 
-__Taille :__ 1,90 m
+**Taille :** 1,90 m
 
-__Poids :__ 110 kg
+**Poids :** 110 kg
 
 Glog est une présence qui détonne dans les couloirs d'une académie de magie. C'est un orque dans toute sa splendeur, avec une carrure large et une constitution qui semble taillée pour encaisser les coups, même s'il n'a pas la musculature hypertrophiée d'un barbare. Sa peau a une teinte olivâtre, et son visage, aux traits anguleux et à la mâchoire puissante, est marqué par de petites défenses inférieures qui dépassent de ses lèvres.
 
@@ -73,9 +73,9 @@ Mais ce qui le définit vraiment, c'est la manifestation de son étrange pouvoir
 
 ### Aptitudes de Race
 
-**Vision dans le Noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Montée d'Adrénaline.** Vous pouvez utiliser votre bonus action pour Courir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
+**Montée d'Adrénaline.** Vous pouvez utiliser votre bonus action pour Foncer. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long. Lorsque vous utilisez ce trait, vous gagnez un nombre de points de vie temporaires égal à votre bonus de maîtrise.
 
 **Carrure Imposante.** Vous êtes considéré comme d'une catégorie de taille supérieure pour déterminer votre capacité de charge.
 
@@ -88,9 +88,9 @@ Vous avez conclu un marché avec la Convocation Gélatineuse.
 
 Les sorts suivants sont ajoutés à votre liste de sorts : 
 
-| Niveau de sort | Sorts                     |
+| Niveau de sort | Sorts |
 | -------------- | ------------------------- |
-| 1              | [[Graisse]], [[Fou Rire]] |
+| 1 | [[Graisse]], [[Fou Rire]] |
 
 ##### Souvenirs Retrouvés
 
@@ -117,7 +117,7 @@ You know two cantrips of your choice from the [warlock spell list](http://dnd5e
 
 The Warlock table shows how many spell slots you have to cast your warlock spells of 1st through 5th level. The table also shows what the level of those slots is; all of your spell slots are the same level. To cast one of your warlock spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
 
-For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell _[witch bolt](https://dnd5e.wikidot.com/spell:witch-bolt)_, you must spend one of those slots, and you cast it as a 3rd-level spell.
+For example, when you are 5th level, you have two 3rd-level spell slots. To cast the 1st-level spell *[witch bolt](https://dnd5e.wikidot.com/spell:witch-bolt)*, you must spend one of those slots, and you cast it as a 3rd-level spell.
 
 ##### Spells Known of 1st Level and Higher
 
@@ -161,7 +161,7 @@ C'est cette soif de connaissance qui l'a mené à sa perte, et à sa puissance. 
 
 Dans le secret de sa chambre d'étudiant, il traça les glyphes à la craie et murmura les mots étranges. Il ne se passa rien. Déçu, il commença à effacer le cercle quand sa main toucha une des lignes.
 
-Le contact fut instantané. Il ne vit rien, n'entendit rien. Il ressentit. Une présence immense, ancienne, et placide, comme un océan de gelée de la taille d'une lune. Il sentit les souvenirs de sa propre journée – le goût du ragoût de la cantine, la frustration de ses recherches, l'odeur de vieux parchemin – être doucement _aspirés_, non pas violemment, mais comme une goutte de pluie tombant dans une mare. Puis, un reflux. Un fragment de mémoire qui n'était pas la sienne lui revint : le silence assourdissant du vide entre les étoiles, la sensation de flotter dans une nébuleuse, le savoir d'un sort qu'il n'avait jamais appris.
+Le contact fut instantané. Il ne vit rien, n'entendit rien. Il ressentit. Une présence immense, ancienne, et placide, comme un océan de gelée de la taille d'une lune. Il sentit les souvenirs de sa propre journée – le goût du ragoût de la cantine, la frustration de ses recherches, l'odeur de vieux parchemin – être doucement *aspirés*, non pas violemment, mais comme une goutte de pluie tombant dans une mare. Puis, un reflux. Un fragment de mémoire qui n'était pas la sienne lui revint : le silence assourdissant du vide entre les étoiles, la sensation de flotter dans une nébuleuse, le savoir d'un sort qu'il n'avait jamais appris.
 
 La connexion était établie. Il était devenu, par accident, le relais de la Convocation Gélatineuse, une entité cosmique dont le seul but est de "goûter" aux souvenirs de l'univers.
 
@@ -179,15 +179,15 @@ Vous pouvez lancer [[Mémorisation]] sans dépenser d'emplacement de sort, une f
 
 ### Traits de Personnalité
 
-__Traits :__ J'adore le savoir obscure. J'essaye d'inclure le plus de références historiques de niche possible dans mes conversations. Je crois que soutenir mes pairs est la meilleure façon de réussir.
+**Traits :** J'adore le savoir obscure. J'essaye d'inclure le plus de références historiques de niche possible dans mes conversations. Je crois que soutenir mes pairs est la meilleure façon de réussir.
 
-__Idéal :__ La route vers le pouvoir et l'amélioration passe d'abord par la connaissance et le savoir.
+**Idéal :** La route vers le pouvoir et l'amélioration passe d'abord par la connaissance et le savoir.
 
-__Lien :__ Mon lien avec la Convocation Gélatineuse m'a donné le goût de la mémoire, et je passerai ma vie s'il le faut à en profiter.
+**Lien :** Mon lien avec la Convocation Gélatineuse m'a donné le goût de la mémoire, et je passerai ma vie s'il le faut à en profiter.
 
-__Défaut :__ Je suis facilement distrait par une potentielle information
+**Défaut :** Je suis facilement distrait par une potentielle information
 
-__Alignement :__ Neutre
+**Alignement :** Neutre
 
 ## Conseils de jeu
 

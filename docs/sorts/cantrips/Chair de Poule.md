@@ -1,11 +1,11 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Mage de Guerre
+ - Nécromancien
+ - Sorcière
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Mage de Guerre
 level: 0
 school: Nécromancie
 Verbal: true
@@ -18,9 +18,9 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Chill Touch
-writing_status: empty
+writing_status: finished
 ---
-mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible prend 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.
+mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.
 
 Si vous touchez une créature morte-vivante, elle a aussi le désavantage aux jets d'attaque contre vous jusqu'à la fin de votre prochain tour.
 

@@ -1,10 +1,10 @@
 ---
 search:
-  exclude: true
+ exclude: true
 race: true
 load: races
 hide:
-  - navigation
-  - toc
+ - navigation
+ - toc
 redirection: true
 ---

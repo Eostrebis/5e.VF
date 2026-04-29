@@ -2,12 +2,11 @@
 subrace: false
 writing_status: finished
 ---
-
 ### Description
 
 Avec leurs apparences changeantes, les changelins sont insérés dans de nombreuses sociétés. Chaque changelin peut magiquement adopter un visage de leur choix. Pour certains, une nouvelle face n'est synonyme que de déguisement. Pour d'autres, une nouvelle face révèle un nouvel aspect de leur âme.
 
-Les premiers changelins du multivers sont apparus dans la Féerie, et la merveilleuse essence volatile de ce plan réside toujours en eux aujourd'hui — même chez les changelins qui n'y ont jamais mis les pieds. Chaque changelin choisit comme il utilise sa capacité de transformation, en canalisant ou la joie ou la peur de la Féerie. Parfois, ils adoptent de nouvelles formes par malice ou avec de mauvaises intentions, et d'autres fois, il accapare une nouvelle identité pour réparer des injustices ou pour ravir les opprimés.
+Les premiers changelins du multivers sont apparus dans la Féerie, et la merveilleuse essence volatile de ce plan réside toujours en eux aujourd'hui — même chez les changelins qui n'y ont jamais mis les pieds. Chaque changelin choisit comme il utilise sa capacité de transformation, en canalisant ou la joie ou la peur de la Féerie. Parfois, ils adoptent de nouvelles formes par malice ou avec de mauvaises intentions, et d'autres fois, il accapare une nouvelle identité pour réparer des injustices ou pour défendre les opprimés.
 
 Sous leur vraie forme, les changelins apparaissent effacés, leurs traits étant presque dépourvus de détail. Il est rare d'apercevoir un changelin sous sa véritable apparence, comme il change généralement d'apparence à des moments où d'autres changeraient de vêtements. Une forme ordinaire (i.e. créée sur le moment, sans profondeur ou historique) est appelée un masque. Un masque peut être utilisé pour exprimer une émotion ou pour servir un objectif bien précis, et ne plus jamais être utilisé après. Cependant, beaucoup de changelins développent ce qu'on appelle des identités, qui ont plus de profondeurs, en fabriquant des personnalités complète, avec une histoire, des croyances. Un aventurier changelin pourrait avoir une identité pour chaque situation, comme pour la négociation, l'investigation ou le combat.
 

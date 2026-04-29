@@ -13,7 +13,7 @@ Au niveau 3, vous avez obtenu un certain nombre de babioles magiques pour vous a
 
 **Affiloir Béni.** Pour une action bonus, vous pouvez lancer le sort [[Arme Magique]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
-**Écaille de Dragon Dorée.** Pour une action bonus, vous gagnez la résistance à un type de dégâts pendant 1 minute.
+**Écaille de Dragon Dorée.** Pour une action bonus, vous obtenez une résistance à un type de dégâts pendant 1 minute.
 
 **Collier en Dents de Wyverne.** Lorsque vous touchez une créature avec une attaque armée, vous pouvez utiliser votre action bonus pour activer cette babiole et infliger 2d8 dégâts de poison à la créature.
 

@@ -7,7 +7,7 @@ Ere: Moderne
 writing_status: empty
 ---
 
-| Dégâts      | Propriétés                                                                            |
+| Dégâts | Propriétés |
 | ----------- | ------------------------------------------------------------------------------------- |
 | 2d10 de feu | Munitions (Portée 80/320), Lourd, Rechargement (1 ; 2 actions), Spécial, À deux mains |
 

@@ -66,9 +66,9 @@ Si vous ne possédez aucun de ces éléments de par votre race ou que vous chois
 
 **Nature Immortelle.** Vous avez échappé à la mort, un fait représenté par les effets suivants : 
 
- - Vous avez l'avantage aux jets de sauvegarde contre les maladies et la condition [[empoisonné]], ainsi que la résistance aux dégâts de poison.
+ - Vous obtenez l'avantage aux jets de sauvegarde contre les maladies et la condition [[empoisonné]], ainsi qu'une résistance aux dégâts de poison.
  - Vous avez l'avantage aux jets de sauvegarde contre la mort.
  - Vous n'avez pas besoin de manger, boire ou respirer.
  - Vous n'avez pas besoin de dormir, et la magie ne peut pas vous endormir. Vous pouvez terminer un repos long en 4 heures si vous passez ces 4 heures dans un état d'inactivité et d'immobilité, pendant lequel vous n'êtes pas [[inconscient]].
 
-**Connaissance Passée.** Vous vous souvenez brièvement de bribes du passé, peut-être des souvenirs d'il y a fort longtemps ou d'une vie passée. Lorsque vous réalisez un jet de caractéristique qui utilise une compétence, vous pouvez lancer un d6 immédiatement après avoir vu le résultat du d20 et ajouter le résultat du d6 au jet. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.
+**Connaissance Passée.** Vous vous souvenez brièvement de bribes du passé, peut-être des souvenirs d'il y a fort longtemps ou d'une vie passée. Lorsque vous effectuez un jet de caractéristique qui utilise une compétence, vous pouvez lancer un d6 immédiatement après avoir vu le résultat du d20 et ajouter le résultat du d6 au jet. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise et vous regagnez les utilisations dépensées lorsque vous terminez un repos long.

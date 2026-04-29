@@ -18,13 +18,13 @@ Ces paladins sont pleins de ressources et prompts à se remémorer leur propre m
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                           |
+| Niveau de Paladin | Sorts |
 | ----------------- | --------------------------------------------------------------- |
-| 3                 | [[Fléau]], [[détection de la magie]]                            |
-| 5                 | [[Aura magique de l'arcaniste]], [[immobilisation de personne]] |
-| 9                 | [[Dissipation de la magie]], [[lenteur]]                        |
-| 13                | [[Porte dimensionnelle]], [[sphère résiliente]]                 |
-| 17                | [[Domination de personne]], [[scrutation]]                      |
+| 3 | [[Fléau]], [[détection de la magie]] |
+| 5 | [[Aura magique de l'arcaniste]], [[immobilisation de personne]] |
+| 9 | [[Dissipation de la magie]], [[lenteur]] |
+| 13 | [[Porte dimensionnelle]], [[sphère résiliente]] |
+| 17 | [[Domination de personne]], [[scrutation]] |
 
 ## Canal Divin
 
@@ -32,7 +32,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Absorption de la Magie.** Vous pouvez réfuter certains sorts et les utiliser pour vous alimenter. En utilisant votre Canal Divin, vous pouvez interrompre une créature que vous pouvoir voir à 30 ft. en train de lancer un sort. Pour une réaction lorsque vous voyez une créature à portée lancer un sort, vous pouvez dresser votre symbole sacré et l'interrompre. Le sort échoue et n'a aucun effet s'il est d'un niveau au plus égal à 1 + votre niveau de paladin divisé par trois (arrondi au supérieur), jusqu'à un maximum de niveau 6. Si le sort échoue, vous gagnez un nombre de points de vie temporaires égal à votre modificateur de Charisme + 5 fois le niveau du sort.
 
-**Injonction Expéditive.** Vous pouvez utiliser votre Canal Divin pour prononcer un mot de pouvoir et libérer une vague d'énergie revigorante de votre symbole sacré. Pour une action bonus, choisissez un nombre de créatures à 30 ft. inférieur ou égal à votre modificateur de Charisme. Jusqu'au début de votre prochain tour, les créatures choisies peuvent utiliser leur action bonus pour Courir ou se Désengager. Pendant l'action bonus utilisée pour utiliser votre Canal Divin, vous pouvez également Courir ou vous Désengager.
+**Injonction Expéditive.** Vous pouvez utiliser votre Canal Divin pour prononcer un mot de pouvoir et libérer une vague d'énergie revigorante de votre symbole sacré. Pour une action bonus, choisissez un nombre de créatures à 30 ft. inférieur ou égal à votre modificateur de Charisme. Jusqu'au début de votre prochain tour, les créatures choisies peuvent utiliser leur action bonus pour Foncer ou se Désengager. Pendant l'action bonus utilisée pour utiliser votre Canal Divin, vous pouvez également Foncer ou vous Désengager.
 
 ## Maîtrise Supplémentaire
 
@@ -51,8 +51,8 @@ Au niveau 15, tant que vous vous concentrez sur un sort de paladin, votre concen
 
 Au niveau 20, pour une action, vous pouvez émaner un champ de magie pétillante sur un rayon de 30 ft. Pendant 1 minute, vous bénéficiez des effets suivants :
 
- - Vous avez la résistance aux dégâts de sorts et avez l'avantage aux jets de sauvegarde contre les sorts.
- - Lorsqu'une créature vous touche avec une attaque de mêlée, cette créature prend un nombre de dégâts de force égal à votre modificateur de Charisme alors que l'énergie magique même se déchaîne contre elle.
- - Lorsque vous dépensez un emplacement de sort de niveau 1 ou plus, les créatures alliées dans votre champ de magie regagnent un nombre de points de vie égal à votre modificateur de Charisme tandis que les créatures hostiles prennent le même nombre de dégâts de force.
+ - Vous obtenez une résistance aux dégâts de sorts et avez l'avantage aux jets de sauvegarde contre les sorts.
+ - Lorsqu'une créature vous touche avec une attaque de mêlée, cette créature subit un nombre de dégâts de force égal à votre modificateur de Charisme alors que l'énergie magique même se déchaîne contre elle.
+ - Lorsque vous dépensez un emplacement de sort de niveau 1 ou plus, les créatures alliées dans votre champ de magie regagnent un nombre de points de vie égal à votre modificateur de Charisme tandis que les créatures hostiles subissent le même nombre de dégâts de force.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

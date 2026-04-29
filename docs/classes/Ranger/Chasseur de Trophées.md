@@ -16,14 +16,14 @@ Au niveau 3, vous tirez de la force des ennemis que vous vainquez. À chaque foi
 Vous pouvez porter un trophée, et lorsque vous prenez un repos, vous pouvez changer le trophée que vous portez. Tant que vous portez un trophée, vous bénéficiez des effets suivants : 
 
  - Les créatures du même type que votre trophée sont considérés comme étant vos ennemis préférés.
- - Vous avez un bonus de +2 aux jets de dégâts que vous réalisez contre les créatures du type du trophée.
+ - Vous avez un bonus de +2 aux jets de dégâts que vous effectuez contre les créatures du type du trophée.
  - Vous obtenez un bonus de +2 à votre CA ainsi qu'aux jets de sauvegarde contre les attaques et effets des créatures du type du trophée.
 
 À partir du niveau 7, vous pouvez réaliser un trophée à partir d'un Céleste, Aberration, Construction, Dragon, Élémentaire ou Fiélon que vous avez vaincu.
 
 ## Lutteur Malin
 
-À partir du niveau 7, votre expérience à vous échapper des mâchoires se refermant, des tentacules vous éreintant et des griffes tranchantes vous rend plus difficile à immobiliser. Lorsque vous êtes saisi, vous pouvez utiliser une action pour terminer la saisie sans avoir à réaliser un jet de caractéristique et vous déplacer de 5 ft. sans déclencher d'attaque d'opportunité.
+À partir du niveau 7, votre expérience à vous échapper des mâchoires se refermant, des tentacules vous éreintant et des griffes tranchantes vous rend plus difficile à immobiliser. Lorsque vous êtes saisi, vous pouvez utiliser une action pour terminer la saisie sans avoir à effectuer un jet de caractéristique et vous déplacer de 5 ft. sans déclencher d'attaque d'opportunité.
 
 ## Tomber le Léviathan
 

@@ -5,13 +5,13 @@ La magie est une énergie qui infuse le multivers et qui alimente à la fois la 
 
 **Sorts du Domaine Arcanique**
 
-| Niveau de Clerc | Sorts                                               |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------- |
-| 1               | [[Détection de la Magie]], [[Projectiles Magiques]] |
-| 3               | [[Arme Magique]], [[Aura Magique de Nystul]]        |
-| 5               | [[Dissipation de la Magie]], [[Cercle Magique]]     |
-| 7               | [[Œil Magique]], [[Coffre Secret]]                  |
-| 9               | [[Contrat]], [[Cercle de Téléportation]]            |
+| 1 | [[Détection de la Magie]], [[Projectiles Magiques]] |
+| 3 | [[Arme Magique]], [[Aura Magique de Nystul]] |
+| 5 | [[Dissipation de la Magie]], [[Cercle Magique]] |
+| 7 | [[Œil Magique]], [[Coffre Secret]] |
+| 9 | [[Contrat]], [[Cercle de Téléportation]] |
 ## Apprenti Arcanique
 
 Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de la compétence Arcane et vous gagnez deux cantrips de votre choix parmi la liste de sorts du [[Magicien]]. Pour vous, ces cantrips sont considérés comme des cantrips de clerc.
@@ -20,17 +20,17 @@ Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de la c
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour abjurer des créatures venant d'autres mondes.
 
-Pour une action, vous dressez votre symbole sacré et un Céleste, Élémentaire, Fée ou Fiélon de votre choix qui se trouve à 30 ft. de vous doit réaliser un jet de sauvegarde de Sagesse, à condition que la créature puisse vous voir ou vous entendre. Si al créature échoue ce jet, elle est renvoyée pour 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
+Pour une action, vous dressez votre symbole sacré et un Céleste, Élémentaire, Fée ou Fiélon de votre choix qui se trouve à 30 ft. de vous doit effectuer un jet de sauvegarde de Sagesse, à condition que la créature puisse vous voir ou vous entendre. Si al créature échoue ce jet, elle est renvoyée pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 
-Après que vous avez atteint le niveau 5, lorsqu'une créature échoue son jet contre votre Abjuration Arcanique, la créature est bannie pour 1 minute (comme d'après le sort [[Bannissement]], sans concentration) si elle ne se trouve pas dans son plan d'origine et si son FD est en dessous d'un certain seuil.
+Après que vous avez atteint le niveau 5, lorsqu'une créature échoue son jet contre votre Abjuration Arcanique, la créature est bannie pendant 1 minute (comme d'après le sort [[Bannissement]], sans concentration) si elle ne se trouve pas dans son plan d'origine et si son FD est en dessous d'un certain seuil.
 
 | Niveau de Clerc | Bannit une Créature de FD ... |
 | --------------- | ----------------------------- |
-| 5               | 1/2 ou inférieur              |
-| 8               | 1 ou inférieur                |
-| 11              | 2 ou inférieur                |
-| 14              | 3 ou inférieur                |
-| 17              | 4 ou inférieur                |
+| 5 | 1/2 ou inférieur |
+| 8 | 1 ou inférieur |
+| 11 | 2 ou inférieur |
+| 14 | 3 ou inférieur |
+| 17 | 4 ou inférieur |
 
 ## Briseur de Sort
 

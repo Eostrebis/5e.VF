@@ -9,13 +9,13 @@ Les occultistes qui s'imprègnent du pouvoir de la Brume Morte obtiennent l'acc�
 
 La Brume des Morts vous laisse choisir parmi une liste de sorts étendue lorsque vous apprenez un sort d'occultiste. Les sorts suivants sont ajoutés à votre liste de sorts d'occultiste. 
 
-| Niveau de Sort | Sorts                                              |
+| Niveau de Sort | Sorts |
 | -------------- | -------------------------------------------------- |
-| 1              | [[Cils de la Brume Morte]], [[brouillard]]         |
-| 2              | [[Détection des pensées]], [[seuil de protection]] |
-| 3              | [[Clairvoyance]], [[brouillard de mort]]           |
-| 4              | [[Tentacules noirs]], [[confusion]]                |
-| 5              | [[Brume mortelle]], [[scrutation]]                 |
+| 1 | [[Cils de la Brume Morte]], [[brouillard]] |
+| 2 | [[Détection des pensées]], [[seuil de protection]] |
+| 3 | [[Clairvoyance]], [[brouillard de mort]] |
+| 4 | [[Tentacules noirs]], [[confusion]] |
+| 5 | [[Brume mortelle]], [[scrutation]] |
 ## Boire la Brume
 
 À partir du niveau 1, vous apprenez à inviter la Brume Morte dans votre âme, vous conférant un instinct et des pouvoirs occultes au prix de votre force vitale. Pour une action bonus, vous pouvez choisir de perdre un nombre de points de vie égal à xd8 où x est le niveau de vos emplacements de Magie de Pacte. Au début de votre prochain tour, vous regagnez un emplacement de Magie de Pacte dépensé. Si cette aptitude vous réduit à 0 point de vie, vous êtes [[inconscient]], même s'il vous reste des points de vie temporaires.

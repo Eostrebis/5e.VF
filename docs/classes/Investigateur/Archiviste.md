@@ -23,19 +23,19 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 
 ### Ignis
 
-| Niveau de sort | Sorts                                   |
+| Niveau de sort | Sorts |
 | -------------- | --------------------------------------- |
-| 1              | [[Mains Brûlantes]], [[Vague Tonnante]] |
-| 2              | [[Saute de Vent]], [[rayon ardent]]     |
-| 3              | [[Appel de la Foudre]], [[mur de vent]] |
+| 1 | [[Mains Brûlantes]], [[Vague Tonnante]] |
+| 2 | [[Saute de Vent]], [[rayon ardent]] |
+| 3 | [[Appel de la Foudre]], [[mur de vent]] |
 
 ### Mortis
 
-| Niveau de sort | Sorts                                      |
+| Niveau de sort | Sorts |
 | -------------- | ------------------------------------------ |
-| 1              | [[Fléau]], [[Simulacre de Vie]]            |
-| 2              | [[Cécité ou Surdité]], [[ténèbres]]        |
-| 3              | [[Retour à la vie]], [[Toucher du Vampire]] |
+| 1 | [[Fléau]], [[Simulacre de Vie]] |
+| 2 | [[Cécité ou Surdité]], [[ténèbres]] |
+| 3 | [[Retour à la vie]], [[Toucher du Vampire]] |
 
 ### Regis
 
@@ -48,7 +48,7 @@ Même si la plupart des investigateurs remplissent leur grimoire par des connais
 
 ## Docteur ès Sorts
 
-Au niveau 6, vous avez maîtrisé la délicate théorie de la propagation arcanique. Lorsque vous lancez un sort qui force une créature à réaliser un jet de sauvegarde pour résister aux effets, vous pouvez donner à une cible du sort le désavantage à son premier jet de sauvegarde contre le sort.
+Au niveau 6, vous avez maîtrisé la délicate théorie de la propagation arcanique. Lorsque vous lancez un sort qui force une créature à effectuer un jet de sauvegarde pour résister aux effets, vous pouvez donner à une cible du sort le désavantage à son premier jet de sauvegarde contre le sort.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
 

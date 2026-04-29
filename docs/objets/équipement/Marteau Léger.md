@@ -6,6 +6,6 @@ englishname: Light Hammer
 writing_status: finished
 ---
 
-| Dégâts          | Propriétés         |
+| Dégâts | Propriétés |
 | --------------- | ------------------ |
 | 1d4 contondants | Léger, Jet (20/60) |

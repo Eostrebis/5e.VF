@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 4
 school: Abjuration
 Verbal: true
@@ -17,7 +17,7 @@ Portee: Personnelle (rayon de 120 ft.)
 Concentration: false
 Rituel: false
 englishname: Invisibility Purge
-writing_status: empty
+writing_status: finished
 ---
 Vous purgez les effets d'invisibilité magique dans un rayon de 120 ft. autour de vous. Toute créature, objet, emplacement ou effet à 120 ft. de vous qui est caché par une invisibilité magique est révélé et l'invisibilité est dissipée.
 

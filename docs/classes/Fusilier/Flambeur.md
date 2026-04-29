@@ -9,11 +9,11 @@ Lorsque vous choisissez ce crédo au niveau 3, vous maîtrisez désormais tous l
 
 ## Tapis
 
-Également au niveau 3, pour une action bonus lorsque vous réalisez un jet d'attaque ou de caractéristique, ou pour une réaction lorsque vous réalisez un jet de sauvegarde, vous pouvez dépenser un dé de risque, et l'ajouter au résultat. Vous choisissez d'utiliser cette aptitude après avoir tiré le d20 mais avant que le MJ ne détermine si le jet est un succès ou un échec. Si vous obtenez un 1 sur votre dé de risque, vous ratez le jet, peu importe le total.
+Également au niveau 3, pour une action bonus lorsque vous effectuez un jet d'attaque ou de caractéristique, ou pour une réaction lorsque vous effectuez un jet de sauvegarde, vous pouvez dépenser un dé de risque, et l'ajouter au résultat. Vous choisissez d'utiliser cette aptitude après avoir tiré le d20 mais avant que le MJ ne détermine si le jet est un succès ou un échec. Si vous obtenez un 1 sur votre dé de risque, vous ratez le jet, peu importe le total.
 
 ## Dés de Menteur
 
-Également au niveau 3, lorsque vous réalisez un jet de caractéristique, d'attaque ou de sauvegarde, vous pouvez lancer le d20 en secret et déclarer le résultat que vous voulez. Si le MJ choisit de dénoncer votre bluff, révéler le résultat obtenu sur le d20. Si vous disiez la vérité, traitez le résultat comme si vous aviez obtenu un 20. Si vous mentiez, relancez le d20 et utilisez le plus petit des deux lancers. Si le MJ choisit de ne pas dénoncer votre bluff, vous utilisez le résultat que vous avez déclaré.
+Également au niveau 3, lorsque vous effectuez un jet de caractéristique, d'attaque ou de sauvegarde, vous pouvez lancer le d20 en secret et déclarer le résultat que vous voulez. Si le MJ choisit de dénoncer votre bluff, révéler le résultat obtenu sur le d20. Si vous disiez la vérité, traitez le résultat comme si vous aviez obtenu un 20. Si vous mentiez, relancez le d20 et utilisez le plus petit des deux lancers. Si le MJ choisit de ne pas dénoncer votre bluff, vous utilisez le résultat que vous avez déclaré.
 
 Vous pouvez choisir de tirer en secret un nombre de fois égal à 1 + votre modificateur de Charisme (minimum de 1), et vous regagnez toutes les charges utilisées lorsque vous terminez un repos long.
 
@@ -27,4 +27,4 @@ Au niveau 10, vous pouvez accumuler une dette de malchance. Lorsqu'une créature
 
 ## Quitte ou Double
 
-Au niveau 14, lorsque vous réalisez un coup critique avec une arme à feu, vous pouvez lancer deux d20s supplémentaires. Traitez ces d20s comme s'ils étaient des jets d'attaque que vous réaliseriez contre la cible avec la même arme à feu. Si les deux ratent, votre coup critique devient un coup normal. Si un des deux résultats résulterait en un coup critique, vous tirez les dés de dégâts trois fois au lieu de deux. Sinon, le coup critique est résolu normalement.
+Au niveau 14, lorsque vous réalisez un coup critique avec une arme à feu, vous pouvez lancer deux d20s supplémentaires. Traitez ces d20s comme s'ils étaient des jets d'attaque que vous effectueriez contre la cible avec la même arme à feu. Si les deux ratent, votre coup critique devient un coup normal. Si un des deux résultats résulterait en un coup critique, vous tirez les dés de dégâts trois fois au lieu de deux. Sinon, le coup critique est résolu normalement.

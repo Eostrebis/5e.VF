@@ -9,7 +9,7 @@ Des communautés tribales existent dans tous les royaumes, dans tous les types d
 
 ## Frénésie Alimentaire
 
-À la différence de leurs frères coincés sur terre, les barbares de l'aileron se transforment drastiquement lorsqu'ils entrent en rage. Au niveau 3, lorsque vous ragez, vous vous voyez pousser une rangée de dents incroyablement aiguisée et vous gagnez une attaque de morsure. Votre morsure est une attaque naturelle, que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d8 + votre modificateur de Force dégâts perçants.
+À la différence de leurs frères coincés sur terre, les barbares de l'aileron se transforment drastiquement lorsqu'ils entrent en rage. Au niveau 3, lorsque vous ragez, vous vous voyez pousser une rangée de dents incroyablement aiguisée et vous gagnez une attaque de morsure. Votre morsure est une attaque naturelle, que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d8 + votre modificateur de Force dégâts perforants.
 
 À partir du niveau 6, votre morsure est considérée magique vis-à-vis des résistances et immunités aux dégâts non magiques. 
 
@@ -21,7 +21,7 @@ Un requin adulte peut sentir une simple goutte de sang dans l'eau à presque 2 k
 
 ## Mako
 
-À partir du niveau 10, vos dégâts de morsure passent à 1d10. De plus, une fois par tour lorsque vous touchez une créature avec votre attaque de morsure, elle doit réaliser un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[au sol]] ou être [[saisi|saisie]] par vous. La cible a le désavantage à ce jet si vous êtes en train de nager.
+À partir du niveau 10, vos dégâts de morsure passent à 1d10. De plus, une fois par tour lorsque vous touchez une créature avec votre attaque de morsure, elle doit effectuer un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[au sol]] ou être [[saisi|saisie]] par vous. La cible a le désavantage à ce jet si vous êtes en train de nager.
 
 ## Tsunami
 

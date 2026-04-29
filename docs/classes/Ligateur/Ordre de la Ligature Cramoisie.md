@@ -13,7 +13,7 @@ Au niveau 3, lorsque le Trait d'un vestige vous permet de remplacer un jet de co
 
 ## Transfert d'Âme
 
-À partir du niveau 7, vous pouvez transférer une portion des dégâts que vous subissez à vos vestiges. Pour une réaction lorsque vous prenez des dégâts, vous pouvez réduire de moitié les dégâts subis.
+À partir du niveau 7, vous pouvez transférer une portion des dégâts que vous subissez à vos vestiges. Pour une réaction lorsque vous subissez des dégâts, vous pouvez réduire de moitié les dégâts subis.
 
 Une fois que vous avez cette aptitude, vous devez terminer un repos avant de pouvoir le refaire.
 

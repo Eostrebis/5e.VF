@@ -9,7 +9,7 @@ Lorsque vous choisissez cette voie au niveau 3, utiliser votre action pour Esqui
 
 ## Anticipation
 
-Également au niveau 3, lorsque vous ne réalisez pas de jet d'attaque pendant votre tour, vous vous préparez à frapper. Jusqu'au début de votre prochain tour, lorsqu'une créature réalise une attaque de mêlée contre vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+Également au niveau 3, lorsque vous n'effectuez pas de jet d'attaque pendant votre tour, vous vous préparez à frapper. Jusqu'au début de votre prochain tour, lorsqu'une créature réalise une attaque de mêlée contre vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 ## Transe de Combat
 
@@ -19,6 +19,6 @@ Au niveau 6, lorsque vous utilisez votre réaction pour réaliser une attaque, v
 
 Au niveau 10, vous pouvez entonner des vers calmants pour charmer, libérer et protéger ceux autour de vous. Vous pouvez lancer les sorts [[apaisement des émotions]], [[discours captivant]] et [[sanctuaire]] une fois chacun, sans dépenser d'emplacement ou de composantes, et regagnez la capacité de le faire lorsque vous terminez un repos long. Vous pouvez lancer ces sorts lorsque vous êtes en rage. Votre DD de sauvegarde pour ces sorts est de 8 + votre bonus de maîtrise + votre modificateur de Constitution.
 
-## État Zen   
+## État Zen 
 
-Au niveau 14, lorsqu'une créature vous rate avec une attaque de mêlée, vous gagnez un bonus de +2 à votre Classe d'Armure, jusqu'à un bonus de +6. Ce bonus se réinitialise à 0 lorsque vous prenez des dégâts ou au début de votre tour.
+Au niveau 14, lorsqu'une créature vous rate avec une attaque de mêlée, vous gagnez un bonus de +2 à votre Classe d'Armure, jusqu'à un bonus de +6. Ce bonus se réinitialise à 0 lorsque vous subissez des dégâts ou au début de votre tour.

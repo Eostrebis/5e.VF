@@ -7,13 +7,13 @@ Votre tapisserie se manifeste comme un œil de fil vivant et d'intelligence arca
 
 Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vous pouvez lancer chacun de ces sorts une fois, et vous regagnez la capacité de le faire lorsque vous terminez un repos long.
 
-| Niveau | Sorts                            |
+| Niveau | Sorts |
 | ------ | -------------------------------- |
-| 3      | [[détection de la magie]]        |
-| 4      | [[vision dans le noir]]          |
-| 7      | [[communication avec les morts]] |
-| 10     | [[localisation de créature]]     |
-| 13     | [[lien télépathique]]            |
+| 3 | [[détection de la magie]] |
+| 4 | [[vision dans le noir]] |
+| 7 | [[communication avec les morts]] |
+| 10 | [[localisation de créature]] |
+| 13 | [[lien télépathique]] |
 
 ## Sang Frais
 
@@ -21,7 +21,7 @@ Au niveau 3, vous créez votre tapisserie et commencez à la nourrir de votre sa
 
 ## Paire Inarrêtable
 
-Au niveau 6, votre connexion à votre tapisserie vous permet de réaliser des exploits autrement impossibles. Vous obtenez un bonus à vos jets de caractéristique et sauvegarde de Force égal à votre Échelon de Tisserand, et lorsque vous utilisez votre action pour Courir, votre distance et hauteur de saut augmentent pour devenir égales à votre vitesse de marche.
+Au niveau 6, votre connexion à votre tapisserie vous permet de réaliser des exploits autrement impossibles. Vous obtenez un bonus à vos jets de caractéristique et sauvegarde de Force égal à votre Échelon de Tisserand, et lorsque vous utilisez votre action pour Foncer, votre distance et hauteur de saut augmentent pour devenir égales à votre vitesse de marche.
 
 ## Ne Pas Monter Tout Seul…
 

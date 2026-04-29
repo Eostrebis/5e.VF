@@ -5,17 +5,17 @@ Royaume des vagabonds, des marchants et des aventuriers, les dieux du domaine du
 
 **Sorts du Domaine du Voyage**
 
-| Niveau de Clerc | Sorts                                              |
+| Niveau de Clerc | Sorts |
 | --------------- | -------------------------------------------------- |
-| 1               | [[Feuille Morte]], [[grandes foulées]]             |
-| 3               | [[Appel de destrier]], [[pas brumeux]]             |
-| 5               | [[Vol]], [[célérité]]                              |
-| 7               | [[Porte dimensionnelle]], [[Liberté de Mouvement]] |
-| 9               | [[Passe-muraille]], [[Cercle de Téléportation]]    |
+| 1 | [[Feuille Morte]], [[grandes foulées]] |
+| 3 | [[Appel de destrier]], [[pas brumeux]] |
+| 5 | [[Vol]], [[célérité]] |
+| 7 | [[Porte dimensionnelle]], [[Liberté de Mouvement]] |
+| 9 | [[Passe-muraille]], [[Cercle de Téléportation]] |
 
 ## Grand Voyageur
 
-Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quatre armes à distance ou avec la propriété _finesse_. De plus, vous apprenez deux langues de votre choix.
+Lorsque vous choisissez ce domaine au niveau 1, vous gagnez la maîtrise de quatre armes à distance ou avec la propriété *finesse*. De plus, vous apprenez deux langues de votre choix.
 
 ## Balade
 
@@ -29,7 +29,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Expédition Étrangère
 
-Au niveau 6, en voyageant, vous et jusqu'à 10 créatures voyageant avec vous vous déplacez avec une facilité surnaturelle. Vous voyagez toujours à un rythme soutenu et ignorez les délais causés par du terrain difficile, la météo ou d'autres obstacles non magiques. Vous ignorez de la même façon les dangers provoqués par les voyages vers d'autres plans. De plus, vous pouvez voyager pour 12 heures plutôt que 8 avant de devoir réaliser un jet de sauvegarde Constitution de marche forcée.
+Au niveau 6, en voyageant, vous et jusqu'à 10 créatures voyageant avec vous vous déplacez avec une facilité surnaturelle. Vous voyagez toujours à un rythme soutenu et ignorez les délais causés par du terrain difficile, la météo ou d'autres obstacles non magiques. Vous ignorez de la même façon les dangers provoqués par les voyages vers d'autres plans. De plus, vous pouvez voyager pendant 12 heures plutôt que 8 avant de devoir effectuer un jet de sauvegarde Constitution de marche forcée.
 
 Enfin, vous n'êtes pas concerné par le terrain difficile.
 

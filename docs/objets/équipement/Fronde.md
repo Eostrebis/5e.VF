@@ -5,6 +5,6 @@ poids:
 englishname: Sling
 writing_status: finished
 ---
-| Dégâts          | Propriétés        |
+| Dégâts | Propriétés |
 | --------------- | ----------------- |
 | 1d4 contondants | Munition (30/120) |
