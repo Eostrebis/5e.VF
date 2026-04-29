@@ -16,7 +16,7 @@ Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, 
 ## Incantation : Cryomancie
 Tant que vous êtes lié à Elozahr, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :
 
-*2/jour chacun :* [[5e/docs/sorts/03/Tempête de Grêle]]
+*2/jour chacun :* [[docs/sorts/03/Tempête de Grêle]]
 *1/jour chacun :* [[Tempête de Glace]], [[cône de froid]]
 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

@@ -2,7 +2,7 @@
 writing_status: finished
 ---
 
-Les niveaux auxiliaires, ou niveaux secondaires, sont des classes au niveau unique représentant certains choix ou compétences d'un personnage, et peuvent être liés à un évènement scénaristique. Par exemple, si un guerrier passe un temps mort dans une grande ville à travailler comme homme de main pour une guilde de voleurs, il pourrait choisir de prendre le niveau auxiliaire [[Voyou]] à sa prochaine montée de niveau. Ou, si l'esprit du personnage est envahi par une abomination ou qu'il aperçoit la véritable forme des Grands Anciens, il pourrait prendre le niveau auxiliaire [[5e/docs/auxiliaires/cultiste|Cultiste]].
+Les niveaux auxiliaires, ou niveaux secondaires, sont des classes au niveau unique représentant certains choix ou compétences d'un personnage, et peuvent être liés à un évènement scénaristique. Par exemple, si un guerrier passe un temps mort dans une grande ville à travailler comme homme de main pour une guilde de voleurs, il pourrait choisir de prendre le niveau auxiliaire [[Voyou]] à sa prochaine montée de niveau. Ou, si l'esprit du personnage est envahi par une abomination ou qu'il aperçoit la véritable forme des Grands Anciens, il pourrait prendre le niveau auxiliaire [[docs/auxiliaires/cultiste|Cultiste]].
 
 ## Utilisation des Niveaux Auxiliaires
 
@@ -18,18 +18,18 @@ Un niveau auxiliaire spécifie s'il vous confère des maîtrises ou langues lors
 
 ## Liste de Niveaux Auxiliaires
 
-| Niveau Auxiliaire | Niveau Prérequis | Incantation | Prérequis Narratif |
-| ------------------------------------------ | :--------------: | :---------: | :------------------------------------------------------: |
-| [[Acolyte Draconique]] | :x: | :x: | Allié avec un dragon ou un aspect d'un dieu dragon |
-| [[Bouffon]] | :x: | :x: | :x: |
-| [[Coursier]] | :x: | :x: | A été employé comme coursier, messager, contrebandier... |
-| [[5e/docs/auxiliaires/Cultiste\|Cultiste]] | :x: | :x: | A rejoint un culte ou possède au moins un trait de Folie |
-| [[5e/docs/auxiliaires/Expert\|Expert]] | :x: | :x: | :x: |
-| [[Gardien de Relique]] | :x: | :x: | :x: |
-| [[Incanteur Clandestin]] | :x: | ✔ | :x: |
-| [[Magicien Buissonnier]] | :x: | ✔ | :x: |
-| [[Maître Animalier]] | 3 | ❌ | :x: |
-| [[Mercenaire]] | :x: | :x: | A complété au moins un contrat de mercenariat |
-| [[Prêtre]] | :x: | :x: | Ordonné par une foi |
-| [[Pugiliste]] | :x: | :x: | :x: |
-| [[Voyou]] | :x: | :x: | Membre d'une organisation criminelle |
+| Niveau Auxiliaire                       | Niveau Prérequis | Incantation |                    Prérequis Narratif                    |
+| --------------------------------------- | :--------------: | :---------: | :------------------------------------------------------: |
+| [[Acolyte Draconique]]                  |       :x:        |     :x:     |    Allié avec un dragon ou un aspect d'un dieu dragon    |
+| [[Bouffon]]                             |       :x:        |     :x:     |                           :x:                            |
+| [[Coursier]]                            |       :x:        |     :x:     | A été employé comme coursier, messager, contrebandier... |
+| [[docs/auxiliaires/Cultiste\|Cultiste]] |       :x:        |     :x:     | A rejoint un culte ou possède au moins un trait de Folie |
+| [[docs/auxiliaires/Expert\|Expert]]     |       :x:        |     :x:     |                           :x:                            |
+| [[Gardien de Relique]]                  |       :x:        |     :x:     |                           :x:                            |
+| [[Incanteur Clandestin]]                |       :x:        |      ✔      |                           :x:                            |
+| [[Magicien Buissonnier]]                |       :x:        |      ✔      |                           :x:                            |
+| [[Maître Animalier]]                    |        3         |      ❌      |                           :x:                            |
+| [[Mercenaire]]                          |       :x:        |     :x:     |      A complété au moins un contrat de mercenariat       |
+| [[Prêtre]]                              |       :x:        |     :x:     |                   Ordonné par une foi                    |
+| [[Pugiliste]]                           |       :x:        |     :x:     |                           :x:                            |
+| [[Voyou]]                               |       :x:        |     :x:     |           Membre d'une organisation criminelle           |

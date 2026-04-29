@@ -13,7 +13,7 @@ def analyser_dossier(chemin_dossier):
 	dossier = Path(chemin_dossier)
 
 	# 2. Chercher tous les fichiers .md et .txt (même cachés dans des sous-dossiers)
-	fichiers_trouves = list(dossier.rglob('*.md')) + list(dossier.rglob('*.txt'))
+	fichiers_trouves = list(dossier.rglob('*.md'))
 
 	print(f"-> {len(fichiers_trouves)} fichiers trouvés. Début de la lecture...")
 
