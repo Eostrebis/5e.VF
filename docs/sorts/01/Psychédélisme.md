@@ -1,9 +1,9 @@
 ---
 available:
-  - Ranger
-  - Druide
-  - Barde
-  - Sorcière
+ - Ranger
+ - Druide
+ - Barde
+ - Sorcière
 level: 1
 school: Illusion
 Verbal: true

@@ -6,5 +6,5 @@ englishname: Light Crossbow
 writing_status: finished
 ---
 
-| Dé                    |
+| Dé |
 | ----------| ------------------------ | -------------- |-- perforantrpperforanttant unition (80/320), Chargement, À deux mains |

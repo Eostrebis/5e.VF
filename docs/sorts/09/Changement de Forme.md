@@ -1,7 +1,7 @@
 ---
 available:
-  - Druide
-  - Magicien
+ - Druide
+ - Magicien
 level: 9
 school: Transmutation
 Verbal: true

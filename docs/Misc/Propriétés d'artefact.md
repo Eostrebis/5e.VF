@@ -19,17 +19,17 @@ writing_status: empty
 
 ## Propriétés bénéfiques majeures
 
-| d100 | Propriété                                                                                                                                                                                                                                |
+| d100 | Propriété |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-20 | Tant que vous êtes lié à cet artefact, une de vos caractéristiques (au choix du MJ) augmente de 2, pour un maximum de 24                                                                                                                 |
-| 21-30 | Tant que vous êtes lié à cet artefact, vous regagnez 1d6 points de vie au début de votre tour si vous avez au moins 1 point de vie                                                                                                       |
-| 31-40 | Tant que vous êtes lié à cet artefact, lorsque vous touchez avec une attaque armée, la cible subit 1d6 dégâts supplémentaires                                                                                                            |
-| 41-50 | Tant que vous êtes lié à cet artefact, votre vitesse de marche augmente de 10 ft.                                                                                                                                                        |
+| 01-20 | Tant que vous êtes lié à cet artefact, une de vos caractéristiques (au choix du MJ) augmente de 2, pour un maximum de 24 |
+| 21-30 | Tant que vous êtes lié à cet artefact, vous regagnez 1d6 points de vie au début de votre tour si vous avez au moins 1 point de vie |
+| 31-40 | Tant que vous êtes lié à cet artefact, lorsque vous touchez avec une attaque armée, la cible subit 1d6 dégâts supplémentaires |
+| 41-50 | Tant que vous êtes lié à cet artefact, votre vitesse de marche augmente de 10 ft. |
 | 51-60 | Tant que vous êtes lié à cet artefact, vous pouvez utiliser votre action pour lancer un sort de niveau 4 (choisi par le MJ). Après avoir lancé le sort, lancez un d6. Sur un 1-5, vous ne pouvez pas le relancer avant la prochaine aube |
-| 61-70 | Comme 51-60, mais le sort est de niveau 5                                                                                                                                                                                                |
-| 71-80 | Comme 51-60, mais le sort est de niveau 6                                                                                                                                                                                                |
-| 81-90 | Comme 51-60, mais le sort est de niveau 7                                                                                                                                                                                                |
-| 91-00 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[charmé]], [[assourdi]], [[pétrifié]] ou [[apeuré]]                                                                                                                      |
+| 61-70 | Comme 51-60, mais le sort est de niveau 5 |
+| 71-80 | Comme 51-60, mais le sort est de niveau 6 |
+| 81-90 | Comme 51-60, mais le sort est de niveau 7 |
+| 91-00 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[charmé]], [[assourdi]], [[pétrifié]] ou [[apeuré]] |
 
 ## Propriétés néfastes mineurs
 

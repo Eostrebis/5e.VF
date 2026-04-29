@@ -1,9 +1,9 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Occultiste
-  - Magicien
+ - Sorcière
+ - Barde
+ - Occultiste
+ - Magicien
 level: 3
 school: Enchantement
 Verbal: true

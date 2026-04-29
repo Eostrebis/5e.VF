@@ -1,10 +1,10 @@
 ---
 available:
-  - Paladin
-  - Clerc
-  - Magicien
-  - Ensorceleur
-  - Martyr
+ - Paladin
+ - Clerc
+ - Magicien
+ - Ensorceleur
+ - Martyr
 level: 2
 school: Abjuration
 Verbal: true

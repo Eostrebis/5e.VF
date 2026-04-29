@@ -6,6 +6,6 @@ englishname: Shortsword
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés |
+| Dégâts | Propriétés |
 | -------------- | -------------- |
 | 1d6 perforants | Finesse, Léger |

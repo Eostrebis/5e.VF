@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Sorcière
-  - Nécromancien
-  - Investigateur
+ - Magicien
+ - Sorcière
+ - Nécromancien
+ - Investigateur
 level: 3
 school: Nécromancie
 Verbal: true

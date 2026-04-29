@@ -1,11 +1,11 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Illusion
 Verbal: true

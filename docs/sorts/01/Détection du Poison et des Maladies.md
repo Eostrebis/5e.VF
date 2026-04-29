@@ -1,11 +1,11 @@
 ---
 available:
-  - Clerc
-  - Paladin
-  - Druide
-  - Ranger
-  - Investigateur
-  - Martyr
+ - Clerc
+ - Paladin
+ - Druide
+ - Ranger
+ - Investigateur
+ - Martyr
 level: 1
 school: Divination
 Verbal: true

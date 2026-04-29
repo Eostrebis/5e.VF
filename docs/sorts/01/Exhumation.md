@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Clerc
-  - Nécromancien
+ - Magicien
+ - Clerc
+ - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true

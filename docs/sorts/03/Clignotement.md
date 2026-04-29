@@ -1,8 +1,8 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Artificier
+ - Ensorceleur
+ - Magicien
+ - Artificier
 level: 3
 school: Transmutation
 Verbal: true

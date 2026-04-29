@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Paladin
-  - Magicien
-  - Artificier
+ - Investigateur
+ - Paladin
+ - Magicien
+ - Artificier
 level: 2
 school: Transmutation
 Verbal: true

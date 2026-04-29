@@ -1,7 +1,7 @@
 ---
 available:
-  - Investigateur
-  - Magicien
+ - Investigateur
+ - Magicien
 level: 2
 school: Illusion
 Verbal: true

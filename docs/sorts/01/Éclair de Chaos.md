@@ -1,6 +1,6 @@
 ---
 available:
-  - Ensorceleur
+ - Ensorceleur
 level: 1
 school: Évocation
 Verbal: true

@@ -1,11 +1,11 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Ensorceleur
-  - Occultiste
-  - Artificier
-  - Magicien
+ - Nécromancien
+ - Sorcière
+ - Ensorceleur
+ - Occultiste
+ - Artificier
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true

@@ -1,8 +1,8 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Nécromancien
+ - Barde
+ - Ensorceleur
+ - Nécromancien
 level: 4
 school: Illusion
 Verbal: true

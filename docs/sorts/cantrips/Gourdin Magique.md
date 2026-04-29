@@ -1,6 +1,6 @@
 ---
 available:
-  - Druide
+ - Druide
 level: 0
 school: Transmutation
 Verbal: true

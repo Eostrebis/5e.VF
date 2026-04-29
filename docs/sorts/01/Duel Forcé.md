@@ -1,7 +1,7 @@
 ---
 available:
-  - Paladin
-  - Martyr
+ - Paladin
+ - Martyr
 level: 1
 school: Enchantement
 Verbal: true

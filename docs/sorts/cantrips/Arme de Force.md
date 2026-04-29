@@ -1,6 +1,6 @@
 ---
 available:
-  - Mage de Guerre
+ - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true

@@ -6,5 +6,5 @@ englishname: Crossbow, Hand
 writing_status: finished
 ---
 
-|                  étés |
+| étés |
 | ------| ---------------------- | -------------- |-- perforantrperforantant Munition (30/120), Léger, Chargement |

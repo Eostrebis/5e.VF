@@ -6,6 +6,6 @@ englishname: Trident
 writing_status: finished
 ---
 
-| Dégâts | P            |
+| Dégâts | P |
 | ----------| ---------------- | -------------- ||
- 1d6 pperforantts  Jet (20/60), Polyvalent (1d8) |
+ 1d6 pperforantts Jet (20/60), Polyvalent (1d8) |

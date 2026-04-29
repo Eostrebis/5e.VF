@@ -1,10 +1,10 @@
 ---
 available:
-  - Ranger
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Sorcière
+ - Ranger
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Sorcière
 level: 3
 school: Transmutation
 Verbal: true

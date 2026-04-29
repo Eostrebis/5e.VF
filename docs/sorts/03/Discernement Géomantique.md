@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Ranger
-  - Druide
-  - Investigateur
+ - Magicien
+ - Ranger
+ - Druide
+ - Investigateur
 level: 3
 school: Divination
 Verbal: true

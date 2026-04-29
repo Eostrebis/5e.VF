@@ -6,5 +6,5 @@ englishname: Longbow
 writing_status: finished
 ---
 
-| Dégâts                |
-| -----------| -------------------- | -------------- |-- perforantrfperforant  | Munition (150/600), Lourde, À deux mains |
+| Dégâts |
+| -----------| -------------------- | -------------- |-- perforantrfperforant | Munition (150/600), Lourde, À deux mains |

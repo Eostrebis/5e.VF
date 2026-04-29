@@ -1,16 +1,16 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Paladin
-  - Ensorceleur
-  - Magicien
-  - Occultiste
-  - Artificier
-  - Sorcière
-  - Nécromancien
-  - Martyr
+ - Barde
+ - Clerc
+ - Druide
+ - Paladin
+ - Ensorceleur
+ - Magicien
+ - Occultiste
+ - Artificier
+ - Sorcière
+ - Nécromancien
+ - Martyr
 level: 3
 school: Abjuration
 Verbal: true

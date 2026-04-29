@@ -6,5 +6,5 @@ englishname: Blowgun
 writing_status: finished
 ---
 
-| Dégâts              s |
+| Dégâts s |
 | ---------| ------------------ | -------------- | 1 perforantrforantts on (25/100), Chargement |

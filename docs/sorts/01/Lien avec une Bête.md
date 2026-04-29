@@ -1,9 +1,9 @@
 ---
 available:
-  - Druide
-  - Ranger
-  - Investigateur
-  - Sorcière
+ - Druide
+ - Ranger
+ - Investigateur
+ - Sorcière
 level: 1
 school: Divination
 Verbal: true

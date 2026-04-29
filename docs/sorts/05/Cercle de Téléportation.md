@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Nécromancien
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Nécromancien
 level: 5
 school: Conjuration
 Verbal: true

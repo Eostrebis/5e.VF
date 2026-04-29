@@ -1,9 +1,9 @@
 ---
 available:
-  - Artificier
-  - Barde
-  - Magicien
-  - Investigateur
+ - Artificier
+ - Barde
+ - Magicien
+ - Investigateur
 level: 2
 school: Illusion
 Verbal: true

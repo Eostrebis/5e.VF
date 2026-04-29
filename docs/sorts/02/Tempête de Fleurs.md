@@ -1,7 +1,7 @@
 ---
 available:
-  - Druide
-  - Sorcière
+ - Druide
+ - Sorcière
 level: 2
 school: Conjuration
 Verbal: true

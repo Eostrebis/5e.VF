@@ -1,12 +1,12 @@
 ---
 available:
-  - Mage de Guerre
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Occultiste
-  - Magicien
+ - Mage de Guerre
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Occultiste
+ - Magicien
 level: 0
 school: Divination
 Verbal: false

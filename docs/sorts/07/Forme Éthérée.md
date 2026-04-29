@@ -1,12 +1,12 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Clerc
-  - Ensorceleur
-  - Magicien
-  - Occultiste
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Clerc
+ - Ensorceleur
+ - Magicien
+ - Occultiste
 level: 7
 school: Transmutation
 Verbal: true

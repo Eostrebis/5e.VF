@@ -1,12 +1,12 @@
 ---
 available:
-  - Investigateur
-  - Martyr
-  - Nécromancien
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Martyr
+ - Nécromancien
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Transmutation
 Verbal: true

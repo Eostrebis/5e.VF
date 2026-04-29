@@ -1,7 +1,7 @@
 ---
 available:
-  - Paladin
-  - Ranger
+ - Paladin
+ - Ranger
 level: 1
 school: Évocation
 Verbal: true

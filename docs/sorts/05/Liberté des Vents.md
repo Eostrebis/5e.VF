@@ -1,9 +1,9 @@
 ---
 available:
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Sorcière
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Sorcière
 level: 5
 school: Abjuration
 Verbal: true

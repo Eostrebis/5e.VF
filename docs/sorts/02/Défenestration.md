@@ -1,6 +1,6 @@
 ---
 available:
-  - Barde
+ - Barde
 level: 2
 school: Évocation
 Verbal: true

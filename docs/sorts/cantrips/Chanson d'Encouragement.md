@@ -1,13 +1,13 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Sorcière
-  - Nécromancien
+ - Barde
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Sorcière
+ - Nécromancien
 level: 0
 school: Enchantement
 Verbal: true

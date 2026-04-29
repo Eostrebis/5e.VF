@@ -1,9 +1,9 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Druide
-  - Artificier
+ - Sorcière
+ - Barde
+ - Druide
+ - Artificier
 level: 1
 school: Évocation
 Verbal: true

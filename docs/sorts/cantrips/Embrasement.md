@@ -1,12 +1,12 @@
 ---
 available:
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Artificier
-  - Mage de Guerre
-  - Sorcière
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Artificier
+ - Mage de Guerre
+ - Sorcière
 level: 0
 school: Conjuration
 Verbal: true

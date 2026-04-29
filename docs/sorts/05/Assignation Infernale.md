@@ -1,7 +1,7 @@
 ---
 available:
-  - Occultiste
-  - Magicien
+ - Occultiste
+ - Magicien
 level: 5
 school: Conjuration
 Verbal: true

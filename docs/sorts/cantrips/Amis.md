@@ -1,11 +1,11 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Mage de Guerre
-  - Sorcière
+ - Barde
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Mage de Guerre
+ - Sorcière
 level: 0
 school: Enchantement
 Verbal: false

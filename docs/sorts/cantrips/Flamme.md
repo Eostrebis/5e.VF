@@ -1,8 +1,8 @@
 ---
 available:
-  - Druide
-  - Sorcière
-  - Mage de Guerre
+ - Druide
+ - Sorcière
+ - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: true

@@ -1,8 +1,8 @@
 ---
 available:
-  - Sorcière
-  - Ensorceleur
-  - Magicien
+ - Sorcière
+ - Ensorceleur
+ - Magicien
 level: 0
 school: Conjuration
 Verbal: true

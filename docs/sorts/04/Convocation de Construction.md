@@ -1,7 +1,7 @@
 ---
 available:
-  - Artificier
-  - Magicien
+ - Artificier
+ - Magicien
 level: 4
 school: Conjuration
 Verbal: true

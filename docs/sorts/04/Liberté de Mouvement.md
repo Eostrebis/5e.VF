@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Ranger
-  - Artificier
+ - Barde
+ - Clerc
+ - Druide
+ - Ranger
+ - Artificier
 level: 4
 school: Abjuration
 Verbal: true

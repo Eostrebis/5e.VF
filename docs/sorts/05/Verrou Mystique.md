@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Nécromancien
+ - Magicien
+ - Nécromancien
 level: 5
 school: Abjuration
 Verbal: true

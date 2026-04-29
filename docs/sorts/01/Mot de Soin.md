@@ -1,8 +1,8 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
+ - Barde
+ - Clerc
+ - Druide
 level: 1
 school: Évocation
 Verbal: true

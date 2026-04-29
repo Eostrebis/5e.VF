@@ -1,10 +1,10 @@
 ---
 available:
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Nécromancien
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true

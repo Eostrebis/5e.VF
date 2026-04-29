@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Mage de Guerre
-  - Nécromancien
+ - Magicien
+ - Mage de Guerre
+ - Nécromancien
 level: 0
 school: Enchantement
 Verbal: false

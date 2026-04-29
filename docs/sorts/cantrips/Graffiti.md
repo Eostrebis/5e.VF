@@ -1,8 +1,8 @@
 ---
 available:
-  - Barde
-  - Magicien
-  - Ensorceleur
+ - Barde
+ - Magicien
+ - Ensorceleur
 level: 0
 school: Illusion
 Verbal: false

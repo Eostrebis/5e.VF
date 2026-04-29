@@ -1,11 +1,11 @@
 ---
 available:
-  - Artificier
-  - Magicien
-  - Ensorceleur
-  - Barde
-  - Sorcière
-  - Mage de Guerre
+ - Artificier
+ - Magicien
+ - Ensorceleur
+ - Barde
+ - Sorcière
+ - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: true

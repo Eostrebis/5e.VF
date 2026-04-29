@@ -1,11 +1,11 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Mage de Guerre
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Mage de Guerre
 level: 0
 school: Illusion
 Verbal: false

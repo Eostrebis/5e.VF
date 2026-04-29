@@ -1,9 +1,9 @@
 ---
 available:
-  - Clerc
-  - Paladin
-  - Martyr
-  - Nécromancien
+ - Clerc
+ - Paladin
+ - Martyr
+ - Nécromancien
 level: 1
 school: Enchantement
 Verbal: true

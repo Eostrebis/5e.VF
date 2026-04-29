@@ -1,9 +1,9 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Magicien
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Magicien
 level: 6
 school: Enchantement
 Verbal: true

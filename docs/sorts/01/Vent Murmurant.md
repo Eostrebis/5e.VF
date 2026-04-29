@@ -1,11 +1,11 @@
 ---
 available:
-  - Investigateur
-  - Sorcière
-  - Barde
-  - Clerc
-  - Druide
-  - Magicien
+ - Investigateur
+ - Sorcière
+ - Barde
+ - Clerc
+ - Druide
+ - Magicien
 level: 1
 school: Évocation
 Verbal: true

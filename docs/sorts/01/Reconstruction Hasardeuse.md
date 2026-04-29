@@ -1,9 +1,9 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Occultiste
-  - Magicien
+ - Nécromancien
+ - Sorcière
+ - Occultiste
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true

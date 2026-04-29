@@ -1,11 +1,11 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Nécromancien
-  - Sorcière
-  - Mage de Guerre
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Nécromancien
+ - Sorcière
+ - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: true

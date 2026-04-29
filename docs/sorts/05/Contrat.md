@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Magicien
-  - Sorcière
+ - Barde
+ - Clerc
+ - Druide
+ - Magicien
+ - Sorcière
 level: 5
 school: Abjuration
 Verbal: true

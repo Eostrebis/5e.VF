@@ -1,8 +1,8 @@
 ---
 available:
-  - Artificier
-  - Mage de Guerre
-  - Druide
+ - Artificier
+ - Mage de Guerre
+ - Druide
 level: 0
 school: Transmutation
 Verbal: true

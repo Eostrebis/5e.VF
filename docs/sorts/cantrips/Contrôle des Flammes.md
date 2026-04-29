@@ -1,10 +1,10 @@
 ---
 available:
-  - Druide
-  - Ensorceleur
-  - Magicien
-  - Sorcière
-  - Mage de Guerre
+ - Druide
+ - Ensorceleur
+ - Magicien
+ - Sorcière
+ - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: false

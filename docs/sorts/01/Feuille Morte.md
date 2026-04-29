@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Artificier
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Artificier
 level: 1
 school: Transmutation
 Verbal: true

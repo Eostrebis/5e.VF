@@ -1,8 +1,8 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Occultiste
+ - Sorcière
+ - Barde
+ - Occultiste
 level: 8
 school: Transmutation
 Verbal: true

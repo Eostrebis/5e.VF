@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Sorcière
+ - Magicien
+ - Sorcière
 level: 4
 school: Conjuration
 Verbal: true

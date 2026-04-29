@@ -1,7 +1,7 @@
 ---
 available:
-  - Clerc
-  - Martyr
+ - Clerc
+ - Martyr
 level: 1
 school: Évocation
 Verbal: true

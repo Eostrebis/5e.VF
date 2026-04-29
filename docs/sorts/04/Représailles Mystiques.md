@@ -1,7 +1,7 @@
 ---
 available:
-  - Occultiste
-  - Paladin
+ - Occultiste
+ - Paladin
 level: 4
 school: Abjuration
 Verbal: true

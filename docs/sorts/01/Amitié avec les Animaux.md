@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Druide
-  - Ranger
-  - Sorcière
+ - Barde
+ - Druide
+ - Ranger
+ - Sorcière
 level: 1
 school: Enchantement
 Verbal: true

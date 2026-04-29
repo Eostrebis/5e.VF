@@ -1,9 +1,9 @@
 ---
 available:
-  - Sorcière
-  - Clerc
-  - Druide
-  - Artificier
+ - Sorcière
+ - Clerc
+ - Druide
+ - Artificier
 level: 0
 school: Abjuration
 Verbal: true

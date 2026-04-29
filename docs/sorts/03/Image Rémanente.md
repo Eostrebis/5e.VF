@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Ranger
-  - Ensorceleur
-  - Magicien
-  - Occultiste
+ - Investigateur
+ - Ranger
+ - Ensorceleur
+ - Magicien
+ - Occultiste
 level: 3
 school: Illusion
 Verbal: true

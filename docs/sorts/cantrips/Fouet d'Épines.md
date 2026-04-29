@@ -1,8 +1,8 @@
 ---
 available:
-  - Sorcière
-  - Artificier
-  - Druide
+ - Sorcière
+ - Artificier
+ - Druide
 level: 0
 school: Transmutation
 Verbal: true

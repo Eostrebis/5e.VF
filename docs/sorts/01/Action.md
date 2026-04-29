@@ -1,10 +1,10 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Paladin
-  - Ensorceleur
-  - Magicien
+ - Sorcière
+ - Barde
+ - Paladin
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -19,6 +19,6 @@ Rituel: false
 englishname: Action
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 ---
 Choisissez une créature consentante que vous pouvez voir à portée. Pendant son prochain tour, la cible gagne une action supplémentaire. Cette action ne peut être entreprise que sous la forme de l'action de Foncer, de Désengagement, de Se Cacher, d'Utilisation d'un Objet ou d'Attaque (une attaque armée seulement).

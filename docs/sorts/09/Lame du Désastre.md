@@ -1,8 +1,8 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Occultiste
+ - Ensorceleur
+ - Magicien
+ - Occultiste
 level: 9
 school: Conjuration
 Verbal: true

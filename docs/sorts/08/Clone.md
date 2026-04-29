@@ -1,7 +1,7 @@
 ---
 available:
-  - Nécromancien
-  - Magicien
+ - Nécromancien
+ - Magicien
 level: 8
 school: Nécromancie
 Verbal: true

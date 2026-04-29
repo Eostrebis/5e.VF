@@ -1,6 +1,6 @@
 ---
 available:
-  - Ranger
+ - Ranger
 level: 1
 school: Conjuration
 Verbal: true
