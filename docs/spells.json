@@ -8097,6 +8097,29 @@
         "description": "En tant que réaction lorsqu'une créature que vous pouvez voir à 60 ft. réussit un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez la distraire magiquement et transformer ce doute temporaire en encouragement pour une autre créature. La créature qui a déclenché la réaction doit relancer le d20 et utiliser le plus petit des deux résultats.\n\nVous pouvez ensuite choisir une autre créature que vous pouvez voir à portée (vous y compris). La créature choisie a l'avantage sur son prochain jet d'attaque, de caractéristique ou de sauvegarde qu'elle effectue dans la prochaine minute. Une créature ne peut bénéficier que d'une seule utilisation de ce sort à la fois.\n",
         "path": "01/Railleries Argentées"
     },
+    "Grandes Foulées": {
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une pincée de terre",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Longstrider",
+        "writing_status": "finished",
+        "available": [
+            "Barde",
+            "Druide",
+            "Ranger",
+            "Magicien"
+        ],
+        "description": "Vous touchez une créature. La vitesse de la cible est augmentée de 10 ft. jusqu'à ce que le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.\n",
+        "path": "01/Grandes Foulées"
+    },
     "Châtiment Calcinant": {
         "level": "1",
         "school": "Évocation",
@@ -9153,6 +9176,32 @@
         ],
         "description": "Pendant la durée du sort, vous pouvez ressentir la présence de poisons, de créatures venimeuses ou de maladies à 30 ft. de vous. Vous pouvez également identifier le type de poison, de créature ou de maladie dans chaque cas.\n\nLe sort peut pénétrer la plupart des surfaces, mais est bloqué par 1 ft. de pierre, quelques centimètres de métal, une fine plaque de plomb ou 3 ft. de terre ou de bois.\n\n",
         "path": "01/Détection du Poison et des Maladies"
+    },
+    "Protection contre le Mal et le Bien": {
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "De l'eau bénite ou de la poudre d'argent et de fer, que le sort consomme",
+        "Duree": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Protection from Evil and Good",
+        "writing_status": "finished",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien",
+            "Martyr"
+        ],
+        "description": "Jusqu'à ce que le sort se termine, une créature consentante que vous touchez est protégée contre certains types de créatures : Aberrations, Célestes, Élémentaires, Fée, Fiélons et Morts-Vivants.\n\nCette protection confère plusieurs effets. Les créatures de ces types obtiennent le désavantage pour leurs jets d'attaque contre la cible. La cible ne peut pas être [[charmé|charmée]], [[apeuré|apeurée]] ou possédée par ces créatures. Si la cible est déjà sous le coup de l'une de ces conditions, elle a l'avantage aux jets de sauvegarde qu'elle effectuerait pour y mettre fin.\n",
+        "path": "01/Protection contre le Mal et le Bien"
     },
     "Doigts de Givre": {
         "level": "1",
