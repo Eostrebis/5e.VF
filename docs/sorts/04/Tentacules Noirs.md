@@ -1,7 +1,7 @@
 ---
 available:
- - Magicien
- - Sorcière
+  - Magicien
+  - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -14,7 +14,7 @@ Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Black Tentacles
-writing_status: empty
+writing_status: finished
 ---
 De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. pendant la durée du sort, ces tentacules rendent le terrain difficile.
 

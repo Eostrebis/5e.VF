@@ -1,8 +1,8 @@
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true

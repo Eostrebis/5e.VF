@@ -1,8 +1,8 @@
 ---
 available:
- - Investigateur
- - Barde
- - Magicien
+  - Investigateur
+  - Barde
+  - Magicien
 level: 6
 school: Enchantement
 Verbal: true
@@ -15,7 +15,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Game of Fate
-writing_status: empty
+writing_status: finished
 ---
 Vous forcez magiquement une créature à portée à participer à un jeu aux conséquences vitales. Si la créature que vous choisissez a une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée. Une créature non consentante peut effectuer un jet de sauvegarde de Sagesse pour résister à cet effet. En cas d'échec, la créature se sent forcée à participer à votre jeu. Si la cible subit des dégâts ou tombe [[inconscient|inconsciente]], le sort prend fin.
 

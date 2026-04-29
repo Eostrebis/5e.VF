@@ -196,7 +196,7 @@ Pour une action, vous pouvez dépenser 2 points de ki et lancer un dé d'Arts Ma
 
 ## Frappe Étourdissante
 
-À compter du niveau 5, vous pouvez déranger la circulation du ki dans le corps d'un adversaire. Lorsque vous touchez une créature avec une attaque d'arme de mêlée, vous pouvez dépenser 1 point de ki pour tenter une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou être [[sonné|sonnée]] jusqu'à la fin de votre prochain tour.
+À compter du niveau 5, vous pouvez déranger la circulation du ki dans le corps d'un adversaire. Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez dépenser 1 point de ki pour tenter une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou être [[sonné|sonnée]] jusqu'à la fin de votre prochain tour.
 
 ## Focus (Opt.)
 

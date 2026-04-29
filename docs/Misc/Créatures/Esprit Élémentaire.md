@@ -10,7 +10,7 @@
 | 18 (+4) | 15 (+2) | 17 (+3) | 4 (-3) | 10 (+0) | 16 (+3) |
 
 *_*
-**Résistances aux dégâts** acide (Eau seulement) ; foudre et tonnerre (Air seulement) ; perçant et tranchant (Terre seulement) 
+**Résistances aux dégâts** acide (Eau seulement) ; foudre et tonnerre (Air seulement) ; perforant et tranchant (Terre seulement) 
 **Immunités aux dégâts** poison ; feu (Feu seulement) 
 **Immunités aux états** épuisement, apeuré, paralysé, pétrifié, empoisonné, inconscient 
 **Sens** vision dans le noir 60 ft., Perception passive 10 

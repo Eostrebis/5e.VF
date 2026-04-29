@@ -7,7 +7,7 @@ Les artisans de la guilde des Piégeurs peuvent construire les pièges suivants 
 
 Vous chargez cet appareil compact, semblable à une baliste, dans un espace inoccupé à 5 ft. de vous et le dirigez dans la direction de votre choix. Le piège se déclenche lorsqu'une créature entre dans la ligne large de 5 ft. et longue de 30 ft. émanant de l'avant du piège. Lorsqu'elle se déclenche, la baliste tire automatiquement, réalisant une attaque à distance contre la créature.
 
-Le jet d'attaque utilise votre modificateur d'Intelligence et votre bonus de maîtrise. Si elle touche, la cible subit 2d8 dégâts perçants.
+Le jet d'attaque utilise votre modificateur d'Intelligence et votre bonus de maîtrise. Si elle touche, la cible subit 2d8 dégâts perforants.
 
 ### Piège à Homme
 
@@ -15,7 +15,7 @@ Vous attachez ce piège de chasse beaucoup trop grand au sol dans un espace inoc
 
 ### Fil de Rasoir
 
-Vous déployez un enchevêtrement de fils tranchants comme des rasoirs dans un maximum de quatre zones inoccupés contigües de 5 ft². que vous choisissez dans un rayon de 10 ft. Chacune de ces zones devient du terrain difficile. Lorsqu'une créature se déplace dans ou l'intérieur de la zone, elle subit 2d4 dégâts perçants par 5 ft. qu'elle parcourt. Une fois déployé, le fil de rasoir ne peut être récupéré.
+Vous déployez un enchevêtrement de fils tranchants comme des rasoirs dans un maximum de quatre zones inoccupés contigües de 5 ft². que vous choisissez dans un rayon de 10 ft. Chacune de ces zones devient du terrain difficile. Lorsqu'une créature se déplace dans ou l'intérieur de la zone, elle subit 2d4 dégâts perforants par 5 ft. qu'elle parcourt. Une fois déployé, le fil de rasoir ne peut être récupéré.
 
 ### Bombe à Déclenchement
 

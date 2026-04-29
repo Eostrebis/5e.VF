@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 1
 school: Transmutation
 Verbal: true
@@ -16,6 +16,6 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Feather Fall
-writing_status: empty
+writing_status: finished
 ---
 Vous pouvez lancer ce sort lorsque vous ou une créature à 60 ft. de vous tombe. Choisissez jusqu'à cinq créatures en chute libre à portée. La vitesse de chute d'une telle créature passe à 60 ft. par tour jusqu'à ce que le sort se termine. Si la créature atterrit avant que le sort se termine, elle ne subit aucun dégât de chute et peut atterrir sur ses pieds, et le sort se termine pour cette créature.

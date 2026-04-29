@@ -169,7 +169,7 @@ Ce choix vous confère des aptitudes au niveau 3, puis aux niveaux 6, 13 et 20.
  
 ## Résolution du Gardien
 
-À partir du niveau 3, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous obtenez une résistance aux dégâts contondants, tranchants et perçants. 
+À partir du niveau 3, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous obtenez une résistance aux dégâts contondants, tranchants et perforants. 
 
 À partir du niveau 17, lorsque vos points de vie sont inférieurs à la moitié de vos points de vie maximum, vous obtenez une résistance à tous les dégâts sauf les dégâts psychiques.
 
@@ -265,7 +265,7 @@ Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tou
 ### Vigueur du Champion
 *Remplace la Résolution du Gardien*
 
-À partir du niveau 3, les dégâts contondants, perçants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
+À partir du niveau 3, les dégâts contondants, perforants et tranchants que vous recevez d'armes non magiques sont réduits de votre bonus de maîtrise.
 
 À partir du niveau 17, pour une réaction, vous pouvez réduire les dégâts que vous subissez d'un montant égal à votre niveau. Une fois que vous avez utilisé cette réaction, vous ne pouvez plus le faire avant d'avoir terminé un repos long.
 
@@ -290,7 +290,7 @@ Cette aptitude ne se cumule pas avec le sort [[marque du chasseur]].
 ### Résistance du Chasseur
 *Remplace la Résolution du Gardien*
 
-À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous subissez des dégâts contondants, perçants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir une résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
+À partir du niveau 3, vous avez un nombre de points de résistance égal à deux fois votre bonus de maîtrise. Pour une réaction lorsque vous subissez des dégâts contondants, perforants ou tranchants d'un effet que vous pouvez voir, vous pouvez dépenser un point de résistance pour obtenir une résistance contre ces dégâts. Vous récupérez les points de résistance dépensés lorsque vous terminez un repos.
 
 ## Gardien Anthropophage
 

@@ -15,7 +15,7 @@ Que des yeux et des becs de kraken fassent éruption sur leur visage et leurs me
 
 - Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus au jet de dégâts qui augmente à mesure que vous gagnez des niveaux de barbare, comme indiqué dans la colonne Dégâts de Rage de la table du Barbare.
 
-- Vous avez la vulnérabilité à tous les dégâts, excepté les dégâts perçants, tranchants, contondants et psychiques.
+- Vous avez la vulnérabilité à tous les dégâts, excepté les dégâts perforants, tranchants, contondants et psychiques.
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni les lancer ni vous concentrer dessus tant que vous subissez une Métamorphose Occulte.
 

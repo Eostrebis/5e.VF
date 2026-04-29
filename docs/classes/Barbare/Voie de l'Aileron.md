@@ -9,7 +9,7 @@ Des communautés tribales existent dans tous les royaumes, dans tous les types d
 
 ## Frénésie Alimentaire
 
-À la différence de leurs frères coincés sur terre, les barbares de l'aileron se transforment drastiquement lorsqu'ils entrent en rage. Au niveau 3, lorsque vous ragez, vous vous voyez pousser une rangée de dents incroyablement aiguisée et vous gagnez une attaque de morsure. Votre morsure est une attaque naturelle, que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d8 + votre modificateur de Force dégâts perçants.
+À la différence de leurs frères coincés sur terre, les barbares de l'aileron se transforment drastiquement lorsqu'ils entrent en rage. Au niveau 3, lorsque vous ragez, vous vous voyez pousser une rangée de dents incroyablement aiguisée et vous gagnez une attaque de morsure. Votre morsure est une attaque naturelle, que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d8 + votre modificateur de Force dégâts perforants.
 
 À partir du niveau 6, votre morsure est considérée magique vis-à-vis des résistances et immunités aux dégâts non magiques. 
 

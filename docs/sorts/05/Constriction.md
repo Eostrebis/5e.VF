@@ -1,10 +1,10 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Ranger
- - Magicien
- - Sorcière
+  - Druide
+  - Ensorceleur
+  - Ranger
+  - Magicien
+  - Sorcière
 level: 5
 school: Transmutation
 Verbal: true

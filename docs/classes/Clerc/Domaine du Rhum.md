@@ -36,6 +36,6 @@ Au niveau 6, vous avez appris à vous déplacer au moment où personne n'y fait 
 Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque armée, vous pouvez faire en sort que l'attaque inflige 1d8 dégâts supplémentaires à la cible, du même type que votre arme. Lorsque vous atteignez le niveau 14, ces dégâts supplémentaires passent à 2d8.
 
 ## Tournée Générale !
-Au niveau 17, vous pouvez faire appel au pouvoir des dieux pour apporter à vos alliés une tournée de shots. Pour une action, choisissez jusqu'à 6 créatures alliées que vous pouvez voir à 60 ft. Pendant la prochaine minute, vous ainsi que chaque créature que vous avez choisie avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme et pouvez soustraire votre modificateur de Sagesse à tous les dégâts contondants, perçants ou tranchants que vous subissez.
+Au niveau 17, vous pouvez faire appel au pouvoir des dieux pour apporter à vos alliés une tournée de shots. Pour une action, choisissez jusqu'à 6 créatures alliées que vous pouvez voir à 60 ft. Pendant la prochaine minute, vous ainsi que chaque créature que vous avez choisie avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme et pouvez soustraire votre modificateur de Sagesse à tous les dégâts contondants, perforants ou tranchants que vous subissez.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous ayez terminé un repos.

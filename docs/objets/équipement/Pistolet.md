@@ -9,4 +9,4 @@ writing_status: empty
 
 | Dégâts | Propriétés |
 | ------------ | -------------------------------------------- |
-| 2d6 perçants | Munitions (portée 60/240), Rechargement (10) |
+| 2d6 perforants | Munitions (portée 60/240), Rechargement (10) |

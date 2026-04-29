@@ -8,4 +8,4 @@ writing_status: empty
 
 | Dégâts | Propriétés |
 | ------------ | ---------------------------------------------------------------------------------- |
-| 2d6 perçants | Munitions (Portée 30/90), Lourd, Rechargement (10), Dispersion (2d8), À deux mains |
+| 2d6 perforants | Munitions (Portée 30/90), Lourd, Rechargement (10), Dispersion (2d8), À deux mains |

@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Évocation
 Verbal: true
@@ -14,7 +14,7 @@ Portee: 30 ft. (30 ft. en ligne)
 Concentration: false
 Rituel: false
 englishname: Aganazzar's Scorcher
-writing_status: empty
+writing_status: finished
 ---
 Une ligne de flammes rugissantes de 30 ft. de long et 5 ft. de large émane de vous dans une direction que vous choisissez. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 

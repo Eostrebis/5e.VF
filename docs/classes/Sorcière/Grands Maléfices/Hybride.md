@@ -5,7 +5,7 @@ Pour une action bonus, si votre familier se trouve à moins de 5 ft. de vous, vo
 
  - Vous gagnez un nombre de points de vie temporaires égal aux points de vie de votre familier.
  - Votre CA est égale à 10 + votre modificateur de Dextérité + votre modificateur de Charisme, tant que vous ne portez pas de bouclier.
- - Vous gagnez deux armes de mêlée naturelles, correspondant aux attaques de votre familier. Vous maîtrisez ces armes, et utiliser votre Charisme pour leurs jets d'attaque et de dégâts. Si vous touchez, ces attaques naturelles infligent 1d10 dégâts contondants, perçants ou tranchants (votre choix).
+ - Vous gagnez deux armes de mêlée naturelles, correspondant aux attaques de votre familier. Vous maîtrisez ces armes, et utiliser votre Charisme pour leurs jets d'attaque et de dégâts. Si vous touchez, ces attaques naturelles infligent 1d10 dégâts contondants, perforants ou tranchants (votre choix).
  - Vous pouvez attaquer deux fois plutôt qu'une lorsque vous utiliser votre action pour attaquer pendant votre tour.
  - Vous pouvez utiliser n'importe quelle action ou mouvement que votre familier possède.
 

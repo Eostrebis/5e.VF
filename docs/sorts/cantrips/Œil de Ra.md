@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Évocation
 Verbal: false
@@ -13,7 +13,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eye of Ra
-writing_status: empty
+writing_status: finished
 ---
 Un rayon radiant surgit de votre œil droit vers une créature que vous pouvez voir à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts radiants et ne peut utiliser son action pour se Cacher jusqu'à la fin de votre prochain tour.
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Évocation
 Verbal: true
@@ -14,9 +14,9 @@ Portee: Personnelle (rayon de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Burning Hands
-writing_status: empty
+writing_status: finished
 ---
-En tenant vos mains de telle sorte que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts de feu. En cas de réussite, elle ne subit que la moitié des dégâts.
+En joignant vos mains de manière à ce que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts de feu. En cas de réussite, elle ne subit que la moitié des dégâts.
 
 Le feu embrase tout objet inflammable dans la zone d'effet qui n'est pas porté.
 

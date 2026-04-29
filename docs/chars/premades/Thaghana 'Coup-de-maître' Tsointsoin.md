@@ -93,7 +93,7 @@ Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne po
 
 - Vous avez l'avantage aux jets et jets de sauvegarde de Force.
 - Lorsque vous réalisez une attaque armée de mêlée en utilisant la Force, vous gagnez un bonus aux dégâts en fonction de votre niveau de barbare, tel que renseigné dans la table.
-- Vous êtes résistant aux dégâts contondants, perçants et tranchants.
+- Vous êtes résistant aux dégâts contondants, perforants et tranchants.
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
 

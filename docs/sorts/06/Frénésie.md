@@ -1,9 +1,9 @@
 ---
 available:
- - Nécromancien
- - Sorcière
- - Barde
- - Magicien
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Magicien
 level: 6
 school: Enchantement
 Verbal: true
@@ -16,7 +16,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Frenzy
-writing_status: empty
+writing_status: finished
 ---
 En un geste, vous réduisez une foule à un état instinctif et violent. Choisissez un point que vous pouvez voir à portée. Chaque créature dans un rayon de 20 ft. autour de ce point doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est frénétique pendant la durée du sort. Lorsque une créature est frénétique, si elle a une arme de mêlée, elle la dégaine.
 

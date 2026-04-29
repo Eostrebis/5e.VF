@@ -8,4 +8,4 @@ writing_status: empty
 ---
 | Dégâts | Propriétés |
 | ------------ | ------------------------------------------------------------------------------------------- |
-| 2d8 perçants | Munitions (Portée 30/90), Sec, Lourd, Chargement, Incident, Dispersion (2d10), À deux mains |
+| 2d8 perforants | Munitions (Portée 30/90), Sec, Lourd, Chargement, Incident, Dispersion (2d10), À deux mains |

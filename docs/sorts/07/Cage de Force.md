@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Occultiste
- - Magicien
+  - Barde
+  - Occultiste
+  - Magicien
 level: 7
 school: Évocation
 Verbal: true

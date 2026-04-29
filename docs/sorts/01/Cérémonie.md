@@ -1,9 +1,9 @@
 ---
 available:
- - Clerc
- - Paladin
- - Investigateur
- - Martyr
+  - Clerc
+  - Paladin
+  - Investigateur
+  - Martyr
 level: 1
 school: Abjuration
 Verbal: true
@@ -16,9 +16,9 @@ Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Ceremony
-writing_status: empty
+writing_status: finished
 ---
-Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, dont les cibles doivent se trouver à 10 ft. de vous pendant l'incantation.
+Vous réalisez une cérémonie religieuse qui est imprégnée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, dont les cibles doivent se trouver à 10 ft. de vous pendant l'incantation.
 
 **Pardon.** Vous touchez une créature consentante dont l'alignement a changé, puis vous effectuez un jet de Sagesse (Perspicacité) DD 20. Si vous réussissez, vous rendez à la cible son alignement précédent.
 

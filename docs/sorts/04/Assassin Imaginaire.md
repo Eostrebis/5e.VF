@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Magicien
- - Sorcière
+  - Barde
+  - Magicien
+  - Sorcière
 level: 4
 school: Illusion
 Verbal: true

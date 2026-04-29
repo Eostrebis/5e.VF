@@ -1,11 +1,11 @@
 ---
 available:
- - Ensorceleur
- - Magicien
- - Occultiste
- - Investigateur
- - Nécromancien
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Investigateur
+  - Nécromancien
+  - Sorcière
 level: 6
 school: Conjuration
 Verbal: true
@@ -18,7 +18,7 @@ Portee: 500 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Gate
-writing_status: empty
+writing_status: finished
 ---
 Vous créez des portails de téléportation liés qui restent ouvert pendant la durée du sort. Choisissez deux points sur le sol que vous pouvez voir, un à moins de 10 ft. de vous, l'autre à moins de 500 ft. Un portail circulaire, d'un diamètre de 10 ft., s'ouvre à chaque point. Si le portail s'ouvrirait sur un espace occupée par une créature, le sort rate et l'emplacement est perdu.
 

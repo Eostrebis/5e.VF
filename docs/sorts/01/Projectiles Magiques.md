@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Évocation
 Verbal: true
@@ -14,7 +14,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Magic Missile
-writing_status: empty
+writing_status: finished
 ---
 Vous créez trois fléchettes brillantes de force magique. Chacune de ces fléchettes frappe une créature de votre choix que vous pouvez voir à portée. Une fléchette inflige 1d4 + 1 dégâts de force à sa cible. Les fléchettes frappent toutes en même temps, et vous pouvez les diriger à frapper une seule créature ou des différentes.
 

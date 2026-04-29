@@ -27,7 +27,7 @@ writing_status: finished
 >### Actions
 >***Épée Longue.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 6 (1d8 + 2) dégâts tranchants ou 7 (1d10 + 2) dégâts tranchants si utilisée à deux mains.
 >
->***Javeline.*** *Attaque Armée à Distance :* +4 pour toucher, portée 30/120 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts perçants.
+>***Javeline.*** *Attaque Armée à Distance :* +4 pour toucher, portée 30/120 ft., une cible. *Touché :* 5 (1d6 + 2) dégâts perforants.
 >
 
 ### Aptitudes de Cohorte

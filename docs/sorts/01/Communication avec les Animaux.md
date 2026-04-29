@@ -1,10 +1,10 @@
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Druide
- - Ranger
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Druide
+  - Ranger
 level: 1
 school: Divination
 Verbal: true

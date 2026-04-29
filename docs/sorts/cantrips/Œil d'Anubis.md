@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Nécromancien
- - Sorcière
+  - Clerc
+  - Nécromancien
+  - Sorcière
 level: 0
 school: Nécromancie
 Verbal: false
@@ -15,7 +15,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eye of Anubis
-writing_status: empty
+writing_status: finished
 ---
 Un rayon de lumière lunaire et sombre s'échappe de votre œil gauche vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas utiliser son action pour se Désengager avant la fin de votre prochain tour.
 

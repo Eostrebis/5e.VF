@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Ranger
- - Artificier
+  - Barde
+  - Clerc
+  - Druide
+  - Ranger
+  - Artificier
 level: 4
 school: Abjuration
 Verbal: true
@@ -17,7 +17,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Freedom of Movement
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature consentante. Pendant la durée du sort, les mouvement de la cible ne sont pas affectés par le terrain difficile, et les sorts et autres effet magiques ne peuvent ni réduire sa vitesse, ni la rendre [[paralysé|paralysée]] ou [[retenu|retenue]].
 

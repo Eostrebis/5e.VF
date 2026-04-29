@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Illusion
 Verbal: true
@@ -14,7 +14,7 @@ Portee: Personnelle (rayon de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Color Spray
-writing_status: empty
+writing_status: finished
 ---
 Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total correspond au nombre de points de vie des créatures que vous pouvez affecter. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
 

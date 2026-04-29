@@ -1,12 +1,12 @@
 ---
 available:
- - Artificier
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
- - Sorcière
- - Investigateur
+  - Artificier
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Sorcière
+  - Investigateur
 level: 2
 school: Conjuration
 Verbal: false
@@ -19,7 +19,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Air Bubble
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une sphère spectrale autour de la tête d'une créature consentante à portée que vous pouvez voir. La sphère est remplie d'air frais jusqu'à ce que le sort se termine. Si la créature a plus d'une tête, la sphère d'air n'apparaît qu'autour d'une d'entre elles (ce qui est tout ce dont la créature a besoin pour éviter de s'étouffer, supposant que les têtes partagent le même système respiratoire).
 

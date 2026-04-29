@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Ranger
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 1
 school: Illusion
 Verbal: true
@@ -25,6 +25,6 @@ La première fois que vous utilisez l'action Attaquer pendant votre tour, vous p
 
 - **2e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 1d6 dégâts psychiques et ne peut pas utiliser de réactions jusqu'à la fin de votre prochain tour.
 
-- **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas effectuer d'actions bonus pendant son prochain tour.
+- **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas entreprendre d'actions bonus pendant son prochain tour.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts psychiques de la 2e touche augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.

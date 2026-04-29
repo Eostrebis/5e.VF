@@ -28,7 +28,7 @@ Leurs épais cheveux prennent attache jusqu'au bas de leur dos et certains ont d
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants au lieu des dégâts contondants habituels.
+**Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perforants au lieu des dégâts contondants habituels.
 
 **Course Ensanglantée.** Juste après avoir utilisé l'action Foncer pendant votre tour et vous être déplacé d'au moins 20 ft., vous pouvez réaliser une attaque de mêlée avec vos Cornes pour une action bonus.
 

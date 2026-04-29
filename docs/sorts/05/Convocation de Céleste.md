@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 5
 school: Conjuration
 Verbal: true

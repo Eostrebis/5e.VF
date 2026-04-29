@@ -1,12 +1,12 @@
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
+  - Barde
+  - Clerc
+  - Druide
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true

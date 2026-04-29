@@ -9,13 +9,13 @@ Maître et champion de la vermine, vous avez été appelé pour défendre les pl
 
 ## Infesté
 
-Au niveau 6, des insectes et des rongeurs vivent dans les moindres recoins de vos vêtements et votre équipement. Lorsqu'une créature à 5 ft. de vous vous touche avec une attaque, la vermine répond et inflige 1d6 dégâts perçants à l'attaquant. De plus, à chaque attaque suivante que la créature réalise avant la fin de son tour, elle doit retirer 1d4 du jet d'attaque.
+Au niveau 6, des insectes et des rongeurs vivent dans les moindres recoins de vos vêtements et votre équipement. Lorsqu'une créature à 5 ft. de vous vous touche avec une attaque, la vermine répond et inflige 1d6 dégâts perforants à l'attaquant. De plus, à chaque attaque suivante que la créature réalise avant la fin de son tour, elle doit retirer 1d4 du jet d'attaque.
 
 ## Évasion
 Au niveau 13, votre agilité instinctive vous permet d'esquiver certains effets de zone, comme le souffle électrique d'un dragon bleu ou un sort de [[boule de feu]]. Lorsque vous êtes sujet à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous ne subissez plutôt aucun dégât si vous réussissez le jet et la moitié sinon.
 
 ## Seigneur des Mouches
 
-Au niveau 20, vous pouvez utiliser votre action pour appeler et former un colossal essaim d'insectes volants et de rongeurs déchaînés qui vous enveloppe comme un nuage. Pendant la prochaine minute, une sphère d'un rayon de 10 ft. de vermine est centrée autour de vous. La zone est fortement obscurée. Chaque créature que vous choisissez dans la sphère a le désavantage à ses jets d'attaque et de caractéristique et subit 6d4 dégâts perçants lorsqu'elle entre dans la zone pour la première fois pendant un tour ou qu'elle y commence son tour. 
+Au niveau 20, vous pouvez utiliser votre action pour appeler et former un colossal essaim d'insectes volants et de rongeurs déchaînés qui vous enveloppe comme un nuage. Pendant la prochaine minute, une sphère d'un rayon de 10 ft. de vermine est centrée autour de vous. La zone est fortement obscurée. Chaque créature que vous choisissez dans la sphère a le désavantage à ses jets d'attaque et de caractéristique et subit 6d4 dégâts perforants lorsqu'elle entre dans la zone pour la première fois pendant un tour ou qu'elle y commence son tour. 
 
 Une fois que vous avez utilisé cette capacité, vous ne pouvez le refaire jusqu'à ce que vous terminiez un repos long.

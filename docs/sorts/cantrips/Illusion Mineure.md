@@ -1,11 +1,11 @@
 ---
 available:
- - Sorcière
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Illusion
 Verbal: false
@@ -18,7 +18,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Minor Illusion
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un son ou l'image d'un objet à portée qui persiste pendant la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
 

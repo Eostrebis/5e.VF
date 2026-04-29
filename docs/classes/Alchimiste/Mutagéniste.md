@@ -11,7 +11,7 @@ Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise
 
 Également au niveau 2, vous pouvez utiliser une action bonus pour vous injecter avec une puissante potion transmutante connus comme un mutagène. Vous gagnez l'un des effets suivant pour une minute, ou jusqu'à ce que vous utilisiez votre action bonus pour vous injecter avec un mutagène différent : 
 
-**Force.** Votre score de Force augmente de 3, pour un maximum de 20. De plus, vous vous faites pousser des griffes, des crocs, des épines, des cornes, ou n'importe quelle arme naturelle de votre choix. Vous pouvez utiliser cette arme naturelle pour réaliser des attaques à mains nues. Si vous touchez, vous infligez 1d4 + votre modificateur de Force dégâts au lieu des dégâts contondants classiques des attaques à main nues. Le type de dégâts de l'attaque est contondant, perçants ou tranchants, dépendant de la forme de vos attaques naturelles.
+**Force.** Votre score de Force augmente de 3, pour un maximum de 20. De plus, vous vous faites pousser des griffes, des crocs, des épines, des cornes, ou n'importe quelle arme naturelle de votre choix. Vous pouvez utiliser cette arme naturelle pour réaliser des attaques à mains nues. Si vous touchez, vous infligez 1d4 + votre modificateur de Force dégâts au lieu des dégâts contondants classiques des attaques à main nues. Le type de dégâts de l'attaque est contondant, perforants ou tranchants, dépendant de la forme de vos attaques naturelles.
 
 **Dextérité.** Votre score de Dextérité augmente de 3, pour un maximum de 20. De plus, votre vitesse de marche augmente de 5 ft.
 

@@ -1,11 +1,11 @@
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 1
 school: Abjuration
 Verbal: false

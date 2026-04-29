@@ -1,12 +1,12 @@
 ---
 available:
- - Mage de Guerre
- - Nécromancien
- - Sorcière
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Mage de Guerre
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 0
 school: Divination
 Verbal: false
@@ -19,6 +19,6 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: True Strike
-writing_status: empty
+writing_status: finished
 ---
 Vous pointez du doigt une cible à portée. Votre magie vous confère une brève connaissance des défenses de la cible. Pendant votre prochain tour, vous gagnez l'avantage au premier jet d'attaque que vous effectuez contre la créature, en supposant que le sort n'ait pas terminé.

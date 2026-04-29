@@ -18,7 +18,7 @@ Pendant votre tour, vous pouvez utiliser votre action bonus pour faire appel à 
 
  - Vous pouvez ajouter votre modificateur de Charisme à vos jets de caractéristique et de sauvegarde de Force.
  - Vous avez l'avantage à tous vos jets d'attaque armée de mêlée qui utilisent des armes lourdes, versatile ou des attaques à mains nues. Cependant, les attaques armées de mêlée contre vous ont l'avantage.
- - Vous êtes résistant aux dégâts contondants, tranchants et perçants.
+ - Vous êtes résistant aux dégâts contondants, tranchants et perforants.
  - Lorsque vous réduisez une créature hostile à 0 point de vie avec une attaque armée de mêlée, vous pouvez vous déplacer de jusqu'à 10 ft. et réaliser une attaque armée supplémentaire.
 
 Vous pouvez terminer cet effet prématurément pour une action bonus. Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos.

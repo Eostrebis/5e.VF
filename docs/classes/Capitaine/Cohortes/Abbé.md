@@ -25,7 +25,7 @@ writing_status: finished
 >### Actions
 >***Masse d'armes.*** *Attaque Armée de Mêlée :* +3 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.
 >
->***Arbalète Légère.*** *Attaque Armée à Distance :* +2 pour toucher, portée 80/320 ft., une cible. *Touché :* 4 (1d8) dégâts perçants.
+>***Arbalète Légère.*** *Attaque Armée à Distance :* +2 pour toucher, portée 80/320 ft., une cible. *Touché :* 4 (1d8) dégâts perforants.
 >
 >***Mains Soignantes (1/Jour).*** L'abbé ou une créature que l'abbé touche regagne 11 (2d8+2) points de vie
 >

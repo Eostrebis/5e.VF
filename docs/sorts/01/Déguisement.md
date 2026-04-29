@@ -1,11 +1,11 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
- - Investigateur
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Investigateur
+  - Sorcière
 level: 1
 school: Illusion
 Verbal: true
@@ -18,7 +18,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Disguise Self
-writing_status: empty
+writing_status: finished
 ---
 Vous changez d'apparence jusqu'à ce que le sort se termine ou que vous utilisiez une action pour le dissiper. Le changement inclut vos vêtements, votre armure, vos armes et les autres objets que vous portez. Vous pouvez paraître 30 cm plus grand ou plus petit, plus mince ou plus obèse. Vous ne pouvez pas modifier votre type morphologique. Vous devez donc prendre une forme qui présente un arrangement similaire des membres. Par ailleurs, l'ampleur de l'illusion ne tient qu'à vous. 
 

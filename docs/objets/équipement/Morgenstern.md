@@ -8,4 +8,4 @@ writing_status: finished
 
 | Dégâts | Propriétés |
 | ------------ | ---------- |
-| 1d8 perçants | -- |
+| 1d8 perforants | -- |

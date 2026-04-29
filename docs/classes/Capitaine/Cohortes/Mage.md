@@ -25,7 +25,7 @@ writing_status: finished
 >*_*
 >
 >### Actions
->***Dague.*** *Attaque Armée de Mêlée ou à Distance :* +3 pour toucher, allonge 5 ft. ou 20/60 ft., une cible. *Touché :* 3 (1d4 + 1) dégâts perçants.
+>***Dague.*** *Attaque Armée de Mêlée ou à Distance :* +3 pour toucher, allonge 5 ft. ou 20/60 ft., une cible. *Touché :* 3 (1d4 + 1) dégâts perforants.
 >
 >***Flèche Arcanique.*** *Attaque de Sort à Distance :* +4 pour toucher, portée 120 ft., une cible. *Touché :* 7 (1d10 + 2) dégâts de force.
 >

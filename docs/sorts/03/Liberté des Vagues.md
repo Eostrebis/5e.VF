@@ -1,9 +1,9 @@
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
 level: 3
 school: Conjuration
 Verbal: true

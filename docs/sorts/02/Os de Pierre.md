@@ -1,12 +1,12 @@
 ---
 available:
- - Investigateur
- - Martyr
- - Nécromancien
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Martyr
+  - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -19,6 +19,6 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Stone Bones
-writing_status: empty
+writing_status: finished
 ---
-Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant une résistance aux dégâts contondants, perçants et tranchants non magiques jusqu'à la fin de votre prochain tour.
+Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant une résistance aux dégâts contondants, perforants et tranchants non magiques jusqu'à la fin de votre prochain tour.

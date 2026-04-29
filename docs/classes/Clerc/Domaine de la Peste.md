@@ -42,7 +42,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos ava
 
 À partir du niveau 2, votre Canal Divin est lui-même porteur de la maladie. Vous pouvez utiliser une action pour toucher une créature à portée, qui doit réussir un jet de sauvegarde de Constitution ou souffrir d'une des maladies suivantes pendant 1 minute. Puisque cette capacité cause une maladie naturelle à la cible, tout effet qui guérit ou améliore une maladie s'applique.
 
-**Sursang.** Lorsque la créature subit des dégâts contondants, perçants ou tranchants, elle perd 1d6 points de vie supplémentaires.
+**Sursang.** Lorsque la créature subit des dégâts contondants, perforants ou tranchants, elle perd 1d6 points de vie supplémentaires.
 
 **Articulation Bloquée.** Les jambes de la créature raidissent et sa vitesse diminue. La créature peut se déplacer à une vitesse maximum de 15 ft. ou la moitié de sa vitesse, lequel est le plus bas, pendant son tour.
 

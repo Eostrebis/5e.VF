@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Clerc
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Clerc
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Nécromancie
 Verbal: true
@@ -17,7 +17,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Bestow Curse
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
 

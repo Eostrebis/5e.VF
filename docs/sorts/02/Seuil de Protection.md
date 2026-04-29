@@ -1,10 +1,10 @@
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Sorcière
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
@@ -17,7 +17,7 @@ Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Protect Threshold
-writing_status: empty
+writing_status: finished
 ---
 En dessinant des sceaux arcaniques le long de sa limite, vous pouvez protéger une porte, une fenêtre ou n'importe quel autre portail. Pendant la durée du sort, une créature occulte invisible rôde et surveille le portail protégé. Toute créature qui essaye de passer le portail doit réussir un jet de sauvegarde de Sagesse ou subir 4d6 dégâts psychiques, ou la moitié en cas de réussite.
 

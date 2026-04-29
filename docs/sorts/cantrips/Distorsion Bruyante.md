@@ -1,7 +1,7 @@
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -14,7 +14,7 @@ Portee: Personnelle (cône de 10 ft.)
 Concentration: false
 Rituel: false
 englishname: Thunderous Distortion
-writing_status: empty
+writing_status: finished
 ---
 Vous produisez une vague de bruit distordu dans un cône de 10 ft., qui peut être entendu jusqu'à 100 ft. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.
 

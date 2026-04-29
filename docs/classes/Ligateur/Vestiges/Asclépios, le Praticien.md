@@ -10,7 +10,7 @@ Père de toutes les médecines, Asclépios et son serpent confèrent à ses liga
 Tant que vous êtes lié à Asclépios, vous savez si une créature que vous pouvez voir possède tous ses points de vie, plus de la moitié, moins de la moitié ou moins de 10. Vous savez également si une créature que vous voyez est maudite, empoisonnée ou malade.
 
 ## Saignées
-Malgré toute la sagesse du Praticien, ses méthodes sont parfois brutales. Une fois à chacun de vos tours, lorsque vous infligez des dégâts contondants, perçants ou tranchants à une créature, vous pouvez ajouter un d4 aux dés de dégâts.
+Malgré toute la sagesse du Praticien, ses méthodes sont parfois brutales. Une fois à chacun de vos tours, lorsque vous infligez des dégâts contondants, perforants ou tranchants à une créature, vous pouvez ajouter un d4 aux dés de dégâts.
 
 ## Baume du Praticien
 Tant que vous êtes lié à Asclépios, vous pouvez utiliser votre action pour toucher un humanoïde, qui regagne un nombre de points de vie égal à votre niveau de ligateur + votre modificateur de Charisme. Vous pouvez également mettre fin à une maladie qui affecte la créature, ou retirer la condition [[aveuglé]], [[assourdi]], ou [[empoisonné]]. Vous pouvez utiliser cette aptitude trois fois et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

@@ -1,7 +1,7 @@
 ---
 available:
- - Druide
- - Nécromancien
+  - Druide
+  - Nécromancien
 level: 5
 school: Abjuration
 Verbal: true
@@ -14,7 +14,7 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Antilife Shell
-writing_status: empty
+writing_status: finished
 ---
 Une barrière scintillante émane de vous sur un rayon de 10 ft. et se déplace avec vous, toujours centrée sur vous et repoussant les créatures qui ne sont pas des morts-vivants ou des constructions. La barrière dure pendant la durée du sort.
 

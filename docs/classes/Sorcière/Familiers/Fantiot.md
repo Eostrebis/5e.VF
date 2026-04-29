@@ -18,7 +18,7 @@ Les hantises peuvent souvent être attribuées aux suspects spectraux habituels 
 >|1 (-5)|14 (+2)|10 (+0)|10 (+0)|9 (-1)|14 (+2)|
 >
 >*_*
->- **Résistances aux Dégâts** acide, froid, feu, foudre, nécrotique, tonnerre ; contondants, perçants et tranchants d'armes non magiques
+>- **Résistances aux Dégâts** acide, froid, feu, foudre, nécrotique, tonnerre ; contondants, perforants et tranchants d'armes non magiques
 >- **Immunités aux Dégâts** poison
 >- **Immunités aux Conditions** charmé, épuisement, saisi, paralysé, pétrifié, empoisonné, au sol, retenu, inconscient
 >- **Sens.** Vision dans le Noir 60 ft., Perception Passive 9

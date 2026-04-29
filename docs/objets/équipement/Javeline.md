@@ -7,4 +7,4 @@ writing_status: finished
 ---
 | Dégâts | Propriétés |
 | ------------ | ------------ |
-| 1d6 perçants | Jet (30/120) |
+| 1d6 perforants | Jet (30/120) |

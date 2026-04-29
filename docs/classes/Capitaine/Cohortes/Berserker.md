@@ -39,4 +39,4 @@ Tant qu'il suit les ordres de son capitaine, le berserker obtient les capacités
 
 *Niveau 14.* **Avancée Critique.** Une fois par tour, lorsque le berserker inflige un coup critique, il peut se déplacer de jusqu'à sa vitesse et réaliser une attaque armée de mêlée avec avantage.
 
-*Niveau 18.* *Réaction :* **Résolution Primale.** Lorsque le berserker possède moins de la moitié de ses points de vie, il est résistant aux dégâts contondants, perçants ou tranchants venant d'attaques non magiques.
+*Niveau 18.* *Réaction :* **Résolution Primale.** Lorsque le berserker possède moins de la moitié de ses points de vie, il est résistant aux dégâts contondants, perforants ou tranchants venant d'attaques non magiques.

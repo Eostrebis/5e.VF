@@ -1,10 +1,10 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Nécromancien
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true
@@ -17,7 +17,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Blight
-writing_status: empty
+writing_status: finished
 ---
 De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit effectuer un jet de sauvegarde de Constitution. La cible subit 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.
 

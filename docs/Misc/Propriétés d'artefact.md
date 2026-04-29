@@ -19,17 +19,17 @@ writing_status: empty
 
 ## Propriétés bénéfiques majeures
 
-| d100 | Propriété |
+| d100 | Propriété                                                                                                                                                                                                                                |
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 01-20 | Tant que vous êtes lié à cet artefact, une de vos caractéristiques (au choix du MJ) augmente de 2, pour un maximum de 24 |
-| 21-30 | Tant que vous êtes lié à cet artefact, vous regagnez 1d6 points de vie au début de votre tour si vous avez au moins 1 point de vie |
-| 31-40 | Tant que vous êtes lié à cet artefact, lorsque vous touchez avec une attaque d'arme, la cible subit 1d6 dégâts supplémentaires |
-| 41-50 | Tant que vous êtes lié à cet artefact, votre vitesse de marche augmente de 10 ft. |
+| 01-20 | Tant que vous êtes lié à cet artefact, une de vos caractéristiques (au choix du MJ) augmente de 2, pour un maximum de 24                                                                                                                 |
+| 21-30 | Tant que vous êtes lié à cet artefact, vous regagnez 1d6 points de vie au début de votre tour si vous avez au moins 1 point de vie                                                                                                       |
+| 31-40 | Tant que vous êtes lié à cet artefact, lorsque vous touchez avec une attaque armée, la cible subit 1d6 dégâts supplémentaires                                                                                                            |
+| 41-50 | Tant que vous êtes lié à cet artefact, votre vitesse de marche augmente de 10 ft.                                                                                                                                                        |
 | 51-60 | Tant que vous êtes lié à cet artefact, vous pouvez utiliser votre action pour lancer un sort de niveau 4 (choisi par le MJ). Après avoir lancé le sort, lancez un d6. Sur un 1-5, vous ne pouvez pas le relancer avant la prochaine aube |
-| 61-70 | Comme 51-60, mais le sort est de niveau 5 |
-| 71-80 | Comme 51-60, mais le sort est de niveau 6 |
-| 81-90 | Comme 51-60, mais le sort est de niveau 7 |
-| 91-00 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[charmé]], [[assourdi]], [[pétrifié]] ou [[apeuré]] |
+| 61-70 | Comme 51-60, mais le sort est de niveau 5                                                                                                                                                                                                |
+| 71-80 | Comme 51-60, mais le sort est de niveau 6                                                                                                                                                                                                |
+| 81-90 | Comme 51-60, mais le sort est de niveau 7                                                                                                                                                                                                |
+| 91-00 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[charmé]], [[assourdi]], [[pétrifié]] ou [[apeuré]]                                                                                                                      |
 
 ## Propriétés néfastes mineurs
 
@@ -67,7 +67,7 @@ writing_status: empty
 | 31-35 | Tant que vous êtes lié à cet artefact, les créatures d'un certain type autre qu'humanoïde (choisi par le MJ) vous sont toujours hostiles. |
 | 36-40 | L'artefact dilue les potions magiques qui se trouvent à moins de 10 ft. de lui, les rendant inertes. |
 | 41-45 | L'artefact efface les parchemins magiques qui se trouvent à moins de 10 ft. de lui, les désactivant. |
-| 46-50 | Avant d'utiliser une action pour utiliser une des propriétés de l'artefact, vous devez utiliser une action bonus pour prélever du sang, de vous ou d'une créature [[incapacitée]] ou consentante à portée, en utilisant une arme de mêlée tranchante ou perçante. La créature en question subit 1d4 dégâts du type approprié. |
+| 46-50 | Avant d'utiliser une action pour utiliser une des propriétés de l'artefact, vous devez utiliser une action bonus pour prélever du sang, de vous ou d'une créature [[incapacitée]] ou consentante à portée, en utilisant une arme de mêlée tranchante ou perforante. La créature en question subit 1d4 dégâts du type approprié. |
 | 51-60 | Lorsque vous établissez un lien avec cet artefact, vous obtenez une forme de folie à long-terme. |
 | 61-65 | Vous subissez 4d10 dégâts psychiques lorsque vous vous liez à cet artefact. |
 | 66-70 | Vous subissez 8d10 dégâts psychiques lorsque vous vous liez à cet artefact. |

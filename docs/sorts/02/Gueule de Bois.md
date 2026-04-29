@@ -1,6 +1,6 @@
 ---
 available:
- - Barde
+  - Barde
 level: 2
 school: Enchantement
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Hangover
-writing_status: empty
+writing_status: finished
 ---
 Vous émettez une aura d'ivresse qui s'évapore rapidement, laissant la sensation d'une intense gueule de bois. Une créature que vous choisissez à portée doit réussir un jet de sauvegarde de Constitution ou subir 3d8 dégâts psychiques. La cible a le désavantage aux jets de sauvegarde de Constitution qu'elle effectue pour maintenir sa concentration suite à ces dégâts .De plus, si elle échoue ce jet, la cible est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour.
 

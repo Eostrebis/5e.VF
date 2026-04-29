@@ -110,15 +110,15 @@ Votre lamefil se manifeste sous la forme d'une arme de mêlée singulière qui i
 
 ### Aiguilles à Tricoter
 
-Votre lamefil se manifeste sous la forme d'une paire d'arme de mêlée qui infligent 2d4 dégâts perçants. Vous attaquez toujours avec elles simultanément et ne pouvez pas les utiliser pour réaliser du combat à deux armes. Une fois par tour, lorsque vous touchez une créature avec cette lamefil, vous pouvez la lier, réduisant sa vitesse de 10 ft. jusqu'à la fin de son prochain tour.
+Votre lamefil se manifeste sous la forme d'une paire d'arme de mêlée qui infligent 2d4 dégâts perforants. Vous attaquez toujours avec elles simultanément et ne pouvez pas les utiliser pour réaliser du combat à deux armes. Une fois par tour, lorsque vous touchez une créature avec cette lamefil, vous pouvez la lier, réduisant sa vitesse de 10 ft. jusqu'à la fin de son prochain tour.
 
 ### Coussin à Épingles
 
-Votre lamefil se manifeste sous la forme d'une masse de lames flottantes qui lévitent dans votre emplacement. Cette arme de mêlée inflige 1d8 dégâts perçants, et vous pouvez l'utiliser pour réaliser des attaques armées à distance contre des créatures à 30 ft. Lorsque vous touchez une créature avec une attaque utilisant cette arme, vous pouvez attirer la cible de 10 ft. vers vous ou la repousser de 10 ft.
+Votre lamefil se manifeste sous la forme d'une masse de lames flottantes qui lévitent dans votre emplacement. Cette arme de mêlée inflige 1d8 dégâts perforants, et vous pouvez l'utiliser pour réaliser des attaques armées à distance contre des créatures à 30 ft. Lorsque vous touchez une créature avec une attaque utilisant cette arme, vous pouvez attirer la cible de 10 ft. vers vous ou la repousser de 10 ft.
 
 ### Frappeurs de Kevlar
 
-Votre lamefil se manifeste sous la forme de gantelets et de solerets aiguisés qui infligent 1d10 dégâts perçants. Ces armes de mêlée ne peuvent être utilisées pour réaliser des attaques à mains nues. Après avoir réalisé une attaque avec cette lamefil, vous pouvez échanger de place avec votre cible s'il y a suffisamment de place pour chacun d'entre vous. Ce déplacement ne provoque pas d'attaque d'opportunité.
+Votre lamefil se manifeste sous la forme de gantelets et de solerets aiguisés qui infligent 1d10 dégâts perforants. Ces armes de mêlée ne peuvent être utilisées pour réaliser des attaques à mains nues. Après avoir réalisé une attaque avec cette lamefil, vous pouvez échanger de place avec votre cible s'il y a suffisamment de place pour chacun d'entre vous. Ce déplacement ne provoque pas d'attaque d'opportunité.
 
 ## Infusion
 

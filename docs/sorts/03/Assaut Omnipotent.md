@@ -1,7 +1,7 @@
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 3
 school: Évocation
 Verbal: true
@@ -16,11 +16,11 @@ Rituel: false
 englishname: Almighty Assault
 writing_status: finished
 ---
-Dans le cadre de l'action utilisée pour lancer ce sort, vous devez effectuer une attaque d'arme de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
+Dans le cadre de l'action utilisée pour lancer ce sort, vous devez réaliser une attaque armée de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
 
 - **Tranchants.** Un croissant d'énergie jaillit de l'attaque, et chaque créature dans un cône de 20 ft. dans la direction de la cible doit effectuer un jet de sauvegarde de Dextérité.
 
-- **Perçants.** Un rayon d'énergie pure émane de l'attaque, et chaque créature sur une ligne de 60 ft. de long et 5 ft. de large doit effectuer un jet de sauvegarde de Dextérité.
+- **Perforants.** Un rayon d'énergie pure émane de l'attaque, et chaque créature sur une ligne de 60 ft. de long et 5 ft. de large doit effectuer un jet de sauvegarde de Dextérité.
 
 - **Contondants.** Une énergie explosive émane de l'attaque, et chaque créature autre que vous à moins de 10 ft. de la cible doit effectuer un jet de sauvegarde de Dextérité.
 

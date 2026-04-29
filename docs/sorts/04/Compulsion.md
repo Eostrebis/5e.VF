@@ -1,7 +1,7 @@
 ---
 available:
- - Sorcière
- - Barde
+  - Sorcière
+  - Barde
 level: 4
 school: Enchantement
 Verbal: true

@@ -134,7 +134,7 @@ En utilisant votre aptitude d'Artisanat Actif, vous pouvez modifier une arme ou 
 
 Vérifier les [[exceptions]] avant d'ajouter des propriétés de chef-d'œuvre à votre arme.
 
-Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perçants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
+Lorsque vous modifiez les propriétés d'une arme chef-d'œuvre, vous pouvez changer son type de dégâts vers contondants, perforants ou tranchants, si ses dégâts étaient déjà de l'un de ces types.
 
 **Retirer des Propriétés.** Vous pouvez retirer n'importe quelles propriétés d'un chef-d'œuvre, y compris celles qu'il avait lorsque vous l'avez créé. Vous ne pouvez retirer une propriété d'un objet qui est un prérequis pour une autre propriété de l'objet. Si vous remplacez une propriété du niveau Compagnon ou plus avec une propriété du même niveau pendant un repos long, vous pouvez le faire sans coût.
 

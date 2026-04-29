@@ -37,4 +37,4 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 
 ## Avatar de Bataille
 
-Au niveau 17, vous obtenez une résistance aux dégâts contondants, perçants et tranchants provenant d'attaques non magiques.
+Au niveau 17, vous obtenez une résistance aux dégâts contondants, perforants et tranchants provenant d'attaques non magiques.

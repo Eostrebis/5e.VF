@@ -46,6 +46,6 @@ La plupart des shifters ressemblent à un certain type de thérianthrope. Vous p
 Lorsque vous phasez, vous recevez un avantage supplémentaire en fonction de votre héritage : 
 
  - **Peau de Bête.** Vous gagnez 1d6 points de vie temporaires supplémentaires. Lorsque vous êtes phasé, vous avez un bonus de +1 à la CA.
- - **Dents Longues.** Lorsque vous phasez et pour une action bonus pendant vos autres tours lorsque vous êtes phasé, vous pouvez utiliser vos longs crocs pour réaliser une attaque à mains nues. Si vous touchez avec vos crocs, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+ - **Dents Longues.** Lorsque vous phasez et pour une action bonus pendant vos autres tours lorsque vous êtes phasé, vous pouvez utiliser vos longs crocs pour réaliser une attaque à mains nues. Si vous touchez avec vos crocs, vous infligez 1d6 + votre modificateur de Force dégâts perforants.
  - **Pattes Légères.** Tant que vous êtes phasé, votre vitesse de marche augmente de 10 ft. De plus, vous pouvez vous déplacer de jusqu'à 10 ft. comme réaction lorsqu'une créature termine son tour à 5 ft. de vous. Ce mouvement réactif ne provoque pas d'attaque d'opportunité.
  - **Chasseur Né.** Tant que vous êtes phasé, vous avez l'avantage aux jets de Sagesse et aucune créature à moins de 30 ft. ne peut avoir l'avantage aux jets d'attaque contre vous tant que vous n'êtes pas [[incapacité]].

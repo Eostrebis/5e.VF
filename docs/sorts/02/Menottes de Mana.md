@@ -1,7 +1,7 @@
 ---
 available:
- - Artificier
- - Magicien
+  - Artificier
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
@@ -14,7 +14,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mana Shackle
-writing_status: empty
+writing_status: finished
 ---
 Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dissipé prématurément, vous subissez 1d4 dégâts psychiques.
 

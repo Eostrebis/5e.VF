@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 6
 school: Conjuration
 Verbal: true

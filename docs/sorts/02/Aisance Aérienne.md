@@ -1,9 +1,9 @@
 ---
 available:
- - Magicien
- - Ensorceleur
- - Druide
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Druide
+  - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -16,7 +16,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Aerial Alacrity
-writing_status: empty
+writing_status: finished
 ---
 Ciblez une créature consentante que vous pouvez voir à portée qui possède une vitesse de vol. Cette créature bénéficie des effets suivants pendant la durée du sort : 
 

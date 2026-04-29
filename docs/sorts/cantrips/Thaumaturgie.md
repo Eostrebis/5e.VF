@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Transmutation
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Thaumaturgy
-writing_status: empty
+writing_status: finished
 ---
 Vous manifestez un signe de pouvoir surnaturel à portée. Vous créez l'un des effets magiques suivants : 
 

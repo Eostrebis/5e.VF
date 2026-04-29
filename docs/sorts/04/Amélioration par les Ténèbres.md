@@ -1,10 +1,10 @@
 ---
 available:
- - Clerc
- - Paladin
- - Ensorceleur
- - Occultiste
- - Martyr
+  - Clerc
+  - Paladin
+  - Ensorceleur
+  - Occultiste
+  - Martyr
 level: 4
 school: Transmutation
 Verbal: true

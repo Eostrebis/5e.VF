@@ -18,7 +18,7 @@ Souvent considéré comme le familier parfait qui ne requiert ni soin ni attenti
 >
 >*_*
 >- **Vulnérabilités aux Dégâts.** Tonnerre
->- **Résistances aux Dégâts** Feu, foudre, radiant ; contondant, perçant et tranchants de sources non magiques
+>- **Résistances aux Dégâts** Feu, foudre, radiant ; contondant, perforant et tranchants de sources non magiques
 >- **Immunités aux Dégâts** Nécrotique, poison, psychique
 >- **Immunités aux Conditions** [[Charmé]], [[épuisement]], [[apeuré]], [[paralysé]], [[pétrifié]], ,[[empoisonné]], [[au sol]], [[inconscient]]
 >- **Sens.** Perception Passive 7

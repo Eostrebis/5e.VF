@@ -1,7 +1,7 @@
 ---
 available:
- - Druide
- - Magicien
+  - Druide
+  - Magicien
 level: 7
 school: Conjuration
 Verbal: true
@@ -14,9 +14,9 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Inevitable Boulder
-writing_status: empty
+writing_status: finished
 ---
-Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perçants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
+Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perforants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
 
 Au début de chacun de vos tours, le rocher se déplace de 60 ft. dans la direction de sa cible. Si le rocher pénètre l'espace d'une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, elle subit 6d10 dégâts contondants et, si elle est de taille G ou plus petite, est mise [[au sol]]. Si elle réussit le jet, elle subit la moitié des dégâts et n'est pas mise au sol. Le rocher écrase aussi les objets non magiques plus petits que lui sur son passage. Si le rocher atteint sa cible, il lui roule dessus et continue son mouvement sur 60 ft. Le rocher continue de poursuivre la cible pendant la durée du sort, lui roulant dessus plusieurs fois si possible.
 

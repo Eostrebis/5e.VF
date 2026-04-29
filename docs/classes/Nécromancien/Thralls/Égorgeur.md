@@ -28,4 +28,4 @@ Amas abominable de chair, l'égorgeur ressemble encore vaguement à un humain de
 > **Écholocalisation.** L'égorgeur ne peut utiliser sa vision aveugle lorsqu'il est [[assourdi]].
 >
 >### Actions
->***Morsure.*** *Attaque Armée de Mêlée :* +5 pour toucher, allonge 5 ft., une cible. *Touché :* 12 (2d8 +3) dégâts perçants.
+>***Morsure.*** *Attaque Armée de Mêlée :* +5 pour toucher, allonge 5 ft., une cible. *Touché :* 12 (2d8 +3) dégâts perforants.

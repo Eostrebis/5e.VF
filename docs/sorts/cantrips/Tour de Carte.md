@@ -1,11 +1,11 @@
 ---
 available:
- - Artificier
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
- - Mage de Guerre
+  - Artificier
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: true
@@ -18,7 +18,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Card Trick
-writing_status: empty
+writing_status: finished
 ---
 En un mouvement rapide, vous envoyez une carte à jouer chargée d'énergie sur vos adversaires. Choisissez si vous préférez effectuer un jet d'attaque de sort à distance ou si vous préférez imposer un jet de sauvegarde de Dextérité. Si vous touchez ou que la cible rate son jet de sauvegarde, vous infligez 1d6 dégâts de force.
 

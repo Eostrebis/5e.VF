@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Gahoul's Shrieking Skull
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne subit 2d4 dégâts de tonnerre.
 

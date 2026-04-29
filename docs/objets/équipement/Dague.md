@@ -7,4 +7,4 @@ writing_status: finished
 ---
 | Dégâts | Propriétés |
 | ------------ | --------------------------- |
-| 1d4 perçants | Finesse, Léger, Jet (20/60) |
+| 1d4 perforants | Finesse, Léger, Jet (20/60) |

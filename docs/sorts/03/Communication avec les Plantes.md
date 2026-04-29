@@ -1,10 +1,10 @@
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Druide
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Druide
+  - Magicien
 level: 3
 school: Transmutation
 Verbal: true

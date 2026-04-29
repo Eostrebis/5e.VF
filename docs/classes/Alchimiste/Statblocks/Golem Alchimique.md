@@ -14,7 +14,7 @@ writing_status: finished
 >|17 (+3)|9 (-1)|18 (+4)|6 (-2)|10 (+0)|5 (-3)|
 >
 >*_*
->- **Résistances aux Dégâts** contondants, perçants et tranchants d'attaque non magiques qui ne sont pas en adamantine
+>- **Résistances aux Dégâts** contondants, perforants et tranchants d'attaque non magiques qui ne sont pas en adamantine
 >- **Immunités aux Dégâts** foudre
 >- **Immunisées** charmé, exhaustion, apeuré, paralysé, pétrifié, empoisonné
 >- **Sens.** Vision dans le Noir 60 ft., Perception Passive 13

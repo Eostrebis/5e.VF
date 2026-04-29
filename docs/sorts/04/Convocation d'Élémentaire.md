@@ -1,9 +1,9 @@
 ---
 available:
- - Sorcière
- - Druide
- - Magicien
- - Ranger
+  - Sorcière
+  - Druide
+  - Magicien
+  - Ranger
 level: 4
 school: Conjuration
 Verbal: true
@@ -18,12 +18,12 @@ Rituel: false
 englishname: Summon Elemental
 writing_status: finished
 tags:
- - Sort
- - Sorcière
- - 4ème
- - Druide
- - Ranger
- - Magicien
+  - Sort
+  - Sorcière
+  - 4ème
+  - Druide
+  - Ranger
+  - Magicien
 ---
 Vous appelez un esprit élémentaire. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Élémentaire]]. Lorsque vous lancez ce sort, choisissez un élément : Air, Terre, Feu ou Eau. La créature prend une forme bipède, enveloppée de l'élément choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 

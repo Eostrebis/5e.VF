@@ -16,7 +16,7 @@ Vous gagnez un bonus de +2 aux jets d'attaque que vous effectuez avec des armes 
 ## Carquois du Tueur de Soleil
 Lorsque vous voudriez dégainer une arme, vous pouvez invoquer un arc et un carquois, tous deux anciens mais formidables, utilisés par Houyi. Ce carquois contient une réserve infinie de flèches classiques ainsi que 9 flèches tueuses de soleil. Cet équipement persiste jusqu'à ce que vous le dissipiez pendant votre tour (sans utiliser d'action) ou que vous ne soyez plus lié à Houyi.
 
-Une flèche tueuse de soleil inflige des dégâts de feu plutôt que des dégâts perçants, et infligent 1d4 dégâts supplémentaires. Lorsqu'une flèche tueuse de soleil touche une cible, elle explose dans une sphère d'un rayon de 5 ft. et disparaît. La flèche peut être tirée sur un espace inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit la moitié des dégâts infligés par la flèche.
+Une flèche tueuse de soleil inflige des dégâts de feu plutôt que des dégâts perforants, et infligent 1d4 dégâts supplémentaires. Lorsqu'une flèche tueuse de soleil touche une cible, elle explose dans une sphère d'un rayon de 5 ft. et disparaît. La flèche peut être tirée sur un espace inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit la moitié des dégâts infligés par la flèche.
 
 Une fois que vous avez utilisé une flèche tueuse de soleil, vous ne pouvez plus l'utiliser jusqu'à ce que vous terminiez un repos long.
 

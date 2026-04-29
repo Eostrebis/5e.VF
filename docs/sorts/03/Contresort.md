@@ -1,8 +1,8 @@
 ---
 available:
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 3
 school: Abjuration
 Verbal: false

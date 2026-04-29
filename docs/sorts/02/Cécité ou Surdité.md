@@ -1,11 +1,11 @@
 ---
 available:
- - Barde
- - Clerc
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Clerc
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 2
 school: Nécromancie
 Verbal: true
@@ -18,7 +18,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Blindness/Deafness
-writing_status: empty
+writing_status: finished
 ---
 Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[aveuglé|aveuglée]] ou [[assourdi|assourdie]] (votre choix) pendant la durée du sort. À la fin de chacun de ses tours, la cible peut effectuer un nouveau jet de sauvegarde de Constitution.
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Investigateur
- - Sorcière
+  - Investigateur
+  - Sorcière
 level: 1
 school: Abjuration
 Verbal: false

@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 9
 school: Transmutation
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Time Stop
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous subissez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.
 

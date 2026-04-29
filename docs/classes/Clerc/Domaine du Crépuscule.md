@@ -41,5 +41,5 @@ Pour une action, vous affichez votre symbole sacré, et une sphère de lumière 
 Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque armée, vous pouvez faire en sort que l'attaque inflige 1d8 dégâts radiants supplémentaires à la cible. Lorsque vous atteignez le niveau 14, ces dégâts supplémentaires passent à 2d8.
 
 ## Brouillard Crépusculaire
-À partir du niveau 17, le crépuscule que vous invoquez offre une protection : vous et vos alliés profitez d'une couverture de moitié lorsque vous vous trouvez dans la sphère créée par votre Sanctuaire du Crépuscule.
+À partir du niveau 17, le crépuscule que vous invoquez offre une protection : vous et vos alliés profitez d'une demie-couverture lorsque vous vous trouvez dans la sphère créée par votre Sanctuaire du Crépuscule.
 

@@ -1,6 +1,6 @@
 ---
 available:
- - Ensorceleur
+  - Ensorceleur
 level: 1
 school: Évocation
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Chaos Bolt
-writing_status: empty
+writing_status: finished
 ---
 Vous projetez une masse ondulante et tremblante d'énergie chaotique sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 + 1d6 dégâts. Choisissez l'un des d8s. Le résultat de ce d8 détermine le type de dégâts de l'attaque.
 

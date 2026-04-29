@@ -33,6 +33,6 @@ Cousin éloigné des mimiques, le smacre est un très petit changelin qui imite 
 >
 >### Actions
 >
->***Morsure.*** *Attaque d'Arme de Mêlée :* +3 pour toucher, allonge 5 ft., une cible. *Touché :* 3 (1d4 + 1) dégâts perçants plus 3 (1d6) dégâts d'acide. Si le smacre est en forme d'objet, la cible est sujette au trait Adhésif.
+>***Morsure.*** *Attaque d'Arme de Mêlée :* +3 pour toucher, allonge 5 ft., une cible. *Touché :* 3 (1d4 + 1) dégâts perforants plus 3 (1d6) dégâts d'acide. Si le smacre est en forme d'objet, la cible est sujette au trait Adhésif.
 
 

@@ -9,4 +9,4 @@ writing_status: empty
 
 | Dégâts | Propriétés |
 | ------------ | ----------------------------------------------------------------------- |
-| 2d6 perçants | Munitions (Portée 80/320), Automatique, Rechargement (20), À deux mains |
+| 2d6 perforants | Munitions (Portée 80/320), Automatique, Rechargement (20), À deux mains |

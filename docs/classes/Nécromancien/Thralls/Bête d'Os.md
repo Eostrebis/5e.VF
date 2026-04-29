@@ -29,4 +29,4 @@ Construire par un assemblage sommaire d'os humanoïdes, une bête d'os ne ressem
 > **Tactiques de Groupe.** La bête d'os a l'avantage à ses jets d'attaque contre une créature si au moins un des alliés se trouve à 5 ft. de la créature et n'est pas [[incapacité]].
 >
 >### Actions
->***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 9 (2d6 +2) dégâts perçants.
+>***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 9 (2d6 +2) dégâts perforants.

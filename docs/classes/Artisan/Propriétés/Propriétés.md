@@ -116,7 +116,7 @@ writing_status: finished
 | [[Écrasant]] | Arme contondante |
 | [[Mortel]] | Arme à feu |
 | [[Magique, Légendaire]] | Arme exotique |
-| [[Pénétrant]] | Arme de jet ou à munitions perçante |
+| [[Pénétrant]] | Arme de jet ou à munitions perforante |
 | [[A Tête Chercheuse]] | Arme à distance |
 | [[Menaçant]] | Arme de mêlée |
 | [[Vorpal]] | Arme tranchante |

@@ -41,6 +41,6 @@ Vous pouvez appliquer les sutures suivantes.
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Grâce à d'abominables travaux d'alchimie et de chirurgie, vous vous êtes construit un corps artificiel afin de servir de contenant pour votre âme.
 
-**Forme de Golem.** Vos scores de Force, Dextérité et Constitution passent à 20 s'ils n'étaient pas déjà supérieurs, et vous devenez résistant aux dégâts contondants, perçants et tranchants non magiques qui ne viennent pas d'armes en adamantine. De plus, vous ne perdez pas de points de vie ni de Dés de Vie lorsque vous vous installez ou retirez des [[greffes monstrueuses]] et vous n'avez pas besoin de temps pour vous remettre de l'installation d'une greffe.
+**Forme de Golem.** Vos scores de Force, Dextérité et Constitution passent à 20 s'ils n'étaient pas déjà supérieurs, et vous devenez résistant aux dégâts contondants, perforants et tranchants non magiques qui ne viennent pas d'armes en adamantine. De plus, vous ne perdez pas de points de vie ni de Dés de Vie lorsque vous vous installez ou retirez des [[greffes monstrueuses]] et vous n'avez pas besoin de temps pour vous remettre de l'installation d'une greffe.
 
 **Résistance Magique.** Vous avez l'avantage aux jets de sauvegarde contre les sorts et autres effets magiques.

@@ -1,8 +1,8 @@
 ---
 available:
- - Investigateur
- - Martyr
- - Magicien
+  - Investigateur
+  - Martyr
+  - Magicien
 level: 1
 school: Abjuration
 Verbal: true
@@ -15,6 +15,6 @@ Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Transient Bulwark
-writing_status: empty
+writing_status: finished
 ---
 La prochaine attaque réalisée contre vous pendant la durée du sort a une pénalité de -10 pour toucher.

@@ -4,4 +4,4 @@ writing_status: finished
 *Propriété d'Arme Compagnon*
 **Composantes :** Arme à distance martiale ou exotique chef-d'œuvre
 
-Cette arme obtient la propriété [[Propriétés d'Arme#Explosif|Explosif]] et ses dégâts diminuent d'un cran. Si l'arme inflige des dégâts perçants, tranchants ou contondants, elle inflige des dégâts de feu à la place.
+Cette arme obtient la propriété [[Propriétés d'Arme#Explosif|Explosif]] et ses dégâts diminuent d'un cran. Si l'arme inflige des dégâts perforants, tranchants ou contondants, elle inflige des dégâts de feu à la place.

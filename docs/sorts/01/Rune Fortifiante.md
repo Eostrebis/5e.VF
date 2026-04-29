@@ -1,12 +1,12 @@
 ---
 available:
- - Ranger
- - Druide
- - Magicien
- - Ensorceleur
- - Sorcière
- - Investigateur
- - Artificier
+  - Ranger
+  - Druide
+  - Magicien
+  - Ensorceleur
+  - Sorcière
+  - Investigateur
+  - Artificier
 level: 1
 school: Abjuration
 Verbal: true
@@ -19,6 +19,6 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Rune of Fortification
-writing_status: empty
+writing_status: finished
 ---
 Vous inscrivez sur une porte ou un coffre une rune magique. Cette rune confère à l'objet 50 points de vie temporaires pendant la durée du sort.

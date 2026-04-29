@@ -66,11 +66,11 @@ Si vous ne possédez aucun de ces éléments de par votre race ou que vous chois
 
 **Pattes d'Araignée.** Vous possédez une vitesse d'escalade égale à votre vitesse de marche. À partir du niveau 3, vous pouvez vous déplacer sur les surfaces verticales et aux plafonds tout en gardant vos mains libres.
 
-**Morsure Vampirique.** Votre morsure canine est une arme naturelle, considérée comme une arme simple de mêlée que vous maîtrisez. Vous ajoutez votre modificateur de Constitution au lieu de votre modificateur de Force aux jets d'attaque et de dégâts que vous effectuez avec cette morsure. Elle inflige 1d4 dégâts perçants si vous touchez. Lorsqu'il vous manque au moins la moitié de vos points de vie, vous avez l'avantage aux jets d'attaque que vous effectuez avec cette morsure.
+**Morsure Vampirique.** Votre morsure canine est une arme naturelle, considérée comme une arme simple de mêlée que vous maîtrisez. Vous ajoutez votre modificateur de Constitution au lieu de votre modificateur de Force aux jets d'attaque et de dégâts que vous effectuez avec cette morsure. Elle inflige 1d4 dégâts perforants si vous touchez. Lorsqu'il vous manque au moins la moitié de vos points de vie, vous avez l'avantage aux jets d'attaque que vous effectuez avec cette morsure.
 
 Lorsque vous attaquez avec cette morsure et touchez une créature qui n'est pas un Mort-Vivant ou une Construction, vous vous renforcez de l'une des façons ci-après : 
 
- - Vous regagnez un nombre de points de vie égal aux dégâts perçants infligés par la morsure.
- - Vous obtenez un bonus à votre prochain jet de caractéristique ou d'attaque que vous effectuez ; ce bonus est égal aux dégâts perçants infligés par la morsure.
+ - Vous regagnez un nombre de points de vie égal aux dégâts perforants infligés par la morsure.
+ - Vous obtenez un bonus à votre prochain jet de caractéristique ou d'attaque que vous effectuez ; ce bonus est égal aux dégâts perforants infligés par la morsure.
  
 Vous pouvez vous renforcer de cette façon avec votre morsure un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

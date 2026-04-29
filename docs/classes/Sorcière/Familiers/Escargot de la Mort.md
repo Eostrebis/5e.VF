@@ -28,4 +28,4 @@ Un escargot de la mort est formé à partir de la mixture de moelle de troll des
 >- **Bonus de Maîtrise** +2
 >*_*
 >### Actions
->***Sangsue.*** *Attaque d'Arme de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d5 + 2) dégâts perçants plus 4 (1d8) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 1 minute. La cible peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de succès.
+>***Sangsue.*** *Attaque d'Arme de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d5 + 2) dégâts perforants plus 4 (1d8) dégâts de poison, et la cible doit réussir un jet de sauvegarde de Constitution DD 13 ou être [[empoisonné|empoisonnée]] pendant 1 minute. La cible peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de succès.

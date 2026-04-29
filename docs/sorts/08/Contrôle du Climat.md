@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Druide
- - Magicien
+  - Clerc
+  - Druide
+  - Magicien
 level: 8
 school: Transmutation
 Verbal: true
@@ -17,11 +17,11 @@ Rituel: true
 englishname: Control Weather
 writing_status: finished
 tags:
- - Clerc
- - Druide
- - Magicien
- - Sort
- - 8ème
+  - Clerc
+  - Druide
+  - Magicien
+  - Sort
+  - 8ème
 ---
 Vous prenez le contrôle de la météo dans les 8 km autour de vous pendant la durée du sort. Vous devez vous trouver à l'extérieur lorsque vous lancez ce sort. Vous déplacer vers un endroit où vous perdriez une ligne de vue claire vers le ciel termine le sort prématurément.
 

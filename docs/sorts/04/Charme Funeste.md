@@ -1,9 +1,9 @@
 ---
 available:
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
 level: 4
 school: Enchantement
 Verbal: true
@@ -16,7 +16,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Dire Charm
-writing_status: empty
+writing_status: finished
 ---
 Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit effectuer un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort se termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 

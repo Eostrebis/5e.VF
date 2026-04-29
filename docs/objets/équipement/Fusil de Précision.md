@@ -9,4 +9,4 @@ writing_status: empty
 
 | Dégâts | Propriétés |
 | ------------ | ---------------------------------------------------------------------------- |
-| 2d8 perçants | Munitions (Portée 150/560), Lourd, Rechargement (4), À lunette, À deux mains |
+| 2d8 perforants | Munitions (Portée 150/560), Lourd, Rechargement (4), À lunette, À deux mains |

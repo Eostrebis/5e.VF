@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 8
 school: Évocation
 Verbal: true

@@ -1,7 +1,7 @@
 ---
 available:
- - Nécromancien
- - Sorcière
+  - Nécromancien
+  - Sorcière
 level: 5
 school: Nécromancie
 Verbal: true
@@ -16,6 +16,6 @@ Rituel: false
 englishname: Pharaoh's Curse
 writing_status: finished
 ---
-En ouvrant votre paume, vous libérez une bouffée de poussière, reste d'une momie en décomposition. Choisissez une créature à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature est maudite par le pourrissement de la momie. La créature maudite ne peut regagner de points de vie, et ses points de vie maximum diminuent de 3d6 par 24 heures qui s'écoulent. Si la malédiction réduit le nombre de points de vie maximum de la cible à 0, la cible meurt et son corps est réduit en poussière.
+En ouvrant votre paume, vous libérez une bouffée de poussière, reste d'une momie en décomposition. Choisissez une créature à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature est maudite par le pourrissement de la momie. La créature maudite ne peut regagner de points de vie, et ses points de vie maximums diminuent de 3d6 par 24 heures qui s'écoulent. Si la malédiction réduit le nombre de points de vie maximums de la cible à 0, la cible meurt et son corps est réduit en poussière.
 
 La malédiction persiste jusqu'à ce qu'elle soit retirée par un sort ou un effet magique qui soigne le pourrissement de la momie. Une [[délivrance des malédictions]] de niveau 5 ou supérieur termine également ce sort.

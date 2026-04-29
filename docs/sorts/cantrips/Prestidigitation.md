@@ -1,12 +1,12 @@
 ---
 available:
- - Artificier
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
- - Sorcière
+  - Artificier
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Transmutation
 Verbal: true
@@ -19,7 +19,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Prestidigitation
-writing_status: empty
+writing_status: finished
 ---
 Ce sort est un léger tour de magie que les lanceurs de sorts novices utilisent pour s'entraîner. Vous créez l'un des effets magiques suivants à portée : 
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 3
 school: Évocation
 Verbal: true
@@ -14,7 +14,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Blinding Smite
-writing_status: empty
+writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque de mêlée à main armée pendant la durée du sort, votre arme s'illumine d'une lumière vive, et l'attaque inflige 3d8 dégâts radieux supplémentaires à la cible. De plus, la cible doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé|aveuglée]] jusqu'à la fin du sort.
 

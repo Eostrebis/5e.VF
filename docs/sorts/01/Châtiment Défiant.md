@@ -1,6 +1,6 @@
 ---
 available:
- - Paladin
+  - Paladin
 level: 1
 school: Abjuration
 Verbal: true

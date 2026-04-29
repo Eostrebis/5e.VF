@@ -17,7 +17,7 @@ Une fois à chacun de vos tours, lorsque vous touchez une créature avec une att
 Vous pouvez utiliser votre action bonus pour regagner un nombre de points de vie égal à votre niveau de ligateur. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos.
 
 ## Trait : Chair Épineuse
-Tant que vous êtes lié à Nezaré, votre chair se durcit et laisse pousser de longues épines aiguisées. Lorsqu'une créature à 5 ft. vous touche avec une attaque armée de mêlée, elle subit un nombre de dégâts perçants égal à votre modificateur de Charisme.
+Tant que vous êtes lié à Nezaré, votre chair se durcit et laisse pousser de longues épines aiguisées. Lorsqu'une créature à 5 ft. vous touche avec une attaque armée de mêlée, elle subit un nombre de dégâts perforants égal à votre modificateur de Charisme.
 
 ## Faille
 Tant que vous êtes lié à ce vestige, vous obtenez la faille suivante : "Je méprise tous les saints, clercs, paladins et les prêtres."

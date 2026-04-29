@@ -45,7 +45,7 @@ Au niveau 15, vous avez l'avantage aux jets de sauvegarde pour éviter d'être [
 
 Au niveau 20, votre présence sur le champ de bataille est une inspiration pour ceux dévoués à votre cause. Vous pouvez utiliser votre action pour bénéficier des effets suivants pendant 1 heure :
 
- - Vous êtes résistants aux dégâts contondants, perçants et tranchants venant d'armes non magiques.
+ - Vous êtes résistants aux dégâts contondants, perforants et tranchants venant d'armes non magiques.
  - Vos alliés ont l'avantage aux jets de sauvegarde contre la mort tant qu'ils se trouvent à 30 ft. de vous.
  - Vous avez l'avantage aux jets de sauvegarde de Sagesse, ainsi que vos alliés à 30 ft. de vous.
 

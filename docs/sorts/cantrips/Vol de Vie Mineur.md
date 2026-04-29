@@ -1,9 +1,9 @@
 ---
 available:
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 0
 school: Nécromancie
 Verbal: false
@@ -16,7 +16,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Minor Life Steal
-writing_status: empty
+writing_status: finished
 ---
 Vous volez l'énergie d'une créature hostile que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d4 dégâts nécrotiques. Vous gagnez un nombre de points de vie temporaires égal aux dégâts que vous avez infligez, qui persiste jusqu'à votre prochain repos long. Ce sort n'a aucun effet sur les Morts-Vivants ou les Constructions.
 

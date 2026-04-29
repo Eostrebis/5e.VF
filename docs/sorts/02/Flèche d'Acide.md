@@ -1,7 +1,7 @@
 ---
 available:
- - Magicien
- - Nécromancien
+  - Magicien
+  - Nécromancien
 level: 2
 school: Évocation
 Verbal: true
@@ -14,7 +14,7 @@ Portee: 90 ft.
 Concentration: false
 Rituel: false
 englishname: Acid Arrow
-writing_status: empty
+writing_status: finished
 ---
 Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible subit 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégât différé.
 

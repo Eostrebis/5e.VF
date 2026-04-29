@@ -1,10 +1,10 @@
 ---
 available:
- - Magicien
- - Mage de Guerre
- - Ensorceleur
- - Artificier
- - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Ensorceleur
+  - Artificier
+  - Occultiste
 level: 0
 school: Évocation
 Verbal: false
@@ -17,7 +17,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Green-Flame Blade
-writing_status: empty
+writing_status: finished
 ---
 Vous brandissez l'arme que vous avez utilisée pendant l'incantation du sort et réalisez une attaque de mêlée avec contre une créature à 5 ft. Si vous touchez, la cible subit les effets normaux de l'attaque, et vous pouvez faire en sorte que des flammes vertes se propagent de la cible vers une autre créature de votre choix que vous pouvez voir à 5 ft. La seconde créature subit des dégâts de feu égal à votre modificateur de caractéristique d'incantation.
 

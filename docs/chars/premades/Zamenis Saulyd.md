@@ -65,7 +65,7 @@ Zamenis a la silhouette et les traits indubitables d'une elfe noire, mais quelqu
 
 Sa peau a la couleur de l'obsidienne polie, un noir profond qui absorbe la lumière. Ses cheveux, d'un blanc pur comme le veut son héritage Drow, ne sont pas coiffés en tresses complexes et ornées comme ceux des nobles de sa cité. Elle les porte coupés à la garçonne pour ne pas être gênée dans son travail.
 
-Son visage est anguleux et ses traits sont fins, mais ils sont dénués de la séduction ou de l'arrogance habituelles de son peuple. Son expression est neutre, presque impassible. Ses yeux, d'un orange infernal, ne cherchent pas à charmer ou à intimider par la ruse ; ils sont perçants, analytiques et scrutent le monde avec une intensité déconcertante, comme s'ils cherchaient constamment un indice, une faiblesse, une faille dans la réalité.
+Son visage est anguleux et ses traits sont fins, mais ils sont dénués de la séduction ou de l'arrogance habituelles de son peuple. Son expression est neutre, presque impassible. Ses yeux, d'un orange infernal, ne cherchent pas à charmer ou à intimider par la ruse ; ils sont perforants, analytiques et scrutent le monde avec une intensité déconcertante, comme s'ils cherchaient constamment un indice, une faiblesse, une faille dans la réalité.
 
 Elle ne porte pas les robes de soie et les pièces d'armure en mitral ciselé de sa société. Sa tenue est purement fonctionnelle : une armure de cuir sombre, robuste et bien entretenue, mais portant les cicatrices de nombreuses rencontres. Des renforts de métal protègent ses avant-bras et ses épaules. À sa ceinture pendent plusieurs sacoches contenant des composants de rituels, des fioles, et un ou deux poignards.
 

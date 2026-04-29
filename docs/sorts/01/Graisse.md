@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Artificier
- - Nécromancien
+  - Magicien
+  - Artificier
+  - Nécromancien
 level: 1
 school: Conjuration
 Verbal: true
@@ -15,7 +15,7 @@ Portee: 60 ft. (10 ft.)
 Concentration: false
 Rituel: false
 englishname: Grease
-writing_status: empty
+writing_status: finished
 ---
 De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pendant la durée du sort.
 

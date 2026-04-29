@@ -8,7 +8,7 @@ Véritables joies pour les enfants, les gepettains ressemblent à des jouets viv
 
 En tant que race, les gepettains sont une étrangeté. Même s'ils sont rares, il en existe suffisamment pour qu'ils puissent être considéré en tant que groupe et en tant que race d'êtres vivants, et pas seulement comme des accidents magiques. Bien qu'il y ait des gens dévoués à la création de gepettains (comme pour les golems), beaucoup d'entre eux s'animent par eux-mêmes.
 
-Physiquement, les gepettains sont généralement plus petits que des halfelins. Leurs caractéristiques physiques varient grandement, mais ils sont quasiment toujours humanoïdes de forme. par simplicité, on classe les gepettains selon le matériel utilisé pour leur confection : 
+Physiquement, les gepettains sont généralement plus petits que des halfelins. Leurs caractéristiques physiques varient grandement, mais ils sont quasiment toujours humanoïdes de forme. Par simplicité, on classe les gepettains selon le matériel utilisé pour leur confection : 
 
 | Sous-classe | Description |
 | ---------------- | ------------------ |

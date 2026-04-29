@@ -33,7 +33,7 @@ Au niveau 18, la portée de cette aura passe à 30 ft.
 
 ## Résistance Surnaturelle
 
-Au niveau 15, le paladin devient résistant aux dégâts contondants, perçants et tranchants venant d'armes non magiques.
+Au niveau 15, le paladin devient résistant aux dégâts contondants, perforants et tranchants venant d'armes non magiques.
 
 ## Seigneur de l'Effroi
 

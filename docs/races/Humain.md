@@ -251,7 +251,7 @@ Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et r
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait 1d6 + votre modificateur de Force dégâts perçants, au lieu des dégâts contondants usuels.
+**Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait 1d6 + votre modificateur de Force dégâts perforants, au lieu des dégâts contondants usuels.
 
 **Lutte d'Hibours.** Vous pouvez tenter de Saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de [[saisi|saisie]] que vous effectuez pendant votre tour contre des créatures plus petites que vous.
 
@@ -353,7 +353,7 @@ Votre large nez, forte mâchoire et large tête révèlent assez distinctement v
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants au lieu des dégâts contondants habituels.
+**Cornes.** Vous avez des cornes que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perforants au lieu des dégâts contondants habituels.
 
 **Connaissance Labyrinthique.** Vous savez toujours où est le nord et vous avez l'avantage à vos jets de Sagesse (Survie) que vous effectuez pour naviguer ou tracer.
 

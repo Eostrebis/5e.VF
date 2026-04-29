@@ -1,7 +1,7 @@
 ---
 available:
- - Clerc
- - Martyr
+  - Clerc
+  - Martyr
 level: 1
 school: Évocation
 Verbal: true
@@ -14,7 +14,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Guiding Bolt
-writing_status: empty
+writing_status: finished
 ---
 Un flash de lumière vole en direction d'une créature de votre choix à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 4d6 dégâts radiants, et le prochain jet d'attaque effectué contre la cible avant la fin de votre prochain tour a l'avantage, grâce à la lumière faible mystique qui illumine la cible jusque-là.
 

@@ -1,12 +1,12 @@
 ---
 available:
- - Clerc
- - Ensorceleur
- - Mage de Guerre
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
+  - Clerc
+  - Ensorceleur
+  - Mage de Guerre
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 0
 school: Évocation
 Verbal: true

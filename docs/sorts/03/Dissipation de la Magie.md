@@ -1,16 +1,16 @@
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Paladin
- - Ensorceleur
- - Magicien
- - Occultiste
- - Artificier
- - Sorcière
- - Nécromancien
- - Martyr
+  - Barde
+  - Clerc
+  - Druide
+  - Paladin
+  - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Artificier
+  - Sorcière
+  - Nécromancien
+  - Martyr
 level: 3
 school: Abjuration
 Verbal: true
@@ -23,7 +23,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Dispel Magic
-writing_status: empty
+writing_status: finished
 ---
 Choisissez une créature, un objet ou un effet magique à portée. N'importe quel sort de niveau 3 ou moins sur la cible se termine. Pour chacun des sorts de niveau 4 ou plus sur la cible, effectuez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si le jet est réussi, le sort est dissipé.
 

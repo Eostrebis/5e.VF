@@ -21,7 +21,7 @@ De plus, vous apprenez le [[Langues#Jobelin|Jobelin]].
 
 **Pavémorphose.** Vous manipulez magiquement les composants d'un sol fabriqué — les briques, les pavés, les planches et autres objets similaires — à 60 ft. Chacun de ces composants peut être déplacé de 1 ft. et ne provoque pas d'instabilités aux structures. Lorsque vous utilisez cet effet, vous pouvez faire en sorte que n'importe quelle section du sol que vous choisissez dans la zone devienne du terrain difficile, et vous pouvez faire en sorte qu'une créature se tenant sur l'une de ces sections effectue un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort pour éviter de tomber [[au sol]]. Vous n'êtes pas affecté par ce terrain difficile.
 
-De plus, vous pouvez utiliser votre action à chacun de vos tours pour élever jusqu'à 3 petits murs du sol, chacun haut de 1/2 ft., large de 5 ft. et épais de 1 ft. Ces murs prodiguent généralement une couverture de moitié aux créatures de taille M. Ces murs ne causent pas d'instabilité aux structures environnantes. 
+De plus, vous pouvez utiliser votre action à chacun de vos tours pour élever jusqu'à 3 petits murs du sol, chacun haut de 1/2 ft., large de 5 ft. et épais de 1 ft. Ces murs prodiguent généralement une demie-couverture aux créatures de taille M. Ces murs ne causent pas d'instabilité aux structures environnantes. 
 
 Cette aptitude persiste pendant 1 minute. Après ce temps, tous les composants et murets reviennent magiquement à leurs positions originales. 
 

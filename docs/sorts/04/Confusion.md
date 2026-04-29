@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 4
 school: Enchantement
 Verbal: true

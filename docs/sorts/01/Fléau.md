@@ -1,9 +1,9 @@
 ---
 available:
- - Nécromancien
- - Sorcière
- - Barde
- - Clerc
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Clerc
 level: 1
 school: Enchantement
 Verbal: true
@@ -16,7 +16,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Bane
-writing_status: empty
+writing_status: finished
 ---
 Jusqu'à trois créatures que vous pouvez voir à portée doivent effectuer un jet de sauvegarde de Charisme. Chaque fois qu'une cible qui a raté ce jet de sauvegarde effectue un jet d'attaque ou de sauvegarde avant que le sort se termine, la cible doit lancer un d4 et soustraire le résultat de son jet d'attaque ou de sauvegarde.
 

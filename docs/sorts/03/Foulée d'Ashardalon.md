@@ -1,10 +1,10 @@
 ---
 available:
- - Ranger
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 3
 school: Transmutation
 Verbal: true
@@ -17,9 +17,9 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Ashardalon's Stride
-writing_status: empty
+writing_status: finished
 ---
-Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
+Les flammes ardentes d'un dragon émanent de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 
 Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou un objet ne subit ces dégâts qu'une fois par tour.
 

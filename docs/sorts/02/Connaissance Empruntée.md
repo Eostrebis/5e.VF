@@ -1,11 +1,11 @@
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Clerc
- - Occultiste
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Clerc
+  - Occultiste
+  - Magicien
 level: 2
 school: Divination
 Verbal: true
@@ -18,6 +18,6 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Borrowed Knowledge
-writing_status: empty
+writing_status: finished
 ---
 Vous tirez profit des esprits du passé. Choisissez une compétence que vous ne maîtrisez pas. Pendant la durée du sort, vous maîtrisez cette compétence. Ce sort se termine prématurément si vous le relancez.

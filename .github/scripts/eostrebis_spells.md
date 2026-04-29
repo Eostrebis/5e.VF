@@ -2,12 +2,12 @@
 
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 1
 school: Abjuration
 Verbal: false
@@ -33,9 +33,9 @@ Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur v
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -48,15 +48,15 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Accelerate/Decelerate
-writing_status: empty
+writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Ce sort accélère ou ralentit une attaque juste avant qu'elle frappe, diminuant ou démultipliant sa force. Vous pouvez le lancer quand une créature que vous pouvez voir à 60 ft. est touchée par une attaque.
 
-**Accélérer.** Augmentez les dégâts subis par la cible de 1d6+ votre modificateur de caractéristique d'incantation.
+**Accélérer.** Augmentez les dégâts subis par la cible de 1d6 + votre modificateur de caractéristique d'incantation.
 
-**Décélérer.** Réduisez les dégâts subis par la cible de 1d6+ votre modificateur de caractéristique d'incantation (minimum de 0 dégât).
+**Décélérer.** Réduisez les dégâts subis par la cible de 1d6 + votre modificateur de caractéristique d'incantation (minimum de 0 dégât).
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, le changement de dégâts augmente de 1d6 par emplacement de niveau au-delà du niveau 1.
 
@@ -66,7 +66,7 @@ Ce sort accélère ou ralentit une attaque juste avant qu'elle frappe, diminuant
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -79,7 +79,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Accursed Act
-writing_status: empty
+writing_status: finished
 ---
 Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation dégâts psychiques une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
 
@@ -92,11 +92,11 @@ Tout en allumant une bougie, vous prononcez des malédictions dans une langue mo
 
 ---
 available:
- - Sorcière
- - Barde
- - Paladin
- - Ensorceleur
- - Magicien
+  - Sorcière
+  - Barde
+  - Paladin
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -111,7 +111,7 @@ Rituel: false
 englishname: Action
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Choisissez une créature consentante que vous pouvez voir à portée. Pendant son prochain tour, la cible gagne une action supplémentaire. Cette action ne peut être entreprise que sous la forme de l'action de Foncer, de Désengagement, de Se Cacher, d'Utilisation d'un Objet ou d'Attaque (une attaque armée seulement).
 
@@ -122,11 +122,11 @@ Choisissez une créature consentante que vous pouvez voir à portée. Pendant so
 
 ---
 available:
- - Ranger
- - Magicien
- - Artificier
- - Investigateur
- - Nécromancien
+  - Ranger
+  - Magicien
+  - Artificier
+  - Investigateur
+  - Nécromancien
 level: 1
 school: Abjuration
 Verbal: true
@@ -139,13 +139,13 @@ Portee: 30 ft.
 Concentration: false
 Rituel: true
 englishname: Alarm
-writing_status: empty
+writing_status: finished
 ---
 Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arête de 20 ft. Jusqu'à ce que le sort se termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
 
-Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1.5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi.
+Une alarme mentale vous alerte avec une sonnerie dans votre esprit à condition que vous soyez à 1,5 kilomètre maximum de la zone surveillée. Cette sonnerie vous réveille si vous êtes endormi.
 
-Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 18 mètres.
+Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, pouvant être entendue à 60 ft.
 
 
 ---
@@ -154,10 +154,10 @@ Une alarme audible produit le son d'une clochette à main, pendant 10 secondes, 
 
 ---
 available:
- - Barde
- - Druide
- - Ranger
- - Sorcière
+  - Barde
+  - Druide
+  - Ranger
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -170,7 +170,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Animal Friendship
-writing_status: empty
+writing_status: finished
 ---
 Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir à portée. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Sinon, la bête doit réussir un jet de sauvegarde de Sagesse, ou être [[charmé|charmée]] par vous pendant la durée du sort. Si vous ou l'un de vos compagnons blessez la bête, le sort se termine.
 
@@ -183,11 +183,11 @@ Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Chois
 
 ---
 available:
- - Nécromancien
- - Sorcière
- - Barde
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Abjuration
 Verbal: true
@@ -200,7 +200,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Arcane Anomaly
-writing_status: empty
+writing_status: finished
 ---
 Vous fissurez l'énergie magique qui infuse le multivers. Pendant la durée, chaque fois qu'un sort est lancé à portée, lancez un d6. Sur un 1, l'incantation du sort échoue, dépensant un emplacement de sort normalement, mais sans consommer de composantes matérielles.
 
@@ -211,8 +211,8 @@ Vous fissurez l'énergie magique qui infuse le multivers. Pendant la durée, cha
 
 ---
 available:
- - Investigateur
- - Magicien
+  - Investigateur
+  - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -225,7 +225,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: true
 englishname: Find Familiar
-writing_status: empty
+writing_status: finished
 ---
 Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste, une fée ou un fiélon.
 
@@ -237,7 +237,7 @@ Tant que votre familier se trouve à 100 ft. de vous, vous pouvez communiquer av
 
 Vous ne pouvez pas avoir plus d'un familier à la fois. Si vous relancez le sort alors que vous avez déjà un familier, vous le faites simplement changer de forme. Choisissez l'une des formes ci-dessus. Votre familier se transforme en la forme choisie.
 
-Enfin, lorsque vous lancez un sort avec une portée de toucher, votre familier peut délivrer le sort comme s'il l'avait lancé. Votre familier doit être à moins de 100 ft. de vous et il doit utiliser sa réaction pour délivrer le sort lorsque vous le lancez. Si le sort requiert un jet d'attaque, **vous** lancez ce jet en utilisant votre modificateur.
+Enfin, lorsque vous lancez un sort avec une portée de toucher, votre familier peut délivrer le sort comme s'il l'avait lancé. Votre familier doit être à moins de 100 ft. de vous et il doit utiliser sa réaction pour délivrer le sort lorsque vous le lancez. Si le sort requiert un jet d'attaque, **vous** effectuez ce jet en utilisant votre modificateur.
 
 
 
@@ -248,8 +248,8 @@ Enfin, lorsque vous lancez un sort avec une portée de toucher, votre familier p
 
 ---
 available:
- - Clerc
- - Investigateur
+  - Clerc
+  - Investigateur
 level: 1
 school: Abjuration
 Verbal: true
@@ -262,7 +262,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Consecrated Armor
-writing_status: empty
+writing_status: finished
 ---
 Vous dessinez un symbole sacré sur votre torse, et une barrière invisible vous protège jusqu'à ce que le sort se termine. Votre CA de base devient 12 + votre modificateur de Dextérité. Si vous êtes attaqué par un Fiélon ou un Mort-Vivant, votre CA devient 15 + votre modificateur de Dextérité contre cette attaque.
 
@@ -273,7 +273,7 @@ Vous dessinez un symbole sacré sur votre torse, et une barrière invisible vous
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 1
 school: Abjuration
 Verbal: true
@@ -286,7 +286,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Armor of Agathys
-writing_status: empty
+writing_status: finished
 ---
 Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pendant la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature subit 5 dégâts de froid.
 
@@ -299,9 +299,9 @@ Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous r
 
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Abjuration
 Verbal: true
@@ -314,7 +314,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mage Armor
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature consentante qui ne porte pas d'armure et un champ magique protecteur l'entoure jusqu'à ce que le sort se termine. La CA de base de la cible passe à 13 + son modificateur de Dextérité. Le sort se termine si la cible met une armure ou si vous dissipez le sort pour une action.
 
@@ -325,11 +325,11 @@ Vous touchez une créature consentante qui ne porte pas d'armure et un champ mag
 
 ---
 available:
- - Barde
- - Ranger
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 1
 school: Illusion
 Verbal: true
@@ -350,7 +350,7 @@ La première fois que vous utilisez l'action Attaquer pendant votre tour, vous p
 
 - **2e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 1d6 dégâts psychiques et ne peut pas utiliser de réactions jusqu'à la fin de votre prochain tour.
 
-- **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas effectuer d'actions bonus pendant son prochain tour.
+- **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas entreprendre d'actions bonus pendant son prochain tour.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts psychiques de la 2e touche augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.
 
@@ -360,8 +360,8 @@ La première fois que vous utilisez l'action Attaquer pendant votre tour, vous p
 
 ---
 available:
- - Clerc
- - Nécromancien
+  - Clerc
+  - Nécromancien
 level: 1
 school: Évocation
 Verbal: true
@@ -374,9 +374,9 @@ Portee: 15 ft.
 Concentration: true
 Rituel: false
 englishname: Might of the Abyss
-writing_status: empty
+writing_status: finished
 ---
-Vous canalisez le pouvoir stygien d'une source extra planaire, améliorant trois créatures autres que vous à portée. Lorsqu'une cible réalise une attaque armée, elle inflige 1d4 dégâts supplémentaires. Si la cible se déplace à plus de 15 ft. de vous, elle perd l'effet jusqu'à à nouveau être dans la zone d'effet.
+Vous canalisez le pouvoir stygien d'une source extra planaire, améliorant trois créatures autres que vous à portée. Lorsqu'une cible réalise une attaque armée, elle inflige 1d4 dégâts supplémentaires. Si la cible se déplace à plus de 15 ft. de vous, elle perd l'effet jusqu'à être à nouveau dans la zone d'effet.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, la portée augmente de 5 ft. et vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.
 
@@ -387,8 +387,8 @@ Vous canalisez le pouvoir stygien d'une source extra planaire, améliorant trois
 
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 1
 school: Abjuration
 Verbal: true
@@ -401,7 +401,7 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Aura of Stability
-writing_status: empty
+writing_status: finished
 ---
 Une énergie gravitationnelle rayonne de vous dans une aura d'un rayon de 10 ft. Jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) a l'avantage aux jets de sauvegarde pour ne pas être [[au sol]].
 
@@ -411,8 +411,8 @@ Une énergie gravitationnelle rayonne de vous dans une aura d'un rayon de 10 ft.
 
 ---
 available:
- - Druide
- - Ranger
+  - Druide
+  - Ranger
 level: 1
 school: Transmutation
 Verbal: true
@@ -425,7 +425,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Goodberry
-writing_status: empty
+writing_status: finished
 ---
 Jusqu'à 10 baies apparaissent dans votre main et sont infusées de magie pendant 24 heures. Une créature peut utiliser son action pour manger une baie. Manger une baie rend 1 point de vie, et la baie contient suffisamment de nutriments pour une journée.
 
@@ -438,9 +438,9 @@ Les baies perdent de leur efficacité si elles ne sont pas consommées dans les 
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Barde
+  - Ensorceleur
+  - Magicien
+  - Barde
 level: 1
 school: Illusion
 Verbal: true
@@ -466,8 +466,8 @@ Lorsque vous lancez ce sort, choisissez une créature que vous pouvez voir à po
 
 ---
 available:
- - Paladin
- - Ranger
+  - Paladin
+  - Ranger
 level: 1
 school: Évocation
 Verbal: true
@@ -482,7 +482,7 @@ Rituel: false
 englishname: Chromatic Bullet
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée à distance en utilisant une arme à feu pendant la durée du sort, votre balle regorge d'énergie élémentaire. L'attaque inflige 2d4 dégâts supplémentaires à la cible. Vous choisissez si ces dégâts supplémentaires sont des dégâts d'acide, de froid, de feu, de foudre, de poison ou de tonnerre et vous pouvez choisir de changer les dégâts de votre arme à feu pour un de ceux-ci. Vous n'êtes pas obligé de choisir les mêmes dégâts pour les deux.
 
@@ -495,7 +495,7 @@ La prochaine fois que vous touchez une créature avec une attaque armée à dist
 
 ---
 available:
- - Barde
+  - Barde
 level: 1
 school: Abjuration
 Verbal: true
@@ -508,7 +508,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Mystic Barrier of Drum
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une barrière sonore autour d'une créature que vous pouvez voir à portée. Cette créature gagne un bonus de +2 à la CA pendant la durée du sort.
 
@@ -518,9 +518,9 @@ Vous créez une barrière sonore autour d'une créature que vous pouvez voir à 
 
 ---
 available:
- - Martyr
- - Nécromancien
- - Clerc
+  - Martyr
+  - Nécromancien
+  - Clerc
 level: 1
 school: Nécromancie
 Verbal: true
@@ -546,8 +546,8 @@ Réalisez une attaque de sort de mêlée contre une créature à portée. Si vou
 
 ---
 available:
- - Ranger
- - Nécromancien
+  - Ranger
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -571,8 +571,8 @@ Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre allonge, vous po
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -587,7 +587,7 @@ Rituel: false
 englishname: Time Hop
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous vous projetez quelques secondes dans le futur. Choisissez une durée : 1 tour, 2 tours ou 3 tours. Vous disparaissez, et réapparaissez après la durée au début de votre tour dans l'espace inoccupé le plus proche de celui que vous avez quitté. Tant que vous êtes disparu, vous êtes en dehors du temps ; vous ne pouvez pas utiliser d'action ou de réaction, le temps ne passe pas pour vous, les effets de vos sorts sont suspendus, et vous ne pouvez être affecté par des attaques ou des effets.
 
@@ -600,11 +600,11 @@ Vous vous projetez quelques secondes dans le futur. Choisissez une durée : 1 to
 
 ---
 available:
- - Artificier
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -628,10 +628,10 @@ Vous touchez une créature. La distance de saut de cette créature est triplée 
 
 ---
 available:
- - Ensorceleur
- - Paladin
- - Clerc
- - Martyr
+  - Ensorceleur
+  - Paladin
+  - Clerc
+  - Martyr
 level: 1
 school: Évocation
 Verbal: true
@@ -644,7 +644,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Boomering
-writing_status: empty
+writing_status: finished
 ---
 Un anneau d'étincelles est projeté de votre main et vous revient quelques instants plus tard. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, vous infligez 3d6 dégâts radiants. Si vous ratez, vous pouvez retenter le jet d'attaque contre la même cible une fois.
 
@@ -659,9 +659,9 @@ Si vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, 
 
 ---
 available:
- - Clerc
- - Martyr
- - Paladin
+  - Clerc
+  - Martyr
+  - Paladin
 level: 1
 school: Abjuration
 Verbal: true
@@ -685,11 +685,11 @@ Un bouclier scintillant apparaît et encercle une créature de votre choix à po
 
 ---
 available:
- - Paladin
- - Barde
- - Clerc
- - Sorcière
- - Magicien
+  - Paladin
+  - Barde
+  - Clerc
+  - Sorcière
+  - Magicien
 level: 1
 school: Abjuration
 Verbal: false
@@ -702,7 +702,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Shield
-writing_status: empty
+writing_status: finished
 ---
 Lorsqu'une créature non hostile à portée (ou vous) se fait attaquer, vous pouvez utiliser une réaction pour la protéger magiquement, lui conférant un bonus de +2 à la CA contre cette attaque.
 
@@ -713,8 +713,8 @@ Lorsqu'une créature non hostile à portée (ou vous) se fait attaquer, vous pou
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Abjuration
 Verbal: true
@@ -727,7 +727,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Shield
-writing_status: empty
+writing_status: finished
 ---
 Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne subissez aucun dégât de [[Projectiles Magiques]].
 
@@ -738,11 +738,11 @@ Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touc
 
 ---
 available:
- - Nécromancien
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -755,7 +755,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Fog Cloud
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point à portée. La sphère se propage autour des coins et sa zone est fortement dissimulée. Elle persiste pendant la durée du sort ou jusqu'à ce qu'un vent de vitesse modérée ou grande (au moins 20 km/heure) la disperse.
 
@@ -768,9 +768,9 @@ Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point
 
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 1
 school: Enchantement
 Verbal: true
@@ -783,7 +783,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Bless
-writing_status: empty
+writing_status: finished
 ---
 Vous bénissez jusqu'à trois créatures de votre choix à portée. À chaque fois qu'une de ces créatures effectue un jet d'attaque ou de sauvegarde avant la fin du sort, elle peut lancer un d4 et ajouter le résultat obtenu à son jet.
 
@@ -796,10 +796,10 @@ Vous bénissez jusqu'à trois créatures de votre choix à portée. À chaque fo
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 1
 school: Transmutation
 Verbal: false
@@ -812,7 +812,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Catapult
-writing_status: empty
+writing_status: finished
 ---
 Choisissez un objet pesant entre 0,5 et 2,5 kilos à portée qui n'est pas porté. L'objet vole en ligne droite sur 90 ft. dans une direction de votre choix avant de s'écraser au sol, s'arrêtant prématurément s'il touche une surface solide. Si l'objet devrait toucher une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, l'objet la frappe et s'arrête de bouger. Lorsque l'objet frappe quelque chose, l'objet et la cible subissent chacun 3d6 dégâts contondants.
 
@@ -825,9 +825,9 @@ Choisissez un objet pesant entre 0,5 et 2,5 kilos à portée qui n'est pas port�
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Druide
+  - Magicien
+  - Ensorceleur
+  - Druide
 level: 1
 school: Transmutation
 Verbal: true
@@ -840,7 +840,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Rumbling Charge
-writing_status: empty
+writing_status: finished
 ---
 Vous vous encerclez du pouvoir élémentaire d'un glissement de terrain. Lorsque vous lancez ce sort, vous vous déplacez automatiquement de 30 ft. en ligne droite sans provoquer d'attaque d'opportunité. Si votre chemin est bloqué par une créature ou un objet, vous vous y arrêtez et cette créature ou objet doit effectuer un jet de sauvegarde de Force ou subir 2d12 dégâts contondants, ou la moitié en cas de succès.
 
@@ -853,12 +853,12 @@ Vous vous encerclez du pouvoir élémentaire d'un glissement de terrain. Lorsque
 
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -871,7 +871,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Charm Person
-writing_status: empty
+writing_status: finished
 ---
 Vous essayez de charmer un humanoïde que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, et le fait avec avantage si vous ou vos compagnons l'affrontez. Si elle rate le jet de sauvegarde, la cible est [[charmé|charmée]] par vous jusqu'à ce que le sort se termine ou jusqu'à ce que vous ou vos compagnons la blessiez. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la cible sait qu'elle a été charmée par vous.
 
@@ -884,7 +884,7 @@ Vous essayez de charmer un humanoïde que vous pouvez voir à portée. La cible 
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 1
 school: Transmutation
 Verbal: true
@@ -908,8 +908,8 @@ Vous vous faites pousser des poils/cheveux excessivement longs et durs (même au
 
 ---
 available:
- - Paladin
- - Ranger
+  - Paladin
+  - Ranger
 level: 1
 school: Évocation
 Verbal: true
@@ -926,7 +926,7 @@ writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme reluit d'une chaleur de l'acier blanc, et l'attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'embrase.
 
-Au début de chacun de ses tours avant que le sort se termine, la cible doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, elle subit 1d6 dégâts de feu. Si elle réussit, le sort se termine. Si la cible ou une créature à 5 ft. de celle-ci utilise son action pour éteindre les flammes, ou si un autre effet les éteint (comme la cible étant plongée dans l'eau), le sort se termine.
+Au début de chacun de ses tours avant que le sort se termine, la cible doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, elle subit 1d6 dégâts de feu. Si elle réussit, le sort se termine. Si la cible ou une créature à 5 ft. de celle-ci utilise son action pour éteindre les flammes, ou si un autre effet les éteint (comme si la cible était plongée dans l'eau), le sort se termine.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts supplémentaires initiaux infligés par l'attaque augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.
 
@@ -937,7 +937,7 @@ Au début de chacun de ses tours avant que le sort se termine, la cible doit eff
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 1
 school: Évocation
 Verbal: true
@@ -961,7 +961,7 @@ La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 1
 school: Abjuration
 Verbal: true
@@ -987,7 +987,7 @@ La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 1
 school: Évocation
 Verbal: true
@@ -1002,7 +1002,7 @@ Rituel: false
 englishname: Thunderous Smite
 writing_status: finished
 ---
-La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre arme résonne comme un tonnerre audible à 300 ft. et l'attaque inflige 2d6 dégâts de tonnerre supplémentaire à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. et tomber [[au sol]].
+La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre arme résonne comme un tonnerre audible à 300 ft. et l'attaque inflige 2d6 dégâts de tonnerre supplémentaires à la cible. De plus, si la cible est une créature, elle doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft. et tomber [[au sol]].
 
 
 ---
@@ -1011,7 +1011,7 @@ La première fois que vous touchez avec une attaque armée de mêlée pendant la
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -1024,9 +1024,9 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Dead Mist Lash
-writing_status: empty
+writing_status: finished
 ---
-Vous conjurez un tentacule blanc et luisant formé de la sinistre Brume Morte qui se déchaîne contre un ennemi que vous pouvez voir à portée. Lorsque vous lancez ce sort, vous pouvez l'alimenter avec votre propre essence vitale en perdant 5, 10 ou 15 points de vie lorsque vous le lancez. Si vous le faites, considérez l'emplacement utilisé pour lancer le sort comme un emplacement d'un niveau supérieur par tranche de 5 points de vie perdus, jusqu'à un maximum de niveau 9.
+Vous conjurez un tentacule blanc et luisant formé de la sinistre Brume Morte qui se déchaîne contre un ennemi que vous pouvez voir à portée. Lorsque vous lancez ce sort, vous pouvez l'alimenter avec votre propre essence vitale en subissant 5, 10 ou 15 dégâts, qui ne peuvent être réduits d'aucune manière, lorsque vous le lancez. Si vous le faites, considérez l'emplacement utilisé pour lancer le sort comme un emplacement d'un niveau supérieur par tranche de 5 points de vie subis, jusqu'à un maximum de niveau 9.
 
 Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la créature subit 3d8 dégâts nécrotiques.
 
@@ -1039,8 +1039,8 @@ Réalisez une attaque de sort à distance contre une créature à portée. Si vo
 
 ---
 available:
- - Investigateur
- - Sorcière
+  - Investigateur
+  - Sorcière
 level: 1
 school: Abjuration
 Verbal: false
@@ -1072,11 +1072,11 @@ Après que le piège s'est déclenché, le sort se termine lorsque aucune créat
 
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Druide
- - Ranger
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Druide
+  - Ranger
 level: 1
 school: Divination
 Verbal: true
@@ -1100,25 +1100,25 @@ Vous obtenez la capacité de comprendre et de communiquer verbalement avec les B
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Investigateur
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Investigateur
+  - Sorcière
 level: 1
 school: Divination
 Verbal: true
 Somatique: true
 Materiel: true
-detailmat: Un pincée de suie et de sel
+detailmat: Une pincée de suie et de sel
 Duree: 1 Heure
 Incantation: 1 Action
 Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Comprehend Languages
-writing_status: empty
+writing_status: finished
 ---
 Pendant la durée du sort, vous comprenez le sens strict de n'importe quelle langue que vous entendez. Vous comprenez également n'importe quelle langue écrite que vous lisez, mais vous devez toucher la surface sur laquelle les mots sont écrits. Cela vous prend environ 1 minute de lire une page de texte.
 
@@ -1131,8 +1131,8 @@ Ce sort ne permet pas de déchiffrer des messages secrets dans un texte ou un gl
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Illusion
 Verbal: true
@@ -1145,7 +1145,7 @@ Portee: Personnelle (rayon de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Color Spray
-writing_status: empty
+writing_status: finished
 ---
 Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total correspond au nombre de points de vie des créatures que vous pouvez affecter. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
 
@@ -1159,7 +1159,7 @@ En commençant par la créature qui a actuellement le moins de points de vie, ch
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -1172,7 +1172,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Gahoul's Shrieking Skull
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne subit 2d4 dégâts de tonnerre.
 
@@ -1184,8 +1184,8 @@ Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, q
 
 ---
 available:
- - Clerc
- - Druide
+  - Clerc
+  - Druide
 level: 1
 school: Transmutation
 Verbal: true
@@ -1198,7 +1198,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Create or Destroy Water
-writing_status: empty
+writing_status: finished
 ---
 Vous pouvez créer ou détruire de l'eau.
 
@@ -1215,10 +1215,10 @@ Vous pouvez créer ou détruire de l'eau.
 
 ---
 available:
- - Clerc
- - Paladin
- - Investigateur
- - Martyr
+  - Clerc
+  - Paladin
+  - Investigateur
+  - Martyr
 level: 1
 school: Abjuration
 Verbal: true
@@ -1231,9 +1231,9 @@ Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Ceremony
-writing_status: empty
+writing_status: finished
 ---
-Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, dont les cibles doivent se trouver à 10 ft. de vous pendant l'incantation.
+Vous réalisez une cérémonie religieuse qui est imprégnée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, dont les cibles doivent se trouver à 10 ft. de vous pendant l'incantation.
 
 **Pardon.** Vous touchez une créature consentante dont l'alignement a changé, puis vous effectuez un jet de Sagesse (Perspicacité) DD 20. Si vous réussissez, vous rendez à la cible son alignement précédent.
 
@@ -1254,8 +1254,8 @@ Vous réalisez une cérémonie religieuse qui est embuée de magie. Lorsque vous
 
 ---
 available:
- - Magicien
- - Investigateur
+  - Magicien
+  - Investigateur
 level: 1
 school: Conjuration
 Verbal: true
@@ -1268,7 +1268,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: true
 englishname: Floating Disk
-writing_status: empty
+writing_status: finished
 ---
 Ce sort crée un plan de force horizontal et circulaire de 3 ft. de diamètre et épais de quelques centimètres qui flotte 3 ft. au-dessus du sol d'un espace inoccupé de votre choix que vous pouvez voir à portée. Le disque persiste pendant la durée du sort, et peut soutenir jusqu'à 250 kg. Si un poids supérieur est placé sur le disque, le sort se termine et tout ce qui se trouve sur le disque tombe au sol.
 
@@ -1283,7 +1283,7 @@ Si vous bougez à plus de 100 ft. du disque, le sort se termine.
 
 ---
 available:
- - Magicien
+  - Magicien
 level: 1
 school: Évocation
 Verbal: true
@@ -1296,7 +1296,7 @@ Portee: Personnelle (cône de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Frost Fingers
-writing_status: empty
+writing_status: finished
 ---
 Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Constitution et subir 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
 
@@ -1311,8 +1311,8 @@ Le froid est tel qu'il gèle magiquement les liquides non magiques et non porté
 
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 1
 school: Enchantement
 Verbal: true
@@ -1325,7 +1325,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Compelled Duel
-writing_status: empty
+writing_status: finished
 ---
 Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit effectuer un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle effectue contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.
 
@@ -1336,33 +1336,6 @@ Le sort se termine si vous attaquez une autre créature, si vous lancez un sort 
 
 ## Fichier : `..\..\docs\sorts\01\Déguisement.md`
 
----
-available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
- - Investigateur
- - Sorcière
-level: 1
-school: Illusion
-Verbal: true
-Somatique: true
-Materiel: false
-detailmat:
-Duree: 1 Heure
-Incantation: 1 Action
-Portee: Personnelle
-Concentration: false
-Rituel: false
-englishname: Disguise Self
-writing_status: empty
----
-Vous changez d'apparence jusqu'à ce que le sort se termine ou que vous utilisiez une action pour le dissiper. Le changement inclut vos vêtements, votre armure, vos armes et les autres objets que vous portez. Vous pouvez paraître 30 cm plus grand ou plus petit, plus mince ou plus obèse. Vous ne pouvez pas modifier votre type morphologique. Vous devez donc prendre une forme qui présente un arrangement similaire des membres. Par ailleurs, l'ampleur de l'illusion ne tient qu'à vous. 
-
-Les modifications apportées par ce sort ne résistent pas à une inspection physique. Par exemple, si vous utilisez ce sort pour ajouter un chapeau à votre accoutrement, les objets passeront à travers le chapeau et si on y touche, on ne sentira pas sa présence ou on tâtera plutôt votre tête et votre chevelure. Si vous utilisez ce sort pour paraître plus mince, la main d'une personne qui veut vous toucher entrera en contact avec votre corps alors que sa main semble libre d'obstruction. 
-
-Pour détecter que vous êtes déguisé, une créature peut utiliser son action pour inspecter votre apparence et elle doit réussir un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort.
 
 
 ---
@@ -1495,7 +1468,7 @@ Rituel: true
 englishname: Blood Print
 writing_status: empty
 ---
-Sous votre touche, le sang humide sur une surface se réarrange et forme un paterne de tâches cramoisies. Cette empreinte sanguine est unique à la créature à qui le sang appartient, mais vous déterminez le type de la créature (humain, gnoll, biche ou géant des flammes par exemple) en en examinant la forme globale. Une empreinte peut être préservée en pressant une feuille de papier contre. Si le sort est lancé deux fois, il est possible de comparer des prélèvements sanguins en comparant les empreintes.
+Sous votre touche, le sang humide sur une surface se réarrange et forme un motif de taches cramoisies. Cette empreinte sanguine est unique à la créature à qui le sang appartient, mais vous déterminez le type de la créature (humain, gnoll, biche ou géant des flammes par exemple) en en examinant la forme globale. Une empreinte peut être préservée en pressant une feuille de papier contre. Si le sort est lancé deux fois, il est possible de comparer des prélèvements sanguins en comparant les empreintes.
 
 
 ---
@@ -1576,7 +1549,7 @@ Rituel: false
 englishname: Distort Value
 writing_status: empty
 ---
-Vous lancez ce sort sur un objet qui ne fait pas plus de 1 ft. dans chacune de ses dimensions, doublant sa valeur perceptible en ajoutant des finitions illusoires ou réduisant sa valeur perceptible de moitié à l'aide de traces d'usures illusoires. N'importe qui examinant l'objet doit effectuer un jet d'Investigation contre votre DD de sort.
+Vous lancez ce sort sur un objet qui ne fait pas plus de 1 ft. dans chacune de ses dimensions, doublant sa valeur perceptible en ajoutant des finitions illusoires ou réduisant sa valeur perceptible de moitié à l'aide de traces d'usures illusoires. N'importe qui examinant l'objet doit effectuer un jet d'Intelligence (Investigation) contre votre DD de sort.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous augmentez la taille des objets que vous êtes capables d'affecter de 1 ft. par niveau d'emplacement au-delà du niveau 1.
 
@@ -1602,7 +1575,7 @@ Rituel: false
 englishname: Divine Favor
 writing_status: empty
 ---
-Vos prières vous confèrent un rayonnement divin. jusqu'à ce que le sort se termine, vos attaques armées infligent 1d4 dégâts radiants supplémentaires.
+Vos prières vous confèrent un rayonnement divin. Jusqu'à ce que le sort se termine, vos attaques armées infligent 1d4 dégâts radiants supplémentaires.
 
 
 ---
@@ -1798,7 +1771,7 @@ writing_status: empty
 ---
 Vous éveillez, chez une créature que vous pouvez voir à portée, son sens de la mortalité, sa conscience de la mort. Une construction ou un mort-vivant est immunisé contre cet effet. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'à ce que le sort se termine. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet sur un succès.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un sort de niveau 2 ou plus, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Toutes les cibles doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez cibler une créature supplémentaire pour chaque niveau d'emplacement au-delà du niveau 1. Toutes les cibles doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.
 
 
 ---
@@ -1874,7 +1847,7 @@ Rituel: false
 englishname: Hail of Thorns
 writing_status: empty
 ---
-La prochaine fois que vous touchez une créature avec une attaque armée à distance avant que le sort se termine, le sort crée une pluie d'épines qui poussent depuis votre arme ou munition. En plus des effets normaux de votre attaque, la cible et chaque créature à 5 ft. d'elle doivent effectuer un jet de sauvegarde de Dextérité. Une créature subit 1d10 dégâts perçants si elle rate son jet, ou la moitié si elle réussit.
+La prochaine fois que vous touchez une créature avec une attaque armée à distance avant que le sort se termine, le sort crée une pluie d'épines qui poussent depuis votre arme ou munition. En plus des effets normaux de votre attaque, la cible et chaque créature à 5 ft. d'elle doivent effectuer un jet de sauvegarde de Dextérité. Une créature subit 1d10 dégâts perforants si elle rate son jet, ou la moitié si elle réussit.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 1.
 
@@ -1903,7 +1876,7 @@ Rituel: false
 englishname: Masterful Focus
 writing_status: finished
 ---
-Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. jusqu'à ce que le sort se termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.
+Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. Jusqu'à ce que le sort se termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, l'intervalle dans lequel vous infligez un coup critique croît de 1 (17-20, 16-20, et ainsi de suite) par niveau d'emplacement au-delà du niveau 1.
 
@@ -1932,9 +1905,9 @@ Rituel: false
 englishname: Heroism
 writing_status: empty
 ---
-Une créature consentante que vous touchez se voit remplie de bravoure. jusqu'à ce que le sort se termine, la créature ne peut pas être [[apeuré|apeurée]] et gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation au début de chacun de ses tours. Lorsque le sort se termine, la cible perd les points de vie temporaires qu'il lui resterait.
+Une créature consentante que vous touchez se voit remplie de bravoure. Jusqu'à ce que le sort se termine, la créature ne peut pas être [[apeuré|apeurée]] et gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation au début de chacun de ses tours. Lorsque le sort se termine, la cible perd les points de vie temporaires qu'il lui resterait.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature additionnelle par niveau d'emplacement de sort au-delà du niveau 10
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature additionnelle par niveau d'emplacement de sort au-delà du niveau 1
 
 
 ---
@@ -2016,7 +1989,7 @@ Rituel: false
 englishname: Command
 writing_status: empty
 ---
-Vous prononcer une injonction d'un mot à une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou suivre l'ordre pendant son prochain tour. Le sort n'a aucun effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si l'injonction lui est directement néfaste.
+Vous prononcez une injonction d'un mot à une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou suivre l'ordre pendant son prochain tour. Le sort n'a aucun effet si la cible est un mort-vivant, si elle ne comprend pas votre langue ou si l'injonction lui est directement néfaste.
 
 Certaines commandes sont détaillées ci-dessous. Vous pouvez donner une injonction autres que celles-ci, auquel cas le MJ décide comment la cible se comporte. Si la cible ne peut suivre votre injonction, le sort se termine.
 
@@ -2060,9 +2033,9 @@ writing_status: finished
 tags:
  - renaissance
 ---
-Vous invoquez un petit mur en pierre le long du sol, parfaite couverture, à point que vous pouvez voir à distance. Le mur est épais de 50 cm et composé de trois segments hauts de 3 ft. et long de 5 ft. Chaque segment doit être contigu avec au moins un autre segment.
+Vous invoquez un petit mur en pierre le long du sol sur un point que vous pouvez voir à distance. Le mur est épais de 50 cm et composé de trois segments hauts de 3 ft. et long de 5 ft. Chaque segment doit être contigu avec au moins un autre segment.
 
-Une créature de taille M qui s'accroupit derrière le mur a une couverture de moitié contre les attaques à distance, et une créature de taille P qui s'accroupit a une couverture de trois-quarts. Une créature [[au sol]] a une couverture totale derrière le mur. Le mur peut être surmonté sans mouvement supplémentaire.
+Une créature de taille M qui s'accroupit derrière le mur a une demie-couverture contre les attaques à distance, et une créature de taille P qui s'accroupit a une couverture de trois-quarts. Une créature [[au sol]] a une couverture totale derrière le mur. Le mur peut être surmonté sans mouvement supplémentaire.
 
 Chaque segment a une CA de 10 et 60 points de vie. Réduire un segment à 0 points de vie le détruit. Le mur disparaît lorsque tous les segments sont détruits ou que le sort se termine.
 
@@ -2118,7 +2091,7 @@ Rituel: false
 englishname: Free Throw
 writing_status: empty
 ---
-Tout en lançant ce sort, vous jetez un objet tenu pesant 2,5 kilos ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les couvertures de moitié et de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Sur un échec, elle subit 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
+Tout en lançant ce sort, vous jetez un objet tenu pesant 2,5 kilos ou moins. Pendant la durée du sort, vous choisissez la trajectoire exacte de l'objet, jusqu'à une distance de 150 ft. L'objet peut naviguer autour des obstacles et des coins et ignore les demies-couvertures et les couvertures de trois-quarts s'il est dirigé vers une créature. Si l'objet touche une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Sur un échec, elle subit 4d4 dégâts contondants et la moitié sur une réussite. L'objet arrête tout mouvement après avoir touché une créature ou un objet.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, le poids maximum des objets que vous pouvez lancer augmente de 2,5 kilos et les dégâts augmentent de 2d4 par niveau d'emplacement au-delà du niveau 1.
 
@@ -2200,7 +2173,7 @@ Rituel: false
 englishname: Burning Hands
 writing_status: empty
 ---
-En tenant vos mains de telle sorte que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts de feu. En cas de réussite, elle ne subit que la moitié des dégâts.
+En joignant vos mains de manière à ce que vos pouces se touchent et vos doigts soient écartés, une épaisse couche de flamme se trouve projetée en avant depuis le bout de vos doigts. Chaque créature dans un cône de 15 ft. doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts de feu. En cas de réussite, elle ne subit que la moitié des dégâts.
 
 Le feu embrase tout objet inflammable dans la zone d'effet qui n'est pas porté.
 
@@ -2940,7 +2913,7 @@ writing_status: empty
 ---
 Vous invoquez le pouvoir de Hadar, la Faim Sombre. Des vignes d'énergie sombre émanent de vous et frappent toutes les créatures à moins de 10 ft. de vous. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Force. En cas d'échec, la cible subit 2d6 dégâts nécrotiques et ne peut pas utiliser de réaction avant son prochain tour. Sur un succès, la créature subit la moitié des dégâts, et ne souffre d'aucun autre effet.
 
-**Aux niveau supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par chaque niveau au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d6 par chaque niveau au-delà du niveau 1.
 
 
 ---
@@ -2995,7 +2968,7 @@ writing_status: empty
 ---
 Une vague d'énergie tonitruante émane de vous. Toute créature dans un cube de 15 ft. de côté émanant de vous doit effectuer un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d8 dégâts de tonnerre et est repoussée de 10 ft. Si elle réussit, la créature subit la moitié des dégâts et n'est pas repoussée.
 
-De plus, les objets non immobilisés qui sont complétement dans la zone d'effet du sort sont automatiquement repoussées de 10 ft., et le sort émet une détonation entendable à 300 ft. (~90 m).
+De plus, les objets non immobilisés qui sont complètement dans la zone d'effet du sort sont automatiquement repoussés de 10 ft., et le sort émet une détonation audible à 300 ft. (~90 m).
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.
 
@@ -3026,7 +2999,7 @@ Rituel: false
 englishname: Whisperind Wind
 writing_status: empty
 ---
-Vous pointez votre doigt dans une direction et murmurez un message de jusqu'à vingt cinq mots, tout en désignant jusqu'à 6 créatures pour être les cibles. Si une cible est à portée et dans la direction générale que vous avez pointée, elle (et seulement elle) entend le message porté par le vent. Elle peut répondre par un murmure que vous êtes le seul à entendre.
+Vous pointez votre doigt dans une direction et murmurez un message de jusqu'à vingt-cinq mots, tout en désignant jusqu'à 6 créatures pour être les cibles. Si une cible est à portée et dans la direction générale que vous avez pointée, elle (et seulement elle) entend le message porté par le vent. Elle peut répondre par un murmure que vous êtes le seul à entendre.
 
 Vous ne pouvez lancer ce sort que s'il y a un chemin pour que l'air puisse se déplacer de vous aux cibles. Le sort n'a pas à suivre une ligne droite et peut voyager librement le long des obstacles, mais est bloqué par les objets solides et les zones de silence magique.
 
@@ -3077,11 +3050,11 @@ Une créature ne peut être ciblée qu'une fois pour chaque incantation de ce so
 
 ---
 available:
- - Sorcière
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -3094,7 +3067,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Aberrate
-writing_status: empty
+writing_status: finished
 ---
 Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne subissez pas de dégâts supplémentaires des dégâts critiques.
 
@@ -3107,10 +3080,10 @@ De plus, votre corps s'adapte aux menaces en se déformant. Immédiatement aprè
 
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
- - Artificier
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 2
 school: Transmutation
 Verbal: true
@@ -3123,13 +3096,13 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Enlarge/Reduce
-writing_status: empty
+writing_status: finished
 ---
 Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pendant la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut effectuer un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
 
 Si la cible est une créature, tout ce qu'elle porte change de taille avec elle. Un objet lâché par une créature affectée par le sort revient à sa taille normale.
 
-**Agrandissement.** La taille de la cible double dans toutes ses dimensions, et son poids est multiplié par huit. Cette croissance fait passer sa taille à la catégorie supérieure -- de M à G, par exemple. S'il n'y a pas assez de place pour que la cible double de taille, la créature ou l'objet atteint la taille maximum possible dans l'espace disponible. jusqu'à ce que le sort se termine, la cible a l'avantage aux jets de Force et de sauvegarde de Force. Les armes de la cible grandissent également pour s'adapter à sa nouvelle taille. Tant que ces armes sont agrandies, les attaques de la cible infligent 1d4 dégâts supplémentaires.
+**Agrandissement.** La taille de la cible double dans toutes ses dimensions, et son poids est multiplié par huit. Cette croissance fait passer sa taille à la catégorie supérieure -- de M à G, par exemple. S'il n'y a pas assez de place pour que la cible double de taille, la créature ou l'objet atteint la taille maximum possible dans l'espace disponible. Jusqu'à ce que le sort se termine, la cible a l'avantage aux jets de Force et de sauvegarde de Force. Les armes de la cible grandissent également pour s'adapter à sa nouvelle taille. Tant que ces armes sont agrandies, les attaques de la cible infligent 1d4 dégâts supplémentaires.
 
 **Rapetissement.** La taille de la cible est réduite de moitié dans toutes ses dimensions, et son poids est divisé par deux. Cette réduction fait passer la taille de la cible à la catégorie inférieure -- de M à P par exemple. Jusqu'à ce que le sort se termine, la cible a le désavantage aux jets de Force et de sauvegarde de Force. Les armes de la cible diminuent également pour s'adapter à sa nouvelle taille. Tant que ces armes sont réduites en taille, les attaques de la cible avec celles-ci infligent 1d4 dégâts de moins (minimum de 1 dégât). 
 
@@ -3140,12 +3113,12 @@ Si la cible est une créature, tout ce qu'elle porte change de taille avec elle.
 
 ---
 available:
- - Clerc
- - Paladin
- - Artificier
- - Martyr
- - Ranger
- - Barde
+  - Clerc
+  - Paladin
+  - Artificier
+  - Martyr
+  - Ranger
+  - Barde
 level: 2
 school: Abjuration
 Verbal: true
@@ -3158,9 +3131,9 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Aid
-writing_status: empty
+writing_status: finished
 ---
-Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de point de vie et les points de vie actuels de chaque cible augmentent de 5 pendant la durée du sort.
+Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chaque cible augmentent de 5 pendant la durée du sort.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, les points de vie de la cible augmentent de 5 pour chaque niveau d'emplacement au-delà du niveau 2.
 
@@ -3170,10 +3143,10 @@ Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à 
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Druide
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Druide
+  - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -3186,7 +3159,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Aerial Alacrity
-writing_status: empty
+writing_status: finished
 ---
 Ciblez une créature consentante que vous pouvez voir à portée qui possède une vitesse de vol. Cette créature bénéficie des effets suivants pendant la durée du sort : 
 
@@ -3202,13 +3175,13 @@ Ciblez une créature consentante que vous pouvez voir à portée qui possède un
 
 ---
 available:
- - Artificier
- - Barde
- - Clerc
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Barde
+  - Clerc
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -3246,9 +3219,9 @@ Vous touchez une créature et lui conférez une amélioration magique. Choisisse
 
 ---
 available:
- - Barde
- - Clerc
- - Sorcière
+  - Barde
+  - Clerc
+  - Sorcière
 level: 2
 school: Enchantement
 Verbal: true
@@ -3275,7 +3248,7 @@ Vous tentez de supprimer les émotions fortes d'un groupe de personnes. Chaque h
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 2
 school: Conjuration
 Verbal: true
@@ -3304,10 +3277,10 @@ Tant que votre destrier se trouve à moins de 2 kilomètres de vous, vous pouvez
 
 ---
 available:
- - Investigateur
- - Paladin
- - Magicien
- - Artificier
+  - Investigateur
+  - Paladin
+  - Magicien
+  - Artificier
 level: 2
 school: Transmutation
 Verbal: true
@@ -3320,7 +3293,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Magic Weapon
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une arme non magique. Jusqu'à ce que le sort se termine, cette arme devient une arme magique avec un bonus de +1 aux jets d'attaque et de dégâts.
 
@@ -3333,7 +3306,7 @@ Vous touchez une arme non magique. Jusqu'à ce que le sort se termine, cette arm
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 2
 school: Évocation
 Verbal: true
@@ -3365,11 +3338,11 @@ L'arme peut prendre la forme que vous souhaitez. Les clercs de déités associé
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 2
 school: Abjuration
 Verbal: true
@@ -3395,11 +3368,11 @@ Lorsque vous êtes attaqué ou que vous devez effectuer un jet de sauvegarde, vo
 
 ---
 available:
- - Sorcière
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -3423,11 +3396,11 @@ Choisissez une créature que vous pouvez voir à portée. Des rubans jaunes d'é
 
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
- - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
+  - Nécromancien
 level: 2
 school: Nécromancie
 Verbal: false
@@ -3442,9 +3415,9 @@ Rituel: false
 englishname: Heartripper
 writing_status: finished
 ---
-Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perçants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perçants supplémentaires et la cible est [[sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.
+Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perforants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perforants supplémentaires et la cible est [[sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts perçants de la seconde phase du sort augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts perforants de la seconde phase du sort augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -3453,9 +3426,9 @@ Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doig
 
 ---
 available:
- - Clerc
- - Investigateur
- - Martyr
+  - Clerc
+  - Investigateur
+  - Martyr
 level: 2
 school: Divination
 Verbal: true
@@ -3468,7 +3441,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Augury
-writing_status: empty
+writing_status: finished
 ---
 Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dragon, en retournant des cartes ornées ou en usant d'autres outils divinatoires, vous recevez un présage de la part d'une entité surnaturelle à propos du résultat des actions que vous planifiez d'entreprendre au cours des 30 prochaines minutes. Le MJ choisit de répondre à l'aide des présages suivants : 
 
@@ -3487,9 +3460,9 @@ Si vous incantez le sort plus d'une fois avant la fin de votre prochain repos lo
 
 ---
 available:
- - Martyr
- - Clerc
- - Paladin
+  - Martyr
+  - Clerc
+  - Paladin
 level: 2
 school: Évocation
 Verbal: true
@@ -3502,9 +3475,9 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: false
 Rituel: false
 englishname: Halo of Flame
-writing_status: empty
+writing_status: finished
 ---
-Un anneau de flamme s'embrase au dessus de votre tête et s'étend ensuite, s'arrêtant en un cercle de feu. Ce cercle est composé d'une ligne de flamme de 5 ft. de large courbée afin de former un anneau de rayon de 10 ft. autour de vous. Chaque créature que vous choisissez dans la zone doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, la créature subit 4d6 dégâts de feu, et la moitié si elle réussit.
+Un anneau de flamme s'embrase au-dessus de votre tête et s'étend ensuite, s'arrêtant en un cercle de feu. Ce cercle est composé d'une ligne de flamme de 5 ft. de large courbée afin de former un anneau de rayon de 10 ft. autour de vous. Chaque créature que vous choisissez dans la zone doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, la créature subit 4d6 dégâts de feu, et la moitié si elle réussit.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
@@ -3515,8 +3488,8 @@ Un anneau de flamme s'embrase au dessus de votre tête et s'étend ensuite, s'ar
 
 ---
 available:
- - Magicien
- - Investigateur
+  - Magicien
+  - Investigateur
 level: 2
 school: Illusion
 Verbal: true
@@ -3529,11 +3502,11 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcanist's Magic Aura
-writing_status: empty
+writing_status: finished
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son propos. La cible peut être une créature consentante ou un objet qui n'est pas porté par une autre créature.
 
-Lorsque vous lancez ce sort, choisissez un ou les deux de ces effets suivant. L'effet dure pendant la durée du sort. Si vous lancer le sort sur la même cible pendant 30 jours et choisissant le même effet à chaque fois, l'illusion dure jusqu'à ce qu'elle soit dissipée.
+Lorsque vous lancez ce sort, choisissez un ou les deux de ces effets suivant. L'effet dure pendant la durée du sort. Si vous lancez le sort sur la même cible pendant 30 jours et choisissez le même effet à chaque fois, l'illusion dure jusqu'à ce qu'elle soit dissipée.
 
 **Aura Falsifiée.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques, comme [[Détection de la Magie]], qui détectent les auras magiques. Vous pouvez faire apparaître un objet non magique comme magique, un objet magique comme non magique, ou changer l'aura magique d'un objet pour qu'il apparaisse comme appartenant à une certaine école que vous choisissez. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse magie apparente à toute créature utilisant l'objet.
 
@@ -3546,8 +3519,8 @@ Lorsque vous lancez ce sort, choisissez un ou les deux de ces effets suivant. L'
 
 ---
 available:
- - Investigateur
- - Magicien
+  - Investigateur
+  - Magicien
 level: 2
 school: Illusion
 Verbal: true
@@ -3560,15 +3533,15 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Nystul's Magic Aura
-writing_status: empty
+writing_status: finished
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son sujet. La cible peut être une créature consentante ou un objet qui n'est ni porté ni manié par une autre créature.
 
 Lorsque vous lancez ce sort, choisissez un ou les deux effets suivants. Ces effets persistent pendant la durée du sort. Si vous lancez le sort sur une même créature ou un même objet pendant 30 jours en plaçant le même effet à chaque fois, l'illusion persiste jusqu'à ce qu'elle soit dissipée.
 
-**Fausse Aura.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques, comme [[Détection de la Magie]], qui détectent les auras magiques. Vous pouvez faire en sorte qu'un objet non magique apparaisse magique, qu'un objet magique apparaisse non magique, ou changer l'aura magique e l'objet pour qu'il semble appartenir à une autre école de votre choix. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse magie apparente à toute créature qui manipule l'objet.
+**Fausse Aura.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques, comme [[Détection de la Magie]], qui détectent les auras magiques. Vous pouvez faire en sorte qu'un objet non magique apparaisse magique, qu'un objet magique apparaisse non magique, ou changer l'aura magique de l'objet pour qu'il semble appartenir à une autre école de votre choix. Lorsque vous utilisez cet effet sur un objet, vous pouvez rendre la fausse magie apparente à toute créature qui manipule l'objet.
 
-**Masque.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme l'aptitude de paladin [[Paladin#Instinct Divin]] ou le déclenchement d'un sort [[symbole]]. Vous choisissez un type de créature et les autres sorts et effets magiques traitent la créature comme si elle était de ce type.
+**Masque.** Vous changez la façon dont la cible apparaît aux sorts et effets magiques qui détectent les types de créatures, comme l'aptitude de paladin [[Paladin#Instinct Divin|Instinct Divin]] ou le déclenchement d'un sort [[symbole]]. Vous choisissez un type de créature et les autres sorts et effets magiques traitent la créature comme si elle était de ce type.
 
 
 ---
@@ -3577,10 +3550,10 @@ Lorsque vous lancez ce sort, choisissez un ou les deux effets suivants. Ces effe
 
 ---
 available:
- - Artificier
- - Barde
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: false
@@ -3608,10 +3581,10 @@ Vous renforcez magiquement vos mouvements avec des pas de danse, vous conférant
 
 ---
 available:
- - Artificier
- - Barde
- - Magicien
- - Investigateur
+  - Artificier
+  - Barde
+  - Magicien
+  - Investigateur
 level: 2
 school: Illusion
 Verbal: true
@@ -3639,11 +3612,11 @@ La condition déclencheuse peut être aussi générale ou détaillée que vous l
 
 ---
 available:
- - Paladin
- - Clerc
- - Magicien
- - Ensorceleur
- - Martyr
+  - Paladin
+  - Clerc
+  - Magicien
+  - Ensorceleur
+  - Martyr
 level: 2
 school: Abjuration
 Verbal: true
@@ -3656,9 +3629,9 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Shield of Repulsion
-writing_status: empty
+writing_status: finished
 ---
-Vous créez un bouclier magique centré sur vous, d'un portée de 5 ft. Cette énergie magique repousse les ennemis, et chaque créature qui rentre dans sa zone pour la première fois pendant son tour, ou y commence son tour, doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft.
+Vous créez un bouclier magique centré sur vous, d'une portée de 5 ft. Cette énergie magique repousse les ennemis, et chaque créature qui rentre dans sa zone pour la première fois pendant son tour, ou y commence son tour, doit réussir un jet de sauvegarde de Force ou être repoussée de 10 ft.
 
 
 ---
@@ -3667,13 +3640,13 @@ Vous créez un bouclier magique centré sur vous, d'un portée de 5 ft. Cette é
 
 ---
 available:
- - Artificier
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
- - Sorcière
- - Investigateur
+  - Artificier
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Sorcière
+  - Investigateur
 level: 2
 school: Conjuration
 Verbal: false
@@ -3686,7 +3659,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Air Bubble
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une sphère spectrale autour de la tête d'une créature consentante à portée que vous pouvez voir. La sphère est remplie d'air frais jusqu'à ce que le sort se termine. Si la créature a plus d'une tête, la sphère d'air n'apparaît qu'autour d'une d'entre elles (ce qui est tout ce dont la créature a besoin pour éviter de s'étouffer, supposant que les têtes partagent le même système respiratoire).
 
@@ -3699,8 +3672,8 @@ Vous créez une sphère spectrale autour de la tête d'une créature consentante
 
 ---
 available:
- - Magicien
- - Clerc
+  - Magicien
+  - Clerc
 level: 2
 school: Abjuration
 Verbal: true
@@ -3713,9 +3686,9 @@ Portee: 5 ft.
 Concentration: true
 Rituel: false
 englishname: Repulsor Ring
-writing_status: empty
+writing_status: finished
 ---
-Vous dessinez un cercle d'un diamètre de 5 ft. au sol qui protège contre les intrus. Seules les créatures que vous choisissez peuvent pénètrer le cercle. Toute attaque à distance réalisée contre une cible à l'intérieur du cercle a le désavantage. Si une créature hostile réalise une attaque de mêlée contre une cible dans le cercle, l'attaquant est repoussé de 10 ft. juste après l'attaque.
+Vous dessinez un cercle d'un diamètre de 5 ft. au sol qui protège contre les intrus. Seules les créatures que vous choisissez peuvent pénétrer le cercle. Toute attaque à distance réalisée contre une cible à l'intérieur du cercle a le désavantage. Si une créature hostile réalise une attaque de mêlée contre une cible dans le cercle, l'attaquant est repoussé de 10 ft. juste après l'attaque.
 
 
 ---
@@ -3724,7 +3697,7 @@ Vous dessinez un cercle d'un diamètre de 5 ft. au sol qui protège contre les i
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 2
 school: Conjuration
 Verbal: true
@@ -3739,11 +3712,11 @@ Rituel: false
 englishname: Devilish Hunt
 writing_status: finished
 ---
-Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perçants et doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.
+Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perforants et doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.
 
 Tant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, subissant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perçants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perforants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.
 
 
 ---
@@ -3752,7 +3725,7 @@ Tant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de 
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 2
 school: Évocation
 Verbal: true
@@ -3767,7 +3740,7 @@ Rituel: false
 englishname: Perforating Smite
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 La prochaine fois que vous réalisez une attaque avec une arme à feu avant que le sort se termine, le coup est chargé d'un puissant pouvoir. Plutôt que de réaliser une attaque contre une seule cible, le tir devient une ligne large de 5 ft. qui s'étend de vous jusqu'à la portée normale de l'arme. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité. Une créature subit les dégâts normaux en cas d'échec, et la moitié en cas de réussite.
 
@@ -3778,7 +3751,7 @@ La prochaine fois que vous réalisez une attaque avec une arme à feu avant que 
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 2
 school: Évocation
 Verbal: true
@@ -3791,7 +3764,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Branding Smite
-writing_status: empty
+writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée avant que le sort se termine, l'arme scintille d'une radiance astrale lorsque vous frappez. L'attaque inflige 2d6 dégâts radiants supplémentaires à la cible, qui devient visible si elle était [[invisible]], et la cible émet une lumière faible sur un rayon de 5 ft. et la cible ne peut devenir invisible jusqu'à ce que le sort se termine.
 
@@ -3804,10 +3777,10 @@ La prochaine fois que vous touchez une créature avec une attaque armée avant q
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Barde
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Barde
+  - Magicien
 level: 2
 school: Conjuration
 Verbal: true
@@ -3820,7 +3793,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: true
 englishname: Unseen Accountable
-writing_status: empty
+writing_status: finished
 ---
 Ce sort crée une force invisible et sans forme qui réalise des tâches intellectuelles à votre demande jusqu'à ce que le sort se termine. Le serviteur apparaît dans un espace inoccupé, au sol, à portée. Il a une CA de 10, 1 point de vie, une Intelligence de 12 et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort se termine.
 
@@ -3835,12 +3808,12 @@ Si vous demandez au comptable de se déplacer à plus de 300 ft. de vous, le sor
 
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Clerc
- - Occultiste
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Clerc
+  - Occultiste
+  - Magicien
 level: 2
 school: Divination
 Verbal: true
@@ -3853,7 +3826,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Borrowed Knowledge
-writing_status: empty
+writing_status: finished
 ---
 Vous tirez profit des esprits du passé. Choisissez une compétence que vous ne maîtrisez pas. Pendant la durée du sort, vous maîtrisez cette compétence. Ce sort se termine prématurément si vous le relancez.
 
@@ -3864,9 +3837,9 @@ Vous tirez profit des esprits du passé. Choisissez une compétence que vous ne 
 
 ---
 available:
- - Sorcière
- - Druide
- - Ranger
+  - Sorcière
+  - Druide
+  - Ranger
 level: 2
 school: Conjuration
 Verbal: true
@@ -3893,12 +3866,12 @@ La créature est une alliée pour vous et vos compagnons. En combat, elle partag
 
 ---
 available:
- - Barde
- - Clerc
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Clerc
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 2
 school: Nécromancie
 Verbal: true
@@ -3911,7 +3884,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Blindness/Deafness
-writing_status: empty
+writing_status: finished
 ---
 Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[aveuglé|aveuglée]] ou [[assourdi|assourdie]] (votre choix) pendant la durée du sort. À la fin de chacun de ses tours, la cible peut effectuer un nouveau jet de sauvegarde de Constitution.
 
@@ -3924,7 +3897,7 @@ Vous pouvez aveugler ou assourdir un adversaire. Choisissez une créature que vo
 
 ---
 available:
- - Barde
+  - Barde
 level: 2
 school: Évocation
 Verbal: true
@@ -3937,7 +3910,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Defenestration
-writing_status: empty
+writing_status: finished
 ---
 Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible subit 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne subit aucun dégât.
 
@@ -3950,11 +3923,11 @@ Une vague de force émerge de votre main et vient repousser une créature que vo
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
- - Nécromancien
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
+  - Nécromancien
 level: 2
 school: Transmutation
 Verbal: true
@@ -3969,7 +3942,7 @@ Rituel: false
 englishname: Delay
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous ralentissez brièvement le temps pour une créature de votre choix que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être déplacée à la dernière place de l'initiative à partir du prochain round.
 
@@ -3980,11 +3953,11 @@ Vous ralentissez brièvement le temps pour une créature de votre choix que vous
 
 ---
 available:
- - Sorcière
- - Nécromancien
- - Barde
- - Ensorceleur
- - Magicien
+  - Sorcière
+  - Nécromancien
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Divination
 Verbal: true
@@ -3997,7 +3970,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Detect Thoughts
-writing_status: empty
+writing_status: finished
 ---
 pendant la durée du sort, vous pouvez lire les pensées de certaines créatures. Lorsque vous incantez le sort et lors de votre action à chaque tour jusqu'à la fin du sort, vous pouvez concentrer votre esprit sur une créature que vous pouvez voir à 30 ft. ou moins de vous. Si la créature choisie possède une Intelligence de 3 ou moins, ou si elle ne parle aucun langage, la créature n'est pas affectée. 
 
@@ -4015,9 +3988,9 @@ Après avoir détecté la présence d'une créature de cette manière, vous pouv
 
 ---
 available:
- - Magicien
- - Barde
- - Sorcière
+  - Magicien
+  - Barde
+  - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -4032,7 +4005,7 @@ Rituel: false
 englishname: Jam Weapon
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir à portée attaque avec une arme à feu, vous pouvez enrayer son arme. L'attaque échoue, et l'arme à feu est enrayée. Une arme à feu enrayée ne peut pas être utilisée pour réaliser une attaque jusqu'à ce qu'une créature utilise son action pour la réparer.
 
@@ -4045,8 +4018,8 @@ Comme réaction lorsqu'une créature que vous pouvez voir à portée attaque ave
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Évocation
 Verbal: true
@@ -4059,7 +4032,7 @@ Portee: 30 ft. (30 ft. en ligne)
 Concentration: false
 Rituel: false
 englishname: Aganazzar's Scorcher
-writing_status: empty
+writing_status: finished
 ---
 Une ligne de flammes rugissantes de 30 ft. de long et 5 ft. de large émane de vous dans une direction que vous choisissez. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 
@@ -4072,9 +4045,9 @@ Une ligne de flammes rugissantes de 30 ft. de long et 5 ft. de large émane de v
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 2
 school: Illusion
 Verbal: true
@@ -4087,9 +4060,9 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Blur
-writing_status: empty
+writing_status: finished
 ---
-Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous voir. pendant la durée du sort, toutes les créatures ont le désavantage aux jets d'attaques contre vous. Un attaquant est immunisé à cet effet s'il ne repose pas sur la vue, comme avec vision aveugle, ou peut voir à travers les illusions, comme avec vision totale.
+Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous voir. Pendant la durée du sort, toutes les créatures ont le désavantage aux jets d'attaques contre vous. Un attaquant est immunisé à cet effet s'il ne repose pas sur la vue, comme avec vision aveugle, ou peut voir à travers les illusions, comme avec vision totale.
 
 
 ---
@@ -4098,8 +4071,8 @@ Votre corps devient flou, changeant et vacillant pour tout ceux qui peuvent vous
 
 ---
 available:
- - Magicien
- - Nécromancien
+  - Magicien
+  - Nécromancien
 level: 2
 school: Évocation
 Verbal: true
@@ -4112,7 +4085,7 @@ Portee: 90 ft.
 Concentration: false
 Rituel: false
 englishname: Acid Arrow
-writing_status: empty
+writing_status: finished
 ---
 Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans un spray d'acide. SI vous touchez, la cible subit 4d4 dégâts d'acide immédiatement, et 2d4 à la fin de son prochain tour. Si vous ratez, la flèche asperge la cible avec de l'acide pour la moitié des dégâts immédiats, et aucun dégât différé.
 
@@ -4125,7 +4098,7 @@ Une chatoyante flèche verte vole vers une cible dans la portée et éclate dans
 
 ---
 available:
- - Barde
+  - Barde
 level: 2
 school: Enchantement
 Verbal: true
@@ -4138,7 +4111,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Hangover
-writing_status: empty
+writing_status: finished
 ---
 Vous émettez une aura d'ivresse qui s'évapore rapidement, laissant la sensation d'une intense gueule de bois. Une créature que vous choisissez à portée doit réussir un jet de sauvegarde de Constitution ou subir 3d8 dégâts psychiques. La cible a le désavantage aux jets de sauvegarde de Constitution qu'elle effectue pour maintenir sa concentration suite à ces dégâts .De plus, si elle échoue ce jet, la cible est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour.
 
@@ -4151,14 +4124,14 @@ Vous émettez une aura d'ivresse qui s'évapore rapidement, laissant la sensatio
 
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
- - Martyr
+  - Barde
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Martyr
 level: 2
 school: Enchantement
 Verbal: true
@@ -4171,7 +4144,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Hold Person
-writing_status: empty
+writing_status: finished
 ---
 Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.
 
@@ -4184,8 +4157,8 @@ Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir
 
 ---
 available:
- - Magicien
- - Barde
+  - Magicien
+  - Barde
 level: 2
 school: Enchantement
 Verbal: true
@@ -4198,7 +4171,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Tyra's Coerced Karaoke
-writing_status: empty
+writing_status: finished
 ---
 Alors que des instruments spectraux apparaissent autour de vous, vous commencez à chanter une chanson bien connue, et les autres se sentent obligés de vous rejoindre. Pendant la durée du sort, lorsqu'une créature s'approche à moins de 30 ft. de vous ou y commence son tour, elle doit réussir un jet de sauvegarde de Sagesse ou commencer à chanter avec vous. Une créature qui chante imite le ton et les mots de la chanson aussi bien qu'elle le peut, même si elle n'en parle pas la langue.
 
@@ -4213,12 +4186,12 @@ A la différence des autres sorts, vous pouvez vous concentrer à la fois sur ce
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
- - Barde
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Illusion
 Verbal: true
@@ -4231,7 +4204,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Nondescript
-writing_status: empty
+writing_status: finished
 ---
 Ce sort vous permet de vous rendre ordinaire et lambda aux yeux des autres, même s'il ne change pas votre véritable apparence. Les créatures qui vous voient tandis que vous êtes sous l'influence de ce sort sont incapables de se souvenir de détails précis de votre apparence s'ils se voient demandé s'ils vous ont vu ou quelqu'un correspondant à votre description, même si la mémoire de vos actions et de leurs expériences n'est pas affectée.
 
@@ -4242,8 +4215,8 @@ Ce sort vous permet de vous rendre ordinaire et lambda aux yeux des autres, mêm
 
 ---
 available:
- - Artificier
- - Magicien
+  - Artificier
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
@@ -4256,7 +4229,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mana Shackle
-writing_status: empty
+writing_status: finished
 ---
 Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dissipé prématurément, vous subissez 1d4 dégâts psychiques.
 
@@ -4268,11 +4241,11 @@ Vous scellez magiquement un objet magique, le rendant inerte. Si le sort est dis
 
 ---
 available:
- - Barde
- - Druide
- - Ranger
- - Investigateur
- - Sorcière
+  - Barde
+  - Druide
+  - Ranger
+  - Investigateur
+  - Sorcière
 level: 2
 school: Enchantement
 Verbal: true
@@ -4285,7 +4258,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: true
 englishname: Animal Messenger
-writing_status: empty
+writing_status: finished
 ---
 De par ce sort, vous pouvez utiliser un animal pour délivrer un message. Choisissez une bête Minuscule que vous pouvez voir à portée, telle qu'un écureuil, une geai bleu, ou une chauve-souris. Vous spécifiez un lieu, que vous devez avoir visité, ainsi qu'un destinataire qui correspond à une description générale, telle que "l'homme ou la femme en uniforme de garde" ou "un nain roux avec un chapeau pointu". Vous prononcez également un message, jusqu'à 25 mots. La bête ciblée voyage pendant la durée du sort en direction de l'emplacement spécifié, à une vitesse d'à-peu-près 25 km par jour pour une bête volante, ou 12.5 km pour les autres.
 
@@ -4300,9 +4273,9 @@ Lorsque le messager arrive à destination, il délivre votre message à la créa
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 2
 school: Transmutation
 Verbal: true
@@ -4315,7 +4288,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Alter Self
-writing_status: empty
+writing_status: finished
 ---
 Vous endossez une forme différente. Lorsque vous lancez le sort, choisissez parmi les options suivantes, dont les effets s'appliqueront jusqu'à ce que le sort prenne fin. Tant que le sort est actif, vous pouvez mettre un terme à une option, en dépensant une action, pour gagner les bénéfices d'une option différente.
 
@@ -4323,7 +4296,7 @@ Vous endossez une forme différente. Lorsque vous lancez le sort, choisissez par
 
 **Changement d'apparence.** Vous transformez votre apparence. Vous décidez ce à quoi vous ressemblez, que ce soit votre taille, votre poids, les traits de votre visage, le son de votre voix, la longueur de vos cheveux, votre pigmentation, et même vos signes distinctifs, le cas échéant. Vous pouvez prendre l'apparence d'une créature d'une autre race, sans que cela n'ait d'impact sur vos caractéristiques ou traits raciaux. Vous ne pouvez pas apparaître comme étant d'une taille différente de la votre, et votre forme de base reste la même : un bipède reste bipède, par exemple. À n'importe quel moment pendant la durée de ce sort, vous pouvez utiliser votre action pour changer votre apparence à nouveau. 
 
-**Armes Naturelles.** Vous vous dotez de griffes, de crocs, d'épines ou de n'importe quelles autres armes naturelles de votre choix. Vos attaques à mains nues font 1d6 dégâts contondants, perçant ou tranchants, suivant ce qui convient le mieux aux armes naturelles que vous avez choisies., et vous obtenez la maîtrise de vos attaques à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts.
+**Armes Naturelles.** Vous vous dotez de griffes, de crocs, d'épines ou de n'importe quelles autres armes naturelles de votre choix. Vos attaques à mains nues infligent 1d6 dégâts contondants, perforants ou tranchants, suivant ce qui convient le mieux aux armes naturelles que vous avez choisies, et vous obtenez la maîtrise de vos attaques à mains nues. Enfin, votre arme naturelle est une arme magique et a un bonus de +1 aux jets d'attaque et de dégâts.
 
 ---
 
@@ -4331,13 +4304,13 @@ Vous endossez une forme différente. Lorsque vous lancez le sort, choisissez par
 
 ---
 available:
- - Investigateur
- - Martyr
- - Nécromancien
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Martyr
+  - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -4350,9 +4323,9 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Stone Bones
-writing_status: empty
+writing_status: finished
 ---
-Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant une résistance aux dégâts contondants, perçants et tranchants non magiques jusqu'à la fin de votre prochain tour.
+Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant une résistance aux dégâts contondants, perforants et tranchants non magiques jusqu'à la fin de votre prochain tour.
 
 
 ---
@@ -4361,8 +4334,8 @@ Vous renforcez magiquement une créature que vous pouvez voir à portée, lui co
 
 ---
 available:
- - Druide
- - Ranger
+  - Druide
+  - Ranger
 level: 2
 school: Transmutation
 Verbal: true
@@ -4375,7 +4348,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Barkskin
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature consentante. Jusqu'à ce que le sort se termine, la peau de la cible a une apparence rude, comme de l'écorce, et sa CA ne peut être inférieure à 16, peu importe son armure.
 
@@ -4385,10 +4358,10 @@ Vous touchez une créature consentante. Jusqu'à ce que le sort se termine, la p
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
 level: 2
 school: Enchantement
 Verbal: true
@@ -4401,7 +4374,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Intrusive Thoughts
-writing_status: empty
+writing_status: finished
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir utilise son action pour Attaquer, Foncer, Esquiver ou se Désengager, vous pouvez tenter de perturber sa pensée. La cible doit effectuer un jet de sauvegarde de Sagesse. Elle le réussit automatiquement si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, la créature entreprend une action de votre choix parmi ces options, plutôt que l'action qu'elle comptait entreprendre.
 
@@ -4412,14 +4385,14 @@ Comme réaction lorsqu'une créature que vous pouvez voir utilise son action pou
 
 ---
 available:
- - Magicien
- - Occultiste
- - Ranger
- - Paladin
- - Druide
- - Clerc
- - Nécromancien
- - Martyr
+  - Magicien
+  - Occultiste
+  - Ranger
+  - Paladin
+  - Druide
+  - Clerc
+  - Nécromancien
+  - Martyr
 level: 2
 school: Abjuration
 Verbal: true
@@ -4434,7 +4407,7 @@ Rituel: false
 englishname: Protection from Ballistics
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Un bouclier d'énergie scintillant enveloppe une créature que vous touchez. Pendant la durée du sort, les attaques à distance réalisées avec des armes à feu ont le désavantage contre la cible, et la cible est résistante aux dégâts infligés par des armes à feu.
 
@@ -4445,14 +4418,14 @@ Un bouclier d'énergie scintillant enveloppe une créature que vous touchez. Pen
 
 ---
 available:
- - Investigateur
- - Martyr
- - Nécromancien
- - Sorcière
- - Clerc
- - Paladin
- - Occultiste
- - Magicien
+  - Investigateur
+  - Martyr
+  - Nécromancien
+  - Sorcière
+  - Clerc
+  - Paladin
+  - Occultiste
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
@@ -4465,7 +4438,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Curse Ward
-writing_status: empty
+writing_status: finished
 ---
 Vous étendez votre main et touchez une créature consentante à portée, invoquant une barrière de fumée autour d'elle. Pendant la durée du sort, la cible obtient une résistance aux dégâts nécrotiques et ne peut être maudite, possédée ou ciblée par un [[maléfices|maléfice]]. De plus, son maximum de points de vie ne peut être réduit. Si la cible est déjà affectée par l'un de ces effets, l'effet est suspendu jusqu'à ce que le sort se termine.
 
@@ -4476,10 +4449,10 @@ Vous étendez votre main et touchez une créature consentante à portée, invoqu
 
 ---
 available:
- - Investigateur
- - Barde
- - Ranger
- - Magicien
+  - Investigateur
+  - Barde
+  - Ranger
+  - Magicien
 level: 2
 school: Conjuration
 Verbal: true
@@ -4494,7 +4467,7 @@ Rituel: true
 englishname: Jethro's Instant Reload
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Une arme à distance que vous touchez devient enchantée pour se recharger automatiquement. Si l'arme a la propriété Chargement ou Rechargement, vous pouvez l'ignorer pendant la durée du sort. Lorsque les munitions de l'arme sont vides, des munitions se téléportent de votre personne à l'arme ou votre main, suivant ce qui est le plus approprié. Si l'arme demande une action ou plus pour se recharger, elle se recharge à la fin de vos tours.
 
@@ -4507,8 +4480,8 @@ Si vous ne portez pas assez de munitions pour que l'arme se recharge, le sort se
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Conjuration
 Verbal: true
@@ -4523,7 +4496,7 @@ Rituel: false
 englishname: Recall
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Notez où vous vous trouvez lorsque vous lancez ce sort. Jusqu'à la fin de votre prochain tour, vous pouvez utiliser votre réaction pour vous téléporter à cet emplacement, ou à l'espace inoccupé le plus proche. Si vous utilisez votre réaction en réponse à une attaque, un sort, un effet magique ou tout autre effet infligeant des dégâts, résolvez l'effet avant de vous téléporter.
 
@@ -4534,9 +4507,9 @@ Notez où vous vous trouvez lorsque vous lancez ce sort. Jusqu'à la fin de votr
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Évocation
 Verbal: true
@@ -4549,7 +4522,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Gust of Wind
-writing_status: empty
+writing_status: finished
 ---
 Une ligne de vent fort longue de 60 ft. et large de 10 ft. apparaît devant vous dans la direction de votre choix et persiste pendant la durée du sort. Chaque créature qui commence son tour dans la ligne doit réussir un jet de sauvegarde de Force ou être repoussée de 15 ft. en suivant la ligne.
 
@@ -4566,8 +4539,8 @@ Pour une action bonus à chacun de vos tours avant que le sort se termine, vous 
 
 ---
 available:
- - Druide
- - Ranger
+  - Druide
+  - Ranger
 level: 2
 school: Divination
 Verbal: false
@@ -4580,7 +4553,7 @@ Portee: Contact
 Concentration: true
 Rituel: true
 englishname: Beast Sense
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une bête consentante. Pendant la durée du sort, vous pouvez utiliser votre action pour voir à travers les yeux de la bête et entendre ce qu'elle entend, et continuer de le faire jusqu'à ce que vous utilisiez une action pour revenir à vos sens. Tant que vous percevez le monde à travers les sens de la bête, vous gagnez les avantages des sens spéciaux de la bête, mais vous êtes [[aveuglé]] et [[assourdi]] par rapport à votre propre environnement.
 
@@ -4591,11 +4564,11 @@ Vous touchez une bête consentante. Pendant la durée du sort, vous pouvez utili
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Sorcière
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Abjuration
 Verbal: true
@@ -4608,7 +4581,7 @@ Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Protect Threshold
-writing_status: empty
+writing_status: finished
 ---
 En dessinant des sceaux arcaniques le long de sa limite, vous pouvez protéger une porte, une fenêtre ou n'importe quel autre portail. Pendant la durée du sort, une créature occulte invisible rôde et surveille le portail protégé. Toute créature qui essaye de passer le portail doit réussir un jet de sauvegarde de Sagesse ou subir 4d6 dégâts psychiques, ou la moitié en cas de réussite.
 
@@ -4621,8 +4594,8 @@ En dessinant des sceaux arcaniques le long de sa limite, vous pouvez protéger u
 
 ---
 available:
- - Druide
- - Sorcière
+  - Druide
+  - Sorcière
 level: 2
 school: Conjuration
 Verbal: true
@@ -4635,7 +4608,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Petal Storm
-writing_status: empty
+writing_status: finished
 ---
 Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaît dans le cube et persiste pendant la durée du sort. Le nuage obscurcit fortement la zone.
 
@@ -4650,9 +4623,9 @@ Toute créature qui entre dans la tempête pour la première fois pendant son to
 
 ---
 available:
- - Magicien
- - Artificier
- - Investigateur
+  - Magicien
+  - Artificier
+  - Investigateur
 level: 2
 school: Abjuration
 Verbal: true
@@ -4665,7 +4638,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcane Lock
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une porte, une fenêtre, un coffre ou tout autre mécanisme fermé, et il devient verrouillé pendant la durée du sort. Vous et les créatures que vous désignez lorsque vous lancer ce sort peuvent ouvrir l'objet normalement. Vous pouvez aussi mettre en place un mot de passe qui, lorsqu'il est prononcé à moins de 5 ft. de l'objet, étouffe le sort pendant 1 minute. Sinon, il est impassable jusqu'à ce qu'il soit cassé ou que le sort soit dissipé ou étouffé. Lancer [[Toc-Toc]] sur l'objet étouffe le sort [[Verrou Magique]] pendant 10 minutes.
 
@@ -4678,9 +4651,9 @@ Lorsqu'un objet est affecté par le sort, l'objet est plus difficile a cassé ou
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -4693,7 +4666,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Swift Flight
-writing_status: empty
+writing_status: finished
 ---
 Des pulsations d'énergie émanent du dos d'une créature consentante que vous touchez, traçant des formes d'ailes. La cible gagne une vitesse de vol de 30 ft. jusqu'à la fin de son prochain tour. Lorsque le sort se termine, la cible tombe normalement si elle était dans les airs et que rien ne la retenait.
 
@@ -4704,11 +4677,11 @@ Des pulsations d'énergie émanent du dos d'une créature consentante que vous t
 
 ---
 available:
- - Barde
- - Clerc
- - Paladin
- - Investigateur
- - Martyr
+  - Barde
+  - Clerc
+  - Paladin
+  - Investigateur
+  - Martyr
 level: 2
 school: Enchantement
 Verbal: true
@@ -4721,7 +4694,7 @@ Portee: 60 ft. (15 ft.)
 Concentration: false
 Rituel: false
 englishname: Zone of Truth
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une zone magique qui protège contre la tromperie dans un rayon de 15 ft. autour d'un point que vous choisissez à portée. Jusqu'à ce que le sort se termine, une créature qui entre dans la zone d'effet du sort pour la première fois pendant son tour ou y commence son tour doit effectuer un jet de sauvegarde de Charisme. Si elle échoue, la créature ne peut consciemment énoncer de mensonges tant qu'elle se trouve dans ce rayon. Vous savez si une créature réussit ou échoue ce jet.
 
@@ -4734,10 +4707,10 @@ Une créature affectée est consciente du sort et peut éviter de répondre aux 
 
 ---
 available:
- - Barde
- - Clerc
- - Magicien
- - Sorcière
+  - Barde
+  - Clerc
+  - Magicien
+  - Sorcière
 level: 3
 school: Enchantement
 Verbal: true
@@ -4766,9 +4739,9 @@ Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 
 ---
 available:
- - Clerc
- - Magicien
- - Nécromancien
+  - Clerc
+  - Magicien
+  - Nécromancien
 level: 3
 school: Nécromancie
 Verbal: true
@@ -4781,7 +4754,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Animate Dead
-writing_status: empty
+writing_status: finished
 ---
 Ce sort crée un servant mort-vivant. Choisissez une pile d'ossements ou un corps d'humanoïde de taille M ou inférieure à portée. Votre sort imprègne la cible avec un simulacre de vie, la relevant en tant que mort-vivant. La cible devient un [squelette](https://www.dndbeyond.com/monsters/17015-skeleton) si vous avez choisi les ossements, ou un [zombie](https://www.dndbeyond.com/monsters/17077-zombie) si vous avez choisi le corps.
 
@@ -4798,11 +4771,11 @@ La cible est sous votre contrôle pendant 24 heures, après quoi elle arrête de
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Sorcière
- - Occultiste
- - Magicien
+  - Barde
+  - Ensorceleur
+  - Sorcière
+  - Occultiste
+  - Magicien
 level: 3
 school: Enchantement
 Verbal: true
@@ -4815,7 +4788,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Antagonize
-writing_status: empty
+writing_status: finished
 ---
 Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle effectue avant le début de son prochain tour. Sur un jet réussi, la cible ne subit que la moitié des dégâts.
 
@@ -4828,11 +4801,11 @@ Vous murmurez des mots magiques qui antagonisent une créature de votre choix à
 
 ---
 available:
- - Barde
- - Ranger
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Ranger
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Abjuration
 Verbal: true
@@ -4856,8 +4829,8 @@ Pendant la durée du sort, vous dissimulez la cible que vous touchez de toute fo
 
 ---
 available:
- - Nécromancien
- - Druide
+  - Nécromancien
+  - Druide
 level: 3
 school: Conjuration
 Verbal: true
@@ -4870,7 +4843,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Call Lightning
-writing_status: empty
+writing_status: finished
 ---
 Un nuage tempêtueux apparaît sous la forme d'un cylindre haut de 10 ft. et d'un rayon de 60 ft., centré sur un point que vous pouvez voir à portée directement au-dessus de vous. Le sort échoue si vous ne voyez pas un point en l'air où le nuage pourrait apparaître.
 
@@ -4887,10 +4860,10 @@ Si vous êtes en extérieurs dans des conditions orageuses lorsque vous lancez c
 
 ---
 available:
- - Artificier
- - Druide
- - Paladin
- - Ranger
+  - Artificier
+  - Druide
+  - Paladin
+  - Ranger
 level: 3
 school: Transmutation
 Verbal: true
@@ -4916,8 +4889,8 @@ Une arme non magique que vous touchez devient une arme magique. Choisissez l'un 
 
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 3
 school: Évocation
 Verbal: true
@@ -4932,7 +4905,7 @@ Rituel: false
 englishname: Almighty Assault
 writing_status: finished
 ---
-Dans le cadre de l'action utilisée pour lancer ce sort, vous devez effectuer une attaque d'arme de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
+Dans le cadre de l'action utilisée pour lancer ce sort, vous devez réaliser une attaque armée de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
 
 - **Tranchants.** Un croissant d'énergie jaillit de l'attaque, et chaque créature dans un cône de 20 ft. dans la direction de la cible doit effectuer un jet de sauvegarde de Dextérité.
 
@@ -4951,9 +4924,9 @@ Les créatures qui échouent à leur jet de sauvegarde subissent 2d10 dégâts r
 
 ---
 available:
- - Paladin
- - Martyr
- - Clerc
+  - Paladin
+  - Martyr
+  - Clerc
 level: 3
 school: Évocation
 Verbal: true
@@ -4966,7 +4939,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Aura of Vitality
-writing_status: empty
+writing_status: finished
 ---
 Une énergie soignante rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Vous pouvez utiliser une action bonus pour que chaque créature non hostile (vous y compris) dans l'aura regagne 2d6 points de vie.
 
@@ -4976,7 +4949,7 @@ Une énergie soignante rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 3
 school: Évocation
 Verbal: true
@@ -5000,7 +4973,7 @@ Une puissance sacrée émane de vous en une aura d'un rayon de 30 ft., éveillan
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 3
 school: Abjuration
 Verbal: true
@@ -5026,9 +4999,9 @@ Lorsque vous lancez ce sort, vous vous protégez des énergies contre-nature. Vo
 
 ---
 available:
- - Sorcière
- - Barde
- - Magicien
+  - Sorcière
+  - Barde
+  - Magicien
 level: 3
 school: Illusion
 Verbal: true
@@ -5041,7 +5014,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Phantasmal Beauty
-writing_status: empty
+writing_status: finished
 ---
 Vous puisez dans les rêves d'une créature que vous pouvez voir à portée et créez une manifestation illusoire de ses désirs les plus profonds, visible à elle seulement. La cible doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la cible devient [[incapacité|incapacitée]] et incapable de bouger pendant la durée du sort; De plus, elle a le désavantage aux jets de Perception qu'elle effectue. A la fin de chacun de ses tours, la cible peut effectuer un nouveau jet de sauvegarde de Sagesse.
 
@@ -5052,7 +5025,7 @@ Vous puisez dans les rêves d'une créature que vous pouvez voir à portée et c
 
 ---
 available:
- - Barde
+  - Barde
 level: 3
 school: Abjuration
 Verbal: true
@@ -5076,8 +5049,8 @@ Vous lancez une imprécation et repoussez par votre volonté les magies curative
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 3
 school: Évocation
 Verbal: true
@@ -5103,11 +5076,11 @@ Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous cho
 
 ---
 available:
- - Ranger
- - Magicien
- - Ensorceleur
- - Sorcière
- - Artificier
+  - Ranger
+  - Magicien
+  - Ensorceleur
+  - Sorcière
+  - Artificier
 level: 3
 school: Abjuration
 Verbal: true
@@ -5120,7 +5093,7 @@ Portee: Personnelle (rayon de 15 ft.)
 Concentration: true
 Rituel: false
 englishname: Warding Gust
-writing_status: empty
+writing_status: finished
 ---
 Vous générez un vent violent qui détourne les projectiles. Les attaques à distance contre toutes les créatures dans une zone centrée sur vous et de 15 ft. de rayon ont le désavantage.
 
@@ -5130,7 +5103,7 @@ Vous générez un vent violent qui détourne les projectiles. Les attaques à di
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5143,11 +5116,11 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Fog Cloud
-writing_status: empty
+writing_status: finished
 ---
 Une sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
 
-Lorsque vous lancez ce sort, vous pouvez l'alimenter de votre propre essence vitale en perdant 10, 15 ou 20 points de vie lorsque vous lancez. Si vous le faites, considérez l'emplacement de sort utilisé comme étant d'un niveau supérieur si vous avez perdu 10 points de vie, deux niveaux supérieurs si vous avez 15 points de vie et trois niveaux supérieurs pour 20 points de vie, jusqu'à un maximum de niveau 9.
+Lorsque vous lancez ce sort, vous pouvez l'alimenter de votre propre essence vitale en subissant 10, 15 ou 20 dégâts nécrotiques, qui ne peuvent être réduits d'aucune manière, lorsque vous le lancez. Si vous le faites, considérez l'emplacement de sort utilisé comme étant d'un niveau supérieur si vous avez subi 10 points de dégâts, deux niveaux supérieurs si vous avez subi 15 dégâts et trois niveaux supérieurs pour 20 dégâts, jusqu'à un maximum de niveau 9.
 
 Lorsqu'une créature pénètre la zone pour la première fois pendant son tour ou y commence son tour, elle doit réussir un jet de sauvegarde de Constitution ou subir 3d8 dégâts nécrotiques.
 
@@ -5162,13 +5135,13 @@ De plus, lorsqu'une créature essaye de quitter la sphère de brume, vous pouvez
 
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
- - Ensorceleur
- - Magicien
- - Sorcière
- - Nécromancien
+  - Clerc
+  - Paladin
+  - Martyr
+  - Ensorceleur
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 3
 school: Conjuration
 Verbal: true
@@ -5183,9 +5156,9 @@ Rituel: false
 englishname: Funeral Pyre
 writing_status: finished
 ---
-Vous faites surgir du sol des pointes de bois enflammées autour de la cible de votre choix à portée, essayant de la piéger. La cible doit effectuer un jet de sauvegarde de Dextérité. Les créatures de taille TG ou plus ont l'avantage à ce jet de sauvegarde. Si la créature échoue, elle est empalée par les pointes et [[retenu|retenue]] jusqu'au début de votre prochain tour, subissant 2d8 dégâts de feu et 3d8 dégâts perçants. Si elle réussit, la créature subit la moitié des dégâts et n'est pas [[retenu|retenue]]. Les pointes redeviennent cendres au début de votre prochain tour. Si la cible est tuée par ce sort, les pointes ne disparaissent pas mais deviennent persistantes et résistantes à une [[dissipation de la magie]].
+Vous faites surgir du sol des pointes de bois enflammées autour de la cible de votre choix à portée, essayant de la piéger. La cible doit effectuer un jet de sauvegarde de Dextérité. Les créatures de taille TG ou plus ont l'avantage à ce jet de sauvegarde. Si la créature échoue, elle est empalée par les pointes et [[retenu|retenue]] jusqu'au début de votre prochain tour, subissant 2d8 dégâts de feu et 3d8 dégâts perforants. Si elle réussit, la créature subit la moitié des dégâts et n'est pas [[retenu|retenue]]. Les pointes redeviennent cendres au début de votre prochain tour. Si la cible est tuée par ce sort, les pointes ne disparaissent pas mais deviennent persistantes et résistantes à une [[dissipation de la magie]].
 
-**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de feu ou perçants (votre choix) augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3. 
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de feu ou perforants (votre choix) augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3. 
 
 
 ---
@@ -5194,12 +5167,12 @@ Vous faites surgir du sol des pointes de bois enflammées autour de la cible de 
 
 ---
 available:
- - Clerc
- - Paladin
- - Occultiste
- - Magicien
- - Sorcière
- - Investigateur
+  - Clerc
+  - Paladin
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Investigateur
 level: 3
 school: Abjuration
 Verbal: true
@@ -5212,7 +5185,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Magic Circle
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une zone cylindrique d'énergie magique centrée sur un point de votre choix à portée que vous pouvez voir, d'un rayon de 10 ft. et haut de 20 ft. Des runes scintillantes apparaissent à l'intersection entre le cylindre et le sol ou n'importe quelle autre surface.
 
@@ -5233,8 +5206,8 @@ La créature ne peut pas pénétrer volontairement dans le cylindre par des moye
 
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 3
 school: Évocation
 Verbal: true
@@ -5247,7 +5220,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Blinding Smite
-writing_status: empty
+writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque de mêlée à main armée pendant la durée du sort, votre arme s'illumine d'une lumière vive, et l'attaque inflige 3d8 dégâts radieux supplémentaires à la cible. De plus, la cible doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé|aveuglée]] jusqu'à la fin du sort.
 
@@ -5259,7 +5232,7 @@ Une créature [[aveuglé|aveuglée]] par ce sort doit effectuer un autre jet de 
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5285,9 +5258,9 @@ La première fois que vous touchez avec une attaque armée de mêlée pendant la
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
+  - Investigateur
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Divination
 Verbal: true
@@ -5313,9 +5286,9 @@ Lorsque vous lancez ce sort, vous choisissez la vue ou l'ouïe. Vous pouvez util
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 3
 school: Transmutation
 Verbal: true
@@ -5328,7 +5301,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Blink
-writing_status: empty
+writing_status: finished
 ---
 Lancez un d2 à la fin de chacun de vos tours pendant la durée du sort. Sur un résultat de 11 ou supérieur, vous disparaissez de votre plan de l'existence actuel et apparaissez sur le Plan Éthéré (le sort échoue et l'incantation est perdue si vous êtes déjà sur ce plan). Au début de votre prochain tour, et si le sort se termine lorsque vous vous trouvez sur le Plan Éthéré, vous revenez à un espace inoccupé de votre choix que vous pouvez voir à moins de 10 ft. de l'endroit d'où vous avez disparu. Si aucun emplacement n'est disponible à portée, vous réapparaissez dans l'espace le plus proche (déterminé au hasard si plusieurs sont équidistants). Vous pouvez dissiper ce sort avec une action.
 
@@ -5341,12 +5314,12 @@ Tant que vous êtes sur le Plan Éthéré, vous pouvez voir et entendre le plan 
 
 ---
 available:
- - Sorcière
- - Nécromancien
- - Martyr
- - Barde
- - Clerc
- - Magicien
+  - Sorcière
+  - Nécromancien
+  - Martyr
+  - Barde
+  - Clerc
+  - Magicien
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5372,11 +5345,11 @@ Jusqu'à ce que le sort se termine, vous pouvez poser au corps jusqu'à cinq que
 
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Druide
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Druide
+  - Magicien
 level: 3
 school: Transmutation
 Verbal: true
@@ -5408,11 +5381,11 @@ Ce sort peut faire relâcher une créature [[retenu|retenue]] aux plantes créé
 
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Clerc
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Clerc
+  - Magicien
 level: 3
 school: Évocation
 Verbal: true
@@ -5438,11 +5411,11 @@ Vous pouvez envoyer le message à n'importe quelle distance et même sur d'autre
 
 ---
 available:
- - Clerc
- - Magicien
- - Artificier
- - Investigateur
- - Ensorceleur
+  - Clerc
+  - Magicien
+  - Artificier
+  - Investigateur
+  - Ensorceleur
 level: 3
 school: Abjuration
 Verbal: true
@@ -5455,7 +5428,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Enchanter's Lockdown
-writing_status: empty
+writing_status: finished
 ---
 Vous influez une zone d'un rayon de 20 ft. d'une énergie chaotique, empêchant toute incantation de sort de niveau inférieur ou égal à 3.
 
@@ -5465,9 +5438,9 @@ Vous influez une zone d'un rayon de 20 ft. d'une énergie chaotique, empêchant 
 
 ---
 available:
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 3
 school: Abjuration
 Verbal: false
@@ -5493,9 +5466,9 @@ Comme réaction lorsqu'une créature que vous pouvez voir à 60 ft. lance un sor
 
 ---
 available:
- - Artificier
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Ensorceleur
+  - Magicien
 level: 3
 school: Transmutation
 Verbal: true
@@ -5510,7 +5483,7 @@ Rituel: false
 englishname: Haste
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Choisissez une créature consentante que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, la vitesse de la cible est doublée, elle gagne un bonus de +2 à la CA, a l'avantage aux jets de sauvegarde de Dextérité et peut utiliser une action supplémentaire à chacun de ses tours. Cette action ne peut être utilisée que pour Attaquer (une unique attaque armée), Foncer, Se Désengager, Se Cacher ou Utiliser un Objet.
 
@@ -5523,12 +5496,12 @@ Lorsque le sort se termine, la cible ne peut ni se déplacer ni entreprendre d'a
 
 ---
 available:
- - Clerc
- - Druide
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5554,10 +5527,10 @@ Vous tendez la main vers une créature vivante que vous pouvez voir. La cible do
 
 ---
 available:
- - Magicien
- - Ranger
- - Druide
- - Investigateur
+  - Magicien
+  - Ranger
+  - Druide
+  - Investigateur
 level: 3
 school: Divination
 Verbal: true
@@ -5570,7 +5543,7 @@ Portee: Personnelle (rayon de 100 ft.)
 Concentration: true
 Rituel: true
 englishname: Geomatique Discernment
-writing_status: empty
+writing_status: finished
 ---
 Vous obtenez la capacité de sentir les minéraux de valeur dans une sphère d'un rayon de 100 ft. autour de vous. Une aura scintillante que vous seul pouvez voir apparaît autour des métaux de valeur, des gemmes, des minéraux, des éléments natifs ou d'autres ressources dans ce radius pendant la durée du sort. Vous pouvez voir cette aura à travers n'importe quelle épaisseur de matériau non magique.
 
@@ -5581,17 +5554,17 @@ Vous obtenez la capacité de sentir les minéraux de valeur dans une sphère d'u
 
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Paladin
- - Ensorceleur
- - Magicien
- - Occultiste
- - Artificier
- - Sorcière
- - Nécromancien
- - Martyr
+  - Barde
+  - Clerc
+  - Druide
+  - Paladin
+  - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Artificier
+  - Sorcière
+  - Nécromancien
+  - Martyr
 level: 3
 school: Abjuration
 Verbal: true
@@ -5604,7 +5577,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Dispel Magic
-writing_status: empty
+writing_status: finished
 ---
 Choisissez une créature, un objet ou un effet magique à portée. N'importe quel sort de niveau 3 ou moins sur la cible se termine. Pour chacun des sorts de niveau 4 ou plus sur la cible, effectuez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si le jet est réussi, le sort est dissipé.
 
@@ -5617,10 +5590,10 @@ Choisissez une créature, un objet ou un effet magique à portée. N'importe que
 
 ---
 available:
- - Magicien
- - Sorcière
- - Nécromancien
- - Investigateur
+  - Magicien
+  - Sorcière
+  - Nécromancien
+  - Investigateur
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5633,7 +5606,7 @@ Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Benign Dismemberment
-writing_status: empty
+writing_status: finished
 ---
 Pendant la durée, les parties du corps d'une cible consentante (doigts, jambes, queue et même sa tête) peuvent être retirées du corps sans danger. La créature ne subit aucun dégâts d'un tel démembrement, tant que la coupe est nette et rapide. La tête de la cible reste vivante et consciente, et les parties connectées à la tête restent en vie. Tous les membres séparés deviennent inanimés, mais ne commencent pas à se décomposer pendant la durée du sort. Tout partie du corps de la cible retirée pendant la durée du sort peut être pressée contre le moignon, ce qui restaurent immédiatement la connexion entre la partie et le corps.
 
@@ -5646,9 +5619,9 @@ A la fin du sort, les parties du corps séparées deviennent définitivement sé
 
 ---
 available:
- - Clerc
- - Ranger
- - Magicien
+  - Clerc
+  - Ranger
+  - Magicien
 level: 3
 school: Transmutation
 Verbal: true
@@ -5661,7 +5634,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Skirmish
-writing_status: empty
+writing_status: finished
 ---
 Vous augmentez la mobilité d'une créature consentante que vous voyez à portée, lui permettant de se déplacer avec aisance dans les lignes ennemies. Pendant la durée du sort, la vitesse de la cible est doublée, n'est pas affectée par les terrains difficiles non magiques et la cible ne provoque pas d'attaque d'opportunité.
 
@@ -5672,11 +5645,11 @@ Vous augmentez la mobilité d'une créature consentante que vous voyez à porté
 
 ---
 available:
- - Ranger
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 3
 school: Transmutation
 Verbal: true
@@ -5689,9 +5662,9 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Ashardalon's Stride
-writing_status: empty
+writing_status: finished
 ---
-Les flammes ardentes d'un dragon émane de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
+Les flammes ardentes d'un dragon émanent de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 
 Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui n'est pas porté, iel subit 1d6 dégâts de feu de votre trace enflammée. Une créature ou un objet ne subit ces dégâts qu'une fois par tour.
 
@@ -5704,7 +5677,7 @@ Lorsque vous vous déplacez à moins de 5 ft. d'une créature ou d'un objet qui 
 
 ---
 available:
- - Martyr
+  - Martyr
 level: 3
 school: Transmutation
 Verbal: true
@@ -5717,7 +5690,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Pillar of Salt
-writing_status: empty
+writing_status: finished
 ---
 Vous déchaînez une portion de colère divine sur un point que vous pouvez voir à portée. Chaque créature que vous choisissez dans une sphère de 10 ft. autour de ce point doit effectuer un jet de sauvegarde de Constitution. Sur un échec, la créature subit 7d6 dégâts nécrotiques, ou la moitié en cas de réussite. Si les dégâts réduisent une cible ayant échoué son jet à 0 point de vie, elle est transformée en pilier de sel.
 
@@ -5730,11 +5703,11 @@ Vous déchaînez une portion de colère divine sur un point que vous pouvez voir
 
 ---
 available:
- - Investigateur
- - Ranger
- - Ensorceleur
- - Magicien
- - Occultiste
+  - Investigateur
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 level: 3
 school: Illusion
 Verbal: true
@@ -5747,7 +5720,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: After Image
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un duplicata illusoire de vous-même qui suit vos mouvements. Lorsque vous êtes touché par une attaque pendant la durée du sort, lancez un dé. Sur un résultat impair, l'attaque cible et touche l'illusion plutôt que vous. La copie disparaît et ne réapparaît que si vous vous déplacez de 10 ft. ou entreprenez l'action d'Esquiver. Sur un résultat pair, l'attaque vous cible normalement.
 
@@ -5758,8 +5731,8 @@ Vous créez un duplicata illusoire de vous-même qui suit vos mouvements. Lorsqu
 
 ---
 available:
- - Magicien
- - Ensorceleur
+  - Magicien
+  - Ensorceleur
 level: 3
 school: Conjuration
 Verbal: true
@@ -5774,7 +5747,7 @@ Rituel: false
 englishname: Conjure Cannonball
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Vous conjurez un boulet de canon en plein vol et à pleine vitesse, qui explose à l'impact. Réalisez une attaque de sort à distance contre une cible que vous pouvez voir à portée. Si vous touchez, la cible subit 4d10 dégâts contondants et toutes les créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir la moitié des dégâts.
 
@@ -5787,10 +5760,10 @@ Vous conjurez un boulet de canon en plein vol et à pleine vitesse, qui explose 
 
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
 level: 3
 school: Conjuration
 Verbal: true
@@ -5815,7 +5788,7 @@ Si vous êtes dans la zone du sort, comme partie de l'action que vous utilisez p
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 3
 school: Abjuration
 Verbal: true
@@ -5828,7 +5801,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Beacon of Hope
-writing_status: empty
+writing_status: finished
 ---
 Ce sort restaure l'espoir et la vitalité. Choisissez n'importe quel nombre de créatures à portée. Pendant la durée de ce sort, chaque cible a l'avantage aux jets de sauvegarde de Sagesse et contre la mort, et regagne le maximum de points de vie pour chaque soin.
 
@@ -5839,10 +5812,10 @@ Ce sort restaure l'espoir et la vitalité. Choisissez n'importe quel nombre de c
 
 ---
 available:
- - Sorcière
- - Barde
- - Occultiste
- - Magicien
+  - Sorcière
+  - Barde
+  - Occultiste
+  - Magicien
 level: 3
 school: Enchantement
 Verbal: true
@@ -5855,7 +5828,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Curse of Blades
-writing_status: empty
+writing_status: finished
 ---
 Des bandes d'énergie noire occulte lient une créature à son arme. Choisissez une créature que vous pouvez voir à portée qui tient une arme. La cible doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Une cible maudite ne peut pas volontairement ranger ou lâcher son arme. De plus, lorsqu'elle utilise son action pour attaquer pendant son tour, elle doit réaliser une attaque supplémentaire contre elle-même en utilisant son arme. Cette attaque utilise sa propre CA et les dégâts normaux.
 
@@ -5868,8 +5841,8 @@ Un sort de [[délivrance des malédictions]] dissipe cette malédication.
 
 ---
 available:
- - Nécromancien
- - Sorcière
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5882,7 +5855,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Ruby-Eye Curse
-writing_status: empty
+writing_status: finished
 ---
 Une lueur rouge vient troubler les yeux d'une créature qui vient rencontrer votre regard. Choisissez une créature que vous pouvez voir à portée qui doit effectuer un jet de Constitution. Si elle échoue, la créature est maudite pendant la durée du sort. Une cible maudite peut voir normalement jusqu'à 5 ft., mais est [[aveuglé|aveuglée]] au-delà.
 
@@ -5894,11 +5867,11 @@ Une [[délivrance des malédictions]] termine ce sort prématurément.
 
 ---
 available:
- - Barde
- - Clerc
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Clerc
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Nécromancie
 Verbal: true
@@ -5911,7 +5884,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Bestow Curse
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature, qui doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Lorsque vous lancez ce sort, choisissez la nature de la malédiction parmi les options suivantes :
 
@@ -5931,10 +5904,10 @@ Un sort de [[délivrance des malédictions]] termine cet effet. Selon votre MJ, 
 
 ---
 available:
- - Magicien
- - Druide
- - Sorcière
- - Nécromancien
+  - Magicien
+  - Druide
+  - Sorcière
+  - Nécromancien
 level: 3
 school: Transmutation
 Verbal: true
@@ -5947,7 +5920,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Rusting Grasp
-writing_status: empty
+writing_status: finished
 ---
 Vous conjurez un puissant acide au bout de vos doigts, qui peut corroder le métal et brûler la chair. Réalisez une attaque de sort de mêlée contre une créature ou un objet à portée. Si vous touchez, la créature subit 6d4 dégâts d'acide et, si elle porte une armure de métal non magique ou manie un bouclier en métal non magique, vous pouvez corroder l'un ou l'autre. Une armure corrodée prend un malus permanent de -3 à sa CA. Une armure avec une CA réduite à 10 est détruite. Un bouclier corrodé est détruit.
 
@@ -5961,11 +5934,11 @@ Si vous ciblez un objet en métal non magique qui n'est pas porté, vous corrode
 
 ---
 available:
- - Magicien
- - Occultiste
- - Ranger
- - Paladin
- - Martyr
+  - Magicien
+  - Occultiste
+  - Ranger
+  - Paladin
+  - Martyr
 level: 3
 school: Conjuration
 Verbal: true
@@ -5978,7 +5951,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Polybrachia
-writing_status: empty
+writing_status: finished
 ---
 Deux bras musclés faits d'énergie arcanique brillante apparaissent sur une créature consentante que vous touchez. Ces bras sont totalement fonctionnels et peuvent être utilisés pour manier armes et boucliers (permettant à la cible de manier 2 armes à deux mains, ou 4 armes à une main), réaliser des composantes somatiques ou réaliser d'autres actions, même si les armes par eux-mêmes ne confèrent pas d'actions supplémentaires. Pendant la durée du sort, la cible a l'avantage aux jets de Force (Athlétisme) réalisés à l'aide de ses nouveaux bras. De plus, si les bras sont utilisés pour manier des armes, la cible peut utiliser une action bonus pour réaliser une attaque armée de mêlée en utilisant ces bras.
 
@@ -5989,10 +5962,10 @@ Deux bras musclés faits d'énergie arcanique brillante apparaissent sur une cr�
 
 ---
 available:
- - Sorcière
- - Barde
- - Ensorceleur
- - Magicien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 3
 school: Conjuration
 Verbal: true
@@ -6005,7 +5978,7 @@ Portee: Personnelle (cône de 15 ft.)
 Concentration: true
 Rituel: false
 englishname: Glitterdust
-writing_status: empty
+writing_status: finished
 ---
 Vous projetez des particules dorées dans un cône de 15 ft., recouvrant toutes les créatures et objets de la zone. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé|aveuglée]] pendant la durée du sort. Une créature aveuglée par ce sort peut répéter ce jet de sauvegarde à la fin de chacun de ses tours. Chaque créature dans la zone, qu'elle réussisse ou non le jet de sauvegarde, ne peut bénéficier d'être [[invisible]] pendant la durée du sort.
 
@@ -6016,9 +5989,9 @@ Vous projetez des particules dorées dans un cône de 15 ft., recouvrant toutes 
 
 ---
 available:
- - Magicien
- - Occultiste
- - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Ensorceleur
 level: 3
 school: Évocation
 Verbal: true
@@ -6031,7 +6004,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Ice Claw Prison
-writing_status: empty
+writing_status: finished
 ---
 Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pendant la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
 
@@ -6052,12 +6025,12 @@ La main est un objet dont la CA est égale à 18 et qui a un nombre de points de
 
 ---
 available:
- - Nécromancien
- - Occultiste
- - Sorcière
- - Artificier
- - Barde
- - Investigateur
+  - Nécromancien
+  - Occultiste
+  - Sorcière
+  - Artificier
+  - Barde
+  - Investigateur
 level: 3
 school: Abjuration
 Verbal: true
@@ -6070,7 +6043,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Resolve's Mantle of Spell Resistance
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature en prononçant le nom exact d'un sort dont vous connaissez la signature magique (au bon vouloir du MJ). La créature est totalement immunisée au sort cité pendant la durée du sort. 
 
@@ -6080,11 +6053,11 @@ Vous touchez une créature en prononçant le nom exact d'un sort dont vous conna
 
 ---
 available:
- - Magicien
- - Barde
- - Nécromancien
- - Occultiste
- - Paladin
+  - Magicien
+  - Barde
+  - Nécromancien
+  - Occultiste
+  - Paladin
 level: 3
 school: Abjuration
 Verbal: true
@@ -6097,7 +6070,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Ward of Energy Absorption
-writing_status: empty
+writing_status: finished
 ---
 Vous vous influez d'une énergie magique protectrice. La prochaine fois que vous devriez subir des dégâts par un sort de dégâts directs pendant la durée du sort, cette défense absorbe l'énergie du sort. Vous ne subissez aucun dégâts et gagnez plutôt un nombre de points de vie temporaires égal au niveau du sort absorbé. Cette protection ne fonctionne pas contre les dégâts de zone.
 
@@ -6107,9 +6080,9 @@ Vous vous influez d'une énergie magique protectrice. La prochaine fois que vous
 
 ---
 available:
- - Druide
- - Clerc
- - Martyr
+  - Druide
+  - Clerc
+  - Martyr
 level: 3
 school: Transmutation
 Verbal: true
@@ -6122,7 +6095,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Snakestaff
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez un [[bâton]] au sol, qui se tord et grandit en un serpent constricteur géant sous votre contrôle, qui agit selon sa propre initiative. Ce serpent est amical envers vous et vos alliés. Le serpent obéit toute commande verbale que vous lui donnez. Si vous ne lui donnez pas de commande, il se défend des créatures hostiles mais ne prend sinon aucune action. Si le serpent est réduit à 0 point de vie, il meurt et se transforme en un bâton brisé.
 
@@ -6133,9 +6106,9 @@ Vous lancez un [[bâton]] au sol, qui se tord et grandit en un serpent constrict
 
 ---
 available:
- - Sorcière
- - Nécromancien
- - Investigateur
+  - Sorcière
+  - Nécromancien
+  - Investigateur
 level: 3
 school: Nécromancie
 Verbal: true
@@ -6148,7 +6121,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Séance
-writing_status: empty
+writing_status: finished
 ---
 Vous et au moins trois créatures consentantes vous donnez les mains pendant un moment de méditation pour conjurer un esprit d'au-delà la mort pour répondre à vos questions. Décrivez ou appelez une créature qui vous est familière. Si l'âme de la créature est libre et consentante, elle se manifeste devant vous en un spectre fantomatique. Ce sort échoue si l'esprit était déjà la cible de ce sort il y a moins de 10 jours.
 
@@ -6161,9 +6134,9 @@ Jusqu'à ce que le sort se termine, vous pouvez poser jusqu'à trois questions a
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 3
 school: Conjuration
 Verbal: true
@@ -6191,8 +6164,8 @@ Si une créature commence son tour dans la zone du sort en se concentrant sur un
 
 ---
 available:
- - Occultiste
- - Nécromancien
+  - Occultiste
+  - Nécromancien
 level: 3
 school: Nécromancie
 Verbal: true
@@ -6218,9 +6191,9 @@ Vous invoquez un fantôme éthéré aux allures de spectre, armé d'une lame mor
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Nécromancien
+  - Barde
+  - Ensorceleur
+  - Nécromancien
 level: 4
 school: Illusion
 Verbal: true
@@ -6233,7 +6206,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Shadow Refuge
-writing_status: empty
+writing_status: finished
 ---
 Vous pénétrez dans un espace camouflé hors de la réalité pour un bref instant, rassemblant vos pouvoirs et attendant de pouvoir frapper à nouveau. Jusqu'au début de votre prochain tour, vous ne pouvez être la cible de sorts et vous êtes grandement camouflé par des ténèbres magiques. Votre première attaque réussie pendant votre prochain tour inflige 4d6 dégâts psychiques supplémentaires et met la cible [[au sol]].
 
@@ -6244,13 +6217,13 @@ Vous pénétrez dans un espace camouflé hors de la réalité pour un bref insta
 
 ---
 available:
- - Barde
- - Paladin
- - Ranger
- - Ensorceleur
- - Magicien
- - Sorcière
- - Nécromancien
+  - Barde
+  - Paladin
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 4
 school: Enchantement
 Verbal: false
@@ -6263,7 +6236,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Unspoken Agreement
-writing_status: empty
+writing_status: finished
 ---
 Vous réalisez un simple geste, indiquant à une créature alliée à portée qu'elle doit entreprendre une action et lui transmettant un message télépathique de 25 mots ou moins. La cible choisit l'action de Foncer, de Désengagement, d'Esquive, d'Attaque (une seule attaque armée) ou d'Incantation (un cantrip avec un temps d'incantation d'une action). La cible utilise sa réaction pour réaliser cette action. Vous entreprenez la même action en lançant ce sort.
 
@@ -6274,11 +6247,11 @@ Vous réalisez un simple geste, indiquant à une créature alliée à portée qu
 
 ---
 available:
- - Clerc
- - Paladin
- - Ensorceleur
- - Occultiste
- - Martyr
+  - Clerc
+  - Paladin
+  - Ensorceleur
+  - Occultiste
+  - Martyr
 level: 4
 school: Transmutation
 Verbal: true
@@ -6304,7 +6277,7 @@ Tant que vous êtes sous cette forme, vos attaques avec une arme infligent 1d8 d
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 4
 school: Conjuration
 Verbal: true
@@ -6333,9 +6306,9 @@ Tant que votre destrier se trouve à moins de 2 kilomètres de vous, vous pouvez
 
 ---
 available:
- - Barde
- - Magicien
- - Sorcière
+  - Barde
+  - Magicien
+  - Sorcière
 level: 4
 school: Illusion
 Verbal: true
@@ -6363,9 +6336,9 @@ La cible doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la cib
 
 ---
 available:
- - Paladin
- - Martyr
- - Clerc
+  - Paladin
+  - Martyr
+  - Clerc
 level: 4
 school: Abjuration
 Verbal: true
@@ -6378,7 +6351,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Aura of Purity
-writing_status: empty
+writing_status: finished
 ---
 Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, obtient une résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause une des conditions suivantes : [[assourdi]], [[apeuré]], [[aveuglé]], [[charmé]], [[empoisonné]], [[paralysé]], [[sonné]].
 
@@ -6388,9 +6361,9 @@ Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce
 
 ---
 available:
- - Paladin
- - Martyr
- - Clerc
+  - Paladin
+  - Martyr
+  - Clerc
 level: 4
 school: Abjuration
 Verbal: true
@@ -6403,7 +6376,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Aura of Life
-writing_status: empty
+writing_status: finished
 ---
 Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) obtient une résistance aux dégâts nécrotiques, et son maximum de points de vie ne peut être réduit. De plus, une créature vivante non hostile récupère 1 point de vie lorsqu'elle démarre son tour dans l'aura et qu'elle a 0 point de vie.
 
@@ -6414,13 +6387,13 @@ Une énergie vitale rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à 
 
 ---
 available:
- - Martyr
- - Sorcière
- - Clerc
- - Paladin
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Martyr
+  - Sorcière
+  - Clerc
+  - Paladin
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 4
 school: Abjuration
 Verbal: true
@@ -6433,7 +6406,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Banishment
-writing_status: empty
+writing_status: finished
 ---
 Vous tentez d'envoyer dans un autre plan d'existence une créature à portée que vous pouvez voir. La cible doit réussir un jet de sauvegarde de Charisme sous peine d'être bannie. 
 
@@ -6449,8 +6422,8 @@ Si la cible est native d'un plan d'existence différent de celui sur lequel vous
 
 ---
 available:
- - Sorcière
- - Nécromancien
+  - Sorcière
+  - Nécromancien
 level: 4
 school: Abjuration
 Verbal: true
@@ -6463,7 +6436,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Gahoul's Scapegoat
-writing_status: empty
+writing_status: finished
 ---
 Vous dessinez un symbole arcanique complexe dans la peau d'une créature consentante à 5 ft. de vous, la marquant pour un sacrifice. Pendant la durée du sort, lorsque vous êtes touché par une attaque et que la créature marquée se trouve à 60 ft. de vous, vous pouvez utiliser votre réaction pour vous téléporter, changeant de place avec la créature et la faisant se faire toucher par l'attaque plutôt que vous. Le sort se termine alors.
 
@@ -6474,9 +6447,9 @@ Vous dessinez un symbole arcanique complexe dans la peau d'une créature consent
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 4
 school: Évocation
 Verbal: true
@@ -6503,8 +6476,8 @@ De plus, lorsqu'une créature à 5 ft. de vous est touchée par une attaque de m
 
 ---
 available:
- - Druide
- - Ranger
+  - Druide
+  - Ranger
 level: 4
 school: Conjuration
 Verbal: true
@@ -6519,7 +6492,7 @@ Rituel: false
 englishname: Cage of Briars
 writing_status: finished
 ---
-En lançant ce sort, vous créez une cage de ronces épineuses qui englobe un cube de 10 ft. de côté à portée. Les ronces sont épaisses et ne laissent passer qu'une petite fraction de la lumière et de l'air environnant. Ainsi, elles prodiguent une couverture de trois quarts aux créatures à l'intérieur de la cage et une couverture totale aux créatures à l'extérieur. Vous, ainsi que toutes les autres créatures de votre choix, pouvez passer à travers les parois de la cage sans difficulté. La cage d'épines a une CA de 10, 200 points de vie et une faiblesse au feu. Une créature qui frappe la cage avec une attaque à mains nues ou une arme naturelle, comme une morsure ou une griffe, subit 1d4 dégâts perçants.
+En lançant ce sort, vous créez une cage de ronces épineuses qui englobe un cube de 10 ft. de côté à portée. Les ronces sont épaisses et ne laissent passer qu'une petite fraction de la lumière et de l'air environnant. Ainsi, elles prodiguent une couverture de trois quarts aux créatures à l'intérieur de la cage et une couverture totale aux créatures à l'extérieur. Vous, ainsi que toutes les autres créatures de votre choix, pouvez passer à travers les parois de la cage sans difficulté. La cage d'épines a une CA de 10, 200 points de vie et une faiblesse au feu. Une créature qui frappe la cage avec une attaque à mains nues ou une arme naturelle, comme une morsure ou une griffe, subit 1d4 dégâts perforants.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les points de vie de la cage augmentent de 20 par niveau d'emplacement au-delà du niveau 4.
 
@@ -6530,7 +6503,7 @@ En lançant ce sort, vous créez une cage de ronces épineuses qui englobe un cu
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 4
 school: Transmutation
 Verbal: true
@@ -6543,7 +6516,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Mandy's Feral Follower
-writing_status: empty
+writing_status: finished
 ---
 Après avoir passé le temps d'incantation à chanter une chanson, vous touchez une Bête de taille P ou inférieure. La cible doit avoir une Intelligence d'au plus 3. La Bête se transforme en un Humanoïde avec les statistiques d'un roturier et l'apparence de votre choix. Le roturier est amical avec vous et vos alliés, comprend les tâches les plus simples et peut comprendre les langages que vous parlez, mais ne parle pas. Le roturier est habillé de vêtements communs, mais ne porte pas d'autres équipements.
 
@@ -6551,9 +6524,9 @@ En combat, le roturier tire sa propre initiative et agit pendant son propre tour
 
 La durée du sort dépend de quand et où il a été lancé. S'il a été lancé à un endroit où le temps se déroule normalement, le sort dure jusqu'à la douzième sonnerie de minuit, aussi longtemps que cela soit. Sinon, le sort dure 24 heures. 
 
-La transformation dure pendant la durée du sort, ou jusqu'à ce que la cible tombe à 0 points de vie et meurt. Lorsqu'elle revient à sa vraie forme, la créature revient au nombre de points de vie qu'elle avait avant de se transformer. Si elle revient à sa forme à cause de dégâts qui la font tomber à 0 point de vie, tout dégât en excès est porté sur sa forme originale. Tant que les dégâts en excès ne font pas tomber la forme normale à 0 point de vie, la créature ne tombe pas [[inconscient|inconsciente]].
+La transformation dure pendant la durée du sort, ou jusqu'à ce que la cible tombe à 0 point de vie et meurt. Lorsqu'elle revient à sa vraie forme, la créature revient au nombre de points de vie qu'elle avait avant de se transformer. Si elle revient à sa forme à cause de dégâts qui la font tomber à 0 point de vie, tout dégât en excès est porté sur sa forme originale. Tant que les dégâts en excès ne font pas tomber la forme normale à 0 point de vie, la créature ne tombe pas [[inconscient|inconsciente]].
 
-**Aux Niveau Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez transformer un animal supplémentaire par niveau d'emplacement au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez transformer un animal supplémentaire par niveau d'emplacement au-delà du niveau 4.
 
 ---
 
@@ -6561,8 +6534,8 @@ La transformation dure pendant la durée du sort, ou jusqu'à ce que la cible to
 
 ---
 available:
- - Occultiste
- - Nécromancien
+  - Occultiste
+  - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true
@@ -6577,7 +6550,7 @@ Rituel: false
 englishname: Crimson Cloak
 writing_status: finished
 ---
-Vous attirez le sang des plaies ouvertes de ceux autour de vous et en imprégnez votre cape à l'aide de la magie stygienne. À chaque fois que vous ou une créature à 151 ft. de vous perdez des points de vie, votre cape obtient une valeur sanguine égale au montant des points de vie perdus jusqu'à un total maximum de 30. Lorsque vous devriez subir des dégâts d'un sort alors que votre cape a atteint sa valeur sanguine maximale, vous pouvez utiliser votre réaction pour obtenir une résistance aux dégâts du sort. Lorsque vous le faites, la valeur sanguine de la cape retombe à 0.
+Vous attirez le sang des plaies ouvertes de ceux autour de vous et en imprégnez votre cape à l'aide de la magie stygienne. À chaque fois que vous ou une créature à 15 ft. de vous perdez des points de vie, votre cape obtient une valeur sanguine égale au montant des points de vie perdus jusqu'à un total maximum de 30. Lorsque vous devriez subir des dégâts d'un sort alors que votre cape a atteint sa valeur sanguine maximale, vous pouvez utiliser votre réaction pour obtenir une résistance aux dégâts du sort. Lorsque vous le faites, la valeur sanguine de la cape retombe à 0.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le maximum diminue de 5 par niveau de sort au-delà du niveau 4.
 
@@ -6588,7 +6561,7 @@ Vous attirez le sang des plaies ouvertes de ceux autour de vous et en imprégnez
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 4
 school: Transmutation
 Verbal: true
@@ -6601,9 +6574,9 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Mandy's Enchanted Carriage
-writing_status: empty
+writing_status: finished
 ---
-Vous transformez un légume en un Grand carrosse magique, avec les rênes et deux chevaux quasi réels. Le carrosse est luxueux et peut transporter jusqu'à 6 passagers -- quatre à l'intérieur et deux à la place du cocher. Les créature dans le carrosse ont la couverture totale des effets de l'extérieurs, mais peuvent le percevoir par une paire de fenêtre de force magique. Tant qu'elle est assise à la place du cocher, une créature peut contrôler le carrosse, qui a une vitesse de 100 ft. et peut se déplacer à 16 km/h, ou 20 km/h à un rythme soutenu.
+Vous transformez un légume en un Grand carrosse magique, avec les rênes et deux chevaux quasi réels. Le carrosse est luxueux et peut transporter jusqu'à 6 passagers -- quatre à l'intérieur et deux à la place du cocher. Les créatures dans le carrosse ont la couverture totale des effets de l'extérieur, mais peuvent le percevoir par une paire de fenêtres de force magique. Tant qu'elle est assise à la place du cocher, une créature peut contrôler le carrosse, qui a une vitesse de 100 ft. et peut se déplacer à 16 km/h, ou 20 km/h à un rythme soutenu.
 
 La durée du sort dépend de quand et où il a été lancé. S'il a été lancé à un endroit où le temps se déroule normalement, le sort dure jusqu'à la douzième sonnerie de minuit, aussi longtemps que cela soit. Sinon, le sort dure 24 heures. Lorsque le sort se termine, ses occupants sont éjectés vers les espaces inoccupés les plus proches, le carrosse redevient un légume et les chevaux disparaissent. 
 
@@ -6616,7 +6589,7 @@ Le carrosse et les chevaux comptent comme un seul objet de CA 12 avec 100 PV. Le
 
 ---
 available:
- - Barde
+  - Barde
 level: 4
 school: Évocation
 Verbal: true
@@ -6642,10 +6615,10 @@ Pour une action à chacun de vos tours tant que vous maintenez la concentration 
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
 level: 4
 school: Enchantement
 Verbal: true
@@ -6658,7 +6631,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Dire Charm
-writing_status: empty
+writing_status: finished
 ---
 Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit effectuer un jet de sauvegarde de Sagesse, et a l'avantage à ce jet sauf si vous ou vos camarades le combattez. S'il échoue son jet, il est [[charmé]] par vous jusqu'à ce que le sort se termine. Si vous ou vous compagnons le blessez, il peut retenter le jet de sauvegarde. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 
@@ -6671,12 +6644,12 @@ Vous essayez de charmer un Humanoïde qui peut vous voir à portée. Il doit eff
 
 ---
 available:
- - Sorcière
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 4
 school: Enchantement
 Verbal: true
@@ -6702,7 +6675,7 @@ Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 4
 school: Évocation
 Verbal: true
@@ -6726,8 +6699,8 @@ La prochaine fois que vous touchez une créature avec une attaque armée de mêl
 
 ---
 available:
- - Magicien
- - Nécromancien
+  - Magicien
+  - Nécromancien
 level: 4
 school: Conjuration
 Verbal: true
@@ -6740,7 +6713,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Secret Chest
-writing_status: empty
+writing_status: finished
 ---
 Vous cachez un coffre, ainsi que tout son contenu, sur le Plan Éthéré. Vous devez toucher le coffre et la réplique miniature qui servent de composantes matérielles pour le sort. Le coffre peut contenir jusqu'à 12 ft$^3$. de matériel non vivant (3 ft. par 2 ft. par 2 ft.).
 
@@ -6755,8 +6728,8 @@ Après 60 jours, il y a une chance cumulative de 5% que le sort se termine. Le s
 
 ---
 available:
- - Sorcière
- - Barde
+  - Sorcière
+  - Barde
 level: 4
 school: Enchantement
 Verbal: true
@@ -6782,11 +6755,11 @@ Une cible n'est pas forcée à se déplacer dans un danger mortel, comme un bûc
 
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 4
 school: Enchantement
 Verbal: true
@@ -6821,9 +6794,9 @@ Une créature affectée ne peut pas utiliser de réactions et doit lancer un d10
 
 ---
 available:
- - Clerc
- - Druide
- - Magicien
+  - Clerc
+  - Druide
+  - Magicien
 level: 4
 school: Transmutation
 Verbal: true
@@ -6858,8 +6831,8 @@ La première fois chaque tour qu'un objet entre dans le vortex, l'objet subit 2d
 
 ---
 available:
- - Occultiste
- - Magicien
+  - Occultiste
+  - Magicien
 level: 4
 school: Conjuration
 Verbal: true
@@ -6886,10 +6859,10 @@ La créature est une alliée pour vous et vos compagnons. En combat, elle partag
 
 ---
 available:
- - Sorcière
- - Druide
- - Magicien
- - Ranger
+  - Sorcière
+  - Druide
+  - Magicien
+  - Ranger
 level: 4
 school: Conjuration
 Verbal: true
@@ -6904,12 +6877,12 @@ Rituel: false
 englishname: Summon Elemental
 writing_status: finished
 tags:
- - Sort
- - Sorcière
- - 4ème
- - Druide
- - Ranger
- - Magicien
+  - Sort
+  - Sorcière
+  - 4ème
+  - Druide
+  - Ranger
+  - Magicien
 ---
 Vous appelez un esprit élémentaire. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Élémentaire]]. Lorsque vous lancez ce sort, choisissez un élément : Air, Terre, Feu ou Eau. La créature prend une forme bipède, enveloppée de l'élément choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 
@@ -6926,8 +6899,8 @@ La créature est une alliée pour vous et vos compagnons. En combat, elle partag
 
 ---
 available:
- - Artificier
- - Magicien
+  - Artificier
+  - Magicien
 level: 4
 school: Conjuration
 Verbal: true
@@ -6957,11 +6930,11 @@ La créature est une alliée pour vous et vos compagnons. En combat, elle partag
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Druide
- - Nécromancien
- - Investigateur
+  - Magicien
+  - Ensorceleur
+  - Druide
+  - Nécromancien
+  - Investigateur
 level: 4
 school: Transmutation
 Verbal: true
@@ -6974,7 +6947,7 @@ Portee: Contact
 Concentration: true
 Rituel: true
 englishname: Distort Gravity
-writing_status: empty
+writing_status: finished
 ---
 Ce sort manipule la direction de la gravité sur une surface non horizontale que vous touchez, la faisant attirer les créatures objets à 15 ft. comme si c'était le sol. La surface doit avoir une surface inférieure à 60 ft.² et peut s'"enrouler" autour d'une structure, si la géométrie le permet. Une créature peut marcher sur cette surface comme si c'était le sol, même si cette surface est perpendiculaire au sol ou à l'envers.
 
@@ -6987,7 +6960,7 @@ Lorsque la durée se termine toutes les créatures et objets tombent de la surfa
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true
@@ -7000,7 +6973,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Grasp of the Grave
-writing_status: empty
+writing_status: finished
 ---
 Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.
 
@@ -7017,10 +6990,10 @@ Jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour force
 
 ---
 available:
- - Magicien
- - Barde
- - Sorcière
- - Investigateur
+  - Magicien
+  - Barde
+  - Sorcière
+  - Investigateur
 level: 4
 school: Illusion
 Verbal: true
@@ -7033,7 +7006,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: False Vision
-writing_status: empty
+writing_status: finished
 ---
 Pendant la durée du sort, vous cachez la cible que vous touchez de toute magie de divination. La cible peut être une créature consentante, un emplacement ou un objet pas plus grand que 10 ft. dans chaque dimension. Si la cible est ciblée par une magie de divination ou perçue à travers les capteurs d'un sort de scrutation, vous êtes capable de présenter au divinateur de fausses informations de votre choix, tant que vous êtes conscient lorsque que la divination a lieu. La cible peut sembler être dans de toutes autres circonstances, à l'un ou plusieurs faux endroits ou complètement indétectable.
 
@@ -7044,11 +7017,11 @@ Pendant la durée du sort, vous cachez la cible que vous touchez de toute magie 
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Nécromancien
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true
@@ -7061,7 +7034,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Blight
-writing_status: empty
+writing_status: finished
 ---
 De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit effectuer un jet de sauvegarde de Constitution. La cible subit 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.
 
@@ -7078,11 +7051,11 @@ Si vous ciblez une plante non magique qui n'est pas une créature, comme un arbr
 
 ---
 available:
- - Magicien
- - Nécromancien
- - Occultiste
- - Ensorceleur
- - Investigateur
+  - Magicien
+  - Nécromancien
+  - Occultiste
+  - Ensorceleur
+  - Investigateur
 level: 4
 school: Abjuration
 Verbal: true
@@ -7095,7 +7068,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: true
 englishname: Arcane Bulwark
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un champ magique centré sur vous et d'un rayon de 30 ft. À chaque fois qu'une créature en concentration sur sort rentre dans cette zone pour la première fois pendant son tour ou qu'elle y commence son tour, elle subit 1d8 dégâts de force.
 
@@ -7105,10 +7078,10 @@ Vous créez un champ magique centré sur vous et d'un rayon de 30 ft. À chaque 
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Clerc
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Clerc
+  - Magicien
 level: 4
 school: Divination
 Verbal: true
@@ -7123,7 +7096,7 @@ Rituel: false
 englishname: Dire Warning
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous recevez un message de 6 mots ou moins de votre vous futur, vous avertissant d'une menace cruciale ou vous pointant un chemin fructueux. À un moment dans le futur, une fois que vous avez appris pourquoi vous avez envoyé le message, vous devez réaliser un rituel de 10 minutes pour envoyer le message à votre vous du passé. Une fois que vous avez lancé ce sort, vous ne pouvez pas le relancer jusqu'à ce que vous réalisiez le rituel ou une semaine plus tard si vous n'avez pas découvert cette information.
 
@@ -7134,10 +7107,10 @@ Vous recevez un message de 6 mots ou moins de votre vous futur, vous avertissant
 
 ---
 available:
- - Clerc
- - Druide
- - Ensorceleur
- - Magicien
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 4
 school: Transmutation
 Verbal: true
@@ -7150,7 +7123,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Intensify Gravity
-writing_status: empty
+writing_status: finished
 ---
 Ce sort intensifie la gravité dans un cylindre d'un rayon de 50 ft. et haut de 100 ft. centré sur un point à portée. Chaque créature dans la zone doit dépenser deux pieds de mouvement par pied bougé, y compris pour des mouvements de vol, de saut et d'escalade. Cela peut être combiné avec un terrain difficile pour un déplacement au quart de la vitesse initiale. Si une créature [[au sol]] souhaite se relever, elle doit réussir un jet de Force. Si elle rate, elle ne peut pas se déplacer ce tour.
 
@@ -7163,11 +7136,11 @@ Les objets dans la zone, y compris ceux portés ou maniés, voient leurs poids d
 
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Ranger
- - Artificier
+  - Barde
+  - Clerc
+  - Druide
+  - Ranger
+  - Artificier
 level: 4
 school: Abjuration
 Verbal: true
@@ -7180,7 +7153,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Freedom of Movement
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature consentante. Pendant la durée du sort, les mouvement de la cible ne sont pas affectés par le terrain difficile, et les sorts et autres effet magiques ne peuvent ni réduire sa vitesse, ni la rendre [[paralysé|paralysée]] ou [[retenu|retenue]].
 
@@ -7193,8 +7166,8 @@ La cible peut aussi dépenser 5 pieds de mouvement pour s'Échapper automatiquem
 
 ---
 available:
- - Occultiste
- - Paladin
+  - Occultiste
+  - Paladin
 level: 4
 school: Abjuration
 Verbal: true
@@ -7207,7 +7180,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Mystic Rebuke
-writing_status: empty
+writing_status: finished
 ---
 Lorsque vous subissez des dégâts par un sort, vous pouvez utiliser votre réaction pour renvoyer magiquement la moitié des dégâts au lanceur de sort. Vous subissez les dégâts restants.
 
@@ -7218,7 +7191,7 @@ Lorsque vous subissez des dégâts par un sort, vous pouvez utiliser votre réac
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -7231,9 +7204,9 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Mandy's Marvelous Dress
-writing_status: empty
+writing_status: finished
 ---
-Une créature consentante que vous touchez est immédiatement habillée d'une magnifique robe de bal, parfaitement taillée et complétée par un ensemble de bijoux. Vous pouvez choisir de placer la robe par dessus les vêtements de la créature (dont son armure) ou de les remplacer. La créature ne peut retirer la robe jusqu'à ce que le sort se termine; de même, les bijoux disparaissent lorsqu'ils sont dissociés de la robe. Jusqu'à ce que le sort se termine, lorsque le porteur effectue un jet de Charisme, il peut traiter le résultat obtenu comme un 10.
+Une créature consentante que vous touchez est immédiatement habillée d'une magnifique robe de bal, parfaitement taillée et complétée par un ensemble de bijoux. Vous pouvez choisir de placer la robe par dessus les vêtements de la créature (dont son armure) ou de les remplacer. La créature ne peut retirer la robe jusqu'à ce que le sort se termine ; de même, les bijoux disparaissent lorsqu'ils sont dissociés de la robe. Jusqu'à ce que le sort se termine, lorsque le porteur effectue un jet de Charisme, il peut traiter le résultat obtenu comme un 10.
 
 De plus, si le porteur de la robe est attaqué par une créature qu'il peut voir, l'attaquant doit réussir un jet de sauvegarde de Sagesse ou rater son attaque. S'il réussit l'attaquant est immunisé contre cet effet jusqu'à que le sort se termine.
 
@@ -7246,9 +7219,9 @@ La durée du sort dépend de quand et où il a été lancé. S'il a été lancé
 
 ---
 available:
- - Magicien
- - Occultiste
- - Druide
+  - Magicien
+  - Occultiste
+  - Druide
 level: 4
 school: Conjuration
 Verbal: true
@@ -7261,7 +7234,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Watery Tentacles
-writing_status: empty
+writing_status: finished
 ---
 Lorsque vous lancez ce sort, trois tentacules d'eau apparaissent autour de votre corps pendant la durée du sort. Pendant l'action que vous utilisez pour lancer ce sort, et pour une action bonus pendant vos prochains tours jusqu'à ce que le sort se termine, vous pouvez ordonner à l'un de ces tentacules de Saisir une créature de taille G ou inférieure que vous pouvez voir à 30 ft. La cible doit réussir un jet de sauvegarde de Force ou être [[saisi|saisie]] et [[retenu|retenue]] par le tentacule. A la fin de chacun de ses tours, une cible retenue peut répéter le jet de sauvegarde.
 
@@ -7278,8 +7251,8 @@ Vous pouvez également utiliser les tentacules pour manipuler les objets comme a
 
 ---
 available:
- - Magicien
- - Sorcière
+  - Magicien
+  - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -7292,7 +7265,7 @@ Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Black Tentacles
-writing_status: empty
+writing_status: finished
 ---
 De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. pendant la durée du sort, ces tentacules rendent le terrain difficile.
 
@@ -7309,8 +7282,8 @@ Une créature [[retenu|retenue]] par les tentacules peut utiliser son action pou
 
 ---
 available:
- - Druide
- - Magicien
+  - Druide
+  - Magicien
 level: 4
 school: Transmutation
 Verbal: true
@@ -7323,7 +7296,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Hunger of the Earth
-writing_status: empty
+writing_status: finished
 ---
 Choisissez une créature de taille au plus G au sol à portée. La terre s'ouvre sous cette créature et essaye de l'avaler. La cible doit effectuer un jet de sauvegarde de Force ou être [[retenu|retenue]] pendant la durée du sort. De plus, si la cible échoue le jet, elle commence à couler dans le sol.
 
@@ -7338,11 +7311,11 @@ A la fin du tour de la cible, elle s'enfonce plus profondément dans le sol. Une
 
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 4
 school: Abjuration
 Verbal: true
@@ -7355,7 +7328,7 @@ Portee: Personnelle (rayon de 120 ft.)
 Concentration: false
 Rituel: false
 englishname: Invisibility Purge
-writing_status: empty
+writing_status: finished
 ---
 Vous purgez les effets d'invisibilité magique dans un rayon de 120 ft. autour de vous. Toute créature, objet, emplacement ou effet à 120 ft. de vous qui est caché par une invisibilité magique est révélé et l'invisibilité est dissipée.
 
@@ -7368,10 +7341,10 @@ Ce sort s'applique aux capacités innées qui sont magiques par nature, comme l'
 
 ---
 available:
- - Magicien
- - Artificier
- - Nécromancien
- - Sorcière
+  - Magicien
+  - Artificier
+  - Nécromancien
+  - Sorcière
 level: 4
 school: Divination
 Verbal: true
@@ -7384,7 +7357,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Eye
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un œil magique invisible dans la portée qui flotte dans les airs pendant la durée du sort.
 
@@ -7398,7 +7371,7 @@ Pour une action, vous pouvez déplacer l'œil de 30 ft. dans n'importe quelle di
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 5
 school: Illusion
 Verbal: true
@@ -7411,7 +7384,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Wings of Night
-writing_status: completed
+writing_status: finished
 ---
 Vous faites apparaître de larges ailes de brume, de fumée et d'ombre qui s'attachent à votre dos et suivent votre commandement, vous conférant une vitesse de vol de 60 ft. et vous obscurcissant légèrement. Pour une action tant que vous avez ces ailes, vous pouvez choisir de libérer leur pouvoir, terminant le sort et déchaînant une vague d'énergie cauchemardesque. Les créatures à 30 ft. de vous doit effectuer un jet de sauvegarde de Charisme. Si une créature échoue, elle subit 6d10 dégâts psychiques et est [[apeuré|apeurée]] jusqu'à la fin de votre prochain tour. Elle ne subit que la moitié des dégâts et n'est pas apeurée si elle réussit le jet.
 
@@ -7422,11 +7395,11 @@ Vous faites apparaître de larges ailes de brume, de fumée et d'ombre qui s'att
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 5
 school: Transmutation
 Verbal: true
@@ -7452,10 +7425,10 @@ Vous devez choisir une compétence que la cible maîtrise et pour laquelle elle 
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 5
 school: Transmutation
 Verbal: true
@@ -7468,7 +7441,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Animate Objects
-writing_status: empty
+writing_status: finished
 ---
 Les objets prennent vie à votre demande. Choisissez jusqu'à dix objets non magiques à portée qui ne sont pas portés. Les objets de taille M comptent pour deux, ceux de taille G pour quatre, et les objets de taille TG comptent pour huit. Vous ne pouvez pas animer des objets plus grands que TG. Chaque cible s'anime et devient une créature sous votre contrôle jusqu'à ce que le sort finisse, ou qu'elle soit réduite à 0 point de vie.
 
@@ -7496,10 +7469,10 @@ Si vous ordonnez à un objet d'attaquer, il peut faire une simple attaque de mê
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 5
 school: Illusion
 Verbal: true
@@ -7529,9 +7502,9 @@ Pour détecter qu'une cible est déguisée, une créature peut utiliser son acti
 
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 5
 school: Conjuration
 Verbal: true
@@ -7546,7 +7519,7 @@ Rituel: false
 englishname: Holy Weapon
 writing_status: finished
 ---
-Vous imprégnez une arme que vous touchez de votre pouvoir sacré. jusqu'à ce que le sort se termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.
+Vous imprégnez une arme que vous touchez de votre pouvoir sacré. Jusqu'à ce que le sort se termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.
 
 Pour une action bonus pendant votre tour, vous pouvez dissiper ce sort et faire émettre à l'arme une explosion de radiance. Chaque créature de votre choix que vous pouvez voir à 30 ft. de l'arme doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature subit 4d8 dégâts radiants et est [[aveuglé|aveuglée]] pendant 1 minute. Si elle réussit, la créature subit la moitié des dégâts et n'est pas aveuglée. À la fin de chacun de ses tours, une créature [[aveuglé|aveuglée]] peut effectuer un jet de sauvegarde de Constitution pour terminer l'effet.
 
@@ -7557,7 +7530,7 @@ Pour une action bonus pendant votre tour, vous pouvez dissiper ce sort et faire 
 
 ---
 available:
- - Druide
+  - Druide
 level: 5
 school: Évocation
 Verbal: false
@@ -7583,7 +7556,7 @@ Si la destination finale est occupée, la créature est déplacée vers l'espace
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 5
 school: Évocation
 Verbal: true
@@ -7608,8 +7581,8 @@ Jusqu'à ce que le sort se termine, chaque fois que vous entreprenez l'action At
 
 ---
 available:
- - Occultiste
- - Magicien
+  - Occultiste
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true
@@ -7643,9 +7616,9 @@ Si vous possédez le talisman d'un diable, vous pouvez l'invoquer si son FP est 
 
 ---
 available:
- - Clerc
- - Magicien
- - Martyr
+  - Clerc
+  - Magicien
+  - Martyr
 level: 5
 school: Évocation
 Verbal: true
@@ -7669,9 +7642,9 @@ La lumière de l'aube s'abat sur un point que vous spécifiez à portée. Jusqu'
 
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true
@@ -7703,7 +7676,7 @@ Le brouillard s'éloigne de vous de 101 ft. au début de chacun de vos tours, su
 
 ---
 available:
- - Ranger
+  - Ranger
 level: 5
 school: Transmutation
 Verbal: true
@@ -7729,7 +7702,7 @@ Vous transformez votre carquois afin qu'il produise sans cesse des munitions non
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 5
 school: Abjuration
 Verbal: true
@@ -7755,10 +7728,10 @@ De plus, lorsqu'une créature affectée réussit un jet de sauvegarde contre un 
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Nécromancien
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
 level: 5
 school: Conjuration
 Verbal: true
@@ -7771,7 +7744,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Teleportation Circle
-writing_status: empty
+writing_status: finished
 ---
 Pour lancer ce sort, vous dessinez un cercle de 10 ft. de diamètre au sol inscrit avec des sigils qui lient votre localisation avec celle d'un cercle de téléportation permanent de votre choix dont vous connaissez la séquence de sigils et qui se trouve sur le même plan. Un portail vibrant s'ouvre à l'intérieur du cercle que vous avez dessiné et reste ouvert jusqu'à la fin de votre prochain tour. N'importe quelle créature qui passe au travers du portail réapparait instantanément à 5 ft. du cercle d'arrivée ou sur l'emplacement inoccupé le plus proche.
 
@@ -7786,8 +7759,8 @@ Vous pouvez créer un cercle de téléportation permanent en lançant ce sort au
 
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 5
 school: Abjuration
 Verbal: true
@@ -7800,7 +7773,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Banishing Smite
-writing_status: empty
+writing_status: finished
 ---
 La prochaine fois que vous touchez une créature avec une attaque avec une arme avant que le sort se termine, votre arme déborde d'énergie magique, et l'attaque inflige 5d10 dégâts de force supplémentaire à la cible.
 
@@ -7813,7 +7786,7 @@ De plus, si l'attaque réduit la cible à 50 points de vie ou moins, vous la ban
 
 ---
 available:
- - Paladin
+  - Paladin
 level: 5
 school: Évocation
 Verbal: true
@@ -7837,9 +7810,9 @@ La première fois que vous touchez avec une attaque armée de mêlée pendant la
 
 ---
 available:
- - Investigateur
- - Druide
- - Ranger
+  - Investigateur
+  - Druide
+  - Ranger
 level: 5
 school: Divination
 Verbal: true
@@ -7873,9 +7846,9 @@ Par exemple, vous pourriez déterminer la localisation d'un puissant Mort-Vivant
 
 ---
 available:
- - Investigateur
- - Martyr
- - Clerc
+  - Investigateur
+  - Martyr
+  - Clerc
 level: 5
 school: Divination
 Verbal: true
@@ -7902,11 +7875,11 @@ Si vous lancez ce sort deux fois ou plus avant de terminer votre prochain repos 
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Ranger
- - Magicien
- - Sorcière
+  - Druide
+  - Ensorceleur
+  - Ranger
+  - Magicien
+  - Sorcière
 level: 5
 school: Transmutation
 Verbal: true
@@ -7932,8 +7905,8 @@ Votre corps devient étrangement ophidien et vous frappez devant vous, essayant 
 
 ---
 available:
- - Occultiste
- - Magicien
+  - Occultiste
+  - Magicien
 level: 5
 school: Divination
 Verbal: true
@@ -7959,10 +7932,10 @@ Si vous réussissez le jet, vous pouvez demander à l'entité jusqu'à cinq ques
 
 ---
 available:
- - Sorcière
- - Nécromancien
- - Clerc
- - Druide
+  - Sorcière
+  - Nécromancien
+  - Clerc
+  - Druide
 level: 5
 school: Nécromancie
 Verbal: true
@@ -7997,11 +7970,11 @@ Puisque ce sort inflige une maladie naturelle à sa cible, tout effet qui permet
 
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Magicien
- - Sorcière
+  - Barde
+  - Clerc
+  - Druide
+  - Magicien
+  - Sorcière
 level: 5
 school: Abjuration
 Verbal: true
@@ -8014,7 +7987,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Planar Binding
-writing_status: empty
+writing_status: finished
 ---
 Avec ce sort, vous tentez de soumettre un céleste, un élémentaire, une fée ou un fiélon. La créature doit se trouver à portée pendant l'entièreté de l'incantation du sort. Généralement, la créature est invoquée au centre d'un [[Cercle Magique]] inversé pour la garder piégée le temps de l'incantation. Après la finalisation de l'incantation, la cible doit effectuer un jet de sauvegarde de Charisme. Si elle échoue, elle vous est liée et obligée de vous servir pendant la durée du sort. Si la créature est invoquée ou créée par un autre sort, la durée du sort est étendue pour correspondre à la durée de celui-ci.
 
@@ -8029,9 +8002,9 @@ Une créature soumise doit suivre vos instructions au mieux de ses capacités. V
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Transmutation
 Verbal: true
@@ -8061,9 +8034,9 @@ Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true
@@ -8090,9 +8063,9 @@ La créature est une alliée pour vous et vos compagnons. En combat, elle partag
 
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 5
 school: Conjuration
 Verbal: true
@@ -8122,8 +8095,8 @@ La créature est une alliée pour vous et vos compagnons. En combat, elle partag
 
 ---
 available:
- - Druide
- - Nécromancien
+  - Druide
+  - Nécromancien
 level: 5
 school: Abjuration
 Verbal: true
@@ -8136,7 +8109,7 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Antilife Shell
-writing_status: empty
+writing_status: finished
 ---
 Une barrière scintillante émane de vous sur un rayon de 10 ft. et se déplace avec vous, toujours centrée sur vous et repoussant les créatures qui ne sont pas des morts-vivants ou des constructions. La barrière dure pendant la durée du sort.
 
@@ -8155,9 +8128,9 @@ Si vous bougez de telle sorte qu'une créature affectée est obligée de travers
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Évocation
 Verbal: true
@@ -8183,10 +8156,10 @@ Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône d
 
 ---
 available:
- - Investigateur
- - Nécromancien
- - Clerc
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Clerc
+  - Magicien
 level: 5
 school: Divination
 Verbal: true
@@ -8199,7 +8172,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Scrutinize Foe
-writing_status: empty
+writing_status: finished
 ---
 Vous discernez les détails les plus petits concernant une créature que vous pouvez voir à portée. Vous apprenez deux des informations suivantes de votre choix à propos de la cible : sa CA, ses points de vie actuels, ses immunités aux conditions, ses immunités aux dégâts, ses résistances aux dégâts, ses vulnérabilités aux dégâts et ses enchantements (qui révèlent tous les sorts qui l'affectent).
 
@@ -8210,11 +8183,11 @@ Vous discernez les détails les plus petits concernant une créature que vous po
 
 ---
 available:
- - Magicien
- - Occultiste
- - Druide
- - Barde
- - Sorcière
+  - Magicien
+  - Occultiste
+  - Druide
+  - Barde
+  - Sorcière
 level: 5
 school: Enchantement
 Verbal: true
@@ -8227,7 +8200,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Frolicking Fountain
-writing_status: empty
+writing_status: finished
 ---
 Vous invoquez un cube d'eau de 5 ft. qui s'anime dans un pattern hypnotique dans un espace inoccupé à portée. L'eau voltige pendant la durée du sort, sans quitter son cube si ce n'est pour des petits jets jusqu'à 5 ft. de haut. Chaque créature à 60 ft. autre que vous qui voit la fontaine doit effectuer un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] par vous pendant la durée du sort. Tant qu'elle est charmée par ce sort, la créature doit utiliser son mouvement pendant son tour pour se rapprocher autant que possible de l'eau. A la fin de chacun de ses tours, la créature charmée peut retenter le jet de sauvegarde du sort. Une créature qui a réussi le jet de sauvegarde du sort n'est plus affectée par la même instance.
 
@@ -8240,10 +8213,10 @@ Si une créature se trouve à 5 ft. de la fontaine, vous pouvez utiliser votre a
 
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
 level: 5
 school: Abjuration
 Verbal: true
@@ -8256,6 +8229,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Freedom of the Winds
+writing_status: finished
 ---
 Les vents enveloppent votre corps, tirant sur vos cheveux et vos vêtements et vous soulevant du sol. Vous obtenez une vitesse de vol de 60 ft. De plus, vous avez l'avantage aux jets de caractéristique pour éviter d'être [[saisi]] et aux jets de sauvegarde pour éviter d'être [[retenu]] ou [[paralysé]].
 
@@ -8267,8 +8241,8 @@ Lorsque vous êtes la cible d'un sort ou d'une attaque alors que ce sort fait ef
 
 ---
 available:
- - Magicien
- - Artificier
+  - Magicien
+  - Artificier
 level: 5
 school: Évocation
 Verbal: true
@@ -8281,11 +8255,11 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Hand
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pendant la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
 
-La main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 points de vie, le sort termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.
+La main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 points de vie, le sort se termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.
 
 Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours, vous pouvez bouger la main de jusqu'à 60 ft. et provoquer l'un des effets suivants.
 
@@ -8295,7 +8269,7 @@ Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours
 
 **Main Saisissante.** La main essaye de [[saisi|Saisir]] une créature de taille G ou inférieure à 5 ft. d'elle. Vous utilisez le score de Force de la main pour résoudre la saisie. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Tant que la main saisit la cible, vous pouvez utiliser votre action bonus pour l'écraser. Lorsque vous le faites, la cible subit des dégâts contondants égaux à 2d6 + votre modificateur de sort.
 
-**Main Protectrice.** La main s'interpose entre vous et une créature que vous choisissez jusqu'à ce que vous donniez à la main un ordre différent. La main vouge pour rester entre vous et la cible, vous fournissant une couverture partielle contre la cible. La cible ne peut pas traverser l'espace de la main si son score de Force est inférieur ou égal à celui de la main. Si son score est supérieur, elle peut traverser l'espace de la main, mais c'est un terrain difficile pour elle.
+**Main Protectrice.** La main s'interpose entre vous et une créature que vous choisissez jusqu'à ce que vous donniez à la main un ordre différent. La main bouge pour rester entre vous et la cible, vous fournissant une demie-couverture contre la cible. La cible ne peut pas traverser l'espace de la main si son score de Force est inférieur ou égal à celui de la main. Si son score est supérieur, elle peut traverser l'espace de la main, mais c'est un terrain difficile pour elle.
 
 **Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 6 ou plus, les dégâts du poing serré augmentent de 2d8 et ceux de la main saisissante de 2d6 pour chaque niveau d'emplacement au-delà du niveau 5.
 
@@ -8306,8 +8280,8 @@ Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours
 
 ---
 available:
- - Nécromancien
- - Sorcière
+  - Nécromancien
+  - Sorcière
 level: 5
 school: Nécromancie
 Verbal: true
@@ -8322,7 +8296,7 @@ Rituel: false
 englishname: Pharaoh's Curse
 writing_status: finished
 ---
-En ouvrant votre paume, vous libérez une bouffée de poussière, reste d'une momie en décomposition. Choisissez une créature à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature est maudite par le pourrissement de la momie. La créature maudite ne peut regagner de points de vie, et ses points de vie maximum diminuent de 3d6 par 24 heures qui s'écoulent. Si la malédiction réduit le nombre de points de vie maximum de la cible à 0, la cible meurt et son corps est réduit en poussière.
+En ouvrant votre paume, vous libérez une bouffée de poussière, reste d'une momie en décomposition. Choisissez une créature à portée qui doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature est maudite par le pourrissement de la momie. La créature maudite ne peut regagner de points de vie, et ses points de vie maximums diminuent de 3d6 par 24 heures qui s'écoulent. Si la malédiction réduit le nombre de points de vie maximums de la cible à 0, la cible meurt et son corps est réduit en poussière.
 
 La malédiction persiste jusqu'à ce qu'elle soit retirée par un sort ou un effet magique qui soigne le pourrissement de la momie. Une [[délivrance des malédictions]] de niveau 5 ou supérieur termine également ce sort.
 
@@ -8332,9 +8306,9 @@ La malédiction persiste jusqu'à ce qu'elle soit retirée par un sort ou un eff
 
 ---
 available:
- - Magicien
- - Occultiste
- - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Ensorceleur
 level: 5
 school: Abjuration
 Verbal: true
@@ -8347,7 +8321,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: false
 Rituel: false
 englishname: Nether Seal
-writing_status: empty
+writing_status: finished
 ---
 Vous scellez magiquement une zone centrée sur vous et d'un rayon de 30 ft. Tant que le sceau est actif, aucun voyage planaire ou éthéré ne peut se passer dans ou depuis la zone.
 
@@ -8357,8 +8331,8 @@ Vous scellez magiquement une zone centrée sur vous et d'un rayon de 30 ft. Tant
 
 ---
 available:
- - Magicien
- - Nécromancien
+  - Magicien
+  - Nécromancien
 level: 5
 school: Abjuration
 Verbal: true
@@ -8371,7 +8345,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mystic Lock
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une porte, une fenêtre, un portail, un coffre ou n'importe quelle autre entrée. Cet objet se verrouille magiquement et est immunisé contre les attaques physiques et magiques. Seul une [[Dissipation de la Magie]] ou un sort de [[toc-toc]] peut lever le verrou. 
 
@@ -8381,8 +8355,8 @@ Vous touchez une porte, une fenêtre, un portail, un coffre ou n'importe quelle 
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Transmutation
 Verbal: true
@@ -8397,7 +8371,7 @@ Rituel: false
 englishname: Evasiveness
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous touchez une créature consentante. Jusqu'à ce que le sort se termine, la cible gagne des compétences surhumaines qui lui permettent d'esquiver les attaques. La CA de la cible devient 20 (si elle était inférieure à 20) peu importe son armure et elle a l'avantage aux jets de sauvegarde de Dextérité.
 
@@ -8408,8 +8382,8 @@ Vous touchez une créature consentante. Jusqu'à ce que le sort se termine, la c
 
 ---
 available:
- - Barde
- - Druide
+  - Barde
+  - Druide
 level: 5
 school: Transmutation
 Verbal: true
@@ -8422,7 +8396,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Awaken
-writing_status: empty
+writing_status: finished
 ---
 Après avoir passé le temps d'incantation à tracer des chemins magiques à l'intérieur d'une précieuse gemme, vous touchez une bête ou plante de taille G ou inférieure. La cible ne doit pas avoir de score d'Intelligence, ou un inférieur à 3. La cible gagne une Intelligence de 10. La cible gagne aussi la capacité de parler une langue que vous parlez. Si la cible est une plante, elle gagne la possibilité de déplacer ses membres, racines, lianes ou autres, et elle gagne des sens similaires à un humain. Le MJ décide des caractéristiques appropriées pour la plante éveillée, comme celles d'un [buisson éveillé](https://www.dndbeyond.com/monsters/16791-awakened-shrub) ou d'un [arbre éveillé](https://www.dndbeyond.com/monsters/16792-awakened-tree).
 
@@ -8434,7 +8408,7 @@ La bête ou plante éveillée est [[charmé|charmée]] par vous pendant 30 jours
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 6
 school: Conjuration
 Verbal: true
@@ -8468,9 +8442,9 @@ Une créature recrutée pour rejoindre votre groupe compte comme membre à part 
 
 ---
 available:
- - Clerc
- - Ensorceleur
- - Occultiste
+  - Clerc
+  - Ensorceleur
+  - Occultiste
 level: 6
 school: Évocation
 Verbal: true
@@ -8498,7 +8472,7 @@ Chaque fois qu'une créature subit des dégâts de cet effet, vous gagnez un nom
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 6
 school: Évocation
 Verbal: true
@@ -8511,7 +8485,7 @@ Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Blade Barrier
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un mur vertical de lames tournoyantes d'énergie magique. Le mur apparaît à portée et persiste pendant la durée du sort. Vous pouvez réaliser un mur droit long de 100 ft., haut de 20 ft. et épais de 5 ft., ou un mur encerclant un cercle de 60 ft. de diamètre. Le mur confère une couverture de 3/4 aux créatures derrière celui-ci, et il devient un terrain difficle.
 
@@ -8524,7 +8498,7 @@ Lorsqu'une créature entre dans le mur pour la première fois pendant un tour ou
 
 ---
 available:
- - Druide
+  - Druide
 level: 6
 school: Abjuration
 Verbal: true
@@ -8561,8 +8535,8 @@ Pour une créature immunisée à cet effet, les vents ne sont que d'agréables b
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 6
 school: Abjuration
 Verbal: true
@@ -8579,7 +8553,7 @@ writing_status: finished
 ---
 Vous créez un champ de lumière argenté qui enveloppe une créature de votre choix à portée. Le champ émet une lumière faible sur 5 ft. Tant qu'elle est enveloppée par le champ, la créature bénéficie des effets suivants : 
 
- - La créature profite d'une couverture de moitié.
+ - La créature profite d'une demie-couverture.
  - La créature est résistante aux dégâts d'acide, de froid, de feu, de foudre et de poison.
  - Si la créature est sujette à un effet qui lui autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, elle ne subit plutôt aucun dégât si elle réussit le jet et la moitié sinon.
 
@@ -8592,10 +8566,10 @@ Pour une action bonus pendant les tours suivants, vous pouvez déplacer le champ
 
 ---
 available:
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 6
 school: Nécromancie
 Verbal: true
@@ -8629,13 +8603,13 @@ Une créature qui peut voir le senseur (comme en utilisant [[vision de l'invisib
 
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
+  - Barde
+  - Clerc
+  - Druide
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true
@@ -8659,10 +8633,10 @@ Vous prélevez le sang de la fiole ou du corps et le projetez sur le parchemin. 
 
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
- - Occultiste
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 level: 6
 school: Nécromancie
 Verbal: true
@@ -8688,9 +8662,9 @@ De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. 
 
 ---
 available:
- - Magicien
- - Clerc
- - Nécromancien
+  - Magicien
+  - Clerc
+  - Nécromancien
 level: 6
 school: Abjuration
 Verbal: true
@@ -8703,9 +8677,9 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Antiballistics Field
-writing_status: empty
+writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Un champ invisible d'un rayon de 40 ft. s'étend à partir de vous, perturbant les balles et les armes à feu. A l'intérieur de la sphère, les attaques avec des armes à feu échouent, et les armes à feu utilisées pour réaliser une attaque s'enraye. Une arme enrayée ne peut être utilisée pour réaliser une attaque jusqu'à ce qu'une créature utilise son action pour la remettre en état.
 
@@ -8714,12 +8688,12 @@ Les armes à feu à l'extérieur de la sphère qui sont tirées vers l'intérieu
 
 ---
 
-## Fichier : `..\..\docs\sorts\06\Chaîne d'éclairs.md`
+## Fichier : `..\..\docs\sorts\06\Chaîne d'Éclairs.md`
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 6
 school: Évocation
 Verbal: true
@@ -8734,7 +8708,7 @@ Rituel: false
 englishname: Chain Lightning
 writing_status: finished
 ---
-Vous créez un éclair de foudre qui se dirige vers une cible de votre choix que vous pouvez voir à portée. Trois éclairs éruptent alors de la cible pour cibler eux-mêmes jusqu'à 3 cibles, chacune à 30 ft. de la première cible. Une cible peut être une créature ou un objet et chacune ne peut être la cible que d'un de ces éclairs.
+Vous créez un éclair de foudre qui se dirige vers une cible de votre choix que vous pouvez voir à portée. Trois éclairs jaillissent alors de la cible pour cibler eux-mêmes jusqu'à 3 cibles, chacune à 30 ft. de la première cible. Une cible peut être une créature ou un objet et chacune ne peut être la cible que d'un de ces éclairs.
 
 Une cible doit effectuer un jet de sauvegarde de Dextérité. La cible subit 10d8 dégâts de foudre si elle échoue, et la moitié sinon.
 
@@ -8747,8 +8721,8 @@ Une cible doit effectuer un jet de sauvegarde de Dextérité. La cible subit 10d
 
 ---
 available:
- - Magicien
- - Ensorceleur
+  - Magicien
+  - Ensorceleur
 level: 6
 school: Évocation
 Verbal: true
@@ -8761,7 +8735,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Arcane Capacitor
-writing_status: empty
+writing_status: finished
 ---
 Vous canalisez une vague d'énergie arcanique au bout de vos doigts, recyclant le surplus d'énergie en un nouvel emplacement de sort. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 5d10 dégâts de force. Que vous touchiez ou ratiez, vous regagnez un emplacement de sort dépensé de niveau 1.
 
@@ -8774,8 +8748,8 @@ Vous canalisez une vague d'énergie arcanique au bout de vos doigts, recyclant l
 
 ---
 available:
- - Nécromancien
- - Clerc
+  - Nécromancien
+  - Clerc
 level: 6
 school: Nécromancie
 Verbal: true
@@ -8799,11 +8773,11 @@ Vous libérez une maladie virulente sur une créature que vous pouvez voir à po
 
 ---
 available:
- - Sorcière
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 6
 school: Enchantement
 Verbal: true
@@ -8816,7 +8790,7 @@ Portee: Illimitée
 Concentration: true
 Rituel: false
 englishname: Demand
-writing_status: empty
+writing_status: finished
 ---
 Vous envoyez un court message de 25 mots ou moins à une créature avec laquelle vous êtes familier. La créature entend le message dans son esprit, vous reconnaît comme étant l'expéditeur si elle vous connaît et peut répondre de la même manière immédiatement. Le sort permet à toute créature d'Intelligence au moins égale à 1 de comprendre le sens du message.
 
@@ -8831,7 +8805,7 @@ Vous pouvez utiliser le message pour suggérer une action raisonnable à une cib
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true
@@ -8844,9 +8818,9 @@ Portee: Personnelle (ligne de 60 ft.)
 Concentration: false
 Rituel: false
 englishname: Gahoul's Spectral Scythe
-writing_status: empty
+writing_status: finished
 ---
-Vous invoquez une faux phantasmagorique de mort dans une main libre et la faite tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque créature dans la zone tant que la faux bouge doit effectuer un jet de sauvegarde de Dextérité ou subir 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.
+Vous invoquez une faux phantasmagorique de mort dans une main libre et la faites tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque créature dans la zone tant que la faux bouge doit effectuer un jet de sauvegarde de Dextérité ou subir 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.
 
 Si vous êtes à 120 ft. de la faux au début de votre prochain tour, elle vous revient en suivant une ligne large de 10 ft., forçant les créatures sur la trajectoire à effectuer un jet de sauvegarde contre les dégâts.
 
@@ -8859,9 +8833,9 @@ Si vous êtes à 120 ft. de la faux au début de votre prochain tour, elle vous 
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 6
 school: Évocation
 Verbal: true
@@ -8874,7 +8848,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Winter Flower
-writing_status: empty
+writing_status: finished
 ---
 Vous faites éclore une Très Petite fleur blanche à un point du sol que vous pouvez voir à portée. La fleur a une CA de 15, 1 point de vie, la vulnérabilité aux dégâts de feu et l'immunité aux dégâts de froid. Pendant la durée du sort, vous pouvez utiliser une action bonus pour la faire exploser en une pluie de glace. La fleur explose lorsqu'elle tombe à 0 point de vie.
 
@@ -8889,10 +8863,10 @@ Si vous relancez ce sort alors qu'il est actif, vous pouvez maintenir l'existenc
 
 ---
 available:
- - Nécromancien
- - Sorcière
- - Barde
- - Magicien
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Magicien
 level: 6
 school: Enchantement
 Verbal: true
@@ -8905,7 +8879,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Frenzy
-writing_status: empty
+writing_status: finished
 ---
 En un geste, vous réduisez une foule à un état instinctif et violent. Choisissez un point que vous pouvez voir à portée. Chaque créature dans un rayon de 20 ft. autour de ce point doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est frénétique pendant la durée du sort. Lorsque une créature est frénétique, si elle a une arme de mêlée, elle la dégaine.
 
@@ -8920,7 +8894,7 @@ A la fin de son tour, la créature frénétique peut retenter le jet de sauvegar
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 6
 school: Nécromancie
 Verbal: true
@@ -8933,7 +8907,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Corruption Curse
-writing_status: empty
+writing_status: finished
 ---
 En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pendant la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
 
@@ -8952,7 +8926,7 @@ Un sort de [[délivrance des malédictions]] utilisant un emplacement de sort de
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 6
 school: Évocation
 Verbal: true
@@ -8965,7 +8939,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Elemental Curse
-writing_status: empty
+writing_status: finished
 ---
 Une étincelle bondit de votre doigt vers une créature que vous touchez, se diffusant en fissures lumineuses à travers sa peau. La cible doit réussir un jet de sauvegarde de Constitution ou être maudite pendant la durée du sort. Tant qu'elle est maudite, la cible est vulnérable aux dégât de votre choix parmi acide, froid, feu, foudre ou tonnerre. Si la créature est résistante à ces dégâts, elle perd plutôt sa résistance. Si la cible est immunisée contre ces dégâts, elle devient simplement résistante à ces dégâts.
 
@@ -8978,7 +8952,7 @@ Une [[délivrance des malédictions]] termine cette malédiction.
 
 ---
 available:
- - Druide
+  - Druide
 level: 6
 school: Transmutation
 Verbal: true
@@ -8991,7 +8965,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Bones of the Earth
-writing_status: empty
+writing_status: finished
 ---
 Vous éruptez jusqu'à six piliers de pierre du sol à des points que vous pouvez voir à portée. Chaque pilier est un cylindre de 5 ft. et haut de 30 ft. Le sol où le pilier apparaît doit être suffisamment large pour son diamètre, et vous pouvez cibler le sol sous une créature qui est de taille M ou plus petite. Chaque pilier a une CA de 5 et 30 points de vie. Lorsqu'il est réduit à 0 point de vie, le pilier s'écroule en gravas, ce qui crée un terrain difficile sur un rayon de 10 ft. Chaque portion de 5 ft. de gravas met 1 minute à être retiré à la main.
 
@@ -9008,9 +8982,9 @@ Si un pilier ne peut atteindre sa hauteur maximale à cause d'un plafond ou d'un
 
 ---
 available:
- - Investigateur
- - Barde
- - Magicien
+  - Investigateur
+  - Barde
+  - Magicien
 level: 6
 school: Enchantement
 Verbal: true
@@ -9023,7 +8997,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Game of Fate
-writing_status: empty
+writing_status: finished
 ---
 Vous forcez magiquement une créature à portée à participer à un jeu aux conséquences vitales. Si la créature que vous choisissez a une Intelligence de 3 ou moins ou ne parle aucune langue, elle n'est pas affectée. Une créature non consentante peut effectuer un jet de sauvegarde de Sagesse pour résister à cet effet. En cas d'échec, la créature se sent forcée à participer à votre jeu. Si la cible subit des dégâts ou tombe [[inconscient|inconsciente]], le sort prend fin.
 
@@ -9040,12 +9014,12 @@ Enfin, aucun sort, effet magique ou créature autre que vous et la cible ne peuv
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Occultiste
- - Investigateur
- - Nécromancien
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Investigateur
+  - Nécromancien
+  - Sorcière
 level: 6
 school: Conjuration
 Verbal: true
@@ -9058,7 +9032,7 @@ Portee: 500 ft.
 Concentration: true
 Rituel: false
 englishname: Arcane Gate
-writing_status: empty
+writing_status: finished
 ---
 Vous créez des portails de téléportation liés qui restent ouvert pendant la durée du sort. Choisissez deux points sur le sol que vous pouvez voir, un à moins de 10 ft. de vous, l'autre à moins de 500 ft. Un portail circulaire, d'un diamètre de 10 ft., s'ouvre à chaque point. Si le portail s'ouvrirait sur un espace occupée par une créature, le sort rate et l'emplacement est perdu.
 
@@ -9073,12 +9047,12 @@ Toute créature ou objet qui passe à travers un portail ressort de l'autre comm
 
 ---
 available:
- - Sorcière
- - Artificier
- - Magicien
- - Occultiste
- - Ensorceleur
- - Ranger
+  - Sorcière
+  - Artificier
+  - Magicien
+  - Occultiste
+  - Ensorceleur
+  - Ranger
 level: 6
 school: Abjuration
 Verbal: true
@@ -9091,7 +9065,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Temporal Potion Heaven
-writing_status: empty
+writing_status: finished
 ---
 Une magie chronomancienne vous insuffle, vous plaçant sur un plan temporel différent. Pendant 1 minute, vous êtes immunisés contre tous les dégâts, mais la seule action que vous pouvez entreprendre est de consommer des potions.
 
@@ -9101,7 +9075,7 @@ Une magie chronomancienne vous insuffle, vous plaçant sur un plan temporel diff
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true
@@ -9114,7 +9088,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Inexorable Sarcophagus
-writing_status: empty
+writing_status: finished
 ---
 Vous jetez un sarcophage qui tient dans votre main vers un espace inoccupé que vous pouvez voir à portée, où il grandit à taille normale en un instant et essaye de s'emparer d'une créature de taille M ou plus petite à moins de 5 ft. La créature doit réussir un jet de sauvegarde de Dextérité ou être [[retenu|retenue]] et attirée dans le sarcophage.
 
@@ -9133,8 +9107,8 @@ A n'importe quel moment après que ce sort a terminé, vous pouvez faire remonte
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 7
 school: Évocation
 Verbal: true
@@ -9164,9 +9138,9 @@ Les flammes contournent les angles et enflamment les objets inflammables dans la
 
 ---
 available:
- - Barde
- - Occultiste
- - Magicien
+  - Barde
+  - Occultiste
+  - Magicien
 level: 7
 school: Évocation
 Verbal: true
@@ -9199,9 +9173,9 @@ Ce sort ne peut être dissipé par une [[dissipation de la magie]].
 
 ---
 available:
- - Barde
- - Druide
- - Occultiste
+  - Barde
+  - Druide
+  - Occultiste
 level: 7
 school: Enchantement
 Verbal: true
@@ -9225,13 +9199,13 @@ Lorsque vous lancez ce sort, choisissez une créature que vous avez vue ou que v
 
 ---
 available:
- - Clerc
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 7
 school: Conjuration
 Verbal: true
@@ -9259,11 +9233,11 @@ Vous pouvez utiliser ce sort pour bannir une créature non consentante vers un a
 
 ---
 available:
- - Nécromancien
- - Sorcière
- - Barde
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 7
 school: Conjuration
 Verbal: true
@@ -9276,7 +9250,7 @@ Portee: 2 kilomètres
 Concentration: false
 Rituel: false
 englishname: Abduct
-writing_status: empty
+writing_status: finished
 ---
 Ce sort téléporte une créature vers votre emplacement. Choisissez une créature à portée que vous connaissez. Une créature non consentante peut effectuer un jet de sauvegarde de Charisme pour résister à cet effet. La cible est placée à l'emplacement de votre choix à 30 ft. de vous. Vous choisissez si la cible est assise, debout, [[au sol]] ou attachée par des contraintes proches. A la fin de la durée du sort, vous pouvez choisir si la cible reste à son emplacement ou est téléporté à nouveau de là où elle a été enlevée
 
@@ -9287,8 +9261,8 @@ Ce sort téléporte une créature vers votre emplacement. Choisissez une créatu
 
 ---
 available:
- - Magicien
- - Clerc
+  - Magicien
+  - Clerc
 level: 7
 school: Transmutation
 Verbal: true
@@ -9301,7 +9275,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Mass Skirmish
-writing_status: empty
+writing_status: finished
 ---
 Ce sort vous permet d'augmenter la mobilité de n'importe quel nombre de créatures consentante que vous voyez à portée. Vous motivez chacune de ces créatures, leur permettant de se déplacer avec aisance dans les lignes ennemies. Pendant la durée du sort, la vitesse de chaque créature est augmentée de 15 ft., n'est pas affectée par les terrains difficiles non magiques et les créatures ciblées ne provoquent pas d'attaques d'opportunité.
 
@@ -9312,13 +9286,13 @@ Ce sort vous permet d'augmenter la mobilité de n'importe quel nombre de créatu
 
 ---
 available:
- - Nécromancien
- - Sorcière
- - Barde
- - Clerc
- - Ensorceleur
- - Magicien
- - Occultiste
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Clerc
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 level: 7
 school: Transmutation
 Verbal: true
@@ -9331,7 +9305,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Etherealness
-writing_status: empty
+writing_status: finished
 ---
 Vous traversez la frontière du Plan Éthéré, là où il se superpose avec votre plan actuel. Vous restez dans cette frontière pendant la durée du sort, ou jusqu'à ce que vous utilisiez votre action pour dissiper le sort. Pendant ce temps, vous pouvez bouger dans n'importe quelle direction. Si vous bougez vers le haut ou le bas, chaque pied de déplacement coûte double. Vous pouvez voir et entendre le plan dont vous êtes venu, mais tout semble gris, et vous ne pouvez pas voir à plus de 60 ft.
 
@@ -9351,8 +9325,8 @@ Le sort n'a aucun effet si vous le lancez tant que vous êtes sur le Plan Éthé
 
 ---
 available:
- - Barde
- - Magicien
+  - Barde
+  - Magicien
 level: 7
 school: Divination
 Verbal: true
@@ -9367,7 +9341,7 @@ Rituel: false
 englishname: Impressions of the Past
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous projetez vos sens dans le temps pour percevoir votre emplacement actuel tel qu'il était dans le passé, y compris les évènements qui s'y déroulaient. Vous devez spécifier le moment exact que vous souhaitez voir, qui ne peut être il y a plus de 100 ans. Lorsque vous regardez le passé, celui-ci semble éthéré et assombri, mais vous êtes capable de discerner les détails et d'entendre les conversations normalement. De plus, les sens spéciaux (comme vision dans le noir) que vous possédez fonctionnent normalement
 
@@ -9382,8 +9356,8 @@ Tant que vous percevez le passé, vous pouvez regarder dans n'importe quelle dir
 
 ---
 available:
- - Druide
- - Magicien
+  - Druide
+  - Magicien
 level: 7
 school: Conjuration
 Verbal: true
@@ -9396,9 +9370,9 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Inevitable Boulder
-writing_status: empty
+writing_status: finished
 ---
-Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perçants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
+Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perforants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
 
 Au début de chacun de vos tours, le rocher se déplace de 60 ft. dans la direction de sa cible. Si le rocher pénètre l'espace d'une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, elle subit 6d10 dégâts contondants et, si elle est de taille G ou plus petite, est mise [[au sol]]. Si elle réussit le jet, elle subit la moitié des dégâts et n'est pas mise au sol. Le rocher écrase aussi les objets non magiques plus petits que lui sur son passage. Si le rocher atteint sa cible, il lui roule dessus et continue son mouvement sur 60 ft. Le rocher continue de poursuivre la cible pendant la durée du sort, lui roulant dessus plusieurs fois si possible.
 
@@ -9411,7 +9385,7 @@ Après que le sort se termine, le rocher continue de poursuivre sa cible pendant
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 7
 school: Enchantement
 Verbal: true
@@ -9424,7 +9398,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: true
 englishname: Binding Curse
-writing_status: empty
+writing_status: finished
 ---
 Vous liez une créature ou un objet à un lieu, le maudissant afin qu'elle ne puisse jamais le quitter. Choisissez une cible et un emplacement à portée, en étant capable de voir les deux. SI la cible est une créature, elle doit effectuer un jet de sauvegarde de Charisme ou être maudite à être liée de façon permanent à l'emplacement choisi. Tant qu'elle est maudite, la cible peut agir normalement, tant qu'elle reste à 20 ft. de l'emplacement auquel elle est liée. Si la cible commence son tour en dehors de la zone, elle doit réussir un jet de sauvegarde de Force ou être trainée de 60 ft. vers son point d'attache.
 
@@ -9438,7 +9412,7 @@ Un sort de [[délivrance des malédictions]] utilisant un emplacement de niveau 
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 8
 school: Abjuration
 Verbal: true
@@ -9462,9 +9436,9 @@ Une lumière divine émane de vous et se condense en une douce lueur dans rayon 
 
 ---
 available:
- - Druide
- - Magicien
- - Sorcière
+  - Druide
+  - Magicien
+  - Sorcière
 level: 8
 school: Enchantement
 Verbal: true
@@ -9477,7 +9451,7 @@ Portee: 60 ft. (200 ft.)
 Concentration: false
 Rituel: false
 englishname: Antipathy/Sympathy
-writing_status: empty
+writing_status: finished
 ---
 Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pendant la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.
 
@@ -9497,9 +9471,9 @@ Une créature qui réussit son jet de sauvegarde contre cet effet y est immunis�
 
 ---
 available:
- - Sorcière
- - Barde
- - Occultiste
+  - Sorcière
+  - Barde
+  - Occultiste
 level: 8
 school: Transmutation
 Verbal: true
@@ -9523,7 +9497,7 @@ Jusqu'à la fin du sort, lorsque vous effectuez un jet de Charisme, vous pouvez 
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 8
 school: Évocation
 Verbal: true
@@ -9551,9 +9525,9 @@ Lorsque vous lancez ce sort, vous vous téléportez de 120 ft. et réalisez une 
 
 ---
 available:
- - Nécromancien
- - Clerc
- - Magicien
+  - Nécromancien
+  - Clerc
+  - Magicien
 level: 8
 school: Abjuration
 Verbal: true
@@ -9566,7 +9540,7 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Antimagic Field
-writing_status: empty
+writing_status: finished
 ---
 Une sphère d'antimagie invisible d'un rayon de 10 ft. apparaît autour de vous. Cette zone est séparée de l'énergie magique qui infuse le multivers. À l'intérieur de cette sphère, aucun sort ne peut être lancé, les créature invoquées disparaissent, et même les objets magiques cessent de fonctionner. Jusqu'à ce que le sort se termine, la sphère se déplace pour vous garder en son centre.
 
@@ -9594,8 +9568,8 @@ Les propriétés et pouvoirs d'une arme magique sont aussi étouffés si elle es
 
 ---
 available:
- - Nécromancien
- - Magicien
+  - Nécromancien
+  - Magicien
 level: 8
 school: Nécromancie
 Verbal: true
@@ -9621,9 +9595,9 @@ Le sort fait *pousser* une copie inerte d'une créature vivante comme moyen de p
 
 ---
 available:
- - Clerc
- - Druide
- - Occultiste
+  - Clerc
+  - Druide
+  - Occultiste
 level: 8
 school: Conjuration
 Verbal: true
@@ -9647,9 +9621,9 @@ Vous ouvrez un portail vers les abysses océaniques sous les pieds d'une créatu
 
 ---
 available:
- - Clerc
- - Druide
- - Magicien
+  - Clerc
+  - Druide
+  - Magicien
 level: 8
 school: Transmutation
 Verbal: true
@@ -9664,11 +9638,11 @@ Rituel: true
 englishname: Control Weather
 writing_status: finished
 tags:
- - Clerc
- - Druide
- - Magicien
- - Sort
- - 8ème
+  - Clerc
+  - Druide
+  - Magicien
+  - Sort
+  - 8ème
 ---
 Vous prenez le contrôle de la météo dans les 8 km autour de vous pendant la durée du sort. Vous devez vous trouver à l'extérieur lorsque vous lancez ce sort. Vous déplacer vers un endroit où vous perdriez une ligne de vue claire vers le ciel termine le sort prématurément.
 
@@ -9710,9 +9684,9 @@ Lorsque vous changez les conditions météorologiques, identifiez la situation a
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Druide
+  - Magicien
+  - Ensorceleur
+  - Druide
 level: 8
 school: Évocation
 Verbal: true
@@ -9725,7 +9699,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Wildfire
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un feu magique qui emplit dix cubes de 5 ft. de côté, que vous arrangez comme vous le souhaitez à portée. Chaque cube que vous placez doit avoir une face en commun avec un autre cube. A chacun de vos tours après avoir lancé ce sort, vous pouvez utiliser une action bonus pour étendre la zone de feu de jusqu'à 10 cubes de feu suivant les même règles. Le feu endommage les objets dans la zone et met le feu aux objets inflammables qui ne sont ni portés ni maniés.
 
@@ -9738,10 +9712,10 @@ Lorsqu'une créature entre dans la zone de feu pour la première fois ou y comme
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 8
 school: Nécromancie
 Verbal: true
@@ -9754,9 +9728,9 @@ Rituel: false
 Materiel: true
 Portee: 150 ft.(30 ft.)
 englishname: Abi-Dalzim's Horrid Wilting
-writing_status: empty
+writing_status: finished
 ---
-Vous absorbez l'humidité de toutes les créatures dans un cube de 30 ft. centré sur un point de votre choix dans la portée. Chacune de ces créatures doit effectuer un jet de sauvegarde de Constitution. Les constructions et les morts-vivants ne sont pas concernés, et les plantes et les élémentaires d'eau effectuent ce jet avec désavantage. Une créature subit 12d8 dégâts nécrotiques en cas d'échec, et la moitié en cas de succès.
+Vous absorbez l'humidité de toutes les créatures dans un cube de 30 ft. centré sur un point de votre choix dans la portée. Chacune de ces créatures doit effectuer un jet de sauvegarde de Constitution. Les Constructions et les Morts-Vivants ne sont pas concernés, et les Plantes et les Élémentaires d'eau effectuent ce jet avec désavantage. Une créature subit 12d8 dégâts nécrotiques en cas d'échec, et la moitié en cas de succès.
 
 Les plantes non magiques de la zone concernée qui ne sont pas des créatures, comme des arbres et des buissons, pourrissent et meurent instantanément. 
 
@@ -9767,7 +9741,7 @@ Les plantes non magiques de la zone concernée qui ne sont pas des créatures, c
 
 ---
 available:
- - Druide
+  - Druide
 level: 8
 school: Transmutation
 Verbal: true
@@ -9780,7 +9754,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Animal Shapes
-writing_status: empty
+writing_status: finished
 ---
 Votre magie transforme d'autres en bêtes. Choisissez n'importe quel nombre de créature consentantes à portée et que vous pouvez voir. Vous transformez chacune de ces cibles en une bête de taille G ou inférieure, avec un FP de 4 ou moins. Aux tours suivants, vous pouvez utiliser votre action pour re-transformer les créatures touchées en de nouvelles formes.
 
@@ -9795,7 +9769,7 @@ L'équipement de la cible se fond dans sa nouvelle forme. La cible ne peut pas a
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 8
 school: Conjuration
 Verbal: true
@@ -9808,15 +9782,15 @@ Portee: 2 kilomètres
 Concentration: false
 Rituel: false
 englishname: Gahoul's Glorious Gothic
-writing_status: empty
+writing_status: finished
 ---
-Une faille s'ouvre, crachant des tonnes de briques et autres maçonneries qui s'assemblent pour former un large domaine gothique. La bâtisse comporte un manoir avec un coffre, une immense cour de 200 ft. par 200 ft. et une imposante barrière en fer de 10 ft. autour du périmètre. Toute les créatures à l'intérieur du domaine se voit escortée par des spectres inoffensifs mais puissants.
+Une faille s'ouvre, crachant des tonnes de briques et autres maçonneries qui s'assemblent pour former un large domaine gothique. La bâtisse comporte un manoir avec un coffre, une immense cour de 200 ft. par 200 ft. et une imposante barrière en fer de 10 ft. autour du périmètre. Toutes les créatures à l'intérieur du domaine se voit escortées par des spectres inoffensifs mais puissants.
 
 Vous pouvez créer n'importe quel agencement pour le manoir, mais l'espace ne peut excéder 50 cubes, un cube étant de 10 ft. de côté, ou 5 étage au total, en incluant le sous-sol. Ce manoir est orné de fenêtres à barreaux et de gargouilles mais est meublé et décoré selon vos choix. Une fois que le manoir a été créé une fois, ces détails sont enregistrés dans la miniature et ne peuvent être changés. La manoir est peuplé de 50 squelettes qui vous obéissent et contient suffisamment de nourriture pour nourrir 50 personnes pendant une semaine. Les squelettes peuvent réaliser n'importe quelle tâche qu'un serviteur humain serait capable de réaliser, mais ne peuvent attaquer ou entreprendre des actions qui blesseraient une autre créature.
 
-Le manoir contient un coffre de 15 ft. dans chaque dimension, qui est un espace extra dimensionnel. Les objets qui y sont placés persistent entre chaque incantation du sort.
+Le manoir contient un coffre de 15 ft. dans chaque dimension, qui est un espace extradimensionnel. Les objets qui y sont placés persistent entre chaque incantation du sort.
 
-La cour est emplie de magie nécromantique, de telle sort que tout Humanoïde enterré en ces terres se dresse au bout de 24 heures sous la forme d'une goule sous votre commande, comme d'après le sort [[création de mort-vivant]]. Lorsque le sort est lancé, 3 goules sont animés dans la cour. Ces morts-vivants sont sous votre contrôle, mais ne peuvent quitter le domaine. Ils patrouillent tant qu'ils n'ont pas d'ordre plus précis. Les morts-vivants ne peuvent être renvoyés dans le domaine.
+La cour est emplie de magie nécromantique, de telle sort que tout Humanoïde enterré en ces terres se dresse au bout de 24 heures sous la forme d'une goule sous votre commande, comme d'après le sort [[création de mort-vivant]]. Lorsque le sort est lancé, 3 goules sont animées dans la cour. Ces morts-vivants sont sous votre contrôle, mais ne peuvent quitter le domaine. Ils patrouillent tant qu'ils n'ont pas d'ordre plus précis. Les morts-vivants ne peuvent être renvoyés dans le domaine.
 
 Le domaine tombe en poussière d'os au bout de 7 jours et tous les objets dans le manoir apparaissent dans l'espace que le manoir occupait. S'il est incanté au même emplacement toutes les semaine pendant un an, le manoir devient permanent.
 
@@ -9826,9 +9800,9 @@ Le domaine tombe en poussière d'os au bout de 7 jours et tous les objets dans l
 
 ---
 available:
- - Clerc
- - Ensorceleur
- - Occultiste
+  - Clerc
+  - Ensorceleur
+  - Occultiste
 level: 9
 school: Évocation
 Verbal: true
@@ -9856,8 +9830,8 @@ Un cratère massif est creusé dans le sol, continuant de brûler d'une énergie
 
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 9
 school: Transmutation
 Verbal: true
@@ -9872,7 +9846,7 @@ Rituel: false
 englishname: Time Stop
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous subissez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.
 
@@ -9885,8 +9859,8 @@ Le sort se termine si l'une de vos actions effectuées pendant cette période ou
 
 ---
 available:
- - Druide
- - Magicien
+  - Druide
+  - Magicien
 level: 9
 school: Transmutation
 Verbal: true
@@ -9922,7 +9896,7 @@ Pendant la durée du sort, vous pouvez utiliser une action pour prendre une form
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 9
 school: Nécromancie
 Verbal: true
@@ -9935,7 +9909,7 @@ Portee: Personnelle (rayon de 2 km)
 Concentration: false
 Rituel: false
 englishname: Heart of Darkness
-writing_status: empty
+writing_status: finished
 ---
 Lorsque vous lancez ce sort, vous poignardez un cœur noir préparé ritualistiquement. L'ichor du cœur infecte le sol avec de nauséabondes énergies nécromantiques, causant jusqu'à cent piles d'os ou corps d'Humanoïdes de taille P ou M dans les 2 km à la ronde à se relever de la mort, devenant des squelettes ou des zombies. Les morts-vivants creusent leur chemin hors des tombes, fracassent les mausolées et brisent les portes des cimetières. 
 
@@ -9951,9 +9925,9 @@ Les morts-vivants restent animés jusqu'à ce que le sort se termine. Le sort se
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Occultiste
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 level: 9
 school: Conjuration
 Verbal: true
@@ -9966,13 +9940,13 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Blade of Disaster
-writing_status: empty
+writing_status: finished
 ---
 Vous créez une faille planaire en forme de lame longue d'environ 1 mètre dans un espace inoccupé que vous pouvez voir à portée. La lame persiste pendant la durée du sort. Lorsque vous lancez le sort, vous pouvez réaliser jusqu'à deux attaques de sort de mêlée avec la lame, chacune contre une créature, un objet ou une structure à moins de 5 ft. de la lame. Si l'attaque touche, la cible subit 4d12 dégâts de force. L'attaque est critique si le nombre sur le d20 est un 18 ou supérieur. Sur un coup critique, la lame inflige 8d12 dégâts de force supplémentaire (pour 12d12 dégâts totaux).
 
 Pour une action bonus pendant votre tour, vous pouvez déplacer la lame de jusqu'à 30 ft. vers un espace inoccupé que vous pouvez voir et réaliser deux attaques de sort de mêlée à nouveau.
 
-La lame peut traverser sans difficulté n'importe quelle barrière, même une [[mur de force]].
+La lame peut traverser sans difficulté n'importe quelle barrière, même un [[mur de force]].
 
 
 ---
@@ -9981,7 +9955,7 @@ La lame peut traverser sans difficulté n'importe quelle barrière, même une [[
 
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 9
 school: Enchantement
 Verbal: true
@@ -9994,9 +9968,9 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Identity Curse
-writing_status: empty
+writing_status: finished
 ---
-Vous pointez un doigt sur la tempe d'une créature, qui oublie alors son propre nom. Choisissez une créature que vous pouvez toucher qui doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la cible tombe [[inconscient|inconsciente]] pendant 1 heure et est maudite à oublier son identité. Lorsque la cible se réveille, elle a perdu toutes ses mémoires personnelles, même si elle conserve ses connaissances, ses maîtrises et autres statistiques. La cible ne se rend pas compte qu'elle a des aptitudes de classe ni des capacités spéciales et ne les utilise pas naturellement. Si laissée seule, la cible adopte rapidement un nouveau nom et se forge une nouvelle identité.
+Vous pointez un doigt sur la tempe d'une créature, qui oublie alors son propre nom. Choisissez une créature que vous pouvez toucher qui doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la cible tombe [[inconscient|inconsciente]] pendant 1 heure et est maudite à oublier son identité. Lorsque la cible se réveille, elle a perdu tous ses souvenirs personnels, même si elle conserve ses connaissances, ses maîtrises et autres statistiques. La cible ne se rend pas compte qu'elle a des aptitudes de classe ni des capacités spéciales et ne les utilise pas naturellement. Si laissée seule, la cible adopte rapidement un nouveau nom et se forge une nouvelle identité.
 
 Une [[délivrance des malédictions]] de niveau 9 termine cette malédiction. Lorsque cette malédiction se termine, la cible regagne toutes ses mémoires passées.
 
@@ -10007,9 +9981,9 @@ Une [[délivrance des malédictions]] de niveau 9 termine cette malédiction. Lo
 
 ---
 available:
- - Magicien
- - Ensorceleur
- - Occultiste
+  - Magicien
+  - Ensorceleur
+  - Occultiste
 level: 9
 school: Transmutation
 Verbal: true
@@ -10024,7 +9998,7 @@ Rituel: false
 englishname: Paradox
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 En faisant des nœuds avec le flux du temps, vous faites en sorte qu'une action de votre choix prise à portée pendant le dernier round n'ait en fait pas eu lieu. La réalité se réarrange, tremblant des dégâts subis par la suppression d'un évènement de la frise temporelle. Les effets directs de cette action, comme les dégâts infligés par une attaque ou un sort, sont défaits, mais les effets indirects, comme les créatures choisissant de se déplacer, ne le sont pas.
 
@@ -10037,10 +10011,10 @@ La créature qui a pris l'action subit 10d8 dégâts psychiques en essayant de s
 
 ---
 available:
- - Clerc
- - Magicien
- - Occultiste
- - Sorcière
+  - Clerc
+  - Magicien
+  - Occultiste
+  - Sorcière
 level: 9
 school: Nécromancie
 Verbal: true
@@ -10053,7 +10027,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Astral Projection
-writing_status: empty
+writing_status: finished
 ---
 Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astraux dans le Plan Astral (le sort rate et l'incantation est gâchée si vous vous trouvez déjà sur ce plan). Votre corps matériel reste derrière et est [[inconscient]] et dans un état d'animation suspendue; il n'a pas besoin de nourriture ou d'air, et ne vieillit pas.
 
@@ -10073,9 +10047,9 @@ Si vous retournez dans votre corps de façon prématurée, vos compagnons resten
 
 ---
 available:
- - Nécromancien
- - Sorcière
- - Occultiste
+  - Nécromancien
+  - Sorcière
+  - Occultiste
 level: 0
 school: Conjuration
 Verbal: true
@@ -10088,7 +10062,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Hocuspocus
-writing_status: empty
+writing_status: finished
 ---
 Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :
 
@@ -10107,12 +10081,12 @@ SI vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois de ces e
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Enchantement
 Verbal: false
@@ -10125,7 +10099,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Friends
-writing_status: empty
+writing_status: finished
 ---
 Pendant la durée du sort, vous avez l'avantage à tous les jets de Charisme dirigés vers une créature de votre choix qui ne vous est pas hostile. Lorsque le sort se termine, la créature réalise que vous avez utilisé de la magie pour influencer son humeur et devient hostile vis-à-vis de vous. Une créature aux tendances violentes peut vous attaquer. Une autre créature pourrait chercher vengeance d'autres façons (à la discrétion du MJ), en fonction de la nature de votre interaction avec celle-ci.
 
@@ -10136,13 +10110,13 @@ Pendant la durée du sort, vous avez l'avantage à tous les jets de Charisme dir
 
 ---
 available:
- - Barde
- - Clerc
- - Nécromancien
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
+  - Barde
+  - Clerc
+  - Nécromancien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Nécromancie
 Verbal: true
@@ -10159,9 +10133,9 @@ writing_status: finished
 ---
 Vous imprégnez un crâne de magie nécromantique, lui conférant un semblant de vie inquiétant. Lorsque vous lancez ce sort, vous pouvez prononcer une phrase de 10 mots ou moins. Chaque fois qu'une créature touche le crâne ou pénètre dans un espace à moins de 5 ft. de lui, le crâne prononce la phrase.
 
-Vous pouvez également choisir d'infuser le crâne d'une énergie malveillante. Si vous le faites, une fois par tour, lorsqu'une créature autre que vous touche le crâne, celui-ci claque des dents pour la mordre. La créature doit effectuer un jet de sauvegarde de Dextérité. En cas d'échec, elle subit 1d4 dégâts perçants. Un crâne animé possède une CA de 6 et 1 point de vie.
+Vous pouvez également choisir d'infuser le crâne d'une énergie malveillante. Si vous le faites, une fois par tour, lorsqu'une créature autre que vous touche le crâne, celui-ci claque des dents pour la mordre. La créature doit effectuer un jet de sauvegarde de Dextérité. En cas d'échec, elle subit 1d4 dégâts perforants. Un crâne animé possède une CA de 6 et 1 point de vie.
 
-Les dégâts perçants de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).
+Les dégâts perforants de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4), le niveau 11 (3d4) et le niveau 17 (4d4).
 
 ---
 
@@ -10169,7 +10143,7 @@ Les dégâts perçants de ce sort augmentent de 1d4 lorsque vous atteignez le ni
 
 ---
 available:
- - Mage de Guerre
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -10182,7 +10156,7 @@ Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Force Weapon
-writing_status: empty
+writing_status: finished
 ---
 Vous invoquez une lame d'énergie magique dans les airs qui se déchaîne sur vos ennemis. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts de force. La lame persiste pour un court temps, jusqu'au début de votre prochain tour, vous pouvez réaliser un coup avec cette lame mystique comme attaque d'opportunité.
 
@@ -10194,12 +10168,12 @@ Vous pouvez réaliser une attaque supplémentaire pendant votre tour lorsque vou
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
- - Nécromancien
- - Sorcière
- - Mage de Guerre
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Nécromancien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: true
@@ -10225,13 +10199,13 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Clerc
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
- - Mage de Guerre
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: false
@@ -10257,9 +10231,9 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Clerc
- - Artificier
- - Druide
+  - Clerc
+  - Artificier
+  - Druide
 level: 0
 school: Divination
 Verbal: true
@@ -10272,7 +10246,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Guidance
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature consentante. Une fois avant que le sort se termine, la cible peut lancer un d4 et ajouter le résultat à un jet de caractéristique de son choix. Elle peut lancer le dé avant ou après avoir réalisé le jet. Le sort se termine ensuite.
 
@@ -10283,7 +10257,7 @@ Vous touchez une créature consentante. Une fois avant que le sort se termine, l
 
 ---
 available:
- - Mage de Guerre
+  - Mage de Guerre
 level: 0
 school: Abjuration
 Verbal: true
@@ -10296,7 +10270,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Force Buckler
-writing_status: empty
+writing_status: finished
 ---
 Vous invoquez un champ de force translucide mais visible, qui s'échappe du gant préparé. Jusqu'au début de votre prochain tour, ce bouclier vous confère un bonus de +2 à la CA, comme si vous portiez un bouclier. Le sort se termine si vous êtes touché par une attaque.
 
@@ -10307,13 +10281,13 @@ Vous invoquez un champ de force translucide mais visible, qui s'échappe du gant
 
 ---
 available:
- - Druide
- - Artificier
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
- - Nécromancien
+  - Druide
+  - Artificier
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Nécromancien
 level: 0
 school: Conjuration
 Verbal: true
@@ -10326,7 +10300,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Poison Spray
-writing_status: empty
+writing_status: finished
 ---
 Vous étendez votre main en direction d'une créature que vous pouvez voir à portée et projetez un nuage de gaz toxique depuis votre paume. La créature doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts de poison.
 
@@ -10339,11 +10313,11 @@ Les dégâts de ce sort augmentent de 1d12 lorsque vous atteignez le niveau 5, 1
 
 ---
 available:
- - Mage de Guerre
- - Sorcière
- - Druide
- - Ensorceleur
- - Magicien
+  - Mage de Guerre
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Transmutation
 Verbal: true
@@ -10356,7 +10330,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Gust
-writing_status: empty
+writing_status: finished
 ---
 Vous prenez contrôle de l'air et le forcez à réaliser l'un des effets suivants à partir d'un point à portée que vous pouvez voir :
 
@@ -10371,9 +10345,9 @@ Vous prenez contrôle de l'air et le forcez à réaliser l'un des effets suivant
 
 ---
 available:
- - Clerc
- - Barde
- - Druide
+  - Clerc
+  - Barde
+  - Druide
 level: 0
 school: Conjuration
 Verbal: true
@@ -10386,7 +10360,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Legendary Libation
-writing_status: empty
+writing_status: finished
 ---
 Vous prononcez un mot de pouvoir et votre contenant s'emplit du liquide de votre choix, qui peut être consommé pour une action. La boisson est délicieuse et satisfait la soif de son buveur pendant 24 heures. De plus, pour une heure après avoir consommé le breuvage, le buveur à l'avantage aux jets de sauvegarde qu'il effectue pour éviter ou terminer l'effet [[apeuré]]. Si la boisson n'est pas consommée dans l'heure de son invocation, elle perds sa magie et devient de l'eau ordinaire.
 
@@ -10399,13 +10373,13 @@ Une créature ne peut bénéficier de plus d'un breuvage légendaire par périod
 
 ---
 available:
- - Clerc
- - Ensorceleur
- - Mage de Guerre
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
+  - Clerc
+  - Ensorceleur
+  - Mage de Guerre
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 0
 school: Évocation
 Verbal: true
@@ -10431,12 +10405,12 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (
 
 ---
 available:
- - Nécromancien
- - Sorcière
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
+  - Nécromancien
+  - Sorcière
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Nécromancie
 Verbal: true
@@ -10449,7 +10423,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Chill Touch
-writing_status: empty
+writing_status: finished
 ---
 mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.
 
@@ -10464,14 +10438,14 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Barde
- - Clerc
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
+  - Barde
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 0
 school: Enchantement
 Verbal: true
@@ -10495,9 +10469,9 @@ Vous chantez un petit air joyeux, remontant le moral de jusqu'à trois créature
 
 ---
 available:
- - Magicien
- - Mage de Guerre
- - Nécromancien
+  - Magicien
+  - Mage de Guerre
+  - Nécromancien
 level: 0
 school: Enchantement
 Verbal: false
@@ -10510,7 +10484,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Encode Thoughts
-writing_status: empty
+writing_status: finished
 ---
 Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé *brin de pensée* qui persiste pendant la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
 
@@ -10524,11 +10498,11 @@ Lancer ce sort tout en tenant un brin de pensée vous permet de recevoir instant
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
- - Sorcière
- - Mage de Guerre
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: false
@@ -10541,7 +10515,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Control Flames
-writing_status: empty
+writing_status: finished
 ---
 Vous choisissez des flammes non magiques que vous pouvez voir et qui tiennent dans un cube de 5 ft. de côté. Vous leur appliquez l'un des effets suivants : 
 
@@ -10559,13 +10533,13 @@ Si vous lancez ce sort plusieurs fois, vous pouvez avoir jusqu'à trois effets n
 
 ---
 available:
- - Mage de Guerre
- - Nécromancien
- - Sorcière
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Mage de Guerre
+  - Nécromancien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 0
 school: Divination
 Verbal: false
@@ -10578,7 +10552,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: True Strike
-writing_status: empty
+writing_status: finished
 ---
 Vous pointez du doigt une cible à portée. Votre magie vous confère une brève connaissance des défenses de la cible. Pendant votre prochain tour, vous gagnez l'avantage au premier jet d'attaque que vous effectuez contre la créature, en supposant que le sort n'ait pas terminé.
 
@@ -10589,14 +10563,14 @@ Vous pointez du doigt une cible à portée. Votre magie vous confère une brève
 
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Artificier
- - Magicien
- - Mage de Guerre
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Artificier
+  - Magicien
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Évocation
 Verbal: false
@@ -10609,7 +10583,7 @@ Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Thunderclap
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un éclat de son tonitruant qui peut être entendu jusqu'à 100 ft. Chaque créature à portée autre que vous doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.
 
@@ -10622,8 +10596,8 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Mage de Guerre
- - Barde
+  - Mage de Guerre
+  - Barde
 level: 0
 school: Conjuration
 Verbal: true
@@ -10636,7 +10610,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Magic Daggers
-writing_status: empty
+writing_status: finished
 ---
 D'un geste élégant, vous conjurez une dague de force magique et la projetez de votre poignet vers une cible à portée que vous pouvez voir. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible subit 1d6 dégâts de force. La dague disparaît après l'attaque.
 
@@ -10649,8 +10623,8 @@ A plus haut niveau, vous conjurez plus de dagues et pouvez réaliser plus d'atta
 
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -10663,7 +10637,7 @@ Portee: Personnelle (cône de 10 ft.)
 Concentration: false
 Rituel: false
 englishname: Thunderous Distortion
-writing_status: empty
+writing_status: finished
 ---
 Vous produisez une vague de bruit distordu dans un cône de 10 ft., qui peut être entendu jusqu'à 100 ft. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.
 
@@ -10678,11 +10652,11 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Artificier
- - Barde
- - Ensorceleur
- - Magicien
- - Mage de Guerre
+  - Artificier
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -10697,7 +10671,7 @@ Rituel: false
 englishname: Finger Guns
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Vous refermez le poing, pointez votre index et levez le pouce, imitant dangereusement un pistolet. Pendant la durée du sort, vous pouvez utiliser votre action pour réaliser une attaque de sort à distance contre une créature que vous pouvez voir à 60 ft., infligeant 1d8 dégâts de force si vous touchez.
 
@@ -10712,7 +10686,7 @@ Les dégâts de ce sort augmentent lorsque vous atteignez le niveau 5 (2d8), 11 
 
 ---
 available:
- - Druide
+  - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -10725,7 +10699,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Druidcraft
-writing_status: empty
+writing_status: finished
 ---
 En murmurant aux esprits de la nature, vous créez l'un des effets suivants à portée : 
 
@@ -10741,7 +10715,7 @@ En murmurant aux esprits de la nature, vous créez l'un des effets suivants à p
 
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 0
 school: Évocation
 Verbal: true
@@ -10754,7 +10728,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Eldritch Blast
-writing_status: empty
+writing_status: finished
 ---
 Un rayon d'énergie fond sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts de force.
 
@@ -10767,13 +10741,13 @@ Le sort crée plus de rayons lorsque vous atteignez certains niveaux : 2 au nive
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
- - Mage de Guerre
- - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Conjuration
 Verbal: true
@@ -10786,7 +10760,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Create Bonfire
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un feu de camp au sol à un emplacement que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, le feu magique remplit un cube de 5 ft. de côté. Toute créature qui se trouve dans l'espace du feu lorsque vous lancez ce sort doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts de feu. Une créature doit également effectuer ce jet si elle se déplace dans l'espace du feu pour la première fois pendant son tour ou si elle y termine son tour.
 
@@ -10801,12 +10775,12 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (
 
 ---
 available:
- - Mage de Guerre
- - Nécromancien
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
+  - Mage de Guerre
+  - Nécromancien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -10819,7 +10793,7 @@ Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Lightning Surge
-writing_status: empty
+writing_status: finished
 ---
 Vous émettez une gamme éblouissante d'éclairs dans toutes les directions. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de foudre.
 
@@ -10832,9 +10806,9 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Sorcière
- - Ensorceleur
- - Magicien
+  - Sorcière
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Conjuration
 Verbal: true
@@ -10847,7 +10821,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Candy Blast
-writing_status: empty
+writing_status: finished
 ---
 Vous invoquez une poignée de bonbons durs et les jetez vers une cible que vous pouvez voir à portée. Réalisez une attaque de sort à distance. Si vous touchez, la cible subit 1d8 dégâts contondants et son espace devient du terrain difficile jusqu'à ce qu'une créature n'utilise son action pour récupérer les bonbons au sol. Les bonbons créés par ce sort sont comestibles mais n'ont aucune valeur nutritionnelle.
 
@@ -10860,10 +10834,10 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Mage de Guerre
- - Druide
- - Ensorceleur
- - Magicien
+  - Mage de Guerre
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Transmutation
 Verbal: false
@@ -10876,7 +10850,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Shape Water
-writing_status: empty
+writing_status: finished
 ---
 Vous choisissez une zone d'eau que vous pouvez voir à portée et qui rentre dans un cube de 5 ft. de côté. Vous le manipulez d'une des façons suivantes : 
 
@@ -10896,10 +10870,10 @@ Si vous lancez ce sort plusieurs fois, vous ne pouvez pas avoir plus de deux de 
 
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
- - Mage de Guerre
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: false
@@ -10912,7 +10886,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Mold Earth
-writing_status: empty
+writing_status: finished
 ---
 Vous choisissez une portion de terre ou pierre que vous pouvez voir à portée et qui rentre dans un cube de 5 ft. de côté. Vous le manipulez d'une des façons suivantes : 
 
@@ -10929,11 +10903,11 @@ Si vous lancez ce sort plusieurs fois, vous ne pouvez pas avoir plus de deux de 
 
 ---
 available:
- - Mage de Guerre
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
+  - Mage de Guerre
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -10946,7 +10920,7 @@ Portee: Personnelle (rayon de 15 ft.)
 Concentration: false
 Rituel: false
 englishname: Lightning Lure
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un rayon d'énergie de foudre qui frappe une créature de votre choix que vous pouvez voir à 15 ft. de vous. La cible doit réussir un jet de sauvegarde de Force ou être attirée de jusqu'à 10 ft. vers vous en ligne droite puis subir 1d8 dégâts de foudre si elle se trouve à 5 ft. de vous.
 
@@ -10959,7 +10933,7 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Évocation
 Verbal: true
@@ -10972,7 +10946,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Sacred Flame
-writing_status: empty
+writing_status: finished
 ---
 Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.
 
@@ -10985,9 +10959,9 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Druide
- - Sorcière
- - Mage de Guerre
+  - Druide
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: true
@@ -11000,7 +10974,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Produce Flame
-writing_status: empty
+writing_status: finished
 ---
 Une flamme tremblante apparaît dans votre main. La flamme reste là pendant la durée du sort et ne blesse ni vous ni votre équipement. La flamme émet une lumière vive sur un rayon de 10 ft. et une lumière faible sur 10 ft. supplémentaires. Le sort se termine si vous le dissipez pour une action ou si vous le relancez.
 
@@ -11015,7 +10989,7 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Mage de Guerre
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -11028,7 +11002,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Force Dart
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez une fléchette d'énergie magique vers une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, vous infligez 1d10 dégâts de force.
 
@@ -11041,9 +11015,9 @@ Les dégâts de ce sort augmentent lorsque vous atteignez le niveau 5 (2d10), 11
 
 ---
 available:
- - Sorcière
- - Artificier
- - Druide
+  - Sorcière
+  - Artificier
+  - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -11056,9 +11030,9 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Thorn Whip
-writing_status: empty
+writing_status: finished
 ---
-Vous créez un long fouet ressemblant à une liane couvert d'épines qui s'abat à votre commande sur une créature à portée. Réalisez une attaque de sort de mêlée contre la cible. Si l'attaque touche, la créature subit 1d6 dégâts perçants et si la créature est Grande ou plus petite, vous l'attirez de 10 ft. vers vous.
+Vous créez un long fouet ressemblant à une liane couvert d'épines qui s'abat à votre commande sur une créature à portée. Réalisez une attaque de sort de mêlée contre la cible. Si l'attaque touche, la créature subit 1d6 dégâts perforants et si la créature est Grande ou plus petite, vous l'attirez de 10 ft. vers vous.
 
 Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -11069,13 +11043,13 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Mage de Guerre
- - Sorcière
- - Druide
- - Ensorceleur
- - Occultiste
- - Artificier
- - Magicien
+  - Mage de Guerre
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Artificier
+  - Magicien
 level: 0
 school: Évocation
 Verbal: true
@@ -11088,7 +11062,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Frostbite
-writing_status: empty
+writing_status: finished
 ---
 Vous provoquez des gelures sur une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Constitution. Si elle rate, elle subit 1d6 dégâts de froid et a le désavantage au prochain jet d'attaque armée qu'elle effectue avant la fin de son prochain tour.
 
@@ -11101,12 +11075,12 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Mage de Guerre
- - Nécromancien
- - Sorcière
- - Clerc
- - Occultiste
- - Magicien
+  - Mage de Guerre
+  - Nécromancien
+  - Sorcière
+  - Clerc
+  - Occultiste
+  - Magicien
 level: 0
 school: Nécromancie
 Verbal: true
@@ -11119,9 +11093,9 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Toll the Dead
-writing_status: empty
+writing_status: finished
 ---
-Vous pointez une créature que vous pouvez voir à portée, et le son d'une cloche funeste remplit l'aire autour d'elle pour un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou subir 1d8 dégâts nécrotiques. S'il manque des points de vie à la cible, elle subit plutôt 1d12 dégâts nécrotiques.
+Vous pointez une créature que vous pouvez voir à portée, et le son d'une cloche funeste remplit l'air autour d'elle pour un moment. La cible doit réussir un jet de sauvegarde de Sagesse ou subir 1d8 dégâts nécrotiques. S'il manque des points de vie à la cible, elle subit plutôt 1d12 dégâts nécrotiques.
 
 Les dégâts de ce sort augmentent d'un dé lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -11131,7 +11105,7 @@ Les dégâts de ce sort augmentent d'un dé lorsque vous atteignez le niveau 5, 
 
 ---
 available:
- - Druide
+  - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -11144,7 +11118,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Shillelagh
-writing_status: empty
+writing_status: finished
 ---
 Le bois du gourdin ou bâton que vous tenez est infusé des pouvoirs de la nature. Pendant la durée du sort, vous pouvez utiliser votre caractéristique d'incantation plutôt que la Force pour les jets d'attaques et de dégâts d'attaques de mêlée en utilisant cette arme, et le dé de dégâts de cette arme devient un d8. L'arme est également magique, si elle ne l'est pas déjà. Le sort se termine si vous le relancez ou si vous lâchez votre arme. 
 
@@ -11155,9 +11129,9 @@ Le bois du gourdin ou bâton que vous tenez est infusé des pouvoirs de la natur
 
 ---
 available:
- - Barde
- - Magicien
- - Ensorceleur
+  - Barde
+  - Magicien
+  - Ensorceleur
 level: 0
 school: Illusion
 Verbal: false
@@ -11170,7 +11144,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Tag
-writing_status: empty
+writing_status: finished
 ---
 Vous pressez votre main contre une surface plane d'un objet et y imprimez une image élaborée et vibrante dans un carré de côté de 10 ft. L'image peut contenir un message de jusqu'à trois mots, et peut inclure de l'art, des caricature ou des logos dans n'importe quelle combinaison de couleur, choisis lorsque vous lancez le sort. Des ustensiles de nettoyage non magiques ne peuvent retirer l'image, qui se dissipe après sept jours.
 
@@ -11181,12 +11155,12 @@ Vous pressez votre main contre une surface plane d'un objet et y imprimez une im
 
 ---
 available:
- - Sorcière
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Illusion
 Verbal: false
@@ -11199,7 +11173,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Minor Illusion
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un son ou l'image d'un objet à portée qui persiste pendant la durée du sort. L'illusion se termine également si vous la dissipez pour une action ou si vous relancez ce sort.
 
@@ -11215,8 +11189,8 @@ Si une créature utilise son action pour examiner le son ou l'image, elle peut d
 
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -11229,7 +11203,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Sonic Pulse
-writing_status: empty
+writing_status: finished
 ---
 Vous compressez une explosion bruyante en une balle invisible et la projetez vers une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d8 dégâts de tonnerre et être [[assourdi|assourdie]] jusqu'au début de votre prochain tour.
 
@@ -11244,13 +11218,13 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Mage de Guerre
- - Nécromancien
- - Sorcière
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Mage de Guerre
+  - Nécromancien
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 0
 school: Conjuration
 Verbal: true
@@ -11263,7 +11237,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Infestation
-writing_status: empty
+writing_status: finished
 ---
 Vous faites apparaître momentanément un nuage de mites, de puces et de parasites en tout genre sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de poison et se déplacer de 5 ft. dans une direction aléatoire si elle peut se déplacer et que sa vitesse est d'au moins 5 ft. Ce mouvement ne provoque pas d'attaque d'opportunité.
 
@@ -11276,11 +11250,11 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Magicien
- - Mage de Guerre
- - Ensorceleur
- - Artificier
- - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Ensorceleur
+  - Artificier
+  - Occultiste
 level: 0
 school: Évocation
 Verbal: false
@@ -11293,7 +11267,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Green-Flame Blade
-writing_status: empty
+writing_status: finished
 ---
 Vous brandissez l'arme que vous avez utilisée pendant l'incantation du sort et réalisez une attaque de mêlée avec contre une créature à 5 ft. Si vous touchez, la cible subit les effets normaux de l'attaque, et vous pouvez faire en sorte que des flammes vertes se propagent de la cible vers une autre créature de votre choix que vous pouvez voir à 5 ft. La seconde créature subit des dégâts de feu égal à votre modificateur de caractéristique d'incantation.
 
@@ -11306,9 +11280,9 @@ Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au n
 
 ---
 available:
- - Artificier
- - Nécromancien
- - Mage de Guerre
+  - Artificier
+  - Nécromancien
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -11321,7 +11295,7 @@ Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Caustic Blade
-writing_status: empty
+writing_status: finished
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts d'acide. Si vous ratez de 3 ou moins, de l'acide est aspergé sur la cible et vous infligez 1d8 dégâts d'acide.
 
@@ -11334,8 +11308,8 @@ Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au n
 
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -11348,7 +11322,7 @@ Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Burning Blade
-writing_status: empty
+writing_status: finished
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts de feu. De plus, un tourbillon enflammé se crée dans l'espace de la cible. Jusqu'au début de votre prochain tour, lorsqu'une créature entre dans cet espace pour la première fois ou qu'elle y termine son tour, vous pouvez utiliser votre réaction pour lui infliger 1d6 dégâts de feu et terminer le sort.
 
@@ -11361,7 +11335,7 @@ Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au n
 
 ---
 available:
- - Mage de Guerre
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -11374,7 +11348,7 @@ Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Frigid Blade
-writing_status: empty
+writing_status: finished
 ---
 Dans la même action que celle utilisée pour lancer ce sort, vous devez réalisez une attaque de mêlée avec une arme contre une créature à portée, ou le sort échoue. Si vous touchez, l'attaque inflige les dégâts normalement, si ce n'est que ce sont des dégâts de froid. De plus, la cible est couverte d'un léger givre jusqu'au début de votre prochain tour. Si la cible bouge volontairement d'ici là, vous pouvez utiliser votre réaction pour lui infliger 1d8 dégâts de froid, terminant le sort.
 
@@ -11387,11 +11361,11 @@ Au niveau 5, l'attaque de mêlée et les dégâts secondaires infligent 1d8 dég
 
 ---
 available:
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
- - Mage de Guerre
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: false
@@ -11404,11 +11378,11 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Booming Blade
-writing_status: empty
+writing_status: finished
 ---
 Vous brandissez l'arme utilisée lors de l'incantation et réalisez une attaque de mêlée contre une créature à 5 ft. Si vous touchez, la cible souffre des effets normaux de l'arme et se retrouve enveloppée d'énergie jusqu'au début de votre prochain tour. Si la cible se déplace volontairement de 5 ft. ou plus avant cela, elle subit 1d8 dégâts de tonnerre et le sort se termine.
 
-Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au niveau 5, l'attaque de mêlée inflige 1d8 dégâts de tonnerre supplémentaire à la cible, et les dégâts que la cible subit si elle se déplace passent à 2d88. Ces deux jets de dégâts augmentent à nouveau d'1d8 au niveaux 11 (2d3/3d8) et 17 (3d8/4d8).
+Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au niveau 5, l'attaque de mêlée inflige 1d8 dégâts de tonnerre supplémentaire à la cible, et les dégâts que la cible subit si elle se déplace passent à 2d8. Ces deux jets de dégâts augmentent à nouveau de 1d8 aux niveaux 11 (2d8/3d8) et 17 (3d8/4d8).
 
 
 ---
@@ -11417,8 +11391,8 @@ Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au n
 
 ---
 available:
- - Artificier
- - Mage de Guerre
+  - Artificier
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -11431,7 +11405,7 @@ Portee: Personnelle (rayon de 5 ft.)
 Concentration: false
 Rituel: false
 englishname: Arc Blade
-writing_status: empty
+writing_status: finished
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts de foudre. De plus, un arc électrique se forme en direction de la créature de votre choix à 5 ft. de la cible, lui infligeant 1d6 dégâts de foudre.
 
@@ -11444,13 +11418,13 @@ Les dégâts de ce sort augmentent lorsque vous atteignez certains niveaux. Au n
 
 ---
 available:
- - Nécromancien
- - Barde
- - Clerc
- - Ensorceleur
- - Magicien
- - Artificier
- - Mage de Guerre
+  - Nécromancien
+  - Barde
+  - Clerc
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -11463,7 +11437,7 @@ Portee: Contact (20 ft.)
 Concentration: false
 Rituel: false
 englishname: Light
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez un objet qui ne fait pas plus de 10 ft. dans toutes ses dimensions. Jusqu'à la fin de ce sort, l'objet émet une lumière vive dans un rayon de 20 ft. et une lumière faible sur 20 ft. supplémentaires. La lumière peut être de la couleur que vous souhaitez. Complètement recouvrir l'objet bloque la lumière. Le sort se termine si vous le relancez ou si vous le dissipez avec une action.
 
@@ -11476,12 +11450,12 @@ Si la cible est un objet porté ou manié par une créature hostile, cette créa
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
- - Nécromancien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Nécromancien
+  - Sorcière
 level: 0
 school: Évocation
 Verbal: true
@@ -11494,7 +11468,7 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Dancing Lights
-writing_status: empty
+writing_status: finished
 ---
 Vous créez jusqu'à quatre flammes de la taille d'une torche, et vous pouvez les faire apparaître comme des torches, des lanternes ou des orbes lumineux qui lévitent pendant la durée du sort. Vous pouvez également combiner ces quatre lumières en une forme vaguement humanoïde de taille M. Quoi que vous choisissiez, chaque lumière émet une lumière faible sur 10 ft.
 
@@ -11507,14 +11481,14 @@ Pour une action bonus pendant votre tour, vous pouvez déplacer les lumières de
 
 ---
 available:
- - Nécromancien
- - Mage de Guerre
- - Sorcière
- - Barde
- - Artificier
- - Ensorceleur
- - Magicien
- - Occultiste
+  - Nécromancien
+  - Mage de Guerre
+  - Sorcière
+  - Barde
+  - Artificier
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 level: 0
 school: Conjuration
 Verbal: true
@@ -11527,7 +11501,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Mage Hand
-writing_status: empty
+writing_status: finished
 ---
 Une main spectrale et flottante apparaît à un point de votre choix à portée. La main persiste pendant la durée du sort ou jusqu'à ce que vous la dissipiez pour une action. La main disparaît si elle se trouve à plus de 30 ft. de vous ou si vous relancez le sort.
 
@@ -11542,11 +11516,11 @@ La main ne peut pas attaquer, utiliser d'objets magiques ou porter plus de 5 kil
 
 ---
 available:
- - Sorcière
- - Barde
- - Ensorceleur
- - Artificier
- - Magicien
+  - Sorcière
+  - Barde
+  - Ensorceleur
+  - Artificier
+  - Magicien
 level: 0
 school: Transmutation
 Verbal: true
@@ -11559,7 +11533,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Message
-writing_status: empty
+writing_status: finished
 ---
 Vous pointez du doigt une créature à portée et lui murmurez un message. La cible (et seulement la cible) entend ce message et peut répondre par un murmure que vous êtes seul à entendre.
 
@@ -11571,7 +11545,7 @@ Vous pouvez lancer ce sort à travers des objets solides si vous connaissez bien
 
 ---
 available:
- - Barde
+  - Barde
 level: 0
 school: Enchantement
 Verbal: true
@@ -11584,9 +11558,9 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Vicious Mockery
-writing_status: empty
+writing_status: finished
 ---
-Vous vous déchaînez dans une série d'insultes subtilement enchevêtrées d'enchantements vers une créature que vous pouvez voir à portée. Si la cible peut vous entendre, elle doit réussir un jet de sauvegarde de Sagesse ou subir 1d4 dégâts psychiques et avoir le désavantage à son prochain jet d'attaque qu'elle effectue avant la fin de son prochain tour.
+Vous vous déchaînez dans une série d'insultes subtilement tissées d'enchantements vers une créature que vous pouvez voir à portée. Si la cible peut vous entendre, elle doit réussir un jet de sauvegarde de Sagesse ou subir 1d4 dégâts psychiques et avoir le désavantage à son prochain jet d'attaque qu'elle effectue avant la fin de son prochain tour.
 
 Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5, 11 ou 17.
 
@@ -11597,7 +11571,7 @@ Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Évocation
 Verbal: true
@@ -11610,7 +11584,7 @@ Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Word of Radiance
-writing_status: empty
+writing_status: finished
 ---
 Vous prononcez un mot divin, et une radiance brûlante s'abat sur vous. Chaque créature de votre choix que vous pouvez voir à portée doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts radiants.
 
@@ -11623,9 +11597,9 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Artificier
- - Nécromancien
- - Occultiste
+  - Artificier
+  - Nécromancien
+  - Occultiste
 level: 0
 school: Évocation
 Verbal: true
@@ -11638,7 +11612,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eldritch Orb
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez une boule d'énergie occulte à une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts de force et toute créature à 5 ft. doit réussir un jet de sauvegarde de Dextérité ou subir la moitié des dégâts.
 
@@ -11651,8 +11625,8 @@ Les dégâts de ce sort augmentent lorsque vous atteignez le niveau 5 (2d8), 11 
 
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Transmutation
 Verbal: true
@@ -11665,7 +11639,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Quickstep
-writing_status: empty
+writing_status: finished
 ---
 Vous faites appel à vos réserves pour vous conférer brièvement une grande vitesse. Lorsque vous lancez ce sort, votre vitesse de marche augmente de 10 ft. jusqu'au début de votre prochain tour.
 
@@ -11676,11 +11650,11 @@ Vous faites appel à vos réserves pour vous conférer brièvement une grande vi
 
 ---
 available:
- - Mage de Guerre
- - Clerc
- - Ensorceleur
- - Magicien
- - Artificier
+  - Mage de Guerre
+  - Clerc
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 0
 school: Transmutation
 Verbal: true
@@ -11695,7 +11669,7 @@ Rituel: false
 englishname: Moment to Think
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
 ---
 Lorsque vous lancez ce sort, vous arrêtez brièvement le temps pour tout le monde sauf vous. Vous pouvez entreprendre une action supplémentaire et vous déplacer dans votre espace tandis que le temps ne passe pas pour les autres créatures. Cette action peut être utilisée seulement pour entreprendre l'action de Recherche ou d'Utilisation d'un Objet, ou pour effectuer un jet d'Intelligence.
 
@@ -11708,9 +11682,9 @@ De plus, vous ne pouvez affecter ou infliger des dégâts à une autre créature
 
 ---
 available:
- - Druide
- - Artificier
- - Occultiste
+  - Druide
+  - Artificier
+  - Occultiste
 level: 0
 school: Transmutation
 Verbal: true
@@ -11723,7 +11697,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Magic Stone
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez de un à trois cailloux et les infusez d'énergie magique. Vous ou quelqu'un d'autre peut réaliser une attaque de sort à distance avec un de ces cailloux en le lançant à la main ou avec une fronde. S'il est lancé, le caillou a une portée de 60 ft. Si quelqu'un d'autre attaque avec le caillou, l'attaquant ajoute votre modificateur de caractéristique d'incantation à son jet d'attaque plutôt que le sien. Si l'attaque touche, la cible subit 1d6 + votre modificateur de caractéristique d'incantation dégâts contondants. Que vous touchiez ou non, le sort se termine sur la pierre.
 
@@ -11736,11 +11710,11 @@ Si vous lancez ce sort à nouveau, le sort se termine prématurément sur tous l
 
 ---
 available:
- - Mage de Guerre
- - Sorcière
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Mage de Guerre
+  - Sorcière
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 0
 school: Enchantement
 Verbal: true
@@ -11753,7 +11727,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Mind Sliver
-writing_status: empty
+writing_status: finished
 ---
 Vous dirigez un pic désorientant d'énergie psychique dans l'esprit d'une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde d'Intelligence ou subir 1d6 dégâts psychiques et soustraire 1d4 du prochain jet de sauvegarde qu'elle effectue avant la fin de votre prochain tour.
 
@@ -11766,11 +11740,11 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Mage de Guerre
- - Nécromancien
- - Ensorceleur
- - Artificier
- - Magicien
+  - Mage de Guerre
+  - Nécromancien
+  - Ensorceleur
+  - Artificier
+  - Magicien
 level: 0
 school: Évocation
 Verbal: true
@@ -11783,7 +11757,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Shocking Grasp
-writing_status: empty
+writing_status: finished
 ---
 Des éclairs bondissent de votre main pour délivrer un choc à une créature que vous essayez de toucher. Réalisez une attaque de sort de mêlée contre la cible. Vous avez l'avantage si la cible porte une armure faite de métal. Si vous touchez, la cible subit 1d8 dégâts de foudre et ne peut pas utiliser de réactions jusqu'au début de votre prochain tour.
 
@@ -11796,13 +11770,13 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Artificier
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
- - Sorcière
+  - Artificier
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Transmutation
 Verbal: true
@@ -11815,7 +11789,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Prestidigitation
-writing_status: empty
+writing_status: finished
 ---
 Ce sort est un léger tour de magie que les lanceurs de sorts novices utilisent pour s'entraîner. Vous créez l'un des effets magiques suivants à portée : 
 
@@ -11836,13 +11810,13 @@ Si vous lancez ce sort plusieurs fois, vous ne pouvez pas avoir plus de trois de
 
 ---
 available:
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
- - Mage de Guerre
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Abjuration
 Verbal: true
@@ -11855,9 +11829,9 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Blade Ward
-writing_status: empty
+writing_status: finished
 ---
-Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez une résistance contre les dégâts contondants, perçants et tranchants infligés par des attaques à main armée.
+Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez une résistance contre les dégâts contondants, perforants et tranchants infligés par des attaques à main armée.
 
 
 ---
@@ -11866,10 +11840,10 @@ Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'�
 
 ---
 available:
- - Mage de Guerre
- - Artificier
- - Ensorceleur
- - Magicien
+  - Mage de Guerre
+  - Artificier
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Évocation
 Verbal: true
@@ -11882,7 +11856,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Ray of Frost
-writing_status: empty
+writing_status: finished
 ---
 Un rayon frigorifique rayonnant d'une lumière bleu-blanche est propulsé vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, elle subit 1d8 dégâts de froid et sa vitesse est réduite de 10 ft. jusqu'au début de votre prochain tour.
 
@@ -11895,14 +11869,14 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Barde
- - Artificier
- - Clerc
- - Druide
- - Ensorceleur
- - Magicien
- - Mage de Guerre
- - Nécromancien
+  - Barde
+  - Artificier
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Mage de Guerre
+  - Nécromancien
 level: 0
 school: Transmutation
 Verbal: true
@@ -11915,9 +11889,9 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mending
-writing_status: empty
+writing_status: finished
 ---
-Ce sort répare une fissure ou cassure dans un objet que vous touchez, comme un maillon de chaîne brisé, deux moitiés d'une même clé, une cape déchirée ou une outre percée. Tant que la fissure ou cassure ne fait plus de 1 ft. dans une dimension, vous la réparez, ne laissant aucune trace.
+Ce sort répare une fissure ou cassure dans un objet que vous touchez, comme un maillon de chaîne brisé, deux moitiés d'une même clé, une cape déchirée ou une outre percée. Tant que la fissure ou cassure ne fait pas plus de 1 ft. dans une dimension, vous la réparez, ne laissant aucune trace.
 
 Ce sort peut réparer physiquement un objet magique ou une construction, mais ne peut pas en restaurer la magie.
 
@@ -11928,10 +11902,10 @@ Ce sort peut réparer physiquement un objet magique ou une construction, mais ne
 
 ---
 available:
- - Sorcière
- - Clerc
- - Druide
- - Artificier
+  - Sorcière
+  - Clerc
+  - Druide
+  - Artificier
 level: 0
 school: Abjuration
 Verbal: true
@@ -11944,7 +11918,7 @@ Portee: Contact
 Concentration: true
 Rituel: false
 englishname: Resistance
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature consentante. Une fois avant que le sort se termine, la cible peut lancer un d4 et ajouter le nombre obtenu à un jet de sauvegarde de son choix. Elle peut lancer le dé avant ou après avoir réalisé le jet. Le sort se termine ensuite.
 
@@ -11955,8 +11929,8 @@ Vous touchez une créature consentante. Une fois avant que le sort se termine, l
 
 ---
 available:
- - Sorcière
- - Druide
+  - Sorcière
+  - Druide
 level: 0
 school: Transmutation
 Verbal: false
@@ -11969,7 +11943,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Primal Savagery
-writing_status: empty
+writing_status: finished
 ---
 Vous canalisez la magie primale afin d'aiguiser vos dents ou ongles et vous tenir prêt à délivrer une attaque corrosive. Réalisez une attaque de sort de mêlée contre une créature à 5 ft. Si vous touchez, elle subit 1d10 dégâts d'acide. Après que vous avez réalisé l'attaque, vos dents et ongles reviennent à la normale.
 
@@ -11982,9 +11956,9 @@ Les dégâts de ce sort augmentent de 1d10 lorsque vous atteignez le niveau 5, 1
 
 ---
 available:
- - Sorcière
- - Artificier
- - Clerc
+  - Sorcière
+  - Artificier
+  - Clerc
 level: 0
 school: Nécromancie
 Verbal: true
@@ -11997,7 +11971,7 @@ Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Spare the Dying
-writing_status: empty
+writing_status: finished
 ---
 Vous touchez une créature vivante qui a 0 point de vie. La créature se stabilise. Ce sort n'a aucun effet sur les morts-vivants ou constructions.
 
@@ -12008,9 +11982,9 @@ Vous touchez une créature vivante qui a 0 point de vie. La créature se stabili
 
 ---
 available:
- - Artificier
- - Mage de Guerre
- - Druide
+  - Artificier
+  - Mage de Guerre
+  - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -12023,7 +11997,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Springheel
-writing_status: empty
+writing_status: finished
 ---
 Vous inondez de magie vos jambes, vous permettant de bondir dans les airs sans élan. Lorsque vous lancez ce sort, votre distance de saut augmente de 10 ft. jusqu'au début de votre prochain tour, et vous n'avez plus besoin d'élan.
 
@@ -12034,7 +12008,7 @@ Vous inondez de magie vos jambes, vous permettant de bondir dans les airs sans �
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Transmutation
 Verbal: true
@@ -12047,7 +12021,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Thaumaturgy
-writing_status: empty
+writing_status: finished
 ---
 Vous manifestez un signe de pouvoir surnaturel à portée. Vous créez l'un des effets magiques suivants : 
 
@@ -12067,11 +12041,11 @@ Si vous lancez ce sort plusieurs fois, vous ne pouvez pas avoir plus de trois de
 
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 0
 school: Illusion
 Verbal: false
@@ -12086,7 +12060,7 @@ Rituel: false
 englishname: Concealed Shot
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque avec une arme à distance, sinon le sort échoue. Le projectile de cette attaque est invisible tant qu'il est en vol, et l'arme elle-même est silencieuse. Si l'arme est une arme à feu, le sort dissimule la fumée et la lumière que le tir produit, rendant impossible de détecter l'origine du projectile.
 
@@ -12099,12 +12073,12 @@ Le sort ne dissimule que le premier tir que vous réalisez, tout tir suivant ne 
 
 ---
 available:
- - Artificier
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
- - Mage de Guerre
+  - Artificier
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: true
@@ -12117,7 +12091,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Card Trick
-writing_status: empty
+writing_status: finished
 ---
 En un mouvement rapide, vous envoyez une carte à jouer chargée d'énergie sur vos adversaires. Choisissez si vous préférez effectuer un jet d'attaque de sort à distance ou si vous préférez imposer un jet de sauvegarde de Dextérité. Si vous touchez ou que la cible rate son jet de sauvegarde, vous infligez 1d6 dégâts de force.
 
@@ -12130,10 +12104,10 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
- - Mage de Guerre
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -12146,7 +12120,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Fire Bolt
-writing_status: empty
+writing_status: finished
 ---
 Vous lancez un bout de feu sur une créature ou un objet à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts de feu. Un objet inflammable qui n'est pas porté s'embrase s'il est touché.
 
@@ -12159,13 +12133,13 @@ Les dégâts de ce sort augmentent de 1d10 lorsque vous atteignez le niveau 5, 1
 
 ---
 available:
- - Nécromancien
- - Mage de Guerre
- - Sorcière
- - Barde
- - Occultiste
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Mage de Guerre
+  - Sorcière
+  - Barde
+  - Occultiste
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Divination
 Verbal: false
@@ -12178,7 +12152,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Cheat
-writing_status: empty
+writing_status: finished
 ---
 Vous jouez habilement de vos doigts, et la chance semble être avec vous. Pendant la durée du sort, vous pouvez relancer tous les jets de caractéristique que vous effectuez afin de jouer à des jeux non magiques. Ainsi, ce sort peut influencer une partie de poker, mais pas le tirage d'une carte du [[Deck de Multiples Choses]].
 
@@ -12189,10 +12163,10 @@ Vous jouez habilement de vos doigts, et la chance semble être avec vous. Pendan
 
 ---
 available:
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 0
 school: Nécromancie
 Verbal: false
@@ -12205,7 +12179,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Minor Life Steal
-writing_status: empty
+writing_status: finished
 ---
 Vous volez l'énergie d'une créature hostile que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d4 dégâts nécrotiques. Vous gagnez un nombre de points de vie temporaires égal aux dégâts que vous avez infligez, qui persiste jusqu'à votre prochain repos long. Ce sort n'a aucun effet sur les Morts-Vivants ou les Constructions.
 
@@ -12218,11 +12192,11 @@ Les dégâts de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Mage de Guerre
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
+  - Mage de Guerre
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
 level: 0
 school: Conjuration
 Verbal: true
@@ -12235,7 +12209,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Sword Burst
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un cercle temporaire de lames spectrales autour de vous. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de force.
 
@@ -12248,7 +12222,7 @@ Les dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5, 11
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 0
 school: Nécromancie
 Verbal: true
@@ -12261,7 +12235,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Spark of life
-writing_status: empty
+writing_status: finished
 ---
 Avec une rapide étincelle d'énergie nécromantique, les morts se relèvent temporairement pour vous assister, même si ce n'est que pour quelques secondes. Choisissez le corps d'une créature de taille TG ou plus petite, qui n'est pas morte depuis plus d'une heure. Lorsque vous lancez ce sort, la créature se redresse et peut se déplacer de jusqu'à 15 ft. et réaliser une attaque de mêlée contre une créature de votre choix à portée, en utilisant votre modificateur d'attaque de sort. Si elle touche, l'attaque inflige des dégâts contondants basés sur la taille du corps : un corps de taille TP inflige 1d4, un corps P inflige 1d6, un corps M inflige 1d8, un corps G inflige 1d10 et un corps TG inflige 1d12.
 
@@ -12275,7 +12249,7 @@ Les dégâts de ce sorts augmentent lorsque vous gagnez des niveaux. Au niveau 5
 
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 0
 school: Transmutation
 Verbal: true
@@ -12288,9 +12262,9 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Flesh Ripper
-writing_status: empty
+writing_status: finished
 ---
-Au moment où vous lancez ce sort, un crochet à viande spectral et une chaîne sont lancés vers une créature de votre choix. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible subit 1d8 dégâts perçants alors que le crochet pénètre son corps. Jusqu'au début de votre prochain tour, la cible doit réussir un jet de sauvegarde de Force pour se déplacer à plus de 30 ft. de vous. Sur un échec, elle ne peut plus se déplacer jusqu'au début de votre tour. Cet effet se termine si vous êtes à plus de 30 ft. de la cible.
+Au moment où vous lancez ce sort, un crochet à viande spectral et une chaîne sont lancés vers une créature de votre choix. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible subit 1d8 dégâts perforants alors que le crochet pénètre son corps. Jusqu'au début de votre prochain tour, la cible doit réussir un jet de sauvegarde de Force pour se déplacer à plus de 30 ft. de vous. Sur un échec, elle ne peut plus se déplacer jusqu'au début de votre tour. Cet effet se termine si vous êtes à plus de 30 ft. de la cible.
 
 Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).
 
@@ -12301,9 +12275,9 @@ Les dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d
 
 ---
 available:
- - Clerc
- - Nécromancien
- - Sorcière
+  - Clerc
+  - Nécromancien
+  - Sorcière
 level: 0
 school: Nécromancie
 Verbal: false
@@ -12316,7 +12290,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eye of Anubis
-writing_status: empty
+writing_status: finished
 ---
 Un rayon de lumière lunaire et sombre s'échappe de votre œil gauche vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas utiliser son action pour se Désengager avant la fin de votre prochain tour.
 
@@ -12328,7 +12302,7 @@ Ce sort crée des rayons supplémentaires et inflige plus de dégâts lorsque vo
 
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Évocation
 Verbal: false
@@ -12341,7 +12315,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Eye of Ra
-writing_status: empty
+writing_status: finished
 ---
 Un rayon radiant surgit de votre œil droit vers une créature que vous pouvez voir à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d8 dégâts radiants et ne peut utiliser son action pour se Cacher jusqu'à la fin de votre prochain tour.
 
@@ -15966,7 +15940,6 @@ Rituel:
 englishname: Bigby's Hand
 writing_status: empty
 ---
-
 (Voir [[Main Magique]])
 
 ---

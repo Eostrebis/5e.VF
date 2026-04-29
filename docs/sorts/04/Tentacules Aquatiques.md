@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Occultiste
- - Druide
+  - Magicien
+  - Occultiste
+  - Druide
 level: 4
 school: Conjuration
 Verbal: true
@@ -15,7 +15,7 @@ Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Watery Tentacles
-writing_status: empty
+writing_status: finished
 ---
 Lorsque vous lancez ce sort, trois tentacules d'eau apparaissent autour de votre corps pendant la durée du sort. Pendant l'action que vous utilisez pour lancer ce sort, et pour une action bonus pendant vos prochains tours jusqu'à ce que le sort se termine, vous pouvez ordonner à l'un de ces tentacules de Saisir une créature de taille G ou inférieure que vous pouvez voir à 30 ft. La cible doit réussir un jet de sauvegarde de Force ou être [[saisi|saisie]] et [[retenu|retenue]] par le tentacule. A la fin de chacun de ses tours, une cible retenue peut répéter le jet de sauvegarde.
 

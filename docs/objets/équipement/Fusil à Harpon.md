@@ -9,4 +9,4 @@ writing_status: empty
 
 | Dégâts | Propriétés |
 | ------------ | ------------------------------ |
-| 2d8 perçants | Munitions (30/120), Chargement |
+| 2d8 perforants | Munitions (30/120), Chargement |

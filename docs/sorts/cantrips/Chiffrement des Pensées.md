@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Mage de Guerre
- - Nécromancien
+  - Magicien
+  - Mage de Guerre
+  - Nécromancien
 level: 0
 school: Enchantement
 Verbal: false
@@ -15,7 +15,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Encode Thoughts
-writing_status: empty
+writing_status: finished
 ---
 Vous extrayez une mémoire, une idée ou un message de votre esprit et le transformez en un fil tangible d'énergie appelé *brin de pensée* qui persiste pendant la durée du sort ou jusqu'à ce que vous lanciez le sort à nouveau. Le brin de pensée apparaît dans un espace inoccupé à 5 ft. de vous sous la forme d'un objet Très Petit et semi-solide qui peut être porté comme un ruban.
 

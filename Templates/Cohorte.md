@@ -22,7 +22,7 @@
 >### Actions
 >***Arme 1.*** *Attaque Armée de Mêlée :* +3 pour toucher, allonge 5 ft., une cible. *Touché :* 4 (1d6 +1) dégâts contondants.
 >
->***Arme 2.*** *Attaque Armée à Distance :* +2 pour toucher, portée 80/320 ft., une cible. *Touché :* 4 (1d8) dégâts perçants.
+>***Arme 2.*** *Attaque Armée à Distance :* +2 pour toucher, portée 80/320 ft., une cible. *Touché :* 4 (1d8) dégâts perforants.
 >
 > ### Actions Bonus
 > ### Réactions

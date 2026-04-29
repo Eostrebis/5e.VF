@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Druide
- - Occultiste
+  - Barde
+  - Druide
+  - Occultiste
 level: 7
 school: Enchantement
 Verbal: true

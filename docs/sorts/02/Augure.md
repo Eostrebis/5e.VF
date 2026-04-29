@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Investigateur
- - Martyr
+  - Clerc
+  - Investigateur
+  - Martyr
 level: 2
 school: Divination
 Verbal: true
@@ -15,7 +15,7 @@ Portee: Personnelle
 Concentration: false
 Rituel: true
 englishname: Augury
-writing_status: empty
+writing_status: finished
 ---
 Que ce soit en jetant des bâtonnets incrustés de gemmes ou des osselets de dragon, en retournant des cartes ornées ou en usant d'autres outils divinatoires, vous recevez un présage de la part d'une entité surnaturelle à propos du résultat des actions que vous planifiez d'entreprendre au cours des 30 prochaines minutes. Le MJ choisit de répondre à l'aide des présages suivants : 
 

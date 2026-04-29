@@ -1,12 +1,12 @@
 ---
 available:
- - Martyr
- - Sorcière
- - Clerc
- - Paladin
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Martyr
+  - Sorcière
+  - Clerc
+  - Paladin
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 4
 school: Abjuration
 Verbal: true
@@ -19,7 +19,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Banishment
-writing_status: empty
+writing_status: finished
 ---
 Vous tentez d'envoyer dans un autre plan d'existence une créature à portée que vous pouvez voir. La cible doit réussir un jet de sauvegarde de Charisme sous peine d'être bannie. 
 

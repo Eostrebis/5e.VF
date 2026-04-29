@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Inexorable Sarcophagus
-writing_status: empty
+writing_status: finished
 ---
 Vous jetez un sarcophage qui tient dans votre main vers un espace inoccupé que vous pouvez voir à portée, où il grandit à taille normale en un instant et essaye de s'emparer d'une créature de taille M ou plus petite à moins de 5 ft. La créature doit réussir un jet de sauvegarde de Dextérité ou être [[retenu|retenue]] et attirée dans le sarcophage.
 

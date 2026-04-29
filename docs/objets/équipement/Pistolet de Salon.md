@@ -8,4 +8,4 @@ writing_status: empty
 ---
 | Dégâts | Propriétés |
 | ------------ | ---------------------------------------------------------------- |
-| 2d4 perçants | Munitions (portée 30/120), Dissimulable, Léger, Rechargement (2) |
+| 2d4 perforants | Munitions (portée 30/120), Dissimulable, Léger, Rechargement (2) |

@@ -6,6 +6,5 @@ englishname: Crossbow, Hand
 writing_status: finished
 ---
 
-| Dégâts | Propriétés |
-| ------------ | ------------------------------------ |
-| 1d6 perçants | Munition (30/120), Léger, Chargement |
+|                  étés |
+| ------| ---------------------- | -------------- |-- perforantrperforantant Munition (30/120), Léger, Chargement |

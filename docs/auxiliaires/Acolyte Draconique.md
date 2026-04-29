@@ -33,4 +33,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Griffes & Crocs
 
-Vous pouvez manifester griffes et dents d'énergie draconique, qui sont des armes naturelles que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d6 dégâts du type associé à votre Alliance Draconique. Vous pouvez choisir d'infliger des dégâts tranchants avec vos griffes et des dégâts perçants avec vos crocs. Si vous possédez déjà des armes naturelles, vous pouvez faire en sorte qu'elles infligent des dégâts du type associé à votre Alliance Draconique.
+Vous pouvez manifester griffes et dents d'énergie draconique, qui sont des armes naturelles que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec, vous infligez 1d6 dégâts du type associé à votre Alliance Draconique. Vous pouvez choisir d'infliger des dégâts tranchants avec vos griffes et des dégâts perforants avec vos crocs. Si vous possédez déjà des armes naturelles, vous pouvez faire en sorte qu'elles infligent des dégâts du type associé à votre Alliance Draconique.

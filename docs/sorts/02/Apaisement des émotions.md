@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Clerc
- - Sorcière
+  - Barde
+  - Clerc
+  - Sorcière
 level: 2
 school: Enchantement
 Verbal: true

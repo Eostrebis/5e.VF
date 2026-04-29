@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Martyr
- - Paladin
+  - Clerc
+  - Martyr
+  - Paladin
 level: 1
 school: Abjuration
 Verbal: true
@@ -15,6 +15,6 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: false
 Rituel: false
 englishname: Sanctify Ground
-writing_status: empty
+writing_status: finished
 ---
 Vous bénissez le sol dans une zone de 10 ft. autour de vous. Pendant la durée du sort, les morts-vivants et fiélons ont le désavantage aux jets d'attaque effectués dans cette zone.

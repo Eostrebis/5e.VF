@@ -31,7 +31,7 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 ## Résistance Verdoyante
 
-À partir du niveau 14, pour une action bonus pendant votre tour, vous pouvez entrer dans un état de régénération naturelle. Lorsque vous le faites, et à nouveau au début de votre tour pendant 1 minute, vous regagnez un nombre de points de vie égal à votre modificateur de Sagesse. Aussi, pendant cette durée, vous obtenez une résistance aux dégâts contondants, perçants et tranchants, et vous ne pouvez pas lancer de sorts de martyr. Vous pouvez utiliser votre action bonus pour terminer cet effet prématurément.
+À partir du niveau 14, pour une action bonus pendant votre tour, vous pouvez entrer dans un état de régénération naturelle. Lorsque vous le faites, et à nouveau au début de votre tour pendant 1 minute, vous regagnez un nombre de points de vie égal à votre modificateur de Sagesse. Aussi, pendant cette durée, vous obtenez une résistance aux dégâts contondants, perforants et tranchants, et vous ne pouvez pas lancer de sorts de martyr. Vous pouvez utiliser votre action bonus pour terminer cet effet prématurément.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

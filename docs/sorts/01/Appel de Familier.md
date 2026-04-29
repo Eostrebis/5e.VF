@@ -1,7 +1,7 @@
 ---
 available:
- - Investigateur
- - Magicien
+  - Investigateur
+  - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -14,7 +14,7 @@ Portee: 10 ft.
 Concentration: false
 Rituel: true
 englishname: Find Familiar
-writing_status: empty
+writing_status: finished
 ---
 Vous obtenez un familier, un esprit qui prend la forme animale que vous choisissez parmi : [[chauve-souris]], [[chat]], [[crabe]], [[grenouille | grenouille (crapaud)]], [[faucon]], [[lézard]], [[pieuvre]], [[chouette]], [[serpent venimeux]], poisson ([[piranha]]), [[rat]], [[corbeau]], [[hippocampe]], [[araignée]] ou [[belette]]. Apparaissant sur un espace inoccupé à portée, le familier a les statistiques de la forme choisie, mais est, selon votre choix, un céleste, une fée ou un fiélon.
 
@@ -26,6 +26,6 @@ Tant que votre familier se trouve à 100 ft. de vous, vous pouvez communiquer av
 
 Vous ne pouvez pas avoir plus d'un familier à la fois. Si vous relancez le sort alors que vous avez déjà un familier, vous le faites simplement changer de forme. Choisissez l'une des formes ci-dessus. Votre familier se transforme en la forme choisie.
 
-Enfin, lorsque vous lancez un sort avec une portée de toucher, votre familier peut délivrer le sort comme s'il l'avait lancé. Votre familier doit être à moins de 100 ft. de vous et il doit utiliser sa réaction pour délivrer le sort lorsque vous le lancez. Si le sort requiert un jet d'attaque, **vous** lancez ce jet en utilisant votre modificateur.
+Enfin, lorsque vous lancez un sort avec une portée de toucher, votre familier peut délivrer le sort comme s'il l'avait lancé. Votre familier doit être à moins de 100 ft. de vous et il doit utiliser sa réaction pour délivrer le sort lorsque vous le lancez. Si le sort requiert un jet d'attaque, **vous** effectuez ce jet en utilisant votre modificateur.
 
 

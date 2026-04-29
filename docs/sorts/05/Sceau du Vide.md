@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Occultiste
- - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Ensorceleur
 level: 5
 school: Abjuration
 Verbal: true
@@ -15,6 +15,6 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: false
 Rituel: false
 englishname: Nether Seal
-writing_status: empty
+writing_status: finished
 ---
 Vous scellez magiquement une zone centrée sur vous et d'un rayon de 30 ft. Tant que le sceau est actif, aucun voyage planaire ou éthéré ne peut se passer dans ou depuis la zone.

@@ -1,6 +1,6 @@
 ---
 available:
- - Barde
+  - Barde
 level: 1
 school: Enchantement
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Dissonant Whispers
-writing_status: empty
+writing_status: finished
 ---
 Vous murmurez une mélodie dissonante que seulement une créature de votre choix à portée peut entendre, ce qui lui provoque d'intenses douleurs. La cible doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 3d6 dégâts psychiques et doit immédiatement utiliser sa réaction, si elle est disponible, pour se déplacer aussi loin que possible de vous. La créature ne se déplace vers ce qui serait un danger évident, comme un feu ou un trou. Si elle réussit, elle subit la moitié des dégâts et n'a pas à se déplacer. Une créature [[assourdi|assourdie]] réussit automatiquement le jet.
 

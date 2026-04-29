@@ -1,13 +1,13 @@
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Artificier
- - Magicien
- - Mage de Guerre
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Artificier
+  - Magicien
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Évocation
 Verbal: false
@@ -20,7 +20,7 @@ Portee: 5 ft.
 Concentration: false
 Rituel: false
 englishname: Thunderclap
-writing_status: empty
+writing_status: finished
 ---
 Vous créez un éclat de son tonitruant qui peut être entendu jusqu'à 100 ft. Chaque créature à portée autre que vous doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts de tonnerre.
 

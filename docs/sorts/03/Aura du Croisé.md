@@ -1,6 +1,6 @@
 ---
 available:
- - Paladin
+  - Paladin
 level: 3
 school: Évocation
 Verbal: true

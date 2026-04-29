@@ -1,10 +1,10 @@
 ---
 available:
- - Mage de Guerre
- - Sorcière
- - Druide
- - Ensorceleur
- - Magicien
+  - Mage de Guerre
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Transmutation
 Verbal: true
@@ -17,7 +17,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Gust
-writing_status: empty
+writing_status: finished
 ---
 Vous prenez contrôle de l'air et le forcez à réaliser l'un des effets suivants à partir d'un point à portée que vous pouvez voir :
 
