@@ -1,17 +1,23 @@
 ---
-available: []
-level:
-school:
-Verbal: false
-Somatique: false
-Materiel:
-detailmat:
-Duree:
-Incantation:
-Portee:
-Concentration:
-Rituel:
+available:
+  - Barde
+  - Druide
+  - Ranger
+  - Magicien
+level: 1
+school: Transmutation
+Verbal: true
+Somatique: true
+Materiel: true
+detailmat: Une pincée de terre
+Duree: 1 Heure
+Incantation: 1 Action
+Portee: Contact
+Concentration: false
+Rituel: false
 englishname: Longstrider
-writing_status: empty
+writing_status: finished
 ---
+Vous touchez une créature. La vitesse de la cible est augmentée de 10 ft. jusqu'à ce que le sort se termine.
 
+__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.
