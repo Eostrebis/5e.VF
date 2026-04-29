@@ -16,7 +16,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel:
 englishname: Summon Lesser Demons
-writing_status: wip
+writing_status: finished
 ---
 Vous prononcez quelques mots impies et invoquez des démons depuis le chaos des Abysses. Tirez dans la table suivante pour déterminer ce qui apparaît.
 
