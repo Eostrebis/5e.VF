@@ -7365,6 +7365,26 @@
         "description": "Vous vous faites pousser des poils/cheveux excessivement longs et durs (même au niveau des sourcils) que vous pouvez manipuler à volonté. Vous pouvez utiliser vos poils pour réaliser de simples tâches à 10 ft. de vous comme manipuler des objets, ouvrir une porte ou un contenant, ranger ou sortir un objet d'un contenant ouvert, ou vider le contenu d'une fiole. Vous pouvez lancer les sorts avec une portée de Contact en utilisant vos poils, à une portée de 10 ft. Vos poils et cheveux reviennent à une taille normale lorsque le sort se termine.\n",
         "path": "01/Cheveux Préhensiles"
     },
+    "Maléfice": {
+        "level": "1",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "L'œil pétrifié d'un triton",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action Bonus",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Hex",
+        "writing_status": "finished",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "Vous placez une malédiction sur une créature que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, vous infligez 1d6 dégâts nécrotiques à la cible à chaque fois que vous la touchez avec une attaque. De plus, choisissez une caractéristique lorsque vous lancez ce sort. La cible a le désavantage à tous les jets de caractéristique qu'elle effectue en utilisant la caractéristique choisie.\n\nSi la cible tombe à 0 point de vie avant que le sort se termine, vous pouvez utiliser une action bonus pendant un tour suivant pour maudire une nouvelle créature.\n\nUne [[délivrance des malédictions]] lancée sur la cible termine le sort prématurément.\n\n**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou 4, vous pouvez maintenir la concentration sur ce sort pendant 8 heures. Si vous utilisez un emplacement de niveau 5 ou plus, vous pouvez maintenir la concentration sur ce sort pendant 24 heures.",
+        "path": "01/Maléfice"
+    },
     "Alarme": {
         "level": "1",
         "school": "Abjuration",
@@ -7575,6 +7595,27 @@
         ],
         "description": "Vous bénissez jusqu'à trois créatures de votre choix à portée. À chaque fois qu'une de ces créatures effectue un jet d'attaque ou de sauvegarde avant la fin du sort, elle peut lancer un d4 et ajouter le résultat obtenu à son jet.\n\n**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.\n",
         "path": "01/Bénédiction"
+    },
+    "Rayon Empoisonné": {
+        "level": "1",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Ray of Sickness",
+        "writing_status": "finished",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Un rayon nauséabond d'énergie verdâtre se projette vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 dégâts de poison et doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.\n",
+        "path": "01/Rayon Empoisonné"
     },
     "Graisse": {
         "level": "1",
@@ -8512,6 +8553,26 @@
         "description": "Jusqu'à 10 baies apparaissent dans votre main et sont infusées de magie pendant 24 heures. Une créature peut utiliser son action pour manger une baie. Manger une baie rend 1 point de vie, et la baie contient suffisamment de nutriments pour une journée.\n\nLes baies perdent de leur efficacité si elles ne sont pas consommées dans les 24 heures qui suivent l'incantation.\n",
         "path": "01/Baies Nourricières"
     },
+    "Représailles Infernales": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Hellish Rebuke",
+        "writing_status": "finished",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "Lorsque vous subissez des dégâts d'une créature que vous pouvez voir à portée, vous pouvez pointer votre doigt vers la créature vous ayant blessé se voit entourée de flammes infernales. La créature doit effectuer un jet de sauvegarde de Dextérité. Elle subit 2d10 dégâts de feu en cas d'échec, et la moitié en cas de réussite.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 1.\n",
+        "path": "01/Représailles Infernales"
+    },
     "Lueurs Féériques": {
         "level": "1",
         "school": "Évocation",
@@ -8894,6 +8955,30 @@
         "description": "La première fois que vous utilisez l'action Attaquer pendant votre tour, vous pouvez lancer ce sort pour invoquer un tourbillon de pétales de lotus noir autour de votre arme, distrayant vos ennemis et vous permettant de frapper avec une grande puissance. Chaque fois que vous touchez avec cette arme avant que le sort se termine, la cible doit effectuer un jet de sauvegarde de Sagesse ou subir un nouvel effet. Une fois que vous avez réalisé trois attaques avec une arme, le sort se termine.\n\n- **1re Touche :** Si la cible échoue son jet de sauvegarde, sa vitesse est divisée par deux jusqu'à la fin de son prochain tour.\n\n- **2e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 1d6 dégâts psychiques et ne peut pas utiliser de réactions jusqu'à la fin de votre prochain tour.\n\n- **3e Touche :** Si la cible échoue son jet de sauvegarde, elle subit 2d6 dégâts psychiques et ne peut pas entreprendre d'actions bonus pendant son prochain tour.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts psychiques de la 2e touche augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.",
         "path": "01/Assaut du Lotus Noir"
     },
+    "Purification de Nourriture et d'Eau": {
+        "level": "1",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "10 ft.",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Purify Food and Drink",
+        "writing_status": "finished",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Paladin",
+            "Martyr",
+            "Investigateur"
+        ],
+        "description": "Toutes les nourritures et boissons dans une sphère de 5 ft. de rayon centrée sur un point de votre choix à portée sont purifiées et débarrassées de poison et de maladie.\n",
+        "path": "01/Purification de Nourriture et d'Eau"
+    },
     "Simulacre de Vie": {
         "level": "1",
         "school": "Nécromancie",
@@ -9203,6 +9288,29 @@
         "description": "Jusqu'à ce que le sort se termine, une créature consentante que vous touchez est protégée contre certains types de créatures : Aberrations, Célestes, Élémentaires, Fée, Fiélons et Morts-Vivants.\n\nCette protection confère plusieurs effets. Les créatures de ces types obtiennent le désavantage pour leurs jets d'attaque contre la cible. La cible ne peut pas être [[charmé|charmée]], [[apeuré|apeurée]] ou possédée par ces créatures. Si la cible est déjà sous le coup de l'une de ces conditions, elle a l'avantage aux jets de sauvegarde qu'elle effectuerait pour y mettre fin.\n",
         "path": "01/Protection contre le Mal et le Bien"
     },
+    "Identification": {
+        "level": "1",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une perle valant au moins 100 po et une plume de chouette",
+        "Duree": "Instantanée",
+        "Incantation": "1 Minute",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Identify",
+        "writing_status": "finished",
+        "available": [
+            "Barde",
+            "Magicien",
+            "Nécromancien",
+            "Investigateur"
+        ],
+        "description": "Vous choisissez un objet que vous devez toucher pendant toute l'incantation du sort. Si c'est un objet magique ou un objet imprégné de magie, vous apprenez ses propriétés et comment les utiliser, s'il demande d'y être lié pour être utilisé, et combien de charges il possède, si cela est pertinent. Vous apprenez également si des sorts affectent l'objet et lesquels. Si l'objet a été créé par un sort, vous apprenez quel sort l'a créé.\n\nSi vous touchez plutôt une créature pendant l'incantation, vous apprenez les sorts, s'il y en a, qui l'affectent.\n",
+        "path": "01/Identification"
+    },
     "Doigts de Givre": {
         "level": "1",
         "school": "Évocation",
@@ -9263,6 +9371,26 @@
         ],
         "description": "Vous lancez un crâne caquetant vers un point que vous pouvez voir à portée, qui émet un hurlement mortifiant audible jusqu'à 300 ft. Chaque créature dans un cube de 10 ft. centré autour du crâne subit 2d4 dégâts de tonnerre.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d4 par niveau d'emplacement au-delà du niveau 1.",
         "path": "01/Crâne Hurlant de Gahoul"
+    },
+    "Marque du Chasseur": {
+        "level": "1",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action Bonus",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Hunter's Mark",
+        "writing_status": "finished",
+        "available": [
+            "Ranger"
+        ],
+        "description": "Vous choisissez une créature que vous pouvez voir à portée et la marquez magiquement comme votre proie. Jusqu'à ce que le sort se termine, vous infligez 1d6 dégâts supplémentaires à la cible lorsque vous la touchez avec une attaque armée, et vous avez l'avantage aux jets de Sagesse (Perception) et Sagesse (Survie) que vous effectuez pour la trouver. Si la cible tombe à 0 point de vie avant que le sort se termine, vous pouvez utiliser une action bonus pendant un tour suivant pour marquer une nouvelle créature.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez en utilisant un emplacement de niveau 3 ou 4, vous pouvez maintenir votre concentration sur ce sort pendant 8 heures. Lorsque vous utilisez un emplacement de niveau 5 ou plus, vous pouvez maintenir votre concentration sur ce sort pendant 24 heures.\n",
+        "path": "01/Marque du Chasseur"
     },
     "Cils de la Brume Morte": {
         "level": "1",
