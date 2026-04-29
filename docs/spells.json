@@ -8185,6 +8185,27 @@
         "description": "La prochaine attaque réalisée contre vous pendant la durée du sort a une pénalité de -10 pour toucher.\n",
         "path": "01/Rempart Éphémère"
     },
+    "Sanctuaire": {
+        "level": "1",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un petit miroir d'argent",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Sanctuary",
+        "writing_status": "finished",
+        "available": [
+            "Clerc",
+            "Martyr"
+        ],
+        "description": "Vous protégez une créature à portée contre les attaques. Jusqu'à ce que le sort se termine, toute créature qui cible la créature protégée avec une attaque ou un sort néfaste doit d'abord effectuer un jet de sauvegarde de Sagesse. Si la créature échoue, elle doit choisir une nouvelle cible ou perdre son attaque ou son sort. Ce sort ne protège la créature protégée contre les effets de zone, comme l'explosion d'une [[boule de feu]].\n\nSi la créature protégée réalise une attaque, lance un sort qui affecte un ennemi ou inflige des dégâts à une autre créature, le sort se termine.\n",
+        "path": "01/Sanctuaire"
+    },
     "Vague Tonnante": {
         "level": "1",
         "school": "Évocation",
@@ -8512,6 +8533,29 @@
         ],
         "description": "Vous touchez une créature consentante qui ne porte pas d'armure et un champ magique protecteur l'entoure jusqu'à ce que le sort se termine. La CA de base de la cible passe à 13 + son modificateur de Dextérité. Le sort se termine si la cible met une armure ou si vous dissipez le sort pour une action.\n",
         "path": "01/Armure de Mage"
+    },
+    "Image Silencieuse": {
+        "level": "1",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un bout de toison",
+        "Duree": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Silent Image",
+        "writing_status": "finished",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Vous créez une image d'un objet, d'une créature ou d'un autre phénomène visible qui n'est pas plus grand qu'un cube de 15 ft. de côté. L'image apparaît à un endroit à portée et persiste pendant la durée du sort. L'image est purement visuelle ; elle n'est pas accompagnée par le son, l'odeur ou d'autres effets sensoriels.\n\nVous pouvez utiliser votre action pour faire bouger l'image vers un autre endroit à portée. Lorsque l'image change d'emplacement, vous pouvez modifier son apparence afin que le mouvement semble naturel. Par exemple, si vous créez l'image d'une créature et la déplacez, vous pouvez modifier l'image afin que la créature parais marcher.\n\nLes interactions physiques avec l'image révèlent son caractère illusoire, puisque les choses passent au travers. Une créature qui utilise son action pour examiner l'image peut déterminer si elle illusoire en réussissant un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sorts. Si la créature discerne l'illusion pour ce qu'elle est, la créature peut voir à travers l'image.\n",
+        "path": "01/Image Silencieuse"
     },
     "Communication avec les Animaux": {
         "level": "1",
@@ -9302,7 +9346,7 @@
             "Paladin",
             "Martyr"
         ],
-        "description": "Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit effectuer un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle effectue contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.\n\nLe sort se termine si vous attaquez une autre créature, si vous lancez un sort qui cible une créature hostile autre que la cible, si une créature alliée inflige des dégâts à la cible ou lui lance un sort malfaisant, ou si vous terminez votre tour à plus de 30 ft. de la cible.\n",
+        "description": "Vous tentez d'attirer une créature dans un duel. Une créature que vous pouvez voir à portée doit effectuer un jet de sauvegarde de Sagesse. Si elle rate, la créature est attirée vers vous, se sentant obligée par votre demande divine. Pendant la durée du sort, elle a le désavantage aux jets d'attaque qu'elle effectue contre les créatures autres que vous, et doit réussir un jet de sauvegarde de Sagesse à chaque fois qu'elle essaye de se déplacer vers un emplacement à plus de 30 ft. de vous. Si elle réussit, le sort ne gêne plus son déplacement pour ce tour.\n\nLe sort se termine si vous attaquez une autre créature, si vous lancez un sort qui cible une créature hostile autre que la cible, si une créature alliée inflige des dégâts à la cible ou lui lance un sort néfaste, ou si vous terminez votre tour à plus de 30 ft. de la cible.\n",
         "path": "01/Duel Forcé"
     },
     "Exhumation": {
@@ -9435,6 +9479,30 @@
         ],
         "description": "Un bouclier scintillant apparaît et encercle une créature de votre choix à portée, lui conférant un bonus de +2 à la CA pendant la durée du sort.\n",
         "path": "01/Bouclier de Foi"
+    },
+    "Éclair de Sorcière": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une branche d'un arbre frappé par la foudre",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Witch Bolt",
+        "writing_status": "finished",
+        "available": [
+            "Nécromancien",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Un faisceau d'énergie bleue crépitante s'élance vers une créature à portée, formant ainsi un arc électrique entre vous et la cible. Réalisez une attaque de sort à distance contre la créature. Si vous touchez, la cible subit 1d12 dégâts de foudre et, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement 1d12 dégâts de foudre. Le sort se termine si vous utilisez votre action pour faire quoi que ce soit d'autre. Le sort se termine également si la cible se trouve en dehors de la portée ou si elle dispose d'une couverture totale contre vous.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts initiaux augmentent de 1d12 par niveau d'emplacement au-delà du niveau 1.\n",
+        "path": "01/Éclair de Sorcière"
     },
     "Éclair de Chaos": {
         "level": "1",
