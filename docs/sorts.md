@@ -69,7 +69,7 @@ spells: "true"
 | Catnap                               | [[Sieste]]                                |
 | Cause Fear                           | [[Frayeur]]                               |
 | Ceremony                             | [[Cérémonie]]                             |
-| Chain Lightning                      | [[Chaîne d'éclairs]]                      |
+| Chain Lightning                      | [[Chaîne d'Éclairs]]                      |
 | Chaos Bolt                           | [[Éclair de Chaos]]                       |
 | Charm Monster                        | [[Charme-monstre]]                        |
 | Charm Person                         | [[Charme-personne]]                       |
