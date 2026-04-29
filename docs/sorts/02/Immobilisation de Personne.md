@@ -1,13 +1,13 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Sorcière
-  - Martyr
+ - Barde
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Sorcière
+ - Martyr
 level: 2
 school: Enchantement
 Verbal: true
@@ -20,7 +20,7 @@ Portee: 60 ft.
 Concentration: true
 Rituel: false
 englishname: Hold Person
-writing_status: empty
+writing_status: finished
 ---
 Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.
 

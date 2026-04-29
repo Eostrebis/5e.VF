@@ -5,7 +5,7 @@ Se tenant aux confins des ténèbres, les détectives suivent les indices et dé
 
 ## Intuition de l'Investigateur
 
-À partir du moment où vous choisissez cette spécialisation au niveau 3, vous pouvez comprendre même les plus complexes des mystères. Si vous passez au moins 10 minutes à parcourir des documents et organiser des indices, vous pouvez réaliser un jet d'Intelligence lié à ces documents et indices avec l'avantage.
+À partir du moment où vous choisissez cette spécialisation au niveau 3, vous pouvez comprendre même les plus complexes des mystères. Si vous passez au moins 10 minutes à parcourir des documents et organiser des indices, vous pouvez effectuer un jet d'Intelligence lié à ces documents et indices avec l'avantage.
 
 ## Babioles
 
@@ -23,10 +23,10 @@ Au niveau 6, vous pouvez utiliser votre capacité à reconstituer les évènemen
 
 ## Instinct d'Interrogateur
 
-Au niveau 10, vous êtes si habitué à démêler le vrai du faux que vous pouvez ressentir l'intention derrière la voix d'une créature. Vous pouvez déterminer si une créature que vous entendez parler est [[charmé|charmée]], possédée ou enchantée et forcer à parler contre sa volonté, et vous avez l'avantage aux jets que vous réalisez pour déterminer si vous entendez un mensonge.
+Au niveau 10, vous êtes si habitué à démêler le vrai du faux que vous pouvez ressentir l'intention derrière la voix d'une créature. Vous pouvez déterminer si une créature que vous entendez parler est [[charmé|charmée]], possédée ou enchantée et forcer à parler contre sa volonté, et vous avez l'avantage aux jets que vous effectuez pour déterminer si vous entendez un mensonge.
 
 ## Pouvoir Déductif
 
-À partir du niveau 14, vous pouvez utiliser votre action pour examiner une créature que vous pouvez voir à 30 ft., remarquant tous les menus détails qui la concerne et réalisant une suite impressionnante de déduction logique. Pendant la prochaine minute, vous avez l'avantage aux jets d'Intelligence et de Charisme que vous réalisez pour interagir avec cette créature, et vous avez l'avantage aux jets d'attaque contre elle.
+À partir du niveau 14, vous pouvez utiliser votre action pour examiner une créature que vous pouvez voir à 30 ft., remarquant tous les menus détails qui la concerne et réalisant une suite impressionnante de déduction logique. Pendant la prochaine minute, vous avez l'avantage aux jets d'Intelligence et de Charisme que vous effectuez pour interagir avec cette créature, et vous avez l'avantage aux jets d'attaque contre elle.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.

@@ -1,9 +1,9 @@
 ---
 subrace: true
 choices:
-  - Drakéïde Chromatique
-  - Drakéïde Diamantin
-  - Drakéïde Métallique
+ - Drakéïde Chromatique
+ - Drakéïde Diamantin
+ - Drakéïde Métallique
 writing_status: finished
 ---
 ### Description
@@ -14,11 +14,11 @@ Les drakéïdes ressemble beaucoup à des dragons dressés sous forme d'humains,
 
 Chez certains clans, le sang d'un type particulier de dragon coule toujours fortement dans les veines. Ces drakéïdes se vantent souvent d'écailles qui correspondent plus étroitement à celles de leurs ancêtres – rouge vif, vert, bleu ou blanc, noir brillant, ou grisé or, argent, laiton, cuivre ou bronze. On sépare généralement les drakéïdes en trois sous-races : 
 
-| Sous-classe                                             | Description                                                      |
+| Sous-classe | Description |
 | ------------------------------------------------------- | ---------------------------------------------------------------- |
-| [[Drakéïde#Drakéïde chromatique\|Drakéïde Chromatique]] | Descendant des dragons chromatiques -- liés aux éléments         |
-| [[Drakéïde#Drakéïde diamantin\|Drakéïde Diamantin]]     | Descendant des dragons diamantins -- ont des pouvoirs psychiques |
-| [[Drakéïde#Drakéïde métallique\|Drakéïde Métallique]]   | Descendant des dragons métalliques -- ont des souffles puissants |
+| [[Drakéïde#Drakéïde chromatique\|Drakéïde Chromatique]] | Descendant des dragons chromatiques -- liés aux éléments |
+| [[Drakéïde#Drakéïde diamantin\|Drakéïde Diamantin]] | Descendant des dragons diamantins -- ont des pouvoirs psychiques |
+| [[Drakéïde#Drakéïde métallique\|Drakéïde Métallique]] | Descendant des dragons métalliques -- ont des souffles puissants |
 
 
 
@@ -33,7 +33,7 @@ Une envie perpétuelle d'amélioration reflète l'auto-suffisance de cette race.
 Même si tous les drakéïdes visent à être auto-suffisant, ils reconnaissent que de l'aide est parfois nécessaire. Néanmoins, le meilleur endroit pour se faire aider n'est autre que le clan. Si le clan lui-même a besoin d'aide, il se tourne vers d'autres clans avant d'aller quérir d'autres races ou les dieux.
 ### Langue
 
-Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils placent leur nom de clan d'abord comme marque d'honneur. Un surnom, ou _nom d'enfance_, est souvent utilisé par les membres d'une même famille. Ce nom peut rappeler un évènement ou être basé sur une habitude.
+Les drakéïdes disposent de noms personnels assignés à la naissance, mais ils placent leur nom de clan d'abord comme marque d'honneur. Un surnom, ou *nom d'enfance*, est souvent utilisé par les membres d'une même famille. Ce nom peut rappeler un évènement ou être basé sur une habitude.
 
 **Noms masculins :** Arjhan, Balasar, Bharash, Donaar, Ghesh, Heskan, Kriv, Medrash, Mehen, Nadarr, Pandjed, Patrin, Rhogar, Shamash, Shedinn, Tarhun, Torinn
 
@@ -61,22 +61,22 @@ Les drakéïdes avec un héritage chromatique revendiquent le pouvoir élémenta
 
 **Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour approximativement 115 kg. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft..
 
 **Ascendance chromatique.** Vous avez un ancêtre qui est un dragon chromatique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
 | Dragon | Type de dégâts |
 | ------ | -------------- |
-| Blanc  | Froid          |
-| Bleu   | Foudre         |
-| Noir   | Acide          |
-| Rouge  | Feu            |
-| Vert   | Poison         |
+| Blanc | Froid |
+| Bleu | Foudre |
+| Noir | Acide |
+| Rouge | Feu |
+| Vert | Poison |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. (9m par 1.5m/6 cases par 1 case). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans une ligne de 30 ft. par 5 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance chromatique.
+**Résistance Draconique.** Vous obtenez une résistance aux dégâts du type associé à votre ascendance chromatique.
 
 **Protection Chromatique.** À partir du niveau 5, vous pouvez dépenser une action pour canaliser votre énergie draconique afin de vous protéger. Pendant 1 minute, vous devenez immunisé aux dégâts du type associé à votre ascendance chromatique. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le refaire tant que vous n'avez pas fini un repos long.
 
@@ -97,24 +97,24 @@ Les drakéïdes diamantins sont héritiers des dragons diamantins, et se revendi
 
 **Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour approximativement 115 kg. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft..
 
 **Ascendance diamantine.** Vous avez un ancêtre qui est un dragon diamantin, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
-| Dragon    | Type de dégâts |
+| Dragon | Type de dégâts |
 | --------- | -------------- |
-| Améthyste | Force          |
-| Cristal   | Radiant        |
-| Saphir    | Tonnerre       |
-| Topaze    | Nécrotique     |
-| Émeraude  | Psychique      |
+| Améthyste | Force |
+| Cristal | Radiant |
+| Saphir | Tonnerre |
+| Topaze | Nécrotique |
+| Émeraude | Psychique |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance diamantine.
+**Résistance Draconique.** Vous obtenez une résistance aux dégâts du type associé à votre ascendance diamantine.
 
-**Esprit Psionique.** Vous pouvez envoyer des messages télépathiques à n'importe quelle créature que vous pouvez voir à moins de 30 ft. (9m/6 cases). Vous n'avez pas besoin d'avoir un langage en commun avec la créature pour qu'elle puisse comprendre les messages, mais elle doit pouvoir comprendre au moins un langage.
+**Esprit Psionique.** Vous pouvez envoyer des messages télépathiques à n'importe quelle créature que vous pouvez voir à moins de 30 ft. Vous n'avez pas besoin d'avoir un langage en commun avec la créature pour qu'elle puisse comprendre les messages, mais elle doit pouvoir comprendre au moins un langage.
 
 **Vol Diamantin.** À partir du niveau 5, vous pouvez utiliser une action bonus pour faire apparaître des ailes spectrales sur votre corps. Ces ailes persistent pendant 1 minute. Pendant cette durée, vous gagnez une vitesse de vol égale à votre vitesse de marche et pouvez planer. Une fois que vous avez utilisé ce trait, vous ne pouvez pas le refaire avant d'avoir fini un repos long.
 
@@ -135,26 +135,26 @@ Les drakéïdes avec un héritage métallique profitent de la ténacité des dra
 
 **Taille.** Les drakéïdes sont plus grands et plus lourds que des humains, culminant à bien plus d'1,80 m pour approximativement 115 kg. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
 **Ascendance métallique.** Vous avez un ancêtre qui est un dragon métallique, qui vous confère une capacité magique spéciale. Choisissez l'un des types de dragon de la table ci-dessous. Cela détermine le type de dégâts d'autres traits.
 
 | Dragon | Type de dégâts |
 | ------ | -------------- |
-| Argent | Froid          |
-| Bronze | Foudre         |
-| Cuivre | Acide          |
-| Laiton | Feu            |
-| Or     | Feu            |
+| Argent | Froid |
+| Bronze | Foudre |
+| Cuivre | Acide |
+| Laiton | Feu |
+| Or | Feu |
 
-**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature prend 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle prend la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
+**Souffle.** Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde de Dextérité (DD = 8 + CON mod. + Prof.). En cas d’échec, la créature subit 1d10 dégâts du type associé à votre ascendance chromatique. Sur une réussite, elle subit la moitié des dégâts. Ces dégâts augmentent de 1d10 quand vous arrivez au niveau 5 (2d10), 11 (3d10), et 17 (4d10).
 Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Résistance Draconique.** Vous avez la résistance aux dégâts du type associé à votre ascendance métallique.
+**Résistance Draconique.** Vous obtenez une résistance aux dégâts du type associé à votre ascendance métallique.
 
-**Souffle Métallique.** À partir du niveau 5, vous gagnez un second souffle. Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. (4.5m/3 cases). Chaque créature dans cette zone doit faire un jet de sauvegarde (DC = 8 + CON mod. + Prof.). À chaque utilisation du trait, choisissez un parmi :
+**Souffle Métallique.** À partir du niveau 5, vous gagnez un second souffle. Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde (DC = 8 + CON mod. + Prof.). À chaque utilisation du trait, choisissez un parmi :
  
  - *Souffle débilitant.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Constitution ou devenir [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
- - *Souffle répulsif.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Force ou être repoussée de 20 ft (6m/4 cases) et tomber à terre.
+ - *Souffle répulsif.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Force ou être repoussée de 20 ft. et tomber [[au sol]].
  
 Après avoir utilisé votre Souffle Métallique, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.

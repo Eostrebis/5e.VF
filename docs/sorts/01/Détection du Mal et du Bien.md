@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Martyr
-  - Nécromancien
-  - Clerc
-  - Paladin
+ - Investigateur
+ - Martyr
+ - Nécromancien
+ - Clerc
+ - Paladin
 level: 1
 school: Divination
 Verbal: true
@@ -17,7 +17,7 @@ Portee: Personnelle (rayon de 30 ft.)
 Concentration: true
 Rituel: false
 englishname: Detect Evil and Good
-writing_status: empty
+writing_status: finished
 ---
 Pendant la durée du sort, vous savez s'il y a une aberration, un céleste, un élémentaire, une fée, un fiélon ou un mort-vivant à 30 ft. de vous, ainsi que sa localisation. De même, vous savez s'il y a un emplacement ou objet à 30 ft. qui a été magiquement consacré ou désacralisé.
 

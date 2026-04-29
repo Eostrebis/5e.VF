@@ -31,4 +31,4 @@ Une fois que vous avez utilisé cette aptitude pour appeler une Bête aquatique,
 
 ## Verrou du Coquillage
 
-Au niveau 14, vous pouvez contenir vos ennemis dans une tombe aqueuse. Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez infliger 1d8 dégâts supplémentaires à la cible. De plus, vos attaques ignorent la résistance aux dégâts physiques non magiques, ignorent le seuil de dégâts des navires et leur infligent le double des dégâts.
+Au niveau 14, vous pouvez contenir vos ennemis dans une tombe aqueuse. Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez infliger 1d8 dégâts supplémentaires à la cible. De plus, vos attaques ignorent une résistance aux dégâts physiques non magiques, ignorent le seuil de dégâts des navires et leur infligent le double des dégâts.

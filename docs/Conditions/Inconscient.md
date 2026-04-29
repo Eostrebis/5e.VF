@@ -3,7 +3,7 @@ writing_status: empty
 ---
 <div class="warning" style='background-color:var(--bg); border-left: solid var(--title) 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="../../Illustrations/Conditions/Unconcious.png" style="width:20%;  float:right; padding:0.7em">
+<img src="../../Illustrations/Conditions/Unconcious.png" style="width:20%; float:right; padding:0.7em">
 
 Une créature <b>inconsciente</b> est <a href="../Incapacité">incapacitée</a>, ne peut pas parler ou bouger, et n'est pas consciente de son environnement.<br><br>
 La créature lâche tout ce qu'elle tient et tombe <a href="../Au Sol">au sol</a>.<br><br>

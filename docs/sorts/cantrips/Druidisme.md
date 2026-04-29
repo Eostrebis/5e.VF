@@ -1,6 +1,6 @@
 ---
 available:
-  - Druide
+ - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -13,7 +13,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Druidcraft
-writing_status: empty
+writing_status: finished
 ---
 En murmurant aux esprits de la nature, vous créez l'un des effets suivants à portée : 
 

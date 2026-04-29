@@ -29,6 +29,6 @@ Quelle que soit leur origine, les kenkus se trouvent principalement dans la Giso
 
 **Mémoire Kenku.** Grâce à votre mémoire formidable, vous maîtrisez deux compétences de votre choix.
 
-De plus, lorsque vous réalisez un jet de caractéristique en utilisant n'importe quelle compétence que vous maîtrisez, vous pouvez vous conférer l'avantage sur le jet avant de lancer le d20. Vous pouvez vous conférer ainsi l'avantage un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
+De plus, lorsque vous effectuez un jet de caractéristique en utilisant n'importe quelle compétence que vous maîtrisez, vous pouvez vous conférer l'avantage sur le jet avant de lancer le d20. Vous pouvez vous conférer ainsi l'avantage un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
 
 **Mimique.** Vous pouvez reproduire à la perfection n'importe quel son que vous avez entendu, y compris les voix. Une créature qui entend les sons que vous réalisez ne peut les discerner des vrais qu'en réussissant un jet de Sagesse (Perspicacité) contre un DD égal à 8 + votre bonus de maîtrise + votre modificateur de Charisme.

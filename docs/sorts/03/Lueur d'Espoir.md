@@ -1,6 +1,6 @@
 ---
 available:
-  - Clerc
+ - Clerc
 level: 3
 school: Abjuration
 Verbal: true
@@ -13,6 +13,6 @@ Portee: 30 ft.
 Concentration: true
 Rituel: false
 englishname: Beacon of Hope
-writing_status: empty
+writing_status: finished
 ---
 Ce sort restaure l'espoir et la vitalité. Choisissez n'importe quel nombre de créatures à portée. Pendant la durée de ce sort, chaque cible a l'avantage aux jets de sauvegarde de Sagesse et contre la mort, et regagne le maximum de points de vie pour chaque soin.

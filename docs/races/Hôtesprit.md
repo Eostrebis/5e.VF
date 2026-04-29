@@ -38,7 +38,7 @@ Même si leur corps ressemble à celui d'un fantôme — un peu translucide et s
 
 **Mouvement Immatériel.** Vous pouvez vous déplacer à travers les autres créatures comme sur du terrain difficile. Vous pouvez également bouger à travers des objets solides, mais votre forme partiellement matérielle ne peut traverser qu'un pied de pierre, quelques centimètres de métal, une fine couche de plomb ou 3 ft. de bois ou de terre.
 
-Si vous terminez votre mouvement en occupant le même emplacement qu'un objet solide ou qu'une créature, vous êtes immédiatement repoussés vers l'espace inoccupé le plus proche et prenez des dégâts de force égaux au double de nombre de pieds dont vous vous êtes déplacé.
+Si vous terminez votre mouvement en occupant le même emplacement qu'un objet solide ou qu'une créature, vous êtes immédiatement repoussés vers l'espace inoccupé le plus proche et subissez des dégâts de force égaux au double de nombre de pieds dont vous vous êtes déplacé.
 
 **Discours de l'Esprit.** Vous pouvez lancer le sort [[communication avec les morts]] sans dépenser d'emplacement de sorts ou de composantes matérielles. Une fois que vous avez lancé ce sort avec ce trait, vous pouvez poser au corps un nombre de questions égal à votre bonus de maîtrise et vous ne pouvez le relancer de cette façon jusqu'à ce que vous ayez terminé un repos long. Vous pouvez également lancer ce sort en utilisant un emplacement de sort du niveau adéquat.
 

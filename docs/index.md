@@ -1,12 +1,12 @@
 ---
 search:
-  exclude: true
+ exclude: true
 ---
 # Eostrebis
 
 ## Avancée de la Traduction
 
-**Classes.** 12/25 ![](https://geps.dev/progress/67)
+**Classes.** 12/25 ![](https://geps.dev/progress/69)
 
 > [!INFO]- Détails par classe
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
@@ -24,11 +24,11 @@ search:
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
 > - **Ligateur.** ![](https://geps.dev/progress/98) 
 > - **Mage de Guerre.** ![](https://geps.dev/progress/2) 
-> - **Magicien.** ![](https://geps.dev/progress/0) 
+> - **Magicien.** ![](https://geps.dev/progress/28) 
 > - **Martyr.** ![](https://geps.dev/progress/100) 
 > - **Moine.** ![](https://geps.dev/progress/100) 
 > - **Nécromancien.** ![](https://geps.dev/progress/100) 
-> - **Occultiste.** ![](https://geps.dev/progress/11) 
+> - **Occultiste.** ![](https://geps.dev/progress/46) 
 > - **Paladin.** ![](https://geps.dev/progress/100) 
 > - **Ranger.** ![](https://geps.dev/progress/33) 
 > - **Roublard.** ![](https://geps.dev/progress/33) 
@@ -61,6 +61,9 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
+**Nombre Total de Mots.** 392932 (soit ~ 1572 pages) (soit ~ 0.82 Seigneur des Anneaux)
+
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-09 10:37:55
+Mis à jour pour la dernière fois le 2026-04-17 23:01:23
+

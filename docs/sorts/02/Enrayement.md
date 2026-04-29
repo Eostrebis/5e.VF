@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Barde
-  - Sorcière
+ - Magicien
+ - Barde
+ - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -17,8 +17,8 @@ Rituel: false
 englishname: Jam Weapon
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir à portée attaque avec une arme à feu, vous pouvez enrayer son arme. L'attaque échoue, et l'arme à feu est enrayée. Une arme à feu enrayée ne peut pas être utilisée pour réaliser une attaque jusqu'à ce qu'une créature utilise son action pour la réparer.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez enrayer une arme à feu à portée supplémentaire par niveau d'emplacement au-delà du niveau 2.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous pouvez enrayer une arme à feu à portée supplémentaire par niveau d'emplacement au-delà du niveau 2.

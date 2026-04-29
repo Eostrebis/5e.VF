@@ -9,20 +9,20 @@ Beaucoup de guerriers s'imaginent que le rituel de médullerie n'est qu'une simp
 
 À partir du moment où vous choisissez cet archétype au niveau 3, vous pouvez vous faire pousser des plaques osseuses sur la peau. Tant que vous ne portez pas d'armure, cette armure naturelle vous prodigue une CA de base de 17 (votre modificateur de Dextérité n'affecte pas ce nombre). Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous confère une CA inférieure. Les bénéfices d'un bouclier s'appliquent normalement lorsque vous utilisez votre armure naturelle.
 
-De plus, lorsque vous prenez des dégâts contondants, perçants ou tranchants, vous pouvez utiliser votre réaction pour vous protéger du coup. Dépensez un Dé de Vie, lancez-le et réduisez les dégâts subis par le résultat obtenu.
+De plus, lorsque vous subissez des dégâts contondants, perforants ou tranchants, vous pouvez utiliser votre réaction pour vous protéger du coup. Dépensez un Dé de Vie, lancez-le et réduisez les dégâts subis par le résultat obtenu.
 
 | Niveau de Guerrier | Classe d'Armure |
 | ------------------ | --------------- |
-| 3                  | 17              |
-| 5                  | 18              |
-| 10                 | 19              |
-| 18                 | 20              |
+| 3 | 17 |
+| 5 | 18 |
+| 10 | 19 |
+| 18 | 20 |
 
 ## Lames Osseuses
 
 Également au niveau 3, vous pouvez extruder des lames faites de plaques osseuses de vos paumes ou poignets comme vous dégaineriez une arme. Ces armes d'os ont les statistiques d'une arme de votre choix parmi [[épée longue]], [[épée courte]] ou [[cimeterre]]. Vous ne pouvez pas être désarmé de ces armes. Vous pouvez rétracter ces armes comme vous rengaineriez une arme.
 
-À partir du niveau 7, vos lames sont considérées magiques vis-à-vis de la résistance et immunité aux attaques et dégâts non magiques. De plus, une fois par tour lorsque vous touchez une créature avec une arme osseuse, vous pouvez dépenser un Dé de Vie pour étendre votre os dans la cible. Ajoutez le Dé de Vie et votre modificateur de Constitution au jet de dégâts de l'arme.
+À partir du niveau 7, vos lames sont considérées magiques vis-à-vis d'une résistance et immunité aux attaques et dégâts non magiques. De plus, une fois par tour lorsque vous touchez une créature avec une arme osseuse, vous pouvez dépenser un Dé de Vie pour étendre votre os dans la cible. Ajoutez le Dé de Vie et votre modificateur de Constitution au jet de dégâts de l'arme.
 
 ## Constitution Solide
 
@@ -34,7 +34,7 @@ Au niveau 7, vos os et leurs moelles deviennent plus robustes, vous conférant u
 
 ## Ivoire Améliorée
 
-Au niveau 15, vos os sont durs comme l'acier et souples comme le cuivre. Lorsque vous dépensez un Dé de Vie pour utiliser votre aptitude [[#Ivoire Adamantine]] afin de réduire des dégâts ou [[#Lames Osseuses]] afin d'infliger des dégâts supplémentaires, vous pouvez dépenser deux Dés de Vie à la fois. Vous retirez le total des dégâts contondants, perçants et tranchants que vous subissez, ou vous ajoutez le total et votre modificateur de Constitution au jet d'attaque de l'arme.
+Au niveau 15, vos os sont durs comme l'acier et souples comme le cuivre. Lorsque vous dépensez un Dé de Vie pour utiliser votre aptitude [[#Ivoire Adamantine]] afin de réduire des dégâts ou [[#Lames Osseuses]] afin d'infliger des dégâts supplémentaires, vous pouvez dépenser deux Dés de Vie à la fois. Vous retirez le total des dégâts contondants, perforants et tranchants que vous subissez, ou vous ajoutez le total et votre modificateur de Constitution au jet d'attaque de l'arme.
 
 ## Maître d'Ostéo
 

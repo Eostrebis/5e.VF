@@ -5,13 +5,13 @@ Interdite dans la plupart des covents de sorcières, la magie du sang est centr�
 
 **Sorts de Magie de Sang.**
 
-| Niveau de Sort | Sorts                                                     |
+| Niveau de Sort | Sorts |
 | -------------- | --------------------------------------------------------- |
-| 1              | [[Représailles Infernales]], [[Malédiction du Vide]]      |
-| 2              | [[Flèche d'Acide]], [[Immobilisation de Personne]]        |
-| 3              | [[Malédiction de l’Œil Rouge]], [[Toucher du Vampire]]     |
-| 4              | [[Flétrissement]], [[Domination de Bête]]                 |
-| 5              | [[Domination de Personne]], [[Immobilisation de Monstre]] |
+| 1 | [[Représailles Infernales]], [[Malédiction du Vide]] |
+| 2 | [[Flèche d'Acide]], [[Immobilisation de Personne]] |
+| 3 | [[Malédiction de l’Œil Rouge]], [[Toucher du Vampire]] |
+| 4 | [[Flétrissement]], [[Domination de Bête]] |
+| 5 | [[Domination de Personne]], [[Immobilisation de Monstre]] |
 
 ## Maléfice : Malédiction Sanguine
 
@@ -31,7 +31,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Au niveau 6, vous pouvez apercevoir une aura rouge cramoisi autour de ceux proches de la mort. Même lorsque vous êtes dans de fortes ténèbres, vous pouvez détecter la localisation de chaque créature à 60 ft. de vous à qui il manque des points de vie. Ce sens peut pénétrer la plupart des barrières, mais est bloqué par 1 ft. de pierre, 1 pouce de métal, un peu de plomb, ou 3 ft. de bois ou de terre.
 
-De plus, vous avez l'avantage aux jets de caractéristiques que vous réalisez pour traquer une créature que vous ou votre familier avez blessée ces dernières 24 heures.
+De plus, vous avez l'avantage aux jets de caractéristiques que vous effectuez pour traquer une créature que vous ou votre familier avez blessée ces dernières 24 heures.
 
 ## Récupération Hématomantique
 

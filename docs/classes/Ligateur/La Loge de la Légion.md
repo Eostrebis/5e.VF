@@ -13,20 +13,20 @@ De plus, vous pouvez ajouter votre modificateur de Charisme aux dégâts que vou
 
 Au niveau 3, vous réalisez le potentiel caché de la myriade d'esprits qui sommeillent en vous. Chaque esprit mineur auquel vous êtes lié vous confère la capacité de lancer un cantrip, comme indiqué ci-dessous.
 
-| Esprit Mineur      | Cantrip               |
+| Esprit Mineur | Cantrip |
 | ------------------ | --------------------- |
-| [[Esprit de Lame]] | [[Coup au But]]       |
-| [[Frisson]]        | [[Rayon de Givre]]    |
-| [[Glitch]]         | [[Prestidigitation]]  |
-| [[Grue]]           | [[Aspersion d'Acide]] |
-| [[Hantise]]        | [[Chair de Poule]]    |
-| [[Lanterne]]       | [[Assistance]]        |
-| [[Étincelle]]      | [[Poigne Électrique]] |
-| [[Pierre]]         | [[Résistance]]        |
-| [[Étrange]]        | [[Message]]           |
-| [[Torchage]]       | [[Flamme]]            |
-| [[Totem]]          | [[Gourdin Magique]]   |
-| [[Pleurote]]       | [[Illusion Mineure]]  |
+| [[Esprit de Lame]] | [[Coup au But]] |
+| [[Frisson]] | [[Rayon de Givre]] |
+| [[Glitch]] | [[Prestidigitation]] |
+| [[Grue]] | [[Aspersion d'Acide]] |
+| [[Hantise]] | [[Chair de Poule]] |
+| [[Lanterne]] | [[Assistance]] |
+| [[Étincelle]] | [[Poigne Électrique]] |
+| [[Pierre]] | [[Résistance]] |
+| [[Étrange]] | [[Message]] |
+| [[Torchage]] | [[Flamme]] |
+| [[Totem]] | [[Gourdin Magique]] |
+| [[Pleurote]] | [[Illusion Mineure]] |
 
 ## Extinction d'Âme
 

@@ -1,10 +1,10 @@
 ---
 available:
-  - Paladin
-  - Barde
-  - Clerc
-  - Sorcière
-  - Magicien
+ - Paladin
+ - Barde
+ - Clerc
+ - Sorcière
+ - Magicien
 level: 1
 school: Abjuration
 Verbal: false
@@ -17,6 +17,6 @@ Portee: 10 ft.
 Concentration: false
 Rituel: false
 englishname: Shield
-writing_status: empty
+writing_status: finished
 ---
 Lorsqu'une créature non hostile à portée (ou vous) se fait attaquer, vous pouvez utiliser une réaction pour la protéger magiquement, lui conférant un bonus de +2 à la CA contre cette attaque.

@@ -1,8 +1,8 @@
 ---
 available:
-  - Nécromancien
-  - Clerc
-  - Magicien
+ - Nécromancien
+ - Clerc
+ - Magicien
 level: 8
 school: Abjuration
 Verbal: true
@@ -15,7 +15,7 @@ Portee: Personnelle (rayon de 10 ft.)
 Concentration: true
 Rituel: false
 englishname: Antimagic Field
-writing_status: empty
+writing_status: finished
 ---
 Une sphère d'antimagie invisible d'un rayon de 10 ft. apparaît autour de vous. Cette zone est séparée de l'énergie magique qui infuse le multivers. À l'intérieur de cette sphère, aucun sort ne peut être lancé, les créature invoquées disparaissent, et même les objets magiques cessent de fonctionner. Jusqu'à ce que le sort se termine, la sphère se déplace pour vous garder en son centre.
 

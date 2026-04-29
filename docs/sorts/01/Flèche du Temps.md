@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Ranger
+ - Magicien
+ - Ranger
 level: 1
 school: Transmutation
 Verbal: true
@@ -10,13 +10,13 @@ Materiel: true
 detailmat: Un projectile physique pesant moins de 500 g
 Duree: 1 Heure
 Incantation: 1 Action
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: true
 englishname: Time's Arrow
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 ---
 Ce sort enchante un projectile de tel sort qu'il se gèle dans l'espace-temps. Vous pouvez repositionner le projectile dans l'action permettant de lancer le sort. 
 

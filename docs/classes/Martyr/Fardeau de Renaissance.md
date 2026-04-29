@@ -7,13 +7,13 @@ Lorsque le monde naturel se trouve menacé par les besoins des industries en cro
 
 Vous gagnez les sorts de fardeau suivants aux niveaux renseignés. 
 
-| Niveau de Martyr | Sorts                                                       |
+| Niveau de Martyr | Sorts |
 | ---------------- | ----------------------------------------------------------- |
-| 3                | [[Enchevêtrement]], [[Baies Nourricières]]                  |
-| 5                | [[Passage sans trace]], [[croissance d'épines]]             |
-| 9                | [[Croissance végétale]], [[communication avec les plantes]] |
-| 13               | [[Invocation d'êtres sylvains]], [[terrain hallucinatoire]] |
-| 17               | [[Éveil]], [[réincarnation]]                                |
+| 3 | [[Enchevêtrement]], [[Baies Nourricières]] |
+| 5 | [[Passage sans trace]], [[croissance d'épines]] |
+| 9 | [[Croissance végétale]], [[communication avec les plantes]] |
+| 13 | [[Invocation d'êtres sylvains]], [[terrain hallucinatoire]] |
+| 17 | [[Éveil]], [[réincarnation]] |
 
 ## Cantrips
 
@@ -21,7 +21,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Ami de la forêt
 
-Également au niveau 1, vous pouvez lancer le sort [[communication avec les animaux]] sans avoir à perdre des points de vie pour le lancer. Lorsque vous le faites, vous avez l'avantage aux jets de Charisme dirigé sur les Bêtes pour la durée du sort.
+Également au niveau 1, vous pouvez lancer le sort [[communication avec les animaux]] sans avoir à perdre des points de vie pour le lancer. Lorsque vous le faites, vous avez l'avantage aux jets de Charisme dirigé sur les Bêtes pendant la durée du sort.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
@@ -31,7 +31,7 @@ Au niveau 6, lorsque vous lancez un de vos sorts de fardeau ou un sort qui a pou
 
 ## Résistance Verdoyante
 
-À partir du niveau 14, pour une action bonus pendant votre tour, vous pouvez entrer dans un état de régénération naturelle. Lorsque vous le faites, et à nouveau au début de votre tour pendant 1 minute, vous regagnez un nombre de points de vie égal à votre modificateur de Sagesse. Aussi, pendant cette durée, vous avez la résistance aux dégâts contondants, perçants et tranchants, et vous ne pouvez pas lancer de sorts de martyr. Vous pouvez utiliser votre action bonus pour terminer cet effet prématurément.
+À partir du niveau 14, pour une action bonus pendant votre tour, vous pouvez entrer dans un état de régénération naturelle. Lorsque vous le faites, et à nouveau au début de votre tour pendant 1 minute, vous regagnez un nombre de points de vie égal à votre modificateur de Sagesse. Aussi, pendant cette durée, vous obtenez une résistance aux dégâts contondants, perforants et tranchants, et vous ne pouvez pas lancer de sorts de martyr. Vous pouvez utiliser votre action bonus pour terminer cet effet prématurément.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
@@ -39,4 +39,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 À compter du niveau 18, vous pouvez lancer le sort [[réincarnation]] sans avoir à dépenser de composantes matérielles ou perdre des points de vie. Lorsque que vous le faites, vous pouvez choisir la race dans laquelle la cible se réincarnera plutôt que de laisser le MJ la déterminer.
 
-Si vous mourez sans utiliser votre _Véritable Martyr_, vous revenez à la vie 24 heures après votre mort comme si vous étiez la cible du sort [[réincarnation]]. Vous pouvez choisir la race dans laquelle vous vous réincarnez plutôt que de laisser le MJ la déterminer. Une fois que vous êtes revenu à la vie de cette manière, vous ne pouvez pas le refaire pendant 10 jours.
+Si vous mourez sans utiliser votre *Véritable Martyr*, vous revenez à la vie 24 heures après votre mort comme si vous étiez la cible du sort [[réincarnation]]. Vous pouvez choisir la race dans laquelle vous vous réincarnez plutôt que de laisser le MJ la déterminer. Une fois que vous êtes revenu à la vie de cette manière, vous ne pouvez pas le refaire pendant 10 jours.

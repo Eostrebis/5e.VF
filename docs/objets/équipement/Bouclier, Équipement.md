@@ -9,4 +9,4 @@ Un bouclier est fait de bois ou de métal et peut être porté avec une main. Vo
 
 | Classe d'Armure | Force | Discrétion |
 |:---------------:|:-----:|:---------- :|
-| +2               | --    | --           |
+| +2 | -- | -- |

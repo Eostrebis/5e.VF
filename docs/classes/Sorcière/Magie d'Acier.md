@@ -24,7 +24,7 @@ Lorsque vous choisissez cet art au niveau 3, vous maîtrisez toutes les [[Armes 
 
  - Votre CA devient 12 + votre modificateur de Dextérité + votre modificateur de Charisme tant que vous ne portez pas de bouclier.
  - Lorsque vous réalisez une attaque avec une arme de mêlée qui n'a pas les propriétés Lourde ou Spéciale, vous pouvez utiliser votre modificateur de Charisme pour les jets d'attaque et de dégâts.
- - Lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
+ - Lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature.
 
 ## Tueur Ricanant
 

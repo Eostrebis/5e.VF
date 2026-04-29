@@ -5,6 +5,6 @@ poids: 10
 englishname: Greatclub
 writing_status: finished
 ---
-| Dégâts          | Propriétés   |
+| Dégâts | Propriétés |
 | --------------- | ------------ |
 | 1d8 contondants | À deux mains |

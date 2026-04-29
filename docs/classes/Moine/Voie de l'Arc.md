@@ -5,7 +5,7 @@ Les moines qui suivent la Voie de l'Arc trouvent la paix intérieure dans la tra
 
 ## Style de combat : Archerie
 
-À partir du moment où vous sélectionnez cette tradition au niveau 3, vous gagnez un bonus de +2 aux jets d'attaques que vous réalisez avec des armes à distance. Vous ne pouvez pas choisir un style de combat plus d'une fois, même si vous en avez à nouveau la possibilité.
+À partir du moment où vous sélectionnez cette tradition au niveau 3, vous gagnez un bonus de +2 aux jets d'attaques que vous effectuez avec des armes à distance. Vous ne pouvez pas choisir un style de combat plus d'une fois, même si vous en avez à nouveau la possibilité.
 
 ## Arts Archers
 
@@ -19,11 +19,11 @@ Immédiatement après avoir utilisé votre action pour attaquer avec une arme à
 
 ### Flèche d'Âme
 
-Lorsque vous prenez l'action d'attaquer avec une arme à distance pendant votre tour, vous pouvez dépenser 1 point de ki pour tirer une flèche d'âme pour votre première attaque. Une flèche d'âme est une munition normale qui ignore les couvertures partielles et inflige des dégâts supplémentaires égaux à votre modificateur de Sagesse. Tirer une flèche d'âme ne consomme pas de munitions.
+Lorsque vous entreprenez l'action d'Attaquer avec une arme à distance pendant votre tour, vous pouvez dépenser 1 point de ki pour tirer une flèche d'âme pour votre première attaque. Une flèche d'âme est une munition normale qui ignore les couvertures partielles et inflige des dégâts supplémentaires égaux à votre modificateur de Sagesse. Tirer une flèche d'âme ne consomme pas de munitions.
 
 ## Tir Interceptant
 
-À partir du niveau 6, lorsqu'une créature que vous voyez réalise une attaque contre vous, vous pouvez utiliser votre réaction pour réaliser un jet d'attaque à distance pour intercepter cette attaque. Si le résultat de votre jet est supérieur au jet de l'attaquant, vous pouvez réduire le jet d'attaque vous ciblant de 5, pour un minimum de 1. 
+À partir du niveau 6, lorsqu'une créature que vous voyez réalise une attaque contre vous, vous pouvez utiliser votre réaction pour effectuer un jet d'attaque à distance pour intercepter cette attaque. Si le résultat de votre jet est supérieur au jet de l'attaquant, vous pouvez réduire le jet d'attaque vous ciblant de 5, pour un minimum de 1. 
 
 
 ## Tranquillité du Vent

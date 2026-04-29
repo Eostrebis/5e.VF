@@ -7,13 +7,13 @@ Peu d'ambitions accaparent autant l'imagination que celle d'obtenir le pouvoir d
 
 Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supplémentaires comme indiqué dans la table ci-dessous. Chacun de ces sorts est considéré comme un sort de nécromancien mais sans compter dans le nombre de sorts que vous connaissez. 
 
-| Niveau de Sort | Sorts                                                     |
+| Niveau de Sort | Sorts |
 | -------------- | --------------------------------------------------------- |
-| 1              | [[Fléau]], [[injonction]]                                 |
-| 2              | [[Détection des pensées]], [[immobilisation de personne]] |
-| 3              | [[Célérité]], [[lenteur]]                                 |
-| 4              | [[Compulsion]], [[confusion]]                             |
-| 5              | [[Domination de personne]], [[quête]]                     |
+| 1 | [[Fléau]], [[injonction]] |
+| 2 | [[Détection des pensées]], [[immobilisation de personne]] |
+| 3 | [[Célérité]], [[lenteur]] |
+| 4 | [[Compulsion]], [[confusion]] |
+| 5 | [[Domination de personne]], [[quête]] |
 
 ## Don Charnel
 
@@ -39,6 +39,6 @@ Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes tran
 
 Une fois que vous possédez un corps, vous le contrôlez. Vos statistiques de jeu sont remplacées par celles de la créature, mais vous conservez votre alignement ainsi que vos scores d'Intelligence, de Sagesse et de Charisme. Si le corps a 0 point de vie lorsque vous le possédez, son type devient Mort-Vivant et il regagne 50 points de vie, jusqu'à son maximum de points de vie. Vous conservez les effets de vos aptitudes de classe. Si la cible possède des niveaux de classe, vous ne pouvez pas utiliser ses aptitudes de classe.
 
-Si vous possédez le corps d'une créature inconsciente, la créature réalise un jet de sauvegarde de Charisme toutes les 8 heures jusqu'à ce que l'effet se termine. Sur une réussite, vous êtes éjecté du corps et entamez la reformation à proximité de votre phylactère. Vous êtes également éjecté si le corps meurt ou si vous choisissez de le quitter pour une action. Une fois que vous avez possédé une créature de cette façon, vous ne pouvez pas le refaire sur la même créature en utilisant cette aptitude.
+Si vous possédez le corps d'une créature inconsciente, la créature effectue un jet de sauvegarde de Charisme toutes les 8 heures jusqu'à ce que l'effet se termine. Sur une réussite, vous êtes éjecté du corps et entamez la reformation à proximité de votre phylactère. Vous êtes également éjecté si le corps meurt ou si vous choisissez de le quitter pour une action. Une fois que vous avez possédé une créature de cette façon, vous ne pouvez pas le refaire sur la même créature en utilisant cette aptitude.
 
 **Influence du Tyran.** Vous pouvez dépenser 25 points de votre réservoir de Toucher Charnel pour lancer le sort [[domination de bête]] sans dépenser d'emplacement de sort. Vous pouvez également dépenser 30 points pour lancer [[domination de personne]] ou 60 points pour lancer [[domination de monstre]] sans utiliser d'emplacement. 

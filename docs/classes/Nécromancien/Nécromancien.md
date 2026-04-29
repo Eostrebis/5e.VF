@@ -34,29 +34,29 @@ Vous pouvez créer un nécromancien rapidement en suivant ces suggestions. Comme
 
 ### Table du Nécromancien
 
-| **Le Nécromancien** |                   |                      |                                           |                 |              | Emplacements de Sorts |     |     |     |     |     |     |     |     |
+| **Le Nécromancien** | | | | | | Emplacements de Sorts | | | | | | | | |
 | ------------------- | ----------------- | -------------------- | ----------------------------------------- | --------------- | ------------ | --------------------- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Niveau              | Bonus de Maîtrise | FP Total des Thralls | Aptitudes                                 | Cantrips connus | Sorts Connus | Niveau 1              | 2   | 3   | 4   | 5   | 6   | 7   | 8   | 9   |
-| 1                   | +2                | --                   | [[#Incantation]], [[#Toucher Charnel]]    | 4               | 2            | 2                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 2                   | +2                | 1/4                  | [[#Thralls]], [[#Sac d'Os]]               | 4               | 3            | 3                     | --  | --  | --  | --  | --  | --  | --  | --  |
-| 3                   | +2                | 1/2                  | [[#Ambition Tombale]], [[#Arcane Noire]]  | 4               | 4            | 4                     | 2   | --  | --  | --  | --  | --  | --  | --  |
-| 4                   | +2                | 1/2                  | [[#Augmentation de Caractéristiques]]     | 5               | 5            | 4                     | 3   | --  | --  | --  | --  | --  | --  | --  |
-| 5                   | +3                | 1                    | [[#Incantation Critique]]                 | 5               | 6            | 4                     | 3   | 2   | --  | --  | --  | --  | --  | --  |
-| 6                   | +3                | 1                    | Aptitude de [[#Ambition Tombale]]         | 5               | 7            | 4                     | 3   | 3   | --  | --  | --  | --  | --  | --  |
-| 7                   | +3                | 1                    | [[#Présence Captivante]]                  | 5               | 8            | 4                     | 3   | 3   | 1   | --  | --  | --  | --  | --  |
-| 8                   | +3                | 1                    | [[#Augmentation de Caractéristiques]]     | 5               | 9            | 4                     | 3   | 3   | 2   | --  | --  | --  | --  | --  |
-| 9                   | +4                | 2                    | --                                        | 5               | 10           | 4                     | 3   | 3   | 3   | 1   | --  | --  | --  | --  |
-| 10                  | +4                | 2                    | Compétence de [[#Ambition Tombale]]       | 6               | 11           | 4                     | 3   | 3   | 3   | 2   | --  | --  | --  | --  |
-| 11                  | +4                | 2                    | --                                        | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 12                  | +4                | 2                    | [[#Augmentation de Caractéristiques]]     | 6               | 12           | 4                     | 3   | 3   | 3   | 2   | 1   | --  | --  | --  |
-| 13                  | +5                | 3                    | --                                        | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 14                  | +5                | 3                    | Amélioration de [[#Incantation Critique]] | 6               | 13           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | --  | --  |
-| 15                  | +5                | 3                    | --                                        | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 16                  | +5                | 3                    | [[#Augmentation de Caractéristiques]]     | 6               | 14           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | --  |
-| 17                  | +6                | 4                    | --                                        | 6               | 15           | 4                     | 3   | 3   | 3   | 2   | 1   | 1   | 1   | 1   |
-| 18                  | +6                | 4                    | [[#Servitude Immortelle]]                 | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 1   | 1   | 1   | 1   |
-| 19                  | +6                | 4                    | [[#Augmentation de Caractéristiques]]     | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 1   | 1   | 1   |
-| 20                  | +6                | 4                    | [[#Liche]]                                | 6               | 15           | 4                     | 3   | 3   | 3   | 3   | 2   | 2   | 1   | 1   |
+| Niveau | Bonus de Maîtrise | FP Total des Thralls | Aptitudes | Cantrips connus | Sorts Connus | Niveau 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+| 1 | +2 | -- | [[#Incantation]], [[#Toucher Charnel]] | 4 | 2 | 2 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 2 | +2 | 1/4 | [[#Thralls]], [[#Sac d'Os]] | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- | -- | -- |
+| 3 | +2 | 1/2 | [[#Ambition Tombale]], [[#Arcane Noire]] | 4 | 4 | 4 | 2 | -- | -- | -- | -- | -- | -- | -- |
+| 4 | +2 | 1/2 | [[#Augmentation de Caractéristiques]] | 5 | 5 | 4 | 3 | -- | -- | -- | -- | -- | -- | -- |
+| 5 | +3 | 1 | [[#Incantation Critique]] | 5 | 6 | 4 | 3 | 2 | -- | -- | -- | -- | -- | -- |
+| 6 | +3 | 1 | Aptitude de [[#Ambition Tombale]] | 5 | 7 | 4 | 3 | 3 | -- | -- | -- | -- | -- | -- |
+| 7 | +3 | 1 | [[#Présence Captivante]] | 5 | 8 | 4 | 3 | 3 | 1 | -- | -- | -- | -- | -- |
+| 8 | +3 | 1 | [[#Augmentation de Caractéristiques]] | 5 | 9 | 4 | 3 | 3 | 2 | -- | -- | -- | -- | -- |
+| 9 | +4 | 2 | -- | 5 | 10 | 4 | 3 | 3 | 3 | 1 | -- | -- | -- | -- |
+| 10 | +4 | 2 | Compétence de [[#Ambition Tombale]] | 6 | 11 | 4 | 3 | 3 | 3 | 2 | -- | -- | -- | -- |
+| 11 | +4 | 2 | -- | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 12 | +4 | 2 | [[#Augmentation de Caractéristiques]] | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | -- | -- | -- |
+| 13 | +5 | 3 | -- | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 14 | +5 | 3 | Amélioration de [[#Incantation Critique]] | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | -- | -- |
+| 15 | +5 | 3 | -- | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 16 | +5 | 3 | [[#Augmentation de Caractéristiques]] | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | -- |
+| 17 | +6 | 4 | -- | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18 | +6 | 4 | [[#Servitude Immortelle]] | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19 | +6 | 4 | [[#Augmentation de Caractéristiques]] | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20 | +6 | 4 | [[#Liche]] | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
 
 # Aptitudes de Classes
 
@@ -96,7 +96,7 @@ Votre connexion avec le plan des énergies négatives vous permet de lancer de p
 
 ### Cantrips (Sorts de niveau 0)
 
-Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du nécromancien. Aux niveaux supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la [[#table du Nécromancien]].
+Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts du nécromancien. Aux Niveaux Supérieurs, vous apprenez des cantrips additionnels comme indiqué dans la [[#table du Nécromancien]].
 
 ### Incantation de Sorts
 
@@ -132,7 +132,7 @@ Votre connexion avec le plan des énergies négatives vous confère un noyau int
 
 Pour une action, annoncez le nombre de points de ce réservoir que vous souhaitez dépenser, jusqu'à un maximum de 5 fois votre bonus de maîtrise et réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, vous dépensez le nombre de points que vous avez annoncé et infligez des dégâts nécrotiques égaux aux points dépensés. Si l'attaque rate, vous ne dépensez aucun point. Les dégâts infligés par votre Toucher Charnel sont doublés lorsque vous infligez un coup critique sans dépenser de points supplémentaires.
 
-Cette attaque n'inflige aucun dégât aux Constructions et soigne les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à réaliser de jet d'attaque de sort.
+Cette attaque n'inflige aucun dégât aux Constructions et soigne les Morts-Vivants du nombre de points dépensés. Vous pouvez cibler une créature consentante avec cette capacité sans avoir à effectuer de jet d'attaque de sort.
 
 ## Thralls
 
@@ -166,24 +166,24 @@ Comme toujours, vous ne pouvez pas réanimer un Mort-Vivant dont les points de v
 
 ## Sac d'Os
 
-Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un _sac d'os_. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces inoccupés à 5 ft.
+Également au niveau 2, vous apprenez à créer un objet magique nécromantique : un *sac d'os*. Le sac est connecté à un vaste espace extradimensionnel qui n'est capable d'accueillir que des corps et os de taille M ou inférieure et des créatures Mortes-Vivantes ; il rejette violemment toute autre chose placée à l'intérieur. Vous pouvez utiliser une action pour y placer un corps ou une créature Morte-Vivante consentante, jusqu'à un maximum de 10 corps ou créatures. Vous pouvez également utiliser votre action pour déverser le contenu du sac, qui apparaît sur des espaces inoccupés à 5 ft.
 
-Vous pouvez transformer n'importe quel contenant que vous portez en _sac d'os_ en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau _sac d'os_. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous créiez un nouveau sac et ne le déversiez. 
+Vous pouvez transformer n'importe quel contenant que vous portez en *sac d'os* en réalisant un rituel spécial qui dure 1 heure pendant laquelle vous tenez l'objet. Le contenant cesse d'être magique si vous réalisez à nouveau ce rituel pour créer un nouveau *sac d'os*. Le contenant est toujours connecté au même espace extradimensionnel. Si le sac est placé à l'intérieur d'un espace extradimensionnel, comme un [[sac sans fond]], il est détruit. Son contenu reste dans l'espace extradimensionnel jusqu'à ce que vous créiez un nouveau sac et ne le déversiez. 
 
 ## Ambition Tombale
 
 Lorsque vous atteignez le niveau 3, vous choisissez un plan de recherche des arts sombres afin d'entrevoir une route vers votre objectif ultime. Choisissez une ambition tombale. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 20.
 
-| Ambition Tombale         | Description                                                                                           |
+| Ambition Tombale | Description |
 | ------------------------ | ----------------------------------------------------------------------------------------------------- |
-| [[Descendant du Sang]]   | Au pouvoir de sang vampirique, sans la myriade de faiblesses vampiriques                              |
+| [[Descendant du Sang]] | Au pouvoir de sang vampirique, sans la myriade de faiblesses vampiriques |
 | [[Chevalier de la Mort]] | Protégé dans son armure, un terrible guerrier brandissant les énergies sombres et les armes martiales |
-| [[Seigneur Suprême]]     | Un manipulateur sinistre soutenu par de puissants alliés                                              |
-| [[Maître Pâle]]          | Porte importance à la forme la plus pure de nécromancie et brandit des sorts dévastateurs             |
-| [[Pharaon]]              | Un souvenir des anciens dieux-rois, autant un prêtre qu'un nécromancien                               |
-| [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs                        |
-| [[Réanimateur]]          | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants                  |
-| [[Faucheur]]             | Une ombre furtive de mort, qui annonce et apporte les disparitions                                    |
+| [[Seigneur Suprême]] | Un manipulateur sinistre soutenu par de puissants alliés |
+| [[Maître Pâle]] | Porte importance à la forme la plus pure de nécromancie et brandit des sorts dévastateurs |
+| [[Pharaon]] | Un souvenir des anciens dieux-rois, autant un prêtre qu'un nécromancien |
+| [[Seigneur de la Peste]] | Un porteur de maladie nécromantique qui commande de viles et larges serviteurs |
+| [[Réanimateur]] | Un scientifique fou qui reforme comme il peut de nouveaux et terribles morts-vivants |
+| [[Faucheur]] | Une ombre furtive de mort, qui annonce et apporte les disparitions |
 
 ## Arcane Noire
 
@@ -199,7 +199,7 @@ Au niveau 5, vos puissants pouvoirs nécromants punissent vos ennemis au premier
 
 De plus, vos jets d'attaque de sort infligent des coups critiques sur un 19 ou un 20.
 
-À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et prend des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort réalisent un coup critique sur un jet de 18, 19 ou 20.
+À partir du niveau 14, une créature rate automatiquement son jet de sauvegarde contre votre sort et subit des dégâts supplémentaires si elle obtient un 1 ou un 2 au dé. De plus, vos jets d'attaque de sort effectuent un coup critique sur un jet de 18, 19 ou 20.
 
 ## Présence Captivante
 

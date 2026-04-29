@@ -5,13 +5,13 @@ Vos pouvoirs divins viennent d'un dieu fou, un être de paranoïa, de chaos et d
 
 **Sorts du Domaine Arcanique**
 
-| Niveau de Clerc | Sorts                                            |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------ |
-| 1               | [[Fou Rire]], [[image silencieuse]]              |
-| 3               | [[Cécité ou Surdité]], [[Détection des Pensées]] |
-| 5               | [[Clairvoyance]], [[Trame Hypnotique]]           |
-| 7               | [[Confusion]], [[terrain hallucinatoire]]        |
-| 9               | [[Songe]], [[Modification de Mémoire]]        |
+| 1 | [[Fou Rire]], [[image silencieuse]] |
+| 3 | [[Cécité ou Surdité]], [[Détection des Pensées]] |
+| 5 | [[Clairvoyance]], [[Trame Hypnotique]] |
+| 7 | [[Confusion]], [[terrain hallucinatoire]] |
+| 9 | [[Songe]], [[Modification de Mémoire]] |
 
 ## Apprenti Dérangé
 
@@ -19,22 +19,22 @@ Lorsque vous choisissez ce domaine au niveau 1, vous apprenez un cantrip aléato
 
 ## Instinct du Lunatique
 
-Au niveau 1, à chaque fois que vous réalisez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre perspicacité unique vous permet de remarquer des liens… qui n'existent peut-être pas. Si le résultat sur le d20 pour le jet est pair, vous ajoutez votre bonus de maîtrise au jet.
+Au niveau 1, à chaque fois que vous effectuez un jet de caractéristique qui n'inclut pas votre bonus de maîtrise, votre perspicacité unique vous permet de remarquer des liens… qui n'existent peut-être pas. Si le résultat sur le d20 pour le jet est pair, vous ajoutez votre bonus de maîtrise au jet.
 
 ## Canal Divin : Folie Temporaire
 
-À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle prend des dégâts.
+À partir du niveau 2, vous pouvez utiliser votre action pour forcer une créature à 60 ft. à réussir un jet de sauvegarde de Sagesse ou tomber dans une folie pour la prochaine minute. Lancez sur la table suivante pour déterminer les effets de cette folie sur la créature. Une créature qui est frénétique par ce biais peut répéter le jet de sauvegarde à chaque fois qu'elle subit des dégâts.
 
-| d20   | Effet                                                                                                                                                                                                                                                                                                           |
+| d20 | Effet |
 | :---: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1-5   | **Aphasie.** La créature ne peut pas parler et est incapable de lancer des sorts ou de comprendre les autres.                                                                                                                                                                                                   |
-| 6-10  | **Delusion.** La créature souffre d'hallucinations réalistes. Lorsque qu'elle attaque ou cible une créature avec un sort ou un effet, lancez un d20. Si le résultat est impair, l'attaque rate, ou le sort ou l'effet échoue.                                                                                   |
+| 1-5 | **Aphasie.** La créature ne peut pas parler et est incapable de lancer des sorts ou de comprendre les autres. |
+| 6-10 | **Delusion.** La créature souffre d'hallucinations réalistes. Lorsque qu'elle attaque ou cible une créature avec un sort ou un effet, lancez un d20. Si le résultat est impair, l'attaque rate, ou le sort ou l'effet échoue. |
 | 11-15 | **Frénésie.** La créature devient frénétique. Une créature frénétique perd sa capacité de distinguer ennemis et alliés. Tant qu'elle est frénétique, la créature choisit la cible de ses effets parmi toutes celles à portée, et elle doit réaliser une attaque d'opportunité si une créature en déclenche une. |
-| 16-20 | **Vertige.** La créature tombe [[au sol]] au début de chacun de ses tours si elle ne se tient pas à quelque chose.                                                                                                                                                                                              |
+| 16-20 | **Vertige.** La créature tombe [[au sol]] au début de chacun de ses tours si elle ne se tient pas à quelque chose. |
 
 ## Esprit Fragmenté
 
-Au niveau 6, votre esprit brisé est difficile à influencer. Vous avez l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer la condition [[charmé]] ou [[apeuré]] sur vous-même, et aux jets de sauvegarde contre les effets qui devraient détecter vos émotions ou lire vos pensées. Si vous passez 10 minutes à discuter avec une autre créature, vous pouvez lui conférer cet effet pour 1 heure, alors qu'elle succombe à votre chemin de pensée tortueux.
+Au niveau 6, votre esprit brisé est difficile à influencer. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer la condition [[charmé]] ou [[apeuré]] sur vous-même, et aux jets de sauvegarde contre les effets qui devraient détecter vos émotions ou lire vos pensées. Si vous passez 10 minutes à discuter avec une autre créature, vous pouvez lui conférer cet effet pendant 1 heure, alors qu'elle succombe à votre chemin de pensée tortueux.
 
 ## Incantation Puissante
 

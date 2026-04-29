@@ -28,13 +28,13 @@ L'immensité infinie du Multivers recèle des puissances anciennes et mystérieu
 
 L'Archive vous permet de choisir parmi une liste étendue de sorts lorsque vous apprenez un sort d'occultiste.
 
-| Niveau de Sort | Sorts                                           |
+| Niveau de Sort | Sorts |
 | -------------- | ----------------------------------------------- |
-| 1              | [[Identification]], [[mémorisation]]            |
-| 2              | [[Zone de vérité]], [[détection des pensées]]   |
-| 3              | [[Beauté fantasmagorique]], [[don des langues]] |
-| 4              | [[Localisation de créature]], [[divination]]    |
-| 5              | [[Mythes et légendes]], [[apparence trompeuse]] |
+| 1 | [[Identification]], [[mémorisation]] |
+| 2 | [[Zone de vérité]], [[détection des pensées]] |
+| 3 | [[Beauté fantasmagorique]], [[don des langues]] |
+| 4 | [[Localisation de créature]], [[divination]] |
+| 5 | [[Mythes et légendes]], [[apparence trompeuse]] |
 
 ## Indexation Universelle
 

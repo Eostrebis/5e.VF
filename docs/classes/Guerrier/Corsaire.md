@@ -17,7 +17,7 @@ Le montant des dégâts supplémentaires augmente lorsque vous obtenez des nivea
 
 ## Réquisition
 
-Au niveau 3, vous pouvez remplacer l'une de vos attaques par une tentative de voler un objet porté par une autre créature. Vous ne pouvez pas voler d'objet enfilé, comme des vêtements ou une armure, ni d'objet tenu en main. Réalisez un jet de Dextérité (Escamotage), challengé par la CA de la cible. Si vous réussissez, volez l'objet. Vous devez avoir une main libre pour utiliser cette aptitude.
+Au niveau 3, vous pouvez remplacer l'une de vos attaques par une tentative de voler un objet porté par une autre créature. Vous ne pouvez pas voler d'objet enfilé, comme des vêtements ou une armure, ni d'objet tenu en main. Effectuez un jet de Dextérité (Escamotage), challengé par la CA de la cible. Si vous réussissez, volez l'objet. Vous devez avoir une main libre pour utiliser cette aptitude.
 
 ## Trois Voiles
 
@@ -35,5 +35,5 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez plus l'utiliser j
 
 ## Épéiste Intouchable 
 
-Au niveau 18, vous avez une maîtrise hors norme du sabre. Lorsque vous touchez une créature avec votre Attaque Surprise, la cible a le désavantage aux jets d'attaque qu'elle réalise contre vous jusqu'au début de votre prochain tour.
+Au niveau 18, vous avez une maîtrise hors norme du sabre. Lorsque vous touchez une créature avec votre Attaque Surprise, la cible a le désavantage aux jets d'attaque qu'elle effectue contre vous jusqu'au début de votre prochain tour.
 

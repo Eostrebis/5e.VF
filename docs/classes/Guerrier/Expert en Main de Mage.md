@@ -10,7 +10,7 @@ Des lames virevoltant en formant de dramatiques arcs, propulsées par des mains 
  - Vous pouvez lancer et contrôler [[main de mage]] pour une action bonus.
  - Vous invoquez deux mains séparées et vous pouvez contrôler l'une, l'autre ou les deux lorsque vous utilisez le sort.
  - La durée du sort est infinie, ne terminant que lorsque vous êtes [[inconscient]] ou que vous choisissez de le terminer.
- - Vos [[main de mage|mains de mage]] sont plus fortes que la normale, capable de porter un poids combiné de $5\times$ votre niveau de guerrier en livres, et suffisamment dextres pour réaliser n'importe quel jet de caractéristique que vous feriez normalement avec vos mains.
+ - Vos [[main de mage|mains de mage]] sont plus fortes que la normale, capable de porter un poids combiné de $5\times$ votre niveau de guerrier en livres, et suffisamment dextres pour effectuer n'importe quel jet de caractéristique que vous feriez normalement avec vos mains.
 
 ## Mains de Combat
 
@@ -20,9 +20,9 @@ Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez
 
 ## Manœuvres Habiles
 
-À partir du niveau 7, vous pouvez utiliser vos mains de mage pour réaliser un nombre de manœuvres de combat, aussi appelées tours. Tant que vous ne maniez aucune arme, vous pouvez vos deux mains pour saisir ou pousser une créature. Lorsque vous le faites, vous ajoutez votre modificateur d'Intelligence au jet de Force (Athlétisme).
+À partir du niveau 7, vous pouvez utiliser vos mains de mage pour réaliser un nombre de manœuvres de combat, aussi appelées tours. Tant que vous ne maniez aucune arme, vous pouvez vos deux mains pour Saisir ou Pousser une créature. Lorsque vous le faites, vous ajoutez votre modificateur d'Intelligence au jet de Force (Athlétisme).
 
-De plus, vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec une de vos mains lorsqu'une créature quitte sa portée.
+De plus, vous pouvez utiliser votre réaction pour réaliser une attaque d'opportunité avec une de vos mains lorsqu'une créature quitte sa allonge.
 
 ## Main de Guerre
 

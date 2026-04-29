@@ -63,7 +63,7 @@ Les githzerai sont élancés avec une peau mouchetée aux teintes jaunes et marr
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Discipline Mentale.** Votre défense psychique innée vous confère l'avantage aux jets de sauvegarde que vous réalisez pour éviter ou terminer les conditions [[charmé]] et [[apeuré]] sur vous-même.
+**Discipline Mentale.** Votre défense psychique innée vous confère l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer les conditions [[charmé]] et [[apeuré]] sur vous-même.
 
 **Psionie Githzerai.** Vous connaissez le cantrip [[Main de Mage]] et la main est invisible lorsque vous lancez ce cantrip avec ce trait.
 

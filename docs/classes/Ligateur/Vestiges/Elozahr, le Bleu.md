@@ -11,18 +11,18 @@ Elozahr, le fondateur légendaire de l'école de l'Évocation, confère à ses l
 Tant que vous êtes lié à Elozahr, vous connaissez le cantrip [[Rayon de Givre]]. De plus, vous pouvez ajouter votre modificateur de Charisme aux dégâts que vous réalisez avec des sorts qui infligent des dégâts de froid.
 
 ## Arcane Cristalline
-Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, vous pouvez choisir un nombre de créatures de taille M inférieur ou égal à votre modificateur de Charisme afin qu'elles soient protégées des effets. Un cube de 5 ft. s'ouvre dans les effets du sort autour de chaque créature choisie. Ces créatures n'ont pas besoin de réaliser de jet de sauvegarde contre le sort. De plus, pour la durée du sort, ces créatures sont immunisées contre les effets du sort dans sa zone et ignorent les conditions, comme le terrain difficile, créées par le sort.
+Lorsque vous lancez un sort qui affecte une zone qui requiert la concentration, vous pouvez choisir un nombre de créatures de taille M inférieur ou égal à votre modificateur de Charisme afin qu'elles soient protégées des effets. Un cube de 5 ft. s'ouvre dans les effets du sort autour de chaque créature choisie. Ces créatures n'ont pas besoin d'effectuer de jet de sauvegarde contre le sort. De plus, pendant la durée du sort, ces créatures sont immunisées contre les effets du sort dans sa zone et ignorent les conditions, comme le terrain difficile, créées par le sort.
 
 ## Incantation : Cryomancie
 Tant que vous êtes lié à Elozahr, vous pouvez lancer les sorts suivants sans dépenser d'emplacement de sort ou de composantes matérielles :
 
-*2/jour chacun :* [[tempête de neige]]
-*1/jour chacun :* [[tempête de grêle]], [[cône de froid]]
+*2/jour chacun :* [[docs/sorts/03/Tempête de Grêle]]
+*1/jour chacun :* [[Tempête de Glace]], [[cône de froid]]
 
 Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
 ## Trait : Givre
-Tant que vous êtes lié à Elozahr, votre peau, ainsi que vos vêtements, armes et armures, sont recouverts d'un gel épais et votre respiration est visible, comme lors d'une nuit froide. Lorsque vous commencez à vous concentrer sur un sort, ce gel s'épaissit encore pour former de larges cristaux de glace sur votre corps. Tant que vous maintenez votre concentration, vous pouvez soustraire le niveau du sort à tous les dégâts que vous prenez. Les dégâts de feu ignorent cette aptitude.
+Tant que vous êtes lié à Elozahr, votre peau, ainsi que vos vêtements, armes et armures, sont recouverts d'un gel épais et votre respiration est visible, comme lors d'une nuit froide. Lorsque vous commencez à vous concentrer sur un sort, ce gel s'épaissit encore pour former de larges cristaux de glace sur votre corps. Tant que vous maintenez votre concentration, vous pouvez soustraire le niveau du sort à tous les dégâts que vous subissez. Les dégâts de feu ignorent cette aptitude.
 
 ## Trait de Personnalité
 Tant que vous êtes lié à ce vestige, vous obtenez le trait de personnalité suivant : "Je passe autant de temps que possible en pleine concentration, parlant lentement et méthodiquement… si je dois parler."
@@ -35,7 +35,7 @@ Tous les magiciens connaissent l'histoire de Évocatia et Elozahr, les mages au 
 
 Avant les écoles de magie, les lanceurs de sorts projetaient de l'énergie arcanique pure et difforme sous la forme de proto-sorts, dont les effets variaient du tout au tout. Avec le temps, les lanceurs de sorts les plus malins ont appris à dompter la magie, la canalisant dans des sorts avec un effet voulu et conscient.
 
-Évocatia la Rouge était l'une de ces lanceurs de sorts. Patient et réfléchi, Elozahr sculpta ses sorts dans la glace, créant d'abord le cantrip [[Rayon de Givre]] puis le sort [[tempête de grêle]]. Après des décennies de travail et l'assistance de son apprentie, Évocatia la Rouge, il perfectionna son œuvre, un sort si puissant que peu de mages pouvaient ne serait-ce que l'approcher : [[cône de froid]]. Il voyagea vers la tour brûlante de son apprentie afin de l'impressionner avec ce nouveau sort, mais découvrit aussitôt arrivé que le familier d'Évocatia n'était autre qu'un fiélon qui l'avait tentée avec le secret de la magie infernale. Choqué, Elozahr gela la tour et la réduisit en morceaux.
+Évocatia la Rouge était l'une de ces lanceurs de sorts. Patient et réfléchi, Elozahr sculpta ses sorts dans la glace, créant d'abord le cantrip [[Rayon de Givre]] puis le sort [[Tempête de Glace]]. Après des décennies de travail et l'assistance de son apprentie, Évocatia la Rouge, il perfectionna son œuvre, un sort si puissant que peu de mages pouvaient ne serait-ce que l'approcher : [[cône de froid]]. Il voyagea vers la tour brûlante de son apprentie afin de l'impressionner avec ce nouveau sort, mais découvrit aussitôt arrivé que le familier d'Évocatia n'était autre qu'un fiélon qui l'avait tentée avec le secret de la magie infernale. Choqué, Elozahr gela la tour et la réduisit en morceaux.
 
 Les deux magiciens travaillèrent alors en secret pour surpasser l'autre, chacun fondant ainsi les bases de son école de magie. Enfin, Elozahr et Évocatia se virent sur la plaine d'Armistal pour résoudre leurs différends. Mais Elozahr, voyant que son apprentie avait avec elle une [[épée ardente]] afin de l'éliminer une bonne fois pour toutes, frappa en premier avec une projection glacée.
 

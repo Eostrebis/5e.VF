@@ -5,13 +5,13 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 
 **Sorts du Domaine de la Tromperie**
 
-| Niveau de Clerc | Sorts                                                      |
+| Niveau de Clerc | Sorts |
 | --------------- | ---------------------------------------------------------- |
-| 1               | [[Charme-personne]], [[Déguisement]]                       |
-| 3               | [[Image miroir]], [[passage sans trace]]                   |
-| 5               | [[Clignotement]], [[Dissipation de la Magie]]              |
-| 7               | [[Porte dimensionnelle]], [[métamorphose]]                 |
-| 9               | [[Domination de personne]], [[Modification de Mémoire]] |
+| 1 | [[Charme-personne]], [[Déguisement]] |
+| 3 | [[Image miroir]], [[passage sans trace]] |
+| 5 | [[Clignotement]], [[Dissipation de la Magie]] |
+| 7 | [[Porte dimensionnelle]], [[métamorphose]] |
+| 9 | [[Domination de personne]], [[Modification de Mémoire]] |
 
 ## Bénédiction du Farceur
 
@@ -23,7 +23,7 @@ Les dieux de la Tromperie sont des fauteurs de troubles et des instigateurs qui 
 
 Pour une action, vous créez une parfaite illusion de vous qui dure 1 minute, ou jusqu'à ce que vous perdiez la concentration. L'illusion apparaît sur un espace inoccupé que vous pouvez voir à 30 ft. Pour une action bonus pendant votre tour, vous pouvez déplacer l'illusion de jusqu'à 30 ft. vers un espace que vous pouvez voir, mais elle doit rester à 120 ft. de vous.
 
-Pendant la durée du sort, vous pouvez lancer des sorts comme si vous vous trouviez à l'emplacement de l'illusion, mais vous devez utiliser vos propres sens. De plus, lorsque vous et l'illusion vous trouvez à 5 ft. d'une créature qui peut voir l'illusion, vous avez l'avantage aux jets d'attaque que vous réalisez contre cette créature.
+Pendant la durée du sort, vous pouvez lancer des sorts comme si vous vous trouviez à l'emplacement de l'illusion, mais vous devez utiliser vos propres sens. De plus, lorsque vous et l'illusion vous trouvez à 5 ft. d'une créature qui peut voir l'illusion, vous avez l'avantage aux jets d'attaque que vous effectuez contre cette créature.
 
 ## Canal Divin : Cape d'Ombre
 

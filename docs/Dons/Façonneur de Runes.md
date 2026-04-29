@@ -13,19 +13,19 @@ Vous pouvez également invoquer une rune inscrite sur un objet que vous maniez o
 
 À chaque fois que vous gagnez un niveau, vous pouvez remplacer l'une des runes que vous connaissez avec une autre.
 
-| Rune     | Sort                               |
+| Rune | Sort |
 | -------- | ---------------------------------- |
-| Nuage    | [[Brouillard]]                     |
-| Mort     | [[Blessure]]                       |
-| Dragon   | [[Orbe Chromatique]]               |
-| Ennemi   | [[Déguisement]]                    |
-| Feu      | [[Mains Brûlantes]]                |
-| Ami      | [[Communication avec les Animaux]] |
-| Froid    | [[Armure d'Agathys]]               |
-| Colline  | [[Baies Nourricières]]             |
-| Voyage   | [[Grandes Foulées]]                |
-| Roi      | [[Injonction]]                     |
-| Montagne | [[Enchevêtrement]]                 |
-| Pierre   | [[Sanctuaire]]                     |
-| Tempête  | [[Vague Tonnante]]                 |
+| Nuage | [[Brouillard]] |
+| Mort | [[Blessure]] |
+| Dragon | [[Orbe Chromatique]] |
+| Ennemi | [[Déguisement]] |
+| Feu | [[Mains Brûlantes]] |
+| Ami | [[Communication avec les Animaux]] |
+| Froid | [[Armure d'Agathys]] |
+| Colline | [[Baies Nourricières]] |
+| Voyage | [[Grandes Foulées]] |
+| Roi | [[Injonction]] |
+| Montagne | [[Enchevêtrement]] |
+| Pierre | [[Sanctuaire]] |
+| Tempête | [[Vague Tonnante]] |
 

@@ -6,6 +6,6 @@ englishname: Greatsword
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés           |
+| Dégâts | Propriétés |
 | -------------- | -------------------- |
 | 2d6 tranchants | Lourde, À deux mains |

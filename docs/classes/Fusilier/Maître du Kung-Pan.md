@@ -15,15 +15,15 @@ De plus, lorsque vous réalisez une attaque armée à distance avec une arme à 
 
 ## Désarmement Éclair
 
-À partir du niveau 7, si une créature à moins de 5 ft. de vous manie une arme à feu, vous pouvez utiliser votre action bonus et dépenser un dé de risque pour essayer de la désarmer. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de Fait. Si elle rate, vous lui prenez l'arme des mains après une rapide série de mouvements. Vous devez avoir au moins une main libre pour utiliser cette aptitude.
+À partir du niveau 7, si une créature à moins de 5 ft. de vous manie une arme à feu, vous pouvez utiliser votre action bonus et dépenser un dé de risque pour essayer de la désarmer. La cible doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de Fait. Si elle rate, vous lui prenez l'arme des mains après une rapide série de mouvements. Vous devez avoir au moins une main libre pour utiliser cette aptitude.
 
 ## Attrape-Balle
 
-Également au niveau 7, vous pouvez utiliser votre réaction pour dévier ou attraper le projectile lorsque vous êtes touché par une attaque armée à distance. Lorsque vous le faites, les dégâts que vous prenez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre bonus de maîtrise.
+Également au niveau 7, vous pouvez utiliser votre réaction pour dévier ou attraper le projectile lorsque vous êtes touché par une attaque armée à distance. Lorsque vous le faites, les dégâts que vous subissez de l'attaque sont réduits de 1d10 + votre modificateur de Dextérité + votre bonus de maîtrise.
 
 ## Esquive Prédictive
 
-Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles à venir. Vous pouvez utiliser votre action bonus pour choisir une créature que vous pouvez voir à 30 ft. Vous bénéficiez des effets de l'action Esquive contre les attaques à distance et effets de cette cible jusqu'au début de votre prochain tour. Vous perdez cet effet si vous prenez des dégâts de la cible.
+Au niveau 10, vos réflexes sont si affûtés que vous pouvez éviter les balles à venir. Vous pouvez utiliser votre action bonus pour choisir une créature que vous pouvez voir à 30 ft. Vous bénéficiez des effets de l'action Esquive contre les attaques à distance et effets de cette cible jusqu'au début de votre prochain tour. Vous perdez cet effet si vous subissez des dégâts de la cible.
 
 ## Coup Mitrailleurs
 

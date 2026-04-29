@@ -5,6 +5,6 @@ poids: 4
 englishname: Quarterstaff
 writing_status: finished
 ---
-| Dégâts          | Propriétés       |
+| Dégâts | Propriétés |
 | --------------- | ---------------- |
 | 1d6 contondants | Polyvalent (1d8) |

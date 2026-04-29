@@ -9,7 +9,7 @@ Gyx, mère de tous les ligateurs, ne vous offre aucun pouvoir per se, mais vous 
 
 # Aptitudes
 ## Savoir Hérétique
-Vous avez l'avantage aux jets de compétence que vous réalisez pour vous souvenir de mythes, de légendes ou de traditions. De plus, le MJ peut vous autoriser à réaliser ces jets même s'il serait impossible pour vous de connaître ces informations.
+Vous avez l'avantage aux jets de compétence que vous effectuez pour vous souvenir de mythes, de légendes ou de traditions. De plus, le MJ peut vous autoriser à effectuer ces jets même s'il serait impossible pour vous de connaître ces informations.
 
 ## Force du Nombre
 Lorsque vous êtes lié à Gyx, vous gagnez un bonus à votre DD de sorts de vestige, votre bonus d'attaque de sort, et à n'importe quel jet d'attaque qui utilise votre Charisme plutôt que votre Force ou votre Dextérité. Ce bonus est égal au nombre d'autres vestiges auxquels vous êtes lié et ne se cumule pas avec les bonus conférés par les armes ou objets magiques.

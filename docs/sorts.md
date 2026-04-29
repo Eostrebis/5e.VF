@@ -1,6 +1,6 @@
 ---
 search:
-  exclude: true
+ exclude: true
 title: Grimoire des Sorts
 spells: "true"
 ---
@@ -259,7 +259,7 @@ spells: "true"
 | Hunter's Mark                        | [[Marque du Chasseur]]                    |
 | Hypnotic Pattern                     | [[Trame Hypnotique]]                      |
 | Ice Knife                            | [[Couteau de Glace]]                      |
-| Ice Storm                            | [[Tempête de Grêle]]                      |
+| Ice Storm                            | [[Tempête de Glace]]                      |
 | Identify                             | [[Identification]]                        |
 | Illusory Dragon                      | [[Dragon Illusoire]]                      |
 | Illusory Script                      | [[Écriture Illusoire]]                    |
@@ -419,7 +419,7 @@ spells: "true"
 | Sickening Radiance                   | [[Rayonnement Écœurant]]                  |
 | Silence                              | [[Silence]]                               |
 | Silent Image                         | [[Image Silencieuse]]                     |
-| Silvery Barbs                        | [[Barbes Argentées]]                      |
+| Silvery Barbs                        | [[Railleries Argentées]]                  |
 | Simulacrum                           | [[Simulacre]]                             |
 | Skill Empowerment                    | [[Amélioration de Compétences]]           |
 | Skywrite                             | [[Libellé Aérien]]                        |
@@ -565,7 +565,7 @@ spells: "true"
 | Dire Charm                           | [[Charme Funeste]]                        |
 | Dire Warning                         | [[Funeste Avertissement]]                 |
 | Distort Gravity                      | [[Distorsion Gravitationnelle]]           |
-| Eldricht Orb                         | [[Orbe Occulte]]                          |
+| Eldritch Orb                         | [[Orbe Occulte]]                          |
 | Elemental Curse                      | [[Malédiction Élémentaire]]               |
 | Evasiveness                          | [[Évasivité]]                             |
 | Exhume                               | [[Exhumation]]                            |
@@ -786,7 +786,7 @@ spells: "true"
 | Sanctify Ground                      | [[Terres Sacrées]]                        |
 | Rune of Fortification                | [[Rune Fortifiante]]                      |
 | Mana Shackle                         | [[Menottes de Mana]]                      |
-| Ward of Energy Absorption            | [[Défense Magique]]                       |
+| Ward of Energy Absorption            | [[Protection d'Absorption]]               |
 | Resolve's Mantle of Spell Resistance | [[Protection Calculée]]                   |
 | Enchanter's Lockdown                 | [[Confinement de l'Enchanteur]]           |
 | Warding Gust                         | [[Bourrasque Défensive]]                  |
@@ -796,6 +796,7 @@ spells: "true"
 | Mystic Lock                          | [[Verrou Mystique]]                       |
 | Temporal Potion Heaven               | [[Refuge Temporel]]                       |
 | Dragon Claw                          | [[Griffe Draconique]]                     |
-| Sleet Storm                          | [[Tempête de neige]]                      |
+| Sleet Storm                          | [[Tempête de Grêle]]                      |
 | Gahoul's Shrieking Skull             | [[Crâne Hurlant de Gahoul]]               |
+
 

@@ -12,7 +12,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [!tip] Objets Magiques
 > La liste suivante indique quels objets magiques vous pouvez créer, à quel niveau et le coût en PO requis.
 > 
-> __Niveau 3 — 100 PO__
+> **Niveau 3 — 100 PO**
 > [[Amulette de santé]]
 > [[Baguette des secrets]]
 > [[Bateau pliable]]
@@ -26,7 +26,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Sceptre inamovible]]
 > [[Yeux de minutie]]
 > 
-> __Niveau 7 — 250 PO__
+> **Niveau 7 — 250 PO**
 > [[Anneau de marche sur l'eau]]
 > [[Anneau de saut]]
 > [[Baguette de projectiles magiques]]
@@ -39,7 +39,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Trou portatif]]
 > [[Yeux de charme]]
 > 
-> __Niveau 10 — 500 PO__
+> **Niveau 10 — 500 PO**
 > [[Amulette de cicatrisation]]
 > [[Amulette de protection contre le poison]]
 > [[Anneau de feuille morte]]
@@ -53,7 +53,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 > [[Gants d'interception]]
 > [[Yeux de faucon]]
 > 
-> __Niveau 14 — 1000 PO__
+> **Niveau 14 — 1000 PO**
 > [[Anneau d'action gratuite]]
 > [[Anneau de vision aux rayons X]]
 > [[Anneau du bélier]]
@@ -83,7 +83,7 @@ Parmi les objets disponibles au niveau 3, vous pouvez fabriquer 5 objets magique
 
 ## Couper la Connexion
 
-Au niveau 14, vous pouvez casser la connexion qui vous lie à vos objets magiques et rediriger la magie pour vous protéger. Comme réaction lorsque qu'une créature que vous voyez vous cible avec une attaque ou lorsque vous réalisez un jet de sauvegarde, vous pouvez terminer votre lien avec un objet magique. Jusqu'au début de votre prochain tour, vous gagnez un bonus à votre CA et vos jets de sauvegarde égal à votre modificateur d'Intelligence. Le nombre total d'objets magiques auxquels vous pouvez vous lier est réduit de 1 jusqu'à ce que vous terminiez un repos. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
+Au niveau 14, vous pouvez casser la connexion qui vous lie à vos objets magiques et rediriger la magie pour vous protéger. Comme réaction lorsque qu'une créature que vous voyez vous cible avec une attaque ou lorsque vous effectuez un jet de sauvegarde, vous pouvez terminer votre lien avec un objet magique. Jusqu'au début de votre prochain tour, vous gagnez un bonus à votre CA et vos jets de sauvegarde égal à votre modificateur d'Intelligence. Le nombre total d'objets magiques auxquels vous pouvez vous lier est réduit de 1 jusqu'à ce que vous terminiez un repos. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.
 
 ## Propriété Légendaire
 

@@ -5,13 +5,13 @@ Les dieux de la connaissance valorisent l'apprentissage et la compréhension au-
 
 **Sorts du Domaine de la Connaissance.**
 
-| Niveau de Clerc | Sorts                                               |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------- |
-| 1               | [[Injonction]], [[identification]]                  |
-| 3               | [[Augure]], [[suggestion]]                          |
-| 5               | [[Antidétection]], [[communication avec les morts]] |
-| 7               | [[Œil Magique]], [[confusion]]                      |
-| 9               | [[Mythes et légendes]], [[scrutation]]              |
+| 1 | [[Injonction]], [[identification]] |
+| 3 | [[Augure]], [[suggestion]] |
+| 5 | [[Antidétection]], [[communication avec les morts]] |
+| 7 | [[Œil Magique]], [[confusion]] |
+| 9 | [[Mythes et légendes]], [[scrutation]] |
 ## Bénédiction du Savoir
 
 Au niveau 1, vous apprenez deux langues de votre choix. Vous maîtrisez également deux compétences parmi les suivantes : Arcane, Histoire, Nature et Religion.
@@ -26,7 +26,7 @@ Vous êtes considéré comme ayant l'expertise à chacune de ces compétences qu
 
 Au niveau 6, vous pouvez utiliser votre Canal Divin pour lire les pensées d'une créature. Vous pouvez alors utiliser votre accès à l'esprit de la créature pour la diriger.
 
-Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réaliser un jet de sauvegarde de Sagesse. Si elle réussit, vous ne pouvez pas utiliser cette aptitude sur elle à nouveau jusqu'à ce que vous terminiez un repos long.
+Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit effectuer un jet de sauvegarde de Sagesse. Si elle réussit, vous ne pouvez pas utiliser cette aptitude sur elle à nouveau jusqu'à ce que vous terminiez un repos long.
 
 Si la créature rate son jet, vous pouvez lire ses pensées de surface (celles le plus en avant dans son esprit, qui reflètent ses émotions et ce à quoi elle est en train de penser) lorsqu'elle se trouve à 60 ft. Cet effet dure 1 minute.
 

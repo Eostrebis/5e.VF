@@ -21,4 +21,4 @@ Au niveau 7, vous êtes aussi doués pour vous sortir du pétrin que pour vous y
 
 ## Tir de Pinball
 
-À partir du niveau 14, une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque à distance avec une arme à feu, vous pouvez faire ricocher la balle pour toucher une autre cible. La distance à la seconde cible ne peut pas être supérieure à la moitié de la portée normale de l'arme. Réalisez un second jet d'attaque pour la seconde cible.
+À partir du niveau 14, une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque à distance avec une arme à feu, vous pouvez faire ricocher la balle pour toucher une autre cible. La distance à la seconde cible ne peut pas être supérieure à la moitié de la portée normale de l'arme. Effectuez un second jet d'attaque pour la seconde cible.

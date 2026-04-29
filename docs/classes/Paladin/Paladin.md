@@ -32,29 +32,29 @@ En tant que gardiens contre les forces du mal, les paladins sont rarement d'alig
 
 Vous pouvez créer un paladin rapidement en suivant ces suggestions. Commencez par faire de la Force votre caractéristique principale, suivie du Charisme. Choisissez ensuite l'historique [[noble]].
 
-| **Le Paladin** |                   |                                                                                  |                   |                   |                   |                   |                   |
+| **Le Paladin** | | | | | | | |
 | -------------- | ----------------- | -------------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ----------------- | ----------------- |
-| Niveau         | Bonus de Maîtrise | Aptitudes                                                                        | Sorts de niveau 1 | Sorts de niveau 2 | Sorts de niveau 3 | Sorts de niveau 4 | Sorts de niveau 5 |
-| 1              | +2                | [[#Instinct Divin]], [[#Imposition des Mains]]                                   | —                 | —                 | —                 | —                 | —                 |
-| 2              | +2                | [[#Style de Combat]], [[#Incantation]], [[#Châtiment Divin]]                     | 2                 | —                 | —                 | —                 | —                 |
-| 3              | +2                | [[#Santé Divine]], [[#Serment Sacré]], [[#Exploitation de Pouvoir Divin (Opt.)]] | 3                 | —                 | —                 | —                 | —                 |
-| 4              | +2                | [[#Augmentation de Caractéristiques]]                                            | 3                 | —                 | —                 | —                 | —                 |
-| 5              | +3                | [[#Attaque Supplémentaire]]                                                      | 4                 | 2                 | —                 | —                 | —                 |
-| 6              | +3                | [[#Aura de Protection]]                                                          | 4                 | 2                 | —                 | —                 | —                 |
-| 7              | +3                | Aptitude de [[#Serment Sacré]]                                                   | 4                 | 3                 | —                 | —                 | —                 |
-| 8              | +3                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | —                 | —                 | —                 |
-| 9              | +4                | —                                                                                | 4                 | 3                 | 2                 | —                 | —                 |
-| 10             | +4                | [[#Aura de Courage]]                                                             | 4                 | 3                 | 2                 | —                 | —                 |
-| 11             | +4                | [[#Châtiment Divin Amélioré]]                                                    | 4                 | 3                 | 3                 | —                 | —                 |
-| 12             | +4                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | 3                 | —                 | —                 |
-| 13             | +5                | —                                                                                | 4                 | 3                 | 3                 | 1                 | —                 |
-| 14             | +5                | [[#Contact Purifiant]]                                                           | 4                 | 3                 | 3                 | 1                 | —                 |
-| 15             | +5                | Aptitude de [[#Serment Sacré]]                                                   | 4                 | 3                 | 3                 | 2                 | —                 |
-| 16             | +5                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | 3                 | 2                 | —                 |
-| 17             | +6                | —                                                                                | 4                 | 3                 | 3                 | 3                 | 1                 |
-| 18             | +6                | Amélioration des Auras                                                           | 4                 | 3                 | 3                 | 3                 | 1                 |
-| 19             | +6                | [[#Augmentation de Caractéristiques]]                                            | 4                 | 3                 | 3                 | 3                 | 2                 |
-| 20             | +6                | Aptitude de [[#Serment Sacré]]                                                   | 4                 | 3                 | 3                 | 3                 | 2                 |
+| Niveau | Bonus de Maîtrise | Aptitudes | Sorts de niveau 1 | Sorts de niveau 2 | Sorts de niveau 3 | Sorts de niveau 4 | Sorts de niveau 5 |
+| 1 | +2 | [[#Instinct Divin]], [[#Imposition des Mains]] | — | — | — | — | — |
+| 2 | +2 | [[#Style de Combat]], [[#Incantation]], [[#Châtiment Divin]] | 2 | — | — | — | — |
+| 3 | +2 | [[#Santé Divine]], [[#Serment Sacré]], [[#Exploitation de Pouvoir Divin (Opt.)]] | 3 | — | — | — | — |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 3 | — | — | — | — |
+| 5 | +3 | [[#Attaque Supplémentaire]] | 4 | 2 | — | — | — |
+| 6 | +3 | [[#Aura de Protection]] | 4 | 2 | — | — | — |
+| 7 | +3 | Aptitude de [[#Serment Sacré]] | 4 | 3 | — | — | — |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 4 | 3 | — | — | — |
+| 9 | +4 | — | 4 | 3 | 2 | — | — |
+| 10 | +4 | [[#Aura de Courage]] | 4 | 3 | 2 | — | — |
+| 11 | +4 | [[#Châtiment Divin Amélioré]] | 4 | 3 | 3 | — | — |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 4 | 3 | 3 | — | — |
+| 13 | +5 | — | 4 | 3 | 3 | 1 | — |
+| 14 | +5 | [[#Contact Purifiant]] | 4 | 3 | 3 | 1 | — |
+| 15 | +5 | Aptitude de [[#Serment Sacré]] | 4 | 3 | 3 | 2 | — |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 4 | 3 | 3 | 2 | — |
+| 17 | +6 | — | 4 | 3 | 3 | 3 | 1 |
+| 18 | +6 | Amélioration des Auras | 4 | 3 | 3 | 3 | 1 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 4 | 3 | 3 | 3 | 2 |
+| 20 | +6 | Aptitude de [[#Serment Sacré]] | 4 | 3 | 3 | 3 | 2 |
 
 # Aptitudes de Classes
 
@@ -130,7 +130,7 @@ Vous apprenez deux cantrips de votre choix parmi la liste de sorts du [[Clerc]].
 Vous disposez de la vision aveugle sur 10 ft. À l'intérieur de ce rayon, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes [[aveuglé]] ou dans les ténèbres. De plus, vous pouvez voir une créature [[invisible]] dans cette portée, sauf si elle se cache de vous.
 
 ### Interception
-Lorsque qu'une créature que vous pouvez voir touche une cible autre que vous à 5 ft. avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts pris par la cible de 1d10 + votre bonus de maîtrise. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
+Lorsque qu'une créature que vous pouvez voir touche une cible autre que vous à 5 ft. avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts subis par la cible de 1d10 + votre bonus de maîtrise. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
 
 ## Incantation
 
@@ -168,29 +168,29 @@ Au niveau 3, la magie divine qui vous parcourt vous rend immunisé contre les ma
 
 Lorsque vous atteignez le niveau 3, vous prêtez serment qui vous lie en tant que paladin à jamais. Jusqu'à maintenant, vous vous y prépariez, vous étiez engagé sur le chemin mais pas encore sermenté. Désormais, vous choisissez un des serments suivants.
 
-| Serment                          | Description                                                                                                                                                          |
+| Serment | Description |
 | -------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Briseur de Serment]]           | Rejetez la lumière pour asservir les morts-vivants et devenir un seigneur de terreur alimenté par la haine.                                                          |
-| [[Serment d'Avarice]]            | Incarnez l'avidité pure en vous drapant d'or et en volant vos ennemis, transformant chaque combat en une transaction profitable.                                     |
-| [[Serment d'Hérésie]]            | Dénoncez les mensonges des dieux et de l'église pour mener une croisade révolutionnaire alimentée par votre propre vérité.                                           |
-| [[Serment de Conquête]]          | Imposez un ordre absolu en écrasant tout espoir et en subjuguant vos ennemis par la peur et la force brute.                                                          |
-| [[Serment de Dévotion]]          | Incarnez l'archétype du chevalier en armure étincelante, un guerrier saint voué à la justice, la vertu et le bien commun.                                            |
-| [[Serment de Gloire]]            | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque.                                              |
-| [[Serment de Jugement]]          | Incarnez l'équilibre cosmique en tant que juge et bourreau, intervenant dans les conflits planaires pour préserver le libre arbitre des mortels.                     |
-| [[Serment de l'Hiver]]           | Dressez-vous en rempart contre le froid éternel pour protéger les innocents des ravages de l'hiver et geler vos ennemis.                                             |
-| [[Serment de la Couronne]]       | Devenez le bouclier vivant de la civilisation, jurant de faire respecter la loi et de sacrifier votre santé pour protéger vos alliés.                                |
-| [[Serment de la Haute-Mer]]      | Prenez le large pour défendre la liberté et l'aventure, en commandant aux brumes et aux marées pour rester insaisissable.                                            |
-| [[Serment de la Moisson]]        | Cultivez la vie et l'abondance en partageant votre vitalité et en offrant la rédemption aux vaincus, ne levant l'épée que pour empêcher de plus grandes souffrances. |
-| [[Serment de la Nuit Éternelle]] | Incarnez un justicier de l'ombre qui renonce à l'honneur chevaleresque pour dispenser une justice expéditive par l'assassinat et le subterfuge.                      |
-| [[Serment de Liesse]]            | Devenez l'âme de la fête et l'antithèse des croisés rigides, jurant de célébrer jour et nuit et de transformer chaque combat en une joyeuse bacchanale.              |
-| [[Serment de Rédemption]]        | Incarnez un guerrier saint qui croit en la rédemption de tous, ne recourant à la violence qu'en dernier ressort pour protéger les innocents.                         |
-| [[Serment de Vengeance]]         | Devenez un instrument de vengeance implacable, sacrifiant votre propre pureté morale pour traquer et exterminer les auteurs de crimes abominables.                   |
-| [[Serment des Anciens]]          | Incarnez un chevalier vert voué à la lumière et à la nature, protégeant la beauté du monde par une magie aussi ancienne que les druides.                             |
-| [[Serment des Buveurs de Sorts]] | Traquez les mages renégats et absorbez leur magie pour protéger l'équilibre entre le monde ordinaire et les forces occultes.                                         |
-| [[Serment des Sentinelles]]      | Devenez le rempart ultime contre les menaces extraplanaires, affûtant votre esprit et votre corps pour déceler et bannir les intrus cosmiques.                       |
-| [[Serment des Tempêtes]]         | Devenez un croisé errant des mers, guidé par les vents et les marées, adoptant la neutralité impassible et la fureur vengeresse de la tempête.                       |
-| [[Serment du Soleil]]            | Incarnez la dualité de l'astre solaire en apportant sa lumière sacrée dans les ténèbres tout en protégeant les innocents de sa chaleur impitoyable.<br>              |
-| [[Serment de la Persévérance]]   | Les maîtres du panache et de la nuisance, spécialistes de l'entrée en scène fracassante et de la fuite stratégique.                                                  |
+| [[Briseur de Serment]] | Rejetez la lumière pour asservir les morts-vivants et devenir un seigneur de terreur alimenté par la haine. |
+| [[Serment d'Avarice]] | Incarnez l'avidité pure en vous drapant d'or et en volant vos ennemis, transformant chaque combat en une transaction profitable. |
+| [[Serment d'Hérésie]] | Dénoncez les mensonges des dieux et de l'église pour mener une croisade révolutionnaire alimentée par votre propre vérité. |
+| [[Serment de Conquête]] | Imposez un ordre absolu en écrasant tout espoir et en subjuguant vos ennemis par la peur et la force brute. |
+| [[Serment de Dévotion]] | Incarnez l'archétype du chevalier en armure étincelante, un guerrier saint voué à la justice, la vertu et le bien commun. |
+| [[Serment de Gloire]] | Forgez votre légende par des exploits athlétiques et inspirez vos compagnons à atteindre leur propre destinée héroïque. |
+| [[Serment de Jugement]] | Incarnez l'équilibre cosmique en tant que juge et bourreau, intervenant dans les conflits planaires pour préserver le libre arbitre des mortels. |
+| [[Serment de l'Hiver]] | Dressez-vous en rempart contre le froid éternel pour protéger les innocents des ravages de l'hiver et geler vos ennemis. |
+| [[Serment de la Couronne]] | Devenez le bouclier vivant de la civilisation, jurant de faire respecter la loi et de sacrifier votre santé pour protéger vos alliés. |
+| [[Serment de la Haute-Mer]] | Prenez le large pour défendre la liberté et l'aventure, en commandant aux brumes et aux marées pour rester insaisissable. |
+| [[Serment de la Moisson]] | Cultivez la vie et l'abondance en partageant votre vitalité et en offrant la rédemption aux vaincus, ne levant l'épée que pour empêcher de plus grandes souffrances. |
+| [[Serment de la Nuit Éternelle]] | Incarnez un justicier de l'ombre qui renonce à l'honneur chevaleresque pour dispenser une justice expéditive par l'assassinat et le subterfuge. |
+| [[Serment de Liesse]] | Devenez l'âme de la fête et l'antithèse des croisés rigides, jurant de célébrer jour et nuit et de transformer chaque combat en une joyeuse bacchanale. |
+| [[Serment de Rédemption]] | Incarnez un guerrier saint qui croit en la rédemption de tous, ne recourant à la violence qu'en dernier ressort pour protéger les innocents. |
+| [[Serment de Vengeance]] | Devenez un instrument de vengeance implacable, sacrifiant votre propre pureté morale pour traquer et exterminer les auteurs de crimes abominables. |
+| [[Serment des Anciens]] | Incarnez un chevalier vert voué à la lumière et à la nature, protégeant la beauté du monde par une magie aussi ancienne que les druides. |
+| [[Serment des Buveurs de Sorts]] | Traquez les mages renégats et absorbez leur magie pour protéger l'équilibre entre le monde ordinaire et les forces occultes. |
+| [[Serment des Sentinelles]] | Devenez le rempart ultime contre les menaces extraplanaires, affûtant votre esprit et votre corps pour déceler et bannir les intrus cosmiques. |
+| [[Serment des Tempêtes]] | Devenez un croisé errant des mers, guidé par les vents et les marées, adoptant la neutralité impassible et la fureur vengeresse de la tempête. |
+| [[Serment du Soleil]] | Incarnez la dualité de l'astre solaire en apportant sa lumière sacrée dans les ténèbres tout en protégeant les innocents de sa chaleur impitoyable.<br> |
+| [[Serment de la Persévérance]] | Les maîtres du panache et de la nuisance, spécialistes de l'entrée en scène fracassante et de la fuite stratégique. |
 
 
 Votre choix vous confère des aptitudes aux niveaux 3, 7, 15 et 20.
@@ -227,7 +227,7 @@ De plus, vous pouvez remplacer votre style de combat par un autre apprenable par
 
 ## Aura de Protection
 
-À partir du niveau 6, lorsque vous ou une créature amicale à 10 ft. doit réaliser un jet de sauvegarde, la créature gagne un bonus égal à votre modificateur de Charisme. Vous devez être conscient pour bénéficier de ce bonus.
+À partir du niveau 6, lorsque vous ou une créature amicale à 10 ft. doit effectuer un jet de sauvegarde, la créature gagne un bonus égal à votre modificateur de Charisme. Vous devez être conscient pour bénéficier de ce bonus.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
@@ -239,7 +239,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Châtiment Divin Amélioré
 
-Au niveau 11, vous êtes tellement imprégné de vertus que toutes vos armes de corps à corps portent la puissance divine en elles. Lorsque vous touchez avec une arme de corps à corps, la créature cible subit 1d8 dégâts radiants supplémentaires.
+Au niveau 11, vous êtes tellement imprégné de vertus que toutes vos armes de mêlée portent la puissance divine en elles. Lorsque vous touchez avec une arme de mêlée, la créature cible subit 1d8 dégâts radiants supplémentaires.
 
 ## Contact Purifiant
 

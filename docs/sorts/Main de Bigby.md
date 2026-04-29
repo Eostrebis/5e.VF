@@ -14,5 +14,4 @@ Rituel:
 englishname: Bigby's Hand
 writing_status: empty
 ---
-
 (Voir [[Main Magique]])

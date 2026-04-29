@@ -6,7 +6,7 @@ englishname: Khopesh
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés                                       |
+| Dégâts | Propriétés |
 | -------------- | ------------------------------------------------ |
 | 2d4 tranchants | [[Propriétés d'Arme#Finesse\|Finesse]], Spéciale |
 

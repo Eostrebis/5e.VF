@@ -1,19 +1,19 @@
 ---
 search:
-  exclude: true
+ exclude: true
 writing_status: finished
 ---
 
-| Malédiction    |
+| Malédiction |
 | -------------- |
-| [[Affamée]]    |
-| [[Brûlée]]     |
-| [[Férale]]     |
-| [[Hideuse]]    |
-| [[Infestée]]   |
-| [[Murmures]]   |
-| [[Noyée]]      |
-| [[Possédée]]   |
+| [[Affamée]] |
+| [[Brûlée]] |
+| [[Férale]] |
+| [[Hideuse]] |
+| [[Infestée]] |
+| [[Murmures]] |
+| [[Noyée]] |
+| [[Possédée]] |
 | [[Sans Amour]] |
-| [[Vide]]       |
-| [[Visions]]    |
+| [[Vide]] |
+| [[Visions]] |

@@ -3,7 +3,7 @@ writing_status: finished
 ---
 ### Description
 
-Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux empreints d'une beauté éthérée,  au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 
+Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans ce monde sans réellement en faire partie. Ils vivent généralement dans des lieux empreints d'une beauté éthérée, au milieu d'anciennes forêts ou dans des tours argentées rayonnantes de lumière féérique, où de douces musiques et odeurs flottent avec le vent. Les elfes aiment la nature et la magie, l'art, la musique et la poésie, et toutes les belles choses de ce monde. 
 
 ![[Elfe.png]]
 
@@ -11,7 +11,7 @@ Les elfes sont un peuple magique avec une grâce sans précédent, vivant dans c
 
 Avec leur grâce irréelle et leurs traits fins, les elfes sont merveilleusement beaux pour les humains et les membres de multiples races. Ils sont généralement plus petits que les humains, allant de 1m50 à 1m90. Ils sont cependant bien plus élancés que les humains, ne pesant qu'entre 50 et 70 kg. Les hommes et femmes font à peu près la même taille, et les hommes sont quelque peu plus lourds.
 
-La coloration des elfes englobe l'étendue humaine _normale_, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
+La coloration des elfes englobe l'étendue humaine *normale*, et l'étend avec des peaux de couleurs bronze, cuivre, et même presque blanche-bleutée, des cheveux verts ou bleus, et des yeux comme des océans d'or ou d'argent fondu. Les elfes n'ont que très peu de pilosité corporelle et/ou faciale. Ils préfèrent un habillement élégant, aux couleurs vives, et apprécient des accessoires simples comme de petites bagues.
 
 #### Une perspective intemporelle
 
@@ -23,15 +23,15 @@ Tout comme les branches d'un jeune arbre, les elfes sont flexibles devant le dan
 
 De par différents conflits et/ou décisions passées, le peuple elfe est divisé en sous-races : 
 
-| Sous-race                             | Description                                                |
+| Sous-race | Description |
 | ------------------------------------- | ---------------------------------------------------------- |
-| [[Elfe#Haut-elfe\|Haut-Elfe]]         | _Noblesse_ elfe, habiles en magie                          |
-| [[Elfe#Elfe des bois\|Elfe des bois]] | _Plèbe_ elfe, voyageurs et en communion avec la nature     |
-| [[Elfe#Drow\|Drow]]                   | Elfes noirs, habitants de l'Outreterre                     |
-| [[Elfe#Eladrin\|Eladrin]]             | Elfes _féériques_, originairse de la Féerie                |
-| [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt                         |
-| [[Elfe#Shadar-kai\|Shadar-kai]]       | Elfes des ombres                                           |
-| [[Elfe#Elfe Astral\|Elfe Astral]]     | Elfes ayant quitté les plans matériels pour le Plan Astral |
+| [[Elfe#Haut-elfe\|Haut-Elfe]] | *Noblesse* elfe, habiles en magie |
+| [[Elfe#Elfe des bois\|Elfe des bois]] | *Plèbe* elfe, voyageurs et en communion avec la nature |
+| [[Elfe#Drow\|Drow]] | Elfes noirs, habitants de l'Outreterre |
+| [[Elfe#Eladrin\|Eladrin]] | Elfes *féériques*, originairse de la Féerie |
+| [[Elfe#Elfe des mers\|Elfe des mers]] | Elfes préférant l'océan à la forêt |
+| [[Elfe#Shadar-kai\|Shadar-kai]] | Elfes des ombres |
+| [[Elfe#Elfe Astral\|Elfe Astral]] | Elfes ayant quitté les plans matériels pour le Plan Astral |
 
 ### Culture
 
@@ -67,7 +67,7 @@ Lorsqu'il déclare l'âge adulte, un elfe choisit un nom d'adulte, bien que ceux
 
 En tant que haut-elfe, vous avez un esprit vif et une maîtrise d'au moins les bases de la magie. Il y a deux sortes de haut-elfe. Certains sont hautains et reclus, se croyant supérieurs aux non-elfes et même aux autres elfes. On les appelle les elfes du soleil. Les autres sont plus communs et plus respectueux, et souvent rencontrés parmi les humains et d'autres races. Ceux-là sont connus comme les elfes de la lune.
 
-Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, ou doré. Leurs yeux sont d'or, d'argent ou noirs. Les elfes de la lune sont beaucoup plus pâles,  avec une peau albâtre parfois teintée de bleu. Ils ont souvent des cheveux blanc-argentés, mais des chevelures plutôt blondes, châtaines, et même rousses ne sont pas rares. Leurs yeux sont bleus ou verts, parsemés d'or.
+Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, ou doré. Leurs yeux sont d'or, d'argent ou noirs. Les elfes de la lune sont beaucoup plus pâles, avec une peau albâtre parfois teintée de bleu. Ils ont souvent des cheveux blanc-argentés, mais des chevelures plutôt blondes, châtaines, et même rousses ne sont pas rares. Leurs yeux sont bleus ou verts, parsemés d'or.
 
 ![[high_elf.png]]
 
@@ -81,11 +81,11 @@ Les elfes du soleil ont une peau couleur bronze, et des cheveux cuivré, noir, o
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -119,11 +119,11 @@ La peau des elfes des bois a tendance à être cuivrée en teinte, parfois avec 
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 35 ft. (10.5m/7 cases).
+**Vitesse.** Votre vitesse de base est de 35 ft..
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -133,7 +133,7 @@ La peau des elfes des bois a tendance à être cuivrée en teinte, parfois avec 
 
 **Entraînement aux Armes Elfes.** Vous avez la maîtrise avec l'épée longue, l'épée courte, l'arc court et l'arc long.
 
-**Cachette Naturelle.** Vous pouvez tenter de vous cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.
+**Cachette Naturelle.** Vous pouvez tenter de vous Cacher dans une zone à visibilité réduite, comme en présence de branchages, de forte pluie, de neige qui tombe, de brume ou autre phénomène naturel.
 
 ## Drow
 
@@ -154,11 +154,11 @@ En tant que Drow, vous êtes infusé de la magie de l'Outre-Terre, un royaume so
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -180,12 +180,12 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
 #### Saisons Eladrin
 
-| d4  | Saison                                                                                           |
+| d4 | Saison |
 | --- | ------------------------------------------------------------------------------------------------ |
-| 1   | **Automne :** paix et volonté, lorsque la récolte de l'été est partagée avec tous                |
-| 2   | **Hiver :** contemplation et candeur, lorsque l'énergie vibrante du monde s'endort               |
-| 3   | **Printemps :** joie et fête, marquée par la gaieté et l'espoir que la morosité de l'hiver passe |
-| 4   | **Été :** audace et agression, un moment d'énergie sans limite et d'action                       |
+| 1 | **Automne :** paix et volonté, lorsque la récolte de l'été est partagée avec tous |
+| 2 | **Hiver :** contemplation et candeur, lorsque l'énergie vibrante du monde s'endort |
+| 3 | **Printemps :** joie et fête, marquée par la gaieté et l'espoir que la morosité de l'hiver passe |
+| 4 | **Été :** audace et agression, un moment d'énergie sans limite et d'action |
 
 
 ![[Eladrin.png]]
@@ -200,11 +200,11 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -212,16 +212,16 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil. De plus, lorsque vous sortez d'une transe, vous pouvez changer votre saison, et vous gagnez deux maîtrises d'arme ou d'outil que vous n'avez pas. Vous obtenez ces maîtrises mystiquement en tirant dans la mémoire elfe partagée, et vous les conservez jusqu'à votre prochain repos long.
 
-**Pas de Fée.** Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long.
-À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + Prof. + (Int. ou Wis. ou Cha.) mod :
+**Pas de Fée.** Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long.
+À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + votre bonus de maîtrise + votre modificateur d'Intelligence, de Sagesse ou de Charisme :
 
- - *Automne.* Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.
+ - *Automne.* Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft.. Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.
 
- - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. (3m/2 cases). Elle doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
+ - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. Elle doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
  
- - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature volontaire et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft. (9m/6 cases).
-  
- - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. (1.5m/1 case) de vous prend des dégâts de feu égaux à votre bonus de maîtrise. 
+ - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature consentante et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft.
+ 
+ - *Été.* Immédiatement après avoir utilisé votre Pas de Fée, chaque créature que vous choisissez que vous pouvez voir à moins de 5 ft. de vous subit des dégâts de feu égaux à votre bonus de maîtrise. 
 
 ## Elfe des mers
 
@@ -241,11 +241,11 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases). Vous avez une vitesse de nage égale à votre vitesse de base.
+**Vitesse.** Votre vitesse de base est de 30 ft. Vous avez une vitesse de nage égale à votre vitesse de base.
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -253,7 +253,7 @@ Les elfes des mers sont tombés amoureux de la beauté sauvage des océans au pr
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez la résistance aux dégâts de froid.
+**Enfant de la Mer.** Vous pouvez respirez dans et en dehors de l'eau, et vous avez une résistance aux dégâts de froid.
 
 **Ami de la Mer.** Les animaux aquatiques ont une grande affinité avec votre peuple. Vous pouvez communiquer des idées simples à n'importe quelle Bête qui a une vitesse de nage. Elle peut vous comprendre, mais vous n'avez aucun moyen de les comprendre en retour.
 
@@ -264,7 +264,7 @@ Les shadars-kai sont des elfes de la Gisombre, attiré sur ce plan par la Reine 
 
 Les shadars-kai étaient auparavant des Fées comme le reste des elfes, mais n'existent désormais que dans un état entre la vie et la mort, ayant été transformés par l'énergie sombre de la Gisombre.
 
-Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi _flétri_, reflétant la nature sombre de ce sinistre plan.
+Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Gisombre, ils sont aussi *flétri*, reflétant la nature sombre de ce sinistre plan.
 
 
 ![[shadar_kai.png]]
@@ -279,11 +279,11 @@ Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Giso
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -291,10 +291,10 @@ Les shadars-kai ont des peaux cendrées, et tant qu'ils se trouvent dans la Giso
 
 **Transe.** Les elfes n'ont pas besoin de dormir. Au lieu de cela, ils méditent profondément, restant à demi conscients, 4 heures par jour (le mot usuel pour désigner cette méditation est « transe »). En méditant, vous pouvez rêver, tant bien que mal ; ces rêves sont en fait des exercices mentaux qui deviennent un réflexe après des années de pratique. Après un repos de ce type, vous obtenez les mêmes avantages qu'un humain après 8 heures de sommeil.
 
-**Résistance Nécrotique.** Vous avez la résistance aux dégâts nécrotiques.
+**Résistance Nécrotique.** Vous avez une résistance aux dégâts nécrotiques.
 
-**Bénédiction de la Reine Corbeau.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.
-À partir du niveau 3, vous gagnez également la résistance à tous les dégâts lorsque vous vous téléportez en utilisant ce trait. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique.
+**Bénédiction de la Reine Corbeau.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.
+À partir du niveau 3, vous gagnez obtenez une résistance à tous les dégâts lorsque vous vous téléportez en utilisant ce trait. Cette résistance persiste jusqu'au début de votre prochain tour. Pendant ce temps, vous êtes translucide et fantomatique.
 
 ## Elfe Astral
 
@@ -315,11 +315,11 @@ Puisque rien ne vieillit dans le Plan Astral, les elfes astraux qui habitent ce 
 
 **Âge.** Bien que les elfes atteignent la maturité physique à peu près au même âge que les humains, pour les elfes la définition de l'âge adulte dépend plus de l'expérience que l'on peut avoir du monde que de la croissance physique. Un elfe prétend généralement à l'âge adulte et à un nom d'adulte aux alentours de ses 100 ans et peut vivre jusqu'à 750 ans.
 
-**Taille.** Les elfes astraux mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est _Moyenne (M)_.
+**Taille.** Les elfes astraux mesurent entre 1m50 et 1m80 et sont élancés. Votre taille est *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
-**Vision dans le noir.** Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Sens Aiguisés.** Vous maîtrisez la compétence Perception.
 
@@ -329,4 +329,4 @@ Puisque rien ne vieillit dans le Plan Astral, les elfes astraux qui habitent ce 
 
 **Feu Astral.** Vous connaissez l'un des cantrips suivants de votre choix : [[Lumières Dansantes]], [[Lumière]], ou [[Flamme Sacrée]]. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme.
 
-**Pas d'Étoile.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. (9m/6 cases) sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.
+**Pas d'Étoile.** En utilisant une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. sur un emplacement que vous pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous finissez un repos long.

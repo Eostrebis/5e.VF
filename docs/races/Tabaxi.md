@@ -21,14 +21,14 @@ L'apparence des tabaxis est aussi variée que leur caractère. Certains tabaxis 
 
 **Âge.** Les tabaxis grandissent comme les humains.
 
-**Taille.** Les tabaxis sont généralement plus grands et plus fins que les humains. Certains tabaxis sont néanmoins beaucoup plus petits. Votre taille est _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les tabaxis sont généralement plus grands et plus fins que les humains. Certains tabaxis sont néanmoins beaucoup plus petits. Votre taille est *Petite (P)* ou *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. et vous possédez une vitesse d'escalade égale à votre vitesse de marche.
 
-__Griffes de Chat.__ Vous pouvez utiliser vos griffes pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts tranchants.
+**Griffes de Chat.** Vous pouvez utiliser vos griffes pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts tranchants.
 
-__Talent Félin.__ Vous maîtrisez les compétences Discrétion et Perception.
+**Talent Félin.** Vous maîtrisez les compétences Discrétion et Perception.
 
-__Vision dans le Noir.__ Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-__Agilité Féline.__ Vos réflexes et votre agilité vous permettent de vous déplacer en un élan de vitesse. Lorsque vous vous déplacez pendant votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez le réutiliser jusqu'à ce que vous déplaciez de 0 ft. pendant un de vos tours.
+**Agilité Féline.** Vos réflexes et votre agilité vous permettent de vous déplacer en un élan de vitesse. Lorsque vous vous déplacez pendant votre tour en combat, vous pouvez doubler votre vitesse jusqu'à la fin du tour. Une fois que vous avez utilisé ce trait, vous ne pouvez le réutiliser jusqu'à ce que vous déplaciez de 0 ft. pendant un de vos tours.

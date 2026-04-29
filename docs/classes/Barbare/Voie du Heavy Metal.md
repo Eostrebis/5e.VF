@@ -23,7 +23,7 @@ Au niveau 6, pour une action bonus, vous pouvez lâcher un cri de guerre foudroy
 
 ## Jusqu'à Onze ! 
 
-Au niveau 10, vous vous dévouez totalement à votre musique. Lorsque vous réalisez un jet de Charisme ou n'importe quel jet qui consiste à jouer d'un instrument, vous pouvez traiter tout résultat sur le d20 de 10 ou moins comme un 11.
+Au niveau 10, vous vous dévouez totalement à votre musique. Lorsque vous effectuez un jet de Charisme ou n'importe quel jet qui consiste à jouer d'un instrument, vous pouvez traiter tout résultat sur le d20 de 10 ou moins comme un 11.
 
 ## Succès Fracassant
 

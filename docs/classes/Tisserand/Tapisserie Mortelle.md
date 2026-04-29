@@ -7,13 +7,13 @@ Vous êtes différent des autres tisserands. Vous voyez votre lamefil comme l'ac
 
 Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vous pouvez lancer chacun de ces sorts une fois, et vous regagnez la capacité de le faire lorsque vous terminez un repos long.
 
-| Niveau | Sorts                           |
+| Niveau | Sorts |
 | ------ | ------------------------------- |
-| 3      | [[Détection du mal et du bien]] |
-| 4      | [[Lévitation]]                  |
-| 7      | [[Communication à distance]]    |
-| 10     | [[Œil magique]]                 |
-| 13     | [[Cercle de téléportation]]     |
+| 3 | [[Détection du mal et du bien]] |
+| 4 | [[Lévitation]] |
+| 7 | [[Communication à distance]] |
+| 10 | [[Œil magique]] |
+| 13 | [[Cercle de téléportation]] |
 
 ## Tome de Lames
 
@@ -22,11 +22,11 @@ Au niveau 3, votre tapisserie recèle votre recherche sur les lamefils. Vous gag
 
 ## Fragments de Lumière
 
-Au niveau 6, votre tapisserie vous permet de fissurer votre forme en illusions. Lorsque vous utilisez votre action pour Esquiver, vous créez de faux figments qui se déplacent avec vous jusqu'au début de votre prochain tour. La première fois que vous êtes la cible d'une attaque d'une créature, elle doit d'abord réaliser un jet de sauvegarde d'Intelligence. Si elle le rate, l'attaque échoue automatiquement.
+Au niveau 6, votre tapisserie vous permet de fissurer votre forme en illusions. Lorsque vous utilisez votre action pour Esquiver, vous créez de faux figments qui se déplacent avec vous jusqu'au début de votre prochain tour. La première fois que vous êtes la cible d'une attaque d'une créature, elle doit d'abord effectuer un jet de sauvegarde d'Intelligence. Si elle le rate, l'attaque échoue automatiquement.
 
 ## Évasion Illusoire
 
-Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certains évènements, comme le souffle enflammé d'un dragon rouge ou une [[boule de feu]]. Lorsque vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne prendre que la moitié des dégâts, vous prenez à la place 0 dégâts si vous réussissez le jet et la moitié si vous ratez. Vous pouvez également décider que vos ponts et escaliers de votre aptitude [[Tisserand#Renaissance Régulière|Renaissance Régulière]] soient illusoires ou illusoires pour tous sauf pour vous.
+Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certains évènements, comme le souffle enflammé d'un dragon rouge ou une [[boule de feu]]. Lorsque vous êtes soumis à un effet qui vous autorise un jet de sauvegarde de Dextérité pour ne subir que la moitié des dégâts, vous subissez à la place 0 dégâts si vous réussissez le jet et la moitié si vous ratez. Vous pouvez également décider que vos ponts et escaliers de votre aptitude [[Tisserand#Renaissance Régulière|Renaissance Régulière]] soient illusoires ou illusoires pour tous sauf pour vous.
 
 ## Gloire Éternelle
 

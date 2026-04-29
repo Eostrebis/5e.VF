@@ -11,7 +11,7 @@ Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise
 
 Également au niveau 2, vous pouvez utiliser une action bonus pour vous injecter avec une puissante potion transmutante connus comme un mutagène. Vous gagnez l'un des effets suivant pour une minute, ou jusqu'à ce que vous utilisiez votre action bonus pour vous injecter avec un mutagène différent : 
 
-**Force.** Votre score de Force augmente de 3, pour un maximum de 20. De plus, vous vous faites pousser des griffes, des crocs, des épines, des cornes, ou n'importe quelle arme naturelle de votre choix. Vous pouvez utiliser cette arme naturelle pour réaliser des attaques à mains nues. Si vous touchez, vous infligez 1d4 + votre modificateur de Force dégâts au lieu des dégâts contondants classiques des attaques à main nues. Le type de dégâts de l'attaque est contondant, perçants ou tranchants, dépendant de la forme de vos attaques naturelles.
+**Force.** Votre score de Force augmente de 3, pour un maximum de 20. De plus, vous vous faites pousser des griffes, des crocs, des épines, des cornes, ou n'importe quelle arme naturelle de votre choix. Vous pouvez utiliser cette arme naturelle pour réaliser des attaques à mains nues. Si vous touchez, vous infligez 1d4 + votre modificateur de Force dégâts au lieu des dégâts contondants classiques des attaques à main nues. Le type de dégâts de l'attaque est contondant, perforants ou tranchants, dépendant de la forme de vos attaques naturelles.
 
 **Dextérité.** Votre score de Dextérité augmente de 3, pour un maximum de 20. De plus, votre vitesse de marche augmente de 5 ft.
 
@@ -19,15 +19,15 @@ Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise
 
 ## Mutagène Partagé
 
-Au niveau 6, vous avez créé un mutagène exprimé de façon suffisamment générale pour pouvoir être injecté de manière sûre aux autres. Vous pouvez utiliser votre action et un dépenser un dé de réactifs pour injecter une créature volontaire à moins de 5 ft. de vous avec un mutagène de votre choix. Une créature ne peut être sous l'effet que d'un mutagène à la fois. Une fois que vous avez injecté une autre créature avec un mutagène, vous ne pouvez pas le refaire tant que l'original n'a pas terminé.
+Au niveau 6, vous avez créé un mutagène exprimé de façon suffisamment générale pour pouvoir être injecté de manière sûre aux autres. Vous pouvez utiliser votre action et un dépenser un dé de réactifs pour injecter une créature consentante à moins de 5 ft. de vous avec un mutagène de votre choix. Une créature ne peut être sous l'effet que d'un mutagène à la fois. Une fois que vous avez injecté une autre créature avec un mutagène, vous ne pouvez pas le refaire tant que l'original n'a pas terminé.
 
 ## Mutation Avancée
 
 À partir du niveau 10, à chaque fois que vous vous injectez avec un mutagène, vous pouvez choisir l'une de ces mutations supplémentaires : 
 
-**Hyper-élasticité.** Votre chair prend une texture caoutchouteuse, vous permettant de la tordre et l'étendre facilement. Les armes de mêlées que vous utilisez sont considérés comme avec la propriété Portée, si elles ne l'ont pas déjà. De plus, vous avez l'avantage aux jets de caractéristiques pour échapper la lutte ou pour se défaire de liens.
+**Hyper-élasticité.** Votre chair prend une texture caoutchouteuse, vous permettant de la tordre et l'étendre facilement. Les armes de mêlées que vous utilisez sont considérés comme avec la propriété Allonge, si elles ne l'ont pas déjà. De plus, vous avez l'avantage aux jets de caractéristiques pour Échapper la saisie ou pour se défaire de liens.
 
-**Mucilagineux.** Votre peau secrète une épaisse substance très visqueuse, ce qui vous aide à adhérer aux objets. Vous pouvez bouger le long de surfaces verticales, et au plafond, tout en gardant vos mains libres. Vous avez également une vitesse d'escalade égale à votre vitesse de marche. De plus, les créatures ont le désavantage à leurs jets de caractéristiques pour échapper à votre lutte.
+**Mucilagineux.** Votre peau secrète une épaisse substance très visqueuse, ce qui vous aide à adhérer aux objets. Vous pouvez bouger le long de surfaces verticales, et au plafond, tout en gardant vos mains libres. Vous avez également une vitesse d'escalade égale à votre vitesse de marche. De plus, les créatures ont le désavantage à leurs jets de caractéristiques pour Échapper à votre saisie.
 
 **Polychires.** Vous faites grossir une deuxième paire de bras. Ces bras sont complètement fonctionnels et peuvent être utilisés pour tenir des armes et des boucliers (vous permettant de tenir deux armes à deux mains, ou 4 armes à une main), réaliser les composantes somatiques d'un sort, et faire d'autres actions, même si les bras ne vous donnent pas d'actions supplémentaires par eux-mêmes.
 

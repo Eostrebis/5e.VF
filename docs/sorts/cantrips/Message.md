@@ -1,10 +1,10 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Artificier
-  - Magicien
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Artificier
+ - Magicien
 level: 0
 school: Transmutation
 Verbal: true
@@ -17,7 +17,7 @@ Portee: 120 ft.
 Concentration: false
 Rituel: false
 englishname: Message
-writing_status: empty
+writing_status: finished
 ---
 Vous pointez du doigt une créature à portée et lui murmurez un message. La cible (et seulement la cible) entend ce message et peut répondre par un murmure que vous êtes seul à entendre.
 

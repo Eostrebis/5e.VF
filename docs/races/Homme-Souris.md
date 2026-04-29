@@ -1,8 +1,8 @@
 ---
 subrace: true
 choices:
-  - Sourilin
-  - Ratelin
+ - Sourilin
+ - Ratelin
 writing_status: finished
 ---
 

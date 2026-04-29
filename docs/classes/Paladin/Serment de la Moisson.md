@@ -18,13 +18,13 @@ Les paladins qui prêtent ce serment sont enclins à soigner, nourrir et veiller
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                   |
+| Niveau de Paladin | Sorts |
 | ----------------- | ------------------------------------------------------- |
-| 3                 | [[Héroïsme]], [[purification de nourriture et d'eau]]   |
-| 5                 | [[Prière de guérison]], [[lien de protection]]          |
-| 9                 | [[Lueur d'espoir]], [[création de nourriture et d'eau]] |
-| 13                | [[Protection contre la mort]], [[sphère résiliente]]    |
-| 17                | [[Restauration supérieure]], [[soins de groupe]]        |
+| 3 | [[Héroïsme]], [[purification de nourriture et d'eau]] |
+| 5 | [[Prière de guérison]], [[lien de protection]] |
+| 9 | [[Lueur d'espoir]], [[création de nourriture et d'eau]] |
+| 13 | [[Protection contre la mort]], [[sphère résiliente]] |
+| 17 | [[Restauration supérieure]], [[soins de groupe]] |
 
 ## Outils de Serment
 
@@ -36,7 +36,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Vœu de Sustentation.** Pour une action bonus et en utilisant votre Canal Divin, vous pouvez placer une marque sur une créature que vous pouvez voir à 60 ft. de vous. Lorsque vous utilisez cette action bonus, et au début de chacun de ses tours pour la prochaine minute, la créature gagne un nombre de points de vie temporaires égal à 2 fois votre modificateur de Charisme.
 
-**Partage de Vitalité.** Pour une action bonus et en utilisant votre Canal Divin, vous pouvez prendre n'importe quel nombre de dégâts nécrotiques, jusqu'à votre nombre actuel de points de vie. Ces dégâts ne peuvent pas être prévenus ou réduits d'aucune façon. Jusqu'à 4 créatures que vous pouvez voir à 30 ft. regagne un nombre de points de vie égal à la moitié des dégâts nécrotiques que vous avez subis.
+**Partage de Vitalité.** Pour une action bonus et en utilisant votre Canal Divin, vous pouvez subir n'importe quel nombre de dégâts nécrotiques, jusqu'à votre nombre actuel de points de vie. Ces dégâts ne peuvent pas être prévenus ou réduits d'aucune façon. Jusqu'à 4 créatures que vous pouvez voir à 30 ft. regagne un nombre de points de vie égal à la moitié des dégâts nécrotiques que vous avez subis.
 
 ## Aura de Réjuvénation
 
@@ -65,6 +65,6 @@ Au niveau 20, pour une action bonus, vous devenez l'incarnation même de la forc
 
  - Au début de chacun de vos tours, chaque créature de votre choix dans un rayon de 30 ft. (vous y compris) regagne un nombre de points de vie égal à votre modificateur de Charisme et gagne un nombre de points de vie temporaires également égal à votre modificateur de Charisme.
  - Pour une action bonus, vous pouvez lancer le sort [[retour à la vie]] même sans l'avoir préparé et sans dépenser d'emplacement de sort (les composantes sont néanmoins toujours requises).
- - À chaque fois qu'une créature à 30 ft. de vous prend des dégâts, vous pouvez utiliser votre réaction pour lui conférer la résistance à ces dégâts.
+ - À chaque fois qu'une créature à 30 ft. de vous subit des dégâts, vous pouvez utiliser votre réaction pour lui conférer une résistance à ces dégâts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

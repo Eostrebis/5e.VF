@@ -6,6 +6,6 @@ englishname: Submachine gun
 Ere: Moderne
 writing_status: empty
 ---
-| Dégâts       | Propriétés                                                                     |
+| Dégâts | Propriétés |
 | ------------ | ------------------------------------------------------------------------------ |
-| 2d4 perçants | Munitions (portée 10/40), Automatique, Léger, Rechargement (16), Poignée Avant |
+| 2d4 perforants | Munitions (portée 10/40), Automatique, Léger, Rechargement (16), Poignée Avant |

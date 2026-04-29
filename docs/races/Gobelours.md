@@ -21,7 +21,7 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Âge.** Les gobelours atteignent l'âge adulte à 16 ans et peuvent vivre jusqu'à 80 ans.
 
-**Taille.** Les gobelours mesurent entre 1,80 m et 2,40 m et pèsent entre 125 et 175 kg.  Votre taille est Moyenne (M).  
+**Taille.** Les gobelours mesurent entre 1,80 m et 2,40 m et pèsent entre 125 et 175 kg. Votre taille est Moyenne (M). 
 
 **Vitesse.** Votre vitesse de base est de 30 ft.
 
@@ -29,10 +29,10 @@ Ils possèdent de longs membres et sont recouverts d'une fourrure rêche, avec d
 
 **Ascendance Féérique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme.
 
-**Bien Membré.** Lorsque vous réalisez une attaque de mêlée pendant votre tour, votre portée est 5 ft. plus grande qu'à la normale.
+**Bien Membré.** Lorsque vous réalisez une attaque de mêlée pendant votre tour, votre allonge est 5 ft. plus grande qu'à la normale.
 
 **Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, pousser, tirer, soulever.
 
 **Discret.** Vous maîtrisez la compétence Discrétion. De plus, sans avoir à vous presser, vous pouvez vous déplacer et vous arrêter sur un espace trop petit pour vous, mais suffisamment grand pour une créature de taille P.
 
-**Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature prend 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.
+**Attaque Surprise.** Si vous touchez une créature avec un jet d'attaque, la créature subit 2d6 dégâts supplémentaires si elle n'a pas encore joué de tour pendant ce combat.

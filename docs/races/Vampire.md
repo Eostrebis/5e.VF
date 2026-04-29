@@ -5,10 +5,10 @@ writing_status: finished
 
 Loin des prédateurs solitaires tapis dans les châteaux en ruine, le peuple appelé vampire forme des civilisations organisées, complexes et bien souvent en haut de la pyramide de leurs environnements. Ces êtres ne sont pas de simples morts-vivants condamnés à l'errance, mais des humanoïdes dont la nature a été transcendée par des rituels sacrés ou des corruptions planaires anciennes. Marqués par une élégance prédatrice et une peau d'une pâleur surnaturelle, chaque vampire est habité par une soif d'essence vitale qui définit son rapport au monde et aux autres races. Qu'ils perçoivent leur état comme une bénédiction divine ou un héritage de puissance, ils naviguent entre leurs instincts de chasseurs et leur propre sens de l'honneur. Selon leur monde d'origine, cette condition prend des formes radicalement différentes, oscillant entre la ferveur religieuse et la survie tribale.
 
-| Nom de la Lignée          | Monde d'Origine | Description                                        |
+| Nom de la Lignée | Monde d'Origine | Description |
 | ------------------------- | --------------- | -------------------------------------------------- |
-| [[#Légion du Crépuscule]] | Ixalan          | Des conquérants fanatiques se soignant par le sang |
-| [[#Maisons de Sang]]      | Zendikar        | Une tribu à forte hiérarchie, habitués à la survie |
+| [[#Légion du Crépuscule]] | Ixalan | Des conquérants fanatiques se soignant par le sang |
+| [[#Maisons de Sang]] | Zendikar | Une tribu à forte hiérarchie, habitués à la survie |
 
 ### Culture
 
@@ -42,11 +42,11 @@ Leur société est hiérarchisée et centrée sur la foi. Ils sont portés par u
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible.
 
-**Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
+**Résistance Vampirique.** Vous avez une résistance aux dégâts nécrotiques.
 
-__Canines de Vampire.__ Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+**Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perforants.
 
-**Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perçant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
+**Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perforant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0.
 
 **Festin de Sang.** Lorsque vous absorbez du sang avec votre Soif de Sang, vous vivez une explosion de vitalité. Votre vitesse augmente de 10 ft. et vous obtenez l'avantage aux jets de caractéristique et de sauvegarde de Force et de Dextérité pendant 1 minute.
 
@@ -80,8 +80,8 @@ Leur culture est un mélange de décadence raffinée et de survie brutale. Ils v
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible.
 
-**Résistance Vampirique.** Vous avez la résistance aux dégâts nécrotiques.
+**Résistance Vampirique.** Vous avez une résistance aux dégâts nécrotiques.
 
-__Canines de Vampire.__ Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perçants.
+**Canines de Vampire.** Vous pouvez utiliser vos dents aiguisées pour réaliser des attaques à mains nues. Lorsque vous touchez avec, vous infligez 1d6 + votre modificateur de Force dégâts perforants.
 
-**Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perçant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0. Un humanoïde tué par cet effet devient un Néanti. Le Néanti est un [[zombie]] sous votre contrôle mental. Vous ne pouvez avoir qu'un seul Néanti à la fois sous vos ordres ; si vous en créez un nouveau, le précédent tombe en poussière.
+**Soif de Sang.** Vous pouvez absorber le sang et l'énergie vitale d'une créature consentante, ou d'une qui est [[saisi|saisie]] par vous, [[incapacité|incapacitée]] ou [[retenu|retenue]]. Réalisez une attaque de mêlée avec vos canines contre la cible. Si vous touchez, vous infligez 1 dégât perforant et 1d6 dégâts nécrotiques. Les points de vie maximum de la cible sont réduits d'un montant égal aux dégâts nécrotiques subis, et vous regagnez autant de points de vie. Cette réduction persiste jusqu'à ce que la cible termine un repos long. La cible meurt si cet effet réduit son maximum de points de vie à 0. Un humanoïde tué par cet effet devient un Néanti. Le Néanti est un [[zombie]] sous votre contrôle mental. Vous ne pouvez avoir qu'un seul Néanti à la fois sous vos ordres ; si vous en créez un nouveau, le précédent tombe en poussière.

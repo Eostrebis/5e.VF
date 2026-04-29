@@ -7,13 +7,13 @@ Les clercs qui servent ces déités prodiguent confort et protection à ceux qui
 
 **Sorts du Domaine du Crépuscule**
 
-| Niveau de Clerc | Sorts                                             |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------- |
-| 1               | [[Lueurs Féériques]], [[Sommeil]]                 |
-| 3               | [[Rayon lunaire]], [[vision de l'invisible]]      |
-| 5               | [[Aura de Vitalité]], [[petite hutte de Leomund]] |
-| 7               | [[Aura de Vie]], [[invisibilité supérieure]]      |
-| 9               | [[Cercle de pouvoir]], [[Double Illusoire]]       |
+| 1 | [[Lueurs Féériques]], [[Sommeil]] |
+| 3 | [[Rayon lunaire]], [[vision de l'invisible]] |
+| 5 | [[Aura de Vitalité]], [[petite hutte de Leomund]] |
+| 7 | [[Aura de Vie]], [[invisibilité supérieure]] |
+| 9 | [[Cercle de pouvoir]], [[Double Illusoire]] |
 
 ## Maîtrises Supplémentaires
 Lorsque vous choisissez ce domaine au niveau 1, vous maîtrisez les [[Armures Lourdes]] et les [[Armes Martiales]].
@@ -41,5 +41,5 @@ Pour une action, vous affichez votre symbole sacré, et une sphère de lumière 
 Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. Une fois à chacun de vos tours, lorsque vous touchez une créature avec une attaque armée, vous pouvez faire en sort que l'attaque inflige 1d8 dégâts radiants supplémentaires à la cible. Lorsque vous atteignez le niveau 14, ces dégâts supplémentaires passent à 2d8.
 
 ## Brouillard Crépusculaire
-À partir du niveau 17, le crépuscule que vous invoquez offre une protection : vous et vos alliés profitez d'une couverture de moitié lorsque vous vous trouvez dans la sphère créée par votre Sanctuaire du Crépuscule.
+À partir du niveau 17, le crépuscule que vous invoquez offre une protection : vous et vos alliés profitez d'une demie-couverture lorsque vous vous trouvez dans la sphère créée par votre Sanctuaire du Crépuscule.
 

@@ -1,6 +1,6 @@
 ---
 available:
-  - Clerc
+ - Clerc
 level:
 school:
 Verbal: false

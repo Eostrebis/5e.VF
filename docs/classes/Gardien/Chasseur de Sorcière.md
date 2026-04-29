@@ -5,7 +5,7 @@ Là où il y a magie, il y a du mal. Les sorcières se terrent dans les ombres a
 
 ## Marque de Fléau des Sorcières
 
-À partir du moment où vous entendez cet appel au niveau 3, vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts et effets d'une créature que vous avez marquée. De plus, la créature marquée a le désavantage aux jets de sauvegarde de Constitution pour maintenir la concentration.
+À partir du moment où vous entendez cet appel au niveau 3, vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts et effets d'une créature que vous avez marquée. De plus, la créature marquée a le désavantage aux jets de sauvegarde de Constitution pour maintenir la concentration.
 
 ## Réflexion Occulte
 
@@ -13,7 +13,7 @@ Au niveau 6, lorsque vous réussissez un jet de sauvegarde contre un sort, vous 
 
 ## Résistance aux Sorts
 
-À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts.
+À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts.
 
 ## Antimage
 

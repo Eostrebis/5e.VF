@@ -3,32 +3,32 @@ writing_status: empty
 ---
 ## Personnage
 
-__Race :__ [[TIeflin]]
+**Race :** [[TIeflin]]
 
-__Classe :__ [[Sorcière]]
+**Classe :** [[Sorcière]]
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 10
+**Points de vie :** 10
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |   CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :-----: |
 | 15 (+2) | 14 (+2) | 15 (+2) | 16 (+3) | 12 (+1) | 18 (+4) |
-|  ◎ +2   |  ◎ +2   |  ◎ +2   |  ◎ +3   |  ◉ +3   |  ◉ +6   |
+| ◎ +2 | ◎ +2 | ◎ +2 | ◎ +3 | ◉ +3 | ◉ +6 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +2   | ◎ Investigation (_Int_) : +3  |
-| ◉ Arcanes (_Int_) : +5      | ◎ Médecine (_Sag_) : +1       |
-| ◎ Athlétisme (_For_) : +2   | ◎ Nature (_Int_) : +3<br>     |
-| ◉ Discrétion (_Dex_) : +4   | ◎ Perception (_Sag_) : +1     |
-| ◎ Dressage (_Sag_) : +1     | ◎ Persuasion (_Cha_) : +4     |
-| ◉ Escamotage (_Dex_) : +4   | ◉ Religion (_Int_) : +5       |
-| ◉ Histoire (_Int_) : +5     | ◎ Représentation (_Cha_) : +4 |
-| ◉ Intimidation (_Cha_) : +6 | ◎ Survie (_Sag_) : +1         |
-| ◎ Intuition (_Sag_) : +1    | ◎ Tromperie (_Cha_) : +4<br>  |
+| ◎ Acrobaties (*Dex*) : +2 | ◎ Investigation (*Int*) : +3 |
+| ◉ Arcanes (*Int*) : +5 | ◎ Médecine (*Sag*) : +1 |
+| ◎ Athlétisme (*For*) : +2 | ◎ Nature (*Int*) : +3<br> |
+| ◉ Discrétion (*Dex*) : +4 | ◎ Perception (*Sag*) : +1 |
+| ◎ Dressage (*Sag*) : +1 | ◎ Persuasion (*Cha*) : +4 |
+| ◉ Escamotage (*Dex*) : +4 | ◉ Religion (*Int*) : +5 |
+| ◉ Histoire (*Int*) : +5 | ◎ Représentation (*Cha*) : +4 |
+| ◉ Intimidation (*Cha*) : +6 | ◎ Survie (*Sag*) : +1 |
+| ◎ Intuition (*Sag*) : +1 | ◎ Tromperie (*Cha*) : +4<br> |
 
 #### Maîtrises
 
@@ -38,15 +38,15 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Matériel d'Alchimiste]], [[Kit d'Empoisonneur]], [[Kit de Déguisement]], [[Outils de Voleur]]
 
-__Langues__ : Commun, Infernal
+**Langues** : Commun, Infernal
 
 ### Description
 
-__Âge :__ 23 ans
+**Âge :** 23 ans
 
-__Taille :__ 1,65 m
+**Taille :** 1,65 m
 
-__Poids :__ 52 kg
+**Poids :** 52 kg
 
 L'apparence de Pahna est profondément dérangeante, non pas à cause d'une monstruosité évidente, mais à cause d'un vide subtil et effrayant qui semble l'imprégner. Elle se meut avec une économie de mouvement troublante, comme une marionnette dont les fils seraient tenus par une main paresseuse, chaque geste étant délibéré mais dépourvu de l'élan naturel de la vie.
 
@@ -63,7 +63,7 @@ Elle porte des vêtements sombres et fonctionnels, souvent en cuir usé, choisis
 
 ### Aptitudes de Race
 
-**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le Noir.** Grâce à votre héritage infernal, vous possédez une vision acclimatée aux ténèbres. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
@@ -95,7 +95,7 @@ Votre âme a été séparée de votre corps, vous êtes maintenant dans un limbo
 
 #### Saignement
 
-Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou, à chaque fois qu'elle prend des dégâts, perdre 1d4 points de vie supplémentaires. Cet effet persiste jusqu'à la fin de votre prochain tour.
+Pour une action, choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Constitution ou, à chaque fois qu'elle subit des dégâts, perdre 1d4 points de vie supplémentaires. Cet effet persiste jusqu'à la fin de votre prochain tour.
 
 #### Mauvaise Fortune
 
@@ -134,15 +134,15 @@ Sorcière sanguine, Pahna peut faciliter sa récupération magique par le sacrif
 
 ### Traits de Personnalité
 
-__Traits :__ Je dis de façon brute ce que les autres insinuent ou cachent. J'aime me glisser dans des endroits où personne ne peut m'atteindre.
+**Traits :** Je dis de façon brute ce que les autres insinuent ou cachent. J'aime me glisser dans des endroits où personne ne peut m'atteindre.
 
-__Idéal :__ J'aide ceux qui m'aident, c'est la base pour survivre
+**Idéal :** J'aide ceux qui m'aident, c'est la base pour survivre
 
-__Lien :__ Personne ne devrait à avoir vivre les horreurs que j'ai vécues.
+**Lien :** Personne ne devrait à avoir vivre les horreurs que j'ai vécues.
 
-__Défaut :__ C'est pas du vol si j'en ai besoin plus que l'autre.
+**Défaut :** C'est pas du vol si j'en ai besoin plus que l'autre.
 
-__Alignement :__ Neutre Mauvais
+**Alignement :** Neutre Mauvais
 
 ## Conseils de Jeu
 

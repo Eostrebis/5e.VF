@@ -27,6 +27,6 @@ Au niveau 10, votre noyau interne d'énergie sombre se diffuse à vos thralls, l
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. De par vos capacités martiales et votre puissant pouvoir nécromant, vous vous êtes transformé en liche imperator — une créature Morte-Vivante inégalée en arts arcaniques comme martiaux. Vous bénéficiez des effets suivants :
 
-**Recherche en Combat Parachevée.** Vous obtenez la maîtrise des [[armures lourdes]] si vous ne l'avez pas déjà et devenez résistant aux dégâts contondants, perçants et tranchants. 
+**Recherche en Combat Parachevée.** Vous obtenez la maîtrise des [[armures lourdes]] si vous ne l'avez pas déjà et devenez résistant aux dégâts contondants, perforants et tranchants. 
 
-**Frappe Charnelle Sans Égale.** Les dégâts nécrotiques infligés par votre Toucher Charnel ignorent la résistance et l'immunité aux dégâts nécrotiques. De plus, il n'y a plus de limite au nombre de points de vie temporaires que votre Frappe Charnelle vous confère.
+**Frappe Charnelle Sans Égale.** Les dégâts nécrotiques infligés par votre Toucher Charnel ignorent une résistance et l'immunité aux dégâts nécrotiques. De plus, il n'y a plus de limite au nombre de points de vie temporaires que votre Frappe Charnelle vous confère.

@@ -17,7 +17,7 @@ Une fois à chacun de vos tours, lorsque vous réduisez une créature hostile à
 
 Au niveau 7, vous apprenez la manœuvre suivante :
 
-Vous pouvez dépenser un dé de bataille pour utiliser votre action bonus pour Courir ou vous Désengager pendant votre tour.
+Vous pouvez dépenser un dé de bataille pour utiliser votre action bonus pour Foncer ou vous Désengager pendant votre tour.
 
 ## Manœuvre : Attaque Déchaînée 
 

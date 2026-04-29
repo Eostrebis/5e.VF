@@ -15,14 +15,14 @@ L'une des méthodes utilisées par les guenaudes pour perpétuer leur espèce es
 
 Un pacte avec une guenaude ou d'autres forces étranges a transformé votre personnage en un être magique. Lancez un dé ou choisissez une option dans la table ci-dessous pour déterminer comment votre personnage a acquis son lignage.
 
-| **d8** | **Origine**                                                                                                                                               |
+| **d8** | **Origine** |
 | ------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1      | Désirant un enfant, l'un de vos parents a conclu un marché avec une guenaude. Vous êtes le résultat de cet arrangement.                                   |
-| 2      | Des ravisseurs féeriques vous ont échangé avec l'enfant de vos parents.                                                                                   |
-| 3      | Un convent de guenaudes a perdu l'un de ses membres. Vous avez été créé pour remplacer la guenaude disparue.                                              |
-| 4      | Vous avez été maudit durant votre enfance. Un pacte avec les esprits de la forêt vous a transformé en sang-exalté, vous libérant ainsi de la malédiction. |
-| 5      | Vous avez commencé votre vie en tant que créature féerique, mais un accident vous a transformé et vous a forcé à quitter votre foyer.                     |
-| 6      | Un druide offensé vous a transformé et vous a condamné à ne vivre qu'aussi longtemps qu'un arbre sacré portera des fruits.                                |
+| 1 | Désirant un enfant, l'un de vos parents a conclu un marché avec une guenaude. Vous êtes le résultat de cet arrangement. |
+| 2 | Des ravisseurs féeriques vous ont échangé avec l'enfant de vos parents. |
+| 3 | Un convent de guenaudes a perdu l'un de ses membres. Vous avez été créé pour remplacer la guenaude disparue. |
+| 4 | Vous avez été maudit durant votre enfance. Un pacte avec les esprits de la forêt vous a transformé en sang-exalté, vous libérant ainsi de la malédiction. |
+| 5 | Vous avez commencé votre vie en tant que créature féerique, mais un accident vous a transformé et vous a forcé à quitter votre foyer. |
+| 6 | Un druide offensé vous a transformé et vous a condamné à ne vivre qu'aussi longtemps qu'un arbre sacré portera des fruits. |
 ### Culture
 
 Les Sang-exaltés sont souvent perçus avec méfiance. Dans les communautés rurales, ils sont soit vénérés comme des guérisseurs liés à la nature, soit craints comme des présages de malheur. Beaucoup choisissent de vivre en ermites dans des lieux où le voile entre les mondes est mince. Leur culture est celle du troc et des promesses : ils comprennent mieux que quiconque que chaque don de la magie a un prix, et ils traitent leurs paroles comme des contrats contraignants.
@@ -47,7 +47,7 @@ Les Sang-exaltés sont souvent perçus avec méfiance. Dans les communautés rur
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible jusqu'à 60 ft. comme s'il s'agissait d'une lumière vive, et dans l'obscurité comme s'il s'agissait d'une lumière faible.
 
-**Jeton Sinistre.** Pour une action, vous pouvez extraire une mèche de vos cheveux, un de vos ongles ou une de vos dents. Ce jeton est imprégné de magie jusqu'à ce que vous terminiez un repos long. Tant que le jeton est ainsi imprégné, vous pouvez prendre les actions suivantes : 
+**Jeton Sinistre.** Pour une action, vous pouvez extraire une mèche de vos cheveux, un de vos ongles ou une de vos dents. Ce jeton est imprégné de magie jusqu'à ce que vous terminiez un repos long. Tant que le jeton est ainsi imprégné, vous pouvez entreprendre les actions suivantes : 
 
  - **Message Télépathique.** Pour une action, vous pouvez envoyer un message télépathique à la créature tenant le jeton, tant que vous vous trouvez à 15 km l'une de l'autre. Ce message peut contenir jusqu'à 25 mots.
  - **Vision à Distance.** Si vous vous trouvez à moins de 15 km du jeton, vous pouvez entrer en transe pour une action. Cette transe dure 1 minute, mais vous pouvez la terminer prématurément librement (aucune action requise). Pendant cette transe, vous pouvez voir et entendre depuis le jeton comme si vous vous trouviez à son emplacement. Lorsque la transe se termine, le jeton se désagrège.

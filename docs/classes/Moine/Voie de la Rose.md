@@ -9,7 +9,7 @@ Une des traditions monastiques concentrées sur les fleurs et présente principa
 
 ## Éclosion
 
-Au niveau 3, une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour créer une éruption florale qui cache la vision de la cible. Jusqu'à la fin de son prochain tour, la cible est aveugle au-delà de 5 ft. Les pétales suivent la créature si elle bouge, sauf si elle utilise son action pour courir ou se déplace de plus de 40 ft. pendant son tour.
+Au niveau 3, une fois à chacun de vos tours lorsque vous touchez une créature avec une attaque à mains nues, vous pouvez dépenser 1 point de ki pour créer une éruption florale qui cache la vision de la cible. Jusqu'à la fin de son prochain tour, la cible est aveugle au-delà de 5 ft. Les pétales suivent la créature si elle bouge, sauf si elle utilise son action pour Foncer ou se déplace de plus de 40 ft. pendant son tour.
 
 ## Ruée de Pétales Flottants
 
@@ -19,7 +19,7 @@ Au niveau 6, vous pouvez réaliser une technique spéciale qui vous permet de di
 
 Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d'une faible aura. Lorsque vous terminez un repos long, choisissez l'une des auras suivantes, qui dure jusqu'à ce que vous utilisiez cette aptitude pour en choisir une autre. Cette aura fait effet 5 ft. autour de vous.
 
-**Rose.** La couleur de la gratitude, se lier à la rose rose transforme les bonnes actions en récompenses. Vous pouvez utiliser votre action bonus pour aider un allié dans votre aura.
+**Rose.** La couleur de la gratitude, se lier à la rose rose transforme les bonnes actions en récompenses. Vous pouvez utiliser votre action bonus pour Aider un allié dans votre aura.
 
 **Rouge.** La couleur du désir, se lier à la rose rouge vous emplit d'une passion ardente. Une créature non hostile autre que vous dans l'aura peut utiliser son action bonus lorsqu'elle touche avec une attaque pour infliger 1d6 dégâts supplémentaires.
 
@@ -27,6 +27,6 @@ Au niveau 11, vous savez manifester l'amour sous la forme d'une rose entourée d
 
 ## Couronne d'Épines
 
-Une fois que vous avez atteint le niveau 17, vous distrayez vos ennemis avec votre beauté et des bouquets de fleurs, les laissant ouvert à de rapides contre-attaques. Lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser 1 point de ki et une réaction pour réaliser une attaque à mains nues contre cette créature.
+Une fois que vous avez atteint le niveau 17, vous distrayez vos ennemis avec votre beauté et des bouquets de fleurs, les laissant ouvert à de rapides contre-attaques. Lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser 1 point de ki et une réaction pour réaliser une attaque à mains nues contre cette créature.
 
 

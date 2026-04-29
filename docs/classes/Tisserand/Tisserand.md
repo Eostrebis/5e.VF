@@ -36,29 +36,29 @@ Lorsque vous créez un tisserand, imaginez comment vous en êtes venu à maîtri
 
 Vous pouvez créer un Tisserand rapidement en suivant ces suggestions. Commencez par faire de la Dextérité votre caractéristique principale, suivie de l'Intelligence, puisque celle-ci vous est essentielle pour utiliser vos patterns et lancer vos sorts. Ensuite, choisissez la Ciselame. Enfin, choisissez un historique qui vous aurait donné l'opportunité d'étudier les arts arcaniques.
 
-| **Le Tisserand** |                   |                                                          |                    |
+| **Le Tisserand** | | | |
 | ---------------- | ----------------- | -------------------------------------------------------- | ------------------ |
-| Niveau           | Bonus de Maîtrise | Aptitudes                                                | Échelon de Tissage |
-| 1                | +2                | [[#Lamefil]], [[#Infusion]], [[#Coupe du Tisserand]]     | -                  |
-| 2                | +2                | [[#Finition]], [[#Découpe-Ruban]]                        | 1                  |
-| 3                | +2                | [[#Tapisserie du Tisserand]], [[#Renaissance Régulière]] | 1                  |
-| 4                | +2                | [[#Augmentation de Caractéristiques]]                    | 2                  |
-| 5                | +3                | [[#Cisaillement]]                                        | 2                  |
-| 6                | +3                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 2                  |
-| 7                | +3                | [[#Navette]], amélioration de [[#Renaissance Régulière]] | 3                  |
-| 8                | +3                | [[#Augmentation de Caractéristiques]]                    | 3                  |
-| 9                | +4                | [[#Tissage Cyclique]]                                    | 3                  |
-| 10               | +4                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 4                  |
-| 11               | +4                | [[#Lame Rusée]]                                          | 4                  |
-| 12               | +4                | [[#Augmentation de Caractéristiques]]                    | 4                  |
-| 13               | +5                | [[#Indivisible]]                                         | 5                  |
-| 14               | +5                | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]]     | 5                  |
-| 15               | +5                | [[#Ciseaux à Ruban]]                                     | 5                  |
-| 16               | +5                | [[#Augmentation de Caractéristiques]]                    | 6                  |
-| 17               | +6                | [[#Infusion Parfaite]]                                   | 6                  |
-| 18               | +6                | [[#Âme Tissée]]                                          | 6                  |
-| 19               | +6                | [[#Augmentation de Caractéristiques]]                    | 7                  |
-| 20               | +6                | [[#Touche FInale]]                                       | 7                  |
+| Niveau | Bonus de Maîtrise | Aptitudes | Échelon de Tissage |
+| 1 | +2 | [[#Lamefil]], [[#Infusion]], [[#Coupe du Tisserand]] | - |
+| 2 | +2 | [[#Finition]], [[#Découpe-Ruban]] | 1 |
+| 3 | +2 | [[#Tapisserie du Tisserand]], [[#Renaissance Régulière]] | 1 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 2 |
+| 5 | +3 | [[#Cisaillement]] | 2 |
+| 6 | +3 | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]] | 2 |
+| 7 | +3 | [[#Navette]], amélioration de [[#Renaissance Régulière]] | 3 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 3 |
+| 9 | +4 | [[#Tissage Cyclique]] | 3 |
+| 10 | +4 | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]] | 4 |
+| 11 | +4 | [[#Lame Rusée]] | 4 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 4 |
+| 13 | +5 | [[#Indivisible]] | 5 |
+| 14 | +5 | Aptitude de [[#Tapisserie du Tisserand\|Tapisserie]] | 5 |
+| 15 | +5 | [[#Ciseaux à Ruban]] | 5 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 6 |
+| 17 | +6 | [[#Infusion Parfaite]] | 6 |
+| 18 | +6 | [[#Âme Tissée]] | 6 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 7 |
+| 20 | +6 | [[#Touche FInale]] | 7 |
 
 # Aptitudes de Classes
 
@@ -94,7 +94,7 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
 
 ## Lamefil
 
-À partir du niveau 1, vous apprenez à créer une arme magique unique et iconique, connue sous le nom de lamefil, en la _tricotant_ instantanément. Vous pouvez le faire lorsque vous tirez l'initiative ou au début de votre tour. Lorsque vous en invoquez une deuxième, la première disparaît.
+À partir du niveau 1, vous apprenez à créer une arme magique unique et iconique, connue sous le nom de lamefil, en la *tricotant* instantanément. Vous pouvez le faire lorsque vous tirez l'initiative ou au début de votre tour. Lorsque vous en invoquez une deuxième, la première disparaît.
 
 Vous maîtrisez votre lamefil et vous utilisez votre modificateur de Dextérité plutôt que de Force pour vos jets d'attaque et de dégâts avec votre lamefil. Vous ne pouvez manier une autre arme ou vous équiper d'un bouclier lorsque vous maniez votre lamefil. Les lamefils ne possèdent pas les propriétés usuelles des autres armes, peu importe leur apparence, mais sont considérées comme des armes martiales.
 
@@ -102,7 +102,7 @@ Votre lamefil est une arme unique avec une apparence de votre propre design, mai
 
 ### Bristanclaque
 
-Votre lamefil se manifeste sous la forme d'une arme de mêlée massive et impossible qui inflige 1d12 dégâts tranchants. Tant que vous maniez cette arme, vos attaques avec pendant votre tour ont une portée de 10 ft., et vos attaques de mêlée ciblant les créatures [[au sol]] ignorent toutes les sources de désavantage.
+Votre lamefil se manifeste sous la forme d'une arme de mêlée massive et impossible qui inflige 1d12 dégâts tranchants. Tant que vous maniez cette arme, vos attaques avec pendant votre tour ont une allonge de 10 ft., et vos attaques de mêlée ciblant les créatures [[au sol]] ignorent toutes les sources de désavantage.
 
 ### Ciselame
 
@@ -110,15 +110,15 @@ Votre lamefil se manifeste sous la forme d'une arme de mêlée singulière qui i
 
 ### Aiguilles à Tricoter
 
-Votre lamefil se manifeste sous la forme d'une paire d'arme de mêlée qui infligent 2d4 dégâts perçants. Vous attaquez toujours avec elles simultanément et ne pouvez pas les utiliser pour réaliser du combat à deux armes. Une fois par tour, lorsque vous touchez une créature avec cette lamefil, vous pouvez la lier, réduisant sa vitesse de 10 ft. jusqu'à la fin de son prochain tour.
+Votre lamefil se manifeste sous la forme d'une paire d'arme de mêlée qui infligent 2d4 dégâts perforants. Vous attaquez toujours avec elles simultanément et ne pouvez pas les utiliser pour réaliser du combat à deux armes. Une fois par tour, lorsque vous touchez une créature avec cette lamefil, vous pouvez la lier, réduisant sa vitesse de 10 ft. jusqu'à la fin de son prochain tour.
 
 ### Coussin à Épingles
 
-Votre lamefil se manifeste sous la forme d'une masse de lames flottantes qui lévitent dans votre emplacement. Cette arme de mêlée inflige 1d8 dégâts perçants, et vous pouvez l'utiliser pour réaliser des attaques armées à distance contre des créatures à 30 ft. Lorsque vous touchez une créature avec une attaque utilisant cette arme, vous pouvez attirer la cible de 10 ft. vers vous ou la repousser de 10 ft.
+Votre lamefil se manifeste sous la forme d'une masse de lames flottantes qui lévitent dans votre emplacement. Cette arme de mêlée inflige 1d8 dégâts perforants, et vous pouvez l'utiliser pour réaliser des attaques armées à distance contre des créatures à 30 ft. Lorsque vous touchez une créature avec une attaque utilisant cette arme, vous pouvez attirer la cible de 10 ft. vers vous ou la repousser de 10 ft.
 
 ### Frappeurs de Kevlar
 
-Votre lamefil se manifeste sous la forme de gantelets et de solerets aiguisés qui infligent 1d10 dégâts perçants. Ces armes de mêlée ne peuvent être utilisées pour réaliser des attaques à mains nues. Après avoir réalisé une attaque avec cette lamefil, vous pouvez échanger de place avec votre cible s'il y a suffisamment de place pour chacun d'entre vous. Ce déplacement ne provoque pas d'attaque d'opportunité.
+Votre lamefil se manifeste sous la forme de gantelets et de solerets aiguisés qui infligent 1d10 dégâts perforants. Ces armes de mêlée ne peuvent être utilisées pour réaliser des attaques à mains nues. Après avoir réalisé une attaque avec cette lamefil, vous pouvez échanger de place avec votre cible s'il y a suffisamment de place pour chacun d'entre vous. Ce déplacement ne provoque pas d'attaque d'opportunité.
 
 ## Infusion
 
@@ -150,18 +150,18 @@ L'Intelligence est votre caractéristique d'incantation pour vos finitions et vo
 
 ## Découpe-Ruban
 
-À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible prend un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit réaliser un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
+À partir du niveau 2, pendant votre premier tour de combat après avoir tiré l'initiative, si vous utilisez votre action pour attaquer et attaquez avec votre lamefil ou une arme accessoire conférée par cette classe et touchez, vous déchaînez une tornade de fil de rasoir. Votre cible subit un nombre de dégâts tranchants égal au double de votre Échelon de tissage et doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, elle voit sa vitesse de mouvement est divisée par deux jusqu'à la fin de son prochain tour.
 
 ## Tapisserie du Tisserand
 
 Au niveau 3, vous créez un puissant accessoire magique qui vous permet de canaliser plus facilement votre pouvoir arcanique. Choisissez parmi la liste des tapisseries disponibles. Votre tapisserie vous confère des aptitudes au niveau 3, puis aux niveaux 6, 10 et 14.
 
-| Tapisserie                        | Description                                                                                             |
+| Tapisserie | Description |
 | --------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| [[Tapisserie Cramoisie]]          | Tissez un œil de sang vivant pour une mobilité féroce et une détermination inarrêtable.                 |
-| [[Tapisserie de Soie d'Ombre]]    | Tissez une cape de lames d'ombre pour frapper à distance, vous dissimuler et vous téléporter.           |
-| [[Tapisserie de Spirale Étoilée]] | Tissez une armure d'étoiles mécanique pour devenir un colosse de combat dévastateur.                    |
-| [[Tapisserie Mortelle]]           | Tissez un tome illusoire pour maîtriser toutes les lamefils et vous défendre par la ruse et l'illusion. |
+| [[Tapisserie Cramoisie]] | Tissez un œil de sang vivant pour une mobilité féroce et une détermination inarrêtable. |
+| [[Tapisserie de Soie d'Ombre]] | Tissez une cape de lames d'ombre pour frapper à distance, vous dissimuler et vous téléporter. |
+| [[Tapisserie de Spirale Étoilée]] | Tissez une armure d'étoiles mécanique pour devenir un colosse de combat dévastateur. |
+| [[Tapisserie Mortelle]] | Tissez un tome illusoire pour maîtriser toutes les lamefils et vous défendre par la ruse et l'illusion. |
 
 ## Renaissance Régulière
 
@@ -171,7 +171,7 @@ Vous pouvez également tisser votre fil arcanique en une corde de 100 ft. avec u
 
 De plus, vous obtenez la maîtrise de trois outils et vous pouvez créer n'importe quel outil que vous maîtrisez en utilisant cette aptitude.
 
-Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers prennent des dégâts, vous pouvez choisir de prendre les dégâts à la place ou de les laisser disparaître.
+Au niveau 7, vous pouvez créer un pont ou un escalier de fil arcanique en utilisant cette aptitude. Cette construction ne peut être de plus de 30 ft., mais est suffisamment large pour être utilisable sans problème par une créature de taille M, a une CA de 10 et peut supporter jusqu'à 10 000 lbs. Si le pont ou les escaliers subissent des dégâts, vous pouvez choisir de subir les dégâts à la place ou de les laisser disparaître.
 
 ## Augmentation de Caractéristiques
 

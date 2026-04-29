@@ -9,7 +9,7 @@ writing_status: finished
 
 Un peuple ailé originaire du Plan Élémentaire de l'Air, les aarakocras fendent le ciel partout où ils voyagent. Les premiers aarakocras servaient les Ducs de Vent d'Aaqa, et étaient insufflés avec une portion du pouvoir de leurs maîtres sur les vents. Leurs descendants possèdent désormais une fraction de ce pouvoir.
 
-Vu d'en dessous, les aarakocras ressemblent à de larges oiseaux et sont souvent appelés _piafs_. Ce n'est que lorsqu'ils atterrissent sur une branche ou qu'ils marchent au sol que leur nature Humanoïde ne se révèle. Lorsqu'ils se tiennent debout, les aarakocras font environ 1,50 m, et ont de longues jambes élancées terminées par des serres aiguisées. Des plumes couvrent leur corps, généralement rouges, oranges, jaunes, marrons ou grises. Leurs têtes sont également aviaires, ressemblant souvent celle d'un perroquet ou d'un aigle.
+Vu d'en dessous, les aarakocras ressemblent à de larges oiseaux et sont souvent appelés *piafs*. Ce n'est que lorsqu'ils atterrissent sur une branche ou qu'ils marchent au sol que leur nature Humanoïde ne se révèle. Lorsqu'ils se tiennent debout, les aarakocras font environ 1,50 m, et ont de longues jambes élancées terminées par des serres aiguisées. Des plumes couvrent leur corps, généralement rouges, oranges, jaunes, marrons ou grises. Leurs têtes sont également aviaires, ressemblant souvent à celle d'un perroquet ou d'un aigle.
 ## Culture
 
 ## Langue
@@ -26,7 +26,7 @@ Vu d'en dessous, les aarakocras ressemblent à de larges oiseaux et sont souvent
 
 **Taille.** Les aarakocras font environ 1,50 m. Ils ont des corps fins, légers, qui pèsent entre 40 et 50 kilogrammes. Votre taille est Moyenne.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9m/6 cases).
+**Vitesse.** Votre vitesse de base est de 30 ft.
 
 **Vol.** Grâce à vos ailes, vous avez une vitesse de vol égale à votre vitesse de marche. Vous ne pouvez pas utiliser cette vitesse de vol si vous portez une armure moyenne ou lourde.
 

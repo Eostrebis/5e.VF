@@ -6,6 +6,6 @@ englishname: Greataxe
 writing_status: finished
 ---
 
-| Dégâts          | Propriétés           |
+| Dégâts | Propriétés |
 | --------------- | -------------------- |
 | 1d12 tranchants | Lourde, À deux mains |

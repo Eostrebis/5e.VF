@@ -9,17 +9,17 @@ Vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux
 
 À chaque fois que vous gagnez un niveau d'ensorceleur, vous pouvez remplacer un sort que vous avez appris de cette aptitude par un autre sort du même niveau. Le nouveau sort doit être de l'école de la conjuration ou de la transmutation, et appartenir à la liste de sorts de l'ensorceleur, de l'occultiste ou du magicien.
 
-| Niveau | Sorts                                         |
+| Niveau | Sorts |
 | ------ | --------------------------------------------- |
-| 1      | [[Déguisement]], [[graisse]]                  |
-| 3      | [[Aberration corporelle]], [[flèche d'acide]] |
-| 5      | [[Démembrement bénin]], [[poigne rouillante]] |
-| 7      | [[Liberté de mouvement]], [[Peau de pierre]]  |
-| 9      | [[Évasivité]], [[apparence trompeuse]]        |
+| 1 | [[Déguisement]], [[graisse]] |
+| 3 | [[Aberration corporelle]], [[flèche d'acide]] |
+| 5 | [[Démembrement bénin]], [[poigne rouillante]] |
+| 7 | [[Liberté de mouvement]], [[Peau de pierre]] |
+| 9 | [[Évasivité]], [[apparence trompeuse]] |
 
 ## Réformation
 
-À partir du moment où vous choisissez cette origine au niveau 1, votre chair vaguement gélatineuse peut se réparer lorsque vous êtes blessé. Lorsque vous prenez des dégâts contondants, perçants ou tranchants d'une attaque non magique et que vous ne tombez pas à 0 point de vie, vous pouvez utiliser votre réaction pour regagner immédiatement 1d4 points de vie, jusqu'à un montant maximum égal aux dégâts subis. 
+À partir du moment où vous choisissez cette origine au niveau 1, votre chair vaguement gélatineuse peut se réparer lorsque vous êtes blessé. Lorsque vous subissez des dégâts contondants, perforants ou tranchants d'une attaque non magique et que vous ne tombez pas à 0 point de vie, vous pouvez utiliser votre réaction pour regagner immédiatement 1d4 points de vie, jusqu'à un montant maximum égal aux dégâts subis.
 
 Ce soin augmente de 1d4 lorsque vous atteignez les niveaux 5 (2d4), 11 (3d4) et 17 (4d4).
 
@@ -41,6 +41,6 @@ Le duplicata persiste pendant 24 heures ou jusqu'à ce qu'il tombe à 0 point de
 
 Le cube utilise votre modificateur d'attaque de sort et votre DD de sauvegarde de sort à la place de ses modificateurs de jet d'attaque et DD de sauvegarde. Vous êtes immunisé aux dégâts d'acide du cube et n'êtes pas soumis à l'Enveloppement (Engulf) du cube.
 
-Le cube est amical envers vous et vos compagnons. En combat, il tire sa propre initiative et agit pendant son propre tour. Le cube obéit les ordres que vous lui donnez (aucune action requise). Si vous ne lui en donnez pas, le cube se défend contre les créatures hostiles, mais ne prend aucune autre action. Le MJ possède les statistiques du cube gélatineux.
+Le cube est amical envers vous et vos compagnons. En combat, il tire sa propre initiative et agit pendant son propre tour. Le cube obéit les ordres que vous lui donnez (aucune action requise). Si vous ne lui en donnez pas, le cube se défend contre les créatures hostiles, mais n'entreprend aucune autre action. Le MJ possède les statistiques du cube gélatineux.
 
 Le cube se dissout en un liquide gluant lorsqu'il tombe à 0 point de vie ou que vous le dissipez en une action pendant votre tour. Vous ne pouvez avoir qu'un seul cube gélatineux invoqué à la fois.

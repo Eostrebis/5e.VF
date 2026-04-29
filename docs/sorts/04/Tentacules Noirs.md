@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Sorcière
+ - Magicien
+ - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -14,12 +14,12 @@ Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Black Tentacles
-writing_status: empty
+writing_status: finished
 ---
-De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. Pour la durée du sort, ces tentacules rendent le terrain difficile.
+De sombres tentacules grouillants occupent le sol dans un carré de 20 ft. de côté que vous pouvez voir dans la portée du sort. pendant la durée du sort, ces tentacules rendent le terrain difficile.
 
-Lorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou prendre 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules prend 3d6 dégâts contondants.
+Lorsqu'une créature entre dans la zone affectée pour la première pendant un tour et qu'elle y commence son tour, elle doit réussir un jet de sauvegarde de Dextérité ou subir 3d6 dégâts contondants et être [[retenu|retenue]] par les tentacules jusqu'à ce que le sort se termine. Une créature qui commence son tour dans la zone et est déjà [[retenu|retenue]] par les tentacules subit 3d6 dégâts contondants.
 
-Une créature [[retenu|retenue]] par les tentacules peut utiliser son action pour réaliser une jet de Force ou Dextérité (au choix) contre le DC de sauvegarde de sort. Si elle réussit, elle se libère.
+Une créature [[retenu|retenue]] par les tentacules peut utiliser son action pour effectuer une jet de Force ou Dextérité (au choix) contre le DC de sauvegarde de sort. Si elle réussit, elle se libère.
 
 

@@ -5,13 +5,13 @@ Les dieux de la forge sont les patrons des artisans qui travaillent le métal, d
 
 **Sorts du Domaine de la Forge**
 
-| Niveau de Clerc | Sorts                                                   |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------------- |
-| 1               | [[Identification]], [[châtiment calcinant]]             |
-| 3               | [[Métal brûlant]], [[Arme Magique]]                     |
-| 5               | [[Arme élémentaire]], [[protection contre une énergie]] |
-| 7               | [[Fabrication]], [[mur de feu]]                         |
-| 9               | [[Animation d'Objets]], [[création]]                    |
+| 1 | [[Identification]], [[châtiment calcinant]] |
+| 3 | [[Métal brûlant]], [[Arme Magique]] |
+| 5 | [[Arme élémentaire]], [[protection contre une énergie]] |
+| 7 | [[Fabrication]], [[mur de feu]] |
+| 9 | [[Animation d'Objets]], [[création]] |
 
 ## Maîtrises Supplémentaires
 
@@ -49,4 +49,4 @@ Au niveau 8, vous gagnez la capacité d'infuser vos coups armés avec de l'éner
 Au niveau 17, votre affinité avec le feu et le métal devient encore plus puissante : 
 
  - Vous êtes immunisé contre les dégâts de feu
- - Tant que vous portez une armure lourde, vous êtes résistant aux dégâts contondants, tranchants et perçants venant d'attaques non magiques.
+ - Tant que vous portez une armure lourde, vous êtes résistant aux dégâts contondants, tranchants et perforants venant d'attaques non magiques.

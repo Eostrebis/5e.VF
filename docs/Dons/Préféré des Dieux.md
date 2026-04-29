@@ -7,11 +7,11 @@ Un dieu vous a choisi afin que vous portiez une portion de son pouvoir.
 
 Vous apprenez un cantrip de votre choix parmi la liste de sorts du clerc, ainsi qu'un sort de niveau 1 basé sur l'alignement de votre personnage. Vous apprenez également le sort [[Augure]].
 
-| Alignement | Sort de niveau 1                                                   |
+| Alignement | Sort de niveau 1 |
 | ---------- | ------------------------------------------------------------------ |
-| Mauvais    | Choisissez un sort de niveau 1 de l'[[occultiste]]                 |
-| Bon        | Choisissez un sort de niveau 1 du [[clerc]]                        |
-| Neutre     | Choisissez un sort de niveau 1 du [[druide]] ou de la [[sorcière]] |
+| Mauvais | Choisissez un sort de niveau 1 de l'[[occultiste]] |
+| Bon | Choisissez un sort de niveau 1 du [[clerc]] |
+| Neutre | Choisissez un sort de niveau 1 du [[druide]] ou de la [[sorcière]] |
 
 Vous pouvez lancer le sort choisi ainsi qu'[[Augure]] sans dépenser d'emplacement de sort, et vous devez terminer un repos long avant de pouvoir relancer n'importe lequel de ces sorts de cette façon. Vous pouvez aussi incanter ces sorts en utilisant vos emplacements de sort.
 

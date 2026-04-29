@@ -5,13 +5,13 @@ Le domaine de la Mort s'intéresse aux forces qui provoquent la mort, ainsi qu'�
 
 **Sorts du Domaine de la Mort**
 
-| Niveau de Clerc | Sorts                                            |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------ |
-| 1               | [[Simulacre de Vie]], [[rayon empoisonné]]       |
-| 3               | [[Cécité ou Surdité]], [[rayon affaiblissant]]   |
-| 5               | [[Animation des Morts]], [[Toucher du Vampire]]   |
-| 7               | [[Flétrissement]], [[protection contre la mort]] |
-| 9               | [[Coquille Antivie]], [[brume mortelle]]         |
+| 1 | [[Simulacre de Vie]], [[rayon empoisonné]] |
+| 3 | [[Cécité ou Surdité]], [[rayon affaiblissant]] |
+| 5 | [[Animation des Morts]], [[Toucher du Vampire]] |
+| 7 | [[Flétrissement]], [[protection contre la mort]] |
+| 9 | [[Coquille Antivie]], [[brume mortelle]] |
 
 ## Maîtrises Supplémentaires.
 
@@ -29,7 +29,7 @@ Lorsque que vous touchez une créature avec une attaque de mêlée, vous pouvez 
 
 ## Destruction Inévitable
 
-À partir du niveau 6, votre capacité à canaliser de l'énergie négative devient plus puissante. Les dégâts nécrotiques que vous infligez par des sorts et votre Canal Divin ignorent la résistance.
+À partir du niveau 6, votre capacité à canaliser de l'énergie négative devient plus puissante. Les dégâts nécrotiques que vous infligez par des sorts et votre Canal Divin ignorent une résistance.
 
 ## Frappe Divine
 

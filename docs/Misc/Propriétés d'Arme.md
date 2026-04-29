@@ -17,7 +17,7 @@ Si cette arme est submergée ou arrosée de suffisamment d'eau, elle s'enraille.
 Cette arme requiert des compétences hors pair pour être maniée. Vous devez avoir un score de Dextérité de 16 ou plus pour manier une arme élégante.
 
 #### Explosive
-Lorsqu'un projectile de cette arme touche une cible, il explose en une sphère d'un diamètre de 15 ft. Ce projectile peut cibler n'importe quel emplacement inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (pour une créature de taille M ou P, toutes les créatures à 5 ft.) doit réussir un jet de sauvegarde de Dextérité DD 14 ou prendre la moitié des dégâts obtenus lors du jet de dégâts.
+Lorsqu'un projectile de cette arme touche une cible, il explose en une sphère d'un diamètre de 15 ft. Ce projectile peut cibler n'importe quel emplacement inoccupé à portée. Chaque créature autre que la cible dans le rayon d'explosion (pour une créature de taille M ou P, toutes les créatures à 5 ft.) doit réussir un jet de sauvegarde de Dextérité DD 14 ou subir la moitié des dégâts obtenus lors du jet de dégâts.
 
 #### Finesse
 Lorsque vous réalisez une attaque avec une arme de finesse, vous pouvez utiliser au choix la Force ou la Dextérité pour vos jets d'attaque et de dégâts. Vous devez utiliser la même caractéristique pour les deux jets.
@@ -52,8 +52,8 @@ Cette arme est normalement utilisée attachée à un trépied ou un véhicule. V
 #### Parure
 Tant que vous maniez cette arme et pas de bouclier, vous obtenez un bonus de +1 à la CA.
 
-#### Portée
-Cette arme ajoute 5 ft. à votre portée lorsque vous attaquez avec, ainsi qu'à la portée utilisée pour déterminer les attaques d'opportunité.
+#### Allonge
+Cette arme ajoute 5 ft. à votre allonge lorsque vous attaquez avec, ainsi qu'à la portée utilisée pour déterminer les attaques d'opportunité.
 
 #### Rechargement
 Cette arme peut être utilisée pour réaliser un nombre d'attaques avant d'être rechargée. Si vous maîtrisez l'arme, recharger vous prend une action bonus. Certaines armes demandent une action ou plus pour recharger, même si vous la maîtrisez. Si recharger une arme demande plus qu'une action, vous ne pouvez pas réaliser d'attaque avec avant que le rechargement ne soit fini.
@@ -83,7 +83,7 @@ Cette arme a deux formes. Vous pouvez échanger entre les formes à n'importe qu
 Lorsque vous réalisez une attaque armée à distance avec une arme de tension, vous pouvez utiliser au choix la Force ou la Dextérité pour vos jets d'attaque et de dégâts. Vous devez utiliser la même caractéristique pour les deux jets.
 
 #### Jet
-Si une arme a la propriété Jet, vous pouvez jeter l'arme pour réaliser une attaque à distance. Si l'arme est une arme de mêlée, vous utilisez le même modificateur que vous utiliseriez pour une attaque de mêlée.
+Si une arme a la propriété Jet, vous pouvez jeter l'arme pour effectuer une attaque à distance. Si l'arme est une arme de mêlée, vous utilisez le même modificateur que vous utiliseriez pour une attaque de mêlée.
 
 #### À Deux Mains
 Cette arme requiert deux mains pour être utilisée.
@@ -92,10 +92,10 @@ Cette arme requiert deux mains pour être utilisée.
 Une arme polyvalente peut être utilisée avec une ou deux mains. Les dégâts entre parenthèses indiquent les dégâts lorsque l'arme est utilisée à deux mains
 
 #### Jambette
-Vous pouvez essayer de pousser une créature dans la portée de cette arme. De plus, vous avez l'avantage aux jets que vous réalisez pour pousser une créature avec cette arme.
+Vous pouvez essayer de Pousser une créature dans l'allonge de cette arme. De plus, vous avez l'avantage aux jets que vous effectuez pour pousser une créature avec cette arme.
 
 #### Précision
-Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible prend 1d6 dégâts supplémentaires.
+Une fois par tour, lorsque vous touchez une créature avec cette arme et avez l'avantage au jet d'attaque, la cible subit 1d6 dégâts supplémentaires.
 
 #### Tirs Jumeaux
-Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à portée de cette arme.
+Une fois à chacun de vos tours lorsque vous réalisez une attaque avec cette arme, vous pouvez réaliser une autre attaque contre une autre créature à 5 ft. de la cible originelle et à allonge de cette arme.

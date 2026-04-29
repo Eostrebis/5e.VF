@@ -5,6 +5,6 @@ poids: 4
 englishname: Mace
 writing_status: finished
 ---
-| Dégâts          | Propriétés |
+| Dégâts | Propriétés |
 | --------------- | ---------- |
-| 1d6 contondants | --         |
+| 1d6 contondants | -- |

@@ -36,24 +36,24 @@ La Sagesse est votre caractéristique d'incantation pour vos sorts de druide. En
 
 | Niveau de Gardien | Cantrips Connus | Sorts Connus | 1er | 2eme | 3eme | 4eme |
 | :---------------: | :-------------: | :----------: | :-: | :--: | :--: | :--: |
-|         3         |        2        |      3       |  2  |  --  |  --  |  --  |
-|         4         |        2        |      4       |  3  |  --  |  --  |  --  |
-|         5         |        2        |      4       |  3  |  --  |  --  |  --  |
-|         6         |        2        |      4       |  3  |  --  |  --  |  --  |
-|         7         |        2        |      5       |  4  |  2   |  --  |  --  |
-|         8         |        2        |      6       |  4  |  2   |  --  |  --  |
-|         9         |        2        |      6       |  4  |  2   |  --  |  --  |
-|        10         |        3        |      7       |  4  |  3   |  --  |  --  |
-|        11         |        3        |      8       |  4  |  3   |  --  |  --  |
-|        12         |        3        |      8       |  4  |  3   |  --  |  --  |
-|        13         |        3        |      9       |  4  |  3   |  2   |  --  |
-|        14         |        3        |      10      |  4  |  3   |  2   |  --  |
-|        15         |        3        |      10      |  4  |  3   |  2   |  --  |
-|        16         |        3        |      11      |  4  |  3   |  3   |  --  |
-|        17         |        3        |      11      |  4  |  3   |  3   |  --  |
-|        18         |        3        |      11      |  4  |  3   |  3   |  --  |
-|        19         |        3        |      12      |  4  |  3   |  3   |  1   |
-|        20         |        3        |      13      |  4  |  3   |  3   |  1   |
+| 3 | 2 | 3 | 2 | -- | -- | -- |
+| 4 | 2 | 4 | 3 | -- | -- | -- |
+| 5 | 2 | 4 | 3 | -- | -- | -- |
+| 6 | 2 | 4 | 3 | -- | -- | -- |
+| 7 | 2 | 5 | 4 | 2 | -- | -- |
+| 8 | 2 | 6 | 4 | 2 | -- | -- |
+| 9 | 2 | 6 | 4 | 2 | -- | -- |
+| 10 | 3 | 7 | 4 | 3 | -- | -- |
+| 11 | 3 | 8 | 4 | 3 | -- | -- |
+| 12 | 3 | 8 | 4 | 3 | -- | -- |
+| 13 | 3 | 9 | 4 | 3 | 2 | -- |
+| 14 | 3 | 10 | 4 | 3 | 2 | -- |
+| 15 | 3 | 10 | 4 | 3 | 2 | -- |
+| 16 | 3 | 11 | 4 | 3 | 3 | -- |
+| 17 | 3 | 11 | 4 | 3 | 3 | -- |
+| 18 | 3 | 11 | 4 | 3 | 3 | -- |
+| 19 | 3 | 12 | 4 | 3 | 3 | 1 |
+| 20 | 3 | 13 | 4 | 3 | 3 | 1 |
 
 
 ## Âme-Sang
@@ -62,11 +62,11 @@ La Sagesse est votre caractéristique d'incantation pour vos sorts de druide. En
 
 ## Murmures de l'Au-Delà
 
-Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque vous avez besoin d'aide. Si vous passez 1 minute en contemplation lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez consulter ces esprits pour gagner l'avantage au jet. Vous ne pouvez pas utiliser cette aptitude lorsque vos ancêtres n'auraient pas la connaissance appropriée, par exemple si vous cherchez à vous renseigner sur l'alchimie de pointe.
+Au niveau 6, vous pouvez entendre de petites voix d'esprits ancestraux lorsque vous avez besoin d'aide. Si vous passez 1 minute en contemplation lorsque vous effectuez un jet d'Intelligence ou de Sagesse, vous pouvez consulter ces esprits pour gagner l'avantage au jet. Vous ne pouvez pas utiliser cette aptitude lorsque vos ancêtres n'auraient pas la connaissance appropriée, par exemple si vous cherchez à vous renseigner sur l'alchimie de pointe.
 
 ## Résistance aux Sorts
 
-À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous réalisez contre les sorts.
+À partir du niveau 13, vous avez l'avantage aux jets de sauvegarde que vous effectuez contre les sorts.
 
 ## Observateur Éthéré
 
@@ -74,7 +74,7 @@ Au niveau 20, pour une action, vous pouvez abandonner votre forme mortelle un co
 
  - Pour une action bonus, vous pouvez devenir éthéré, comme d'après le sort [[Forme Éthérée]].
  - Vous pouvez utiliser votre action bonus pour revenir de cette forme éthérée lorsque vous utilisez vos aptitudes [[Gardien#Marque du Gardien|Marque du Gardien]] ou [[Gardien#Saisie du Gardien|Saisie du Gardien]]. Vous pouvez utiliser votre action bonus pour revenir de cette forme lorsque vous lancez un sort pendant votre tour.
- - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. prend 4d6 dégâts de force, se sentant attiré par les deux plans.
+ - Lorsque que vous revenez de votre forme éthérée, chaque créature que vous choisissez à 10 ft. subit 4d6 dégâts de force, se sentant attiré par les deux plans.
  - Vous pouvez lancer les sorts de druides que vous connaissez de niveau 1 et 2 sans dépenser d'emplacements de sorts.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos long.

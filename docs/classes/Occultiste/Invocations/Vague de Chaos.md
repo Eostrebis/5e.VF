@@ -1,0 +1,17 @@
+---
+writing_status: finished
+---
+*Prérequis : niveau 9, Pacte de la Flamme*
+
+Pour une action, vous pouvez allumer une étincelle de magie incontrôlée pour lancer un sort aléatoire. Dépensez un emplacement de sort d'occultiste et tirez dans la table ci-dessous. Chaque entrée donne une liste de sort d'une école de magie ; vous devez choisir de lancer l'un des sorts de la liste obtenue en utilisant votre emplacement de sort d'occultiste, sans dépenser de composantes matérielles coûteuses. 
+
+| d8 | Sorts |
+| --- | ------------------------------------------------------------------------------------------------------------------- |
+| 1 | **Abjuration.** [[Aide]], [[protection contre une énergie]], [[peau de pierre]], [[coquille antivie]] |
+| 2 | **Conjuration.** [[Toile]], [[convocation de bête]], [[porte dimensionnelle]], [[brume mortelle]] |
+| 3 | **Divination.** [[Détection des pensées]], [[discernement géomantique]], [[divination]], [[examen d'un adversaire]] |
+| 4 | **Enchantement.** [[Suggestion]], [[malédiction de l'épée]], [[confusion]], [[immobilisation de monstre]] |
+| 5 | **Évocation**. [[Saute de vent]], [[boule de feu]], [[Tempête de Glace]], [[mur de force]] |
+| 6 | **Illusion.** [[Image miroir]], [[image majeure]], [[invisibilité supérieure]], [[apparence trompeuse]] |
+| 7 | **Nécromancie.** [[Rayon affaiblissant]], [[malédiction persistante]], [[flétrissement]], [[contagion]] |
+| 8 | **Transmutation.** [[Métal brûlant]], [[célérité]], [[métamorphose]], [[animation d'objets]] |

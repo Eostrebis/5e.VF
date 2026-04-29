@@ -1,6 +1,6 @@
 ---
 available:
-  - Nécromancien
+ - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true
@@ -13,12 +13,12 @@ Portee: 120 ft.
 Concentration: true
 Rituel: false
 englishname: Grasp of the Grave
-writing_status: empty
+writing_status: finished
 ---
 Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.
 
-Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit réaliser un jet de sauvegarde de Force. Si elle échoue, elle prend 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle prend la moitié des dégâts et n'est pas déplacée.
+Lorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle subit 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle subit la moitié des dégâts et n'est pas déplacée.
 
-Jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour forcer toutes les créatures dans la zone à réaliser un jet de sauvegarde immédiatement.
+Jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour forcer toutes les créatures dans la zone à effectuer un jet de sauvegarde immédiatement.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.

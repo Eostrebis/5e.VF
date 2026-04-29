@@ -8,16 +8,16 @@ La Féerie abrite tout un tas de peuples fantastiques, dont les fadettes. Les fa
 
 Imprégnées avec la magie de la Féerie, les fadettes ressemblent à de petits elfes avec des ailes d'insecte, mais chaque fadette possède une caractéristique physique personnelle. Pour votre fadette, tirez dans la table ci-dessous, ou choisissez une option. Vous pouvez bien évidemment inventer votre propre caractéristique si aucune ne vous sied.
 
-| d8  | Caractéristique                                                               |
+| d8 | Caractéristique |
 | :-: | ----------------------------------------------------------------------------- |
-|  1  | Vos ailes ressemblent à celles d'un oiseau.                                   |
-|  2  | Vous avez une peau multicolore et chatoyante.                                 |
-|  3  | Vous avez des oreilles particulièrement grandes.                              |
-|  4  | Une brume scintillante se trouve en permanence autour de vous.                |
-|  5  | Vous avez une petite corne spectrale sur le front, comme celle d'une licorne. |
-|  6  | Vos jambes ressemblent à celles d'un insecte.                                 |
-|  7  | Vous sentez le moelleux au chocolat tout juste sorti du four.                 |
-|  8  | Une fraîcheur notable, mais inoffensive émane de vous.                        |
+| 1 | Vos ailes ressemblent à celles d'un oiseau. |
+| 2 | Vous avez une peau multicolore et chatoyante. |
+| 3 | Vous avez des oreilles particulièrement grandes. |
+| 4 | Une brume scintillante se trouve en permanence autour de vous. |
+| 5 | Vous avez une petite corne spectrale sur le front, comme celle d'une licorne. |
+| 6 | Vos jambes ressemblent à celles d'un insecte. |
+| 7 | Vous sentez le moelleux au chocolat tout juste sorti du four. |
+| 8 | Une fraîcheur notable, mais inoffensive émane de vous. |
 ![[Fadettes.png]]
 
 

@@ -15,7 +15,7 @@ Au niveau 3, vous obtenez la vision dans le noir à une distance de 60 ft. Si vo
 
 ## Exil du Néant
 
-Au niveau 7, vous pouvez utiliser votre action pour faire en sorte qu'une créature que vous pouvez voir à 60 ft. réalise un jet de sauvegarde de Sagesse. Si elle échoue, la créature est bannie vers un demi-plan ténébreux et adjacent au Vide. Tant qu'elle s'y trouve, la cible est [[incapacité|incapacitée]]. Au début de votre prochain tour, la cible réapparaît sur l'emplacement qu'elle a quitté ou l'emplacement libre le plus proche si celui-ci est occupé. Vous pouvez également vous cibler vous-même avec cette aptitude, ne nécessitant alors aucun jet de sauvegarde.
+Au niveau 7, vous pouvez utiliser votre action pour faire en sorte qu'une créature que vous pouvez voir à 60 ft. effectue un jet de sauvegarde de Sagesse. Si elle échoue, la créature est bannie vers un demi-plan ténébreux et adjacent au Vide. Tant qu'elle s'y trouve, la cible est [[incapacité|incapacitée]]. Au début de votre prochain tour, la cible réapparaît sur l'emplacement qu'elle a quitté ou l'emplacement libre le plus proche si celui-ci est occupé. Vous pouvez également vous cibler vous-même avec cette aptitude, ne nécessitant alors aucun jet de sauvegarde.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 
@@ -25,4 +25,4 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser ju
 
 ## Sanctuaire Stygien
 
-À partir du niveau 14, Érèbe vous attire dans le Vide plutôt que de vous laisser impuissant face à la mort. Pour une réaction lorsque vous prenez des dégâts, mais n'êtes pas réduit à 0 point de vie ou tué sur le coup, vous pouvez utiliser votre réaction pour vous téléporter vers un demi-plan sans fin adjacent au Vide. Vous restez dans ce plan aussi longtemps que vous le souhaitez, et vous pouvez utiliser votre action pour retourner à l'emplacement que vous avez quitté ou l'emplacement libre le plus proche si celui-ci est occupé.
+À partir du niveau 14, Érèbe vous attire dans le Vide plutôt que de vous laisser impuissant face à la mort. Pour une réaction lorsque vous subissez des dégâts, mais subissez des dégâts à 0 point de vie ou tué sur le coup, vous pouvez utiliser votre réaction pour vous téléporter vers un demi-plan sans fin adjacent au Vide. Vous restez dans ce plan aussi longtemps que vous le souhaitez, et vous pouvez utiliser votre action pour retourner à l'emplacement que vous avez quitté ou l'emplacement libre le plus proche si celui-ci est occupé.

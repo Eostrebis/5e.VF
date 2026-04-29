@@ -1,6 +1,6 @@
 ---
 available:
-  - Nécromancien
+ - Nécromancien
 level: 9
 school: Nécromancie
 Verbal: true
@@ -13,7 +13,7 @@ Portee: Personnelle (rayon de 2 km)
 Concentration: false
 Rituel: false
 englishname: Heart of Darkness
-writing_status: empty
+writing_status: finished
 ---
 Lorsque vous lancez ce sort, vous poignardez un cœur noir préparé ritualistiquement. L'ichor du cœur infecte le sol avec de nauséabondes énergies nécromantiques, causant jusqu'à cent piles d'os ou corps d'Humanoïdes de taille P ou M dans les 2 km à la ronde à se relever de la mort, devenant des squelettes ou des zombies. Les morts-vivants creusent leur chemin hors des tombes, fracassent les mausolées et brisent les portes des cimetières. 
 
@@ -21,4 +21,4 @@ La créature qui tient le cœur peut utiliser son action pour donner une command
 
 Même lorsque vous tenez le cœur, les morts-vivants ne sont pas sous votre contrôle direct et ne comptent pas dans le nombre de morts-vivants que vous pouvez contrôler.
 
-Les morts-vivants restent animés jusqu'à ce que le sort ne termine. Le sort se termine si le cœur est détruit (AC 20, PV 10, immunisé aux dégâts nécrotiques, de poison et psychiques) ou ciblé par une [[Dissipation de la Magie]] de niveau 9. Lorsque le sort se termine, tous les morts-vivants créés par celui-ci sont instantanément détruits, réduits à une pile de poussière. Le sort se termine aussi si tous les morts-vivants créés par le sort sont détruits.
+Les morts-vivants restent animés jusqu'à ce que le sort se termine. Le sort se termine si le cœur est détruit (AC 20, PV 10, immunisé aux dégâts nécrotiques, de poison et psychiques) ou ciblé par une [[Dissipation de la Magie]] de niveau 9. Lorsque le sort se termine, tous les morts-vivants créés par celui-ci sont instantanément détruits, réduits à une pile de poussière. Le sort se termine aussi si tous les morts-vivants créés par le sort sont détruits.

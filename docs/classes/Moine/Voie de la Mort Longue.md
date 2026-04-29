@@ -17,4 +17,4 @@ Au niveau 6, vous obtenez la capacité de déranger ou terrifier ceux autour de 
 
 ## Toucher de la Mort Longue
 
-À partir du niveau 17, votre toucher peut canaliser l'énergie de la mort dans une créature. Pour une action, vous touchez une créature à 5 ft. de vous, et dépensez entre 1 et 10 points de ki. La cible doit réussir un jet de sauvegarde de Constitution ou prendre 2d10 dégâts nécrotiques par point de ki dépensé. Si elle réussit le jet, elle ne prend que la moitié de ces dégâts.
+À partir du niveau 17, votre toucher peut canaliser l'énergie de la mort dans une créature. Pour une action, vous touchez une créature à 5 ft. de vous, et dépensez entre 1 et 10 points de ki. La cible doit réussir un jet de sauvegarde de Constitution ou subir 2d10 dégâts nécrotiques par point de ki dépensé. Si elle réussit le jet, elle ne subit que la moitié de ces dégâts.

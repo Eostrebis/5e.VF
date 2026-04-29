@@ -6,6 +6,6 @@ englishname: Shortbow
 writing_status: finished
 ---
 
-| Dégâts       | Propriétés                      |
+| Dégâts | Propriétés |
 | ------------ | ------------------------------- |
-| 1d6 perçants | Munition (80/320), À deux mains |
+| 1d6 perforants | Munition (80/320), À deux mains |

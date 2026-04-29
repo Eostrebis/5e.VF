@@ -23,12 +23,12 @@ En plus de leur talent de grimpeurs nés, les volanzées ont des pieds aussi dex
 
 **Âge.** Les volanzées grandissent plus vite que les humains, devenant adultes à 15 ans, mais ne vivent que rarement plus de 80 ans.
 
-**Taille.** Les volanzées sont de tailles variées, allant de 80 cm à 1,75 m. Vous êtes de taille _Petite (P)_ ou _Moyenne (M)_.
+**Taille.** Les volanzées sont de tailles variées, allant de 80 cm à 1,75 m. Vous êtes de taille *Petite (P)* ou *Moyenne (M)*.
 
 **Vitesse.** Votre vitesse de base est de 30 ft. et vous avez une vitesse d'escalade égale à votre vitesse de marche.
 
-__Pieds Dextres.__ Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
+**Pieds Dextres.** Pour une action bonus, vous pouvez utiliser vos pieds pour manipuler un objet, ouvrir ou fermer une porte ou un contenant, ou ramasser ou reposer un objet de taille Très Petite.
 
-__Planage.__ Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous prenez 0 dégâts de la chute. Vous déterminez la direction du planage.
+**Planage.** Lorsque vous tombez d'au moins 10 ft. au-dessus du sol, vous pouvez utiliser votre réaction pour étendre votre membrane afin de planer horizontalement d'un nombre de pieds égal à votre vitesse de marche, et vous subissez 0 dégâts de la chute. Vous déterminez la direction du planage.
 
-__Esquive Volanzée.__ La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous prenez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
+**Esquive Volanzée.** La magie qui parcourt vos veines a amélioré vos défenses naturelles. Lorsque vous subissez des dégâts, vous pouvez utiliser votre réaction pour lancer un d6. Ajoutez votre bonus de maîtrise au résultat obtenu, et réduisez les dégâts d'un montant égal au total (minimum 0 dégâts). Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.

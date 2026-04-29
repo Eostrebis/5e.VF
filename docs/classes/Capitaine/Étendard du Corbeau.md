@@ -17,7 +17,7 @@ Pour une action bonus, vous pouvez dépenser un dé de bataille pour Esquiver. V
 
 ## Couverture
 
-Au niveau 7, lorsque vous êtes caché et qu'une créature vous découvre en réussissant un jet de Sagesse (Perception), vous pouvez retenter un jet de Dextérité (Discrétion) pour vous cacher. Si vous réussissez, vous vous replacez silencieusement et la créature ne vous remarque pas.
+Au niveau 7, lorsque vous êtes caché et qu'une créature vous découvre en réussissant un jet de Sagesse (Perception), vous pouvez retenter un jet de Dextérité (Discrétion) pour vous Cacher. Si vous réussissez, vous vous replacez silencieusement et la créature ne vous remarque pas.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos.
 

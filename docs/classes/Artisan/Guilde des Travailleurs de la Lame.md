@@ -23,17 +23,17 @@ Lorsque vous pratiquez le combat à deux armes, vous pouvez ajouter votre modifi
 
 À partir du niveau 7, vous pouvez utiliser votre connaissance de la construction de l'armement afin de désarmer vos opposants et de détruire leur armure. Une fois à chaque de vos tours, lorsque vous utilisez votre action pour Attaquer, vous pouvez remplacer l'une de vos attaques avec l'une des attaques de mêlée spéciales suivantes.
 
-__Désarmement.__ Vous essayez de désarmer une cible à portée. La cible réalise un jet de sauvegarde de Force contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, elle lâche un objet de votre choix qu'elle porte ou manie. Cet objet tombe à ses pieds.
+**Désarmement.** Vous essayez de désarmer une cible à portée. La cible effectue un jet de sauvegarde de Force contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, elle lâche un objet de votre choix qu'elle porte ou manie. Cet objet tombe à ses pieds.
 
-__Fracassement.__ Vous essayer d'écraser les défenses d'une cible à portée qui porte une armure ou manie un bouclier. La cible doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, l'armure ou le bouclier de la cible prend un malus permanent et cumulatif de -1 à la CA qu'il offre. Les armures réduites à une CA de 10 ou un bouclier qui tombe à +0+ de bonus est détruit. Si une armure ou un bouclier est endommagé mais pas détruit, une créature peut le réparer au cours d'un repos.
+**Fracassement.** Vous essayer d'écraser les défenses d'une cible à portée qui porte une armure ou manie un bouclier. La cible doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de chef-d'œuvre. Si elle rate, l'armure ou le bouclier de la cible subit un malus permanent et cumulatif de -1 à la CA qu'il offre. Les armures réduites à une CA de 10 ou un bouclier qui tombe à +0+ de bonus est détruit. Si une armure ou un bouclier est endommagé mais pas détruit, une créature peut le réparer au cours d'un repos.
 
 ## Armes Aiguisées
 
 À partir du niveau 10 vous pouvez passer 10 minutes pour renforcer une arme, ou vous pouvez renforcer jusqu'à 6 armes pendant un repos. L'arme conserve son renforcement jusqu'à ce qu'elle touche une cible, après quoi elle n'est plus fortifiée. Les armes renforcées gagnent l'une des propriétés suivantes, au choix :
 
-__Rodée.__ Cette arme a un bonus de +2 aux jets d'attaque.
+**Rodée.** Cette arme a un bonus de +2 aux jets d'attaque.
 
-__Aiguisée.__ Cette arme inflige 1d8 dégâts supplémentaires lorsqu'elle touche.
+**Aiguisée.** Cette arme inflige 1d8 dégâts supplémentaires lorsqu'elle touche.
 
 ## Maître Polyvalent des Armes
 

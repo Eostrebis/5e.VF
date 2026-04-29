@@ -1,4 +1,4 @@
 ---
 writing_status: finished
 ---
-Esprit affamé qui hante les endroits sombres, la grue est crainte pour sa discrétion et sa salive acide. Pour une action bonus, vous pouvez utiliser la grue pour forcer une créature à 15 ft. à réussir un jet de sauvegarde de Dextérité ou prendre 1d6 dégâts d'acide. Si la cible se trouve dans l'obscurité, elle a le désavantage à son jet de sauvegarde.
+Esprit affamé qui hante les endroits sombres, la grue est crainte pour sa discrétion et sa salive acide. Pour une action bonus, vous pouvez utiliser la grue pour forcer une créature à 15 ft. à réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts d'acide. Si la cible se trouve dans l'obscurité, elle a le désavantage à son jet de sauvegarde.

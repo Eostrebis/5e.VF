@@ -1,8 +1,8 @@
 ---
 search:
-  exclude: true
+ exclude: true
 hide:
-  - toc
+ - toc
 title: Choix de classe
 ---
 Dans les vastes terres d'Eostrebis en perpétuel changement, chaque aventurier choisit sa propre voie. Guerriers intrépides, mages érudits, rôdeurs silencieux ou prêtres dévoués — tous jouent un rôle unique dans l’équilibre fragile des forces en présence.
@@ -10,43 +10,43 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 
 
 <div class="filter-container">
-   <select id="filter-carac" class="filter-select">
-    <option value="all">Toutes les caractéristiques</option>
-    <option value="for">Force</option>
-    <option value="dex">Dextérité</option>
-    <option value="con">Constitution</option>
-    <option value="int">Intelligence</option>
+ <select id="filter-carac" class="filter-select">
+ <option value="all">Toutes les caractéristiques</option>
+ <option value="for">Force</option>
+ <option value="dex">Dextérité</option>
+ <option value="con">Constitution</option>
+ <option value="int">Intelligence</option>
 	<option value="sag">Sagesse</option>
 	<option value="cha">Charisme</option>
-  </select>
+ </select>
 	
-  <select id="filter-type" class="filter-select">
-    <option value="all">Tous les rôles</option>
-    <option value="tank">Tank</option>
-    <option value="degats">Dégâts</option>
-    <option value="soutien">Soutien</option>
-    <option value="utilitaire">Utilitaire</option>
+ <select id="filter-type" class="filter-select">
+ <option value="all">Tous les rôles</option>
+ <option value="tank">Tank</option>
+ <option value="degats">Dégâts</option>
+ <option value="soutien">Soutien</option>
+ <option value="utilitaire">Utilitaire</option>
 	<option value="controle">Contrôle</option>
 	<option value="social">Social</option>
-  </select>
+ </select>
 
-  <select id="filter-vie" class="filter-select">
-    <option value="all">Tous les dés de vie</option>
-    <option value="d6">d6 (Fragile)</option>
-    <option value="d8">d8 (Moyen)</option>
-    <option value="d10">d10 (Robuste)</option>
-    <option value="d12">d12 (Colosse)</option>
-  </select>
+ <select id="filter-vie" class="filter-select">
+ <option value="all">Tous les dés de vie</option>
+ <option value="d6">d6 (Fragile)</option>
+ <option value="d8">d8 (Moyen)</option>
+ <option value="d10">d10 (Robuste)</option>
+ <option value="d12">d12 (Colosse)</option>
+ </select>
 
-  <select id="filter-difficulte" class="filter-select">
-    <option value="all">Toute difficulté</option>
-    <option value="★☆☆☆">★☆☆☆</option>
-    <option value="★★☆☆">★★☆☆</option>
-    <option value="★★★☆">★★★☆</option>
-    <option value="★★★★">★★★★</option>
-  </select>
+ <select id="filter-difficulte" class="filter-select">
+ <option value="all">Toute difficulté</option>
+ <option value="★☆☆☆">★☆☆☆</option>
+ <option value="★★☆☆">★★☆☆</option>
+ <option value="★★★☆">★★★☆</option>
+ <option value="★★★★">★★★★</option>
+ </select>
 
-  <button onclick="resetFilters()" class="filter-btn">Réinitialiser</button>
+ <button onclick="resetFilters()" class="filter-btn">Réinitialiser</button>
 </div>
 
 
@@ -62,35 +62,35 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	data-text="Un gnome lance des bombes avec enthousiasme, semant le chaos parmi ses ennemis avant de disparaître dans un nuage de fumée, hilare. Une elfe soigne un nain blessé en concoctant rapidement un remède efficace.
 	Qu’ils manipulent la matière pour détruire, transformer ou soigner, les alchimistes sont mus par le désir de modeler le monde selon leur volonté."
 	style="--accent-color: #95BC2F;">
-	    <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Alchimiste_background.png" alt="Alchimiste" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Alchimiste24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Alchimiste24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Alchimiste
+		 		Alchimiste
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-	    </div>
-	    <span class="class-card-desc">Combiner des réactifs pour produire des effets ... détonnants !</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Combiner des réactifs pour produire des effets ... détonnants !</span>
+	 </div>
 	</a>
 	<!-- Carte Artisan -->
 	<a
@@ -103,35 +103,35 @@ Découvrez ci-dessous les différentes classes que peuvent embrasser ceux qui os
 	data-text="Trois artisans d’exception exercent leur art avec une maîtrise remarquable : une naine forge une pièce de métal incandescente à grands coups de marteau, un elfe assemble patiemment une armure en peau de dragon avec une précision redoutable, et une gnomide peaufine les mécanismes d’une baliste portable avec une expertise minutieuse.
 Tous sont des génies créatifs, capables non seulement de fabriquer de l'équipement de maître, mais aussi d’imaginer des inventions originales et redoutables."
 	style="--accent-color: #CD7B34;">
-	    <img src="../Illustrations/Classes/Artisan_background.png" alt="Artisan" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Artisan_background.png" alt="Artisan" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Artisan24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Artisan24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Artisan
+		 		Artisan
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d10</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For/Dex + Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d10</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">For/Dex + Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Capable de renverser des pays entiers à coup de marteau !</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Capable de renverser des pays entiers à coup de marteau !</span>
+	 </div>
 	</a>
 <!-- Carte Barbare -->
 	<a
@@ -144,35 +144,35 @@ Tous sont des génies créatifs, capables non seulement de fabriquer de l'équip
 	data-text="Qu'ils soient humains, demi-orques ou nains, les barbares partagent un trait commun : une rage primale, incontrôlable et viscérale.
 Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde envers le monde, cette furie est leur force — une puissance brutale qui guide leurs combats, renforce leur corps et transcende la douleur."
 	style="--accent-color: #95826B;">
-	    <img src="../Illustrations/Classes/Barbare_background.png" alt="Barbare" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Barbare_background.png" alt="Barbare" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Barbare24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Barbare24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Barbare
+		 		Barbare
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d12</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Con + For</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d12</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Con + For</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Guerrier sauvage animé par la rage, qui puise sa force brute dans l’instinct plutôt que dans la discipline.</span>
+	 </div>
 	</a>
 <!-- Carte Barde -->
 	<a
@@ -185,37 +185,37 @@ Qu'elle naisse d'un lien spirituel avec les bêtes ou d'une colère profonde env
 	data-text="Qu’ils soient érudits ou espiègles, les bardes canalisent la magie par la musique et les mots, mêlant savoir, inspiration et tromperie pour renforcer leurs alliés, troubler leurs ennemis et tisser la réalité à leur image.
 Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot ou d’une note. Par leur art, ils éveillent le courage, enjolivent la vérité, troublent les esprits et insufflent la magie là où résonne leur chant."
 	style="--accent-color: #9E3E73;">
-	    <img src="../Illustrations/Classes/Barde_background.png" alt="Barde" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Barde_background.png" alt="Barde" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Barde24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Barde24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Barde
+		 		Barde
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Cha</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Cha</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 			<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Maître des mots et de la magie, il charme, inspire et manipule par la musique, la ruse et l’art de conter.</span>
+	 </div>
 	</a>
 <!-- Carte Capitaine -->
 	<a
@@ -228,35 +228,35 @@ Maîtres des récits et des harmonies, les bardes façonnent le monde d’un mot
 	data-text="Au cœur d’une scène épique se mêlent figures de commandement et intrigues, où une demi-elfe haute décorée et un orque robuste, aux côtés d’un maître de guilde astucieux, annoncent leur passage par trompettes et percussions.
 Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement la cohésion de leurs troupes et se tiennent toujours aux côtés de leurs lieutenants, garantissant la victoire sans infliger le coup de grâce."
 	style="--accent-color: #798E9F;">
-	    <img src="../Illustrations/Classes/Capitaine_background.png" alt="Capitaine" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Capitaine_background.png" alt="Capitaine" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Capitaine24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Capitaine24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Capitaine
+		 		Capitaine
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For/Dex + Cha</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">For/Dex + Cha</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-	    </div>
-	    <span class="class-card-desc">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Meneur charismatique et tacticien aguerri, il guide ses alliés au combat par sa présence, ses ordres et son courage.</span>
+	 </div>
 	</a>
 <!-- Carte Clerc -->
 	<a
@@ -270,35 +270,35 @@ Les capitaines, stratèges inspirés et chefs décidés, orchestrent habilement 
 Qu’ils invoquent des malédictions contre les morts-vivants, illuminent le champ de bataille d’une lumière sacrée ou glorifient les dieux à chaque coup porté, ils agissent comme les instruments vivants de volontés divines.
 Guidés par des croyances aussi diverses que les divinités qu’ils servent, les clercs transcendent le rôle de simples prêtres, incarnant une magie sacrée aussi implacable que bienveillante."
 	style="--accent-color: #4F598C;">
-	    <img src="../Illustrations/Classes/Clerc_background.png" alt="Clerc" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Clerc_background.png" alt="Clerc" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Clerc24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Clerc24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Clerc
+		 		Clerc
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Caster ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Sag</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Caster ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Sag</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 		<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Champion d’une divinité, il canalise la puissance divine pour soigner, protéger et frapper au nom de sa foi.</span>
+	 </div>
 	</a>
 <!-- Carte Druide -->
 	<a
@@ -312,35 +312,35 @@ Guidés par des croyances aussi diverses que les divinités qu’ils servent, le
 Changeant de forme pour observer ou frapper, ils se glissent parmi les bêtes et les feuillages, gardiens silencieux des équilibres fragiles du monde.
 Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée et indomptable de la nature, agissant non comme ses maîtres, mais comme ses instruments vivants."
 	style="--accent-color: #9BAB5D;">
-	    <img src="../Illustrations/Classes/Druide_background.png" alt="Druide" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Druide_background.png" alt="Druide" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Druide24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Druide24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Druide
+		 		Druide
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Sag</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Sag</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 		<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 		<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Gardien des forces naturelles, il manie la magie de la terre, prend la forme des bêtes et veille à l’équilibre du monde.</span>
+	 </div>
 	</a>
 <!-- Carte Ensorceleur -->
 	<a
@@ -354,35 +354,35 @@ Plus que de simples lanceurs de sorts, ils incarnent la volonté brute, rusée e
 Leur magie sauvage éclate avec force, transformant leur être et le monde autour d’eux, parfois de manière aussi spectaculaire qu’involontaire.
 Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce dernier qui les choisit, façonnant leur destinée hors du commun."
 	style="--accent-color: #593040;">
-	    <img src="../Illustrations/Classes/Ensorceleur_background.png" alt="Ensorceleur" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Ensorceleur_background.png" alt="Ensorceleur" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ensorceleur24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Ensorceleur24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Ensorceleur
+		 		Ensorceleur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d6</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Cha</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d6</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Cha</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 		 	<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Porteur d’une magie innée et sauvage, il canalise un pouvoir brut venu de ses origines mystérieuses pour façonner le combat et la réalité.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Porteur d’une magie innée et sauvage, il canalise un pouvoir brut venu de ses origines mystérieuses pour façonner le combat et la réalité.</span>
+	 </div>
 	</a>
 <!-- Carte Fusilier -->
 	<a
@@ -396,34 +396,34 @@ Contrairement aux autres mages, ils ne choisissent pas leur pouvoir : c’est ce
 Qu’ils dégainent leur revolver au fond d’une taverne silencieuse ou qu’ils patientent en embuscade le doigt sur la détente, ils savent que chaque tir peut changer le cours d’un combat.
 Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute épreuve et une bonne dose de chance pour traverser les pires situations."
 	style="--accent-color: #B38F7F;">
-	    <img src="../Illustrations/Classes/Fusilier_background.png" alt="Fusilier" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Fusilier_background.png" alt="Fusilier" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Fusilier24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Fusilier24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Fusilier
+		 		Fusilier
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Dex</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Dex</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 		 		<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Tireur d’élite maniant armes à feu ou arcanotech, il frappe de loin avec précision, calme et puissance.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Tireur d’élite maniant armes à feu ou arcanotech, il frappe de loin avec précision, calme et puissance.</span>
+	 </div>
 	</a>
 <!-- Carte Gardien -->
 	<a
@@ -437,36 +437,36 @@ Survivants nés, ils misent sur des décisions rapides, un sang-froid à toute �
 Qu'ils soient chevaliers, bêtes furieuses ou sentinelles sylvestres, ils incarnent la force tranquille qui se dresse entre le danger et les leurs.
 Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils deviennent des remparts vivants, ancrés dans leur devoir."
 	style="--accent-color: #25242B;">
-	    <img src="../Illustrations/Classes/Gardien_background.png" alt="Gardien" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Gardien_background.png" alt="Gardien" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Gardien24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Gardien24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Gardien
+		 		Gardien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d10</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Con + For</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d10</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Con + For</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 			<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Rempart vivant entre ses alliés et le danger, il encaisse les coups, contrôle le champ de bataille et protège ceux qui l’entourent.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Rempart vivant entre ses alliés et le danger, il encaisse les coups, contrôle le champ de bataille et protège ceux qui l’entourent.</span>
+	 </div>
 	</a>
 <!-- Carte Guerrier -->
 	<a
@@ -480,35 +480,35 @@ Grâce à leur endurance, leur discipline ou leur lien avec la nature, ils devie
 Leur diversité est leur plus grande force : qu’ils soient archers elfes, chevaliers humains, gladiateurs habiles ou mercenaires demi-orcs, tous maîtrisent les armes et les armures avec une aisance redoutable.
 Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeux ouverts — et la renvoient souvent à leurs ennemis."
 	style="--accent-color: #655E58;">
-	    <img src="../Illustrations/Classes/Guerrier_background.png" alt="Guerrier" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Guerrier_background.png" alt="Guerrier" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Guerrier24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Guerrier24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Guerrier
+		 		Guerrier
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d10</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">For/Dex</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d10</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">For/Dex</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 		 	<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Maître d’armes polyvalent, il domine le champ de bataille par sa technique, sa discipline et sa détermination inébranlable.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Maître d’armes polyvalent, il domine le champ de bataille par sa technique, sa discipline et sa détermination inébranlable.</span>
+	 </div>
 	</a>
 <!-- Carte Investigateur -->
 	<a
@@ -522,35 +522,35 @@ Dans le chaos de la guerre comme dans l’arène, ils affrontent la mort les yeu
 Leur quotidien oscille entre la recherche patiente de vérités enfouies et l’action brutale contre des horreurs venues d’ailleurs, qu’ils piègent avec rituels, armes bénites ou stratégies élaborées.
 Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veillant à ce que nul cauchemar n’échappe à leur vigilance."
 	style="--accent-color: #044F82;">
-	    <img src="../Illustrations/Classes/Investigateur_background.png" alt="Investigateur" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Investigateur_background.png" alt="Investigateur" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Investigateur24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Investigateur24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Investigateur
+		 		Investigateur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Esprit acéré et œil perçant, il traque la vérité, déjoue les complots et révèle les secrets cachés sous la surface.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Esprit acéré et œil perçant, il traque la vérité, déjoue les complots et révèle les secrets cachés sous la surface.</span>
+	 </div>
 	</a>
 <!-- Carte Ligateur -->
 	<a
@@ -564,39 +564,39 @@ Face aux monstres tapis dans l’ombre, ce sont eux qui tiennent la ligne, veill
 En échange de leur propre force vitale, de fragments de mémoire ou d'obscurs serments, ils obtiennent des dons surnaturels, des révélations interdites et des pouvoirs que même les mages redoutent.
 Ces pactes, souvent instables et parfois envahissants, façonnent autant le destin du ligateur que son apparence, faisant de lui un vecteur d’énigmes, d’horreur et de prodiges."
 	style="--accent-color: #F3ABC6;">
-	    <img src="../Illustrations/Classes/Ligateur_background.png" alt="Ligateur" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Ligateur_background.png" alt="Ligateur" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ligateur24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Ligateur24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Ligateur
+		 		Ligateur
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Cha</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Cha</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 					<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 					<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 					<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
 					<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Maîtres des pactes interdits, les ligateurs manipulent des forces occultes enchaînées à leur volonté.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Maîtres des pactes interdits, les ligateurs manipulent des forces occultes enchaînées à leur volonté.</span>
+	 </div>
 	</a>
 <!-- Carte Mage de Guerre -->
 	<a
@@ -610,34 +610,34 @@ Ces pactes, souvent instables et parfois envahissants, façonnent autant le dest
 Leur entraînement rigoureux leur permet d’adapter leur puissance magique aux nécessités du combat rapproché, protégeant leurs alliés et brisant les lignes ennemies avec une précision tactique rare.
 Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent la fusion parfaite entre puissance mystique et discipline martiale."
 	style="--accent-color: #7ACEF8;">
-	    <img src="../Illustrations/Classes/Mage_de_Guerre_background.png" alt="Mage de Guerre" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Mage_de_Guerre_background.png" alt="Mage de Guerre" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Mage_de_Guerre24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Mage_de_Guerre24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Mage de Guerre
+		 		Mage de Guerre
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Les mages de guerre mêlent puissance magique et maîtrise martiale, lançant des sorts destructeurs tout en maniant armes et tactiques de combat.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les mages de guerre mêlent puissance magique et maîtrise martiale, lançant des sorts destructeurs tout en maniant armes et tactiques de combat.</span>
+	 </div>
 	</a>
 <!-- Carte Magicien -->
 	<a
@@ -651,37 +651,37 @@ Maîtres de l’équilibre entre force brute et savoir arcanique, ils incarnent 
 Leur maîtrise de la magie leur permet d’invoquer des créatures d’outre-monde, de manipuler les esprits ou de transformer la matière, révélant ainsi l’immense variété de leurs pouvoirs.
 Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité, allant jusqu’à faire pleuvoir des météores ou ouvrir des portails vers des mondes inconnus, incarnant l’essence même de la puissance magique."
 	style="--accent-color: #867B8B;">
-	    <img src="../Illustrations/Classes/Magicien_background.png" alt="Magicien" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Magicien_background.png" alt="Magicien" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Magicien24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Magicien24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Magicien
+		 		Magicien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d6</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d6</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 			<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Les mages maîtrisent l’art des arcanes, lançant des sorts puissants et variés grâce à leur savoir et leur concentration.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les mages maîtrisent l’art des arcanes, lançant des sorts puissants et variés grâce à leur savoir et leur concentration.</span>
+	 </div>
 	</a>
 <!-- Carte Martyr -->
 	<a
@@ -695,35 +695,35 @@ Ces arcanistes sont unis par leur savoir et leur capacité à plier la réalité
 Leur parole peut faire trembler la terre et changer le cours des événements, tandis que leur foi les pousse à accomplir des actes lourds de sens, même au prix de leur vie.
 Véritables instruments des dieux, ils acceptent leur sacrifice comme une mission divine, sachant que leur fin est écrite dans les étoiles."
 	style="--accent-color: #6B1E1E;">
-	    <img src="../Illustrations/Classes/Martyr_background.png" alt="Martyr" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Martyr_background.png" alt="Martyr" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Martyr24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Martyr24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Martyr
+		 		Martyr
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d12</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Con</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d12</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Con</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 			<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 			<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Les martyrs sacrifient leur corps et leur vie pour protéger leurs alliés, transformant leur souffrance en force et inspiration sur le champ de bataille.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les martyrs sacrifient leur corps et leur vie pour protéger leurs alliés, transformant leur souffrance en force et inspiration sur le champ de bataille.</span>
+	 </div>
 	</a>
 <!-- Carte Moine -->
 	<a
@@ -737,35 +737,35 @@ Véritables instruments des dieux, ils acceptent leur sacrifice comme une missio
 Leur maîtrise du corps et de l’esprit leur permet de combiner agilité, puissance martiale et furtivité, transcendant les limites physiques ordinaires.
 Quelle que soit leur spécialité, ils canalisent cette force magique pour augmenter leur vitesse, leur défense et leur efficacité au combat."
 	style="--accent-color: #A0CDE4;">
-	    <img src="../Illustrations/Classes/Moine_background.png" alt="Moine" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Moine_background.png" alt="Moine" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Moine24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Moine24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Moine
+		 		Moine
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Dex + Sag</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Dex + Sag</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les moines maîtrisent corps et esprit, utilisant leur discipline martiale et leur énergie intérieure pour combattre avec grâce et puissance.</span>
+	 </div>
 	</a>
 <!-- Carte Nécromancien -->
 	<a
@@ -779,35 +779,35 @@ Quelle que soit leur spécialité, ils canalisent cette force magique pour augme
 Ils commandent des légions de morts-vivants, utilisant ces créatures comme des extensions de leur propre puissance sur le champ de bataille.
 Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la désolation pour affaiblir leurs ennemis et imposer leur domination."
 	style="--accent-color: #8E91A4;">
-	    <img src="../Illustrations/Classes/Nécromancien_background.png" alt="Nécromancien" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Nécromancien_background.png" alt="Nécromancien" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Nécromancien24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Nécromancien24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Nécromancien
+		 		Nécromancien
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★★</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d6</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d6</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Les nécromanciens manipulent la magie de la mort pour contrôler les morts-vivants et exploiter les forces obscures.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les nécromanciens manipulent la magie de la mort pour contrôler les morts-vivants et exploiter les forces obscures.</span>
+	 </div>
 	</a>
 <!-- Carte Occultiste -->
 	<a
@@ -821,35 +821,35 @@ Maîtres des malédictions et des sorts funestes, ils exploitent la peur et la d
 Ils manipulent la magie à travers des influences aussi diverses que les nobles fées, les démons, les diables et d’autres êtres extraplanaires, fusionnant savoir ancien et énergie occulte. 
 Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance pour contrôler leur environnement et influencer le destin avec subtilité et force."
 	style="--accent-color: #5A576C;">
-	    <img src="../Illustrations/Classes/Occultiste_background.png" alt="Occultiste" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Occultiste_background.png" alt="Occultiste" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Occultiste24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Occultiste24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Occultiste
+		 		Occultiste
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Cha</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Cha</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les occultistes manipulent les mystères cachés et les pouvoirs interdits, combinant magie et savoir ancien pour dévoiler et exploiter les forces obscures.</span>
+	 </div>
 	</a>
 <!-- Carte Paladin -->
 	<a
@@ -863,36 +863,36 @@ Grâce à cette maîtrise des secrets arcaniques, ils façonnent leur puissance 
 Cachés dans l’ombre, ils agissent avec précision et discrétion pour éliminer les ennemis du mal, usant de leur force et de leur détermination pour protéger les innocents.
 Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans la solitude face à la mort, forge en eux un pouvoir extraordinaire qui élève ces guerriers en champions bénis, unis par leur lutte contre les ténèbres."
 	style="--accent-color: #D59A6E;">
-	    <img src="../Illustrations/Classes/Paladin_background.png" alt="Paladin" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Paladin_background.png" alt="Paladin" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Paladin24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Paladin24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Paladin
+		 		Paladin
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★☆☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d10</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Cha + For</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d10</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Cha + For</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
 					<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
 					<span class="flip-card-tag" style="--text-color: #6c757d; --border-color: #6c757d;">Tank</span>
-	    </div>
-	    <span class="class-card-desc">Les paladins sont des guerriers sacrés, incarnant la justice divine et protégeant les innocents avec foi et puissance.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les paladins sont des guerriers sacrés, incarnant la justice divine et protégeant les innocents avec foi et puissance.</span>
+	 </div>
 	</a>
 <!-- Carte Ranger -->
 	<a
@@ -905,34 +905,34 @@ Leur serment sacré, prononcé dans des lieux empreints de spiritualité ou dans
 	data-text="Un humain au regard sauvage traque silencieusement les orcs dans l’ombre des arbres, détruisant ses ennemis avec une rapidité mortelle grâce à ses deux épées courtes, tandis qu’une elfe agile esquive un souffle glacé de dragon avant de décocher une salve de flèches pour trouver une faille dans ses écailles épaisses.
 Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis et des mots elfiques, utilisant l’oiseau pour distraire un ours-hibou tandis qu’il prépare son tir décisif à l’arc."
 	style="--accent-color: #595F43;">
-	    <img src="../Illustrations/Classes/Ranger_background.png" alt="Ranger" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Ranger_background.png" alt="Ranger" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Ranger24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Ranger24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Ranger
+		 		Ranger
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d10</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Dex + Sag</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d10</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Dex + Sag</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Les rangers sont des éclaireurs et chasseurs experts, maîtrisant la traque, la survie en milieu sauvage, et le combat à distance.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les rangers sont des éclaireurs et chasseurs experts, maîtrisant la traque, la survie en milieu sauvage, et le combat à distance.</span>
+	 </div>
 	</a>
 <!-- Carte Roublard -->
 	<a
@@ -946,35 +946,35 @@ Un demi-elfe, maître de la nature, commande son faucon avec des gestes précis 
 Ils sont des maîtres de l’embuscade et de l’assassinat silencieux, frappant avec précision et rapidité pour neutraliser leurs ennemis avant même qu’ils ne réalisent le danger.
 Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque faiblesse, libérant alliés ou déjouant pièges, ce qui fait d’eux des atouts essentiels dans toute aventure."
 	style="--accent-color: #433E4B;">
-	    <img src="../Illustrations/Classes/Roublard_background.png" alt="Roublard" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Roublard_background.png" alt="Roublard" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Roublard24.jpeg" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Roublard24.jpeg" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Roublard
+		 		Roublard
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★☆☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">½ Caster ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Dex</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">½ Caster ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Dex</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #e05780; --border-color: #e05780;">Social</span>
 					<span class="flip-card-tag" style="--text-color: #9c6644; --border-color: #9c6644;">Utilitaire</span>
-	    </div>
-	    <span class="class-card-desc">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les roublards sont des experts en furtivité et en ruse, capables de frapper vite et fort là où leurs ennemis s’y attendent le moins.</span>
+	 </div>
 	</a>
 <!-- Carte Sorcière -->
 	<a
@@ -988,35 +988,35 @@ Grâce à leur ingéniosité et leur polyvalence, ils savent exploiter chaque fa
 Une jeune fille isolée invoque un chat noir avec un simple claquement de doigts, utilisant son lien mystique pour manipuler un enfant dans son entourage, dévoilant ainsi son pouvoir secret.
 Un elfe murmure des incantations obscures, libérant une magie maléfique qui s’enroule autour d’un orque pour le plonger dans une agonie lente, illustrant la nature sombre et tordue des sorcières qui façonnent les ténèbres par leur volonté."
 	style="--accent-color: #720DA3;">
-	    <img src="../Illustrations/Classes/Sorcière_background.png" alt="Sorcière" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Sorcière_background.png" alt="Sorcière" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Sorcière24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Sorcière24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Sorcière
+		 		Sorcière
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Caster 🏹</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Cha</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Caster 🏹</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Cha</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #4361ee; --border-color: #4361ee;">Contrôle</span>
 					<span class="flip-card-tag" style="--text-color: #b69121; --border-color: #b69121;">Soutien</span>
-	    </div>
-	    <span class="class-card-desc">Les sorcières manipulent une magie ancienne et mystérieuse, tissant des sorts à travers rituels secrets et pactes occultes.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les sorcières manipulent une magie ancienne et mystérieuse, tissant des sorts à travers rituels secrets et pactes occultes.</span>
+	 </div>
 	</a>	
 <!-- Carte Tisserand -->
 	<a
@@ -1030,34 +1030,34 @@ Un elfe murmure des incantations obscures, libérant une magie maléfique qui s�
 Grâce à leur habileté à entrelacer la magie avec la matière, ils peuvent altérer le destin, contrôler les événements et créer des effets aussi puissants qu’imprévisibles.
 Leur compréhension profonde des forces cosmiques leur permet de façonner la trame même du temps et de l’espace, faisant d’eux des alliés précieux et des adversaires redoutables."
 	style="--accent-color: #2C5CCD;">
-	    <img src="../Illustrations/Classes/Tisserand_background.png" alt="Tisserand" class="card-background" loading="lazy">
+	 <img src="../Illustrations/Classes/Tisserand_background.png" alt="Tisserand" class="card-background" loading="lazy">
 		<div class="class-card-body">
-	    	<div class="class-card-title-wrapper">
-	   			<img src="../Illustrations/Classes/Tisserand24.png" class="title-icon" alt="">
+	 	<div class="class-card-title-wrapper">
+	 			<img src="../Illustrations/Classes/Tisserand24.png" class="title-icon" alt="">
 				<div class="class-card-title">
-		    		Tisserand
+		 		Tisserand
 					<span class="flip-card-tag" style="--tag-color: #080705; --text-color: #ffbd00;">★★★☆</span>
 			 	</div>
 	 		</div>
-	    <div class="dnd-stats-row">
-	      <div class="stat-item">
+	 <div class="dnd-stats-row">
+	 <div class="stat-item">
 			<span class="stat-label">Archétype</span>
-	        <span class="stat-value">Martial ⚔️</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Dés de vie</span>
-	        <span class="stat-value">d8</span>
-	      </div>
-	      <div class="stat-item">
-	        <span class="stat-label">Primaire</span>
-	        <span class="stat-value">Dex + Int</span>
-	      </div>
-	    </div>
-	    <div class="class-card-tags">
+	 <span class="stat-value">Martial ⚔️</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Dés de vie</span>
+	 <span class="stat-value">d8</span>
+	 </div>
+	 <div class="stat-item">
+	 <span class="stat-label">Primaire</span>
+	 <span class="stat-value">Dex + Int</span>
+	 </div>
+	 </div>
+	 <div class="class-card-tags">
 					<span class="flip-card-tag" style="--text-color: #bf0603; --border-color: #bf0603;">Dégâts</span>
-	    </div>
-	    <span class="class-card-desc">Les tisserands manipulent les fils de la réalité pour créer des sorts complexes et contrôler le destin autour d’eux.</span>
-	  </div>
+	 </div>
+	 <span class="class-card-desc">Les tisserands manipulent les fils de la réalité pour créer des sorts complexes et contrôler le destin autour d’eux.</span>
+	 </div>
 	</a>
 
 <!-- Fin de la grille pour les classes, insérer au dessus pour en ajouter -->
@@ -1065,60 +1065,60 @@ Leur compréhension profonde des forces cosmiques leur permet de façonner la tr
 
 <!-- Script permettant de filtrer les classes en fonction de 3 critères : Type de classe, dés de vie et difficulté à jouer -->
 <script>
-  // 1. On sélectionne les éléments
-  const filterCarac = document.getElementById('filter-carac');
-  const filterType = document.getElementById('filter-type');
-  const filterVie = document.getElementById('filter-vie');
-  const filterDiff = document.getElementById('filter-difficulte');
-  const cards = document.querySelectorAll('.class-card');
+ // 1. On sélectionne les éléments
+ const filterCarac = document.getElementById('filter-carac');
+ const filterType = document.getElementById('filter-type');
+ const filterVie = document.getElementById('filter-vie');
+ const filterDiff = document.getElementById('filter-difficulte');
+ const cards = document.querySelectorAll('.class-card');
 
-  // 2. La fonction principale de filtrage
-  function filterCards() {
+ // 2. La fonction principale de filtrage
+ function filterCards() {
 	const caracValue = filterCarac.value.toLowerCase();
-    const typeValue = filterType.value.toLowerCase();
-    const vieValue = filterVie.value.toLowerCase();
-    const diffValue = filterDiff.value.toLowerCase();
+ const typeValue = filterType.value.toLowerCase();
+ const vieValue = filterVie.value.toLowerCase();
+ const diffValue = filterDiff.value.toLowerCase();
 
-    cards.forEach(card => {
-      // On récupère les valeurs de la carte actuelle
-      const cardCarac = (card.getAttribute('data-carac') || '').toLowerCase();
-	  const cardType = (card.getAttribute('data-type') || '').toLowerCase();
-      const cardVie = card.getAttribute('data-vie');
-      const cardDiff = card.getAttribute('data-difficulte');
+ cards.forEach(card => {
+ // On récupère les valeurs de la carte actuelle
+ const cardCarac = (card.getAttribute('data-carac') || '').toLowerCase();
+	 const cardType = (card.getAttribute('data-type') || '').toLowerCase();
+ const cardVie = card.getAttribute('data-vie');
+ const cardDiff = card.getAttribute('data-difficulte');
 
-      // On vérifie si la carte correspond à CHAQUE filtre
-      // (Si le filtre est sur "all", on considère que c'est bon)
-	  const matchCarac = (caracValue === 'all' || cardCarac.includes(caracValue));
-      const matchType = (typeValue === 'all' || cardType.includes(typeValue));
-      const matchVie = (vieValue === 'all' || cardVie === vieValue);
-      const matchDiff = (diffValue === 'all' || cardDiff === diffValue);
+ // On vérifie si la carte correspond à CHAQUE filtre
+ // (Si le filtre est sur "all", on considère que c'est bon)
+	 const matchCarac = (caracValue === 'all' || cardCarac.includes(caracValue));
+ const matchType = (typeValue === 'all' || cardType.includes(typeValue));
+ const matchVie = (vieValue === 'all' || cardVie === vieValue);
+ const matchDiff = (diffValue === 'all' || cardDiff === diffValue);
 
-      // Si tout correspond, on affiche, sinon on cache
-      if (matchCarac && matchType && matchVie && matchDiff) {
-        card.classList.remove('hidden');
+ // Si tout correspond, on affiche, sinon on cache
+ if (matchCarac && matchType && matchVie && matchDiff) {
+ card.classList.remove('hidden');
 		card.style.opacity = '1';
-        card.style.transform = 'scale(1)';
-      } else {
-        card.classList.add('hidden');
+ card.style.transform = 'scale(1)';
+ } else {
+ card.classList.add('hidden');
 		card.style.opacity = '0';
-        card.style.transform = 'scale(0.95)';
-      }
-    });
-  }
+ card.style.transform = 'scale(0.95)';
+ }
+ });
+ }
 
-  // 3. On déclenche la fonction à chaque changement
-  filterCarac.addEventListener('change', filterCards);
-  filterType.addEventListener('change', filterCards);
-  filterVie.addEventListener('change', filterCards);
-  filterDiff.addEventListener('change', filterCards);
+ // 3. On déclenche la fonction à chaque changement
+ filterCarac.addEventListener('change', filterCards);
+ filterType.addEventListener('change', filterCards);
+ filterVie.addEventListener('change', filterCards);
+ filterDiff.addEventListener('change', filterCards);
 
-  // 4. Fonction pour le bouton Reset
-  function resetFilters() {
+ // 4. Fonction pour le bouton Reset
+ function resetFilters() {
 	filterCarac.value = 'all';
-    filterType.value = 'all';
-    filterVie.value = 'all';
-    filterDiff.value = 'all';
-    filterCards(); // On relance pour tout réafficher
-  }
+ filterType.value = 'all';
+ filterVie.value = 'all';
+ filterDiff.value = 'all';
+ filterCards(); // On relance pour tout réafficher
+ }
 </script>
 

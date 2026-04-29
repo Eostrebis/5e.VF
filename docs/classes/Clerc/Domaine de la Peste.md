@@ -5,28 +5,28 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 **Sorts du Domaine de la Peste**
 
-| Niveau de Clerc | Sorts                                                        |
+| Niveau de Clerc | Sorts |
 | --------------- | ------------------------------------------------------------ |
-| 1               | [[Fléau]], [[Détection du Poison et des Maladies]]           |
-| 3               | [[Cécité ou Surdité]], [[rayon affaiblissant]]               |
-| 5               | [[Malédiction Persistante]], [[délivrance des malédictions]] |
-| 7               | [[Flétrissement]], [[confusion]]                             |
-| 9               | [[Contagion]], [[fléau d'insectes]]                          |
+| 1 | [[Fléau]], [[Détection du Poison et des Maladies]] |
+| 3 | [[Cécité ou Surdité]], [[rayon affaiblissant]] |
+| 5 | [[Malédiction Persistante]], [[délivrance des malédictions]] |
+| 7 | [[Flétrissement]], [[confusion]] |
+| 9 | [[Contagion]], [[fléau d'insectes]] |
 
 ## Porteur Sain
 
 À partir du niveau 1, vous êtes immunisé contre les maladies et la condition [[empoisonné]]. De plus, choisissez l'un des symptômes persistants suivants, qui vous affecte : 
 
-| d8  | Symptôme                                                                                          |
+| d8 | Symptôme |
 | --- | ------------------------------------------------------------------------------------------------- |
-| 1   | Vous êtes toujours accompagné d'une toux forte et grasse                                          |
-| 2   | Un de vos membres est noirci et atrophié, même si fonctionnel                                     |
-| 3   | Le blanc et l'iris d'un ou de vos deux yeux sont complètement rouges et injectés de sang          |
-| 4   | Des frissons vous viennent en permanence, allant de légers tremblements à d'intenses convulsions |
-| 5   | Un nombre conséquent de tumeurs et de kystes déforment votre corps et votre dos                   |
-| 6   | Votre peau est couverte de furoncles et de plaies                                                 |
-| 7   | Votre corps est horriblement décharné                                                             |
-| 8   | Toujours fiévreux, votre peau est chaude et couverte de sueur                                     |
+| 1 | Vous êtes toujours accompagné d'une toux forte et grasse |
+| 2 | Un de vos membres est noirci et atrophié, même si fonctionnel |
+| 3 | Le blanc et l'iris d'un ou de vos deux yeux sont complètement rouges et injectés de sang |
+| 4 | Des frissons vous viennent en permanence, allant de légers tremblements à d'intenses convulsions |
+| 5 | Un nombre conséquent de tumeurs et de kystes déforment votre corps et votre dos |
+| 6 | Votre peau est couverte de furoncles et de plaies |
+| 7 | Votre corps est horriblement décharné |
+| 8 | Toujours fiévreux, votre peau est chaude et couverte de sueur |
 
 ## Maîtrise Supplémentaire
 
@@ -34,7 +34,7 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 ## Tumeur
 
-Toujours au niveau 1, votre corps emmagasine ses toxines dans une protubérance bulbeuse. Lorsqu'une créature à 5 ft. vous touche avec une attaque, vous pouvez utiliser votre réaction pour essayer d'empoisonner la créature avec votre tumeur. La créature doit réaliser un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
+Toujours au niveau 1, votre corps emmagasine ses toxines dans une protubérance bulbeuse. Lorsqu'une créature à 5 ft. vous touche avec une attaque, vous pouvez utiliser votre réaction pour essayer d'empoisonner la créature avec votre tumeur. La créature doit effectuer un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos avant de pouvoir l'utiliser à nouveau.
 
@@ -42,7 +42,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos ava
 
 À partir du niveau 2, votre Canal Divin est lui-même porteur de la maladie. Vous pouvez utiliser une action pour toucher une créature à portée, qui doit réussir un jet de sauvegarde de Constitution ou souffrir d'une des maladies suivantes pendant 1 minute. Puisque cette capacité cause une maladie naturelle à la cible, tout effet qui guérit ou améliore une maladie s'applique.
 
-**Sursang.** Lorsque la créature prend des dégâts contondants, perçants ou tranchants, elle perd 1d6 points de vie supplémentaires.
+**Sursang.** Lorsque la créature subit des dégâts contondants, perforants ou tranchants, elle perd 1d6 points de vie supplémentaires.
 
 **Articulation Bloquée.** Les jambes de la créature raidissent et sa vitesse diminue. La créature peut se déplacer à une vitesse maximum de 15 ft. ou la moitié de sa vitesse, lequel est le plus bas, pendant son tour.
 

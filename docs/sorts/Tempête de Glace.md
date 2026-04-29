@@ -11,7 +11,7 @@ Incantation:
 Portee:
 Concentration:
 Rituel:
-englishname:
+englishname: Ice Storm
 writing_status: empty
 ---
 

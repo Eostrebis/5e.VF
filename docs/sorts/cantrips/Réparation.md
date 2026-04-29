@@ -1,13 +1,13 @@
 ---
 available:
-  - Barde
-  - Artificier
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Magicien
-  - Mage de Guerre
-  - Nécromancien
+ - Barde
+ - Artificier
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Magicien
+ - Mage de Guerre
+ - Nécromancien
 level: 0
 school: Transmutation
 Verbal: true
@@ -16,12 +16,12 @@ Materiel: true
 detailmat: Deux pierres de magnétite
 Duree: Instantanée
 Incantation: 1 Minute
-Portee: Touché
+Portee: Contact
 Concentration: false
 Rituel: false
 englishname: Mending
-writing_status: empty
+writing_status: finished
 ---
-Ce sort répare une fissure ou cassure dans un objet que vous touchez, comme un maillon de chaîne brisé, deux moitiés d'une même clé, une cape déchirée ou une outre percée. Tant que la fissure ou cassure ne fait plus de 1 ft. dans une dimension, vous la réparez, ne laissant aucune trace.
+Ce sort répare une fissure ou cassure dans un objet que vous touchez, comme un maillon de chaîne brisé, deux moitiés d'une même clé, une cape déchirée ou une outre percée. Tant que la fissure ou cassure ne fait pas plus de 1 ft. dans une dimension, vous la réparez, ne laissant aucune trace.
 
 Ce sort peut réparer physiquement un objet magique ou une construction, mais ne peut pas en restaurer la magie.

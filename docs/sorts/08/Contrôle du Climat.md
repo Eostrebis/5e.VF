@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Druide
-  - Magicien
+ - Clerc
+ - Druide
+ - Magicien
 level: 8
 school: Transmutation
 Verbal: true
@@ -17,11 +17,11 @@ Rituel: true
 englishname: Control Weather
 writing_status: finished
 tags:
-  - Clerc
-  - Druide
-  - Magicien
-  - Sort
-  - 8ème
+ - Clerc
+ - Druide
+ - Magicien
+ - Sort
+ - 8ème
 ---
 Vous prenez le contrôle de la météo dans les 8 km autour de vous pendant la durée du sort. Vous devez vous trouver à l'extérieur lorsque vous lancez ce sort. Vous déplacer vers un endroit où vous perdriez une ligne de vue claire vers le ciel termine le sort prématurément.
 
@@ -29,29 +29,29 @@ Lorsque vous lancez ce sort, vous pouvez altérer les conditions météorologiqu
 
 Lorsque vous changez les conditions météorologiques, identifiez la situation actuelle dans les tables ci-dessous. Vous pouvez modifier son état d'un cran vers le haut ou vers le bas. Lorsque vous modifiez les vents, vous pouvez modifier leur direction.
 
-| Précipitation |                                                  |
+| Précipitation | |
 | ------------- | ------------------------------------------------ |
-| Étape 1       | Ciel bleu                                        |
-| Étape 2       | Quelques nuages<br>                              |
-| Étape 3       | Ciel couvert ou brouillard au sol                |
-| Étape 4       | Pluie, grêle ou neige                            |
-| Étape 5       | Pluie torrentielle, tempête de grêle ou blizzard |
+| Étape 1 | Ciel bleu |
+| Étape 2 | Quelques nuages<br> |
+| Étape 3 | Ciel couvert ou brouillard au sol |
+| Étape 4 | Pluie, grêle ou neige |
+| Étape 5 | Pluie torrentielle, tempête de grêle ou blizzard |
 
-| Température |                |
+| Température | |
 | ----------- | -------------- |
-| Étape 1     | Canicule       |
-| Étape 2     | Chaud<br>      |
-| Étape 3     | Tempéré        |
-| Étape 4     | Frais          |
-| Étape 5     | Froid          |
-| Étape 6     | Froid arctique |
+| Étape 1 | Canicule |
+| Étape 2 | Chaud<br> |
+| Étape 3 | Tempéré |
+| Étape 4 | Frais |
+| Étape 5 | Froid |
+| Étape 6 | Froid arctique |
 
-| Vent    |             |
+| Vent | |
 | ------- | ----------- |
-| Étape 1 | Calme       |
+| Étape 1 | Calme |
 | Étape 2 | Vent modéré |
-| Étape 3 | Vent fort   |
-| Étape 4 | Rafales     |
-| Étape 5 | Tempête     |
+| Étape 3 | Vent fort |
+| Étape 4 | Rafales |
+| Étape 5 | Tempête |
 
 

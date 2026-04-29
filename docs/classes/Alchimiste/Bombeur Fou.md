@@ -5,7 +5,7 @@ Même si la plupart des "bombeurs fous" ne sont pas vraiment fous, ça demande u
 
 ## Spécialité Explosive
 
-À partir du moment où vous choisissez ce champ d'études au niveau 2, vos bombes réalisent le double des dégâts aux objets et structures.
+À partir du moment où vous choisissez ce champ d'études au niveau 2, vos bombes effectuent le double des dégâts aux objets et structures.
 
 ## Formule : Bombe à Fragmentation
 
@@ -17,7 +17,7 @@ Même si la plupart des "bombeurs fous" ne sont pas vraiment fous, ça demande u
 
 ## Bouclier contre les Explosions
 
-À partir du niveau 10, vous avez développé un plaquage élémentaire pour vous protéger des énergies dangereuses. Vous gagnez la résistance de votre choix à l'acide, au froid, au feu, à la foudre ou au tonnerre, et pouvez changer cette sélection à chaque fois que vous finissez un repos long.
+À partir du niveau 10, vous avez développé un plaquage élémentaire pour vous protéger des énergies dangereuses. Vous obtenez une résistance de votre choix à l'acide, au froid, au feu, à la foudre ou au tonnerre, et pouvez changer cette sélection à chaque fois que vous finissez un repos long.
 
 ## Formule : Bombe de Poudre Noire
 

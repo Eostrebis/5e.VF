@@ -11,13 +11,13 @@ Vous apprenez des sorts supplémentaires lorsque vous atteignez certains niveaux
 
 À chaque fois que vous gagnez un niveau d'ensorceleur, vous pouvez remplacer un sort que vous avez appris de cette aptitude par un autre sort du même niveau. Le nouveau sort doit être de l'école de l'abjuration ou de la transmutation, et appartenir à la liste de sorts de l'ensorceleur, de l'occultiste ou du magicien.
 
-| Niveau | Sorts                                             |
+| Niveau | Sorts |
 | ------ | ------------------------------------------------- |
-| 1      | [[Héroïsme]], [[bouclier]]                        |
-| 3      | [[Flou]], [[arme magique]]                        |
-| 5      | [[Image rémanente]], [[célérité]]                 |
-| 7      | [[Protection contre la mort]], [[peau de pierre]] |
-| 9      | [[Évasivité]], [[mythes et légendes]]             |
+| 1 | [[Héroïsme]], [[bouclier]] |
+| 3 | [[Flou]], [[arme magique]] |
+| 5 | [[Image rémanente]], [[célérité]] |
+| 7 | [[Protection contre la mort]], [[peau de pierre]] |
+| 9 | [[Évasivité]], [[mythes et légendes]] |
 ## Âme Héroïque
 
 Au niveau 1, vous obtenez un nombre de points de vie temporaires égal à votre modificateur de Charisme à chaque fois que vous réalisez une attaque armée de mêlée contre une créature hostile à 5 ft. de vous.
@@ -42,4 +42,4 @@ Au niveau 1, vous obtenez un nombre de points de vie temporaires égal à votre 
 
 ## Héritage Héroïque
 
-À partir du niveau 18, vous pouvez vous défaire la mort de façons que bien peu de votre précédente vie ne sauraient égaler. À chaque fois que vous prenez plus de 20 dégâts, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez à 20. Lorsque vous le faites, vous avez l'avantage à vos jets d'attaque, de caractéristique et de sauvegarde jusqu'à la fin de votre prochain tour. 
+À partir du niveau 18, vous pouvez vous défaire la mort de façons que bien peu de votre précédente vie ne sauraient égaler. À chaque fois que vous subissez plus de 20 dégâts, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez à 20. Lorsque vous le faites, vous avez l'avantage à vos jets d'attaque, de caractéristique et de sauvegarde jusqu'à la fin de votre prochain tour. 

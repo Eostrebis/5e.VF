@@ -15,11 +15,11 @@ La personnalité d'un gnome s'exprime énormément dans son apparence. La barbe 
 
 En fonction de leur lieu d'habitation, les gnomes ont évolué en différentes sous-races : 
 
-| Sous-race                                | Description                                                          |
+| Sous-race | Description |
 | ---------------------------------------- | -------------------------------------------------------------------- |
-| [[#Gnome des profondeurs (Svirfneblin)]] | Habitants de l'Outreterre, furtifs et résistants à la magie.         |
-| [[#Gnome des forêts]]                    | Illusionnistes nés, capables de communiquer avec les petits animaux. |
-| [[#Gnome des roches]]                    | Inventeurs robustes et créateurs de petits dispositifs mécaniques.   |
+| [[#Gnome des profondeurs (Svirfneblin)]] | Habitants de l'Outreterre, furtifs et résistants à la magie. |
+| [[#Gnome des forêts]] | Illusionnistes nés, capables de communiquer avec les petits animaux. |
+| [[#Gnome des roches]] | Inventeurs robustes et créateurs de petits dispositifs mécaniques. |
 
 ### Culture
 
@@ -46,7 +46,7 @@ Curieux et impulsifs, les gnomes peuvent choisir l'aventure comme moyen de voir 
 
 #### Noms de Gnomes
 
-Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La mère, le père, le chef de clan ainsi que les oncles et tantes donnent chacun au gnome un nom, et plusieurs surnoms peuvent apparaître avec le temps. Les noms des gnomes sont généralement des variantes des noms de leurs ancêtres ou de familles éloignées, même si certains sont des inventions de toutes pièces. Lorsqu'ils traitent avec les humains ou d'autres qui sont _coincés_ avec les noms, les gnomes apprennent rapidement à ne pas utiliser plus de trois noms : un nom personnel, un nom de clan et un surnom, choisissant généralement les plus rigolos à dire dans chaque catégorie.
+Les gnomes adorent les noms, et la plupart d'entre eux en ont une douzaine. La mère, le père, le chef de clan ainsi que les oncles et tantes donnent chacun au gnome un nom, et plusieurs surnoms peuvent apparaître avec le temps. Les noms des gnomes sont généralement des variantes des noms de leurs ancêtres ou de familles éloignées, même si certains sont des inventions de toutes pièces. Lorsqu'ils traitent avec les humains ou d'autres qui sont *coincés* avec les noms, les gnomes apprennent rapidement à ne pas utiliser plus de trois noms : un nom personnel, un nom de clan et un surnom, choisissant généralement les plus rigolos à dire dans chaque catégorie.
 
 **Noms Masculins :** Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook
 
@@ -71,13 +71,13 @@ Les gnomes des profondeurs, ou svirfneblins, sont natifs de l'Outre-Terre et son
 
 **Âge.** Les svirfneblins vivent peu longtemps pour des gnomes. Ils grandissent à la même vitesse que les humains, et sont considérés adultes à l'âge de 25 ans. Ils vivent entre 200 et 250 ans, même si les dangers et le travail incessant de l'Outre-Terre les emportent généralement plus tôt.
 
-**Taille.** Les svirfneblins mesurent entre 90 cm et 1.20 m, et pèsent entre 35 et 60 kg. Votre taille est _Petite (P)_.
+**Taille.** Les svirfneblins mesurent entre 90 cm et 1.20 m, et pèsent entre 35 et 60 kg. Votre taille est *Petite (P)*.
 
-**Vitesse.** Votre vitesse de base est de 30 ft. (9 m/6 cases). 
+**Vitesse.** Votre vitesse de base est de 30 ft. . 
 
-**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. (36 m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
-**Camouflage Svirfneblin.** Lorsque vous faites un jet de Dextérité (Discrétion), vous pouvez réaliser ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
+**Camouflage Svirfneblin.** Lorsque vous faites un jet de Dextérité (Discrétion), vous pouvez effectuer ce jet avec l'avantage. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations lorsque vous terminez un repos long.
 
 **Don des Svirfneblin.** À partir du niveau 3, vous pouvez lancer le sort [[Déguisement]] avec ce trait. À partir du niveau 5, vous pouvez aussi lancer le sort [[antidétection]], sans avoir besoin des composantes matérielles. Une fois que vous avez lancé l'un de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avant d'avoir fini un repos long. Vous pouvez aussi lancer ces sorts en utilisant vos emplacements de sorts du niveau approprié. 
 
@@ -101,11 +101,11 @@ Les gnomes des forêts ont une habileté naturelle pour l'illusion ainsi qu'une 
 
 **Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
 
-**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est *Petite (P)*.
 
-**Vitesse.** Votre vitesse de base est de 25 ft. (7.5 m/5 cases).
+**Vitesse.** Votre vitesse de base est de 25 ft. .
 
-**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Communication avec les Petits Animaux.** À l'aide de sons et de gestes, vous pouvez communiquer des idées simples avec des bêtes de taille P ou plus petites. Les gnomes de la forêt adorent les animaux et gardent souvent des écureuils, des blaireaux, des lapins, des taupes, des pic-verts ou d'autres créatures comme leurs animaux de compagnie adorés.
 
@@ -129,11 +129,11 @@ Les gnomes des roches disposent d'une ingéniosité naturelle et d'une solidité
 
 **Âge.** Les gnomes grandissent à la même vitesse que les humains, et la plupart s'établissent dans la vie adulte aux alentours de 40 ans. Ils peuvent vivre en moyenne 350 ans, et jusqu'à 500 ans.
 
-**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est _Petite (P)_.
+**Taille.** Les gnomes mesurent entre 90 cm et 1,20 m, et pèsent environ 20 kg. Votre taille est *Petite (P)*.
 
-**Vitesse.** Votre vitesse de base est de 25 ft. (7.5 m/5 cases).
+**Vitesse.** Votre vitesse de base est de 25 ft. .
 
-**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. (18m/12 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à vivre sous terre, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Bricoleur.** Vous maîtrisez les outils de bricoleur. En utilisant ces outils, vous pouvez passer 1 heure et dépenser l'équivalent de 10 PO de matériaux pour créer un mécanisme de taille TP, de CA 5 et 1 PV. Le dispositif cesse de fonctionner après 24 heures (sauf si vous passez 1 heure à le réparer pour le garder fonctionnel), ou lorsque vous utilisez votre action pour le démonter ; à cet instant, vous pouvez récupérer les matériaux dépensés dans sa création. Vous pouvez avoir jusqu'à trois dispositifs actifs en même temps.
 
@@ -145,7 +145,7 @@ Lorsque vous créez un mécanisme, choisissez parmi ces options :
 
 *Boîte à Musique.* Lorsqu'on l'ouvre, la boîte reproduit une chanson (toujours la même) à un volume modéré jusqu'à la fin du morceau ou que la boîte soit refermée.
 
-**Connaissance en Ingénierie.** À chaque fois que vous réalisez un jet d'Intelligence (Histoire) lié aux objets magiques, à l'alchimie ou à la technologie, vous pouvez ajouter deux fois votre bonus de maîtrise, plutôt que ce que vous ajouteriez normalement.
+**Connaissance en Ingénierie.** À chaque fois que vous effectuez un jet d'Intelligence (Histoire) lié aux objets magiques, à l'alchimie ou à la technologie, vous pouvez ajouter deux fois votre bonus de maîtrise, plutôt que ce que vous ajouteriez normalement.
 
 **Ingéniosité Gnome.** Vous avez l'avantage aux jets de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre les sorts.
 

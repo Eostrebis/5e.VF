@@ -1,6 +1,6 @@
 ---
 available:
-  - Paladin
+ - Paladin
 level: 4
 school: Conjuration
 Verbal: true

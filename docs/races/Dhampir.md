@@ -13,29 +13,29 @@ Ce qui définit un dhampir par-dessus tout, c'est la Faim. Ce n'est pas toujours
 
 Ceux qui se laissent trop aller à cette faim risquent de perdre le contrôle et de ne voir les autres plus que comme des proies. Inversement, ceux qui souhaitent y résister nécessitent de véritables prouesses pour contrôler leurs pulsions ou les réprimer constamment par un contrôle de soi permanent. Bien que la plupart des dhampirs aient soif de sang, votre personnage peut arriver à satiété différemment. Tirez ou choisissez une option parmi la table ci-dessous pour déterminer la tentation que subit votre personnage.
 
-| d6  | Faim                      |
+| d6 | Faim |
 | --- | ------------------------- |
-| 1   | Sang                      |
-| 2   | Chair ou viande crue      |
-| 3   | Liquide céphalo-rachidien |
-| 4   | Énergie psychique         |
-| 5   | Rêves                     |
-| 6   | Énergie vitale            |
+| 1 | Sang |
+| 2 | Chair ou viande crue |
+| 3 | Liquide céphalo-rachidien |
+| 4 | Énergie psychique |
+| 5 | Rêves |
+| 6 | Énergie vitale |
 
 #### Origine des Dhampirs
 
 Les dhampirs sont souvent issus de rencontres avec des vampires, mais toutes sortes de pactes macabres, d'influences nécromantiques et de rencontres avec de mystérieux immortels ont pu transformer votre personnage. La table ci-dessous propose des pistes sur la façon dont votre personnage a acquis son lignage.
 
-| d8  | Origine                                                                                                       |
+| d8 | Origine |
 | --- | ------------------------------------------------------------------------------------------------------------- |
-| 1   | Vous êtes la réincarnation d'un ancêtre qui était un tyran vampire.                                           |
-| 2   | Votre pacte avec une déité prédatrice, un fiélon, une fée ou un esprit vous fait partager sa faim.            |
-| 3   | Vous avez survécu à l'attaque d'un vampire mais en êtes ressorti changé.                                      |
-| 4   | Un parasite vit en vous. Vous ne faites que satisfaire sa faim.                                               |
-| 5   | Une tragédie a interrompu votre transformation en un immortel.                                                |
-| 6   | Vous êtes une forme affaiblie d'une entité d'un autre monde. Assouvir votre faim accélère votre récupération. |
-| 7   | Un de vos parents était un vampire.                                                                           |
-| 8   | Une expérience a radicalement changé votre corps, vous rendant dépendant des autres pour les fluides vitaux.  |
+| 1 | Vous êtes la réincarnation d'un ancêtre qui était un tyran vampire. |
+| 2 | Votre pacte avec une déité prédatrice, un fiélon, une fée ou un esprit vous fait partager sa faim. |
+| 3 | Vous avez survécu à l'attaque d'un vampire mais en êtes ressorti changé. |
+| 4 | Un parasite vit en vous. Vous ne faites que satisfaire sa faim. |
+| 5 | Une tragédie a interrompu votre transformation en un immortel. |
+| 6 | Vous êtes une forme affaiblie d'une entité d'un autre monde. Assouvir votre faim accélère votre récupération. |
+| 7 | Un de vos parents était un vampire. |
+| 8 | Une expérience a radicalement changé votre corps, vous rendant dépendant des autres pour les fluides vitaux. |
 
 ### Culture
 
@@ -66,11 +66,11 @@ Si vous ne possédez aucun de ces éléments de par votre race ou que vous chois
 
 **Pattes d'Araignée.** Vous possédez une vitesse d'escalade égale à votre vitesse de marche. À partir du niveau 3, vous pouvez vous déplacer sur les surfaces verticales et aux plafonds tout en gardant vos mains libres.
 
-**Morsure Vampirique.** Votre morsure canine est une arme naturelle, considérée comme une arme simple de mêlée que vous maîtrisez. Vous ajoutez votre modificateur de Constitution au lieu de votre modificateur de Force aux jets d'attaque et de dégâts que vous réalisez avec cette morsure. Elle inflige 1d4 dégâts perçants si vous touchez. Lorsqu'il vous manque au moins la moitié de vos points de vie, vous avez l'avantage aux jets d'attaque que vous réalisez avec cette morsure.
+**Morsure Vampirique.** Votre morsure canine est une arme naturelle, considérée comme une arme simple de mêlée que vous maîtrisez. Vous ajoutez votre modificateur de Constitution au lieu de votre modificateur de Force aux jets d'attaque et de dégâts que vous effectuez avec cette morsure. Elle inflige 1d4 dégâts perforants si vous touchez. Lorsqu'il vous manque au moins la moitié de vos points de vie, vous avez l'avantage aux jets d'attaque que vous effectuez avec cette morsure.
 
 Lorsque vous attaquez avec cette morsure et touchez une créature qui n'est pas un Mort-Vivant ou une Construction, vous vous renforcez de l'une des façons ci-après : 
 
- - Vous regagnez un nombre de points de vie égal aux dégâts perçants infligés par la morsure.
- - Vous obtenez un bonus à votre prochain jet de caractéristique ou d'attaque que vous réalisez ; ce bonus est égal aux dégâts perçants infligés par la morsure.
+ - Vous regagnez un nombre de points de vie égal aux dégâts perforants infligés par la morsure.
+ - Vous obtenez un bonus à votre prochain jet de caractéristique ou d'attaque que vous effectuez ; ce bonus est égal aux dégâts perforants infligés par la morsure.
  
 Vous pouvez vous renforcer de cette façon avec votre morsure un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

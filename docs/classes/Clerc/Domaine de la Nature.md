@@ -5,13 +5,13 @@ Les dieux de la Nature sont aussi variés que le monde naturel lui-même, des di
 
 **Sorts du Domaine de la Nature**
 
-| Niveau de Clerc | Sorts                                                           |
+| Niveau de Clerc | Sorts |
 | --------------- | --------------------------------------------------------------- |
-| 1               | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
-| 3               | [[Peau d'Écorce]], [[croissance d'épines]]                      |
-| 5               | [[Croissance végétale]], [[mur de vent]]                        |
-| 7               | [[Domination de bête]], [[lianes avides]]                       |
-| 9               | [[Fléau d'insectes]], [[passage par les arbres]]                |
+| 1 | [[Amitié avec les Animaux]], [[communication avec les animaux]] |
+| 3 | [[Peau d'Écorce]], [[croissance d'épines]] |
+| 5 | [[Croissance végétale]], [[mur de vent]] |
+| 7 | [[Domination de bête]], [[lianes avides]] |
+| 9 | [[Fléau d'insectes]], [[passage par les arbres]] |
 
 ## Apprenti de la Nature
 
@@ -25,11 +25,11 @@ Au niveau 1, vous apprenez un cantrip de druide de votre choix. Ce cantrip est c
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour charmer plantes et animaux.
 
-Pour une action, vous présentez votre symbole sacré et appelez le nom de votre déité. Chaque bête ou créature plante que vous pouvez voir à 30 ft. doit réaliser un jet de sauvegarde de Sagesse. Si la créature échoue ce jet, elle est [[charmé|charmée]] par vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[charmé|charmée]] par vous, elle vous est amicale, ainsi qu'à chaque créature que vous désignez.
+Pour une action, vous présentez votre symbole sacré et appelez le nom de votre déité. Chaque bête ou créature plante que vous pouvez voir à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si la créature échoue ce jet, elle est [[charmé|charmée]] par vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[charmé|charmée]] par vous, elle vous est amicale, ainsi qu'à chaque créature que vous désignez.
 
 ## Affaiblissement des Éléments
 
-À partir du niveau 6, lorsque vous ou une créature à 30 ft. prend des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour lui conférer la résistance contre ces dégâts.
+À partir du niveau 6, lorsque vous ou une créature à 30 ft. subit des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre, vous pouvez utiliser votre réaction pour lui conférer une résistance contre ces dégâts.
 
 ## Frappe Divine
 

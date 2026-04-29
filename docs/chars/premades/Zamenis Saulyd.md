@@ -3,32 +3,32 @@ writing_status: finished
 ---
 ## Personnage
 
-__Race :__ Drow
+**Race :** Drow
 
-__Classe :__ Investigateur
+**Classe :** Investigateur
 
-__Niveau :__ 1 (BM +2)
+**Niveau :** 1 (BM +2)
 
-__Points de vie :__ 11
+**Points de vie :** 11
 
-__Vitesse :__ 30 ft.
+**Vitesse :** 30 ft.
 
-|   FOR   |   DEX   |   CON   |   INT   |   SAG   |  CHA   |
+| FOR | DEX | CON | INT | SAG | CHA |
 | :-----: | :-----: | :-----: | :-----: | :-----: | :----: |
 | 20 (+5) | 12 (+1) | 16 (+3) | 16 (+3) | 16 (+3) | 4 (-3) |
-|  ◎ +5   |  ◉ +3   |  ◎ +3   |  ◉ +5   |  ◎ +3   |  ◎ -3  |
+| ◎ +5 | ◉ +3 | ◎ +3 | ◉ +5 | ◎ +3 | ◎ -3 |
 
-| Compétences                 |                               |
+| Compétences | |
 | --------------------------- | ----------------------------- |
-| ◎ Acrobaties (_Dex_) : +1   | ⬤  Investigation (_Int_) : +7 |
-| ◉ Arcanes (_Int_) : +5      | ◎ Médecine (_Sag_) : +3       |
-| ⬤ Athlétisme (_For_) : +9   | ◎ Nature (_Int_) : +3<br>     |
-| ◎ Discrétion (_Dex_) : +1   | ◉ Perception (_Sag_) : +5     |
-| ◎ Dressage (_Sag_) : +3     | ◎ Persuasion (_Cha_) : -3     |
-| ◉  Escamotage (_Dex_) : +3  | ◎ Religion (_Int_) : +3       |
-| ◎ Histoire (_Int_) : +3     | ◎ Représentation (_Cha_) : -3 |
-| ◎ Intimidation (_Cha_) : -3 | ◎ Survie (_Sag_) : +3         |
-| ◉ Intuition (_Sag_) : +5    | ◎ Tromperie (_Cha_) : -3<br>  |
+| ◎ Acrobaties (*Dex*) : +1 | ⬤ Investigation (*Int*) : +7 |
+| ◉ Arcanes (*Int*) : +5 | ◎ Médecine (*Sag*) : +3 |
+| ⬤ Athlétisme (*For*) : +9 | ◎ Nature (*Int*) : +3<br> |
+| ◎ Discrétion (*Dex*) : +1 | ◉ Perception (*Sag*) : +5 |
+| ◎ Dressage (*Sag*) : +3 | ◎ Persuasion (*Cha*) : -3 |
+| ◉ Escamotage (*Dex*) : +3 | ◎ Religion (*Int*) : +3 |
+| ◎ Histoire (*Int*) : +3 | ◎ Représentation (*Cha*) : -3 |
+| ◎ Intimidation (*Cha*) : -3 | ◎ Survie (*Sag*) : +3 |
+| ◉ Intuition (*Sag*) : +5 | ◎ Tromperie (*Cha*) : -3<br> |
 
 > [!TIP]- Fiche récapitulative pour ceux qui ont la flemme (Merci Gemini !)
 > Vous êtes Zamenis, une Drow érudite et anormalement forte, exilée de votre société matriarcale après avoir résolu une crise surnaturelle par la logique et la force brute, prouvant ainsi que les méthodes "grossières" sont parfois les plus efficaces.
@@ -51,21 +51,21 @@ __Vitesse :__ 30 ft.
 
 **Outils :** [[Set de Dé]], [[Kit d'Empoisonneur]]
 
-__Langues__ : Commun, Elfique, Profond
+**Langues** : Commun, Elfique, Profond
 
 ### Description
 
-__Âge :__ 114 ans
+**Âge :** 114 ans
 
-__Taille :__ 1,70 m
+**Taille :** 1,70 m
 
-__Poids :__ 77 kg
+**Poids :** 77 kg
 
 Zamenis a la silhouette et les traits indubitables d'une elfe noire, mais quelque chose en elle contredit immédiatement les stéréotypes de sa race. Là où l'on s'attendrait à voir une silhouette svelte et gracieuse, on trouve une carrure robuste et une musculature dense, presque surprenante. Elle n'est pas taillée pour l'escrime agile et les ballets mortels, mais pour la force brute et l'endurance. Ses épaules sont larges, et ses bras, habitués à manier des armes lourdes et à maîtriser des créatures récalcitrantes, sont puissants.
 
 Sa peau a la couleur de l'obsidienne polie, un noir profond qui absorbe la lumière. Ses cheveux, d'un blanc pur comme le veut son héritage Drow, ne sont pas coiffés en tresses complexes et ornées comme ceux des nobles de sa cité. Elle les porte coupés à la garçonne pour ne pas être gênée dans son travail.
 
-Son visage est anguleux et ses traits sont fins, mais ils sont dénués de la séduction ou de l'arrogance habituelles de son peuple. Son expression est neutre, presque impassible. Ses yeux, d'un orange infernal, ne cherchent pas à charmer ou à intimider par la ruse ; ils sont perçants, analytiques et scrutent le monde avec une intensité déconcertante, comme s'ils cherchaient constamment un indice, une faiblesse, une faille dans la réalité.
+Son visage est anguleux et ses traits sont fins, mais ils sont dénués de la séduction ou de l'arrogance habituelles de son peuple. Son expression est neutre, presque impassible. Ses yeux, d'un orange infernal, ne cherchent pas à charmer ou à intimider par la ruse ; ils sont perforants, analytiques et scrutent le monde avec une intensité déconcertante, comme s'ils cherchaient constamment un indice, une faiblesse, une faille dans la réalité.
 
 Elle ne porte pas les robes de soie et les pièces d'armure en mitral ciselé de sa société. Sa tenue est purement fonctionnelle : une armure de cuir sombre, robuste et bien entretenue, mais portant les cicatrices de nombreuses rencontres. Des renforts de métal protègent ses avant-bras et ses épaules. À sa ceinture pendent plusieurs sacoches contenant des composants de rituels, des fioles, et un ou deux poignards.
 
@@ -76,7 +76,7 @@ Mais son bien le plus important, toujours à portée de main dans une sacoche de
 
 ### Aptitudes de Race
 
-**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. (36m/24 cases) dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+**Vision dans le noir.** Habitué à la vie dans de denses forêts et au ciel nocturne, vous avez une vision supérieure dans l'obscurité et la lumière faible. Vous pouvez voir à 120 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
 
 **Ascendance Féérique.** Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
 
@@ -136,15 +136,15 @@ Zamenis est capable de canaliser sa puissance physique pour surmonter les obstac
 
 ### Traits de Personnalité
 
-__Traits :__ Je commence et termine mes journées par des rituels qui ne sont familiers à ceux autour de moi. Je ne peux m'empêcher de me questionner sur comment les choses et les personnes fonctionnent.
+**Traits :** Je commence et termine mes journées par des rituels qui ne sont familiers à ceux autour de moi. Je ne peux m'empêcher de me questionner sur comment les choses et les personnes fonctionnent.
 
-__Idéal :__ Tout est nouveau, mais j'ai soif de connaissances.
+**Idéal :** Tout est nouveau, mais j'ai soif de connaissances.
 
-__Lien :__ Ma liberté est la plus importante de mes possessions, et je ne laisserai personne me la voler.
+**Lien :** Ma liberté est la plus importante de mes possessions, et je ne laisserai personne me la voler.
 
-__Défaut :__ J'ai une faiblesse pour les habitants du monde de la surface.
+**Défaut :** J'ai une faiblesse pour les habitants du monde de la surface.
 
-__Alignement :__ Neutre
+**Alignement :** Neutre
 
 ## Conseils de Jeu
 

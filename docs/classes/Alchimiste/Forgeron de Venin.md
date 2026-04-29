@@ -5,7 +5,7 @@ Pour chaque alchimiste qui a dévoué sa vie à aider les malades et les infirme
 
 ## Empoisonneur
 
-À partir du moment où vous choisissez ce champ d'études au niveau 2, vous gagnez la découverte [[Empoisonneur]]. Jusqu'à ce que vous atteigniez le niveau 3, vous possédez 2 dés de réactifs qui ne peuvent être utilisés que pour fabriquer des poisons à l'aide de cette découverte. Cette découverte ne compte pas dans le total des découvertes que vous connaissez, et vous ne pouvez pas la remplacer plus tard. De plus, lorsque vous infligez des dégâts de poison à une créature, vous ignorez la résistance aux poisons, et vous traitez l'immunité comme une résistance.
+À partir du moment où vous choisissez ce champ d'études au niveau 2, vous gagnez la découverte [[Empoisonneur]]. Jusqu'à ce que vous atteigniez le niveau 3, vous possédez 2 dés de réactifs qui ne peuvent être utilisés que pour fabriquer des poisons à l'aide de cette découverte. Cette découverte ne compte pas dans le total des découvertes que vous connaissez, et vous ne pouvez pas la remplacer plus tard. De plus, lorsque vous infligez des dégâts de poison à une créature, vous ignorez une résistance aux poisons, et vous traitez l'immunité comme une résistance.
 
 ## Formule : Bombe Venimeuse
 
@@ -21,5 +21,5 @@ Au niveau 10, en ingérant régulièrement de petites doses de divers poisons et
 
 ## Récompense Toxique
 
-À partir du niveau 18, à chaque fois qu'une créature à moins de 5 ft. de vous vous touche avec une attaque de mêlée, vous pouvez utiliser votre réaction pour libérer un spray de vapeurs empoisonnées. L'attaquant doit réaliser un jet de sauvegarde de Constitution contre votre DD de sauvegarde de bombes ou être empoisonné pendant 1 minute. Tant qu'elle est empoisonnée, la créature prend 1d10 dégâts de poison à chaque début de tour. Une créature empoisonnée peut répéter ce jet de sauvegarde à la fin de son tour, terminant l'effet sur elle-même en cas de succès.
+À partir du niveau 18, à chaque fois qu'une créature à moins de 5 ft. de vous vous touche avec une attaque de mêlée, vous pouvez utiliser votre réaction pour libérer un spray de vapeurs empoisonnées. L'attaquant doit effectuer un jet de sauvegarde de Constitution contre votre DD de sauvegarde de bombes ou être empoisonné pendant 1 minute. Tant qu'elle est empoisonnée, la créature subit 1d10 dégâts de poison à chaque début de tour. Une créature empoisonnée peut répéter ce jet de sauvegarde à la fin de son tour, terminant l'effet sur elle-même en cas de succès.
 

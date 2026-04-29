@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-Les bardes du collège des masques (souvent appelés _maîtres des masques_) sont des comédiens hors pair qui s'entraînent à devenir leur personnage plutôt que de simplement l'imiter. Les bardes qui rejoignent ce collège viennent à penser que tout n'est que jeu et qu'il suffit de métaphoriquement se masquer pour devenir acteur de la Grande Pièce qu'est la vie. Pour être au niveau du drame quotidien, un maître des masques possède sur lui multitudes de masques, chacun un puissant artefact magique représentant un archétype.
+Les bardes du collège des masques (souvent appelés *maîtres des masques*) sont des comédiens hors pair qui s'entraînent à devenir leur personnage plutôt que de simplement l'imiter. Les bardes qui rejoignent ce collège viennent à penser que tout n'est que jeu et qu'il suffit de métaphoriquement se masquer pour devenir acteur de la Grande Pièce qu'est la vie. Pour être au niveau du drame quotidien, un maître des masques possède sur lui multitudes de masques, chacun un puissant artefact magique représentant un archétype.
 
 ## Maîtrise Supplémentaire
 
@@ -35,20 +35,20 @@ Les masques suivants sont listés alphabétiquement
 
  Ce masque en argile affiche des rides exagérées et la mine renfrognée d'un vieil homme grincheux. Vous connaissez le cantrip [[Trait de Feu]], ainsi que les sorts de la table ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
 
-| Niveau de Barde | Sorts                                          |
+| Niveau de Barde | Sorts |
 | --------------- | ---------------------------------------------- |
-| 3               | [[Saute de Vent]], [[rayon ardent]]            |
-| 5               | [[éclair]], [[protection contre une énergie]]  |
-| 7               | [[porte dimensionnelle]], [[tempête de grêle]] |
-| 9               | [[Scrutation]], [[mur de pierre]]              |
+| 3 | [[Saute de Vent]], [[rayon ardent]] |
+| 5 | [[éclair]], [[protection contre une énergie]] |
+| 7 | [[porte dimensionnelle]], [[Tempête de Glace]] |
+| 9 | [[Scrutation]], [[mur de pierre]] |
 
 ### Diable
 
-Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et les cornes d'un magnifique fiélon. Pour une réaction lorsque vous prenez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser une utilisation d'Inspiration Bardique pour infliger à la créature un nombre de dégâts de feu égal à deux lancers du dé d'Inspiration Bardique.
+Ce masque en obsidienne représente le sourire malicieux ainsi que les crocs et les cornes d'un magnifique fiélon. Pour une réaction lorsque vous subissez des dégâts d'une créature que vous pouvez voir à 5 ft., vous pouvez dépenser une utilisation d'Inspiration Bardique pour infliger à la créature un nombre de dégâts de feu égal à deux lancers du dé d'Inspiration Bardique.
 
 ### Dragon
 
-Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit réaliser un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature prend des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
+Ce tissu peint forme les écailles, les cornes, les yeux, les moustaches flottantes et les dents d'une tête de dragon aux tons changeants. Tant que vous portez ce masque, vous pouvez utiliser votre action et dépenser une utilisation d'Inspiration Bardique pour souffler une énergie destructrice. Chaque créature dans un cône de 15 ft. doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort. Une créature subit des dégâts de feu égaux à trois lancers de dé d'Inspiration Bardique si elle échoue, et la moitié sinon.
 
 ### Sans-Visage
 
@@ -56,7 +56,7 @@ Deux trous parfaitement ronds viennent casser le blanc parfait et la lisseté de
 
 ### Fou
 
-Ce masque en porcelaine d'un bouffon souriant est décoré de clochettes et de rubans et aborde un motif kefertelé. Tant que vous portez ce masque, votre vitesse de marche est augmentée de 10 ft. De plus, vous pouvez vous désengager pour une action bonus.
+Ce masque en porcelaine d'un bouffon souriant est décoré de clochettes et de rubans et aborde un motif kefertelé. Tant que vous portez ce masque, votre vitesse de marche est augmentée de 10 ft. De plus, vous pouvez vous Désengager pour une action bonus.
 
 **Amélioration.** À partir du niveau 6, vous pouvez Sprinter pour une action bonus.
 
@@ -70,12 +70,12 @@ Ce heaume en métal sombre, cabossé et griffé, recouvre votre visage entier. T
 
 Au lieu d'un visage, ce masque en bronze arbore un symbole sacré, avec de fins trous pour permettre la vision. Vous connaissez le cantrip [[Flamme Sacrée]] ainsi que les sorts montrés dans ci-dessous. En montant de niveau dans cette classe, vous apprenez des sorts supplémentaires tant que vous portez ce masque. Ces sorts sont considérés comme des sorts de bardes pour vous, mais ne comptent pas dans le nombre de sorts que vous connaissez.
 
-| Niveau de Barde | Sorts                                            |
+| Niveau de Barde | Sorts |
 | --------------- | ------------------------------------------------ |
-| 3               | [[Aide]], [[restauration partielle]]             |
-| 5               | [[mot de soin de groupe]], [[Langues]]           |
-| 7               | [[Bannissement]], [[protection contre la mort]]  |
-| 9               | [[restauration supérieure]], [[soins de groupe]] |
+| 3 | [[Aide]], [[restauration partielle]] |
+| 5 | [[mot de soin de groupe]], [[Langues]] |
+| 7 | [[Bannissement]], [[protection contre la mort]] |
+| 9 | [[restauration supérieure]], [[soins de groupe]] |
 
 ### Comte
 
@@ -85,6 +85,6 @@ Ce scintillant masque d'argent utilise des joyaux dorés en guise d'yeux. Lorsqu
 
 ### Esprit
 
-Ce tissu blanc recouvre le visage de la même façon qu'un linceul le ferait, avec deux pièces d'or cousues au niveau des yeux. Vous devenez [[invisible]] si vous ne parlez pas, ne bougez pas et ne prenez pas d'action pendant 1 minute. Vous restez invisible jusqu'à 10 minutes ou jusqu'à ce que vous retiriez le masque, ne preniez de dégâts, n'attaquiez ou ne lanciez un sort. Tant que vous êtes invisibles, vous pouvez devenir translucide telle une image fantomatique ou complétement invisible pour une action bonus.
+Ce tissu blanc recouvre le visage de la même façon qu'un linceul le ferait, avec deux pièces d'or cousues au niveau des yeux. Vous devenez [[invisible]] si vous ne parlez pas, ne bougez pas et n'entreprenez pas d'action pendant 1 minute. Vous restez invisible jusqu'à 10 minutes ou jusqu'à ce que vous retiriez le masque, ne preniez de dégâts, n'attaquiez ou ne lanciez un sort. Tant que vous êtes invisibles, vous pouvez devenir translucide telle une image fantomatique ou complétement invisible pour une action bonus.
 
 **Amélioration.** À partir du niveau 6, tant que vous êtes invisible, vous lévitez quelques centimètres au-dessus du sol, vous permettant d'ignorer les terrains difficiles et de ne pas faire de bruit lorsque vous vous déplacez.

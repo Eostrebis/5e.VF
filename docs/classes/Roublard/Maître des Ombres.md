@@ -9,7 +9,7 @@ Lorsque vous choisissez cet archétype au niveau 3, vos yeux changent pour deven
 
 ## Libération d'Ombre
 
-À partir du niveau 3, vous pouvez utiliser une action bonus pour magiquement détacher votre ombre de votre corps et lui permettre de se déplacer indépendamment. Votre ombre est une silhouette plate et parfaitement noire qui peut longer les surfaces. Elle possède une CA de 10, 1 point de vie et l'immunité à toutes les conditions. Elle fait la même taille que vous, bien que parfaitement plate, et peut occuper le même espace que d'autres créatures. Si votre ombre réalise un jet de sauvegarde ou un jet de caractéristique pour interagir avec son environnement, elle utilise votre bonus pour le jet.
+À partir du niveau 3, vous pouvez utiliser une action bonus pour magiquement détacher votre ombre de votre corps et lui permettre de se déplacer indépendamment. Votre ombre est une silhouette plate et parfaitement noire qui peut longer les surfaces. Elle possède une CA de 10, 1 point de vie et l'immunité à toutes les conditions. Elle fait la même taille que vous, bien que parfaitement plate, et peut occuper le même espace que d'autres créatures. Si votre ombre effectue un jet de sauvegarde ou un jet de caractéristique pour interagir avec son environnement, elle utilise votre bonus pour le jet.
 
 En combat, votre ombre agit pendant vos tours et suit vos ordres. Vous pouvez ordonner à votre ombre à chaque tour de se déplacer de jusqu'à 30 ft. le long de murs ou du sol (aucune action requise). Votre ombre n'attaque pas mais peut interagir avec des objets et est considéré comme un allié pour l'Attaque Sournoise.
 
@@ -26,7 +26,7 @@ Au niveau 9, vous pouvez lancer le sort [[ténèbres]] sans dépenser d'emplacem
 À partir du niveau 13, votre ombre peut atteindre les ombres des autres créatures et interagir avec comme si elles étaient physiques. Si votre ombre se trouve à 5 ft. de l'ombre d'une autre créature que vous pouvez voir, vous pouvez utiliser votre action bonus pour lui ordonner d'utiliser l'une des capacités suivantes :
 
  - Votre ombre réalise une attaque contre l'ombre d'une autre créature. Votre ombre utilise votre Dextérité pour ses jets d'attaque et maîtrise ses armes d'ombres. Si elle touche contre la CA de la créature, l'ombre inflige 2d6 dégâts à la créature. Ces dégâts sont magiques et du type correspondant à l'arme que vous maniez. Si celle-ci n'inflige pas de dégâts physiques, alors votre ombre inflige des dégâts contondants.
- - Votre ombre saisit l'ombre d'une autre créature. Votre ombre peut utiliser votre Dextérité (Acrobaties) pour son jet de saisie et la cible réalise un jet de saisie normalement. Si votre ombre réussit, la créature est [[saisi|saisie]] jusqu'à la fin de son prochain tour.
+ - Votre ombre saisit l'ombre d'une autre créature. Votre ombre peut utiliser votre Dextérité (Acrobaties) pour son jet de saisie et la cible effectue un jet de saisie normalement. Si votre ombre réussit, la créature est [[saisi|saisie]] jusqu'à la fin de son prochain tour.
  - Votre ombre s'accroche aux talons d'une autre créature, devenant sa seconde ombre jusqu'à la fin de son prochain tour. Si vous voyez la créature réaliser une attaque tant que votre ombre est sur ses talons, vous pouvez utiliser votre réaction pour que votre ombre bondisse devant la créature et devienne la cible de l'attaque.
 
 ## Danse des Ombres

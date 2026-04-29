@@ -4,11 +4,11 @@
 ### 1.1 Caractéristiques de départ
 Les caractéristiques d'un personnage sont déterminées par l'une des méthodes suivantes : 
 
-  - Série standard : \[16, 14, 13, 12, 11, 8\], ou en utilisant une série standard tirée *collectivement*.
-  - Achat par point : 33 points disponibles.
-  - Tirage :
-    - En tirant 6 fois 4d6 et en retirant la valeur la plus petite, et en affectant chaque résultat à un score au choix.
-    - En tirant 6 fois 1d20 et en affectant les résultats **dans l'ordre**.
+ - Série standard : \[16, 14, 13, 12, 11, 8\], ou en utilisant une série standard tirée *collectivement*.
+ - Achat par point : 33 points disponibles.
+ - Tirage :
+ - En tirant 6 fois 4d6 et en retirant la valeur la plus petite, et en affectant chaque résultat à un score au choix.
+ - En tirant 6 fois 1d20 et en affectant les résultats **dans l'ordre**.
 
 ### 1.2 Compétence Bonus
 Chaque personnage dispose d'un loisir et/ou d'un intérêt qui se traduit par l'ajout d'une compétence bonus. Cette compétence est à votre choix (par ex. `bière naine` ou `art elfe`) et doit être validée par le MJ. Elle est liée à votre Intelligence, et vous en avez l'expertise.
@@ -54,19 +54,19 @@ Lorsque vous montez en niveau, vous gagnez un nombre de points de vie maximum d�
 ### 3.1 P'tite Pause
 En plus des repos courts et longs, vos personnages peuvent prendre une *p'tite pause*. Celle-ci dure 10 minutes, et fonctionne comme ceci : 
 
-  - À la fin d'une p'tite pause, vous pouvez dépenser **1** dé de vie.
-  - N'importe quelle tâche non triviale ou de combat interrompt la p'tite pause.
-  - Six p'tites pauses à la suite correspondent à un repos court.
-  - Si les personnages sont pressés par le temps, il peuvent profiter d'un repos court en seulement 10 minutes, à la condition que tous les PJs puissent dépenser au moins 1 dé de vie. Une fois qu'ils ont réalisé un repos court de cette manière, ils ne peuvent plus le refaire tant qu'ils n'ont pas terminé un repos long.
+ - À la fin d'une p'tite pause, vous pouvez dépenser **1** dé de vie.
+ - N'importe quelle tâche non triviale ou de combat interrompt la p'tite pause.
+ - Six p'tites pauses à la suite correspondent à un repos court.
+ - Si les personnages sont pressés par le temps, il peuvent profiter d'un repos court en seulement 10 minutes, à la condition que tous les PJs puissent dépenser au moins 1 dé de vie. Une fois qu'ils ont réalisé un repos court de cette manière, ils ne peuvent plus le refaire tant qu'ils n'ont pas terminé un repos long.
 
 ### 3.2 Aide
-Pour aider un autre personnage, votre personnage doit soit maîtriser la compétence utilisée, soit posséder un score de caractéristique plus élevé que l'aidé. L'aide doit être signalée avant que le jet soit lancé.
+Pour Aider un autre personnage, votre personnage doit soit maîtriser la compétence utilisée, soit posséder un score de caractéristique plus élevé que l'aidé. L'aide doit être signalée avant que le jet soit lancé.
 
 ### 3.3 Nage
-Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous réalisez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework
+Pour savoir comment nager efficacement, une créature doit maîtriser l'athlétisme. Dans le cas contraire, vous flottez et nagez comme un chien avec une vitesse de 5 ft., si vous effectuez un jet de Force (Athlétisme) DD 10. En haut agitée, ce DD passe à 15. Si vous portez une armure qui confère un désavantage aux jets de discrétion, vous avez un désavantage à ces jets de Force (Athlétisme). #TODO Rework
 
 ### 3.4 Chute
-Si une créature prend des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature prend des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
+Si une créature subit des dégâts de chute d'un montant supérieur à son score de Constitution, elle tombe à 0 point de vie, inconsciente mais stabilisée. Si une créature subit des dégâts de chute d'un montant supérieur au double de son score de Constitution, elle tombe à 0 points de vie, avec un échec de jet de sauvegarde contre la mort par tranche de 5 dégâts au dessus du double de son score de Constitution.
 
 ### 3.5 Faire 10
 Lorsque vous n'êtes pas sous pression ou en danger immédiat, vous pouvez *faire 10*. Plutôt que de lancer un d20 pour un jet de compétence, vous utilisez votre score passif pour cette compétence. Pour rappel, le score passif est 10 + modificateurs habituels du jet, avec un bonus de 5 si le jet est réalisé avec avantage et -5 s'il est réalisé avec désavantage. Faire 10 prend 10 fois le temps nécessaire pour réaliser l'action standard, donc environ 1 minute. L'éligibilité d'une action à cette règle est au bon vouloir du MJ.
@@ -90,10 +90,10 @@ Généralement, les aventuriers gardent leurs potions à portée de mains (par e
 ### 4.3 Résistances et Immunités
 
 #### 4.3.1 Résistance aux attaques non-magiques
-Lorsqu'une description fait état d'une résistance aux attaques non-magiques, la résistance est considérée comme étant aux dégâts non-magiques (par ex. un piège qui tire des flèches).
+Lorsqu'une description fait état d'une résistance aux attaques non-magiques, une résistance est considérée comme étant aux dégâts non-magiques (par ex. un piège qui tire des flèches).
 
 #### 4.3.2 Immunité aux dégâts contondants
-Une créature immunisée aux dégâts contondants prend la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
+Une créature immunisée aux dégâts contondants subit la moitié des dégâts de chute, comme si elle n'était que résistante aux dégâts contondants.
 
 ### 4.4 Initiative
 
@@ -109,7 +109,7 @@ Après être descendu à 0 point de vie et revenu, un personnage est étourdi. S
 ## 5. Équipement
 
 ### 5.1 Résistance aux dégâts non-magiques
-Un équipement doit au moins être de rareté *peu commune* pour outrepasser la résistance aux dégâts non-magiques.
+Un équipement doit au moins être de rareté *peu commune* pour outrepasser une résistance aux dégâts non-magiques.
 
 ### 5.2 Armes Lourdes
 Le maniement d'arme lourde n'est plus conditionné par la catégorie de taille de la créature, mais par son score passif de jet de sauvegarde de Force, qui doit être supérieur à 15.

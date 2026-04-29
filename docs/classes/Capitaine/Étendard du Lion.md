@@ -11,7 +11,7 @@ Lorsque vous touchez une créature avec une attaque armée pendant votre tour, v
 
 ## Selle Sûre
 
-À partir du niveau 7, vous avez l'avantage aux jets de sauvegarde que vous réalisez pour ne pas tomber de votre monture. Si vous tombez de votre monture, vous atterrissez toujours sur vos pieds, sauf si vous êtes [[incapacité]]. De plus, monter ou descendre d'une créature ne vous coûte que 5 ft. de mouvement, au lieu de la moitié de votre vitesse.
+À partir du niveau 7, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour ne pas tomber de votre monture. Si vous tombez de votre monture, vous atterrissez toujours sur vos pieds, sauf si vous êtes [[incapacité]]. De plus, monter ou descendre d'une créature ne vous coûte que 5 ft. de mouvement, au lieu de la moitié de votre vitesse.
 
 Enfin, vous pouvez forcer une attaque contre votre monture de vous cibler vous à la place.
 
@@ -21,6 +21,6 @@ Enfin, vous pouvez forcer une attaque contre votre monture de vous cibler vous �
 
 ## Pari du Lion
 
-À partir du niveau 17, lorsque vous prenez des dégâts d'une créature à 5 ft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature. Si vous touchez, vous pouvez ajouter la moitié de votre niveau au jet de dégâts.
+À partir du niveau 17, lorsque vous subissez des dégâts d subissez des dégâtsft. de vous, vous pouvez utiliser votre réaction pour réaliser une attaque armée de mêlée contre cette créature. Si vous touchez, vous pouvez ajouter la moitié de votre niveau au jet de dégâts.
 
 Vous pouvez utiliser cette aptitude trois fois, et vous regagnez les utilisations dépensées lorsque vous terminez un repos.

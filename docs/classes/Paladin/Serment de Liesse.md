@@ -17,19 +17,19 @@ Les paladins qui prêtent le Serment de Liesse font le vœu solennel de festoyer
 
 Vous gagnez les sorts de serment suivants :
 
-| Niveau de Paladin | Sorts                                                             |
+| Niveau de Paladin | Sorts |
 | ----------------- | ----------------------------------------------------------------- |
-| 3                 | [[Charme-personne]], [[fou rire]]                                 |
-| 5                 | [[Apaisement des émotions]], [[amélioration de caractéristiques]] |
-| 9                 | [[Création de nourriture et d'eau]], [[Trame Hypnotique]]         |
-| 13                | [[Compulsion]], [[liberté de mouvement]]                          |
-| 17                | [[Quête]], [[lien télépathique]]                                  |
+| 3 | [[Charme-personne]], [[fou rire]] |
+| 5 | [[Apaisement des émotions]], [[amélioration de caractéristiques]] |
+| 9 | [[Création de nourriture et d'eau]], [[Trame Hypnotique]] |
+| 13 | [[Compulsion]], [[liberté de mouvement]] |
+| 17 | [[Quête]], [[lien télépathique]] |
 
 ## Canal Divin
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Conjuration de Boisson.** Lorsque vous terminez un repos long, vous pouvez utiliser votre Canal Divin pour invoquer une flasque de bière bien mousseuse digne du paradis. Jusqu'à 3 créatures peuvent boire de cette flasque, et chacune d'entre elles a l'avantage au prochain jet de sauvegarde qu'elle réalise avant son prochain repos long, après quoi l'ivresse se dissipe. Lorsque vous prenez un repos court, la bière restante perd toutes propriétés magiques.
+**Conjuration de Boisson.** Lorsque vous terminez un repos long, vous pouvez utiliser votre Canal Divin pour invoquer une flasque de bière bien mousseuse digne du paradis. Jusqu'à 3 créatures peuvent boire de cette flasque, et chacune d'entre elles a l'avantage au prochain jet de sauvegarde qu'elle effectue avant son prochain repos long, après quoi l'ivresse se dissipe. Lorsque vous prenez un repos court, la bière restante perd toutes propriétés magiques.
 
 **Danse et Chanson.** Vous pouvez utiliser votre Canal Divin en une action pour danser et entonner une gigue entraînante. Chaque créature que vous choisissez à 15 ft. de vous doit réussir un jet de sauvegarde de Sagesse ou se joindre à la danse. Les créatures continuent de danser tant que vous le faites.
 
@@ -45,7 +45,7 @@ Au niveau 18, la portée de cette aura augmente de 10 ft. pour passer à 15 ft.
 
 ## Fêtard
 
-Au niveau 15, lorsque vous ou une créature alliée à 30 ft. de vous réalisez un jet de caractéristique ou de sauvegarde sans le désavantage, vous pouvez conférer l'avantage.
+Au niveau 15, lorsque vous ou une créature alliée à 30 ft. de vous effectuez un jet de caractéristique ou de sauvegarde sans le désavantage, vous pouvez conférer l'avantage.
 
 Vous pouvez utiliser cette aptitude trois fois, et regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 ## Bête de Scène

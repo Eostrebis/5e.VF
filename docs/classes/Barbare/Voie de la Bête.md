@@ -16,15 +16,15 @@ Un tel barbare peut être habité par un esprit primitif ou descendre d'une lign
 
 ## Forme Bestiale
 
-À partir du moment où vous choisissez cette voie au niveau 3, lorsque vous entrez en rage, vous pouvez vous transformer, révélant le pouvoir bestial qui sommeille en vous. Jusqu'à ce que votre rage ne termine, vous manifestez une arme naturelle. Elle est considérée comme une arme simple de mêlée pour vous et vous ajoutez votre modificateur de Force aux jets d'attaque et de dégâts que vous réalisez en attaquant avec.
+À partir du moment où vous choisissez cette voie au niveau 3, lorsque vous entrez en rage, vous pouvez vous transformer, révélant le pouvoir bestial qui sommeille en vous. Jusqu'à ce que votre rage ne termine, vous manifestez une arme naturelle. Elle est considérée comme une arme simple de mêlée pour vous et vous ajoutez votre modificateur de Force aux jets d'attaque et de dégâts que vous effectuez en attaquant avec.
 
 Vous choisissez la forme de l'arme à chaque vous que vous ragez : 
 
-**Morsure.** Votre mâchoire se transforme en un museau bestial ou voit apparaître deux grandes mandibules (votre choix). Cette forme inflige 1d8 dégâts perçants si elle touche. Une fois à chacun de vos tours lorsque vous infligez des dégâts à une créature avec cette morsure, vous regagnez un nombre de points de vie égal à votre bonus de maîtrise, à condition que vous ayez moins de la moitié de vos points de vie lorsque vous touchez.
+**Morsure.** Votre mâchoire se transforme en un museau bestial ou voit apparaître deux grandes mandibules (votre choix). Cette forme inflige 1d8 dégâts perforants si elle touche. Une fois à chacun de vos tours lorsque vous infligez des dégâts à une créature avec cette morsure, vous regagnez un nombre de points de vie égal à votre bonus de maîtrise, à condition que vous ayez moins de la moitié de vos points de vie lorsque vous touchez.
 
 **Griffes.** Chacune de vos mains se transforment en griffes, que vous pouvez utiliser comme arme si elles ne manient rien. Les griffes infligent 1d6 dégâts tranchants lorsqu'elles touchent. Une fois à chacun de vos tours lorsque vous utilisez votre action pour Attaquer avec vos griffes, vous pouvez réaliser une attaque de griffes supplémentaire comme partie de l'action.
 
-**Queue.** Vous vous voyez pousser une queue courbée et épineuse, qui inflige 1d8 dégâts perçants si elle touche et a la propriété [[Propriétés d'Arme#Portée|portée]]. Si une créature que vous pouvez voir à 10 ft. vous touche avec un jet d'attaque, vous pouvez utiliser votre réaction pour balayer votre queue et lancer un d8, appliquant un bonus à la CA égal au résultat du dé.
+**Queue.** Vous vous voyez pousser une queue courbée et épineuse, qui inflige 1d8 dégâts perforants si elle touche et a la propriété [[Propriétés d'Arme#Allonge|Allonge]]. Si une créature que vous pouvez voir à 10 ft. vous touche avec un jet d'attaque, vous pouvez utiliser votre réaction pour balayer votre queue et lancer un d8, appliquant un bonus à la CA égal au résultat du dé.
 
 ## Âme Bestiale
 
@@ -34,7 +34,7 @@ Vous pouvez également modifier votre forme pour mieux vous adapter à votre env
 
 **Escalade.** Vous gagnez une vitesse d'escalade égale à votre vitesse de marche et vous pouvez escalader les surfaces difficiles, y compris les plafonds, sans recourir à un jet de caractéristique.
 
-**Saut.** Lorsque vous sautez, vous pouvez réaliser un jet de Force (Athlétisme) et allonger votre saut d'un nombre de pieds égal au résultat du jet. Vous ne pouvez réaliser ce jet précis qu'une fois par tour.
+**Saut.** Lorsque vous sautez, vous pouvez effectuer un jet de Force (Athlétisme) et allonger votre saut d'un nombre de pieds égal au résultat du jet. Vous ne pouvez effectuer ce jet précis qu'une fois par tour.
 
 **Nage.** Vous gagnez une vitesse de nage égale à votre vitesse de marche, et vous pouvez respirer sous l'eau.
 
@@ -43,7 +43,7 @@ Vous pouvez également modifier votre forme pour mieux vous adapter à votre env
 À partir du niveau 10, lorsque vous touchez une créature avec vos armes naturelles en étant enragé, la bête en vous peut maudire votre cible avec une fureur enragée. La cible doit réussir un jet de sauvegarde de Sagesse (DD de 8 + votre modificateur de Constitution + votre bonus de maîtrise) ou souffrir de l'un des effets suivants (votre choix) :
 
  - La cible doit utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous pouvez voir.
- - La cible prend 2d12 dégâts psychiques.
+ - La cible subit 2d12 dégâts psychiques.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

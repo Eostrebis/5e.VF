@@ -6,6 +6,6 @@ englishname: Parlor Gun
 Ere: Industrielle
 writing_status: empty
 ---
-| Dégâts       | Propriétés                                                       |
+| Dégâts | Propriétés |
 | ------------ | ---------------------------------------------------------------- |
-| 2d4 perçants | Munitions (portée 30/120), Dissimulable, Léger, Rechargement (2) |
+| 2d4 perforants | Munitions (portée 30/120), Dissimulable, Léger, Rechargement (2) |

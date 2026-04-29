@@ -8,7 +8,7 @@ Légendaire lanceuse de sort d'après laquelle l'école de l'Évocation est nomm
 # Aptitudes
 
 ## Héritage de la Flamme
-Tant que vous êtes lié à Évocatia, vous connaissez le cantrip [[Trait de Feu]]. De plus, vous pouvez ajouter votre modificateur de Charisme aux jets de dégâts que vous réalisez pour des sorts qui infligent des dégâts de feu.
+Tant que vous êtes lié à Évocatia, vous connaissez le cantrip [[Trait de Feu]]. De plus, vous pouvez ajouter votre modificateur de Charisme aux jets de dégâts que vous effectuez pour des sorts qui infligent des dégâts de feu.
 
 ## Tour de Flamme
 Pour une action bonus, vous pouvez vous lancer dans une spirale de flamme. Lorsque vous le faites, vous pouvez réaliser une attaque de sort de mêlée contre une créature à 5 ft., lui infligeant 1d4 + votre modificateur de Charisme dégâts de feu si vous touchez. Vous vous déplacez ensuite de 10 ft. dans n'importe quelle direction sans déclencher d'attaque d'opportunité.
