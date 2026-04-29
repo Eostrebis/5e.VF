@@ -205,7 +205,7 @@ Vos réflexes ont été améliorés par les obstacles que vous avez rencontrés.
 
 ## Immortel
 
-Au niveau 9, lorsque vous êtes réduit à 0 points de vie sans être tué immédiatement, vous pouvez choisir de tomber à 1 point de vie à la place.
+Au niveau 9, lorsque vous êtes réduit à 0 point de vie sans être tué immédiatement, vous pouvez choisir de tomber à 1 point de vie à la place.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour pouvoir le faire à nouveau.
 

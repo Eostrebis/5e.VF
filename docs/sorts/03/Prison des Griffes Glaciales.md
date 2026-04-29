@@ -19,7 +19,7 @@ writing_status: finished
 ---
 Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pendant la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
 
-La main est un objet dont la CA est égale à 18 et qui a un nombre de points de vie égal à la moitié de vos points de vie maximums. Elle a l'immunité aux dégâts de poison et psychiques. Si elle tombe à 0 points de vie, le sort se termine. La griffe ne remplit pas son espace. Lorsque vous lancez ce sort, et pour une action bonus pendant vos tours suivants, vous pouvez donner un ordre à la griffe parmi les tâches suivantes : 
+La main est un objet dont la CA est égale à 18 et qui a un nombre de points de vie égal à la moitié de vos points de vie maximums. Elle a l'immunité aux dégâts de poison et psychiques. Si elle tombe à 0 point de vie, le sort se termine. La griffe ne remplit pas son espace. Lorsque vous lancez ce sort, et pour une action bonus pendant vos tours suivants, vous pouvez donner un ordre à la griffe parmi les tâches suivantes : 
 
 **Tranche.** La griffe se déchaîne contre une cible à 10 ft. Réalisez une attaque de sort de mêlée. Si vous touchez, la cible subit 3d8 dégâts tranchants ou de froid (votre choix).
 

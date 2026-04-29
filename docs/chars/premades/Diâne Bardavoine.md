@@ -142,7 +142,7 @@ Elle quitta la Prairie Chantante au petit matin, sans carte, sans argent, et san
 
 ### Aptitude d'Historique
 
-Chanteuse née, adorée de la nature et des vivants, Diâne peut apaiser par le simple son de sa voix. Lorsqu'un allié tombe à 0 points de vie à 30 ft. d'elle, Diâne peut utiliser sa réaction pour lui chantonner une comptine apaisante afin qu'il ne tombe qu'à 1 point de vie à la place. Une fois qu'elle a utilisé cette réaction, Diâne ne peut le refaire avant d'avoir terminé un repos long.
+Chanteuse née, adorée de la nature et des vivants, Diâne peut apaiser par le simple son de sa voix. Lorsqu'un allié tombe à 0 point de vie à 30 ft. d'elle, Diâne peut utiliser sa réaction pour lui chantonner une comptine apaisante afin qu'il ne tombe qu'à 1 point de vie à la place. Une fois qu'elle a utilisé cette réaction, Diâne ne peut le refaire avant d'avoir terminé un repos long.
 
 ### Traits de Personnalité
 

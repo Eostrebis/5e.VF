@@ -26,6 +26,6 @@ Votre forme astrale peut voyager librement à travers le Plan Astral et peut uti
 
 Le sort finit pour vous et vos compagnons lorsque vous utilisez une action pour le dissiper. Lorsque le sort se termine, les créatures affectées retournent à leurs corps physiques et se réveille.
 
-Le sort peut aussi se terminer plus tôt pour vous ou l'un de vos compagnons. Une [[Dissipation de la Magie]] réussie utilisée contre un corps astral ou physique termine le sort pour cette créature. Si le corps originel ou la forme astrale d'une créature tombe à 0 points de vie, le sort se termine pour cette créature. Si le sort se termine et que le cordon argenté est intact, le cordon tire la forme astrale de la créature jusqu'à son corps, terminant l'état d'animation suspendue.
+Le sort peut aussi se terminer plus tôt pour vous ou l'un de vos compagnons. Une [[Dissipation de la Magie]] réussie utilisée contre un corps astral ou physique termine le sort pour cette créature. Si le corps originel ou la forme astrale d'une créature tombe à 0 point de vie, le sort se termine pour cette créature. Si le sort se termine et que le cordon argenté est intact, le cordon tire la forme astrale de la créature jusqu'à son corps, terminant l'état d'animation suspendue.
 
 Si vous retournez dans votre corps de façon prématurée, vos compagnons restent dans leurs formes astrales, et doivent trouver leur propre moyen pour revenir à leurs corps, généralement en tombant à 0 point de vie.

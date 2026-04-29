@@ -81,7 +81,7 @@ Il se déplace avec une lenteur délibérée, s'appuyant souvent sur un simple b
 
 #### Mort Ordinée
 
-En tant que Martyr, vous avez été prédestiné par les dieux à périr pour une cause supérieure ; il n'y a plus de gloire plus grande que cette mort, et pas de joie plus importante après. Cependant, il n'est pas encore l'heure. Dès le niveau 1, lorsque vous tombez à 0 points de vie et commencez à faire des jets de sauvegarde contre la mort, il vous faut 5 échecs pour mourir. De plus, si un sort a seulement l'effet de vous ramener à la vie (mais pas en tant que mort-vivant), le lanceur n'a pas besoin de composantes matérielles pour le lancer sur vous.
+En tant que Martyr, vous avez été prédestiné par les dieux à périr pour une cause supérieure ; il n'y a plus de gloire plus grande que cette mort, et pas de joie plus importante après. Cependant, il n'est pas encore l'heure. Dès le niveau 1, lorsque vous tombez à 0 point de vie et commencez à faire des jets de sauvegarde contre la mort, il vous faut 5 échecs pour mourir. De plus, si un sort a seulement l'effet de vous ramener à la vie (mais pas en tant que mort-vivant), le lanceur n'a pas besoin de composantes matérielles pour le lancer sur vous.
 
 #### Cantrips
 

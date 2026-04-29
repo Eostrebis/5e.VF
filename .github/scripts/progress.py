@@ -3,7 +3,7 @@ import os
 import sys
 from pathlib import Path
 
-DEBUG = True
+DEBUG = False
 
 if DEBUG:
 	working_dir = "C:\\Users\\frosq\\workspace\\JdR\\5e.VF\\docs"

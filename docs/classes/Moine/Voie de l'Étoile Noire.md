@@ -22,7 +22,7 @@ Au niveau 6, votre ki commence à se manifester autour de votre corps sous la fo
 
 ## Âme Ouverte
 
-Au niveau 11, votre ki est complètement consommé par le vide entre les étoiles, vous laissant avec une âme ouverte aux secrets de l'univers et capable de consommer le ki des autres. Lorsque vous réduisez une créature à 0 points de vie en utilisant une arme monastique ou une attaque à mains nues, vous gagnez l'avantage à votre prochain jet d'attaque, de caractéristique ou de sauvegarde.
+Au niveau 11, votre ki est complètement consommé par le vide entre les étoiles, vous laissant avec une âme ouverte aux secrets de l'univers et capable de consommer le ki des autres. Lorsque vous réduisez une créature à 0 point de vie en utilisant une arme monastique ou une attaque à mains nues, vous gagnez l'avantage à votre prochain jet d'attaque, de caractéristique ou de sauvegarde.
 
 ## Techniques sans Soleil
 

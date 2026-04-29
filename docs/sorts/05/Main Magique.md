@@ -18,7 +18,7 @@ writing_status: finished
 ---
 Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pendant la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.
 
-La main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 points de vie, le sort se termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.
+La main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 point de vie, le sort se termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.
 
 Lorsque vous lancez le sort et pour une action bonus pendant vos prochains tours, vous pouvez bouger la main de jusqu'à 60 ft. et provoquer l'un des effets suivants.
 

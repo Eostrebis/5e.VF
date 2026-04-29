@@ -11,7 +11,7 @@ Armure mythique incarnant le mal même, Rostam apparaît autour de ses ligateurs
 Tant que vous êtes lié à Rostam, vous maîtrisez le [[Fléau]], le [[morgenstern]] ainsi que les [[armures lourdes]].
 
 ## Négociation Létale
-Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 points de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à effectuer des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous subissez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.
+Tant que vous êtes lié à Rostam, lorsque vous tombez à 0 point de vie mais n'êtes pas tué sur le champ, vous restez conscient et ne commencez à effectuer des jets de sauvegarde contre la mort qu'à la fin de votre prochain tour. Si vous subissez des dégâts tandis que vous êtes à 0 point de vie, vous tombez [[inconscient]] et obtenez un échec de jet de sauvegarde contre la mort.
 
 ## Résilience Infernale
 Lorsque vous subissez des dégâts perforants ou tranchants en portant une armure lourde, vous pouvez utiliser votre réaction pour réduire les dégâts que vous subissez de 1d12. Vous pouvez réduire les dégâts de 1d12 supplémentaire pour chaque vestige autre que Rostam auquel vous êtes lié.

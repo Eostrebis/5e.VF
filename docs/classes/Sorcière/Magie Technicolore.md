@@ -34,6 +34,6 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos pou
 
 ## Arc de Rédemption
 
-À partir du niveau 14, vous pouvez pardonner vos ennemis plutôt que de les achever. Lorsqu'une créature hostile que vous voyez tombe à 0 points de vie, vous pouvez utiliser votre réaction pour protéger la créature de souffrances supplémentaires. La créature est stable mais inconsciente jusqu'à ce qu'elle regagne des points de vie. Lorsque la créature se réveille, tous les effets qui la charmaient, la maudissaient, l'effrayaient ou la possédaient se terminent. De plus, la créature perd un de ses liens ou défauts qui la rendaient hostile par rapport à vous.
+À partir du niveau 14, vous pouvez pardonner vos ennemis plutôt que de les achever. Lorsqu'une créature hostile que vous voyez tombe à 0 point de vie, vous pouvez utiliser votre réaction pour protéger la créature de souffrances supplémentaires. La créature est stable mais inconsciente jusqu'à ce qu'elle regagne des points de vie. Lorsque la créature se réveille, tous les effets qui la charmaient, la maudissaient, l'effrayaient ou la possédaient se terminent. De plus, la créature perd un de ses liens ou défauts qui la rendaient hostile par rapport à vous.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos long pour le refaire.

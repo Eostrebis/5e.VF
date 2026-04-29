@@ -25,4 +25,4 @@ Vous invoquez un petit mur en pierre le long du sol sur un point que vous pouvez
 
 Une créature de taille M qui s'accroupit derrière le mur a une demie-couverture contre les attaques à distance, et une créature de taille P qui s'accroupit a une couverture de trois-quarts. Une créature [[au sol]] a une couverture totale derrière le mur. Le mur peut être surmonté sans mouvement supplémentaire.
 
-Chaque segment a une CA de 10 et 60 points de vie. Réduire un segment à 0 points de vie le détruit. Le mur disparaît lorsque tous les segments sont détruits ou que le sort se termine.
+Chaque segment a une CA de 10 et 60 points de vie. Réduire un segment à 0 point de vie le détruit. Le mur disparaît lorsque tous les segments sont détruits ou que le sort se termine.
