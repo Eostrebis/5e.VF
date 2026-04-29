@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Druide
-  - Ranger
-  - Magicien
+ - Barde
+ - Druide
+ - Ranger
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -20,4 +20,4 @@ writing_status: finished
 ---
 Vous touchez une créature. La vitesse de la cible est augmentée de 10 ft. jusqu'à ce que le sort se termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 1.

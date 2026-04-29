@@ -1,15 +1,15 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Membre d'une organisation criminelle_
+*Prérequis : Membre d'une organisation criminelle*
 
 Que vous vous soyez fait quelques amis peu recommandables, que vous vous soyez découvert un amour pour les substances illicites ou simplement que vous ayez décidé que la loi ne devrait pas se mettre en travers de quelques pièces d'or, vous êtes chez vous dans le monde criminel. Vous pouvez probablement garder vos liens criminels secrets, mais vous ne pouvez pas vous empêcher de vérifier par-dessus votre épaule de peur que les autorités ou pire, vos amis, ne viennent vous chercher rétribution.
 
-__Dé de Vie :__ 1d8
-__Points de Vie :__ 1d8 (5) + votre modificateur de Constitution
+**Dé de Vie :** 1d8
+**Points de Vie :** 1d8 (5) + votre modificateur de Constitution
 
-__Outils :__ [[Outils de voleur]]
-__Compétences :__ Tromperie, Escamotage ou Discrétion
+**Outils :** [[Outils de voleur]]
+**Compétences :** Tromperie, Escamotage ou Discrétion
 
 ## Jobelin
 

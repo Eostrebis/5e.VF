@@ -1,9 +1,9 @@
 ---
 available:
-  - Occultiste
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Occultiste
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -26,4 +26,4 @@ Tirez l'initiative pour le démon, qui joue pendant son propre tour. Lorsque vou
 
 En lançant ce sort, vous pouvez dessiner un cercle sur le sol avec le sang utilisé comme composante matérielle. Le cercle est suffisamment large pour entourer votre espace. Jusqu'à ce que le sort se termine, le démon invoqué ne peuvent ni traverser le cercle ni le blesser et ils ne peuvent cibler personne qui se trouverait à l'intérieur. Utiliser la composante matérielle de cette manière la consomme lorsque le sort se termine.
 
-__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le FD d'invocation augmente de 1 par niveau d'emplacement au-delà du niveau 4.
+**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, le FD d'invocation augmente de 1 par niveau d'emplacement au-delà du niveau 4.

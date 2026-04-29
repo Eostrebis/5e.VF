@@ -18,18 +18,18 @@ Un niveau auxiliaire spécifie s'il vous confère des maîtrises ou langues lors
 
 ## Liste de Niveaux Auxiliaires
 
-| Niveau Auxiliaire                       | Niveau Prérequis | Incantation |                    Prérequis Narratif                    |
+| Niveau Auxiliaire | Niveau Prérequis | Incantation | Prérequis Narratif |
 | --------------------------------------- | :--------------: | :---------: | :------------------------------------------------------: |
-| [[Acolyte Draconique]]                  |       :x:        |     :x:     |    Allié avec un dragon ou un aspect d'un dieu dragon    |
-| [[Bouffon]]                             |       :x:        |     :x:     |                           :x:                            |
-| [[Coursier]]                            |       :x:        |     :x:     | A été employé comme coursier, messager, contrebandier... |
-| [[docs/auxiliaires/Cultiste\|Cultiste]] |       :x:        |     :x:     | A rejoint un culte ou possède au moins un trait de Folie |
-| [[docs/auxiliaires/Expert\|Expert]]     |       :x:        |     :x:     |                           :x:                            |
-| [[Gardien de Relique]]                  |       :x:        |     :x:     |                           :x:                            |
-| [[Incanteur Clandestin]]                |       :x:        |      ✔      |                           :x:                            |
-| [[Magicien Buissonnier]]                |       :x:        |      ✔      |                           :x:                            |
-| [[Maître Animalier]]                    |        3         |      ❌      |                           :x:                            |
-| [[Mercenaire]]                          |       :x:        |     :x:     |      A complété au moins un contrat de mercenariat       |
-| [[Prêtre]]                              |       :x:        |     :x:     |                   Ordonné par une foi                    |
-| [[Pugiliste]]                           |       :x:        |     :x:     |                           :x:                            |
-| [[Voyou]]                               |       :x:        |     :x:     |           Membre d'une organisation criminelle           |
+| [[Acolyte Draconique]] | :x: | :x: | Allié avec un dragon ou un aspect d'un dieu dragon |
+| [[Bouffon]] | :x: | :x: | :x: |
+| [[Coursier]] | :x: | :x: | A été employé comme coursier, messager, contrebandier... |
+| [[docs/auxiliaires/Cultiste\|Cultiste]] | :x: | :x: | A rejoint un culte ou possède au moins un trait de Folie |
+| [[docs/auxiliaires/Expert\|Expert]] | :x: | :x: | :x: |
+| [[Gardien de Relique]] | :x: | :x: | :x: |
+| [[Incanteur Clandestin]] | :x: | ✔ | :x: |
+| [[Magicien Buissonnier]] | :x: | ✔ | :x: |
+| [[Maître Animalier]] | 3 | ❌ | :x: |
+| [[Mercenaire]] | :x: | :x: | A complété au moins un contrat de mercenariat |
+| [[Prêtre]] | :x: | :x: | Ordonné par une foi |
+| [[Pugiliste]] | :x: | :x: | :x: |
+| [[Voyou]] | :x: | :x: | Membre d'une organisation criminelle |
