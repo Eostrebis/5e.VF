@@ -57,6 +57,6 @@ def analyser_dossier(chemin_dossier):
 # Remplace le chemin ci-dessous par le chemin réel de ton dossier sur ton ordinateur
 # Exemple sous Windows : r"C:\Users\TonNom\Documents\MonHistoire"
 # Exemple sous Mac/Linux : "/Users/TonNom/Documents/MonHistoire"
-chemin_de_ton_dossier = "C:\\Users\\frosq\\workspace\\JdR\\5e.VF\\docs"
+chemin_de_ton_dossier = r"C:\Users\frosq\Documents\eostrebis-test\5e.VF\docs"
 
 analyser_dossier(chemin_de_ton_dossier)

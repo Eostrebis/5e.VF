@@ -1,5 +1,5 @@
 ---
-type:
+type: Arme de Mêlée Simple
 cout:
 poids:
 englishname:

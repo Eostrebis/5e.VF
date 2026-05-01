@@ -1,12 +1,12 @@
 ---
 available:
- - Mage de Guerre
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
 Somatique: false
 Materiel: true
-detailmat: Une arme de mêlée d'une valeur d'au moins 1pa
+detailmat: Une arme de mêlée d'une valeur d'au moins 1 pa
 Duree: 1 Tour
 Incantation: 1 Action
 Portee: Personnelle (rayon de 5 ft.)

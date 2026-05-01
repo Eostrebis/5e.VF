@@ -1,14 +1,14 @@
 ---
 available:
- - Artificier
- - Nécromancien
- - Mage de Guerre
+  - Artificier
+  - Nécromancien
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
 Somatique: false
 Materiel: true
-detailmat: Une arme de mêlée d'une valeur d'au moins 1pa
+detailmat: Une arme de mêlée d'une valeur d'au moins 1 pa
 Duree: Instantanée
 Incantation: 1 Action
 Portee: Personnelle (rayon de 5 ft.)

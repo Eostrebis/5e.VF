@@ -1,16 +1,16 @@
 ---
 available:
- - Magicien
- - Mage de Guerre
- - Ensorceleur
- - Artificier
- - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Ensorceleur
+  - Artificier
+  - Occultiste
 level: 0
 school: Évocation
 Verbal: false
 Somatique: true
 Materiel: true
-detailmat: Une arme de mêlée d'une valeur d'au moins 1pa
+detailmat: Une arme de mêlée d'une valeur d'au moins 1 pa
 Duree: Instantanée
 Incantation: 1 Action
 Portee: Personnelle
