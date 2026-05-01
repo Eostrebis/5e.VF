@@ -55,14 +55,14 @@ search:
 
 **Dons.** 127/127 ![](https://geps.dev/progress/100)
 
-**Équipements.** 55/511 ![](https://geps.dev/progress/10) 
+**Équipements.** 58/511 ![](https://geps.dev/progress/11) 
 
 **Objets Magiques.** 1/123 ![](https://geps.dev/progress/0)
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 395562 (soit ~ 1582 pages) (soit ~ 0.82 Seigneur des Anneaux)
+**Nombre Total de Mots.** 395650 (soit ~ 1583 pages) (soit ~ 0.82 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-04-29 22:08:57
+Mis à jour pour la dernière fois le 2026-05-01 20:06:19
