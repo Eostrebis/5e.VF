@@ -65,7 +65,7 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Vitesse.** Votre vitesse de base est de 30 ft. .
 
-**Compétences.** Vous maîtrisez une compétence de votre choix.
+**Compétence.** Vous maîtrisez une compétence de votre choix.
 
 **Don.** Vous possédez un [[feats|don]] de votre choix.
 
@@ -91,6 +91,40 @@ Avec autant de variétés au sein d'une même race, les humains dans leur ensemb
 
 **Aptitudes Raciales.** De par votre ascendance, vous obtenez une caractéristique ainsi que des traits supplémentaires. Ceux-ci sont présentés ci-dessous : 
 
+#### Orqué
+
+Lorsque les alliances entre humains et orques se scellent par des mariages, des orqués naissent. Certains orqués gagnent en influence jusqu'à devenir chef de leur tribu, aidé par la ruse que leur procure leur sang humains. D'autres partent à l'aventure pour prouver leur valeur aux humains et autres races sédentaires. 
+
+__Vision dans le Noir.__ Grâce à votre sans Orque, vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+__Endurance Implacable.__ Lorsque vous êtes réduit à 0 point de vie mais pas tué sur le coup, vous pouvez tomber à 1 point de vie à la place. Vous ne pouvez alors plus utiliser ce trait jusqu'à ce que vous terminiez un repos long.
+
+__Attaques Sauvages.__ Lorsque vous infligez un coup critique avec une attaque armée de mêlée, vous pouvez lancer un dé des dégâts de l'arme supplémentaire et ajouter son résultat au jet de dégâts.
+
+---
+
+#### Grandes Oreilles
+
+Marchant sur la ligne entre deux mondes sans vraiment appartenir à l'un ou l'autres, les grandes oreilles combinent les plus grandes qualités de leurs parents, elfes comme humains : la curiosité et l'inventivité humains, ainsi que l'ambition, les goûts raffinés et artistiques des elfes.
+
+__Vision dans le Noir.__ Grâce à votre héritage elfique, vous pouvez voir à 60 ft. dans une zone de lumière faible comme vous verriez avec une lumière vive, et dans le noir comme avec une lumière faible. Vous ne pouvez pas discerner les couleurs dans l'obscurité, seulement les nuances de gris.
+
+__Ascendance Féérique.__ Vous avez l'avantage aux jets de sauvegarde contre les effets de charme et la magie ne peut pas vous endormir.
+
+__Polyvalence Elfique.__ Choisissez l'un des traits suivants en fonction de la sous-race de votre parent elfe :
+
+  - __Polyvalent (Général).__ Vous maîtrisez deux compétences de votre choix.
+  - __Entraînement aux Armes Elfe (Héritage de Haut-Elfe ou Elfe des Bois).__ Vous maîtrisez les [[épée longue|épées longues]], [[épée courte|épées courtes]], [[arc court|arcs courts]] et [[arc long|arcs long]].
+  - __Cantrip (Héritage de Haut-Elfe).__ Vous connaissez un cantrip de votre choix parmi la liste de sorts du Magicien. L' Intelligence est votre caractéristique d'incantation pour ce sort.
+  - __Pied Léger (Héritage d'Elfe des Bois).__ Votre vitesse de base passe à 35 ft.
+  - __Masque de la Nature (Héritage d'Elfe des Bois).__ Vous pouvez essayer de vous Cacher même lorsque vous n'êtes que faiblement obscuré par le feuillage, une forte pluie, de la neige, du brouillard ou tout autre phénomène naturel.
+  - __Magie Drow (Héritage de Drow).__ Vous connaissez le cantrip [[lumières dansantes]]. Lorsque vous atteignez le niveau 3, vous pouvez lancer le sort [[lueurs féériques]] une fois, qui se recharge lorsque vous terminez un repos long. Lorsque vous atteignez le niveau 5, vous pouvez lancer le sort [[ténèbres]] une fois, qui se recharge lorsque vous terminez un repos long. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+  - __Vitesse de Nage (Héritage d'Elfe des Mers).__ Vous avez une vitesse de nage de 30 ft.
+  - __Pas de Fée (Héritage d'Eladrin).__ Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait une fois, et vous récupérez cette utilisation quand vous finissez un repos long.
+  - **Résistance Nécrotique (Héritage de Shadar-Kai).** Vous avez une résistance aux dégâts nécrotiques.
+  - __Feu Astral (Héritage d'Elfe Astral).__ Vous connaissez l'un des cantrips suivants de votre choix : [[Lumières Dansantes]], [[Lumière]], ou [[Flamme Sacrée]]. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse, ou le Charisme.
+
+---
 ##### Progéniture Aberrante
 
 Ou vous avez muté, ou vous avez été créés depuis une aberration, comme un aboleth. Dans tous les cas, vous souffrez d'étranges difformités en conséquence. De par ces changements, vous bénéficiez des traits suivants :
