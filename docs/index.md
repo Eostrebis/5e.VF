@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 395966 (soit ~ 1584 pages) (soit ~ 0.82 Seigneur des Anneaux)
+**Nombre Total de Mots.** 396581 (soit ~ 1586 pages) (soit ~ 0.83 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-05-04 17:56:32
+Mis à jour pour la dernière fois le 2026-05-13 10:48:04
