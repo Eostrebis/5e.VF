@@ -171,7 +171,7 @@ Avec une courte queue, une fourrure vous couvrant le visage et de longues griffe
 
 **Griffes.** Vous avez des griffes aiguisées que vous pouvez utiliser pour effectuer des attaques à main nue. Quand vous touchez avec elles, vos attaques font 1d6 + votre modificateur de Force dégâts tranchants, plutôt que les dégâts habituels pour une attaque à main nue.
 
-**Odorat Aiguisé.** Vous avez l'avantage aux jets de Sagesse (Perception) se reposant sur l'odorat.
+**Odorat Affuté.** Vous avez l'avantage aux jets de Sagesse (Perception) se reposant sur l'odorat.
 
 ---
 
