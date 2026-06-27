@@ -13,6 +13,8 @@
         "Rituel": "false",
         "englishname": "Circle of Power",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -33,6 +35,8 @@
         "Rituel": "false",
         "englishname": "Cloudkill",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Ensorceleur",
@@ -55,6 +59,8 @@
         "Rituel": "false",
         "englishname": "Summon Celestial",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -77,6 +83,8 @@
         "Rituel": "false",
         "englishname": "Arcane Hand",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Artificier"
@@ -98,6 +106,8 @@
         "Rituel": "false",
         "englishname": "Wings of Night",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste"
         ],
@@ -118,6 +128,8 @@
         "Rituel": "false",
         "englishname": "Animate Objects",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -141,6 +153,8 @@
         "Rituel": "false",
         "englishname": "Skill Empowerment",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -165,6 +179,8 @@
         "Rituel": "false",
         "englishname": "Teleportation Circle",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -188,6 +204,8 @@
         "Rituel": "false",
         "englishname": "Cone of Cold",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -210,6 +228,8 @@
         "Rituel": "false",
         "englishname": "Contagion",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Nécromancien",
@@ -233,6 +253,8 @@
         "Rituel": "false",
         "englishname": "Fell Onslaught",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste"
         ],
@@ -253,6 +275,8 @@
         "Rituel": "false",
         "englishname": "Planar Binding",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -277,6 +301,8 @@
         "Rituel": "true",
         "englishname": "Contact Other Plane",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Magicien"
@@ -298,6 +324,8 @@
         "Rituel": "false",
         "englishname": "Antilife Shell",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Nécromancien"
@@ -319,6 +347,8 @@
         "Rituel": "false",
         "englishname": "Pharaoh's Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière"
@@ -340,6 +370,8 @@
         "Rituel": "false",
         "englishname": "Control Winds",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -362,6 +394,8 @@
         "Rituel": "false",
         "englishname": "Punishing Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -382,6 +416,8 @@
         "Rituel": "false",
         "englishname": "Dawn",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Magicien",
@@ -404,6 +440,8 @@
         "Rituel": "false",
         "englishname": "Holy Weapon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -426,6 +464,8 @@
         "Rituel": "false",
         "englishname": "Frolicking Fountain",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Occultiste",
@@ -450,6 +490,8 @@
         "Rituel": "true",
         "englishname": "Commune",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Martyr",
@@ -473,6 +515,8 @@
         "englishname": "Evasiveness",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -494,6 +538,8 @@
         "Rituel": "false",
         "englishname": "Unstoppable Ascent",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -514,6 +560,8 @@
         "Rituel": "true",
         "englishname": "Commune with Nature",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Druide",
@@ -536,6 +584,8 @@
         "Rituel": "false",
         "englishname": "Swift Quiver",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger"
         ],
@@ -556,6 +606,8 @@
         "Rituel": "false",
         "englishname": "Freedom of the Winds",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger",
@@ -579,6 +631,8 @@
         "Rituel": "false",
         "englishname": "Nether Seal",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Occultiste",
@@ -601,6 +655,8 @@
         "Rituel": "false",
         "englishname": "Infernal Calling",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Magicien"
@@ -622,6 +678,8 @@
         "Rituel": "false",
         "englishname": "Awaken",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide"
@@ -643,6 +701,8 @@
         "Rituel": "false",
         "englishname": "Banishing Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin",
             "Martyr"
@@ -664,6 +724,8 @@
         "Rituel": "false",
         "englishname": "Summon Draconic Spirit",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -686,6 +748,8 @@
         "Rituel": "false",
         "englishname": "Constriction",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -710,6 +774,8 @@
         "Rituel": "false",
         "englishname": "Mystic Lock",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Nécromancien"
@@ -731,6 +797,8 @@
         "Rituel": "false",
         "englishname": "Seeming",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -754,6 +822,8 @@
         "Rituel": "false",
         "englishname": "Scrutinize Foe",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -772,11 +842,13 @@
         "detailmat": "Quelques gouttes d'eau bénite",
         "Duree": "8 Heures",
         "Incantation": "1 Minute",
-        "Portee": "Personnelle (rayon de 10 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Sanctify Ground",
         "writing_status": "finished",
+        "zone": "sphere (10)",
+        "damage": "none",
         "available": [
             "Clerc",
             "Martyr",
@@ -799,6 +871,8 @@
         "Rituel": "false",
         "englishname": "Rune of Fortification",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger",
             "Druide",
@@ -825,6 +899,8 @@
         "Rituel": "true",
         "englishname": "Consecrated Armor",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Investigateur"
@@ -846,6 +922,8 @@
         "Rituel": "false",
         "englishname": "Witch Bolt",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "foudre",
         "available": [
             "Nécromancien",
             "Ensorceleur",
@@ -865,11 +943,13 @@
         "detailmat": "Une pincée de sable, des pétales de rose ou des criquets",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "90 ft. (20 ft.)",
+        "Portee": "90 ft.",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Sleep",
         "writing_status": "finished",
+        "zone": "sphere (20)",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -894,6 +974,8 @@
         "Rituel": "false",
         "englishname": "Faerie Fire",
         "writing_status": "finished",
+        "zone": "cube (20)",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -912,11 +994,13 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 10 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Arms of Hadar",
         "writing_status": "finished",
+        "zone": "sphere (10)",
+        "damage": "nécrotique",
         "available": [
             "Occultiste",
             "Nécromancien"
@@ -938,6 +1022,8 @@
         "Rituel": "false",
         "englishname": "Divine Favor",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -953,11 +1039,13 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "10 ft.",
+        "Portee": "personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Earth Tremor",
         "writing_status": "finished",
+        "zone": "sphere (10)",
+        "damage": "contondant",
         "available": [
             "Sorcière",
             "Barde",
@@ -982,6 +1070,8 @@
         "Rituel": "false",
         "englishname": "Spider's Kiss",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "acide",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -1004,6 +1094,8 @@
         "Rituel": "true",
         "englishname": "Alarm",
         "writing_status": "finished",
+        "zone": "cube (20)",
+        "damage": "none",
         "available": [
             "Ranger",
             "Magicien",
@@ -1028,6 +1120,8 @@
         "Rituel": "false",
         "englishname": "Distort Value",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -1051,6 +1145,8 @@
         "Rituel": "false",
         "englishname": "Shield of Faith",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Martyr",
@@ -1074,6 +1170,8 @@
         "englishname": "Conjure Cover",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Druide",
@@ -1098,6 +1196,8 @@
         "Rituel": "false",
         "englishname": "Cause Fear",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Magicien",
@@ -1121,6 +1221,8 @@
         "Rituel": "false",
         "englishname": "Hellish Rebuke",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "feu",
         "available": [
             "Occultiste"
         ],
@@ -1141,6 +1243,8 @@
         "Rituel": "false",
         "englishname": "Dissonant Whispers",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "psychique",
         "available": [
             "Barde"
         ],
@@ -1161,6 +1265,8 @@
         "Rituel": "false",
         "englishname": "Chromatic Orb",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "multiple",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -1182,6 +1288,8 @@
         "Rituel": "false",
         "englishname": "Hunter's Mark",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger"
         ],
@@ -1202,6 +1310,8 @@
         "Rituel": "false",
         "englishname": "Shield",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin",
             "Barde",
@@ -1221,11 +1331,13 @@
         "detailmat": "",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "90 ft. (20 ft.)",
+        "Portee": "90 ft.",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Entangle",
         "writing_status": "finished",
+        "zone": "cube (20)",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -1241,11 +1353,13 @@
         "detailmat": "Une pincée de poudre ou de sable teintée de rouge, de jaune et de bleu",
         "Duree": "1 Tour",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 15 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Color Spray",
         "writing_status": "finished",
+        "zone": "cone (15)",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -1267,6 +1381,8 @@
         "Rituel": "false",
         "englishname": "Ray of Sickness",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "poison",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -1288,6 +1404,8 @@
         "Rituel": "true",
         "englishname": "Purify Food and Drink",
         "writing_status": "finished",
+        "zone": "sphere (5)",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -1312,6 +1430,8 @@
         "Rituel": "false",
         "englishname": "Beast Bond",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger",
@@ -1335,6 +1455,8 @@
         "Rituel": "false",
         "englishname": "Command",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -1358,6 +1480,8 @@
         "Rituel": "false",
         "englishname": "Silent Image",
         "writing_status": "finished",
+        "zone": "cube (15)",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -1381,6 +1505,8 @@
         "Rituel": "false",
         "englishname": "Indemnify",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "religieux",
         "available": [
             "Martyr",
             "Nécromancien"
@@ -1402,6 +1528,8 @@
         "Rituel": "false",
         "englishname": "Fog Cloud",
         "writing_status": "finished",
+        "zone": "sphere (20)",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Druide",
@@ -1426,6 +1554,8 @@
         "Rituel": "false",
         "englishname": "Guided Missile",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide"
@@ -1447,6 +1577,8 @@
         "Rituel": "false",
         "englishname": "Bane",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -1470,6 +1602,8 @@
         "Rituel": "false",
         "englishname": "Mage Armor",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Ensorceleur",
@@ -1492,6 +1626,8 @@
         "Rituel": "false",
         "englishname": "Lashing Tendrils",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "contondant",
         "available": [
             "Occultiste"
         ],
@@ -1507,11 +1643,13 @@
         "detailmat": "Une feuille d'if",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "true",
         "englishname": "Detect Poison and Disease",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -1537,6 +1675,8 @@
         "Rituel": "true",
         "englishname": "Floating Disk",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Investigateur"
@@ -1558,6 +1698,8 @@
         "Rituel": "false",
         "englishname": "Feather Fall",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -1581,6 +1723,8 @@
         "Rituel": "false",
         "englishname": "Icicle Javelin",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "froid",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -1598,11 +1742,13 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 15 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Burning Hands",
         "writing_status": "finished",
+        "zone": "cone (15)",
+        "damage": "feu",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -1624,6 +1770,8 @@
         "Rituel": "false",
         "englishname": "Animal Friendship",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -1648,6 +1796,8 @@
         "englishname": "Accelerate/Decelerate",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -1670,6 +1820,8 @@
         "Rituel": "false",
         "englishname": "Compelled Duel",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin",
             "Martyr"
@@ -1691,6 +1843,8 @@
         "Rituel": "false",
         "englishname": "Magic Missile",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "force",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -1712,6 +1866,8 @@
         "Rituel": "true",
         "englishname": "Blood Print",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Martyr",
@@ -1742,6 +1898,8 @@
         "Rituel": "false",
         "englishname": "Zephyr's Feather",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "tranchant",
         "available": [
             "Magicien",
             "Occultiste",
@@ -1765,6 +1923,8 @@
         "Rituel": "false",
         "englishname": "Boomering",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "radiant",
         "available": [
             "Ensorceleur",
             "Paladin",
@@ -1788,6 +1948,8 @@
         "Rituel": "false",
         "englishname": "Free Throw",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "contondant",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -1810,6 +1972,8 @@
         "Rituel": "false",
         "englishname": "Mystic Barrier of Drum",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde"
         ],
@@ -1830,6 +1994,8 @@
         "Rituel": "false",
         "englishname": "Rumbling Charge",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "contondant",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -1847,11 +2013,13 @@
         "detailmat": "",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "true",
         "englishname": "Detect Magic",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -1883,6 +2051,8 @@
         "Rituel": "true",
         "englishname": "Memorize",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -1902,11 +2072,13 @@
         "detailmat": "",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 100 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "true",
         "englishname": "Rumor",
         "writing_status": "finished",
+        "zone": "sphere (100)",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -1930,6 +2102,8 @@
         "Rituel": "false",
         "englishname": "Silvery Barbs",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -1953,6 +2127,8 @@
         "Rituel": "false",
         "englishname": "Protection from Evil and Good",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -1979,6 +2155,8 @@
         "Rituel": "false",
         "englishname": "Hail of Thorns",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "perforant",
         "available": [
             "Ranger"
         ],
@@ -1999,6 +2177,8 @@
         "Rituel": "false",
         "englishname": "Gahoul's Shrieking Skull",
         "writing_status": "finished",
+        "zone": "cube (10)",
+        "damage": "tonnerre",
         "available": [
             "Nécromancien"
         ],
@@ -2020,6 +2200,8 @@
         "englishname": "Instant Replay",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger",
             "Paladin",
@@ -2043,6 +2225,8 @@
         "Rituel": "false",
         "englishname": "Cure Wounds",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Martyr",
             "Barde",
@@ -2069,6 +2253,8 @@
         "Rituel": "false",
         "englishname": "Goan Arcane Cloak",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "feu",
         "available": [
             "Artificier",
             "Magicien",
@@ -2087,11 +2273,13 @@
         "detailmat": "",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Detect Evil and Good",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Martyr",
@@ -2116,6 +2304,8 @@
         "Rituel": "false",
         "englishname": "Ensnaring Strike",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger"
         ],
@@ -2136,6 +2326,8 @@
         "Rituel": "false",
         "englishname": "Charm Person",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -2161,6 +2353,8 @@
         "Rituel": "false",
         "englishname": "Armor of Agathys",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "froid",
         "available": [
             "Occultiste"
         ],
@@ -2181,6 +2375,8 @@
         "Rituel": "false",
         "englishname": "Psychedelics",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger",
             "Druide",
@@ -2204,6 +2400,8 @@
         "Rituel": "false",
         "englishname": "Thunderous Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "tonnerre",
         "available": [
             "Paladin"
         ],
@@ -2225,6 +2423,8 @@
         "reaction": "Quand vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre",
         "englishname": "Absorb Elements",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger",
@@ -2245,11 +2445,13 @@
         "detailmat": "Un miroir brisé",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Arcane Anomaly",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -2269,11 +2471,13 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 15 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Thunderwave",
         "writing_status": "finished",
+        "zone": "cube (15)",
+        "damage": "tonnerre",
         "available": [
             "Sorcière",
             "Barde",
@@ -2298,6 +2502,8 @@
         "Rituel": "false",
         "englishname": "Jump",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Druide",
@@ -2322,6 +2528,8 @@
         "Rituel": "false",
         "englishname": "Create or Destroy Water",
         "writing_status": "finished",
+        "zone": "cube (30)",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide"
@@ -2343,6 +2551,8 @@
         "Rituel": "true",
         "englishname": "Exhume",
         "writing_status": "finished",
+        "zone": "cube (20)",
+        "damage": "none",
         "available": [
             "Magicien",
             "Clerc",
@@ -2365,6 +2575,8 @@
         "Rituel": "false",
         "englishname": "Disguise Self",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -2390,6 +2602,8 @@
         "Rituel": "true",
         "englishname": "Find Familiar",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Magicien"
@@ -2411,6 +2625,8 @@
         "Rituel": "false",
         "englishname": "Accursed Act",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "psychique",
         "available": [
             "Sorcière"
         ],
@@ -2431,6 +2647,8 @@
         "Rituel": "false",
         "englishname": "Snare",
         "writing_status": "finished",
+        "zone": "sphere (5)",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière"
@@ -2452,6 +2670,8 @@
         "Rituel": "false",
         "englishname": "Masterful Focus",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger",
             "Ensorceleur",
@@ -2475,6 +2695,8 @@
         "Rituel": "false",
         "englishname": "Longstrider",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -2499,6 +2721,8 @@
         "englishname": "Chromatic Bullet",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin",
             "Ranger"
@@ -2520,6 +2744,8 @@
         "Rituel": "false",
         "englishname": "Black Lotus Assault",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ranger",
@@ -2544,6 +2770,8 @@
         "Rituel": "true",
         "englishname": "Identify",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Magicien",
@@ -2567,6 +2795,8 @@
         "Rituel": "false",
         "englishname": "Healing Word",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -2589,6 +2819,8 @@
         "Rituel": "false",
         "englishname": "Guiding Bolt",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "radiant",
         "available": [
             "Clerc",
             "Martyr"
@@ -2610,6 +2842,8 @@
         "Rituel": "false",
         "englishname": "Sanctuary",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Martyr"
@@ -2631,6 +2865,8 @@
         "Rituel": "true",
         "englishname": "Speak with Animals",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -2655,6 +2891,8 @@
         "Rituel": "false",
         "englishname": "Hollowing Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "nécrotique",
         "available": [
             "Magicien",
             "Occultiste",
@@ -2679,6 +2917,8 @@
         "Rituel": "false",
         "englishname": "Hex",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "nécrotique",
         "available": [
             "Occultiste"
         ],
@@ -2700,6 +2940,8 @@
         "englishname": "Action",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -2724,6 +2966,8 @@
         "Rituel": "false",
         "englishname": "Chaos Bolt",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "multiple",
         "available": [
             "Ensorceleur"
         ],
@@ -2745,6 +2989,8 @@
         "englishname": "Time Hop",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -2766,6 +3012,8 @@
         "Rituel": "false",
         "englishname": "Might of the Abyss",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Nécromancien"
@@ -2787,6 +3035,8 @@
         "Rituel": "false",
         "englishname": "Falling Spider's Spite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ranger",
             "Nécromancien"
@@ -2808,6 +3058,8 @@
         "Rituel": "true",
         "englishname": "Transient Bulwark",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Martyr",
@@ -2830,6 +3082,8 @@
         "Rituel": "false",
         "englishname": "Dead Mist Lash",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "nécrotique",
         "available": [
             "Nécromancien"
         ],
@@ -2845,11 +3099,13 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (cône de 15 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Frost Fingers",
         "writing_status": "finished",
+        "zone": "cone (15)",
+        "damage": "froid",
         "available": [
             "Magicien"
         ],
@@ -2870,6 +3126,8 @@
         "Rituel": "false",
         "englishname": "Bless",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -2892,6 +3150,8 @@
         "Rituel": "false",
         "englishname": "Shield",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -2913,6 +3173,8 @@
         "Rituel": "false",
         "englishname": "Goodberry",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger"
@@ -2934,6 +3196,8 @@
         "Rituel": "true",
         "englishname": "Ceremony",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -2957,6 +3221,8 @@
         "Rituel": "true",
         "englishname": "Comprehend Languages",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -2982,6 +3248,8 @@
         "Rituel": "false",
         "englishname": "Defiant Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "force",
         "available": [
             "Paladin"
         ],
@@ -3002,6 +3270,8 @@
         "Rituel": "false",
         "englishname": "Inflict Wounds",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "nécrotique",
         "available": [
             "Martyr",
             "Nécromancien",
@@ -3019,11 +3289,13 @@
         "detailmat": "",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 10 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Aura of Stability",
         "writing_status": "finished",
+        "zone": "sphere (10)",
+        "damage": "none",
         "available": [
             "Paladin",
             "Martyr"
@@ -3045,6 +3317,8 @@
         "Rituel": "false",
         "englishname": "Flawed Reconstruction",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -3068,6 +3342,8 @@
         "Rituel": "false",
         "englishname": "Searing Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "feu",
         "available": [
             "Paladin",
             "Ranger"
@@ -3089,6 +3365,8 @@
         "Rituel": "true",
         "englishname": "Unseen Servant",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -3114,6 +3392,8 @@
         "Rituel": "false",
         "englishname": "Catapult",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "contondant",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -3137,6 +3417,8 @@
         "Rituel": "false",
         "englishname": "Heroism",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Paladin",
@@ -3160,6 +3442,8 @@
         "Rituel": "false",
         "englishname": "Whisperind Wind",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -3185,6 +3469,8 @@
         "Rituel": "true",
         "englishname": "Burnt Offering",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Martyr"
         ],
@@ -3205,6 +3491,8 @@
         "Rituel": "true",
         "englishname": "Prehensile Hair",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -3226,6 +3514,8 @@
         "englishname": "Time's Arrow",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ranger"
@@ -3242,11 +3532,13 @@
         "detailmat": "Un peu de couenne ou du beurre",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "60 ft. (10 ft.)",
+        "Portee": "60 ft.",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Grease",
         "writing_status": "finished",
+        "zone": "cube (10)",
+        "damage": "none",
         "available": [
             "Magicien",
             "Artificier",
@@ -3269,6 +3561,8 @@
         "Rituel": "false",
         "englishname": "Hideous Laughter",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Magicien",
@@ -3291,6 +3585,8 @@
         "Rituel": "false",
         "englishname": "Expeditious Retreat",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -3316,6 +3612,8 @@
         "Rituel": "true",
         "englishname": "Clue",
         "writing_status": "finished",
+        "zone": "sphere (45)",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -3342,6 +3640,8 @@
         "Rituel": "false",
         "englishname": "False Life",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -3365,6 +3665,8 @@
         "Rituel": "false",
         "englishname": "Wrathful Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "psychique",
         "available": [
             "Paladin"
         ],
@@ -3385,6 +3687,8 @@
         "Rituel": "false",
         "englishname": "Curse of Chains",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -3405,6 +3709,8 @@
         "Rituel": "false",
         "englishname": "Armageddon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Ensorceleur",
@@ -3427,6 +3733,8 @@
         "Rituel": "false",
         "englishname": "Shapechange",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Magicien"
@@ -3448,6 +3756,8 @@
         "Rituel": "false",
         "englishname": "Astral Projection",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Magicien",
@@ -3471,6 +3781,8 @@
         "Rituel": "false",
         "englishname": "Heart of Darkness",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -3492,6 +3804,8 @@
         "englishname": "Paradox",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -3514,6 +3828,8 @@
         "Rituel": "false",
         "englishname": "Blade of Disaster",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -3536,6 +3852,8 @@
         "Rituel": "false",
         "englishname": "Identity Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -3557,6 +3875,8 @@
         "englishname": "Time Stop",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -3578,6 +3898,8 @@
         "Rituel": "false",
         "englishname": "Druid Grove",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -3598,6 +3920,8 @@
         "Rituel": "false",
         "englishname": "Frenzy",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -3621,6 +3945,8 @@
         "Rituel": "false",
         "englishname": "Arcane Gate",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -3646,6 +3972,8 @@
         "Rituel": "false",
         "englishname": "Temporal Potion Heaven",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Artificier",
@@ -3671,6 +3999,8 @@
         "Rituel": "false",
         "englishname": "Gahoul's Spectral Scythe",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -3691,6 +4021,8 @@
         "Rituel": "false",
         "englishname": "Blade Barrier",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -3711,6 +4043,8 @@
         "Rituel": "false",
         "englishname": "Circle of Death",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Ensorceleur",
@@ -3734,6 +4068,8 @@
         "Rituel": "true",
         "englishname": "Blood Cartography",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -3760,6 +4096,8 @@
         "Rituel": "false",
         "englishname": "Hellish Halo",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Ensorceleur",
@@ -3782,6 +4120,8 @@
         "Rituel": "false",
         "englishname": "Elemental Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -3802,6 +4142,8 @@
         "Rituel": "false",
         "englishname": "Planar Ally",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -3823,6 +4165,8 @@
         "englishname": "Antiballistics Field",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Clerc",
@@ -3845,6 +4189,8 @@
         "Rituel": "false",
         "englishname": "Bones of the Earth",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -3865,6 +4211,8 @@
         "Rituel": "false",
         "englishname": "Soul Cage",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Magicien",
@@ -3888,6 +4236,8 @@
         "Rituel": "false",
         "englishname": "Demand",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -3912,6 +4262,8 @@
         "Rituel": "false",
         "englishname": "Chain Lightning",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -3933,6 +4285,8 @@
         "Rituel": "false",
         "englishname": "Corruption Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -3953,6 +4307,8 @@
         "Rituel": "false",
         "englishname": "Arcane Capacitor",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur"
@@ -3974,6 +4330,8 @@
         "Rituel": "false",
         "englishname": "Platinum Shield",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -3995,6 +4353,8 @@
         "Rituel": "false",
         "englishname": "Harm",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Clerc"
@@ -4016,6 +4376,8 @@
         "Rituel": "false",
         "englishname": "Inexorable Sarcophagus",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -4036,6 +4398,8 @@
         "Rituel": "false",
         "englishname": "Winter Flower",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -4058,6 +4422,8 @@
         "Rituel": "false",
         "englishname": "Game of Fate",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Barde",
@@ -4080,6 +4446,8 @@
         "Rituel": "false",
         "englishname": "Holy Aura",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -4100,6 +4468,8 @@
         "Rituel": "false",
         "englishname": "Gahoul's Glorious Gothic",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -4120,6 +4490,8 @@
         "Rituel": "false",
         "englishname": "Antimagic Field",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Clerc",
@@ -4142,6 +4514,8 @@
         "Rituel": "false",
         "englishname": "Antipathy/Sympathy",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Magicien",
@@ -4164,6 +4538,8 @@
         "Rituel": "false",
         "englishname": "Clone",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Magicien"
@@ -4186,6 +4562,8 @@
         "englishname": "Control Weather",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -4208,6 +4586,8 @@
         "Rituel": "false",
         "englishname": "Wildfire",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -4230,6 +4610,8 @@
         "Portee": "150 ft.(30 ft.)",
         "englishname": "Abi-Dalzim's Horrid Wilting",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -4253,6 +4635,8 @@
         "Rituel": "false",
         "englishname": "Carnage",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste"
         ],
@@ -4273,6 +4657,8 @@
         "Rituel": "false",
         "englishname": "Glibness",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -4295,6 +4681,8 @@
         "Rituel": "false",
         "englishname": "Animal Shapes",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -4315,6 +4703,8 @@
         "Rituel": "false",
         "englishname": "Undertow",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -4337,6 +4727,8 @@
         "Rituel": "false",
         "englishname": "Skirmish",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Ranger",
@@ -4359,6 +4751,8 @@
         "Rituel": "false",
         "englishname": "Crusader's Mantle",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "radiant",
         "available": [
             "Paladin"
         ],
@@ -4379,6 +4773,8 @@
         "Rituel": "false",
         "englishname": "Ward of Energy Absorption",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Barde",
@@ -4403,6 +4799,8 @@
         "Rituel": "false",
         "englishname": "Magic Circle",
         "writing_status": "finished",
+        "zone": "cylindre (20, 10)",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -4428,6 +4826,8 @@
         "Rituel": "false",
         "englishname": "Blink",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -4450,6 +4850,8 @@
         "Rituel": "false",
         "englishname": "Phantasmal Beauty",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -4472,6 +4874,8 @@
         "Rituel": "false",
         "englishname": "Fallen Soul",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "tranchant",
         "available": [
             "Occultiste",
             "Nécromancien"
@@ -4488,11 +4892,13 @@
         "detailmat": "",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Aura of Vitality",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Paladin",
             "Martyr",
@@ -4515,6 +4921,8 @@
         "Rituel": "false",
         "englishname": "Rusting Grasp",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "acide",
         "available": [
             "Magicien",
             "Druide",
@@ -4538,6 +4946,8 @@
         "Rituel": "false",
         "englishname": "Antagonize",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "psychique",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -4557,11 +4967,13 @@
         "detailmat": "Une poignée de mica en poudre",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (cône de 15 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Glitterdust",
         "writing_status": "finished",
+        "zone": "cone (15)",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -4585,6 +4997,8 @@
         "Rituel": "false",
         "englishname": "Almighty Assault",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "radiant",
         "available": [
             "Paladin",
             "Martyr"
@@ -4606,6 +5020,8 @@
         "Rituel": "false",
         "englishname": "Resolve's Mantle of Spell Resistance",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Occultiste",
@@ -4631,6 +5047,8 @@
         "Rituel": "false",
         "englishname": "Blackened Heart",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "poison",
         "available": [
             "Clerc",
             "Druide",
@@ -4656,6 +5074,8 @@
         "Rituel": "false",
         "englishname": "Sending",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -4680,6 +5100,8 @@
         "Rituel": "false",
         "englishname": "Sleet Storm",
         "writing_status": "finished",
+        "zone": "cylindre (20, 40)",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -4703,6 +5125,8 @@
         "englishname": "Haste",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Ensorceleur",
@@ -4725,6 +5149,8 @@
         "Rituel": "false",
         "englishname": "Freedom of the Waves",
         "writing_status": "finished",
+        "zone": "cylindre (10,15)",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger",
@@ -4748,6 +5174,8 @@
         "Rituel": "false",
         "englishname": "Irreversible Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "nécrotique",
         "available": [
             "Paladin"
         ],
@@ -4768,6 +5196,8 @@
         "Rituel": "false",
         "englishname": "Counterspell",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Occultiste",
@@ -4790,6 +5220,8 @@
         "Rituel": "false",
         "englishname": "Clairvoyance",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -4812,6 +5244,8 @@
         "Rituel": "false",
         "englishname": "Ruby-Eye Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière"
@@ -4830,9 +5264,11 @@
         "Incantation": "1 Action",
         "Portee": "60 ft.",
         "Concentration": "true",
-        "Rituel": "",
+        "Rituel": "false",
         "englishname": "Summon Lesser Demons",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Occultiste",
@@ -4851,11 +5287,13 @@
         "detailmat": "",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Speak with Plants",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -4880,6 +5318,8 @@
         "Rituel": "false",
         "englishname": "Call Lightning",
         "writing_status": "finished",
+        "zone": "cylindre (10,60)",
+        "damage": "foudre",
         "available": [
             "Nécromancien",
             "Druide"
@@ -4901,6 +5341,8 @@
         "Rituel": "false",
         "englishname": "Nondetection",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ranger",
@@ -4925,6 +5367,8 @@
         "Rituel": "false",
         "englishname": "Ice Claw Prison",
         "writing_status": "finished",
+        "zone": "cube (10)",
+        "damage": "multiple",
         "available": [
             "Magicien",
             "Occultiste",
@@ -4947,6 +5391,8 @@
         "Rituel": "false",
         "englishname": "Beacon of Hope",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -4967,6 +5413,8 @@
         "Rituel": "false",
         "englishname": "Animate Dead",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Magicien",
@@ -4989,6 +5437,8 @@
         "Rituel": "false",
         "englishname": "Polybrachia",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Occultiste",
@@ -5013,6 +5463,8 @@
         "Rituel": "false",
         "englishname": "Fog Cloud",
         "writing_status": "finished",
+        "zone": "sphere (15)",
+        "damage": "nécrotique",
         "available": [
             "Nécromancien"
         ],
@@ -5033,6 +5485,8 @@
         "Rituel": "false",
         "englishname": "Ashardalon's Stride",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "feu",
         "available": [
             "Ranger",
             "Ensorceleur",
@@ -5057,6 +5511,8 @@
         "Rituel": "false",
         "englishname": "Funeral Pyre",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "perforant",
         "available": [
             "Clerc",
             "Paladin",
@@ -5083,6 +5539,8 @@
         "Rituel": "false",
         "englishname": "Séance",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Nécromancien",
@@ -5100,11 +5558,13 @@
         "detailmat": "",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 100 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "true",
         "englishname": "Geomatique Discernment",
         "writing_status": "finished",
+        "zone": "sphere (100)",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ranger",
@@ -5128,6 +5588,8 @@
         "Rituel": "false",
         "englishname": "Bestow Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "nécrotique",
         "available": [
             "Barde",
             "Clerc",
@@ -5152,6 +5614,8 @@
         "Rituel": "false",
         "englishname": "After Image",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Ranger",
@@ -5176,6 +5640,8 @@
         "Rituel": "false",
         "englishname": "Speak with Dead",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Nécromancien",
@@ -5201,6 +5667,8 @@
         "Rituel": "false",
         "englishname": "Snakestaff",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Clerc",
@@ -5224,6 +5692,8 @@
         "englishname": "Conjure Cannonball",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "contondant",
         "available": [
             "Magicien",
             "Ensorceleur"
@@ -5240,11 +5710,13 @@
         "detailmat": "",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 60 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Blasphemy",
         "writing_status": "finished",
+        "zone": "sphere (60)",
+        "damage": "psychique",
         "available": [
             "Barde"
         ],
@@ -5265,13 +5737,15 @@
         "Rituel": "true",
         "englishname": "Benign Dismemberment",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Sorcière",
             "Nécromancien",
             "Investigateur"
         ],
-        "description": "Pendant la durée, les parties du corps d'une cible consentante (doigts, jambes, queue et même sa tête) peuvent être retirées du corps sans danger. La créature ne subit aucun dégâts d'un tel démembrement, tant que la coupe est nette et rapide. La tête de la cible reste vivante et consciente, et les parties connectées à la tête restent en vie. Tous les membres séparés deviennent inanimés, mais ne commencent pas à se décomposer pendant la durée du sort. Tout partie du corps de la cible retirée pendant la durée du sort peut être pressée contre le moignon, ce qui restaurent immédiatement la connexion entre la partie et le corps.\n\nA la fin du sort, les parties du corps séparées deviennent définitivement séparées. La cible meurt si des organes vitaux n'ont pas été rattachés à la tête.\n",
+        "description": "Pendant la durée du sort, les parties du corps d'une cible consentante (doigts, jambes, queue et même sa tête) peuvent être retirées du corps sans danger. La créature ne subit aucun dégâts d'un tel démembrement, tant que la coupe est nette et rapide. La tête de la cible reste vivante et consciente, et les parties connectées à la tête restent en vie. Tous les membres séparés deviennent inanimés, mais ne commencent pas à se décomposer pendant la durée du sort. Tout partie du corps de la cible retirée pendant la durée du sort peut être pressée contre le moignon, ce qui restaurent immédiatement la connexion entre la partie et le corps.\n\nA la fin du sort, les parties du corps séparées deviennent définitivement séparées. La cible meurt si des organes vitaux n'ont pas été rattachés à la tête.\n",
         "path": "03/Démembrement Bénin"
     },
     "Amitié Rapide": {
@@ -5288,6 +5762,8 @@
         "Rituel": "false",
         "englishname": "Fast Friends",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -5311,6 +5787,8 @@
         "Rituel": "false",
         "englishname": "Curse of Blades",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -5329,11 +5807,13 @@
         "detailmat": "Une plume ou une feuille",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 15 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Warding Gust",
         "writing_status": "finished",
+        "zone": "sphere (15)",
+        "damage": "none",
         "available": [
             "Ranger",
             "Magicien",
@@ -5358,6 +5838,8 @@
         "Rituel": "false",
         "englishname": "Elemental Weapon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "multiple",
         "available": [
             "Artificier",
             "Druide",
@@ -5381,6 +5863,8 @@
         "Rituel": "false",
         "englishname": "Enchanter's Lockdown",
         "writing_status": "finished",
+        "zone": "sphere (20)",
+        "damage": "none",
         "available": [
             "Clerc",
             "Magicien",
@@ -5405,6 +5889,8 @@
         "Rituel": "false",
         "englishname": "Dispel Magic",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -5435,6 +5921,8 @@
         "Rituel": "false",
         "englishname": "Fireball",
         "writing_status": "finished",
+        "zone": "sphere (20)",
+        "damage": "feu",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -5456,6 +5944,8 @@
         "Rituel": "false",
         "englishname": "Pillar of Salt",
         "writing_status": "finished",
+        "zone": "sphere (10)",
+        "damage": "nécrotique",
         "available": [
             "Martyr"
         ],
@@ -5476,6 +5966,8 @@
         "Rituel": "false",
         "englishname": "Eldritch Barrier",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "force",
         "available": [
             "Occultiste"
         ],
@@ -5496,11 +5988,13 @@
         "Rituel": "false",
         "englishname": "Blinding Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "radiant",
         "available": [
             "Paladin",
             "Martyr"
         ],
-        "description": "La prochaine fois que vous touchez une créature avec une attaque de mêlée à main armée pendant la durée du sort, votre arme s'illumine d'une lumière vive, et l'attaque inflige 3d8 dégâts radieux supplémentaires à la cible. De plus, la cible doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé|aveuglée]] jusqu'à la fin du sort.\n\nUne créature [[aveuglé|aveuglée]] par ce sort doit effectuer un autre jet de sauvegarde de Constitution à la fin de chacun de ses tours.",
+        "description": "La prochaine fois que vous touchez une créature avec une attaque de mêlée à main armée pendant la durée du sort, votre arme s'illumine d'une lumière vive, et l'attaque inflige 3d8 dégâts radiant supplémentaires à la cible. De plus, la cible doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé|aveuglée]] jusqu'à la fin du sort.\n\nUne créature [[aveuglé|aveuglée]] par ce sort doit effectuer un autre jet de sauvegarde de Constitution à la fin de chacun de ses tours.",
         "path": "03/Châtiment Aveuglant"
     },
     "Appel de Destrier": {
@@ -5517,6 +6011,8 @@
         "Rituel": "false",
         "englishname": "Find Steed",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -5532,11 +6028,13 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 10 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Halo of Flame",
         "writing_status": "finished",
+        "zone": "anneau (10)",
+        "damage": "feu",
         "available": [
             "Martyr",
             "Clerc",
@@ -5559,6 +6057,8 @@
         "Rituel": "false",
         "englishname": "Devilish Hunt",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "perforant",
         "available": [
             "Occultiste"
         ],
@@ -5579,6 +6079,8 @@
         "Rituel": "false",
         "englishname": "Alter Self",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -5601,6 +6103,8 @@
         "Rituel": "false",
         "englishname": "Gust of Wind",
         "writing_status": "finished",
+        "zone": "ligne (60)",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -5623,6 +6127,8 @@
         "Rituel": "true",
         "englishname": "Beast Sense",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger"
@@ -5644,6 +6150,8 @@
         "Rituel": "false",
         "englishname": "Spiritual Weapon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "force",
         "available": [
             "Clerc"
         ],
@@ -5664,6 +6172,8 @@
         "Rituel": "false",
         "englishname": "Blur",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -5686,6 +6196,8 @@
         "Rituel": "false",
         "englishname": "Stone Bones",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Martyr",
@@ -5712,6 +6224,8 @@
         "Rituel": "false",
         "englishname": "Swift Flight",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -5734,6 +6248,8 @@
         "Rituel": "false",
         "englishname": "Mana Shackle",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Magicien"
@@ -5756,6 +6272,8 @@
         "englishname": "Delay",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -5780,6 +6298,8 @@
         "Rituel": "false",
         "englishname": "Blindness/Deafness",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -5805,6 +6325,8 @@
         "Rituel": "false",
         "englishname": "Borrowed Knowledge",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -5831,6 +6353,8 @@
         "englishname": "Jethro's Instant Reload",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Barde",
@@ -5854,6 +6378,8 @@
         "Rituel": "true",
         "englishname": "Nondescript",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -5879,6 +6405,8 @@
         "Rituel": "false",
         "englishname": "Repulsor Ring",
         "writing_status": "finished",
+        "zone": "",
+        "damage": "none",
         "available": [
             "Magicien",
             "Clerc"
@@ -5900,6 +6428,8 @@
         "Rituel": "false",
         "englishname": "Earthbind",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Druide",
@@ -5924,6 +6454,8 @@
         "Rituel": "false",
         "englishname": "Air Bubble",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Druide",
@@ -5950,6 +6482,8 @@
         "Rituel": "false",
         "englishname": "Hold Person",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -5972,11 +6506,13 @@
         "detailmat": "",
         "Duree": "1 Minute",
         "Incantation": "1 Action",
-        "Portee": "Personnelle (rayon de 30 ft.)",
+        "Portee": "Personnelle",
         "Concentration": "true",
         "Rituel": "false",
         "englishname": "Tyra's Coerced Karaoke",
         "writing_status": "finished",
+        "zone": "sphere (30)",
+        "damage": "none",
         "available": [
             "Magicien",
             "Barde"
@@ -5998,6 +6534,8 @@
         "Rituel": "false",
         "englishname": "Curse Ward",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Martyr",
@@ -6025,6 +6563,8 @@
         "Rituel": "false",
         "englishname": "Aerial Alacrity",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -6048,6 +6588,8 @@
         "Rituel": "true",
         "englishname": "Animal Messenger",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -6072,6 +6614,8 @@
         "Rituel": "false",
         "englishname": "Intrusive Thoughts",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -6095,6 +6639,8 @@
         "Rituel": "false",
         "englishname": "Aberrate",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Druide",
@@ -6120,6 +6666,8 @@
         "englishname": "Jam Weapon",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Barde",
@@ -6142,6 +6690,8 @@
         "Rituel": "false",
         "englishname": "Arcanist's Magic Aura",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Investigateur"
@@ -6163,6 +6713,8 @@
         "Rituel": "false",
         "englishname": "Shadow Armor",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -6188,6 +6740,8 @@
         "englishname": "Recall",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -6209,6 +6763,8 @@
         "Rituel": "false",
         "englishname": "Defenestration",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "tranchant",
         "available": [
             "Barde"
         ],
@@ -6229,6 +6785,8 @@
         "Rituel": "true",
         "englishname": "Magic Mouth",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Barde",
@@ -6252,6 +6810,8 @@
         "Rituel": "false",
         "englishname": "Nystul's Magic Aura",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Magicien"
@@ -6273,6 +6833,8 @@
         "Rituel": "false",
         "englishname": "Arcane Lock",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Artificier",
@@ -6295,6 +6857,8 @@
         "Rituel": "true",
         "englishname": "Protect Threshold",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "psychique",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -6320,6 +6884,8 @@
         "englishname": "Perforating Smite",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -6340,6 +6906,8 @@
         "Rituel": "false",
         "englishname": "Summon Beast",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Druide",
@@ -6362,6 +6930,8 @@
         "Rituel": "false",
         "englishname": "Calm Emotions",
         "writing_status": "finished",
+        "zone": "sphere (20)",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -6384,6 +6954,8 @@
         "Rituel": "false",
         "englishname": "Enlarge/Reduce",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Ensorceleur",
@@ -6407,6 +6979,8 @@
         "Rituel": "false",
         "englishname": "Magic Weapon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Paladin",
@@ -6430,6 +7004,8 @@
         "Rituel": "false",
         "englishname": "Shield of Repulsion",
         "writing_status": "finished",
+        "zone": "sphere (5)",
+        "damage": "none",
         "available": [
             "Paladin",
             "Clerc",
@@ -6454,6 +7030,8 @@
         "Rituel": "false",
         "englishname": "Branding Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "radiant",
         "available": [
             "Paladin"
         ],
@@ -6474,6 +7052,8 @@
         "Rituel": "false",
         "englishname": "Barkskin",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger"
@@ -6496,6 +7076,8 @@
         "englishname": "Protection from Ballistics",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Occultiste",
@@ -6518,11 +7100,13 @@
         "detailmat": "Une écaille de dragon rouge",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "30 ft. (30 ft. en ligne)",
+        "Portee": "30 ft.",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Aganazzar's Scorcher",
         "writing_status": "finished",
+        "zone": "ligne (30)",
+        "damage": "feu",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -6544,6 +7128,8 @@
         "Rituel": "false",
         "englishname": "Hangover",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "psychique",
         "available": [
             "Barde"
         ],
@@ -6564,6 +7150,8 @@
         "Rituel": "false",
         "englishname": "Acid Arrow",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "acide",
         "available": [
             "Magicien",
             "Nécromancien"
@@ -6585,6 +7173,8 @@
         "Rituel": "false",
         "englishname": "Detect Thoughts",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Nécromancien",
@@ -6609,6 +7199,8 @@
         "Rituel": "false",
         "englishname": "Kinetic Jaunt",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Barde",
@@ -6632,6 +7224,8 @@
         "Rituel": "false",
         "englishname": "Enhance Ability",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Barde",
@@ -6658,6 +7252,8 @@
         "Rituel": "false",
         "englishname": "Aid",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -6678,11 +7274,13 @@
         "detailmat": "",
         "Duree": "10 Minutes",
         "Incantation": "1 Action",
-        "Portee": "60 ft. (15 ft.)",
+        "Portee": "60 ft.",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Zone of Truth",
         "writing_status": "finished",
+        "zone": "sphere (15)",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -6707,6 +7305,8 @@
         "Rituel": "true",
         "englishname": "Augury",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Investigateur",
@@ -6729,6 +7329,8 @@
         "Rituel": "true",
         "englishname": "Unseen Accountable",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -6752,6 +7354,8 @@
         "Rituel": "false",
         "englishname": "Petal Storm",
         "writing_status": "finished",
+        "zone": "cube (15)",
+        "damage": "tranchant",
         "available": [
             "Druide",
             "Sorcière"
@@ -6773,6 +7377,8 @@
         "Rituel": "false",
         "englishname": "Heartripper",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "perforant",
         "available": [
             "Druide",
             "Ranger",
@@ -6797,6 +7403,8 @@
         "Rituel": "false",
         "englishname": "Magic Stone",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Artificier",
@@ -6819,6 +7427,8 @@
         "Rituel": "false",
         "englishname": "Fire Bolt",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -6842,6 +7452,8 @@
         "Rituel": "false",
         "englishname": "Force Weapon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre"
         ],
@@ -6862,6 +7474,8 @@
         "Rituel": "false",
         "englishname": "Spare the Dying",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Artificier",
@@ -6884,6 +7498,8 @@
         "Rituel": "false",
         "englishname": "Springheel",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "MagedeGuerre",
@@ -6906,6 +7522,8 @@
         "Rituel": "false",
         "englishname": "Shocking Grasp",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Nécromancien",
@@ -6930,6 +7548,8 @@
         "Rituel": "false",
         "englishname": "Prestidigitation",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Barde",
@@ -6956,6 +7576,8 @@
         "Rituel": "false",
         "englishname": "Ray of Frost",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Artificier",
@@ -6979,6 +7601,8 @@
         "Rituel": "false",
         "englishname": "Thunderclap",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -7006,6 +7630,8 @@
         "Rituel": "false",
         "englishname": "Mold Earth",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -7029,6 +7655,8 @@
         "Rituel": "false",
         "englishname": "Eye of Anubis",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Nécromancien",
@@ -7051,6 +7679,8 @@
         "Rituel": "false",
         "englishname": "Eldritch Orb",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Nécromancien",
@@ -7073,6 +7703,8 @@
         "Rituel": "false",
         "englishname": "Booming Blade",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Occultiste",
@@ -7097,6 +7729,8 @@
         "Rituel": "false",
         "englishname": "Shillelagh",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -7117,6 +7751,8 @@
         "Rituel": "false",
         "englishname": "Thaumaturgy",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -7137,6 +7773,8 @@
         "Rituel": "false",
         "englishname": "Druidcraft",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide"
         ],
@@ -7157,6 +7795,8 @@
         "Rituel": "false",
         "englishname": "Chill Touch",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -7182,6 +7822,8 @@
         "Rituel": "false",
         "englishname": "Toll the Dead",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Nécromancien",
@@ -7207,6 +7849,8 @@
         "Rituel": "false",
         "englishname": "Control Flames",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -7231,6 +7875,8 @@
         "Rituel": "false",
         "englishname": "Eldritch Blast",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste"
         ],
@@ -7251,6 +7897,8 @@
         "Rituel": "false",
         "englishname": "Phantom Grapnel",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Artificier"
@@ -7272,6 +7920,8 @@
         "Rituel": "false",
         "englishname": "Blade Ward",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -7298,6 +7948,8 @@
         "Rituel": "false",
         "englishname": "Douse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -7324,6 +7976,8 @@
         "Rituel": "false",
         "englishname": "Produce Flame",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Sorcière",
@@ -7346,6 +8000,8 @@
         "Rituel": "false",
         "englishname": "Flesh Ripper",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -7366,6 +8022,8 @@
         "Rituel": "false",
         "englishname": "Poison Spray",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Artificier",
@@ -7392,6 +8050,8 @@
         "Rituel": "false",
         "englishname": "Dancing Lights",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -7417,6 +8077,8 @@
         "Rituel": "false",
         "englishname": "Sword Burst",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Ensorceleur",
@@ -7441,6 +8103,8 @@
         "Rituel": "false",
         "englishname": "Frostbite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Sorcière",
@@ -7467,6 +8131,8 @@
         "Rituel": "false",
         "englishname": "Eye of Ra",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -7487,6 +8153,8 @@
         "Rituel": "false",
         "englishname": "Quickstep",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Artificier"
@@ -7509,6 +8177,8 @@
         "englishname": "Finger Guns",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Barde",
@@ -7533,6 +8203,8 @@
         "Rituel": "false",
         "englishname": "Gust",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Sorcière",
@@ -7557,6 +8229,8 @@
         "Rituel": "false",
         "englishname": "Acid Splash",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -7582,6 +8256,8 @@
         "Rituel": "false",
         "englishname": "Force Dart",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre"
         ],
@@ -7602,6 +8278,8 @@
         "Rituel": "false",
         "englishname": "Primal Savagery",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Druide"
@@ -7623,6 +8301,8 @@
         "Rituel": "false",
         "englishname": "Sonic Pulse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Artificier"
@@ -7644,6 +8324,8 @@
         "Rituel": "false",
         "englishname": "Friends",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -7669,6 +8351,8 @@
         "Rituel": "false",
         "englishname": "True Strike",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Nécromancien",
@@ -7695,6 +8379,8 @@
         "Rituel": "false",
         "englishname": "Legendary Libation",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Barde",
@@ -7717,6 +8403,8 @@
         "Rituel": "false",
         "englishname": "Encode Thoughts",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "MagedeGuerre",
@@ -7739,6 +8427,8 @@
         "Rituel": "false",
         "englishname": "Frigid Blade",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre"
         ],
@@ -7759,6 +8449,8 @@
         "Rituel": "false",
         "englishname": "Word of Radiance",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -7779,6 +8471,8 @@
         "Rituel": "false",
         "englishname": "Cheerful Song",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -7806,6 +8500,8 @@
         "Rituel": "false",
         "englishname": "Thunderous Distortion",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Artificier"
@@ -7827,6 +8523,8 @@
         "Rituel": "false",
         "englishname": "Mind Sliver",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Sorcière",
@@ -7851,6 +8549,8 @@
         "Rituel": "false",
         "englishname": "Hocuspocus",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -7873,6 +8573,8 @@
         "Rituel": "false",
         "englishname": "Animate Skull",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
@@ -7899,6 +8601,8 @@
         "Rituel": "false",
         "englishname": "Minor Life Steal",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien",
@@ -7922,6 +8626,8 @@
         "Rituel": "false",
         "englishname": "Shape Water",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Druide",
@@ -7945,6 +8651,8 @@
         "Rituel": "false",
         "englishname": "Vicious Mockery",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde"
         ],
@@ -7965,6 +8673,8 @@
         "Rituel": "false",
         "englishname": "Message",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -7989,6 +8699,8 @@
         "Rituel": "false",
         "englishname": "Minor Illusion",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -8014,6 +8726,8 @@
         "Rituel": "false",
         "englishname": "Thorn Whip",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Artificier",
@@ -8036,6 +8750,8 @@
         "Rituel": "false",
         "englishname": "Green-Flame Blade",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "MagedeGuerre",
@@ -8060,6 +8776,8 @@
         "Rituel": "false",
         "englishname": "Lightning Surge",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Nécromancien",
@@ -8086,6 +8804,8 @@
         "englishname": "Moment to Think",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Clerc",
@@ -8110,6 +8830,8 @@
         "Rituel": "false",
         "englishname": "Infestation",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Nécromancien",
@@ -8136,6 +8858,8 @@
         "Rituel": "false",
         "englishname": "Sacred Flame",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc"
         ],
@@ -8156,6 +8880,8 @@
         "Rituel": "false",
         "englishname": "Tag",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Magicien",
@@ -8178,6 +8904,8 @@
         "Rituel": "false",
         "englishname": "Mage Hand",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "MagedeGuerre",
@@ -8205,6 +8933,8 @@
         "Rituel": "false",
         "englishname": "Scorch",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Ensorceleur",
@@ -8231,6 +8961,8 @@
         "Rituel": "false",
         "englishname": "Guidance",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Artificier",
@@ -8253,6 +8985,8 @@
         "Rituel": "false",
         "englishname": "Lightning Lure",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Ensorceleur",
@@ -8277,6 +9011,8 @@
         "Rituel": "false",
         "englishname": "Create Bonfire",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -8303,6 +9039,8 @@
         "Rituel": "false",
         "englishname": "Magic Daggers",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Barde"
@@ -8324,6 +9062,8 @@
         "Rituel": "false",
         "englishname": "Force Buckler",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre"
         ],
@@ -8344,6 +9084,8 @@
         "Rituel": "false",
         "englishname": "Burning Blade",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "MagedeGuerre",
             "Artificier"
@@ -8365,6 +9107,8 @@
         "Rituel": "false",
         "englishname": "Card Trick",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Magicien",
@@ -8390,6 +9134,8 @@
         "Rituel": "false",
         "englishname": "Cheat",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "MagedeGuerre",
@@ -8416,6 +9162,8 @@
         "Rituel": "false",
         "englishname": "Candy Blast",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Ensorceleur",
@@ -8438,6 +9186,8 @@
         "Rituel": "false",
         "englishname": "Resistance",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Clerc",
@@ -8461,6 +9211,8 @@
         "Rituel": "false",
         "englishname": "Light",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Barde",
@@ -8487,6 +9239,8 @@
         "Rituel": "false",
         "englishname": "Arc Blade",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "MagedeGuerre"
@@ -8508,6 +9262,8 @@
         "Rituel": "false",
         "englishname": "Caustic Blade",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Nécromancien",
@@ -8530,6 +9286,8 @@
         "Rituel": "false",
         "englishname": "Mending",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Artificier",
@@ -8558,6 +9316,8 @@
         "englishname": "Concealed Shot",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -8582,6 +9342,8 @@
         "Rituel": "false",
         "englishname": "Spark of life",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -8602,6 +9364,8 @@
         "Rituel": "false",
         "englishname": "Abduct",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -8626,6 +9390,8 @@
         "Rituel": "true",
         "englishname": "Binding Curse",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -8646,6 +9412,8 @@
         "Rituel": "false",
         "englishname": "Etherealness",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien",
             "Sorcière",
@@ -8673,6 +9441,8 @@
         "englishname": "Impressions of the Past",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Magicien"
@@ -8694,6 +9464,8 @@
         "Rituel": "false",
         "englishname": "Delayed Blast Fireball",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Ensorceleur",
             "Magicien"
@@ -8715,6 +9487,8 @@
         "Rituel": "false",
         "englishname": "Forcecage",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Occultiste",
@@ -8737,6 +9511,8 @@
         "Rituel": "false",
         "englishname": "Inevitable Boulder",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Magicien"
@@ -8758,6 +9534,8 @@
         "Rituel": "false",
         "englishname": "Plane Shift",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -8784,6 +9562,8 @@
         "Rituel": "false",
         "englishname": "Spreading Nightmare",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -8806,6 +9586,8 @@
         "Rituel": "false",
         "englishname": "Mass Skirmish",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Clerc"
@@ -8827,6 +9609,8 @@
         "Rituel": "false",
         "englishname": "Watery Tentacles",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Occultiste",
@@ -8849,6 +9633,8 @@
         "Rituel": "false",
         "englishname": "Mystic Rebuke",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Paladin"
@@ -8870,6 +9656,8 @@
         "Rituel": "",
         "englishname": "Summon Greater Demon",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Magicien",
@@ -8893,6 +9681,8 @@
         "Rituel": "false",
         "englishname": "Banishment",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Martyr",
             "Sorcière",
@@ -8919,6 +9709,8 @@
         "Rituel": "false",
         "englishname": "Hunger of the Earth",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Magicien"
@@ -8940,6 +9732,8 @@
         "Rituel": "false",
         "englishname": "Aura of Purity",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin",
             "Martyr",
@@ -8962,6 +9756,8 @@
         "Rituel": "false",
         "englishname": "Polymorph",
         "writing_status": "wip",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -8986,6 +9782,8 @@
         "Rituel": "true",
         "englishname": "Arcane Bulwark",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Nécromancien",
@@ -9010,6 +9808,8 @@
         "Rituel": "false",
         "englishname": "Compulsion",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde"
@@ -9031,6 +9831,8 @@
         "Rituel": "false",
         "englishname": "Crimson Cloak",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Nécromancien"
@@ -9052,6 +9854,8 @@
         "Rituel": "false",
         "englishname": "Phantasmal Killer",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Magicien",
@@ -9074,6 +9878,8 @@
         "Rituel": "false",
         "englishname": "Intensify Gravity",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -9097,6 +9903,8 @@
         "Rituel": "false",
         "englishname": "Shadow Refuge",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Ensorceleur",
@@ -9119,6 +9927,8 @@
         "Rituel": "false",
         "englishname": "Dark Empowerment",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Paladin",
@@ -9143,6 +9953,8 @@
         "Rituel": "false",
         "englishname": "Control Water",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Clerc",
             "Druide",
@@ -9165,6 +9977,8 @@
         "Rituel": "false",
         "englishname": "Summon Construct",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Artificier",
             "Magicien"
@@ -9186,6 +10000,8 @@
         "Rituel": "false",
         "englishname": "Aura of Life",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin",
             "Martyr",
@@ -9208,6 +10024,8 @@
         "Rituel": "false",
         "englishname": "Black Tentacles",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Sorcière"
@@ -9230,6 +10048,8 @@
         "englishname": "Summon Elemental",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Druide",
@@ -9253,6 +10073,8 @@
         "Rituel": "false",
         "englishname": "Mandy's Feral Follower",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -9273,6 +10095,8 @@
         "Rituel": "false",
         "englishname": "Blight",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -9297,6 +10121,8 @@
         "Rituel": "false",
         "englishname": "False Vision",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Barde",
@@ -9320,6 +10146,8 @@
         "Rituel": "false",
         "englishname": "Confusion",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Druide",
@@ -9344,6 +10172,8 @@
         "Rituel": "false",
         "englishname": "Staggering Smite",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -9364,6 +10194,8 @@
         "Rituel": "false",
         "englishname": "Invisibility Purge",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Sorcière",
@@ -9388,6 +10220,8 @@
         "Rituel": "true",
         "englishname": "Distort Gravity",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -9412,6 +10246,8 @@
         "Rituel": "false",
         "englishname": "Cage of Briars",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ranger"
@@ -9433,6 +10269,8 @@
         "Rituel": "false",
         "englishname": "Mandy's Marvelous Dress",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -9453,6 +10291,8 @@
         "Rituel": "false",
         "englishname": "Find Greater Steed",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Paladin"
         ],
@@ -9473,6 +10313,8 @@
         "Rituel": "false",
         "englishname": "Gahoul's Scapegoat",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Nécromancien"
@@ -9494,6 +10336,8 @@
         "Rituel": "false",
         "englishname": "Secret Chest",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Nécromancien"
@@ -9515,6 +10359,8 @@
         "Rituel": "false",
         "englishname": "Dire Charm",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Ensorceleur",
@@ -9538,6 +10384,8 @@
         "Rituel": "false",
         "englishname": "Arcane Eye",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Magicien",
             "Artificier",
@@ -9561,6 +10409,8 @@
         "Rituel": "false",
         "englishname": "Grasp of the Grave",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Nécromancien"
         ],
@@ -9581,6 +10431,8 @@
         "Rituel": "false",
         "englishname": "Mandy's Enchanted Carriage",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière"
         ],
@@ -9601,6 +10453,8 @@
         "Rituel": "false",
         "englishname": "Shattersong",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde"
         ],
@@ -9621,6 +10475,8 @@
         "Rituel": "false",
         "englishname": "Charm Monster",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Sorcière",
             "Barde",
@@ -9647,6 +10503,8 @@
         "englishname": "Dire Warning",
         "writing_status": "finished",
         "tags": "",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Investigateur",
             "Nécromancien",
@@ -9670,6 +10528,8 @@
         "Rituel": "false",
         "englishname": "Unspoken Agreement",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Paladin",
@@ -9696,6 +10556,8 @@
         "Rituel": "false",
         "englishname": "Fire Shield",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Druide",
             "Ensorceleur",
@@ -9718,6 +10580,8 @@
         "Rituel": "false",
         "englishname": "Summon Aberration",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Occultiste",
             "Magicien"
@@ -9739,6 +10603,8 @@
         "Rituel": "false",
         "englishname": "Freedom of Movement",
         "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
         "available": [
             "Barde",
             "Clerc",
