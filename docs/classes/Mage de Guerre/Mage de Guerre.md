@@ -89,3 +89,60 @@ Vous commencez avec l'équipement suivant, en plus de l'équipement offert par v
  - (a) une [[sacoche à composants]] ou (b) un [[focalisateur arcanique]]
  - (a) un [[sac d'explorateur]] ou (b) un [[sac d'érudit]]
  - Un set de jeu
+
+## Incantation
+
+Au niveau 1, vous apprenez la simple mais puissante magie pour laquelle les mages de guerre sont connus.
+
+### Cantrips
+
+Vous connaissez quatre cantrips de votre choix parmi la liste de sorts du mage de guerre. Vous apprenez des cantrips supplémentaires lorsque vous atteignez certains niveaux, comme indiqué dans la colonne Cantrips Connus de la table du Mage de Guerre.
+
+De plus, lorsque vous obtenez un niveau dans cette classe, vous pouvez choisir l'un des cantrips de mage de guerre que vous connaissez et le remplacer par un autre cantrip de mage de guerre.
+
+### Caractéristique d'Incantation
+
+L'Intelligence est votre caractéristique d'incantation pour vos sorts de mage de guerre, puisque vous les apprenez par l'entraînement et la rigueur mentale. Vous utilisez votre Intelligence à chaque fois qu'un sort se réfère à votre caractéristique d'incantation. De plus, vous utilisez votre modificateur d'Intelligence afin de déterminer votre DD de jet de sauvegarde de sort de mage de guerre que vous lancez et lorsque vous réalisez un jet d'attaque de sort.
+
+
+<p style="text-align:center"><b>DD de Sauvegarde des sorts</b> = 8 + bonus de maîtrise + modificateur d'Intelligence</p>
+
+<p style="text-align:center"><b>Modificateur aux attaques avec un sort</b> = bonus de maîtrise + modificateur d'Intelligence</p>
+
+### Focalisateur d'Incantation
+
+Vous pouvez utiliser un focalisateur arcanique comme focalisateur d'incantation pour vos sorts de mage de guerre.
+
+## Initiation Arcanique
+
+Les mages de guerre viennent de tous les passifs et ont chacun des expériences uniques. Au niveau 1, choisissez le cadre dans lequel vous avez appris les bases de la magie. Les cantrips offerts par votre initiation ne comptent pas dans le nombre total de cantrips connus.
+
+__Aventurier.__ Vous avez récupéré des connaissances magiques à droite et à gauche à force de côtoyer des mages pendant vos aventures. Vous apprenez les cantrips [[main de mage]] et [[rayon de givre]].
+
+__Artiste du Cirque.__ Vous avez appris quelques tours en participant à des spectacles ou des numéros de cirque. Vous apprenez les cantrips [[lumières dansantes]] et [[illusion mineure]].
+
+__Anomalie Occulte.__ Une intrusion de magie néfaste a laissé sa marque sur vous. Vous apprenez les cantrips [[chair de poule]] et [[message]].
+
+__Mercenaire.__ Vous maîtrisez les fondamentaux de la mage de guerre pour participer à des batailles contre des arcanistes équivalemment armés. Vous apprenez les cantrips [[coup au but]] et [[lame électrifiée]].
+
+__Disciple.__ Un monastère ou un temple vous a enseigné les douces voies de la magie réparatrice. Vous apprenez les cantrips [[flamme sacrée]] et [[stabilisation]].
+
+__Apprenti de la Tour.__ Vous avez été sous l'apprentissage d'un lanceur de sort pendant un certain temps, qui vous a enseigné les fondamentaux des arcanes. Vous apprenez les cantrips [[prestidigitation]] et [[poigne électrique]].
+
+__Autodidacte.__ Vous avez appris seul les bases de la magie grâce à un vieux tome ou un parchemin abandonné. Vous apprenez les cantrips [[trait de feu]] et [[lumière]].
+
+__Survivant.__ Afin de survivre en pleine nature, vous avez appris quelques sorts simples. Vous apprenez les cantrips [[druidisme]] et [[gourdin magique]].
+
+## Style de Combat Arcanique
+
+Les mages de guerre apprennent que la magie est la plus pure des armes, et qu'elle peut être maniée aussi aisément que n'import quelle autre. Au niveau 1, choisissez l'un des styles de combat suivants : 
+
+__Boomer.__ Le DD de sauvegarde de sort pour vos cantrips de mage de guerre est augmenté de 1.
+
+__Déflecteur.__ Lorsque vous avez au moins une main libre et qu'une créature vous touche avec une attaque de sort ou une attaque armée à distance, vous pouvez utiliser votre réaction pour ajouter votre bonus de maîtrise à votre CA pour cette attaque, la faisant potentiellement rater.
+
+__Résistant.__ Lorsque vous portez une armure légère ou que vous êtes sous les effets d'une [[armure de mage]], vous obtenez un bonus de +1 à votre CA.
+
+__Sniper.__ Lorsque vous réalisez un jet d'attaque de sort à distance, vous gagnez un bonus de +1 au jet d'attaque. De plus, vous ignorez les couvertures de moitié lorsque vous lancez un cantrip de mage de guerre.
+
+__Frappeur.__ 
