@@ -1433,27 +1433,6 @@
         "description": "Vous prononcez une prière pour guider votre projectile, faisant courber sa trajectoire pour qu'il touche sa cible. La prochaine attaque armée à distance que vous réalisez avant que le sort se termine a l'avantage et voit sa portée doubler.\n",
         "path": "01/Projectile Guidé"
     },
-    "Grappin Fantôme": {
-        "level": "1",
-        "school": "Évocation",
-        "Verbal": "true",
-        "Somatique": "true",
-        "Materiel": "false",
-        "detailmat": "",
-        "Duree": "Instantanée",
-        "Incantation": "1 Action",
-        "Portee": "30 ft.",
-        "Concentration": "false",
-        "Rituel": "false",
-        "englishname": "Phantom Grapnel",
-        "writing_status": "finished",
-        "available": [
-            "MagedeGuerre",
-            "Artificier"
-        ],
-        "description": "Vous invoquer une chaîne et un crochet faits de force magique, que vous projetez vers une créature ou un espace inoccupé à portée. Lorsque vous ciblez un espace ou une créature de taille TG ou plus, le grapin vous attire vers la cible en ligne droite. Vous provoquez normalement les attaques d'opportunité pour ce déplacement. Lorsque vous ciblez une créature de taille G ou plus petite, vous attirez la cible de jusqu'à 10 ft. vers vous. Une créature peut effectuer un jet de sauvegarde de Force pour résister à ce mouvement.\n",
-        "path": "01/Grappin Fantôme"
-    },
     "Fléau": {
         "level": "1",
         "school": "Enchantement",
@@ -7257,6 +7236,27 @@
         ],
         "description": "Un rayon d'énergie fond sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts de force.\n\nLe sort crée plus de rayons lorsque vous atteignez certains niveaux : 2 au niveau 5, 3 au niveau 11 et 4 au niveau 17. Vous pouvez diriger les rayons vers une seule cible ou plusieurs. Effectuez un jet d'attaque différent pour chaque cible.\n",
         "path": "cantrips/Décharge Occulte"
+    },
+    "Grappin Fantôme": {
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Phantom Grapnel",
+        "writing_status": "finished",
+        "available": [
+            "MagedeGuerre",
+            "Artificier"
+        ],
+        "description": "Vous invoquer une chaîne et un crochet faits de force magique, que vous projetez vers une créature ou un espace inoccupé à portée. Lorsque vous ciblez un espace ou une créature de taille TG ou plus, le grapin vous attire vers la cible en ligne droite. Vous provoquez normalement les attaques d'opportunité pour ce déplacement. Lorsque vous ciblez une créature de taille G ou plus petite, vous attirez la cible de jusqu'à 10 ft. vers vous. Une créature peut effectuer un jet de sauvegarde de Force pour résister à ce mouvement.\n",
+        "path": "cantrips/Grappin Fantôme"
     },
     "Protection contre les Armes": {
         "level": "0",
