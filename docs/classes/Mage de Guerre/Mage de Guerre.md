@@ -127,7 +127,7 @@ __Mercenaire.__ Vous maîtrisez les fondamentaux de la mage de guerre pour parti
 
 __Disciple.__ Un monastère ou un temple vous a enseigné les douces voies de la magie réparatrice. Vous apprenez les cantrips [[flamme sacrée]] et [[stabilisation]].
 
-__Apprenti de la Tour.__ Vous avez été sous l'apprentissage d'un lanceur de sort pendant un certain temps, qui vous a enseigné les fondamentaux des arcanes. Vous apprenez les cantrips [[prestidigitation]] et [[poigne électrique]].
+__Apprenti de la Tour.__ Vous avez été sous l'apprentissage d'un lanceur de sort pendant un certain temps, qui vous a enseigné les indispensables des arcanes. Vous apprenez les cantrips [[prestidigitation]] et [[poigne électrique]].
 
 __Autodidacte.__ Vous avez appris seul les bases de la magie grâce à un vieux tome ou un parchemin abandonné. Vous apprenez les cantrips [[trait de feu]] et [[lumière]].
 
@@ -145,4 +145,44 @@ __Résistant.__ Lorsque vous portez une armure légère ou que vous êtes sous l
 
 __Sniper.__ Lorsque vous réalisez un jet d'attaque de sort à distance, vous gagnez un bonus de +1 au jet d'attaque. De plus, vous ignorez les couvertures de moitié lorsque vous lancez un cantrip de mage de guerre.
 
-__Frappeur.__ 
+__Frappeur.__ Lorsque vous touchez avec un cantrip qui requiert une attaque de mêlée et que vous dépassez la CA de la cible par 5 ou plus ou que vous infligez un coup critique, vous pouvez ajouter votre bonus de maîtrise au jet de dégâts.
+
+## Avantage du Mage de Guerre
+
+À partir du niveau 2, une fois à chacun de vos tours lorsque vous infligez des dégâts avec un cantrip de mage de guerre, vous pouvez améliorer un jet de dégâts du sort, ajoutant votre modificateur d'Intelligence au jet si vous ne l'avez pas déjà fait. 
+
+À partir du niveau 5, et lorsque vous gagnez des niveaux dans cette classe, vous pouvez également ajouter des dés de dégâts supplémentaires aux jets de dégâts de vos cantrips de mage de guerre, comme indiqué dans la colonne Dés Bonus de Cantrips de la table du mage de guerre. Par exemple, au niveau 5, vous pouvez améliorer les dégâts de votre [[trait de feu]] afin qu'il inflige 3d10 + votre modificateur d'Intelligence dégâts de feu. 
+
+## Tour de Mage de Guerre
+
+À partir du niveau 2, vous apprenez un [[Tours|Tour]] de Mage de Guerre, une technique spéciale qui altère votre style de combat, d'incantation et de déplacement. Vous apprenez deux tours de votre choix au niveau 2, et vous en apprenez de nouveau en montant de niveaux comme indiqué dans la colonne Tours Connus de la table du mage de guerre.
+
+De plus, lorsque vous obtenez un niveau dans cette classe, vous pouvez choisir l'un des tours que vous connaissez et le remplacer par un autre dont vous validez les prérequis.
+
+## Maison de Mage de Guerre
+
+Au niveau 3, vous choisissez une Maison de Mage de Guerre, qui vous enseigne toute une série de techniques magiques. Ce choix vous confère des aptitudes aux niveaux 3, 7, 10, 15 et 18.
+
+## Augmentation de Caractéristiques
+
+Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous pouvez augmenter une caractéristique de votre choix de 2, ou deux caractéristiques de 1. Comme toujours, vous ne pouvez pas dépasser 20 de cette manière.
+
+## Surpassement Arcanique
+
+À partir du niveau 5, vous apprenez à, pour un instant, puiser dans un vaste réservoir de pouvoir magique et à en libérer la puissance. Pendant votre tour, lorsque vous infligez des dégâts avec un cantrip de mage de guerre, vous pouvez infliger deux fois le nombre de dés de dégâts infligés par le sort. Vous ne pouvez pas utiliser cette aptitude sur un sort qui a infligé un coup critique.
+
+Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos. À partir du niveau 11, vous pouvez l'utiliser deux fois avant un repos, mais seulement une fois par tour.
+
+## Instinct Tactique
+
+Au niveau 6, vous apprenez à manier le pouvoir magique ambiant pour vous défendre des attaques magiques adverses. Vous pouvez ajouter votre modificateur d'Intelligence aux jets de sauvegarde que vous réalisez contre les sorts et autres effets magiques qui infligent des dégâts.
+
+## Déflexion Stratégique
+
+À partir du niveau 14, lorsqu'une créature lance un sort qui vous force à réaliser un jet de sauvegarde afin d'éviter des dégâts, vous pouvez utiliser votre réaction pour essayer de rediriger une portion de l'énergie d'un sort vers une nouvelle cible. Si vous réussissez votre jet de sauvegarde contre le sort, choisissez une autre créature que vous pouvez voir dans la portée du sort et à 30 ft. de vous. Cette créature doit réaliser un jet de sauvegarde contre le sort, en utilisant votre DD de sauvegarde de sort. Si elle échoue, elle subit les effets du sort comme si vous l'aviez lancé et qu'elle en était la cible primaire.
+
+Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos.
+
+## Maître de Guerre
+
+Au niveau 20, vous atteignez le pinacle des prouesses de mage de guerre. Si vous lancez un cantrip qui inflige 4 dés de dégâts ou plus à une cible, il en inflige 5 dés à la place (sans compter vos dés bonus de cantrip). Si vous lancez un cantrip qui réalise 4 attaques, il en réalise 5 à la place.
