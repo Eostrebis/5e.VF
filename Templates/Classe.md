@@ -30,7 +30,7 @@ Vous pouvez créer un %classe rapidement en suivant ces suggestions. Commencez p
 | 19             | +6                |           |
 | 20             | +6                |           |
 
-# Aptitudes de Classes
+# Aptitudes de Classe
 
 En tant que %classe, vous disposez des aptitudes de classes suivantes.
 

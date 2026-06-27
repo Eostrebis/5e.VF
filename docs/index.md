@@ -39,8 +39,8 @@ search:
 **Sorts.** 433/791 ![](https://geps.dev/progress/54)
 
 > [!INFO]- Sorts traduits par niveau
-> - **Cantrips.** 77 
-> - **1.** 118 
+> - **Cantrips.** 78 
+> - **1.** 117 
 > - **2.** 56 
 > - **3.** 52 
 > - **4.** 42 
@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 396581 (soit ~ 1586 pages) (soit ~ 0.83 Seigneur des Anneaux)
+**Nombre Total de Mots.** 398303 (soit ~ 1593 pages) (soit ~ 0.83 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-05-13 10:48:04
+Mis à jour pour la dernière fois le 2026-06-27 08:41:54
