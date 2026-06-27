@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Illusory Dragon
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Occultiste
- - Magicien
+  - Occultiste
+  - Magicien
 level: 5
 school: Divination
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: true
 englishname: Contact Other Plane
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous contactez mentalement un demi-dieu, l'esprit d'un sage depuis longtemps disparu ou toute autre entité mystérieuse d'un autre plan. Contacter cette intelligence extraplanaire peut épuiser, voire même briser votre esprit. Lorsque vous lancez ce sort, effectuez un jet de sauvegarde d'Intelligence DD 15. Si vous échouez, vous subissez 6d6 dégâts psychiques et êtes fou jusqu'à ce que vous terminiez un repos long. Tant que vous êtes fou, vous ne pouvez pas entreprendre d'action, ne pouvez pas comprendre ce que les autres créatures vous disent, ne pouvez pas lire et ne pouvez parler qu'en charabia. Un sort de [[restauration supérieure]] lancé sur vous permet de terminer cet effet.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Sinister Threat
 writing_status: empty
+zone: none
+damage: none
 ---
 

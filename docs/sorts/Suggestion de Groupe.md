@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Mass Suggestion
 writing_status: empty
+zone: none
+damage: none
 ---
 

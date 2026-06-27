@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Mirror Image
 writing_status: empty
+zone: none
+damage: none
 ---
 

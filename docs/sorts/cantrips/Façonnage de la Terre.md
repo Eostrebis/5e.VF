@@ -1,9 +1,9 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
- - Mage de Guerre
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Transmutation
 Verbal: false
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Mold Earth
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous choisissez une portion de terre ou pierre que vous pouvez voir à portée et qui rentre dans un cube de 5 ft. de côté. Vous le manipulez d'une des façons suivantes : 
 

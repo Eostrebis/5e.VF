@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 6
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Chain Lightning
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un éclair de foudre qui se dirige vers une cible de votre choix que vous pouvez voir à portée. Trois éclairs jaillissent alors de la cible pour cibler eux-mêmes jusqu'à 3 cibles, chacune à 30 ft. de la première cible. Une cible peut être une créature ou un objet et chacune ne peut être la cible que d'un de ces éclairs.
 

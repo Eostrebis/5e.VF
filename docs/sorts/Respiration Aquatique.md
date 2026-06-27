@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Water Breathing
 writing_status: empty
+zone: none
+damage: none
 ---
 

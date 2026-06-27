@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 4
 school: Enchantement
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Confusion
 writing_status: finished
+zone: none
+damage: none
 ---
 Ce sort agresse et perturbe les esprits des créatures, faisant apparaître hallucinations et provoquant des actions incontrôlées. Chaque créature dans un rayon de 10 ft. autour d'un point que vous choisissez à portée doit réussir un jet de sauvegarde de Sagesse ou être affectée par ce sort.
 

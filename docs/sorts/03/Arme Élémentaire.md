@@ -1,9 +1,9 @@
 ---
 available:
- - Artificier
- - Druide
- - Paladin
- - Ranger
+  - Artificier
+  - Druide
+  - Paladin
+  - Ranger
 level: 3
 school: Transmutation
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Elemental Weapon
 writing_status: finished
+zone: none
+damage: multiple
 ---
 Une arme non magique que vous touchez devient une arme magique. Choisissez l'un des types de dégâts suivants : acide, froid, feu, foudre et tonnerre. Pendant la durée du sort, l'arme a un bonus de +1 aux jets d'attaque et inflige 1d4 dégâts supplémentaires du type choisi lorsqu'elle touche.
 

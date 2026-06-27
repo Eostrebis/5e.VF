@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Assassin's Promise
 writing_status: empty
+zone: none
+damage: none
 ---
 

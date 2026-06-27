@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Fox's Fangs
 writing_status: empty
+zone: none
+damage: none
 ---
 

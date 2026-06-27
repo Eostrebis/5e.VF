@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Guards and Wards
 writing_status: empty
+zone: none
+damage: none
 ---
 

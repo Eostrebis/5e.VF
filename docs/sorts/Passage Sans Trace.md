@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Pass Without Trace
 writing_status: empty
+zone: none
+damage: none
 ---
 

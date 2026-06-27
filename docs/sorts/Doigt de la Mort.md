@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Finger of Death
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 4
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Fire Shield
 writing_status: finished
+zone: none
+damage: none
 ---
 De fines et crépitantes flammes enveloppent votre corps pendant la durée du sort, émettant une lumière vive sur 10 ft. et une lumière faible sur 10 ft. supplémentaire. Vous pouvez terminer le sort prématurément en utilisant une action pour le dissiper.
 

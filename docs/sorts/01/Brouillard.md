@@ -1,10 +1,10 @@
 ---
 available:
- - Nécromancien
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Fog Cloud
 writing_status: finished
+zone: sphere (20)
+damage: none
 ---
 Vous créez une sphère de brouillard d'un rayon de 20 ft. centrée sur un point à portée. La sphère se propage autour des coins et sa zone est fortement dissimulée. Elle persiste pendant la durée du sort ou jusqu'à ce qu'un vent de vitesse modérée ou grande (au moins 20 km/heure) la disperse.
 

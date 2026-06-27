@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Unseen Claw
 writing_status: empty
+zone: none
+damage: none
 ---
 

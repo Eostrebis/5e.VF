@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Barde
- - Druide
+  - Clerc
+  - Barde
+  - Druide
 level: 0
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Legendary Libation
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prononcez un mot de pouvoir et votre contenant s'emplit du liquide de votre choix, qui peut être consommé pour une action. La boisson est délicieuse et satisfait la soif de son buveur pendant 24 heures. De plus, pour une heure après avoir consommé le breuvage, le buveur à l'avantage aux jets de sauvegarde qu'il effectue pour éviter ou terminer l'effet [[apeuré]]. Si la boisson n'est pas consommée dans l'heure de son invocation, elle perds sa magie et devient de l'eau ordinaire.
 

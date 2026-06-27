@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Find the Path
 writing_status: empty
+zone: none
+damage: none
 ---
 

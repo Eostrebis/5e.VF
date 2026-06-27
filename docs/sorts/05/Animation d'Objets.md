@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 5
 school: Transmutation
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Animate Objects
 writing_status: finished
+zone: none
+damage: none
 ---
 Les objets prennent vie à votre demande. Choisissez jusqu'à dix objets non magiques à portée qui ne sont pas portés. Les objets de taille M comptent pour deux, ceux de taille G pour quatre, et les objets de taille TG comptent pour huit. Vous ne pouvez pas animer des objets plus grands que TG. Chaque cible s'anime et devient une créature sous votre contrôle jusqu'à ce que le sort finisse, ou qu'elle soit réduite à 0 point de vie.
 

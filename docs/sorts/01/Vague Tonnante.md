@@ -1,10 +1,10 @@
 ---
 available:
- - Sorcière
- - Barde
- - Druide
- - Ensorceleur
- - Magicien
+  - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Évocation
 Verbal: true
@@ -13,11 +13,13 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Personnelle (rayon de 15 ft.)
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Thunderwave
 writing_status: finished
+zone: cube (15)
+damage: tonnerre
 ---
 Une vague d'énergie tonitruante émane de vous. Toute créature dans un cube de 15 ft. de côté émanant de vous doit effectuer un jet de sauvegarde de Constitution. Si elle rate, la créature subit 2d8 dégâts de tonnerre et est repoussée de 10 ft. Si elle réussit, la créature subit la moitié des dégâts et n'est pas repoussée.
 

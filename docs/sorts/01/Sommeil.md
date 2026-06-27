@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -13,11 +13,13 @@ Materiel: true
 detailmat: Une pincée de sable, des pétales de rose ou des criquets
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: 90 ft. (20 ft.)
+Portee: 90 ft.
 Concentration: false
 Rituel: false
 englishname: Sleep
 writing_status: finished
+zone: sphere (20)
+damage: none
 ---
 Ce sort fait tomber des créatures en un sommeil profond. Lancez 5d8 ; le total correspond à combien de points de vie totaux ce sort peut affecter. Les créatures à 20 ft. de l'emplacement que vous choisissez à portée sont affectées par ordre croissant de leurs points de vie (ignorant les créatures [[inconscient|inconscientes]]).
 

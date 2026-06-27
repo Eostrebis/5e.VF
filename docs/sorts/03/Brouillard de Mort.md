@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 3
 school: Nécromancie
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Fog Cloud
 writing_status: finished
+zone: sphere (15)
+damage: nécrotique
 ---
 Une sphère de Brume Morte d'un rayon de 15 ft. apparaît centrée sur un point que vous pouvez voir à portée. Le brouillard se propage autour des coins et la zone est fortement assombrie. La sphère persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort disperse le brouillard.
 

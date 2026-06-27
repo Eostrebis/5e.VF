@@ -1,11 +1,11 @@
 ---
 available:
- - Sorcière
- - Nécromancien
- - Martyr
- - Barde
- - Clerc
- - Magicien
+  - Sorcière
+  - Nécromancien
+  - Martyr
+  - Barde
+  - Clerc
+  - Magicien
 level: 3
 school: Nécromancie
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: false
 Rituel: false
 englishname: Speak with Dead
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous conférez à un corps de votre choix à portée un simulacre de vie et d'intelligence, lui permettant de répondre aux questions que vous lui posez. Le corps doit toujours posséder une bouche et ne pas être Mort-Vivant. Le sort échoue si le corps a déjà été la cible de ce jour dans les 10 derniers jours.
 

@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 5
 school: Illusion
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Seeming
 writing_status: finished
+zone: none
+damage: none
 ---
 Ce sort vous permet d'altérer l'apparence de n'importe quel nombre de créatures que vous voyez à portée. Vous donnez à chaque créature une nouvelle apparence illusoire. Une créature récalcitrante peut effectuer un jet de sauvegarde de Charisme et, si elle réussit, être inaffectée par le sort.
 

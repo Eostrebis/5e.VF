@@ -1,7 +1,7 @@
 ---
 available:
- - Clerc
- - Druide
+  - Clerc
+  - Druide
 level: 1
 school: Transmutation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Create or Destroy Water
 writing_status: finished
+zone: cube (30)
+damage: none
 ---
 Vous pouvez créer ou détruire de l'eau.
 

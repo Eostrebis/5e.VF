@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Clerc
- - Sorcière
+  - Barde
+  - Clerc
+  - Sorcière
 level: 2
 school: Enchantement
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Calm Emotions
 writing_status: finished
+zone: sphere (20)
+damage: none
 ---
 Vous tentez de supprimer les émotions fortes d'un groupe de personnes. Chaque humanoïde dans une sphère d'un rayon de 20 ft. centrée sur un point que vous choisissez à portée doit effectuer un jet de sauvegarde de Charisme ; une créature peut choisir d'échouer ce jet si elle le souhaite. Si une créature échoue à ce jet de sauvegarde, choisissez l'un des deux effets suivants : 
 

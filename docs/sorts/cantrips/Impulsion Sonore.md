@@ -1,7 +1,7 @@
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Sonic Pulse
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous compressez une explosion bruyante en une balle invisible et la projetez vers une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution ou subir 1d8 dégâts de tonnerre et être [[assourdi|assourdie]] jusqu'au début de votre prochain tour.
 

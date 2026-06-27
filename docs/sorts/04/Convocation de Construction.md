@@ -1,7 +1,7 @@
 ---
 available:
- - Artificier
- - Magicien
+  - Artificier
+  - Magicien
 level: 4
 school: Conjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Summon Construct
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous appelez l'esprit d'une construction. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Construit]]. Lorsque vous lancez ce sort, choisissez un matériau : Argile, Métal ou Pierre. La créature prend la forme d'un golem ou d'un modron fait du matériau choisi, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 

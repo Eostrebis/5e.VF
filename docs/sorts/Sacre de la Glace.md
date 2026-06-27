@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Investiture of Ice
 writing_status: empty
+zone: none
+damage: none
 ---
 

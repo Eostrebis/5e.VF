@@ -1,7 +1,7 @@
 ---
 available:
- - Magicien
- - Ranger
+  - Magicien
+  - Ranger
 level: 1
 school: Transmutation
 Verbal: true
@@ -16,7 +16,9 @@ Rituel: true
 englishname: Time's Arrow
 writing_status: finished
 tags:
- - chronomancie
+  - chronomancie
+zone: none
+damage: none
 ---
 Ce sort enchante un projectile de tel sort qu'il se gèle dans l'espace-temps. Vous pouvez repositionner le projectile dans l'action permettant de lancer le sort. 
 

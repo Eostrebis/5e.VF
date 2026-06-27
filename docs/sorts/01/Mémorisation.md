@@ -1,10 +1,10 @@
 ---
 available:
- - Investigateur
- - Nécromancien
- - Barde
- - Clerc
- - Magicien
+  - Investigateur
+  - Nécromancien
+  - Barde
+  - Clerc
+  - Magicien
 level: 1
 school: Enchantement
 Verbal: true
@@ -18,5 +18,7 @@ Concentration: false
 Rituel: true
 englishname: Memorize
 writing_status: finished
+zone: none
+damage: none
 ---
 Tout en lançant ce sort, vos yeux parcourent les mots de la page, qui sont enregistrés dans votre esprit. Pendant la prochaine année, vous vous souvenez exactement des informations de la page. Après ce temps, vous avez l'avantage pour vous souvenir de cette information.

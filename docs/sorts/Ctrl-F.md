@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Seek Phrase
 writing_status: empty
+zone: none
+damage: none
 ---
 

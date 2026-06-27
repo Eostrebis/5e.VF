@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Galder's Tower
 writing_status: empty
+zone: none
+damage: none
 ---
 

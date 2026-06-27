@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Ray of Enfeeblement
 writing_status: empty
+zone: none
+damage: none
 ---
 

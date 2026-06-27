@@ -1,9 +1,9 @@
 ---
 available:
- - Ranger
- - Ensorceleur
- - Magicien
- - Investigateur
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Investigateur
 level: 1
 school: Enchantement
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Masterful Focus
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous murmurez quelques mots et infusez de la magie dans votre propre esprit, aiguisant vos sens et vos réflexes. Jusqu'à ce que le sort se termine, vos attaques infligent des coups critiques plus facilement. À chaque fois que le résultat du d20 est entre 18 et 20, vous infligez un coup critique. Si vous réalisez une attaque avec le désavantage et qu'un des résultats se trouve dans cet intervalle, vous pouvez ignorer le désavantage et infliger un coup critique. Une fois que vous avez infligé un coup critique, le sort se termine.
 

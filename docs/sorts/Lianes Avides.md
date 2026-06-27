@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Grasping Vine
 writing_status: empty
+zone: none
+damage: none
 ---
 

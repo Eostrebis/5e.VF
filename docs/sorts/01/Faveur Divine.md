@@ -1,6 +1,6 @@
 ---
 available:
- - Paladin
+  - Paladin
 level: 1
 school: Évocation
 Verbal: true
@@ -14,5 +14,7 @@ Concentration: true
 Rituel: false
 englishname: Divine Favor
 writing_status: finished
+zone: none
+damage: none
 ---
 Vos prières vous confèrent un rayonnement divin. Jusqu'à ce que le sort se termine, vos attaques armées infligent 1d4 dégâts radiants supplémentaires.

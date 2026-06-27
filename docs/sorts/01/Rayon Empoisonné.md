@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Ray of Sickness
 writing_status: finished
+zone: none
+damage: poison
 ---
 Un rayon nauséabond d'énergie verdâtre se projette vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 dégâts de poison et doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
 

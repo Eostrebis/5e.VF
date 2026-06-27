@@ -1,9 +1,9 @@
 ---
 available:
- - Magicien
- - Ensorceleur
- - Barde
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Barde
+  - Sorcière
 level: 2
 school: Enchantement
 Verbal: true
@@ -17,5 +17,7 @@ Concentration: false
 Rituel: false
 englishname: Intrusive Thoughts
 writing_status: finished
+zone: none
+damage: none
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir utilise son action pour Attaquer, Foncer, Esquiver ou se Désengager, vous pouvez tenter de perturber sa pensée. La cible doit effectuer un jet de sauvegarde de Sagesse. Elle le réussit automatiquement si elle ne peut pas être [[charmé|charmée]]. Si elle échoue, la créature entreprend une action de votre choix parmi ces options, plutôt que l'action qu'elle comptait entreprendre.

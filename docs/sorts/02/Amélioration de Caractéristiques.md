@@ -1,12 +1,12 @@
 ---
 available:
- - Artificier
- - Barde
- - Clerc
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Barde
+  - Clerc
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: true
 Rituel: false
 englishname: Enhance Ability
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous touchez une créature et lui conférez une amélioration magique. Choisissez l'un des effets suivants ; la cible bénéficie de l'effet jusqu'à ce que le sort se termine.
 

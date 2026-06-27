@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Druide
- - Ranger
- - Sorcière
+  - Barde
+  - Druide
+  - Ranger
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Animal Friendship
 writing_status: finished
+zone: none
+damage: none
 ---
 Ce sort vous laisse convaincre une bête que vous ne lui voulez aucun mal. Choisissez une bête que vous pouvez voir à portée. Elle doit vous voir et vous entendre. Si l'Intelligence de la bête est de 4 ou plus, le sort échoue. Sinon, la bête doit réussir un jet de sauvegarde de Sagesse, ou être [[charmé|charmée]] par vous pendant la durée du sort. Si vous ou l'un de vos compagnons blessez la bête, le sort se termine.
 

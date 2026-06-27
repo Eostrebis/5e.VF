@@ -1,7 +1,7 @@
 ---
 available:
- - Artificier
- - Mage de Guerre
+  - Artificier
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Arc Blade
 writing_status: finished
+zone: none
+damage: none
 ---
 Pendant l'action utilisée pour lancer ce sort, vous devez réaliser une attaque de mêlée avec une arme contre une créature à portée ou le sort échoue. Si vous touchez, la cible subit les effets normaux de l'attaque, sauf que les dégâts infligés sont des dégâts de foudre. De plus, un arc électrique se forme en direction de la créature de votre choix à 5 ft. de la cible, lui infligeant 1d6 dégâts de foudre.
 

@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Ranger
- - Magicien
- - Nécromancien
- - Sorcière
+  - Barde
+  - Ranger
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Abjuration
 Verbal: true
@@ -18,5 +18,7 @@ Concentration: false
 Rituel: false
 englishname: Nondetection
 writing_status: finished
+zone: none
+damage: none
 ---
 Pendant la durée du sort, vous dissimulez la cible que vous touchez de toute forme de magie de divination. La cible peut être une créature consentante ou un lieu ou un objet pas plus grand que 10 ft. dans chaque dimension. La cible ne peut être ciblée par aucune magie de divination ni perçue par aucun capteur de scrutation magique.

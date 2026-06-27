@@ -1,11 +1,11 @@
 ---
 available:
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: false
 Rituel: false
 englishname: Charm Person
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous essayez de charmer un humanoïde que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, et le fait avec avantage si vous ou vos compagnons l'affrontez. Si elle rate le jet de sauvegarde, la cible est [[charmé|charmée]] par vous jusqu'à ce que le sort se termine ou jusqu'à ce que vous ou vos compagnons la blessiez. La créature charmée vous considère comme une connaissance amicale. Lorsque le sort se termine, la cible sait qu'elle a été charmée par vous.
 

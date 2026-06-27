@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Raulothim's Psychic Lance
 writing_status: empty
+zone: none
+damage: none
 ---
 

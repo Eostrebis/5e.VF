@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 1
 school: Abjuration
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Armor of Agathys
 writing_status: finished
+zone: none
+damage: froid
 ---
 Une magie protectrice vous entoure, se manifestant en un gel spectral qui vous recouvre ainsi que votre équipement. Vous gagnez 5 points de vie temporaires pendant la durée du sort. Si une créature vous touche avec une attaque de mêlée tant que vous avez ces points de vie, la créature subit 5 dégâts de froid.
 

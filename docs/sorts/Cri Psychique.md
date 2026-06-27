@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Psychic Scream
 writing_status: empty
+zone: none
+damage: none
 ---
 

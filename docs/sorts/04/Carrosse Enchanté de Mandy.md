@@ -1,6 +1,6 @@
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 4
 school: Transmutation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Mandy's Enchanted Carriage
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous transformez un légume en un Grand carrosse magique, avec les rênes et deux chevaux quasi réels. Le carrosse est luxueux et peut transporter jusqu'à 6 passagers -- quatre à l'intérieur et deux à la place du cocher. Les créatures dans le carrosse ont la couverture totale des effets de l'extérieur, mais peuvent le percevoir par une paire de fenêtres de force magique. Tant qu'elle est assise à la place du cocher, une créature peut contrôler le carrosse, qui a une vitesse de 100 ft. et peut se déplacer à 16 km/h, ou 20 km/h à un rythme soutenu.
 

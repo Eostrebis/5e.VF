@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Suffer
 writing_status: empty
+zone: none
+damage: none
 ---
 

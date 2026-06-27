@@ -1,6 +1,6 @@
 ---
 available:
- - Druide
+  - Druide
 level: 1
 school: Conjuration
 Verbal: true
@@ -9,11 +9,13 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: 90 ft. (20 ft.)
+Portee: 90 ft.
 Concentration: true
 Rituel: false
 englishname: Entangle
 writing_status: finished
+zone: cube (20)
+damage: none
 ---
 Des ronces et lianes émanent du sol dans un carré de 20 ft. à partir d'un point à portée. Pendant la durée du sort, ces plantes rendent le terrain difficile.
 

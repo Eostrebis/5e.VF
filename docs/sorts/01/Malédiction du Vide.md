@@ -1,10 +1,10 @@
 ---
 available:
- - Magicien
- - Occultiste
- - Ensorceleur
- - Sorcière
- - Nécromancien
+  - Magicien
+  - Occultiste
+  - Ensorceleur
+  - Sorcière
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Hollowing Curse
 writing_status: finished
+zone: none
+damage: nécrotique
 ---
 Des vrilles de brume noir s'étendent du bout de vos doigts, s'accrochant à une créature et drainant sa vitalité. Choisissez une créature que vous pouvez voir à portée, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 2d6 dégâts nécrotiques et est maudite pendant la durée du sort. Si elle réussit, elle ne subit que la moitié des dégâts et n'est pas maudite. Tant que la cible est maudite, vous pouvez utiliser votre action pour lui infliger 1d6 dégâts automatiquement. La malédiction se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a la couverture totale vis-à-vis de vous. Une [[délivrance des malédictions]] termine également cette malédiction.
 

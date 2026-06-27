@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Mental Prison
 writing_status: empty
+zone: none
+damage: none
 ---
 

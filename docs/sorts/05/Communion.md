@@ -1,8 +1,8 @@
 ---
 available:
- - Investigateur
- - Martyr
- - Clerc
+  - Investigateur
+  - Martyr
+  - Clerc
 level: 5
 school: Divination
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: true
 englishname: Commune
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous contactez votre déité ou un proxy divin et lui posez jusqu'à trois questions qui peuvent être répondues par "oui" ou "non". Vous devez poser vos questions avant que le sort se termine. Vous obtenez une réponse juste à chacune de vos questions.
 

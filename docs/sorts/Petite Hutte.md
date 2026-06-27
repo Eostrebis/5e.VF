@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Tiny Hut
 writing_status: empty
+zone: none
+damage: none
 ---
 

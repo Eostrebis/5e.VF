@@ -1,9 +1,9 @@
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
- - Nécromancien
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: False Life
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous remontant avec un facsimilé nécromantique de vie, vous gagnez 1d4 + 4 points de vie temporaires pendant la durée du sort.
 

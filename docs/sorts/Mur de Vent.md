@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Wind Wall
 writing_status: empty
+zone: none
+damage: none
 ---
 

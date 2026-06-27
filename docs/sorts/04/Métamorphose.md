@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Polymorph
 writing_status: wip
+zone: none
+damage: none
 ---
 Ce sort transforme une créature que vous pouvez voir à portée en une nouvelle forme. Une créature non consentante doit effectuer un jet de sauvegarde de Sagesse afin d'éviter l'effet. Un changeforme réussit automatiquement ce jet de sauvegarde.
 

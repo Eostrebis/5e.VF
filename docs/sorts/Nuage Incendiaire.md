@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Incendiary Cloud
 writing_status: empty
+zone: none
+damage: none
 ---
 

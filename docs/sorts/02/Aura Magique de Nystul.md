@@ -1,7 +1,7 @@
 ---
 available:
- - Investigateur
- - Magicien
+  - Investigateur
+  - Magicien
 level: 2
 school: Illusion
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Nystul's Magic Aura
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son sujet. La cible peut être une créature consentante ou un objet qui n'est ni porté ni manié par une autre créature.
 

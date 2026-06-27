@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Artificier
- - Nécromancien
+  - Magicien
+  - Artificier
+  - Nécromancien
 level: 1
 school: Conjuration
 Verbal: true
@@ -11,11 +11,13 @@ Materiel: true
 detailmat: Un peu de couenne ou du beurre
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: 60 ft. (10 ft.)
+Portee: 60 ft.
 Concentration: false
 Rituel: false
 englishname: Grease
 writing_status: finished
+zone: cube (10)
+damage: none
 ---
 De la graisse glissante recouvre un carré de 10 ft. de côté centré sur un point à portée et en fait du terrain difficile pendant la durée du sort.
 

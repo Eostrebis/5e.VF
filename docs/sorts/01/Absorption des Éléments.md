@@ -1,11 +1,11 @@
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 1
 school: Abjuration
 Verbal: false
@@ -20,6 +20,8 @@ Rituel: false
 reaction: Quand vous subissez des dégâts d'acide, de froid, de feu, de foudre ou de tonnerre
 englishname: Absorb Elements
 writing_status: finished
+zone: none
+damage: none
 ---
 Le sort capte une portion de l'énergie entrante, affaiblissant ses effets sur vous et la stockant pour votre prochaine attaque de mêlée. Vous obtenez une résistance au type de dégâts ayant provoqué la réaction jusqu'au début de votre prochain tour. De plus, la prochaine fois que vous touchez avec une attaque de mêlée pendant votre prochain tour, la cible subit 1d6 dégâts supplémentaires du type correspondant, et le sort se termine.
 

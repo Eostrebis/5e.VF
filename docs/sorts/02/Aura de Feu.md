@@ -1,8 +1,8 @@
 ---
 available:
- - Martyr
- - Clerc
- - Paladin
+  - Martyr
+  - Clerc
+  - Paladin
 level: 2
 school: Évocation
 Verbal: true
@@ -11,11 +11,13 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Personnelle (rayon de 10 ft.)
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Halo of Flame
 writing_status: finished
+zone: anneau (10)
+damage: feu
 ---
 Un anneau de flamme s'embrase au-dessus de votre tête et s'étend ensuite, s'arrêtant en un cercle de feu. Ce cercle est composé d'une ligne de flamme de 5 ft. de large courbée afin de former un anneau de rayon de 10 ft. autour de vous. Chaque créature que vous choisissez dans la zone doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, la créature subit 4d6 dégâts de feu, et la moitié si elle réussit.
 

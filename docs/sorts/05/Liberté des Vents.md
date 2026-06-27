@@ -1,9 +1,9 @@
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
 level: 5
 school: Abjuration
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Freedom of the Winds
 writing_status: finished
+zone: none
+damage: none
 ---
 Les vents enveloppent votre corps, tirant sur vos cheveux et vos vêtements et vous soulevant du sol. Vous obtenez une vitesse de vol de 60 ft. De plus, vous avez l'avantage aux jets de caractéristique pour éviter d'être [[saisi]] et aux jets de sauvegarde pour éviter d'être [[retenu]] ou [[paralysé]].
 

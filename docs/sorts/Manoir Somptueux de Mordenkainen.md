@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Magnificent Mansion
 writing_status: empty
+zone: none
+damage: none
 ---
 

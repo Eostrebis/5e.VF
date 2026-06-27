@@ -1,8 +1,8 @@
 ---
 available:
- - Paladin
- - Martyr
- - Clerc
+  - Paladin
+  - Martyr
+  - Clerc
 level: 3
 school: Évocation
 Verbal: true
@@ -11,10 +11,12 @@ Materiel: false
 detailmat:
 Duree: 1 Minute
 Incantation: 1 Action
-Portee: Personnelle (rayon de 30 ft.)
+Portee: Personnelle
 Concentration: true
 Rituel: false
 englishname: Aura of Vitality
 writing_status: finished
+zone: sphere (30)
+damage: none
 ---
 Une énergie soignante rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Vous pouvez utiliser une action bonus pour que chaque créature non hostile (vous y compris) dans l'aura regagne 2d6 points de vie.

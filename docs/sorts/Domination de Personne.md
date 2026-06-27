@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Dominate Person
 writing_status: empty
+zone: none
+damage: none
 ---
 

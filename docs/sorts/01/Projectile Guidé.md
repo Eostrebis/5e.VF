@@ -1,7 +1,7 @@
 ---
 available:
- - Clerc
- - Druide
+  - Clerc
+  - Druide
 level: 1
 school: Transmutation
 Verbal: true
@@ -15,5 +15,7 @@ Concentration: true
 Rituel: false
 englishname: Guided Missile
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prononcez une prière pour guider votre projectile, faisant courber sa trajectoire pour qu'il touche sa cible. La prochaine attaque armée à distance que vous réalisez avant que le sort se termine a l'avantage et voit sa portée doubler.

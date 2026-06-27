@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Transmutation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Thaumaturgy
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous manifestez un signe de pouvoir surnaturel à portée. Vous créez l'un des effets magiques suivants : 
 

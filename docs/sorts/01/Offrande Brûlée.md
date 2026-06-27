@@ -1,6 +1,6 @@
 ---
 available:
- - Martyr
+  - Martyr
 level: 1
 school: Abjuration
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: true
 englishname: Burnt Offering
 writing_status: finished
+zone: none
+damage: none
 ---
 En construisant un bûcher et en brulant le corps d'un animal, vous attirez la faveur des dieux. Pendant la durée du sort, tant que vous portez une armure, vous pouvez décider d'ajouter votre modificateur de Sagesse au lieu de votre modificateur de Dextérité à votre classe d'armure.
 

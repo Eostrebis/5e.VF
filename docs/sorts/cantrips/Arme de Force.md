@@ -1,6 +1,6 @@
 ---
 available:
- - Mage de Guerre
+  - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Force Weapon
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous invoquez une lame d'énergie magique dans les airs qui se déchaîne sur vos ennemis. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts de force. La lame persiste pour un court temps, jusqu'au début de votre prochain tour, vous pouvez réaliser un coup avec cette lame mystique comme attaque d'opportunité.
 

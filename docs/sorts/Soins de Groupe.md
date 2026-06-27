@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Cure Wounds
 writing_status: empty
+zone: none
+damage: none
 ---
 

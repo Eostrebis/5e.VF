@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 1
 school: Illusion
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Silent Image
 writing_status: finished
+zone: cube (15)
+damage: none
 ---
 Vous créez une image d'un objet, d'une créature ou d'un autre phénomène visible qui n'est pas plus grand qu'un cube de 15 ft. de côté. L'image apparaît à un endroit à portée et persiste pendant la durée du sort. L'image est purement visuelle ; elle n'est pas accompagnée par le son, l'odeur ou d'autres effets sensoriels.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Serpent's Bite
 writing_status: empty
+zone: none
+damage: none
 ---
 

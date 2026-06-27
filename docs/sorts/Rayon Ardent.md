@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Scorching Ray
 writing_status: empty
+zone: none
+damage: none
 ---
 

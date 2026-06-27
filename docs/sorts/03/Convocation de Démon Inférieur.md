@@ -1,9 +1,9 @@
 ---
 available:
- - Magicien
- - Occultiste
- - Nécromancien
- - Sorcière
+  - Magicien
+  - Occultiste
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Conjuration
 Verbal: true
@@ -14,9 +14,11 @@ Duree: 1 Heure
 Incantation: 1 Action
 Portee: 60 ft.
 Concentration: true
-Rituel:
+Rituel: false
 englishname: Summon Lesser Demons
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prononcez quelques mots impies et invoquez des démons depuis le chaos des Abysses. Tirez dans la table suivante pour déterminer ce qui apparaît.
 

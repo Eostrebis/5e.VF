@@ -1,11 +1,11 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
- - Nécromancien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Nécromancien
+  - Sorcière
 level: 0
 school: Évocation
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: true
 Rituel: false
 englishname: Dancing Lights
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez jusqu'à quatre flammes de la taille d'une torche, et vous pouvez les faire apparaître comme des torches, des lanternes ou des orbes lumineux qui lévitent pendant la durée du sort. Vous pouvez également combiner ces quatre lumières en une forme vaguement humanoïde de taille M. Quoi que vous choisissiez, chaque lumière émet une lumière faible sur 10 ft.
 

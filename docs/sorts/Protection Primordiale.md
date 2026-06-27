@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Primordial Ward
 writing_status: empty
+zone: none
+damage: none
 ---
 

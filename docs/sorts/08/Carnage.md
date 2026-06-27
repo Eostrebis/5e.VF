@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 8
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Carnage
 writing_status: finished
+zone: none
+damage: none
 ---
 Lorsque vous lancez ce sort, vous vous téléportez de 120 ft. et réalisez une attaque armée de mêlée contre toutes les créatures à portée. Effectuez une seule attaque pour toutes les cibles. Si vous touchez une créature, elle subit 6d12 dégâts de force supplémentaires. Pendant vos prochains tours, vous pouvez utiliser votre action pour continuer votre assaut mortel. Chaque fois que vous utilisez cette action, elle a un effet différent :
 

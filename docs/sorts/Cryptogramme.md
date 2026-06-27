@@ -1,12 +1,12 @@
 ---
 available:
- - Magicien
- - Ensorceleur
- - Occultiste
- - Barde
- - Sorcière
- - Mage de Guerre
- - Nécromancien
+  - Magicien
+  - Ensorceleur
+  - Occultiste
+  - Barde
+  - Sorcière
+  - Mage de Guerre
+  - Nécromancien
 level:
 school:
 Verbal: false
@@ -20,5 +20,7 @@ Concentration:
 Rituel:
 englishname: Cryptogram
 writing_status: empty
+zone: none
+damage: none
 ---
 

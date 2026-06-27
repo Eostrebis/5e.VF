@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Flame Blade
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,10 +1,10 @@
 ---
 available:
- - Mage de Guerre
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
+  - Mage de Guerre
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
 level: 0
 school: Conjuration
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: false
 Rituel: false
 englishname: Sword Burst
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un cercle temporaire de lames spectrales autour de vous. Toutes les autres créatures à 5 ft. doivent réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts de force.
 

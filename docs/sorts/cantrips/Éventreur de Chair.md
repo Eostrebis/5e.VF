@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 0
 school: Transmutation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Flesh Ripper
 writing_status: finished
+zone: none
+damage: none
 ---
 Au moment où vous lancez ce sort, un crochet à viande spectral et une chaîne sont lancés vers une créature de votre choix. Réalisez une attaque de sort à distance contre une créature à portée. Si vous touchez, la cible subit 1d8 dégâts perforants alors que le crochet pénètre son corps. Jusqu'au début de votre prochain tour, la cible doit réussir un jet de sauvegarde de Force pour se déplacer à plus de 30 ft. de vous. Sur un échec, elle ne peut plus se déplacer jusqu'au début de votre tour. Cet effet se termine si vous êtes à plus de 30 ft. de la cible.
 

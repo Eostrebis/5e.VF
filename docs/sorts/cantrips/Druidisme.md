@@ -1,6 +1,6 @@
 ---
 available:
- - Druide
+  - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Druidcraft
 writing_status: finished
+zone: none
+damage: none
 ---
 En murmurant aux esprits de la nature, vous créez l'un des effets suivants à portée : 
 

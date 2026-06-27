@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Grasp of the Grave
 writing_status: finished
+zone: none
+damage: none
 ---
 Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Dispel Evil and good
 writing_status: empty
+zone: none
+damage: none
 ---
 

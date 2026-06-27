@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: End of Days
 writing_status: empty
+zone: none
+damage: none
 ---
 

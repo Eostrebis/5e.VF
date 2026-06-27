@@ -1,8 +1,8 @@
 ---
 available:
- - Sorcière
- - Artificier
- - Druide
+  - Sorcière
+  - Artificier
+  - Druide
 level: 0
 school: Transmutation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Thorn Whip
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un long fouet ressemblant à une liane couvert d'épines qui s'abat à votre commande sur une créature à portée. Réalisez une attaque de sort de mêlée contre la cible. Si l'attaque touche, la créature subit 1d6 dégâts perforants et si la créature est Grande ou plus petite, vous l'attirez de 10 ft. vers vous.
 

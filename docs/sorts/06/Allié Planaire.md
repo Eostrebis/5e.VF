@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 6
 school: Conjuration
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Planar Ally
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous suppliez une entité d'outre-monde pour son aide. L'entité doit vous être connue : un dieu, un primordial, un prince démon ou un autre être au pouvoir cosmique. L'entité envoie un Céleste, un Élémentaire ou un Fiélon qui lui est loyal pour vous aider, la faisant apparaître sur un emplacement non occupé à portée. Si vous connaissez le nom exact d'une créature, vous pouvez prononcer son nom lorsque vous lancez le sort pour solliciter cette créature, bien que cela ne garantisse rien.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Dragon's Breath
 writing_status: empty
+zone: none
+damage: none
 ---
 

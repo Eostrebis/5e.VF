@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Dominate Monster
 writing_status: empty
+zone: none
+damage: none
 ---
 

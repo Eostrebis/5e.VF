@@ -1,8 +1,8 @@
 ---
 available:
- - Nécromancien
- - Sorcière
- - Occultiste
+  - Nécromancien
+  - Sorcière
+  - Occultiste
 level: 0
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Hocuspocus
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous conjurez de légers phénomènes paranormaux et d'autres effets sinistres. Vous créez l'un des effets suivants à portée pendant 1 minute :
 

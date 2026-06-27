@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Haunt
 writing_status: empty
+zone: none
+damage: none
 ---
 

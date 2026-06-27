@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Prismatic Spray
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Skewering Vines
 writing_status: empty
+zone: none
+damage: none
 ---
 

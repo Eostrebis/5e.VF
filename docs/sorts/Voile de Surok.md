@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Shroud of Surok
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 8
 school: Conjuration
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Gahoul's Glorious Gothic
 writing_status: finished
+zone: none
+damage: none
 ---
 Une faille s'ouvre, crachant des tonnes de briques et autres maçonneries qui s'assemblent pour former un large domaine gothique. La bâtisse comporte un manoir avec un coffre, une immense cour de 200 ft. par 200 ft. et une imposante barrière en fer de 10 ft. autour du périmètre. Toutes les créatures à l'intérieur du domaine se voit escortées par des spectres inoffensifs mais puissants.
 

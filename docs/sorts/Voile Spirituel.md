@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level:
 school:
 Verbal: false
@@ -14,5 +14,7 @@ Concentration:
 Rituel:
 englishname: Spirit Shroud
 writing_status: empty
+zone: none
+damage: none
 ---
 

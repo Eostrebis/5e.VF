@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Scatter
 writing_status: empty
+zone: none
+damage: none
 ---
 

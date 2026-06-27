@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Wall of Ooze
 writing_status: empty
+zone: none
+damage: none
 ---
 

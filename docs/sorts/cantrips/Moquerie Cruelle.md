@@ -1,6 +1,6 @@
 ---
 available:
- - Barde
+  - Barde
 level: 0
 school: Enchantement
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Vicious Mockery
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous vous déchaînez dans une série d'insultes subtilement tissées d'enchantements vers une créature que vous pouvez voir à portée. Si la cible peut vous entendre, elle doit réussir un jet de sauvegarde de Sagesse ou subir 1d4 dégâts psychiques et avoir le désavantage à son prochain jet d'attaque qu'elle effectue avant la fin de son prochain tour.
 

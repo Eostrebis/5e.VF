@@ -1,10 +1,10 @@
 ---
 available:
- - Sorcière
- - Nécromancien
- - Barde
- - Ensorceleur
- - Magicien
+  - Sorcière
+  - Nécromancien
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Divination
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Detect Thoughts
 writing_status: finished
+zone: none
+damage: none
 ---
 pendant la durée du sort, vous pouvez lire les pensées de certaines créatures. Lorsque vous incantez le sort et lors de votre action à chaque tour jusqu'à la fin du sort, vous pouvez concentrer votre esprit sur une créature que vous pouvez voir à 30 ft. ou moins de vous. Si la créature choisie possède une Intelligence de 3 ou moins, ou si elle ne parle aucun langage, la créature n'est pas affectée. 
 

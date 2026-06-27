@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 6
 school: Abjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Platinum Shield
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un champ de lumière argenté qui enveloppe une créature de votre choix à portée. Le champ émet une lumière faible sur 5 ft. Tant qu'elle est enveloppée par le champ, la créature bénéficie des effets suivants : 
 

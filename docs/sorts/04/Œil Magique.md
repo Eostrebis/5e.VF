@@ -1,9 +1,9 @@
 ---
 available:
- - Magicien
- - Artificier
- - Nécromancien
- - Sorcière
+  - Magicien
+  - Artificier
+  - Nécromancien
+  - Sorcière
 level: 4
 school: Divination
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Arcane Eye
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un œil magique invisible dans la portée qui flotte dans les airs pendant la durée du sort.
 

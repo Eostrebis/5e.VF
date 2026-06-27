@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Occultiste
- - Ensorceleur
+  - Magicien
+  - Occultiste
+  - Ensorceleur
 level: 3
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Ice Claw Prison
 writing_status: finished
+zone: cube (10)
+damage: multiple
 ---
 Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pendant la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.
 

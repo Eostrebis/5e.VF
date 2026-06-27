@@ -1,12 +1,12 @@
 ---
 available:
- - Clerc
- - Paladin
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
- - Martyr
+  - Clerc
+  - Paladin
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
+  - Martyr
 level: 1
 school: Abjuration
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: true
 Rituel: false
 englishname: Protection from Evil and Good
 writing_status: finished
+zone: none
+damage: none
 ---
 Jusqu'à ce que le sort se termine, une créature consentante que vous touchez est protégée contre certains types de créatures : Aberrations, Célestes, Élémentaires, Fée, Fiélons et Morts-Vivants.
 

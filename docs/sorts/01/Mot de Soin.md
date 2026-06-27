@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Clerc
- - Druide
+  - Barde
+  - Clerc
+  - Druide
 level: 1
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Healing Word
 writing_status: finished
+zone: none
+damage: none
 ---
 Une créature de votre choix que vous pouvez voir à portée regagne un nombre de points de vie égal à 1d4 + votre modificateur d'incantation. Ce sort n'a aucun effet sur les morts-vivants ou les constructions.
 

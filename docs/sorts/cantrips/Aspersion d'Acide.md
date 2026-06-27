@@ -1,11 +1,11 @@
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
- - Nécromancien
- - Sorcière
- - Mage de Guerre
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Nécromancien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: false
 Rituel: false
 englishname: Acid Splash
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous propulsez une bulle d'acide. Choisissez une ou deux créatures que vous pouvez voir dans la portée. Si vous en choisissez deux, elles doivent être à 5 ft. l'une de l'autre. Une cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts d'acide.
 

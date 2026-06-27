@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Rime's Binding Ice
 writing_status: empty
+zone: none
+damage: none
 ---
 

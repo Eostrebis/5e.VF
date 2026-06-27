@@ -1,12 +1,12 @@
 ---
 available:
- - Clerc
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
- - Mage de Guerre
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Conjuration
 Verbal: false
@@ -20,6 +20,8 @@ Concentration: false
 Rituel: false
 englishname: Douse
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous faites un geste, invoquant une gerbe d'eau salée qui s'abat sur une créature ou un objet à portée. Les flammes sont instantanément éteintes, et les objets ciblés par ce sort ne peuvent pas être enflammés pendant au moins une minute. Si vous ciblez une créature, vous pouvez choisir de rendre l'eau salée glaciale. La cible doit alors effectuer un jet de sauvegarde de Constitution. En cas d'échec, elle subit 1d8 dégâts de froid.
 

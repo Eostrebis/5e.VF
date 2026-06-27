@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Jim's Magic Missile
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Hunter's Pace
 writing_status: empty
+zone: none
+damage: none
 ---
 

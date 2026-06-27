@@ -1,7 +1,7 @@
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 5
 school: Abjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Banishing Smite
 writing_status: finished
+zone: none
+damage: none
 ---
 La prochaine fois que vous touchez une créature avec une attaque avec une arme avant que le sort se termine, votre arme déborde d'énergie magique, et l'attaque inflige 5d10 dégâts de force supplémentaire à la cible.
 

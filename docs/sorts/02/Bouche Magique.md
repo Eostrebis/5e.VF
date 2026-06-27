@@ -1,9 +1,9 @@
 ---
 available:
- - Artificier
- - Barde
- - Magicien
- - Investigateur
+  - Artificier
+  - Barde
+  - Magicien
+  - Investigateur
 level: 2
 school: Illusion
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: true
 englishname: Magic Mouth
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous implantez un message dans un objet à portée, un message prononcé lorsque la condition déclencheuse est atteinte. Choisissez un objet que vous pouvez voir et qui n'est pas porté ni manié par une autre créature. Prononcez alors votre message, qui doit être inférieur à 25 mots, bien qu'il puisse prendre jusqu'à 10 minutes pour être prononcé. Enfin, déterminez les circonstances qui déclencheront la délivrance de votre message.
 

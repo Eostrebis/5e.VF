@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Wind Walk
 writing_status: empty
+zone: none
+damage: none
 ---
 

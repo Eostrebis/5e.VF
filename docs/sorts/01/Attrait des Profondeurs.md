@@ -1,7 +1,7 @@
 ---
 available:
- - Clerc
- - Nécromancien
+  - Clerc
+  - Nécromancien
 level: 1
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Might of the Abyss
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous canalisez le pouvoir stygien d'une source extra planaire, améliorant trois créatures autres que vous à portée. Lorsqu'une cible réalise une attaque armée, elle inflige 1d4 dégâts supplémentaires. Si la cible se déplace à plus de 15 ft. de vous, elle perd l'effet jusqu'à être à nouveau dans la zone d'effet.
 

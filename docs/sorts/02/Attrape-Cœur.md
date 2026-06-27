@@ -1,10 +1,10 @@
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
- - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
+  - Nécromancien
 level: 2
 school: Nécromancie
 Verbal: false
@@ -18,6 +18,8 @@ Concentration: false
 Rituel: false
 englishname: Heartripper
 writing_status: finished
+zone: none
+damage: perforant
 ---
 Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perforants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perforants supplémentaires et la cible est [[sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.
 

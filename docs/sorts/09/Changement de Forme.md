@@ -1,7 +1,7 @@
 ---
 available:
- - Druide
- - Magicien
+  - Druide
+  - Magicien
 level: 9
 school: Transmutation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Shapechange
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prenez la forme d'une créature différente pendant la durée du sort. La nouvelle forme peut être celle d'une créature d'un FD égal ou inférieur à votre niveau. La créature ne peut être une Construction ou un Mort-Vivant, et vous devez déjà en avoir vu un individu au moins une fois. Vous vous transformez en un exemplaire *moyen* de l'individu, un sans aucun niveau de classe ou de trait d'Incantation.
 

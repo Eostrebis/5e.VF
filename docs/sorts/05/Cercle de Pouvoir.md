@@ -1,6 +1,6 @@
 ---
 available:
- - Paladin
+  - Paladin
 level: 5
 school: Abjuration
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Circle of Power
 writing_status: finished
+zone: none
+damage: none
 ---
 De l'énergie divine irradie de vous, distordant et diffusant l'énergie magique à 30 ft. de vous. Jusqu'à ce que le sort se termine, la sphère se déplace avec vous, toujours centrée sur vous. Pendant la durée, chaque créature alliée dans la zone a l'avantage à ses jets de sauvegarde contre les sorts et autres effets magiques.
 

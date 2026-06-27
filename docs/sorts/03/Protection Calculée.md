@@ -1,11 +1,11 @@
 ---
 available:
- - Nécromancien
- - Occultiste
- - Sorcière
- - Artificier
- - Barde
- - Investigateur
+  - Nécromancien
+  - Occultiste
+  - Sorcière
+  - Artificier
+  - Barde
+  - Investigateur
 level: 3
 school: Abjuration
 Verbal: true
@@ -19,5 +19,7 @@ Concentration: false
 Rituel: false
 englishname: Resolve's Mantle of Spell Resistance
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous touchez une créature en prononçant le nom exact d'un sort dont vous connaissez la signature magique (au bon vouloir du MJ). La créature est totalement immunisée au sort cité pendant la durée du sort. 

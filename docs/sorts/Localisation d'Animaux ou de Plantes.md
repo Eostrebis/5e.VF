@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Locate Animals or Plants
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,6 +1,6 @@
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 6
 school: Nécromancie
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Corruption Curse
 writing_status: finished
+zone: none
+damage: none
 ---
 En un regard perçant et un geste menaçant, vous envoyez un trait d'énergie maléfique dans le corps de la cible. Une créature que vous pouvez voir à portée est maudite pendant la durée du sort et souffre de l'un des effets suivants de votre choix tant qu'elle est maudite : 
 

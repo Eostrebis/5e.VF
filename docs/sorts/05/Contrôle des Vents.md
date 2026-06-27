@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Transmutation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Control Winds
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pendant la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.
 

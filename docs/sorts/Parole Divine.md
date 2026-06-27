@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Divine Word
 writing_status: empty
+zone: none
+damage: none
 ---
 

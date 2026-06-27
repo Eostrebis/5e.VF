@@ -1,9 +1,9 @@
 ---
 available:
- - Clerc
- - Paladin
- - Investigateur
- - Martyr
+  - Clerc
+  - Paladin
+  - Investigateur
+  - Martyr
 level: 1
 school: Abjuration
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: true
 englishname: Ceremony
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous réalisez une cérémonie religieuse qui est imprégnée de magie. Lorsque vous lancez ce sort, choisissez l'un des rites suivants, dont les cibles doivent se trouver à 10 ft. de vous pendant l'incantation.
 

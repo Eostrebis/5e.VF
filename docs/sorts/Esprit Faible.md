@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Feeblemind
 writing_status: empty
+zone: none
+damage: none
 ---
 

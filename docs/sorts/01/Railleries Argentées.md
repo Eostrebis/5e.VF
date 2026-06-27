@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Silvery Barbs
 writing_status: finished
+zone: none
+damage: none
 ---
 En tant que réaction lorsqu'une créature que vous pouvez voir à 60 ft. réussit un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez la distraire magiquement et transformer ce doute temporaire en encouragement pour une autre créature. La créature qui a déclenché la réaction doit relancer le d20 et utiliser le plus petit des deux résultats.
 

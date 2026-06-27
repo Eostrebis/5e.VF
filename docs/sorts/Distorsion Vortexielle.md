@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Vortex Warp
 writing_status: empty
+zone: none
+damage: none
 ---
 

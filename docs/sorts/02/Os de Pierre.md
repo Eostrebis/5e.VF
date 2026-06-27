@@ -1,12 +1,12 @@
 ---
 available:
- - Investigateur
- - Martyr
- - Nécromancien
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Investigateur
+  - Martyr
+  - Nécromancien
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -20,5 +20,7 @@ Concentration: false
 Rituel: false
 englishname: Stone Bones
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous renforcez magiquement une créature que vous pouvez voir à portée, lui conférant une résistance aux dégâts contondants, perforants et tranchants non magiques jusqu'à la fin de votre prochain tour.

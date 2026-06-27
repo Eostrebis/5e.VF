@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 5
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Holy Weapon
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous imprégnez une arme que vous touchez de votre pouvoir sacré. Jusqu'à ce que le sort se termine, l'arme émet une lumière vive sur 30 ft. et une lumière faible sur 30 ft. supplémentaires. De plus, les attaques armées réalisées avec cette arme infligent 2d8 dégâts radiants supplémentaires lorsqu'elles touchent. Si l'arme n'est pas magique, elle le devient pendant la durée du sort.
 

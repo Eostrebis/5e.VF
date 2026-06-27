@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Wall of Fire
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,12 +1,12 @@
 ---
 available:
- - Clerc
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
+  - Clerc
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 7
 school: Conjuration
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: false
 Rituel: false
 englishname: Plane Shift
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous et jusqu'à 8 créatures consentantes aux mains liées en cercle êtes transportées vers un plan d'existence différent. Vous pouvez préciser la destination cible en termes généraux, comme la Cité de Bronze du Plan Élémentaire du Feu ou le Palace de Dispater au second niveau des Neufs Enfers, et vous apparaissez dans ou proche de la destination, à la discrétion du MJ.
 

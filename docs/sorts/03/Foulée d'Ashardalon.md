@@ -1,10 +1,10 @@
 ---
 available:
- - Ranger
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Ranger
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 3
 school: Transmutation
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Ashardalon's Stride
 writing_status: finished
+zone: none
+damage: feu
 ---
 Les flammes ardentes d'un dragon émanent de vos pieds, vous procurant une vitesse explosive. pendant la durée du sort, votre vitesse augmente de 20 pieds et vos déplacements ne provoquent pas d'attaques d'opportunité.
 

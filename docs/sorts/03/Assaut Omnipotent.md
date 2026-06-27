@@ -1,7 +1,7 @@
 ---
 available:
- - Paladin
- - Martyr
+  - Paladin
+  - Martyr
 level: 3
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Almighty Assault
 writing_status: finished
+zone: none
+damage: radiant
 ---
 Dans le cadre de l'action utilisée pour lancer ce sort, vous devez réaliser une attaque armée de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :
 

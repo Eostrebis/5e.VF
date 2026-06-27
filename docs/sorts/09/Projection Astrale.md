@@ -1,9 +1,9 @@
 ---
 available:
- - Clerc
- - Magicien
- - Occultiste
- - Sorcière
+  - Clerc
+  - Magicien
+  - Occultiste
+  - Sorcière
 level: 9
 school: Nécromancie
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Astral Projection
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astraux dans le Plan Astral (le sort rate et l'incantation est gâchée si vous vous trouvez déjà sur ce plan). Votre corps matériel reste derrière et est [[inconscient]] et dans un état d'animation suspendue; il n'a pas besoin de nourriture ou d'air, et ne vieillit pas.
 

@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Magicien
- - Sorcière
+  - Barde
+  - Magicien
+  - Sorcière
 level: 4
 school: Illusion
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Phantasmal Killer
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous explorez les cauchemars d'une créature que vous pouvez voir à portée et créez une manifestation illusoire de ses peurs les plus profondes, visible seulement par cette créature.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Galder's Speedy Courier
 writing_status: empty
+zone: none
+damage: none
 ---
 

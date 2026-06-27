@@ -1,7 +1,7 @@
 ---
 available:
- - Magicien
- - Ensorceleur
+  - Magicien
+  - Ensorceleur
 level: 6
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Arcane Capacitor
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous canalisez une vague d'énergie arcanique au bout de vos doigts, recyclant le surplus d'énergie en un nouvel emplacement de sort. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 5d10 dégâts de force. Que vous touchiez ou ratiez, vous regagnez un emplacement de sort dépensé de niveau 1.
 

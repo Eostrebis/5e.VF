@@ -1,8 +1,8 @@
 ---
 available:
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 3
 school: Abjuration
 Verbal: false
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Counterspell
 writing_status: finished
+zone: none
+damage: none
 ---
 Comme réaction lorsqu'une créature que vous pouvez voir à 60 ft. lance un sort, vous pouvez essayer d'interrompre le processus d'incantation de la créature. Si la créature lance un sort de niveau 3 ou moins, le sort échoue et n'a aucun effet. Si elle lance un sort de niveau 4 ou plus, effectuez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si vous réussissez, le sort de la créature échoue et n'a aucun effet.
 

@@ -1,6 +1,6 @@
 ---
 available:
- - Martyr
+  - Martyr
 level: 3
 school: Transmutation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Pillar of Salt
 writing_status: finished
+zone: sphere (10)
+damage: nécrotique
 ---
 Vous déchaînez une portion de colère divine sur un point que vous pouvez voir à portée. Chaque créature que vous choisissez dans une sphère de 10 ft. autour de ce point doit effectuer un jet de sauvegarde de Constitution. Sur un échec, la créature subit 7d6 dégâts nécrotiques, ou la moitié en cas de réussite. Si les dégâts réduisent une cible ayant échoué son jet à 0 point de vie, elle est transformée en pilier de sel.
 

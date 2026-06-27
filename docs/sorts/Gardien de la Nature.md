@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Guardian of Nature
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,10 +1,10 @@
 ---
 available:
- - Mage de Guerre
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
+  - Mage de Guerre
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
 level: 0
 school: Évocation
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: false
 Rituel: false
 englishname: Lightning Lure
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un rayon d'énergie de foudre qui frappe une créature de votre choix que vous pouvez voir à 15 ft. de vous. La cible doit réussir un jet de sauvegarde de Force ou être attirée de jusqu'à 10 ft. vers vous en ligne droite puis subir 1d8 dégâts de foudre si elle se trouve à 5 ft. de vous.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Invitation
 writing_status: empty
+zone: none
+damage: none
 ---
 

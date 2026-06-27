@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Magic Jar
 writing_status: empty
+zone: none
+damage: none
 ---
 

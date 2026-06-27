@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 1
 school: Enchantement
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Hex
 writing_status: finished
+zone: none
+damage: nécrotique
 ---
 Vous placez une malédiction sur une créature que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, vous infligez 1d6 dégâts nécrotiques à la cible à chaque fois que vous la touchez avec une attaque. De plus, choisissez une caractéristique lorsque vous lancez ce sort. La cible a le désavantage à tous les jets de caractéristique qu'elle effectue en utilisant la caractéristique choisie.
 

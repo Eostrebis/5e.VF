@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Ensorceleur
- - Sorcière
+  - Magicien
+  - Ensorceleur
+  - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -16,5 +16,7 @@ Concentration: false
 Rituel: false
 englishname: Swift Flight
 writing_status: finished
+zone: none
+damage: none
 ---
 Des pulsations d'énergie émanent du dos d'une créature consentante que vous touchez, traçant des formes d'ailes. La cible gagne une vitesse de vol de 30 ft. jusqu'à la fin de son prochain tour. Lorsque le sort se termine, la cible tombe normalement si elle était dans les airs et que rien ne la retenait.

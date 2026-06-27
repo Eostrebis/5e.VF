@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Investiture of Stone
 writing_status: empty
+zone: none
+damage: none
 ---
 

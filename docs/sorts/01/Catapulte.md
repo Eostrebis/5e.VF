@@ -1,9 +1,9 @@
 ---
 available:
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 1
 school: Transmutation
 Verbal: false
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Catapult
 writing_status: finished
+zone: none
+damage: contondant
 ---
 Choisissez un objet pesant entre 0,5 et 2,5 kilos à portée qui n'est pas porté. L'objet vole en ligne droite sur 90 ft. dans une direction de votre choix avant de s'écraser au sol, s'arrêtant prématurément s'il touche une surface solide. Si l'objet devait toucher une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, l'objet la frappe et s'arrête de bouger. Lorsque l'objet frappe quelque chose, l'objet et la cible subissent chacun 3d6 dégâts contondants.
 

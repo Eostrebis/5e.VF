@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Leomund's Tiny Hut
 writing_status: empty
+zone: none
+damage: none
 ---
 

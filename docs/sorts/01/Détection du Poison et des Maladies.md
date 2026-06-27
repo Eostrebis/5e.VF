@@ -1,11 +1,11 @@
 ---
 available:
- - Clerc
- - Paladin
- - Druide
- - Ranger
- - Investigateur
- - Martyr
+  - Clerc
+  - Paladin
+  - Druide
+  - Ranger
+  - Investigateur
+  - Martyr
 level: 1
 school: Divination
 Verbal: true
@@ -14,11 +14,13 @@ Materiel: true
 detailmat: Une feuille d'if
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Personnelle (rayon de 30 ft.)
+Portee: Personnelle
 Concentration: true
 Rituel: true
 englishname: Detect Poison and Disease
 writing_status: finished
+zone: sphere (30)
+damage: none
 ---
 Pendant la durée du sort, vous pouvez ressentir la présence de poisons, de créatures venimeuses ou de maladies à 30 ft. de vous. Vous pouvez également identifier le type de poison, de créature ou de maladie dans chaque cas.
 

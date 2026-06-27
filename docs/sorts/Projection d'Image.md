@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Project Image
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,10 +1,10 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Magicien
- - Artificier
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Magicien
+  - Artificier
+  - Sorcière
 level: 5
 school: Transmutation
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Skill Empowerment
 writing_status: finished
+zone: none
+damage: none
 ---
 Votre magie vient approfondir chez une créature la compréhension de son propre talent. Vous touchez une créature consentante et lui conférez l'expertise dans une compétence de votre choix ; jusqu'à ce que le sort se termine, la créature double son bonus de maîtrise pour les jets de caractéristique qu'elle effectue en utilisant la compétence choisie.
 

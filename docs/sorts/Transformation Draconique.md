@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Draconic Transformation
 writing_status: empty
+zone: none
+damage: none
 ---
 

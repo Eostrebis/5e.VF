@@ -1,8 +1,8 @@
 ---
 available:
- - Martyr
- - Nécromancien
- - Clerc
+  - Martyr
+  - Nécromancien
+  - Clerc
 level: 1
 school: Nécromancie
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Inflict Wounds
 writing_status: finished
+zone: none
+damage: nécrotique
 ---
 Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 3d10 dégâts nécrotiques. 
 

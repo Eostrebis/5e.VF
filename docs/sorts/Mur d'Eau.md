@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Wall of Water
 writing_status: empty
+zone: none
+damage: none
 ---
 

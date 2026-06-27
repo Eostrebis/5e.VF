@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Maximilian's Earthen Grasp
 writing_status: empty
+zone: none
+damage: none
 ---
 

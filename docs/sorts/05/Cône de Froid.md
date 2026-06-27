@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Cone of Cold
 writing_status: finished
+zone: none
+damage: none
 ---
 Une bourrasque d'air froid surgit de vos mains. Chaque créature dans un cône de 60 ft. doit effectuer un jet de sauvegarde de Constitution. Une créature subit 8d8 dégâts de froid si elle échoue ce jet et la moitié en cas de réussite. Une créature tuée par ce sort devient une statue gelée jusqu'à ce qu'elle fonde.
 

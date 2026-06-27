@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Vampiric Touch
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -1,10 +1,10 @@
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Occultiste
- - Magicien
- - Sorcière
+  - Nécromancien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Sorcière
 level: 1
 school: Évocation
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Witch Bolt
 writing_status: finished
+zone: none
+damage: foudre
 ---
 Un faisceau d'énergie bleue crépitante s'élance vers une créature à portée, formant ainsi un arc électrique entre vous et la cible. Réalisez une attaque de sort à distance contre la créature. Si vous touchez, la cible subit 1d12 dégâts de foudre et, à chacun de vos tours pendant la durée du sort, vous pouvez utiliser votre action pour lui infliger automatiquement 1d12 dégâts de foudre. Le sort se termine si vous utilisez votre action pour faire quoi que ce soit d'autre. Le sort se termine également si la cible se trouve en dehors de la portée ou si elle dispose d'une couverture totale contre vous.
 

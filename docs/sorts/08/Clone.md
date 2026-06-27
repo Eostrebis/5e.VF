@@ -1,7 +1,7 @@
 ---
 available:
- - Nécromancien
- - Magicien
+  - Nécromancien
+  - Magicien
 level: 8
 school: Nécromancie
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Clone
 writing_status: finished
+zone: none
+damage: none
 ---
 Le sort fait *pousser* une copie inerte d'une créature vivante comme moyen de prévention de la mort. Ce clone se crée à l'intérieur du récipient utilisant dans l'incantation du sort et atteint sa taille et sa maturité finale après 120 jours ; vous pouvez également choisir de faire du clone une version plus jeune de la même créature. Il reste inerte indéfiniment, tant que le récipient reste intact.
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Mage de Guerre
- - Artificier
+  - Mage de Guerre
+  - Artificier
 level: 0
 school: Transmutation
 Verbal: true
@@ -15,5 +15,7 @@ Concentration: false
 Rituel: false
 englishname: Quickstep
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous faites appel à vos réserves pour vous conférer brièvement une grande vitesse. Lorsque vous lancez ce sort, votre vitesse de marche augmente de 10 ft. jusqu'au début de votre prochain tour.

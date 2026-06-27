@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Hellfire Lash
 writing_status: empty
+zone: none
+damage: none
 ---
 

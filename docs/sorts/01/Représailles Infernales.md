@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 1
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Hellish Rebuke
 writing_status: finished
+zone: none
+damage: feu
 ---
 Lorsque vous subissez des dégâts d'une créature que vous pouvez voir à portée, vous pouvez pointer votre doigt vers la créature vous ayant blessé se voit entourée de flammes infernales. La créature doit effectuer un jet de sauvegarde de Dextérité. Elle subit 2d10 dégâts de feu en cas d'échec, et la moitié en cas de réussite.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Danse Macabre
 writing_status: empty
+zone: none
+damage: none
 ---
 

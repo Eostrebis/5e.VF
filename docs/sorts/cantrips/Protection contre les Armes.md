@@ -1,12 +1,12 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
- - Mage de Guerre
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
+  - Mage de Guerre
 level: 0
 school: Abjuration
 Verbal: true
@@ -20,5 +20,7 @@ Concentration: false
 Rituel: false
 englishname: Blade Ward
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez une résistance contre les dégâts contondants, perforants et tranchants infligés par des attaques à main armée.

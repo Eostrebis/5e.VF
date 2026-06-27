@@ -1,6 +1,6 @@
 ---
 available:
- - Magicien
+  - Magicien
 level: 1
 school: Évocation
 Verbal: true
@@ -9,11 +9,13 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: Personnelle (cône de 15 ft.)
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Frost Fingers
 writing_status: finished
+zone: cone (15)
+damage: froid
 ---
 Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Constitution et subir 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.
 

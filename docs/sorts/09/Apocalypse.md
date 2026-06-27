@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Ensorceleur
- - Occultiste
+  - Clerc
+  - Ensorceleur
+  - Occultiste
 level: 9
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Armageddon
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous incantez une série d'ordres, faisant appel à la moindre faveur et à la moindre force que vous pouvez mobiliser, vous préparant à briser la réalité. Vous ne pouvez pas vous déplacer pendant que vous lancez ce sort. Chaque créature à portée sait que vous lancez ce sort, est consciente des conséquences et connaît votre position exacte pendant toute la durée de l'incantation.
 

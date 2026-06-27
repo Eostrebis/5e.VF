@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Tiny Servant
 writing_status: empty
+zone: none
+damage: none
 ---
 

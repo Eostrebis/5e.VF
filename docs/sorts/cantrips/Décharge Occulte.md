@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 0
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Eldritch Blast
 writing_status: finished
+zone: none
+damage: none
 ---
 Un rayon d'énergie fond sur une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts de force.
 

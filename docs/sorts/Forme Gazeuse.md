@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Gaseous Form
 writing_status: empty
+zone: none
+damage: none
 ---
 

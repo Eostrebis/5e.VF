@@ -1,7 +1,7 @@
 ---
 available:
- - Druide
- - Sorcière
+  - Druide
+  - Sorcière
 level: 2
 school: Conjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Petal Storm
 writing_status: finished
+zone: cube (15)
+damage: tranchant
 ---
 Choisissez un cube d'air inoccupé de 15 ft. de côté que vous pouvez voir à portée. Une force élémentaire de vents violents apparaît dans le cube et persiste pendant la durée du sort. Le nuage obscurcit fortement la zone.
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Magicien
- - Investigateur
+  - Magicien
+  - Investigateur
 level: 2
 school: Illusion
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Arcanist's Magic Aura
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous placez une illusion sur une créature ou un objet que vous touchez de telle sorte que les sorts de divination révèlent de fausses informations à son propos. La cible peut être une créature consentante ou un objet qui n'est pas porté par une autre créature.
 

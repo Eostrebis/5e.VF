@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Spirit Guardians
 writing_status: empty
+zone: none
+damage: none
 ---
 

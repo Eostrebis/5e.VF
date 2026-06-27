@@ -1,9 +1,9 @@
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
- - Artificier
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
+  - Artificier
 level: 2
 school: Transmutation
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Enlarge/Reduce
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous faites en sorte qu'une créature ou un objet que vous pouvez voir à portée change de taille pendant la durée de ce sort. Choisissez une créature ou un objet qui n'est pas porté. Si la cible n'est pas consentante, elle peut effectuer un jet de sauvegarde de Constitution. Si elle réussit, le sort n'a pas d'effet.
 

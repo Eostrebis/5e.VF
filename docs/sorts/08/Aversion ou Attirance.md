@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Magicien
- - Sorcière
+  - Druide
+  - Magicien
+  - Sorcière
 level: 8
 school: Enchantement
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Antipathy/Sympathy
 writing_status: finished
+zone: none
+damage: none
 ---
 Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pendant la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.
 

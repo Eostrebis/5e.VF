@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Druide
- - Ranger
- - Magicien
+  - Barde
+  - Druide
+  - Ranger
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Longstrider
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous touchez une créature. La vitesse de la cible est augmentée de 10 ft. jusqu'à ce que le sort se termine.
 

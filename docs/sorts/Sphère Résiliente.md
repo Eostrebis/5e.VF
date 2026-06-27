@@ -13,6 +13,8 @@ Concentration:
 Rituel:
 englishname:
 writing_status: empty
+zone: none
+damage: none
 ---
 
 

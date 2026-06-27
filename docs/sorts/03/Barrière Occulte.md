@@ -1,6 +1,6 @@
 ---
 available:
- - Occultiste
+  - Occultiste
 level: 3
 school: Abjuration
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Eldritch Barrier
 writing_status: finished
+zone: none
+damage: force
 ---
 Lorsque vous lancez ce sort, vous vous protégez des énergies contre-nature. Vous avez l'avantage aux jets de sauvegarde contre les états [[charmé]] et [[apeuré]]. Vous obtenez une résistance aux dégâts de force et aux dégâts psychiques. De plus, chaque fois que vous subissez des dégâts provenant d'une attaque infligeant des dégâts de force ou psychiques, vous pouvez utiliser votre réaction pour infliger 1d8 dégâts de force à votre attaquant.
 

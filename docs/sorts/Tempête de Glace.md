@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Ice Storm
 writing_status: empty
+zone: none
+damage: none
 ---
 

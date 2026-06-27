@@ -1,10 +1,10 @@
 ---
 available:
- - Clerc
- - Paladin
- - Ensorceleur
- - Occultiste
- - Martyr
+  - Clerc
+  - Paladin
+  - Ensorceleur
+  - Occultiste
+  - Martyr
 level: 4
 school: Transmutation
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: true
 Rituel: false
 englishname: Dark Empowerment
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous canalisez de l'énergie ténébreuse dans votre corps, déformant votre apparence et vous rendant terrifiant à contempler. Votre taille devient Grande si elle était inférieure, et votre équipement s'agrandit pour s'adapter à votre nouvelle forme. S'il n'y a pas suffisamment d'espace, vous grandissez autant que possible sans danger.
 

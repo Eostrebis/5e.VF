@@ -1,8 +1,8 @@
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Cloudkill
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.
 

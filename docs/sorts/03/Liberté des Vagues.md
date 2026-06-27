@@ -1,9 +1,9 @@
 ---
 available:
- - Druide
- - Ranger
- - Ensorceleur
- - Sorcière
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Sorcière
 level: 3
 school: Conjuration
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Freedom of the Waves
 writing_status: finished
+zone: cylindre (10,15)
+damage: none
 ---
 Vous conjurez un déluge d'eau de mer dans un rayon de 15 ft. et sur une hauteur de 10 ft. centré sur un point que vous pouvez voir à portée. Cette eau prend la forme d'un raz-de-marée, d'un tourbillon, d'un geyser ou n'importe quelle autre forme de votre choix. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Force contre votre DD de sauvegarde de sort ou subir 2d8 dégâts contondants et tomber [[au sol]]. Vous pouvez choisir un nombre de créatures égal à votre modificateur d'incantation (au moins 1) qui réussissent automatiquement ce jet de sauvegarde.
 

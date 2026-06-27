@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Knock
 writing_status: empty
+zone: none
+damage: none
 ---
 

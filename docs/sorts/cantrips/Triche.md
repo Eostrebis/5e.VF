@@ -1,12 +1,12 @@
 ---
 available:
- - Nécromancien
- - Mage de Guerre
- - Sorcière
- - Barde
- - Occultiste
- - Ensorceleur
- - Magicien
+  - Nécromancien
+  - Mage de Guerre
+  - Sorcière
+  - Barde
+  - Occultiste
+  - Ensorceleur
+  - Magicien
 level: 0
 school: Divination
 Verbal: false
@@ -20,5 +20,7 @@ Concentration: false
 Rituel: false
 englishname: Cheat
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous jouez habilement de vos doigts, et la chance semble être avec vous. Pendant la durée du sort, vous pouvez relancer tous les jets de caractéristique que vous effectuez afin de jouer à des jeux non magiques. Ainsi, ce sort peut influencer une partie de poker, mais pas le tirage d'une carte du [[Deck de Multiples Choses]].

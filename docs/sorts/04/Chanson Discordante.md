@@ -1,6 +1,6 @@
 ---
 available:
- - Barde
+  - Barde
 level: 4
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Shattersong
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous chantez une chanson discordante imprégnée de pouvoir magique. Lorsque vous lancez ce sort, les vibrations que vous causez commencent à déformer la réalité dans un rayon de 10 ft. centré sur vous. Les créatures que vous choisissez ainsi que les objets qui ne sont ni portés ni maniés dans la zone subissent 2d6 dégâts de tonnerre et les créatures doivent effectuer un jet de sauvegarde de Force. En cas d'échec, elles tombent [[au sol]].
 

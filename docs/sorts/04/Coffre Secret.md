@@ -1,7 +1,7 @@
 ---
 available:
- - Magicien
- - Nécromancien
+  - Magicien
+  - Nécromancien
 level: 4
 school: Conjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Secret Chest
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous cachez un coffre, ainsi que tout son contenu, sur le Plan Éthéré. Vous devez toucher le coffre et la réplique miniature qui servent de composantes matérielles pour le sort. Le coffre peut contenir jusqu'à 12 ft$^3$. de matériel non vivant (3 ft. par 2 ft. par 2 ft.).
 

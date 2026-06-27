@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Tasha's Caustic Brew
 writing_status: empty
+zone: none
+damage: none
 ---
 

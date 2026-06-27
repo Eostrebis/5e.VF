@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Major Image
 writing_status: empty
+zone: none
+damage: none
 ---
 

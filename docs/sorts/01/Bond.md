@@ -1,10 +1,10 @@
 ---
 available:
- - Artificier
- - Druide
- - Ranger
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Druide
+  - Ranger
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -18,5 +18,7 @@ Concentration: false
 Rituel: false
 englishname: Jump
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous touchez une créature. La distance de saut de cette créature est triplée jusqu'à ce que le sort se termine.

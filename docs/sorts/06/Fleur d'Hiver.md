@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 6
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Winter Flower
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous faites éclore une Très Petite fleur blanche à un point du sol que vous pouvez voir à portée. La fleur a une CA de 15, 1 point de vie, la vulnérabilité aux dégâts de feu et l'immunité aux dégâts de froid. Pendant la durée du sort, vous pouvez utiliser une action bonus pour la faire exploser en une pluie de glace. La fleur explose lorsqu'elle tombe à 0 point de vie.
 

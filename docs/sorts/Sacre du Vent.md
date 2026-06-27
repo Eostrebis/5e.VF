@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Investiture of Wind
 writing_status: empty
+zone: none
+damage: none
 ---
 

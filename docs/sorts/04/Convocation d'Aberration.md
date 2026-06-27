@@ -1,7 +1,7 @@
 ---
 available:
- - Occultiste
- - Magicien
+  - Occultiste
+  - Magicien
 level: 4
 school: Conjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Summon Aberration
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous appelez un esprit aberrant. Celui-ci se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques d'un [[esprit aberrant, créature|esprit aberrant]]. Lorsque vous lancez ce sort, choisissez entre Tyrannœil, Slaad ou Rejeton Stellaire. La créature ressemble à s'y méprendre à une aberration de cette catégorie, ce qui détermine certains traits de ses statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 

@@ -1,9 +1,9 @@
 ---
 available:
- - Sorcière
- - Barde
- - Occultiste
- - Magicien
+  - Sorcière
+  - Barde
+  - Occultiste
+  - Magicien
 level: 3
 school: Enchantement
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Curse of Blades
 writing_status: finished
+zone: none
+damage: none
 ---
 Des bandes d'énergie noire occulte lient une créature à son arme. Choisissez une créature que vous pouvez voir à portée qui tient une arme. La cible doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Une cible maudite ne peut pas volontairement ranger ou lâcher son arme. De plus, lorsqu'elle utilise son action pour attaquer pendant son tour, elle doit réaliser une attaque supplémentaire contre elle-même en utilisant son arme. Cette attaque utilise sa propre CA et les dégâts normaux.
 

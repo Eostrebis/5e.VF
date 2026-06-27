@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 3
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Fireball
 writing_status: finished
+zone: sphere (20)
+damage: feu
 ---
 Un éclair lumineux s'échappe de votre doigt pointé vers un point que vous choisissez à portée avant de se transformer en explosion de flammes dans un lourd grondement. Chaque créature dans un rayon de 20 ft. doit effectuer un jet de sauvegarde de Dextérité. Une cible subit 8d6 dégâts de feu si elle échoue son jet ou la moitié en cas de réussite. Les flammes contournent les angles et enflamment les objets inflammables dans la zone qui ne sont ni portés ni maniés.
 

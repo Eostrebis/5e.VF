@@ -1,8 +1,8 @@
 ---
 available:
- - Barde
- - Occultiste
- - Magicien
+  - Barde
+  - Occultiste
+  - Magicien
 level: 7
 school: Évocation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: false
 englishname: Forcecage
 writing_status: finished
+zone: none
+damage: none
 ---
 Une prison faite de force magique de la forme d'un cube, invisible et immobile, apparaît autour d'une zone de votre choix à portée. La prison peut être une cage ou une boîte solide, au choix.
 

@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 1
 school: Enchantement
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Bless
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous bénissez jusqu'à trois créatures de votre choix à portée. À chaque fois qu'une de ces créatures effectue un jet d'attaque ou de sauvegarde avant la fin du sort, elle peut lancer un d4 et ajouter le résultat obtenu à son jet.
 

@@ -1,6 +1,6 @@
 ---
 available:
- - Druide
+  - Druide
 level: 5
 school: Évocation
 Verbal: false
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Unstoppable Ascent
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous tentez de projeter une créature dans les airs, la faisant passer partiellement dans le plan éthéré. Effectuez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, vous saisissez la cible et la projetez jusqu'à 150 ft. directement vers le haut. La créature traverse les obstacles sans être gênée et sans subir de dégâts.
 

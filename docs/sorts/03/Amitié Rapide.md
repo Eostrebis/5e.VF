@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Clerc
- - Magicien
- - Sorcière
+  - Barde
+  - Clerc
+  - Magicien
+  - Sorcière
 level: 3
 school: Enchantement
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Fast Friends
 writing_status: finished
+zone: none
+damage: none
 ---
 Lorsque vous lancez ce sort, choisissez un humanoïde à portée qui peut vous voir, vous entendre et vous comprendre. La créature doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] par vous pendant la durée du sort. Tant que la créature est [[charmé|charmée]] de cette façon, elle essaye d'accomplir tout service ou tâche que vous lui demandez de réaliser de façon amicale, au mieux de ses capacités.
 

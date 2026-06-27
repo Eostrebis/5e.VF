@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Flame Strike
 writing_status: empty
+zone: none
+damage: none
 ---
 

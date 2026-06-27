@@ -14,6 +14,8 @@ Rituel:
 englishname: Slow
 writing_status: empty
 tags:
- - chronomancie
+  - chronomancie
+zone: none
+damage: none
 ---
 

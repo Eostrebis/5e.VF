@@ -1,10 +1,10 @@
 ---
 available:
- - Sorcière
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: false
 Rituel: false
 englishname: Aberrate
 writing_status: finished
+zone: none
+damage: none
 ---
 Ce sort fluidifie votre anatomie, qui change constamment en des formes toujours plus horribles. Pendant la durée du sort, vous ne subissez pas de dégâts supplémentaires des dégâts critiques.
 

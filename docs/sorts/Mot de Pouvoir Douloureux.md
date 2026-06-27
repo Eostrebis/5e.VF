@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Power Word Pain
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Shrill Whistle
 writing_status: empty
+zone: none
+damage: none
 ---
 

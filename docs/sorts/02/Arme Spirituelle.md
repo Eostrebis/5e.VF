@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 2
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Spiritual Weapon
 writing_status: finished
+zone: none
+damage: force
 ---
 Vous créez à portée une arme spectrale flottante qui persiste pendant la durée du sort ou jusqu'à ce que vous le relanciez.
 

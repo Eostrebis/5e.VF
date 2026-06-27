@@ -1,7 +1,7 @@
 ---
 available:
- - Paladin
- - Ranger
+  - Paladin
+  - Ranger
 level: 1
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Searing Smite
 writing_status: finished
+zone: none
+damage: feu
 ---
 La prochaine fois que vous touchez une créature avec une attaque armée de mêlée pendant la durée du sort, votre arme reluit d'une chaleur de l'acier blanc, et l'attaque inflige 1d6 dégâts de feu supplémentaires à la cible et l'embrase.
 

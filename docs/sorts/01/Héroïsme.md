@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Paladin
- - Martyr
- - Investigateur
+  - Barde
+  - Paladin
+  - Martyr
+  - Investigateur
 level: 1
 school: Enchantement
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Heroism
 writing_status: finished
+zone: none
+damage: none
 ---
 Une créature consentante que vous touchez se voit remplie de bravoure. Jusqu'à ce que le sort se termine, la créature ne peut pas être [[apeuré|apeurée]] et gagne un nombre de points de vie temporaires égal à votre modificateur de caractéristique d'incantation au début de chacun de ses tours. Lorsque le sort se termine, la cible perd les points de vie temporaires qu'il lui resterait.
 

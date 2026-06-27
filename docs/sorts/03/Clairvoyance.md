@@ -1,8 +1,8 @@
 ---
 available:
- - Investigateur
- - Nécromancien
- - Sorcière
+  - Investigateur
+  - Nécromancien
+  - Sorcière
 level: 3
 school: Divination
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Clairvoyance
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un senseur invisible à portée dans un endroit qui vous est familier (un endroit que vous avez vu ou visité auparavant) ou dans un endroit évident qui ne vous est pas familier (comme derrière une porte, juste derrière un coin ou dans la cime d'un arbre). Le senseur reste en place pendant la durée du sort et il ne peut être attaqué et on ne peut interagir avec lui.
 

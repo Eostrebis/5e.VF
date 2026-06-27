@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Druide
- - Magicien
+  - Clerc
+  - Druide
+  - Magicien
 level: 4
 school: Transmutation
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Control Water
 writing_status: finished
+zone: none
+damage: none
 ---
 Jusqu'à ce que le sort se termine, vous contrôlez l'eau libre de son mouvement dans une zone que vous choisissez qui est un cube de 100 ft. de côté. Vous pouvez choisir n'importe lequel des effets suivants lorsque vous lancez ce sort. Pour une action pendant votre tour, vous pouvez répéter cet effet ou en choisir un autre.
 

@@ -1,9 +1,9 @@
 ---
 available:
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 6
 school: Nécromancie
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Soul Cage
 writing_status: finished
+zone: none
+damage: none
 ---
 Comme réaction alors qu'un humanoïde que vous pouvez voir à 60 ft. meurt, ce sort arrache l'âme d'un humanoïde au moment de sa mort et la piège dans la petite cage que vous utilisez comme composante matérielle. Une âme volée reste dans la cage jusqu'à ce que le sort se termine ou que vous ne détruisiez la cage, ce qui termine le sort. Tant que vous avez une âme dans la cage, vous pouvez l'exploiter des façons ci-après. Vous pouvez utiliser une âme piégée jusqu'à six fois. Une fois que vous avez exploité une âme pour la sixième fois, elle est libérée et le sort se termine. Tant qu'une âme est piégée, l'humanoïde mort dont elle provient ne peut être ramené à la vie.
 

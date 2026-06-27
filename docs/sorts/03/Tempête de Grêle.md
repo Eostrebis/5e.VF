@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 3
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Sleet Storm
 writing_status: finished
+zone: cylindre (20, 40)
+damage: none
 ---
 jusqu'à ce que le sort se termine, une pluie gelée et du grésil tombent dans un cylindre d'un rayon de 40 ft. et haut de 20 ft. centré sur un point que vous choisissez à portée. La zone est fortement obscurée et les flammes exposées dans la zone sont éteintes.
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Illusion
 Verbal: true
@@ -10,11 +10,13 @@ Materiel: true
 detailmat: Une pincée de poudre ou de sable teintée de rouge, de jaune et de bleu
 Duree: 1 Tour
 Incantation: 1 Action
-Portee: Personnelle (rayon de 15 ft.)
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Color Spray
 writing_status: finished
+zone: cone (15)
+damage: none
 ---
 Une variété de lumières scintillantes et de toutes les couleurs s'envolent de votre main. Lancez 6d10, le total correspond au nombre de points de vie des créatures que vous pouvez affecter. Les créatures se trouvant dans un cône de 15 ft. émanant de vous sont affectées dans l'ordre croissant de leurs points de vie actuels (en ignorant les créatures [[inconscient|inconscientes]] et celles qui ne peuvent pas voir).
 

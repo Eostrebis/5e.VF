@@ -1,6 +1,6 @@
 ---
 available:
- - Clerc
+  - Clerc
 level: 0
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Sacred Flame
 writing_status: finished
+zone: none
+damage: none
 ---
 Une radiance ressemblant à des flammes s'abat sur une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts radiants. La cible ne gagne aucun bénéfice d'une quelconque couverture contre ce jet de sauvegarde.
 

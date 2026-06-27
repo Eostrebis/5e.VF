@@ -1,6 +1,6 @@
 ---
 available:
- - Sorcière
+  - Sorcière
 level: 1
 school: Enchantement
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Accursed Act
 writing_status: finished
+zone: none
+damage: psychique
 ---
 Tout en allumant une bougie, vous prononcez des malédictions dans une langue morte, en direction d'une créature que vous pouvez voir à portée. La créature doit réussir un jet de sauvegarde de Sagesse ou être maudite pendant la durée du sort. Tant qu'elle est maudite, la créature subit 1d8 + votre modificateur de caractéristique d'incantation dégâts psychiques une fois par tour, lorsqu'elle attaque ou lance un sort. Si la cible n'attaque pas et ne lance pas de sorts pendant son tour, elle peut répéter le jet de sauvegarde à la fin de son tour. Une [[délivrance des malédictions]] termine la malédiction prématurément.
 

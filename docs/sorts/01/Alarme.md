@@ -1,10 +1,10 @@
 ---
 available:
- - Ranger
- - Magicien
- - Artificier
- - Investigateur
- - Nécromancien
+  - Ranger
+  - Magicien
+  - Artificier
+  - Investigateur
+  - Nécromancien
 level: 1
 school: Abjuration
 Verbal: true
@@ -18,6 +18,8 @@ Concentration: false
 Rituel: true
 englishname: Alarm
 writing_status: finished
+zone: cube (20)
+damage: none
 ---
 Vous mettez en place une alarme contre des intrusions. Choisissez une porte, une fenêtre, ou une zone à portée qui n'est pas plus grande qu'un cube d'arête de 20 ft. Jusqu'à ce que le sort se termine, une alarme vous alerte dès qu'une créature de taille supérieure à Très Petite (TP) touche ou pénètre la zone surveillée. Lorsque vous lancez le sort, vous pouvez désigner des créatures qui ne déclencheront pas l'alarme. Vous pouvez aussi décider si l'alarme est mentale, ou audible.
 

@@ -1,12 +1,12 @@
 ---
 available:
- - Clerc
- - Ensorceleur
- - Mage de Guerre
- - Occultiste
- - Magicien
- - Sorcière
- - Nécromancien
+  - Clerc
+  - Ensorceleur
+  - Mage de Guerre
+  - Occultiste
+  - Magicien
+  - Sorcière
+  - Nécromancien
 level: 0
 school: Évocation
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: false
 Rituel: false
 englishname: Scorch
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous claquez des doigts, essayant de mettre feu à un objet libre à portée. Si vous ciblez un objet inflammable, l'objet s'embrase immédiatement. Choisissez jusqu'à deux créatures à 5 ft. de l'objet. Chacune doit effectuer un jet de sauvegarde de Dextérité. Si une créature échoue, elle subit 1d8 dégâts de feu.
 

@@ -1,6 +1,6 @@
 ---
 available:
- - Nécromancien
+  - Nécromancien
 level: 6
 school: Nécromancie
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Gahoul's Spectral Scythe
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous invoquez une faux phantasmagorique de mort dans une main libre et la faites tournoyer dans les airs. La faux se déplace le long d'une ligne de 60 ft. large de 10 ft., se mettant à flotter au bout de la ligne ou avant de toucher un objet solide. Chaque créature dans la zone tant que la faux bouge doit effectuer un jet de sauvegarde de Dextérité ou subir 6d8 dégâts nécrotiques, ou la moitié en cas de réussite. Une créature a le désavantage à ce jet si la faux s'arrête sur son espace.
 

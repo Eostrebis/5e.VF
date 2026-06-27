@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Summon Slime
 writing_status: empty
+zone: none
+damage: none
 ---
 

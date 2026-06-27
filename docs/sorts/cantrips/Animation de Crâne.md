@@ -1,12 +1,12 @@
 ---
 available:
- - Barde
- - Clerc
- - Nécromancien
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
+  - Barde
+  - Clerc
+  - Nécromancien
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
 level: 0
 school: Nécromancie
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: false
 Rituel: false
 englishname: Animate Skull
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous imprégnez un crâne de magie nécromantique, lui conférant un semblant de vie inquiétant. Lorsque vous lancez ce sort, vous pouvez prononcer une phrase de 10 mots ou moins. Chaque fois qu'une créature touche le crâne ou pénètre dans un espace à moins de 5 ft. de lui, le crâne prononce la phrase.
 

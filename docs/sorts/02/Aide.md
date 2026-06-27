@@ -1,11 +1,11 @@
 ---
 available:
- - Clerc
- - Paladin
- - Artificier
- - Martyr
- - Ranger
- - Barde
+  - Clerc
+  - Paladin
+  - Artificier
+  - Martyr
+  - Ranger
+  - Barde
 level: 2
 school: Abjuration
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: false
 Rituel: false
 englishname: Aid
 writing_status: finished
+zone: none
+damage: none
 ---
 Le sort emplit vos alliés de robustesse et de résolution. Choisissez jusqu'à trois créatures à portée. Le maximum de points de vie et les points de vie actuels de chaque cible augmentent de 5 pendant la durée du sort.
 

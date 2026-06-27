@@ -1,10 +1,10 @@
 ---
 available:
- - Investigateur
- - Sorcière
- - Barde
- - Druide
- - Magicien
+  - Investigateur
+  - Sorcière
+  - Barde
+  - Druide
+  - Magicien
 level: 3
 school: Transmutation
 Verbal: true
@@ -13,11 +13,13 @@ Materiel: false
 detailmat:
 Duree: 10 Minutes
 Incantation: 1 Action
-Portee: Personnelle (rayon de 30 ft.)
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Speak with Plants
 writing_status: finished
+zone: sphere (30)
+damage: none
 ---
 Vous imprégnez les plantes dans un rayon de 30 ft. autour de vous avec une conscience limitée et les animez, leur conférant la capacité de communiquer avec vous et de suivre des ordres simples. Vous pouvez interroger les plantes sur les évènements qui se sont déroulés dans la zone du sort pendant le dernier jour, obtenant des informations sur les créatures qui y sont passées, la météo ou d'autres circonstances.
 

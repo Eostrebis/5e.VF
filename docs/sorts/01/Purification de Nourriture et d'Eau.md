@@ -1,10 +1,10 @@
 ---
 available:
- - Clerc
- - Druide
- - Paladin
- - Martyr
- - Investigateur
+  - Clerc
+  - Druide
+  - Paladin
+  - Martyr
+  - Investigateur
 level: 1
 school: Transmutation
 Verbal: true
@@ -18,5 +18,7 @@ Concentration: false
 Rituel: true
 englishname: Purify Food and Drink
 writing_status: finished
+zone: sphere (5)
+damage: none
 ---
 Toutes les nourritures et boissons dans une sphère de 5 ft. de rayon centrée sur un point de votre choix à portée sont purifiées et débarrassées de poison et de maladie.

@@ -1,11 +1,11 @@
 ---
 available:
- - Barde
- - Ensorceleur
- - Occultiste
- - Magicien
- - Investigateur
- - Sorcière
+  - Barde
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Investigateur
+  - Sorcière
 level: 1
 school: Divination
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: false
 Rituel: true
 englishname: Comprehend Languages
 writing_status: finished
+zone: none
+damage: none
 ---
 Pendant la durée du sort, vous comprenez le sens strict de n'importe quelle langue que vous entendez. Vous comprenez également n'importe quelle langue écrite que vous lisez, mais vous devez toucher la surface sur laquelle les mots sont écrits. Cela vous prend environ 1 minute de lire une page de texte.
 

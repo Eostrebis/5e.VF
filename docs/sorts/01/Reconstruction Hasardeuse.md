@@ -1,9 +1,9 @@
 ---
 available:
- - Nécromancien
- - Sorcière
- - Occultiste
- - Magicien
+  - Nécromancien
+  - Sorcière
+  - Occultiste
+  - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Flawed Reconstruction
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous refermez comme vous pouvez les plaies d'une créature consentante que vous touchez, qui regagne 4d6 points de vie. Cependant, la réparation est imparfaite, et les points de vie maximums de la cible sont réduits du même montant jusqu'à ce qu'elle termine un repos long. Une créature qui regagne des points de vie de cette façon garde de vilaines cicatrices.
 

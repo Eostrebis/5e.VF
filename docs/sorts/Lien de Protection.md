@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Warding Bond
 writing_status: empty
+zone: none
+damage: none
 ---
 

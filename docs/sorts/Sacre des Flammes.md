@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Investiture of Flame
 writing_status: empty
+zone: none
+damage: none
 ---
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Bigby's Hand
 writing_status: empty
+zone: none
+damage: none
 ---
 (Voir [[Main Magique]])

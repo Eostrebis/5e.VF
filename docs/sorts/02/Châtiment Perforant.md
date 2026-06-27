@@ -1,6 +1,6 @@
 ---
 available:
- - Paladin
+  - Paladin
 level: 2
 school: Évocation
 Verbal: true
@@ -15,6 +15,8 @@ Rituel: false
 englishname: Perforating Smite
 writing_status: finished
 tags:
- - renaissance
+  - renaissance
+zone: none
+damage: none
 ---
 La prochaine fois que vous réalisez une attaque avec une arme à feu avant que le sort se termine, le coup est chargé d'un puissant pouvoir. Plutôt que de réaliser une attaque contre une seule cible, le tir devient une ligne large de 5 ft. qui s'étend de vous jusqu'à la portée normale de l'arme. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité. Une créature subit les dégâts normaux en cas d'échec, et la moitié en cas de réussite.

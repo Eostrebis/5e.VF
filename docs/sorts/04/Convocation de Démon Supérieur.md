@@ -1,9 +1,9 @@
 ---
 available:
- - Occultiste
- - Magicien
- - Nécromancien
- - Sorcière
+  - Occultiste
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 4
 school: Conjuration
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel:
 englishname: Summon Greater Demon
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prononcez quelques mots impies, invoquant un démon du chaos des Abysses. Vous choisissez le type du démon, qui doit être d'un FD de 5 ou moins (voir [ici](https://www.dndbeyond.com/monsters?filter-cr-max=9&filter-cr-min=1&filter-partnered-content=f&filter-search=&filter-sub-types=9&filter-type=0&page=2)). Le démon apparaît dans un espace inoccupé que vous pouvez voir à portée et disparaît lorsqu'il tombe à 0 point de vie ou que le sort se termine.
 

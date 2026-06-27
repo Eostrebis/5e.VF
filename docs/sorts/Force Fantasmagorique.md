@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Phantasmal Force
 writing_status: empty
+zone: none
+damage: none
 ---
 

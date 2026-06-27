@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Flock of Familiars
 writing_status: empty
+zone: none
+damage: none
 ---
 

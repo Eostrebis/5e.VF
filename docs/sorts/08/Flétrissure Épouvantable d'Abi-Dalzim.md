@@ -1,9 +1,9 @@
 ---
 available:
- - Ensorceleur
- - Magicien
- - Nécromancien
- - Sorcière
+  - Ensorceleur
+  - Magicien
+  - Nécromancien
+  - Sorcière
 level: 8
 school: Nécromancie
 Verbal: true
@@ -17,6 +17,8 @@ Materiel: true
 Portee: 150 ft.(30 ft.)
 englishname: Abi-Dalzim's Horrid Wilting
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous absorbez l'humidité de toutes les créatures dans un cube de 30 ft. centré sur un point de votre choix dans la portée. Chacune de ces créatures doit effectuer un jet de sauvegarde de Constitution. Les Constructions et les Morts-Vivants ne sont pas concernés, et les Plantes et les Élémentaires d'eau effectuent ce jet avec désavantage. Une créature subit 12d8 dégâts nécrotiques en cas d'échec, et la moitié en cas de succès.
 

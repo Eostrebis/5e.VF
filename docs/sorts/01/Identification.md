@@ -1,9 +1,9 @@
 ---
 available:
- - Barde
- - Magicien
- - Nécromancien
- - Investigateur
+  - Barde
+  - Magicien
+  - Nécromancien
+  - Investigateur
 level: 1
 school: Divination
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: true
 englishname: Identify
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous choisissez un objet que vous devez toucher pendant toute l'incantation du sort. Si c'est un objet magique ou un objet imprégné de magie, vous apprenez ses propriétés et comment les utiliser, s'il demande d'y être lié pour être utilisé, et combien de charges il possède, si cela est pertinent. Vous apprenez également si des sorts affectent l'objet et lesquels. Si l'objet a été créé par un sort, vous apprenez quel sort l'a créé.
 

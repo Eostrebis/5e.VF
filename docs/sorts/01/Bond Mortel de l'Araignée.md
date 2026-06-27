@@ -1,7 +1,7 @@
 ---
 available:
- - Ranger
- - Nécromancien
+  - Ranger
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -15,5 +15,7 @@ Concentration: false
 Rituel: false
 englishname: Falling Spider's Spite
 writing_status: finished
+zone: none
+damage: none
 ---
 Pour une réaction lorsqu'un ennemi tombe [[au sol]] dans votre allonge, vous pouvez instantanément bondir vers la créature et réaliser une unique attaque armée de mêlée. Si vous touchez, la vitesse de la cible est réduite de 10 ft. jusqu'à la fin de son prochain tour et elle doit réussir un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.

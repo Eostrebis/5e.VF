@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Skyward Rise
 writing_status: empty
+zone: none
+damage: none
 ---
 

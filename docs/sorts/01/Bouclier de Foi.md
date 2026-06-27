@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Martyr
- - Paladin
+  - Clerc
+  - Martyr
+  - Paladin
 level: 1
 school: Abjuration
 Verbal: true
@@ -16,5 +16,7 @@ Concentration: true
 Rituel: false
 englishname: Shield of Faith
 writing_status: finished
+zone: none
+damage: none
 ---
 Un bouclier scintillant apparaît et encercle une créature de votre choix à portée, lui conférant un bonus de +2 à la CA pendant la durée du sort.

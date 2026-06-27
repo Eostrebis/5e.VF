@@ -1,12 +1,12 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
- - Artificier
- - Mage de Guerre
- - Sorcière
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Artificier
+  - Mage de Guerre
+  - Sorcière
 level: 0
 school: Conjuration
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: true
 Rituel: false
 englishname: Create Bonfire
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous créez un feu de camp au sol à un emplacement que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, le feu magique remplit un cube de 5 ft. de côté. Toute créature qui se trouve dans l'espace du feu lorsque vous lancez ce sort doit réussir un jet de sauvegarde de Dextérité ou subir 1d8 dégâts de feu. Une créature doit également effectuer ce jet si elle se déplace dans l'espace du feu pour la première fois pendant son tour ou si elle y termine son tour.
 

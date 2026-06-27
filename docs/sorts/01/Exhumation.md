@@ -1,8 +1,8 @@
 ---
 available:
- - Magicien
- - Clerc
- - Nécromancien
+  - Magicien
+  - Clerc
+  - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true
@@ -16,5 +16,7 @@ Concentration: false
 Rituel: true
 englishname: Exhume
 writing_status: finished
+zone: cube (20)
+damage: none
 ---
 Choisissez un carré inoccupé de 20 ft. de côté à portée -- la zone choisie doit être sur de la terre solide ; le sort échoue s'il est lancé sur un étage d'un bâtiment par exemple. Le sort ramène à la surface une pile d'ossements Humanoïdes présents sous le sol de la zone choisie. Si vous lancez ce sort dans un lieu d'enterrement, comme un cimetière, un mausolée ou une fosse, 1d4 piles d'ossements sont ramenées plutôt qu'une seule. Le sol en lui-même n'est pas perturbé par le sort ; les ossements apparaissent à la surface.

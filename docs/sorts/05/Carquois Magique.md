@@ -1,6 +1,6 @@
 ---
 available:
- - Ranger
+  - Ranger
 level: 5
 school: Transmutation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: true
 Rituel: false
 englishname: Swift Quiver
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous transformez votre carquois afin qu'il produise sans cesse des munitions non magiques, qui semblent *sauter* dans votre main lorsque vous la tendez pour la saisir. 
 

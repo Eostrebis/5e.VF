@@ -1,7 +1,7 @@
 ---
 available:
- - Investigateur
- - Sorcière
+  - Investigateur
+  - Sorcière
 level: 1
 school: Abjuration
 Verbal: false
@@ -15,6 +15,8 @@ Concentration: false
 Rituel: false
 englishname: Snare
 writing_status: finished
+zone: sphere (5)
+damage: none
 ---
 En lançant ce sort, vous utilisez la corde pour réaliser un cercle de 5 ft. de rayon au sol. Lorsque vous avez terminé l'incantation, la corde disparaît et le cercle devient un piège magique.
 

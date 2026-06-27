@@ -1,9 +1,9 @@
 ---
 available:
- - Sorcière
- - Nécromancien
- - Clerc
- - Druide
+  - Sorcière
+  - Nécromancien
+  - Clerc
+  - Druide
 level: 5
 school: Nécromancie
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Contagion
 writing_status: finished
+zone: none
+damage: none
 ---
 Votre toucher inflige une maladie. Réalisez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible est [[empoisonné|empoisonnée]].
 

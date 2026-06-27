@@ -1,9 +1,9 @@
 ---
 available:
- - Nécromancien
- - Ensorceleur
- - Magicien
- - Occultiste
+  - Nécromancien
+  - Ensorceleur
+  - Magicien
+  - Occultiste
 level: 6
 school: Nécromancie
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: false
 Rituel: false
 englishname: Circle of Death
 writing_status: finished
+zone: none
+damage: none
 ---
 De l'énergie négative se met à onduler dans une sphère d'un rayon de 60 ft. autour d'un point à portée. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Sagesse. Une cible subit 8d6 dégâts nécrotiques si elle échoue le jet et la moitié sinon.
 

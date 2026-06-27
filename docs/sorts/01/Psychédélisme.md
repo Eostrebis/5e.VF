@@ -1,9 +1,9 @@
 ---
 available:
- - Ranger
- - Druide
- - Barde
- - Sorcière
+  - Ranger
+  - Druide
+  - Barde
+  - Sorcière
 level: 1
 school: Illusion
 Verbal: true
@@ -17,5 +17,7 @@ Concentration: false
 Rituel: false
 englishname: Psychedelics
 writing_status: finished
+zone: none
+damage: none
 ---
 Pendant un moment, les couleurs autour de vous se mettent à tournoyer en un tourbillon arc-en-ciel, avant de se fixer loin de leurs teintes originales. Chaque créature que vous choisissez à portée doit effectuer un jet de sauvegarde de Dextérité. Sur un échec, la créature a le désavantage aux prochain jet d'attaque qu'elle effectue avant la fin de son prochain tour. De plus, les couleurs de toutes les créatures et objets que vous choisissez à portée changent aléatoirement et restent lumineuses et bizarrement colorées pendant 1 heure.

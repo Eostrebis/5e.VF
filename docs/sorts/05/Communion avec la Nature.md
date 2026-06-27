@@ -1,8 +1,8 @@
 ---
 available:
- - Investigateur
- - Druide
- - Ranger
+  - Investigateur
+  - Druide
+  - Ranger
 level: 5
 school: Divination
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: false
 Rituel: true
 englishname: Commune with Nature
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous ne faites brièvement plus qu'un avec la nature et récoltez des informations sur les territoires alentours. À l'extérieur, ce sort vous confère la connaissance du terrain dans un rayon de 5 km autour. Dans des grottes et d'autres habitats souterrains, le rayon est limité à 300 ft. Ce sort ne fonctionne pas lorsque la nature fait place à la construction, comme les donjons ou les villes.
 

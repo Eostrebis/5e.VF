@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Move Earth
 writing_status: empty
+zone: none
+damage: none
 ---
 

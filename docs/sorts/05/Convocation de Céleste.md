@@ -1,8 +1,8 @@
 ---
 available:
- - Clerc
- - Paladin
- - Martyr
+  - Clerc
+  - Paladin
+  - Martyr
 level: 5
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Summon Celestial
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous appelez un esprit céleste. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Céleste]]. Lorsque vous lancez ce sort, choisissez Vengeur ou Défenseur. Votre choix détermine l'attaque de la créature dans son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: See Invisibility
 writing_status: empty
+zone: none
+damage: none
 ---
 

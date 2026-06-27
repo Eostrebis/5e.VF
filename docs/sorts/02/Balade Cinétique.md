@@ -1,9 +1,9 @@
 ---
 available:
- - Artificier
- - Barde
- - Ensorceleur
- - Magicien
+  - Artificier
+  - Barde
+  - Ensorceleur
+  - Magicien
 level: 2
 school: Transmutation
 Verbal: false
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Kinetic Jaunt
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous renforcez magiquement vos mouvements avec des pas de danse, vous conférant les effets suivants pendant la durée du sort :
 

@@ -1,7 +1,7 @@
 ---
 available:
- - Druide
- - Magicien
+  - Druide
+  - Magicien
 level: 7
 school: Conjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Inevitable Boulder
 writing_status: finished
+zone: none
+damage: none
 ---
 Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perforants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.
 

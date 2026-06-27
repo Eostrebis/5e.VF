@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Otherworldly Lair
 writing_status: empty
+zone: none
+damage: none
 ---
 

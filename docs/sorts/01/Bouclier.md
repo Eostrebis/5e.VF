@@ -1,7 +1,7 @@
 ---
 available:
- - Ensorceleur
- - Magicien
+  - Ensorceleur
+  - Magicien
 level: 1
 school: Abjuration
 Verbal: true
@@ -15,5 +15,7 @@ Concentration: false
 Rituel: false
 englishname: Shield
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous pouvez utiliser votre réaction pour lancer ce sort lorsque vous êtes touché par une attaque ou ciblé par le sort [[Projectiles Magiques]]. Une barrière invisible de force magique apparaît et vous protège. Jusqu'au début de votre prochain tour, vous gagnez un bonus de +5 à la CA, y compris contre l'attaque qui déclenche votre réaction, et vous ne subissez aucun dégât de [[Projectiles Magiques]].

@@ -1,7 +1,7 @@
 ---
 available:
- - Occultiste
- - Magicien
+  - Occultiste
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true
@@ -15,6 +15,8 @@ Concentration: true
 Rituel: false
 englishname: Infernal Calling
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous prononcez une sombre incantation et invoquez un diable des Neuf Enfers. Vous choisissez le type du diable, qui doit être de FP inférieur à 6, comme un diable barbu ou un diable barbelé. Le diable apparaît sur un espace inoccupé que vous pouvez voir à portée. Le diable disparaît lorsqu'il tombe à 0 point de vie ou que le sort se termine.
 

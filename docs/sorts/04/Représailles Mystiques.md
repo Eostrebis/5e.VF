@@ -1,7 +1,7 @@
 ---
 available:
- - Occultiste
- - Paladin
+  - Occultiste
+  - Paladin
 level: 4
 school: Abjuration
 Verbal: true
@@ -15,5 +15,7 @@ Concentration: false
 Rituel: false
 englishname: Mystic Rebuke
 writing_status: finished
+zone: none
+damage: none
 ---
 Lorsque vous subissez des dégâts par un sort, vous pouvez utiliser votre réaction pour renvoyer magiquement la moitié des dégâts au lanceur de sort. Vous subissez les dégâts restants.

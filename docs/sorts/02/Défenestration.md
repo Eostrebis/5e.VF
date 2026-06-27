@@ -1,6 +1,6 @@
 ---
 available:
- - Barde
+  - Barde
 level: 2
 school: Évocation
 Verbal: true
@@ -14,6 +14,8 @@ Concentration: false
 Rituel: false
 englishname: Defenestration
 writing_status: finished
+zone: none
+damage: tranchant
 ---
 Une vague de force émerge de votre main et vient repousser une créature que vous pouvez voir à portée à travers une fenêtre. La cible doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle est projetée jusqu'à 20 ft. à travers une fenêtre de votre choix. S'il n'y a pas de fenêtre à 20 ft. de la cible, elle est projetée à travers une fenêtre de force arcanique qui se matérialise 10 ft. derrière elle et disparaît juste après. La cible subit 4d6 dégâts tranchants en passant à travers la fenêtre. Si elle réussit son jet de sauvegarde, la cible est poussée de 5 ft. et ne subit aucun dégât.
 

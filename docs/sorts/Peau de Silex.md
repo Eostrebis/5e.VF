@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Skin of Flint
 writing_status: empty
+zone: none
+damage: none
 ---
 

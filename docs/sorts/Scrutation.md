@@ -13,4 +13,6 @@ Concentration:
 Rituel:
 englishname: Scrying
 writing_status: empty
+zone: none
+damage: none
 ---

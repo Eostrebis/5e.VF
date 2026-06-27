@@ -1,11 +1,11 @@
 ---
 available:
- - Sorcière
- - Barde
- - Druide
- - Ensorceleur
- - Occultiste
- - Magicien
+  - Sorcière
+  - Barde
+  - Druide
+  - Ensorceleur
+  - Occultiste
+  - Magicien
 level: 4
 school: Enchantement
 Verbal: true
@@ -19,6 +19,8 @@ Concentration: false
 Rituel: false
 englishname: Charm Monster
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit effectuer un jet de sauvegarde de Sagesse, qu'elle effectue avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[charmé|charmée]] par vous jusqu'à ce que le sort se termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature charmée est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
 

@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Conjure Barrage
 writing_status: empty
+zone: none
+damage: none
 ---
 

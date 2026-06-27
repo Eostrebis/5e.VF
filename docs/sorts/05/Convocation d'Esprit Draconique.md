@@ -1,8 +1,8 @@
 ---
 available:
- - Druide
- - Ensorceleur
- - Magicien
+  - Druide
+  - Ensorceleur
+  - Magicien
 level: 5
 school: Conjuration
 Verbal: true
@@ -16,6 +16,8 @@ Concentration: true
 Rituel: false
 englishname: Summon Draconic Spirit
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous appelez un esprit draconique. Il se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques de l'[[Esprit Draconique]]. Lorsque vous lancez ce sort, choisissez une famille de dragon : chromatique, diamantin ou métallique. La créature prend la forme d'un dragon de la famille choisie, ce qui détermine certains traits de son bloc de statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.
 

@@ -1,9 +1,9 @@
 ---
 available:
- - Sorcière
- - Barde
- - Druide
- - Artificier
+  - Sorcière
+  - Barde
+  - Druide
+  - Artificier
 level: 1
 school: Évocation
 Verbal: true
@@ -17,6 +17,8 @@ Concentration: true
 Rituel: false
 englishname: Faerie Fire
 writing_status: finished
+zone: cube (20)
+damage: none
 ---
 Chaque objet dans un cube de 20 ft. à portée est teinté d'une lumière bleue, verte ou violette (votre choix). Toute créature dans la zone lorsque le sort est lancé se retrouve aussi teintée si elle rate un jet de sauvegarde de Dextérité. Pendant la durée du sort, les objets et créatures affectés émettent une lumière faible sur 10 ft.
 

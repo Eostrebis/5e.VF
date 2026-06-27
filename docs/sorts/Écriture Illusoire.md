@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Illusory Script
 writing_status: empty
+zone: none
+damage: none
 ---
 

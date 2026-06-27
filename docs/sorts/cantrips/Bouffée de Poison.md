@@ -1,12 +1,12 @@
 ---
 available:
- - Druide
- - Artificier
- - Ensorceleur
- - Occultiste
- - Magicien
- - Mage de Guerre
- - Nécromancien
+  - Druide
+  - Artificier
+  - Ensorceleur
+  - Occultiste
+  - Magicien
+  - Mage de Guerre
+  - Nécromancien
 level: 0
 school: Conjuration
 Verbal: true
@@ -20,6 +20,8 @@ Concentration: false
 Rituel: false
 englishname: Poison Spray
 writing_status: finished
+zone: none
+damage: none
 ---
 Vous étendez votre main en direction d'une créature que vous pouvez voir à portée et projetez un nuage de gaz toxique depuis votre paume. La créature doit réussir un jet de sauvegarde de Constitution ou subir 1d12 dégâts de poison.
 

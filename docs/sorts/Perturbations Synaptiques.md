@@ -13,5 +13,7 @@ Concentration:
 Rituel:
 englishname: Synaptic Static
 writing_status: empty
+zone: none
+damage: none
 ---
 
