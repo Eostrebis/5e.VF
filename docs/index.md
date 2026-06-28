@@ -6,7 +6,7 @@ search:
 
 ## Avancée de la Traduction
 
-**Classes.** 13/25 ![](https://geps.dev/progress/69)
+**Classes.** 13/25 ![](https://geps.dev/progress/70)
 
 > [!INFO]- Détails par classe
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
@@ -23,7 +23,7 @@ search:
 > - **Guerrier.** ![](https://geps.dev/progress/31) 
 > - **Investigateur.** ![](https://geps.dev/progress/100) 
 > - **Ligateur.** ![](https://geps.dev/progress/100) 
-> - **Mage de Guerre.** ![](https://geps.dev/progress/1) 
+> - **Mage de Guerre.** ![](https://geps.dev/progress/32) 
 > - **Magicien.** ![](https://geps.dev/progress/28) 
 > - **Martyr.** ![](https://geps.dev/progress/100) 
 > - **Moine.** ![](https://geps.dev/progress/100) 
@@ -36,10 +36,10 @@ search:
 > - **Tisserand.** ![](https://geps.dev/progress/100) 
 
 
-**Sorts.** 433/791 ![](https://geps.dev/progress/54)
+**Sorts.** 434/791 ![](https://geps.dev/progress/54)
 
 > [!INFO]- Sorts traduits par niveau
-> - **Cantrips.** 78 
+> - **Cantrips.** 79 
 > - **1.** 117 
 > - **2.** 56 
 > - **3.** 52 
@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 402339 (soit ~ 1609 pages) (soit ~ 0.84 Seigneur des Anneaux)
+**Nombre Total de Mots.** 403445 (soit ~ 1614 pages) (soit ~ 0.84 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-06-28 00:22:59
+Mis à jour pour la dernière fois le 2026-06-28 00:49:05
