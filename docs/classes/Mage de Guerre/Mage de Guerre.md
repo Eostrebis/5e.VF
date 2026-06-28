@@ -1,5 +1,5 @@
 ---
-writing_status: wip
+writing_status: finished
 ---
 Une elfe enchaîne les gestes pour le plus simple des sorts qu'elle connaît, les répétant jusqu'à ce qu'elle les maîtrise parfaitement. En un seul mouvement précis, elle libère une vague d'énergie arcanique, focalisée en un rayon d'un bleu brillant.
 
@@ -33,29 +33,29 @@ Enfin, pensez à la Maison de mages de guerre que vous souhaiteriez rejoindre. B
 
 Vous pouvez créer un Mage de Guerre rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution. Choisissez ensuite les cantrips [[chair de poule]], [[fléchette de force]], [[arme de force]] et [[grappin fantôme]], ainsi que l'Initiation Arcanique Aventurier. Choisissez enfin un historique qui met en avant votre rigueur magique.
 
-| **Le Mage de Guerre** |                   |           |
-| --------------------- | ----------------- | --------- |
-| Niveau                | Bonus de Maîtrise | Aptitudes |
-| 1                     | +2                |           |
-| 2                     | +2                |           |
-| 3                     | +2                |           |
-| 4                     | +2                |           |
-| 5                     | +3                |           |
-| 6                     | +3                |           |
-| 7                     | +3                |           |
-| 8                     | +3                |           |
-| 9                     | +4                |           |
-| 10                    | +4                |           |
-| 11                    | +4                |           |
-| 12                    | +4                |           |
-| 13                    | +5                |           |
-| 14                    | +5                |           |
-| 15                    | +5                |           |
-| 16                    | +5                |           |
-| 17                    | +6                |           |
-| 18                    | +6                |           |
-| 19                    | +6                |           |
-| 20                    | +6                |           |
+| **Le Mage de Guerre** |                   |                                                                             |                 |                      |              |
+| --------------------- | ----------------- | --------------------------------------------------------------------------- | --------------- | -------------------- | ------------ |
+| Niveau                | Bonus de Maîtrise | Aptitudes                                                                   | Cantrips Connus | Dés Bonus de Cantrip | Tours Connus |
+| 1                     | +2                | [[#Incantation]], [[#Initiation Arcanique]], [[#Style de Combat Arcanique]] | 4               | --                   | --           |
+| 2                     | +2                | [[#Avantage du Mage de Guerre]], [[#Tour de Mage de Guerre]]                | 4               | 0                    | 2            |
+| 3                     | +2                | [[#Maison de Mage de Guerre]]                                               | 5               | 0                    | 3            |
+| 4                     | +2                | [[#Augmentation de Caractéristiques]]                                       | 5               | 0                    | 3            |
+| 5                     | +3                | [[#Surpassement Arcanique]]                                                 | 6               | 1                    | 4            |
+| 6                     | +3                | [[#Instinct Tactique]]                                                      | 6               | 1                    | 4            |
+| 7                     | +3                | Compétence de [[#Maison de Mage de Guerre]]                                 | 6               | 1                    | 5            |
+| 8                     | +3                | [[#Augmentation de Caractéristiques]]                                       | 6               | 1                    | 5            |
+| 9                     | +4                | --                                                                          | 7               | 1                    | 6            |
+| 10                    | +4                | Compétence de [[#Maison de Mage de Guerre]]                                 | 7               | 1                    | 6            |
+| 11                    | +4                | Amélioration de [[#Surpassement Arcanique]]                                 | 7               | 2                    | 7            |
+| 12                    | +4                | [[#Augmentation de Caractéristiques]]                                       | 7               | 2                    | 7            |
+| 13                    | +5                | --                                                                          | 8               | 2                    | 8            |
+| 14                    | +5                | [[#Déflexion Stratégique]]                                                  | 8               | 2                    | 8            |
+| 15                    | +5                | Compétence de [[#Maison de Mage de Guerre]]                                 | 8               | 2                    | 9            |
+| 16                    | +5                | [[#Augmentation de Caractéristiques]]                                       | 8               | 2                    | 9            |
+| 17                    | +6                | --                                                                          | 9               | 3                    | 10           |
+| 18                    | +6                | Compétence de [[#Maison de Mage de Guerre]]                                 | 9               | 3                    | 10           |
+| 19                    | +6                | [[#Augmentation de Caractéristiques]]                                       | 9               | 3                    | 10           |
+| 20                    | +6                | [[#Maître de Guerre]]                                                       | 10              | 3                    | 10           |
 
 # Aptitudes de Classe
 
@@ -162,6 +162,20 @@ De plus, lorsque vous obtenez un niveau dans cette classe, vous pouvez choisir l
 ## Maison de Mage de Guerre
 
 Au niveau 3, vous choisissez une Maison de Mage de Guerre, qui vous enseigne toute une série de techniques magiques. Ce choix vous confère des aptitudes aux niveaux 3, 7, 10, 15 et 18.
+
+| Maison de Mage de Guerre  | Description                                                                                      |
+| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| [[Maison des Fous]]       | S'essaye à la véritable magie, obtenant des emplacements de sorts pour complimenter ses cantrips. |
+| [[Maison des Cartes]]     | Utilise un jeu magique de cartes pour augmenter ses prouesses combatives.                        |
+| [[Maison des Fléchettes]] | Lanceur de dagues et autres fléchettes réalisant d'impressionnants trick shots.                 |
+| [[Maison des Dés]]        | Parieur avec un pouvoir inné pour contrôler le destin.                                           |
+| [[Maison du Go]]          | Stratégiste utilisant la formation de ses alliés pour entourer et écraser ses adversaires.       |
+| [[Maison des Rois]]       | Meneur et commandant avec une large variété de manœuvres à leur disposition.                    |
+| [[Maison des Cavaliers]]  | Combattant de première ligne, protégé par une armure lourde.                                     |
+| [[Maison des Lanciers]]   | Mage de guerre monastique canalisant ses cantrips à travers des attaques à mains nues.           |
+| [[Maison des Pions]]      | Maître polyvalent des cantrips.                                                                  |
+| [[Maison des Tours]]      | Assassin et espion arcaniques.                                                                   |
+| [[Maison de la Roulette]] | Parieur qui dépense des jetons de roulette pour améliorer ses cantrips.                          |
 
 ## Augmentation de Caractéristiques
 
