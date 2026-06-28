@@ -1,4 +1,4 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
-_Prérequis :_
+Lorsque vous terminez un repos long, vous pouvez passer 10 minutes à réaliser un rituel afin de créer un cantrip contingent. Lancez un cantrip de mage de guerre qui a un temps d'incantation d'une action ou d'une action bonus et n'inflige pas de dégâts. Le cantrip ne fait pas effet immédiatement, mais prend plutôt effet la prochaine fois que vous prononcez un mot de commande (aucune action requise). Lorsque vous réalisez ce rituel, choisissez si ce cantrip vous cible vous, l'allié le plus proche ou l'ennemi le plus proche. Vous ne pouvez avoir qu'un cantrip contingent à la fois. Si vous réalisez le rituel à nouveau, le précédent cantrip contingent se termine.

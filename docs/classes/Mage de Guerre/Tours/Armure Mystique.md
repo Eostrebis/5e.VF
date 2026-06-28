@@ -1,4 +1,4 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
-_Prérequis :_
+Vous pouvez lancer le sort [[armure de mage]] sur vous à volonté, sans dépenser d'emplacement de sort.

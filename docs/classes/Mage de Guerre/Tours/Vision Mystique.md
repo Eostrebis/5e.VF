@@ -1,4 +1,4 @@
 ---
-writing_status: empty
+writing_status: finished
 ---
-_Prérequis :_
+Vous pouvez lancer le sort [[détection de la magie]] à volonté, sans dépenser d'emplacement de sort.
