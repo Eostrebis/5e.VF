@@ -1,7 +1,5 @@
 ---
-writing_status:
-  - finished
-  - empty
+writing_status: finished
 ---
 Les tours suivants sont décris dans l'ordre alphabétique. Si un tour de mage de guerre a des prérequis, vous devez les atteindre afin de le choisir. Vous pouvez choisir un tour au moment même où vous atteignez les prérequis. Un prérequis de niveau fait référence au niveau de cette classe.
 
@@ -10,7 +8,7 @@ Les tours suivants sont décris dans l'ordre alphabétique. Si un tour de mage d
 | [[Manœuvre du Fou]]          | 10     | [[Maison des Fous]]                                                                                                             | :x:                                                               |
 | [[Cantrip Repoussant]]       | :x:    | :x:                                                                                                                             | :x:                                                               |
 | [[Lumière Aveuglante]]       | :x:    | :x:                                                                                                                             | [[Lumière]]                                                       |
-| [[Château]]                  | 10     | [[Maison des Tours]]                                                                                                            | :x:                                                               |
+| [[Roque]]                    | 10     | [[Maison des Tours]]                                                                                                            | :x:                                                               |
 | [[Présence Chevaleresque]]   | :x:    | [[Maison des Cavaliers]]                                                                                                        | :x:                                                               |
 | [[Cape de Plumes]]           | :x:    | [[Maison des Tours]]                                                                                                            | :x:                                                               |
 | [[Destrier du Commandant]]   | :x:    | [[Maison des Cavaliers]]                                                                                                        | :x:                                                               |
