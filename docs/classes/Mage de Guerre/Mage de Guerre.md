@@ -163,19 +163,19 @@ De plus, lorsque vous obtenez un niveau dans cette classe, vous pouvez choisir l
 
 Au niveau 3, vous choisissez une Maison de Mage de Guerre, qui vous enseigne toute une série de techniques magiques. Ce choix vous confère des aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
-| Maison de Mage de Guerre  | Description                                                                                      |
-| ------------------------- | ------------------------------------------------------------------------------------------------ |
+| Maison de Mage de Guerre  | Description                                                                                       |
+| ------------------------- | ------------------------------------------------------------------------------------------------- |
+| [[Maison de la Roulette]] | Parieur qui dépense des jetons de roulette pour améliorer ses cantrips.                           |
+| [[Maison des Cartes]]     | Utilise un jeu magique de cartes pour augmenter ses prouesses combatives.                         |
+| [[Maison des Cavaliers]]  | Combattant de première ligne, protégé par une armure lourde.                                      |
+| [[Maison des Dés]]        | Parieur avec un pouvoir inné pour contrôler le destin.                                            |
+| [[Maison des Fléchettes]] | Lanceur de dagues et autres fléchettes réalisant d'impressionnants trick shots.                   |
 | [[Maison des Fous]]       | S'essaye à la véritable magie, obtenant des emplacements de sorts pour complimenter ses cantrips. |
-| [[Maison des Cartes]]     | Utilise un jeu magique de cartes pour augmenter ses prouesses combatives.                        |
-| [[Maison des Fléchettes]] | Lanceur de dagues et autres fléchettes réalisant d'impressionnants trick shots.                 |
-| [[Maison des Dés]]        | Parieur avec un pouvoir inné pour contrôler le destin.                                           |
-| [[Maison du Go]]          | Stratégiste utilisant la formation de ses alliés pour entourer et écraser ses adversaires.       |
-| [[Maison des Rois]]       | Meneur et commandant avec une large variété de manœuvres à leur disposition.                    |
-| [[Maison des Cavaliers]]  | Combattant de première ligne, protégé par une armure lourde.                                     |
-| [[Maison des Lanciers]]   | Mage de guerre monastique canalisant ses cantrips à travers des attaques à mains nues.           |
-| [[Maison des Pions]]      | Maître polyvalent des cantrips.                                                                  |
-| [[Maison des Tours]]      | Assassin et espion arcaniques.                                                                   |
-| [[Maison de la Roulette]] | Parieur qui dépense des jetons de roulette pour améliorer ses cantrips.                          |
+| [[Maison des Lanciers]]   | Mage de guerre monastique canalisant ses cantrips à travers des attaques à mains nues.            |
+| [[Maison des Pions]]      | Maître polyvalent des cantrips.                                                                   |
+| [[Maison des Rois]]       | Meneur et commandant avec une large variété de manœuvres à leur disposition.                      |
+| [[Maison des Tours]]      | Assassin et espion arcaniques.                                                                    |
+| [[Maison du Go]]          | Stratégiste utilisant la formation de ses alliés pour entourer et écraser ses adversaires.        |
 
 ## Augmentation de Caractéristiques
 
