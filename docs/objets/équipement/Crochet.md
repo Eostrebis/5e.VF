@@ -2,6 +2,6 @@
 type: Arme de Mêlée Simple
 cout:
 poids:
-englishname:
+englishname: Fish
 writing_status: empty
 ---
