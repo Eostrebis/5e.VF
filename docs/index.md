@@ -6,13 +6,13 @@ search:
 
 ## Avancée de la Traduction
 
-**Classes.** 14/25 ![](https://geps.dev/progress/73)
+**Classes.** 14/25 ![](https://geps.dev/progress/74)
 
 > [!INFO]- Détails par classe
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
 > - **Argartiste.** ![](https://geps.dev/progress/7) 
 > - **Artisan.** ![](https://geps.dev/progress/100) 
-> - **Barbare.** ![](https://geps.dev/progress/66) 
+> - **Barbare.** ![](https://geps.dev/progress/70) 
 > - **Barde.** ![](https://geps.dev/progress/42) 
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 413633 (soit ~ 1655 pages) (soit ~ 0.86 Seigneur des Anneaux)
+**Nombre Total de Mots.** 414640 (soit ~ 1659 pages) (soit ~ 0.86 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-07-04 09:04:00
+Mis à jour pour la dernière fois le 2026-07-04 12:43:40
