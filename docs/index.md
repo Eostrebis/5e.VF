@@ -12,7 +12,7 @@ search:
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
 > - **Argartiste.** ![](https://geps.dev/progress/7) 
 > - **Artisan.** ![](https://geps.dev/progress/100) 
-> - **Barbare.** ![](https://geps.dev/progress/61) 
+> - **Barbare.** ![](https://geps.dev/progress/66) 
 > - **Barde.** ![](https://geps.dev/progress/42) 
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 413345 (soit ~ 1653 pages) (soit ~ 0.86 Seigneur des Anneaux)
+**Nombre Total de Mots.** 413633 (soit ~ 1655 pages) (soit ~ 0.86 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-07-03 12:08:15
+Mis à jour pour la dernière fois le 2026-07-04 09:04:00
