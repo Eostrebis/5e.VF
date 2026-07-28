@@ -16,7 +16,7 @@
 *_*
 ***Survol (Air seulement)***. La bête ne provoque pas d'attaque d'opportunité lorsqu'il vole en dehors de la zone de menace d'un ennemi. 
 
-***Tactiques de Groupe (Terre seulement)***. La bête a l'avantage sur les jets d'attaque contre une créature si au moins un de ses alliés se trouve à 5 ft. de la créature et n'est pas [[incapacité]]. 
+***Tactiques de Groupe (Terre seulement)***. La bête a l'avantage sur les jets d'attaque contre une créature si au moins un de ses alliés se trouve à 5 ft. de la créature et n'est pas [[Incapacité]]. 
 
 ***Respiration Aquatique (Eau seulement)***. La bête ne peut respirer que sous l'eau. 
 

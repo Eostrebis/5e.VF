@@ -127,7 +127,7 @@ Vous apprenez deux cantrips de votre choix parmi la liste de sorts du [[Clerc]].
 
 ### Combat à l'Aveugle
 
-Vous disposez de la vision aveugle sur 10 ft. À l'intérieur de ce rayon, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes [[aveuglé]] ou dans les ténèbres. De plus, vous pouvez voir une créature [[invisible]] dans cette portée, sauf si elle se cache de vous.
+Vous disposez de la vision aveugle sur 10 ft. À l'intérieur de ce rayon, vous pouvez voir tout ce qui n'est pas derrière une couverture totale, même si vous êtes [[Aveuglé]] ou dans les ténèbres. De plus, vous pouvez voir une créature [[Invisible]] dans cette portée, sauf si elle se cache de vous.
 
 ### Interception
 Lorsque qu'une créature que vous pouvez voir touche une cible autre que vous à 5 ft. avec une attaque, vous pouvez utiliser votre réaction pour réduire les dégâts subis par la cible de 1d10 + votre bonus de maîtrise. Vous devez manier un bouclier ou une arme simple ou martiale pour utiliser cette réaction.
@@ -233,7 +233,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Aura de Courage
 
-À partir du niveau 10, vous et les créatures amicales à 10 ft. ne peuvent pas être [[apeuré|apeurés]] tant que vous êtes conscient.
+À partir du niveau 10, vous et les créatures amicales à 10 ft. ne peuvent pas être [[Apeuré|apeurés]] tant que vous êtes conscient.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 

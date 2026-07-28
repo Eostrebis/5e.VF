@@ -14,7 +14,7 @@ Tant que vous êtes en transe, vous pouvez sentir une connexion à un être sup�
  - Vous avez l'avantage à toutes vos attaques armées de mêlée utilisant la Force contre une créature que vous avez marquée.
  - Les attaques contre vous ont l'avantage.
 
-Cette transe dure 1 minute. Elle se termine prématurément si vous êtes [[inconscient]] ou si vous terminez votre tour sans avoir attaqué une créature hostile ou prit de dégât depuis votre dernier tour. Vous pouvez également terminer votre transe en utilisant une action bonus.
+Cette transe dure 1 minute. Elle se termine prématurément si vous êtes [[Inconscient]] ou si vous terminez votre tour sans avoir attaqué une créature hostile ou prit de dégât depuis votre dernier tour. Vous pouvez également terminer votre transe en utilisant une action bonus.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser jusqu'à ce que vous terminiez un repos.
 

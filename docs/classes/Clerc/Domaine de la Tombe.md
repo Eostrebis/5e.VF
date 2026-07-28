@@ -43,4 +43,4 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 ## Gardien des Âmes
 
-À partir du niveau 17, vous pouvez saisir le peu de vitalité qu'il reste dans une âme et vous en servir pour soigner les vivants. Lorsqu'un ennemi que vous pouvez voir meurt à 60 ft., vous ou une créature de votre choix que vous pouvez voir à 60 ft. regagne des points de vie d'un montant égal au nombre de dés de vie de la créature décédée. Vous ne pouvez pas utiliser cette aptitude si vous êtes [[incapacité]]. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'au début de votre prochain tour.
+À partir du niveau 17, vous pouvez saisir le peu de vitalité qu'il reste dans une âme et vous en servir pour soigner les vivants. Lorsqu'un ennemi que vous pouvez voir meurt à 60 ft., vous ou une créature de votre choix que vous pouvez voir à 60 ft. regagne des points de vie d'un montant égal au nombre de dés de vie de la créature décédée. Vous ne pouvez pas utiliser cette aptitude si vous êtes [[Incapacité]]. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'au début de votre prochain tour.

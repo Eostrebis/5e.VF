@@ -5,9 +5,9 @@ Il existe un lieu par-delà le temps, empli de conscience malveillante et d'inte
 
 ## Peur de l'Ombre
 
-Au niveau 3, vous avez encore du chemin avant d'accepter ce que vous avez vu dans l'Archive et pendant vos éclats de rage, vous déblatérez sur ces connaissances impies alors même que votre langue essayer de s'arrêter. Vous obtenez la résistance à tous les dégâts infligés par des créatures [[apeuré|apeurées]] pendant que vous êtes en rage.
+Au niveau 3, vous avez encore du chemin avant d'accepter ce que vous avez vu dans l'Archive et pendant vos éclats de rage, vous déblatérez sur ces connaissances impies alors même que votre langue essayer de s'arrêter. Vous obtenez la résistance à tous les dégâts infligés par des créatures [[Apeuré|apeurées]] pendant que vous êtes en rage.
 
-Lorsque vous êtes en rage, chaque créature qui commence son tour à 10 ft. doit réussir un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être [[apeuré|apeurée]] par jusqu'à la fin de votre prochain tour. Une fois qu'une créature a échoué ce jet de sauvegarde, elle ne peut plus être [[apeuré|apeurée]] par cette aptitude pendant 1 minute.
+Lorsque vous êtes en rage, chaque créature qui commence son tour à 10 ft. doit réussir un jet de sauvegarde de Dextérité (DD 8 + votre bonus de maîtrise + votre modificateur de Charisme) ou être [[Apeuré|apeurée]] par jusqu'à la fin de votre prochain tour. Une fois qu'une créature a échoué ce jet de sauvegarde, elle ne peut plus être [[Apeuré|apeurée]] par cette aptitude pendant 1 minute.
 
 De plus, vous pouvez utiliser votre modificateur de Charisme plutôt que d'Intelligence lorsque vous effectuez des jets de caractéristique ou de sauvegarde.
 
@@ -23,4 +23,4 @@ Au niveau 10, vos hallucinations commencent à prendre part à la réalité alor
 
 Au niveau 14, vous acceptez enfin ce que vous avez pu apprendre dans l'Archive et réalisez que les secrets dévastateurs que cela contient ne sont que de simples affirmations d'une vérité que l'humanité a toujours craint de connaître. Les Silencieuses ne sont pas des ennemis mais des gardiens, destinées à défendre l'univers de ceux qui voudraient exploiter les hérésies impies de l'Archive Maudite et vous vous préparez à rejoindre leurs rangs.
 
-À chaque fois que vous réduisez une créature à 0 point de vie, vous pouvez choisir de permettre à une Silencieuse de se déchaîner depuis votre propre peau, piéger une autre âme et corrompre sa chair. Choisissez une créature à 30 ft. La cible doit effectuer un jet de Force (Athlétisme) ou Dextérité (Acrobaties) challengé par un jet de Force (Athlétisme) de votre part. Si la créature échoue, le tentacule l'attrape, la traîne vers l'emplacement libre le plus proche de vous et lui inflige 1 niveau d'[[épuisement]]. Une créature ne peut pas être affectée par cette aptitude plus d'une fois par tour.
+À chaque fois que vous réduisez une créature à 0 point de vie, vous pouvez choisir de permettre à une Silencieuse de se déchaîner depuis votre propre peau, piéger une autre âme et corrompre sa chair. Choisissez une créature à 30 ft. La cible doit effectuer un jet de Force (Athlétisme) ou Dextérité (Acrobaties) challengé par un jet de Force (Athlétisme) de votre part. Si la créature échoue, le tentacule l'attrape, la traîne vers l'emplacement libre le plus proche de vous et lui inflige 1 niveau d'[[Épuisement]]. Une créature ne peut pas être affectée par cette aptitude plus d'une fois par tour.

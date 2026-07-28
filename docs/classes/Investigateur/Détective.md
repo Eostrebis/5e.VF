@@ -23,7 +23,7 @@ Au niveau 6, vous pouvez utiliser votre capacité à reconstituer les évènemen
 
 ## Instinct d'Interrogateur
 
-Au niveau 10, vous êtes si habitué à démêler le vrai du faux que vous pouvez ressentir l'intention derrière la voix d'une créature. Vous pouvez déterminer si une créature que vous entendez parler est [[charmé|charmée]], possédée ou enchantée et forcer à parler contre sa volonté, et vous avez l'avantage aux jets que vous effectuez pour déterminer si vous entendez un mensonge.
+Au niveau 10, vous êtes si habitué à démêler le vrai du faux que vous pouvez ressentir l'intention derrière la voix d'une créature. Vous pouvez déterminer si une créature que vous entendez parler est [[Charmé|charmée]], possédée ou enchantée et forcer à parler contre sa volonté, et vous avez l'avantage aux jets que vous effectuez pour déterminer si vous entendez un mensonge.
 
 ## Pouvoir Déductif
 

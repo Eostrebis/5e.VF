@@ -32,9 +32,9 @@ Toujours au niveau 3, vous pouvez utiliser votre ki pour infliger des blessures.
 
 Au niveau 6, vous pouvez administrer d'encore plus grands remèdes par un simple toucher, et si vous le pensez nécessaire, vous pouvez utiliser cette connaissance pour provoquer de la souffrance.
 
-Lorsque vous utilisez votre aptitude [[#Main de Soin]] sur une créature, vous pouvez également terminer une maladie ou l'une des conditions suivantes qui l'affecterait : [[aveuglé]], [[assourdi]], [[paralysé]], [[empoisonné]] ou [[assourdi]].
+Lorsque vous utilisez votre aptitude [[#Main de Soin]] sur une créature, vous pouvez également terminer une maladie ou l'un des états suivantes qui l'affecterait : [[Aveuglé]], [[Assourdi]], [[Paralysé]], [[Empoisonné]] ou [[Assourdi]].
 
-Lorsque vous utilisez votre aptitude [[#Main de Douleur]] sur une créature, vous pouvez rendre la créature [[empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
+Lorsque vous utilisez votre aptitude [[#Main de Douleur]] sur une créature, vous pouvez rendre la créature [[Empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.
 
 ## Ruée de Soin et de Douleur
 
@@ -44,6 +44,6 @@ De plus, lorsque vous réalisez une attaque à mains nues avec Ruée de Coups, v
 
 ## Main de l'Ultime Miséricorde
 
-Au niveau 17, votre maîtrise de l'énergie vitale vous ouvre les portes de l'ultime miséricorde. Pour une action, vous pouvez toucher le corps d'une créature décédée dans les 24 dernières heures et dépenser 5 points de ki. La créature revient à la vie, regagnant un nombre de points de vie égal à 4d10 + votre modificateur de Sagesse. Si cette créature est morte en étant affectée par l'une des conditions traitées par le Toucher du Médecin, elle revient sans la condition.
+Au niveau 17, votre maîtrise de l'énergie vitale vous ouvre les portes de l'ultime miséricorde. Pour une action, vous pouvez toucher le corps d'une créature décédée dans les 24 dernières heures et dépenser 5 points de ki. La créature revient à la vie, regagnant un nombre de points de vie égal à 4d10 + votre modificateur de Sagesse. Si cette créature est morte en étant affectée par l'un des états traitées par le Toucher du Médecin, elle revient sans l'état.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire tant que vous n'avez pas terminé un repos long.

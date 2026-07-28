@@ -21,7 +21,7 @@ writing_status: finished
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> **Bravoure.** Le templier a l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur lui-même.
+> **Bravoure.** Le templier a l'avantage aux jets de sauvegarde pour éviter ou terminer l'état [[Apeuré]] sur lui-même.
 >*_*
 >
 >### Actions

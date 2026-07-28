@@ -55,7 +55,7 @@ Au niveau 15, en y passant 1 heure (qui peut être pendant un repos court), vous
 
  - La créature a l'avantage aux jets de sauvegarde de Constitution.
  - La créature est résistante aux dégâts de poison.
- - La créature est immunisée contre la condition [[apeuré]].
+ - La créature est immunisée contre l'état [[Apeuré]].
  - La créature gagne 2d10 points de vie temporaires.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

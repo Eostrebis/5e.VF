@@ -25,7 +25,7 @@ Au niveau 1, vous apprenez un cantrip de druide de votre choix. Ce cantrip est c
 
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour charmer plantes et animaux.
 
-Pour une action, vous présentez votre symbole sacré et appelez le nom de votre déité. Chaque bête ou créature plante que vous pouvez voir à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si la créature échoue ce jet, elle est [[charmé|charmée]] par vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[charmé|charmée]] par vous, elle vous est amicale, ainsi qu'à chaque créature que vous désignez.
+Pour une action, vous présentez votre symbole sacré et appelez le nom de votre déité. Chaque bête ou créature plante que vous pouvez voir à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si la créature échoue ce jet, elle est [[Charmé|charmée]] par vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[Charmé|charmée]] par vous, elle vous est amicale, ainsi qu'à chaque créature que vous désignez.
 
 ## Affaiblissement des Éléments
 
@@ -37,5 +37,5 @@ Vous gagnez la capacité d'infuser vos coups armés avec de l'énergie divine. U
 
 ## Maître de la Nature
 
-Au niveau 17, vous gagnez la capacité de commander les animaux et les plantes. Tant qu'une créature est [[charmé|charmée]] par votre Charme des Animaux et des Plantes, vous pouvez utiliser votre action bonus pour lui ordonner verbalement que faire pendant son prochain tour.
+Au niveau 17, vous gagnez la capacité de commander les animaux et les plantes. Tant qu'une créature est [[Charmé|charmée]] par votre Charme des Animaux et des Plantes, vous pouvez utiliser votre action bonus pour lui ordonner verbalement que faire pendant son prochain tour.
 

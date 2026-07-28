@@ -20,4 +20,4 @@ writing_status: finished
 zone: cone (15)
 damage: none
 ---
-Vous projetez des particules dorées dans un cône de 15 ft., recouvrant toutes les créatures et objets de la zone. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou être [[aveuglé|aveuglée]] pendant la durée du sort. Une créature aveuglée par ce sort peut répéter ce jet de sauvegarde à la fin de chacun de ses tours. Chaque créature dans la zone, qu'elle réussisse ou non le jet de sauvegarde, ne peut bénéficier d'être [[invisible]] pendant la durée du sort.
+Vous projetez des particules dorées dans un cône de 15 ft., recouvrant toutes les créatures et objets de la zone. Chaque créature dans la zone doit réussir un jet de sauvegarde de Constitution ou être [[Aveuglé|aveuglée]] pendant la durée du sort. Une créature aveuglée par ce sort peut répéter ce jet de sauvegarde à la fin de chacun de ses tours. Chaque créature dans la zone, qu'elle réussisse ou non le jet de sauvegarde, ne peut bénéficier d'être [[Invisible]] pendant la durée du sort.

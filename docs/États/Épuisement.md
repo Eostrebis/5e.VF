@@ -3,9 +3,9 @@ writing_status: empty
 ---
 <div class="warning" style='background-color:var(--bg); border-left: solid var(--title) 4px; border-radius: 4px;'>
 <p style='padding:0.7em; margin-left:0.7em; display: inline-block;'>
-<img src="../../Illustrations/Conditions/FinalExhausted.png" style="width:20%; float:right; padding:0.7em">
+<img src="../../Illustrations/États/FinalExhausted.png" style="width:20%; float:right; padding:0.7em">
 
-Certaines aptitudes spéciales ou dangers environnementaux, comme la faim ou les effets à long terme du gel ou de la brûlure, amènent à une condition spéciale appelée <b>épuisement</b>.<br>
+Certaines aptitudes spéciales ou dangers environnementaux, comme la faim ou les effets à long terme du gel ou de la brûlure, amènent à un état spéciale appelée <b>épuisement</b>.<br>
 L'épuisement est mesuré en 6 niveaux. Un effet peut donner à une créature un ou plusieurs niveaux d'épuisements, comme décrit dans la description de l'effet.<br>
 
 </p>

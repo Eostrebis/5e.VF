@@ -34,4 +34,4 @@ La culture Kor est profondément nomade et minimaliste. Ils ne construisent pas 
 
 **Chanceux.** Lorsque vous obtenez un 1 sur le d20 d'un jet d'attaque, de caractéristique ou de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat.
 
-**Brave.** Vous avez l'avantage aux jets de sauvegarde pour ne pas être [[apeuré]].
+**Brave.** Vous avez l'avantage aux jets de sauvegarde pour ne pas être [[Apeuré]].

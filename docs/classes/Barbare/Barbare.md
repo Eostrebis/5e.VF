@@ -1,5 +1,5 @@
 ---
-writing_status: wip
+writing_status: finished
 ---
 Un grand humain avance face au blizzard, emmitouflé dans de la fourrure, et traînant sa hache. Il rigole et fonce sur le géant des glaces qui a osé s'aventurer sur le territoire de son clan.
 
@@ -13,7 +13,7 @@ Pour certains, la rage vient de la communion avec des esprits d'animaux féroces
 
 ## Instinct Primal
 
-Les habitants de villes et villages sont fiers de leur mode de vie sédentaire, comme si rompre son lien avec la nature était une marque de supériorité. Pour un barbare, cependant, une vie rangée n'est pas signe de grandeur, mais de faiblesse. Les forts embrassent la nature -- prônant des instincts affutés, une physicalité primale et une rage féroce. Les barbares sont inconfortables lorsqu'ils sont piégés par des murs et la foule. Ils se plaisent dans la nature de leurs terres d'origine : la toundra, la jungle ou les plaines où leur tribu chasse et vit.
+Les habitants de villes et villages sont fiers de leur mode de vie sédentaire, comme si rompre son lien avec la nature était une marque de supériorité. Pour un barbare, cependant, une vie rangée n'est pas signe de grandeur, mais de faiblesse. Les forts embrassent la nature — prônant des instincts affutés, une physicalité primale et une rage féroce. Les barbares sont inconfortables lorsqu'ils sont piégés par des murs et la foule. Ils se plaisent dans la nature de leurs terres d'origine : la toundra, la jungle ou les plaines où leur tribu chasse et vit.
 
 Les barbares existent réellement au milieu du chaos de la bataille. Ils peuvent entrer dans un état berserk où la rage prend le dessus, leur conférant force et résilience surhumaine. Un barbare ne peut profiter de ce réservoir de pouvoir qu'un petit nombre de fois sans se reposer, mais ces quelques rages sont généralement suffisantes pour se débarrasser de n'importe quelle menace.
 
@@ -102,7 +102,7 @@ Tant que vous êtes enragé, vous bénéficiez des effets suivants si vous ne po
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni incanter ni vous concentrer pendant une rage.
 
-Votre rage dure 1 minute. Elle se termine prématurément si vous êtes [[inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou subi de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
+Votre rage dure 1 minute. Elle se termine prématurément si vous êtes [[Inconscient]] ou si votre tour se termine sans que vous ayez attaqué une créature hostile ou subi de dégâts depuis votre dernier tour. Vous pouvez aussi choisir de terminer votre rage pour une action bonus.
 
 Une fois que vous vous êtes enragé autant de fois que renseigné dans la table, vous devez terminer un repos long avant de pouvoir le faire à nouveau.
 
@@ -118,43 +118,34 @@ Tant que vous ne portez aucune armure, votre CA est égale à 10 + votre modific
 
 Au niveau 2, vous obtenez un instinct sur le danger qui vous entoure, vous donnant un avantage pour l'éviter ou vous y préparer.
 
-Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Vous ne bénéficiez pas de cet effet si vous êtes [[aveuglé]], [[assourdi]] ou [[incapacité]].
+Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Vous ne bénéficiez pas de cet effet si vous êtes [[Aveuglé]], [[Assourdi]] ou [[Incapacité]].
 
 ## Voie Primitive
 
 Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
-| Voie                              | Description                                                                                                   |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
-| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées                                |
-| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.                           |
-| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets tout aussi surprenants.           |
-| [[Voie de la Magie Très Sauvage]] | Est soumis aux puissantes et aléatoires instabilités magiques que lui confère sa rage.                        |
-| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                                              |
-| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                                     |
-| [[Voie du Berserker]]             | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser.                   |
-| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                                     |
-| [[Voie du Fanatique]]             | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort.                    |
-| [[Voie du Fléau]]                 | Tire profit de l'influence de forces occultes pour assouvir sa faim                                           |
-| [[Voie du Fou de Guerre]]         | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler. |
-| [[Voie du Gardien Ancestral]]     | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires.            |
-| [[Voie du Guerrier Totémique]]    | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles.   |
-| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes                       |
-| [[Voie du Héraut des Tempêtes]]   | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé.                   |
-| [[Voie du Lunatique]]             |                                                                                                               |
-| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité                       |
-| [[Voie du Maudit]]                | Un esprit brisé par l'Archive Maudite qui puise sa fureur dans l'horreur cosmique et les secrets impies.                                                                                                              |
-| [[Voie du Tonneau]]               |                                                                                                               |
-| [[Voie des Géants]]               | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance                             |
-
-| **Voie**                            | **Description**                                                                                                |
-| ----------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **[[Voie du Fou de Guerre]]**       |                                                                                                                |
-| **[[Voie du Guerrier Totémique]]**  |                                                                                                                |
-| **[[Voie du Héraut des Tempêtes]]** |                                                                                                                |
-| **[[Voie du Lunatique]]**           | Tire sa force des phases de la lune, altérant la gravité et libérant des éclats de lumière argentée.           |
-| **[[Voie du Maudit]]**              | Un guerrier rongé par une malédiction qui utilise l'énergie nécrotique pour affaiblir et terrifier ses proies. |
-| **[[Voie du Tonneau]]**             | Un bagarreur éméché qui utilise l'alcool et des tonneaux robustes comme armes de guerre improvisées.           |
+| Voie                              | Description                                                                                                                 |
+| --------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées                                              |
+| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.                                         |
+| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets tout aussi surprenants.                              |
+| [[Voie de la Magie Très Sauvage]] | Est soumis aux puissantes et aléatoires instabilités magiques que lui confère sa rage.                                      |
+| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                                                            |
+| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                                                   |
+| [[Voie du Berserker]]             | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser.                                 |
+| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                                                   |
+| [[Voie du Fanatique]]             | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort.                                  |
+| [[Voie du Fléau]]                 | Tire profit de l'influence de forces occultes pour assouvir sa faim                                                         |
+| [[Voie du Fou de Guerre]]         | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler.               |
+| [[Voie du Gardien Ancestral]]     | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires.                          |
+| [[Voie du Guerrier Totémique]]    | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles.                 |
+| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes                                     |
+| [[Voie du Héraut des Tempêtes]]   | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé.                                 |
+| [[Voie du Lunatique]]             | Un guerrier insaisissable et imprévisible qui sème la folie sur le champ de bataille en n'y laissant que son sourire cruel. |
+| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité                                     |
+| [[Voie du Maudit]]                | Un esprit brisé par l'Archive Maudite qui puise sa fureur dans l'horreur cosmique et les secrets impies.                    |
+| [[Voie du Tonneau]]               | Un infatigable bagarreur de taverne qui carbure à l'alcool pour décupler sa force à l'aide d'armes improvisées.             |
+| [[Voie des Géants]]               | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance                                           |
 
 ## Savoir Primitif (Opt.)
 
@@ -176,7 +167,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 Au niveau 7, vos instincts sont si aiguisés que vous avez l'avantage aux jets d'initiative.
 
-De plus, si vous êtes surpris au début d'un combat sans être [[incapacité]], vous pouvez agir normalement pendant votre tour, mais seulement si vous commencez votre tour par entrer en rage.
+De plus, si vous êtes surpris au début d'un combat sans être [[Incapacité]], vous pouvez agir normalement pendant votre tour, mais seulement si vous commencez votre tour par entrer en rage.
 
 ## Bond Instinctif (Opt.)
 
@@ -196,7 +187,7 @@ Chaque fois que vous utilisez cette aptitude après la première fois, le DD aug
 
 ## Rage Persistante
 
-À partir du niveau 15, votre rage est si forte qu'elle ne termine que si vous tombez [[inconscient]] ou choisissez de la terminer.
+À partir du niveau 15, votre rage est si forte qu'elle ne termine que si vous tombez [[Inconscient]] ou choisissez de la terminer.
 
 ## Puissance Indomptable
 

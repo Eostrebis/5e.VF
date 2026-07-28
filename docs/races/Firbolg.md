@@ -31,7 +31,7 @@ La magie d'un firbolg est obscurante, ce qui a permis à ses ancêtres de traver
 
 L'Intelligence, la Sagesse ou le Charisme est la caractéristique d'incantation pour ces sorts (vous choisissez au moment où vous sélectionnez cette race).
 
-**Pas Caché.** Pour une action bonus, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, effectuiez un jet de dégâts, ou forciez quelqu'un à effectuer un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
+**Pas Caché.** Pour une action bonus, vous pouvez magiquement devenir [[Invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, effectuiez un jet de dégâts, ou forciez quelqu'un à effectuer un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
 
 **Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, pousser, tirer, soulever.
 

@@ -139,7 +139,7 @@ Vous gagnez un bonus de +2 aux jets d'attaque armée de mêlée que vous effectu
 
 ## Marque du Gardien
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Tant qu'une créature marquée est à 5 ft. de vous, elle a le désavantage à ses jets d'attaque contre des créatures autres que vous. La marque persiste 1 minute, ou jusqu'à ce que vous marquiez une autre créature, ou que vous deveniez [[incapacité]].
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Tant qu'une créature marquée est à 5 ft. de vous, elle a le désavantage à ses jets d'attaque contre des créatures autres que vous. La marque persiste 1 minute, ou jusqu'à ce que vous marquiez une autre créature, ou que vous deveniez [[Incapacité]].
 
 Au niveau 11, à chaque fois que vous utilisez votre action pour attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire comme part de cette action contre une créature que vous avez marquée.
 
@@ -179,7 +179,7 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Source de Vie
 
-Au niveau 4, vous pouvez utiliser votre action pour terminer une maladie ou une condition qui vous affecte. La condition peut être [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]], [[paralysé]] ou [[empoisonné]]. Vous pouvez utiliser cette action même si la condition que vous voulez terminer devrait l'empêcher. Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos avant de pouvoir le faire à nouveau.
+Au niveau 4, vous pouvez utiliser votre action pour terminer une maladie ou un état qui vous affecte. l'état peut être [[Aveuglé]], [[Charmé]], [[Assourdi]], [[Apeuré]], [[Paralysé]] ou [[Empoisonné]]. Vous pouvez utiliser cette action même si l'état que vous voulez terminer devrait l'empêcher. Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos avant de pouvoir le faire à nouveau.
 
 À partir du niveau 15, lorsque vous utilisez cette aptitude, vous pouvez choisir de remettre vos points de vie à la moitié de votre maximum, s'ils étaient inférieurs. Une fois que vous avez regagné des points de vie de cette manière, vous devez terminer un repos long pour le faire à nouveau.
 
@@ -193,7 +193,7 @@ Les gardiens sont d'excellents traqueurs qui naviguent les terres dangereuses sa
 
 ### Force de la Terre
 
-Vous possédez la puissance de la terre elle-même. Le poids que vous pouvez porter est doublé, et vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous effectuez pour éviter d'être déplacé contre votre volonté ou être mis [[au sol]].
+Vous possédez la puissance de la terre elle-même. Le poids que vous pouvez porter est doublé, et vous avez l'avantage aux jets de caractéristique et de sauvegarde que vous effectuez pour éviter d'être déplacé contre votre volonté ou être mis [[Au Sol]].
 
 ### Charge Éclair
 
@@ -231,7 +231,7 @@ De plus, vous avez l'avantage aux jets de sauvegarde de Dextérité.
 
 ### Esprit Impénétrable
 
-Vos pensées ne peuvent être lues, et vous ne pouvez pas être [[charmé]] ou [[apeuré]].
+Vos pensées ne peuvent être lues, et vous ne pouvez pas être [[Charmé]] ou [[Apeuré]].
 
 De plus, vous avez l'avantage aux jets de sauvegarde de Sagesse.
 
@@ -258,7 +258,7 @@ Au niveau 14, la portée de ce challenge s'étend à 10 ft.
 ### Marque du Champion
 *Remplace la Marque du Gardien*
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 15 ft. Vous avez un bonus de +2 à la CA contre les attaques de la créature marquée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mourriez. 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 15 ft. Vous avez un bonus de +2 à la CA contre les attaques de la créature marquée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[Incapacité]] ou mourriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
@@ -281,7 +281,7 @@ Au niveau 1, pour une action bonus, vous pouvez piéger vos ennemis au corps-à-
 ### Marque du Chasseur
 *Remplace la Marque du Gardien*
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vous infligez 1d6 dégâts supplémentaires à chaque fois que vous touchez une cible marquée avec une attaque armée de mêlée. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[Incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
@@ -306,7 +306,7 @@ Au niveau 14, cette aptitude affecte les créatures à 10 ft. de vous et vous le
 ### Marque du Mangeur d'Hommes
 *Remplace la [[#Marque du Gardien]]*
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 60 ft. Vos attaques armées de mêlée contre la créature marquée réalisent un coup critique sur un jet de 19 ou 20. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[Incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 
@@ -333,7 +333,7 @@ Au niveau 14, cette aptitude affecte les créatures amicales à 10 ft. de vous e
 ### Marques Jumelles du Parangon
 *Remplace la [[#Marque du Gardien]]*
 
-Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection subit des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en subissez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[incapacité]] ou que vous ou la créature marquée ne mouriez.
+Au niveau 2, vous pouvez placer deux marques : une marque de protection sur une créature alliée pour la protéger du danger et une marque de fléau sur une créature hostile pour assurer sa défaite. Pour une action bonus, vous pouvez placer une marque sur une créature que vous pouvez voir à 30 ft. Lorsqu'une créature avec votre marque de protection subit des dégâts, ceux-ci sont réduits de moitié (arrondi à l'inférieur) et vous en subissez le même montant. À chaque fois que vous infligez des dégâts à une créature qui possède votre marque du fléau, les dégâts que vous infligez sont considérés magiques vis-à-vis des résistances et immunités. Vos marques durent chacune 1 minute, ou jusqu'à ce que vous marquiez une autre créature, que vous deveniez [[Incapacité]] ou que vous ou la créature marquée ne mouriez.
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée avec la marque du fléau.
 
@@ -358,7 +358,7 @@ Au niveau 14, lorsque vous créez la sphère, vous pouvez choisir d'étendre son
 ### Marque des Ombres
 *Remplace la [[#Marque du Gardien]]*
 
-Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Si la créature est de taille G ou inférieure, vous pouvez l'attirer de 5 ft. vers vous en utilisant de sombres tentacules d'ombre. À chaque fois que la créature marquée s'éloigne volontairement de vous, elle traite la zone dans laquelle elle se déplace comme du terrain difficile. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[incapacité]] ou mouriez. 
+Au niveau 2, vous pouvez utiliser votre action bonus pour marquer une créature que vous pouvez voir à 30 ft. Si la créature est de taille G ou inférieure, vous pouvez l'attirer de 5 ft. vers vous en utilisant de sombres tentacules d'ombre. À chaque fois que la créature marquée s'éloigne volontairement de vous, elle traite la zone dans laquelle elle se déplace comme du terrain difficile. Cette marque persiste pendant 1 minute, ou jusqu'à ce que vous ne marquiez une autre créature, deveniez [[Incapacité]] ou mouriez. 
 
 Au niveau 11, lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez réaliser une attaque supplémentaire contre la créature que vous avez marquée.
 

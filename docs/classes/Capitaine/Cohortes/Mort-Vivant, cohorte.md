@@ -13,7 +13,7 @@ writing_status: finished
 >|15 (+2)|9 (-1)|15 (+2)|9 (-1)|9 (-1)|9 (-1)|
 > 
 > - **Immunité aux Dégâts.** poison
-> - **Immunités aux Conditions.** charmé, épuisement, empoisonné 
+> - **Immunités aux États.** charmé, épuisement, empoisonné 
 > - **Sens.** Vision dans le Noir 60 ft., Perception Passive 9
 > - **Langues** comprend une langue (souvent le [[Langues#Commun|Commun]]) mais ne peut pas parler
 >*_*

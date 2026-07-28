@@ -3,7 +3,7 @@ englishname: Mounted Combatant
 requis:
 writing_status: finished
 ---
-Vous êtes un dangereux adversaire lorsque vous êtes sur une monture. Tant que vous êtes monté et non [[incapacité]], vous bénéficiez des effets suivants : 
+Vous êtes un dangereux adversaire lorsque vous êtes sur une monture. Tant que vous êtes monté et non [[Incapacité]], vous bénéficiez des effets suivants : 
 
  - Vous avez l'avantage aux jets d'attaques de mêlée que vous réalisez contre des créatures non montées qui sont plus petites que votre monture.
  - Vous pouvez forcer une attaque qui cible votre monture à vous cibler vous plutôt.

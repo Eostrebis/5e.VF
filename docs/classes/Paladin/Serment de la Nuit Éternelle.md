@@ -34,7 +34,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 **Armure Dissimulée.** Pour une action en utilisant votre Canal Divin, vous pouvez faire appel au Plan des Ombres et en importer de l'objombre afin d'infuser votre armure. Celle-ci devient recouverte de ténèbres tourbillonnantes et ne reflète aucune lumière. Vous pouvez ajouter votre modificateur de Charisme à vos jets de Dextérité (Discrétion) réalisés tant que vous portez l'armure et cette dernière ne vous impose pas de désavantage aux jets de Discrétion.
 
-Cet effet se termine après 8 heures ou si vous terminez l'effet pendant votre tour (aucune action requise). L'effet se termine prématurément si vous retirez l'armure ou si vous tombez [[inconscient]].
+Cet effet se termine après 8 heures ou si vous terminez l'effet pendant votre tour (aucune action requise). L'effet se termine prématurément si vous retirez l'armure ou si vous tombez [[Inconscient]].
 
 ## Comme une Ombre
 

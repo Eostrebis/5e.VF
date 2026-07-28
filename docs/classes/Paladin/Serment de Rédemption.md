@@ -44,7 +44,7 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Esprit Protecteur
 
-Au niveau 15, une présence sacrée soigne vos blessures en combat. Vous regagnez un nombre de points de vie égal à 1d6 + la moitié de votre niveau de paladin si vous terminez votre tour en combat, avec moins de la moitié de vos points de vie et sans être [[incapacité]].
+Au niveau 15, une présence sacrée soigne vos blessures en combat. Vous regagnez un nombre de points de vie égal à 1d6 + la moitié de votre niveau de paladin si vous terminez votre tour en combat, avec moins de la moitié de vos points de vie et sans être [[Incapacité]].
 ## Émissaire de Rédemption
 
 Au niveau 20, vous devenez un avatar de paix, ce qui vous confère deux effets : 

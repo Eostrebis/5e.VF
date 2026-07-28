@@ -17,7 +17,7 @@ Restes réanimés d'humanoïdes morts depuis bien longtemps, les squelettes ne s
 > 
 > - **Vulnérabilités aux Dégâts.** Contondants
 > - **Immunités aux Dégâts.** Poison
-> - **Immunités aux Conditions.** [[Empoisonné]], [[Épuisement]]
+> - **Immunités aux États.** [[Empoisonné]], [[Épuisement]]
 > - **Sens.** Vision dans le noir 60 ft., Perception Passive 9
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*

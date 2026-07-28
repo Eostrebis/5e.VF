@@ -24,6 +24,6 @@ writing_status: finished
 zone: none
 damage: none
 ---
-Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.
+Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[Paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler un humanoïde supplémentaire par niveau d'emplacement de sort au-delà du niveau 2. Les humanoïdes doivent se trouver à 30 ft. l'un de l'autre lorsque vous les ciblez.

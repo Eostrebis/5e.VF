@@ -16,7 +16,7 @@ Amas abominable de chair, l'égorgeur ressemble encore vaguement à un humain de
 >|16 (+3)|7 (-2)|10 (+0)|7 (-2)|10 (+0)|6 (-2)|
 > 
 > - **Immunités aux Dégâts.** Poison
-> - **Immunités aux Conditions.** [[Empoisonné]]
+> - **Immunités aux États.** [[Empoisonné]]
 > - **Sens.** Vision aveugle 10 ft., Vision dans le noir 60 ft., Perception Passive 10
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*
@@ -25,7 +25,7 @@ Amas abominable de chair, l'égorgeur ressemble encore vaguement à un humain de
 > | 1 (200 EXP) | +2 |
 >*_*
 >
-> **Écholocalisation.** L'égorgeur ne peut utiliser sa vision aveugle lorsqu'il est [[assourdi]].
+> **Écholocalisation.** L'égorgeur ne peut utiliser sa vision aveugle lorsqu'il est [[Assourdi]].
 >
 >### Actions
 >***Morsure.*** *Attaque Armée de Mêlée :* +5 pour toucher, allonge 5 ft., une cible. *Touché :* 12 (2d8 +3) dégâts perforants.

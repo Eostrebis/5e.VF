@@ -29,10 +29,10 @@ Toujours au niveau 1, la nuit vous a appris à être vigilant. Pour une action, 
 ## Canal Divin : Sanctuaire du Crépuscule
 À partir du niveau 2, vous pouvez utiliser votre Canal Divin pour rafraîchir vos alliés dans un crépuscule apaisant.
 
-Pour une action, vous affichez votre symbole sacré, et une sphère de lumière nocturne émane de vous. La sphère est centrée sur vous-même, a un rayon de 30 ft., et est remplie de lumière faible. La sphère se déplace avec vous, et persiste 1 minute ou jusqu'à ce que vous soyez [[incapacité]] ou mourriez. Lorsqu'une créature termine son tour dans la sphère, vous pouvez lui conférer un des effets suivants : 
+Pour une action, vous affichez votre symbole sacré, et une sphère de lumière nocturne émane de vous. La sphère est centrée sur vous-même, a un rayon de 30 ft., et est remplie de lumière faible. La sphère se déplace avec vous, et persiste 1 minute ou jusqu'à ce que vous soyez [[Incapacité]] ou mourriez. Lorsqu'une créature termine son tour dans la sphère, vous pouvez lui conférer un des effets suivants : 
 
  - Vous lui donnez 1d6 + votre niveau de clerc points de vie temporaires.
- - Vous terminez l'un des effets qui la rendent [[charmé|charmée]] ou [[apeuré|apeurée]].
+ - Vous terminez l'un des effets qui la rendent [[Charmé|charmée]] ou [[Apeuré|apeurée]].
 
 ## Pas de la Nuit
 À partir du niveau 6, vous pouvez puiser dans le pouvoir mystique de la nuit pour vous envoler. Pour une action bonus tandis que vous vous trouvez dans une luminosité faible ou dans l'obscurité, vous pouvez magiquement vous conférer une vitesse de vol égale à votre vitesse de marche pendant 1 minute. Vous pouvez utiliser cette action bonus un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.

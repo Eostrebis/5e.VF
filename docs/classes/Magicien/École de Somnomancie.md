@@ -15,7 +15,7 @@ Les somnomanceurs forment un groupe singulier, enclins aux fantaisies, aux rêve
 
 À partir du niveau 6, en réalisant une action répétitive pendant 1 minute, vous pouvez hypnotiser une créature consentante ou inconsciente à 60 ft. qui peut vous voir ou vous entendre.
 
-Tant qu'elle est hypnotisée par vous, elle n'est qu'à demi-consciente et [[charmé|charmée]] par vous. Les autres sorts ou effets qui charment la créature ou influencent son esprit n'ont aucun effet. Si vous le choisissez, vous pouvez faire en sort que la créature répète son jet de sauvegarde contre ces effets, terminant l'effet en cas de réussite.
+Tant qu'elle est hypnotisée par vous, elle n'est qu'à demi-consciente et [[Charmé|charmée]] par vous. Les autres sorts ou effets qui charment la créature ou influencent son esprit n'ont aucun effet. Si vous le choisissez, vous pouvez faire en sort que la créature répète son jet de sauvegarde contre ces effets, terminant l'effet en cas de réussite.
 
 La créature gagne la capacité de se rappeler exactement tous ses souvenirs tant qu'elle est hypnotisée, même ceux qui ont été altérés ou supprimés magiquement. Tant qu'elle est hypnotisée, la créature répond honnêtement à toute question que vous lui posez. 
 

@@ -21,7 +21,7 @@ writing_status: finished
 > |:-:|:-:|
 > | 1/4 (50 EXP) | +2 |
 > 
-> **Dévotion aux Ténèbres.** Le cultiste a l'avantage aux jets de sauvegarde pour éviter d'être [[charmé]] ou [[apeuré]].
+> **Dévotion aux Ténèbres.** Le cultiste a l'avantage aux jets de sauvegarde pour éviter d'être [[Charmé]] ou [[Apeuré]].
 >*_*
 >
 >### Actions

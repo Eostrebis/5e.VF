@@ -7,11 +7,11 @@ Vous avez entendu l'appel inébranlable de la montagne, celui-là même que les 
 
 À partir du moment où vous répondez à cet appel au niveau 3, lorsque vous utilisez votre Saisie du Gardien, des racines rocheuses apparaissent à vos pieds, vous ancrant dans le sol. Jusqu'à la fin de votre prochain tour, vous avez un bonus de +2 à votre CA.
 
-De plus, jusqu'à ce que vous vous déplaciez, vous ne pouvez pas être déplacé ou poussé par des effets, sorts ou actions hostiles, sauf si vous le choisissez. Vous avez l'avantage aux jets de sauvegarde de Force pour éviter d'être mis [[au sol]]. Vous ne pouvez pas glisser ou tomber d'un rebord, et êtes immunisé contre les sorts [[vol]], [[lévitation]] et [[télékinésie]].
+De plus, jusqu'à ce que vous vous déplaciez, vous ne pouvez pas être déplacé ou poussé par des effets, sorts ou actions hostiles, sauf si vous le choisissez. Vous avez l'avantage aux jets de sauvegarde de Force pour éviter d'être mis [[Au Sol]]. Vous ne pouvez pas glisser ou tomber d'un rebord, et êtes immunisé contre les sorts [[vol]], [[lévitation]] et [[télékinésie]].
 
 ## Choc Tellurique
 
-À partir du niveau 6, vous pouvez choisir d'utiliser la Saisie du Gardien pour une action plutôt qu'une action bonus. Lorsque vous le faites, chaque créature affectée doit réussir un jet de sauvegarde de Force (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[au sol]].
+À partir du niveau 6, vous pouvez choisir d'utiliser la Saisie du Gardien pour une action plutôt qu'une action bonus. Lorsque vous le faites, chaque créature affectée doit réussir un jet de sauvegarde de Force (DD égal à 8 + votre bonus de maîtrise + votre modificateur de Force) ou être mise [[Au Sol]].
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Force (minimum de 1), et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

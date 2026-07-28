@@ -5,13 +5,13 @@ L'amour est une chose puissante, et personne ne le sait aussi bien que les barde
 
 ## Appréciable
 
-Lorsque vous choisissez ce collège au niveau 3, vous avez une personnalité magnétique. Vous pouvez utiliser votre action bonus pour distraire n'importe quelle créature hostile que vous avez [[charmé|charmée]]. Pendant son tour, la créature charmée a le désavantage aux jets d'attaque et ne peut s'éloigner de vous sans d'abord utiliser son action pour se Désengager.
+Lorsque vous choisissez ce collège au niveau 3, vous avez une personnalité magnétique. Vous pouvez utiliser votre action bonus pour distraire n'importe quelle créature hostile que vous avez [[Charmé|charmée]]. Pendant son tour, la créature charmée a le désavantage aux jets d'attaque et ne peut s'éloigner de vous sans d'abord utiliser son action pour se Désengager.
 
 Si vous charmez une créature qui ne vous est pas hostile, il vous considère vous et vos alliés comme des connaissances amicales.
 
 ## Flèche de Cupidon
 
-Également au niveau 3, vous pouvez convertir d'autres créatures par votre personnalité. Pour une action, vous pouvez dépenser une Inspiration Bardique et choisir une créature que vous pouvez voir à 30 ft. qui peut vous voir ou vous entendre afin qu'elle effectue un jet de sauvegarde de Sagesse. Si elle échoue, la créature est [[charmé|charmée]] par vous pour un nombre de tours égal au résultat du dé d'Inspiration Bardique.
+Également au niveau 3, vous pouvez convertir d'autres créatures par votre personnalité. Pour une action, vous pouvez dépenser une Inspiration Bardique et choisir une créature que vous pouvez voir à 30 ft. qui peut vous voir ou vous entendre afin qu'elle effectue un jet de sauvegarde de Sagesse. Si elle échoue, la créature est [[Charmé|charmée]] par vous pour un nombre de tours égal au résultat du dé d'Inspiration Bardique.
 
 Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de la créature, si la créature ne peut plus vous entendre ni vous voir, si la créature subit des dégâts de vous ou vos alliés ou si vous réutilisez cette aptitude.
 
@@ -21,6 +21,6 @@ Au niveau 6, lorsque vous utilisez votre action pour attaquer, vous pouvez utili
 
 ## Embéguinement
 
-À partir du niveau 14, vous pouvez faire de vous la cible de l'affection des autres créatures. Vous pouvez utiliser votre action pour toucher un Humanoïde [[incapacité]]. Cette créature devient [[charmé|charmée]] par vous jusqu'à ce qu'un sort de [[délivrance des malédictions]] lui soit lancé, que la condition [[charmé]] lui soit retirée ou que vous utilisez à nouveau cette aptitude.
+À partir du niveau 14, vous pouvez faire de vous la cible de l'affection des autres créatures. Vous pouvez utiliser votre action pour toucher un Humanoïde [[Incapacité]]. Cette créature devient [[Charmé|charmée]] par vous jusqu'à ce qu'un sort de [[délivrance des malédictions]] lui soit lancé, que l'état [[Charmé]] lui soit retirée ou que vous utilisez à nouveau cette aptitude.
 
 Lorsque vous utilisez cette aptitude, vous ne pouvez plus le refaire jusqu'à ce que vous terminiez un repos.

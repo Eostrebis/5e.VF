@@ -25,7 +25,7 @@ Au niveau 3, vous pouvez apporter plus de pouvoirs encore à vos sorts en leur f
 
 Au niveau 6, vous obtenez la maîtrise de la compétence Intimidation, si vous ne l'avez pas déjà.
 
-De plus, vous pouvez dépenser 10 points de Toucher Charnel et une action bonus pour fixer votre terrifiant regard sur une créature que vous pouvez voir à 60 ft. La cible doit effectuer un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous pendant 1 minute. La créature apeurée peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour terminer l'effet prématurément. 
+De plus, vous pouvez dépenser 10 points de Toucher Charnel et une action bonus pour fixer votre terrifiant regard sur une créature que vous pouvez voir à 60 ft. La cible doit effectuer un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] par vous pendant 1 minute. La créature apeurée peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour terminer l'effet prématurément. 
 
 ## Charge de Thrall
 
@@ -39,4 +39,4 @@ Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes tran
 
 Une créature dont l'âme a été dévorée ne peut être ramenée à la vie par aucun moyen autre qu'une [[résurrection suprême]] ou un [[souhait]].
 
-**Toucher Paralysant.** Lorsque vous touchez avec une attaque de Toucher Charnel et dépensez 20 points ou plus, la cible doit réussir un jet de sauvegarde de Constitution ou être [[paralysé|paralysée]] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours pour terminer l'effet.
+**Toucher Paralysant.** Lorsque vous touchez avec une attaque de Toucher Charnel et dépensez 20 points ou plus, la cible doit réussir un jet de sauvegarde de Constitution ou être [[Paralysé|paralysée]] pendant 1 minute. La cible peut retenter le jet de sauvegarde à la fin de chacun de ses tours pour terminer l'effet.

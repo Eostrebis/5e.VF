@@ -35,4 +35,4 @@ Longtemps perçues comme des dangers imprévisibles par les marins, les sirènes
 
 **Chant de la Sirène.** Vous connaissez le cantrip [[amis]] et vous pouvez le lancer sans composantes matérielles.
 
-**Esprit Mercurien.** Votre instabilité émotionnelle vous rend difficile à influencer. Vous avez l'avantage aux jets de sauvegarde contre l'état [[charmé]].
+**Esprit Mercurien.** Votre instabilité émotionnelle vous rend difficile à influencer. Vous avez l'avantage aux jets de sauvegarde contre l'état [[Charmé]].

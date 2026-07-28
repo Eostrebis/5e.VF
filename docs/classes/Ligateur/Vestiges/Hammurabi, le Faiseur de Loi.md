@@ -17,7 +17,7 @@ Lorsqu'une créature que vous pouvez voir vous touche avec une attaque armée de
 Si une créature hostile que vous pouvez voir utilise son action pour attaquer ou utilise une action légendaire ou une action de repère, vous pouvez utiliser votre réaction pour empêcher l'action de s'accomplir. Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous terminiez un repos long.
 
 ## Trait : Amputé
-Tant que vous êtes lié à Hammurabi, il vous manque plusieurs doigts, plusieurs dents ainsi qu'un œil — tous extraits comme punition pour vos précédents crimes. Vous êtes immunisé contre les conditions suivantes : [[aveuglé]], [[assourdi]], [[épuisement]], [[paralysé]], [[empoisonné]] et [[assourdi]]. Si une créature essaye de vous imposer l'une de ces conditions, vous pouvez utiliser votre réaction pour lui imposer la condition plutôt.
+Tant que vous êtes lié à Hammurabi, il vous manque plusieurs doigts, plusieurs dents ainsi qu'un œil — tous extraits comme punition pour vos précédents crimes. Vous êtes immunisé contre les états suivantes : [[Aveuglé]], [[Assourdi]], [[Épuisement]], [[Paralysé]], [[Empoisonné]] et [[Assourdi]]. Si une créature essaye de vous imposer l'un de ces états, vous pouvez utiliser votre réaction pour lui imposer l'état plutôt.
 
 ## Idéal
 Tant que vous êtes lié à ce vestige, vous obtenez l'idéal suivant : "**Œil pour Œil.** Je vise l'égalité absolue en toute chose, et suis prêt à aller aux extrêmes pour m'assurer que les actions reçoivent une conséquence justes. (Loyal)"

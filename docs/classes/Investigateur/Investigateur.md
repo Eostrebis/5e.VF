@@ -166,7 +166,7 @@ Au niveau 7, vous gardez toujours une vaste variété de symboles et d'objets sa
 **Protection.** Pour une action, vous dessinez un symbole sacré sur une créature à 5 ft. de vous, la protégeant contre le danger. Pendant la prochaine minute, les Monstruosités, les Célestes, les Élémentaires, les Fées, les Fiélons et les Morts-Vivants qui touchent la créature protégée ou la touchent avec une attaque de mêlée subissent 1d12 dégâts radiants.
 
 ## Motivation Surnaturelle
-Au niveau 9, vous devenez résilient aux attaques et effets des créatures que vous investiguez régulièrement. Vous ne pouvez être possédé ou [[charmé]] et vous êtes résistants aux dégâts nécrotiques et psychiques.
+Au niveau 9, vous devenez résilient aux attaques et effets des créatures que vous investiguez régulièrement. Vous ne pouvez être possédé ou [[Charmé]] et vous êtes résistants aux dégâts nécrotiques et psychiques.
 
 ## Bourreau
 À partir du niveau 11, vous savez exactement comment achever un monstre. Une fois à chacun de vos tours lorsque vous utilisez votre action pour attaquer et que vous touchez une créature avec une attaque armée, vous pouvez lui infliger 2d8 dégâts supplémentaires. Si la créature a moins de sa vie restante, vous lui infligez 4d8 dégâts supplémentaires à la place.

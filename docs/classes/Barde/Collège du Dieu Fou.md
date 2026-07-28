@@ -11,10 +11,10 @@ Lorsque vous choisissez ce collège au niveau 3, vous gagnez la maîtrise d'une 
 
 ## Cacophonie
 
-Au niveau 3, les sons discordants de votre instrument rendent fou les autres. Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre un de vos sorts de bardes ou aptitudes tandis que vous tenez un instrument de musique, vous pouvez dépenser une utilisation d'Inspiration Bardique pour jouer un bruit cacophonique. Une créature [[assourdi|assourdie]] est immunisée à cet effet. Choisissez l'un des effets suivants : 
+Au niveau 3, les sons discordants de votre instrument rendent fou les autres. Une fois à chacun de vos tours, lorsqu'une créature rate un jet de sauvegarde d'Intelligence, de Sagesse ou de Charisme contre un de vos sorts de bardes ou aptitudes tandis que vous tenez un instrument de musique, vous pouvez dépenser une utilisation d'Inspiration Bardique pour jouer un bruit cacophonique. Une créature [[Assourdi|assourdie]] est immunisée à cet effet. Choisissez l'un des effets suivants : 
  
  - La créature subit un nombre de dégâts psychique égal au résultat de votre dé d'Inspiration Bardique.
- - La créature est [[assourdi|assourdie]] et ne peut plus parler jusqu'à la fin de son prochain tour.
+ - La créature est [[Assourdi|assourdie]] et ne peut plus parler jusqu'à la fin de son prochain tour.
  - La créature se déplace de jusqu'à 10 ft. dans la direction de votre choix. Ce mouvement ne provoque pas d'attaque d'opportunité.
 
 ## Cordes Agitées
@@ -27,13 +27,13 @@ Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire ava
 
 ## Mélodie Folle
 
-À partir du niveau 14, vous pouvez utiliser votre action pour commencer à jouer la mélodie maudite qui hante vos rêves. À chacun de vos tours suivants, vous pouvez utiliser votre action pour continuer à jouer la mélodie. Seulement les créatures que vous choisissez à 60 ft. de vous peuvent entendre la mélodie ; toute autre créature n'entend qu'un bruit assourdissant. Même les créatures [[assourdi|assourdies]] entendent la mélodie hantée.
+À partir du niveau 14, vous pouvez utiliser votre action pour commencer à jouer la mélodie maudite qui hante vos rêves. À chacun de vos tours suivants, vous pouvez utiliser votre action pour continuer à jouer la mélodie. Seulement les créatures que vous choisissez à 60 ft. de vous peuvent entendre la mélodie ; toute autre créature n'entend qu'un bruit assourdissant. Même les créatures [[Assourdi|assourdies]] entendent la mélodie hantée.
 
 Lorsque vous utilisez votre action pour jouer la mélodie, une créature qui peut entendre la mélodie doit effectuer un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de sort. Si elle échoue, elle subit des dégâts psychiques et subit un effet supplémentaire en fonction du nombre de tours consécutifs que vous avez passé à jouer la mélodie. Après quatre tours consécutifs, ou si aucune créature n'entend la mélodie pendant un tour, la mélodie recommence au premier tour.
 
 | Tour | Dégâts Psychiques | Effet |
 | ---- | ----------------- | --------------------------------------------------------------------------- |
-| 1er | 4d8 | La cible est [[assourdi\|assourdie]] |
+| 1er | 4d8 | La cible est [[Assourdi\|assourdie]] |
 | 2eme | 7d8 | La cible ne peut pas parler et a le désavantage aux jets de caractéristique |
-| 3eme | 4d8 | La cible est [[charmé\|charmée]] par vous jusqu'à la fin de son tour |
+| 3eme | 4d8 | La cible est [[Charmé\|charmée]] par vous jusqu'à la fin de son tour |
 | 4eme | 9d8 | -- |

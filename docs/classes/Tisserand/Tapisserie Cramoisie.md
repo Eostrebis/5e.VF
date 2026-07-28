@@ -25,8 +25,8 @@ Au niveau 6, votre connexion à votre tapisserie vous permet de réaliser des ex
 
 ## Ne Pas Monter Tout Seul…
 
-Au niveau 10, votre tapisserie a un contrôle sur votre corps, même lorsque celui-ci est brisé. Vous pouvez relever du [[au sol|sol]] sans dépenser de mouvement n'importe quand pendant votre tour et vous pouvez utiliser votre attaque de Coupe du Tisserand même lorsque vous êtes inconscient. De plus, les escaliers ou ponts que vous créez avec votre compétence de Renaissance Régulière peuvent atteindre jusqu'à 60 ft.
+Au niveau 10, votre tapisserie a un contrôle sur votre corps, même lorsque celui-ci est brisé. Vous pouvez relever du [[Au Sol|sol]] sans dépenser de mouvement n'importe quand pendant votre tour et vous pouvez utiliser votre attaque de Coupe du Tisserand même lorsque vous êtes inconscient. De plus, les escaliers ou ponts que vous créez avec votre compétence de Renaissance Régulière peuvent atteindre jusqu'à 60 ft.
 
 ## ... Mais Bien Haut !
 
-Au niveau 14, vous êtes en connexion parfaite avec votre tapisserie, et vous débloquez le pouvoir contenu dans votre infusion, la transformant en une forme plus puissante encore. Tant que vous ne portez pas d'armure, vous obtenez une vitesse de vol égale à votre vitesse de marche et vous ne pouvez pas être [[apeuré]].
+Au niveau 14, vous êtes en connexion parfaite avec votre tapisserie, et vous débloquez le pouvoir contenu dans votre infusion, la transformant en une forme plus puissante encore. Tant que vous ne portez pas d'armure, vous obtenez une vitesse de vol égale à votre vitesse de marche et vous ne pouvez pas être [[Apeuré]].

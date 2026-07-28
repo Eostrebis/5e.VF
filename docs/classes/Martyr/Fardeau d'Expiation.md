@@ -36,12 +36,12 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas l'utiliser ju
 ## Purificateur
 
 À partir du niveau 18, vous pouvez utiliser votre action pour vous transférer des effets négatifs de n'importe quel nombre de cibles à moins de 60 ft. de vous. Vous pouvez transférer l'un des effets suivants de chaque créature : 
- - Un niveau d'[[épuisement]]
+ - Un niveau d'[[Épuisement]]
  - Une maladie ou poison
  - Une malédiction, y compris le lien de la cible avec un objet maudit
  - N'importe quelle réduction à l'une des caractéristiques de la cible
  - Un effet qui réduit les points de vie maximum de la cible
- - La condition [[aveuglé]], [[charmé]], [[assourdi]], [[paralysé]], [[pétrifié]] ou [[empoisonné]]
+ - l'état [[Aveuglé]], [[Charmé]], [[Assourdi]], [[Paralysé]], [[Pétrifié]] ou [[Empoisonné]]
 
 L'effet choisi se termine pour la créature et vous cible comme si vous étiez la cible originale, avec sa durée originale. Vous pouvez transférer plusieurs effets négatifs du même type sur vous-même, ceux-ci ne vous affectant qu'une seule fois à chaque utilisation de cette aptitude.
 

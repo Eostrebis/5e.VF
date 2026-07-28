@@ -15,7 +15,7 @@ Construire par un assemblage sommaire d'os humanoïdes, une bête d'os ne ressem
 >|12 (+1)|15 (+2)|13 (+1)|5 (-3)|10 (+0)|5 (-3)|
 > 
 > - **Immunités aux Dégâts.** Poison
-> - **Immunités aux Conditions.** [[Empoisonné]]
+> - **Immunités aux États.** [[Empoisonné]]
 > - **Sens.** Vision dans le noir 60 ft., Perception Passive 10
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*
@@ -26,7 +26,7 @@ Construire par un assemblage sommaire d'os humanoïdes, une bête d'os ne ressem
 >
 > **Odorat Aiguisé.** La bête d'os a l'avantage aux jets de Sagesse (Perception) qui reposent sur l'odorat.
 >
-> **Tactiques de Groupe.** La bête d'os a l'avantage à ses jets d'attaque contre une créature si au moins un des alliés se trouve à 5 ft. de la créature et n'est pas [[incapacité]].
+> **Tactiques de Groupe.** La bête d'os a l'avantage à ses jets d'attaque contre une créature si au moins un des alliés se trouve à 5 ft. de la créature et n'est pas [[Incapacité]].
 >
 >### Actions
 >***Morsure.*** *Attaque Armée de Mêlée :* +4 pour toucher, allonge 5 ft., une cible. *Touché :* 9 (2d6 +2) dégâts perforants.

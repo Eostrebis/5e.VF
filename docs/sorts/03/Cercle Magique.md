@@ -29,7 +29,7 @@ Choisissez un ou plusieurs types de créatures parmi : célestes, élémentaires
 La créature ne peut pas pénétrer volontairement dans le cylindre par des moyens non magiques. Si la créature essaye de se téléporter ou d'utiliser le voyage inter-planaire pour rentrer dans le cylindre, elle doit d'abord réussir un jet de sauvegarde de Charisme.
 
  - La créature a le désavantage aux jets d'attaque contre les cibles dans le cylindre.
- - Les cibles dans le cylindre ne peuvent être [[charmé|charmées]], [[apeuré|apeurées]] ou possédées par la créature.
+ - Les cibles dans le cylindre ne peuvent être [[Charmé|charmées]], [[Apeuré|apeurées]] ou possédées par la créature.
  - Lorsque vous lancez ce sort, vous pouvez choisir de faire en sorte que la magie fonctionne à l'envers, empêchant une créature du type spécifié de sortir du cylindre et protégeant les créatures à l'extérieur de celui-ci.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, la durée augment de 1 heure par niveau d'emplacement de sort au-delà du niveau 3.

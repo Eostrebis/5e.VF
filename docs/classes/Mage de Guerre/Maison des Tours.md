@@ -15,7 +15,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 
 
 ## Acrobate Arcanique
 
-À partir du niveau 7, vous pouvez ajouter votre Intelligence à tous les jets de Dextérité que vous effectuez. De plus, lorsque vous tombez et que vous n'êtes pas [[incapacité]], vous pouvez soustraire jusqu'à 60 ft. de la chute lorsque vous calculez les dégâts de chute.
+À partir du niveau 7, vous pouvez ajouter votre Intelligence à tous les jets de Dextérité que vous effectuez. De plus, lorsque vous tombez et que vous n'êtes pas [[Incapacité]], vous pouvez soustraire jusqu'à 60 ft. de la chute lorsque vous calculez les dégâts de chute.
 
 ## Leurre Flottant
 
@@ -27,6 +27,6 @@ Au niveau 15, vous êtes extrêmement difficile à coincer. Si vous vous déplac
 
 ## Éclair de Plumes
 
-À partir du niveau 18, vous pouvez disparaître sans laisser de trace, vous faufiler derrière les lignes ennemies et vous lancer pour le coup final. Vous pouvez lancer le sort [[invisibilité]] une fois, ne ciblant que vous, sans utilisant d'emplacement de sort ni de composantes. Tant que vous êtes [[invisible]], votre vitesse est doublée et vous pouvez réaliser une attaque ou lancer un cantrip de mage de guerre sans terminer le sort.
+À partir du niveau 18, vous pouvez disparaître sans laisser de trace, vous faufiler derrière les lignes ennemies et vous lancer pour le coup final. Vous pouvez lancer le sort [[invisibilité]] une fois, ne ciblant que vous, sans utilisant d'emplacement de sort ni de composantes. Tant que vous êtes [[Invisible]], votre vitesse est doublée et vous pouvez réaliser une attaque ou lancer un cantrip de mage de guerre sans terminer le sort.
 
 Une fois que vous avez utilisé cette aptitude pour lancer [[invisibilité]], vous ne pouvez le refaire avant d'avoir terminé un repos.

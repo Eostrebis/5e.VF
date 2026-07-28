@@ -29,7 +29,7 @@ Pendant la durée du sort, vous pouvez lancer des sorts comme si vous vous trouv
 
 À partir du niveau 6, vous pouvez utiliser votre Canal Divin pour disparaître.
 
-Pour une action, vous devenez [[invisible]] jusqu'à la fin de votre prochain tour. Vous redevenez visible si vous attaquez ou lancez un sort.
+Pour une action, vous devenez [[Invisible]] jusqu'à la fin de votre prochain tour. Vous redevenez visible si vous attaquez ou lancez un sort.
 
 ## Frappe Divine
 

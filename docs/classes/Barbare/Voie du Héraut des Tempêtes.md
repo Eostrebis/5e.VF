@@ -39,6 +39,6 @@ Au niveau 14, le pouvoir de la tempête que vous canalisez grandit encore et se 
 
 __Désert.__ Immédiatement après qu'une créature dans votre aura vous touche avec une attaque, vous pouvez dépenser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit un nombre de dégâts de feu égal à la moitié de niveau de barbare.
 
-__Mer.__ Lorsque vous touchez une créature dans votre aura avec une attaque, vous pouvez utiliser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Force. Si elle échoue, la créature tombe [[au sol]], comme si elle était touchée par une vague.
+__Mer.__ Lorsque vous touchez une créature dans votre aura avec une attaque, vous pouvez utiliser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Force. Si elle échoue, la créature tombe [[Au Sol]], comme si elle était touchée par une vague.
 
 __Toundra.__ À chaque fois que l'effet de votre Aura Tempétueuse s'active, vous pouvez choisir une créature que vous pouvez voir dans l'aura. La créature doit réussir un jet de sauvegarde de Force ou voir sa vitesse réduite à 0 jusqu'à son prochain tour, du givre magique la recouvrant.

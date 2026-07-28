@@ -25,4 +25,4 @@ damage: none
 ---
 Jusqu'à ce que le sort se termine, une créature consentante que vous touchez est protégée contre certains types de créatures : Aberrations, Célestes, Élémentaires, Fée, Fiélons et Morts-Vivants.
 
-Cette protection confère plusieurs effets. Les créatures de ces types obtiennent le désavantage pour leurs jets d'attaque contre la cible. La cible ne peut pas être [[charmé|charmée]], [[apeuré|apeurée]] ou possédée par ces créatures. Si la cible est déjà sous le coup de l'une de ces conditions, elle a l'avantage aux jets de sauvegarde qu'elle effectuerait pour y mettre fin.
+Cette protection confère plusieurs effets. Les créatures de ces types obtiennent le désavantage pour leurs jets d'attaque contre la cible. La cible ne peut pas être [[Charmé|charmée]], [[Apeuré|apeurée]] ou possédée par ces créatures. Si la cible est déjà sous le coup de l'une de ces états, elle a l'avantage aux jets de sauvegarde qu'elle effectuerait pour y mettre fin.

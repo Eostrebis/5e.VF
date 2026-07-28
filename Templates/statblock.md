@@ -14,7 +14,7 @@ ___
 >- **Vulnérabilités aux Dégâts.**
 >- **Résistances aux Dégâts** 
 >- **Immunités aux Dégâts
->- **Immunités aux Conditions** 
+>- **Immunités aux états** 
 >- **Sens.** Perception Passive 12
 >- **Langues** 
 >- **Difficulté** 

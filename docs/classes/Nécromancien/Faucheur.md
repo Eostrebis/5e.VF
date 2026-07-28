@@ -17,7 +17,7 @@ Lorsque vous choisissez cette ambition au niveau 3, vous apprenez des sorts supp
 
 ## Voile Charnel
 
-Au niveau 3, vous pouvez disparaître tel un spectre de la mort. Lorsque vous touchez avec une attaque de Toucher Charnel et dépensez au moins 5 points de votre réservoir, vous devenez [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous vous déplacez de 15 ft. ou plus.
+Au niveau 3, vous pouvez disparaître tel un spectre de la mort. Lorsque vous touchez avec une attaque de Toucher Charnel et dépensez au moins 5 points de votre réservoir, vous devenez [[Invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous vous déplacez de 15 ft. ou plus.
 
 ## Forme Ombrale
 
@@ -25,7 +25,7 @@ Au niveau 3, vous pouvez disparaître tel un spectre de la mort. Lorsque vous to
 
 En tant qu'ombre, votre vitesse de déplacement est doublée et vous obtenez une vitesse d'escalade égale à votre vitesse de déplacement. Vous pouvez vous déplacer sur les surfaces difficiles, y compris le plafond, sans nécessiter de jets de caractéristique. En tant qu'ombre, vous ne pouvez vous déplacer que le long de surfaces, vous ne pouvez pas sauter ni voler.
 
-Les attaques contre vous ont le désavantage tant que vous êtes en forme ombrale. Dans l'obscurité, vous êtes [[invisible]] aux yeux des créatures qui utilisent la vision dans le noir pour vous percevoir.
+Les attaques contre vous ont le désavantage tant que vous êtes en forme ombrale. Dans l'obscurité, vous êtes [[Invisible]] aux yeux des créatures qui utilisent la vision dans le noir pour vous percevoir.
 
 En tant qu'ombre, vous ne pouvez pas entreprendre d'actions. Votre équipement fusionne avec vous dans votre forme ombrale et n'a aucun effet jusqu'à ce que vous quittiez cette forme.
 

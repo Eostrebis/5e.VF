@@ -19,4 +19,4 @@ writing_status: finished
 zone: none
 damage: none
 ---
-Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, obtient une résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause une des conditions suivantes : [[assourdi]], [[apeuré]], [[aveuglé]], [[charmé]], [[empoisonné]], [[paralysé]], [[sonné]].
+Une énergie pure rayonne de vous dans une aura d'un rayon de 30 ft. jusqu'à ce que le sort se termine, l'aura se déplace pour vous garder en son centre. Chaque créature non hostile dans l'aura (vous y compris) ne peut pas tomber malade, obtient une résistance aux dégâts de poison, et a l'avantage aux jets de sauvegarde contre les effets qui cause un des états suivantes : [[Assourdi]], [[Apeuré]], [[Aveuglé]], [[Charmé]], [[Empoisonné]], [[Paralysé]], [[Sonné]].

@@ -5,7 +5,7 @@ Tous les artisans ne sont pas étrangers aux tourelles, bombes et autres mécani
 
 ## Sens du Danger
 
-À partir du moment où vous rejoignez cette guilde au niveau 3, votre expérience avec les pièges vous permet d'échapper plus facilement au danger. Vous avez l'avantage aux jets de sauvegarde de Dextérité contre des effets que vous pouvez voir, comme des pièges ou des sorts. Pour bénéficier de cet effet, vous ne devez pas être [[aveuglé]], [[assourdi]] ou [[incapacité]].
+À partir du moment où vous rejoignez cette guilde au niveau 3, votre expérience avec les pièges vous permet d'échapper plus facilement au danger. Vous avez l'avantage aux jets de sauvegarde de Dextérité contre des effets que vous pouvez voir, comme des pièges ou des sorts. Pour bénéficier de cet effet, vous ne devez pas être [[Aveuglé]], [[Assourdi]] ou [[Incapacité]].
 
 ## Pièges
 

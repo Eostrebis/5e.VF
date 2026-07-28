@@ -191,7 +191,7 @@ De plus, en tant que barde, vous pouvez réaliser l'une des actions suivantes :
 
 ## Contre-charme
 
-Au niveau 6, vous gagnez la capacité d'utiliser les notes de musique ou mots de pouvoir afin d'interférer avec des effets psychiques. Pour une action, vous pouvez commencer une représentation qui dure jusqu'à la fin de votre prochain tour. Pendant ce temps, vous et toutes créatures alliées à 30 ft. ont l'avantage à leurs jets de sauvegarde contre le fait d'être [[charmé]] ou [[apeuré]]. Une créature doit pouvoir vous entendre pour bénéficier de cet effet. La représentation se termine prématurément si vous êtes [[incapacité]] ou mis au silence ou si vous le décidez (pas besoin d'action).
+Au niveau 6, vous gagnez la capacité d'utiliser les notes de musique ou mots de pouvoir afin d'interférer avec des effets psychiques. Pour une action, vous pouvez commencer une représentation qui dure jusqu'à la fin de votre prochain tour. Pendant ce temps, vous et toutes créatures alliées à 30 ft. ont l'avantage à leurs jets de sauvegarde contre le fait d'être [[Charmé]] ou [[Apeuré]]. Une créature doit pouvoir vous entendre pour bénéficier de cet effet. La représentation se termine prématurément si vous êtes [[Incapacité]] ou mis au silence ou si vous le décidez (pas besoin d'action).
 
 ## Secrets Magiques
 

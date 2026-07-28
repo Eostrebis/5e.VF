@@ -19,6 +19,6 @@ writing_status: finished
 zone: none
 damage: none
 ---
-Une créature de votre choix que vous pouvez voir à portée se met à percevoir tout ce qui l'entoure comme hilarant et tombe dans un fou rire incontrôlable si elle se trouve affectée par le sort. La cible doit réussir un jet de sauvegarde de Sagesse ou tomber [[au sol]], devenant [[incapacité|incapacitée]] et ne pouvant se relever pendant la durée du sort. Une créature avec un score d'Intelligence de 4 ou moins n'est pas affectée par ce sort.
+Une créature de votre choix que vous pouvez voir à portée se met à percevoir tout ce qui l'entoure comme hilarant et tombe dans un fou rire incontrôlable si elle se trouve affectée par le sort. La cible doit réussir un jet de sauvegarde de Sagesse ou tomber [[Au Sol]], devenant [[Incapacité|incapacitée]] et ne pouvant se relever pendant la durée du sort. Une créature avec un score d'Intelligence de 4 ou moins n'est pas affectée par ce sort.
 
 À la fin de chacun de ses tours, et à chaque fois qu'elle subit des dégâts, la cible peut retenter le jet de sauvegarde. Si le jet est causé par des dégâts, la cible a l'avantage.

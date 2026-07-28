@@ -16,7 +16,7 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 >|1 (-5)|16 (+3)|11 (+0)|10 (+0)|10 (+0)|11 (+0)|
 > 
 > - **Immunités aux Dégâts.** Poison, Froid, Nécrotiques
-> - **Immunités aux Conditions.** [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
+> - **Immunités aux États.** [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
 > - **Sens.** Vision dans le noir 120 ft., Perception Passive 10
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*
@@ -32,4 +32,4 @@ Empli d'une nostalgie mélancolique envers le monde des vivants, un visage est l
 >### Actions
 >***Horrification.*** *Attaque Armée de Sort :* +5 pour toucher, allonge 5 ft., une cible. *Touché :* 15 (5d4 +3) dégâts psychiques.
 >
->***Invisibilité.*** Le visage devient magiquement [[invisible]] jusqu'à ce qu'il attaque ou que sa concentration ne termine (comme pour un sort). Tout équipement que le visage porte ou manie est invisible avec lui.
+>***Invisibilité.*** Le visage devient magiquement [[Invisible]] jusqu'à ce qu'il attaque ou que sa concentration ne termine (comme pour un sort). Tout équipement que le visage porte ou manie est invisible avec lui.

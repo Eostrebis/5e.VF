@@ -39,7 +39,7 @@ Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de
 
 ## Aura de la Sentinelle
 
-À partir du niveau 7, vous émettez une aura d'attention tant que vous n'êtes pas [[incapacité]]. Lorsque vous et toutes les créatures de votre choix dans un rayon de 10 ft. tirez l'initiative, vous gagnez tous un bonus à l'initiative égal à votre bonus de maîtrise.
+À partir du niveau 7, vous émettez une aura d'attention tant que vous n'êtes pas [[Incapacité]]. Lorsque vous et toutes les créatures de votre choix dans un rayon de 10 ft. tirez l'initiative, vous gagnez tous un bonus à l'initiative égal à votre bonus de maîtrise.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 

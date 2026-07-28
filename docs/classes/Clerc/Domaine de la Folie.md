@@ -30,11 +30,11 @@ Au niveau 1, à chaque fois que vous effectuez un jet de caractéristique qui n'
 | 1-5 | **Aphasie.** La créature ne peut pas parler et est incapable de lancer des sorts ou de comprendre les autres. |
 | 6-10 | **Delusion.** La créature souffre d'hallucinations réalistes. Lorsque qu'elle attaque ou cible une créature avec un sort ou un effet, lancez un d20. Si le résultat est impair, l'attaque rate, ou le sort ou l'effet échoue. |
 | 11-15 | **Frénésie.** La créature devient frénétique. Une créature frénétique perd sa capacité de distinguer ennemis et alliés. Tant qu'elle est frénétique, la créature choisit la cible de ses effets parmi toutes celles à portée, et elle doit réaliser une attaque d'opportunité si une créature en déclenche une. |
-| 16-20 | **Vertige.** La créature tombe [[au sol]] au début de chacun de ses tours si elle ne se tient pas à quelque chose. |
+| 16-20 | **Vertige.** La créature tombe [[Au Sol]] au début de chacun de ses tours si elle ne se tient pas à quelque chose. |
 
 ## Esprit Fragmenté
 
-Au niveau 6, votre esprit brisé est difficile à influencer. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer la condition [[charmé]] ou [[apeuré]] sur vous-même, et aux jets de sauvegarde contre les effets qui devraient détecter vos émotions ou lire vos pensées. Si vous passez 10 minutes à discuter avec une autre créature, vous pouvez lui conférer cet effet pendant 1 heure, alors qu'elle succombe à votre chemin de pensée tortueux.
+Au niveau 6, votre esprit brisé est difficile à influencer. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'état [[Charmé]] ou [[Apeuré]] sur vous-même, et aux jets de sauvegarde contre les effets qui devraient détecter vos émotions ou lire vos pensées. Si vous passez 10 minutes à discuter avec une autre créature, vous pouvez lui conférer cet effet pendant 1 heure, alors qu'elle succombe à votre chemin de pensée tortueux.
 
 ## Incantation Puissante
 
@@ -48,7 +48,7 @@ Au niveau 17, vous pouvez faire de votre vision tordue du monde la réalité, fo
 
 **Jour des Opposés.** Si une créature dans la zone devrait avoir l'avantage, elle a plutôt le désavantage, et inversement.
 
-**1,2,3 Soleil.** Aucune créature ne peut bouger pendant son tour. Au début de chaque tour d'initiative, toutes les créatures choisissent simultanément où elles veulent se déplacer et s'y déplacent instantanément. Si deux ou plus créatures veulent se déplacer vers un même emplacement, elles se heurtent et tombent [[au sol]].
+**1,2,3 Soleil.** Aucune créature ne peut bouger pendant son tour. Au début de chaque tour d'initiative, toutes les créatures choisissent simultanément où elles veulent se déplacer et s'y déplacent instantanément. Si deux ou plus créatures veulent se déplacer vers un même emplacement, elles se heurtent et tombent [[Au Sol]].
 
 **À Travers la Loupe.** Au début de tour de chaque créature, lancez un dé. Si le résultat est pair, la créature double en taille, comme d'après l'effet Agrandissement du sort [[Agrandissement ou Rapetissement]] ; si le résultat est impair, la taille de la créature est divisée par deux, comme selon l'effet Rapetissement.
 

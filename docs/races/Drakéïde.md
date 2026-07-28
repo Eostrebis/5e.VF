@@ -154,7 +154,7 @@ Vous pouvez utiliser votre Souffle un nombre de fois égal à votre bonus de ma�
 
 **Souffle Métallique.** À partir du niveau 5, vous gagnez un second souffle. Lorsque vous utilisez votre action pour Attaquer pendant votre tour, vous pouvez remplacer l'une de vos attaques par un souffle d'énergie magique dans un cône de 15 ft. Chaque créature dans cette zone doit faire un jet de sauvegarde (DC = 8 + CON mod. + Prof.). À chaque utilisation du trait, choisissez un parmi :
  
- - *Souffle débilitant.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Constitution ou devenir [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
- - *Souffle répulsif.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Force ou être repoussée de 20 ft. et tomber [[au sol]].
+ - *Souffle débilitant.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Constitution ou devenir [[Incapacité|incapacitée]] jusqu'au début de votre prochain tour.
+ - *Souffle répulsif.* Chaque créature dans le cône doit réussir un jet de sauvegarde de Force ou être repoussée de 20 ft. et tomber [[Au Sol]].
  
 Après avoir utilisé votre Souffle Métallique, vous devez terminer un repos long avant de pouvoir l'utiliser à nouveau.

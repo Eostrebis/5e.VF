@@ -17,7 +17,7 @@ Lorsque vous choisissez cette tradition au niveau 3, vous maîtrisez la compéte
 
 À partir du niveau 6, vous pouvez vous déplacer de façon soudaine et imprévisible. Vous bénéficiez des effets suivants : 
 
-**Sur Pieds.** Lorsque vous êtes [[au sol]], vous pouvez vous relever en dépensant 5 ft. de mouvement plutôt que la moitié de votre vitesse.
+**Sur Pieds.** Lorsque vous êtes [[Au Sol]], vous pouvez vous relever en dépensant 5 ft. de mouvement plutôt que la moitié de votre vitesse.
 
 **Attaque Redirigée.** Lorsqu'une créature vous rate avec un jet d'attaque de mêlée, vous pouvez dépenser 1 point de ki et votre réaction pour faire en sorte que cette attaque touche une autre créature de votre que vous pouvez voir à 5 ft. (autre que l'attaquant).
 

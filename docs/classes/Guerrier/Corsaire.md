@@ -11,7 +11,7 @@ Lorsque vous choisissez cet archétype au niveau 3, vous obtenez la maîtrise de
 
 Au niveau 3, vous avez appris à frapper vos adversaires lorsqu'ils s'y attendent le moins. Une fois par tour, vous pouvez infliger 1d6 dégâts supplémentaires à une créature que vous touchez avec une attaque si vous aviez l'avantage au jet d'attaque. L'attaque doit être réalisée avec une arme [[Propriétés d'Arme#finesse|Finesse]] ou à distance.
 
-Vous n'avez besoin de l'avantage au jet d'attaque si un autre ennemi de la cible se trouve à 5 ft. de celle-ci, si cet ennemi n'est pas [[incapacité]] et vous n'avez pas le désavantage au jet d'attaque.
+Vous n'avez besoin de l'avantage au jet d'attaque si un autre ennemi de la cible se trouve à 5 ft. de celle-ci, si cet ennemi n'est pas [[Incapacité]] et vous n'avez pas le désavantage au jet d'attaque.
 
 Le montant des dégâts supplémentaires augmente lorsque vous obtenez des niveaux dans cette classe. Au niveau 7, ces dégâts passent à 2d6. Au niveau 11, à 3d6. Enfin, au niveau 15, ces dégâts passent à 4d6.
 

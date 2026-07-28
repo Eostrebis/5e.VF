@@ -79,7 +79,7 @@ Choisissez un compagnon parmi les [[cohortes]] disponible ; après une initiatio
 
 Si votre cohorte est vaincue, vous pouvez la relever des morts avec les méthodes usuelles, comme un [[rappel à la vie]], ou vous pouvez passer 8 heures à initier une nouvelle cohorte. Si vous le faites, votre cohorte actuelle perd toutes ses capacités liées par cette aptitude, même si elle revient plus tard à la vie.
 
-Votre cohorte suit votre ordre du mieux qu'elle peut. Votre cohorte prend son tour immédiatement avant ou après vous (votre choix), et vous déterminez ses actions, décisions, attitudes et tout le reste. Si vous êtes [[incapacité]] ou absent, votre compagnon agit de lui-même.
+Votre cohorte suit votre ordre du mieux qu'elle peut. Votre cohorte prend son tour immédiatement avant ou après vous (votre choix), et vous déterminez ses actions, décisions, attitudes et tout le reste. Si vous êtes [[Incapacité]] ou absent, votre compagnon agit de lui-même.
 
 #### Aptitudes de Cohorte
 

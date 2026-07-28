@@ -29,4 +29,4 @@ Les plantes peuvent être capables de réaliser d'autres tâches pour vous, à l
 
 Si une créature Plante est dans la zone, vous pouvez communiquer avec elle comme si vous possédiez une langue en commun, mais vous n'obtenez aucun moyen de l'influencer magiquement.
 
-Ce sort peut faire relâcher une créature [[retenu|retenue]] aux plantes créées par le sort [[Enchevêtrement]].
+Ce sort peut faire relâcher une créature [[Retenu|retenue]] aux plantes créées par le sort [[Enchevêtrement]].

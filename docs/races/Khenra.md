@@ -31,4 +31,4 @@ La société Khenra est axée sur l'excellence physique et martiale. Ils consid�
 
 **Entraînement Khenra.** Au choix, vous maîtrisez les [[khopesh]], les [[lance|lances]] et les [[javeline|javelines]] ou vous connaissez les cantrips [[Œil de Ra]] et [[Œil d'Anubis]]. Le Charisme est la caractéristique d'incantation pour ces sorts.
 
-**Gémeaux.** Si votre jumeau est vivant et que vous pouvez le voir, à chaque fois que vous obtenez un 1 sur un jet d'attaque, de caractéristique ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat. Si votre jumeau est mort (ou que vous n'en avez jamais eu), vous ne pouvez pas être [[apeuré]].
+**Gémeaux.** Si votre jumeau est vivant et que vous pouvez le voir, à chaque fois que vous obtenez un 1 sur un jet d'attaque, de caractéristique ou jet de sauvegarde, vous pouvez relancer le dé et devez utiliser le nouveau résultat. Si votre jumeau est mort (ou que vous n'en avez jamais eu), vous ne pouvez pas être [[Apeuré]].

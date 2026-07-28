@@ -15,7 +15,7 @@ Pour une action bonus, vous pouvez dépenser un dé de bataille pour fortifier u
 
 ## Lentement mais Sûrement
 
-À partir du niveau 7, votre vitesse ne peut être réduite et vous ne pouvez être mis [[au sol]] ou déplacé contre votre volonté.
+À partir du niveau 7, votre vitesse ne peut être réduite et vous ne pouvez être mis [[Au Sol]] ou déplacé contre votre volonté.
 
 ## Mur Fortifié
 

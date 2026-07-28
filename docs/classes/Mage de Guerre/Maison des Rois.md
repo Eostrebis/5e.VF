@@ -30,7 +30,7 @@ __Jets de Sauvegarde.__ Lorsqu'un stratagème appelle à un jet de sauvegarde po
 
 __Blitz.__ Pour une action bonus, lorsque vous touchez une créature avec une attaque, vous pouvez dépenser un dé de bataille pour manœuvrer l'un de vos camarades vers une position plus avantageuse. Choisissez une créature amicale qui peut vous voir ou vous entendre. La créature peut utiliser sa réaction pour se déplacer de jusqu'à la moitié de sa vitesse sans provoquer d'attaque d'opportunité de la cible de l'attaque.
 
-__Échec.__ Lorsque vous touchez une créature avec une attaque, vous pouvez dépenser un dé de bataille et une action bonus pour forcer une créature à fuir. La cible doit réussir un jet de sauvegarde de Charisme. Une créature immunisée à la condition [[charmé]] réussit automatiquement son jet de sauvegarde. En cas d'échec, la cible doit immédiatement utiliser sa réaction, si disponible, pour se déplacer de la moitié de sa vitesse loin de vous.
+__Échec.__ Lorsque vous touchez une créature avec une attaque, vous pouvez dépenser un dé de bataille et une action bonus pour forcer une créature à fuir. La cible doit réussir un jet de sauvegarde de Charisme. Une créature immunisée à l'état [[Charmé]] réussit automatiquement son jet de sauvegarde. En cas d'échec, la cible doit immédiatement utiliser sa réaction, si disponible, pour se déplacer de la moitié de sa vitesse loin de vous.
 
 __Éclair de Génie.__ Lorsque vous réalisez un jet d'Intelligence ou de Sagesse, vous pouvez dépenser un dé de bataille pour l'ajouter au jet. Vous pouvez choisir d'utiliser ce stratagème après que le jet de compétence est lancé mais avant que le MJ n'en annonce le résultat.
 

@@ -21,4 +21,4 @@ De plus, lorsque vous entreprenez l'action de Saisir une créature, la cible sub
 
 ## Vengeance Cloutée
 
-À partir du niveau 10, lorsqu'une créature à 5 ft. vous touchez avec une attaque de mêlée, l'attaquant subit 3 dégâts perçants si vous êtes en rage, non [[incapacité]] et que vous portez une [[armure cloutée]].
+À partir du niveau 10, lorsqu'une créature à 5 ft. vous touchez avec une attaque de mêlée, l'attaquant subit 3 dégâts perçants si vous êtes en rage, non [[Incapacité]] et que vous portez une [[armure cloutée]].

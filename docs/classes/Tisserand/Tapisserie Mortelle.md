@@ -30,4 +30,4 @@ Au niveau 10, vous pouvez habilement vous extirper de la zone d'effets de certai
 
 ## Gloire Éternelle
 
-Au niveau 14, vous gagnez l'accès à toutes les catégories de lamefils, et vous pouvez invoquer n'importe laquelle à tout moment. Vous pouvez utiliser votre Dextérité ou votre Intelligence pour attaquer avec, au choix, et vous ne pouvez être [[sonné]] ou [[paralysé]].
+Au niveau 14, vous gagnez l'accès à toutes les catégories de lamefils, et vous pouvez invoquer n'importe laquelle à tout moment. Vous pouvez utiliser votre Dextérité ou votre Intelligence pour attaquer avec, au choix, et vous ne pouvez être [[Sonné]] ou [[Paralysé]].

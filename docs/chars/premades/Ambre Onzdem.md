@@ -77,7 +77,7 @@ Il se déplace avec une lenteur délibérée, s'appuyant souvent sur un simple b
 
 **Magie Firbolg.** Vous pouvez lancer les sort [[Détection de la Magie]] et [[Déguisement]] avec ce trait. Lorsque vous utilisez cette version de [[Déguisement]], vous pouvez apparaître comme 3 ft. plus grand ou plus petit. Une fois que vous avez lancé n'importe lequel de ces sorts avec ce trait, vous ne pouvez pas relancer ce sort avec ce trait tant que vous n'avez pas fini un repos long. Vous pouvez également lancer ces sorts en utilisant des emplacements de sort classiques. Votre caractéristique d'incantation pour ces sorts est la Sagesse.
 
-**Pas Caché.** Pour une action visible, vous pouvez magiquement devenir [[invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, effectuiez un jet de dégâts, ou forciez quelqu'un à effectuer un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
+**Pas Caché.** Pour une action visible, vous pouvez magiquement devenir [[Invisible]] jusqu'à la fin de votre prochain tour, ou jusqu'à ce que vous attaquiez, effectuiez un jet de dégâts, ou forciez quelqu'un à effectuer un jet de sauvegarde. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les utilisations après un repos long.
 
 **Carrure Imposante.** Vous êtes considéré comme d'une taille plus grande lorsque vous déterminez le poids que vous pouvez porter, tirer, soulever.
 
@@ -95,7 +95,7 @@ En tant que Martyr, vous avez été prédestiné par les dieux à périr pour un
 
 #### Baume
 
-Vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer la condition [[aveuglé]], [[assourdi]] ou [[empoisonné]] d'une créature consentante que vous touchez.
+Vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer l'état [[Aveuglé]], [[Assourdi]] ou [[Empoisonné]] d'une créature consentante que vous touchez.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 
@@ -131,7 +131,7 @@ Ambre, le Vaisseau du Vide, est maintenant un Martyr en quête de cause. Il parc
 
 ### Aptitude d'Historique
 
-Votre esprit et votre corps sont saturés par la volonté rémanente du dieu mort. Vous avez l'avantage à tous les jets de sauvegarde pour ne pas être [[apeuré]], [[charmé]] ou [[sonné]]. De plus, lorsque vous devez faire un jet de sauvegarde de Constitution pour maintenir votre concentration sur un sort, vous pouvez considérer tout résultat de 9 ou moins sur le dé comme un 10.
+Votre esprit et votre corps sont saturés par la volonté rémanente du dieu mort. Vous avez l'avantage à tous les jets de sauvegarde pour ne pas être [[Apeuré]], [[Charmé]] ou [[Sonné]]. De plus, lorsque vous devez faire un jet de sauvegarde de Constitution pour maintenir votre concentration sur un sort, vous pouvez considérer tout résultat de 9 ou moins sur le dé comme un 10.
 
 ### Traits de Personnalité
 

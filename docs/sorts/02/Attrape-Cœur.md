@@ -21,6 +21,6 @@ writing_status: finished
 zone: none
 damage: perforant
 ---
-Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perforants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perforants supplémentaires et la cible est [[sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.
+Lorsque vous lancez ce sort, des épines barbelées poussent au bout de vos doigts. Effectuez une attaque de sort de mêlée contre une créature à portée. Si vous touchez, la cible subit 1d10 dégâts perforants et doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, vous saisissez une partie vitale de son anatomie et la pressez, infligeant 3d10 dégâts perforants supplémentaires et la cible est [[Sonné|sonnée]] jusqu'au début de son prochain tour. Si le jet d'attaque de sort est un coup critique, la cible a un désavantage sur son jet de sauvegarde.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, les dégâts perforants de la seconde phase du sort augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 2.

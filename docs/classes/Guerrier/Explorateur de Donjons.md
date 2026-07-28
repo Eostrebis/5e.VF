@@ -5,7 +5,7 @@ Seuls les fous fonceraient tête baissée dans une crypte abandonnée remplie de
 
 ## Sens du Danger
 
-À partir du moment où vous choisissez cet archétype au niveau 3, vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Pour bénéficier de cet effet, vous ne pouvez pas être [[aveuglé]], [[assourdi]] ou [[incapacité]].
+À partir du moment où vous choisissez cet archétype au niveau 3, vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que vous pouvez voir, comme les pièges ou les sorts. Pour bénéficier de cet effet, vous ne pouvez pas être [[Aveuglé]], [[Assourdi]] ou [[Incapacité]].
 
 ## Leroy
 

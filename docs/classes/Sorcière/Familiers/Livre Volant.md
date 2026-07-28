@@ -21,13 +21,13 @@ Il y a peu de chose à dire sur le livre volant qui ne soit pas évident. Même 
 >*_*
 >- **Vulnérabilités aux Dégâts** feu
 >- **Immunité aux Dégâts** poison, psychique
->- **Immunité aux Conditions** [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]], [[paralysé]], [[pétrifié]], [[empoisonné]]
+>- **Immunité aux États** [[Aveuglé]], [[Charmé]], [[Assourdi]], [[Apeuré]], [[Paralysé]], [[Pétrifié]], [[Empoisonné]]
 >- **Sens.** Vision Aveugle 60 ft. (aveugle au-delà), Perception Passive 7
 >- **Langues** --
 >- **Difficulté** 0 (10 PX)
 >- **Bonus de Maîtrise** +2
 >*_*
->**Susceptibilité à l'Antimagie.** Le livre volant est [[incapacité]] lorsqu'il se trouve dans un champ antimagique. S'il est ciblé par une [[Dissipation de la Magie]], le livre volant doit réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de sort du lanceur ou tomber [[inconscient]] pendant 1 minute.
+>**Susceptibilité à l'Antimagie.** Le livre volant est [[Incapacité]] lorsqu'il se trouve dans un champ antimagique. S'il est ciblé par une [[Dissipation de la Magie]], le livre volant doit réussir un jet de sauvegarde de Constitution contre le DD de sauvegarde de sort du lanceur ou tomber [[Inconscient]] pendant 1 minute.
 > 
 >**Fausse Apparence.** Tant que le livre volant est immobile, il n'est pas distinguable d'un livre normal.
  >*_*

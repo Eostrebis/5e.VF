@@ -15,11 +15,11 @@ Au niveau 3, vos heures passées avec les artisans et les bardes payent enfin : 
 
 ## Riff Ravageur
 
-Toujours au niveau 3, vous pouvez jouer de vos armes-instrument même en combat, vous ambiançant tout en fissurant des crânes. Lorsque vous entrez en rage, vous commencez un solo de fou sur votre arme-instrument. Après avoir infligé des dégâts à une créature hostile pendant votre rage avec une arme-instrument, vous augmentez votre bonus de dégâts de Rage de 1. Vous pouvez augmenter ainsi votre bonus de dégâts de Rage de jusqu'à deux fois votre bonus de maîtrise. Cette augmentation persiste jusqu'à ce que vous soyez [[incapacité]], que vous lâchiez votre arme-instrument, que vous ratiez une attaque ou que votre rage ne termine.
+Toujours au niveau 3, vous pouvez jouer de vos armes-instrument même en combat, vous ambiançant tout en fissurant des crânes. Lorsque vous entrez en rage, vous commencez un solo de fou sur votre arme-instrument. Après avoir infligé des dégâts à une créature hostile pendant votre rage avec une arme-instrument, vous augmentez votre bonus de dégâts de Rage de 1. Vous pouvez augmenter ainsi votre bonus de dégâts de Rage de jusqu'à deux fois votre bonus de maîtrise. Cette augmentation persiste jusqu'à ce que vous soyez [[Incapacité]], que vous lâchiez votre arme-instrument, que vous ratiez une attaque ou que votre rage ne termine.
 
 ## Voix de Tueur
 
-Au niveau 6, pour une action bonus, vous pouvez lâcher un cri de guerre foudroyant, un hurlement à glacer le sang ou un grognement. Chaque créature de taille G ou moins que vous choisissez à 5 ft. est repoussée de 5 ft. et [[assourdi|assourdie]] jusqu'à la fin de votre prochain tour.
+Au niveau 6, pour une action bonus, vous pouvez lâcher un cri de guerre foudroyant, un hurlement à glacer le sang ou un grognement. Chaque créature de taille G ou moins que vous choisissez à 5 ft. est repoussée de 5 ft. et [[Assourdi|assourdie]] jusqu'à la fin de votre prochain tour.
 
 ## Jusqu'à Onze ! 
 

@@ -31,13 +31,13 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Abjuration d'Ennemi.** Pour une action, vous dressez votre symbole sacré et prononcez une prière de dénonciation en utilisant votre Canal Divin. Choisissez une créature à 60 ft. que vous pouvez voir. Elle doit effectuer un jet de sauvegarde de Sagesse, sauf si elle est immunisée contre la condition [[apeuré]]. Les fiélons et les morts-vivants ont le désavantage à ce jet de sauvegarde.
+**Abjuration d'Ennemi.** Pour une action, vous dressez votre symbole sacré et prononcez une prière de dénonciation en utilisant votre Canal Divin. Choisissez une créature à 60 ft. que vous pouvez voir. Elle doit effectuer un jet de sauvegarde de Sagesse, sauf si elle est immunisée contre l'état [[Apeuré]]. Les fiélons et les morts-vivants ont le désavantage à ce jet de sauvegarde.
 
-Si elle échoue, la créature est [[apeuré|apeurée]] pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[apeuré|apeurée]], la vitesse de la créature est de 0 et elle ne peut bénéficier d'aucun bonus à sa vitesse.
+Si elle échoue, la créature est [[Apeuré|apeurée]] pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Tant qu'elle est [[Apeuré|apeurée]], la vitesse de la créature est de 0 et elle ne peut bénéficier d'aucun bonus à sa vitesse.
 
 Si elle réussit, la vitesse de la créature est réduite de moitié pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts.
 
-**Vœu d'Hostilité.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour émettre un vœu d'hostilité contre une créature que vous pouvez voir à 10 ft. Vous obtenez l'avantage aux jets d'attaque contre cette créature pendant 1 minute ou jusqu'à ce qu'elle tombe à 0 point de vie ou [[inconscient|inconsciente]].
+**Vœu d'Hostilité.** Pour une action bonus, vous pouvez utiliser votre Canal Divin pour émettre un vœu d'hostilité contre une créature que vous pouvez voir à 10 ft. Vous obtenez l'avantage aux jets d'attaque contre cette créature pendant 1 minute ou jusqu'à ce qu'elle tombe à 0 point de vie ou [[Inconscient|inconsciente]].
 
 ## Vengeur sans Relâche
 
@@ -51,6 +51,6 @@ Au niveau 15, l'autorité avec laquelle vous prononcez votre vœu d'hostilité v
 Au niveau 20, vous pouvez prendre la forme d'un ange vengeur. En utilisant votre action, vous vous transformez et bénéficiez des effets suivants pendant 1 minute : 
 
  - Des ailes poussent sur votre dos et vous confèrent une vitesse de vol de 60 ft.
- - Vous émanez une aura de menace de 30 ft. La première fois qu'une créature entre dans cette aura ou qu'elle y commence son tour pendant un combat, la créature doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] de vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Les jets d'attaque contre une créature [[apeuré|apeurée]] de cette façon ont l'avantage.
+ - Vous émanez une aura de menace de 30 ft. La première fois qu'une créature entre dans cette aura ou qu'elle y commence son tour pendant un combat, la créature doit réussir un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] de vous pendant 1 minute ou jusqu'à ce qu'elle prenne des dégâts. Les jets d'attaque contre une créature [[Apeuré|apeurée]] de cette façon ont l'avantage.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos long.

@@ -11,7 +11,7 @@ Infiltration, déguisement et mensonge tel un arracheur de dents, voilà les pri
 
 Au niveau 3, vous possédez un certain nombre de babioles qui assistent votre espionnage. Vous pouvez utiliser les babioles suivantes : 
 
-**Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous subissez des dégâtst.
+**Poudre de Verre.** Pour une action bonus, vous pouvez jeter cette poudre en l'air, devenant [[Invisible]] jusqu'au début de votre prochain tour. Cet effet se termine prématurément si vous subissez des dégâtst.
 
 **Lunettes à Montures en Corne.** Pour une action bonus, vous pouvez lancer le sort [[Déguisement]] une fois sans dépenser d'emplacement de sort ou de composantes.
 
@@ -19,7 +19,7 @@ Au niveau 3, vous possédez un certain nombre de babioles qui assistent votre es
 
 ## Clandestin
 
-Au niveau 6, vous cherchez toujours à tuer votre cible en un coup. Lorsque vous effectuez un jet d'attaque contre une créature qui est [[surpris|surprise]] ou qui n'a pas encore agi dans le combat, vous pouvez considérer que les dés de dégâts de votre arme obtiennent le résultat maximal.
+Au niveau 6, vous cherchez toujours à tuer votre cible en un coup. Lorsque vous effectuez un jet d'attaque contre une créature qui est [[Surpris|surprise]] ou qui n'a pas encore agi dans le combat, vous pouvez considérer que les dés de dégâts de votre arme obtiennent le résultat maximal.
 
 ## Pas à la cuillère
 

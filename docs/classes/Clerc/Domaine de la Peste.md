@@ -15,7 +15,7 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 ## Porteur Sain
 
-À partir du niveau 1, vous êtes immunisé contre les maladies et la condition [[empoisonné]]. De plus, choisissez l'un des symptômes persistants suivants, qui vous affecte : 
+À partir du niveau 1, vous êtes immunisé contre les maladies et l'état [[Empoisonné]]. De plus, choisissez l'un des symptômes persistants suivants, qui vous affecte : 
 
 | d8 | Symptôme |
 | --- | ------------------------------------------------------------------------------------------------- |
@@ -34,7 +34,7 @@ Les clercs du domaine de la Peste vénèrent les dieux qui favorisent la corrupt
 
 ## Tumeur
 
-Toujours au niveau 1, votre corps emmagasine ses toxines dans une protubérance bulbeuse. Lorsqu'une créature à 5 ft. vous touche avec une attaque, vous pouvez utiliser votre réaction pour essayer d'empoisonner la créature avec votre tumeur. La créature doit effectuer un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
+Toujours au niveau 1, votre corps emmagasine ses toxines dans une protubérance bulbeuse. Lorsqu'une créature à 5 ft. vous touche avec une attaque, vous pouvez utiliser votre réaction pour essayer d'empoisonner la créature avec votre tumeur. La créature doit effectuer un jet de sauvegarde de Constitution ou être [[Empoisonné|empoisonnée]] pendant 1 minute. La créature peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos avant de pouvoir l'utiliser à nouveau.
 
@@ -56,7 +56,7 @@ Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos ava
 
  - Lorsque vous infligez des dégâts nécrotiques ou radiants, vous pouvez changer le type à poison.
  - Vous ignorez les résistances aux dégâts de poison.
- - Vos sorts et aptitudes de clerc ignorent l'immunité à la condition [[empoisonné]] et aux maladies. Une créature qui a cette immunité a plutôt un avantage à ses jets de sauvegarde relatifs à ces conditions.
+ - Vos sorts et aptitudes de clerc ignorent l'immunité à l'état [[Empoisonné]] et aux maladies. Une créature qui a cette immunité a plutôt un avantage à ses jets de sauvegarde relatifs à ces états.
 
 ## Frappe Divine
 

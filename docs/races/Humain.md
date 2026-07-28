@@ -195,7 +195,7 @@ Votre peuple métabolise en lézardant au soleil. Aidé par votre robuste peau c
 
 **Armure Naturelle.** Votre peau se comporte comme une armure naturelle. Lorsque vous ne portez pas d'amure, votre CA de base est égale à 12 + votre modificateur de Dextérité. Vous pouvez utiliser votre armure naturelle pour déterminer votre CA si l'armure que vous portez vous laisserait avec une CA inférieure. Vous bénéficiez toujours des effets d'un bouclier lorsque vous utilisez votre armure naturelle.
 
-**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer la condition [[empoisonné]] sur vous-même. Vous avez aussi une résistancee aux dégâts de poison.
+**Résilience Photosynthétique.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou pour terminer l'état [[Empoisonné]] sur vous-même. Vous avez aussi une résistancee aux dégâts de poison.
 
 ---
 
@@ -287,7 +287,7 @@ Vous êtes un amas de plumes, de chair et de fourrure ; mi-homme, mi-ours et r
 
 **Bec.** Vous avez un long bec crochu que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, le coup fait 1d6 + votre modificateur de Force dégâts perforants, au lieu des dégâts contondants usuels.
 
-**Lutte d'Hibours.** Vous pouvez tenter de Saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de [[saisi|saisie]] que vous effectuez pendant votre tour contre des créatures plus petites que vous.
+**Lutte d'Hibours.** Vous pouvez tenter de Saisir des créatures jusqu'à deux tailles au-dessus de vous, et vous avez l'avantage aux jets de [[Saisi|saisie]] que vous effectuez pendant votre tour contre des créatures plus petites que vous.
 
 ---
 
@@ -375,7 +375,7 @@ Les descendants des méduses — les sthénos — sont généralement conçus av
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit effectuer un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre la condition [[retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
+**Regard Immobilisant.** Lorsque vous utilisez votre action pour attaquer, vous pouvez remplacer l'une de vos attaques par un regard immobilisant. Choisissez une créature que vous pouvez voir et qui peut vous voir à 60 ft. Cette créature doit effectuer un jet de sauvegarde de Constitution (DD = 8 + votre modificateur de Constitution + votre bonus de maîtrise). Une créature immunisée contre l'état [[Retenu]] réussit automatiquement ce jet de sauvegarde. Si elle échoue, la cible est [[Incapacité|incapacitée]] et sa vitesse est réduite à 0 jusqu'au début de votre prochain tour.
 
 Vous pouvez utiliser votre Regard Immobilisant un nombre de fois égal à votre bonus de maîtrise et vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
@@ -411,7 +411,7 @@ Comme les ettins, vous avez deux têtes avec des personnalités différentes qui
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Deux-Têtes.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'une des conditions suivantes sur vous-même : [[aveuglé]], [[charmé]], [[assourdi]], [[apeuré]].
+**Deux-Têtes.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer l'un des états suivantes sur vous-même : [[Aveuglé]], [[Charmé]], [[Assourdi]], [[Apeuré]].
 
 **Éveillé.** Puisque l'une de vos têtes est toujours réveillée, vous restez conscient lorsque vous prenez un repos long.
 

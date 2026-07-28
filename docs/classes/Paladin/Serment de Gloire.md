@@ -36,7 +36,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 
 ## Aura d'Alacrité
 
-À partir du niveau 7, vous émanez une aura qui emplit vous et vos compagnons d'une vitesse surnaturelle, vous permettant de parcourir le champ de bataille en quelques secondes, tout en restant en formation. Votre vitesse de marche augmente de 10 ft. De plus, tant que vous n'êtes pas [[incapacité]], la vitesse de marche de vos alliés qui commencent leur tour à 5 ft. de vous augmente également de 10 ft. jusqu'à la fin de leur tour.
+À partir du niveau 7, vous émanez une aura qui emplit vous et vos compagnons d'une vitesse surnaturelle, vous permettant de parcourir le champ de bataille en quelques secondes, tout en restant en formation. Votre vitesse de marche augmente de 10 ft. De plus, tant que vous n'êtes pas [[Incapacité]], la vitesse de marche de vos alliés qui commencent leur tour à 5 ft. de vous augmente également de 10 ft. jusqu'à la fin de leur tour.
 
 Au niveau 18, la portée de cette aura augmente de 5 ft. pour passer à 10 ft.
 

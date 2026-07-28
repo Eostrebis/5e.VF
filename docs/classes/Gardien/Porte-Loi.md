@@ -17,13 +17,13 @@ Au niveau 6, vous pouvez lancer le sort [[injonction]] une fois sans utiliser d'
 
 ## Esprit Mécanique
 
-À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter la condition [[charmé]] ou [[apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur subit 4d6 dégâts psychiques.
+À partir du niveau 13, votre esprit est une forteresse, inflexible et incassable. Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter l'état [[Charmé]] ou [[Apeuré]]. À chaque fois que vous réussissez un jet de sauvegarde contre un sort d'enchantement ou une aptitude qui tente de perturber vos pensées ou de contrôler votre esprit, le lanceur subit 4d6 dégâts psychiques.
 
 ## Axiome Universel
 
 Au niveau 20, pour une action, vous pouvez vous transformer en l'incarnation de la loi universelle, une Construction aux intentions définitives. Pendant 1 minute, vous bénéficiez des effets suivants : 
 
- - Vous ne pouvez être [[épuisement|épuisé]], [[apeuré]], [[saisi]], [[incapacité]], [[paralysé]], [[pétrifié]], [[empoisonné]], [[au sol]], [[retenu]] ou [[sonné]].
+ - Vous ne pouvez être [[Épuisement|épuisé]], [[Apeuré]], [[Saisi]], [[Incapacité]], [[Paralysé]], [[Pétrifié]], [[Empoisonné]], [[Au Sol]], [[Retenu]] ou [[Sonné]].
  - Vous avez l'avantage à tous les jets de sauvegarde.
  - Vous pouvez utiliser votre aptitude [[#Mandat]] à volonté.
 
