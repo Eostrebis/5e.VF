@@ -6,13 +6,13 @@ search:
 
 ## Avancée de la Traduction
 
-**Classes.** 14/25 ![](https://geps.dev/progress/74)
+**Classes.** 14/25 ![](https://geps.dev/progress/75)
 
 > [!INFO]- Détails par classe
 > - **Alchimiste.** ![](https://geps.dev/progress/100) 
 > - **Argartiste.** ![](https://geps.dev/progress/7) 
 > - **Artisan.** ![](https://geps.dev/progress/100) 
-> - **Barbare.** ![](https://geps.dev/progress/91) 
+> - **Barbare.** ![](https://geps.dev/progress/95) 
 > - **Barde.** ![](https://geps.dev/progress/42) 
 > - **Capitaine.** ![](https://geps.dev/progress/100) 
 > - **Clerc.** ![](https://geps.dev/progress/100) 
@@ -65,4 +65,4 @@ search:
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-07-28 08:56:03
+Mis à jour pour la dernière fois le 2026-07-28 09:44:46
