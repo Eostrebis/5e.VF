@@ -124,34 +124,34 @@ Vous avez l'avantage aux jets de sauvegarde de Dextérité contre les effets que
 
 Au niveau 3, vous choisissez une voie qui guide la forme de votre rage. Votre choix vous confère des aptitudes aux niveaux 3, 6, 10 et 14.
 
-| Voie                              | Description                                                                                        |
-| --------------------------------- | -------------------------------------------------------------------------------------------------- |
-| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées                     |
-| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.                |
-| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets tout aussi surprenants.<br> |
-| [[Voie de la Magie Très Sauvage]] | Est soumis aux puissantes et aléatoires instabilités magiques que lui confère sa rage.             |
-| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                                   |
-| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                          |
-| [[Voie du Berserker]]             | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser.        |
-| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                          |
-| [[Voie du Fanatique]]             | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort.         |
-| [[Voie du Fléau]]                 | Tire profit de l'influence de forces occultes pour assouvir sa faim                                |
-| [[Voie du Fou de Guerre]]         |                                                                                                    |
-| [[Voie du Gardien Ancestral]]     | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires. |
-| [[Voie du Guerrier Totémique]]    |                                                                                                    |
-| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes            |
-| [[Voie du Héraut des Tempêtes]]   |                                                                                                    |
-| [[Voie du Lunatique]]             |                                                                                                    |
-| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité            |
-| [[Voie du Maudit]]                |                                                                                                    |
-| [[Voie du Tonneau]]               |                                                                                                    |
-| [[Voie des Géants]]               | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance                  |
+| Voie                              | Description                                                                                                   |
+| --------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| [[Voie de l'Aileron]]             | Suiveurs de totems océaniques, aux branchies apparentes et aux dents aiguisées                                |
+| [[Voie de la Bête]]               | Transforme sa rage en armes naturelles, se faisant pousser griffes, crocs ou queue.                           |
+| [[Voie de la Magie Sauvage]]      | Libère des déferlantes de magie imprévisible en manifestant des effets tout aussi surprenants.           |
+| [[Voie de la Magie Très Sauvage]] | Est soumis aux puissantes et aléatoires instabilités magiques que lui confère sa rage.                        |
+| [[Voie de la Sérénité]]           | Un guerrier zen qui rentre en état de transe pendant les combats                                              |
+| [[Voie de Mashle]]                | Clairement un "magicien". Un "magicien" costaud et énervé                                                     |
+| [[Voie du Berserker]]             | Transforme sa rage en une frénésie sanglante pour frapper plus souvent, quitte à s'épuiser.                   |
+| [[Voie du Colosse]]               | Double sa taille pour écraser ses ennemis                                                                     |
+| [[Voie du Fanatique]]             | Alimenté par une fureur divine qui lui permet de continuer à se battre au-delà de la mort.                    |
+| [[Voie du Fléau]]                 | Tire profit de l'influence de forces occultes pour assouvir sa faim                                           |
+| [[Voie du Fou de Guerre]]         | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler. |
+| [[Voie du Gardien Ancestral]]     | Invoque les esprits protecteurs de ses ancêtres pour défendre ses alliés et gêner ses adversaires.            |
+| [[Voie du Guerrier Totémique]]    | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles.   |
+| [[Voie du Heavy Metal]]           | Des guerriers de taverne connus pour leur musique et leur tendance à écraser des crânes                       |
+| [[Voie du Héraut des Tempêtes]]   | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé.                   |
+| [[Voie du Lunatique]]             |                                                                                                               |
+| [[Voie du Mage Rageur]]           | Un arcaniste qui canalise de puissantes charge magiques explosives par sa pure férocité                       |
+| [[Voie du Maudit]]                | Un esprit brisé par l'Archive Maudite qui puise sa fureur dans l'horreur cosmique et les secrets impies.                                                                                                              |
+| [[Voie du Tonneau]]               |                                                                                                               |
+| [[Voie des Géants]]               | Fait appel aux pouvoirs des géants pour s'élargir et tenir ses ennemis à distance                             |
 
 | **Voie**                            | **Description**                                                                                                |
 | ----------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| **[[Voie du Fou de Guerre]]**       | Un combattant brutal vêtu d'une armure à pointes, qui se jette corps et âme sur ses ennemis pour les empaler.  |
-| **[[Voie du Guerrier Totémique]]**  | S'harmonise avec un esprit animal (ours, aigle, loup...) pour gagner des capacités physiques surnaturelles.    |
-| **[[Voie du Héraut des Tempêtes]]** | Émane une aura élémentaire destructrice de feu, de glace ou de foudre lorsqu'il est enragé.                    |
+| **[[Voie du Fou de Guerre]]**       |                                                                                                                |
+| **[[Voie du Guerrier Totémique]]**  |                                                                                                                |
+| **[[Voie du Héraut des Tempêtes]]** |                                                                                                                |
 | **[[Voie du Lunatique]]**           | Tire sa force des phases de la lune, altérant la gravité et libérant des éclats de lumière argentée.           |
 | **[[Voie du Maudit]]**              | Un guerrier rongé par une malédiction qui utilise l'énergie nécrotique pour affaiblir et terrifier ses proies. |
 | **[[Voie du Tonneau]]**             | Un bagarreur éméché qui utilise l'alcool et des tonneaux robustes comme armes de guerre improvisées.           |
