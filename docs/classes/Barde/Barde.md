@@ -152,24 +152,24 @@ Au niveau 2, si une créature possède un dé d'Inspiration Bardique de votre pa
 
 Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde de votre choix. Votre choix vous confère des aptitudes aux niveaux 3, 6 et 14.
 
-| Collège Bardique              | Description |
-| ----------------------------- | ----------- |
-| [[Collège de l'Éloquence]]    |             |
-| [[Collège de la Création]]    |             |
-| [[Collège de la Romance]]     |             |
-| [[Collège de la Vaillance]]   |             |
-| [[Collège des Annonciateurs]] |             |
-| [[Collège des Barmans]]       |             |
-| [[Collège des Bouffons]]      |             |
-| [[Collège des Cantateurs]]    |             |
-| [[Collège des Graffitis]]     |             |
-| [[Collège des Masques]]       |             |
-| [[Collège des Rumeurs]]       |             |
-| [[Collège des Épées]]         |             |
-| [[Collège du Charme]]         |             |
-| [[Collège du Dieu Fou]]       |             |
-| [[Collège du Portrait]]       |             |
-| [[Collège du Savoir]]         |             |
+| Collège Bardique              | Description                                                             |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| [[Collège de l'Éloquence]]    |                                                                         |
+| [[Collège de la Création]]    |                                                                         |
+| [[Collège de la Romance]]     | Un séducteur qui envoûte jusqu'à ses plus féroces adversaires.          |
+| [[Collège de la Vaillance]]   |                                                                         |
+| [[Collège des Annonciateurs]] |                                                                         |
+| [[Collège des Barmans]]       |                                                                         |
+| [[Collège des Bouffons]]      | Un artiste connu pour ses acrobaties audacieuses et son humour mordant. |
+| [[Collège des Cantateurs]]    | Un parolier divin qui apaise de sa simple voix.                         |
+| [[Collège des Graffitis]]     | Un artiste arcanique utilisant n'importe quelle surface comme toile.    |
+| [[Collège des Masques]]       | Un comédien aux multiples identités aux magies bien différentes.        |
+| [[Collège des Rumeurs]]       |                                                                         |
+| [[Collège des Épées]]         |                                                                         |
+| [[Collège du Charme]]         |                                                                         |
+| [[Collège du Dieu Fou]]       | Un être maniant et jouant la mélodie discordante du chaos.              |
+| [[Collège du Portrait]]       |                                                                         |
+| [[Collège du Savoir]]         |                                                                         |
 
 ## Expertise
 
