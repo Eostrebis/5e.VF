@@ -46,7 +46,7 @@ Au niveau 1, votre patron considère votre manque de culture comme une insulte e
 
 ## Vérités Accablantes
 
-Au niveau 6, votre esprit est protégé par le poids des connaissances absolues de l'Archive. Quiconque tente de le forcer est submergé par des informations inutiles. Vous avez l'avantage aux jets de sauvegarde contre les effets [[charmé]] et [[apeuré]].
+Au niveau 6, votre esprit est protégé par le poids des connaissances absolues de l'Archive. Quiconque tente de le forcer est submergé par des informations inutiles. Vous avez l'avantage aux jets de sauvegarde contre les effets [[Charmé]] et [[Apeuré]].
 
 De plus, lorsqu'une créature vous inflige des dégâts, vous pouvez utiliser votre réaction pour projeter dans son esprit une vision de la fin des temps ou d'un équation insoluble. La cible doit réussir un jet de sauvegarde d'Intelligence contre votre DD de sauvegarde contre les sorts. En cas d'échec, elle subit 1d10 + votre niveau d'occultiste dégâts psychiques et ne peut plus utiliser de réaction jusqu'au début de son prochain tour. Vous pouvez utilisez cette aptitude un nombre de fois égal à votre bonus de maîtrise par repos.
 

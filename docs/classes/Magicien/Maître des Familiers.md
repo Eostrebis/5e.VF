@@ -15,7 +15,7 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 À partir du niveau 6, tant que vous avez un familier, vous bénéficiez d'un effet en fonction de sa forme. Vous continuez à bénéficier de cet effet même si votre familier est transformé par votre Évolution Arcanique.
 
-**Chauve-Souris.** Vous pouvez utiliser une action bonus pendant votre tour pour gagner la vision aveugle sur une distance de 15 ft. tant que vous n'êtes pas [[assourdi]].
+**Chauve-Souris.** Vous pouvez utiliser une action bonus pendant votre tour pour gagner la vision aveugle sur une distance de 15 ft. tant que vous n'êtes pas [[Assourdi]].
 
 **Chat.** Lorsque vous atterrissez après un saut ou une chute, vous pouvez utiliser votre réaction pour nullifier les dégâts de chute. 
 
@@ -27,7 +27,7 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 **Lézard.** Vous êtes résistants aux dégâts de poison.
 
-**Pieuvre.** Lorsque vous êtes [[saisi]], vous pouvez utiliser votre action bonus pour essayer de vous défaire. Lorsque vous essayez de vous défaire d'une saisie, vous obtenez un bonus à votre jet de Force (Athlétisme) ou Dextérité (Acrobatie) égal à votre modificateur d'Intelligence (minimum 1).
+**Pieuvre.** Lorsque vous êtes [[Saisi]], vous pouvez utiliser votre action bonus pour essayer de vous défaire. Lorsque vous essayez de vous défaire d'une saisie, vous obtenez un bonus à votre jet de Force (Athlétisme) ou Dextérité (Acrobatie) égal à votre modificateur d'Intelligence (minimum 1).
 
 **Chouette.** Vous obtenez la vision dans le noir sur 30 ft.
 
@@ -35,7 +35,7 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 **Piranha.** Vous avez une vitesse de nage de 30 ft. et vous pouvez retenir votre respiration deux fois plus longtemps.
 
-**Rat.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer une maladie ou la condition [[empoisonné]] sur vous-même.
+**Rat.** Vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer une maladie ou l'état [[Empoisonné]] sur vous-même.
 
 **Corbeau.** Vous ajoutez votre bonus de maîtrise à vos jets de sauvegarde contre la mort et vous connaissez le cantrip [[stabilisation]], qui ne compte pas parmi le nombre de cantrips que vous connaissez. L'Intelligence est votre caractéristique d'incantation pour ce sort.
 
@@ -43,7 +43,7 @@ Apprendre le sort [[appel de familier]] est vu comme un rite de passage chez les
 
 **Araignée.** Vous avez une vitesse d'escalade de 30 ft.
 
-**Belette.** Vous faufiler ne vous demande pas de mouvement supplémentaire, et vous pouvez vous relever du [[au sol|sol]] pour seulement 5 ft. de mouvement.
+**Belette.** Vous faufiler ne vous demande pas de mouvement supplémentaire, et vous pouvez vous relever du [[Au Sol|sol]] pour seulement 5 ft. de mouvement.
 
 ## Amélioration de Familier
 
@@ -63,7 +63,7 @@ Au niveau 14, tant que vous avez un familier, vous bénéficiez d'un effet en fo
 
 **Élémentaire.** Lorsque vous lancez un sort qui inflige des dégâts, vous pouvez changer le type de ces dégâts pour être acide, froid, feu, foudre ou tonnerre. De plus, vous pouvez parler, lire et écrire le Primordial. 
 
-**Fée.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer les conditions [[apeuré]] ou [[charmé]] sur vous-même.
+**Fée.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution Arcanique, vous pouvez vous téléporter de 5 ft. * le niveau de l'emplacement de sort dépensé. De plus, vous avez l'avantage aux jets de sauvegarde que vous effectuez pour éviter ou terminer les états [[Apeuré]] ou [[Charmé]] sur vous-même.
 
 **Fiélon.** Lorsque vous dépensez un emplacement de sort pour lancer un sort ou utiliser votre Évolution arcanique, vous pouvez choisir une créature à 30 ft. pour lui infliger un nombre de dégâts de froid, feu ou nécrotique (votre choix) égal à votre modificateur d'Intelligence + le niveau de l'emplacement de sort dépensé. De plus, vous êtes résistant aux dégâts de feu.
 

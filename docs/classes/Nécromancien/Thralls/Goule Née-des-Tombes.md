@@ -16,7 +16,7 @@ Les goules nées-des-tombes, qui sont imprégnées de terribles énergies nécro
 >|18 (+4)|15 (+2)|10 (+0)|9 (-1)|10 (+0)|8 (-1)|
 > 
 > - **Immunités aux Dégâts.** Poison
-> - **Immunités aux Conditions.** [[Charmé]], [[Épuisement]], [[Empoisonné]]
+> - **Immunités aux États.** [[Charmé]], [[Épuisement]], [[Empoisonné]]
 > - **Sens.** Vision aveugle 60 ft., Perception Passive 10
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*

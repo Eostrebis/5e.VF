@@ -36,7 +36,7 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 | 5 | Vous devenez invisible jusqu'à la fin de votre prochain tour, comme d'après le sort [[invisibilité]] |
 | 6 | La cible s'enflamme, subissant 1d4 dégâts de feu. La cible continue de subir 1d4 dégâts de feu au début de chacun de ses tours jusqu'à ce qu'une créature éteigne les flammes pour une action |
 | 7 | La peau de la cible se transforme en verre fragile jusqu'à la fin de son prochain tour, réduisant sa CA de 3, à un minimum de 10 |
-| 8 | La cible s'affale [[au sol]] |
+| 8 | La cible s'affale [[Au Sol]] |
 | 9 | Quelque chose explose au loin, infligeant 8d6 dégâts de feu à n'importe quel créature dans un rayon de 20 ft. autour de l'objet qui explose |
 | 10 | Tirer deux fois dans cette table et appliquez les deux résultats, en relançant les 10 |
 

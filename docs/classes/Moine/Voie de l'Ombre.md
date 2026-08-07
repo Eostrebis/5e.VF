@@ -13,7 +13,7 @@ Au niveau 6, vous obtenez la capacité de marcher d'une ombre à l'autre. Lorsqu
 
 ## Cape d'Ombre
 
-Au niveau 11, vous avez appris comment ne faire qu'un avec les ombres. Lorsque vous vous trouvez dans une zone de lumière faible ou de ténèbres, vous pouvez utiliser votre action pour devenir [[invisible]]. Vous restez [[invisible]] jusqu'à ce que vous réalisiez une attaque, lanciez un sort, ou êtes dans une zone de lumière vive.
+Au niveau 11, vous avez appris comment ne faire qu'un avec les ombres. Lorsque vous vous trouvez dans une zone de lumière faible ou de ténèbres, vous pouvez utiliser votre action pour devenir [[Invisible]]. Vous restez [[Invisible]] jusqu'à ce que vous réalisiez une attaque, lanciez un sort, ou êtes dans une zone de lumière vive.
 
 ## Opportuniste
 

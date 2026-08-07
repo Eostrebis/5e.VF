@@ -57,7 +57,7 @@ A parti du niveau 14, vous avez installé des attachements extérieurs à votre 
 
 **Gyro-Module.** Vous pouvez utiliser votre action pour faire rapidement tourner votre appareil sur lui-même, lui permettant de réaliser une attaque de mêlée contre toute créature à 5 ft. de lui, avec un jet d'attaque distinct pour chaque créature. Vous ne pouvez pas vous déplacer pendant ces attaques.
 
-**Engin de Fusée.** Vous pouvez utiliser votre action bonus pour allumer le moteur de fusée accroché à votre appareil, le propulsant de 30 ft. en ligne droite dans une direction que vous choisissez. Si vous réalisez une attaque de mêlée directement après ce mouvement, l'attaque est réalisée avec avantage. Si vous touchez, la cible est mise [[au sol]] ou est projetée de 10 ft. (votre choix).
+**Engin de Fusée.** Vous pouvez utiliser votre action bonus pour allumer le moteur de fusée accroché à votre appareil, le propulsant de 30 ft. en ligne droite dans une direction que vous choisissez. Si vous réalisez une attaque de mêlée directement après ce mouvement, l'attaque est réalisée avec avantage. Si vous touchez, la cible est mise [[Au Sol]] ou est projetée de 10 ft. (votre choix).
 
 ## Propriété Légendaire
 

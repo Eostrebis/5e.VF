@@ -18,7 +18,7 @@ Un grep est un charognard souterrain, connu pour utiliser sa vision aiguisée, s
 >
 >*_*
 >- **Compétences** Perception +4, Escamotage +6, Discrétion +6
->- **Immunités aux Conditions** empoisonné
+>- **Immunités aux États** empoisonné
 >- **Sens.** Vision dans le Noir 60 ft., Perception Passive 12
 >- **Langues** Comprends le Commun et l'Outre-Commun, mais ne peut pas parler
 >- **Difficulté** 1 (200 PX)

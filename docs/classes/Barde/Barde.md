@@ -31,29 +31,29 @@ Avez-vous été un apprenti, étudiant auprès d'un maître, suivant un barde pl
 
 Vous pouvez créer un barde rapidement en suivant ces suggestions. Commencez par faire du Charisme votre caractéristique principale, suivie de la Dextérité. Choisissez l'historique [[comique]]. Enfin, choisissez les cantrips [[Fou Rire]] et [[Lumières Dansantes]], ainsi que les sorts de niveau 1 [[Charme-personne]], [[Détection de la Magie]] et [[Vague Tonnante]].
 
-| **Le barde** | | |
-| ------------ | ----------------- | --------- |
-| Niveau | Bonus de Maîtrise | Aptitudes |
-| 1 | +2 | |
-| 2 | +2 | |
-| 3 | +2 | |
-| 4 | +2 | |
-| 5 | +3 | |
-| 6 | +3 | |
-| 7 | +3 | |
-| 8 | +3 | |
-| 9 | +4 | |
-| 10 | +4 | |
-| 11 | +4 | |
-| 12 | +4 | |
-| 13 | +5 | |
-| 14 | +5 | |
-| 15 | +5 | |
-| 16 | +5 | |
-| 17 | +6 | |
-| 18 | +6 | |
-| 19 | +6 | |
-| 20 | +6 | |
+| **Le barde** |                   |                                                                               |                 |              |        |        |        |        |        |        |        |        |        |
+| ------------ | ----------------- | ----------------------------------------------------------------------------- | --------------- | ------------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| Niveau       | Bonus de Maîtrise | Aptitudes                                                                     | Cantrips Connus | Sorts Connus | Niv. 1 | Niv. 2 | Niv. 3 | Niv. 4 | Niv. 5 | Niv. 6 | Niv. 7 | Niv. 8 | Niv. 9 |
+| 1            | +2                | [[#Incantation]], [[#Inspiration Bardique]] (d6)                              | 2               | 4            | 2      | —      | —      | —      | —      | —      | —      | —      | —      |
+| 2            | +2                | [[#Touche-à-tout]], [[#Chant Reposant]] (d6), [[#Inspiration Magique (Opt.)]] | 2               | 5            | 3      | —      | —      | —      | —      | —      | —      | —      | —      |
+| 3            | +2                | [[#Collège Bardique]], [[#Expertise]]                                         | 2               | 6            | 4      | 2      | —      | —      | —      | —      | —      | —      | —      |
+| 4            | +2                | [[#Augmentation de Caractéristiques]]                                         | 3               | 7            | 4      | 3      | —      | —      | —      | —      | —      | —      | —      |
+| 5            | +3                | [[#Inspiration Bardique]] (d8), [[#Source d'Inspiration]]                     | 3               | 8            | 4      | 3      | 2      | —      | —      | —      | —      | —      | —      |
+| 6            | +3                | [[#Contre-charme]], Aptitude de [[#Collège B ardique]]                        | 3               | 9            | 4      | 3      | 3      | —      | —      | —      | —      | —      | —      |
+| 7            | +3                | —                                                                             | 3               | 10           | 4      | 3      | 3      | 1      | —      | —      | —      | —      | —      |
+| 8            | +3                | [[#Augmentation de Caractéristiques]]                                         | 3               | 11           | 4      | 3      | 3      | 2      | —      | —      | —      | —      | —      |
+| 9            | +4                | [[#Chant Reposant]] (d8)                                                      | 3               | 12           | 4      | 3      | 3      | 3      | 1      | —      | —      | —      | —      |
+| 10           | +4                | [[#Inspiration Bardique]] (d10), [[#Expertise]], [[#Secrets Magiques]]        | 4               | 14           | 4      | 3      | 3      | 3      | 2      | —      | —      | —      | —      |
+| 11           | +4                | —                                                                             | 4               | 15           | 4      | 3      | 3      | 3      | 2      | 1      | —      | —      | —      |
+| 12           | +4                | [[#Augmentation de Caractéristiques]]                                         | 4               | 15           | 4      | 3      | 3      | 3      | 2      | 1      | —      | —      | —      |
+| 13           | +5                | [[#Chant Reposant]] (d10)                                                     | 4               | 16           | 4      | 3      | 3      | 3      | 2      | 1      | 1      | —      | —      |
+| 14           | +5                | [[#Secrets Magiques]], Aptitude de [[#Collège Bardique]]                      | 4               | 18           | 4      | 3      | 3      | 3      | 2      | 1      | 1      | —      | —      |
+| 15           | +5                | [[#Inspiration Bardique]] (d12)                                               | 4               | 19           | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | —      |
+| 16           | +5                | [[#Augmentation de Caractéristiques]]                                         | 4               | 19           | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | —      |
+| 17           | +6                | [[#Chant Reposant]] (d12)                                                     | 4               | 20           | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
+| 18           | +6                | [[#Secrets Magiques]]                                                         | 4               | 22           | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
+| 19           | +6                | [[#Augmentation de Caractéristiques]]                                         | 4               | 22           | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
+| 20           | +6                | [[#Inspiration Supérieure]]                                                   | 4               | 22           | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
 
 # Aptitudes de Classes
 
@@ -148,28 +148,28 @@ Ces points de vie supplémentaires augmentent lorsque vous atteignez certains ni
 
 Au niveau 2, si une créature possède un dé d'Inspiration Bardique de votre part et qu'elle lance un sort qui rend des points de vie ou inflige des dégâts, elle peut lancer ce dé et choisir une cible affectée par le sort. Ajoutez le résultat obtenu comme bonus aux points de vie rendus ou dégâts infligés. Le dé d'Inspiration Bardique est ensuite perdu.
 
-## Collège de Barde
+## Collège Bardique
 
 Au niveau 3, vous approfondissez les techniques avancées d'un collège de barde de votre choix. Votre choix vous confère des aptitudes aux niveaux 3, 6 et 14.
 
-| Collège de Barde | Description |
-| ---------------- | ----------- |
-| [[Collège de l'Éloquence]] | |
-| [[Collège de la Création]] | |
-| [[Collège de la Romance]] | |
-| [[Collège de la Vaillance]] | |
-| [[Collège des Annonciateurs]] | |
-| [[Collège des Barmans]] | |
-| [[Collège des Bouffons]] | |
-| [[Collège des Cantateurs]] | |
-| [[Collège des Graffitis]] | |
-| [[Collège des Masques]] | |
-| [[Collège des Rumeurs]] | |
-| [[Collège des Épées]] | |
-| [[Collège du Charme]] | |
-| [[Collège du Dieu Fou]] | |
-| [[Collège du Portrait]] | |
-| [[Collège du Savoir]] | |
+| Collège Bardique              | Description                                                             |
+| ----------------------------- | ----------------------------------------------------------------------- |
+| [[Collège de l'Éloquence]]    |                                                                         |
+| [[Collège de la Création]]    |                                                                         |
+| [[Collège de la Romance]]     | Un séducteur qui envoûte jusqu'à ses plus féroces adversaires.          |
+| [[Collège de la Vaillance]]   |                                                                         |
+| [[Collège des Annonciateurs]] |                                                                         |
+| [[Collège des Barmans]]       |                                                                         |
+| [[Collège des Bouffons]]      | Un artiste connu pour ses acrobaties audacieuses et son humour mordant. |
+| [[Collège des Cantateurs]]    | Un parolier divin qui apaise de sa simple voix.                         |
+| [[Collège des Graffitis]]     | Un artiste arcanique utilisant n'importe quelle surface comme toile.    |
+| [[Collège des Masques]]       | Un comédien aux multiples identités aux magies bien différentes.        |
+| [[Collège des Rumeurs]]       |                                                                         |
+| [[Collège des Épées]]         |                                                                         |
+| [[Collège du Charme]]         |                                                                         |
+| [[Collège du Dieu Fou]]       | Un être maniant et jouant la mélodie discordante du chaos.              |
+| [[Collège du Portrait]]       |                                                                         |
+| [[Collège du Savoir]]         |                                                                         |
 
 ## Expertise
 
@@ -191,7 +191,7 @@ De plus, en tant que barde, vous pouvez réaliser l'une des actions suivantes :
 
 ## Contre-charme
 
-Au niveau 6, vous gagnez la capacité d'utiliser les notes de musique ou mots de pouvoir afin d'interférer avec des effets psychiques. Pour une action, vous pouvez commencer une représentation qui dure jusqu'à la fin de votre prochain tour. Pendant ce temps, vous et toutes créatures alliées à 30 ft. ont l'avantage à leurs jets de sauvegarde contre le fait d'être [[charmé]] ou [[apeuré]]. Une créature doit pouvoir vous entendre pour bénéficier de cet effet. La représentation se termine prématurément si vous êtes [[incapacité]] ou mis au silence ou si vous le décidez (pas besoin d'action).
+Au niveau 6, vous gagnez la capacité d'utiliser les notes de musique ou mots de pouvoir afin d'interférer avec des effets psychiques. Pour une action, vous pouvez commencer une représentation qui dure jusqu'à la fin de votre prochain tour. Pendant ce temps, vous et toutes créatures alliées à 30 ft. ont l'avantage à leurs jets de sauvegarde contre le fait d'être [[Charmé]] ou [[Apeuré]]. Une créature doit pouvoir vous entendre pour bénéficier de cet effet. La représentation se termine prématurément si vous êtes [[Incapacité]] ou mis au silence ou si vous le décidez (pas besoin d'action).
 
 ## Secrets Magiques
 

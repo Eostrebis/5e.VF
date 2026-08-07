@@ -21,6 +21,6 @@ damage: none
 ---
 jusqu'à ce que le sort se termine, une pluie gelée et du grésil tombent dans un cylindre d'un rayon de 40 ft. et haut de 20 ft. centré sur un point que vous choisissez à portée. La zone est fortement obscurée et les flammes exposées dans la zone sont éteintes.
 
-Le sol de la zone est recouvert d'un épais verglas, rendant le terrain difficile. Lorsqu'une créature pénètre dans la zone du sort pour la première fois pendant son tour ou qu'elle y commence son tour, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle tombe [[au sol]].
+Le sol de la zone est recouvert d'un épais verglas, rendant le terrain difficile. Lorsqu'une créature pénètre dans la zone du sort pour la première fois pendant son tour ou qu'elle y commence son tour, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle tombe [[Au Sol]].
 
 Si une créature commence son tour dans la zone du sort en se concentrant sur un sort, la créature doit réussir un jet de sauvegarde de Constitution ou perdre sa concentration.

@@ -20,7 +20,7 @@ writing_status: finished
 zone: none
 damage: none
 ---
-Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astraux dans le Plan Astral (le sort rate et l'incantation est gâchée si vous vous trouvez déjà sur ce plan). Votre corps matériel reste derrière et est [[inconscient]] et dans un état d'animation suspendue; il n'a pas besoin de nourriture ou d'air, et ne vieillit pas.
+Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astraux dans le Plan Astral (le sort rate et l'incantation est gâchée si vous vous trouvez déjà sur ce plan). Votre corps matériel reste derrière et est [[Inconscient]] et dans un état d'animation suspendue; il n'a pas besoin de nourriture ou d'air, et ne vieillit pas.
 
 Votre corps astral ressemble à votre forme mortelle sur quasiment toutes les facettes, répliquant vos caractéristiques et possessions. La principale différence est l'addition d'un cordon argenté émanant de vos épaules et traînant derrière vous, disparaissant après 30 cm. Ce cordon est votre attache à votre corps matériel. Tant que cette attache demeure intacte, vous pouvez retrouvez votre chemin. Si le cordon est coupé -- quelque chose qui ne se passe que quand un effet le dit explicitement -- votre âme et votre corps sont séparés, vous tuant sur le coup.
 

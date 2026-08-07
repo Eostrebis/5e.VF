@@ -26,6 +26,6 @@ Dans le cadre de l'action utilisée pour lancer ce sort, vous devez réaliser un
 
 - **Contondants.** Une énergie explosive émane de l'attaque, et chaque créature autre que vous à moins de 10 ft. de la cible doit effectuer un jet de sauvegarde de Dextérité.
 
-Les créatures qui échouent à leur jet de sauvegarde subissent 2d10 dégâts radiants, sont repoussées de 10 ft. et tombent [[au sol]]. Une créature qui a été touchée par votre attaque a un désavantage à son jet de sauvegarde.
+Les créatures qui échouent à leur jet de sauvegarde subissent 2d10 dégâts radiants, sont repoussées de 10 ft. et tombent [[Au Sol]]. Une créature qui a été touchée par votre attaque a un désavantage à son jet de sauvegarde.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts radiants augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.

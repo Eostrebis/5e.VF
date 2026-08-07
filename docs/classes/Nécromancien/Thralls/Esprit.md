@@ -17,7 +17,7 @@ Un esprit est l'écho à peine tangible d'un humanoïde, une âme liée au domai
 > 
 > - **Vulnérabilité aux Dégâts.** Radiants
 > - **Immunités aux Dégâts.** Poison, Froid, Nécrotiques
-> - **Immunités aux Conditions.** [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
+> - **Immunités aux États.** [[Empoisonné]], [[Épuisement]], [[Saisi]], [[Paralysé]], [[Pétrifié]], [[Au Sol]], [[Retenu]]
 > - **Sens.** Vision dans le noir 120 ft., Perception Passive 10
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*

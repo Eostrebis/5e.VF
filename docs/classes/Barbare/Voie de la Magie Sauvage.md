@@ -24,7 +24,7 @@ Si l'effet requiert un jet de sauvegarde, le DD est égal à 8 + votre bonus de 
 | 5 | À chaque fois qu'une créature vous touche avec un jet d'attaque avant que votre rage ne termine, la créature subit 1d6 dégâts de force par rétribution magique. |
 | 6 | Jusqu'à ce que votre rage ne termine, vous êtes entourés de lueurs protectrices de toutes les couleurs ; vous gagnez un bonus de +1 à la CA et tant qu'ils se trouvent à 10 ft. de vous, vos alliés profitent du même effet. |
 | 7 | Des fleurs et des lianes poussent temporairement autour de vous ; jusqu'à ce que votre rage ne termine, le sol à 15 ft. autour de vous est du terrain difficile pour vos ennemis. |
-| 8 | Un trait de lumière est tiré de votre poitrine. Une autre créature de votre choix que vous pouvez voir à 30 ft. doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts radiants et être [[aveuglé\|aveuglée]] jusqu'au début de votre prochain tour. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet à chacun de vos tours pour une action bonus. |
+| 8 | Un trait de lumière est tiré de votre poitrine. Une autre créature de votre choix que vous pouvez voir à 30 ft. doit réussir un jet de sauvegarde de Constitution ou subir 1d6 dégâts radiants et être [[Aveuglé\|aveuglée]] jusqu'au début de votre prochain tour. Jusqu'à ce que votre rage ne termine, vous pouvez utiliser cet effet à chacun de vos tours pour une action bonus. |
 
 ## Magie de Renforcement
 

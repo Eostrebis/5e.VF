@@ -43,7 +43,7 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de ma
 
 Au niveau 11, le pouvoir de votre esprit draconique irradie de vous, protégeant vos alliés et inspirant la peur chez vos ennemis. Pour une action bonus, vous pouvez créer une aura de pouvoir draconique qui affecte 10 ft. autour de vous pendant 1 minute. Pendant cette durée, vous bénéficiez de l'un des effets suivants : 
 
-**Présence Effrayante.** Lorsque vous créez cette aura, et pour une action bonus pendant vos prochains tours, vous pouvez choisir une créature dans l'aura. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour tenter de terminer l'effet.
+**Présence Effrayante.** Lorsque vous créez cette aura, et pour une action bonus pendant vos prochains tours, vous pouvez choisir une créature dans l'aura. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] par vous pendant 1 minute. La cible peut répéter le jet de sauvegarde à la fin de chacun de ses tours pour tenter de terminer l'effet.
 
 **Résistance.** Choisissez un type de dégâts lorsque vous activez cette aura : acide, froid, feu, foudre ou poison. Vous et vos alliés dans l'aura obtiennent une résistance contre ces dégâts.
 

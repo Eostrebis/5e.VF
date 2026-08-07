@@ -30,7 +30,7 @@ La hauteur que vous pouvez sauter et la distance à soustraire de votre chute au
 
 ## Fende-Terre
 
-À partir du niveau 10, à la fin d'une chute de 20 ft. ou plus, vous pouvez utiliser votre action bonus pour frapper le sol comme un météore. Chaque créature en contact avec le sol à 10 ft. de l'emplacement de votre atterrissage doit réussir un jet de sauvegarde de Dextérité (DD égal à 8 + bonus de maîtrise + modificateur de Force) ou être mise [[au sol]].
+À partir du niveau 10, à la fin d'une chute de 20 ft. ou plus, vous pouvez utiliser votre action bonus pour frapper le sol comme un météore. Chaque créature en contact avec le sol à 10 ft. de l'emplacement de votre atterrissage doit réussir un jet de sauvegarde de Dextérité (DD égal à 8 + bonus de maîtrise + modificateur de Force) ou être mise [[Au Sol]].
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateur de Force (au moins 1). Vous regagnez toutes les utilisations dépensées lorsque vous terminez un repos long.
 

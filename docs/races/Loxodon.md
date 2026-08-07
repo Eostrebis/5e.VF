@@ -31,7 +31,7 @@ La culture loxodon est centrée sur la communauté, l'artisanat et la spirituali
 
 **Carrure Imposante.** Vous êtes considéré comme d'une taille supérieure pour déterminer votre capacité de charge ainsi que le poids que vous pouvez pousser, tirer ou soulever.
 
-**Sérénité des Éléphants.** Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[charmé]] ou [[apeuré]].
+**Sérénité des Éléphants.** Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[Charmé]] ou [[Apeuré]].
 
 **Armure Naturelle.** Vous avez une épaisse peau de cuir. Lorsque vous ne portez pas d'armure, votre CA est égale à 12 + votre modificateur de Constitution. Vous profitez normalement des effets d'un bouclier lorsque vous utilisez votre armure naturelle.
 

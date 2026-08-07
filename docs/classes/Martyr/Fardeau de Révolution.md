@@ -33,12 +33,12 @@ Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutilise
 
 ## Étendard Inflexible
 
-Au niveau 14, votre étendard est devenu un symbole de résistance. Vous et les créatures alliées à 10 ft. de vous peuvent ajouter leur modificateur de Sagesse à leurs jets d'initiative et sont immunisées contre le fait d'être [[charmé|charmer]] ou [[apeuré|apeurer]].
+Au niveau 14, votre étendard est devenu un symbole de résistance. Vous et les créatures alliées à 10 ft. de vous peuvent ajouter leur modificateur de Sagesse à leurs jets d'initiative et sont immunisées contre le fait d'être [[Charmé|charmer]] ou [[Apeuré|apeurer]].
 
 ## Tueur de Rois
 
 Au niveau 18, vous êtes la hantise des despotes, le défaiseur de tyrans. Lorsque vous réduisez les points de vie d'une créature hostile à 0, choisissez l'un des effets suivants :
 
  - Tous les sorts et effets de la créature se terminent instantanément, même ceux avec un effet permanent. De plus, les précautions magiques à la mort de la créature ne se déclenchent pas.
- - Chaque créature dans un rayon de 120 ft. de la cible qui y est alliée et qui a un FD inférieur à celui de la cible doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde contre les sorts ou être [[apeuré|apeurée]] par vous pendant 1 minute. Une cible apeurée peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
+ - Chaque créature dans un rayon de 120 ft. de la cible qui y est alliée et qui a un FD inférieur à celui de la cible doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde contre les sorts ou être [[Apeuré|apeurée]] par vous pendant 1 minute. Une cible apeurée peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
  - Vous pouvez utiliser une action bonus pour bouger jusqu'à 15 ft. et réaliser une attaque armée de mêlée.

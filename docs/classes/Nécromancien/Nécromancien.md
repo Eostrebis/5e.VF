@@ -144,7 +144,7 @@ En passant 10 minutes non interrompues à réaliser ce rituel avec un [[focalisa
 
 ### Contrôle de Thralls
 
-Vous pouvez mentalement contrôler tous vos thralls tant que vous êtes conscient sans utiliser d'action. Si vous êtes [[inconscient]], vos thralls se déplacent afin de protéger votre corps du danger, mais n'attaquent pas.
+Vous pouvez mentalement contrôler tous vos thralls tant que vous êtes conscient sans utiliser d'action. Si vous êtes [[Inconscient]], vos thralls se déplacent afin de protéger votre corps du danger, mais n'attaquent pas.
 
 En combat, vos thralls prennent leurs tours immédiatement avant ou après votre tour chaque tour (votre choix). Tous vos thralls partagent collectivement une réaction et une action bonus, qu'un seul thrall peut utiliser par tour.
 
@@ -219,8 +219,8 @@ Un phylactère est un objet qui héberge l'âme d'une liche, protégeant son imm
 
 ### Résilience Morte-Vivante
 
-Vous avez l'immunité contre les dégâts nécrotiques et de poison ainsi qu'à la condition [[empoisonné]].
+Vous avez l'immunité contre les dégâts nécrotiques et de poison ainsi qu'à l'état [[Empoisonné]].
 
 ### Traits Morts-Vivants
 
-Vous êtes immunisé contre les effets de l'[[épuisement]] et vous n'avez pas besoin de manger, boire, dormir ou respirer. Vous devez tout de même vous reposer pendant 4 heures pour bénéficier d'un repos long. Même si votre type reste Humanoïde, les sorts et effets qui affectent spécifiquement les Morts-Vivants vous affectent également. Vous êtes immunisé contre tous les effets qui renvoient les Morts-Vivants.
+Vous êtes immunisé contre les effets de l'[[Épuisement]] et vous n'avez pas besoin de manger, boire, dormir ou respirer. Vous devez tout de même vous reposer pendant 4 heures pour bénéficier d'un repos long. Même si votre type reste Humanoïde, les sorts et effets qui affectent spécifiquement les Morts-Vivants vous affectent également. Vous êtes immunisé contre tous les effets qui renvoient les Morts-Vivants.

@@ -12,7 +12,7 @@ En tant que Tueur de Titan, vous avez appris un bon nombre de techniques pour su
 Tant que vous vous trouvez dans l'espace d'une créature hostile, vous pouvez utiliser votre Attaque Sournoise contre cette créature tant que vous n'avez pas le désavantage au jet d'attaque, même si vous n'avez pas l'avantage au jet d'attaque contre elle et qu'il n'y a pas d'ennemi de la cible à 5 ft. d'elle. De plus, tant que vous êtes dans son espace, vous avez une demie-couverture si la créature est deux tailles plus grande que vous et une couverture de trois quarts si elle est plus de deux tailles plus grandes.
 ## Frappeur De Genou
 
-Au niveau 3, lorsque vous réalisez une Attaque contre une créature qui est d'au moins une taille plus grande que vous, vous pouvez sacrifier la moitié de vos dés d'Attaque sournoise (arrondi à l'inférieur, minimum de 1) pour mettre cette créature [[au sol]].
+Au niveau 3, lorsque vous réalisez une Attaque contre une créature qui est d'au moins une taille plus grande que vous, vous pouvez sacrifier la moitié de vos dés d'Attaque sournoise (arrondi à l'inférieur, minimum de 1) pour mettre cette créature [[Au Sol]].
 
 ## Déconcentration des Grandes Guibolles
 
@@ -20,8 +20,8 @@ Au niveau 9, vous êtes un expert dans l'art de surprendre les grands peuples, q
 
 ## Peur de Rien
 
-Au niveau 13, vous restez impassible devant les risques les plus grands. Vous ne pouvez pas être [[apeuré]]. De plus, lorsque vous lancez l'initiative, vous avez l'avantage aux jets de caractéristique et sauvegarde que vous effectuez jusqu'à la fin de votre prochain tour.
+Au niveau 13, vous restez impassible devant les risques les plus grands. Vous ne pouvez pas être [[Apeuré]]. De plus, lorsque vous lancez l'initiative, vous avez l'avantage aux jets de caractéristique et sauvegarde que vous effectuez jusqu'à la fin de votre prochain tour.
 
 ## Chute du Géant
 
-Au niveau 17, vos attaques armées contre les créatures au moins deux tailles plus grandes que vous effectuent un coup critique sur un 19 ou 20. Vos coups critiques mettent aussi la cible [[au sol]].
+Au niveau 17, vos attaques armées contre les créatures au moins deux tailles plus grandes que vous effectuent un coup critique sur un 19 ou 20. Vos coups critiques mettent aussi la cible [[Au Sol]].

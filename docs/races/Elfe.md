@@ -217,7 +217,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 
  - *Automne.* Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft.. Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.
 
- - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. Elle doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
+ - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. Elle doit réussir un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
  
  - *Printemps.* Quand vous utilisez votre Pas de Fée, vous pouvez toucher une créature consentante et adjacente. Cette créature se téléporte à votre place, réapparaissant à un emplacement inoccupé de votre choix que vous pouvez voir à moins de 30 ft.
  

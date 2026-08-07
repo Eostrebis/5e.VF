@@ -127,7 +127,7 @@ Choisissez un compagnon parmi les [[cohortes]] disponible ; après une initiatio
 
 Si votre cohorte est vaincue, vous pouvez la relever des morts avec les méthodes usuelles, comme un [[rappel à la vie]], ou vous pouvez passer 8 heures à initier une nouvelle cohorte. Si vous le faites, votre cohorte actuelle perd toutes ses capacités liées par cette aptitude, même si elle revient plus tard à la vie.
 
-Votre cohorte suit votre ordre du mieux qu'elle peut. Votre cohorte prend son tour immédiatement avant ou après vous (votre choix), et vous déterminez ses actions, décisions, attitudes et tout le reste. Si vous êtes [[incapacité]] ou absent, votre compagnon agit de lui-même.
+Votre cohorte suit votre ordre du mieux qu'elle peut. Votre cohorte prend son tour immédiatement avant ou après vous (votre choix), et vous déterminez ses actions, décisions, attitudes et tout le reste. Si vous êtes [[Incapacité]] ou absent, votre compagnon agit de lui-même.
 
 #### Aptitudes de Cohorte
 
@@ -185,7 +185,7 @@ Vous pouvez dépenser vos dés de bataille dans les manœuvres suivantes :
 
 **Ralliement.** Pour une action bonus pendant votre tour, vous pouvez dépenser un dé de bataille et choisir une créature alliée autre que vous pouvez voir ou entendre à 60 ft. de vous. Cette créature regagne un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme. Vous ne pouvez pas utiliser cette manœuvre pour soigner une créature à 0 point de vie.
 
-**Frappe Stupéfiante.** Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[incapacité|incapacitée]] jusqu'au début de votre prochain tour.
+**Frappe Stupéfiante.** Pour une action bonus lorsque vous réalisez une attaque armée contre une créature de taille G ou inférieure, vous pouvez dépenser un dé de bataille pour tenter d'assommer la cible. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution ou être [[Incapacité|incapacitée]] jusqu'au début de votre prochain tour.
 
 ## Augmentation de Caractéristiques
 

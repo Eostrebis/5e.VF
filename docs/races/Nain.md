@@ -133,6 +133,6 @@ Les duergars sont des nains dont les ancêtres se sont transformés au fil des s
 
 **Résistance Naine.** Vous avez l'avantage aux jets de sauvegarde contre le poison, et vous êtes résistant aux dégâts de poison.
 
-**Résistance Psionique.** Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer l'effet [[charmé]] ou [[sonné]] sur vous-même.
+**Résistance Psionique.** Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer l'effet [[Charmé]] ou [[Sonné]] sur vous-même.
 
 **Magie Duergar.** À partir du niveau 3, vous pouvez lancer le sort [[Agrandissement ou Rapetissement]] avec ce trait sans fournir de composantes matérielles. À partir du niveau 5, vous pouvez également lancer le sort [[invisibilité]] avec ce trait. Une fois que vous avez lancé un sort avec ce trait, vous ne pouvez pas le relancer de cette façon avant d'avoir terminé un repos long. La caractéristique d'incantation pour ce sort est, au choix, l'Intelligence, la Sagesse ou le Charisme.

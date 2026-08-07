@@ -30,7 +30,7 @@ Certaines commandes sont détaillées ci-dessous. Vous pouvez donner une injonct
 
 **Fuis.** La cible passe son tour à se déplacer pour s'éloigner de vous de la façon la plus rapide à sa disposition.
 
-**Tombe.** La cible tombe [[au sol]] et termine son tour.
+**Tombe.** La cible tombe [[Au Sol]] et termine son tour.
 
 **Stop.** La cible ne bouge plus et n'entreprend pas d'actions. Une créature volante reste en l'air, si elle en est capable. Si elle doit se déplacer pour rester en l'air, elle se déplace de la plus petite distance nécessaire pour cela.
 

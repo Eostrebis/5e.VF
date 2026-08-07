@@ -39,7 +39,7 @@ Les reliques de Patrimoine sont toujours liées aux forces fondamentales de la m
 
 ## Patrimoine Déterminé
 
-À partir du niveau 6, tant que vous êtes transformé, vous pouvez irradier une aura de courage pour une action. Pendant la prochaine minute, vous et les créatures amicales à 30 ft. avez l'avantage aux jets de sauvegarde contre la mort et pour éviter d'être [[apeuré]]. De plus, pendant cette durée, vous pouvez dépenser un dé de bataille et une action bonus pour soigner une créature consentante dans l'aura, qui regagne alors un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme.
+À partir du niveau 6, tant que vous êtes transformé, vous pouvez irradier une aura de courage pour une action. Pendant la prochaine minute, vous et les créatures amicales à 30 ft. avez l'avantage aux jets de sauvegarde contre la mort et pour éviter d'être [[Apeuré]]. De plus, pendant cette durée, vous pouvez dépenser un dé de bataille et une action bonus pour soigner une créature consentante dans l'aura, qui regagne alors un nombre de points de vie égal au résultat du dé + votre modificateur de Charisme.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant d'avoir terminé un repos.
 

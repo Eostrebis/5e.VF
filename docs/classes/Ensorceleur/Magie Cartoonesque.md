@@ -33,8 +33,8 @@ Au niveau 1, vos membres sont élastiques et maniables. Vous pouvez étendre vos
 Au niveau 6, votre comportement erratique vous garantit votre sécurité. Lorsqu'une créature hostile que vous pouvez voir à 5 ft. de vous réalise une attaque, vous pouvez utiliser votre réaction et dépenser 1 point de sorcellerie pour réaliser l'un des effets suivants :
 
  - Vous jouez un tour à l'attaquant juste avant qu'il attaque, comme lui lancer une tarte à la crème à la figure, lui imposant le désavantage à son jet d'attaque.
- - Si l'attaquant touche, la cible est magiquement aplatie, dégonflée comme un ballon, temporairement sciée en deux ou brûlée à point. Ainsi, la cible est résistante à cette instance de dégâts, mais tombe [[au sol]].
- - Si l'attaquant rate son attaque, il glisse sur une peau de banane habilement positionnée et tombe [[au sol]].
+ - Si l'attaquant touche, la cible est magiquement aplatie, dégonflée comme un ballon, temporairement sciée en deux ou brûlée à point. Ainsi, la cible est résistante à cette instance de dégâts, mais tombe [[Au Sol]].
+ - Si l'attaquant rate son attaque, il glisse sur une peau de banane habilement positionnée et tombe [[Au Sol]].
 
 À partir du niveau 14, vous pouvez utiliser cette aptitude lorsqu'une créature hostile que vous pouvez voir à 30 ft. attaque. Vous vous téléportez vers un espace inoccupé à 5 ft. de la cible pendant votre réaction.
 

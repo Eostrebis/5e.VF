@@ -41,7 +41,7 @@ Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais n
 
 **Vol de Peur.** Vous pouvez dépenser 1 point de sorcellerie pour entreprendre l'action Se Désengager pour une action bonus pendant votre tour.
 
-**Maladie d'Amour.** Envahi par l'amour, vous pouvez utiliser votre action bonus et dépenser 1 point de sorcellerie pour terminer un effet sur vous-même qui vous rend [[charmé]] ou [[apeuré]].
+**Maladie d'Amour.** Envahi par l'amour, vous pouvez utiliser votre action bonus et dépenser 1 point de sorcellerie pour terminer un effet sur vous-même qui vous rend [[Charmé]] ou [[Apeuré]].
 
 **Moment de Liesse.** Pour une action bonus, vous pouvez dépenser 1 point de sorcellerie pour obtenir une vitesse de vol égale à votre vitesse de marche jusqu'à la fin de votre tour. Si vous terminez votre tour dans les airs sans support sous vos pieds et que vous vous trouvez à 30 ft. du sol, vous flottez élégamment vers le sol. Sinon, vous tombez.
 
@@ -49,13 +49,13 @@ Chacun de ces sorts est considéré comme un sort d'ensorceleur pour vous mais n
 
 Au niveau 14, vous pouvez utiliser votre action pour tordre les émotions d'une créature que vous pouvez voir à 60 ft., qui doit effectuer un jet de sauvegarde de Charisme contre votre DD de sauvegarde de sorts. Si elle échoue, vous pouvez utiliser l'une des aptitudes suivantes sur elle :
 
-**Charmé.** Vous dépensez un point de sorcellerie et la créature est [[charmé|charmée]] par vous pendant 1 minute. Cet effet se termine prématurément si vous ou vos compagnons faites quoi que ce soit de négatif à la créature.
+**Charmé.** Vous dépensez un point de sorcellerie et la créature est [[Charmé|charmée]] par vous pendant 1 minute. Cet effet se termine prématurément si vous ou vos compagnons faites quoi que ce soit de négatif à la créature.
 
 **Frénétique.** Vous dépensez 3 points de sorcellerie pour que la créature devienne frénétique pendant jusqu'à 1 minute. La créature peut répéter ce jet de sauvegarde à chaque fois qu'elle subit des dégâts, terminant l'effet en cas de réussite.
 
 Une créature frénétique perd la capacité de différencier les alliés des ennemis, voyant toutes les créatures comme des ennemis à abattre. Tant qu'elle est frénétique, la créature choisit les cibles pour ses attaques, sorts et aptitudes aléatoirement parmi les créatures qu'elle peut voir à portée, et elle doit réaliser une attaque d'opportunité si une créature en provoque une.
 
-**Apeuré.** Vous dépensez 1 point de sorcellerie et la créature est [[apeuré|apeurée]] par vous pendant 1 minute. La créature peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
+**Apeuré.** Vous dépensez 1 point de sorcellerie et la créature est [[Apeuré|apeurée]] par vous pendant 1 minute. La créature peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
 
 **Indifférent.** Si la créature est hostile envers vous, vous pouvez dépenser 2 points de sorcellerie pour la rendre indifférente envers vous pendant 1 minute. L'indifférence se termine si la cible est attaquée ou blessée par un sort ou si elle voit un allié être blessé.
 

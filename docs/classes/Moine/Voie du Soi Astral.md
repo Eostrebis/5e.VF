@@ -12,7 +12,7 @@ Un moine qui suit la voie du soi astral pense que son corps n'est qu'illusion. I
 
 Lorsque vous choisissez cette tradition au niveau 3, votre maîtrise du ki vous permet d'invoquer une partie de votre soi astral. Pour une action bonus, vous pouvez dépenser 1 point de ki pour invoquer les bras de votre soi astral. Lorsque vous le faites, chaque créature de votre choix que vous pouvez voir à 10 ft. doit réussir un jet de sauvegarde de Dextérité ou subir un nombre de dégâts de force égal à deux de vos dés d'Arts Martiaux.
 
-Pendant 10 minutes, ces bras spectraux flottent au-dessus de vos épaules ou entourent vos bras (votre choix). Vous déterminez l'apparence de ces bras, et ils disparaissent si vous êtes [[incapacité]] ou mourez. Tant que ces bras spectraux sont présents, vous bénéficiez des effets suivants : 
+Pendant 10 minutes, ces bras spectraux flottent au-dessus de vos épaules ou entourent vos bras (votre choix). Vous déterminez l'apparence de ces bras, et ils disparaissent si vous êtes [[Incapacité]] ou mourez. Tant que ces bras spectraux sont présents, vous bénéficiez des effets suivants : 
 
  - Vous pouvez utiliser votre modificateur de Sagesse plutôt que de Force lorsque vous effectuez des jets de caractéristique et de sauvegarde de Force.
  - Vous pouvez utiliser ces bras pour réaliser des attaques à mains nues.
@@ -21,7 +21,7 @@ Pendant 10 minutes, ces bras spectraux flottent au-dessus de vos épaules ou ent
 
 ## Visage du Soi Astral
 
-Au niveau 6, vous pouvez invoquer le visage de votre soi astral. Pour une action bonus, ou en même temps que l'action bonus que vous utilisez pour activer les bras du soi astral, vous pouvez dépenser 1 point de ki pour invoquer ce visage pendant 10 minutes. Il disparaît si vous êtes [[incapacité]] ou mourez.
+Au niveau 6, vous pouvez invoquer le visage de votre soi astral. Pour une action bonus, ou en même temps que l'action bonus que vous utilisez pour activer les bras du soi astral, vous pouvez dépenser 1 point de ki pour invoquer ce visage pendant 10 minutes. Il disparaît si vous êtes [[Incapacité]] ou mourez.
 
 Le visage spectral recouvre votre face comme un casque ou un masque. Vous déterminez son apparence.
 
@@ -45,7 +45,7 @@ Tant que ce corps spectral est présent, vous bénéficiez des effets suivants :
 
 ## Soi Astral Éveillé
 
-Au niveau 17, votre connexion avec votre soi astral est complète, vous permettant de libérer votre plein potentiel. Pour une action bonus, vous pouvez dépenser 5 points de ki pour invoquer les bras, le visage, et le corps de votre soi astral et l'éveiller pendant 10 minutes. Cet éveil se termine plus tôt si vous êtes [[incapacité]] ou mourez.
+Au niveau 17, votre connexion avec votre soi astral est complète, vous permettant de libérer votre plein potentiel. Pour une action bonus, vous pouvez dépenser 5 points de ki pour invoquer les bras, le visage, et le corps de votre soi astral et l'éveiller pendant 10 minutes. Cet éveil se termine plus tôt si vous êtes [[Incapacité]] ou mourez.
 
 Tant que votre soi astral est éveillé, vous bénéficiez des effets suivants :
 

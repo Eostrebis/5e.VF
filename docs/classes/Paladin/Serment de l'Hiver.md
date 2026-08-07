@@ -40,13 +40,13 @@ Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 
 ## Chair de Froid
 
-Au niveau 15, lorsque vous subissez des dégâts ou êtes [[paralysé]], [[aveuglé]], [[assourdi]], [[pétrifié]] ou [[empoisonné]], vous pouvez utiliser votre réaction pour geler le sang dans vos veines et retarder l'effet. Les dégâts ou la condition sont suspendus pendant 1 minute, après quoi ils vous affectent normalement. Cette aptitude met en pause la durée des sorts qui ne vous affectent que pour imposer une condition, et le lanceur de sort n'a pas à maintenir la concentration sur de tels sorts jusqu'à ce que l'effet reprenne. Vous ne pouvez geler qu'une condition ou une instance de dégâts à la fois. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 1 minute.
+Au niveau 15, lorsque vous subissez des dégâts ou êtes [[Paralysé]], [[Aveuglé]], [[Assourdi]], [[Pétrifié]] ou [[Empoisonné]], vous pouvez utiliser votre réaction pour geler le sang dans vos veines et retarder l'effet. Les dégâts ou l'état sont suspendus pendant 1 minute, après quoi ils vous affectent normalement. Cette aptitude met en pause la durée des sorts qui ne vous affectent que pour imposer un état, et le lanceur de sort n'a pas à maintenir la concentration sur de tels sorts jusqu'à ce que l'effet reprenne. Vous ne pouvez geler qu'un état ou une instance de dégâts à la fois. Une fois que vous avez utilisé cette aptitude, vous ne pouvez le refaire avant 1 minute.
 ## Père Hiver
 
 Au niveau 20, vous pouvez inviter le plus pur des froids en vous en une action, devenant une effigie du Père Hiver. Pendant la prochaine heure, vous bénéficiez des effets suivants : 
 
  - Vous êtes immunisé aux dégâts de froid.
- - Lorsqu'une créature à 5 ft. vous inflige des dégâts et que vous n'êtes pas [[incapacité]], elle subit 2d10 dégâts de froid.
+ - Lorsqu'une créature à 5 ft. vous inflige des dégâts et que vous n'êtes pas [[Incapacité]], elle subit 2d10 dégâts de froid.
  - Vous émettez une aura de froid intense sur 10 ft. autour de vous qui gèle le sol. La zone de cette aura est considérée comme du terrain difficile. Vous pouvez choisir des créatures qui ne seront pas affectées par cette aura.
  - Pendant votre tour, vous pouvez aspirer la chaleur environnante, éteignant les feux non magiques de votre choix que vous pouvez voir à 30 ft. (aucune action requise).
 

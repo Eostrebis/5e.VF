@@ -196,7 +196,7 @@ Pour une action, vous pouvez dépenser 2 points de ki et lancer un dé d'Arts Ma
 
 ## Frappe Étourdissante
 
-À compter du niveau 5, vous pouvez déranger la circulation du ki dans le corps d'un adversaire. Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez dépenser 1 point de ki pour tenter une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou être [[sonné|sonnée]] jusqu'à la fin de votre prochain tour.
+À compter du niveau 5, vous pouvez déranger la circulation du ki dans le corps d'un adversaire. Lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez dépenser 1 point de ki pour tenter une frappe étourdissante. La cible doit réussir un jet de sauvegarde de Constitution ou être [[Sonné|sonnée]] jusqu'à la fin de votre prochain tour.
 
 ## Focus (Opt.)
 
@@ -212,7 +212,7 @@ Au niveau 7, votre agilité instinctive vous permet d'esquiver certains effets d
 
 ## Sérénité
 
-À compter du niveau 7, vous pouvez utiliser votre action pour terminer un effet sur vous-même qui vous rend [[charmé]] ou [[apeuré]].
+À compter du niveau 7, vous pouvez utiliser votre action pour terminer un effet sur vous-même qui vous rend [[Charmé]] ou [[Apeuré]].
 
 ## Amélioration du Déplacement sans armure
 
@@ -238,7 +238,7 @@ Au niveau 15, votre ki vous sustente de telle sorte que vous ne souffrez d'aucun
 
 ## Désertion de l'Âme
 
-À partir du niveau 18, vous pouvez utiliser votre action pour dépenser 4 points de ki et devenir [[invisible]] pendant 1 minute. Pendant ce temps, vous obtenez également une résistance à tous les dégâts qui ne sont pas de force.
+À partir du niveau 18, vous pouvez utiliser votre action pour dépenser 4 points de ki et devenir [[Invisible]] pendant 1 minute. Pendant ce temps, vous obtenez également une résistance à tous les dégâts qui ne sont pas de force.
 
 De plus, vous pouvez dépenser 8 points de ki pour lancer le sort [[Projection Astrale]] sans devoir payer de composantes matérielles. Lorsque vous le faites, vous ne pouvez pas prendre de créature avec vous.
 

@@ -9,7 +9,7 @@ Les moines de la Voie de la Mort Longue sont obsédés par le sens et le fonctio
 
 ## Heure de la Faucheuse
 
-Au niveau 6, vous obtenez la capacité de déranger ou terrifier ceux autour de vous pour une action, puisque votre âme a été teintée de l'ombre de la mort. Lorsque vous choisissez cette action, chaque créature à 30 ft. de vous que vous pouvez voir doit réussir un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] jusqu'à la fin de votre prochain tour.
+Au niveau 6, vous obtenez la capacité de déranger ou terrifier ceux autour de vous pour une action, puisque votre âme a été teintée de l'ombre de la mort. Lorsque vous choisissez cette action, chaque créature à 30 ft. de vous que vous pouvez voir doit réussir un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] jusqu'à la fin de votre prochain tour.
 
 ## Maîtrise de la Mort
 

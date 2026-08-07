@@ -19,7 +19,7 @@ Cousin éloigné des mimiques, le smacre est un très petit changelin qui imite 
 >*_*
 >- **Compétences.** Discrétion +5
 >- **Immunités aux Dégâts** Acide
->- **Immunités aux Conditions** [[Au Sol]]
+>- **Immunités aux États** [[Au Sol]]
 >- **Sens.** Vision dans le noir 60 ft., Perception Passive 11
 >- **Langues** --
 >- **Difficulté** 1/4 (50 PX)

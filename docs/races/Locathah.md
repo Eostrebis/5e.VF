@@ -34,4 +34,4 @@ La société locathah est profondément communautaire. Habitués à être la cib
 
 **Apnée Limitée.** Vous pouvez respirer sous et en dehors de l'eau, mais vous avez besoin d'être submergé au moins une fois toutes les 4 heures pour ne pas suffoquer.
 
-**Volonté du Léviathan.** Vous avez l'avantage aux jets de sauvegarde réalisés pour éviter d'être [[charmé]], [[apeuré]], [[paralysé]], [[empoisonné]], [[sonné]] ou endormi.
+**Volonté du Léviathan.** Vous avez l'avantage aux jets de sauvegarde réalisés pour éviter d'être [[Charmé]], [[Apeuré]], [[Paralysé]], [[Empoisonné]], [[Sonné]] ou endormi.

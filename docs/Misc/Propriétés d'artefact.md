@@ -9,7 +9,7 @@ writing_status: empty
 | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-20 | Tant que vous êtes lié à cet artefact, vous gagnez la maîtrise d'une compétence au choix du MJ |
 | 21-30 | Tant que vous êtes lié à cet artefact, vous êtes immunisé contre les maladies |
-| 31-40 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[charmé]] ou [[apeuré]] |
+| 31-40 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[Charmé]] ou [[Apeuré]] |
 | 41-50 | Tant que vous êtes lié à cet artefact, vous êtes résistant aux dégâts d'un type choisi par le MJ |
 | 51-60 | Tant que vous êtes lié à cet artefact, vous pouvez utiliser votre action pour lancer un cantrip (choisi par le MJ) |
 | 61-70 | Tant que vous êtes lié à cet artefact, vous pouvez utiliser votre action pour lancer un sort de niveau 1 (choisi par le MJ). Après avoir lancé le sort, lancez un d6. Sur un 1-5, vous ne pouvez pas le relancer avant la prochaine aube |
@@ -29,7 +29,7 @@ writing_status: empty
 | 61-70 | Comme 51-60, mais le sort est de niveau 5 |
 | 71-80 | Comme 51-60, mais le sort est de niveau 6 |
 | 81-90 | Comme 51-60, mais le sort est de niveau 7 |
-| 91-00 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[charmé]], [[assourdi]], [[pétrifié]] ou [[apeuré]] |
+| 91-00 | Tant que vous êtes lié à cet artefact, vous ne pouvez pas être [[Charmé]], [[Assourdi]], [[Pétrifié]] ou [[Apeuré]] |
 
 ## Propriétés néfastes mineurs
 
@@ -37,14 +37,14 @@ writing_status: empty
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 01-05 | Tant que vous êtes lié à cet artefact, vous avez le désavantage aux jets de sauvegarde contre les sorts |
 | 06-10 | La première fois que vous touchez une gemme ou un bijou après être lié à cet artefact, la valeur de cette gemme ou de ce bijou est divisée par deux |
-| 11-15 | Tant que vous êtes lié à cet artefact, vous êtes [[aveuglé]] lorsque vous vous trouvez à plus de 10 ft. de lui |
+| 11-15 | Tant que vous êtes lié à cet artefact, vous êtes [[Aveuglé]] lorsque vous vous trouvez à plus de 10 ft. de lui |
 | 16-20 | Tant que vous êtes lié à cet artefact, vous avez le désavantage aux jets de sauvegarde contre le poison |
 | 21-30 | Tant que vous êtes lié à cet artefact, vous émettez une forte odeur repérable à 10 ft. |
 | 31-35 | Tant que vous êtes lié à cet artefact, toute eau bénite à moins de 10 ft. de vous est détruite |
 | 36-40 | Tant que vous êtes lié à cet artefact, vous êtes physiquement malade et avez le désavantage à tous les jets de caractéristique et de sauvegarde utilisant la Force ou la Constitution |
 | 41-45 | Tant que vous êtes lié à cet artefact, votre poids augmente de 1d4\*5 kg |
 | 46-50 | Tant que vous êtes lié à cet artefact, votre apparence change au choix du MJ |
-| 51-55 | Tant que vous êtes lié à cet artefact, vous êtes [[assourdi]] lorsque vous vous trouvez à plus de 10 ft. de lui |
+| 51-55 | Tant que vous êtes lié à cet artefact, vous êtes [[Assourdi]] lorsque vous vous trouvez à plus de 10 ft. de lui |
 | 56-60 | Tant que vous êtes lié à cet artefact, votre poids est réduit de 1d4\*2.5 kg |
 | 61-65 | Tant que vous êtes lié à cet artefact, vous perdez le sens de l'odorat |
 | 66-70 | Tant que vous êtes lié à cet artefact, toute flamme non magique à moins de 30 ft. de vous est éteinte |

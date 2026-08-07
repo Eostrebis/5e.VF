@@ -56,7 +56,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts d'occulti
 
 ## Yeux d'un Autre Monde
 
-À partir du niveau 10, les créatures surnaturelles ne peuvent plus échapper à votre détection. Vous pouvez voir les créatures et objets qui sont [[invisible|invisibles]] ou sur le Plan Éthéré, et vous pouvez voir la forme originelle des changelins ou autres créatures dont la forme a été altérée magiquement. De plus, vous pouvez immédiatement détecter si une créature est possédée.
+À partir du niveau 10, les créatures surnaturelles ne peuvent plus échapper à votre détection. Vous pouvez voir les créatures et objets qui sont [[Invisible|invisibles]] ou sur le Plan Éthéré, et vous pouvez voir la forme originelle des changelins ou autres créatures dont la forme a été altérée magiquement. De plus, vous pouvez immédiatement détecter si une créature est possédée.
 
 ## Maleficarum
 

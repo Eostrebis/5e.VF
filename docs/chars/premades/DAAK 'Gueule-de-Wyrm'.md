@@ -79,7 +79,7 @@ Le reste de son armure est composé de pièces de cuir durci et de peaux cousues
 
 **Hurlement Draconique.** Pour une action bonus, vous laissez s'échapper un grondement à vos ennemis à 10 ft. Jusqu'au début de votre prochain tour, vous et vos alliés avez l'avantage à vos jets d'attaque contre les ennemis qui ont pu vous entendre. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous regagnez toutes les charges utilisées lorsque vous utilisez un repos long.
 
-**Défiance.** Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer la condition [[apeuré]] sur vous-même.
+**Défiance.** Vous avez l'avantage aux jets de sauvegarde pour éviter ou terminer l'état [[Apeuré]] sur vous-même.
 
 ### Aptitudes de Classe
 

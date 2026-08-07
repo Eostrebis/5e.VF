@@ -31,14 +31,14 @@ La société grung est régie par un système de castes extrêmement rigide, bas
 
 **Vigilance Arboricole.** Vous maîtrisez la compétence Perception.
 
-**Immunité au Poison.** Vous êtes immunisé aux dégâts de poison et à la condition [[empoisonné]].
+**Immunité au Poison.** Vous êtes immunisé aux dégâts de poison et à l'état [[Empoisonné]].
 
 **Amphibie.** Vous pouvez respirer dans l'air et sous l'eau.
 
-**Peau Empoisonnée.** Lorsqu'une créature vous agrippe ou entre en contact direct avec votre peau, elle doit réussir un jet de Constitution DD 12 ou être [[empoisonné|empoisonnée]] pendant 1 minute. Une créature empoisonnée qui n'est plus en contact direct avec vous peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
+**Peau Empoisonnée.** Lorsqu'une créature vous agrippe ou entre en contact direct avec votre peau, elle doit réussir un jet de Constitution DD 12 ou être [[Empoisonné|empoisonnée]] pendant 1 minute. Une créature empoisonnée qui n'est plus en contact direct avec vous peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
 
  Vous pouvez également appliquer ce poison à n'importe quelle arme perforante pendant une attaque avec cette arme, auquel cas le poison réagit différemment. Si vous touchez, la cible doit réussir un jet de sauvegarde de Constitution DD 12 ou subir 2d4 dégâts de poison.
 
 **Saut de Grenouille.** Votre distance de saut en longueur est de 25 ft. et votre saut en hauteur est de 15 ft., avec ou sans élan.
 
-**Dépendance Aquatique.** Si vous ne vous immergez pas complètement dans l'eau pendant 1 heure chaque jour, vous souffrez d'un niveau d'[[épuisement]] à la fin de la journée. Vous ne pouvez récupérer de cet épuisement que par la magie ou en vous immergeant dans l'eau pendant au moins 1 heure.
+**Dépendance Aquatique.** Si vous ne vous immergez pas complètement dans l'eau pendant 1 heure chaque jour, vous souffrez d'un niveau d'[[Épuisement]] à la fin de la journée. Vous ne pouvez récupérer de cet épuisement que par la magie ou en vous immergeant dans l'eau pendant au moins 1 heure.

@@ -39,7 +39,7 @@ Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options su
 Une créature renvoyée doit passer ses tours à s'éloigner le plus possible de vous et ne peut volontairement se déplacer dans un espace à moins de 30 ft. de vous. Elle ne peut pas non plus utiliser de réactions. Pour son action, elle ne peut que Foncer ou essayer de se défaire d'un effet qui l'empêche de fuir. Si elle ne peut bouger, elle peut utiliser son action pour Esquiver.
 ## Aura de Dévotion
 
-À partir du niveau 7, vous et vos alliés à 10 ft. de vous ne pouvez être [[charmé|charmés]] tant que vous êtes conscient.
+À partir du niveau 7, vous et vos alliés à 10 ft. de vous ne pouvez être [[Charmé|charmés]] tant que vous êtes conscient.
 
 Au niveau 18, la portée de cette aura augmente de 20 ft. pour passer à 30 ft.
 

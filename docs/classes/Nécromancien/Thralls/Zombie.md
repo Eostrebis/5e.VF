@@ -16,7 +16,7 @@ Un zombie est l'assemblage des restes en décomposition d'un être autrefois viv
 >|13 (+1)|6 (-2)|16 (+3)|3 (-4)|6 (-2)|5 (-3)|
 > 
 > - **Immunités aux Dégâts.** Poison
-> - **Immunités aux Conditions.** [[Empoisonné]]
+> - **Immunités aux États.** [[Empoisonné]]
 > - **Sens.** Vision dans le noir 60 ft., Perception Passive 9
 > - **Langues** Comprend toutes les langues parlées pendant sa vie, ainsi que les langues de son créateur, mais ne peut pas parler
 >*_*

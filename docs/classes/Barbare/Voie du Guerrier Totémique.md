@@ -47,12 +47,12 @@ Au niveau 10, vous pouvez lancer le sort [[communion avec la nature]], mais uniq
 
 Au niveau 14, vous obtenez un effet magique basé sur l'animal totémique de votre choix. Vous pouvez choisir le même animal totémique qu'à un niveau précédent ou opter pour un animal différent.
 
-__Ours.__ Tant que vous ragez, toute créature qui vous est hostile à 5 ft. de vous a le désavantage pour ses jets d'attaques contre des créatures autres que vous ou qu'un autre personnage avec cette aptitude. Un ennemi est immunisé contre cet effet s'il ne peut pas vous entendre ni vous voir ou s'il ne peut pas être [[apeuré]].
+__Ours.__ Tant que vous ragez, toute créature qui vous est hostile à 5 ft. de vous a le désavantage pour ses jets d'attaques contre des créatures autres que vous ou qu'un autre personnage avec cette aptitude. Un ennemi est immunisé contre cet effet s'il ne peut pas vous entendre ni vous voir ou s'il ne peut pas être [[Apeuré]].
 
 __Aigle.__ Tant que vous ragez, vous avez une vitesse de vol égale à votre vitesse de marche. Cet effet ne fonctionne que par impulsion : vous tombez si vous terminez votre tour dans les airs et que rien de vous y maintient.
 
-__Élan.__ Tant que vous ragez, vous pouvez entreprendre une action bonus pendant votre tour pour traverser l'espace d'une créature de taille G ou inférieure. Cette créature doit réussir un jet de sauvegarde de Force (DD 8 + votre bonus de Force + votre bonus de maîtrise) ou être mise [[au sol]] et subir 1d12 + votre modificateur de Force dégâts contondants.
+__Élan.__ Tant que vous ragez, vous pouvez entreprendre une action bonus pendant votre tour pour traverser l'espace d'une créature de taille G ou inférieure. Cette créature doit réussir un jet de sauvegarde de Force (DD 8 + votre bonus de Force + votre bonus de maîtrise) ou être mise [[Au Sol]] et subir 1d12 + votre modificateur de Force dégâts contondants.
 
 __Tigre.__ Tant que vous ragez, si vous vous déplacez d'au moins 20 ft. en ligne droite en direction d'une cible de taille G ou inférieure juste avant d'effectuer une attaque armée de mêlée, vous pouvez entreprendre une action bonus pendant votre tour pour effectuer une attaque armée de mêlée supplémentaire contre la même cible.
 
-__Loup.__ Tant que vous ragez, vous pouvez entreprendre une action bonus pendant votre tour pour mettre [[au sol]] une créature de taille G ou inférieure lorsque vous la touchez avec une attaque armée de mêlée.
+__Loup.__ Tant que vous ragez, vous pouvez entreprendre une action bonus pendant votre tour pour mettre [[Au Sol]] une créature de taille G ou inférieure lorsque vous la touchez avec une attaque armée de mêlée.

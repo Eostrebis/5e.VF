@@ -66,7 +66,7 @@ La peau d'un genasi d'air se trouve dans les teintes du bleu, ou d'une peau huma
 
 **Vision dans le Noir.** Vous pouvez voir dans une lumière faible à 60 ft. comme si vous étiez dans une lumière vive, et dans l'obscurité comme si vous étiez dans une lumière faible. Vous ne discernez pas les couleurs dans une telle obscurité.
 
-**Souffle Sans Fin.** Vous pouvez retenir votre respiration indéfiniment tant que vous n'êtes pas [[incapacité]].
+**Souffle Sans Fin.** Vous pouvez retenir votre respiration indéfiniment tant que vous n'êtes pas [[Incapacité]].
 
 **Résistance à la Foudre.** Vous avez une résistancee aux dégâts de foudre.
 

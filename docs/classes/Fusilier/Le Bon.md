@@ -13,13 +13,13 @@ Au niveau 10, cette aptitude s'améliore : le nombre de points de vie temporaire
 
 ## Aura Féroce
 
-Également au niveau 3, tant que vous êtes conscient, vous et les créatures alliées jusqu'à 10 ft. autour de vous ont l'avantage aux jets de sauvegarde pour éviter ou terminer l'effet [[apeuré]].
+Également au niveau 3, tant que vous êtes conscient, vous et les créatures alliées jusqu'à 10 ft. autour de vous ont l'avantage aux jets de sauvegarde pour éviter ou terminer l'effet [[Apeuré]].
 
 ## Viser Plus Haut
 
-Au niveau 7, vous pouvez utiliser votre action pour demander à votre ennemi de se rendre. Lorsque vous le faites, une créature de votre choix à 30 ft. qui peut vous voir ou vous entendre doit effectuer un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de faits. Une créature qui ne peut pas être [[apeuré|apeurée]] réussit automatiquement ce jet.
+Au niveau 7, vous pouvez utiliser votre action pour demander à votre ennemi de se rendre. Lorsque vous le faites, une créature de votre choix à 30 ft. qui peut vous voir ou vous entendre doit effectuer un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de faits. Une créature qui ne peut pas être [[Apeuré|apeurée]] réussit automatiquement ce jet.
 
-Si elle rate, la créature est [[incapacité|incapacitée]] et ne peut pas bouger pendant 1 minute, ou jusqu'à ce qu'elle prenne des dégâts. Une créature peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet sur un succès.
+Si elle rate, la créature est [[Incapacité|incapacitée]] et ne peut pas bouger pendant 1 minute, ou jusqu'à ce qu'elle prenne des dégâts. Une créature peut répéter le jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet sur un succès.
 
 Une fois que vous avez utilisé cette aptitude, vous devez terminer un repos pour le faire à nouveau.
 

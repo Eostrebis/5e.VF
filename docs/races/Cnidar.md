@@ -53,11 +53,11 @@ Nommés d'après leurs membres ressemblant à des fouets, les nématocystes peuv
 
 **Nématocyste.** Vous possédez un long membre épineux, une arme naturelle que vous pouvez utiliser pour réaliser des attaques à mains nues. Si vous touchez avec cette arme [[Propriétés d'Arme#finesse|finesse]], vous pouvez infliger un nombre de dégâts perforants égal à 1d4 + votre modificateur de Force ou de Dextérité (votre choix) au lieu des dégâts contondants normaux d'une attaque à mains nues.
 
-**Neurotoxines.** Pour une action bonus, vous pouvez secréter une toxine et l'appliquer à une arme ou une munition. La toxine ainsi appliquée persiste une heure. La première fois que vous touchez une créature avec cette arme ou cette munition, la créature doit réussir un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou être [[paralysé|paralysée]] jusqu'au début de son prochain tour. Vous pouvez également utiliser une action bonus pour injecter la toxine dans une créature que vous touchez avec votre nématocyste.
+**Neurotoxines.** Pour une action bonus, vous pouvez secréter une toxine et l'appliquer à une arme ou une munition. La toxine ainsi appliquée persiste une heure. La première fois que vous touchez une créature avec cette arme ou cette munition, la créature doit réussir un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution) ou être [[Paralysé|paralysée]] jusqu'au début de son prochain tour. Vous pouvez également utiliser une action bonus pour injecter la toxine dans une créature que vous touchez avec votre nématocyste.
 
 Vous pouvez utiliser cette aptitude un nombre de fois égal à votre bonus de maîtrise et vous récupérez toutes les utilisations dépensées lorsque vous terminez un repos long.
 
-**Adaptation Toxique.** Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous êtes résistant aux dégâts de poison.
+**Adaptation Toxique.** Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[Empoisonné]] et vous êtes résistant aux dégâts de poison.
 
 ## Peaubrillante
 

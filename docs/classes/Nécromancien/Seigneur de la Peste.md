@@ -5,7 +5,7 @@ writing_status: finished
 
 ## Toxine Charnelle
 
-Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez avec votre Toucher Charnel et dépensez au moins 5 points de votre réservoir, la cible doit réussir un jet de sauvegarde de Constitution ou être [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour.
+Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez avec votre Toucher Charnel et dépensez au moins 5 points de votre réservoir, la cible doit réussir un jet de sauvegarde de Constitution ou être [[Empoisonné|empoisonnée]] jusqu'au début de votre prochain tour.
 
 ## Vile Congrégation
 
@@ -17,20 +17,20 @@ Au niveau 3, même votre toucher peut causer la maladie. Lorsque vous touchez av
 
 ## Thralls Ballonnés
 
-Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
+Au niveau 10, vos thralls sont devenus des nids à vermines et à maladies, prêts à exploser à tout moment. Lorsque l'un de vos thralls est réduit à 0 point de vie ou lorsque vous le libérez, vous pouvez choisir de le faire exploser en une douche de poison, d'entrailles et de vermine. Chaque créature à 5 ft. du thrall, sauf vous et vos autres thralls, doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 4d6 dégâts de poison et est [[Empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[Empoisonné|empoisonnée]].
 
 ## Lichéité : Liche Corpulente
 
 Au niveau 20, vous avez atteint le pinacle de la nécromancie et vous êtes transformé en liche. Votre obsession pour la maladie et la pourriture a affecté votre transformation : votre corps enfle, comme un cadavre abandonné dans l'eau, et votre peau devient d'un ton vert maladif. Vous bénéficiez des aptitudes suivantes en plus de l'aptitude de [[Nécromancien#Liche|Liche]] de la classe de Nécromancien : 
 
-**Explosion Viscérale.** Lorsque vous tombez à 0 point de vie, votre corps explose en une douche de maladie et d'énergie nécromantique. Chaque créature à 20 ft. doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 5d10 dégâts nécrotiques et 5d10 dégâts de poison et est [[empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]].
+**Explosion Viscérale.** Lorsque vous tombez à 0 point de vie, votre corps explose en une douche de maladie et d'énergie nécromantique. Chaque créature à 20 ft. doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 5d10 dégâts nécrotiques et 5d10 dégâts de poison et est [[Empoisonné|empoisonnée]] jusqu'au début de votre prochain tour. Si elle réussit, la créature prend la moitié des dégâts et n'est pas [[Empoisonné|empoisonnée]].
 
-**Maître des Maladies.** Lorsque vous utilisez votre aptitude de Toxine Charnelle et dépensez 25 points ou plus de votre réservoir, la créature est [[empoisonné|empoisonnée]] et maudite jusqu'à 1 minute en cas d'échec. Choisissez deux des effets suivants qui s'appliquent à la créature tant qu'elle est maudite : 
+**Maître des Maladies.** Lorsque vous utilisez votre aptitude de Toxine Charnelle et dépensez 25 points ou plus de votre réservoir, la créature est [[Empoisonné|empoisonnée]] et maudite jusqu'à 1 minute en cas d'échec. Choisissez deux des effets suivants qui s'appliquent à la créature tant qu'elle est maudite : 
 
  - Choisissez une caractéristique. La cible a le désavantage à ses jets de caractéristique et de sauvegarde qu'elle effectue en utilisant cette caractéristique.
  - La cible ne peut voir que dans un rayon de 10 ft.
- - La cible tombe [[au sol]] à la fin de chacun de ses tours.
+ - La cible tombe [[Au Sol]] à la fin de chacun de ses tours.
  - La cible perd 1d6 points de vie supplémentaires à chaque fois qu'elle subit des dégâts.
  - La cible ne peut parler que dans une langue incompréhensible et ne peut pas réaliser les composantes verbales de ses sorts.
 
-À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution pour mettre fin à l'effet de malédiction et à la condition [[empoisonné]].
+À la fin de chacun de ses tours, la cible effectue un jet de sauvegarde de Constitution pour mettre fin à l'effet de malédiction et à l'état [[Empoisonné]].

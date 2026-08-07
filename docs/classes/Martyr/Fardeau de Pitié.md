@@ -21,7 +21,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Baume
 
-Également au niveau 1, vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer la condition [[aveuglé]], [[assourdi]], [[empoisonné]] d'une créature consentante que vous touchez.
+Également au niveau 1, vous pouvez utiliser une action bonus pour restaurer 1 point de vie à une créature à 60 ft. de vous ou retirer l'état [[Aveuglé]], [[Assourdi]], [[Empoisonné]] d'une créature consentante que vous touchez.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

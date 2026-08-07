@@ -9,7 +9,7 @@ Une balle bien placée est toujours plus efficace qu'une épée, une flèche et 
 
 ## Pose du Tireur
 
-Au niveau 3, vous n'avez pas le désavantage aux jets d'attaque à distance avec une arme à feu lorsque vous êtes [[au sol]]. De plus, vous relevez ne vous coûte que 5 ft.
+Au niveau 3, vous n'avez pas le désavantage aux jets d'attaque à distance avec une arme à feu lorsque vous êtes [[Au Sol]]. De plus, vous relevez ne vous coûte que 5 ft.
 
 ## Camouflage
 

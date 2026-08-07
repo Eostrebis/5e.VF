@@ -31,12 +31,12 @@ La culture forgelière est une culture en devenir. N'ayant ni enfance, ni parent
 
 **Résilience du Forgé.** Votre conception vous confère les avantages suivants : 
 
- - Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[empoisonné]] et vous obtenez une résistance aux dégâts de poison.
+ - Vous avez l'avantage aux jets de sauvegarde pour éviter d'être [[Empoisonné]] et vous obtenez une résistance aux dégâts de poison.
  - Vous n'avez pas besoin de manger, de boire ou de respirer.
  - Vous êtes immunisé contre les maladies.
  - Vous n'avez pas besoin de dormir et la magie ne peut pas vous endormir.
 
-**Repos de Tourelle.** Lorsque vous prenez un repos long, vous devez passer au moins 6 heures dans un état inactif et immobile, plutôt que de dormir. Dans cet état, vous semblez être inerte, mais vous ne devenez pas [[inconscient]], vous pouvez toujours voir et entendre normalement.
+**Repos de Tourelle.** Lorsque vous prenez un repos long, vous devez passer au moins 6 heures dans un état inactif et immobile, plutôt que de dormir. Dans cet état, vous semblez être inerte, mais vous ne devenez pas [[Inconscient]], vous pouvez toujours voir et entendre normalement.
 
 **Protection Intégrée.** Votre corps possède des couches défensives intégrées, qui peuvent être améliorées par l'armure.
  - Vous obtenez un bonus de +1 à la Classe d'Armure.

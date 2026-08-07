@@ -1,10 +1,10 @@
 ---
 search:
- exclude: true
-title: Conditions
+  exclude: true
+title: États
 writing_status: finished
 ---
-| Condition (EN) | Condition (FR)  | Logo                                    |
+État (EN) | État (FR)  | Logo                                    |
 | -------------- | --------------- | --------------------------------------- |
 | Blinded        | [[Aveuglé]]     | ![[FinalBlinded.png]]{width=50px}       |
 | Charmed        | [[Charmé]]      | ![[Charmed.png]]{width=50px}            |

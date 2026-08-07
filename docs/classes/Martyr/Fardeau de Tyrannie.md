@@ -22,7 +22,7 @@ Vous gagnez les sorts de fardeau suivants aux niveaux renseignés.
 
 ## Ultimatum Diabolique
 
-Également au niveau 1, vous pouvez utiliser une action pour conduire un adversaire au doute. Choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] ou [[Apeuré|apeurée]] par vous (son choix) pendant 1 minute. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
+Également au niveau 1, vous pouvez utiliser une action pour conduire un adversaire au doute. Choisissez une créature que vous pouvez voir à 60 ft. Cette créature doit réussir un jet de sauvegarde de Sagesse ou être [[Charmé|charmée]] ou [[Apeuré|apeurée]] par vous (son choix) pendant 1 minute. Elle peut retenter le jet de sauvegarde à la fin de chacun de ses tours.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas la réutiliser jusqu'à ce que vous finissiez un repos court ou long.
 

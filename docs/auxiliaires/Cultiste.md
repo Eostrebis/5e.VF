@@ -21,7 +21,7 @@ Vous apprenez le cantrip [[orbe occulte]] et un cantrip supplémentaire de votre
 
 ## Conspirationniste
 
-Vous avez l'avantage aux jets de sauvegarde que vous effectuez afin d'éviter ou de terminer les conditions [[charmé]] ou fou sur vous-même.
+Vous avez l'avantage aux jets de sauvegarde que vous effectuez afin d'éviter ou de terminer les états [[Charmé]] ou fou sur vous-même.
 
 ## Intuition du Lunatique
 

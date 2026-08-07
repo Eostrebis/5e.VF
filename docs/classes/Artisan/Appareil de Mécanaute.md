@@ -15,7 +15,7 @@ writing_status: finished
 | ◎ +5 | ◎ ±0 | ◎ +4 | ◎ ±0 | ◎ ±0 | ◎ ±0 |
 **Immunités** : Poison, psychique
 
-**Immunités aux Conditions :** Aveuglé, charmé, assourdi, apeuré, paralysé, pétrifié, empoisonné
+**Immunités aux États :** Aveuglé, charmé, assourdi, apeuré, paralysé, pétrifié, empoisonné
 
 **Sens** : Vision aveugle 120 ft. (aveugle au-delà)
 

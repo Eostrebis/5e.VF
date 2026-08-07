@@ -31,7 +31,7 @@ Au niveau 6, lorsque vous invoquez votre familier, vous pouvez diviser son espri
 
 Au niveau 10, vous émettez une aura de vitalité qui restaure et revigore la vie autour de vous. Lorsque vous terminez un repos long, la vie végétale à 120 ft. autour de vous pousse comme si un mois s'était écoulé avec des nutriments en abondance. Si les plantes venaient à produire baies, fruits ou légumes, les plantes produisent suffisamment pour nourrir six créatures pour une journée.
 
-De plus, choisissez jusqu'à 6 créatures que vous pouvez voir à la fin de vos repos longs. Ces créatures gagnent un nombre de points de vie temporaires égal à la moitié de votre niveau de sorcière + votre modificateur de Charisme. Vous pouvez également terminer une maladie qui touche chacune des créatures, ou une condition parmi [[aveuglé]], [[assourdi]], [[paralysé]] ou [[empoisonné]].
+De plus, choisissez jusqu'à 6 créatures que vous pouvez voir à la fin de vos repos longs. Ces créatures gagnent un nombre de points de vie temporaires égal à la moitié de votre niveau de sorcière + votre modificateur de Charisme. Vous pouvez également terminer une maladie qui touche chacune des créatures, ou un état parmi [[Aveuglé]], [[Assourdi]], [[Paralysé]] ou [[Empoisonné]].
 
 ## Familier Sacrificiel
 

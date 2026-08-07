@@ -17,4 +17,4 @@ writing_status: finished
 zone: none
 damage: psychique
 ---
-La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit effectuer un jet de sauvegarde de Sagesse ou être [[apeuré|apeurée]] par vous jusqu'à ce que le sort se termine. Pour une action, la créature peut effectuer un jet de sauvegarde de Sagesse pour renforcer sa volonté et terminer ce sort.
+La prochaine fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, votre attaque inflige 1d6 dégâts psychiques supplémentaires. De plus, si la cible est une créature, elle doit effectuer un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] par vous jusqu'à ce que le sort se termine. Pour une action, la créature peut effectuer un jet de sauvegarde de Sagesse pour renforcer sa volonté et terminer ce sort.

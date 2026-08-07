@@ -17,7 +17,7 @@ Lorsque vous choisissez cette tapisserie, vous apprenez aussi certains sorts. Vo
 
 ## Figure de Guerre
 
-Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous prodigue de puissantes attaques à distance pour compléter votre lamefil. Vous pouvez utiliser cet accessoire comme une arme pour réaliser des attaques de sort à distance d'une portée de 120 ft. qui infligent 1d10 + votre modificateur d'Intelligence dégâts de force, en projetant des projectiles explosifs et perçants depuis les différents mécanismes arcaniques qui recouvrent l'armure. Cette attaque n'est pas réalisée avec désavantage si votre cible est [[au sol]] et inflige le double de dégâts si votre cible est de taille TG ou plus grande encore.
+Au niveau 3, votre tapisserie enveloppe votre infusion comme une armure et vous prodigue de puissantes attaques à distance pour compléter votre lamefil. Vous pouvez utiliser cet accessoire comme une arme pour réaliser des attaques de sort à distance d'une portée de 120 ft. qui infligent 1d10 + votre modificateur d'Intelligence dégâts de force, en projetant des projectiles explosifs et perçants depuis les différents mécanismes arcaniques qui recouvrent l'armure. Cette attaque n'est pas réalisée avec désavantage si votre cible est [[Au Sol]] et inflige le double de dégâts si votre cible est de taille TG ou plus grande encore.
 
 ## Machine Massive
 
@@ -25,7 +25,7 @@ Au niveau 6, vous pouvez choisir d'augmenter la taille et la puissance de votre 
 
 ## Corps Galactique
 
-Au niveau 10, votre tapisserie vous protège des étranges espaces existants au-delà même le monde. Vous n'avez plus besoin de respirer, vous devenez résistant aux dégâts nécrotiques et radiants et vous ne pouvez plus être [[empoisonné]]. Vos ponts et escaliers de votre aptitude de [[Tisserand#Renaissance Régulière|Renaissance Régulière]] peuvent maintenant être suffisamment larges pour laisser passer des créatures de taille TG ou moins.
+Au niveau 10, votre tapisserie vous protège des étranges espaces existants au-delà même le monde. Vous n'avez plus besoin de respirer, vous devenez résistant aux dégâts nécrotiques et radiants et vous ne pouvez plus être [[Empoisonné]]. Vos ponts et escaliers de votre aptitude de [[Tisserand#Renaissance Régulière|Renaissance Régulière]] peuvent maintenant être suffisamment larges pour laisser passer des créatures de taille TG ou moins.
 
 ## Perceur des Cieux
 

@@ -46,6 +46,6 @@ Au niveau 10, votre vous du futur vous prévient toujours à propos d'éventuell
 
 ## Paradoxe du Grand-Père
 
-Au niveau 14, votre connaissance du futur vous permet d'exploiter quelques règles de l'espace-temps. Pour une action, vous pouvez perdre une créature qui peut vous entendre dans un paradoxe. La créature doit effectuer un jet de sauvegarde d'Intelligence contre votre DD de sauvegarde de sort d'occultiste. SI elle échoue, la créature est [[sonné|sonnée]] pendant 1 minute, coincée entre deux lignes temporelles jusqu'à ce que le paradoxe se résolve. Une créature affectée peut répéter son jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
+Au niveau 14, votre connaissance du futur vous permet d'exploiter quelques règles de l'espace-temps. Pour une action, vous pouvez perdre une créature qui peut vous entendre dans un paradoxe. La créature doit effectuer un jet de sauvegarde d'Intelligence contre votre DD de sauvegarde de sort d'occultiste. SI elle échoue, la créature est [[Sonné|sonnée]] pendant 1 minute, coincée entre deux lignes temporelles jusqu'à ce que le paradoxe se résolve. Une créature affectée peut répéter son jet de sauvegarde à la fin de chacun de ses tours, terminant l'effet en cas de réussite.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire avant d'avoir terminé un repos long.

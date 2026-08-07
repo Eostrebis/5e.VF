@@ -20,7 +20,7 @@ Les hantises peuvent souvent être attribuées aux suspects spectraux habituels 
 >*_*
 >- **Résistances aux Dégâts** acide, froid, feu, foudre, nécrotique, tonnerre ; contondants, perforants et tranchants d'armes non magiques
 >- **Immunités aux Dégâts** poison
->- **Immunités aux Conditions** charmé, épuisement, saisi, paralysé, pétrifié, empoisonné, au sol, retenu, inconscient
+>- **Immunités aux États** charmé, épuisement, saisi, paralysé, pétrifié, empoisonné, au sol, retenu, inconscient
 >- **Sens.** Vision dans le Noir 60 ft., Perception Passive 9
 >- **Langues** comprend toutes les langues que la créature parlait de son vivant ; ne peut pas parler
 >- **Difficulté** 1 (200 PX)

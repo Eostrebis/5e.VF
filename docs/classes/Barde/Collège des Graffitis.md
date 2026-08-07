@@ -21,6 +21,6 @@ Une créature peut retirer sa marque en utilisant son action pour se nettoyer au
 
 ## Vaporisation Kaléidoscopique
 
-À partir du niveau 14, pour une action, vous pouvez libérer un mélange de peinture magique, recouvrant toute surface. Chaque créature que vous choisissez dans un cône de 15 ft. doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou être [[aveuglé|aveuglée]] jusqu'à la fin de son prochain tour. Toutes les créatures de la zone, qu'elles réussissent ou non ce jet, sont marquées par vous.
+À partir du niveau 14, pour une action, vous pouvez libérer un mélange de peinture magique, recouvrant toute surface. Chaque créature que vous choisissez dans un cône de 15 ft. doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou être [[Aveuglé|aveuglée]] jusqu'à la fin de son prochain tour. Toutes les créatures de la zone, qu'elles réussissent ou non ce jet, sont marquées par vous.
 
 Une fois que vous avez utilisé cette aptitude, vous ne pouvez pas le refaire jusqu'à ce que vous terminiez un repos.

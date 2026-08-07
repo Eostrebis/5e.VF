@@ -32,8 +32,8 @@ Les nagas sont connus pour leur dévouement envers l'excellence mentale et physi
 
 Si vous touchez avec votre morsure, vous infligez 1d4 + votre modificateur de Force dégâts perforants et votre cible doit effectuer un jet de sauvegarde de Constitution (DD 8 + votre bonus de maîtrise + votre modificateur de Constitution). Si elle échoue, la cible subit 1d4 dégâts de poison.
 
-Si vous touchez avec votre attaque de constriction, vous infligez 1d6 + votre modificateur de Force dégâts contondants et votre cible est [[saisi|saisie]] (DD d'échappement 8 + votre bonus de maîtrise + votre modificateur de Force). Jusqu'à ce que la saisie se termine, la cible est [[retenu|retenue]] et vous ne pouvez pas compresser une autre créature.
+Si vous touchez avec votre attaque de constriction, vous infligez 1d6 + votre modificateur de Force dégâts contondants et votre cible est [[Saisi|saisie]] (DD d'échappement 8 + votre bonus de maîtrise + votre modificateur de Force). Jusqu'à ce que la saisie se termine, la cible est [[Retenu|retenue]] et vous ne pouvez pas compresser une autre créature.
 
-**Immunité au Poison.** Vous êtes immunisé aux dégâts de poison et ne pouvez pas être [[empoisonné]].
+**Immunité au Poison.** Vous êtes immunisé aux dégâts de poison et ne pouvez pas être [[Empoisonné]].
 
 **Affinité avec les Poisons.** Vous maîtrisez le [[kit d'empoisonneur]].

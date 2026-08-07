@@ -19,7 +19,7 @@ Que des yeux et des becs de kraken fassent éruption sur leur visage et leurs me
 
 Si vous êtes capable de lancer des sorts, vous ne pouvez ni les lancer ni vous concentrer dessus tant que vous subissez une Métamorphose Occulte.
 
-Votre Métamorphose Occulte dure 1 minute. Elle se termine prématurément si vous tombez [[inconscient]] ou si votre tour se termine et que vous n'avez pas attaqué une créature hostile depuis votre dernier tour ou subi de dégâts depuis lors. Vous pouvez également mettre fin à votre Métamorphose Occulte pendant votre tour par une action bonus.
+Votre Métamorphose Occulte dure 1 minute. Elle se termine prématurément si vous tombez [[Inconscient]] ou si votre tour se termine et que vous n'avez pas attaqué une créature hostile depuis votre dernier tour ou subi de dégâts depuis lors. Vous pouvez également mettre fin à votre Métamorphose Occulte pendant votre tour par une action bonus.
 
 Une fois que vous avez été en rage (ou subi une Métamorphose Occulte) le nombre de fois indiqué pour votre niveau de barbare dans la colonne Rages de la table du Barbare, vous devez terminer un repos long avant de pouvoir utiliser ces aptitudes à nouveau.
 
@@ -31,7 +31,7 @@ Lorsque vous choisissez cette voie au niveau 3, vous acquérez la capacité de p
 
 ## Sans Entraves, Déchaîné, Libéré
 
-À partir du niveau 6, la puissance écrasante de votre transformation vous rend inarrêtable, même face à l'extinction. Vous ne pouvez pas être [[sonné]] ou [[retenu]] tant que vous êtes sous les effets de la Métamorphose Occulte. Si vous êtes [[retenu]] lorsque vous entamez une Métamorphose Occulte, l'effet est suspendu pendant la durée de la rage.
+À partir du niveau 6, la puissance écrasante de votre transformation vous rend inarrêtable, même face à l'extinction. Vous ne pouvez pas être [[Sonné]] ou [[Retenu]] tant que vous êtes sous les effets de la Métamorphose Occulte. Si vous êtes [[Retenu]] lorsque vous entamez une Métamorphose Occulte, l'effet est suspendu pendant la durée de la rage.
 
 De plus, se déplacer dans un terrain difficile ne vous coûte pas de mouvement supplémentaire tant que vous êtes sous les effets de la Métamorphose Occulte.
 

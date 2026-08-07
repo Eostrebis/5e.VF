@@ -31,7 +31,7 @@ Vous gagnez les sorts de serment suivants :
 
 Lorsque vous choisissez ce serment au niveau 3, vous obtenez les deux options suivantes de Canal Divin.
 
-**Colère Naturelle.** Vous pouvez utiliser votre Canal Divin pour faire appel aux forces primordiales afin de piéger un adversaire. Pour une action, vous pouvez faire apparaître des lianes spectrales à proximité d'une créature que vous pouvez voir à 10 ft. La créature doit réussir un jet de sauvegarde de Force ou Dextérité (son choix) ou être [[retenu|retenue]]. Tant qu'elle est [[retenu|retenue]] par les lianes, la créature répète le jet de sauvegarde à la fin de chacun de ses tours et se libère sur un succès. Lorsque la créature se libère, les lianes disparaissent. 
+**Colère Naturelle.** Vous pouvez utiliser votre Canal Divin pour faire appel aux forces primordiales afin de piéger un adversaire. Pour une action, vous pouvez faire apparaître des lianes spectrales à proximité d'une créature que vous pouvez voir à 10 ft. La créature doit réussir un jet de sauvegarde de Force ou Dextérité (son choix) ou être [[Retenu|retenue]]. Tant qu'elle est [[Retenu|retenue]] par les lianes, la créature répète le jet de sauvegarde à la fin de chacun de ses tours et se libère sur un succès. Lorsque la créature se libère, les lianes disparaissent. 
 
 **Renvoi des Sans-Foi.** Pour une action, vous pouvez utiliser votre Canal Divin pour prononcer des mots anciens douloureux pour les Fées et les Fiélons. Chaque Fée ou Fiélon à 30 ft. doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est renvoyée pendant 1 minute.
 

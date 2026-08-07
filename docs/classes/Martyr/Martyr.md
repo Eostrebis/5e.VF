@@ -190,11 +190,11 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Marche vers le Destin
 
-Au niveau 15, votre inévitable fin est proche, et plus rien ne peut vous retenir. Vous n'avez plus besoin de manger ou de boire, et ne pouvez pas être [[paralysé]], [[pétrifié]], ou [[sonné]].
+Au niveau 15, votre inévitable fin est proche, et plus rien ne peut vous retenir. Vous n'avez plus besoin de manger ou de boire, et ne pouvez pas être [[Paralysé]], [[Pétrifié]], ou [[Sonné]].
 
 ## Véritable Martyr
 
-Au niveau 20, vous avez enfin rejoint votre destin : vous allez mourir dans la gloire. Vous pouvez utiliser votre action pour devenir immunisé à tous les dégâts pendant 10 minutes. Durant ce temps, vous ne pouvez pas être [[apeuré]], [[assourdi]], [[aveuglé]], [[charmé]], [[empoisonné]], [[épuisement|épuisé]], [[incapacité]], [[retenu]] ou rendu [[inconscient]]. Vous avez également l'avantage aux jets de caractéristique, d'attaque, et de sauvegarde.
+Au niveau 20, vous avez enfin rejoint votre destin : vous allez mourir dans la gloire. Vous pouvez utiliser votre action pour devenir immunisé à tous les dégâts pendant 10 minutes. Durant ce temps, vous ne pouvez pas être [[Apeuré]], [[Assourdi]], [[Aveuglé]], [[Charmé]], [[Empoisonné]], [[Épuisement|épuisé]], [[Incapacité]], [[Retenu]] ou rendu [[Inconscient]]. Vous avez également l'avantage aux jets de caractéristique, d'attaque, et de sauvegarde.
 
 De plus, pendant cette durée, vous pouvez lancer le sort [[souhait]] une fois, sans avoir à dépenser d'emplacements ou de points de vie. Si vous utilisez le sort pour réaliser n'importe quel autre effet que dupliquer un autre sort, le contrecoup de l'incantation ne réduit pas votre Force ni ne vous inflige de dégâts nécrotiques.
 

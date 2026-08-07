@@ -17,7 +17,7 @@ Au niveau 11, vous avez mémorisé et maîtrisé des patterns de mouvement qui d
 
 **Boule de Ki.** Vous pouvez canaliser votre ki en une décharge d'énergie. Pour une action, vous pouvez dépenser 2 points de ki pour réaliser une attaque de sort à distance (en utilisant votre modificateur de Sagesse + votre bonus de maîtrise) contre une créature que vous pouvez voir à 120 ft. Si vous touchez, la cible subit 6d8 + votre niveau de moine dégâts de force.
 
-**Uppercut.** Immédiatement après avoir réalisé une attaque de mêlée pendant votre tour contre une créature que vous pouvez voir, vous pouvez dépenser 1 point de ki pour réaliser un uppercut. Réalisez une attaque à mains nues pour une action bonus. Si vous touchez et que la cible est de taille L ou inférieure et qu'elle n'a pas tous ses points de vie, elle tombe [[au sol]] en plus de subir des dégâts.
+**Uppercut.** Immédiatement après avoir réalisé une attaque de mêlée pendant votre tour contre une créature que vous pouvez voir, vous pouvez dépenser 1 point de ki pour réaliser un uppercut. Réalisez une attaque à mains nues pour une action bonus. Si vous touchez et que la cible est de taille L ou inférieure et qu'elle n'a pas tous ses points de vie, elle tombe [[Au Sol]] en plus de subir des dégâts.
 
 **Coup Tourbillon.** Lorsque vous réalisez une attaque de mêlée pendant votre tour contre une créature que vous pouvez voir, vous pouvez dépenser 1 point de ki pour bondir d'au plus 15 ft. vers votre cible avant de réaliser l'attaque. Ce mouvement ne provoque pas d'attaque d'opportunité. Vous pouvez réaliser ce mouvement même si cela signifie voyager dans les airs, mais vous tombez si rien vous retient après votre attaque.
 

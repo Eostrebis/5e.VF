@@ -13,7 +13,7 @@ writing_status: finished
 >|14 (+2)|10 (+0)|15 (+2)|10 (+0)|10 (+0)|9 (-1)|
 > 
 > - **Immunité aux Dégâts.** poison
-> - **Immunités aux Conditions.** charmé, épuisé, empoisonné 
+> - **Immunités aux États.** charmé, épuisé, empoisonné 
 > - **Sens.** Vision dans le Noir 60 ft., Perception Passive 12
 > - **Langues** comprend les langues de son créateur mais ne peut pas parler
 >*_*

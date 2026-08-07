@@ -70,10 +70,10 @@ Au niveau 20, vous pouvez utiliser votre action pour matérialiser autour de vou
 Pendant 1 minute, vous bénéficiez des avantages suivants : 
 
  - Votre taille devient TG et votre type devient Construction.
- - Vous êtes immunisé contre les dégâts de foudre et la condition [[paralysé]].
+ - Vous êtes immunisé contre les dégâts de foudre et l'état [[Paralysé]].
  - Votre allonge pour les attaques de mêlée augmente de 10 ft.
  - Au choix, vous bénéficiez d'une résistance à tous les dégâts ou d'une vitesse de vol de 60 ft.
- - Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez tenter de l'attraper avec une pince mécanique ou un filet. La cible doit réussir un jet de sauvegarde de Force ou être [[retenu|retenue]].
+ - Une fois par tour, lorsque vous touchez une créature avec une attaque armée de mêlée, vous pouvez tenter de l'attraper avec une pince mécanique ou un filet. La cible doit réussir un jet de sauvegarde de Force ou être [[Retenu|retenue]].
  - Lorsque la transformation prend fin (au bout d'une minute ou quand vous tombez à 0 point de vie), la construction surcharge et explose. Toutes les créatures dans un rayon de 30 ft. doivent effectuer un jet de sauvegarde de Dextérité. En cas d'échec, la créature subit 10d10 dégâts de feu, et la moitié en cas d'échec. De plus, vous pouvez utiliser votre compétence [[#Vers d'Autres Cieux]] même si vous l'avez déjà utilisée ou si vous n'êtes pas à 0 point de vie. Si vous le faites, vous ainsi que toutes les créatures affectées par la compétence ne subissent aucun dégât de l'explosion de la construction.
 
 Une fois que vous avez utilisé cette compétence, vous ne pouvez le refaire avant d'avoir terminé un repos long.
