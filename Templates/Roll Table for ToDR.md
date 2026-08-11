@@ -65,5 +65,33 @@
 | Signet Ring of Blindness, Deafness and Silence | Anneau            | Utilitaire                 | Saddlebag      | R      |
 | Silver Eagle Weapons                           | Arme              | CàC                        | Saddlebag      | UC     |
 | Snugglebeast                                   | Objet             | Survie                     | Saddlebag      | UC     |
+| Spellwoven Robes                               | Cape              | Survie                     | Saddlebag      | UC     |
+| Sword of Resonance                             | Arme              | Combat                     | Saddlebag      | R      |
+| Ambitious Medic's Box                          | Objet             | Survie                     | Saddlebag II   | UC     |
+| Amulet of the Sentinel                         | Amulette          | Utilitaire                 | Saddlebag II   | R      |
+| Appraiser's Eye                                | Objet             | Utilitaire                 | Saddlebag II   | R      |
+| Astronomer's Boon                              | Objet             | Utilitaire                 | Saddlebag II   | UC     |
+| Badge of the Wayfarer                          | Objet             | Utilitaire                 | Saddlebag II   | R      |
+| Bane Shield                                    | Bouclier          | Combat                     | Saddlebag II   | UC     |
+| Bulette Bulwark                                | Bouclier          | Survie                     | Saddlebag II   | UC     |
+| Candleflame Bow                                | Arc               | Archer                     | Saddlebag II   | UC     |
+| Club of the Forest Drake                       | Arme              | Combat                     | Saddlebag II   | UC     |
+| Comet Ballista                                 | Arme              | Combat                     | Saddlebag II   | R      |
+| Conspirator's Coat                             | Cape              | Utilitaire                 | Saddlebag II   | R      |
+| Contingency Band                               | Anneau            | Survie                     | Saddlebag II   | R      |
+| Cuff of Captions                               | Objet             | Utilitaire                 | Saddlebag II   | UC     |
+| Detective's Notebook                           | Objet             | Utilitaire                 | Saddlebag II   | UC     |
+| Dragonband                                     | Objet             | Combat                     | Saddlebag II   | UC     |
+| Dramu's Dancing Shoes                          | Botte             | Utilitaire                 | Saddlebag II   | UC     |
+| Dream Saber                                    | Arme              | Combat                     | Saddlebag II   | R      |
+| Eclipse Spear                                  | Arme              | Combat                     | Saddlebag II   | UC     |
+| Fortune's Flower                               | Objet             | Utilitaire                 | Saddlebag II   | C      |
+| Gauntlets of Deliverance                       | Gant              | Utilitaire                 | Saddlebag II   | UC     |
+| Great Owl's Shroud                             | Cape              | Combat                     | Saddlebag II   | UC     |
+| Griffon Coinpouch                              | Objet             | Utilitaire                 | Saddlebag II   | UC     |
+| Hat of Osnomnosis                              | Chapeau           | Utilitaire                 | Saddlebag II   | C      |
+| Hat of the Sanguine Coven                      | Chapeau           | Survie ?                   | Saddlebag II   | UC     |
+| Heavy Golem Armor                              | Armure            | Survie                     | Saddlebag II   | R      |
+| Hushed Ring                                    | Anneau            | Utilitaire                 | Saddlebag II   | UC     |
 |                                                |                   |                            |                |        |
 

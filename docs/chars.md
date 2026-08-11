@@ -7,7 +7,7 @@
 | [[Aude La'wen]] | [[Fadette]] | [[Nécromancien]] |
 | [[Awahp Green]] | [[Volanzée]] | [[Fusilier]] |
 | [[Aymer Diteranay]] | [[Elfe#Elfe des mers\|Elfe des mers]] | [[Ranger]] |
-| [[Cofeh Inh]] | [[Humain]] | [[Paladin]] |
+| [[Cofeh Inh]] | [[Humain]] | [[5e/docs/classes/Paladin/Paladin]] |
 | [[DAAK 'Gueule-de-Wyrm']] | [[Kobold]] | [[Guerrier]] |
 | [[Diâne Bardavoine]] | [[Centaure]] | [[Barde]] |
 | [[Glog]] | [[Orque]] | [[Occultiste]] |
