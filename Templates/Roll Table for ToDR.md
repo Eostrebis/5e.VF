@@ -93,5 +93,34 @@
 | Hat of the Sanguine Coven                      | Chapeau           | Survie ?                   | Saddlebag II   | UC     |
 | Heavy Golem Armor                              | Armure            | Survie                     | Saddlebag II   | R      |
 | Hushed Ring                                    | Anneau            | Utilitaire                 | Saddlebag II   | UC     |
+| Jo'Catian Denier                               | Arme              | Combat                     | Saddlebag II   | UC     |
+| Jo'Catian Rebuker                              | Bouclier          | Défense                    | Saddlebag II   | UC     |
+| Magenta Sun-Saw                                | Arme              | Combat                     | Saddlebag II   | UC     |
+| Mageplate Ring                                 | Anneau            | Défense                    | Saddlebag Ii   | R      |
+| Marlin Lunger                                  | Arme              | Combat                     | Saddlebag II   | UC     |
+| Medusan Signet                                 | Anneau            | Survie                     | Saddlebag Ii   | UC     |
+| Mosshide Troll Belt                            | Ceinture          | Survie                     | Saddlebag Ii   | R      |
+| Pennypuncher Slingshot                         | Arme              | Combat                     | Saddlebag II   | UC     |
+| Pollinator carapace                            | Armure            | Utilitaire                 | Saddlebag II   | UC     |
+| Pollinator Pants                               | Pantalon          | Utilitaire                 | Saddlebag II   | UC     |
+| Pollinator Visor                               | Chapeau           | Utilitaire                 | Saddlebag Ii   | UC     |
+| Prototype Thunderberd                          | Arme              | Combat                     | Saddlebag II   | UC     |
+| Riff's Dimensional Ripper                      | Arme              | Combat                     | Saddlebag Ii   | UC     |
+| Ring of Healer's Heroism                       | Anneau            | Survie                     | Saddlebag II   | UC     |
+| Ring of Solar's Sight                          | Anneau            | Combat                     | Saddlebag II   | UC     |
+| Ring of Stolen Alacrity                        | Anneau            | Combat                     | Saddlebag II   | UC     |
+| Ring of Volleys                                | Anneau            | Combat                     | Saddlebag II   | UC     |
+| Rings of the True Companions                   | Anneau            | Survie                     | Saddlebag II   | R      |
+| Second Fiddle                                  | Instrument        | Utilitaire                 | Saddlebag II   | R      |
+| Silver Eagle Studded Cuirass                   | Armure            | Défense                    | Saddlebag II   | UC     |
+| Spirit Sheath                                  | Arme              | Combat                     | Saddlebag Ii   | R      |
+| Spiritwalker Breastplate                       | Armure            | Survie                     | Saddlebag II   | R      |
+| Titan Cricket Greaves                          | Pantalon          | Utilitaire                 | Saddlebag II   | UC     |
+| Tyrannosaurus Rax                              | Arme              | Combat                     | Saddlebag II   | R      |
+| Warhammer of Eruptions                         | Arme              | Combat                     | Saddlebag II   | R      |
+| Weapon of Verdict                              | Arme              | Combat                     | Saddlebag II   | UC     |
+| Wind-Up Merchant                               | Objet             | Utilitaire                 | Saddlebag II   | R      |
+| Wyrmling Wristlet                              | Objet             | Utilitaire                 | Saddlebag II   | R      |
+| Xorn-Sole Boots                                | Botte             | Utilitaire                 | Saddlebag II   | R      |
 |                                                |                   |                            |                |        |
 
