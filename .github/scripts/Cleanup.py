@@ -34,6 +34,8 @@ def clean_markdown():
             cleaned_content
         )
 
+        cleaned_content = re.sub(r'_\*_', r'____', cleaned_content)
+
         for i, block in enumerate(code_blocks):
             cleaned_content = cleaned_content.replace(f"@@CODE_BLOCK_{i}@@", block)
 
