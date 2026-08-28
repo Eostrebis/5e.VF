@@ -1,10 +1,10 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Druide
-  - Ensorceleur
-  - Magicien
+ - Sorcière
+ - Barde
+ - Druide
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Évocation
 Verbal: true

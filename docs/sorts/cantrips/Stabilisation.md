@@ -1,8 +1,8 @@
 ---
 available:
-  - Sorcière
-  - Artificier
-  - Clerc
+ - Sorcière
+ - Artificier
+ - Clerc
 level: 0
 school: Nécromancie
 Verbal: true

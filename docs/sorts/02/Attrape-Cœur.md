@@ -1,10 +1,10 @@
 ---
 available:
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Sorcière
-  - Nécromancien
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Sorcière
+ - Nécromancien
 level: 2
 school: Nécromancie
 Verbal: false

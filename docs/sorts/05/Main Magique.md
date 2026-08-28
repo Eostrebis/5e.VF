@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Artificier
+ - Magicien
+ - Artificier
 level: 5
 school: Évocation
 Verbal: true

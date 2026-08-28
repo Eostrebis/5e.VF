@@ -1,9 +1,9 @@
 ---
 available:
-  - Occultiste
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Occultiste
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 4
 school: Conjuration
 Verbal: true

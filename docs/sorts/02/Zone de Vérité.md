@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Paladin
-  - Investigateur
-  - Martyr
+ - Barde
+ - Clerc
+ - Paladin
+ - Investigateur
+ - Martyr
 level: 2
 school: Enchantement
 Verbal: true

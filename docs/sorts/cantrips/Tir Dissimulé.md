@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
+ - Barde
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
 level: 0
 school: Illusion
 Verbal: false
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Concealed Shot
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

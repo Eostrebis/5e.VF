@@ -1,13 +1,13 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Sorcière
-  - Martyr
+ - Barde
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Sorcière
+ - Martyr
 level: 2
 school: Enchantement
 Verbal: true

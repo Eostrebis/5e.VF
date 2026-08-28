@@ -1,7 +1,7 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
+ - Nécromancien
+ - Sorcière
 level: 3
 school: Nécromancie
 Verbal: true

@@ -6,6 +6,6 @@ englishname: Claw Gauntlet
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés                                                             |
+| Dégâts | Propriétés |
 | -------------- | ---------------------------------------------------------------------- |
 | 1d4 tranchants | [[Propriétés d'Arme#Poing\|Poing]], [[Propriétés d'Arme#Léger\|léger]] |

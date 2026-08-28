@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Investigateur
+ - Magicien
+ - Investigateur
 level: 1
 school: Conjuration
 Verbal: true

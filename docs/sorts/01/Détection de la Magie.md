@@ -1,17 +1,17 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Druide
-  - Paladin
-  - Ranger
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Investigateur
-  - Martyr
-  - Nécromancien
-  - Sorcière
+ - Barde
+ - Clerc
+ - Druide
+ - Paladin
+ - Ranger
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Investigateur
+ - Martyr
+ - Nécromancien
+ - Sorcière
 level: 1
 school: Divination
 Verbal: true

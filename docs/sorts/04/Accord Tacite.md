@@ -1,12 +1,12 @@
 ---
 available:
-  - Barde
-  - Paladin
-  - Ranger
-  - Ensorceleur
-  - Magicien
-  - Sorcière
-  - Nécromancien
+ - Barde
+ - Paladin
+ - Ranger
+ - Ensorceleur
+ - Magicien
+ - Sorcière
+ - Nécromancien
 level: 4
 school: Enchantement
 Verbal: false

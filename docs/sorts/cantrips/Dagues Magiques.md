@@ -1,7 +1,7 @@
 ---
 available:
-  - Mage de Guerre
-  - Barde
+ - Mage de Guerre
+ - Barde
 level: 0
 school: Conjuration
 Verbal: true

@@ -1,7 +1,7 @@
 ---
 available:
-  - Barde
-  - Druide
+ - Barde
+ - Druide
 level: 5
 school: Transmutation
 Verbal: true

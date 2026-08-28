@@ -1,9 +1,9 @@
 ---
 available:
-  - Ranger
-  - Paladin
-  - Barde
-  - Martyr
+ - Ranger
+ - Paladin
+ - Barde
+ - Martyr
 level: 1
 school: Transmutation
 Verbal: true
@@ -18,7 +18,7 @@ Rituel: false
 englishname: Instant Replay
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

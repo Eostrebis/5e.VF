@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Maison des Cartes, Maisons des Fléchettes, Maison des Dés ou Maison de la Roulette_
+*Prérequis : Maison des Cartes, Maisons des Fléchettes, Maison des Dés ou Maison de la Roulette*
 
 Lorsque vous réalisez un jet d'attaque, de compétence ou de sauvegarde et échouez, vous pouvez lancer un autre d20 et l'ajouter au résultat, causant potentiellement un succès. Si la somme des d20s dépasse 21, le jet échoue automatiquement.
 

@@ -1,9 +1,9 @@
 ---
 available:
-  - Ranger
-  - Ensorceleur
-  - Magicien
-  - Investigateur
+ - Ranger
+ - Ensorceleur
+ - Magicien
+ - Investigateur
 level: 1
 school: Enchantement
 Verbal: true

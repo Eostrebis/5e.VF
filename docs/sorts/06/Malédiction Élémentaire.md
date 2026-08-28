@@ -1,6 +1,6 @@
 ---
 available:
-  - Sorcière
+ - Sorcière
 level: 6
 school: Évocation
 Verbal: true

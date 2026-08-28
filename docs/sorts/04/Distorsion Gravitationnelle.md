@@ -1,10 +1,10 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Druide
-  - Nécromancien
-  - Investigateur
+ - Magicien
+ - Ensorceleur
+ - Druide
+ - Nécromancien
+ - Investigateur
 level: 4
 school: Transmutation
 Verbal: true

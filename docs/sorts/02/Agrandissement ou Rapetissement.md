@@ -1,9 +1,9 @@
 ---
 available:
-  - Nécromancien
-  - Ensorceleur
-  - Magicien
-  - Artificier
+ - Nécromancien
+ - Ensorceleur
+ - Magicien
+ - Artificier
 level: 2
 school: Transmutation
 Verbal: true

@@ -1,6 +1,6 @@
 ---
 available:
-  - Sorcière
+ - Sorcière
 level: 7
 school: Enchantement
 Verbal: true

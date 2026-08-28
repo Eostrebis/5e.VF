@@ -1,6 +1,6 @@
 ---
 available:
-  - Occultiste
+ - Occultiste
 level: 5
 school: Illusion
 Verbal: true

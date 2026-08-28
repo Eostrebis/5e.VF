@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Magicien
-  - Nécromancien
-  - Investigateur
+ - Barde
+ - Magicien
+ - Nécromancien
+ - Investigateur
 level: 1
 school: Divination
 Verbal: true

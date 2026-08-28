@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Druide
-  - Ranger
-  - Magicien
+ - Barde
+ - Druide
+ - Ranger
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true

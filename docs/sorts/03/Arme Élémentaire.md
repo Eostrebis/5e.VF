@@ -1,9 +1,9 @@
 ---
 available:
-  - Artificier
-  - Druide
-  - Paladin
-  - Ranger
+ - Artificier
+ - Druide
+ - Paladin
+ - Ranger
 level: 3
 school: Transmutation
 Verbal: true

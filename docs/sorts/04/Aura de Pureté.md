@@ -1,8 +1,8 @@
 ---
 available:
-  - Paladin
-  - Martyr
-  - Clerc
+ - Paladin
+ - Martyr
+ - Clerc
 level: 4
 school: Abjuration
 Verbal: true

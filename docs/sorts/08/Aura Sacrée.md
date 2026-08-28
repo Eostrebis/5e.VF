@@ -1,6 +1,6 @@
 ---
 available:
-  - Clerc
+ - Clerc
 level: 8
 school: Abjuration
 Verbal: true

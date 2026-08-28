@@ -1,12 +1,12 @@
 ---
 available:
-  - Artificier
-  - Barde
-  - Clerc
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Magicien
+ - Artificier
+ - Barde
+ - Clerc
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Transmutation
 Verbal: true

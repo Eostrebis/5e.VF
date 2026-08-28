@@ -1,9 +1,9 @@
 ---
 available:
-  - Mage de Guerre
-  - Artificier
-  - Ensorceleur
-  - Magicien
+ - Mage de Guerre
+ - Artificier
+ - Ensorceleur
+ - Magicien
 level: 0
 school: Évocation
 Verbal: true

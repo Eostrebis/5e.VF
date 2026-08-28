@@ -1,6 +1,6 @@
 ---
 available:
-  - Paladin
+ - Paladin
 level: 2
 school: Évocation
 Verbal: true
@@ -15,7 +15,7 @@ Rituel: false
 englishname: Perforating Smite
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

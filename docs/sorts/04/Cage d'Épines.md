@@ -1,7 +1,7 @@
 ---
 available:
-  - Druide
-  - Ranger
+ - Druide
+ - Ranger
 level: 4
 school: Conjuration
 Verbal: true

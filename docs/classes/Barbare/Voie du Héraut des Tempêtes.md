@@ -9,11 +9,11 @@ Les Hérauts des Tempêtes sont généralement des champions d'élites, entraîn
 
 Lorsque vous choisissez cette voie au niveau 3, vous émanez une aura magique et tempétueuse lorsque vous êtes en rage. L'aura s'étend sur 10 ft. autour de vous dans toutes les directions, mais pas à travers les couvertures totales.
 
-Votre aura a un effet qui s'active lorsque vous entrez en rage, et vous pouvez activer cet effet à nouveau une fois à chacun de vos tours en tant qu'action  bonus. Choisissez Désert, Mer ou Toundra. L'effet de votre aura dépend de l'environnement choisi, comme détaillé ci-dessous. Vous pouvez changer votre choix d'environnement à chaque fois que vous gagnez un niveau dans cette classe.
+Votre aura a un effet qui s'active lorsque vous entrez en rage, et vous pouvez activer cet effet à nouveau une fois à chacun de vos tours en tant qu'action bonus. Choisissez Désert, Mer ou Toundra. L'effet de votre aura dépend de l'environnement choisi, comme détaillé ci-dessous. Vous pouvez changer votre choix d'environnement à chaque fois que vous gagnez un niveau dans cette classe.
 
 Si l'effet de l'aura requiert un jet de sauvegarde, le DD est de 8 + votre bonus de maîtrise + votre modificateur de Constitution.
 
-__Désert.__ Lorsque cet effet est activé, toutes les autres créatures dans votre aura subissent 2 points de dégâts chacune. Les dégâts augmentent lorsque vous atteignez certains niveaux dans cette classe : 3 au niveau 5, 4 au niveau 10, 5 au niveau 15 et 6 au niveau 20.
+**Désert.** Lorsque cet effet est activé, toutes les autres créatures dans votre aura subissent 2 points de dégâts chacune. Les dégâts augmentent lorsque vous atteignez certains niveaux dans cette classe : 3 au niveau 5, 4 au niveau 10, 5 au niveau 15 et 6 au niveau 20.
 
 **Mer.** Lorsque cet effet est activé, vous pouvez choisir une autre créature que vous pouvez voir dans votre aura. La cible doit effectuer un jet de sauvegarde de Dextérité. La cible subit 1d6 dégâts de foudre en cas d'échec et la moitié en cas de réussite. Les dégâts infligés augmentent lorsque vous atteignez certains niveaux dans cette classe : 2d6 au niveau 10, 3d6 au niveau 15 et 4d6 au niveau 20.
 
@@ -23,11 +23,11 @@ __Désert.__ Lorsque cet effet est activé, toutes les autres créatures dans vo
 
 Au niveau 6, le tempête vous confère des effets même lorsque votre aura n'est pas active. Les effets sont basés sur l'environnement de votre [[#Aura Tempétueuse]].
 
-__Désert.__ Vous obtenez la résistance aux dégâts de feu et vous ne souffrez pas les effets d'une chaleur extrême. De plus, en une action, vous pouvez toucher un objet inflammable qui n'est ni porté ni manié et l'enflammer.
+**Désert.** Vous obtenez la résistance aux dégâts de feu et vous ne souffrez pas les effets d'une chaleur extrême. De plus, en une action, vous pouvez toucher un objet inflammable qui n'est ni porté ni manié et l'enflammer.
 
-__Mer.__ Vous obtenez la résistance aux dégâts de foudre et vous pouvez respirer sous l'eau. Vous obtenez également une vitesse de nage de 30 ft.
+**Mer.** Vous obtenez la résistance aux dégâts de foudre et vous pouvez respirer sous l'eau. Vous obtenez également une vitesse de nage de 30 ft.
 
-__Toundra.__ Vous obtenez la résistance aux dégâts de froid et vous ne souffrez pas les effets du froid extrême. De plus, en une action, vous pouvez toucher de l'eau pour en transformer un cube de 5 ft. de côté en glace, qui fond après 1 minute. L'action échoue si une créature est dans le cube.
+**Toundra.** Vous obtenez la résistance aux dégâts de froid et vous ne souffrez pas les effets du froid extrême. De plus, en une action, vous pouvez toucher de l'eau pour en transformer un cube de 5 ft. de côté en glace, qui fond après 1 minute. L'action échoue si une créature est dans le cube.
 
 ## Tempête Protectrice
 
@@ -37,8 +37,8 @@ Au niveau 10, vous apprenez à utiliser votre maîtrise de la tempête pour prot
 
 Au niveau 14, le pouvoir de la tempête que vous canalisez grandit encore et se déchaîne sur vos ennemis. L'effet est basé sur l'environnement de votre [[#Aura Tempétueuse]].
 
-__Désert.__ Immédiatement après qu'une créature dans votre aura vous touche avec une attaque, vous pouvez dépenser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit un nombre de dégâts de feu égal à la moitié de niveau de barbare.
+**Désert.** Immédiatement après qu'une créature dans votre aura vous touche avec une attaque, vous pouvez dépenser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit un nombre de dégâts de feu égal à la moitié de niveau de barbare.
 
-__Mer.__ Lorsque vous touchez une créature dans votre aura avec une attaque, vous pouvez utiliser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Force. Si elle échoue, la créature tombe [[Au Sol]], comme si elle était touchée par une vague.
+**Mer.** Lorsque vous touchez une créature dans votre aura avec une attaque, vous pouvez utiliser votre réaction pour forcer cette créature à effectuer un jet de sauvegarde de Force. Si elle échoue, la créature tombe [[Au Sol]], comme si elle était touchée par une vague.
 
-__Toundra.__ À chaque fois que l'effet de votre Aura Tempétueuse s'active, vous pouvez choisir une créature que vous pouvez voir dans l'aura. La créature doit réussir un jet de sauvegarde de Force ou voir sa vitesse réduite à 0 jusqu'à son prochain tour, du givre magique la recouvrant.
+**Toundra.** À chaque fois que l'effet de votre Aura Tempétueuse s'active, vous pouvez choisir une créature que vous pouvez voir dans l'aura. La créature doit réussir un jet de sauvegarde de Force ou voir sa vitesse réduite à 0 jusqu'à son prochain tour, du givre magique la recouvrant.

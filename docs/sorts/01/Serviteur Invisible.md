@@ -1,11 +1,11 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Occultiste
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Occultiste
+ - Magicien
 level: 1
 school: Conjuration
 Verbal: true

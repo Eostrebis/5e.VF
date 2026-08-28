@@ -1,8 +1,8 @@
 ---
 available:
-  - Investigateur
-  - Barde
-  - Magicien
+ - Investigateur
+ - Barde
+ - Magicien
 level: 6
 school: Enchantement
 Verbal: true

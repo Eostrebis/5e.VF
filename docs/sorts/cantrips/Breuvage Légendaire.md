@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Barde
-  - Druide
+ - Clerc
+ - Barde
+ - Druide
 level: 0
 school: Conjuration
 Verbal: true

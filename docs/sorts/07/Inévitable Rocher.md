@@ -1,7 +1,7 @@
 ---
 available:
-  - Druide
-  - Magicien
+ - Druide
+ - Magicien
 level: 7
 school: Conjuration
 Verbal: true

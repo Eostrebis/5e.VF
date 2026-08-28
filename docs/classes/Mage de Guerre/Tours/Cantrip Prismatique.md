@@ -5,11 +5,11 @@ Une fois à chacun de vos tours, lorsque vous infligez des dégâts de force ave
 
 Vous pouvez utiliser ce tour un nombre de fois égal à votre modificateur d'Intelligence, et vous récupérez les utilisations dépensées lorsque vous terminez un repos long.
 
-| d6  | Type de Dégâts | Tour de Mage de Guerre |
+| d6 | Type de Dégâts | Tour de Mage de Guerre |
 | --- | -------------- | ---------------------- |
-| 1   | Acide          | [[Cantrip Corrosif]]   |
-| 2   | Froid          | [[Cantrip Glacé]]      |
-| 3   | Feu            | [[Cantrip Explosif]]   |
-| 4   | Foudre         | [[Cantrip Statique]]   |
-| 5   | Poison         | [[Cantrip Aspirant]]   |
-| 6   | Tonnerre       | [[Cantrip Silencieux]] |
+| 1 | Acide | [[Cantrip Corrosif]] |
+| 2 | Froid | [[Cantrip Glacé]] |
+| 3 | Feu | [[Cantrip Explosif]] |
+| 4 | Foudre | [[Cantrip Statique]] |
+| 5 | Poison | [[Cantrip Aspirant]] |
+| 6 | Tonnerre | [[Cantrip Silencieux]] |

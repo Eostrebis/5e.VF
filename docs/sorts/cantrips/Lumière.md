@@ -1,12 +1,12 @@
 ---
 available:
-  - Nécromancien
-  - Barde
-  - Clerc
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Mage de Guerre
+ - Nécromancien
+ - Barde
+ - Clerc
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true

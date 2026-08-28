@@ -1,6 +1,6 @@
 ---
 available:
-  - Druide
+ - Druide
 level: 5
 school: Évocation
 Verbal: false

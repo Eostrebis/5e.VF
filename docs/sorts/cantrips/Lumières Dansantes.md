@@ -1,11 +1,11 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Nécromancien
-  - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Nécromancien
+ - Sorcière
 level: 0
 school: Évocation
 Verbal: true

@@ -1,11 +1,11 @@
 ---
 available:
-  - Mage de Guerre
-  - Nécromancien
-  - Sorcière
-  - Clerc
-  - Occultiste
-  - Magicien
+ - Mage de Guerre
+ - Nécromancien
+ - Sorcière
+ - Clerc
+ - Occultiste
+ - Magicien
 level: 0
 school: Nécromancie
 Verbal: true

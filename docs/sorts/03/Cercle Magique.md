@@ -1,11 +1,11 @@
 ---
 available:
-  - Clerc
-  - Paladin
-  - Occultiste
-  - Magicien
-  - Sorcière
-  - Investigateur
+ - Clerc
+ - Paladin
+ - Occultiste
+ - Magicien
+ - Sorcière
+ - Investigateur
 level: 3
 school: Abjuration
 Verbal: true

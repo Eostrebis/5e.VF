@@ -1,10 +1,10 @@
 ---
 available:
-  - Artificier
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Mage de Guerre
+ - Artificier
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Finger Guns
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

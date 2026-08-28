@@ -1,11 +1,11 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Investigateur
-  - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Investigateur
+ - Sorcière
 level: 1
 school: Illusion
 Verbal: true

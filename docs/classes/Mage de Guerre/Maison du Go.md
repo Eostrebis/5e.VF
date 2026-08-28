@@ -7,11 +7,11 @@ La renommée Maison du Go prédate les autres maisons de mage de guerre de plusi
 
 Lorsque vous choisissez cette maison au niveau 3, vous apprenez des formations. Vous pouvez utiliser une action bonus pour activer l'une des formations suivantes, qui persiste jusqu'à ce que vous et vos alliés n'êtes plus dans cette formation, que vous soyez [[Incapacité]], mort ou que vous activiez une autre formation.
 
-__Flanquement.__ Vous pouvez utiliser cette formation lorsque vous et un allié n'êtes pas [[Incapacité|incapacités]] et que vous êtes tous les deux adjacents à un ennemi et chacun a un côté opposé de l'autre. Vous pouvez déterminer si c'est le cas en traçant une ligne large de 5 ft. depuis votre espace. Si cette ligne passe par le centre des trois espaces, l'ennemi est flanqué. Vous et votre allié avez l'avantage aux jets d'attaque que vous effectuez contre la créature flanquée.
+**Flanquement.** Vous pouvez utiliser cette formation lorsque vous et un allié n'êtes pas [[Incapacité|incapacités]] et que vous êtes tous les deux adjacents à un ennemi et chacun a un côté opposé de l'autre. Vous pouvez déterminer si c'est le cas en traçant une ligne large de 5 ft. depuis votre espace. Si cette ligne passe par le centre des trois espaces, l'ennemi est flanqué. Vous et votre allié avez l'avantage aux jets d'attaque que vous effectuez contre la créature flanquée.
 
-__Solo.__ Vous pouvez utiliser cette formation lorsque vous n'avez pas d'allié à 5 ft. de vous. Tant que cette formation est active, si vous ciblez une créature avec un cantrip, cette créature ne peut pas réaliser d'attaques d'opportunité contre vous pendant le reste du tour ou jusqu'à ce que vous ne soyez plus dans cette formation, que le cantrip inflige des dégâts ou non.
+**Solo.** Vous pouvez utiliser cette formation lorsque vous n'avez pas d'allié à 5 ft. de vous. Tant que cette formation est active, si vous ciblez une créature avec un cantrip, cette créature ne peut pas réaliser d'attaques d'opportunité contre vous pendant le reste du tour ou jusqu'à ce que vous ne soyez plus dans cette formation, que le cantrip inflige des dégâts ou non.
 
-__Mur.__ Vous pouvez utiliser cette formation lorsque vous et de 2 à 6 alliés qui ne sont pas [[Incapacité|incapacités]] se trouvent à 5 ft. d'un autre allié. Chaque créature dans cette formation, y compris vous, bénéficie d'un bonus de +2 à la CA.
+**Mur.** Vous pouvez utiliser cette formation lorsque vous et de 2 à 6 alliés qui ne sont pas [[Incapacité|incapacités]] se trouvent à 5 ft. d'un autre allié. Chaque créature dans cette formation, y compris vous, bénéficie d'un bonus de +2 à la CA.
 
 ## Stratégie d'Ouverture
 

@@ -1,9 +1,9 @@
 ---
 available:
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Magicien
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Magicien
 level: 4
 school: Transmutation
 Verbal: true

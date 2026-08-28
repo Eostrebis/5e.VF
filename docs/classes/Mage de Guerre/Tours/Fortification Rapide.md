@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Prérequis : cantrip [[Réparation]]_
+*Prérequis : cantrip [[Réparation]]*
 
 Vous pouvez lancer le cantrip [[réparation]] pour une action ou une action bonus. Si vous le lancez pour une action, vous pouvez utiliser l'un des effets suivants :
 

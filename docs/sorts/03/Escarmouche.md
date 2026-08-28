@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Ranger
-  - Magicien
+ - Clerc
+ - Ranger
+ - Magicien
 level: 3
 school: Transmutation
 Verbal: true

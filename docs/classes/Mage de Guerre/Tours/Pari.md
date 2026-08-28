@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Prérequis : Maison des Cartes, Maison des Dés ou Maison de la Roulette_
+*Prérequis : Maison des Cartes, Maison des Dés ou Maison de la Roulette*
 
 Vous êtes de façon permanente sous l'effet du sort [[triche]].
 

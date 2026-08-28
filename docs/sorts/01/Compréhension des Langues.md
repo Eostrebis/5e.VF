@@ -1,11 +1,11 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Investigateur
-  - Sorcière
+ - Barde
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Investigateur
+ - Sorcière
 level: 1
 school: Divination
 Verbal: true

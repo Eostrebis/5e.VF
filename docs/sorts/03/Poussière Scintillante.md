@@ -1,9 +1,9 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 3
 school: Conjuration
 Verbal: true

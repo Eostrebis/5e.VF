@@ -1,9 +1,9 @@
 ---
 available:
-  - Sorcière
-  - Nécromancien
-  - Clerc
-  - Druide
+ - Sorcière
+ - Nécromancien
+ - Clerc
+ - Druide
 level: 5
 school: Nécromancie
 Verbal: true

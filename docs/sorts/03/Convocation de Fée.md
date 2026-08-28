@@ -1,10 +1,10 @@
 ---
 available:
-  - Sorcière
-  - Druide
-  - Ranger
-  - Occultiste
-  - Magicien
+ - Sorcière
+ - Druide
+ - Ranger
+ - Occultiste
+ - Magicien
 level: 3
 school: Conjuration
 Verbal: true

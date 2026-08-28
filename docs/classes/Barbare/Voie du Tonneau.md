@@ -9,10 +9,10 @@ Restreinte et modération ne sont pas les mots d'ordre du barbare. Ils boivent a
 
 | Niveau de Barbare | Dégâts |
 | :---------------: | ------ |
-|         3         | 1d6    |
-|         6         | 1d8    |
-|        10         | 1d10   |
-|        14         | 1d12   |
+| 3 | 1d6 |
+| 6 | 1d8 |
+| 10 | 1d10 |
+| 14 | 1d12 |
 
 À partir du niveau 6, vos attaques à mains nues et les armes improvisées que vous maniez sont considérées comme magiques vis-à-vis des résistances et immunités.
 

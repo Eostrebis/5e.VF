@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Artificier
-  - Druide
+ - Clerc
+ - Artificier
+ - Druide
 level: 0
 school: Divination
 Verbal: true

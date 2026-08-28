@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Occultiste
-  - Magicien
+ - Barde
+ - Ensorceleur
+ - Occultiste
+ - Magicien
 level: 1
 school: Illusion
 Verbal: true

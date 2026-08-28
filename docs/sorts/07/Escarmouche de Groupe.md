@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Clerc
+ - Magicien
+ - Clerc
 level: 7
 school: Transmutation
 Verbal: true

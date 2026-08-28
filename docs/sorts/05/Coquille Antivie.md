@@ -1,7 +1,7 @@
 ---
 available:
-  - Druide
-  - Nécromancien
+ - Druide
+ - Nécromancien
 level: 5
 school: Abjuration
 Verbal: true

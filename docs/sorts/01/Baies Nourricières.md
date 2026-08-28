@@ -1,7 +1,7 @@
 ---
 available:
-  - Druide
-  - Ranger
+ - Druide
+ - Ranger
 level: 1
 school: Transmutation
 Verbal: true

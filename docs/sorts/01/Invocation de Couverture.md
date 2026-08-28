@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: true
 englishname: Conjure Cover
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

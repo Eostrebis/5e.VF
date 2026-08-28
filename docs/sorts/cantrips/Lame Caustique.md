@@ -1,8 +1,8 @@
 ---
 available:
-  - Artificier
-  - Nécromancien
-  - Mage de Guerre
+ - Artificier
+ - Nécromancien
+ - Mage de Guerre
 level: 0
 school: Évocation
 Verbal: true

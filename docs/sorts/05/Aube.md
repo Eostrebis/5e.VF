@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Magicien
-  - Martyr
+ - Clerc
+ - Magicien
+ - Martyr
 level: 5
 school: Évocation
 Verbal: true

@@ -1,7 +1,7 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
+ - Ensorceleur
+ - Magicien
 level: 9
 school: Transmutation
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Time Stop
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

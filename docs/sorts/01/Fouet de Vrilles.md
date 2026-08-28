@@ -1,6 +1,6 @@
 ---
 available:
-  - Occultiste
+ - Occultiste
 level: 1
 school: Transmutation
 Verbal: true

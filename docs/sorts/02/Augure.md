@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Investigateur
-  - Martyr
+ - Clerc
+ - Investigateur
+ - Martyr
 level: 2
 school: Divination
 Verbal: true

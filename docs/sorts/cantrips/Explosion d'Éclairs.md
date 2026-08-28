@@ -1,11 +1,11 @@
 ---
 available:
-  - Mage de Guerre
-  - Nécromancien
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Artificier
+ - Mage de Guerre
+ - Nécromancien
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Artificier
 level: 0
 school: Évocation
 Verbal: true

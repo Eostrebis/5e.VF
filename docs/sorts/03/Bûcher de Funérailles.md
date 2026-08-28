@@ -1,12 +1,12 @@
 ---
 available:
-  - Clerc
-  - Paladin
-  - Martyr
-  - Ensorceleur
-  - Magicien
-  - Sorcière
-  - Nécromancien
+ - Clerc
+ - Paladin
+ - Martyr
+ - Ensorceleur
+ - Magicien
+ - Sorcière
+ - Nécromancien
 level: 3
 school: Conjuration
 Verbal: true

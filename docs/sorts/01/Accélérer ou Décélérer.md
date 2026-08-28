@@ -1,8 +1,8 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -17,7 +17,7 @@ Rituel: false
 englishname: Accelerate/Decelerate
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

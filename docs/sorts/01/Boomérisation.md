@@ -1,9 +1,9 @@
 ---
 available:
-  - Ensorceleur
-  - Paladin
-  - Clerc
-  - Martyr
+ - Ensorceleur
+ - Paladin
+ - Clerc
+ - Martyr
 level: 1
 school: Évocation
 Verbal: true

@@ -1,6 +1,6 @@
 ---
 available:
-  - Barde
+ - Barde
 level: 0
 school: Enchantement
 Verbal: true

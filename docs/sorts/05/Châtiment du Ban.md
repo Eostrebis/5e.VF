@@ -1,7 +1,7 @@
 ---
 available:
-  - Paladin
-  - Martyr
+ - Paladin
+ - Martyr
 level: 5
 school: Abjuration
 Verbal: true

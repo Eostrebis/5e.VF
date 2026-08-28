@@ -1,10 +1,10 @@
 ---
 available:
-  - Sorcière
-  - Nécromancien
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Sorcière
+ - Nécromancien
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 2
 school: Divination
 Verbal: true

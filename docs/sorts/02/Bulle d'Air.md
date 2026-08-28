@@ -1,12 +1,12 @@
 ---
 available:
-  - Artificier
-  - Druide
-  - Ranger
-  - Ensorceleur
-  - Magicien
-  - Sorcière
-  - Investigateur
+ - Artificier
+ - Druide
+ - Ranger
+ - Ensorceleur
+ - Magicien
+ - Sorcière
+ - Investigateur
 level: 2
 school: Conjuration
 Verbal: false

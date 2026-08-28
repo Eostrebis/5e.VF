@@ -1,6 +1,6 @@
 ---
 available:
-  - Martyr
+ - Martyr
 level: 3
 school: Transmutation
 Verbal: true

@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 5_
+*Prérequis : niveau 5*
 
 Lorsque vous terminez un repos long, vous pouvez placer un sigil sur une arme simple ou martiale, qui devient votre focalisateur signature jusqu'à ce que vous utilisiez ce tour à nouveau. Cette arme devient magique et peut utiliser comme focalisateur pour vos sorts de mage de guerre. Votre focalisateur signature est lié à vous et obtient des capacités spéciales : 
 

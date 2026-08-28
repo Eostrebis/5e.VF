@@ -1,7 +1,7 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
+ - Ensorceleur
+ - Magicien
 level: 5
 school: Transmutation
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Evasiveness
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

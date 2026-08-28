@@ -7,36 +7,36 @@ La Maison des Fous accueille les mages de guerre avec un potentiel pour les vér
 
 Lorsque vous choisissez cette maison au niveau 3, vous obtenez la capacité de lancer des sorts plus puissants que des cantrips. 
 
-__Emplacements de Sort.__ La table d'Incantation des Fous vous indique combien d'emplacements de sort vous possédez afin de lancer vos sorts de niveau 1 ou supérieur. Pour lancer l'un de ces sorts, vous devez dépenser un emplacement de sort du niveau du sort ou supérieur. Vous récupérez tous les emplacements de sort dépensés lorsque vous terminez un repos long.
+**Emplacements de Sort.** La table d'Incantation des Fous vous indique combien d'emplacements de sort vous possédez afin de lancer vos sorts de niveau 1 ou supérieur. Pour lancer l'un de ces sorts, vous devez dépenser un emplacement de sort du niveau du sort ou supérieur. Vous récupérez tous les emplacements de sort dépensés lorsque vous terminez un repos long.
 
-__Sorts Connus de Niveau 1 ou Plus.__ Vous connaissez trois sorts de magicien de niveau 1 de votre choisi, dont deux de l'école de la conjuration ou de l'évocation.
+**Sorts Connus de Niveau 1 ou Plus.** Vous connaissez trois sorts de magicien de niveau 1 de votre choisi, dont deux de l'école de la conjuration ou de l'évocation.
 
 La colonne de Sorts Connus de la table d'Incantation des Fous vous indique quand vous apprenez des sorts de magicien de niveau 1 ou plus. Chacun de ces sorts doit être de l'école de la conjuration ou l'évocation, sauf ceux appris aux niveaux 8, 14 et 20, et doit être d'un niveau pour lequel vous possédez des emplacements.
 
 Lorsque vous obtenez un niveau dans cette classe, vous pouvez remplacer l'un des sorts de magicien que vous connaissez avec un autre sort de votre choix de la liste de magicien. Le nouveau sort doit être d'un niveau pour lequel vous avez des emplacements de sort et doit être de l'école de conjuration ou d'évocation, sauf si vous remplacez le sort obtenu au niveau 3, 8 ou 14.
 
-__Avantage du Mage de Guerre.__ Vous pouvez ajouter des dégâts supplémentaires à vos sorts de mage de guerre de niveau 1 ou plus en utilisant votre aptitude Avantage du Mage de Guerre, comme si ceux-ci étaient des cantrips. Vous ne pouvez pas ajouter les dégâts d'Avantage du Mage de Guerre au sort [[projectiles magiques]].
+**Avantage du Mage de Guerre.** Vous pouvez ajouter des dégâts supplémentaires à vos sorts de mage de guerre de niveau 1 ou plus en utilisant votre aptitude Avantage du Mage de Guerre, comme si ceux-ci étaient des cantrips. Vous ne pouvez pas ajouter les dégâts d'Avantage du Mage de Guerre au sort [[projectiles magiques]].
 
-| Niveau de Mage de Guerre | Sorts Connus | 1   | 2   | 3   | 4   |
+| Niveau de Mage de Guerre | Sorts Connus | 1 | 2 | 3 | 4 |
 | ------------------------ | ------------ | --- | --- | --- | --- |
-| 3                        | 3            | 2   | --  | --  | --  |
-| 4                        | 4            | 3   | --  | --  | --  |
-| 5                        | 4            | 3   | --  | --  | --  |
-| 6                        | 4            | 3   | --  | --  | --  |
-| 7                        | 5            | 4   | 2   | --  | --  |
-| 8                        | 6            | 4   | 2   | --  | --  |
-| 9                        | 6            | 4   | 2   | --  | --  |
-| 10                       | 7            | 4   | 3   | --  | --  |
-| 11                       | 7            | 4   | 3   | --  | --  |
-| 12                       | 8            | 4   | 3   | --  | --  |
-| 13                       | 9            | 4   | 3   | 2   | --  |
-| 14                       | 10           | 4   | 3   | 2   | --  |
-| 15                       | 10           | 4   | 3   | 2   | --  |
-| 16                       | 11           | 4   | 3   | 3   | --  |
-| 17                       | 11           | 4   | 3   | 3   | --  |
-| 18                       | 11           | 4   | 3   | 3   | --  |
-| 19                       | 12           | 4   | 3   | 3   | 1   |
-| 20                       | 13           | 4   | 3   | 3   | 1   |
+| 3 | 3 | 2 | -- | -- | -- |
+| 4 | 4 | 3 | -- | -- | -- |
+| 5 | 4 | 3 | -- | -- | -- |
+| 6 | 4 | 3 | -- | -- | -- |
+| 7 | 5 | 4 | 2 | -- | -- |
+| 8 | 6 | 4 | 2 | -- | -- |
+| 9 | 6 | 4 | 2 | -- | -- |
+| 10 | 7 | 4 | 3 | -- | -- |
+| 11 | 7 | 4 | 3 | -- | -- |
+| 12 | 8 | 4 | 3 | -- | -- |
+| 13 | 9 | 4 | 3 | 2 | -- |
+| 14 | 10 | 4 | 3 | 2 | -- |
+| 15 | 10 | 4 | 3 | 2 | -- |
+| 16 | 11 | 4 | 3 | 3 | -- |
+| 17 | 11 | 4 | 3 | 3 | -- |
+| 18 | 11 | 4 | 3 | 3 | -- |
+| 19 | 12 | 4 | 3 | 3 | 1 |
+| 20 | 13 | 4 | 3 | 3 | 1 |
 
 ## Étude des Arcanes
 

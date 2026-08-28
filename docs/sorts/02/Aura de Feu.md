@@ -1,8 +1,8 @@
 ---
 available:
-  - Martyr
-  - Clerc
-  - Paladin
+ - Martyr
+ - Clerc
+ - Paladin
 level: 2
 school: Évocation
 Verbal: true

@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Barde
-  - Sorcière
-  - Investigateur
+ - Magicien
+ - Barde
+ - Sorcière
+ - Investigateur
 level: 4
 school: Illusion
 Verbal: true

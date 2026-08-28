@@ -1,9 +1,9 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Nécromancien
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true

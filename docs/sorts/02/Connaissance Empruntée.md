@@ -1,11 +1,11 @@
 ---
 available:
-  - Investigateur
-  - Sorcière
-  - Barde
-  - Clerc
-  - Occultiste
-  - Magicien
+ - Investigateur
+ - Sorcière
+ - Barde
+ - Clerc
+ - Occultiste
+ - Magicien
 level: 2
 school: Divination
 Verbal: true

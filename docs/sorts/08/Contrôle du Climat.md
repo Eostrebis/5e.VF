@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Druide
-  - Magicien
+ - Clerc
+ - Druide
+ - Magicien
 level: 8
 school: Transmutation
 Verbal: true
@@ -17,11 +17,11 @@ Rituel: true
 englishname: Control Weather
 writing_status: finished
 tags:
-  - Clerc
-  - Druide
-  - Magicien
-  - Sort
-  - 8ème
+ - Clerc
+ - Druide
+ - Magicien
+ - Sort
+ - 8ème
 zone: none
 damage: none
 ---

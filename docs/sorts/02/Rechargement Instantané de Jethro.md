@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Barde
-  - Ranger
-  - Magicien
+ - Investigateur
+ - Barde
+ - Ranger
+ - Magicien
 level: 2
 school: Conjuration
 Verbal: true
@@ -18,7 +18,7 @@ Rituel: true
 englishname: Jethro's Instant Reload
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

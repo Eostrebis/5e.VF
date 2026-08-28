@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Prérequis : cantrip [[Illusion Mineure]]_
+*Prérequis : cantrip [[Illusion Mineure]]*
 
 Lorsque vous créez une image d'un objet sur un espace inoccupé en utilisant le cantrip [[illusion mineure]], vous pouvez le remplir avec des fibres d'objombre, le rendant partiellement réel. Peu importe la forme que cet objet semi-réel, il ne peut toujours pas être plus grand qu'un cube de 5 ft. Il possède une CA de 10, 3 points de vie et pèse 5 lbs. Vous ne pouvez avoir qu'une illusion semi-réelle à fois. Tant qu'un objet semi-réel existe, ce cantrip requiert votre concentration.
 

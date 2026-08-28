@@ -1,10 +1,10 @@
 ---
 available:
-  - Nécromancien
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Sorcière
+ - Nécromancien
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Sorcière
 level: 1
 school: Évocation
 Verbal: true

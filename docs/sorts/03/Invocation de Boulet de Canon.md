@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
+ - Magicien
+ - Ensorceleur
 level: 3
 school: Conjuration
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Conjure Cannonball
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: contondant
 ---

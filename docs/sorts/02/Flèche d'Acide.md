@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Nécromancien
+ - Magicien
+ - Nécromancien
 level: 2
 school: Évocation
 Verbal: true

@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Clerc
-  - Nécromancien
+ - Magicien
+ - Clerc
+ - Nécromancien
 level: 6
 school: Abjuration
 Verbal: true
@@ -17,7 +17,7 @@ Rituel: false
 englishname: Antiballistics Field
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

@@ -1,8 +1,8 @@
 ---
 available:
-  - Clerc
-  - Druide
-  - Occultiste
+ - Clerc
+ - Druide
+ - Occultiste
 level: 8
 school: Conjuration
 Verbal: true

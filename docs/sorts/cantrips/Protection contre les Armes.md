@@ -1,12 +1,12 @@
 ---
 available:
-  - Barde
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Nécromancien
-  - Sorcière
-  - Mage de Guerre
+ - Barde
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Nécromancien
+ - Sorcière
+ - Mage de Guerre
 level: 0
 school: Abjuration
 Verbal: true

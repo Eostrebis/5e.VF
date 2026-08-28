@@ -1,8 +1,8 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Sorcière
+ - Investigateur
+ - Nécromancien
+ - Sorcière
 level: 3
 school: Divination
 Verbal: true

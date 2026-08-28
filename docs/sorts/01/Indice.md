@@ -1,12 +1,12 @@
 ---
 available:
-  - Investigateur
-  - Sorcière
-  - Barde
-  - Clerc
-  - Druide
-  - Ranger
-  - Magicien
+ - Investigateur
+ - Sorcière
+ - Barde
+ - Clerc
+ - Druide
+ - Ranger
+ - Magicien
 level: 1
 school: Divination
 Verbal: true

@@ -1,11 +1,11 @@
 ---
 available:
-  - Clerc
-  - Paladin
-  - Artificier
-  - Martyr
-  - Ranger
-  - Barde
+ - Clerc
+ - Paladin
+ - Artificier
+ - Martyr
+ - Ranger
+ - Barde
 level: 2
 school: Abjuration
 Verbal: true

@@ -6,6 +6,6 @@ englishname: Cestus
 writing_status: finished
 ---
 
-| Dégâts         | Propriétés                                                             |
+| Dégâts | Propriétés |
 | -------------- | ---------------------------------------------------------------------- |
 | 1d4 contondans | [[Propriétés d'Arme#Poing\|Poing]], [[Propriétés d'Arme#léger\|léger]] |

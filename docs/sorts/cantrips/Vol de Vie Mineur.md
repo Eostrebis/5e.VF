@@ -1,9 +1,9 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Ensorceleur
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 0
 school: Nécromancie
 Verbal: false

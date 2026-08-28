@@ -1,10 +1,10 @@
 ---
 available:
-  - Mage de Guerre
-  - Ensorceleur
-  - Occultiste
-  - Magicien
-  - Artificier
+ - Mage de Guerre
+ - Ensorceleur
+ - Occultiste
+ - Magicien
+ - Artificier
 level: 0
 school: Conjuration
 Verbal: true

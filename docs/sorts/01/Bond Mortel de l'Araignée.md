@@ -1,7 +1,7 @@
 ---
 available:
-  - Ranger
-  - Nécromancien
+ - Ranger
+ - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true

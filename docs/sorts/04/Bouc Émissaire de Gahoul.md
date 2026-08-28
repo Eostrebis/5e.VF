@@ -1,7 +1,7 @@
 ---
 available:
-  - Sorcière
-  - Nécromancien
+ - Sorcière
+ - Nécromancien
 level: 4
 school: Abjuration
 Verbal: true

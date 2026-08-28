@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Druide
-  - Ranger
-  - Investigateur
-  - Sorcière
+ - Barde
+ - Druide
+ - Ranger
+ - Investigateur
+ - Sorcière
 level: 2
 school: Enchantement
 Verbal: true

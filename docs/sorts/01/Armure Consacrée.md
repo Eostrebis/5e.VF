@@ -1,7 +1,7 @@
 ---
 available:
-  - Clerc
-  - Investigateur
+ - Clerc
+ - Investigateur
 level: 1
 school: Abjuration
 Verbal: true

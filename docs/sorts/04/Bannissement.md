@@ -1,12 +1,12 @@
 ---
 available:
-  - Martyr
-  - Sorcière
-  - Clerc
-  - Paladin
-  - Ensorceleur
-  - Occultiste
-  - Magicien
+ - Martyr
+ - Sorcière
+ - Clerc
+ - Paladin
+ - Ensorceleur
+ - Occultiste
+ - Magicien
 level: 4
 school: Abjuration
 Verbal: true

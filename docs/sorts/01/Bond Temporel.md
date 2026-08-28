@@ -1,7 +1,7 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Conjuration
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Time Hop
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

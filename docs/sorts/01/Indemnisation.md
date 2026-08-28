@@ -1,7 +1,7 @@
 ---
 available:
-  - Martyr
-  - Nécromancien
+ - Martyr
+ - Nécromancien
 level: 1
 school: Nécromancie
 Verbal: true

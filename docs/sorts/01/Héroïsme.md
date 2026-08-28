@@ -1,9 +1,9 @@
 ---
 available:
-  - Barde
-  - Paladin
-  - Martyr
-  - Investigateur
+ - Barde
+ - Paladin
+ - Martyr
+ - Investigateur
 level: 1
 school: Enchantement
 Verbal: true

@@ -1,9 +1,9 @@
 ---
 available:
-  - Investigateur
-  - Nécromancien
-  - Clerc
-  - Magicien
+ - Investigateur
+ - Nécromancien
+ - Clerc
+ - Magicien
 level: 4
 school: Divination
 Verbal: true
@@ -18,7 +18,7 @@ Rituel: false
 englishname: Dire Warning
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

@@ -1,7 +1,7 @@
 ---
 available:
-  - Clerc
-  - Nécromancien
+ - Clerc
+ - Nécromancien
 level: 1
 school: Évocation
 Verbal: true

@@ -1,10 +1,10 @@
 ---
 available:
-  - Ranger
-  - Magicien
-  - Artificier
-  - Investigateur
-  - Nécromancien
+ - Ranger
+ - Magicien
+ - Artificier
+ - Investigateur
+ - Nécromancien
 level: 1
 school: Abjuration
 Verbal: true

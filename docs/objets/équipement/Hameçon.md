@@ -5,6 +5,6 @@ poids: 3
 englishname: Fishhook
 writing_status: finished
 ---
-| Dégâts       | Propriétés                                         |
+| Dégâts | Propriétés |
 | ------------ | -------------------------------------------------- |
 | 1d6 perçants | [[Propriétés d'Arme#Polyvalent\|Polyvalent]] (1d8) |

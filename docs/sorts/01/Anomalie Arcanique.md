@@ -1,10 +1,10 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Abjuration
 Verbal: true

@@ -1,13 +1,13 @@
 ---
 available:
-  - Investigateur
-  - Martyr
-  - Nécromancien
-  - Sorcière
-  - Clerc
-  - Paladin
-  - Occultiste
-  - Magicien
+ - Investigateur
+ - Martyr
+ - Nécromancien
+ - Sorcière
+ - Clerc
+ - Paladin
+ - Occultiste
+ - Magicien
 level: 2
 school: Abjuration
 Verbal: true

@@ -1,6 +1,6 @@
 ---
 available:
-  - Druide
+ - Druide
 level: 6
 school: Transmutation
 Verbal: true

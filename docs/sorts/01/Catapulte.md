@@ -1,9 +1,9 @@
 ---
 available:
-  - Ensorceleur
-  - Magicien
-  - Artificier
-  - Sorcière
+ - Ensorceleur
+ - Magicien
+ - Artificier
+ - Sorcière
 level: 1
 school: Transmutation
 Verbal: false

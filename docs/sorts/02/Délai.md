@@ -1,10 +1,10 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
-  - Barde
-  - Sorcière
-  - Nécromancien
+ - Magicien
+ - Ensorceleur
+ - Barde
+ - Sorcière
+ - Nécromancien
 level: 2
 school: Transmutation
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Delay
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

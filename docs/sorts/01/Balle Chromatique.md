@@ -1,7 +1,7 @@
 ---
 available:
-  - Paladin
-  - Ranger
+ - Paladin
+ - Ranger
 level: 1
 school: Évocation
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Chromatic Bullet
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

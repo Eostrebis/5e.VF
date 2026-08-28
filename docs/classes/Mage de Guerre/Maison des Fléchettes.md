@@ -17,11 +17,11 @@ Vous pouvez utiliser cette aptitude un nombre de fois égal à votre modificateu
 
 Également au niveau 3, vous pouvez planter un tir exactement là où vous en avez besoin. Enregistrez le résultat obtenu sur le d20 à chaque fois que vous réalisez un jet d'attaque de sort à distance avec un cantrip de mage de guerre. Les jets avec l'avantage ou le désavantage enregistrent respectivement le plus haut et le plus faible des résultats des d20s. Si un d20 est augmenté ou réduit par un Trick Shot, utilisez le nouveau nombre. Un jet enregistré le reste pendant 1 minute. Si vous tirez à nouveau un résultat enregistré alors que vous réalisez un jet d'attaque de sort avec un cantrip de mage de guerre, vous bénéficiez de l'un des effets suivants de votre choix : 
 
-__Dégâts Supplémentaires.__ Vous infligez 1d10 dégâts de Force supplémentaires à la cible.
+**Dégâts Supplémentaires.** Vous infligez 1d10 dégâts de Force supplémentaires à la cible.
 
-__Récupération.__ Vous regagnez une utilisation de Trick Shot dépensée.
+**Récupération.** Vous regagnez une utilisation de Trick Shot dépensée.
 
-__Relance.__ Vous pouvez relancer le d20 et devez utiliser le nouveau jet. Enregistrez ce nouveau d20.
+**Relance.** Vous pouvez relancer le d20 et devez utiliser le nouveau jet. Enregistrez ce nouveau d20.
 
 ## Escadague
 

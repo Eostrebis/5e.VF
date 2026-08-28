@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Clerc
+ - Magicien
+ - Clerc
 level: 2
 school: Abjuration
 Verbal: true

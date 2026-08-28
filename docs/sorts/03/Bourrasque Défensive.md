@@ -1,10 +1,10 @@
 ---
 available:
-  - Ranger
-  - Magicien
-  - Ensorceleur
-  - Sorcière
-  - Artificier
+ - Ranger
+ - Magicien
+ - Ensorceleur
+ - Sorcière
+ - Artificier
 level: 3
 school: Abjuration
 Verbal: true

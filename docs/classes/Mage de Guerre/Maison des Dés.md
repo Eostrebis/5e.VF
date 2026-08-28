@@ -17,19 +17,19 @@ Au niveau 3, vous obtenez 4 Dés du Destin, qui sont des d6. Lorsque vous effect
 
 Également au niveau 3, vous pouvez dépenser deux de vos Dés du Destin pour une action et les tirer dans la table ci-dessous afin de créer une explosion d'énergie chaotique.
 
-| 2d6 | Effet                                                                                                                                                                                                                                               |
+| 2d6 | Effet |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2   | Vous lancez [[boule de feu]] centré sur vous-même.                                                                                                                                                                                                  |
-| 3   | Votre CA est réduite de 2 jusqu'au début de votre prochain tour.                                                                                                                                                                                    |
-| 4   | Vous tombez [[Au Sol]].                                                                                                                                                                                                                             |
-| 5   | Chaque créature autre que vous à 60 ft. ne peut plus parler que dans une langue incompréhensible pendant la prochaine minute et ne peut pas réaliser de composantes verbales.                                                                       |
-| 6   | Une sphère d'un rayon de 5 ft. de papillon, insectes ou colombes emplit un emplacement de votre choix à 60 ft. de vous, obscurant fortement la zone jusqu'au début de votre prochain tour.                                                          |
-| 7   | Vous gagnez 7 points de vie temporaires et gardez vos Dés du Destin plutôt que de les donner au MJ.                                                                                                                                                 |
-| 8   | Vous devenez [[Invisible]] jusqu'à la fin du prochain tour, comme d'après le sort [[invisibilité]].                                                                                                                                                 |
-| 9   | Un objet à 60 ft. de vous choisi par le MJ explose, n'infligeant aucun dégâts à vous et vos alliés, mais infligeant 3d6 dégâts de feu à une créature prise dans l'explosion.                                                                        |
-| 10  | Vous vous téléportez de jusqu'à 60 ft. vers un espace inoccupé que vous pouvez voir. Chaque créature à 5 ft. de la destination doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou subir 2d6 dégâts de force. |
-| 11  | Choisissez une créature que vous pouvez voir à 60 ft. La créature subit 4d6 dégâts nécrotiques et vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés.                                                                    |
-| 12  | Vous lancez le sort [[éclair]] et pouvez ajouter les Dés du Destin au jet de dégâts.                                                                                                                                                                |
+| 2 | Vous lancez [[boule de feu]] centré sur vous-même. |
+| 3 | Votre CA est réduite de 2 jusqu'au début de votre prochain tour. |
+| 4 | Vous tombez [[Au Sol]]. |
+| 5 | Chaque créature autre que vous à 60 ft. ne peut plus parler que dans une langue incompréhensible pendant la prochaine minute et ne peut pas réaliser de composantes verbales. |
+| 6 | Une sphère d'un rayon de 5 ft. de papillon, insectes ou colombes emplit un emplacement de votre choix à 60 ft. de vous, obscurant fortement la zone jusqu'au début de votre prochain tour. |
+| 7 | Vous gagnez 7 points de vie temporaires et gardez vos Dés du Destin plutôt que de les donner au MJ. |
+| 8 | Vous devenez [[Invisible]] jusqu'à la fin du prochain tour, comme d'après le sort [[invisibilité]]. |
+| 9 | Un objet à 60 ft. de vous choisi par le MJ explose, n'infligeant aucun dégâts à vous et vos alliés, mais infligeant 3d6 dégâts de feu à une créature prise dans l'explosion. |
+| 10 | Vous vous téléportez de jusqu'à 60 ft. vers un espace inoccupé que vous pouvez voir. Chaque créature à 5 ft. de la destination doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou subir 2d6 dégâts de force. |
+| 11 | Choisissez une créature que vous pouvez voir à 60 ft. La créature subit 4d6 dégâts nécrotiques et vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés. |
+| 12 | Vous lancez le sort [[éclair]] et pouvez ajouter les Dés du Destin au jet de dégâts. |
 
 ## Dés Pipés
 

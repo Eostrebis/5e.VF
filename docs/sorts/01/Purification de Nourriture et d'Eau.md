@@ -1,10 +1,10 @@
 ---
 available:
-  - Clerc
-  - Druide
-  - Paladin
-  - Martyr
-  - Investigateur
+ - Clerc
+ - Druide
+ - Paladin
+ - Martyr
+ - Investigateur
 level: 1
 school: Transmutation
 Verbal: true

@@ -1,7 +1,7 @@
 ---
 available:
-  - Nécromancien
-  - Clerc
+ - Nécromancien
+ - Clerc
 level: 6
 school: Nécromancie
 Verbal: true

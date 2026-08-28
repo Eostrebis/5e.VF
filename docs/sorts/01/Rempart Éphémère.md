@@ -1,8 +1,8 @@
 ---
 available:
-  - Investigateur
-  - Martyr
-  - Magicien
+ - Investigateur
+ - Martyr
+ - Magicien
 level: 1
 school: Abjuration
 Verbal: true

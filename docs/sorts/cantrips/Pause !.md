@@ -1,10 +1,10 @@
 ---
 available:
-  - Mage de Guerre
-  - Clerc
-  - Ensorceleur
-  - Magicien
-  - Artificier
+ - Mage de Guerre
+ - Clerc
+ - Ensorceleur
+ - Magicien
+ - Artificier
 level: 0
 school: Transmutation
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Moment to Think
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

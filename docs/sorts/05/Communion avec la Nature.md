@@ -1,8 +1,8 @@
 ---
 available:
-  - Investigateur
-  - Druide
-  - Ranger
+ - Investigateur
+ - Druide
+ - Ranger
 level: 5
 school: Divination
 Verbal: true

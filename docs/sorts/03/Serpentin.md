@@ -1,8 +1,8 @@
 ---
 available:
-  - Druide
-  - Clerc
-  - Martyr
+ - Druide
+ - Clerc
+ - Martyr
 level: 3
 school: Transmutation
 Verbal: true

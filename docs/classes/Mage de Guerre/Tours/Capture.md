@@ -1,11 +1,11 @@
 ---
 writing_status: finished
 ---
-_Prérequis : niveau 10, Maison du Go_
+*Prérequis : niveau 10, Maison du Go*
 
 Vous obtenez la formation suivante.
 
-__Capture.__ Vous pouvez utiliser cette formation lorsque vous et trois ou plus alliés qui n'ont pas l'état [[Incapacité]] sont adjacents à un ennemi et l'encercle. Vous pouvez déterminer ceci en plaçant un cube imaginaire autour de l'ennemi. Si vous et vos alliés êtes adjacents à chacun côté du cube, la créature est encerclée.
+**Capture.** Vous pouvez utiliser cette formation lorsque vous et trois ou plus alliés qui n'ont pas l'état [[Incapacité]] sont adjacents à un ennemi et l'encercle. Vous pouvez déterminer ceci en plaçant un cube imaginaire autour de l'ennemi. Si vous et vos alliés êtes adjacents à chacun côté du cube, la créature est encerclée.
 
 Lorsque vous activez cette formation, l'ennemi doit effectuer un jet de sauvegarde de Dextérité contre votre DD de sauvegarde de sort ou être recouvert de chaînes d'énergie magique et être [[Sonné]] pendant 1 minute. La cible [[Sonné|sonnée]] peut effectuer un nouveau jet de sauvegarde à la fin de chacun de ses tours, terminant l'état et la formation en cas de succès.
 

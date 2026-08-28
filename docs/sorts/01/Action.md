@@ -1,10 +1,10 @@
 ---
 available:
-  - Sorcière
-  - Barde
-  - Paladin
-  - Ensorceleur
-  - Magicien
+ - Sorcière
+ - Barde
+ - Paladin
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Transmutation
 Verbal: true
@@ -19,7 +19,7 @@ Rituel: false
 englishname: Action
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

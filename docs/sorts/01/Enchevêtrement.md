@@ -1,6 +1,6 @@
 ---
 available:
-  - Druide
+ - Druide
 level: 1
 school: Conjuration
 Verbal: true

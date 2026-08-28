@@ -1,13 +1,13 @@
 ---
 available:
-  - Magicien
-  - Occultiste
-  - Ranger
-  - Paladin
-  - Druide
-  - Clerc
-  - Nécromancien
-  - Martyr
+ - Magicien
+ - Occultiste
+ - Ranger
+ - Paladin
+ - Druide
+ - Clerc
+ - Nécromancien
+ - Martyr
 level: 2
 school: Abjuration
 Verbal: true
@@ -22,7 +22,7 @@ Rituel: false
 englishname: Protection from Ballistics
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

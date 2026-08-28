@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Occultiste
-  - Druide
+ - Magicien
+ - Occultiste
+ - Druide
 level: 4
 school: Conjuration
 Verbal: true

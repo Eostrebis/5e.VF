@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Ensorceleur
+ - Magicien
+ - Ensorceleur
 level: 6
 school: Évocation
 Verbal: true

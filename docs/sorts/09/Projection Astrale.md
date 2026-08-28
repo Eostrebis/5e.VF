@@ -1,9 +1,9 @@
 ---
 available:
-  - Clerc
-  - Magicien
-  - Occultiste
-  - Sorcière
+ - Clerc
+ - Magicien
+ - Occultiste
+ - Sorcière
 level: 9
 school: Nécromancie
 Verbal: true

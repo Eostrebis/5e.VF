@@ -1,10 +1,10 @@
 ---
 available:
-  - Clerc
-  - Magicien
-  - Artificier
-  - Investigateur
-  - Ensorceleur
+ - Clerc
+ - Magicien
+ - Artificier
+ - Investigateur
+ - Ensorceleur
 level: 3
 school: Abjuration
 Verbal: true

@@ -1,8 +1,8 @@
 ---
 available:
-  - Artificier
-  - Ensorceleur
-  - Magicien
+ - Artificier
+ - Ensorceleur
+ - Magicien
 level: 3
 school: Transmutation
 Verbal: true
@@ -17,7 +17,7 @@ Rituel: false
 englishname: Haste
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

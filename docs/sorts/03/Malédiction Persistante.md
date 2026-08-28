@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Clerc
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Barde
+ - Clerc
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 3
 school: Nécromancie
 Verbal: true

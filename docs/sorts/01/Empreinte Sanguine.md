@@ -1,16 +1,16 @@
 ---
 available:
-  - Investigateur
-  - Martyr
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Clerc
-  - Druide
-  - Paladin
-  - Ranger
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Martyr
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Clerc
+ - Druide
+ - Paladin
+ - Ranger
+ - Ensorceleur
+ - Magicien
 level: 1
 school: Nécromancie
 Verbal: true

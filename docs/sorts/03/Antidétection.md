@@ -1,10 +1,10 @@
 ---
 available:
-  - Barde
-  - Ranger
-  - Magicien
-  - Nécromancien
-  - Sorcière
+ - Barde
+ - Ranger
+ - Magicien
+ - Nécromancien
+ - Sorcière
 level: 3
 school: Abjuration
 Verbal: true

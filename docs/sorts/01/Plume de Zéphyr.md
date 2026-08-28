@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Occultiste
-  - Ensorceleur
-  - Ranger
+ - Magicien
+ - Occultiste
+ - Ensorceleur
+ - Ranger
 level: 1
 school: Conjuration
 Verbal: true

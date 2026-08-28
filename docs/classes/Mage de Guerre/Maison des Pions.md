@@ -21,7 +21,7 @@ Au niveau 10, vous pouvez choisir une seconde option pour votre aptitude de Styl
 
 ## Coup d'Ouverture
 
-À partir du niveau 15, vous pouvez ajouter votre modificateur d'Intelligence à vos jets d'initiative.  De plus, lorsque vous tirez l'initiative et que vous n'êtes pas surpris, vous pouvez vous déplacer de votre vitesse.
+À partir du niveau 15, vous pouvez ajouter votre modificateur d'Intelligence à vos jets d'initiative. De plus, lorsque vous tirez l'initiative et que vous n'êtes pas surpris, vous pouvez vous déplacer de votre vitesse.
 
 ## Maîtrise Fondamentale
 

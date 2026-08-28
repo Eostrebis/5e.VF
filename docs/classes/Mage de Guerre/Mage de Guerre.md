@@ -33,29 +33,29 @@ Enfin, pensez à la Maison de mages de guerre que vous souhaiteriez rejoindre. B
 
 Vous pouvez créer un Mage de Guerre rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution. Choisissez ensuite les cantrips [[chair de poule]], [[fléchette de force]], [[arme de force]] et [[grappin fantôme]], ainsi que l'Initiation Arcanique Aventurier. Choisissez enfin un historique qui met en avant votre rigueur magique.
 
-| **Le Mage de Guerre** |                   |                                                                             |                 |                      |              |
+| **Le Mage de Guerre** | | | | | |
 | --------------------- | ----------------- | --------------------------------------------------------------------------- | --------------- | -------------------- | ------------ |
-| Niveau                | Bonus de Maîtrise | Aptitudes                                                                   | Cantrips Connus | Dés Bonus de Cantrip | Tours Connus |
-| 1                     | +2                | [[#Incantation]], [[#Initiation Arcanique]], [[#Style de Combat Arcanique]] | 4               | --                   | --           |
-| 2                     | +2                | [[#Avantage du Mage de Guerre]], [[#Tour de Mage de Guerre]]                | 4               | 0                    | 2            |
-| 3                     | +2                | [[#Maison de Mage de Guerre]]                                               | 5               | 0                    | 3            |
-| 4                     | +2                | [[#Augmentation de Caractéristiques]]                                       | 5               | 0                    | 3            |
-| 5                     | +3                | [[#Surpassement Arcanique]]                                                 | 6               | 1                    | 4            |
-| 6                     | +3                | [[#Instinct Tactique]]                                                      | 6               | 1                    | 4            |
-| 7                     | +3                | Compétence de [[#Maison de Mage de Guerre]]                                 | 6               | 1                    | 5            |
-| 8                     | +3                | [[#Augmentation de Caractéristiques]]                                       | 6               | 1                    | 5            |
-| 9                     | +4                | --                                                                          | 7               | 1                    | 6            |
-| 10                    | +4                | Compétence de [[#Maison de Mage de Guerre]]                                 | 7               | 1                    | 6            |
-| 11                    | +4                | Amélioration de [[#Surpassement Arcanique]]                                 | 7               | 2                    | 7            |
-| 12                    | +4                | [[#Augmentation de Caractéristiques]]                                       | 7               | 2                    | 7            |
-| 13                    | +5                | --                                                                          | 8               | 2                    | 8            |
-| 14                    | +5                | [[#Déflexion Stratégique]]                                                  | 8               | 2                    | 8            |
-| 15                    | +5                | Compétence de [[#Maison de Mage de Guerre]]                                 | 8               | 2                    | 9            |
-| 16                    | +5                | [[#Augmentation de Caractéristiques]]                                       | 8               | 2                    | 9            |
-| 17                    | +6                | --                                                                          | 9               | 3                    | 10           |
-| 18                    | +6                | Compétence de [[#Maison de Mage de Guerre]]                                 | 9               | 3                    | 10           |
-| 19                    | +6                | [[#Augmentation de Caractéristiques]]                                       | 9               | 3                    | 10           |
-| 20                    | +6                | [[#Maître de Guerre]]                                                       | 10              | 3                    | 10           |
+| Niveau | Bonus de Maîtrise | Aptitudes | Cantrips Connus | Dés Bonus de Cantrip | Tours Connus |
+| 1 | +2 | [[#Incantation]], [[#Initiation Arcanique]], [[#Style de Combat Arcanique]] | 4 | -- | -- |
+| 2 | +2 | [[#Avantage du Mage de Guerre]], [[#Tour de Mage de Guerre]] | 4 | 0 | 2 |
+| 3 | +2 | [[#Maison de Mage de Guerre]] | 5 | 0 | 3 |
+| 4 | +2 | [[#Augmentation de Caractéristiques]] | 5 | 0 | 3 |
+| 5 | +3 | [[#Surpassement Arcanique]] | 6 | 1 | 4 |
+| 6 | +3 | [[#Instinct Tactique]] | 6 | 1 | 4 |
+| 7 | +3 | Compétence de [[#Maison de Mage de Guerre]] | 6 | 1 | 5 |
+| 8 | +3 | [[#Augmentation de Caractéristiques]] | 6 | 1 | 5 |
+| 9 | +4 | -- | 7 | 1 | 6 |
+| 10 | +4 | Compétence de [[#Maison de Mage de Guerre]] | 7 | 1 | 6 |
+| 11 | +4 | Amélioration de [[#Surpassement Arcanique]] | 7 | 2 | 7 |
+| 12 | +4 | [[#Augmentation de Caractéristiques]] | 7 | 2 | 7 |
+| 13 | +5 | -- | 8 | 2 | 8 |
+| 14 | +5 | [[#Déflexion Stratégique]] | 8 | 2 | 8 |
+| 15 | +5 | Compétence de [[#Maison de Mage de Guerre]] | 8 | 2 | 9 |
+| 16 | +5 | [[#Augmentation de Caractéristiques]] | 8 | 2 | 9 |
+| 17 | +6 | -- | 9 | 3 | 10 |
+| 18 | +6 | Compétence de [[#Maison de Mage de Guerre]] | 9 | 3 | 10 |
+| 19 | +6 | [[#Augmentation de Caractéristiques]] | 9 | 3 | 10 |
+| 20 | +6 | [[#Maître de Guerre]] | 10 | 3 | 10 |
 
 # Aptitudes de Classe
 
@@ -117,35 +117,35 @@ Vous pouvez utiliser un focalisateur arcanique comme focalisateur d'incantation 
 
 Les mages de guerre viennent de tous les passifs et ont chacun des expériences uniques. Au niveau 1, choisissez le cadre dans lequel vous avez appris les bases de la magie. Les cantrips offerts par votre initiation ne comptent pas dans le nombre total de cantrips connus.
 
-__Aventurier.__ Vous avez récupéré des connaissances magiques à droite et à gauche à force de côtoyer des mages pendant vos aventures. Vous apprenez les cantrips [[main de mage]] et [[rayon de givre]].
+**Aventurier.** Vous avez récupéré des connaissances magiques à droite et à gauche à force de côtoyer des mages pendant vos aventures. Vous apprenez les cantrips [[main de mage]] et [[rayon de givre]].
 
-__Artiste du Cirque.__ Vous avez appris quelques tours en participant à des spectacles ou des numéros de cirque. Vous apprenez les cantrips [[lumières dansantes]] et [[illusion mineure]].
+**Artiste du Cirque.** Vous avez appris quelques tours en participant à des spectacles ou des numéros de cirque. Vous apprenez les cantrips [[lumières dansantes]] et [[illusion mineure]].
 
-__Anomalie Occulte.__ Une intrusion de magie néfaste a laissé sa marque sur vous. Vous apprenez les cantrips [[chair de poule]] et [[message]].
+**Anomalie Occulte.** Une intrusion de magie néfaste a laissé sa marque sur vous. Vous apprenez les cantrips [[chair de poule]] et [[message]].
 
-__Mercenaire.__ Vous maîtrisez les fondamentaux de la mage de guerre pour participer à des batailles contre des arcanistes équivalemment armés. Vous apprenez les cantrips [[coup au but]] et [[lame électrifiée]].
+**Mercenaire.** Vous maîtrisez les fondamentaux de la mage de guerre pour participer à des batailles contre des arcanistes équivalemment armés. Vous apprenez les cantrips [[coup au but]] et [[lame électrifiée]].
 
-__Disciple.__ Un monastère ou un temple vous a enseigné les douces voies de la magie réparatrice. Vous apprenez les cantrips [[flamme sacrée]] et [[stabilisation]].
+**Disciple.** Un monastère ou un temple vous a enseigné les douces voies de la magie réparatrice. Vous apprenez les cantrips [[flamme sacrée]] et [[stabilisation]].
 
-__Apprenti de la Tour.__ Vous avez été sous l'apprentissage d'un lanceur de sort pendant un certain temps, qui vous a enseigné les indispensables des arcanes. Vous apprenez les cantrips [[prestidigitation]] et [[poigne électrique]].
+**Apprenti de la Tour.** Vous avez été sous l'apprentissage d'un lanceur de sort pendant un certain temps, qui vous a enseigné les indispensables des arcanes. Vous apprenez les cantrips [[prestidigitation]] et [[poigne électrique]].
 
-__Autodidacte.__ Vous avez appris seul les bases de la magie grâce à un vieux tome ou un parchemin abandonné. Vous apprenez les cantrips [[trait de feu]] et [[lumière]].
+**Autodidacte.** Vous avez appris seul les bases de la magie grâce à un vieux tome ou un parchemin abandonné. Vous apprenez les cantrips [[trait de feu]] et [[lumière]].
 
-__Survivant.__ Afin de survivre en pleine nature, vous avez appris quelques sorts simples. Vous apprenez les cantrips [[druidisme]] et [[gourdin magique]].
+**Survivant.** Afin de survivre en pleine nature, vous avez appris quelques sorts simples. Vous apprenez les cantrips [[druidisme]] et [[gourdin magique]].
 
 ## Style de Combat Arcanique
 
 Les mages de guerre apprennent que la magie est la plus pure des armes, et qu'elle peut être maniée aussi aisément que n'import quelle autre. Au niveau 1, choisissez l'un des styles de combat suivants : 
 
-__Boomer.__ Le DD de sauvegarde de sort pour vos cantrips de mage de guerre est augmenté de 1.
+**Boomer.** Le DD de sauvegarde de sort pour vos cantrips de mage de guerre est augmenté de 1.
 
-__Déflecteur.__ Lorsque vous avez au moins une main libre et qu'une créature vous touche avec une attaque de sort ou une attaque armée à distance, vous pouvez utiliser votre réaction pour ajouter votre bonus de maîtrise à votre CA pour cette attaque, la faisant potentiellement rater.
+**Déflecteur.** Lorsque vous avez au moins une main libre et qu'une créature vous touche avec une attaque de sort ou une attaque armée à distance, vous pouvez utiliser votre réaction pour ajouter votre bonus de maîtrise à votre CA pour cette attaque, la faisant potentiellement rater.
 
-__Résistant.__ Lorsque vous portez une armure légère ou que vous êtes sous les effets d'une [[armure de mage]], vous obtenez un bonus de +1 à votre CA.
+**Résistant.** Lorsque vous portez une armure légère ou que vous êtes sous les effets d'une [[armure de mage]], vous obtenez un bonus de +1 à votre CA.
 
-__Sniper.__ Lorsque vous réalisez un jet d'attaque de sort à distance, vous gagnez un bonus de +1 au jet d'attaque. De plus, vous ignorez les couvertures de moitié lorsque vous lancez un cantrip de mage de guerre.
+**Sniper.** Lorsque vous réalisez un jet d'attaque de sort à distance, vous gagnez un bonus de +1 au jet d'attaque. De plus, vous ignorez les couvertures de moitié lorsque vous lancez un cantrip de mage de guerre.
 
-__Frappeur.__ Lorsque vous touchez avec un cantrip qui requiert une attaque de mêlée et que vous dépassez la CA de la cible par 5 ou plus ou que vous infligez un coup critique, vous pouvez ajouter votre bonus de maîtrise au jet de dégâts.
+**Frappeur.** Lorsque vous touchez avec un cantrip qui requiert une attaque de mêlée et que vous dépassez la CA de la cible par 5 ou plus ou que vous infligez un coup critique, vous pouvez ajouter votre bonus de maîtrise au jet de dégâts.
 
 ## Avantage du Mage de Guerre
 
@@ -163,19 +163,19 @@ De plus, lorsque vous obtenez un niveau dans cette classe, vous pouvez choisir l
 
 Au niveau 3, vous choisissez une Maison de Mage de Guerre, qui vous enseigne toute une série de techniques magiques. Ce choix vous confère des aptitudes aux niveaux 3, 7, 10, 15 et 18.
 
-| Maison de Mage de Guerre  | Description                                                                                       |
+| Maison de Mage de Guerre | Description |
 | ------------------------- | ------------------------------------------------------------------------------------------------- |
-| [[Maison de la Roulette]] | Parieur qui dépense des jetons de roulette pour améliorer ses cantrips.                           |
-| [[Maison des Cartes]]     | Utilise un jeu magique de cartes pour augmenter ses prouesses combatives.                         |
-| [[Maison des Cavaliers]]  | Combattant de première ligne, protégé par une armure lourde.                                      |
-| [[Maison des Dés]]        | Parieur avec un pouvoir inné pour contrôler le destin.                                            |
-| [[Maison des Fléchettes]] | Lanceur de dagues et autres fléchettes réalisant d'impressionnants trick shots.                   |
-| [[Maison des Fous]]       | S'essaye à la véritable magie, obtenant des emplacements de sorts pour complimenter ses cantrips. |
-| [[Maison des Lanciers]]   | Mage de guerre monastique canalisant ses cantrips à travers des attaques à mains nues.            |
-| [[Maison des Pions]]      | Maître polyvalent des cantrips.                                                                   |
-| [[Maison des Rois]]       | Meneur et commandant avec une large variété de manœuvres à leur disposition.                      |
-| [[Maison des Tours]]      | Assassin et espion arcaniques.                                                                    |
-| [[Maison du Go]]          | Stratégiste utilisant la formation de ses alliés pour entourer et écraser ses adversaires.        |
+| [[Maison de la Roulette]] | Parieur qui dépense des jetons de roulette pour améliorer ses cantrips. |
+| [[Maison des Cartes]] | Utilise un jeu magique de cartes pour augmenter ses prouesses combatives. |
+| [[Maison des Cavaliers]] | Combattant de première ligne, protégé par une armure lourde. |
+| [[Maison des Dés]] | Parieur avec un pouvoir inné pour contrôler le destin. |
+| [[Maison des Fléchettes]] | Lanceur de dagues et autres fléchettes réalisant d'impressionnants trick shots. |
+| [[Maison des Fous]] | S'essaye à la véritable magie, obtenant des emplacements de sorts pour complimenter ses cantrips. |
+| [[Maison des Lanciers]] | Mage de guerre monastique canalisant ses cantrips à travers des attaques à mains nues. |
+| [[Maison des Pions]] | Maître polyvalent des cantrips. |
+| [[Maison des Rois]] | Meneur et commandant avec une large variété de manœuvres à leur disposition. |
+| [[Maison des Tours]] | Assassin et espion arcaniques. |
+| [[Maison du Go]] | Stratégiste utilisant la formation de ses alliés pour entourer et écraser ses adversaires. |
 
 ## Augmentation de Caractéristiques
 

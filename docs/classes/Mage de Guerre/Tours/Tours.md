@@ -3,54 +3,54 @@ writing_status: finished
 ---
 Les tours suivants sont décris dans l'ordre alphabétique. Si un tour de mage de guerre a des prérequis, vous devez les atteindre afin de le choisir. Vous pouvez choisir un tour au moment même où vous atteignez les prérequis. Un prérequis de niveau fait référence au niveau de cette classe.
 
-| Tour                         | Niveau | Maison                                                                                                                          | Cantrip                                                           |
+| Tour | Niveau | Maison | Cantrip |
 | ---------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| [[Armure Mystique]]          | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Astuces de Main de Mage]]  | :x:    | :x:                                                                                                                             | [[Main de Mage]]                                                  |
-| [[Athlète Mystique]]         | :x:    | :x:                                                                                                                             | [[Pas Rapide]] ou [[Talons à Ressorts]]                           |
-| [[Blackjack]]                | :x:    | [[Maison des Cartes]], [[Maison des Fléchettes]], [[Maison des Dés]] ou [[Maison de la Roulette]]                               | :x:                                                               |
-| [[Cantrip Aspirant]]         | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Contingent]]       | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Corrosif]]         | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Explosif]]         | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Glacé]]            | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Prismatique]]      | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Radiant]]          | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Repoussant]]       | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Sévère]]           | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Silencieux]]       | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cantrip Statique]]         | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Cape de Plumes]]           | :x:    | [[Maison des Tours]]                                                                                                            | :x:                                                               |
-| [[Capture]]                  | 10     | [[Maison du Go]]                                                                                                                | :x:                                                               |
-| [[Crochet Fantôme]]          | :x:    | :x:                                                                                                                             | [[Grappin Fantôme]]                                               |
-| [[Destrier du Commandant]]   | :x:    | [[Maison des Cavaliers]]                                                                                                        | :x:                                                               |
-| [[Égide de Force]]           | 5      | :x:                                                                                                                             | [[Bocle de Force]]                                                |
-| [[Encryptogramme]]           | :x:    | :x:                                                                                                                             | [[Cryptogramme]]                                                  |
-| [[Focalisateur Signature]]   | 5      | :x:                                                                                                                             | :x:                                                               |
-| [[Fortification Rapide]]     | :x:    | :x:                                                                                                                             | [[Réparation]]                                                    |
-| [[Frappe d'Incantation]]     | 10     | :x:                                                                                                                             | [[Lame Électrifiée]], [[Lame Enflammante]], [[Lame Frigorifique]] |
-| [[Frappe Infaillible]]       | 10     | :x:                                                                                                                             | [[Coup au But]]                                                   |
-| [[Illusion d'Ombre Mineure]] | :x:    | :x:                                                                                                                             | [[Illusion Mineure]]                                              |
-| [[Inertie Dirigée]]          | 10     | [[Maison des Lanciers]]                                                                                                         | :x:                                                               |
-| [[Lumière Aveuglante]]       | :x:    | :x:                                                                                                                             | [[Lumière]]                                                       |
-| [[Maître d'Armes Mystique]]  | :x:    | :x:                                                                                                                             | [[Arme de Force]] ou [[Dagues Magiques]]                          |
-| [[Maître des Fléchettes]]    | 10     | [[Maison des Fléchettes]]                                                                                                       | :x:                                                               |
-| [[Manœuvre du Fou]]          | 10     | [[Maison des Fous]]                                                                                                             | :x:                                                               |
-| [[Medic de Terrain]]         | :x:    | [[Maison des Fous]]                                                                                                             | :x:                                                               |
-| [[Moment Magique]]           | :x:    | :x:                                                                                                                             | [[Pause !]]                                                       |
-| [[Œil de Serpent]]           | 10     | [[Maison des Dés]]                                                                                                              | :x:                                                               |
-| [[Ordre du Lieutenant]]      | 10     | [[Maison des Rois]]                                                                                                             | :x:                                                               |
-| [[Ouverture]]                | :x:    | [[Maison des Fous]], [[Maison du Go]], [[Maison des Rois]], [[Maison des Cavaliers]], [[Maison des Pions]], [[Maison des Fous]] | :x:                                                               |
-| [[Pari]]                     | :x:    | [[Maison des Cartes]], [[Maison des Dés]] ou [[Maison de la Roulette]]                                                          | [[Triche]]                                                        |
-| [[Plastron de Force]]        | 10     | [[Maison des Cavaliers]]                                                                                                        | :x:                                                               |
-| [[Portée Étendue]]           | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Portée Flexible]]          | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Présence Chevaleresque]]   | :x:    | [[Maison des Cavaliers]]                                                                                                        | :x:                                                               |
-| [[Répartie Mystique]]        | :x:    | :x:                                                                                                                             | :x:                                                               |
-| [[Rien ne va Plus]]          | 10     | [[Maison de la Roulette]]                                                                                                       | :x:                                                               |
-| [[Roque]]                    | 10     | [[Maison des Tours]]                                                                                                            | :x:                                                               |
-| [[Se Coucher]]               | 10     | [[Maison des Cartes]]                                                                                                           | :x:                                                               |
-| [[Tactiques Avancées]]       | :x:    | [[Maison des Lanciers]]                                                                                                         | :x:                                                               |
-| [[Tir Séparé]]               | 5      | :x:                                                                                                                             | :x:                                                               |
-| [[Variation Illimitée]]      | :x:    | :x:                                                                                                                             | [[Prestidigitation]]                                              |
-| [[Vision Mystique]]          | :x:    | :x:                                                                                                                             | :x:                                                               |
+| [[Armure Mystique]] | :x: | :x: | :x: |
+| [[Astuces de Main de Mage]] | :x: | :x: | [[Main de Mage]] |
+| [[Athlète Mystique]] | :x: | :x: | [[Pas Rapide]] ou [[Talons à Ressorts]] |
+| [[Blackjack]] | :x: | [[Maison des Cartes]], [[Maison des Fléchettes]], [[Maison des Dés]] ou [[Maison de la Roulette]] | :x: |
+| [[Cantrip Aspirant]] | :x: | :x: | :x: |
+| [[Cantrip Contingent]] | :x: | :x: | :x: |
+| [[Cantrip Corrosif]] | :x: | :x: | :x: |
+| [[Cantrip Explosif]] | :x: | :x: | :x: |
+| [[Cantrip Glacé]] | :x: | :x: | :x: |
+| [[Cantrip Prismatique]] | :x: | :x: | :x: |
+| [[Cantrip Radiant]] | :x: | :x: | :x: |
+| [[Cantrip Repoussant]] | :x: | :x: | :x: |
+| [[Cantrip Sévère]] | :x: | :x: | :x: |
+| [[Cantrip Silencieux]] | :x: | :x: | :x: |
+| [[Cantrip Statique]] | :x: | :x: | :x: |
+| [[Cape de Plumes]] | :x: | [[Maison des Tours]] | :x: |
+| [[Capture]] | 10 | [[Maison du Go]] | :x: |
+| [[Crochet Fantôme]] | :x: | :x: | [[Grappin Fantôme]] |
+| [[Destrier du Commandant]] | :x: | [[Maison des Cavaliers]] | :x: |
+| [[Égide de Force]] | 5 | :x: | [[Bocle de Force]] |
+| [[Encryptogramme]] | :x: | :x: | [[Cryptogramme]] |
+| [[Focalisateur Signature]] | 5 | :x: | :x: |
+| [[Fortification Rapide]] | :x: | :x: | [[Réparation]] |
+| [[Frappe d'Incantation]] | 10 | :x: | [[Lame Électrifiée]], [[Lame Enflammante]], [[Lame Frigorifique]] |
+| [[Frappe Infaillible]] | 10 | :x: | [[Coup au But]] |
+| [[Illusion d'Ombre Mineure]] | :x: | :x: | [[Illusion Mineure]] |
+| [[Inertie Dirigée]] | 10 | [[Maison des Lanciers]] | :x: |
+| [[Lumière Aveuglante]] | :x: | :x: | [[Lumière]] |
+| [[Maître d'Armes Mystique]] | :x: | :x: | [[Arme de Force]] ou [[Dagues Magiques]] |
+| [[Maître des Fléchettes]] | 10 | [[Maison des Fléchettes]] | :x: |
+| [[Manœuvre du Fou]] | 10 | [[Maison des Fous]] | :x: |
+| [[Medic de Terrain]] | :x: | [[Maison des Fous]] | :x: |
+| [[Moment Magique]] | :x: | :x: | [[Pause !]] |
+| [[Œil de Serpent]] | 10 | [[Maison des Dés]] | :x: |
+| [[Ordre du Lieutenant]] | 10 | [[Maison des Rois]] | :x: |
+| [[Ouverture]] | :x: | [[Maison des Fous]], [[Maison du Go]], [[Maison des Rois]], [[Maison des Cavaliers]], [[Maison des Pions]], [[Maison des Fous]] | :x: |
+| [[Pari]] | :x: | [[Maison des Cartes]], [[Maison des Dés]] ou [[Maison de la Roulette]] | [[Triche]] |
+| [[Plastron de Force]] | 10 | [[Maison des Cavaliers]] | :x: |
+| [[Portée Étendue]] | :x: | :x: | :x: |
+| [[Portée Flexible]] | :x: | :x: | :x: |
+| [[Présence Chevaleresque]] | :x: | [[Maison des Cavaliers]] | :x: |
+| [[Répartie Mystique]] | :x: | :x: | :x: |
+| [[Rien ne va Plus]] | 10 | [[Maison de la Roulette]] | :x: |
+| [[Roque]] | 10 | [[Maison des Tours]] | :x: |
+| [[Se Coucher]] | 10 | [[Maison des Cartes]] | :x: |
+| [[Tactiques Avancées]] | :x: | [[Maison des Lanciers]] | :x: |
+| [[Tir Séparé]] | 5 | :x: | :x: |
+| [[Variation Illimitée]] | :x: | :x: | [[Prestidigitation]] |
+| [[Vision Mystique]] | :x: | :x: | :x: |

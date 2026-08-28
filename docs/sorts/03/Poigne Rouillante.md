@@ -1,9 +1,9 @@
 ---
 available:
-  - Magicien
-  - Druide
-  - Sorcière
-  - Nécromancien
+ - Magicien
+ - Druide
+ - Sorcière
+ - Nécromancien
 level: 3
 school: Transmutation
 Verbal: true

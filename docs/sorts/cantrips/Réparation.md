@@ -1,13 +1,13 @@
 ---
 available:
-  - Barde
-  - Artificier
-  - Clerc
-  - Druide
-  - Ensorceleur
-  - Magicien
-  - Mage de Guerre
-  - Nécromancien
+ - Barde
+ - Artificier
+ - Clerc
+ - Druide
+ - Ensorceleur
+ - Magicien
+ - Mage de Guerre
+ - Nécromancien
 level: 0
 school: Transmutation
 Verbal: true

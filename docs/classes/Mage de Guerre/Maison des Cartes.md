@@ -15,16 +15,16 @@ De plus, vous pouvez utiliser votre Intelligence plutôt que votre Charisme pour
 
 Lorsque vous ciblez une créature hostile avec un sort de mage de guerre qui inflige des dégâts, vous pouvez utiliser votre action bonus pour jouer une ou plusieurs cartes de votre main afin de renforcer le sort. Si les cartes correspondent exactement à l'une des combinaisons présentes dans la table ci-dessous, le sort inflige des dégâts à l'une des cibles du sort ou vous confère un effet supplémentaire d'après la table. Si les cartes ne correspondent à aucun résultat, elles n'ont aucun effet. Les as sont considérés comme des 1 pour les résultats. Une fois que vous avez joué une carte, placez-la en dessous de votre paquet et piochez jusqu'à avoir 5 cartes en main.
 
-| Main     | Cartes                           | Effet                                                                                       |
+| Main | Cartes | Effet |
 | -------- | -------------------------------- | ------------------------------------------------------------------------------------------- |
-| Suite    | Cinq cartes qui se suivent.      | Vous infligez 12 dégâts supplémentaires.                                                    |
-| Flush    | Cinq cartes de la même enseigne. | Vous infligez 10 dégâts supplémentaires.                                                    |
-| Brelan   | Trois cartes de la même valeur.  | Vous infligez 6 dégâts supplémentaires.                                                     |
-| Paire    | Deux cartes de la même valeur.   | Vous infligez 2 dégâts supplémentaires.                                                     |
-| Cœurs    | Deux cartes cœurs.               | Vous gagnez un nombre de points de vie temporaire égal à votre modificateur d'Intelligence  |
-| Piques   | Deux cartes piques.              | Votre vitesse de déplacement augmente de 10 ft. jusqu'au début de votre prochain tour.      |
-| Carreaux | Deux cartes carreaux.            | Vous obtenez un bonus de +1 à la CA jusqu'au début de votre prochain tour.                  |
-| Trèfles  | Deux cartes trèfles.             | Vous obtenez un bonus de +1 à vos jets de sauvegarde jusqu'au début de votre prochain tour. |
+| Suite | Cinq cartes qui se suivent. | Vous infligez 12 dégâts supplémentaires. |
+| Flush | Cinq cartes de la même enseigne. | Vous infligez 10 dégâts supplémentaires. |
+| Brelan | Trois cartes de la même valeur. | Vous infligez 6 dégâts supplémentaires. |
+| Paire | Deux cartes de la même valeur. | Vous infligez 2 dégâts supplémentaires. |
+| Cœurs | Deux cartes cœurs. | Vous gagnez un nombre de points de vie temporaire égal à votre modificateur d'Intelligence |
+| Piques | Deux cartes piques. | Votre vitesse de déplacement augmente de 10 ft. jusqu'au début de votre prochain tour. |
+| Carreaux | Deux cartes carreaux. | Vous obtenez un bonus de +1 à la CA jusqu'au début de votre prochain tour. |
+| Trèfles | Deux cartes trèfles. | Vous obtenez un bonus de +1 à vos jets de sauvegarde jusqu'au début de votre prochain tour. |
 
 ## Enjeux Élevés
 

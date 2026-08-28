@@ -1,6 +1,6 @@
 ---
 available:
-  - Martyr
+ - Martyr
 level: 1
 school: Abjuration
 Verbal: true

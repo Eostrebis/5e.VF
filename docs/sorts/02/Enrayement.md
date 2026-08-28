@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Barde
-  - Sorcière
+ - Magicien
+ - Barde
+ - Sorcière
 level: 2
 school: Transmutation
 Verbal: true
@@ -17,7 +17,7 @@ Rituel: false
 englishname: Jam Weapon
 writing_status: finished
 tags:
-  - renaissance
+ - renaissance
 zone: none
 damage: none
 ---

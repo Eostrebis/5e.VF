@@ -1,7 +1,7 @@
 ---
 available:
-  - Occultiste
-  - Nécromancien
+ - Occultiste
+ - Nécromancien
 level: 4
 school: Nécromancie
 Verbal: true

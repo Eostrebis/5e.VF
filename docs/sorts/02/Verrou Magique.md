@@ -1,8 +1,8 @@
 ---
 available:
-  - Magicien
-  - Artificier
-  - Investigateur
+ - Magicien
+ - Artificier
+ - Investigateur
 level: 2
 school: Abjuration
 Verbal: true

@@ -1,7 +1,7 @@
 ---
 writing_status: finished
 ---
-_Prérequis : cantrip [[Main de Mage]]_
+*Prérequis : cantrip [[Main de Mage]]*
 
 Votre expertise avec le cantrip [[main de mage]] vous permet de l'utiliser comme une extension de votre propre corps. Lorsque vous lancez le sort et pour une action bonus pendant les tours suivants, vous pouvez utiliser l'un des effets suivants avec la main : 
 

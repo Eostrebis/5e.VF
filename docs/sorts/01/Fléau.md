@@ -1,9 +1,9 @@
 ---
 available:
-  - Nécromancien
-  - Sorcière
-  - Barde
-  - Clerc
+ - Nécromancien
+ - Sorcière
+ - Barde
+ - Clerc
 level: 1
 school: Enchantement
 Verbal: true

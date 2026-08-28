@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Martyr
-  - Nécromancien
-  - Clerc
-  - Paladin
+ - Investigateur
+ - Martyr
+ - Nécromancien
+ - Clerc
+ - Paladin
 level: 1
 school: Divination
 Verbal: true

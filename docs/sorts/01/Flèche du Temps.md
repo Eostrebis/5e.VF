@@ -1,7 +1,7 @@
 ---
 available:
-  - Magicien
-  - Ranger
+ - Magicien
+ - Ranger
 level: 1
 school: Transmutation
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: true
 englishname: Time's Arrow
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

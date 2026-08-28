@@ -1,8 +1,8 @@
 ---
 available:
-  - Druide
-  - Magicien
-  - Sorcière
+ - Druide
+ - Magicien
+ - Sorcière
 level: 8
 school: Enchantement
 Verbal: true

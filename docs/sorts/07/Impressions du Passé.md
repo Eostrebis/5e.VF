@@ -1,7 +1,7 @@
 ---
 available:
-  - Barde
-  - Magicien
+ - Barde
+ - Magicien
 level: 7
 school: Divination
 Verbal: true
@@ -16,7 +16,7 @@ Rituel: false
 englishname: Impressions of the Past
 writing_status: finished
 tags:
-  - chronomancie
+ - chronomancie
 zone: none
 damage: none
 ---

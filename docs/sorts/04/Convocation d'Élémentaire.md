@@ -1,9 +1,9 @@
 ---
 available:
-  - Sorcière
-  - Druide
-  - Magicien
-  - Ranger
+ - Sorcière
+ - Druide
+ - Magicien
+ - Ranger
 level: 4
 school: Conjuration
 Verbal: true
@@ -18,12 +18,12 @@ Rituel: false
 englishname: Summon Elemental
 writing_status: finished
 tags:
-  - Sort
-  - Sorcière
-  - 4ème
-  - Druide
-  - Ranger
-  - Magicien
+ - Sort
+ - Sorcière
+ - 4ème
+ - Druide
+ - Ranger
+ - Magicien
 zone: none
 damage: none
 ---

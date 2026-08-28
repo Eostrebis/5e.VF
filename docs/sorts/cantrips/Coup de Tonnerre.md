@@ -1,13 +1,13 @@
 ---
 available:
-  - Barde
-  - Druide
-  - Ensorceleur
-  - Occultiste
-  - Artificier
-  - Magicien
-  - Mage de Guerre
-  - Sorcière
+ - Barde
+ - Druide
+ - Ensorceleur
+ - Occultiste
+ - Artificier
+ - Magicien
+ - Mage de Guerre
+ - Sorcière
 level: 0
 school: Évocation
 Verbal: false

@@ -1,10 +1,10 @@
 ---
 available:
-  - Investigateur
-  - Sorcière
-  - Barde
-  - Ensorceleur
-  - Magicien
+ - Investigateur
+ - Sorcière
+ - Barde
+ - Ensorceleur
+ - Magicien
 level: 4
 school: Abjuration
 Verbal: true

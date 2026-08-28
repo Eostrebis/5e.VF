@@ -1,6 +1,6 @@
 ---
 available:
-  - Barde
+ - Barde
 level: 3
 school: Abjuration
 Verbal: true
