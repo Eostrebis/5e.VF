@@ -713,7 +713,7 @@ spells: "true"
 | Tasha's Caustic Brew                 | [[Mixture Caustique de Tasha]]            |
 | Tasha's Hideous Laughter             | [[Fou Rire de Tasha]]                     |
 | Tasha's Mind Whip                    | [[Fouet Mental de Tasha]]                 |
-| Tasha's Otherworldly Guise           | [[Costume d’Outre-Monde de Tasha]]        |
+| Tasha's Otherworldly Guise           | [[Costume d’Outre-Monde]]        |
 | Telekinesis                          | [[Télékinésie]]                           |
 | Telepathic Bond                      | [[Lien Télépathique]]                     |
 | Telepathy                            | [[Télépathie]]                            |

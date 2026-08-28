@@ -13,7 +13,7 @@ Materiel: false
 detailmat:
 Duree: Instantanée
 Incantation: 1 Action
-Portee: personnelle
+Portee: Personnelle
 Concentration: false
 Rituel: false
 englishname: Earth Tremor
