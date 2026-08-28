@@ -3695,6 +3695,29 @@
         "description": "Un rayon nauséabond d'énergie verdâtre se projette vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 2d8 dégâts de poison et doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible est [[Empoisonné|empoisonnée]] jusqu'à la fin de votre prochain tour.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.\n",
         "path": "01/Rayon Empoisonné"
     },
+    "Convocations Instantanées": {
+        "level": "6",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un saphir d'une valeur de 1000 po",
+        "Duree": "Jusqu'à dissipation",
+        "Incantation": "1 Minute",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Instant Summons",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien",
+            "Investigateur"
+        ],
+        "description": "Vous touchez un objet pesant 10 lbs. ou moins dont la dimension la plus longue est de 6 ft. ou moins. Le sort laisse une marque invisible sur sa surface et inscrit invisiblement le nom de l'objet sur le saphir que vous avez utilisé comme composante matérielle pour le sort. Chaque fois que vous lancez ce sort, vous devez utiliser un nouveau saphir.\n\nÀ n'importe quel moment après quoi, vous pouvez utiliser une action pour prononcer le nom de l'objet et briser le saphir. L'objet apparaît instantanément dans votre main peu importe la distance physique ou planaire, et le sort se termine. Si une autre créature possède ou manie l'objet, briser le saphir ne transporte pas l'objet à vous, mais vous apprenez à la place quelle créature possède l'objet et sa localisation approximative à cet instant précis.\n\nUne [[dissipation de la magie]] ou un effet similaire appliqué avec succès sur le saphir termine l'effet du sort.\n",
+        "path": "06/Convocations Instantanées"
+    },
     "Bouclier en Platine": {
         "level": "6",
         "school": "Abjuration",
@@ -7522,6 +7545,28 @@
         "description": "Ce sort vous permet d'augmenter la mobilité de n'importe quel nombre de créatures consentante que vous voyez à portée. Vous motivez chacune de ces créatures, leur permettant de se déplacer avec aisance dans les lignes ennemies. Pendant la durée du sort, la vitesse de chaque créature est augmentée de 15 ft., n'est pas affectée par les terrains difficiles non magiques et les créatures ciblées ne provoquent pas d'attaques d'opportunité.\n",
         "path": "07/Escarmouche de Groupe"
     },
+    "Cordon de Flèches": {
+        "level": "2",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Quatre ou plus flèches ou carreaux",
+        "Duree": "8 Heures",
+        "Incantation": "1 Action",
+        "Portee": "5 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Cordon of Arows",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ranger"
+        ],
+        "description": "Vous plantez quatre munitions non magiques — flèches ou carreaux — dans le sol à portée et les imprégnez de magie afin de protéger une zone. Jusqu'à ce que le sort se termine, à chaque fois qu'une créature autre que vous s'approche à 30 ft. des munitions pour la première fois pendant un tour ou y termine son tour, une munition s'envole afin de la frapper. La créature doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts perçants. La munition est ensuite détruite. Le sort se termine lorsque toutes les munitions ont été détruites.\n\nLorsque vous vous lancez ce sort, vous pouvez désigner des créatures de votre choix que le sort ignore.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, le nombre de munitions affectées augmente de deux par niveau d'emplacement de sort au-delà du niveau 2.\n",
+        "path": "02/Cordon de Flèches"
+    },
     "Bouche Magique": {
         "level": "2",
         "school": "Illusion",
@@ -7719,6 +7764,28 @@
         ],
         "description": "Choisissez un humanoïde que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être [[Paralysé|paralysée]] pendant la durée du sort. À la fin de chacun de ses tours, la cible peut retenter le jet de sauvegarde.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou supérieur, vous pouvez cibler un humanoïde supplémentaire par niveau d'emplacement de sort au-delà du niveau 2. Les humanoïdes doivent se trouver à 30 ft. l'un de l'autre lorsque vous les ciblez.\n",
         "path": "02/Immobilisation de Personne"
+    },
+    "Corde Enchantée": {
+        "level": "2",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "De l'extrait de poudre de maïs et une boucle tordue de parchemin",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Rope Trick",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien"
+        ],
+        "description": "Vous touchez une corde d'au plus 60 ft. Une extrémité de la corde se dresse alors dans les airs jusqu'à ce que la corde entière se tienne perpendiculaire au sol. À l'extrémité haute de la corde, une entrée invisible vers un espace extra dimensionnel s'ouvre jusqu'à ce que le sort se termine.\n\nL'espace extra dimensionnel peut être atteint en escaladant jusqu'en haut de la corde. L'espace peut accueillir jusqu'à huit créatures de taille M ou inférieure. La corde peut être tirée dans l'espace, la rendant non visible depuis l'extérieur de l'espace.\n\nLes attaques et sorts ne peuvent traverser l'entrée vers ou depuis l'espace, mais ceux se trouvant à l'intérieur peuvent voir au travers d’une fenêtre de 3 ft. par 5 ft. centrée sur la corde.\n\nTout ce qui se trouve à l'intérieur de l'espace extra dimensionnel tombe lorsque le sort se termine.\n",
+        "path": "02/Corde Enchantée"
     },
     "Flèche d'Acide": {
         "level": "2",
@@ -9410,6 +9477,31 @@
         "description": "Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle effectue avant le début de son prochain tour. Sur un jet réussi, la cible ne subit que la moitié des dégâts.\n\n**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, les dégâts augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Antagonisation"
     },
+    "Convocation de Rejeton d'Ombre": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une fiole de cristal contenant des larmes d'une valeur d'au moins 300 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Shadowspawn",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Sorcière",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous appelez un esprit ombreux. Celui-ci se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques d'un [[esprit ombreux]]. Lorsque vous lancez ce sort, choisissez une émotion parmi : Furie, Désespoir ou Peur. La créature ressemble à s'y méprendre à un bipède malformé imprégné de l'émotion choisie, ce qui détermine certains traits de ses statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Esquiver et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n",
+        "path": "03/Convocation de Rejeton d'Ombre"
+    },
     "Prison des Griffes Glaciales": {
         "level": "3",
         "school": "Évocation",
@@ -10524,6 +10616,30 @@
         ],
         "description": "Ce sort restaure l'espoir et la vitalité. Choisissez n'importe quel nombre de créatures à portée. Pendant la durée de ce sort, chaque cible a l'avantage aux jets de sauvegarde de Sagesse et contre la mort, et regagne le maximum de points de vie pour chaque soin.\n",
         "path": "03/Lueur d'Espoir"
+    },
+    "Convocation de Slime": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une fiole d'acide",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Slime",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Vous invoquez des créatures vaseuses qui apparaissent dans des espaces inoccupés que vous pouvez voir à portée. Une créature invoquée disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine. Choisissez l'une des options suivantes pour déterminer ce qui apparaît : \n\n - Une vase de FD 4 ou moins.\n - Deux vases de FD 2 ou moins.\n - Quatre vases de FD 1 ou moins.\n\nLes créatures sont des alliées pour vous et vos compagnons. Tirez l'initiative pour les créatures en tant que groupe, qui possède son propre tour.\n\nElles obéissent chacun de vos ordres verbaux (aucune action). Si vous ne leur en donnez aucun, elles se défendent contre les créatures hostiles, mais ne prennent aucune autre action. \n\nLe MJ possède les statistiques des créatures.\n",
+        "path": "03/Convocation de Slime"
     },
     "Contresort": {
         "level": "3",
