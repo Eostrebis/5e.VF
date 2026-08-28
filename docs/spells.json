@@ -8167,6 +8167,29 @@
         "description": "Vous invoquez trois harpons barbelés d'argent soigneusement torsadé. Ils flottent dans les airs au-dessus de votre tête pendant la durée du sort et disparaissent lorsque celui-ci se termine. Lorsque vous lancez ce sort et à chacun de vos tours suivants, vous pouvez réaliser une attaque de sort à distance pour lancer un harpon sur une cible à 30 ft. de vous. Si vous ratez, le harpon disparaît. Sinon, la cible subit 2d6 dégâts perforants et doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, le harpon s'enfonce dans sa chair.\n\nTant qu'une créature est pénétrée par un harpon, sa vitesse est réduite de moitié et vous pouvez utiliser votre action bonus pour faire tirer une chaîne invisible, attirant la créature de 10 ft. vers vous par harpon enfoncé. La cible peut utiliser une action pour retirer n'importe quel nombre de harpons, subissant 3d6 dégâts nécrotiques par harpon retiré et faisant disparaître les harpons. Une fois que les trois harpons ont disparu, le sort se termine.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts perforants ou les dégâts nécrotiques (votre choix) augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.\n",
         "path": "02/Chasse Diabolique"
     },
+    "Croissance d'Épines": {
+        "level": "2",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Sept épines pointues ou sept petites brindilles, chacune aiguisée",
+        "Duree": "10 Minutes",
+        "Incantation": "1 Action",
+        "Portee": "150 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Spike Growth",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Le sol dans un rayon de 20 ft. autour d'un point à portée se déforme et voit pousser des pics et des épines. La zone devient du terrain difficile pour la durée du sort. Lorsqu'une créature se déplace dans ou à l'intérieur de la zone, elle subit 2d4 dégâts perçants par 5 ft. traversé.\n\nLa transformation du sol est dissimulée pour paraître naturelle. Toute créature qui ne voit pas la zone se faire transformer doit effectuer un jet de Sagesse (Perception) contre votre DD de sauvegarde de sort pour reconnaître le terrain comme dangereux avant d'y rentrer.\n",
+        "path": "02/Croissance d'Épines"
+    },
     "Aisance Aérienne": {
         "level": "2",
         "school": "Transmutation",
@@ -10135,6 +10158,30 @@
         ],
         "description": "Vous et au moins trois créatures consentantes vous donnez les mains pendant un moment de méditation pour conjurer un esprit d'au-delà la mort pour répondre à vos questions. Décrivez ou appelez une créature qui vous est familière. Si l'âme de la créature est libre et consentante, elle se manifeste devant vous en un spectre fantomatique. Ce sort échoue si l'esprit était déjà la cible de ce sort il y a moins de 10 jours.\n\nJusqu'à ce que le sort se termine, vous pouvez poser jusqu'à trois questions au spectre. Le spectre ne sait que ce qu'il savait de son vivant, y compris pour les langues. Les réponses sont généralement brèves, cryptiques ou répétitive, et le spectre n'est sous aucune obligation de vous offrir une réponse honnête si vous y êtes hostile ou s'il vous reconnaît comme des ennemis. Il y a 5% de chances que le sort contacte le mauvais esprit, qui vous répondra toujours de façon malhonnête ou ambiguë. \n",
         "path": "03/Séance"
+    },
+    "Croissance Végétale": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action ou 8 Heures",
+        "Portee": "150 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Plant Growth",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Ce sort imprègne les plantes d'une zone de vitalité. Il existe deux utilisations possibles pour le sort, conférant des effets immédiats ou à long terme.\n\nSi vous lancez ce sort en utilisant 1 action, choisissez un point à portée. Toutes les plantes normales dans un rayon de 100 ft. autour du point deviennent épaisses et en surcroissance. Une créature se déplaçant à travers la zone doit dépenser 4 ft. pour chaque 1 ft. déplacé. \n\nVous pouvez exclure une ou plusieurs zones de n'importe quelle taille du sort lorsque vous le lancez.\n\nSi vous lancez ce sort sur une période de 8 heures, vous enrichissez la terre. Toutes les plantes dans un rayon de 1 kilomètre centré sur un point à portée deviennent enrichies pendant 1 an. Ces plantes ont un rendement double lorsqu'elles sont récoltées.\n",
+        "path": "03/Croissance Végétale"
     },
     "Célérité": {
         "level": "3",
