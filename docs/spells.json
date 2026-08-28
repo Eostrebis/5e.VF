@@ -1538,7 +1538,7 @@
         "detailmat": "",
         "Duree": "Instantanée",
         "Incantation": "1 Action",
-        "Portee": "personnelle",
+        "Portee": "Personnelle",
         "Concentration": "false",
         "Rituel": "false",
         "englishname": "Earth Tremor",
@@ -3877,6 +3877,31 @@
         ],
         "description": "En un geste, vous réduisez une foule à un état instinctif et violent. Choisissez un point que vous pouvez voir à portée. Chaque créature dans un rayon de 20 ft. autour de ce point doit effectuer un jet de sauvegarde de Sagesse. Si elle échoue, la créature est frénétique pendant la durée du sort. Lorsque une créature est frénétique, si elle a une arme de mêlée, elle la dégaine.\n\nUne créature frénétique doit utiliser son action au début de chacun de ses tours pour attaquer une créature à portée. Si elle a une arme de mêlée, elle l'utilise, et utilise une arme improvisée ou des attaques à mains nues sinon. Si plusieurs cibles sont à portée de la créature, elle choisit sa cible aléatoirement. Si aucune cible n'est à portée de la créature, elle s'attaque elle-même.\n\nA la fin de son tour, la créature frénétique peut retenter le jet de sauvegarde, terminant l'effet sur un succès.\n",
         "path": "06/Frénésie"
+    },
+    "Costume d’Outre-Monde": {
+        "level": "6",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un objet marqué du symbole des Plans Extérieurs, valant au moins 500 po",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Otherworldly Guise",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Prononçant une incantation, vous puisez dans la magie des Plans Inférieurs ou Supérieurs (votre choix) afin de vous transformer. Vous bénéficiez des effets suivants jusqu'à ce que le sort se termine : \n\n - Vous êtes immunisé aux dégâts de feu et de poison (Plans Inférieurs) ou radiants et nécrotiques (Plans Supérieurs).\n - Vous êtes immunisé à l'état [[empoisonné]] (Plans Inférieurs) ou [[charmé]] (Plans Supérieurs).\n - Des ailes spectrales apparaissent sur votre dos, vous conférant une vitesse de vol de 40 ft.\n - Vous avez un bonus de +2 à la CA.\n - Toutes vos attaques armées sont magiques et, lorsque vous effectuez une attaque armée, vous pouvez utiliser votre caractéristique d'incantation plutôt que la Force ou la Dextérité pour les jets d'attaque et de dégâts.\n - Vous pouvez attaquer deux fois plutôt qu'une lorsque vous entreprenez l'action d'Attaquer pendant votre tour. Vous ignorez cet effet si vous possédez déjà une aptitude vous permettant d'attaquer plus d'une fois.\n",
+        "path": "06/Costume d’Outre-Monde"
     },
     "Demande": {
         "level": "6",
@@ -7324,6 +7349,30 @@
         "description": "Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.\n\nLorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle subit 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle subit la moitié des dégâts et n'est pas déplacée.\n\nJusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour forcer toutes les créatures dans la zone à effectuer un jet de sauvegarde immédiatement.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.\n",
         "path": "04/Emprise des Tombes"
     },
+    "Couronne d'Étoiles": {
+        "level": "7",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Crown of Stars",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Sept étincelles en forme d'étoile apparaissent et orbitent autour de votre tête jusqu'à ce que le sort se termine. Vous pouvez entreprendre une action pour envoyer l'une de ces étincelles en direction d'une créature ou d'un objet à 120 ft. de vous. Lorsque vous le faites, effectuez une attaque de sort à distance. Si vous touchez, la cible subit 4d12 dégâts radiants. Que vous touchiez ou ratiez, l'étincelle est dépensée. Le sort se termine prématurément si vous dépensez la dernière étincelle. S'il vous reste quatre étincelles ou plus, elles émettent une lumière vive dans un rayon de 30 ft. et une lumière faible sur 30 ft. supplémentaires. S'il vous en reste trois ou moins, elles émettent une lumière faible dans un rayon de 30 ft.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, le nombre d'étincelles augmente de 2 par niveau d'emplacement au-delà du niveau 7.\n",
+        "path": "07/Couronne d'Étoiles"
+    },
     "Cage de Force": {
         "level": "7",
         "school": "Évocation",
@@ -7641,6 +7690,29 @@
         ],
         "description": "En dessinant des sceaux arcaniques le long de sa limite, vous pouvez protéger une porte, une fenêtre ou n'importe quel autre portail. Pendant la durée du sort, une créature occulte invisible rôde et surveille le portail protégé. Toute créature qui essaye de passer le portail doit réussir un jet de sauvegarde de Sagesse ou subir 4d6 dégâts psychiques, ou la moitié en cas de réussite.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 2.\n",
         "path": "02/Seuil de Protection"
+    },
+    "Courant Ascendant": {
+        "level": "2",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Tour",
+        "Incantation": "1 Action",
+        "Portee": "15 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Skyward Rise",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ranger",
+            "Occultiste"
+        ],
+        "description": "Vous hurlez, appelant les vents à se saisir d'une créature à portée. La cible doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle est suspendue au-dessus du sol jusqu'à la fin de son prochain tour et est [[retenu|retenue]]. Pour une action bonus avant la fin de votre tour, vous pouvez réaliser une attaque armée de mêlée contre la créature si elle se trouve dans votre allonge, infligeant 2d6 dégâts supplémentaires si vous touchez.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, vous infligez 2d6 dégâts supplémentaires par niveau d'emplacement au-delà du niveau 2.\n",
+        "path": "02/Courant Ascendant"
     },
     "Flou": {
         "level": "2",
