@@ -3857,6 +3857,31 @@
         "description": "Vous envoyez un court message de 25 mots ou moins à une créature avec laquelle vous êtes familier. La créature entend le message dans son esprit, vous reconnaît comme étant l'expéditeur si elle vous connaît et peut répondre de la même manière immédiatement. Le sort permet à toute créature d'Intelligence au moins égale à 1 de comprendre le sens du message.\n\nVous pouvez envoyer le message à travers n'importe quelle distance, et même vers d'autres plans, mais si la cible ne se trouve pas sur le même plan que vous, il y a 5% de chance que le message se perde.\n\nVous pouvez utiliser le message pour suggérer une action raisonnable à une cible, auquel cas la cible doit réussir un jet de sauvegarde de Sagesse ou être influencé par votre message comme à travers un sort de [[suggestion]].\n",
         "path": "06/Demande"
     },
+    "Convocation de Fiélon": {
+        "level": "6",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une fiole de rubis contenant du sang humain d'une valeur d'au moins 600 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Fiend",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Sorcière",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "\nVous appelez un esprit fiélon. Celui-ci se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques d'un [[esprit fiélon]]. Lorsque vous lancez ce sort, choisissez Démon, Diable ou Yugoloth. La créature ressemble à s'y méprendre à un fiélon du type choisi, ce qui détermine certains traits de ses statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Esquiver et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n",
+        "path": "06/Convocation de Fiélon"
+    },
     "Condensateur Arcanique": {
         "level": "6",
         "school": "Évocation",
@@ -9832,6 +9857,32 @@
         "description": "Vous tendez la main vers une créature vivante que vous pouvez voir. La cible doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, son corps s'emplit d'un vil poison et elle subit 10d6 dégâts de poison au début de son prochain tour. Si la cible est réduite à 0 point de vie avant le début de son prochain tour, le poison explose et érupte en une douche de bile. Les créatures dans un rayon de 10 ft. de la cible doivent effectuer un jet de sauvegarde de Dextérité. Si elle échoue, la créature subit 10d6 dégâts de poison, ou la moitié en cas de jet réussit.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de chaque phase du sort augmentent de 2d6 par niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Cœur Noirci"
     },
+    "Convocation de Fée": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une fleur plaquée or d'une valeur d'au moins 300 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Fey",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Druide",
+            "Ranger",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous appelez un esprit féérique. Celui-ci se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques d'un [[esprit féérique]]. Lorsque vous lancez ce sort, choisissez une émotion : Furieux, Joyeux ou Joueur. La créature ressemble à s'y méprendre à une créature féérique de votre choix affectée de l'émotion choisie, ce qui détermine certains traits de ses statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Esquiver et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n",
+        "path": "03/Convocation de Fée"
+    },
     "Beauté Fantasmagorique": {
         "level": "3",
         "school": "Illusion",
@@ -10544,6 +10595,30 @@
         ],
         "description": "Pendant la durée du sort, les parties du corps d'une cible consentante (doigts, jambes, queue et même sa tête) peuvent être retirées du corps sans danger. La créature ne subit aucun dégâts d'un tel démembrement, tant que la coupe est nette et rapide. La tête de la cible reste vivante et consciente, et les parties connectées à la tête restent en vie. Tous les membres séparés deviennent inanimés, mais ne commencent pas à se décomposer pendant la durée du sort. Tout partie du corps de la cible retirée pendant la durée du sort peut être pressée contre le moignon, ce qui restaurent immédiatement la connexion entre la partie et le corps.\n\nA la fin du sort, les parties du corps séparées deviennent définitivement séparées. La cible meurt si des organes vitaux n'ont pas été rattachés à la tête.\n",
         "path": "03/Démembrement Bénin"
+    },
+    "Convocation de Mort-vivant": {
+        "level": "3",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un crâne plaqué or d'une valeur d'au moins 300 po",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Summon Undead",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous appelez un esprit mort-vivant. Celui-ci se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques d'un [[esprit mort-vivant]]. Lorsque vous lancez ce sort, choisissez la forme de la créature : Fantomatique, Putride ou Squelettique. La créature ressemble à s'y méprendre à un mort-vivant de la forme choisie, ce qui détermine certains traits de ses statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Esquiver et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.\n\n",
+        "path": "03/Convocation de Mort-vivant"
     },
     "Tempête de Grêle": {
         "level": "3",
