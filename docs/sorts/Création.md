@@ -14,7 +14,7 @@ Portee: 30 ft.
 Concentration: false
 Rituel: false
 englishname: Creation
-writing_status: empty
+writing_status: finished
 zone: none
 damage: none
 ---
