@@ -95,6 +95,29 @@
         "description": "Vous invoquez un cube d'eau de 5 ft. qui s'anime dans un pattern hypnotique dans un espace inoccupé à portée. L'eau voltige pendant la durée du sort, sans quitter son cube si ce n'est pour des petits jets jusqu'à 5 ft. de haut. Chaque créature à 60 ft. autre que vous qui voit la fontaine doit effectuer un jet de sauvegarde de Sagesse ou être [[Charmé|charmée]] par vous pendant la durée du sort. Tant qu'elle est charmée par ce sort, la créature doit utiliser son mouvement pendant son tour pour se rapprocher autant que possible de l'eau. A la fin de chacun de ses tours, la créature charmée peut retenter le jet de sauvegarde du sort. Une créature qui a réussi le jet de sauvegarde du sort n'est plus affectée par la même instance.\n\nSi une créature se trouve à 5 ft. de la fontaine, vous pouvez utiliser votre action bonus pour ordonner à l'eau de se lâcher contre la créature. Réalisez une attaque de sort de mêlée contre la cible. Si vous touchez, l'eau inflige 4d6 dégâts contondants à al cible. Si la cible est charmée par ce sort, elle peut retenter son jet de sauvegarde après avoir subi ces dégâts.\n",
         "path": "05/Fontaine Dansante"
     },
+    "Création": {
+        "level": "5",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un petit morceau du même matériau que l'objet que vous souhaitez créer",
+        "Duree": "Spéciale",
+        "Incantation": "1 Minute",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Creation",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous tirez des fils de matériel d'ombre de la Gisombre afin de créer un objet non vivant de matière végétale à portée : articles textiles, cordes, bois ou similaire. Vous pouvez utiliser ce sort pour créer des objets minéraux comme de la pierre, du cristal ou du métal. L'objet créé ne peut être plus grand qu'un cube de 5 ft. de côté et l'objet doit être d'une forme et d'un matériau que vous avez déjà vu.\n\nLa durée dépend du matériau de l'objet. Si l'objet est composé de différents matériaux, utilisez la durée la plus courte.\n\n| Matériau            | Durée      |\n| ------------------- | ---------- |\n| Végétal             | 1 jour     |\n| Pierre, cristal     | 12 heures  |\n| Métaux précieux     | 1 heure    |\n| Gemmes              | 10 minutes |\n| Adamantine, Mithril | 1 minute   |\n\nUtiliser n'importe matériau créé par ce sort comme composante matérielle pour un autre sort fait échouer ce second sort.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, le cube augmente de 5 ft. pour chaque niveau d'emplacement au-delà du niveau 5.",
+        "path": "05/Création"
+    },
     "Ailes de la Nuit": {
         "level": "5",
         "school": "Illusion",
@@ -1778,6 +1801,30 @@
         ],
         "description": "Lorsqu'une créature non hostile à portée (ou vous) se fait attaquer, vous pouvez utiliser une réaction pour la protéger magiquement, lui conférant un bonus de +2 à la CA contre cette attaque.\n",
         "path": "01/Bouclier du Gardien"
+    },
+    "Couteau de Glace": {
+        "level": "1",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une goutte d'eau ou un fragment de glace",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Ice Knife",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous créez un éclat de glace et le propulsez vers une créature à portée. Réalisez une attaque de sort à distance contre la cible. Si vous touchez, la cible subit 1d10 dégâts perçants. Que vous touchiez ou ratiez, l'éclat explose ensuite. La cible et chaque créature à 5 ft. de l'endroit où l'éclat explose doivent réussir un jet de sauvegarde de Dextérité ou subir 2d6 dégâts de froid. \n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou supérieur, les dégâts de froid augmentent de 1d6 par niveau d'emplacement au-delà du niveau 1.\n",
+        "path": "01/Couteau de Glace"
     },
     "Bond": {
         "level": "1",
@@ -7639,6 +7686,32 @@
         ],
         "description": "Vous plantez quatre munitions non magiques — flèches ou carreaux — dans le sol à portée et les imprégnez de magie afin de protéger une zone. Jusqu'à ce que le sort se termine, à chaque fois qu'une créature autre que vous s'approche à 30 ft. des munitions pour la première fois pendant un tour ou y termine son tour, une munition s'envole afin de la frapper. La créature doit réussir un jet de sauvegarde de Dextérité ou subir 1d6 dégâts perçants. La munition est ensuite détruite. Le sort se termine lorsque toutes les munitions ont été détruites.\n\nLorsque vous vous lancez ce sort, vous pouvez désigner des créatures de votre choix que le sort ignore.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, le nombre de munitions affectées augmente de deux par niveau d'emplacement de sort au-delà du niveau 2.\n",
         "path": "02/Cordon de Flèches"
+    },
+    "Couronne du Dément": {
+        "level": "2",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Crown of Madness",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Un humanoïde de votre choix que vous pouvez voir à portée doit réussir un jet de sauvegarde de Sagesse ou être [[charmé]] par vous pendant la durée du sort. Tant que la cible est charmée de cette façon, une couronne de fer brisé apparaît sur sa tête et la folie brille dans ses yeux.\n\nLa cible charmée doit utiliser son action avant de se déplacer à chacun de ses tours pour réaliser une attaque de mêlée contre une créature autre qu'elle-même que vous choisissez mentalement. La cible peut agir normalement à chacun de ses tours si vous ne choisissez aucune créature ou qu'il n'y en a aucune à portée.\n\nPendant les tours suivants, vous devez utiliser votre action pour maintenir votre contrôle sur la cible, ou le sort se termine. De plus, la cible peut réaliser un jet de sauvegarde de Sagesse à la fin de chacun de ses tours pour terminer l'effet.\n",
+        "path": "02/Couronne du Dément"
     },
     "Bouche Magique": {
         "level": "2",
