@@ -9621,6 +9621,33 @@
         "description": "En faisant des nœuds avec le flux du temps, vous faites en sorte qu'une action de votre choix prise à portée pendant le dernier round n'ait en fait pas eu lieu. La réalité se réarrange, tremblant des dégâts subis par la suppression d'un évènement de la frise temporelle. Les effets directs de cette action, comme les dégâts infligés par une attaque ou un sort, sont défaits, mais les effets indirects, comme les créatures choisissant de se déplacer, ne le sont pas.\n\nLa créature qui a pris l'action subit 10d8 dégâts psychiques en essayant de supporter la modification du passé.\n",
         "path": "09/Paradoxe"
     },
+    "Cri Psychique": {
+        "level": "9",
+        "school": "Enchantement",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Psychic Scream",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous libérez le pouvoir de votre esprit afin de surcharger l'intellect de jusqu'à dix créatures de votre choix que vous pouvez voir à portée. Les créatures avec un score d'Intelligence de 2 ou moins ne sont pas affectées par ce sort.\n\nChaque cible doit effectuer un jet de sauvegarde d'Intelligence. En cas d'échec, la cible subit 14d6 dégâts et est [[sonné|sonnée]]. En cas de réussite, elle subit la moitié des dégâts et n'est pas sonnée. Si une cible est tuée par ces dégâts, sa tête explose.\n\nUne créature sonnée effectue un jet de sauvegarde d'Intelligence à la fin de chacun de ses tours. En cas de succès, l'état sonné se termine.\n",
+        "path": "09/Cri Psychique"
+    },
     "Projection Astrale": {
         "level": "9",
         "school": "Nécromancie",
@@ -9789,6 +9816,29 @@
         ],
         "description": "Vous choisissez un carré inoccupé de 10 ft. de côté que vous pouvez voir à portée. Une Grande main griffue faite de glace aiguisée y apparaît et dure pendant la durée du sort. Elle agit sous vos ordres, mais ne peut quitter son emplacement initial.\n\nLa main est un objet dont la CA est égale à 18 et qui a un nombre de points de vie égal à la moitié de vos points de vie maximums. Elle a l'immunité aux dégâts de poison et psychiques. Si elle tombe à 0 point de vie, le sort se termine. La griffe ne remplit pas son espace. Lorsque vous lancez ce sort, et pour une action bonus pendant vos tours suivants, vous pouvez donner un ordre à la griffe parmi les tâches suivantes : \n\n**Tranche.** La griffe se déchaîne contre une cible à 10 ft. Réalisez une attaque de sort de mêlée. Si vous touchez, la cible subit 3d8 dégâts tranchants ou de froid (votre choix).\n\n**Emprisonnement.** La griffe saisit une créature de taille G ou inférieure à 10 ft. La cible doit réussir un jet de sauvegarde de Force ou être traîné dans l'espace de la griffe et [[Retenu|retenue]] pendant la durée du sort. A la fin de chacun de ses tours, la cible retenue peut effectuer un jet de Force. Si elle réussit, elle est libérée et n'est plus retenue par la main, mais elle subit 1d8 dégâts de froid si elle échoue. Tant qu'une créature est retenue par la main, la main ne peut emprisonner ou trancher une autre créature. La griffe peut trancher une créature qu'elle emprisonne.\n\n**Libérer.** La griffe peut libérer une créature emprisonnée.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de Tranche et d'Emprisonnement augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Prison des Griffes Glaciales"
+    },
+    "Croc du Renard": {
+        "level": "3",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Fox's Fangs",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ranger",
+            "Occultiste"
+        ],
+        "description": "Vous conjurez neuf lames illusoires de lumière et d'ombre qui virevoltent derrière vous. À chaque fois que vous réalisez une attaque armée ou une attaque à mains nues, vous pouvez choisir d'attaquer avec l'une de ces lames à la place. Réalisez une attaque armée à distance ou une attaque de sort à distance (votre choix) contre une cible à 60 ft. Si vous touchez, la cible subit 2d6 dégâts psychiques et vous récupérez 3 points de vie. Après qu'une lame a été jetée, elle disparaît. Une fois que les neuf lames ont disparu, le sort se termine.\n",
+        "path": "03/Croc du Renard"
     },
     "Confinement de l'Enchanteur": {
         "level": "3",
@@ -10880,6 +10930,30 @@
         ],
         "description": "Ce sort restaure l'espoir et la vitalité. Choisissez n'importe quel nombre de créatures à portée. Pendant la durée de ce sort, chaque cible a l'avantage aux jets de sauvegarde de Sagesse et contre la mort, et regagne le maximum de points de vie pour chaque soin.\n",
         "path": "03/Lueur d'Espoir"
+    },
+    "Création de Nourriture et d'Eau": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Create Food and Water",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Martyr"
+        ],
+        "description": "Vous créez 45 lbs. et 100 L d'eau au sol ou dans des contenants à portée, suffisant pour sustenter jusqu'à 15 humanoïdes ou 5 montures pendant 24 heures. La nourriture est fade mais nourrissante et pourrit après 24 heures si elle n'est pas mangée. L'eau est claire et ne tourne pas.\n",
+        "path": "03/Création de Nourriture et d'Eau"
     },
     "Convocation de Slime": {
         "level": "3",
