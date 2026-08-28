@@ -763,6 +763,28 @@
         "description": "Vous transformez votre carquois afin qu'il produise sans cesse des munitions non magiques, qui semblent *sauter* dans votre main lorsque vous la tendez pour la saisir. \n\nÀ chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action bonus pour réaliser deux attaques avec une arme qui utilise les munitions du carquois. Chaque fois que vous réalisez une telle attaque à distance, votre carquois remplace magiquement la munition utilisée par une munition non magique similaire. Les munitions créées par ce sort se désintègre lorsque le sort se termine. Si le carquois quitte votre possession, le sort se termine.\n",
         "path": "05/Carquois Magique"
     },
+    "Création d'un Fauteuil de Pilotage": {
+        "level": "5",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une baguette de cristal valant au moins 5000 po, que le sort consomme",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Create Spelljamming Helm",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien"
+        ],
+        "description": "En tenant la baguette utilisée pour l'incantation de ce sort, vous touchez un fauteuil de taille G ou plus petit non occupé. La baguette disparaît et le fauteuil se transforme en [[timon]].\n",
+        "path": "05/Création d'un Fauteuil de Pilotage"
+    },
     "Cercle de Pouvoir": {
         "level": "5",
         "school": "Abjuration",
@@ -7419,6 +7441,30 @@
         ],
         "description": "Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.\n\nLorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle subit 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle subit la moitié des dégâts et n'est pas déplacée.\n\nJusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour forcer toutes les créatures dans la zone à effectuer un jet de sauvegarde immédiatement.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.\n",
         "path": "04/Emprise des Tombes"
+    },
+    "Création de Magen": {
+        "level": "7",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une fiole de mercure valant 500 po et une poupée à taille humaine, toutes les deux consommées par le sort, ainsi qu'une baguette en cristal valant au moins 1500 po",
+        "Duree": "Instantanée",
+        "Incantation": "1 Heure",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Create Magen",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Lorsque vous lancez ce sort, vous placez une fiole de mercure dans le torse d'une poupée à taille humaine remplie de cendre ou de poussière. Vous refermez alors la poupée et faites couler votre sang dessus. À la fin de l'incantation, vous touchez la poupée avec la baguette en cristal, la transformant en magen habillé comme la poupée. Vous choisissez le type de magen pendant l'incantation du sort.\n\nLorsque le magen apparaît, vos points de vie maximums diminuent d'un montant égal au FD du magen (réduction minimum de 1). Seul un sort de [[souhait]] peut annuler cette réduction.\n\nTous les magens que vous créez avec sort obéissent à vos ordres sans la moindre question.\n",
+        "path": "07/Création de Magen"
     },
     "Couronne d'Étoiles": {
         "level": "7",
