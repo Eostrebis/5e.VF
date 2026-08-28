@@ -4458,6 +4458,29 @@
         "description": "Vous invoquez une immense auréole de flammes qui vous entoure, embrasant l'air autour de votre corps et vous imprégnant d'une vitalité brûlante. Lorsqu'une créature pénètre dans un espace à moins de 10 ft. de vous pour la première fois lors d'un tour ou y commence son tour, la cible subit 5d10 dégâts de feu.\n\nChaque fois qu'une créature subit des dégâts de cet effet, vous gagnez un nombre de points de vie temporaires égal aux dégâts infligés. Vous pouvez choisir de supprimer ou de rallumer cette auréole enflammée par une action bonus.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 7 ou supérieur, les dégâts de feu augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 6.\n",
         "path": "06/Aura Infernale"
     },
+    "Danse irrésistible": {
+        "level": "6",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Irresistible Dance",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Magicien"
+        ],
+        "description": "Choisissez une créature que vous pouvez voir à portée. La cible entame une danse comique sur place : elle se dandine, tape du pied et cabriole pendant toute la durée du sort. Les créatures qui ne peuvent être [[charmé|charmées]] sont immunisées contre ce sort.\n\nUne créature dansante doit utiliser tout son mouvement pour danser sans quitter son espace et a le désavantage à ses jets de sauvegarde de Dextérité ainsi qu'à ses jets d'attaque. Tant que la créature est ciblée par le sort, les autres créatures ont l'avantage aux jets d'attaque effectués contre elle. Pour une action, la créature dansante peut effectuer un jet de sauvegarde de Sagesse pour récupérer le contrôle de son corps. Si elle réussit, le sort se termine.\n",
+        "path": "06/Danse irrésistible"
+    },
     "Doigts Flingueurs": {
         "level": "0",
         "school": "Évocation",
@@ -5593,6 +5616,31 @@
         ],
         "description": "Vous étendez votre main et tracez un sceau de protection dans les airs. Jusqu'à la fin de votre prochain tour, vous obtenez une résistance contre les dégâts contondants, perforants et tranchants infligés par des attaques à main armée.\n",
         "path": "cantrips/Protection contre les Armes"
+    },
+    "Ctrl-F": {
+        "level": "0",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Seek Phrase",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous prononcez un mot ou une phrase à haute voix et touchez un livre, parchemin ou tout autre objet recouvert d'écritures. Chaque instance de ce mot ou de cette phrase se voit surlignée d'une lueur scintillante pendant la durée du sort. Si ce sort est utilisé sur un livre, celui-ci s'ouvre automatiquement sur la première page contenant le sujet de votre recherche.\n",
+        "path": "cantrips/Ctrl-F"
     },
     "Contrôle des Flammes": {
         "level": "0",
