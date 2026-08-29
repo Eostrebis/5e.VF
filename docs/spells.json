@@ -5636,6 +5636,33 @@
         "description": "mage de guerreVous créez une main fantomatique et squelettique dans l'espace d'une créature à portée. Réalisez une attaque de sort à distance contre la créature que vous attaquez par les frissons de la mort. Si vous touchez, la cible subit 1d8 dégâts nécrotiques et ne peut pas regagner de points de vie jusqu'au début de votre prochain tour. Jusque là, la main s'accroche à la cible.\n\nSi vous touchez une créature morte-vivante, elle a aussi le désavantage aux jets d'attaque contre vous jusqu'à la fin de votre prochain tour.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), 11 (3d8) et 17 (4d8).\n",
         "path": "cantrips/Chair de Poule"
     },
+    "Destruction": {
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Break",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "MagedeGuerre"
+        ],
+        "description": "Vous claquez des doigts, générant une onde de choc de son qui peut être entendu de jusqu'à 100 ft. Vous infligez 10 dégâts de tonnerre à un objet non porté ni manié que vous pouvez voir à portée. Même si l'objet demeure intact, il propulse de petits fragments vers les créatures à 5 ft. Chaque créature doit réaliser un jet de sauvegarde de Dextérité. Si elle échoue, une créature subit 1d4 dégâts perçants.\n\nLes dégâts perçants de ce sort augmentent de 1d4 lorsque vous atteignez le niveau 5 (2d4), le niveau 11 (3d4), et le niveau 17 (4d4), et les dégâts de tonnerre augmentent également de 10 pour chacun de ces niveaux.\n",
+        "path": "cantrips/Destruction"
+    },
     "Protection contre les Armes": {
         "level": "0",
         "school": "Abjuration",
@@ -8503,6 +8530,30 @@
         ],
         "description": "Comme réaction lorsqu'une créature que vous pouvez voir utilise son action pour Attaquer, Foncer, Esquiver ou se Désengager, vous pouvez tenter de perturber sa pensée. La cible doit effectuer un jet de sauvegarde de Sagesse. Elle le réussit automatiquement si elle ne peut pas être [[Charmé|charmée]]. Si elle échoue, la créature entreprend une action de votre choix parmi ces options, plutôt que l'action qu'elle comptait entreprendre.\n",
         "path": "02/Pensées Intrusives"
+    },
+    "Détection de Pièges": {
+        "level": "2",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Find Traps",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Vous ressentez la présence de pièges à portée qui se trouvent dans votre ligne de vue.\n\nUn piège, en ce qui concerne ce sort, correspond à tout ce qui pourrait infliger des effets inattendus ou soudains considérés comme indésirables ou nocifs, qui sont prévus et pensés par le concepteur du piège. Ainsi, le sort peut sentir la zone concernée par un sort d'[[alarme]], un [[glyphe de protection]] ou un piège à piques mécaniques, mais ne révélera pas une faiblesse du sol, un plafond instable ou autre. \n\nLe sort ne fait que révéler la présence d'un piège. Vous n'apprenez pas la localisation de chaque piège mais vous apprenez la nature générale des dangers posés par les pièges que vous ressentez.\n",
+        "path": "02/Détection de Pièges"
     },
     "Armure d'Ombre": {
         "level": "2",
