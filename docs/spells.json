@@ -878,6 +878,30 @@
         "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée de ce sort, un feu radieux et des ténèbres glaçantes apparaissent à deux côtés opposés de votre arme. L'attaque inflige 2d10 dégâts nécrotiques ainsi que 2 10 dégâts radiants supplémentaires à la cible. De plus, si la cible est une créature, un jugement s'abat sur eux, la laissant vulnérable aux attaques. À chaque fois que la cible subit des dégâts d'une attaque avant la fin du sort, elle subit 1d10 dégâts supplémentaires de force.\n",
         "path": "05/Châtiment Punitif"
     },
+    "Danse Macabre": {
+        "level": "5",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Danse Macabre",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste",
+            "Magicien",
+            "Nécromancien"
+        ],
+        "description": "Des fils de pouvoir sombre s'échappent de vos doigts pour percer jusqu'à cinq corps de tailles M ou P que vous pouvez voir à portée. Chaque corps se lève immédiatement et devient mort-vivant. Vous décidez de si un corps devient un zombie ou un squelette, et il obtient un bonus à ses jets d'attaque et de dégâts égal à votre modificateur de caractéristique d'incantation. Vous pouvez utiliser une action bonus pour commander mentalement les créatures que vous créez avec ce sort, leur donnant à toutes le même ordre. Pour recevoir cet ordre, les créatures doivent se trouver à 60 ft. de vous. Vous décidez quelle action les créatures entreprendront et leur déplacement pendant leur prochain tour, ou vous pouvez donner un ordre général comme de garder une chambre ou un couloir contre vos ennemis. Si vous ne leur donnez aucun ordre, les créatures ne font rien à part se protéger contre les créatures hostiles. Une fois un ordre donné, les créatures continuent de vous suivre jusqu'à ce que leur tâche soit accomplie.\n\nLes créatures sont sous votre contrôle jusqu'à ce que le sort se termine, après quoi elles redeviennent inanimées.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, vous animez jusqu'à deux corps supplémentaires par niveau d'emplacement au-delà du niveau 5.",
+        "path": "05/Danse Macabre"
+    },
     "Armure Consacrée": {
         "level": "1",
         "school": "Abjuration",
@@ -9527,6 +9551,57 @@
         "description": "Vous créez un feu magique qui emplit dix cubes de 5 ft. de côté, que vous arrangez comme vous le souhaitez à portée. Chaque cube que vous placez doit avoir une face en commun avec un autre cube. A chacun de vos tours après avoir lancé ce sort, vous pouvez utiliser une action bonus pour étendre la zone de feu de jusqu'à 10 cubes de feu suivant les même règles. Le feu endommage les objets dans la zone et met le feu aux objets inflammables qui ne sont ni portés ni maniés.\n\nLorsqu'une créature entre dans la zone de feu pour la première fois ou y commence son tour, elle doit effectuer un jet de sauvegarde de Dextérité. Elle subit 8d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.\n",
         "path": "08/Feu de Forêt"
     },
+    "Demi-Plan": {
+        "level": "8",
+        "school": "Conjuration",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Demiplane",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous créez une porte d'ombre sur une surface plane solide que vous pouvez voir à portée. La porte est suffisamment large pour permettre à des créatures de taille M de passer sans encombre. Lorsqu'elle est ouverte, la porte mène vers un demi-plan qui apparaît comme une pièce de 30 ft. dans toutes les dimensions, faite de bois ou de pierre. Lorsque le sort se termine, la porte disparaît et tous les objets et créatures à l'intérieur du demi-plan s'y retrouvent coincés là, la porte disparaissant aussi de l'autre côté. \n\nChaque fois que vous lancez ce sort, vous pouvez créer un nouveau demi-plan ou faire en sorte que la porte d'ombre se connecte à un demi-plan que vous avez créé avec une précédente incantation du sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan créé par l'incantation de ce sort par une autre créature, vous pouvez faire en sorte que votre porte se connecte à ce demi-plan à la place.\n",
+        "path": "08/Demi-Plan"
+    },
+    "Défense Miroir": {
+        "level": "8",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action Bonus",
+        "Portee": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Reflective Defense",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Lorsque vous lancez ce sort, une barrière invisible vient recouvrir votre chair jusqu'à la fin de votre prochain tour. Si vous deviez prendre des dégâts pendant ce temps, les dégâts sont réduits à 0 et si la source de dégâts est une autre créature, elle subit la totalité de ces dégâts comme des dégâts de force à la place.\n",
+        "path": "08/Défense Miroir"
+    },
     "Clone": {
         "level": "8",
         "school": "Nécromancie",
@@ -11119,6 +11194,34 @@
         ],
         "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, des ombres cruelles se déversent de votre arme vers les blessures de la cible. L'attaque inflige 3d6 dégâts nécrotiques à la cible. De plus, si la cible est une créature, sa chair nécrose et refuse de se réparer. Jusqu'à ce que le sort se termine, la cible ne peut pas regagner de points de vie.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts nécrotiques augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Châtiment Permanent"
+    },
+    "Délivrance des Malédictions": {
+        "level": "3",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Remove Curse",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Investigateur",
+            "Nécromancien"
+        ],
+        "description": "À votre touche, toutes les malédictions qui affectent une créature ou un objet se terminent. Si l'objet est un objet magique maudit, sa malédiction persiste, mais le lien de l'objet avec son propriétaire se brise.\n",
+        "path": "03/Délivrance des Malédictions"
     },
     "Démembrement Bénin": {
         "level": "3",
