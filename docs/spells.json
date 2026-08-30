@@ -10630,6 +10630,29 @@
         "description": "Un nuage tempêtueux apparaît sous la forme d'un cylindre haut de 10 ft. et d'un rayon de 60 ft., centré sur un point que vous pouvez voir à portée directement au-dessus de vous. Le sort échoue si vous ne voyez pas un point en l'air où le nuage pourrait apparaître.\n\nLorsque vous lancez ce sort, choisissez un point que vous pouvez voir sous le nuage. Un éclair s'abat du nuage sur ce point. Toutes les créatures à 5 ft. de ce point doivent effectuer un jet de sauvegarde de Dextérité. Une créature subit 3d10 dégâts de foudre en cas d'échec, et la moitié en cas de succès. A chacun de vos tours jusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour appeler la foudre de cette façon.\n\nSi vous êtes en extérieurs dans des conditions orageuses lorsque vous lancez ce sort, le sort vous donne le contrôle des tempêtes existantes plutôt que d'en créer une. Dans de telles conditions, les dégâts du sort augmentent de 1d10.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d10 par niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Appel de la Foudre"
     },
+    "Détection des Interférences": {
+        "level": "3",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle (rayon de 300 ft.)",
+        "Concentration": "",
+        "Rituel": "",
+        "englishname": "Detect Interference",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste",
+            "Sorcière"
+        ],
+        "description": "Vous projetez vos sens dans l'univers, cherchant à détecter les émanations magiques d'autres lanceurs de sorts, des énergies d'au-delà le Plan Matériel ou des pouvoirs occultes. À chaque fois qu'une créature à 300 ft. lance un sort, vous avez connaissance du niveau du sort et de son école de magie. Vous êtes également conscient du point de départ et d'arrivée de toute téléportation à 200 ft. de vous. Lorsqu'une créature qui n'est pas native à votre plan actuel entre dans la portée du sort, vous connaissez son plan d'origine ainsi que sa direction et distance approximative.\n",
+        "path": "03/Détection des Interférences"
+    },
     "Malédiction de l’Œil Rouge": {
         "level": "3",
         "school": "Nécromancie",
