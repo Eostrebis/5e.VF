@@ -741,6 +741,32 @@
         "description": "Vous créez une Grande main de force scintillante et translucide dans un espace inoccupé que vous voyez à portée. La main dure pendant la durée du sort, et elle bouge à votre commande, mimiquant les mouvements de votre propre main.\n\nLa main est un objet avec une CA de 20, et des points de vie égaux à votre maximum de points de vie. Si elle tombe à 0 point de vie, le sort se termine. Elle a une Force de 26 (+8), et une Dextérité de 10 (+0). La main ne remplit pas son espace.\n\nLorsque vous lancez le sort et pour une action bonus pendant vos prochains tours, vous pouvez bouger la main de jusqu'à 60 ft. et provoquer l'un des effets suivants.\n\n**Poing Serré.** La main frappe une créature ou un objet à 5 ft. d'elle. Réalisez une attaque de sort de mêlée avec la main en utilisant vos caractéristiques. Si ça touche, la cible subit 4d8 dégâts de force.\n\n**Main Puissante.** La main essaye de Pousser une créature à 5 ft. d'elle dans une direction de votre choix. Effectuez un jet de Force de la main contesté par un jet de Force (Athlétisme) de la cible. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Si vous réussissez, la main pousse la cible jusqu'à 5 ft. plus un nombre de pieds égal à 5 fois votre modificateur de sort. La main bouge avec la cible pour rester à 5 ft. d'elle.\n\n**Main Saisissante.** La main essaye de [[Saisi|Saisir]] une créature de taille G ou inférieure à 5 ft. d'elle. Vous utilisez le score de Force de la main pour résoudre la saisie. Si la cible est de taille M ou inférieure, vous avez l'avantage à ce jet. Tant que la main saisit la cible, vous pouvez utiliser votre action bonus pour l'écraser. Lorsque vous le faites, la cible subit des dégâts contondants égaux à 2d6 + votre modificateur de sort.\n\n**Main Protectrice.** La main s'interpose entre vous et une créature que vous choisissez jusqu'à ce que vous donniez à la main un ordre différent. La main bouge pour rester entre vous et la cible, vous fournissant une demie-couverture contre la cible. La cible ne peut pas traverser l'espace de la main si son score de Force est inférieur ou égal à celui de la main. Si son score est supérieur, elle peut traverser l'espace de la main, mais c'est un terrain difficile pour elle.\n\n**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort avec un emplacement de sort de niveau 6 ou plus, les dégâts du poing serré augmentent de 2d8 et ceux de la main saisissante de 2d6 pour chaque niveau d'emplacement au-delà du niveau 5.\n",
         "path": "05/Main Magique"
     },
+    "Dissipation du Mal et du Bien": {
+        "level": "5",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "De l'eau bénite ou de la poudre d'argent et de fer",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Dispel Evil and good",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Martyr",
+            "Paladin",
+            "Clerc",
+            "Sorcière"
+        ],
+        "description": "Une énergie chatoyante vous entoure et vous protège des feys, morts-vivants et autres créatures venant d'un plan autre que le Plan Matériel. Pendant la durée du sort, les célestes, élémentaires, feys, fiélons et morts-vivants ont le désavantage aux jets d'attaque contre vous. Vous pouvez terminer le sort prématurément en utilisant l'une des utilisations spéciales : \n\n - __Brise d'Enchantement.__ Pour une action, vous touchez une créature que vous pouvez atteindre qui est [[charmé|charmée]], [[apeuré|apeurée]] ou possédée par un céleste, élémentaire, fey, fiélon ou mort-vivant. La créature touchée n'est plus affectée par les états concernés.\n - __Congédiement.__ Pour une action, réalisez une attaque de sort de mêlée contre un céleste, élémentaire, fey, fiélon ou mort-vivant. Si vous touchez, vous essayez de repousser la créature vers son plan natif. La créature doit réussir un jet de sauvegarde de Charisme ou être renvoyée vers son plan d'origine. Si la créature se trouve déjà sur son plan d'origine, les morts-vivants sont envoyés en Gisombre et les feys en Féerie. \n",
+        "path": "05/Dissipation du Mal et du Bien"
+    },
     "Carquois Magique": {
         "level": "5",
         "school": "Transmutation",
@@ -2409,7 +2435,7 @@
             "Magicien",
             "Investigateur"
         ],
-        "description": "Ce sort crée un plan de force horizontal et circulaire de 3 ft. de diamètre et épais de quelques centimètres qui flotte 3 ft. au-dessus du sol d'un espace inoccupé de votre choix que vous pouvez voir à portée. Le disque persiste pendant la durée du sort, et peut soutenir jusqu'à 250 kg. Si un poids supérieur est placé sur le disque, le sort se termine et tout ce qui se trouve sur le disque tombe au sol.\n\nLe disque est immobile tant que vous vous trouvez à 20 ft. de celui-ci. Si vous vous déplacez à plus de 20 ft., le disque vous suit afin de rester à 20 ft. Il peut se déplacer sur du terrain inégal, monter et descendre des escaliers ou des pentes, mais ne peut pas traverser un changement d'élévation de 10 ft. ou plus. Par exemple, le disque ne peut pas traverser un trou profond de 10 ft., et ne peut pas quitter un tel trou s'il y est créé.\n\nSi vous bougez à plus de 100 ft. du disque, le sort se termine.\n",
+        "description": "Ce sort crée un plan de force circulaire et horizontal, d'un diamètre de 3 ft. et d'une épaisseur de 3 cm, qui flotte 3 ft. au-dessus du sol dans un espace inoccupé que vous pouvez voir à portée. Le disque persiste pendant la durée du sort et peut soutenir jusqu'à 500 lbs. Si plus de poids est placé sur le disque, le sort se termine et tout ce qui se trouve sur le disque tombe au sol.\n\nLe disque est immobile tant que vous vous trouvez à 20 ft. Si vous vous déplacez à plus de 20 ft., le disque vous suit jusqu'à ce qu'il revienne dans ce rayon. Il peut travers des terrains inégalés, descendre ou monter des escaliers, pentes ou assimilés, mais ne peut pas traverser un changement d'altitude de plus de 10 ft. Par exemple, le disque ne peut pas traverser une fosse profonde de 10 ft. et ne pourrait pas en sortir s'il était créé au fond.\n\nSi vous vous déplacez à plus de 100 ft. du disque, le sort se termine. \n",
         "path": "01/Disque Flottant"
     },
     "Crâne Hurlant de Gahoul": {
@@ -4046,6 +4072,31 @@
         ],
         "description": "Vous envoyez un court message de 25 mots ou moins à une créature avec laquelle vous êtes familier. La créature entend le message dans son esprit, vous reconnaît comme étant l'expéditeur si elle vous connaît et peut répondre de la même manière immédiatement. Le sort permet à toute créature d'Intelligence au moins égale à 1 de comprendre le sens du message.\n\nVous pouvez envoyer le message à travers n'importe quelle distance, et même vers d'autres plans, mais si la cible ne se trouve pas sur le même plan que vous, il y a 5% de chance que le message se perde.\n\nVous pouvez utiliser le message pour suggérer une action raisonnable à une cible, auquel cas la cible doit réussir un jet de sauvegarde de Sagesse ou être influencé par votre message comme à travers un sort de [[suggestion]].\n",
         "path": "06/Demande"
+    },
+    "Dispersion": {
+        "level": "6",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Scatter",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "L'air s'agite autour de jusqu'à 5 créatures que vous pouvez voir à portée. Une créature non consentante doit réussir un jet de sauvegarde de Sagesse pour résister à ce sort. Vous téléportez chacun des cibles affectées vers un emplacement que vous pouvez voir à 120 ft. de vous. Cet emplacement doit se trouver au sol.\n",
+        "path": "06/Dispersion"
     },
     "Convocation de Fiélon": {
         "level": "6",
@@ -7637,6 +7688,30 @@
         "description": "Sept étincelles en forme d'étoile apparaissent et orbitent autour de votre tête jusqu'à ce que le sort se termine. Vous pouvez entreprendre une action pour envoyer l'une de ces étincelles en direction d'une créature ou d'un objet à 120 ft. de vous. Lorsque vous le faites, effectuez une attaque de sort à distance. Si vous touchez, la cible subit 4d12 dégâts radiants. Que vous touchiez ou ratiez, l'étincelle est dépensée. Le sort se termine prématurément si vous dépensez la dernière étincelle. S'il vous reste quatre étincelles ou plus, elles émettent une lumière vive dans un rayon de 30 ft. et une lumière faible sur 30 ft. supplémentaires. S'il vous en reste trois ou moins, elles émettent une lumière faible dans un rayon de 30 ft.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 8 ou plus, le nombre d'étincelles augmente de 2 par niveau d'emplacement au-delà du niveau 7.\n",
         "path": "07/Couronne d'Étoiles"
     },
+    "Dissimulation": {
+        "level": "7",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une poudre de diamant, émeraude, rubis et saphir d'une valeur d'au moins 5000 po, que le sort consomme",
+        "Duree": "Jusqu'à dissipation",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Sequester",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "De par ce sort, une créature consentante ou un objet peut être complètement dissimulée et protégée de toute détection pendant la durée du sort. Lorsque vous lancez ce sort et touchez la cible, elle devient [[invisible]] et ne peut plus être ciblée par des sorts de divination ou être perçue à travers des capteurs de scrutation créés par des sorts de divination.\n\nSi la cible est une créature, elle tombe dans un état d'animation suspendue. Le temps s'arrête pour elle et elle ne vieillit pas.\n\nVous pouvez définir une condition pour terminer le sort prématurément. La condition peut être ce que vous voulez, mais doit se passer ou être visible à 2 km de la cible. Par exemple : \"après 1000 ans\" ou \"lorsque que la tarasque se réveille\" Le sort se termine également si la cible subit des dégâts.\n",
+        "path": "07/Dissimulation"
+    },
     "Cage de Force": {
         "level": "7",
         "school": "Évocation",
@@ -8267,6 +8342,30 @@
         "description": "Alors que des instruments spectraux apparaissent autour de vous, vous commencez à chanter une chanson bien connue, et les autres se sentent obligés de vous rejoindre. Pendant la durée du sort, lorsqu'une créature s'approche à moins de 30 ft. de vous ou y commence son tour, elle doit réussir un jet de sauvegarde de Sagesse ou commencer à chanter avec vous. Une créature qui chante imite le ton et les mots de la chanson aussi bien qu'elle le peut, même si elle n'en parle pas la langue.\n\nDe plus, elle ne peut pas parler normalement (même si elle peut communiquer par télépathie) et ne peut pas réaliser de composantes verbales des sorts. Les créatures qui ne peuvent pas être [[Charmé|charmées]] sont immunisées contre ce sort.\n\nA la différence des autres sorts, vous pouvez vous concentrer à la fois sur ce sort et sur [[danse irrésistible]]. Perdre votre concentration sur l'un des deux sorts signifie perdre votre concentration sur les deux.\n",
         "path": "02/Karaoké Forcé de Tyra"
     },
+    "Distorsion Vortexielle": {
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Vortex Warp",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien",
+            "Ensorceleur",
+            "Sorcière"
+        ],
+        "description": "Vous tordez magiquement l'espace autour d'une autre créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Constitution (elle peut choisir d'échouer) ou elle est téléportée vers un espace inoccupé de votre choix que vous pouvez voir à portée. L'espace choisi doit être sur une surface ou un liquide qui peut supporter la cible sans qu'elle n'aie besoin de se serrer.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, la portée du sort augmente de 30 ft. par niveau d'emplacement au-delà du niveau 2.\n",
+        "path": "02/Distorsion Vortexielle"
+    },
     "Chasse Diabolique": {
         "level": "2",
         "school": "Conjuration",
@@ -8835,6 +8934,30 @@
         ],
         "description": "Pendant la durée du sort, vous détectez la présence de portails, même inactifs, à 30 ft. de vous.\n\nSi vous détectez un portail de cette façon, vous pouvez utiliser votre action pour l'étudier. Effectuez un jet DD 15 en utilisant votre caractéristique d'incantation. En cas de réussite, vous apprenez le plan de destination du portail et la clé qu'il requiert, puis le sort se termine. Si vous échouez, vous n'apprenez rien et vous ne pouvez plus étudier ce portail en utilisant ce sort à moins de l'incanter à nouveau.\n\nCe sort peut pénétrer la plupart des barrières, mais est bloqué par 1 ft. de pierre, quelques centimètres de métal, une fine couche de plomb ou 3 ft. de bois ou de terre.\n",
         "path": "02/Détection de Portails"
+    },
+    "Discours Captivant": {
+        "level": "2",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "",
+        "Rituel": "",
+        "englishname": "Enthrall",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Occultiste"
+        ],
+        "description": "Vous créez une suite de mots distrayants, obligeant les créatures de votre choix que vous pouvez voir à portée et qui peuvent vous entendre à effectuer un jet de sauvegarde de Sagesse. Toute créature qui ne peut pas être [[charmé|charmée]] réussit le jet automatiquement. De plus, si vous ou un de vos compagnons affrontez l'une des créatures, elle a l'avantage à son jet de sauvegarde. En cas d'échec, la cible obtient le désavantage aux jets de Sagesse (Perception) pour percevoir une créature autre que vous jusqu'à ce que le sort se termine ou que la créature ne puisse plus vous entendre. Le sort se termine si vous êtes [[incapacité]] ou si vous ne pouvez plus parler.\n",
+        "path": "02/Discours Captivant"
     },
     "Verrou Magique": {
         "level": "2",
@@ -11316,6 +11439,29 @@
         ],
         "description": "La première fois que vous touchez avec une attaque armée de mêlée pendant la durée du sort, des ombres cruelles se déversent de votre arme vers les blessures de la cible. L'attaque inflige 3d6 dégâts nécrotiques à la cible. De plus, si la cible est une créature, sa chair nécrose et refuse de se réparer. Jusqu'à ce que le sort se termine, la cible ne peut pas regagner de points de vie.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts nécrotiques augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Châtiment Permanent"
+    },
+    "Discours Motivant": {
+        "level": "3",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Minute",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Motivational Speech",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Clerc"
+        ],
+        "description": "Choisissez jusqu'à 5 créatures à portée qui peuvent vous entendre. Pendant la durée du sort, chaque créature affectée gagne 5 points de vie temporaires et obtient l'avantage aux jets de sauvegarde de Sagesse. Si une créature affectée est touchée par une attaque, elle obtient l'avantage au prochain jet d'attaque qu'elle effectue. Une fois qu'une créature affectée perd les points de vie temporaires conférés par ce sort, le sort se termine pour elle.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les points de vie temporaires augmentent de 5 par niveau d'emplacement au-delà du niveau 3.\n",
+        "path": "03/Discours Motivant"
     },
     "Délivrance des Malédictions": {
         "level": "3",
