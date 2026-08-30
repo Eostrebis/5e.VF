@@ -22,6 +22,6 @@ writing_status: finished
 zone: none
 damage: none
 ---
-Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit effectuer un jet de sauvegarde de Sagesse, qu'elle effectue avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[Charmé|charmée]] par vous jusqu'à ce que le sort se termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature charmée est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été charmée par vous.
+Vous essayez de charmer une créature que vous pouvez voir à portée. Elle doit effectuer un jet de sauvegarde de Sagesse, qu'elle effectue avec l'avantage si vous ou vos compagnons êtes en train de l'affronter. Si elle rate le jet de sauvegarde, elle est [[Charmé|charmée]] par vous jusqu'à ce que le sort se termine ou jusqu'à ce que vous ou vos compagnons ne lui causiez du mal. La créature [[charmé|charmée]] est amicale avec vous. Lorsque le sort se termine, la créature sait qu'elle a été [[charmé|charmée]] par vous.
 
 **Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement supplémentaire au-delà du niveau 4. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.

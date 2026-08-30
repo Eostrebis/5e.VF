@@ -215,7 +215,7 @@ Les eladrins sont des elfes de la Féerie, un royaume à la beauté dangereuse e
 **Pas de Fée.** Pour une action bonus, vous pouvez magiquement vous téléporter jusqu'à 30 ft. sur un espace inoccupé que pouvez voir. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez les utilisations dépensée quand vous finissez un repos long.
 À partir du niveau 3, votre Pas de Fée gagne un effet additionnel basé sur votre saison; si l'effet nécessite un jet de sauvegarde, le DC est 8 + votre bonus de maîtrise + votre modificateur d'Intelligence, de Sagesse ou de Charisme :
 
- - *Automne.* Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft.. Elles doivent réussir un jet de sauvegarde de Sagesse ou être charmées par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.
+ - *Automne.* Immédiatement après avoir utilisé votre Pas de Fée, choisissez jusqu'à deux créature que vous pouvez voir à moins de 10 ft.. Elles doivent réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmées]] par vous pendant 1 minute, ou jusqu'à ce que vous ou vos compagnons leur infligent des dégâts.
 
  - *Hiver.* Quand vous utilisez votre Pas de Fée, choisissez une créature que vous pouvez voir à moins de 10 ft. Elle doit réussir un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]] par vous jusqu'au début de votre prochain tour.
  

@@ -8,7 +8,7 @@ M. Ludovic était un marionnettiste célèbre qui a atteint la déité. Ceux qui
 # Aptitude
 
 ## Sans Attache
-Tant que vous êtes lié à M. Ludovic, vous ne pouvez être charmé ou possédé.
+Tant que vous êtes lié à M. Ludovic, vous ne pouvez être[[charmé]]ou possédé.
 
 ## Ventriloquie
 À chaque fois que vous lancez un sort de [[domination de bête]] ou de [[domination de personne]], vous pouvez prendre le contrôle de la cible pour une action bonus plutôt qu'une action. De plus, vous pouvez vous concentrer sur deux de ces sorts à la fois, prenant le contrôle des deux cibles pour une seule action bonus et ne réalisant qu'un seul jet de sauvegarde pour préserver la concentration.

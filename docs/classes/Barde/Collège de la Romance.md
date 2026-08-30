@@ -5,7 +5,7 @@ L'amour est une chose puissante, et personne ne le sait aussi bien que les barde
 
 ## Appréciable
 
-Lorsque vous choisissez ce collège au niveau 3, vous avez une personnalité magnétique. Vous pouvez utiliser votre action bonus pour distraire n'importe quelle créature hostile que vous avez [[Charmé|charmée]]. Pendant son tour, la créature charmée a le désavantage aux jets d'attaque et ne peut s'éloigner de vous sans d'abord utiliser son action pour se Désengager.
+Lorsque vous choisissez ce collège au niveau 3, vous avez une personnalité magnétique. Vous pouvez utiliser votre action bonus pour distraire n'importe quelle créature hostile que vous avez [[Charmé|charmée]]. Pendant son tour, la créature [[charmé|charmée]] a le désavantage aux jets d'attaque et ne peut s'éloigner de vous sans d'abord utiliser son action pour se Désengager.
 
 Si vous charmez une créature qui ne vous est pas hostile, il vous considère vous et vos alliés comme des connaissances amicales.
 
@@ -17,7 +17,7 @@ Cet effet se termine prématurément si vous vous déplacez à plus de 30 ft. de
 
 ## Ennemi de mon Ennemi
 
-Au niveau 6, lorsque vous utilisez votre action pour attaquer, vous pouvez utiliser votre action bonus pour ordonner à une créature que vous avez charmée qui peut vous voir ou vous d'entendre d'attaquer. La créature peut immédiatement utiliser sa réaction pour réaliser une attaque armée contre une cible que vous choisissez.
+Au niveau 6, lorsque vous utilisez votre action pour attaquer, vous pouvez utiliser votre action bonus pour ordonner à une créature que vous avez [[charmé|charmée]] qui peut vous voir ou vous d'entendre d'attaquer. La créature peut immédiatement utiliser sa réaction pour réaliser une attaque armée contre une cible que vous choisissez.
 
 ## Embéguinement
 

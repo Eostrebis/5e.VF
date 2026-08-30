@@ -29,7 +29,7 @@ Si le sort cible plus d'un allié, vous choisissez quel allié peut réaliser ce
 
 Vous pouvez utiliser votre Canal Divin pour exercer une présence intimidante sur les autres.
 
-Pour une action, vous dressez votre symbole sacré, et chaque créature de votre choix qui peut vous voir ou vous entendre à 30 ft. doit réussir un jet de sauvegarde de Sagesse ou être [[Charmé|charmée]] par vous jusqu'à la fin de votre prochain tour ou jusqu'à ce que la créature ne prenne des dégâts. Vous pouvez aussi exiger de la créature charmée qu'elle lâche ce qu'elle tient lorsqu'elle rate son jet.
+Pour une action, vous dressez votre symbole sacré, et chaque créature de votre choix qui peut vous voir ou vous entendre à 30 ft. doit réussir un jet de sauvegarde de Sagesse ou être [[Charmé|charmée]] par vous jusqu'à la fin de votre prochain tour ou jusqu'à ce que la créature ne prenne des dégâts. Vous pouvez aussi exiger de la créature [[charmé|charmée]] qu'elle lâche ce qu'elle tient lorsqu'elle rate son jet.
 
 ## Incarnation de la Loi
 

@@ -131,7 +131,7 @@ Ou vous avez muté, ou vous avez été créés depuis une aberration, comme un a
 
 **Augmentation de caractéristiques**. Augmentez une caractéristique de votre choix par 1.
 
-**Esprit Aberrant.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou terminer l'effet charmé sur vous-même, ainsi que contre les effets qui liraient vos émotions ou vos pensées.
+**Esprit Aberrant.** Vous avez l'avantage aux jets de sauvegarde que vous faites pour éviter ou terminer l'effet[[charmé]]sur vous-même, ainsi que contre les effets qui liraient vos émotions ou vos pensées.
 
 **Résistance Psychique.** Vous êtes résistant aux dégâts psychiques.
 

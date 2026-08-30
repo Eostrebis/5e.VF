@@ -17,7 +17,7 @@ Lorsque vous choisissez ce champ d'études au niveau 2, vous gagnez la maîtrise
 
 ## Parfum Alchimique
 
-À partir du niveau 10, vous portez un parfum aromatique, altérant l'esprit, qui attendrit les autres envers vous. Lorsqu'une créature hostile à moins de 5 ft. de vous fait un jet d'attaque contre vous, elle doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de bombes. Une fois qu'une créature a réussi ce jet de sauvegarde, elle est immunisée contre cet effet pendant 24 heures. Une cible réussit automatiquement contre cet effet si elle ne peut pas être charmée.
+À partir du niveau 10, vous portez un parfum aromatique, altérant l'esprit, qui attendrit les autres envers vous. Lorsqu'une créature hostile à moins de 5 ft. de vous fait un jet d'attaque contre vous, elle doit réussir un jet de sauvegarde de Sagesse contre votre DD de sauvegarde de bombes. Une fois qu'une créature a réussi ce jet de sauvegarde, elle est immunisée contre cet effet pendant 24 heures. Une cible réussit automatiquement contre cet effet si elle ne peut pas être [[charmé|charmée]].
 
 ## Romance Alchimique
 

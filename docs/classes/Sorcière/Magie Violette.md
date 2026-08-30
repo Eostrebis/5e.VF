@@ -15,7 +15,7 @@ La magie violette couvre tout ce qui est du domaine de l'illusion ou de l'enchan
 
 ## Maléfice : Hallucination
 
-Lorsque vous choisissez cet art au niveau 3, vous pouvez infecter l'esprit d'autres créatures. Pour une action, choisissez une créature que vous pouvez voir à 30 ft. Cette créature doit réussir un jet de sauvegarde de Sagesse ou voir sa perspective de la réalité être déformée en un lieu horrible et étranger. La créature prend une pénalité de -1 à ses jets d'attaque et de caractéristique. Au début de chacun de ses tours, tant qu'elle est atteinte par ce maléfice, la pénalité augmente de 1, jusqu'à un maximum de -5. Cet effet dure jusqu'à la fin de votre prochain tour. Une créature qui ne peut pas être charmée réussit automatiquement le jet de sauvegarde.
+Lorsque vous choisissez cet art au niveau 3, vous pouvez infecter l'esprit d'autres créatures. Pour une action, choisissez une créature que vous pouvez voir à 30 ft. Cette créature doit réussir un jet de sauvegarde de Sagesse ou voir sa perspective de la réalité être déformée en un lieu horrible et étranger. La créature prend une pénalité de -1 à ses jets d'attaque et de caractéristique. Au début de chacun de ses tours, tant qu'elle est atteinte par ce maléfice, la pénalité augmente de 1, jusqu'à un maximum de -5. Cet effet dure jusqu'à la fin de votre prochain tour. Une créature qui ne peut pas être [[charmé|charmée]] réussit automatiquement le jet de sauvegarde.
 
 ## Fausse Autorité
 
