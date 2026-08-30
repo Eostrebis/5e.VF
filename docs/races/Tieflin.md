@@ -221,7 +221,7 @@ Le grand avare Mammon adore l'or par-dessus tout. Les tieflins qui lui sont lié
 
 **Résistance Infernale.** Vous êtes résistant aux dégâts de feu.
 
-**Héritage de Minauros.** Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
+**Héritage de Minauros.** Vous connaissez le cantrip [[Main de Mage]]. Une fois que vous avez atteint le niveau 3, vous pouvez lancer le sort [[docs/sorts/01/Disque Flottant]] une fois comme un sort de niveau 2. Une fois que vous avez atteint le niveau 5, vous pouvez également lancer le sort [[Verrou Magique]] une fois. Vous devez terminer un repos long avant de pouvoir relancer ces sorts avec ce trait. Le Charisme est votre caractéristique d'incantation pour ces sorts.
 
 ## Héritier de Méphistophélès
 

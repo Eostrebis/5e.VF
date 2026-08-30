@@ -31,7 +31,7 @@ writing_status: finished
 >
 >***Incantation.*** Le mage lance l'un des sorts suivants sans dépenser de composantes matérielles et en utilisant l'Intelligence comme caractéristique d'incantation (DD de sauvegarde de sort de 12) :
 > - *À volonté :* [[Main de Mage]], [[Prestidigitation]]
-> - *1/jour :* [[Disque Flottant]], [[Graisse]], [[Armure de Mage]]
+> - *1/jour :* [[docs/sorts/01/Disque Flottant]], [[Graisse]], [[Armure de Mage]]
 
 ### Aptitudes de Cohorte
 

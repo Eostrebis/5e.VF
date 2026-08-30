@@ -298,7 +298,7 @@ spells: "true"
 | Flawed Reconstruction                | [[Reconstruction Hasardeuse]]             |
 | Flesh Ripper                         | [[Éventreur de Chair]]                    |
 | Flesh to Stone                       | [[Pétrification]]                         |
-| Floating Disk                        | [[Disque Flottant]]                       |
+| Floating Disk                        | [[docs/sorts/01/Disque Flottant]]                       |
 | Flock of Familiars                   | [[Foule de Familier]]                     |
 | Fly                                  | [[Vol]]                                   |
 | Fog Cloud                            | [[Brouillard]]                            |
@@ -721,7 +721,7 @@ spells: "true"
 | Teleportation Circle                 | [[Cercle de Téléportation]]               |
 | Temple of the Gods                   | [[Temple des Dieux]]                      |
 | Temporal Potion Heaven               | [[Refuge Temporel]]                       |
-| Tenser's Floating Disk               | [[Disque Flottant de Tenser]]             |
+| Tenser's Floating Disk               | [[docs/sorts/Disque Flottant]]             |
 | Tenser's Transformation              | [[Transformation de Tenser]]              |
 | Thaumaturgy                          | [[Thaumaturgie]]                          |
 | Thorn Whip                           | [[Fouet d'Épines]]                        |
