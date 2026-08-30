@@ -11,7 +11,7 @@ Incantation:
 Portee:
 Concentration:
 Rituel:
-englishname:
+englishname: Dominate Beast
 writing_status: empty
 zone: none
 damage: none
