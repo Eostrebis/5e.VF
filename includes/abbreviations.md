@@ -23,4 +23,7 @@
 *[DC]: Degré de Difficulté
 *[PO]: Pièce d'Or
 *[MJ]: Maître du Jeu
-*[charmé]: Une créature **charmée** ne peut pas attaquer le charmeur ni le cibler avec des aptitudes ou des effets magiques néfastes. Le charmeur a l'avantage à tous ses jets de compétences pour interagir socialement avec la créature.
+*[charmé]: Une créature charmée ne peut pas attaquer le charmeur ni le cibler avec des aptitudes ou des effets magiques néfastes. Le charmeur a l'avantage à tous ses jets de compétences pour interagir socialement avec la créature.
+*[charmée]: Une créature charmée ne peut pas attaquer le charmeur ni le cibler avec des aptitudes ou des effets magiques néfastes. Le charmeur a l'avantage à tous ses jets de compétences pour interagir socialement avec la créature.
+*[charmées]: Une créature charmée ne peut pas attaquer le charmeur ni le cibler avec des aptitudes ou des effets magiques néfastes. Le charmeur a l'avantage à tous ses jets de compétences pour interagir socialement avec la créature.
+*[charmés]: Une créature charmée ne peut pas attaquer le charmeur ni le cibler avec des aptitudes ou des effets magiques néfastes. Le charmeur a l'avantage à tous ses jets de compétences pour interagir socialement avec la créature.
