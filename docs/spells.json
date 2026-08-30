@@ -6818,6 +6818,32 @@
         "description": "Choisissez une créature de taille au plus G au sol à portée. La terre s'ouvre sous cette créature et essaye de l'avaler. La cible doit effectuer un jet de sauvegarde de Force ou être [[Retenu|retenue]] pendant la durée du sort. De plus, si la cible échoue le jet, elle commence à couler dans le sol.\n\nUne cible retenue, ou n'importe quelle créature à 5 ft., peut essayer de libérer la cible en utilisant une action pour effectuer un jet de Force contre votre DD de sauvegarde de sort. La cible a le désavantage à ce jet de Force. Le sort se termine lorsque la cible est libérée.\n\nA la fin du tour de la cible, elle s'enfonce plus profondément dans le sol. Une créature de taille P ou plus petite coule complètement au bout de 2 tours, tandis qu'une créature de taille M met 3 tours et une créature de taille G en met 4. Si la cible est complètement sous le sol, elle commence à suffoquer.\n",
         "path": "04/Terre Affamée"
     },
+    "Divination": {
+        "level": "4",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "De l'encens et une offrande sacrificielle approprié pour votre religion, d'une valeur d'au moins 25 po, que le sort consomme",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Divination",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Magicien",
+            "Investigateur",
+            "Martyr"
+        ],
+        "description": "Votre magie et une offrande vous met en contact avec un dieu ou un de ses serviteurs. Vous pouvez poser une seule question concernant un objectif, un évènement ou une activité spécifique qui se déroulera dans les 7 prochains jours. Le MJ vous donne une réponse honnête. La réponse peut néanmoins être une courte phrase, un poème cryptique ou un présage.\n\nLe sort ne prend pas en compte les possibles circonstances qui viendrait perturber l'issue, comme l'incantation d'un autre sort ou la perte/gain d'un compagnon.\n\nSi vous lancez ce sort deux fois ou plus avant d'avoir terminé un repos long, il y a une probabilité cumulative de 25 pourcents qui vous obteniez une réponse aléatoire. Le MJ réalise ce jet en secret.\n",
+        "path": "04/Divination"
+    },
     "Coffre Secret": {
         "level": "4",
         "school": "Conjuration",
@@ -7639,6 +7665,31 @@
         ],
         "description": "Des bras spectraux et squelettiques émergent du sol dans un rayon de 20 ft. autour d'un point que vous pouvez voir à portée. Les bras saisissent les créatures dans la zone qui ne sont pas des morts-vivants, qui ignorent les effets de ce sort. Cette zone est un terrain difficile.\n\nLorsqu'une créature entre dans la zone pour la première fois pendant son tour ou y démarre son tour, elle doit effectuer un jet de sauvegarde de Force. Si elle échoue, elle subit 3d6 dégâts nécrotique et est traînée par les mains spectrales vers un espace inoccupé à portée que vous choisissez. Si elle réussit, elle subit la moitié des dégâts et n'est pas déplacée.\n\nJusqu'à ce que le sort se termine, vous pouvez utiliser votre action pour forcer toutes les créatures dans la zone à effectuer un jet de sauvegarde immédiatement.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 4.\n",
         "path": "04/Emprise des Tombes"
+    },
+    "Doigt de la Mort": {
+        "level": "7",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Finger of Death",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Nécromancien"
+        ],
+        "description": "Vous projetez de l'énergie négative à travers une créature que vous pouvez voir à portée, lui provoquant d'immenses douleurs. La cible doit effectuer un jet de sauvegarde de Constitution. Elle subit 7d8+30 dégâts nécrotiques en cas d'échec, et la moitié en cas de réussite.\n\nUn humanoïde tué par ce sort se dresse au début de son prochain tour comme un zombie qui est sous votre contrôle de façon permanente, suivant vos ordres au mieux de ses capacités.\n",
+        "path": "07/Doigt de la Mort"
     },
     "Création de Magen": {
         "level": "7",
