@@ -3098,6 +3098,28 @@
         "description": "Des vrilles de brume noir s'étendent du bout de vos doigts, s'accrochant à une créature et drainant sa vitalité. Choisissez une créature que vous pouvez voir à portée, elle doit effectuer un jet de sauvegarde de Dextérité. Si elle échoue, elle subit 2d6 dégâts nécrotiques et est maudite pendant la durée du sort. Si elle réussit, elle ne subit que la moitié des dégâts et n'est pas maudite. Tant que la cible est maudite, vous pouvez utiliser votre action pour lui infliger 1d6 dégâts automatiquement. La malédiction se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a la couverture totale vis-à-vis de vous. Une [[délivrance des malédictions]] termine également cette malédiction.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts initiaux et secondaires augmentent de 1d6 pour chaque niveau d'emplacement au-delà du niveau 1.",
         "path": "01/Malédiction du Vide"
     },
+    "Éclat d'Éclair": {
+        "level": "1",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une arme de mêlée",
+        "Duree": "1 Tour",
+        "Incantation": "Spéciale",
+        "Portee": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Lightning Shard",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "La première fois que vous entreprenez l'action d'Attaquer pendant votre tour, vous pouvez lancer ce sort pour imprégner votre arme de mêlée avec de la foudre élémentaire, brûlante et aiguisée comme un rasoir. La première fois que vous touchez avec cette arme, la cible subit 1d6 dégâts tranchants supplémentaires et la statique au sein de l'arme se décharge. La cible doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la cible et jusqu'à deux créatures de votre choix à 10 ft. de la cible subissent 1d6 dégâts de foudre.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts tranchants ou de foudre (votre choix) sont augmentés de 1d6 par niveau d'emplacement au-delà du niveau 1.\n",
+        "path": "01/Éclat d'Éclair"
+    },
     "Rempart Éphémère": {
         "level": "1",
         "school": "Abjuration",
@@ -9874,6 +9896,31 @@
         ],
         "description": "Jusqu'à la fin du sort, lorsque vous effectuez un jet de Charisme, vous pouvez remplacer le résultat du dé par 15. De plus, peu importe ce que vous dites, toute magie permettant de déterminer si vous mentez indique que vous dites la vérité.\n",
         "path": "08/Bagou"
+    },
+    "Éclat du Soleil": {
+        "level": "8",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Du feu et un morceau d'héliolite",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "150 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Sunburst",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Une lumière solaire éblouissante apparaît dans un rayon de 60 ft. autour d'un point que vous choisissez à portée. Chaque créature dans la lumière doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature subit 12d6 dégâts radiants et est [[aveuglé|aveuglée]] pendant 1 minute. Si elle réussit, la créature subit la moitié des dégâts et n'est pas [[aveuglé|aveuglée]]. Les morts-vivants et les vases ont le désavantage pour ce jet de sauvegarde.\n\nUne créature [[aveuglé|aveuglée]] par ce sort effectue un nouveau jet de sauvegarde de Constitution à la fin de chacun de ses tours. Sur un succès, elle perd l'état [[aveuglé]].\n\nCe sort dissipe toutes ténèbres sur la zone qui ont été créées par un sort.\n",
+        "path": "08/Éclat du Soleil"
     },
     "Gothique Glorieux de Gahoul": {
         "level": "8",
