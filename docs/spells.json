@@ -9179,6 +9179,29 @@
         "description": "Une ligne de flammes rugissantes de 30 ft. de long et 5 ft. de large émane de vous dans une direction que vous choisissez. Chaque créature dans cette ligne doit effectuer un jet de sauvegarde de Dextérité, subissant 3d8 dégâts de feu en cas d'échec, et la moitié en cas de réussite.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en dépensant un emplacement de sort de niveau 3 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement au-delà de 2.\n",
         "path": "02/Flambée d'Aganazzar"
     },
+    "Éclair Sombre": {
+        "level": "2",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Dark Lightning",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste",
+            "Sorcière"
+        ],
+        "description": "Vous étendez vos mains, déchaînant un terrible amas de foudre imprégné de haine vers une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Constitution. Si elle échoue, elle subit 2d8 dégâts de foudre. Si la cible possède moins que le maximum de ses points de vie, l'éclair se divise pour frapper une autre créature de votre choix à 10 ft. de la cible. La nouvelle cible doit effectuer un jet de sauvegarde de Constitution, prenant 2d8 dégâts de foudre en cas d'échec. Cet effet peut être répété jusqu'à 3 fois et la même cible ne peut pas être ciblée deux fois. Si la cible réussit son jet de sauvegarde et est à moins que le maximum de ses points de vie, elle subit 1d8 dégâts nécrotiques à la place.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, les dégâts de foudre ou nécrotiques (votre choix) augmente de 1d8 par niveau d'emplacement au-delà du niveau 2.\n",
+        "path": "02/Éclair Sombre"
+    },
     "Enrayement": {
         "level": "2",
         "school": "Transmutation",
@@ -11132,6 +11155,29 @@
         ],
         "description": "Ce sort confère à une créature que vous touchez la capacité de comprendre n'importe quelle langue qu'elle entend. De plus, lorsque la cible parle, toute créature qui connaît au moins une langue et peut entendre la cible la comprend.\n",
         "path": "03/Don des Langues"
+    },
+    "Éclair": {
+        "level": "3",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un morceau de fourrure et une baguette d'ambre, cristal ou verre",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle (ligne de 100 ft.)",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Lightning Bolt",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Un trait d'éclair forme une ligne longue de 100 ft. et large de 5 ft. et éclat dans une direction de votre choix. Chaque créature dans la ligne doit effectuer un jet de sauvegarde de Dextérité. Une créature subit 8d6 de foudre en cas d'échec et la moitié en cas de succès.\n\nLa foudre embrase tout objet inflammable dans la zone qui n'est ni porté ni manié.\n",
+        "path": "03/Éclair"
     },
     "Communication à Distance": {
         "level": "3",
