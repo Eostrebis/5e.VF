@@ -69,6 +69,54 @@
         "description": "La prochaine fois que vous touchez une créature avec une attaque avec une arme avant que le sort se termine, votre arme déborde d'énergie magique, et l'attaque inflige 5d10 dégâts de force supplémentaire à la cible.\n\nDe plus, si l'attaque réduit la cible à 50 points de vie ou moins, vous la bannissez. Si la cible est native d'un différent plan de l'existence que celui sur lequel vous êtes, la cible disparaît, renvoyée sur son plan natal. Si la cible est native de ce plan, elle disparaît dans un demi-plan inoffensif. Tant qu'elle y est, la cible est [[Incapacité|incapacitée]]. Elle y reste jusqu'à ce que le sort se termine, quand elle réapparaît dans l'espace libre le plus proche de l'espace qu'elle occupait.\n",
         "path": "05/Châtiment du Ban"
     },
+    "Douleur Oubliée": {
+        "level": "5",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Forgotten Pain",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Sorcière"
+        ],
+        "description": "Vous faites appel aux temps sombres, infligeant une antique torture magique à une créature. La créature subit 4d6 dégâts du type qui lui a été le plus récemment infligé si elle échoue un jet de sauvegarde de Charisme. Tant que vous maintenez la concentration sur ce sort, vous pouvez entreprendre une action bonus pour forcer la cible à effectuer un jet de sauvegarde de Charisme, subissant 4d6 dégâts de ce type en cas d'échec.\n",
+        "path": "05/Douleur Oubliée"
+    },
+    "Double Illusoire": {
+        "level": "5",
+        "school": "Illusion",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Mislead",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Vous devenez [[invisible]] en même temps qu'un double illusoire apparaît où vous vous tenez. Le double persiste pendant la durée du sort mais l'invisibilité se termine si vous attaquez ou subissez des dégâts.\n\nVous pouvez utiliser votre action pour déplacer votre double illusoire de jusqu'à deux fois votre vitesse et le faire bouger/parler/agir comme vous le souhaitez.\n\nVous pouvez voir à travers ses yeux et entendre à travers ses oreilles comme si vous étiez là où il se tient. Pendant chacun de vos tours pour une action bonus, vous pouvez changer entre vos sens et les siens. Tant que vous utilisez ses sens, vous êtes [[aveuglé]] et [[assourdi]] en ce qui concerne votre propre environnement.\n",
+        "path": "05/Double Illusoire"
+    },
     "Fontaine Dansante": {
         "level": "5",
         "school": "Enchantement",
@@ -255,6 +303,31 @@
         ],
         "description": "Vous prenez le contrôle sur les airs et vents dans un cube de 100 ft. de côté que vous pouvez voir à portée. Choisissez l'un des effets suivant lorsque vous lancez ce sort. L'effet persiste pendant la durée du sort, sauf si vous utilisez une action lors d'un tour suivant pour changer pour un autre effet. Vous pouvez également utiliser votre action pour suspendre temporairement l'effet ou le reprendre.\n\n**Bourrasques.** Le vent se lève dans le cube, soufflant continuellement dans une direction horizontale de votre choix. Vous pouvez choisir l'intensité des bourrasques : calmes, modérées ou intenses. Si les vents sont modérés ou intenses, les attaques armées à distance qui traversent la zone ou sont réalisées contre des cibles dans le cube ont le désavantage à leurs jets d'attaque. Si le vent est intense, toute créature se déplaçant contre le vent doit dépenser une case de mouvement supplémentaire par case déplacée.\n\n**Courant Descendant.** Vous provoquez un appel d'air persistant du haut vers le bas du cube. Les attaques armées à distance qui traversent le cube ou sont réalisées contre des cibles ont le désavantage à leurs jets d'attaque. Une créature qui vole dans le cube pour la première fois pendant un tour ou y commence son tour doit effectuer un jet de sauvegarde de Force. Si elle échoue, la créature est mise [[Au Sol]].\n\n**Courant Ascendant.** Vous provoquez un appel d'air chaud à l'intérieur du cube, s'élevant depuis la paroi inférieure du cube. Les créatures qui terminent une chute dans le cube ne subissent que la moitié des dégâts de la chute. Lorsqu'une créature dans le cube réalise un saut vertical, la créature saute 10 ft. plus haut que d'ordinaire.\n",
         "path": "05/Contrôle des Vents"
+    },
+    "Domination de Personne": {
+        "level": "5",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Dominate Person",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous essayez de subjuguer un humanoïde que vous pouvez voir à portée. Il doit réussir un jet de sauvegarde ou être [[charmé]] par vous pendant la durée du sort. Si vous ou des créatures avec lesquelles vous êtes amical l'affrontez, elle a l'avantage à ce jet de sauvegarde.\n\nTant que l'humanoïde est [[charmé]], vous avez un lien télépathique avec lui à condition que vous vous trouviez sur le même plan de l'existence. Vous pouvez utiliser ce lien télépathique pour lui donner des ordres tant que vous êtes conscient (aucune action requise), qu'il suit au mieux de ses capacités. Vous pouvez spécifier une action simple et générale, comme \"Attaque cette créature\", \"Cours là-bas\", \"Récupère cet objet\". Si la créature suit l'ordre et ne reçoit pas d'exigence à la suite de celui-ci, elle se défend et se préserve du mieux de ses capacités.\n\nVous pouvez utiliser votre action pour assumer un contrôle total et précis de la cible. Jusqu'à la fin de votre prochain tour, la créature n'entreprend que les actions que vous choisissez et ne fait rien que vous ne lui permettez pas de faire. Pendant ce temps, vous pouvez également faire entreprendre une réaction à la créature, mais cela consomme votre propre réaction. \n\nÀ chaque fois que la cible subit des dégâts, elle effectue un nouveau jet de sauvegarde de Sagesse contre le sort. En cas de réussite, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6, la durée du sort augmente à 10 minutes. Lorsque vous utilisez un emplacement de sort de niveau 7, la durée augmente à 1 heure. Enfin, lorsque vous utilisez un emplacement de sort de niveau 8 ou plus, la durée augmente à 8 heures.\n\n",
+        "path": "05/Domination de Personne"
     },
     "Arme Sacrée": {
         "level": "5",
@@ -7644,6 +7717,31 @@
         "description": "Vous appelez un esprit aberrant. Celui-ci se manifeste dans un espace inoccupé que vous pouvez voir à portée. Cette forme corporelle utilise le bloc de statistiques d'un [[esprit aberrant, créature|esprit aberrant]]. Lorsque vous lancez ce sort, choisissez entre Tyrannœil, Slaad ou Rejeton Stellaire. La créature ressemble à s'y méprendre à une aberration de cette catégorie, ce qui détermine certains traits de ses statistiques. La créature disparaît lorsqu'elle tombe à 0 point de vie ou que le sort se termine.\n\nLa créature est une alliée pour vous et vos compagnons. En combat, elle partage votre initiative, mais elle prend son tour immédiatement après vous. Elle obéit à vos ordres vocaux (sans action requise de votre part). Si vous ne lui en donnez aucun, elle utilise son action pour Esquiver et utilise son déplacement pour éviter les dangers.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, utilisez le niveau d'emplacement à chaque fois que le niveau du sort est mentionné dans le bloc de statistiques.",
         "path": "04/Convocation d'Aberration"
     },
+    "Domination de Bête": {
+        "level": "4",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Dominate Beast",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ranger",
+            "Ensorceleur",
+            "Sorcière"
+        ],
+        "description": "Vous essayez de subjuguer une bête que vous pouvez voir à portée. Elle doit réussir un jet de sauvegarde ou être [[charmé|charmée]] par vous pendant la durée du sort. Si vous ou des créatures avec lesquelles vous êtes amical l'affrontez, elle a l'avantage à ce jet de sauvegarde.\n\nTant que la bête est [[charmé|charmée]], vous avez un lien télépathique avec elle à condition que vous vous trouviez sur le même plan de l'existence. Vous pouvez utiliser ce lien télépathique pour lui donner des ordres tant que vous êtes conscient (aucune action requise), qu'elle suit au mieux de ses capacités. Vous pouvez spécifier une action simple et générale, comme \"Attaque cette créature\", \"Cours là-bas\", \"Récupère cet objet\". Si la créature suit l'ordre et ne reçoit pas d'exigence à la suite de celui-ci, elle se défend et se préserve du mieux de ses capacités.\n\nVous pouvez utiliser votre action pour assumer un contrôle total et précis de la cible. Jusqu'à la fin de votre prochain tour, la créature n'entreprend que les actions que vous choisissez et ne fait rien que vous ne lui permettez pas de faire. Pendant ce temps, vous pouvez également faire entreprendre une réaction à la créature, mais cela consomme votre propre réaction. \n\nÀ chaque fois que la cible subit des dégâts, elle effectue un nouveau jet de sauvegarde de Sagesse contre le sort. En cas de réussite, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5, la durée du sort augmente à 10 minutes. Lorsque vous utilisez un emplacement de sort de niveau 6, la durée augmente à 1 heure. Enfin, lorsque vous utilisez un emplacement de sort de niveau 7 ou plus, la durée augmente à 8 heures.\n",
+        "path": "04/Domination de Bête"
+    },
     "Emprise des Tombes": {
         "level": "4",
         "school": "Nécromancie",
@@ -8298,6 +8396,30 @@
         ],
         "description": "Vous touchez une corde d'au plus 60 ft. Une extrémité de la corde se dresse alors dans les airs jusqu'à ce que la corde entière se tienne perpendiculaire au sol. À l'extrémité haute de la corde, une entrée invisible vers un espace extra dimensionnel s'ouvre jusqu'à ce que le sort se termine.\n\nL'espace extra dimensionnel peut être atteint en escaladant jusqu'en haut de la corde. L'espace peut accueillir jusqu'à huit créatures de taille M ou inférieure. La corde peut être tirée dans l'espace, la rendant non visible depuis l'extérieur de l'espace.\n\nLes attaques et sorts ne peuvent traverser l'entrée vers ou depuis l'espace, mais ceux se trouvant à l'intérieur peuvent voir au travers d’une fenêtre de 3 ft. par 5 ft. centrée sur la corde.\n\nTout ce qui se trouve à l'intérieur de l'espace extra dimensionnel tombe lorsque le sort se termine.\n",
         "path": "02/Corde Enchantée"
+    },
+    "Don du Bagou": {
+        "level": "2",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "2 po que le sort consomme comme taxe",
+        "Duree": "Instantanée",
+        "Incantation": "1 Réaction",
+        "Portee": "Personnelle",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Gift of Gab",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Barde",
+            "Magicien"
+        ],
+        "description": "Comme réaction que vous pouvez prendre lorsque vous parlez à une créature, vous manipulez habilement les souvenirs de vos auditeurs dans une zone limitée, de telle sorte que toutes les créatures de votre choix dans un rayon de 5 ft. autour de vous oublient tout ce que vous avez dit dans les 6 dernières secondes. Ces créatures se souviennent ensuite que vous avez dit ces 6 dernières secondes les mots que vous avez énoncés comme composante verbale de ce sort.\n",
+        "path": "02/Don du Bagou"
     },
     "Flèche d'Acide": {
         "level": "2",
@@ -9613,6 +9735,28 @@
         "description": "Vous tirez profit des esprits du passé. Choisissez une compétence que vous ne maîtrisez pas. Pendant la durée du sort, vous maîtrisez cette compétence. Ce sort se termine prématurément si vous le relancez.\n",
         "path": "02/Connaissance Empruntée"
     },
+    "Dragon Illusoire": {
+        "level": "8",
+        "school": "Illusion",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "120 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Illusory Dragon",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien"
+        ],
+        "description": "En concentrant des fils d'objombre, vous créez un dragon ombreux de taille TG sur un espace inoccupé que vous pouvez à portée. Cette illusion persiste pendant la durée du sort et occupe l'espace comme si c'était une créature.\n\nLorsque l'illusion apparaît, tout ennemi qui peut la voir doit réussir un jet de sauvegarde de Sagesse ou en être [[apeuré]] pendant 1 minute. Si une créature [[apeuré|apeurée]] termine son tour à un endroit où elle n'a pas de ligne de vue avec l'illusion, elle peut répéter le jet de sauvegarde et termine l'effet sur elle-même en cas de succès.\n\nPour une action pendant votre tour, vous pouvez déplacer l'illusion de jusqu'à 60 ft. À n'importe quel moment pendant ce mouvement, vous pouvez lui faire cracher un souffle d'énergie dans un cône de 60 ft. émanant de son espace.\n\nLorsque vous créez le dragon, choisissez un type de dégâts : acide, froid, feu, foudre, nécrotique ou poison. Chaque créature dans le cône doit effectuer un jet de sauvegarde d'Intelligence, subissant 7d6 dégâts du type choisi en cas d'échec et la moitié en cas de réussite.\n\nL'illusion est tangible grâce à l'objombre utilisé pour la créer, mais toute attaque la ciblant échoue automatiquement. Elle réussit également tout jet de sauvegarde et est immunisée à tous les dégâts et états. Une créature peut utiliser son action pour examiner le dragon afin de déterminer sa nature illusoire en réussissant un jet d'Intelligence (Investigation) contre votre DD de sauvegarde de sort. Si la créature discerne l'illusion pour ce qu'elle est, elle peut voir à travers et obtient l'avantage aux jets de sauvegarde contre le souffle.\n",
+        "path": "08/Dragon Illusoire"
+    },
     "Champ Antimagie": {
         "level": "8",
         "school": "Abjuration",
@@ -9753,6 +9897,32 @@
         ],
         "description": "Ce sort attire ou repousse les créature de votre choix. Vous ciblez quelque chose à portée, qui peut être un objet ou une créature de taille TG ou inférieure, ou une zone plus petite qu'un cube de 200 ft. de côté. Spécifiez ensuite un type de créature intelligente, comme les dragons rouges, les gobelins ou les vampires. Vous investissez la cible d'une aura qui ou attire ou repousse les créature du type désigné pendant la durée du sort. Choisissez aversion ou attirance pour l'effet de l'aura.\n\n**Aversion.** Cet enchantement provoque chez les créatures du type désigné un intense besoin de quitter la zone et d'éviter la cible. Lorsqu'une telle créature peut voir la cible ou se trouve à moins de 60 ft. d'elle, la créature doit réussir un jet de sauvegarde de Sagesse ou être [[Apeuré|apeurée]]. La créature demeure [[Apeuré|apeurée]] tant qu'elle peut voir la cible ou qu'elle reste à moins de 60 ft. d'elle. Tant qu'elle est apeurée par la cible, la créature doit utiliser son mouvement pour se déplacer à l'emplacement le plus proche duquel elle ne peut pas voir la cible. Si la créature se déplace à plus de 60 ft. de la cible et qu'elle ne peut plus la voir, la créature n'est plus apeurée, mais elle le redevient si elle récupère une vision de la cible ou se rapproche à moins de 60 ft.\n\n**Attirance.** Cet enchantement provoque chez les créatures du type désigné un intense besoin d'approcher la cible à moins de 60 ft. ou jusqu'à pouvoir la voir. Lorsqu'une telle créature peut voir la cible ou se trouve à moins de 60 ft. d'elle, la créature doit réussir un jet de sauvegarde de Sagesse ou utiliser l'intégralité de son mouvement chaque tour pour entrer dans la zone ou jusqu'à portée de la cible. Lorsque la créature l'a fait, elle ne peut pas s'éloigner volontairement de la cible.\n\nSi la cible inflige des dégâts ou des effets néfastes à la créature affectée, la créature affectée peut effectuer un jet de sauvegarde de Sagesse pour terminer l'effet, comme décrit ci-dessous.\n\n**Terminer l'Effet.** Si une créature affectée finit son tour à plus de 60 ft. de la cible ou sans être capable de la voir, elle peut effectuer un jet de sauvegarde de Sagesse. Si elle réussit, la créature n'est plus affectée par le sort et reconnaît son précédent sentiment comme magique. De plus, une créature affectée par le sort a le droit a un jet de sauvegarde supplémentaire toutes les 24 heures pendant que le sort persiste.\n\nUne créature qui réussit son jet de sauvegarde contre cet effet y est immunisé pendant 1 minute, après quoi elle peut affectée à nouveau.",
         "path": "08/Aversion ou Attirance"
+    },
+    "Domination de Monstre": {
+        "level": "8",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Dominate Monster",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Vous essayez de subjuguer une créature que vous pouvez voir à portée. Elle doit réussir un jet de sauvegarde ou être [[charmé|charmée]] par vous pendant la durée du sort. Si vous ou des créatures avec lesquelles vous êtes amical l'affrontez, elle a l'avantage à ce jet de sauvegarde.\n\nTant que la créature est [[charmé|charmée]], vous avez un lien télépathique avec elle à condition que vous vous trouviez sur le même plan de l'existence. Vous pouvez utiliser ce lien télépathique pour lui donner des ordres tant que vous êtes conscient (aucune action requise), qu'elle suit au mieux de ses capacités. Vous pouvez spécifier une action simple et générale, comme \"Attaque cette créature\", \"Cours là-bas\", \"Récupère cet objet\". Si la créature suit l'ordre et ne reçoit pas d'exigence à la suite de celui-ci, elle se défend et se préserve du mieux de ses capacités.\n\nVous pouvez utiliser votre action pour assumer un contrôle total et précis de la cible. Jusqu'à la fin de votre prochain tour, la créature n'entreprend que les actions que vous choisissez et ne fait rien que vous ne lui permettez pas de faire. Pendant ce temps, vous pouvez également faire entreprendre une réaction à la créature, mais cela consomme votre propre réaction. \n\nÀ chaque fois que la cible subit des dégâts, elle effectue un nouveau jet de sauvegarde de Sagesse contre le sort. En cas de réussite, le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 9, la durée du sort augmente à 8 heures.\n\n",
+        "path": "08/Domination de Monstre"
     },
     "Contre-Courant": {
         "level": "8",
@@ -10933,6 +11103,35 @@
         ],
         "description": "Choisissez une créature, un objet ou un effet magique à portée. N'importe quel sort de niveau 3 ou moins sur la cible se termine. Pour chacun des sorts de niveau 4 ou plus sur la cible, effectuez un jet de caractéristique en utilisant votre caractéristique d'incantation. Le DD est égal à 10 + le niveau du sort. Si le jet est réussi, le sort est dissipé.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, vous terminez automatiquement tous les sorts sur la cible dont le niveau est inférieur ou égal au niveau de l'emplacement que vous avez utilisé.\n",
         "path": "03/Dissipation de la Magie"
+    },
+    "Don des Langues": {
+        "level": "3",
+        "school": "Divination",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "true",
+        "detailmat": "Un petit modèle en argile d'un ziggourat",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Tongues",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Clerc",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière",
+            "Martyr",
+            "Investigateur"
+        ],
+        "description": "Ce sort confère à une créature que vous touchez la capacité de comprendre n'importe quelle langue qu'elle entend. De plus, lorsque la cible parle, toute créature qui connaît au moins une langue et peut entendre la cible la comprend.\n",
+        "path": "03/Don des Langues"
     },
     "Communication à Distance": {
         "level": "3",
