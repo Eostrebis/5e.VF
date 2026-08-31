@@ -1,5 +1,9 @@
 *[Saisir]: En utilisant au moins une main libre, vous effectuez un jet de saisie, un jet de Force (Athlétisme) challengé par un jet de Force (Athlétisme) ou Dextérité (Acrobaties) de la cible (la cible choisit la compétence à utiliser)
 *[Pousser]: Vous effectuez un jet de Force (Athlétisme) challengé par un jet de Force (Athlétisme) ou Dextérité (Acrobaties) de la cible (la cible choisit la compétence à utiliser)
+*[Désengager]: Votre mouvement ne provoque pas d'attaque d'opportunité pendant le reste du tour
+*[Esquiver]: Jusqu'au début de votre prochain, tout jet d'attaque réalisé contre vous a le désavantage si vous pouvez voir l'attaquant, et vous réalisez vos jets de sauvegarde de Dextérité avec l'avantage.
+*[Foncer]: Obtenez du mouvement supplémentaire pour le tour. L'augmentation est égale à votre vitesse, après application de vos modificateurs. 
+*[terrain difficile]: Se déplacer sur du terrain difficile coûte 5 ft. supplémentaire par 5 ft. de mouvement.
 *[P]: Petite (5 ft.²)
 *[G]: Grande (10 ft.²)
 *[TP]: Très Petite (2.5 ft.²)
