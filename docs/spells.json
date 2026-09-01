@@ -3675,6 +3675,31 @@
         "description": "Du givre s'échappe de vos doigts dans un cône de 15 ft. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Constitution et subir 2d8 dégâts de froid en cas d'échec, la moitié en cas de réussite.\n\nLe froid est tel qu'il gèle magiquement les liquides non magiques et non portés dans la zone.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 2 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 1.\n",
         "path": "01/Doigts de Givre"
     },
+    "Écriture Illusoire": {
+        "level": "1",
+        "school": "Illusion",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une encre à base de plomb d'une valeur d'au moins 10 lbs., que le sort consomme",
+        "Duree": "10 Jours",
+        "Incantation": "1 Minute",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "true",
+        "englishname": "Illusory Script",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Occultiste",
+            "Magicien",
+            "Investigateur"
+        ],
+        "description": "Vous écrivez sur un parchemin, du papier ou tout autre matériel d'écriture adéquat et l'imprégnez d'une puissante illusion pour la durée du sort.\n\nPour vous et toute autre créature que vous désignez lorsque vous lancez ce sort, l'écriture semble normale, écrite de votre main et portant le sens que vous aviez l'intention de transmettre quand vous l'avez écrit. Pour tous les autres, l'écriture parais rédigée dans une langue inconnue ou dans un alphabet magique qui n'est pas compréhensible. Vous pouvez également choisir de faire passer l'écriture pour un tout autre message, écrit d'une main différente et dans une langue que vous connaissez.\n\nSi le sort est dissipé, l'écriture originale ainsi que l'écriture illusoire disparaisse. Une créature avec une vision véritable peut lire le message original.\n",
+        "path": "01/Écriture Illusoire"
+    },
     "Exhumation": {
         "level": "1",
         "school": "Nécromancie",
@@ -5988,6 +6013,35 @@
         ],
         "description": "Vous claquez des doigts, essayant de mettre feu à un objet libre à portée. Si vous ciblez un objet inflammable, l'objet s'embrase immédiatement. Choisissez jusqu'à deux créatures à 5 ft. de l'objet. Chacune doit effectuer un jet de sauvegarde de Dextérité. Si une créature échoue, elle subit 1d8 dégâts de feu.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez les niveaux 5 (2d8), 11 (3d8) et 17 (4d8).\n",
         "path": "cantrips/Brûlure"
+    },
+    "Électrochoc": {
+        "level": "0",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Jolt",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Druide",
+            "Ensorceleur",
+            "Magicien",
+            "MagedeGuerre",
+            "Occultiste",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Des étincelles s'envolent de vos doigts, électrocutant une créature à portée. Si la cible est [[inconscient|inconsciente]] et réduite à 0 point de vie, elle obtient l'avantage à son prochain jet de sauvegarde contre la mort et tout jet de caractéristique effectué pour l'aider obtient également l'avantage. Si vous ciblez une créature hostile, elle doit effectuer un jet de sauvegarde de Constitution. En cas d'échec, la cible subit 1d8 dégâts de foudre.\n\nLes dégâts de ce sort augmentent de 1d8 lorsque vous atteignez le niveau 5 (2d8), le niveau 11 (3d8) et le niveau 17 (4d8).\n",
+        "path": "cantrips/Électrochoc"
     },
     "Mot Radiant": {
         "level": "0",
@@ -10208,6 +10262,31 @@
         ],
         "description": "Vous arrêtez brièvement le temps pour tout le monde sauf pour vous. Le temps ne s'écoule pas pour les autres créatures, tandis que vous subissez 1d4 +1 tours d'affilée pendant lesquels vous pouvez agir normalement.\n\nLe sort se termine si l'une de vos actions effectuées pendant cette période ou l'un de vos effets créés pendant cette période affecte une créature autre que vous ou un objet porté ou manié par un individu autre que vous. De plus, le sort se termine lorsque vous vous déplacez vers un endroit à plus de 1 000 ft. de là où vous avez lancé le sort.\n",
         "path": "09/Arrêt du Temps"
+    },
+    "Emprisonnement": {
+        "level": "9",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une reproduction sur vélin ou une statuette sculptée de la cible et un composant spécial qui varie selon la version du sort que vous choisissez, d'une valeur de 500 po par Dé de Vie de la cible",
+        "Duree": "Jusqu'à dissipation",
+        "Incantation": "1 Minute",
+        "Portee": "30 ft.",
+        "Concentration": "",
+        "Rituel": "",
+        "englishname": "Imprisonment",
+        "writing_status": "empty",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste",
+            "Magicien",
+            "Nécromancien",
+            "Sorcière"
+        ],
+        "description": "Vous créez une entrave magique qui retient une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être liée par le sort. Si elle réussit, elle est immunisée à ce sort si vous le lancez à nouveau. Tant qu'elle est affectée par ce sort, la créature n'a pas besoin de respirer, manger ou boire et ne vieillit pas. Les sorts de divination ne peuvent ni localiser ni percevoir la cible.\n\nPendant l'incantation de ce sort, quelle que soit sa version, vous pouvez préciser une condition qui causera la dissipation du sort et la libération de la cible. Cette condition peut être spécifique comme générale, mais le MJ doit confirmer que la condition est raisonnable et peut se réaliser. Les conditions peuvent être basées sur le nom de la créature, son identité ou sa déité mais doivent sinon se baser sur des actions ou évènements observables et non sur des éléments non tangibles comme des niveaux, une classe ou des points de vie.\n\nUn sort de [[dissipation de la magie]] peut terminer le sort s'il est lancé comme un sort de niveau 9, ciblant la prison ou le composant spécial utilisé pour l'incantation.\n\nVous ne pouvez utiliser un composant spécial que pour créer une prison à la fois. Si vous lancez le sort à nouveau en utilisant le même composant spécial, la cible de la première incantation est immédiatement libérée de ses liens.\n\nLorsque vous lancez ce sort, choisissez l'une des formes d'emprisonnement suivantes : \n\n - __Enterrement.__ La cible est enterrée bien en-deçà du sol dans une sphère de force magique à peine assez large pour contenir la cible. Rien ne peut traverser cette sphère et aucune créature ne peut s'y téléporter ou utiliser le voyage planaire pour en sortir.\n\t - Le composant spécial pour cette version du sort est une petite orbe en mithril.\n",
+        "path": "09/Emprisonnement"
     },
     "Apocalypse": {
         "level": "9",
