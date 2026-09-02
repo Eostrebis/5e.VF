@@ -235,6 +235,31 @@
         "description": "Vous discernez les détails les plus petits concernant une créature que vous pouvez voir à portée. Vous apprenez deux des informations suivantes de votre choix à propos de la cible : sa CA, ses points de vie actuels, ses immunités aux états, ses immunités aux dégâts, ses résistances aux dégâts, ses vulnérabilités aux dégâts et ses enchantements (qui révèlent tous les sorts qui l'affectent).\n",
         "path": "05/Examen d'un Adversaire"
     },
+    "Énervation": {
+        "level": "5",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Enervation",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Un tentacule d'encre ténébreuse s'échappe de vous et va toucher une créature que vous pouvez voir à portée pour en puiser de la force vitale. La cible doit réaliser un jet de sauvegarde de Dextérité. Si elle réussit, la cible subit 2d8 dégâts nécrotiques et le sort se termine. En cas d'échec, la cible subit 4d8 dégâts et, jusqu'à ce que le sort se termine, vous pouvez utiliser votre action à chacun de vos tours pour lui infliger automatique 4d8 dégâts nécrotiques. Le sort se termine si vous utilisez votre action pour faire quoi que ce soit d'autre, si la cible est en dehors de la portée du sort ou si la cible a une couverture totale vis-à-vis de vous. À chaque fois que ce sort inflige des dégâts à une cible, vous regagnez un nombre de points de vie égal aux dégâts nécrotiques infligés.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau de sort au-delà du niveau 5.\n",
+        "path": "05/Énervation"
+    },
     "Contact avec un Autre Plan": {
         "level": "5",
         "school": "Divination",
@@ -10276,7 +10301,7 @@
         "Concentration": "",
         "Rituel": "",
         "englishname": "Imprisonment",
-        "writing_status": "empty",
+        "writing_status": "finished",
         "zone": "none",
         "damage": "none",
         "available": [
@@ -10285,7 +10310,7 @@
             "Nécromancien",
             "Sorcière"
         ],
-        "description": "Vous créez une entrave magique qui retient une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être liée par le sort. Si elle réussit, elle est immunisée à ce sort si vous le lancez à nouveau. Tant qu'elle est affectée par ce sort, la créature n'a pas besoin de respirer, manger ou boire et ne vieillit pas. Les sorts de divination ne peuvent ni localiser ni percevoir la cible.\n\nPendant l'incantation de ce sort, quelle que soit sa version, vous pouvez préciser une condition qui causera la dissipation du sort et la libération de la cible. Cette condition peut être spécifique comme générale, mais le MJ doit confirmer que la condition est raisonnable et peut se réaliser. Les conditions peuvent être basées sur le nom de la créature, son identité ou sa déité mais doivent sinon se baser sur des actions ou évènements observables et non sur des éléments non tangibles comme des niveaux, une classe ou des points de vie.\n\nUn sort de [[dissipation de la magie]] peut terminer le sort s'il est lancé comme un sort de niveau 9, ciblant la prison ou le composant spécial utilisé pour l'incantation.\n\nVous ne pouvez utiliser un composant spécial que pour créer une prison à la fois. Si vous lancez le sort à nouveau en utilisant le même composant spécial, la cible de la première incantation est immédiatement libérée de ses liens.\n\nLorsque vous lancez ce sort, choisissez l'une des formes d'emprisonnement suivantes : \n\n - __Enterrement.__ La cible est enterrée bien en-deçà du sol dans une sphère de force magique à peine assez large pour contenir la cible. Rien ne peut traverser cette sphère et aucune créature ne peut s'y téléporter ou utiliser le voyage planaire pour en sortir.\n\t - Le composant spécial pour cette version du sort est une petite orbe en mithril.\n",
+        "description": "Vous créez une entrave magique qui retient une créature que vous pouvez voir à portée. La cible doit réussir un jet de sauvegarde de Sagesse ou être liée par le sort. Si elle réussit, elle est immunisée à ce sort si vous le lancez à nouveau. Tant qu'elle est affectée par ce sort, la créature n'a pas besoin de respirer, manger ou boire et ne vieillit pas. Les sorts de divination ne peuvent ni localiser ni percevoir la cible.\n\nPendant l'incantation de ce sort, quelle que soit sa version, vous pouvez préciser une condition qui causera la dissipation du sort et la libération de la cible. Cette condition peut être spécifique comme générale, mais le MJ doit confirmer que la condition est raisonnable et peut se réaliser. Les conditions peuvent être basées sur le nom de la créature, son identité ou sa déité mais doivent sinon se baser sur des actions ou évènements observables et non sur des éléments non tangibles comme des niveaux, une classe ou des points de vie.\n\nUn sort de [[dissipation de la magie]] peut terminer le sort s'il est lancé comme un sort de niveau 9, ciblant la prison ou le composant spécial utilisé pour l'incantation.\n\nVous ne pouvez utiliser un composant spécial que pour créer une prison à la fois. Si vous lancez le sort à nouveau en utilisant le même composant spécial, la cible de la première incantation est immédiatement libérée de ses liens.\n\nLorsque vous lancez ce sort, choisissez l'une des formes d'emprisonnement suivantes : \n\n - __Enterrement.__ La cible est enterrée bien en deçà du sol dans une sphère de force magique à peine assez large pour contenir la cible. Rien ne peut traverser cette sphère et aucune créature ne peut s'y téléporter ou utiliser le voyage planaire pour en sortir.\n\t - Le composant spécial pour cette version du sort est un petit orbe en mitral.\n - __Enchaînement.__ De lourdes chaînes ancrées fermement au sol maintiennent la cible en place. La cible est [[retenu|retenue]] jusqu'à ce que le sort se termine et ne peut ni bouger ni être bougée.\n\t - Le composant spécial pour cette version du sort est une fine chaîne d'un métal précieux.\n - __Prison Fortifiée.__ Le sort transporte la cible dans un petit demi plan qui est protégé contre la téléportation et le voyage planaire. Le demi-plan peut être un labyrinthe, une cage, une tour ou toute autre structure confinée de votre choix.\n\t - Le composant spécial pour cette version du sort est une représentation miniature de la prison faite de jade.\n - __Enfermement Minimal.__ La cible rétrécit jusqu'à une hauteur de 2 cm et est emprisonnée au sein d'une gemme ou d'un objet similaire. La lumière peut passer au travers de la gemme normalement (permettant à la cible de voir les autres créatures et permettant aux autres créatures de voir à l'intérieur de la gemme), mais rien ne peut passer au travers, même par téléportation ou voyage planaire. La gemme ne peut pas être taillée ou brisée tant que le sort reste en effet.\n\t - Le composant spécial pour cette version est une large gemme transparente, comme un corindon, un diamant ou un rubis.\n - __Sommeil.__ La cible s'endort et ne peut pas être réveillée.\n\t - Le composant spécial pour cette version du sort est un ensemble de rares herbes soporifiques.\n",
         "path": "09/Emprisonnement"
     },
     "Apocalypse": {
@@ -10433,6 +10458,31 @@
         "description": "Lorsque vous lancez ce sort, vous poignardez un cœur noir préparé ritualistiquement. L'ichor du cœur infecte le sol avec de nauséabondes énergies nécromantiques, causant jusqu'à cent piles d'os ou corps d'Humanoïdes de taille P ou M dans les 2 km à la ronde à se relever de la mort, devenant des squelettes ou des zombies. Les morts-vivants creusent leur chemin hors des tombes, fracassent les mausolées et brisent les portes des cimetières. \n\nLa créature qui tient le cœur peut utiliser son action pour donner une commande générale à tous les morts-vivants créés par le sort, comme détruire une ville ou chasser une créature en particulier. Seulement une commande peut être transmise par tranche de 24 heures. S'ils n'ont pas d'ordre en particulier, les morts-vivants attaquent toutes les créatures vivantes sans discernement, à part la créature qui tient le cœur et celles qu'elle a désignées. Une fois l'ordre donné, les morts-vivants continuent de le suivre jusqu'à ce qu'il soit complété.\n\nMême lorsque vous tenez le cœur, les morts-vivants ne sont pas sous votre contrôle direct et ne comptent pas dans le nombre de morts-vivants que vous pouvez contrôler.\n\nLes morts-vivants restent animés jusqu'à ce que le sort se termine. Le sort se termine si le cœur est détruit (AC 20, PV 10, immunisé aux dégâts nécrotiques, de poison et psychiques) ou ciblé par une [[Dissipation de la Magie]] de niveau 9. Lorsque le sort se termine, tous les morts-vivants créés par celui-ci sont instantanément détruits, réduits à une pile de poussière. Le sort se termine aussi si tous les morts-vivants créés par le sort sont détruits.",
         "path": "09/Cœur de Ténèbres"
     },
+    "Ennemi Subconscient": {
+        "level": "9",
+        "school": "Illusion",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Weird",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Sorcière",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "En puisant dans les peurs les plus profondes d'un groupe de créatures, vous créez des créatures illusoires au sein de leurs esprits, visibles uniquement par elles.\n\nChaque créature dans un rayon de 30 ft. autour d'un point que vous choisissez à portée doit effectuer un jet de sauvegarde de Sagesse. En cas d'échec, la créature devient [[apeuré|apeurée]].\n\nL'illusion fait appel aux pires peurs de la créature, se manifestant sous la forme de ses pires cauchemars et apparaissant comme une menace insurmontable. À la fin de chacun des tours d'une créature [[apeuré|apeurée]], elle doit réussir un jet de sauvegarde de Sagesse ou subir 4d10 dégâts psychiques. En cas de réussite, le sort se termine pour cette créature.\n",
+        "path": "09/Ennemi Subconscient"
+    },
     "Changement de Forme": {
         "level": "9",
         "school": "Transmutation",
@@ -10505,6 +10555,32 @@
         ],
         "description": "Vous murmurez des mots magiques qui antagonisent une créature de votre choix à portée. La cible doit réussir un jet de sauvegarde de Sagesse. Si elle échoue, elle subit 4d4 dégâts psychiques et doit immédiatement utiliser sa réaction pour réaliser une attaque de mêlée contre une autre créature de votre choix que vous voyez. Si la cible ne peut pas réaliser cette attaque (par exemple parce qu'il n'y a personne à portée ou parce que sa réaction n'est pas disponible), la cible a plutôt le désavantage au prochain jet d'attaque qu'elle effectue avant le début de son prochain tour. Sur un jet réussi, la cible ne subit que la moitié des dégâts.\n\n**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sorts de niveau 4 ou supérieur, les dégâts augmentent de 1d4 pour chaque niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Antagonisation"
+    },
+    "Encourager l'Avarice": {
+        "level": "3",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une gemme d'une valeur d'au moins 50 po",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Incite Greed",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Clerc",
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien"
+        ],
+        "description": "Lorsque vous lancez ce sort, vous présentez la gemme utilisée comme composante de ce sort et choisissez n'importe quel nombre de créatures à portée qui peuvent vous voir. Chaque cible doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] pour vous jusqu'à ce que le sort se termine, ou jusqu'à ce que vous ou vos compagnons n'agissiez de façon hostile envers elle. Tant qu'elle est [[charmé|charmée]] de cette façon, la cible ne peut rien faire si ce n'est utiliser son mouvement pour s'approcher de façon sûre. Tant qu'une créature affectée se trouve à 5 ft. de vous, elle ne peut pas bouger, mais fixe avec convoitise la gemme que vous tenez.\n\nÀ la fin de chacun de ses tours, une créature affectée peut réaliser un jet de sauvegarde de Sagesse. Si elle réussit, l'état se termine pour elle.\n",
+        "path": "03/Encourager l'Avarice"
     },
     "Convocation de Rejeton d'Ombre": {
         "level": "3",
