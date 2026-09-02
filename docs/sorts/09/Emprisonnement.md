@@ -16,7 +16,7 @@ Portee: 30 ft.
 Concentration:
 Rituel:
 englishname: Imprisonment
-writing_status: empty
+writing_status: finished
 zone: none
 damage: none
 ---
@@ -30,5 +30,13 @@ Vous ne pouvez utiliser un composant spécial que pour créer une prison à la f
 
 Lorsque vous lancez ce sort, choisissez l'une des formes d'emprisonnement suivantes : 
 
- - __Enterrement.__ La cible est enterrée bien en-deçà du sol dans une sphère de force magique à peine assez large pour contenir la cible. Rien ne peut traverser cette sphère et aucune créature ne peut s'y téléporter ou utiliser le voyage planaire pour en sortir.
-	 - Le composant spécial pour cette version du sort est une petite orbe en mithril.
+ - __Enterrement.__ La cible est enterrée bien en deçà du sol dans une sphère de force magique à peine assez large pour contenir la cible. Rien ne peut traverser cette sphère et aucune créature ne peut s'y téléporter ou utiliser le voyage planaire pour en sortir.
+	 - Le composant spécial pour cette version du sort est un petit orbe en mitral.
+ - __Enchaînement.__ De lourdes chaînes ancrées fermement au sol maintiennent la cible en place. La cible est [[retenu|retenue]] jusqu'à ce que le sort se termine et ne peut ni bouger ni être bougée.
+	 - Le composant spécial pour cette version du sort est une fine chaîne d'un métal précieux.
+ - __Prison Fortifiée.__ Le sort transporte la cible dans un petit demi plan qui est protégé contre la téléportation et le voyage planaire. Le demi-plan peut être un labyrinthe, une cage, une tour ou toute autre structure confinée de votre choix.
+	 - Le composant spécial pour cette version du sort est une représentation miniature de la prison faite de jade.
+ - __Enfermement Minimal.__ La cible rétrécit jusqu'à une hauteur de 2 cm et est emprisonnée au sein d'une gemme ou d'un objet similaire. La lumière peut passer au travers de la gemme normalement (permettant à la cible de voir les autres créatures et permettant aux autres créatures de voir à l'intérieur de la gemme), mais rien ne peut passer au travers, même par téléportation ou voyage planaire. La gemme ne peut pas être taillée ou brisée tant que le sort reste en effet.
+	 - Le composant spécial pour cette version est une large gemme transparente, comme un corindon, un diamant ou un rubis.
+ - __Sommeil.__ La cible s'endort et ne peut pas être réveillée.
+	 - Le composant spécial pour cette version du sort est un ensemble de rares herbes soporifiques.
