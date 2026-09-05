@@ -22,6 +22,29 @@
         "description": "Sur un point que vous choisissez à portée, vous créez un Grand rocher d'un diamètre de 8 ft. qui roule à la poursuite d'une créature que vous pouvez voir de votre choix. Le rocher a une CA de 18, 75 points de vie, l'immunité aux dégâts de poison et psychiques, et une résistance aux dégâts contondants, perforants et tranchants venant d'attaques non magiques. Si le rocher est réduit à 0 point de vie, il disparaît et le sort se termine.\n\nAu début de chacun de vos tours, le rocher se déplace de 60 ft. dans la direction de sa cible. Si le rocher pénètre l'espace d'une créature, la créature doit effectuer un jet de sauvegarde de Dextérité. Si elle rate, elle subit 6d10 dégâts contondants et, si elle est de taille G ou plus petite, est mise [[Au Sol]]. Si elle réussit le jet, elle subit la moitié des dégâts et n'est pas mise au sol. Le rocher écrase aussi les objets non magiques plus petits que lui sur son passage. Si le rocher atteint sa cible, il lui roule dessus et continue son mouvement sur 60 ft. Le rocher continue de poursuivre la cible pendant la durée du sort, lui roulant dessus plusieurs fois si possible.\n\nAprès que le sort se termine, le rocher continue de poursuivre sa cible pendant 24h. Une fois que le rocher a touché sa cible après que le sort a terminé, il disparaît.\n",
         "path": "07/Inévitable Rocher"
     },
+    "Épée de Mordenkainen": {
+        "level": "7",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une épée miniature en platine avec un pommeau de cuivre et de zinc, d'une valeur de 250 po",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Mordenkainen's Sword",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Magicien"
+        ],
+        "description": "Vous créez un plan de force en forme d'épée qui flotte à portée. Il persiste pendant la durée du sort.\n\nLorsque l'épée apparaît, vous effectuez une attaque de sort de mêlée contre la cible de votre choix à 5 ft. de l'épée. Si vous touchez, la cible subit 3d10 dégâts de force. Jusqu'à la fin du sort, vous pouvez utiliser une action bonus à la fin de chacun de vos tours pour déplacer l'épée de jusqu'à 20 ft. vers un espace que vous pouvez voir et répéter cette attaque contre la même cible ou une autre.\n",
+        "path": "07/Épée de Mordenkainen"
+    },
     "Couronne d'Étoiles": {
         "level": "7",
         "school": "Évocation",
@@ -2281,6 +2304,33 @@
         "description": "Vous prononcez un mot de pouvoir et votre contenant s'emplit du liquide de votre choix, qui peut être consommé pour une action. La boisson est délicieuse et satisfait la soif de son buveur pendant 24 heures. De plus, pour une heure après avoir consommé le breuvage, le buveur à l'avantage aux jets de sauvegarde qu'il effectue pour éviter ou terminer l'effet [[Apeuré]]. Si la boisson n'est pas consommée dans l'heure de son invocation, elle perds sa magie et devient de l'eau ordinaire.\n\nUne créature ne peut bénéficier de plus d'un breuvage légendaire par période de 24 heures.\n",
         "path": "cantrips/Breuvage Légendaire"
     },
+    "Épine d'Ombre": {
+        "level": "0",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "10 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Shadowthorn",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "MagedeGuerre",
+            "Magicien",
+            "Occultiste",
+            "Ensorceleur",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous reculez et invoquez une pique d'ombre, essayant d'empaler et repousser une créature à portée. Réalisez une attaque de sort de mêlée contre la cible. Si vous touchez, la cible subit 1d6 dégâts perçants et est repoussée de 5 ft.\n\nLes dégâts de ce sort augmentent de 1d6 lorsque vous atteignez le niveau 5 (2d6), le niveau 11 (3d6) et le niveau 17 (4d6).",
+        "path": "cantrips/Épine d'Ombre"
+    },
     "Chair de Poule": {
         "level": "0",
         "school": "Nécromancie",
@@ -4055,6 +4105,31 @@
         ],
         "description": "Ciblez une créature consentante que vous pouvez voir à portée qui possède une vitesse de vol. Cette créature bénéficie des effets suivants pendant la durée du sort : \n\n - La cible peut utiliser son action bonus pour Foncer.\n - La cible peut réaliser du vol stationnaire.\n - La cible a l'avantage aux jets de Dextérité (Acrobatie).\n - La cible ne provoque pas d'attaques d'opportunité lorsqu'elle sort de l'allonge d'un ennemi en volant.\n",
         "path": "02/Aisance Aérienne"
+    },
+    "Épine Mentale": {
+        "level": "2",
+        "school": "Divination",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Mind Spike",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Vous apprenez à pénétrer l'esprit d'une créature que vous pouvez voir à portée. La cible doit effectuer un jet de sauvegarde de Sagesse, subissant 3d8 dégâts psychiques en cas d'échec, et la moitié en cas de réussite. En cas d'échec, vous connaissez la position de la cible à tout instant jusqu'à ce que le sort se termine, mais seulement si vous vous trouvez sur le même plan. Tant que vous avez cette connaissance, la cible ne peut pas se Cacher de vous et, si elle est [[invisible]], elle ne bénéficie pas de cet état vis-à-vis de vous.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de niveau 3 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 2.",
+        "path": "02/Épine Mentale"
     },
     "Éclair Sombre": {
         "level": "2",
