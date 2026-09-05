@@ -9050,6 +9050,29 @@
         "description": "De l'énergie nécromantique envahit une créature de votre choix que vous pouvez voir à portée, la drainant de son humidité et de sa vitalité. La cible doit effectuer un jet de sauvegarde de Constitution. La cible subit 8d8 dégâts nécrotiques si elle rate, et la moitié en cas de succès. Le sort n'a aucun effet sur les morts-vivants ou les constructions.\n\nSi la cible est une créature botanique ou une plante magique, elle effectue le jet de sauvegarde avec désavantage, et le sort lui inflige les dégâts maximaux.\n\nSi vous ciblez une plante non magique qui n'est pas une créature, comme un arbre ou un buisson, elle n'effectue pas de jet de sauvegarde, elle fane et meurt.\n\n**Aux Niveaux Supérieurs**. Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou supérieur, les dégâts augmentent de 1d8 pour chaque niveau d'emplacement de sort au-delà du niveau 4.\n",
         "path": "04/Flétrissement"
     },
+    "Entrée Mortelle": {
+        "level": "4",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une petite clé brisée",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Deadly Doorway",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste",
+            "Nécromancien"
+        ],
+        "description": "Lorsque vous lancez ce sort, vous touchez une porte, un passage, une fenêtre ou toute autre structure représentant le passage entre deux emplacements. Vous pouvez prononcer un mot, une phrase, ou décrire une action ou une activité qui doit être prononcé ou effectué pour prodiguer un passage sécurisé à travers la porte. La première créature qui ne réalise pas l'action demandée en traversant le passage doit réussir un jet de sauvegarde de Charisme ou subir 5d10 dégâts nécrotiques et être [[paralysé|paralysée]] jusqu'au début de son prochain tour. Une créature tuée par ces dégâts est instantanément transformée en poussière, laissant derrière elle toutes ses possessions.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts augmentent de 2d10 par niveau d'emplacement au-delà du niveau 4.\n",
+        "path": "04/Entrée Mortelle"
+    },
     "Chanson Discordante": {
         "level": "4",
         "school": "Évocation",
