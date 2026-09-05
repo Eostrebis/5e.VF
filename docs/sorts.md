@@ -597,7 +597,7 @@ spells: "true"
 | Resurrection                         | [[Résurrection]]                          |
 | Reverse Gravity                      | [[Renversement de la Gravité]]            |
 | Revivify                             | [[Retour à la Vie]]                       |
-| Rime's Binding Ice                   | [[Entraves de Givre de Rime]]             |
+| Rime's Binding Ice                   | [[Entraves de Givre]]             |
 | Rimesworn Blade                      | [[Lame Glaciale]]                         |
 | Rope Trick                           | [[Corde Enchantée]]                       |
 | Ruby-Eye Curse                       | [[Malédiction de l’Œil Rouge]]            |
