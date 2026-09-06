@@ -4010,6 +4010,29 @@
         "description": "Alors que des instruments spectraux apparaissent autour de vous, vous commencez à chanter une chanson bien connue, et les autres se sentent obligés de vous rejoindre. Pendant la durée du sort, lorsqu'une créature s'approche à moins de 30 ft. de vous ou y commence son tour, elle doit réussir un jet de sauvegarde de Sagesse ou commencer à chanter avec vous. Une créature qui chante imite le ton et les mots de la chanson aussi bien qu'elle le peut, même si elle n'en parle pas la langue.\n\nDe plus, elle ne peut pas parler normalement (même si elle peut communiquer par télépathie) et ne peut pas réaliser de composantes verbales des sorts. Les créatures qui ne peuvent pas être [[Charmé|charmées]] sont immunisées contre ce sort.\n\nA la différence des autres sorts, vous pouvez vous concentrer à la fois sur ce sort et sur [[danse irrésistible]]. Perdre votre concentration sur l'un des deux sorts signifie perdre votre concentration sur les deux.\n",
         "path": "02/Karaoké Forcé de Tyra"
     },
+    "Esprit de Soin": {
+        "level": "2",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Healing Spirit",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ranger"
+        ],
+        "description": "Vous faites appel à un esprit naturel qui apaise les blessés. L'esprit intangible apparaît dans un espace qui est un cube de 5 ft. que vous choisissez à portée. L'esprit ressemble à une bête ou un fey transparent de votre choix.\n\nJusqu'à ce que le sort termine, à chaque fois que vous ou une créature que vous pouvez voir se déplace dans l'espace de l'esprit pour la première fois pendant son tour ou y commence son tour, vous pouvez choisir de faire restaurer 1d6 points de vie à la créature par l'esprit (aucune action). L'esprit ne peut soigner ni les constructions ni les morts-vivants.\n\nPour une action bonus pendant votre tour, vous pouvez déplacer l'Esprit de jusqu'à 30 ft. vers un espace que vous pouvez voir. L'esprit peut soigner un nombre de fois égal à 1 + votre modificateur de caractéristique d'incantation (au minimum 2). Après avoir soigné autant de fois, l'esprit disparaît.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 3 ou plus, le soin augmente de 1d6 par niveau d'emplacement au-delà du niveau 2.\n",
+        "path": "02/Esprit de Soin"
+    },
     "Agrandissement ou Rapetissement": {
         "level": "2",
         "school": "Transmutation",
@@ -10366,6 +10389,33 @@
         ],
         "description": "Vous créez une porte d'ombre sur une surface plane solide que vous pouvez voir à portée. La porte est suffisamment large pour permettre à des créatures de taille M de passer sans encombre. Lorsqu'elle est ouverte, la porte mène vers un demi-plan qui apparaît comme une pièce de 30 ft. dans toutes les dimensions, faite de bois ou de pierre. Lorsque le sort se termine, la porte disparaît et tous les objets et créatures à l'intérieur du demi-plan s'y retrouvent coincés là, la porte disparaissant aussi de l'autre côté. \n\nChaque fois que vous lancez ce sort, vous pouvez créer un nouveau demi-plan ou faire en sorte que la porte d'ombre se connecte à un demi-plan que vous avez créé avec une précédente incantation du sort. De plus, si vous connaissez la nature et le contenu d'un demi-plan créé par l'incantation de ce sort par une autre créature, vous pouvez faire en sorte que votre porte se connecte à ce demi-plan à la place.\n",
         "path": "08/Demi-Plan"
+    },
+    "Esprit Faible": {
+        "level": "8",
+        "school": "Enchantement",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une poignée d'argile, de petites sphères de cristal, de verre ou de minéraux",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "150 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Feeblemind",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Nécromancien",
+            "Barde",
+            "Druide",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Vous balayez l'esprit d'une créature que vous pouvez voir à portée, tentant de détruire son intellect et sa personnalité. La cible subit 4d6 dégâts psychiques et doit réaliser un jet de sauvegarde d'Intelligence.\n\nEn cas d'échec, les scores d'Intelligence et de Charisme de la créatures tombent à 1. La créature ne peut pas lancer de sort, activer d'objet magique, comprendre une langue ou communiquer de quelque façon que ce soit. La créature peut, cependant, identifier ses amis, les suivre et les protéger.\n\nTous les 30 jours, la créature peut répéter son jet de sauvegarde contre le sort. Le sort se termine en cas de réussite. Le sort peut également être terminé par une [[restauration supérieure]], une [[guérison]], ou un [[souhait]].\n",
+        "path": "08/Esprit Faible"
     },
     "Dragon Illusoire": {
         "level": "8",
