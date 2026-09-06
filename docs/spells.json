@@ -8196,6 +8196,30 @@
         "description": "Votre magie et une offrande vous met en contact avec un dieu ou un de ses serviteurs. Vous pouvez poser une seule question concernant un objectif, un évènement ou une activité spécifique qui se déroulera dans les 7 prochains jours. Le MJ vous donne une réponse honnête. La réponse peut néanmoins être une courte phrase, un poème cryptique ou un présage.\n\nLe sort ne prend pas en compte les possibles circonstances qui viendrait perturber l'issue, comme l'incantation d'un autre sort ou la perte/gain d'un compagnon.\n\nSi vous lancez ce sort deux fois ou plus avant d'avoir terminé un repos long, il y a une probabilité cumulative de 25 pourcents qui vous obteniez une réponse aléatoire. Le MJ réalise ce jet en secret.\n",
         "path": "04/Divination"
     },
+    "Épine Sanglante": {
+        "level": "4",
+        "school": "Nécromancie",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une épine",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "",
+        "Rituel": "",
+        "englishname": "Bloodthorn",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ranger",
+            "Sorcière"
+        ],
+        "description": "Vous imprégnez une épine d'un enchantement mortel et la projetez vers une créature que vous pouvez voir à portée. Réalisez une attaque de sort à distance. Si vous touchez, la cible subit 5d10 dégâts perçants et vous pouvez choisir une cible additionnelle que l'épine sanglante ciblera, répétant la même attaque contre une cible différente à 60 ft. de la précédente et en utilisant la nouvelle position de l'épine pour déterminer la couverture de la nouvelle cible. Vous répétez ces actions jusqu'à 3 fois ou que l'attaque n'échoue. Une créature ne peut pas être ciblée plus d'une fois.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, les dégâts perçants augmentent de 1d10 par niveau d'emplacement au-delà du niveau 4.",
+        "path": "04/Épine Sanglante"
+    },
     "Intensification de la Gravité": {
         "level": "4",
         "school": "Transmutation",
@@ -11711,6 +11735,30 @@
         ],
         "description": "Choisissez une créature consentante que vous pouvez voir à portée. Jusqu'à ce que le sort se termine, la vitesse de la cible est doublée, elle gagne un bonus de +2 à la CA, a l'avantage aux jets de sauvegarde de Dextérité et peut utiliser une action supplémentaire à chacun de ses tours. Cette action ne peut être utilisée que pour Attaquer (une unique attaque armée), Foncer, Se Désengager, Se Cacher ou Utiliser un Objet.\n\nLorsque le sort se termine, la cible ne peut ni se déplacer ni entreprendre d'actions jusqu'à la fin de son prochain tour, alors qu'une vague de léthargie l'envahit.\n",
         "path": "03/Célérité"
+    },
+    "Éruption de Terre": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un morceau d'obsidienne",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Erupting Earth",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Choisissez un point que vous pouvez voir au sol à portée. Une fontaine de roches et de pierres calcinées érupte dans un cube de 20 ft. centré sur ce point. Chaque créature dans la zone doit effectuer un jet de sauvegarde de Dextérité. Une créature subit 3d12 dégâts contondants en cas d'échec et la moitié en cas de réussite. De plus, le sol dans la zone devient du terrain difficile jusqu'à ce qu'il soit balayé. Chaque surface de 5 ft.² requiert 1 minute pour être balayée à la main.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts augmentent de 1d12 par niveau d'emplacement au-delà du niveau 3.\n",
+        "path": "03/Éruption de Terre"
     },
     "Amitié Rapide": {
         "level": "3",
