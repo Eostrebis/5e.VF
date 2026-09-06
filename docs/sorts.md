@@ -518,7 +518,7 @@ spells: "true"
 | Mystic Barrier of Drum               | [[Barrière Mystique Tambourine]]          |
 | Mystic Lock                          | [[Verrou Mystique]]                       |
 | Mystic Rebuke                        | [[Représailles Mystiques]]                |
-| Nathair's Mischief                   | [[Espièglerie de Nathair]]                |
+| Nathair's Mischief                   | [[Espièglerie]]                |
 | Negative Energy Flood                | [[Innondation d'Énergie Négative]]        |
 | Nemesis                              | [[Némésis]]                               |
 | Nether Seal                          | [[Sceau du Vide]]                         |
