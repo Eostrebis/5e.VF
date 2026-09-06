@@ -4300,6 +4300,31 @@
         "description": "Ce sort crée une force invisible et sans forme qui réalise des tâches intellectuelles à votre demande jusqu'à ce que le sort se termine. Le serviteur apparaît dans un espace inoccupé, au sol, à portée. Il a une CA de 10, 1 point de vie, une Intelligence de 12 et ne peut pas attaquer. S'il tombe à 0 point de vie, le sort se termine.\n\nUne fois à chacun de vos tours, pour une action bonus, vous pouvez lui ordonner mentalement de se déplacer de jusqu'à 15 ft. et d'interagir avec un objet. Le comptable peut réaliser les tâches intellectuelles qu'un employé de bureau humain pourrait réaliser, comme estimer des prix, mettre à jour des comptes, gérer des inventaires ou calculer des intérêts. Une fois que vous avez donné un ordre, le comptable le réalise du mieux qu'il peut, puis attend la prochaine commande. Le comptable ne peut pas réaliser de travail physique et ne peut pas lever d'objets plus lourds que 500 g.\n\nSi vous demandez au comptable de se déplacer à plus de 300 ft. de vous, le sort se termine.\n",
         "path": "02/Comptable Invisible"
     },
+    "Espièglerie": {
+        "level": "2",
+        "school": "Illusion",
+        "Verbal": "false",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un morceau de croûte de tarte aux pommes",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "60 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Nathair's Mischief",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Ensorceleur",
+            "Magicien",
+            "MagedeGuerre"
+        ],
+        "description": "Vous remplissez un cube de 20 ft. de côté que vous pouvez voir à portée de magie féérique et draconique. Tirez dans la table d'Explosion Espiègle afin de déterminer l'effet magique produit, et retirez au début de chacun de vos tours jusqu'à ce que le sort se termine. Vous pouvez déplacer le cube de 10 ft. avant de tirer.\n\n__Explosion Espiègle.__\n\n| d4  | Effet                                                                                                                                                                                                                                                                               |\n| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |\n| 1   | Une odeur de tarte aux pommes remplit l'air et chaque créature dans le cube doit réussir un jet de sauvegarde de Sagesse ou être [[charmé\\|charmée]] par vous jusqu'au début de votre prochain tour.                                                                                |\n| 2   | Des bouquets de fleurs apparaissent dans tout le cube, et les créatures dans le cube doivent réussir un jet de sauvegarde de Dextérité ou être [[aveuglé\\|aveuglées]] jusqu'au début de votre prochain tour alors que les bouquets les aspergent d'eau.                             |\n| 3   | Chaque créature dans le cube doit réussir un jet de sauvegarde de Sagesse ou tomber dans un fou rire jusqu'au début de votre prochain tour. Une créature en fou rire est [[incapacité\\|incapacitée]] et utilise tout son déplacement pour se déplacer dans une direction aléatoire. |\n| 4   | Des gouttes de molasses apparaissent et flottent dans le cube, le transformant en terrain difficile jusqu'au début de votre prochain tour.                                                                                                                                          |\n",
+        "path": "02/Espièglerie"
+    },
     "Rechargement Instantané de Jethro": {
         "level": "2",
         "school": "Conjuration",
