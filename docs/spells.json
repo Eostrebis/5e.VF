@@ -10750,6 +10750,31 @@
         "description": "Vous prenez le contrôle de la météo dans les 8 km autour de vous pendant la durée du sort. Vous devez vous trouver à l'extérieur lorsque vous lancez ce sort. Vous déplacer vers un endroit où vous perdriez une ligne de vue claire vers le ciel termine le sort prématurément.\n\nLorsque vous lancez ce sort, vous pouvez altérer les conditions météorologiques, qui sont déterminées par le MJ en fonction du climat et de la saison. Vous pouvez changer les précipitations, la température et les vents. Cela prend 1d4 $\\times$ 10 minutes pour que les nouvelles conditions prennent effet. Une fois que c'est le cas, vous pouvez changer les conditions à nouveau. Lorsque le sort se termine, les conditions reviennent progressivement à la normale.\n\nLorsque vous changez les conditions météorologiques, identifiez la situation actuelle dans les tables ci-dessous. Vous pouvez modifier son état d'un cran vers le haut ou vers le bas. Lorsque vous modifiez les vents, vous pouvez modifier leur direction.\n\n| Précipitation | |\n| ------------- | ------------------------------------------------ |\n| Étape 1 | Ciel bleu |\n| Étape 2 | Quelques nuages<br> |\n| Étape 3 | Ciel couvert ou brouillard au sol |\n| Étape 4 | Pluie, grêle ou neige |\n| Étape 5 | Pluie torrentielle, tempête de grêle ou blizzard |\n\n| Température | |\n| ----------- | -------------- |\n| Étape 1 | Canicule |\n| Étape 2 | Chaud<br> |\n| Étape 3 | Tempéré |\n| Étape 4 | Frais |\n| Étape 5 | Froid |\n| Étape 6 | Froid arctique |\n\n| Vent | |\n| ------- | ----------- |\n| Étape 1 | Calme |\n| Étape 2 | Vent modéré |\n| Étape 3 | Vent fort |\n| Étape 4 | Rafales |\n| Étape 5 | Tempête |\n\n\n",
         "path": "08/Contrôle du Climat"
     },
+    "Esprit Impénétrable": {
+        "level": "8",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "24 Heures",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Mind Blank",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Sorcière",
+            "Nécromancien",
+            "Barde",
+            "Magicien"
+        ],
+        "description": "Jusqu'à ce que le sort termine, une créature consentante que vous touchez devient immunisée aux dégâts psychiques, à tous les effets qui ressentent ses émotions ou lisent ses pensées ainsi qu'à l'état [[charmé]]. Le sort protège même contre les sorts de [[souhait]] et autres effets au pouvoir similaire qui affecteraient l'esprit de la cible ou essayerait d'obtenir des informations à son sujet.\n",
+        "path": "08/Esprit Impénétrable"
+    },
     "Châtiment Permanent": {
         "level": "3",
         "school": "Nécromancie",
