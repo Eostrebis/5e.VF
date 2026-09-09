@@ -10272,6 +10272,31 @@
         "description": "Vous créez une sphère d'un brouillard jaune-vert empoisonné d'un rayon de 20 ft., centrée sur un point que vous choisissez à portée. Le brouillard se diffuse autour des angles. Il persiste pendant la durée du sort ou jusqu'à ce qu'un vent fort ne le disperse, terminant le sort. La zone de la sphère est fortement obscurée.\n\nLorsqu'une créature entre dans la zone du sort pour la première fois pendant un tour ou qu'elle y commence son tour, la créature doit effectuer un jet de sauvegarde de Constitution. La créature subit 5d8 dégâts de poison si elle échoue et la moitié en cas de réussite. Les créatures sont affectées même si elles retiennent leur respiration ou n'ont pas besoin de respirer.\n\nLe brouillard s'éloigne de vous de 101 ft. au début de chacun de vos tours, suivant la surface du sol. Les vapeurs, plus lourdes que l'air, *coulent* et se déversent dans les ouvertures.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d8 par niveau d'emplacement au-delà du niveau 5.\n\n\n",
         "path": "05/Brume Mortelle"
     },
+    "Étoile Filante": {
+        "level": "5",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "600 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Falling Star",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Paladin",
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous créez une fraction du pouvoir céleste d'une étoile au-dessus d'un point à portée et la faites descendre et s'écraser au sol dans un rayon de 40 ft. Toutes les créatures dans la zone doivent effectuer un jet de sauvegarde de Constitution. Si elle échoue, la créature subit 6d46 dégâts radiants, et seulement la moitié en cas de réussite. Ce sort crée une lumière vive dans un rayon de 100 ft. jusqu'à la fin de votre prochain tour. Cette lumière est considérée comme une lumière du soleil naturelle.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou plus, les dégâts augmentent de 1d6 par niveau d'emplacement au-delà du niveau 5.\n",
+        "path": "05/Étoile Filante"
+    },
     "Arme Sacrée": {
         "level": "5",
         "school": "Conjuration",
