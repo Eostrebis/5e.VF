@@ -8880,6 +8880,29 @@
         "description": "Lorsque vous lancez ce sort, trois tentacules d'eau apparaissent autour de votre corps pendant la durée du sort. Pendant l'action que vous utilisez pour lancer ce sort, et pour une action bonus pendant vos prochains tours jusqu'à ce que le sort se termine, vous pouvez ordonner à l'un de ces tentacules de Saisir une créature de taille G ou inférieure que vous pouvez voir à 30 ft. La cible doit réussir un jet de sauvegarde de Force ou être [[Saisi|saisie]] et [[Retenu|retenue]] par le tentacule. A la fin de chacun de ses tours, une cible retenue peut répéter le jet de sauvegarde.\n\nVous pouvez Saisir autant de créatures que vous avez de tentacules. Vous pouvez utiliser une action ou une action bonus pendant votre tour pour libérer une créature ou pour la traîner de jusqu'à 20 ft. dans la direction choisie.\n\nVous pouvez également utiliser les tentacules pour manipuler les objets comme action ou action bonus. Chaque tentacule peut soulever jusqu'à 50 kg et vous pouvez ordonner à plusieurs tentacules de travailler ensemble pour soulever un même objet. Les tentacules ne sont pas capables de contrôles précis -- par exemple, ils ne peuvent pas ouvrir un coffre. Les objets en train de brûler sont éteints lorsqu'un tentacule les saisit.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous gagnez un tentacule supplémentaire par niveau d'emplacement au-delà du niveau 4.\n",
         "path": "04/Tentacules Aquatiques"
     },
+    "Fabrication": {
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "Instantanée",
+        "Incantation": "10 Minutes",
+        "Portee": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Fabricate",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Artificier",
+            "Magicien"
+        ],
+        "description": "Vous convertissez des matières premières en produits du même matériel. Par exemple, vous pouvez fabriquer un pont en bois à partir d'un bosquet d'arbre, une corde d'une parcelle de chanvre et des vêtements de lin ou de laine.\n\nChoisissez des matières premières que vous pouvez voir à portée. Vous pouvez fabriquer un objet de taille G ou inférieure (contenu dans un cube de 10 ft. ou dans 8 cubes de 5 ft. connectés), si vous avez la quantité suffisante de matières premières. Si vous travaillez avec du métal, de la pierre ou une autre substance minérale, cependant, l'objet fabriqué ne peut pas être d'une taille supérieure à M. La qualité des objets réalisés par ce sort est corrélée par la qualité des matières premières.\n\nLes créatures ou objets magiques ne peuvent être créés ou transmutés par ce sort. Vous ne pouvez pas non plus pour créer des objets qui ne requièrent un haut niveau d'artisanat, comme des bijoux, des armes, du verre ou de l'armure, sauf si vous maîtrisez les outils d'artisan associés à ce type d'objet.\n",
+        "path": "04/Fabrication"
+    },
     "Tentacules Noirs": {
         "level": "4",
         "school": "Conjuration",
@@ -10441,6 +10464,28 @@
         ],
         "description": "Vous balayez l'esprit d'une créature que vous pouvez voir à portée, tentant de détruire son intellect et sa personnalité. La cible subit 4d6 dégâts psychiques et doit réaliser un jet de sauvegarde d'Intelligence.\n\nEn cas d'échec, les scores d'Intelligence et de Charisme de la créatures tombent à 1. La créature ne peut pas lancer de sort, activer d'objet magique, comprendre une langue ou communiquer de quelque façon que ce soit. La créature peut, cependant, identifier ses amis, les suivre et les protéger.\n\nTous les 30 jours, la créature peut répéter son jet de sauvegarde contre le sort. Le sort se termine en cas de réussite. Le sort peut également être terminé par une [[restauration supérieure]], une [[guérison]], ou un [[souhait]].\n",
         "path": "08/Esprit Faible"
+    },
+    "Étoile Sombre": {
+        "level": "8",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un éclat d'onyx et une goutte de sang du lanceur, les deux consommées par le sort",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "150 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Dark Star",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Magicien"
+        ],
+        "description": "Ce sort crée une sphère centrée sur un point que vous choisissez à portée. La sphère peut avoir un rayon de jusqu'à 40 ft. La zone à l'intérieur de la sphère est remplie de ténèbres magiques et d'une force gravitationnelle écrasante.\n\nPendant la durée du sort, la zone du sort est considérée terrain difficile. Une créature avec la vision dans le noir ne peut pas voir au travers de ces ténèbres magiques et une lumière non magiques ne peut l'illuminer. Aucun son ne peut être créé ou pénétrer dans la zone. Toute créature ou objet entièrement à l'intérieur de la sphère est immunisée aux dégâts de tonnerre et les créatures sont également [[assourdi|assourdies]] tant qu'elles s'y trouvent. Lancer un sort qui requiert une composante verbale est impossible à l'intérieur de cette zone.\n\nToute créature qui pénètre dans la zone du sort pour la première fois pendant le tour ou y commence son tour doit effectuer un jet de sauvegarde de Constitution. La créature subit 8d10 dégâts de force en cas d'échec ou la moitié en cas de succès. Une créature réduite à 0 point de vie par ces dégâts est désintégrée. Une créature désintégrée et tout ce qu'elle porte ou manie, sauf les objets magiques, sont réduits en une pile de poussière fine et grise.\n",
+        "path": "08/Étoile Sombre"
     },
     "Dragon Illusoire": {
         "level": "8",
@@ -12107,6 +12152,33 @@
         ],
         "description": "Ce sort confère à une créature que vous touchez la capacité de comprendre n'importe quelle langue qu'elle entend. De plus, lorsque la cible parle, toute créature qui connaît au moins une langue et peut entendre la cible la comprend.\n",
         "path": "03/Don des Langues"
+    },
+    "Explosion de Venin": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un croc de serpent",
+        "Duree": "Instantanée",
+        "Incantation": "1 Action",
+        "Portee": "120 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Venom Blast",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ranger",
+            "Ensorceleur",
+            "Magicien",
+            "Sorcière",
+            "Nécromancien"
+        ],
+        "description": "Vous gesticulez afin d'appeler un serpent éthéré en un point à portée et parlez, ordonnant à la bête de libérer un venin puissant. Les créatures dans un rayon de 15 ft. du serpent doivent effectuer un jet de sauvegarde de Constitution. Si elle échoue, une créature est [[empoisonné|empoisonnée]] pendant 1 minute et subir 6d6 dégâts de poison. Si elle réussit, la créature ne subit que la moitié des dégâts et n'est pas [[empoisonné|empoisonnée]]. Une créature qui est [[empoisonné|empoisonnée]] par ce sort peut répéter ce jet de sauvegarde à la fin de chacun de ses tours, terminant l'état en cas de succès.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts de poison augmentent de 1d6 par niveau d'emplacement au-delà du niveau 3.\n",
+        "path": "03/Explosion de Venin"
     },
     "Protection d'Absorption": {
         "level": "3",
