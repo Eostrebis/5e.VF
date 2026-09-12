@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" width="1536" height="1748" viewBox="0 0 200 200">
+  <defs>
+    <clipPath id="shield_367619984">
+      <path d="M25 135 V60 l22-13 16-37 h75 l15 37 22 13 v75l-22 18-16 37 H63l-16-37z"/>
+    </clipPath>
+    <style>.secondary {
+      fill: var(--secondary);
+    }
+    .tertiary {
+      fill: var(--tertiary);
+    }</style>
+    <linearGradient id="luster" x1="0%" y1="100%" x2="95%" y2="10%">
+      <stop stop-color="#000" stop-opacity=".3" offset="0"/>
+      <stop stop-color="#ccc" stop-opacity="0" offset=".8"/>
+      <stop stop-color="#fff" stop-opacity=".2" offset="1"/>
+    </linearGradient>
+    <g id="lanceHead" stroke-width=".5" transform="matrix(0.9,0,0,0.9,-4.7,-15.1)" author="Orror" source="https://commons.wikimedia.org/wiki/File:Meuble_h%C3%A9raldique_Fer_de_lance.svg" license="https://www.gnu.org/licenses/fdl-1.3.html">
+      <path d="M116.25 84.13v.59L98.5 140.56s4.21 0 8.13 3.9c3.9 3.92 4.25 8.16 4.25 8.16h10.93s.3-4.24 4.22-8.15c3.91-3.91 8.16-3.9 8.16-3.9l-17.75-55.85v-.6l-.1.29-.09-.28z"/>
+      <path d="M116.42 100.12v52.5"/>
+      <rect width="15.6" height="3.3" x="108.6" y="152.6" ry="1.7"/>
+      <path d="M111.22 155.88l-1.97 15.65h14.5l-1.94-15.5-10.6-.16z"/>
+    </g>
+    <style xmlns="http://www.w3.org/1999/xhtml" type="text/css"></style>
+  </defs>
+  <g clip-path="url(#shield_367619984)">
+    <rect class="field" x="0" y="0" width="200" height="200" fill="#ffe066"/>
+    <g class="ordinary" i="0" fill="#333333" stroke="none" stroke-width="1">
+      <g>
+        <rect x="0" y="145" width="200" height="55"/>
+      </g>
+    </g>
+    <g class="ordinary" i="1" fill="#377cd7" stroke="none" stroke-width="1">
+      <g>
+        <path d="m 0,115 v -15 h 85 v 15 h 30 v -15 h 85 v 15" transform="translate(0,-22.5)"/>
+        <path d="m 0,115 v -15 h 85 v 15 h 30 v -15 h 85 v 15" transform="translate(0,22.5) rotate(180.00001 100 100)"/>
+      </g>
+    </g>
+    <g class="charge" i="0" charge="lanceHead" fill="#377cd7" stroke="#000" style="--secondary: #377cd7; --tertiary: #377cd7;">
+      <use xlink:href="#lanceHead" transform="translate(10 190) scale(0.9 -0.9)"/>
+    </g>
+  </g>
+  <path class="grad" d="M25 135 V60 l22-13 16-37 h75 l15 37 22 13 v75l-22 18-16 37 H63l-16-37z" fill="url(#luster)" stroke="#333333" stroke-width="1" style="pointer-events: none;"/>
+</svg>

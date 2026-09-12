@@ -1,0 +1,567 @@
+/* Palette de couleurs pour le mode dark */
+[data-md-color-scheme="slate"] {
+  --bg: #1B1A1D;
+  --banner: #B89F6A;
+  --table: #A67C52;
+  --primary: #9B1C31 ;  
+  --accent: #A67C52;
+  --base-block: #2A2A2E;
+  --title: #B89F6A;
+  --title-accent : #A67C52;
+  
+  --md-primary-fg-color: var(--primary);
+  --md-accent-fg-color: var(--accent);
+  --md-default-bg-color: var(--bg);
+  --md-primary-bg-color: var(--banner);
+  --md-typeset-table-color: var(--table);
+}
+
+/* Palette de couleurs pour le mode normal */
+[data-md-color-scheme="default"] {
+  --bg: #F3E8D9;
+  --banner: #A67C52;
+  --table: #A67C52;
+  --primary: #1B1A1D;  
+  --accent: #A67C52;
+  --base-block: #C4C4C4;
+  --title: #1B1A1D;
+  --title-accent : #9B1C31;
+  
+  --md-primary-fg-color: var(--primary);
+  --md-accent-fg-color: var(--accent);
+  --md-default-bg-color: var(--bg);
+  --md-primary-bg-color: var(--banner);
+  --md-typeset-table-color: var(--table);
+}
+
+:root {
+  --md-primary-fg-color: var(--primary);
+  --md-accent-fg-color: var(--accent);
+  --md-default-bg-color: var(--bg);
+  --md-primary-bg-color: var(--banner);
+  --md-typeset-table-color: var(--table);
+  --md-admonition-icon--figure:;
+  --md-admonition-icon--figure-right:;
+  --md-admonition-icon--figure-left:;
+
+}
+
+
+
+.admonition.figure {
+	padding: .5em;
+	margin: .5em;
+	background-color: var(--bg);
+	border: none;
+	box-shadow: none;
+	max-width: 40%;
+  	margin-left: auto !important;
+  	margin-right: auto !important;
+}
+
+.md-main__inner.md-grid {
+    max-width: initial;
+}
+
+.figure > .admonition-title,
+.figure-right > .admonition-title,
+.figure-left > .admonition-title {
+	padding: 0;
+	margin: 0;
+	background-color: var(--md-default-bg-color);
+}
+
+.figure > .admonition-title::before,
+.figure-right > .admonition-title::before,
+.figure-left > .admonition-title::before {
+	visibility: hidden;
+}
+
+.admonition.figure-right {
+	padding: .5em;
+	margin: .5em;
+	float: right;
+	width: 50%;
+	background-color: var(--md-default-bg-color);
+	border: none;
+	box-shadow: none;
+	max-width: 40%;
+  	margin-left: auto !important;
+  	margin-right: auto !important;
+}
+
+.admonition.figure-left {
+	padding: .5em;
+	margin: .5em;
+	float: left;
+	width: 50%;
+	background-color: var(--bg);
+	border: none;
+	box-shadow: none;
+	max-width: 40%;
+  	margin-left: auto !important;
+  	margin-right: auto !important;
+}
+
+.base-block {
+  background: var(--base-block);
+} 
+
+.md-content {
+  text-align:justify;
+}
+
+.md-typeset a {
+  color: var(--banner);
+}
+
+.md-typeset a:hover {
+  color: var(--accent);
+}
+
+.base-block:hover{
+  border: 10px solid var(--primary);
+}
+
+.base-name{
+  color: var(--accent);
+}
+
+.md-typeset h1 {
+  color: var(--title);
+  font-weight: bold; 
+  border-bottom: 3px solid var(--banner);
+}
+
+.md-typeset h2 {
+  color: var(--accent);
+  font-weight: bold;
+}
+
+.md-typeset h3 {
+  color: var(--primary);
+  border-left: 4px solid var(--title-accent);
+  padding-left: 10px;
+}
+
+.base-block:hover .base-content {
+  color: var(--accent)
+}
+
+.md-typeset a {
+   transition: color .8s;
+}
+
+.md-nav__link--active{
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+/* --- Filtrage des cartes --- */
+.filter-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  flex-wrap: wrap; /* Pour que ça passe sur mobile */
+}
+
+.filter-select, .filter-btn {
+  padding: 10px 15px;
+  border-radius: 8px;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  background: rgba(0, 0, 0, 0.3); /* Fond sombre transparent */
+  color: white;
+  font-family: sans-serif;
+  font-size: 1rem;
+  cursor: pointer;
+  outline: none;
+}
+
+.filter-select option {
+  background: #333; /* Fond des options */
+  color: white;
+}
+
+.filter-btn {
+  background: var(--title-accent);
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.filter-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Classe utilitaire pour cacher les cartes */
+.hidden {
+  display: none !important;
+}
+
+/* --- 1. La Grille (Responsive) --- */
+.class-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+  gap: 25px;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+/* --- 1. La Carte (Conteneur) --- */
+.class-card {
+  display: flex;
+  flex-direction: column;
+  background-color: #000; /* Fond noir par sécurité derrière l'image */
+  border-radius: 8px;
+  overflow: hidden;
+  text-decoration: none;
+  color: #333;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  border-top: 5px solid var(--accent-color);
+  height: 100%;
+  position: relative; /* Indispensable pour positionner l'image en absolu */
+}
+
+/* Le texte qui apparaît par-dessus l'image */
+.class-card::before {
+  /* Récupère le contenu de l'attribut HTML data-text */
+  content: attr(data-text);
+  
+  /* Positionnement et Marges */
+  position: absolute;
+  inset: 0;
+  padding: 30px; /* Marges importantes pour ne pas toucher les bords */
+  
+  /* Centrage vertical du bloc de texte */
+  display: flex;
+  align-items: center; 
+  justify-content: center;
+  
+  /* --- TYPOGRAPHIE ADAPTÉE POUR 100 MOTS --- */
+  font-family: 'Georgia', serif; 
+  font-size: 0.95rem;   
+  line-height: 1.6;    
+  font-style: italic;   
+  font-weight: normal;  
+  text-transform: none; 
+  text-align: justify;  
+  
+  /* Couleur et Contraste */
+  color: #fff;
+  text-shadow: 0 1px 2px rgba(0,0,0,1); /* Ombre noire pour détacher le texte */
+  
+  /* Animation */
+  z-index: 1; 
+  opacity: 0;
+  transition: opacity 0.4s ease 0.2s; /* Apparition un peu plus lente */
+  pointer-events: none; /* Permet de cliquer "à travers" le texte */
+}
+
+.class-card:hover {
+  box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+}
+
+.class-card:hover::before {
+  opacity: 1;
+}
+
+/* --- 2. L'Image de Fond (Nouvelle classe) --- */
+.card-background {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover; /* Remplit tout l'espace sans déformer */
+  object-position: top center; /* Focus sur le haut (visage) */
+  z-index: 0; /* Tout au fond */
+  transition: transform 0.5s ease, filter 0.3s ease;
+/* 1. Zoom initial : On agrandit l'image par défaut */
+  transform: scale(1.45);
+  transform-origin: 15% 30px;
+  transition: transform 0.6s cubic-bezier(0.25, 0.8, 0.25, 1), 
+              transform-origin 0.6s cubic-bezier(0.25, 0.8, 0.25, 1),
+              filter 0.3s ease;
+}
+
+/* Effet sur l'image au survol */
+.class-card:hover .card-background {
+  transform: scale(1.1); /* Zoom léger */
+  transform-origin: center;
+  filter: brightness(0.4); /* Assombrit pour lire "Voir la fiche" */
+}
+
+/* --- Modification du Titre --- */
+.class-card-title-wrapper {
+  display: flex;
+  align-items: center; /* Centre verticalement le logo par rapport au texte */
+  gap: 12px; /* Espace entre le logo et le bloc de texte */
+  margin-bottom: 8px; /* Espace sous l'en-tête avant les tags */
+}
+
+.class-card-title {
+  /* On active Flexbox pour mettre l'image et le texte côte à côte */
+  display: flex;
+  flex-direction: column; /* Empile le titre et le sous-titre verticalement */
+  align-items: flex-start;
+  text-align: left;
+  
+  /* Vos styles existants conservés */
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.2rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  color: var(--title);
+  letter-spacing: 0.5px;
+}
+
+/* --- Nouvelle classe pour l'icône --- */
+.title-icon {
+  width: 100px;  /* Ajustez la taille selon vos besoins */
+  height: 100px;
+  object-fit: contain; /* Empêche l'image de se déformer */
+  flex-shrink: 0; /* Empêche le logo de s'écraser si le texte est long */
+}
+
+/* --- 3. Le Corps (Bloc Incrusté Asymétrique) --- */
+.class-card-body {
+  padding: 15px;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  
+  margin: 15px 200px 15px 20px; 
+  
+  background-color: var(--bg);
+  border-radius: 8px 8px 8px 8px; 
+  box-shadow: 0 -4px 10px rgba(0,0,0,0.1); 
+  
+  position: relative;
+  z-index: 2; 
+  
+  transition: transform 0.4s cubic-bezier(0.25, 0.8, 0.25, 1);
+}
+
+/* Au survol, on glisse vers la gauche */
+.class-card:hover .class-card-body {
+  transform: translateX(-150%);
+}
+
+/* --- La Ligne de Statistiques --- */
+.dnd-stats-row {
+  display: flex;
+  justify-content: space-between; /* Espace égal entre les 3 éléments */
+  border-top: 1px solid var(--table);
+  border-bottom: 1px solid var(--table);
+  padding: 10px 0;
+  margin-bottom: 12px;
+  background-color: rgba(0,0,0,0.02); /* Fond très léger pour détacher la zone */
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex: 1; /* Chaque item prend la même largeur */
+  text-align: center;
+  /* Petite ligne de séparation entre les items (sauf le dernier) */
+  border-right: 1px solid var(--table); 
+}
+
+.stat-item:last-child {
+  border-right: none;
+}
+
+.stat-label {
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  color: #888;
+  letter-spacing: 0.5px;
+  margin-bottom: 2px;
+  font-weight: 600;
+}
+
+.stat-value {
+  font-size: 0.95rem;
+  font-weight: bold;
+  color: var(--title);
+}
+
+.flip-card-tag {
+  --tag-color: #E0E0E0; 
+  --text-color: #777;
+  --border-color: transparent;
+
+  display: inline-block;
+	
+  background: var(--tag-color);
+  color: var(--text-color);
+  font-weight: var(--weight, normal);
+
+  border: 1px solid var(--border-color);
+  border-right: 0;
+	
+  border-radius: 3px 0 0 3px;
+  line-height: 26px;
+  padding: 0 10px 0 23px;
+  position: relative;
+  margin-right: 15px;
+  margin-bottom: 0px;
+  cursor: default;
+  user-select: none;
+  transition: color 0.2s;
+  z-index: 1;
+}
+.flip-card-tag::before {
+  content: '';
+  position: absolute;
+  background: #fff;
+  border-radius: 50%;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  height: 6px;
+  left: 10px;
+  width: 6px;
+  top: 10px;
+}
+.flip-card-tag::after {
+  content: '';
+  position: absolute;
+  
+  /* Dimensions calculées pour correspondre à une hauteur de 26px */
+  height: 20px; 
+  width: 20px;
+  
+  /* On applique la même couleur de fond que le parent */
+  background: var(--tag-color);
+  
+  /* BORDURES de la pointe : Seulement Haut et Droite */
+  border-top: 1px solid var(--border-color);
+  border-right: 1px solid var(--border-color);
+  
+  /* Rotation de 45° pour faire une pointe */
+  transform: translateY(-50%) rotate(45deg);
+  
+  /* Positionnement précis */
+  top: 50%;
+  right: -10px; /* Ajusté pour que la pointe dépasse */
+  
+  /* Z-index -1 pour qu'il passe SOUS le tag principal 
+     afin de masquer la jointure */
+  z-index: -1; 
+  border-radius: 1.5px;
+}
+
+/* --- VERSION MOBILE (Smartphones < 672px) --- */
+@media screen and (max-width: 672px) {
+
+  /* 1. GRILLE : Une seule colonne */
+  .class-grid {
+    grid-template-columns: 1fr;
+    padding: 10px;
+    gap: 10px;
+  }
+
+  /* 2. CARTE : Version compacte et statique */
+  .class-card {
+    height: auto; /* La hauteur s'adapte au contenu (très important pour réduire la taille) */
+    min-height: 0; /* Sécurité */
+    background-color: var(--bg); /* Fond blanc simple (puisqu'on enlève l'image) */
+    border: 1px solid #e0e0e0; /* Légère bordure pour délimiter */
+    
+    /* On garde la bordure colorée en haut pour l'identité */
+    border-top: 4px solid var(--accent-color); 
+  }
+  
+  /* 3. DÉSACTIVATION DES EFFETS (Hover, Slide, Texte caché) */
+  .class-card::before { display: none; } /* Cache le texte "VOIR LA FICHE" */
+  .class-card:hover .class-card-body,
+  .class-card:hover .class-card-footer { transform: none; } /* Bloque le glissement */
+  .class-card:hover { box-shadow: 0 2px 5px rgba(0,0,0,0.1); transform: none; }
+
+  /* 4. SUPPRESSION DES IMAGES */
+  .card-background { display: none; } /* Supprime la grande image de fond */    
+  .title-icon { display: none; } /* Supprime le logo/icône */
+  .class-card-title-wrapper { margin-bottom: 0px; /* Espace sous l'en-tête avant les tags */ }
+
+  /* 5. CORPS DE TEXTE : Réagencement compact */
+  .class-card-body {
+    /* On annule les marges complexes du mode PC */
+    margin: 0; 
+    padding: 2px 15px 5px 15px; /* Padding réduit */
+    
+    border-radius: 0;
+    box-shadow: none;
+    background: transparent;
+  }
+
+  /* 6. TYPOGRAPHIE & REAGENCEMENT */
+  .stat-label { font-size: 0.5rem; }
+
+  .stat-value { font-size: 0.75rem; }
+
+  .card-header-wrapper { margin-bottom: 5px; } /* Comme le logo est caché, le texte prend toute la place */
+  
+.class-card-title {
+    display: block;          /* On garde un bloc simple */
+    position: relative;      /* Devient le point de repère pour le tag */
+    width: 100%;             /* Prend toute la largeur */
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-right: 70px;     /* IMPORTANT : Marge interne à droite pour éviter que le texte long ne passe SOUS le tag */
+    font-size: 0.9rem;
+  }
+
+  /* 2. Positionnement forcé du Tag à droite */
+  .class-card-title .flip-card-tag {
+    position: absolute;      /* On sort le tag du flux naturel du texte */
+    top: 50%;                /* On le place au milieu verticalement */
+    right: 10px;             /* Collé à droite (laisser 10px pour la pointe de la flèche) */
+    transform: translateY(-50%); /* Ajustement pour le centrer parfaitement en hauteur */
+    margin: 0;               /* On retire les marges du mode PC qui gênaient */
+  }
+  
+  .dnd-stats-row { padding: 5px 0; }
+
+  /* Tags plus compacts */
+  .class-card-tags { margin-bottom: 5px; }
+  
+  /* On réduit la taille des tags eux-mêmes */
+  .flip-card-tag {
+    font-size: 13px;
+    line-height: 22px;
+    top: -2.5px;
+  }
+  .flip-card-tag::before { top: 8px; } /* Ajustement du petit rond */
+  .flip-card-tag::after { height: 16px; width: 16px; right: -8px; } /* Ajustement de la pointe */
+
+  /* Description : Très courte */
+  .class-card-desc {
+    font-size: 0.6rem;
+    line-height: 1.4;
+    -webkit-line-clamp: 2; /* On coupe après 2 lignes seulement */
+    margin-bottom: 5px;
+  }
+
+  /* 7. FOOTER : Minimaliste */
+  .class-card-footer {
+    margin: 0; /* Collé au body */
+    padding: 8px 15px 12px 15px;
+    background: transparent;
+    border-top: none;
+    border-radius: 0;
+    box-shadow: none;
+    text-align: left; /* Alignement à gauche ou droite selon préférence */
+  }
+
+  /* Bouton plus petit */
+  .dnd-btn {
+    font-size: 0.75rem;
+    padding: 4px 10px;
+  }
+}
