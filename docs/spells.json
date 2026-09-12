@@ -9002,6 +9002,31 @@
         "description": "Lorsque vous lancez ce sort, trois tentacules d'eau apparaissent autour de votre corps pendant la durée du sort. Pendant l'action que vous utilisez pour lancer ce sort, et pour une action bonus pendant vos prochains tours jusqu'à ce que le sort se termine, vous pouvez ordonner à l'un de ces tentacules de Saisir une créature de taille G ou inférieure que vous pouvez voir à 30 ft. La cible doit réussir un jet de sauvegarde de Force ou être [[Saisi|saisie]] et [[Retenu|retenue]] par le tentacule. A la fin de chacun de ses tours, une cible retenue peut répéter le jet de sauvegarde.\n\nVous pouvez Saisir autant de créatures que vous avez de tentacules. Vous pouvez utiliser une action ou une action bonus pendant votre tour pour libérer une créature ou pour la traîner de jusqu'à 20 ft. dans la direction choisie.\n\nVous pouvez également utiliser les tentacules pour manipuler les objets comme action ou action bonus. Chaque tentacule peut soulever jusqu'à 50 kg et vous pouvez ordonner à plusieurs tentacules de travailler ensemble pour soulever un même objet. Les tentacules ne sont pas capables de contrôles précis -- par exemple, ils ne peuvent pas ouvrir un coffre. Les objets en train de brûler sont éteints lorsqu'un tentacule les saisit.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous gagnez un tentacule supplémentaire par niveau d'emplacement au-delà du niveau 4.\n",
         "path": "04/Tentacules Aquatiques"
     },
+    "Fléau Élémentaire": {
+        "level": "4",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "90 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Elemental Bane",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Occultiste",
+            "Artificier",
+            "Magicien"
+        ],
+        "description": "Choisissez une créature que vous pouvez voir à portée ainsi que l'un des types de dégâts suivants : acide, froid, feu, foudre ou tonnerre. La cible doit réussir un jet de sauvegarde de Constitution ou être affectée par ce sort pendant la durée. La première fois chaque tour que la cible affectée subit des dégâts du type choisi, la cible subit 2d6 dégâts supplémentaires de ce type. De plus, la cible perd toute résistance à ce type qu'elle aurait jusqu'à ce que le sort se termine.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 5 ou plus, vous pouvez cibler une créature supplémentaire par niveau d'emplacement au-delà du niveau 4. Les créatures doivent se trouver à 30 ft. l'une de l'autre lorsque vous les ciblez.\n",
+        "path": "04/Fléau Élémentaire"
+    },
     "Fabrication": {
         "level": "4",
         "school": "Transmutation",
@@ -11883,6 +11908,32 @@
         "description": "Vous prononcez quelques mots impies et invoquez des démons depuis le chaos des Abysses. Tirez dans la table suivante pour déterminer ce qui apparaît.\n\n| d6 | Démons Invoqués |\n| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |\n| 1-2 | Deux [démons](https://www.dndbeyond.com/monsters?filter-type=0&filter-search=&filter-cr-min=1&filter-cr-max=5&filter-armor-class-min=&filter-armor-class-max=&filter-average-hp-min=&filter-average-hp-max=&filter-is-legendary=&filter-is-mythic=&filter-has-lair=&filter-sub-types=9) de FD 1 ou moins |\n| 3-4 | Quatre [démons](https://www.dndbeyond.com/monsters?filter-type=0&filter-search=&filter-cr-min=1&filter-cr-max=4&filter-armor-class-min=&filter-armor-class-max=&filter-average-hp-min=&filter-average-hp-max=&filter-is-legendary=&filter-is-mythic=&filter-has-lair=&filter-sub-types=9) de FD 1/2 ou moins |\n| 5-6 | Huit [démons](https://www.dndbeyond.com/monsters?filter-type=0&filter-search=&filter-cr-min=1&filter-cr-max=3&filter-armor-class-min=&filter-armor-class-max=&filter-average-hp-min=&filter-average-hp-max=&filter-is-legendary=&filter-is-mythic=&filter-has-lair=&filter-sub-types=9) de FD 1/4 ou moins |\n\nLe MJ choisit les démons et vous choisissez les espaces inoccupés dans lesquels ils apparaissent, espaces que vous pouvez voir à portée. Un démon invoqué disparaît lorsqu'il tombe à 0 point de vie ou que le sort se termine.\n\nLes démons sont hostiles envers toutes les créatures, même vous. Tirez l'initiative pour les démons en tant que groupe, qui possède son propre tour. Les démons poursuivent et attaquent les créatures non-démons les plus proches.\n\nEn lançant ce sort, vous pouvez dessiner un cercle sur le sol avec le sang utilisé comme composante matérielle. Le cercle est suffisamment large pour entourer votre espace. Jusqu'à ce que le sort se termine, les démons invoqués ne peuvent ni traverser le cercle ni le blesser et ils ne peuvent cibler personne qui se trouverait à l'intérieur. Utiliser la composante matérielle de cette manière la consomme lorsque le sort se termine.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 6 ou 7, vous pouvez invoquer le double de démons. Si vous le lancez en utilisant un emplacement de sort de niveau 8 ou 9, vous pouvez en invoquer le triple.",
         "path": "03/Convocation de Démon Inférieur"
     },
+    "Flèches Enflammées": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Heure",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Flame Arrows",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Druide",
+            "Ranger",
+            "Ensorceleur",
+            "Artificier",
+            "Magicien"
+        ],
+        "description": "Vous touchez un carquois contenant des flèches ou des carreaux. Lorsqu'une cible est touchée par une attaque armée à distance une munition tirée de ce carquois, la cible subit 1d6 dégâts de feu supplémentaires. La magie de ce sort se termine sur la munition lorsque celle-ci touche ou rate et le sort se termine lorsque 12 munitions ont été tirées du carquois.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, le nombre de munitions que vous pouvez affecter avec ce sort augmente de 2 par niveau d'emplacement au-delà du niveau 3.\n",
+        "path": "03/Flèches Enflammées"
+    },
     "Bourrasque Défensive": {
         "level": "3",
         "school": "Abjuration",
@@ -11958,6 +12009,28 @@
         ],
         "description": "Lorsque vous lancez ce sort, vous présentez la gemme utilisée comme composante de ce sort et choisissez n'importe quel nombre de créatures à portée qui peuvent vous voir. Chaque cible doit réussir un jet de sauvegarde de Sagesse ou être [[charmé|charmée]] pour vous jusqu'à ce que le sort se termine, ou jusqu'à ce que vous ou vos compagnons n'agissiez de façon hostile envers elle. Tant qu'elle est [[charmé|charmée]] de cette façon, la cible ne peut rien faire si ce n'est utiliser son mouvement pour s'approcher de façon sûre. Tant qu'une créature affectée se trouve à 5 ft. de vous, elle ne peut pas bouger, mais fixe avec convoitise la gemme que vous tenez.\n\nÀ la fin de chacun de ses tours, une créature affectée peut réaliser un jet de sauvegarde de Sagesse. Si elle réussit, l'état se termine pour elle.\n",
         "path": "03/Encourager l'Avarice"
+    },
+    "Flèche de Foudre": {
+        "level": "3",
+        "school": "Transmutation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Lightning Arrow",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ranger"
+        ],
+        "description": "La prochaine fois que vous effectuez une attaque armée à distance pendant la durée du sort, la munition, ou l'arme elle-même si c'est une arme de jet, se transforme en un trait d'éclair. Effectuez l'attaque normalement. La cible subit 4d8 dégâts de foudre si vous touchez et la moitié si vous ratez, au lieu des dégâts normaux de l'arme.\n\nQue vous touchiez ou ratiez, chaque créature à 10 ft. de la cible doit effectuer un jet de sauvegarde de Dextérité. Chacune de ces créatures subit 2d8 dégâts de foudre en cas d'échec et la moitié en cas de succès.\n\nLa munition ou l'arme redevient ensuite sous sa forme normale.\n\n__Aux Niveaux Supérieurs.__ Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou plus, les dégâts des deux effets augmentent de 1d8 par niveau d'emplacement au-delà du niveau 3.",
+        "path": "03/Flèche de Foudre"
     },
     "Malédiction de l’Œil Rouge": {
         "level": "3",
