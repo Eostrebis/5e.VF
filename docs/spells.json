@@ -2961,6 +2961,30 @@
         "description": "Vous suppliez une entité d'outre-monde pour son aide. L'entité doit vous être connue : un dieu, un primordial, un prince démon ou un autre être au pouvoir cosmique. L'entité envoie un Céleste, un Élémentaire ou un Fiélon qui lui est loyal pour vous aider, la faisant apparaître sur un emplacement non occupé à portée. Si vous connaissez le nom exact d'une créature, vous pouvez prononcer son nom lorsque vous lancez le sort pour solliciter cette créature, bien que cela ne garantisse rien.\n\nLorsque la créature apparaît, elle n'est sous aucune obligation particulière de comportement. Vous pouvez demander à la créature de vous rendre un service contre paiement, mais rien ne l'y oblige. La tâche demandée peut aller du simple (vous transporter par delà le ravin ou aider dans une bataille) au complexe (espionner des ennemis ou vous protéger pendant une excursion en donjon). Vous devez être capable de communiquer avec la créature pour négocier ses services.\n\nLe paiement peut prendre une multitude de formes. Un céleste pourrait requérir un large don en or ou objets magiques à un temple allié, tandis qu'un fiélon demanderait plutôt un sacrifice vivant ou une offrande de trésor. Certaines créatures échangent leurs services contre des quêtes qu'elles vous confient.\n\nEn règle générale, une tâche qui peut être effectuée en minutes demande un paiement d'environ 100 po la minute. Une tâche qui nécessite plusieurs heures requiert 1 000 po de l'heure. Enfin, une tâche qui s'étale sur plusieurs jours (jusqu'à 10 jours) exige 10 000 po par jour. Le MJ peut ajuster ces paiements en fonction des circonstances dans lesquelles vous lancez le sort. Si la tâche est alignée avec l'ethos de la créature, le paiement peut se voir diviser par deux ou même annuler. Les tâches non dangereuses ne demandent généralement que la moitié du montant de paiement suggéré, tandis que celles particulièrement dangereuses demandent de bien plus grandes offrandes. Les créatures n'acceptent que rarement les tâches qui semblent suicidaires.\n\nAprès que la créature a complété la tâche, ou lorsque la durée agrée du service expire, la créature retourne sur son plan d'origine après vous avoir fait un rapport, si cela est approprié pour la tâche et possible. Si vous n'arrivez pas à un accord sur le prix du service avec la créature, elle retourne immédiatement sur son plan d'origine.\n\nUne créature recrutée pour rejoindre votre groupe compte comme membre à part entière, recevant sa part des points d'expérience reçus.\n",
         "path": "06/Allié Planaire"
     },
+    "Festin des Héros": {
+        "level": "6",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un bol incrusté de gemmes d'une valeur d'au moins 1000 po, que le sort consomme",
+        "Duree": "Instantanée",
+        "Incantation": "10 Minutes",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Heroe's Feast",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Barde",
+            "Clerc",
+            "Druide"
+        ],
+        "description": "Vous conjurez un immense banquet, comprenant de formidables mets et boissons. Le festin requiert 1 heure pour être consommé et disparaît à la fin de ce temps. De même les effets bénéfiques du festin ne prennent effet qu'à la fin de cette période. Jusqu'à 12 créatures peuvent prendre part au festin.\n\nUne créature qui prend part au festin bénéficie de plusieurs effets. Cette créature est soignée de toutes les maladies et de tous les poisons, devient immunisée au poison ainsi qu'à l'état [[apeuré]] et effectue ses jets de sauvegarde de Sagesse avec avantage. Ses points de vie maximum sont également augmentés de 2d10 et elle gagne autant de points de vie. Ses effets persistent pendant 24 heures.\n",
+        "path": "06/Festin des Héros"
+    },
     "Sarcophage Maudit": {
         "level": "6",
         "school": "Nécromancie",
@@ -8610,6 +8634,29 @@
         "description": "Vous touchez un objet en pierre d'une taille M ou inférieure ou une section de pierre pas plus grande que 5 ft. dans toutes les dimensions et la déformer dans une forme qui sied à votre objectif. Par exemple, vous pourriez reformer une large roche en une arme, une idole, un coffre ou y creuser un petit passage, tant que ce passage n'est pas profond de plus de 5 ft. Vous pouvez aussi manier une porte de pierre ou son encadrement pour la fermer et la verrouiller. L'objet que vous créez peut avoir jusqu'à deux gonds et un loquet, mais il est impossible de créer des mécanismes plus détaillés.\n",
         "path": "04/Façonnage de la Pierre"
     },
+    "Fidèle Molosse": {
+        "level": "4",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un petit sifflet en argent, un bout d'os et un fil",
+        "Duree": "8 Heures",
+        "Incantation": "1 Action",
+        "Portee": "30 ft.",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Faithful Hound",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Artificier",
+            "Magicien"
+        ],
+        "description": "Vous invoquez un chien de garde fantomatique dans un espace inoccupé que vous pouvez voir à portée, où il reste pendant la durée du sort, jusqu'à ce que vous le dissipiez ou que vous ne vous déplaciez à plus de 100 ft. de lui.\n\nLe molosse est [[invisible|invisible]] à toutes les créatures autres que vous et ne peut être blessé. Lorsqu'une créature de taille P ou supérieure pénètre à 30 ft. de lui sans d'abord prononcer le mot de passe que vous spécifiez à l'incantation, le molosse se met à aboyer violemment. Le molosse peut voir les créatures [[invisible|invisibles]] et peut percevoir dans le Plan Éthéré. Il ignore également les illusions.\n\nAu début de chacun de vos tours, le molosse essaye de mordre une créature à 5 ft. de lui qui vous est hostile. Le bonus d'attaque du molosse est égal à votre modificateur de caractéristique d'incantation + votre bonus de maîtrise. S'il touche, il inflige 4d8 dégâts perçants.\n",
+        "path": "04/Fidèle Molosse"
+    },
     "Coffre Secret": {
         "level": "4",
         "school": "Conjuration",
@@ -12122,6 +12169,28 @@
         ],
         "description": "Dans le cadre de l'action utilisée pour lancer ce sort, vous devez réaliser une attaque armée de mêlée contre une créature ou un lieu à portée du sort. Selon le type de dégâts infligés par l'arme, le sort a une zone d'effet différente :\n\n- **Tranchants.** Un croissant d'énergie jaillit de l'attaque, et chaque créature dans un cône de 20 ft. dans la direction de la cible doit effectuer un jet de sauvegarde de Dextérité.\n\n- **Perforants.** Un rayon d'énergie pure émane de l'attaque, et chaque créature sur une ligne de 60 ft. de long et 5 ft. de large doit effectuer un jet de sauvegarde de Dextérité.\n\n- **Contondants.** Une énergie explosive émane de l'attaque, et chaque créature autre que vous à moins de 10 ft. de la cible doit effectuer un jet de sauvegarde de Dextérité.\n\nLes créatures qui échouent à leur jet de sauvegarde subissent 2d10 dégâts radiants, sont repoussées de 10 ft. et tombent [[Au Sol]]. Une créature qui a été touchée par votre attaque a un désavantage à son jet de sauvegarde.\n\n**Aux Niveaux Supérieurs.** Lorsque vous lancez ce sort en utilisant un emplacement de sort de niveau 4 ou supérieur, les dégâts radiants augmentent de 1d10 pour chaque niveau d'emplacement au-delà du niveau 3.\n",
         "path": "03/Assaut Omnipotent"
+    },
+    "Faim d'Hadar": {
+        "level": "3",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Un tentacule de poulpe mariné",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action",
+        "Portee": "150 ft.",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Hunger of Hadar",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Occultiste"
+        ],
+        "description": "Vous ouvrez un portail vers les ténèbres entre les étoiles, une région infestée des pires horreurs. Une sphère de 20 ft. de rayon d'obscurité et froid intense apparaît, centrée sur un point à portée, et persiste pendant la durée du sort. Le vide est rempli d'une cacophonie de faibles chuchotements et de bruits de déglutitions qui peuvent être entendus à jusqu'à 30 ft. Aucune lumière, magique ou non, ne peut illuminer la zone, et les créatures qui s'y trouvent sont [[aveuglé|aveuglées]].\n\nLe vide crée une déchirure dans la fabrique de l'espace et la zone devient du terrain difficile. Toute créature qui commence son tour dans la zone subit 2d6 dégâts de froid. Toute créature qui y termine son tour doit effectuer un jet de sauvegarde de Dextérité ou subir 2d6 dégâts d'acide alors que des tentacules laiteux et étrangers se frottent à elle.\n",
+        "path": "03/Faim d'Hadar"
     },
     "Communication à Distance": {
         "level": "3",
