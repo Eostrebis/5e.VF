@@ -2679,6 +2679,31 @@
         "description": "Vous et jusqu'à huit créatures consentantes à portée projetez vos corps astraux dans le Plan Astral (le sort rate et l'incantation est gâchée si vous vous trouvez déjà sur ce plan). Votre corps matériel reste derrière et est [[Inconscient]] et dans un état d'animation suspendue; il n'a pas besoin de nourriture ou d'air, et ne vieillit pas.\n\nVotre corps astral ressemble à votre forme mortelle sur quasiment toutes les facettes, répliquant vos caractéristiques et possessions. La principale différence est l'addition d'un cordon argenté émanant de vos épaules et traînant derrière vous, disparaissant après 30 cm. Ce cordon est votre attache à votre corps matériel. Tant que cette attache demeure intacte, vous pouvez retrouvez votre chemin. Si le cordon est coupé -- quelque chose qui ne se passe que quand un effet le dit explicitement -- votre âme et votre corps sont séparés, vous tuant sur le coup.\n\nVotre forme astrale peut voyager librement à travers le Plan Astral et peut utiliser les portails menant vers d'autres plans. Si vous entrez un nouveau plan ou retournez dans le plan dont vous venez, votre corps et vos possessions sont transportés le long du cordon argenté, vous permettant de reprendre votre corps en entrant dans le plan. Votre forme astrale est une incarnation séparée. Tout dégâts ou effet qui s'y appliquent n'ont aucun effet sur votre corps physique, et n'y sont pas transférés lorsque vous y retournez.\n\nLe sort finit pour vous et vos compagnons lorsque vous utilisez une action pour le dissiper. Lorsque le sort se termine, les créatures affectées retournent à leurs corps physiques et se réveille.\n\nLe sort peut aussi se terminer plus tôt pour vous ou l'un de vos compagnons. Une [[Dissipation de la Magie]] réussie utilisée contre un corps astral ou physique termine le sort pour cette créature. Si le corps originel ou la forme astrale d'une créature tombe à 0 point de vie, le sort se termine pour cette créature. Si le sort se termine et que le cordon argenté est intact, le cordon tire la forme astrale de la créature jusqu'à son corps, terminant l'état d'animation suspendue.\n\nSi vous retournez dans votre corps de façon prématurée, vos compagnons restent dans leurs formes astrales, et doivent trouver leur propre moyen pour revenir à leurs corps, généralement en tombant à 0 point de vie.",
         "path": "09/Projection Astrale"
     },
+    "Fin des Temps": {
+        "level": "9",
+        "school": "Conjuration",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "Une sphère d'obsidienne de la taille d'un cœur humain d'une valeur d'au moins 1000 po",
+        "Duree": "24 Heures",
+        "Incantation": "10 Minutes",
+        "Portee": "15 kilomètres",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "End of Days",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Clerc",
+            "Occultiste",
+            "Magicien",
+            "Sorcière"
+        ],
+        "description": "Lorsque vous lancez ce sort, vous invoquez une massive sphère de ténèbres magiques bien au-dessus du monde qui se déplace en phase parfaite avec le lever et le coucher du soleil. En pratique, il fait toujours nuit dans la portée de ce sort et toute lumière naturelle qui devrait être diffusée vers la zone est bloquée par la sphère. La composante matérielle utilisée pour ce sort doit être placée en un point où le ciel est clairement visible et si elle est déplacée de plus de 5 ft. dans n'importe quelle direction, le sort se termine immédiatement.\n",
+        "path": "09/Fin des Temps"
+    },
     "Apocalypse": {
         "level": "9",
         "school": "Évocation",
@@ -4249,6 +4274,31 @@
         ],
         "description": "Un humanoïde de votre choix que vous pouvez voir à portée doit réussir un jet de sauvegarde de Sagesse ou être [[charmé]] par vous pendant la durée du sort. Tant que la cible est [[charmé|charmée]] de cette façon, une couronne de fer brisé apparaît sur sa tête et la folie brille dans ses yeux.\n\nLa cible [[charmé|charmée]] doit utiliser son action avant de se déplacer à chacun de ses tours pour réaliser une attaque de mêlée contre une créature autre qu'elle-même que vous choisissez mentalement. La cible peut agir normalement à chacun de ses tours si vous ne choisissez aucune créature ou qu'il n'y en a aucune à portée.\n\nPendant les tours suivants, vous devez utiliser votre action pour maintenir votre contrôle sur la cible, ou le sort se termine. De plus, la cible peut réaliser un jet de sauvegarde de Sagesse à la fin de chacun de ses tours pour terminer l'effet.\n",
         "path": "02/Couronne du Dément"
+    },
+    "Flamme Éternelle": {
+        "level": "2",
+        "school": "Évocation",
+        "Verbal": "true",
+        "Somatique": "true",
+        "Materiel": "true",
+        "detailmat": "De la poussière de rubis d'une valeur de 50 po, que le sort consomme",
+        "Duree": "Jusqu'à dissipation",
+        "Incantation": "1 Action",
+        "Portee": "Contact",
+        "Concentration": "false",
+        "Rituel": "false",
+        "englishname": "Continual Flame",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Artificier",
+            "Clerc",
+            "Druide",
+            "Magicien"
+        ],
+        "description": "Une flamme, équivalente en luminosité avec une torche, émane d'un objet que vous touchez. L'effet semble être celui d'une flamme somme toute classique mais ne crée aucune chaleur ni ne consomme d'oxygène. Une flamme éternelle peut être couverte ou cachée mais ne peut pas être étouffée ou éteinte.\n",
+        "path": "02/Flamme Éternelle"
     },
     "Aura Magique de Nystul": {
         "level": "2",
