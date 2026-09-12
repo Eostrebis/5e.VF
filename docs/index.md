@@ -36,7 +36,7 @@ search:
 > - **Tisserand.** ![](https://geps.dev/progress/100) 
 
 
-**Sorts.** 518/789 ![](https://geps.dev/progress/65)
+**Sorts.** 519/788 ![](https://geps.dev/progress/65)
 
 > [!INFO]- Sorts traduits par niveau
 > - **Cantrips.** 83 
@@ -44,7 +44,7 @@ search:
 > - **2.** 72 
 > - **3.** 70 
 > - **4.** 49 
-> - **5.** 44 
+> - **5.** 45 
 > - **6.** 32 
 > - **7.** 15 
 > - **8.** 20 
@@ -61,8 +61,8 @@ search:
 
 **Historiques.** 0/1 ![](https://geps.dev/progress/0)
 
-**Nombre Total de Mots.** 433609 (soit ~ 1734 pages) (soit ~ 0.9 Seigneur des Anneaux)
+**Nombre Total de Mots.** 433812 (soit ~ 1735 pages) (soit ~ 0.9 Seigneur des Anneaux)
 
 En cas de problème à signaler : <a href="mailto:issue@eostrebis.fr">issue@eostrebis.fr</a>
 
-Mis à jour pour la dernière fois le 2026-09-12 09:21:41
+Mis à jour pour la dernière fois le 2026-09-12 09:33:29
