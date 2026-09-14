@@ -3909,6 +3909,29 @@
         "description": "Vous ressentez la présence de pièges à portée qui se trouvent dans votre ligne de vue.\n\nUn piège, en ce qui concerne ce sort, correspond à tout ce qui pourrait infliger des effets inattendus ou soudains considérés comme indésirables ou nocifs, qui sont prévus et pensés par le concepteur du piège. Ainsi, le sort peut sentir la zone concernée par un sort d'[[alarme]], un [[glyphe de protection]] ou un piège à piques mécaniques, mais ne révélera pas une faiblesse du sol, un plafond instable ou autre. \n\nLe sort ne fait que révéler la présence d'un piège. Vous n'apprenez pas la localisation de chaque piège mais vous apprenez la nature générale des dangers posés par les pièges que vous ressentez.\n",
         "path": "02/Détection de Pièges"
     },
+    "Flux Magique": {
+        "level": "2",
+        "school": "Abjuration",
+        "Verbal": "true",
+        "Somatique": "false",
+        "Materiel": "false",
+        "detailmat": "",
+        "Duree": "1 Minute",
+        "Incantation": "1 Action Bonus",
+        "Portee": "Personnelle",
+        "Concentration": "true",
+        "Rituel": "false",
+        "englishname": "Spell Flux",
+        "writing_status": "finished",
+        "zone": "none",
+        "damage": "none",
+        "available": [
+            "Ensorceleur",
+            "Magicien"
+        ],
+        "description": "Vous invoquez une masse d'énergie instable qui sert de garde à votre main. Vous bénéficiez d'une couverture de moitié contre les attaques et effets de dégâts que vous pouvez voir, mais ne vous pouvez utiliser cette main que pour réaliser des composantes somatiques jusqu'à ce que le sort termine.\n\nSi une attaque à distance vous touche, vous pouvez décharger votre flux magique comme réaction, déviant l'attaque. Effectuez une attaque de sort à distance ciblant une créature de votre choix à 30 ft. Si vous touchez, la cible subit les dégâts et effets de l'attaque originale. Une fois que vous avez fait ceci, le sort termine.\n",
+        "path": "02/Flux Magique"
+    },
     "Sens animal": {
         "level": "2",
         "school": "Divination",
