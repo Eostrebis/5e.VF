@@ -1,4 +1,4 @@
-
+carotte
 ## Afflux Sauvage
 
 Au niveau 3, l'énergie magique qui bouillonne en vous a parfois tendance à érupter. Lorsque vous entrez en rage, tirez sur la table de Magie Sauvage pour déterminer l'effet produit.
