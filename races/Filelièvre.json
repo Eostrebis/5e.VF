@@ -1,0 +1,53 @@
+{
+  "ability_improvements": "DEX +2, SAG +1",
+  "type": "Humanoïde",
+  "languages": [
+    {
+      "type": "fix",
+      "value": "Commun"
+    },
+    {
+      "type": "fix",
+      "value": "Sylvain"
+    }
+  ],
+  "speed": {
+    "walk": 30
+  },
+  "size": ["S", "M"],
+  "features": [
+    {
+      "name": "Lever un Lièvre",
+      "level": 1,
+      "description": "Vous pouvez ajouter votre bonus de maîtrise à vos jets d'initiative."
+    },
+    {
+      "name": "Sens Léporins",
+      "level": 1,
+      "description": "Vous maîtrisez la compétence Perception.",
+      "proficiency": {
+        "type": "fix",
+        "category": "skill",
+        "values": ["perception"]
+      }
+    },
+    {
+      "name": "Jeu de Jambes Chanceux",
+      "level": 1,
+      "description": "Lorsque que vous ratez un jet de sauvegarde de Dextérité, vous pouvez utiliser votre réaction pour lancer un d4 et l'ajouter au jet de sauvegarde, le transformant potentiellement en succès. Vous ne pouvez pas utiliser cette réaction si vous êtes au sol ou avec une vitesse de 0."
+    },
+    {
+      "name": "Bond de Lapin",
+      "level": 1,
+      "description": "Pour une action bonus, vous pouvez sauter un nombre de ft. égal à cinq fois votre bonus de maîtrise, sans provoquer d'attaques d'opportunité. Vous ne pouvez utiliser ce trait que si votre vitesse est non nulle. Vous pouvez utiliser ce trait un nombre de fois égal à votre bonus de maîtrise, et vous récupérez toutes les utilisations en terminant un repos long.",
+      "trackers": [
+        {
+          "name": "Bond de Lapin",
+          "type": "stat.mod",
+          "count": "PB",
+          "reset": "LR"
+        }
+      ]
+    }
+  ]
+}
