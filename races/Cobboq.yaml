@@ -1,0 +1,71 @@
+id: "race_cobboq"
+name: "Cobboq"
+type: "humanoid"
+size: "small"
+
+speed:
+  walk: 25
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["DEX","CHA"]]
+
+languages: ["common", "avian"]
+weapons: []
+armors: []
+skills: []
+
+
+features:
+  - id: "cobboq_linguistics"
+    name: "Langage & Accent"
+    description: "Vous parlez le Commun et une autre langue adaptée de votre choix. De plus, vous comprenez l'Aviaire mais votre accent et votre parler vous rendent difficilement compréhensible par les autres races."
+    short_description: "Votre Aviaire est difficle à comprendre"
+    logic:
+      type: "choice"
+      result: "language"
+      count: 1
+      pool: "all_languages"
+  - id: "winged_communion"
+    name: "Communion avec les Peuples Ailés"
+    description: "Vous avez la capacité de communiquer de façon limitée avec les bêtes et monstruosités à plumes. Ces créatures peuvent comprendre le sens de vos mots, mais vous n'avez aucune aptitude à les comprendre en retour. Vous avez l'avantage à tous les jets que vous faites pour les influencer."
+    short_description: "Communication avec les créatures à plume. Avantage aux jets pour les influencer"
+    logic:
+      type: "stat_bonus_conditional"
+      target: "skill_checks"
+      attribute: "cha"
+      value: "advantage"
+      condition: "target_is_feathered_beast_or_monstrosity"
+  - id: "cackle_creed"
+    name: "Crédo du Caquet"
+    description: "Après avoir réussi une attaque de mêlée, vous pouvez utiliser votre action bonus pour vous Désengager."
+    short_description: "Si touche mêlée -> Action Bonus pour Désengager"
+    logic:
+      type: "action"
+      activation_type: "bonus_action"
+      condition: "melee_hit"
+      result: "disengage"
+  - id: "feathered"
+    name: "Plumé"
+    description: "Vos os légers et votre panache de plumes réduit l'impact de la gravité ; vous ne prenez que la moitié des dégâts de chute."
+    short_description: "Résistance aux dégâts de chute"
+    logic:
+      type: "damage_multiplier"
+      source: "falling"
+      value: 0.5
+  - id: "gallus_domesticus"
+    name: "Gallus Domesticus"
+    description: "Vous pouvez lancer le sort métamorphose sur vous-même avec ce trait, en utilisant le Charisme comme caractéristique d'incantation. Lorsque vous utilisez cette version du sort, vous prenez toujours la forme d'un Très Petit Poulet. Une fois que vous avez lancé ce sort, vous ne pouvez le relancer avec ce trait avant d'avoir terminé un repos long."
+    short_description: "Transformation en poulet, une fois par repos long"
+    logic:
+      type: "grant_spell"
+      spell_id: "polymorph"
+      spellcasting_ability: ["CHA"]
+      recharge: "long_rest"
+      target_restriction: "self"
+      form_restriction: "chicken_tiny"
+  - id: "headless_chicken"
+    name: "Poulet Sans-Tête"
+    description: "Lorsque vous tombez à 0 point de vie, mais pas tué sur le coup, vous ne tombez pas immédiatement inconscient. À la place, vous pouvez immédiatement vous déplacer de jusqu'à votre vitesse sans provoquer d'attaque d'opportunité. Vous tombez alors inconscient comme si vous aviez été réduit à 0 point de vie dans l'espace où vous avez fini votre déplacement."

@@ -1,0 +1,54 @@
+id: "race_centaur"
+name: "Centaure"
+type: "fey"
+size: "medium"
+
+speed:
+  walk: 40
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["STR","WIS"]]
+
+languages: ["common", "sylvan"]
+weapons: []
+armors: []
+skills: []
+
+features:
+  - id: "natural_affinity_centaur"
+    name: "Affinité Naturelle"
+    description: "Votre connexion féerique à la nature vous confère un rapport intuitif au monde naturel et aux animaux qui y habitent. Ainsi, vous maitrisez une compétence parmi les suivantes : Dressage, Médecine, Nature ou Survie."
+    logic:
+      type: "choice"
+      result: "proficiency"
+      count: 1
+      options: ["animal_handling", "medicine", "nature", "survival"]
+  - id: "equine_build"
+    name: "Carrure Équine"
+    description: "Vous êtes considéré comme étant d'une taille supérieure à votre taille réelle lorsque vous déterminez le poids que vous pouvez porter/tirer/déplacer.\n\nDe plus, escalader en utilisant vos mains et pieds est particulièrement difficile pour vous à cause de vos jambes de cheval. Ainsi, lorsque vous réalisez une telle action, chaque case de mouvement vous coûte 20 ft. supplémentaires au lieu des 5 ft. habituels."
+    short_description: "Capacité x2 pour porter/tirer/déplacer ; Coût Escalade x4"
+    logic:
+      type: "stat_multiplier"
+      target: "carrying_capacity"
+      value: 2
+  - id: "hooves_centaur"
+    name: "Sabots"
+    description: "Vous avez des sabots que vous pouvez utiliser pour réaliser des attaques à mains nues. Lorsque vous touchez avec, l'attaque inflige 1d6 + votre modificateur de Force dégâts contondants plutôt que les dégâts habituels d'une attaque non-armée."
+    short_description: "Arme naturelle (1d6 + {STR.mod} contondants)"
+    logic:
+      type: "natural_weapon"
+      damage: "1d6"
+      damage_type: "bludgeoning"
+      stat: "str"
+  - id: "charge_centaur"
+    name: "Charge"
+    description: "Si vous vous déplacez d'au moins 30 ft. en ligne droite vers une cible et la touchez avec une attaque armée de mêlée pendant le même tour, vous pouvez suivre cette attaque par une action bonus pour réaliser une seule attaque supplémentaire contre cette cible en utilisant vos sabots."
+    short_description: "Déplacement de 30 ft. en ligne puis attaque -> action bonus pour sabots"
+    logic:
+      type: "action"
+      activation_type: "bonus_action"
+      condition: "move_30ft_straight AND melee_hit"
+      effect_call: "hooves_centaur"
