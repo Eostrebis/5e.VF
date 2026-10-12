@@ -7,7 +7,7 @@ writing_status: wip
 
 ### Création Rapide
 
-Vous pouvez créer un %classe rapidement en suivant ces suggestions. Commencez par faire de la %stat1 votre caractéristique principale, suivie %stat2. Choisissez l'historique de votre choix.
+Vous pouvez créer un magicien rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution ou de la Dextérité. Si vous planifiez de rejoindre l'[[École d'Enchantement]] ou la tradition de la [[Chantelame]], utilisez plutôt le Charisme comme caractéristique secondaire. Ensuite, choisissez l'historique de [[sage]]. Enfin, choisissez les cantrips [[main de mage]], [[lumière]] et [[rayon de givre]], ainsi que les sorts de niveau 1 suivants : [[mains brûlantes]], [[charme-personne]], [[feuille morte]], [[armure de mage]], [[projectiles magiques]] et [[sommeil]].
 
 | **Le Magicien** |                   |                                               |                 | Sorts  |        |        |        |        |        |        |        |        |
 | --------------- | ----------------- | --------------------------------------------- | --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
