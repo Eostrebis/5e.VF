@@ -1,0 +1,43 @@
+id: "race_changeling"
+name: "Changelin"
+type: "fey"
+size: ["medium", "small"]
+
+speed:
+  walk: 30
+
+senses: []
+
+asi:
+  points: [[2,1],[1,1,1]]
+  advice: [[2,1],["CHA","DEX"]]
+
+languages: ["common"]
+weapons: []
+armors: []
+skills: []
+
+features:
+  - id: "extra_languages_changeling"
+    name: "Langage Supplémentaire"
+    description: "Vous parlez le Commun et une langue de votre choix"
+    logic:
+      type: "choice"
+      result: "language"
+      count: 1
+      pool: "all_languages"
+  - id: "changeling_instincts"
+    name: "Instincts Changelins"
+    description: "Grâce à votre connexion à la Féerie, vous maîtrisez deux des compétences suivantes : Intimidation, Perspicacité, Persuasion, Représentation ou Tromperie."
+    logic:
+      type: "choice"
+      result: "proficiency"
+      count: 2
+      options: ["intimidation", "persuasion", "insight", "performance", "deception"]
+  - id: "shapechanger"
+    name: "Changeforme"
+    description: " Pour une action, vous pouvez changer votre apparence et votre voix. Vous déterminez les détails de ce changement, comme la couleur et la longueur des cheveux, et le genre. Vous pouvez également adapter votre taille et votre poids, et votre taille peut changer entre les catégories Petite et Moyenne. Vous pouvez vous faire apparaître comme un membre d'une autre race, même si aucune caractéristique de jeu ne changera. Vous ne pouvez pas dupliquer l'apparence d'un individu que vous n'avez jamais vu, et vous devez absolument choisir une nouvelle forme qui a la même structure squelettique que la vôtre. Vos vêtements et équipements ne sont pas modifiés par ce trait.\n\nVous restez dans cette nouvelle forme jusqu'à ce que vous utilisiez une action pour revenir à votre vraie forme, ou que vous mourriez."
+    short_description: "Action pour changer d'apparence (entre P et M possible)"
+    logic:
+      type: "action"
+      description: "Se transformer ou revenir à sa forme réelle"
