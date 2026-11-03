@@ -1,13 +1,34 @@
 ---
-writing_status: wip
+writing_status: finished
 ---
+Drapée dans des robes argentées qui attestent son rang, une elfe ferme les yeux pour s’isoler du vacarme du champ de bataille et entame une douce incantation. Esquissant de savants gestes des doigts, elle achève son sortilège et projette une minuscule bille incandescente vers les lignes adverses, où celle-ci explose en un brasier qui submerge les soldats.
 
-## Créer un Magicien
+Vérifiant et revérifiant son tracé, un humain dessine à la craie un délicat cercle magique à même le sol dallé, puis en saupoudre chaque ligne et chaque volute de limaille de fer. Une fois le tracé terminé, il récite une longue incantation. Une brèche s’ouvre alors dans l'espace au centre du cercle, libérant une âcre odeur de soufre venue d’un autre plan.
 
+Accroupi à la croisée des couloirs d’un donjon, un gnome jette une poignée d’osselets gravés de symboles mystiques et prononce sur eux quelques paroles de pouvoir. Fermant les paupières pour mieux distinguer ses visions, il acquiesce d'un hochement de tête, rouvre les yeux et désigne le couloir de gauche.
 
+Les magiciens sont les maîtres absolus des arcanes, unis au sein d’une même classe par les sortilèges qu’ils façonnent. Tirant leur puissance de la subtile toile mystique qui imprègne le cosmos, ils déchaînent des déflagrations incandescentes, des arcs d'éclairs foudroyants, de fines illusions ou la contrainte brutale des esprits. Leur magie permet d'invoquer des créatures venues d’autres plans, de sonder l’avenir ou de réanimer les dépouilles ennemies sous forme de morts-vivants. Leurs formules les plus redoutables transmutent la matière, font s'abattre des météores ou percent des portails vers d’autres mondes.
+
+## Érudits des Arcanes
+
+Sauvage, énigmatique et infinie dans ses formes comme dans ses fonctions, la puissance magique attire à elle ceux qui brûlent d'en percer les mystères. Certains ambitionnent de devenir des demi-dieux et de remodeler la réalité même. Bien que l’accomplissement d’un sort ne réclame souvent que la diction de quelques mots singuliers, de gestes précis et parfois d'une pincée d'ingrédients exotiques, ces composantes superficielles ne sont que la part visible d'une maîtrise forgée au fil d'années d'apprentissage et d'innombrables heures d'étude.
+
+Les magiciens vivent et meurent pour leurs grimoires. Tout le reste est accessoire. Ils découvrent de nouveaux sorts par la pratique et l’accumulation d’expérience, mais peuvent aussi les apprendre auprès de leurs pairs, en déchiffrant d'anciens écrits ou au contact de créatures féeriques versées dans la magie.
+
+## L’Attrait du Savoir
+
+L'existence d'un magicien est rarement ordinaire. Ce qui se rapproche le plus d'un quotidien paisible consiste à officier comme sage ou précepteur dans une bibliothèque ou une université, enseignant aux novices les secrets du multivers. D'autres monnaient leurs talents comme devins, s’enrôlent dans les armées ou mènent une existence vouée au crime et à la domination.
+
+Cependant, l’attrait de la connaissance et de la puissance arrache même les plus sédentaires à la quiétude de leurs laboratoires pour les mener vers des ruines oubliées et des cités enfouies. La plupart sont convaincus que les mages des civilisations antiques détenaient des secrets aujourd'hui égarés, et que lever le voile sur ces mystères leur ouvrira la voie vers une puissance bien supérieure à celle de leur temps.
+
+## Créer un magicien
+
+Concevoir un personnage de magicien suppose de lui forger un passé marqué par au moins un événement hors du commun. Comment votre personnage a-t-il été initié aux arcanes ? Comment avez-vous découvert vos prédispositions ? Étiez-vous doué d'un talent inné, ou avez-vous simplement étudié avec une rigueur acharnée ? Avez-vous rencontré une créature fabuleuse, ou découvert un vieux grimoire qui vous a enseigné les bases de l'art ?
+
+Qu'est-ce qui vous a arraché à vos études ? Ce premier aperçu du savoir mystique a-t-il simplement aiguisé votre faim ? Avez-vous obtenu des indices menant à un sanctuaire de connaissances inviolé ? À moins que vous ne brûliez simplement d'éprouver vos nouveaux pouvoirs face au danger du monde réel.
 ### Création Rapide
 
-Vous pouvez créer un magicien rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution ou de la Dextérité. Si vous planifiez de rejoindre l'[[École d'Enchantement]] ou la tradition de la [[Chantelame]], utilisez plutôt le Charisme comme caractéristique secondaire. Ensuite, choisissez l'historique de [[sage]]. Enfin, choisissez les cantrips [[main de mage]], [[lumière]] et [[rayon de givre]], ainsi que les sorts de niveau 1 suivants : [[mains brûlantes]], [[charme-personne]], [[feuille morte]], [[armure de mage]], [[projectiles magiques]] et [[sommeil]].
+Vous pouvez créer un magicien rapidement en suivant ces suggestions. Commencez par faire de l'Intelligence votre caractéristique principale, suivie de la Constitution ou de la Dextérité. Si vous prévoyez de rejoindre l'[[École d'Enchantement]] ou la tradition de la [[Chantelame]], utilisez plutôt le Charisme comme caractéristique secondaire. Ensuite, choisissez l'historique de [[sage]]. Enfin, choisissez les cantrips [[main de mage]], [[lumière]] et [[rayon de givre]], ainsi que les sorts de niveau 1 suivants : [[mains brûlantes]], [[charme-personne]], [[feuille morte]], [[armure de mage]], [[projectiles magiques]] et [[sommeil]].
 
 | **Le Magicien** |                   |                                               |                 | Sorts  |        |        |        |        |        |        |        |        |
 | --------------- | ----------------- | --------------------------------------------- | --------------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
@@ -31,11 +52,11 @@ Vous pouvez créer un magicien rapidement en suivant ces suggestions. Commencez 
 | 17              | +6                |                                               | 5               | 4      | 3      | 3      | 3      | 2      | 1      | 1      | 1      | 1      |
 | 18              | +6                | [[#Maîtrise des Sorts]]                       | 5               | 4      | 3      | 3      | 3      | 3      | 1      | 1      | 1      | 1      |
 | 19              | +6                | [[#Augmentation de Caractéristiques]]         | 5               | 4      | 3      | 3      | 3      | 3      | 2      | 1      | 1      | 1      |
-| 20              | +6                | [[#Sorts Signature]]]                         | 5               | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
+| 20              | +6                | [[#Sorts Fétiches]]                           | 5               | 4      | 3      | 3      | 3      | 3      | 2      | 2      | 1      | 1      |
 
 # Aptitudes de Classe
 
-En tant que Magicien, vous disposez des aptitudes de classes suivantes.
+En tant que Magicien, vous disposez des aptitudes de classe suivantes.
 
 ### Points de Vie
 
@@ -76,27 +97,27 @@ Au niveau 1, vous connaissez trois cantrips de votre choix de la liste de sorts 
 
 ### Grimoire
 
-Au niveau 1, vous avez un grimoire qui contient 6 sorts de magicien de niveau 1 de votre choix. Votre grimoire est le répertoire des sorts de magicien que vous connaissez, à part les cantrips qui sont fixés dans votre esprit. 
+Au niveau 1, vous avez un grimoire qui contient 6 sorts de magicien de niveau 1 de votre choix. Votre grimoire est le recueil des sorts de magicien que vous connaissez, à part les cantrips qui sont fixés dans votre esprit. 
 
-Les sorts que vous ajoutez à votre grimoire au fur et à mesure de vos niveaux reflètent les recherches arcaniques que vous réalisez de vous-même, ainsi que les découvertes intellectuelles que vous effectuez sur la nature même du mutltivers. Vous pouvez également trouver d'autres sorts pendant vos aventures. Vous pouvez par exemple découvrir un sort enregistré sur un parchemin dans le coffre d'un magicien maléfique ou dans un ancien tome dans une antique bibliothèque.
+Les sorts que vous ajoutez à votre grimoire au fur et à mesure de vos niveaux reflètent les recherches arcaniques que vous réalisez de vous-même, ainsi que les découvertes intellectuelles que vous effectuez sur la nature même du multivers. Vous pouvez également trouver d'autres sorts pendant vos aventures. Vous pouvez par exemple découvrir un sort enregistré sur un parchemin dans le coffre d'un magicien maléfique ou dans un ancien grimoire dans une antique bibliothèque.
 
 __Copier un Sort dans le Grimoire.__ Lorsque vous trouvez un sort de magicien de niveau 1 ou plus, vous pouvez l'ajouter à votre grimoire s'il est d'un niveau pour lequel vous avez des emplacements et si vous avez le temps de le déchiffrer et le copier.
 
-Copier un sort dans votre grimoire requiert de reproduire la forme basique du sort, puis d'en déchiffrer le système de notation unique utilisé par le magicien pour l'écrire. Vous devez ensuite vous entraîner avec le sort afin de comprendre les gestes ou paroles nécessaires. Enfin, vous pouvez le recopier dans votre grimoire en utilisant votre propre système de notation.
+Copier un sort dans votre grimoire requiert de reproduire la forme élémentaire du sort, puis d'en déchiffrer le système de notation unique utilisé par le magicien pour l'écrire. Vous devez ensuite vous entraîner avec le sort afin de comprendre les gestes ou paroles nécessaires. Enfin, vous pouvez le recopier dans votre grimoire en utilisant votre propre système de notation.
 
 Pour chaque niveau du sort, ce processus prend 2 heures et 50 po de matières premières. Ce coût représente aussi bien les composantes matérielles que vous dépensez en essayant de comprendre le sort que l'encre coûteuse nécessaire à ce type d'écriture. Une fois que vous avez dépensé ce temps et cet argent, vous pouvez préparer ce sort comme tous les autres.
 
-__Remplacer un Grimoire.__ Vous pouvez copier un sort de votre propre grimoire dans un autre, par exemple si vous souhaitez réaliser une copie de secours de votre grimoire. Cela fonctionne comme pour ajouter un nouveau sort dans votre grimoire, mais plus rapide et moins coûteux étant donné que vous comprenez déjà la notation et savez déjà comment lancer le sort. Ainsi, recopier un sort de cette manière vous requiert 1 heure de votre temps ainsi que 10 pièces d'or par niveau du sort.
+__Remplacer un Grimoire.__ Vous pouvez copier un sort de votre propre grimoire dans un autre, par exemple si vous souhaitez réaliser une copie de secours de votre grimoire. Cela fonctionne comme pour ajouter un nouveau sort dans votre grimoire, mais plus rapide et moins coûteux étant donné que vous comprenez déjà la notation et savez déjà comment lancer le sort. Ainsi, recopier un sort de cette manière vous requiert 1 heure de travail ainsi que 10 pièces d'or par niveau du sort.
 
 Si vous perdez votre grimoire, vous pouvez utiliser la même procédure pour retranscrire les sorts que vous avez préparés dans un nouveau grimoire. Remplir le reste du grimoire vous demande néanmoins de retrouver des nouveaux sorts et/ou parchemins. Ainsi, beaucoup de magiciens gardent une copie de leur grimoire en lieu sûr.
 
-__Apparence du Grimoire.__ Votre grimoire est une compilation unique de sorts, rempli de décorations et de notes à la marge. Il peut tout aussi bien être un simple volume en cuir reçu de votre maître, un tome aux fioritures dorées trouvé au fond d'une antique bibliothèque ou une chaotique collection de notes que vous avez réunies après avoir perdu votre précédent grimoire.
+__Apparence du Grimoire.__ Votre grimoire est une compilation unique de sorts, rempli de décorations et de notes à la marge. Il peut tout aussi bien être un simple volume en cuir reçu de votre maître, un ouvrages aux fioritures dorées trouvé au fond d'une antique bibliothèque ou une chaotique collection de notes que vous avez réunies après avoir perdu votre précédent grimoire.
 
 ### Préparer et Lancer des Sorts
 
 La table du Magicien vous montre de combien d'emplacements de sort vous disposez pour lancer des sorts de magicien de niveau 1 ou plus. Afin de lancer l'un de ces sorts, vous devez dépenser un emplacement de sort du niveau du sort ou supérieur. Vous regagnez tous les emplacements de sort dépensés lorsque vous terminez un repos long.
 
-Vous préparez une liste de sort de magicien qui vous sont disponibles à l'incantation. Pour ce faire, choisissez un nombre de sorts de magicien de votre grimoire égal à votre modificateur d'Intelligence + votre niveau de magicien (au moins 1). Les sorts que vous choisissez doivent être d'un niveau pour lequel vous possédez au moins un emplacement de sort.
+Vous préparez une liste de sorts de magicien disponibles à l'incantation. Pour ce faire, choisissez un nombre de sorts de magicien de votre grimoire égal à votre modificateur d'Intelligence + votre niveau de magicien (au moins 1). Les sorts que vous choisissez doivent être d'un niveau pour lequel vous possédez au moins un emplacement de sort.
 
 Vous pouvez changer la liste de sorts préparés lorsque vous terminez un repos long. Préparer une nouvelle liste de sorts de magicien requiert un temps passé à étudier votre grimoire et mémoriser les incantations au moins égal à 1 minute par niveau de sort pour chaque sort de votre liste.
 
@@ -112,7 +133,7 @@ L'Intelligence est votre caractéristique d'incantation pour vos sorts de magici
 
 ### Incantation Rituelle
 
-Vous pouvez lancer un sort en tant que rituel à condition qu'il ait l'annotation `rituel` et que vous l'ayez dans votre grimoire. Vous n'avez pas besoin que le sort ne soit préparé.
+Vous pouvez lancer un sort en tant que rituel à condition qu'il ait l'annotation `rituel` et que vous l'ayez dans votre grimoire. Vous n'avez pas besoin que le sort soit préparé.
 
 ### Focalisateur d'Incantation
 
@@ -163,12 +184,12 @@ Lorsque vous atteignez le niveau 4, et encore au niveau 8, 12, 16, et 19, vous p
 
 ## Maîtrise des Sorts
 
-Au niveau 18, vous êtes parvenu à avoir la maîtrise totale sur certains sorts que vous pouvez lancer à volonté. Choisissez un sort de magicien de niveau 1 et un de niveau 2, tous deux dans votre grimoire. Vous pouvez lancer ces sorts à leur niveau le plus bas sans dépenser d'emplacement de sort si vous les avez préparés. Si vous souhaitez lancer l'un de ces sorts à un niveau supérieur, vous devez utiliser un emplacement de sort comme normalement.
+Au niveau 18, vous êtes parvenu à avoir la maîtrise totale sur certains sorts que vous pouvez lancer à volonté. Choisissez un sort de magicien de niveau 1 et un de niveau 2, tous deux dans votre grimoire. Vous pouvez lancer ces sorts à leur niveau le plus bas sans dépenser d'emplacement de sort si vous les avez préparés. Si vous souhaitez lancer l'un de ces sorts à un niveau supérieur, vous devez utiliser un emplacement de sort comme à l'accoutumée.
 
 En passant 8 heures à étudier, vous pouvez échanger l'un et/ou l'autre de ces sorts avec un autre du même niveau.
 
-## Sorts Signature
+## Sorts Fétiches
 
-Lorsque vous atteignez le niveau 20 de cette classe, vous êtes parvenu à un état de maîtrise totale sur deux sorts puissants et pouvez les lancer à moindres efforts. Choisissez deux sorts de niveau 3 de votre grimoire comme vos sorts signature. Ces sorts sont toujours préparés pour vous, ne comptent pas dans le nombre de sorts que vous pouvez préparer et vous pouvez chacun le lancer une fois sans dépenser d'emplacement. Lorsque vous le faites, vous ne pouvez le refaire avant d'avoir terminé un repos.
+Lorsque vous atteignez le niveau 20 de cette classe, vous êtes parvenu à un état de maîtrise totale sur deux sorts puissants et pouvez les lancer à moindres efforts. Choisissez deux sorts de niveau 3 de votre grimoire comme vos sorts fétiches. Ces sorts sont toujours préparés pour vous, ne comptent pas dans le nombre de sorts que vous pouvez préparer et vous pouvez lancer chacun d'eux une fois sans dépenser d'emplacement. Lorsque vous le faites, vous ne pouvez le refaire avant d'avoir terminé un repos.
 
-Si vous souhaitez lancer l'un de ces sorts à un niveau supérieur, vous devez utiliser un emplacement de sort comme habituellement.
+Si vous souhaitez lancer l'un de ces sorts à un niveau supérieur, vous devez utiliser un emplacement de sort comme à l'accoutumée.
